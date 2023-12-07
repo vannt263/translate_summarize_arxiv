@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "cube diagrams , introduced in baldridge and lowrance  @xcite , are 3-dimensional representations of knots or links .",
+    "we define cube diagrams carefully in section 3 .",
+    "the easiest way to imagine a cube diagram is to think of an embedding of a knot or link in a @xmath0\\times [ 0,n]\\times [ 0,n]$ ] cube ( using @xmath1 coordinates ) for some positive integer @xmath2 such that the knot projection of the cube to each axis plane ( @xmath3 , @xmath4 , and @xmath5 ) is a grid diagram .",
+    "the integer @xmath2 is called the _ size _ of the cube diagram and we will refer to a cube diagram as `` small '' if its size is close to the crossing number of the knot .",
+    "small cube diagrams are very useful for computing and testing for knot invariants using computers  calculating certain invariants of cube diagrams with size @xmath6 can be computationally intractable for most computers . in this paper",
+    "we discuss why small cube diagrams can be elusive to find for a given knot or link and we give examples of small cube diagrams ( @xmath7 ) for knots with seven crossings or less .",
+    "in particular , the appendix gives pictures of the cube diagrams we have generated .",
+    "a mathematica program @xcite can be downloaded from ` http://cubeknots.googlecode.com ` that can be used to calculate invariants of cube diagrams and also to rotate in 3-dimensions the examples in this paper .",
+    "grid diagrams and cube diagrams are useful representations in knot theory . in 1996",
+    "cromwell used grid diagrams as ways to represent embeddings of knots in open books ( c.f .",
+    "he described a set of elementary grid moves that preserve topological knot type that can be used to check for knot invariants .",
+    "more recently grid diagrams were used in constructing a combinatorial version of knot floer homology ( c.f . @xcite and @xcite ) and they provide a natural presentation of the front projection of a legendrian knot ( c.f . @xcite and @xcite ) .",
+    "cube diagrams share many similarities with grid diagrams . like grid diagrams ,",
+    "there is set of elementary cube moves that preserve the knot type and there is a combinatorial knot floer homology that can be computed from a cube diagram @xcite .",
+    "however , cube diagrams have also appeared independent of grid diagrams in the study of unstable vassiliev theory @xcite .",
+    "in order to find small cube diagrams , it is important to understand how they are different from grid diagrams . in this section",
+    "we discuss the problem of lifting a grid diagram to a cube diagram .",
+    "a grid diagram @xmath8 is an @xmath9 square grid decorated with @xmath10 and @xmath11 markings in such a way that every row ( resp .",
+    "column ) contains exactly one @xmath10 and one @xmath11 marking . to get an oriented knot or link projection from a grid diagram one draws edges from @xmath10 to @xmath11 in each column and from @xmath11 to @xmath10 in each row , taking the vertical segment as the over crossing at any intersection ( cf .",
+    "@xcite ) .",
+    "since each of the three projections of a cube diagram is a grid diagram , it is natural to think of a cube diagram as a lift of a grid diagram of one of the three projections .",
+    "such a lift is clearly not unique .",
+    "what is not obvious is that many times such lifts do not exist : a given grid diagram does not necessarily lift to an embedding of a knot or link in a lattice in an @xmath12 cube such that the projection to each plane is a well - defined knot projection ( it can lift to an embedding , but the intersections in the other two projections are not necessarily isolated double points ) . for an example of a grid diagram that can not be the projection of such a lattice knot see @xcite .",
+    "the lifting problem to a true cube diagram is harder than just finding a lift of a grid diagram in 3-space such that the other two projections are valid knot projections .",
+    "even when a grid diagram does lift to such an embedding , that embedding is rarely a cube diagram and the chances that a grid diagram lifts to a cube diagram appears to decrease as the grid size increases . to support this assertion we wrote a brute - force program to get statistics on grid diagrams that lift to cube diagrams .",
+    "the program looked at all size @xmath13 grid diagrams and tested whether each grid diagram was a nontrivial knot ( we did not consider links ) and whether each grid diagram lifted to a cube diagram .",
+    "the data for grid diagrams for nontrivial knots are presented below ."
+  ],
+  "abstract_text": [
+    "<S> in this short note we highlight some of the differences between cube diagrams and grid diagrams . </S>",
+    "<S> we also list examples of small cube diagrams for all knots up to 7 crossings and give some examples of links . </S>"
+  ]
+}

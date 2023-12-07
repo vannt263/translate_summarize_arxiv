@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "due to their large masses , heavy flavor ( @xmath2 and @xmath3 ) quarks are produced in the early stages of heavy ion collisions @xcite .",
+    "a precise measurement of heavy flavor production could be achieved by identifying the decay of charmed mesons using direct topological reconstruction and thus disentangling the @xmath2 and @xmath3 contributions .",
+    "the hft has the necessary resolution for such a measurement that requires high precision .",
+    "it is the assembly of the existing silicon strip detector ( ssd ) and 2 new detecting devices : the intermediate silicon tracker ( ist ) and the pixel detector .",
+    "the pixel is composed by 2 layers of monolithic cmos active pixel sensors @xcite which measure with great accuracy the position of a particle within a few centimeters of the interaction region .",
+    "these very thin layers minimize the multiple coulomb scaterring .",
+    "the intermediate tracking system is made by the ist and the existing ssd ( table [ tab : fit - res ] ) .",
+    "the purpose of the ist and the ssd is to link tracks found in the star time projection chamber ( tpc ) to the pixel detector .",
+    ".characteristics of each silicon layer of the hft[tab : fit - res ] [ cols=\"^,^,^,^,^,^ \" , ]",
+    "simulations presented in this proceedings were performed using the full star geometry package with 10k auau hijing central events at @xmath4 = 200 gev embedded with @xmath5 and @xmath6 particles , forced to decay to their hadronic channels ( @xmath5@xmath7@xmath8@xmath9 , @xmath6@xmath7@xmath8@xmath10 ) .",
+    "their reconstruction efficiencies are based on particle identification of daughter particles provided by the tpc and extended to higher @xmath0 with the time of flight detector ( tof ) : @xmath11-@xmath12 and ( @xmath11+@xmath12)-@xmath13 separations were done up to @xmath0 @xmath14 1.6 gev / c and @xmath0 @xmath14 3 gev / c , respectively .",
+    "topological cuts have been also applied to the @xmath5 candidates .",
+    "the effect of _ out of time _",
+    "events is included in the pixel simulation at a rate corresponding to rhic - ii luminosity .",
+    ", title=\"fig:\",scaledwidth=28.0% ] , title=\"fig:\",scaledwidth=28.0% ] , title=\"fig:\",scaledwidth=28.0% ]    figures [ fig : keytest ] show the statistical error projections for the key measurements with the hft in 500 m minimum bias auau collisions .",
+    "[ fig : keytest](left ) is the flow parameter @xmath15 , shown for two extreme scenarios [ charm quark flow equal to light quark flow ( red circles ) and charm quark does not flow ( green triangles ) ]",
+    ". the hft will be able to distinguish with great accuracy these 2 cases .",
+    "figure [ fig : keytest](middle ) shows the suppression factor @xmath16 of @xmath5 : the hft will be able to measure it directly for @xmath0 @xmath14 10 gev / c via the hadronic channel thus avoiding the indirect method using non - photonic electrons .",
+    "a measurement of @xmath6 is important to perform since the @xmath6/@xmath5 ratio may be enhanced , indicating a similar pattern to the baryon / meson ratio involving light quarks in the intermediate @xmath0 region @xcite .",
+    "two scenarios are investigated for the @xmath6/@xmath5 ratio @xcite : no enhancement and same enhancement as @xmath17/@xmath18 .",
+    "we see from fig .",
+    "[ fig : keytest](right ) that the statistical errors are sufficiently small , making a measurement of baryon / meson ratio in charm sector with good precision in heavy ion collisions .",
+    "the hft , by using low mass cmos sensors , will be able to directly reconstruct charm hadrons over a large momentum range and , thus , study flow and energy loss of heavy flavor particles .",
+    "several physics capabilities such as baryon / meson ratio in the charm sector have been studied .",
+    "00 z. lin and m. gyulassy , _ phys .",
+    "c _ * 77 * ( 1996 ) 1222 .",
+    "e. anderssen et al . , _ a heavy flavor tracker for star _ ( http://www.osti.gov/bridge/servlets/purl/939892-be12up/939892.pdf ) .",
+    "s. h. lee et al . , _ phys .",
+    "* 100 * ( 2008 ) 222301 .",
+    "j. kapitan , _ eur .",
+    "j. c _ * 62 * ( 2009 ) 217 - 221 ."
+  ],
+  "abstract_text": [
+    "<S> the hft , a new inner tracking detector for star , aims to measure the charmed hadron nuclear modification factor as well as their elliptic flow to the low @xmath0 region ( @xmath10.5 gev / c ) by measuring the displaced vertices of charmed particles . </S>"
+  ]
+}

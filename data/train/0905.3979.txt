@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "there is an ongoing discussion on the structure issue of mesons such as for instance the possible existence of hadronic molecules in the meson sector . in particular mesons lying slightly below a threshold",
+    "are good candidates for meson - meson bound states . in the following we use a framework which allows for a consistent and fully gauge invariant analysis of hadronic bound states .",
+    "in addition , the method considers finite size effects which arise due to the extended structure of hadronic molecules .    in the first part we concentrate on the radiative decays of the scalars @xmath0 and @xmath1 within a @xmath2 bound state assignment  @xcite . in the second part",
+    "we extend our calculations by possible candidates for a molecular structure with open charm and strangeness which are the scalar @xmath5 -a possible @xmath6 bound state- and the axial @xmath4 lying close to @xmath7 threshold . here",
+    "we study the weak decays with a second hadronic molecule in the final state , the @xmath0  @xcite .",
+    "in the present approach mesons lying close to a threshold are assumed to be pure hadronic molecules .",
+    "in particular we assign @xmath8 ( @xmath9 ) , @xmath10 and @xmath11 , where @xmath12 and @xmath13 represent the isospin doublets ( see @xcite ) .    the basic element of our model is provided by the nonlocal lagrangian describing the coupling of the hadronic molecule @xmath14 to the respective constituent mesons @xmath15 and @xmath16 + @xmath17 with @xmath18 and the coupling constant @xmath19 .",
+    "finite size effects are considered by the vertex function @xmath20 . in momentum space",
+    "we use a gaussian form @xmath21 with the size parameter @xmath22 = 0.7 - 1.3 gev .",
+    "provided that the decay amplitude is free of uv divergences we also compute the local limit , where @xmath23 simulates point - like interaction .    a self - consistent description of bound states is given by the compositeness condition @xcite , where we realize a composite object by setting its renormalization constant @xmath24 to zero .",
+    "@xmath25 is characterized by the derivative of the mass operator @xmath26 allowing for a consistent determination of the coupling @xmath19 .",
+    "electromagnetic interaction is included by minimal substitution . in case of nonlocal lagrangians ( [ eq : l ] )",
+    "we write @xmath27m_{1,2}^\\pm(y)$ ]  @xcite which results in additional diagrams contributing to the radiative decays ( see e.g. fig .",
+    "[ fig:1 ]  c ) ) . in the hadronic molecule picture",
+    "all decays proceed via intermediate constituents , here by kaon loops .",
+    "the coupling of the kaons to the vectors @xmath28 is given by the standard lagrangian + @xmath29 with @xmath30 fixed by @xmath31 symmetry relations .",
+    "our results for the two photon decays and the decays with a final vector meson are summarized in tabs .",
+    "[ tab:1 ] and  [ tab:2 ] .    .decay",
+    "widths @xmath32 in kev .",
+    "[ cols=\"<,<,^,^ , < , < \" , ]",
+    "the present qft approach for hadronic molecules based on the weinberg condition obeys lorentz covariance and gauge invariance .",
+    "it provides a consistent determination of production and decay properties .",
+    "the model includes finite size effects controlled by the size parameters @xmath22 .",
+    "the electromagnetic decay and production properties are in good agreement with data .",
+    "further on we extended our formalism to weak transitions between hadronic molecules which could possibly test the molecular structure as well .",
+    "+ * acknowledgments * + this work was supported by the dfg under contract no .",
+    "fa67/31 - 1 , no .",
+    "fa67/31 - 2 , and no .",
+    "this research is also part of the european community - research infrastructure integrating activity `` study of strongly interacting matter '' ( hadronphysics2 , grant agreement no .",
+    "227431 ) and of the president grant of russia `` scientific schools '' no .",
+    "t.b . would like to thank the organizing committee of the panic 08 for the financial support ."
+  ],
+  "abstract_text": [
+    "<S> we discuss the hadronic molecule issue in the light and heavy meson sector . </S>",
+    "<S> thereby we use the radiative decays of the scalars @xmath0 and @xmath1 to study its possible molecular @xmath2 structure . </S>",
+    "<S> further on we extend our formalism to mesons with open charm and strangeness , @xmath3 and @xmath4 , whose hadronic molecule interpretation is analyzed in weak decays with @xmath0 in the final state .    </S>",
+    "<S> ,    hadronic molecules , weak decays , electromagnetic decays , light , charm and bottom mesons 13.25.ft,13.25.hw,14.40.lb,14.40.nd </S>"
+  ]
+}

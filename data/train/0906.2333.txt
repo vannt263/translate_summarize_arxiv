@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "]    ]    ]    ]    ]    ]    the figures show for each adsorbate / transition metal surface combination the ordered structures that were reported , and in which paper they were reported .",
+    "the indication of the paper consists of the last name of the first author , combined with the last two digits of the year it was published in .",
+    "the full reference is listed in the references section .",
+    "representations of ordered structures of co on pt(100 ) , rh(100 ) , ni(100 ) , cu(100 ) and pd(100 ) can be found in the figures 15 .",
+    "the representation of the ordered structure of no on rh(100 ) can also be found in figure 6 .",
+    "representations of ordered structures of no on pt(100 ) can be found in @xcite .",
+    "no representations of ordered structures of no on ni(100 ) were found during this review .",
+    "no representations of ordered structures of no on cu(100 ) were found during this review .",
+    "representations of ordered structures of no on pd(100 ) can be found in @xcite .",
+    "comments or suggestions for improvement of this document are welcome .",
+    "additional references are appreciated .",
+    "june 11th , 2009 , version 1.0 ."
+  ],
+  "abstract_text": [
+    "<S> many ordered adlayer structures have been reported for co on the ( 100 ) surfaces of pt , rh , pd , ni and cu . </S>",
+    "<S> also , some ordered structures are known for no on the same surfaces . </S>",
+    "<S> the current review includes all those articles that give a graphical representation of the position of the adsorbates inside the unit cell . </S>",
+    "<S> the emphasis is on the case of co on pt(100 ) and rh(100 ) , but also structures are included for adsorption on the ( 100 ) surface of other transition metals , as well as references for the case of no adsorption .    </S>",
+    "<S> pacs : 68.43.hn , 82.65.+r , 02.70.uu </S>"
+  ]
+}

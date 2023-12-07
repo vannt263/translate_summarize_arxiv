@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "in the higgs mechanism , higgs coupling is proportional to a particle mass .",
+    "for that reason , it is important to measure the higgs coupling to particle masses , i.e. higgs branching ratio , is important to confirm higgs mechanism and distinguish the standard model extensions .",
+    "especially , it is the most important program to measure the branching ratio of @xmath0  and @xmath1  at ilc @xcite with the excellent performance of the flavor tagging .",
+    "we have studied the measurement accuracy of higgs branching ratio at ilc by using @xmath3  events . in this paper",
+    ", we report the measurement accuracy of higgs branching ratio of @xmath0  and @xmath1 .",
+    "in this study , we used common generator samples in the ilc community for @xmath4 events and standard model backgrounds , which were prepared with witherd at slac @xcite . in this study ,",
+    "the higgs mass was assumed to be 120 gev .",
+    "we used the center of mass energy of @xmath2 gev and the integrated luminosity of 250 fb@xmath5 . here",
+    ", the beam energy spread was assumed as 0.3% for the electron and positron beam .",
+    "the beam polarization was set to 80% left - handed for the electron beam and 30% right - handed for the positron beam .",
+    "the signal and background events were simulated by the full simulator , mokka@xcite , where the detector model is ` ild_00 ` was implemented as the detector model @xcite .",
+    "hadronization was done by pythia6.409 , in which the higgs branching ratio is defined as shown in table [ tb : hbr ] for the higgs mass of 120 gev .",
+    "after the detector simulation , the reconstruction was performed by marlin@xcite .",
+    ".the higgs branching ratio defined in pythia6.409 . [ cols=\"<,>\",options=\"header \" , ]",
+    "measurement of higgs branching ratio is necessary to investigate higgs coupling to particle masses . especially , it is the most important program to measure the branching ratio of @xmath0  and @xmath1  at ilc .",
+    "we have studied the measurement accuracy of higgs branching ratio at ilc with @xmath2 gev by using @xmath3  events . for higgs mass of 120 gev and the integrated luminosity of 250 fb@xmath5",
+    ", we obtained the measurement accuracy of 1.1% and 13.7% for @xmath0  and @xmath1 , respectively , assuming that the cross section of @xmath4 is determined by other measurements .",
+    "finally , the relative branching ratio between @xmath0  and @xmath1  was obtained with 13.3% accuracy .",
+    "the authors would like to thank all the members of the ilc physics subgroup @xcite for useful discussions and ild optimization working group .",
+    "this study is supported in part by the creative scientific research grant no .",
+    "18gs0202 of the japan society for promotion of science",
+    ".    99 international linear collider reference design report , ilc global design effort and world wide study . http://ilcsoft.desy.de / portal / data_samples/. http://ilcsoft.desy.de / portal / software_packages / mokka/. http://www.ilcild.org . http://ilcsoft.desy.de / portal / software_packages / marlin/. s. catani , et al . , phys .",
+    "lett . b269 ( 1991 ) 179 ; + n. brown , w. j. stirling , z. phys .",
+    "c53 ( 1992 ) 629 .",
+    "thorsten kuhl and klaus desch , lc - phsm-2007 - 001 .",
+    "lcfivertex package reference manual , http://ilcsoft.desy.de / portal / software_packages / lcfivertex/. p. garcia - abia and w. lohmann , eur .",
+    "phys . j. direct c2 , 2 ( 2000 ) .",
+    "http://www - jlc.kek.jp / subg / physics / ilcphys/."
+  ],
+  "abstract_text": [
+    "<S> measurement of higgs branching ratio is necessary to investigate higgs coupling to particle masses . especially , it is the most important program to measure the branching ratio of @xmath0  and @xmath1  at the international linear collider ( ilc ) . </S>",
+    "<S> we have studied the measurement accuracy of higgs branching ratio at ilc with @xmath2 gev by using @xmath3  events . </S>",
+    "<S> we obtained the higgs branching ratio with 1.1% and 13.7% accuracy for @xmath0  and @xmath1 , respectively . </S>"
+  ]
+}

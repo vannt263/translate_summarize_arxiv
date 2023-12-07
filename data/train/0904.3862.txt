@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "a long time ago , beckenstein and mukhanov @xcite conjectured that the area spectrum of quantum black holes should be discrete and equispaced .",
+    "this was then confirmed by several authors using different approaches .",
+    "for example barvinsky et.al .",
+    "@xcite performed a collective coordinate quantisation of a classical black hole , obtaining a schrodinger eigenvalue equation for the black hole area spectrum , @xmath0 since the area operator @xmath1 has the form of the hamiltonian for a one dimensional simple harmonic oscillator , @xmath2 , the spectrum is discrete and equispaced .",
+    "the approach of ref.@xcite has the advantage of being quite general , independent of any microscopic model of the quantum black hole , see further discussion and references in ref.@xcite .",
+    "but one may then wonder if the result represents an approximate picture , with some fine structure having been averaged over .",
+    "let us investigate potential corrections to the above results using information - theoretic arguments .",
+    "it is known @xcite that the structure of the usual schrodinger equation may be motivated , starting from classical ensemble dynamics , using the maximum uncertainty ( entropy ) method @xcite .",
+    "the maximum uncertainty approach is used in many disciplines ; its basic philosophy being to minimise any bias ( maximise uncertainty ) when choosing probability distributions . in this approach the uncertainty is quantified by a measure which can be derived axiomatically ; the simplest such measure for the present context has the form of the fisher measure @xcite .",
+    "deformations of the fisher measure then lead to nonlinear generalisations of the schrodinger equation which presumably model effects of shorter distance physics .",
+    "in ref.@xcite it was argued that the kullback - liebler measure was the most natural generalisation of the fisher measure and the corresponding nonlinear schrodinger equation constructed .",
+    "mathematical properties of that equation have been investigated in several papers @xcite and it has also been used in the context of quantum cosmology where it was shown that the nonlinearity can help avoid big bang singularities in some simple cosmologies , replacing them with a bounce for the evolution of the universe @xcite .    using the nonlinear equation of ref.@xcite",
+    "one may determine corrections to the area spectrum ( [ lab ] ) .",
+    "for weak nonlinearity , the perturbative result is @xcite @xmath3 where @xmath4 is the simple harmonic oscillator quantum number and @xmath5 a free parameter .    how may one test the above suggested correction ?",
+    "well , the area of a quantum black hole has been investigated using the methods of loop quantum gravity ( lqg ) . in this nonperturbative approach to quantum gravity",
+    ", discreteness arises in the area and volume elements of space .",
+    "although the area spectrum is discrete , it is not equidistant , but the degeneracies are clustered and the spectrum is effectively equidistant @xcite . since the lqg approach seems to be revealing a fine structure not seen using the approach of ref.@xcite , one may speculate that the difference is due , to leading order , to the correction ( [ epx ] ) : that is , the distance between the peaks of the clusters deviates from equidistance by an amount given by eq.([epx ] ) . in principle",
+    "one may test this suggestion using the data of ref.@xcite but this has not yet been done .",
+    "if one further assumes that the entropy of the black hole is still proportional to its area , even with the perturbative correction ( [ epx ] ) , then the entropy of the black hole would be discrete but not equispaced , @xmath6 with the constant @xmath7 dependent on @xmath8 . indeed in ref.@xcite the entropy of black holes was calculated within lqg by counting quantum microstates and it was found to have an effective band structure , with also an approximately equidistant spacing .",
+    "however it was noticed that , for small black holes at least , the change in entropy increased as the black holes grew @xcite .",
+    "note that one may test the @xmath4 dependence in ( [ epx ] ) eventhough the parameter @xmath9 would need to be adjusted to fit the data .",
+    "furthermore one may differentiate the information - theoretically motivated nonlinearity from other nonlinearities because of the different @xmath4 dependence they predict @xcite .    in summary ,",
+    "an information - theoretic framework has been used to model the new physics that is generally believed to exist in the quantum gravity regime .",
+    "this approach was previously used to study the evolution of cosmologies near the big bang @xcite . in the present paper",
+    "a similar approach has been proposed for black holes .",
+    "there are some potentially interesting quantitative comparisons that remain to be performed between this approach and that of loop quantum gravity",
+    ". it would also be useful to obtain non - perturbative corrections to the spectrum ( [ lab ] ) due to the proposed nonlinearity , going beyond the perturbative calculation of ref.@xcite that yielded ( [ epx ] ) .",
+    "i thank the organisers for the opportunity to present this work and to saurya das for helpful correspondence ."
+  ],
+  "abstract_text": [
+    "<S> nonlinear corrections are proposed to the discrete equispaced area spectrum of quantum black holes obtained previously in some quantisation schemes . </S>",
+    "<S> it is speculated that such a modified spectrum might be related to the fine structure found using the loop quantum gravity approach . </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "in the recent years , the discovery of distant sources of vhe @xmath0-rays with hard energy spectra has successfully been used to constrain the density of the ebl.@xcite vhe @xmath0-rays interact with low energy photons from the ebl at ultraviolet ( uv ) to infrared ( ir ) wavelengths via the pair - production process and are effectively attenuated.@xcite with assumptions about the intrinsic spectrum emitted at the source upper limits on the ebl density can be derived .",
+    "recent paper@xcite , utilizing a maximum hardness of the intrinsic spectrum of @xmath3 . ] , found an ebl density close to or at the level of the lower limits .",
+    "lower limits on the ebl density can be derived from source counts in the uv to ir.@xcite the conversion from number counts to integrated ebl fluxes is not trivial , since the total flux from the sources has to be measured accurately and the incompleteness of the surveys has to be calculated and corrected for .",
+    "other factors include e.g. the cosmic variance and the intrinsic diversity of sources / galaxies .",
+    "recently , ref .",
+    "( lw08 ) calculated the total ebl density from galaxies in deep _ spitzer _",
+    "ir images at @xmath4 applying a monte carlo markov chain simulation , also accounting for the faint outer fringes of galaxies .",
+    "their derived values - @xmath5nwm@xmath6sr@xmath7 and @xmath8nwm@xmath6sr@xmath7 , depending on the algorithm used to extract the fluxes ( fig .",
+    "[ fig : ebl ] ) - are in excess of the previously derived lower limits@xcite and close to the values from direct measurements@xcite .",
+    "the consequences of higher ebl densities - possibly harder intrinsic spectra - have already been discussed e.g. in ref .",
+    "( kdi08 ) argued that for the vhe source 1es0229 + 200 ( @xmath9 ) , 1es1218 + 304 ( @xmath10 ) , 1es1101 - 232 ( @xmath11 ) such a high ebl density should always lead to intrinsic spectra harder than @xmath12 .",
+    "while the deviation of their result with @xmath2 is not large ( @xmath13 ) , we will show here that it is quite possible to construct an ebl density , including the higher density reported in lw08 , which results in intrinsic spectra with @xmath2 .",
+    "currently , there are more than 20 extragalactic vhe sources with measured spectra . for the method to derive ebl upper limit discussed in this paper ( maximum hardness ) only the most distant source with the hardest spectra are relevant.@xcite we will , therefore , only consider the spectra of the blazars 1es1101 - 232@xcite and 1es0229 + 200@xcite .",
+    "in addition , we will also show results for 1es1218 + 304@xcite to facilitate the comparison with the results from kdi08 .    for the ebl attenuation calculation",
+    "we follow the method described in ref .  : an arbitrary generic ebl density at @xmath14 is defined .",
+    "the ebl evolution is accounted for by adjusting the cosmological density scaling with a factor @xmath15 : @xmath16 .",
+    "this choice of @xmath17 has been shown to correctly reproduce the ebl density evolution up to @xmath18.@xcitewe assume a standard cosmology with @xmath19 , @xmath20 and @xmath21 .",
+    "the attenuation per spectrum bin is calculated through a weighted average over the bin size , assuming an intrinsic power - law spectrum with @xmath22 .",
+    "the ebl density used is modified version of the one presented in ref .   to account for the higher ebl density at @xmath23 m ( see fig .",
+    "[ fig : ebl ] ) .",
+    "the resulting intrinsic spectra are shown in fig .",
+    "[ fig : spectra ] and the fit results are given in tab .",
+    "all intrinsic spectra all well fitted with power laws with @xmath2 or larger .",
+    "[ ta1 ] also gives fit results for intrinsic spectra derived by varying parameters of the ebl density or the calculation .",
+    "the likely cause of the difference between the results in kdi08 and the ones presented here lies in the tested ebl shapes . as discussed in ref .",
+    ", the intrinsic spectrum crucially depends on the exact spectral form of the ebl density . here ,",
+    "especially the slope in the nir to mir is important .",
+    "in addition , accounting for the ebl density evolution result in a change in @xmath24 of the order of @xmath25 for @xmath26 . the utilized ebl density is low in the mid - ir around @xmath27 m , but still compatible with the lower limits",
+    ". it would be interesting to repeat the analysis of lw08 at these wavelengths .    .",
+    "in this paper we discussed the implication of the recent analysis of lw08 , reporting a higher ebl density at @xmath1 m , on the intrinsic vhe spectra of distant sources .",
+    "we find it is still possible to construct an ebl density which results in intrinsic vhe spectra with @xmath2 or larger , contrary to some recent conclusions ( kwi08 ) . while the disagreement is not large , the likely origin is the utilized ebl shape .",
+    "this demonstrates the need of testing a large amount of possible ebl density realization to derive limits on the ebl density .",
+    "further analysis of the ebl contribution from resolved sources at other wavelengths would be highly interesting .",
+    "m.  raue would like to thank d.  mazin for many fruitful discussions and f.  rieger for the careful reading of this manuscript .",
+    "this research has been supported by an lea fellowship and has made use of nasa s astrophysics data system ."
+  ],
+  "abstract_text": [
+    "<S> the discovery of distant sources of very high energy ( vhe ) @xmath0-rays with hard energy spectra enabled to derive strong upper limits on the density of the extragalactic background light ( ebl ) . </S>",
+    "<S> these limits are close to the lower limits derived from deep source counts . a recent re - determination of the ebl contribution from resolved sources at @xmath1 m finds a higher ebl density , which is claimed to be in conflict with the assumptions utilized to derive the ebl upper limits from vhe spectra . here , it is shown that is possible to recover the canonical @xmath2 intrinsic spectra for such a higher ebl density . </S>"
+  ]
+}

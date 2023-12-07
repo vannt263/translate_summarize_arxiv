@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "while great effort is expended on the experiments on which cosmic - ray science is based , not much attention has been given ( as far as we know ) to the collection of such data in a convenient format .",
+    "the result is that everyone makes their own compilation , which seems to us a waste of effort , also leading to possibly incomplete and/or error - prone values .",
+    "therefore we decided to initiate a simple database project for gcr measurements , with the idea that it would grow to become of real use to the community .",
+    "the project actually began while writing the review @xcite , which included a representative set of plots from the literature , but not in the uniform style which is now possible with this database .",
+    "we restrict our data to galactic cr at energies below about @xmath0 ev , excluding air - shower data ( which is beyond our scope but could be considered if supported by the relevant experts ) .",
+    "it includes nuclei - elemental and isotopic , electrons , positrons and antiprotons .",
+    "both flux spectra and ratios like b / c are supported .",
+    "the database is developed in association with the galprop code for which more details can be found in @xcite .",
+    "in many cases data are provided in published papers in the form of tables . in this case only a conversion of units to a standard form is required . in other cases only plots",
+    "are presented , in which case the authors are contacted for a tabular version , which has always been provided so far . the reference is included in the database , including a note on the form in which the data were obtained .",
+    "the experiments currently represented with data include : ace - cris , ams01 , atic1 + 2 , bess , bets , caprice , crn , fermi - lat , heao3 , heat , hess , imax , imp , jacee , mubee , pamela , ppb - bets , runjob , sanriku , sokol , tiger , voyager .",
+    "the format is simple ascii ( i.e. it is not a database in the technical sense ) .",
+    "results are grouped according to the reference used , identified by a character string , while the experiment is identified by another string .",
+    "entries contain the kinetic energy ( per nucleon for nuclei ) , units , a flag to indicate a flux or a ratio , error bars ( upper and lower if appropriate ) , z and a of the species , and comments .",
+    "elements are flagged as all a for a given z. up to 3 nuclei can be combined by a list of z and a. some flexibility in the units is allowed ( mev or gev , @xmath1 or m@xmath2 ) for convenience of checking against the original data used , but these are converted into user - required units by the software interface provided .",
+    "the volume of data is easily accomodated in a small file .",
+    "a c++ class is provided which allows spectra to be extracted for a given cr element or isotope , combination of species , or electrons , positrons or antiprotons . for ratios ,",
+    "the ` primary ' and ` secondary ' species must be specified ( including combinations like the sub - fe isotopes ) .",
+    "a python interface has also been provided , an example of a user s contribution to the project .",
+    "the data are maintained on the website http://www.mpe.mpg.de/@xmath3aws/propagate.html and via the galprop website .",
+    "updates are made as required , when new data becomes available or improvements are made .",
+    "changes are documented at the end of the file .",
+    "the forum on the galprop website includes a section related to this database .",
+    "the reaction so far from those who have made use of these data has been enthusiastic .",
+    "we intend to continue to add data , relying on users inputs to find errors , make suggestions for improvements and especially for new data .",
+    "while the ascii format is simple , more flexibility would be provided by a fits table , and this is foreseen as an alternative in future .",
+    "extension to higher energies will be considered .",
+    "suggestions are welcome .",
+    "i. v. moskalenko acknowledges support from nasa grant nnx09ac15 g ."
+  ],
+  "abstract_text": [
+    "<S> despite a century of cosmic - ray measurements there seems to have been no attempt to collect these data systematically for use by the cr community . </S>",
+    "<S> the result is that everyone makes their own collection as required , a large duplication of effort . </S>",
+    "<S> therefore we have started a project to place published galactic cr measurements in a database available online . </S>",
+    "<S> it currently addresses energies up to 100 tev , including elemental spectra , secondary / primary nuclei ratios , antiprotons , electrons and positrons . </S>",
+    "<S> it is updated regularly as data appears in the literature . </S>",
+    "<S> it is supported by access software . </S>",
+    "<S> the community is encouraged to participate by providing data , pointing out errors or omissions , and suggestions for improvements .    </S>",
+    "<S> data database measurements </S>"
+  ]
+}

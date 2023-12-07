@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the dynamical ages of the opposite lobes of 10 selected giant radio sources are estimated using the dynage algorithm of machalski et al .",
+    "( 2007 ) and compared with their spectral ages determined and studied by jamrozy et al .",
+    "the dynage algorithm is an extension of the analytical model for the evolution of frii type radio sources combining the dynamical model of kaiser & alexander ( 1997 ) with the model for expected radio emission from a source under the influence of energy loss processes published by kaiser , dennett - thrope , & alexander 1997 ; hereafter referred to as kda ) .",
+    "this algorithm allows to determine the values of four of the model parameters , i.e. the jet power , @xmath1 , central core density , @xmath2 , energy distribution of the relativistic particles injected into the lobe via acceleration processes and described by the spectral index @xmath3 , and the lobe s age , @xmath4 .",
+    "the determination of their values is made possible by the fit to the observational parameters of a lobe : its length , @xmath5 , axial ratio ( geometry ) , @xmath6 , normalization and slope of its radio spectrum , i.e. the radio luminosity , @xmath7 , at a number of observing frequencies @xmath8=1,2,3 ... the values of other free parameters of the model have to be assumed .",
+    "three basic relations of the model are :    @xmath9    @xmath10    @xmath11      \\1 ) assuming the values of remaining free parameters of the model ( cf .",
+    "machalski et al .",
+    "2009 )  for given values of @xmath12 and @xmath4 equating @xmath13}d_{\\rm obs}/\\sin\\theta\\hspace{15mm}\\ ] ] and @xmath14}p_{\\nu , obs},\\ ] ]    the dynage fits the values of @xmath15 and @xmath16 .",
+    "\\2 ) performing step 1 ) for all @xmath17 chosen to represent the lobe s spectrum , we have @xmath18 , @xmath19 , and @xmath20 ( figure1 , left ) .",
+    "\\3 ) the steps 1 ) and 2 ) are repeated for a number of @xmath3 values searching for its value which provides a minimum of the kinetic energy delivered to the lobe at the age @xmath4 , i.e. @xmath21 ( figure1 , right ) .",
+    "this , in turn , provides the final solutions of @xmath4 , @xmath1 , and @xmath2 , as well as of their derivative parameters ( see table  4 in machalski et al .",
+    "2007 )    * objections : * independent age solutions give _ different ages _ of the opposite lobes which is shown in figure2 ( left ) .",
+    "the differences are larger than expected kinematic age differences due to a projection of the jet s axis .    from equation(2 )",
+    "we have    @xmath22    for the same source ( consisting of two lobes ) we note that     larger @xmath5 suggests older @xmath4 , and calculations show that ( usually )     larger @xmath5 accompanies a higher value of @xmath2 than that for shorter @xmath5 .",
+    "thus , substitution of @xmath23 into equation(4 ) and a change of @xmath24 can lower @xmath4 . however , this does not satisfy equation(3 ) where the lobe s radiation is controlled by @xmath1 and @xmath3 .",
+    "therefore we look for self - consistent age solution",
+    ".      let @xmath25 ; thus from equation(1 ) @xmath26    substitution of @xmath27 into equation(4 ) gives the ` self - consistent ' age    @xmath28    the ` self - consistent ' ages of the opposite lobes calculated from equation(5 ) are plotted vs @xmath27 in figure2 ( right ) .",
+    "1 .   in 7 of 10 grss",
+    "the brighter lobe is found to be younger than the opposite , fainter one , but 2",
+    ".   dynamical ages of opposite lobes differ between themselves more than it is expected due to the kinematic age difference related to a projection of the jet s axis toward the observer .",
+    "the apparent asymmetries in the lobes length , their luminosity , and age are likely to be due to different propagation conditions of the jets through an external medium .",
+    "4 .   assuming different exponents @xmath24 in equation(1 ) in opposite jet s directions , the age difference usually decreases , however still remaining larger than that due to the kinematic effect . 5 .",
+    "expected exponents @xmath27 for the shorther lobes are higher that those for the larger ones .",
+    "differences of age @xmath29 can be levelled by a departure from the equipartition between the energy densities of magnetic fields and relativistic particles .",
+    "an increase of @xmath30 results in increase of the lobe s age ; however it is connected with a corresponding decrease of the jet power .",
+    "a decrease of @xmath31 acts inversely .",
+    ".   a ratio of the dynamical age to the spectral age is between 1 and 5 .",
+    "this is caused by ( i ) a difference between the injection spectral indices determined using the dynage algorithm in the dynamical analysis and the synage algorithm of murgia ( 1996 ) in the spectral - ageing analysis ( shown in figure3 ) , and ( ii ) a different influence of the axial ratio of the lobes in the estimation of the dynamical age and the spectral age .    in machalski , jamrozy , & saikia ( 2009 ) arguments are given that dynage can better take account of radiative effects at low frequencies than synage , and the age solutions should be better than those found with the classical spectral - ageing analysis because the expansion parameters are connected to actual geometry of the lobes for each specific grs .",
+    "the dynage algorithm is especially effective for sources at high redshifts for which an intrinsic spectral curvature is shifted to low frequencies .",
+    "jamrozy , m. , konar , c. , machalski , j. , & saikia , d. j. 2008 , mnras , 385 , 1286 kaiser , c. r. , & alexander , p. 1997",
+    ", mnras , 286 , 215 kaiser , c. r. , dennett - thorpe , j. , & alexander , p. 1997 , mnras , 292 , 723 ( kda ) machalski , j. , chyy , k.t . , stawarz , l. , & koziel , d. 2007 , a&a , 462 , 43 machalski , j. , jamrozy , m. , & saikia , d. j. , 2009 , mnras , 395 , 812 murgia , m. 1996 , ph.d laurea thesis , university of bologna"
+  ],
+  "abstract_text": [
+    "<S> dynamical ages of the opposite lobes determined _ independently _ of each other suggest that their ratios are between @xmath01.1 to @xmath01.4 . demanding similar values of the jet power and the radio core density for the same grs </S>",
+    "<S> , we look for a _ self - consistent _ solution for the opposite lobes , which results in different density profiles along them found by the fit . </S>",
+    "<S> a comparison of the dynamical and spectral ages shows that their ratio is between @xmath01 and @xmath05 , i.e. is similar to that found for smaller radio galaxies . </S>",
+    "<S> two causes of this effect are pointed out . </S>"
+  ]
+}

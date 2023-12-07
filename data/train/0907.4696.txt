@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the invariant mass spectrum of dielectrons measured during the 2006 rhic run , after combinatorial background subtraction ( figure [ invmass_fit ] ) reveals peaks corresponding to the , and @xmath0(1s,2s,3s ) quarkonia states .",
+    "the continuum spectrum is well described by correlated heavy flavour ( @xmath2 and @xmath3 ) and drell - yan contributions estimated using a pythia simulation @xcite , including the detector acceptance and efficiencies .",
+    "the differential cross section shown in figure [ jpsi_psip ] is the first @xmath4-dependent result for an excited charmonium state at rhic .",
+    "the to ratio is also shown and compared to results from other experimental facilities @xcite .",
+    "one can note the stability of this ratio for a vast collision energy and  .",
+    "the up - to - date feed - down contributions to from is @xmath5 and from @xmath6 is @xmath7 ( 90% cl ) .",
+    "these numbers are in agreement with world average results @xcite .",
+    "the new rapidity dependence result ( figure [ jpsi_yield ] ) is in agreement with that already published @xcite .",
+    "the uncertainties are dominated by systematics .",
+    "both mid and forward rapidity yields are well described by the s - channel cut color singlet model ( csm ) @xcite using two parameters fitted to cdf data at @xmath81.8 tev @xcite over @xmath9  .",
+    "phenix started a series of studies of the  dependence of the decay angular distribution of the .",
+    "the polarization parameter @xmath10 is defined by , where @xmath11 is the angle between the positive lepton and the momentum direction ( helicity frame ) .",
+    "initial inclusive ( direct + feed - down ) polarization _ versus _  is shown in figure [ jpsi_pol ] .",
+    "although the s - channel cut csm only considers direct ( no feed - down ) @xcite , it is in good agreement with the mid - rapidity results .",
+    "however , the @xmath12  result obtained at forward rapidity is @xmath13 away from the model prediction at that rapidity .",
+    "upcoming  dependent @xmath10 measurements for the forward rapidity will be important to clarify whether the s - channel cut csm describes the data at forward rapidity or not . given the current uncertainties , one can not rule out the possibility of zero polarization , as expected by the color evaporation model ( cem ) @xcite .",
+    "yield.,scaledwidth=100.0% ]     yield.,title=\"fig:\",scaledwidth=90.0% ]   yield.,title=\"fig:\",scaledwidth=90.0% ]    we counted 12 unlike - sign and one like - sign dielectron pairs in the @xmath0(1s+2s+3s ) mass range @xmath14~ gev / c^2 $ ] at mid - rapidity .",
+    "a preliminary study of possible physical contributions in this region indicates correlated open bottom and drell - yan can contribute up to 15% of the number of net counts and is accounted for in the systematic errors .",
+    "the corresponding @xmath0 family cross section in the dielectron channel is this result follows the world trend and estimates based on the cem ( figure [ upsilon_yield ] ) @xcite .",
+    "the rapidity dependence of the @xmath0 cross section , adding the preliminary results released at qm06 @xcite , can be used to test production models for bottomonium and estimate the total cross section . given the smaller relativistic contributions , nrqcd calculations for @xmath0 at rhic are supposed to be more reliable than for charmonium .",
+    "the new mid - rapidity measurement was also used as a baseline for the first measurement of the @xmath0 nuclear modification factor in au+au collisions @xcite .",
+    "the fits performed to the published nuclear modification factors in @xmath1+au collisions ( @xmath15 ) have been revisited taking into account all systematic uncertainties @xcite .",
+    "the new fits return a larger uncertainty in the breakup cross sections .",
+    "cold nuclear matter `` extrinsic '' calculations , where one treats the production as a 2@xmath162 process ( @xmath17 ) , have shown considerable differences in the breakup cross section compared to those obtained using the standard procedure , using `` intrinsic '' kinematics with 2@xmath161 processes @xcite .",
+    "the integrated luminosity accumulated in @xmath1+au collisions during the 2008 run was about thirty times larger than that used in @xcite .",
+    "the first nuclear modification factor measurements from the 2008 run were performed using as a reference the yield in the 60 - 80% centrality range ,      many systematic uncertainties cancel out in a @xmath19 measurements .",
+    "figure [ rcp ] shows the rapidity dependence of @xmath19 for three centrality ranges .",
+    "the negative rapidity region , which represents large @xmath20 ( in the anti - shadowing region ) of the gluon distribution , shows no nuclear effects within uncertainties , but a considerable suppression is observed at central rapidity and at forward rapidity .",
+    "one observes that the strong suppression at forward rapidity and the lack of suppression at backward rapidity can not be described by the existing nuclear modified gluon distributions ( eks98 shown in figure [ rcp ] , eps08 and ndsg ) for any fixed breakup cross section @xcite .",
+    "this observation suggests that additional cnm effects besides the standard shadowing and hadronic interactions must be important .      ) and comparison with that from eks98 parton modification distributions for different breakup cross sections@xcite.,title=\"fig:\",scaledwidth=40.0% ] ) and comparison with that from eks98 parton modification distributions for different breakup cross sections@xcite.,title=\"fig:\",scaledwidth=40.0% ]"
+  ],
+  "abstract_text": [
+    "<S> we report new quarkonia measurements necessary to understand production mechanisms and cold nuclear matter effects in the yields observed at rhic energy . </S>",
+    "<S> results obtained in collisions collected during the 2006 rhic run include , and @xmath0 differential cross sections as well as polarization . </S>",
+    "<S> revisited interpretations of the published nuclear modification factors and statistically improved observations in @xmath1+au collisions taken in the 2008 run are also discussed in the view of the recent understanding of the initial state effects and breakup cross section . </S>"
+  ]
+}

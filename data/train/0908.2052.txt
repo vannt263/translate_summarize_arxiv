@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the goal of this work was to obtain the charge form factor and charge radius of triton , as a three - body bound state , that are obtained by using eft .",
+    "we applied the formalism developed to the computation of processes involving external currents such as , triton charge form factor and charge radii .",
+    "we considered the diagrams needed to be computed and the charge form factor numerically obtained by perturbatively solving of faddeev equation , up to n@xmath0lo . at very low energies ,",
+    "the interactions between nucleons can be only described by point - like interactions .",
+    "the present study of the triton charge form factor show that it is possible to obtain remarkably good predictions for electrogenic structure functions of the few - body bound states by using eft at very low - energies .",
+    "the charge form factor of triton at low energies was calculated by using pionless eft and simple inclusion of external currents .",
+    "the charge radii is also calculated up to n@xmath0lo .",
+    "the triton binding energy and nd scattering length in the triton channel have been used to fix them .",
+    "hence the triton charge radii is in total determined as @xmath4[1.959(lo)-0.113(nlo)-0.071(n@xmath0lo)]fm = [ 1.775 @xmath5 0.02 ] fm .",
+    "it converges order by order in low energy expansion and is also cut - off independent at this order .",
+    "the results also move the universal line closer to the experimental values when order of calculation increases .",
+    "this is in corresponding to the phillips line .",
+    "the author would like to thank h.w .",
+    "griehammer for many helpful discussions and his available mathematica code .",
+    "this work is supported in part by the university of arak ."
+  ],
+  "abstract_text": [
+    "<S> making use of the effective field theory(eft ) expansion recently developed by the authors , we compute the charge form factor of triton up to next - to - next - to - leading order ( n@xmath0lo ) . </S>",
+    "<S> the three - nucleon forces(3nf ) is required for renormalization of the three - nucleon system and it effects are predicted for process and is qualitatively supported by available experimental data . </S>",
+    "<S> we also show that , by including higher order corrections , the calculated charge form factor and charge radius of @xmath1h are in satisfactory agreement with the experimental data and the realistic argonne @xmath2 two - nucleon and urbana ix potential models calculations . </S>",
+    "<S> this method makes possible a high precision few - body calculations in nuclear physics . </S>",
+    "<S> our result converges order by order in low energy expansion and also cut - off independent .    [ cols=\"^ \" , ]     fitting a polynomial in @xmath3 to our result for the charge form factor , eq.(7 ) , we can extract the triton charge radius . </S>",
+    "<S> this procedure leads to a triton charge radius @xmath4[1.959(lo)-0.113(nlo)-0.071(n@xmath0lo)]fm = [ 1.775 @xmath5 0.02 ] fm .    </S>",
+    "<S> the cut - off variation has been also done . </S>",
+    "<S> these variations were nearly independent of variation of momentum and decreased steadily when the order of calculation is increased up to n@xmath0lo .    in fig . </S>",
+    "<S> 4 , we show the correlation between the triton charge radius and binding energy of triton . </S>",
+    "<S> the solid line denotes leading order effective theory result  @xcite . </S>",
+    "<S> the two boxes show modern calculations ( including meson exchange currents ) based on the av18 potential with and without the urbana ix three - body force  @xcite . </S>",
+    "<S> the circles indicate faddeev calculations using different potentials from refs .  </S>",
+    "<S> @xcite . </S>",
+    "<S> the correlation curve of ref .  </S>",
+    "<S> @xcite is given by the dotted line . </S>",
+    "<S> the triangle with error - bar indicates the experimental values  @xcite . </S>",
+    "<S> short - dash , dot - dash and long - dash curves are lo , nlo , and n@xmath0lo our eft results , respectively . </S>",
+    "<S> it should be considered that the inclusion of the range correction moves the universal line closer to the experimental values in corresponding to phillips line .    </S>",
+    "<S> lo our eft results , respectively . for better comparison , </S>",
+    "<S> axes scales are chosen like as  @xcite . </S>",
+    "<S> , scaledwidth=60.0% ]    [ fig4 ] </S>"
+  ]
+}

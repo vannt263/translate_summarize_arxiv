@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "ct cha ( aka hm9 ) , introduced in the 65th name - list of variable stars by kholopov et al .",
+    "( 1981 ) , was originally found by henize & mendoza  ( 1973 ) and later classified to be a classical t tauri star by weintraub ( 1990 ) and gauvin & strom ( 1992 ) from iras data ( see schmidt et al .",
+    "( 2008b ) and references therein for more information on ct cha a ) .",
+    "we recently ( schmidt et al .",
+    "2008a & 2008b ) , identified a very faint co - moving sub - stellar companion , just @xmath5  2.67 arcsec northwest of ct cha corresponding to a projected separation of @xmath5 440 au as well as another companion candidate ( cc2 ) @xmath5 1.9 arcsec northeast of the primary star .",
+    "we could show that ct cha a and ct cha b form a common proper motion pair and that the companion is by @xmath64@xmath0 significance not a stationary background object .",
+    "our near - infrared spectroscopy yielded a temperature of 2600@xmath3250k for the companion and an optical extinction of @xmath7=5.2@xmath30.8mag , when compared to spectra calculated from drift - phoenix model atmospheres ( helling et al .",
+    "we further demonstrated the validity of the model fits by comparison to several other well - known young sub - stellar objects . due to a prominent pa-@xmath8 emission in the j - band , accretion is probably still ongoing onto ct cha b. from temperature and luminosity ( @xmath9=2.68@xmath30.21 ) , we derived a radius of r=2.20@xmath10r@xmath11 .",
+    "we found a consistent mass of m=17@xmath36m@xmath11 for ct cha b from both its luminosity and temperature when placed on evolutionary tracks .",
+    "hence , ct cha b is most likely a wide brown dwarf companion or possibly even a planetary mass object , depending on both the true mass of ct cha b and the definition of planets .",
+    "we observed ct cha in three epochs in february 2006 , march 2007 and in february 2008 ( see table [ table:1 ] ) .",
+    "all observations were done with the european southern observatory ( eso ) very large telescope ( vlt ) instrument naos - conica ( naco ) .    .vlt",
+    "/ naco observation log .",
+    "remark : each image consists of the number of exposures given in column 4 times the individual integration time given in column 3 . [ cols=\"^,^,^,^,^,^,^,^,^\",options=\"header \" , ]",
+    "in addition we compute from our naco measurements also h - band photometry from the flux ratio of the companion candidates relative to ct cha a ( see table [ table:3 ] ) . from the j- ,",
+    "h- and ks - band magnitudes we can now present an artificial color - composite image , shown in fig .  [ fig:2 ] . if we assume the same amount of extinction for cc2 as we found for ct cha a , i.e. @xmath121.3mag ( schmidt et al .",
+    "2008b ) or possibly more , as the star might be a background star , we find a spectral type of @xmath1k4 from the j- , h- , and k - band photometry given in table [ table:3 ] in comparison to the colors of main - sequence stars given in kenyon & hartmann ( 1995 ) , hence , at the main - sequence , a distance of @xmath6350pc .      tobs would like to thank evangelisches studienwerk e.v .",
+    "villigst for financial support .",
+    "nv acknowledges support by fondecyt ( grant 1061199 ) and universidad de valparaiso ( grant 07/2007 ) .",
+    "ab and rn wish to acknowledge support from the german national science foundation ( deutsche forschungsgemeinschaft , dfg ) , grants ne 515/13 - 1 and 13 - 2 ."
+  ],
+  "abstract_text": [
+    "<S> in our ongoing search for close and faint companions around t tauri stars in the chamaeleon star - forming region , we recently ( schmidt et al .  </S>",
+    "<S> 2008b ) presented direct observations and integral field spectroscopy of a new common proper motion companion to the young t - tauri star and chamaeleon member ct cha and discussed its properties in comparison to other young , low - mass objects and to synthetic model spectra from different origins . </S>",
+    "<S> we now obtained for the first time direct h - band observations of the companion ct cha b and of another faint companion candidate ( cc2 ) approximately 1.9 arcsec northeast of ct cha using the adaptive optics ( ao ) instrument naos - conica ( naco ) at the very large telescope ( vlt ) of the european southern observatory ( eso ) in february 2008 . from these data </S>",
+    "<S> we can now exclude by 4.4 & 4.8@xmath0 that ct cha b is a non - moving background object and find cc2 to be most likely a background star of spectral type @xmath1k4 with a proper motion of @xmath2= -8.5@xmath35.7mas / yr and @xmath4=12.0@xmath35.6mas / yr , not consistent with being a member of the cha i star - forming region .     </S>",
+    "<S> address = astrophysikalisches institut , universitt jena , schillergsschen 2 - 3 , 07745 jena , germany , tobi@astro.uni-jena.de     address = astrophysikalisches institut , universitt jena , schillergsschen 2 - 3 , 07745 jena , germany     address = astrophysikalisches institut , universitt jena , schillergsschen 2 - 3 , 07745 jena , germany     address = faculty of natural sciences , university of split , teslina 12 . </S>",
+    "<S> 21000 split , croatia , altaddress = astrophysikalisches institut , universitt jena , schillergsschen 2 - 3 , 07745 jena , germany     address = departamento de fsica y astronoma , universidad de valparaso , avenida gran bretaa 1111 , valparaso , chile , altaddress = instituto de astronoma , universidad catolica del norte , avda .  </S>",
+    "<S> angamos 0610 , antofagasta , chile </S>"
+  ]
+}

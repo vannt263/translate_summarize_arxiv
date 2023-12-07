@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the australian ska pathfinder ( askap ) is a next generation radio telescope on the strategic pathway towards the staged development of the square kilometre array ( ska ) . in this short conference paper",
+    "an overview of askap   is given and a brief description of some indicative science programs .",
+    "an expanded write - up of the askap  science case can be found in the refereed papers ( johnston et al .",
+    "2007 and johnston et al . 2008 ) .",
+    "details and updates for the askap  project generally can be found on the web at http://www.atnf.csiro.au/projects/askap .",
+    "askap  has four main goals :    * to demonstrate and prototype technologies for the mid - frequency ska , including field - of - view enhancement by focal - plane phased - arrays on new - technology 12-m class parabolic reflectors ; * to carry out world - class , ground breaking observations directly relevant to the ska key science projects ; * to establish a site for radio astronomy in western australia where observations can be carried out free from the harmful effects of radio interference ; * to establish a user community for the ska .",
+    "table  [ intro : params ] gives the askap  system parameters .",
+    "the first column gives the relevant parameter with the second column listing the value of that parameter .",
+    ".system parameters for askap .",
+    "note that the field of view is frequency independent . [ cols=\"<,^ \" , ]     [ intro : speed ]      the central core of askap  will be located at the murchison radio observatory in inland western australia , one of the most radio - quiet locations on the earth and one of only two sites short - listed by the international community as a potential location for the ska ; the second site is located in southern africa .",
+    "the approximate geographical coordinates of the site are longitude 116.5 east and latitude 26.7 south .",
+    "the choice of site ensures that askap  will be largely free of the harmful effects of radio interference currently plaguing the present generation of telescopes , especially at frequencies around 1  ghz and below .      in early 2008 ,",
+    "the askap  test bed antenna was installed at the site of the 64-m parkes radio telescope to allow testing of the focal plane array and beamforming systems . in late 2008 ,",
+    "the antenna contract for the 36 askap  dishes was signed .",
+    "the first 6 antennas of askap  will be on - site and operational in western australia by late 2010 and constitute the boolardy engineering test array ( beta ) .",
+    "over the subsequent two years the remainder of the antennas will be deployed , with commissioning of the final system expected to take place in late 2012 .",
+    "following international science meetings held in australia in april 2005 and march 2007 , seven main science themes have been identified for askap . these are extragalactic hi  science , continuum science , polarization science , galactic and magellanic science , vlbi science , pulsar science and the radio transient sky . in this paper , we can do no more than list bullet points for each science section . an extended version of the science case has already been published ( johnston et al .",
+    "2007 ) , with larger , and more complete , version of the science case for askap   published in experimental astronomy ( johnston et al . 2008 ) .    the technological innovation of askap  and the unique radio quiet location in western australia will enable a powerful synoptic survey instrument that will make substantial advances in ska technologies and on three of the ska key science projects : the origin and evolution of cosmic magnetism , the evolution of galaxies and large scale structure , and strong field tests of gravity .",
+    "the headline science goals for askap  are :    * the detection of a million galaxies in atomic hydrogen emission across 80% of the sky out to a redshift of 0.2 to understand galaxy formation and gas evolution in the nearby universe * the detection of synchrotron radiation from 60 million galaxies to determine the evolution , formation and population of galaxies across cosmic time and enabling key cosmological tests . * the detection of polarized radiation from over 500,000 galaxies , allowing a grid of rotation measures at @xmath0 to explore the evolution of magnetic fields in galaxies over cosmic time . * the understanding of the evolution of the interstellar medium of our own galaxy and the processes that drive its chemical and physical evolution . * the characterization of the radio transient sky through detection and monitoring of transient sources such as gamma ray bursts , radio supernovae and intra - day variables . * the discovery and timing of up to 1000 new radio pulsars to find exotic objects and to pursue the direct detection of gravitational waves . * the high - resolution imaging of intense , energetic phenomena through improvements in the australian and global very long baseline networks .",
+    "expressions of interest ( eoi ) for survey science projects closed on december 15 , 2008 .",
+    "a total of 38 eois were received , and information on the eois can be obtained from our web pages .",
+    "teams submitting successful eois have been invited to submit a full proposal by june 15 , 2009 .",
+    "anyone wishing to join teams and participate in askap science should contact the askap project scientists by sending email to atnf-askap-ps@atnf.csiro.au"
+  ],
+  "abstract_text": [
+    "<S> the future of cm and m - wave astronomy lies with the square kilometre array ( ska ) , a telescope under development by a consortium of 17 countries that will be 50 times more sensitive than any existing radio facility . </S>",
+    "<S> most of the key science for the ska will be addressed through large - area imaging of the universe at frequencies from a few hundred mhz to a few ghz . </S>",
+    "<S> the australian ska pathfinder ( askap ) is a technology demonstrator aimed in the mid - frequency range , and achieves instantaneous wide - area imaging through the development and deployment of phased - array feed systems on parabolic reflectors . </S>",
+    "<S> the large field - of - view makes askap  an unprecedented synoptic telescope that will make substantial advances in ska key science . </S>",
+    "<S> askap  will be located at the murchison radio observatory in inland western australia , one of the most radio - quiet locations on the earth and one of two sites selected by the international community as a potential location for the ska . in this paper </S>",
+    "<S> , we outline the askap  project and summarise its headline science goals as defined by the community at large . </S>"
+  ]
+}

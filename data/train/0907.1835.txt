@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "the smooth family of gamma probability density functions is given by @xmath0 here @xmath1 is the mean , and the standard deviation @xmath2 given by @xmath3 is proportional to the mean .",
+    "hence the coefficient of variation @xmath4 is unity in the case that ( [ gammapdf ] ) reduces to the exponential distribution .",
+    "thus , @xmath5 corresponds to an underlying poisson random process complementary to the exponential distribution .",
+    "when @xmath6 the random variable @xmath7 represents spacings between events that are more clustered than for a poisson process and when @xmath8 the spacings @xmath7 are more uniformly distributed than for poisson .",
+    "the case when @xmath9 is a positive integer and @xmath10 gives the chi - squared distribution with @xmath11 degrees of freedom ; this is the distribution of @xmath12 for variances @xmath13 of samples of size @xmath14 taken from a gaussian population with variance @xmath15    the gamma distribution has a conveniently tractable information geometry  @xcite , and the riemannian metric in the 2-dimensional manifold of gamma distributions ( [ gammapdf ] ) is @xmath16(\\mu,\\kappa)&= &   = \\left [ \\begin{array}{cc }          \\frac{\\kappa}{{\\mu}^2 }   &     0   \\\\                              0   &    \\frac{d^2}{d\\kappa^2}\\log(\\gamma)-\\frac{1}{\\kappa } \\end{array } \\right].\\end{aligned}\\ ] ] so the coordinates",
+    "@xmath17 yield an orthogonal basis of tangent vectors , which is useful in calculations because then the arc length function is simply @xmath18    we note the following important uniqueness property :    [ hwangthm ] for independent positive random variables with a common probability density function @xmath19 having independence of the sample mean and the sample coefficient of variation is equivalent to @xmath20 being the gamma distribution .",
+    "( 400 , 200)(0 , 0 ) ( 0,-0 ) ( -5,190)@xmath21    this property is one of the main reasons for the large number of applications of gamma distributions : many near - random natural processes have standard deviation approximately proportional to the mean  @xcite . given a set of identically distributed , independent data values @xmath22 the ` maximum likelihood ' or ` maximum entropy ' parameter values @xmath23 for fitting the gamma distribution ( [ gammapdf ] ) are computed in terms of the mean and mean logarithm of the @xmath24 by maximizing the likelihood function @xmath25 by taking the logarithm and setting the gradient to zero we obtain @xmath26",
+    "in a variety of contexts in cryptology for encoding , decoding or for obscuring procedures , sequences of pseudorandom numbers are generated .",
+    "tests for randomness of such sequences have been studied extensively and the nist suite of tests  @xcite for cryptological purposes is widely employed .",
+    "information theoretic methods also are used , for example see grzegorzewski and wieczorkowski  @xcite also ryabko and monarev  @xcite and references therein for recent work . here",
+    "we can show how pseudorandom sequences may be tested using information geometry by using distances in the gamma manifold to compare maximum likelihood parameters for separation statistics of sequence elements .",
+    "_ mathematica _",
+    "@xcite simulations were made of poisson random sequences with length @xmath27 and spacing statistics were computed for an element with abundance probability @xmath28 in the sequence .",
+    "figure  [ gamma100000 ] shows maximum likelihood gamma parameter @xmath21 data points from such simulations . in the data from 500 simulations",
+    "the ranges of maximum likelihood gamma distribution parameters were @xmath29 and @xmath30      the surface height in figure  [ 100000randat ] represents upper bounds on information geometric distances from @xmath32 in the gamma manifold .",
+    "this employs the geodesic mesh function we described in arwini and dodson  @xcite .",
+    "@xmath33 \\leq \\left|\\frac{d^2\\log\\gamma}{d\\kappa^2 } ( \\kappa ) - \\frac{d^2\\log\\gamma}{d\\kappa^2 } ( 1)\\right| + \\left|\\log{\\frac{511}{\\mu}}\\right| . \\label{gddist}\\ ] ]      in the limit , as the sequence length tends to infinity and the abundance of the element tends to zero , we expect the gamma parameter @xmath36 to tend to @xmath37 however , finite sequences must be used in real applications and then provision of a metric structure allows us , for example , to compare real sequence generating procedures against an ideal poisson random model .",
+    "hwang and c - y .",
+    "hu . on a characterization of the gamma distribution : the independence of the sample mean and the sample coefficient of variation . _ annals inst . statist .",
+    "_ 51 , 4 ( 1999 ) 749 - 753 .",
+    "a. rushkin , j. soto et al . * a statistical test suite for random and pseudorandom number generators for cryptographic applications*. _ national institute of standards & technology",
+    "_ , gaithersburg , md usa , 2001 ."
+  ],
+  "abstract_text": [
+    "<S> the information geometry of the 2-manifold of gamma probability density functions provides a framework in which pseudorandom number generators may be evaluated using a neighbourhood of the curve of exponential density functions . </S>",
+    "<S> the process is illustrated using the pseudorandom number generator in mathematica . </S>",
+    "<S> this methodology may be useful to add to the current family of test procedures in real applications to finite sampling data . </S>"
+  ]
+}

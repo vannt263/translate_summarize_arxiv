@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "@xcite , we reported evidence for inflection points of the hall resistivity at half - integer filling factors , where the slope of @xmath0 goes through a local minimum .",
+    "we attributed the existence of these inflection points to features of the ldos in the presence of a strong potential gradient near the injection corner of the device . in march 2009 ,",
+    "new experiments in a different sample have shown additional features , which require a new interpretation of the earlier data as well as of the new experimental results .",
+    "in particular , after modelling the measurement protocol in every detail , we propose a different interpretation of the inflection points shown in ref .",
+    "@xcite . for an alternating current flow",
+    "we predict oscillatory shifts of the fermi energy in the two - dimensional electron system due to the presence of a non - zero hall voltage .",
+    "the oscillatory shifts are quantitatively calculated in this manuscript and provide a different explanation of the data shown in ref .",
+    "we do not rule out the existence of inflection points caused by the ldos in direct - current measurements .",
+    "in order to obtain a better signal - to - noise ratio , alternating - current ( ac ) measurements are often preferred to direct - current ( dc ) measurements . while there are different ways to record and process the ac signal , one commonly used protocol is to use a @xmath1-ac wave - form for the current between source and drain of a hall device @xmath2 and to record the hall voltage by integrating the instantaneous hall voltage over one period of the cosine signal . in order to amplify only signals matching the frequency of the current - modulation , the oscillating @xmath1-signal is fed into the integration loop .",
+    "thus the read - out hall voltage of the ac - lock - in amplifier becomes @xmath3\\;i(t)\\;\\cos(\\omega t),\\ ] ] where @xmath4 denotes the normalization , determined experimentally by comparison with a known resistance .",
+    "the top - gate is kept on a constant potential ( the same potential as one of the ohmic contacts ) , while the voltage of the second ohmic contact is oscillating .",
+    "this leads to an oscillating ac current through the device . in the presence of a magnetic field the hall voltage forms across the sample in response to the current .",
+    "the hall voltage is also oscillating in phase with the current .",
+    "the maximum hall voltage during the oscillation period is given by @xmath5 and yields for @xmath6a at @xmath7  k@xmath8 a peak hall voltage of @xmath9  mv .",
+    "the range of variation of the hall voltage is thus @xmath10  mv@xmath11  mv .",
+    "the measured sample lm4640 has been grown with the following layer sequence : +    [ cols=\"<,<\",options=\"header \" , ]",
+    "the new experimental data and the detailed model of the ac - measurement protocol suggest a new interpretation of the data presented in ref .",
+    "@xcite :    1 .",
+    "ac averaging explains an additionally observed feature at @xmath12 , not contained in the ldos theory .",
+    "2 .   the observed inflection points may not be the signature of the ldos .",
+    "the observed inflection points are closer to the values @xmath12 , @xmath13 , and @xmath14 , predicted by the ac - model of the top - gate , than to the values @xmath15 and @xmath16 , predicted by the ldos theory .",
+    "the overall agreement of the ac averaging model with respect to the width of the hall plateaus and the slope of the hall curve is very good ( see comparison in the appendix ) .",
+    "it is interesting to note that the gate keeps the two - dimensional fermi - energy fixed , and no assumption of disorder is required to describe the physics of the device and to calculate the hall curves shown in the appendix .",
+    "thus we do not rule out the possibility to construct a modified injection model of the qhe , which incorporates the current injection process and the hall field in its foundations .",
+    "further dc experiments are under discussion to reveal the shape of the ldos in the injection region .    1    tobias kramer , eric  j. heller , robert  e. parrott , chi - te liang , c.  f. huang , kuang  yao chen , li - hung lin , jau - yang wu , and sheng - di lin .",
+    "half integer features in the quantum hall effect : experiment and theory . 2008 .",
+    "online : http://arxiv.org/abs/0811.3572v1 .",
+    "j.  h. davies . .",
+    "cambridge university press , 1998 .",
+    "on the next pages we compare the theoretical prediction of the ldos theory of ref .",
+    "@xcite , and the ac - averaging theory given in the present manuscript .    .",
+    "the calculation takes the change of the hall voltage with magnetic field into account and the effective gate - voltage caused by the hall potential , even though the gate is kept at a fixed potential .",
+    "the curves are directly comparable to the experimentally recorded ratio @xmath17 obtained with an ac - lock - in amplifier.,title=\"fig:\",scaledwidth=99.0% ] +"
+  ],
+  "abstract_text": [
+    "<S> low frequency ac - measurements are commonly used to determine the voltage and currents through mesoscopic devices . </S>",
+    "<S> we calculate the effect of the alternating hall voltage on the recorded time - averaged voltage in the presence of a top - gate covering a large part of the device . </S>",
+    "<S> the gate is kept on a constant voltage , while the hall voltage is recorded using an integrating alternating - current lock - in technique . </S>",
+    "<S> the resulting hall curves show inflection points at the arithmetic mean between two integer plateaus , which are not necessarily related to the distribution of the density of states within a landau level . </S>"
+  ]
+}

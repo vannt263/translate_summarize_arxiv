@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "recently the discovery of `` high spin super- and hyperdeformed '' isomeric states in neutron - deficient thorium isotopes was claimed @xcite .",
+    "the authors investigated solutions of natural thorium and announced the discovery of long - lived isomers in @xmath3th .",
+    "they conclude that the lower limit of the half lives must be 10@xmath2  years and assume that these might belong to `` high spin @xmath4-type isomers '' , which were `` preferentially produced by heavy ion reactions '' .",
+    "these observations are extremely surprising for several reasons .",
+    "the ground states of the thorium isotopes in question are all @xmath5 emitters with half lives ranging from 144ms down to 117ns for the @xmath6=128 nucleus @xmath7th which has one of the shortest half lives ever measured for a nuclear ground state . in table",
+    "[ tab : th ] we list the available information on these thorium isotopes .",
+    "even if the electromagnetic decay for the isomers claimed by @xcite would be so slow due to @xmath4-hindrance , also the @xmath5-decay would have to be slowed down due to angular momentum hindrance by at least 16 to 22 orders of magnitude to explain the long half lives required for their natural occurence .",
+    ".[tab : th]decay properties of @xmath3th and known isomers , with excitation energy , isospin and parity . [ cols=\"<,^,^,^,<\",options=\"header \" , ]",
+    "the values of our ams measurements in thorium samples demonstrate that in nature no neutron - deficient isotopes of thorium at masses 211 , 213 , 217 and 218 exist with abundances of 1 to 10@xmath810@xmath9 relative to @xmath10th .",
+    "measurements were stopped as soon as it became clear that the result of the concentration of neutron - deficient thorium isotopes in our sample is about an order of magnitude below the values from @xcite .",
+    "so our sensitivity is limited by the run time more than by the background because of scattered @xmath10th ions .",
+    "there is also no scenario of nucleosynthesis besides the @xmath11 process which is able to produce isotopes beyond @xmath12bi in such amounts that they would be somehow detectable on earth .",
+    "however , the @xmath11 process can not reach neutron - deficient thorium isotopes like @xmath3th in any way since they are located in the midst of pure @xmath5 emitters . the lightest thorium isotope that can be reached by the @xmath11-process @xmath13-decay chains is @xmath14th .",
+    "the argument to attribute these long - lived isomers to @xmath4 isomers @xcite can also be disproved .",
+    "most @xmath4 isomers were identified around @xmath15180 ( e.g. @xmath16ta@xmath17 ) where large mid - shell deformations with neutrons and protons occupying high - lying orbitals can be found .",
+    "the heaviest @xmath4 isomers found up to now are in @xmath18fm @xcite , @xmath19fm @xcite , @xmath20no @xcite , @xmath21no @xcite , and @xmath22ds @xcite .",
+    "these isomeric states have half lives in the order of @xmath23s to ms .",
+    "prolate deformations are an important condition for the existence of @xmath4 isomers .",
+    "this requirement is not fulfilled for the neutron - deficient thorium isotopes .",
+    "the aforementioned superheavy nuclei exhibit ground - state quadrupole deformations between @xmath24=0.221 and 0.246 ( prolate ) , whereas for @xmath25th the maximum deformation is calculated to be @xmath24=-0.105 ( oblate deformation ) @xcite .",
+    "also @xmath26th and @xmath27th are estimated to be slightly oblate , whereas the even - even nucleus @xmath7th  two neutrons away from the shell closure at @xmath6=126  is expected almost spherical ( @xmath24=0.008 ) .",
+    "thus no @xmath4 isomers should exist in @xmath3th .",
+    "this research was supported by the dfg cluster of excellence `` origin and structure of the universe '' .",
+    "we thank a. trler ( institut fr radiochemie , tu mnchen ) for providing us with suitable sample material ."
+  ],
+  "abstract_text": [
+    "<S> the discovery of naturally occurring long - lived isomeric states ( t@xmath0 @xmath1 10@xmath2 yr ) in the neutron - deficient isotopes @xmath3th [ marinov et al . </S>",
+    "<S> , phys . </S>",
+    "<S> rev . </S>",
+    "<S> c * 76 * , 021303(r ) ( 2007 ) ] was re - examined using accelerator mass spectrometry ( ams ) . as ams </S>",
+    "<S> does not suffer from molecular isobaric background in the detection system , it is an extremely sensitive technique . in spite of our up to two orders of magnitude </S>",
+    "<S> higher sensitivity we can not confirm the discoveries of neutron - deficient thorium isotopes and provide upper limits for their abundances . </S>"
+  ]
+}

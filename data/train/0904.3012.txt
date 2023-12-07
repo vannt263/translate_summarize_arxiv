@@ -1,0 +1,18 @@
+{
+  "article_text": [
+    "a graph is called hypohamiltonian if it is not hamiltonian but deleting any vertex gives a hamiltonian graph .",
+    "hypohamiltonian graphs were extensively studied by sousselier , thomassen , chvatal , hatzel , zamfirescu , aldred et al . , and many others , see for example the survey by holton and sheehan @xcite .",
+    "chvatal raised the question in 1973 whether there exists a planar hypohamiltonian graph .",
+    "this was answered by thomassen , who found such a graph on 105 vertices in 1976 .",
+    "hatzel ( in 1979 ) found a smaller planar hypohamiltonian graph , having 57 vertices and this was improved to 48 vertices by zamfirescu and zamfirescu in 2007 .",
+    "here we present a planar hypohamiltonian graph on 42 vertices , making possible that the ultimate question in douglas adams s the hitch hikers guide to the galaxy was `` what is the size of the smallest planar hypohamiltonian graph ? '' .    using a theorem of thomassen",
+    "we can also construct a planar hypotraceable graph ( a graph is hypotraceable if it does not contain a hamiltonian path but the deletion of any vertex gives a graph having a hamiltonian path ) on 162 vertices improving the best known bound of 186 .",
+    "denote the smallest number of vertices of a planar @xmath0-connected graph , in which every @xmath1 vertices are omitted by some longest cycle ( path ) by @xmath2 ( @xmath3 ) .",
+    "the bounds on the numbers @xmath4 , @xmath5 , @xmath6 , @xmath6 are also improved using our construction .",
+    "our graph is the following ."
+  ],
+  "abstract_text": [
+    "<S> we present a planar hypohamiltonian graph on 42 vertices and show some consequences .    </S>",
+    "<S> [ section ] [ tetel]definition [ tetel]claim [ tetel]lemma [ tetel]corollary </S>"
+  ]
+}

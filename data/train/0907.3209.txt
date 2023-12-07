@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "2d imaging methods , such as optical microscopy , are still preferable to 3d imaging methods due to their high level of specificity and high resolution properties .",
+    "histological sections ( slices ) obtained through 2d imaging methods provide useful information for the diagnosis or the study of pathology .",
+    "3d volume reconstruction from these 2d slices is required in order to fully appreciate anatomical structures  @xcite .",
+    "typically , a 3d volume is reconstructed by registering ( aligning ) the 2d sections with respect to a chosen reference and stacking successive aligned sections  @xcite .",
+    "as the acquisition processes of different 2d histological images are performed independently , slice misalignment and deformation is often unavoidable . figure  [ img : badslices ] shows examples of histological slices with non - cohorent distortions , tears , hole and missing parts .",
+    "the deformation varies from section to section and non - cohorent distortions may exist in consecutive sections . choosing an arbitrary slice as a reference slice leads to errors in 3d volume reconstruction , hence , the reference slice should be chosen properly not to contain distortions in order to achive high quality volume reconstruction  @xcite .    [",
+    "cols=\"^ \" , ]",
+    "in this study , we present a novel method for reconstructing 3d rat brain volumes from 2d histological images .",
+    "the framework bases on three fundamental premises .",
+    "( 1 ) all histological images must be standardized for accurate registration leading to 3d volume reconstruction .",
+    "( 2 ) for accurate and succesful registrations in consecutive slices , a reliable feature space must be taken into account .",
+    "( 3 ) for automatic 3d volume reconstruction , the reference slice must be chosen properly by avoiding slices with high noise , distortions and other factors . to validate the reconstructed volume ,",
+    "the smoothness of the volume is considered .",
+    "experimental results indicate that the reconstructed volume is highly accurate .",
+    "this research is funded by the european commission fp6 marie curie action programme ( mest - ct-2005 - 021170 ) under the cmiag ( collaborative medical image analysis on grid ) project .",
+    "t.  ju , j.  warren , j.  carson , m.  bello , i.  kakadiaris , w.  chiu , c.  thaller , and g.  eichele , `` 3d volume reconstruction of a mouse brain from histological sections using warp filtering , '' _ j. neurosci . methods _ ( 156 ) , pp .",
+    "84110 , 2006 .",
+    "s.  wirtz , b.  fischer , j.  modersitzki , and o.  schmitt , `` superfast elastic registration of histologic images of a whole rat brain for 3d reconstruction , '' in _ medical imaging 2004 : image processing .",
+    "edited by fitzpatrick , j. michael ; sonka , milan .",
+    "proceedings of the spie , volume 5370 , pp .",
+    "328 - 334 ( 2004 ) .",
+    "_ , * 5370 * , pp .  328334 , may 2004 .",
+    "u.  baci and l.  bai , `` multiresolution elastic medical image registration in standard intenstiy scale , '' in _ 20th brazilian symposium on computer graphics and image processing ( sibgrapi ) _ , october 2007 .",
+    "y.  ge , j.  udupa , l.  nyul , l.  wei , and r.  grossman , `` numerical tissue characterization in ms via standardization of the mr image intensity scale , '' _ journal of magnetic resonance imaging _  * 12 * , pp .  715721 ,",
+    "november 2000 .        a.  mackenzie - graham , e.  lee , i.  dinov , m.  bota , d.  shattuck , s.  ruffins , h.  yuan , f.  konstantinidis , a.  pitiot , y.  ding , g.  hu , r.  jacobs , and a.  toga , `` a multimodal , multidimensional atlas of the c57bl/ 6j mouse brain , '' _",
+    "j.anat _ ( 204 ) , pp .",
+    "93102 , 2004 ."
+  ],
+  "abstract_text": [
+    "<S> in this paper , we propose three novel and important methods for the registration of histological images for 3d reconstruction . </S>",
+    "<S> first , possible intensity variations and nonstandardness in images are corrected by an intensity standardization process which maps the image scale into a standard scale where the similar intensities correspond to similar tissues meaning . </S>",
+    "<S> second , 2d histological images are mapped into a feature space where continuous variables are used as high confidence image features for accurate registration . </S>",
+    "<S> third , we propose an automatic best reference slice selection algorithm that improves reconstruction quality based on both image entropy and mean square error of the registration process . </S>",
+    "<S> we demonstrate that the choice of reference slice has a significant impact on registration error , standardization , feature space and entropy information . </S>",
+    "<S> after 2d histological slices are registered through an affine transformation with respect to an automatically chosen reference , the 3d volume is reconstructed by co - registering 2d slices elastically . </S>"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "light curves of the w - type w uma eclipsing binary u pegasi by @xcite were converted from differential magnitudes to the standard @xmath1 and @xmath2 systems by addition of the comparison star s magnitudes , @xmath6 , @xmath7 @xcite for bd+14@xmath85078 .",
+    "both u peg components are of type g2 @xcite , and an adopted primary star temperature of 5800k was rounded from two values in @xcite .",
+    "subsequent work by @xcite refined several velocity points that occur near conjunction .",
+    "the light / velocity data were solved simultaneously for distance and other parameters by a version of the wilson - devinney ( w - d ) differential corrections ( dc ) program that contains the direct distance estimation ( dde ) algorithm .",
+    "the @xcite parameters were initial input .",
+    "however the linear ephemeris @xcite was independently adjusted to improve fits to @xmath2 band light curves and velocity curves , which are separated by 6 years . a solution with primary temperature 5900k was also made to allow parameter interpolation in @xmath9 by readers . adjusted",
+    "parameters were inclination ( @xmath10 ) , secondary temperature ( @xmath11 ) , semi - major axis ( @xmath12 ) , potential ( @xmath13 ) , systemic velocity ( @xmath14 ) , mass ratio ( @xmath15 ) , and distance ( @xmath16 ) .",
+    "initial solutions that adjusted third light found @xmath17 to be insignificant , so @xmath17 was fixed at zero .",
+    "the parameters were split into two dc subsets to reach the solutions of table 1 .",
+    "the theory of the dde algorithm , with overviews of simulations , is in @xcite . as applied to 1978 zhai , et al .",
+    "light curves and 1984 lu velocity data for u peg , dde yields respective @xmath18 distances of 121.6 and 125.5 pc if @xmath19k .",
+    "the formal errors are smaller than the spread , so calibration errors probably account for most of the modest disagreement .",
+    "hipparcos parallaxes , as revised by @xcite , span 122 to 175 pc according to the reported @xmath20 errors .",
+    "our model light curves might fit the data better if spots were modeled as in @xcite , but derived distance typically is not much affected by such refinement .",
+    "although period variations have been linked to a third body by several authors , our solutions indicate that @xmath17 is unlikely to affect distance estimates significantly .",
+    "another set of distances will be based on light curves by t. pribulla @xcite and published elsewhere .",
+    "ccccc parameter & @xmath1(@xmath9= 5800k ) & @xmath2(@xmath9= 5800k ) & @xmath1(@xmath9= 5900k ) & @xmath2(@xmath9= 5900k ) +",
+    "@xmath10[@xmath21 & @xmath22 & @xmath23 & @xmath24 & @xmath25 + @xmath11[k ] & @xmath26 & @xmath27 & @xmath28 & @xmath29 + @xmath30 $ ] & @xmath31 & @xmath32 & @xmath33 & @xmath34 + @xmath14 [ km s@xmath35 $ ] & @xmath36 & @xmath37 & @xmath38 & @xmath39 + @xmath40 & @xmath41 & @xmath42 & @xmath43 & @xmath44 + @xmath45 & @xmath46 & @xmath47 & @xmath48 & @xmath49 + @xmath50[pc ] & @xmath51 & @xmath52 & @xmath53 & @xmath54 + @xmath55 ( pole ) & @xmath56 & @xmath57 & @xmath58 & @xmath59 + @xmath55 ( side ) & @xmath60 & @xmath61 & @xmath62 & @xmath63 + @xmath55 ( back ) & @xmath64 & @xmath64 & @xmath65 & @xmath66 + @xmath67 ( pole ) & @xmath68 & @xmath69 & @xmath70 & @xmath71 + @xmath67 ( side ) & @xmath72 & @xmath73 & @xmath74 & @xmath75 + @xmath67 ( back ) & @xmath76 & @xmath77 & @xmath78 & @xmath79 +    cox , a.n .",
+    "allen s astrophysical quantities \" , 4th edition , pp .",
+    "151 & 388 djuravi , g. , rovithis - livaniou , h. , rovithis , p. , erkapi , & milovanovi , n. 2001 , , 367 , 840 kharchenko , n.v .",
+    "2001 , kinematika fiz .",
+    "nebesnykh tel , 17 , 409 lu , w.x .",
+    "1985 , , 97 , 1086 pribulla , t. & vako , m. 2002 , coska , 32 , 79 van leeuwen 2007 , , 474 , 653 wilson , r.e .",
+    "2008 , , 672 , 575 zhai , d.s . ,",
+    "leung , k.c .",
+    ", zhang , r. 1984 , , 57 , 487 zhai , d.s . ,",
+    ", & zhang , x.y .",
+    "1988 , , 146 , 1"
+  ],
+  "abstract_text": [
+    "<S> a distance is found for the w uma type binary u pegasi , with a newly modified version of the wilson - devinney program ( w - d ) that makes use of the direct distance estimation ( dde ) algorithm . </S>",
+    "<S> the reported distance of @xmath0pc is an average based on solutions for @xmath1 and @xmath2 data and a primary star temperature of @xmath3k . </S>",
+    "<S> standardized light curves ( not differential ) , radial velocities , and a spectroscopic primary star temperature are input to the program . </S>",
+    "<S> differential corrections were performed for each light curve band along with the velocities for two primary temperatures that span @xmath4k . </S>",
+    "<S> @xmath5 is a model parameter like many others that are adjustable in w - d . </S>",
+    "<S> the eclipsing binary distance agrees with the _ hipparcos _ parallax distance and is more precise . </S>"
+  ]
+}
