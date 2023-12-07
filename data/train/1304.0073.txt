@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "until now , it has been found 186 binary radio pulsar systems , including 136 millisecond pulsars with the spin period less than 20 milliseconds .",
+    "much progress has been achieved in understanding the formations and evolutions of the binary pulsars ( ( * ? ? ?",
+    "* bhattacharya & van den heuvel 1991 ) ; ( * ? ? ?",
+    "* stairs 2004 ) ; ( * ? ? ?",
+    "* tauris 2012 ) ) . in a binary system , with the accreting matter of @xmath0 from the companion",
+    ", a neutron star can be spin up to several milliseconds , while its magnetic field will be changed from @xmath1 to @xmath2 ( ( * ? ? ?",
+    "* zhang & kojima 2006 ) ; ( * ? ? ?",
+    "* wang , zhang & zhao 2011 ) ) .",
+    "there exist some possible cases that the single millisecond pulsar can be formed due to the evaporation of companion by the millisecond pulsar radiation ( ( * ? ? ?",
+    "* kluzniak et al . 1988 ) ) .",
+    "direct supporting of the millisecond pulsar spin - up model has been found , for instance , the accreting x - ray millisecond pulsar sax j1808.4 - 3658 with @xmath3 and @xmath4 is discovered in low mass x - ray binary system ( ( * ? ? ?",
+    "* wijnands & van der klis 1998 ) ) , and double pulsars psr0737 - 3039a / b are found with one millisecond pulsar and a normal pulsar ( ( * ? ? ?",
+    "* van den heuvel 2004 ) ; ( * ? ? ?",
+    "* lyne 2004 ) ) . the spin - up line in fig.1",
+    "is also called the equilibrium spin period line ( ( * ? ? ?",
+    "* bhattacharya & van den heuvel 1991 ) ) , which expresses the relationship between the magnetic field and the spin period , when a neutron star is spun up to the kepler orbital period at the magnetosphere radius .",
+    "the equation of the spin - up line can be written as : @xmath5 , where @xmath6 is the `` equilibrium '' spin period , @xmath7 is the magnetic field in units of @xmath8 , @xmath9 is the accretion rate , @xmath10 is the maximum possible `` eddington - limit '' accretion rate ( @xmath11 ) , @xmath12 is the stellar radius in units of @xmath13 cm and @xmath14 is the neutron star mass .",
+    "let the accretion rate be @xmath11 and @xmath15 in the spin - up line equation , there will be two spin - up lines as shown in fig.[bpsr186 ] . with the 186 binary pulsars given in the figure",
+    ", it can be seen that almost all of the binary pulsars are above the spin - up line with the accretion rate @xmath15 . however , there are three exceptions : j0514 - 4002a , j1801 - 3210 and j1518 + 4904 .",
+    "these three binary pulsars lie below the spin - up line with @xmath16 , which correspond to the inferred accretion rates @xmath17 and @xmath18 , respectively .",
+    "thus from the distribution of the binary pulsars in fig.1 , it can be suggested that @xmath15 is a critical minimum accretion rate for the millisecond pulsar formation .",
+    "the real ages of millisecond pulsars have not yet been satisfactorily determined , although their characteristic ages can be as long as the hubble time . during the millisecond pulsar spin - up evolution , the maximum critical accreting mass for a millisecond pulsar to reach the spin period of several milliseconds is about @xmath19 ( ( * ? ? ?",
+    "* zhang , wang & zhao et al .",
+    "2011 ) ; ( * ? ? ?",
+    "* wang , zhang & zhao et al .",
+    "2011 ) ) , and the time of spinning - up should be less than the hubble age of about @xmath20 .",
+    "thus , a critical mass accretion rate for a millisecond pulsar formation can be evaluated by @xmath21 if the accretion rate is much lower than this critical value , the neutron star should have no chance to accrete sufficient mass to be spun - up to a spin period of several milliseconds .",
+    "[ bpsr186 ] , @xmath15 and the death line , respectively.,title=\"fig:\",width=192 ]",
+    "the 186 binary pulsars in the b - p diagram show us that almost all binary pulsars lie above the minimum spin - up line with @xmath16 . in theory",
+    ", it can also be deduced that with the maximum accretion mass within hubble time in binary system , the accretion rate will be @xmath22 .",
+    "if the accretion rate is lower than that value , a pulsar in the binary system will have no chance to become a millisecond one even with the maximum accretion mass during the evolution .",
+    "so , it can be conclude that @xmath16 is the minimum rate for the millisecond pulsar formation in the binary system .",
+    "this work is supported by national basic research program of china ( 973 program 2009cb824800 ) , china ministry of science and technology under state key development program for basic research ( 2012cb821800 ) , nsfc10773017 , nsfc11173034 , and knowledge innovation program of cas kjcx2- yw - t09 ."
+  ],
+  "abstract_text": [
+    "<S> 186 binary pulsars are shown in the magnetic field versus spin period ( b - p ) diagram , and their relations to the millisecond pulsars can be clearly seen . </S>",
+    "<S> we declaim a minimum accretion rate for the millisecond pulsar formation both from the observation and theory . </S>",
+    "<S> if the accretion rate is lower than the minimum accretion rate , the pulsar in binary system will not become a millisecond pulsar after the evolution . </S>"
+  ]
+}

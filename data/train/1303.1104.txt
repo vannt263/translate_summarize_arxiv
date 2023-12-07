@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "this is our second paper reporting abundance measurements for red giants in open clusters ( ocs ) lacking detailed information on their chemical composition . in our first paper ( reddy et al .",
+    "2012 , hereafter paper i ) we have presented abundance measurements for four open clusters ( ocs ) whose galactocentric distances ( r@xmath0 ) lie between 8.3 and 10.5 kpc , where the sun s galactocentric distance is taken as 8.0@xmath1 kpc ( ghez et al .",
+    "2008 ) . here , we add seven ocs six of which have not previously analysed in detail also in the galactic anticentre direction in the disc .",
+    "our overall goal is to improve understanding of galactic chemical evolution .",
+    "the abundance variation of chemical elements with galactocentric distance ( r@xmath2 ) ( i.e. , the radial metallicity gradient ) along ( and across ) the disc and the gradient s temporal variation over the disc s lifetime put constraints on galactic chemical evolution models which are controlled , in large part , by variations of such quantities as the initial mass function ( imf ) , the star formation rate ( sfr ) , gas flows in and out of the disc as well as through the disc .",
+    "particularly informative diagnostics are the spatial and temporal variations of relative abundances which are traditionally referenced to the iron abundance , i.e. , ratios such as o / fe which primarily samples the relative rates of type ii and type ia supernovae and ba / fe where ba measures heavy element synthesis by agb stars .    abundance variations across the galaxy , particularly measurements of the radial gradient , have been measured using a wide variety of objects including hii regions , hot young stars , cepheid variables , planetary nebulae , red giants , and ocs .",
+    "various disagreements and inconsistencies remain - see , for example , magrini et al .",
+    "ocs either through spectroscopy of their red giants or cooler main sequence stars provide not only abundance estimates for many elements  essentially , elements sampling all the major processes of stellar nucleosynthesis  but a collection of stars with a well determined age , distance and metallicity .",
+    "moreover , it is possible to estimate from an oc s space motion and a model of the galactic gravitational potential the birthplace of the oc .",
+    "ocs dissolve over time thanks to tidal forces and feed stars into the field .",
+    "intracluster abundance variations , especially in the @xmath3- and the heavy elements provide , in principle , a way to chemically tag groups of field stars to their parent cluster ( freeman & bland - hawthorn , 2002 ; de silva et al .",
+    "2006 , 2007 ) .",
+    "such studies benefit from the largest possible sample of ocs with all properties analysed homogeneously with high - resolution spectroscopy .",
+    "addressing abundance variations across the galactic disk and applying chemical tagging requires homogeneous and accurate abundance analyses of as large a sample of ocs as possible . in this paper",
+    ", we continue our modest efforts in this regard by extending our homogeneous abundance analysis for a sample of seven ocs for many elements including the s- and r - process elements for which the measurements are often lacking in the literature .",
+    "the layout of the present paper is as follows : in section 2 we describe the data selection , observations and data reduction , and section 3 is devoted to the abundance analysis . in section 4",
+    "we present our results and compare them with the abundances derived from samples of field giants .",
+    "finally , in section 5 we give the conclusions ."
+  ],
+  "abstract_text": [
+    "<S> we have analyzed high - resolution echelle spectra of red giant members for seven open clusters in the galactic anticentre direction to explore their chemical compositions . </S>",
+    "<S> cluster membership has been confirmed by radial velocity . </S>",
+    "<S> the spread in temperatures and gravities being very small among the red giants , nearly the same stellar lines were employed for all stars thereby reducing the abundance errors : the errors of the average abundance for a cluster were generally in the 0.02 to 0.05 dex range . our present sample covers galactocentric distances of 8.3 to 11.3 kpc and an age range of 0.2 to 4.3 gyr . </S>",
+    "<S> a careful comparison of our results for the cluster ngc 2682 ( m 67 ) to other high - resolution abundance studies in the literature shows general good agreement for almost all elements in common .    </S>",
+    "<S> [ firstpage ]     galaxy : abundances  galaxy : open clusters and associations  stars : abundances : general  open clusters : individual : ngc 2251 , ngc 2266 , ngc 2335 , ngc 2482 , ngc 2527 , ngc 2539 and ngc 2682 </S>"
+  ]
+}

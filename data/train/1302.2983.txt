@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "in recent years , an increasing number of new transients with unusual properties have been discovered thanks to the advent of modern , wide - field optical transient surveys , such as the texas supernova search ( tss , * ? ? ?",
+    "* ) the catalina real - time transient survey ( crts , drake et al .",
+    "2009 ) , the palomar transient factory ( ptf , * ? ? ?",
+    "* ) and the panoramic survey telescope and rapid response system ( pan - starrs , * ? ? ?",
+    "many new objects have been found in regions of the time - scale / luminosity parameter space unexplored before ( e.g. faint and/or fast evolving transients ) or were located in regions of the sky undersampled by traditional _ targeted_-surveys ( transients in faint hosts or in the outskirts of bright galaxies ) .",
+    "driven by their observed characteristics , attempts have been made to arrange these novel transients in new classes , trying also to revise the classification of historical sne in the context of non - standard scenarios .",
+    "in particular , major efforts have been made to theoretically explain new transients that may not be due to the canonical mechanisms of iron core collapse or the thermonuclear explosion of near - chandrasekhar - mass white dwarfs .    among these new transients ,",
+    "a wide group of peculiar hydrogen - free supernovae ( sne ) has recently been studied in detail ( including sn  2008 ha : @xcite ; sn",
+    "2005e : @xcite ; sn  2002bj : @xcite ; sn  2010x : @xcite ; sn  2005cz : @xcite ; ptf09dav : @xcite ; sn  2010et / ptf10iuv : @xcite ) .    sne  2002bj and 2010x are two rapidly declining sne @xcite . however , beyond the fast evolution they have in common , they differ in absolute magnitude and photospheric velocities . if the light curve is powered by @xmath4ni decay , their fast evolution indicates a very small ejected mass ( e.g. 0.16 for sn  2010x , * ? ? ?",
+    "accretion - induced collapse of an o - ne - mg white dwarf @xcite , a thermonuclear helium shell detonation on a white dwarf @xcite and fallback core collapse @xcite are the most common scenarios proposed to explain these two sne .",
+    "sn  2008 ha is probably the faintest hydrogen poor sn ever studied so far .",
+    "its extremely low photospheric velocity and fast light - curve evolution ( but not as fast as in the rapidly declining sne mentioned above ) are consistent with a very low mass and kinetic energy @xcite . given these characteristics , the same models as mentioned above have been proposed to explain sn  2008 ha .",
+    "however , a few additional models have been suggested , including fe or one core - collapse triggered by electron captures @xcite or a failed deflagration of a carbon oxygen white dwarf @xcite .",
+    "recently , due to its spectral similarity with sn 2002cx , sn 2008 ha has been included as a low - velocity and low - mass member of the sn  iax subclass @xcite .",
+    "sne  iax include objects with spectra similar to those of sn  2002cx , but that show a wide range of line velocities and luminosities @xcite .",
+    "most sne belonging to this class exploded in late - type galaxies .    in this paper",
+    ", we will mostly focus on a group of objects often referred to as ` ca - rich transients ' @xcite",
+    ". these are faint type i sne , which reach peak absolute magnitudes of @xmath5 and exhibit photospheric expansion velocities of @xmath111000 .",
+    "they preferentially occur in the outskirts of their presumed host galaxies @xcite and their designation stems from prevalent [ ] lines that dominate their spectra soon after maximum .",
+    "the first recognized member of this class is sn 2005e , for which @xcite inferred a calcium mass of 0.135 , which is much larger than ever seen in other sne , combined with a very low total ejected mass ( @xmath1 0.3 ) .",
+    "its location , the he - rich spectra , the low luminosity , and the small ejected mass led @xcite to suggest a helium detonation on a helium - accreting white dwarf .",
+    "other members of this group of objects are sn  2005cz , sn  2010et and ptf11bij .",
+    "they all show strong ca lines , he lines in early spectra , weak o features in late spectra , a modest luminosity and a fast transition to the nebular phase .",
+    "the latter property is a robust evidence of a small ejecta mass ."
+  ],
+  "abstract_text": [
+    "<S> we present optical and infrared monitoring data of sn  2012hn collected by the public eso spectroscopic survey for transient objects ( pessto ) . </S>",
+    "<S> we show that sn  2012hn has a faint peak magnitude ( m@xmath0@xmath1@xmath2 ) and shows no hydrogen and no clear evidence for helium in its spectral evolution . instead </S>",
+    "<S> , we detect prominent lines at all epochs , which relates this transient to previously described ` ca - rich ' or ` gap ' transients . </S>",
+    "<S> however , the photospheric spectra ( from @xmath3 to + 32d with respect to peak ) of sn  2012hn show a series of absorption lines which are unique , and a red continuum that is likely intrinsic rather than due to extinction . </S>",
+    "<S> lines of and are visible . </S>",
+    "<S> this may be a temperature effect , which could also explain the red photospheric colour . </S>",
+    "<S> a nebular spectrum at + 150d shows prominent , , and possibly lines which appear similar in strength to those displayed by core - collapse sne . to add to the puzzle , </S>",
+    "<S> sn  2012hn is located at a projected distance of 6 kpc from an e / s0 host and is not close to any obvious starforming region . </S>",
+    "<S> overall sn  2012hn resembles a group of faint h - poor sne that have been discovered recently and for which a convincing and consistent physical explanation is still missing . they all appear to explode preferentially in remote locations offset from a massive host galaxy with deep limits on any dwarf host galaxies , favouring old progenitor systems . </S>",
+    "<S> sn  2012hn adds heterogeneity to this sample of objects . we discuss potential explosion channels including he - shell detonations and double detonations of white dwarfs as well as peculiar core - collapse sne .    </S>",
+    "<S> supernovae : general  supernovae : sn  2012hn  galaxies : ngc  2272 </S>"
+  ]
+}

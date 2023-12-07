@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the neutron stars psr j2144@xmath23933 and sgr 0418 + 5729 have strongly called attention because their respective periods @xmath3 s and @xmath4 s are typical of magnetars but their respective magnetic fields @xmath5 g and @xmath6 g are typical of radio pulsars ( tiengo et al 2011 ; rea et al .",
+    "this seems to indicate that both pulsars were born as magnetars , but their magnetic fields decayed to intensities typical of radio pulsars .",
+    "this paper suggests that this decay was ultrafast and occurred during the birth of these stars .",
+    "more generally , this paper suggests the idea that all neutron stars at birth experienced an abrupt exponential decay of their magnetic fields from their initial values @xmath7 to their current surface values @xmath8 .",
+    "the nascent neutron stars then radiated electromagnetic energy during the specific time @xmath9 . if this radiative energy is converted into kinetic energy then the time @xmath9 is shown to be of the order of @xmath0s provided that the initial magnetic fields lie in the range of @xmath1 g .",
+    "this means that neutron stars are born with magnetic fields of magnetars .",
+    "magnetic instabilities occurring at the end of the birth process [ geppert & rheinhardt(2011 ) ] seems to be the cause of the field decay .",
+    "the basic assumption in this paper is that there is a radiation reaction process that can convert all radiative energy produced by the field decay into kinetic energy .",
+    "neutron stars acquire their high velocities during the decay of their magnetic fields .",
+    "the larmor formula for the power radiated by a time - varying magnetic dipole moment @xmath10 and the estimate @xmath11 , where @xmath12 is the characteristic time in the exponential field decay law @xmath13 imply the equation @xmath14 which can be used together with the relation @xmath15 to yield the power radiated by a neutron star of radius @xmath16 and an initial magnetic field @xmath7 : @xmath17 consider now the specific time @xmath9 elapsed during the field decay from @xmath7 to the current surface magnetic field @xmath8 .",
+    "the condition @xmath18 and the exponential law @xmath19 imply @xmath20 and thus @xmath21 during the time @xmath9 the energy radiated @xmath22 is given by @xmath23 if this energy is converted into kinetic energy @xmath24 of the neutron star then @xmath25 , which implies @xmath26^{1/3}.$ ] to get the order of magnitude of @xmath12 consider a neutron star with @xmath27 g and @xmath28 km / s .",
+    "if one assumes @xmath29 g then @xmath30 this is the theoretical shortest time for accelerating the neutron star .",
+    "one can adopt the time @xmath31 as the characteristic time in the law @xmath19 .",
+    "this adoption implies the specific time @xmath32 for the abrupt field decays one has @xmath33 and then @xmath34s , which indicates that the decay from @xmath7 to @xmath8 is ultrafast if @xmath7 lies in the range of @xmath35 g . using @xmath31",
+    "the assumed energy conversion reads @xmath36 .",
+    "this equation and @xmath37 , @xmath38 and @xmath39 km implies the following expression the initial magnetic field : @xmath40 where @xmath41gr/@xmath42 and @xmath43 is the lambert function , which is defined as the inverse of the function @xmath44 satisfying @xmath45 . remarkably , eq .",
+    "( 1 ) predicts the value of @xmath7 in terms of the current values for @xmath46 and @xmath8 of the neutron stars .",
+    "as already mentioned , the enigmatic pulsar psr j2144 - 3933 exhibits magnetar properties but its magnetic field is typical of radio pulsars : @xmath47 g . this pulsar has the transverse velocity @xmath48 km / s ( tiengo et al . 2011 ) . in this case",
+    "( 4 ) predicts @xmath49 g indicating that this pulsar was born with a magnetic field typical of magnetars .",
+    "analogously , the sgr 0418 + 5729 also exhibits magnetar properties but it has a field of radio pulsar : @xmath50 g ( rea et al . 2010 ) .",
+    "the velocity @xmath51 of this pulsar has not been reported yet .",
+    "it is reasonable to assume that this velocity lies in the range @xmath52 km / s .",
+    "if this would be the case , then eq .  ( 1 ) predicts that the initial magnetic field sgr 0418 + 5729 lies in the range @xmath53 g indicating that this sgr was born with an initial magnetic field typical of magnetars .    equation  ( 1 ) can be applied to the set of 130 neutron stars whose periods @xmath54 are in the interval : @xmath55 s@xmath56 s. the values of @xmath57 and @xmath51",
+    "are taken from the atnf pulsar catallogue v 1.43 ( www.atnf.csiro.au/research/pulsar/psrcat ; manchester et al . 2005 ) ] .",
+    "the average values are @xmath58 g and @xmath59 km / s . for this set of pulsars , eq .",
+    "( 1 ) predicts @xmath60 g .",
+    "one can also consider the case of the 9 isolated millisecond pulsars in the interval : @xmath61 s @xmath62 s. the average values are @xmath63 g and @xmath64 km / s .",
+    "for this set , eq .",
+    "( 1 ) predicts @xmath65 g .",
+    "one concludes then that all neutron star are born with magnetic fields of magnetars ."
+  ],
+  "abstract_text": [
+    "<S> this paper suggests the idea that all neutron stars experienced at birth an ultrafast decay of their magnetic fields from their initial values to their current surface values . </S>",
+    "<S> if the electromagnetic energy radiated during this field decay is converted into kinetic energy of the neutron star via the radiation reaction mechanism then the decay time is of the order of @xmath0s provided that the initial magnetic fields lie in the range of @xmath1 g . </S>",
+    "<S> this means that all neutron stars are born with magnetic fields typical of magnetars . according to this model </S>",
+    "<S> the neutron stars acquire their observed high space velocities during the birth ultrafast decay of their magnetic fields . the origin of this field decay points to magnetic instabilities occurring at the end of the birth process . </S>"
+  ]
+}

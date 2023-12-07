@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "[ cols=\"^,^,^ \" , ]     this paper introduces roborobo ! , a light - weight multi - platform simulator for extensive robotics experiment , based on basic robotic hardware setup similar to the famous epuck  @xcite or khepera  @xcite robotic platforms .",
+    "roborobo ! is mostly intended at , but not limited to , researchers and practictionners interested in collective adaptive systems and evolutionary robotics , with a particular emphasis on embodied evolution ( ie .",
+    "online evolution ) and swarm robotics ( @xmath0 robots , as illustrated in figure  [ roborobo - demo ] ) .",
+    "the underlying idea is to provide a versatile framework for easy development of new ideas and very fast and robust implementation for extensive experiments .",
+    "roborobo ! is available under the new bsd licence  @xcite at https://code.google.com / p / roborobo/.    with respect to other robotic simulators , roborobo ! takes an intermediate approach to model a robotic setup in order to combine ( pseudo-)realistic modelling with fast - paced simulation . as such",
+    ", it stands inbetween realistic , but slow , robotic simulation framework ( such as player / stage  @xcite , webots  @xcite , v - rep  @xcite , gazebo  @xcite or microsoft robotic developper studio  @xcite ) , and unrealistic , but easy to use , agent - based simulation tools such as netlogo  @xcite and mason  @xcite .",
+    "it also differs from easy - access and fast robotic agent simulators such as breve  @xcite and simbad  @xcite , by focusing solely on swarm and aggregate of robotic units , focusing on large - scale population of robots robots on a 4 gb laptop computer . ] in 2-dimensional worlds rather than more complex 3-dimensional models .",
+    "roborobo ! is written in @xmath1 with the multi - platform sdl graphics library  @xcite as unique dependency , enabling easy and fast deployment .",
+    "it has been tested on a large set of platforms ( pc , mac , openpandora  @xcite , raspberry  pi  @xcite ) and operating systems ( linux , macos  x , ms windows ) .",
+    "it has also been deployed on large clusters , such as the french grid5000  @xcite national clusters .",
+    "roborobo ! has been initiated in 2009 and is used on a daily basis in several universities for both research and education , including universite paris - sud and universite pierre et marie curie ( france ) , vrije universiteit amsterdam ( nl ) , and ntnu ( norway ) .",
+    "roborobo ! was originaly developped by nicolas bredeche in @xmath2 in the context of the european symbrion integrated project  @xcite , and has been continuously extended since then .",
+    "it has been extensively used in various contexts , mostly concerned with evolutionary robotics and swarm robotics , including embodied evolution  @xcite , environment - driven evolutionary adaptation  @xcite and self - assembly  @xcite .",
+    "the authors wish to thank all people who contributed to this project , including leo cazenille .",
+    "this work was made possible by the european union fet proactive initiative : pervasive adaptation funding the symbrion project under grant agreement 216342 .",
+    "roborobo ! was extensively tested in a cluster environment using the grid5000 experimental testbed , being developed under the inria aladdin development action with support from cnrs , renater and several universities as well as other funding bodies ( see https://www.grid5000.fr ) ."
+  ],
+  "abstract_text": [
+    "<S> roborobo ! is a multi - platform , highly portable , robot simulator for large - scale collective robotics experiments . </S>",
+    "<S> roborobo ! is coded in c++ , and follows the kiss guideline ( `` keep it simple '' ) . </S>",
+    "<S> therefore , its external dependency is solely limited to the widely available sdl library for fast 2d graphics . </S>",
+    "<S> roborobo ! is based on a khepera / epuck model . </S>",
+    "<S> it is targeted for fast single and multi - robots simulation , and has already been used in more than a dozen published research mainly concerned with evolutionary swarm robotics , including environment - driven self - adaptation and distributed evolutionary optimization , as well as online onboard embodied evolution and embodied morphogenesis . </S>"
+  ]
+}

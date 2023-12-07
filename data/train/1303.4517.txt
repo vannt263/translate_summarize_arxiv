@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "in 1971 graham and pollak studied a problem related to a switching task performed at bell systems @xcite .",
+    "the underlying problem was modeled with a graph @xmath5 and the task was to find the shortest labeling @xmath6 of its vertices such that the hamming distance of the labels matches the distance of the vertices .",
+    "that is @xmath7 where @xmath8 denotes the _ hamming _ distance between the binary strings @xmath9 and",
+    "@xmath10 using the theory of quadratic forms they have found a lower bound for @xmath11 in terms of the number of negative @xmath12 and positive @xmath13 eigenvalues of the _ distance matrix _",
+    "@xmath14 of a graph @xmath15 in addition they have shown the surprising identity @xmath16 for any tree @xmath17 of order @xmath18 for a more in - depth treatment of this problem see @xcite and @xcite for a more general exposition of such problems .    the result for the determinant of the distance matrix of a tree was extended further by graham and lovsz @xcite by generalizing ( [ eq ] ) to all coefficients of the characteristic polynomial of @xmath19 in the same paper they remarked that it is not known whether a graph @xmath1 exists such that @xmath20 in this paper we show that such graphs exist indeed . in virtue of the fact that their distance matrix has more positive than negative eigenvalues we call them _ optimistic graphs . _",
+    "it can be verified by means of a computer that there is no optimistic graph on up to 11 vertices .",
+    "however , we show that there is such a graph on 13 vertices .",
+    "we recall that a _ strongly - regular _ graph with parameters @xmath21 is a @xmath22-regular graph of order @xmath23 in which any pair of adjacent vertices has @xmath24 vertices in common while any pair of non - adjacent vertices share @xmath25 common neighbors . for our purposes we are interested in _ conference graph _ which are strongly regular graphs with parameters",
+    "@xmath26 it follows from the theory of strongly regular graphs @xcite that the adjacency matrix of a strongly regular graph with such parameters has eigenvalues @xmath27 of multiplicities @xmath28 respectively . in the following theorem",
+    "we show that the distance matrix of every conference graph of order @xmath29 has precisely @xmath30 positive eigenvalues , by computing the eigenvalues of the distance matrix of a strongly regular graph .",
+    "[ t1 ] every conference graph of order @xmath31 is optimistic .",
+    "let @xmath1 be a strongly - regular graph with parameters @xmath32 and distance matrix @xmath33 let @xmath34 be two distinct vertices of @xmath15 by definition , the number of 2-walks between @xmath35 and @xmath23 is @xmath24 if @xmath35 and @xmath23 are adjacent and @xmath25 otherwise .",
+    "if @xmath36 denotes the _ adjacency _ matrix of @xmath37 then since @xmath1 has diameter 2 its distance matrix is @xmath38 for a conference graph this simplifies further to @xmath39 since this is a polynomial in @xmath36 we obtain the eigenvalues of @xmath0 by plugging the eigenvalues ( [ eqeig ] ) in the above equation .",
+    "we thus infer that if @xmath1 is a conference graph it has eigenvalues @xmath40 and since for @xmath31 precisely @xmath30 of the eigenvalues are positive we deduce our claim .",
+    "@xmath41    before commenting the result we state the relation derived in the above proof that can be used to compute the eigenvalues of the distance matrix of a strongly regular graph .    [ propid ]",
+    "let @xmath1 be a connected strongly regular graph with parameters @xmath42 adjacency matrix @xmath36 and distance matrix @xmath33 then @xmath43 is an eigenvalue of @xmath36 if and only if @xmath44 is an eigenvalue of @xmath33    for a prime power @xmath45 where @xmath46 the paley graph @xmath47 is defined as the graph with vertex set @xmath48 two vertices @xmath49 being adjacent if and only if @xmath50 is a square in @xmath51 theorem [ t1 ] implies that @xmath52 in particular we have shown that for any conference graph of order @xmath29 @xmath53 we can find additional optimistic graphs by extending our search from here in virtually every direction . for example there are many other optimistic strongly - regular graphs , one of them being the hall - janko graph @xmath54 with parameters @xmath55 it can be verified using ( [ eq1 ] ) that @xmath56 there are additional self - complementary optimistic graphs as well .",
+    "a non - regular example is shown on figure [ sc ] .",
+    "it can be checked that ( excluding the paley graphs ) there are precisely 6 more optimistic self - complementary graphs on up to @xmath57 vertices , all of them satisfying the relation @xmath58 and having diameter 2 .",
+    "however there are examples of optimistic graphs of higher diameter as well .",
+    "the smallest vertex - transitive optimistic graphs having diameter 3 and 4 respectively are depicted on figure [ hd ] .",
+    "their graph6 representation being ` usacc@u]qwlodoio@wbi?so?{??@~??lw?h{?bv ? ` and ` ysp@?__c?a?o@@aa?goca?c??_g?g?@o?g??@?????o_?cc???s???g _ ` . for a description of the graph6 format see @xcite .",
+    "in the process of reviewing the paper one of the reviewers asked if the gap between @xmath13 and @xmath12 can be made arbitrarily large .",
+    "in particular the referee asked whether one can construct graphs of order @xmath11 such that @xmath59 for some constant @xmath60 as it turns out one can obtain an even larger gap of order @xmath18 it is well known @xcite that there exist a strongly regular graph with parameters @xmath61 for any @xmath62 from proposition [ propid ] we can deduce that the eigenvalues of its distance matrix are @xmath63 with respective multiplicities @xmath64 hence for every such graph @xmath1 we have @xmath65    as remarked at the beginning of the section a computer search indicated that there is no optimistic graph on at most 11 vertices . since there are too many graphs of order 12 to be inspected trivially we leave the following for further research    is there an optimistic graph of order 12 ? if not , is @xmath66 the unique optimistic graph on 13 vertices ?",
+    "the author is thankful to sandi klavar for constructive discussions and to nejc trdin for kindly sharing his computational resources .",
+    "finally , the author would like to thank the anonymous reviewers for their useful suggestions ."
+  ],
+  "abstract_text": [
+    "<S> let @xmath0 be the distance matrix of a connected graph @xmath1 and let @xmath2 be the number of strictly negative and positive eigenvalues of @xmath0 respectively . </S>",
+    "<S> it was remarked in @xcite that it is not known whether there is a graph for which @xmath3 in this note we show that there exists an infinite number of graphs satisfying the stated inequality , namely the _ conference graphs _ of order @xmath4 a large representative of this class being the _ </S>",
+    "<S> paley graphs_. the result is obtained by derving the eigenvalues of the distance matrix of a strongly - regular graph .    </S>",
+    "<S> * keywords : distance matrix , distance spectrum , strongly regular graph , paley graph *    * ams subj . class . </S>",
+    "<S> ( 2010 ) * : 05c12 , 05c50 </S>"
+  ]
+}

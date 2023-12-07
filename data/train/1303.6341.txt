@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "critical bond percolation on @xmath3 is the most natural model of a random subgraph of the square lattice : each edge of the lattice is included with probability @xmath4 , independently of all other edges . despite the simplicity of its definition , it is difficult to analyze rigorously . though the spectacular recent results of smirnov @xcite and lawler - schramm - werner @xcite related to critical exponents , conformal invariance and the schramm - loewner evolution ( sle ) have resolved many of the outstanding open problems for the related model of critical site percolation on the triangular lattice , the same problems are still unsolved in the case of bond percolation on @xmath3 .    in this paper",
+    "we will study another percolation model , which is related to critical bond percolation on @xmath3 and can be thought of as a variant of it .",
+    "we will refer to the model as * loop percolation on @xmath3 * ; an equivalent model has been studied in the statistical physics literature under different names such as the * dense @xmath0 loop model * @xcite or * completely packed loops * @xcite .",
+    "another closely related model is the special case of the * xxz spin chain * in which the so - called anisotropy parameter @xmath5 takes the value @xmath6 ; see @xcite .",
+    "our motivation in studying this model was twofold : first , to point out , and attempt to systematically exploit , the inherent interest and approachability of the model from the point of view of probability theory  qualities which have not been emphasized in previous studies .",
+    "second , to use and enhance some of the deep algebraic tools ( referred to under the broad heading of the * quantum knizhnik - zamolodchikov equation * ) that were developed in recent years to compute explicit formulas for several quantities of interest in the model . in this paper",
+    "we focus on algebraic techniques .",
+    "the follow - up paper @xcite will contain additional results of a more probabilistic flavor .",
+    "let us start with the definition of the model .",
+    "we define loop percolation in the entire plane , but later we will also consider the model on a half - plane and on a semi - infinite cylinder .",
+    "consider the square lattice @xmath3 equipped with a checkerboard coloring of the squares of the dual lattice , such that the square whose bottom - left corner is @xmath7 is white . * loop percolation * is the random subgraph @xmath8 of @xmath3 obtained by tossing a fair coin for each white square in the dual lattice , independently of all other coins , and including in @xmath9 either the bottom and top edges of or the left and right edges of according to the result of the coin toss ( fig .",
+    "[ fig : lp - two - edge - confs ] ) .",
+    "( 10,3)(0,0 ) ( 0,0)(3,3 ) ( 7,0)(3,3 ) ( 0,0 ) ( 3,0 ) ( 0,3 ) ( 3,3 ) ( 7,0 ) ( 10,0 ) ( 7,3 ) ( 10,3 ) ( 0,0)(1,0)3 ( 0,3)(1,0)3 ( 7,0)(0,1)3 ( 10,0)(0,1)3    cc    ( 3.7,3.4)(0,0.1 ) ( -0.35,1.8)(a ) ( 0,1.8)@xmath10 ( 3.55,1.8)@xmath10 ( 1.8,0)@xmath11 ( 1.8,3.48)@xmath11 ( 0.2,0.15 )     +    ( 3.7,3.4)(0,0 ) ( -0.35,1.8)(b ) ( 0,1.8)@xmath10 ( 3.55,1.8)@xmath10 ( 1.8,0)@xmath11 ( 1.8,3.48)@xmath11 ( 0.2,0.15 )    fig .",
+    "[ fig : bondloop ] shows portions of a critical bond percolation configuration and an ( unrelated ) loop percolation configuration .",
+    "in fact , the two models are equivalent , in the following sense .",
+    "the black squares form the vertices of a graph where two black squares are adjacent if their centers differ by one of the vectors @xmath12 . identifying each black square with its center",
+    ", this graph decomposes into disjoint components of `` blue '' and `` red '' sites according to parity , each component being isomorphic to @xmath3 .",
+    "define a subgraph @xmath13 of the blue component whose edges are precisely those that do not cross an edge of the loop percolation graph .",
+    "then it is easy to see that @xmath13 is a critical bond percolation graph ; see fig .",
+    "[ fig : bond - loop - connection ] .",
+    "conversely , it is clear that starting from the critical bond percolation graph one can reconstruct the associated loop percolation graph .    [",
+    "cols=\"^,^,^ \" , ]",
+    "the author thanks omer angel , nathanal berestycki , jan de gier , christina goldschmidt , alexander holroyd , rick kenyon , james martin , bernard nienhuis , ron peled , david wilson , doron zeilberger , and paul zinn - justin for comments and helpful discussions during the preparation of the paper , and an anonymous referee for helpful suggestions .",
+    "n. temperley , e. lieb .",
+    "relations between the percolation and colouring problem and other graph - theoretical problems associated with regular planar lattices : some exact results for the percolation problem .",
+    "r. soc . a _ * 322 * ( 1971 ) , 251280 .                p.  zinn - justin , p.  di francesco",
+    ". quantum knizhnik - zamolodchikov equation , totally symmetric self - complementary plane partitions and alternating sign matrices .",
+    "* 154 * ( 2008 ) , 331348 ."
+  ],
+  "abstract_text": [
+    "<S> loop percolation , also known as the dense @xmath0 loop model , is a variant of critical bond percolation in the square lattice @xmath1 whose graph structure consists of a disjoint union of cycles . </S>",
+    "<S> we study its connectivity pattern , which is a random noncrossing matching associated with a loop percolation configuration . </S>",
+    "<S> these connectivity patterns exhibit a striking rationality property whereby probabilities of naturally - occurring events are dyadic rational numbers or rational functions of a size parameter @xmath2 , but the reasons for this are not completely understood . </S>",
+    "<S> we prove the rationality phenomenon in a few cases and prove an explicit formula expressing the probabilities in the `` cylindrical geometry '' as coefficients in certain multivariate polynomials . </S>",
+    "<S> this reduces the rationality problem in the general case to that of proving a family of conjectural constant term identities generalizing an identity due to di  francesco and zinn - justin . </S>",
+    "<S> our results make use of , and extend , algebraic techniques related to the quantum knizhnik - zamolodchikov equation .    </S>",
+    "<S> key words : loop percolation , @xmath0 loop model , xxz spin chain , noncrossing matching , connectivity pattern , constant term identity , quantum knizhnik - zamolodchikov equation , wheel polynomials    2010 mathematics subject classification : 60k35 , 82b20 , 82b23 . </S>"
+  ]
+}

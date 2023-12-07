@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "in recent years , the wide success of the generally accepted cosmological concordance model has been overshadowed by some inconsistencies , one of which being the problem of dark energy , addressing the unexplained positive accelerated expansion of the universe @xcite .",
+    "various efforts , mostly in the form of modifications or extensions of the standard model of cosmology , have been introduced to understand the physical nature of dark energy .",
+    "many models have been developed in the literature , but unfortunately none of them has managed to clarify the origin and nature of dark energy satisfactorily @xcite . most of these models are based on the notion of a homogeneous and isotropic universe , described by the friedmann - robertson - walker ( frw ) metric , @xmath2 . given the considerable amount of proposals to resolve the issue of dark energy and the difficulties in distinguishing fairly between models and evaluating precisely the degree of accordance between a model and the data , it is desirable to develop an analysis which describes solely the kinematics of the universe without relying implicitly on a particular model @xcite . the purpose of this work is twofold .",
+    "we first discuss the concept of cosmography , a technique of data analysis able to fix bounds on the observable universe from a model - independent point of view ; giving particular regard to developing a viable cosmographic redshift parametrization , which reduces the systematic errors on the fitting coefficients .",
+    "in addition to that , we derive constraints on the equation of state ( eos ) parameter of the universe directly from data , alleviating the degeneracy problem between cosmological models .",
+    "in this section , we present the basic principles of cosmography and illustrate the way of performing the cosmographic analysis . by involving the cosmological principle only , and correspondingly the frw metric",
+    ", it is possible to infer in which way dark energy or alternative components are influencing the cosmological evolution , without implicitly presuming any specific properties or nature of these components .",
+    "the idea is to expand the most relevant observables such as the hubble parameter or cosmological distances into power series , and introducing cosmological parameters directly related to these observable quantities @xcite . in doing so , it is possible to appraise which models are well in accordance with data and which ones should be discarded as a consequence of not satisfying the basic demands of cosmography . in expanding the luminosity distance @xmath3 into a taylor series in terms of the cosmological redshift @xmath0 , we introduce two further notions of redshift , defined as @xmath4 . these parameterizations are designed to reduce some disadvantages of the commonly used and well - known notion of the redshift @xmath0 for the analysis , as e.g. the loss of convergence of the power series for values of @xmath5 . in particular , while @xmath6 was previously introduced in the literature @xcite , we propose to use @xmath7 , which has been obtained by requiring a better convergence behavior of @xmath3 .",
+    "our recipe for determining a redshift variable consists in satisfying three considerations : @xmath8 the luminosity distance should not behave too steeply in the interval @xmath9 , @xmath10 the luminosity distance should not exhibit sudden flexes and @xmath11 the curve should be one - to - one invertible .",
+    "it turns out that the newly introduced @xmath7 is more suitable for a cosmographic analysis than @xmath6 . for @xmath7 , the parametrization of the luminosity distance",
+    "is given by @xmath12 $ ] .",
+    "furthermore , to counteract the problem of high inaccuracies which is created by cutting the power series expansions too early , we have expanded all quantities up to sixth order . for the numerical fits we made use of the recent data of union 2 supernovae ia , of the hubble space telescope ( hst ) measurements of the hubble parameter , and of the @xmath13 compilations @xcite , using a markov chain monte carlo method by modifying the publicly available code cosmomc @xcite .",
+    "in addition to our generalizations regarding different notions of redshift , we also include a parametrization of the cosmological distance in terms of the eos parameter @xmath14 of the universe and of the derivatives @xmath15 of the total pressure .",
+    "this allows us to directly fit the eos parameter of the universe from data without having to undergo disadvantageous error propagation in calculating the values from the cosmographic series .",
+    "this procedure gives clear constraints on the eos parameter and on the pressure derivatives in the framework of general relativity , and thus provides a direct way to compare the predictions of a model for the eos to observational data @xcite .",
+    "the parametrization of the luminosity distance in terms of the eos parameter set and as a function of @xmath7 is given by @xmath16 $ ] .",
+    "the numerical results for the parameters of the cosmographic series , i.e. @xmath17 etc . , using the newly introduced redshift @xmath7 , can be found in table  [ tab : y4 ] .",
+    "the numerical results show a good agreement with @xmath1cdm , although they seem to be compatible with dark energy possessing constant pressure and an evolving equation of state as well .",
+    "the corresponding cosmological model @xcite appears to be quite indistinguishable from @xmath1cdm .",
+    "r. amanullah et al .",
+    "( scp collaboration ) , astrophys .",
+    "j. * 716 * , 712 ( 2010 ) ; a.g .",
+    "riess et al . , astrophys .",
+    "j. * 699 * , 539 ( 2009 ) ; r. jimenez , l. verde , t. treu , and d. stern , astrophys .",
+    "j. * 593 * , 622 ( 2003 ) ."
+  ],
+  "abstract_text": [
+    "<S> we use cosmography to present constraints on the kinematics of the universe without postulating any underlying theoretical model _ a priori_. to this end , we use a markov chain monte carlo analysis to perform comparisons to the supernova ia union 2 compilation , combined with the hubble space telescope measurements of the hubble constant , and the hubble parameter datasets . the cosmographic approach to our analysis </S>",
+    "<S> is revisited and extended for new notions of redshift presented as alternatives to the redshift @xmath0 . </S>",
+    "<S> furthermore , we introduce a new set of fitting parameters describing the kinematical evolution of the universe in terms of the equation of state of the universe and derivatives of the total pressure . </S>",
+    "<S> our results are consistent with the @xmath1cdm model , although alternative models , with nearly constant pressure and no cosmological constant , match the results accurately as well . </S>"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "such as the nonlinear schrdinger equation ( nlse ) , the complex cubic - quintic ginzburg - landau equation ( ccqgle ) is one of the most intensively studied equation describing weakly nonlinear phenomena in dissipative systems @xcite .",
+    "thus , much work has been done about the features and the properties of this equation as well as its numerous applications such as nonlinear waves , superconductivity , superfluidity @xcite , bose - einstein condensation , bnard convection @xcite and nonlinear optics @xcite . + solitary waves ( or solitons ) are self localized solutions of certain nonlinear pdes describing the evolution of a dissipative system @xcite . whereas traditional solitons are stationary in time and preserve their shape upon interaction , some dissipative soliton solutions of the ccqgle are non stationary . in hamiltonian systems ,",
+    "stationary solitons exist as a result of a balance between diffraction / dispersion and nonlinearity .",
+    "however , a dissipative system is known to be far from equilibrium and is defined by energy exchanges with external sources . thus , there is no conserved quantity , which implies that they are not hamiltonian systems . in dissipative systems ,",
+    "solitons are obtained by balancing gain and loss . as a result , whereas solutions are defined by one parameter family in hamiltonian systems , in dissipative systems solutions are obtained with varying amplitude and width that are fixed by the parameters of the equation .",
+    "therefore , the inverse scattering method @xcite which is used to calculate solutions of integrable and some non integrable hamiltonian systems can not be used in our case . in this paper , we present new classes of soliton solutions of the ccqgle and we analyze both their shape and energy evolution that depends strongly on the parameters used , and choice of initial conditions .",
+    "the development of powerful numerical tools over the last decades lead us to use an accurate spectral method for the spatial discretization , together with a @xmath0 order adams - bashforth scheme for temporal discretization . due to the intensive computations codes in fortran 90 , we run simulations on zeus cluster ( 256 nodes dual xeon 3.2 ghz processors , 1024 kb cache 4 gb with myrinet ) at embry - riddle aeronautical university . for each class of solitons , simulations lasted from several hours to several days .",
+    "numerical simulations are based on the 2d ccqgle model with transverse laplacian @xmath1 that takes into account spatial diffraction in the paraxial wave approximation .",
+    "quintic terms are essential in order to obtain stable solitons @xcite @xmath2 @xmath3 is the normalized envelope of the field which is a complex function , @xmath4 and @xmath5 are the transverse spatial coordinates and @xmath6 is the propagation distance along the optical fiber ( or cavity depth ) .",
+    "the physical parameters of the system are : @xmath7 linear gain / loss , @xmath8 angular spectral filtering , @xmath9 second - order diffraction coefficient , @xmath10 nonlinear gain / loss , @xmath11 nonlinear dispersion , @xmath12 saturation of the nonlinear gain / loss , and @xmath13 saturation of the nonlinear refractive index .",
+    "the solutions to will be computed using a fourier spectral method in which we will monitor the energy @xmath14 . for a localized solution ,",
+    "@xmath15 is finite and changes smoothly while the solution stays within the region of existence of the soliton . when @xmath15 changes abruptly there is a bifurcation and the solution jumps from a branch of solitons that become unstable to another branch of stable solitons , or vice versa .",
+    "as soon as the solution becomes unstable , @xmath15 diverges until infinity or collapses to @xmath16 . for a certain class of solutions",
+    ", @xmath15 will evolve periodically in some regime , and will converge to a finite value @xcite .",
+    "the main goal of this study is to find continuous parameter ranges around a fixed set in which each class of solitons remains stable .      first ,",
+    "an initial set of parameters published in @xcite is used for the elliptic , filament , pulsating and exploding classes , while for creeping we use parameters published in @xcite , see table 1 .",
+    "starting from these values , for each class we vary one parameter in a range of width @xmath17 while keeping all the other parameters constant . when we are outside of the range of existence of the solitons , we return to the initial value , and vary the other remaining parameters one by one .",
+    "after several simulations , we noticed that @xmath10 and @xmath7 seemed to be the more sensitive , i.e. , small changes of @xmath10 or @xmath7 implied significant changes of the solution .",
+    "thus , a step of @xmath18 has been chosen for these parameters whereas a step of @xmath19 has been used for @xmath8 , @xmath12 and @xmath13 . however ,",
+    "this behavior is not a general rule , so , in some cases , a smaller step has been used for the last three parameters .",
+    ".initial sets of parameters for 2d solitons . [",
+    "cols=\"^,^,^,^,^,^,^,^\",options=\"header \" , ]",
+    "in conclusion , we have found fascinating ( 2 + 1)d structures in dissipative media predicted by the complex cubic - quintic ginzburg - landau equation .",
+    "different types of solutions , spinning or not , such as elliptic vortex , filament , pulsating , exploding and creeping solitons have been categorized by focusing on their energy , shape and phase evolution .",
+    "regions of existence of these types of soliton have also been calculated in the five dimensional parameter space given by the physical parameters of the equation .",
+    "the study revealed interesting ranges and bifurcations for each structure . whereas non spinning structures have mainly lead to stable stationary solitons , due to",
+    "bifurcations spinning structures , symmetric or asymmetric , split and have revealed to be no spin solitons . by changing the initial conditions , and increasing the vorticity , allowed us to observe for the first time new types of solutions such as disorganized exploding and propeller solitons .",
+    "akhmediev n. , soto - crespo j. and town g. , _ pulsating solitons , chaotic solitons , period doubling , and pulse coexistence in mode - locked lasers : complex ginzburg - landau equation approach _",
+    ", physical review e * 63 * ( 2001 ) 56602 .",
+    "soto - crespo j. , akhmediev n. , devine n. and meja - corts c. , _ transformations of continuously self - focusing and continuously self - defocusing dissipative solitons _",
+    ", optics express * 16 * ( 2008 ) 15388 - 15401"
+  ],
+  "abstract_text": [
+    "<S> by using spectral methods , we present seven classes of stable and unstable structures that occur in a dissipative media . for different parameters of the equation , we find ranges of existence of stable structures ( spinning elliptic , pulsating , stationary , organized exploding ) , and unstable structures ( filament , disorganized exploding , creeping ) . by varying initial conditions , and vorticity </S>",
+    "<S> , we find a reacher behavior of solutions in the form of creeping - vortex ( propellers ) , spinning rings and spinning `` bean - shape '' solitons . </S>",
+    "<S> each class differentiates from the other by distinctive features of their shape and energy evolution , as well as domain of existence . </S>"
+  ]
+}

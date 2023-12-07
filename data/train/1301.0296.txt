@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the transits of venus have been observed and studied after johannes kepler s predictions published in the tabulae rudolphinae ( 1627 ) . on november 7 ,",
+    "1631 pierre gassendi observed firstly a planet transiting over the sun : mercury .",
+    "the following transit of venus was not seen . in 1639",
+    "jeremiah horrocks observed the first stages of the transit of venus on december 4 ( gregorian calendar ) , and used this observation to determine the distance sun - earth . later in 1716",
+    "edmond halley proposed the method to exploit the transit of venus to measure the distance sun - earth @xmath0 , and for the 1761 - 1769 both france and united kingdom organized worldwide expedition ( jean - baptiste chappe dauteroche , alexandre guy pingr , james cook and charles green ) to observe the transits of venus and to measure @xmath0 .",
+    "this parameter was also the goal of the next pair of transits in 1874 and 1882 , with the help of photography and spectroscopy . in 2004",
+    "there was a great didactic interest,@xcite being the transit entirely visible from all europe .",
+    "moreover the transits of 2004 - 12 have been studied in view of exoplanets with atmosphere in transits over their stars , as in the venus twilight experiment.@xcite venus and mercury transits are also crucial to know the past history of the solar diameter . through the w parameter , @xmath1 the logarithmic derivative of the radius with respect to the luminosity , the past values of the solar luminosity can be recovered .",
+    "the black drop phenomenon affects the evaluation of the instants of internal and external contacts between the planetary disk and the solar limb.@xcite with these observed instants compared with the ephemerides the value of the solar diameter is recovered . the expected accuracy on the diameter of the sun measured from ground with this method cleaned from black drop@xcite is expected to be better than 0.01 arcsec,@xcite with good images of the ingress and of the egress taken each second , as the observations made in chinese solar observatories of huairou and xi chong during the observational champaign of 2012 .",
+    "the measurement of @xmath0 is crucial for understanding the dimensions of our universe , being the first step of the cosmological distance ladder .",
+    "stellar parallaxes , firstly measured in 1838 by wilhelm bessel , have the basis in the astronomical unit , the semiaxis major of the earth s orbit .",
+    "the form of the earth s orbit was precisely known after kepler s astronomia nova ( 1609 ) , and the value of the eccentricity ( the double ) was already known by ptolemy ( 150 ad ) after the data on the durations of the seasons .",
+    "giovanni domenico cassini confirmed the keplerian theory in 1655 with its `` heliometer '' , a pinhole with meridian line located in the basilica of san petronio in bologna .",
+    "the angular variations of the solar diameter along the year confirmed the hypothesis of the bisection of the eccentricity.@xcite jeremiah horrocks ( 1618 - 1641 ) , a genial student of cambridge , recalculated himself the ephemerides of venus being in disagreement with the ones of philip lansberge ( 1561 - 1632 ) , and prepared accurately the observation of the transit on the sunday 24 november 1639 ( december 4 of gregorian calendar ) .",
+    "he prudently begun the observations to the day before , in order to take into account for errors , and he was enough lucky to observe the beginning of the transit occurring one hour before the local sunset of the predicted day .",
+    "his observation was published 21 years after his death by johannes hevelius in 1662 .",
+    "horrocks started to study the ephemerides when he was 14 - 15 years old , observed the transit at 21 , and died in his 22nd year .",
+    "horrocks wrote to his friend william crabtree ( 1610 - 1644 ) on 5th november 1639 his expectations on the transit . according to gassendi",
+    "the angular diameter of mercury was 20 arcsec , much smaller than kepler beliefs .",
+    "horrocks could state that venus angular diameter was 76 arcsec , again much smaller than all previous hypotheses .",
+    "the consideration that the angular diameter of the earth and venus would have been of the same order of magnitude as seen from the sun led horrocks to formulate the hypothesis that the distance earth - sun was 95.7 millions km , the largest ever thought up to his times .",
+    "both horrocks and gassendi made two measurements in excess with respect to the real values , because of diffractive and chromatic effects of the point - spread function of their small refracting telescopes .",
+    "halley proposed to use the transits of venus of 1761 - 69 to measure accurately the astronomical unit with the method of parallaxes which nowadays is classic .",
+    "and the values of these measurements started to converge to the actual value of 149.6 millions km .",
+    "@xcite the astronomical unit was perfectly known already in 1874 and 1882 transits as reading the reports of s. newcomb:@xcite the solar parallax was measured from the contact timings of the transits of venus as @xmath2 `` being @xmath3 '' the current value adopted in the astronomical constants . the astronomical unit is the fundamental distance for all astronomy and astrophysics and for gravitational physics to determine the product @xmath4 using the newton and kepler s laws .",
+    "p. tanga , et al . , _ icarus _ , * 218 * , 207 ( 2012 )",
+    ". b. e. schaefer , j. history of astronomy * 32 * 325 ( 2001 ) . c. sigismondi , arxiv 1211.4394 ( 2012 ) . c. sigismondi ,",
+    "x. wang , p. rocher and e. reis neto , arxiv 1301.0311 ( 2013 ) .",
+    "j. l. heilbron , _ the sun in the church _ , harvard university press ( 1999 ) .",
+    "a. chapman , _ dividing the circle : the development of critical angular measurement in astronomy 1500 - 1850 _ , ellis horwood ltd , chichester , west sussex , p. 26",
+    "p. marston , http://www.transit-of-venus.org.uk/conference/history.html ( 2007 ) .",
+    "t. pledge , _ science since 1500 : a short history of mathematics , physics , chemistry , biology _ her majesty s stationery office , london ( 1939 ) .",
+    "d. howse , _ greenwich time and the discovery of longitude _ oxford univ . press ( 1980 ) .",
+    "d. hughes , j. astronomy history and heritage * 4 * 15 ( 2001 ) . s. newcomb , _ the elements of the four inner planets and the fundamental constant of astronomy _ , 157 washington dc ( 1895 ) ."
+  ],
+  "abstract_text": [
+    "<S> only seven transits of venus have been observed and studied up to now since the first astronomical observations with the telescope : 1639 , 1761 - 69 , 1874 - 82 and 2004 - 12 . </S>",
+    "<S> the measurement of the astronomical unit has been one of the main goal of the study of this rare phenomenon , as well as the identification of the planetary atmosphere and its properties , the understanding of the black drop phenomenon and the measurement of the solar diameter . </S>",
+    "<S> the 1639 transit observed by j. horrocks is presented in more detail . </S>"
+  ]
+}

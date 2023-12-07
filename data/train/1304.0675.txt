@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "lagrangian formulations of general relativity abound in literature , but rather than differing in the choice of the lagrangian density they differentiate one another by the variable upon which the variation of the action has to be taken",
+    ". the most famous examples are pheraps the metric and palatini variational approaches .",
+    "the first one , sometimes called second order variation , considers the metric tensor as the only dynamical field variable while the second one , also known as first order variation , assumes the connection to be an independent field .",
+    "though both approaches reproduce the einstein field equations in vacuum , the latter gives rise to another theory whenever the independent connection is allowed to appear inside the matter action . in this case",
+    "the theoretical framework goes under the name of metric - affine variational principle and it is known not to recover general relativity in the presence of spinor fields , for example .    the scope of the present paper is to summarize the basic features of a new variational approach recently proposed@xcite . together with the metric , two completely independent connections , with no _ a priori _ assumpions , are considered as dynamical variables entering the gravitational action for general relativity .",
+    "the variation has thus to be taken independently with respect to the metric and both the connections . as we are going to show , applying this approach to a suitable generalization of the einstein - hilbert action leads to general relativity even when the matter action is allowed to depend on one of the connections . because of the presence of two connections and in analogy with bimetric thoeries of gravity",
+    ", this approach will be called _ biconnection variational principle_.",
+    "denote with @xmath0 and @xmath1 two independent connections , both containing torsion and non - metricity . in order to produce a new gravitational lagrangian within our framework",
+    ", we consider a generalization of the riemann tensor obtained by symmetrizing the anticommutation of the covariant derivatives over the two connections . for any vector @xmath2",
+    "we have then @xmath3v^\\alpha \\ , , \\label{001}\\end{gathered}\\ ] ] where @xmath4 , @xmath5 and @xmath6 , @xmath7 are the torsion tensors and covariant derivatives of @xmath8 and @xmath9 respectively .",
+    "the biconnection riemann tensor @xmath10 has been defined as @xmath11 notice that whenever the two connections coincide this reduces to the usual ( metric - affine ) riemann tensor and ( [ 001 ] ) becomes the standard formula for the commutation of covariants derivatives , which in general includes a torsion term .",
+    "the action we propose is thus @xmath12 where @xmath13 in analogy with the ricci tensor and the curvature scalar .",
+    "when @xmath14 this reduces to the palatini ( or metric - affine ) action .    to ( [ 002 ] ) we want to add a suitable matter action , where we have to make a choice upon the connection used to build covariant derivatives . in both metric and palatini",
+    "approaches this connection is assumed to be the levi - civita connection , while in metric - affine theories this is taken to be the independent connection which prevents the dynamical equivalence with general relativity . since we will make the rather physical assumptions that all the matter fields couple to the same connection , in our case we have three choices : the levi - civita connection , @xmath8 or @xmath9 .",
+    "the first choice would reduce the theory to palatini general relativity and thus will not be considered . because of the exchange symmetry @xmath15 of action ( [ 002 ] ) , it does not matter which one among this two connections enters the matter action .",
+    "we choose @xmath8 .",
+    "the total action of the theory is thus @xmath16 where @xmath17 denotes all matter fields collectively .",
+    "variation with respect to @xmath9 eventually yields the condition has to be considered here because of a projective symmetry of ( [ 002 ] ) .",
+    "see ref .   for full details .",
+    "] @xmath18 which means that @xmath8 reduces to be the levi - civita connection .",
+    "the role of @xmath9 is thus similar to the one played by a lagrange multiplier field .",
+    "the variation with respect to @xmath8 leads , after one takes into account condition ( [ 003 ] ) , to @xmath19}_\\sigma\\right ) \\",
+    ", , \\label{004}\\ ] ] where @xmath20 and @xmath21 is the variation of the matter action with respect to @xmath8 , the so - called _ hypermomentum_. finally , variation of action ( [ 005 ] ) with respect to the metric tensor produces , again after having taken into account ( [ 003 ] ) , the field equations @xmath22 where @xmath23 is the standard covariant derivative of the levi - civita connection , @xmath24 is the einstein tensor and @xmath25 is the variation of the matter action with respect to the metric .",
+    "note that this differs from the usual energy - momentum tensor @xmath26 of general relativity inasmuch as it lacks of the variation of the connection with respect to the metric .",
+    "using now equations ( [ 004 ] ) and some algebra , we can rewrite field equations ( [ 006 ] ) as @xmath27 the divergence in the right hand side of ( [ 007 ] ) represents exactly the missing variation of the connection with respect to the metric in the tensor @xmath28@xcite .",
+    "we thus have that ( [ 007 ] ) simply reduces to @xmath29 which are nothing but the _ einstein field equations_.",
+    "to conclude , the biconnection variational approach for general relativity we have presented here , is physically equivalent to the more standard metric formulation of the theory . it allows the connection employed to minimally couple matter fields to be completely independent of the metric . in this respect ,",
+    "the biconnection approach is similar to the metric - affine one but , in contrast with the latter one , it always permits to reduce the equations of motion to the einstein field equations and thus do not alter the phenomenology of gravitation .",
+    "applications of the biconnection formulation of general relativity can be relevant in quantum gravity theories , such as loop quantum gravity , which assume a metric - affine classical framework ."
+  ],
+  "abstract_text": [
+    "<S> a recently proposed variational approach for general relativity where , in addition to the metric tensor , two independent affine connections enter the action as dynamical variables , is revised . </S>",
+    "<S> field equations always reduce to the einstein field equations for any dependence of the matter action upon an independent connection . </S>"
+  ]
+}

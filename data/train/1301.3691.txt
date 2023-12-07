@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the standard decomposition of the maxwell tensor @xmath1 into its electric and magnetic parts @xmath2 and @xmath3 with respect to ( wrt ) an observer ( i.e. , a unit time - like vector @xmath4 ) can be extended to any tensor in an @xmath0-dimensional spacetime @xcite . here",
+    "we summarize the results of @xcite about the weyl tensor , and the connection with the null alignment classification @xcite .",
+    "consider the @xmath4-orthogonal projector @xmath5 .",
+    "the `` electric '' and `` magnetic '' parts of @xmath6 can be defined , respectively , as @xcite @xmath7e}{}_{d]f}u_eu^f , \\label{c+}\\\\      & & ( c_-)^{ab}{}_{cd}=2h^{ae}h^{bf}c_{efk[c}u_{d]}u^k+2u_ku^{[a}c^{b]kef}h_{ce}h_{df } .",
+    "\\label{c-}\\end{aligned}\\ ] ] these extend the well - known 4d definitions @xcite . in any orthonormal frame adapted to @xmath4 the electric [ magnetic ] part accounts for the weyl components with an even [ odd ] number of indices @xmath8 .",
+    "_ at a spacetime point ( or region ) the weyl tensor is called `` purely electric [ magnetic ] '' ( from now on , pe [ pm ] ) wrt @xmath4 if @xmath9 @xmath10$]_. the corresponding spacetime is also called pe @xmath11pm@xmath12 $ ] . several conditions on pe / pm weyl tensors follow .",
+    "a weyl tensor @xmath6 is : ( i ) pe wrt @xmath4 iff @xmath13}=0 $ ] ; ( ii ) pm wrt @xmath4 iff @xmath14[de}u_{f]}=0 $ ] .",
+    "[ prop_bel - debever ]    [ th_weyl_pe ] a pe [ pm ] weyl operator is diagonalizable , and possesses only real @xmath11purely imaginary@xmath12 $ ] eigenvalues .",
+    "moreover , a pm weyl operator has at least @xmath15 zero eigenvalues .",
+    "[ pe_pm_types ] a weyl tensor which is pe / pm wrt a certain @xmath4 can only be of type g , i@xmath16 , d or o. in the type i@xmath16 and d cases , the second null direction of the timelike plane spanned by @xmath4 and any wand is also a wand ( with the same multiplicity ) .",
+    "furthermore , a type d weyl tensor is pe iff it is type d@xmath17d@xmath18 , and pm iff it is type d@xmath17abc@xmath18 .",
+    "[ prop uniqueness ] a pe @xmath11pm@xmath12 $ ] weyl tensor is pe @xmath11pm@xmath12 $ ] wrt : ( i ) a unique @xmath4 @xmath17up to sign@xmath18 in the type i@xmath16 and @xmath19 cases ; ( ii ) any @xmath4 belonging to the space spanned by all double wands @xmath17and only wrt such @xmath4s@xmath18 in the type d case @xmath17noting also that if there are more than two double wands the weyl tensor is necessarily pe @xmath17type d@xmath17d@xmath20 @xcite@xmath18 .",
+    "[ prop_shear_twist_free ] all spacetimes admitting a shearfree , twistfree , unit timelike vector field @xmath4 are pe wrt @xmath4 . in coordinates",
+    "such that @xmath21 , the line - element reads @xmath22    the above metrics include , in particular , direct , warped and doubly warped products with a one - dimensional timelike factor , and thus all _ static _ spacetimes ( see also @xcite ) . for a warped spacetime @xmath23 with @xmath24 , one has @xmath25 , where @xmath26 is a metric on the factor space @xmath27 ( @xmath28 ) and @xmath29 are functions on @xmath27 ( @xmath27 has dimension @xmath30 , @xmath31 , and @xmath32 is lorentzian ) .",
+    "[ prop : warp 2d factor ] a ( doubly ) warped spacetime with @xmath33 is either type o , or type d(d ) and pe wrt any @xmath4 living in @xmath32 ; the uplifts of the null directions of the tangent space to @xmath34 are double wands of @xmath23 . if @xmath35 is einstein the type specializes to d(bd ) , and if it is of constant curvature to d(bcd ) .    in particular , all spherically , hyperbolically or plane symmetric spacetimes belong to the latter special case .",
+    "[ prop_warped3 ] a ( doubly ) warped spacetime with @xmath34 einstein and @xmath36 is of type d(d ) or o. the uplift of _ any _ null direction of the tangent space to @xmath34 is a double wand of @xmath23 , which is pe wrt any @xmath4 living in @xmath32 .",
+    "[ prop_warped>3 ] in a ( doubly ) warped spacetime    a.   if @xmath34 is an einstein spacetime of type d , @xmath23 can be only of type d ( or o ) and the uplift of a double wand of @xmath34 is a double wand of @xmath23 b.   if @xmath34 is of constant curvature , @xmath23 is of type d(d ) ( or o ) and the uplifts of _ any _ null direction of the tangent space to @xmath34 is a double wand of @xmath23 ; @xmath23 is pe wrt any @xmath4 living in @xmath32 .",
+    "[ prop_products u - in - m1 ] a direct product spacetime @xmath37 is pe wrt a @xmath4 that lives in @xmath32 iff @xmath4 is an eigenvector of @xmath38 , and @xmath32 is pe wrt @xmath4 .",
+    "( @xmath4 is then also an eigenvector of the ricci tensor @xmath39 of @xmath40 , i.e. , @xmath41 . )    a conformal transformation ( e.g. , to a ( doubly ) warped space ) will not , of course , affect the above conclusions about the weyl tensor .",
+    "there exist also direct products which are pe wrt a vector @xmath4 _ not _ living in @xmath32 @xcite .",
+    "also the presence of certain ( weyl ) isotropies ( e.g. , @xmath42 for @xmath43 ) implies that the spacetime is pe , see @xcite for details and examples .",
+    "[ prop_pmproducts ] a direct product spacetime @xmath37 is pm wrt a @xmath4 that lives in @xmath32 iff all the following conditions hold ( where @xmath44 is the ricci scalar of @xmath27 ) :    a.   @xmath32 is pm wrt @xmath4 and has a ricci tensor of the form @xmath45 ( with @xmath46 ) b.   @xmath47 is of constant curvature and @xmath48 .    further , @xmath40 is pm einstein iff @xmath32 is pm ricci - flat and @xmath47 is flat .",
+    "see @xcite for explicit ( non - einstein ) examples",
+    ". however , in general pm spacetimes are most elusive .",
+    "for example ,    pm einstein spacetimes of type d do not exist .    in @xcite also",
+    "several results for pe / pm ricci and riemann tensors have been worked out , along with corresponding examples . in general , we observe that pe / pm tensors provide examples of _ minimal tensors _ @xcite .",
+    "thanks to the _ alignment theorem _",
+    "@xcite , the latter are of special interest since they are precisely the _",
+    "tensors characterized by their invariants _ @xcite ( cf .",
+    "also @xcite ) .",
+    "this in turn sheds new light on the classification of the weyl tensor @xcite , providing a further invariant characterization that distinguishes the ( minimal ) types",
+    "g / i / d from the ( non - minimal ) types ii / iii / n .",
+    "m.o . acknowledges support from research plan rvo : 67985840 and research grant no p203/10/0749 .",
+    "10                        senovilla , j. m.  m. , `` general electric - magnetic decomposition of fields , positivity and rainich - like conditions '' , in pascual - snchez , j.  f. , flora , l. , san  miguel , a. and f. , vicente , eds . , _ reference frames and gravitomagnetism _ , pp .",
+    "145164 , ( world sicentific , singapore , 2001 ) ."
+  ],
+  "abstract_text": [
+    "<S> recent results on purely electric ( pe ) or magnetic ( pm ) spacetimes in @xmath0 dimensions are summarized . </S>",
+    "<S> these include : weyl types ; diagonalizability ; conditions under which direct ( or warped ) products are pe / pm . </S>"
+  ]
+}

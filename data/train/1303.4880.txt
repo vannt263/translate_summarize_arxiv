@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "circinus x-1 ( cir x-1 ) , with an orbital period of  16.6 days ( ( * ? ? ?",
+    "* kaluzienski et al . 1976 ) ) and a distance of 5.5 kpc ( ( * ? ? ?",
+    "* case & bhattacharya 1998 ) ) , is a x - ray binary .",
+    "its compact star has been considered as a neutron star ( ns ) since the discovery of type - i x - ray bursts in this source ( ( * ? ? ?",
+    "* tennant et al . 1986 ) ) . one of the special parameters of cir x-1 is its high orbital eccentricity ( @xmath2 0.7 - 0.9 ) ( ( * ? ? ?",
+    "* johnston et al . 1999 ) ) , which makes it a peculiar source .",
+    "* shirey et al . ( 1996 ) ) found the orbital modulation for the spectrum and quasi - periodic oscillation ( qpo ) of cir x-1 and ( * ? ? ?",
+    "* ding et al . ( 2006b ) ) found that its power - law ( pl ) hard tail , evolving on its hardness - intensity diagram ( hid ) ( ( * ? ? ?",
+    "* ding et al . 2003 ) ) , is modulated by orbital phase too . at the periastron ,",
+    "a long - term dip was present ( ( * ? ? ?",
+    "* ding et al .",
+    "2006a ) ) . for explaining the behaviors of observed optical and infrared ( ir ) emission lines , (",
+    "* johnston et al . ( 1999 ) ) proposed that the accretion and accretion disk of this ns x - ray binary ( nsxb ) could evolve with orbital phase .",
+    "with software heasoft 6.11 and ftools v.6.11 , we choose the observations during two orbital periods ( 1996 september 21october 7 , 1996 march 819 ) of cir x-1 to perform our analysis . following ( * ? ? ?",
+    "* stewart et al . ( 1991 ) ) , the time of zero phase is given by the ephemeris equation @xmath3 we produce the background - subtracted pca spectra at different phases .",
+    "* shirey et al . ( 1999 ) ) used several spectral models to fit the pca spectra of cir x-1 and found that the best - fit model is the so - called eastern model , consisting of a blackbody ( bb ) and a multicolor disk blackbody ( mcd ) , which are interpreted as the emission from the ns surface and the optically thick accretion disk , respectively .",
+    "we adopt this model , use it to fit the spectra of cir x-1 during the two orbital periods , and then get the inner disk temperature @xmath4 , inner disk radius ( @xmath0 ) , bb temperature @xmath5 , and bb radius @xmath6 .",
+    "the bb radii multiplied by a coefficient are considered as the typical ns radius .",
+    "as shown in the right panel of figure  [ fig1 ] , the disk emission deviates from the relation of @xmath7 , which indicates that @xmath0 is varied , because of @xmath8 . in panel",
+    "a of figure  [ fig1 ] , one can see that at the periastron ( phase 0 - 0.1 ) @xmath0 increases abruptly , then from phase 0.1 to the apastron ( phase 0.5 ) @xmath0 decreases rapidly , and , finally , from the apastron to phase 1 the @xmath0 roughly steadies . as suggested by (",
+    "* johnston et al . ( 1999 ) ) , at the periastron the large tidal force could make the disk unstable , resulting in large variation of @xmath0 ; after the apastron until the apastron the disk is formed gradually and meanwhile the ns departs from the companion star , but the disk moves towards the ns due to decrease of radiation pressure ; after the apastron , steady accretion takes place on the formed disk .",
+    "it is obvious that during the passage for the ns to leave the companion star the slow increase of @xmath4 and , however , the rapid decrease of @xmath0 contribute to the inverse correlation between the disk luminosity and the inner disk temperature .",
+    "this work is supported by the national basic research program of china ( 973 program 2009cb824800 ) and the natural science foundation of china under grant no . 11143013 ."
+  ],
+  "abstract_text": [
+    "<S> using _ rxte _ observations , we investigate the evolution of inner disk radius ( @xmath0 ) of cir x-1 during two cycles and find obvious orbital modulation . </S>",
+    "<S> we argue that the modulation is attributed to its high orbital eccentricity . </S>",
+    "<S> the disk luminosity is inversely with the inner disk temperature ( @xmath1 ) , which is ascribed to the slow increase of @xmath1 and , however , the rapid decrease of @xmath0 during the passage for the neutron star to depart from the companion star . </S>"
+  ]
+}

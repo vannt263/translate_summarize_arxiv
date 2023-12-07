@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "the discovery of the cosmic acceleration stimulated the development of exotic  cosmological models of dark energy ; some of these models possess the so called soft or sudden singularities characterized by the finite value of the radius of the universe and of its hubble parameter .",
+    "one of examples of such singularities is the big brake singularity arising in a specific tachyon model @xcite .",
+    "the toy tachyon model @xcite , proposed in 2004 , has two particular features : @xmath0 the tachyon field transforms into a pseudo - tachyon field ; @xmath1 the evolution of the universe can encounter a new type of singularity - the big brake singularity . when a universe encounter the big brake singularity its scalefactor is finite , the velocity of expansion is equal to zero , the deceleration is infinite .",
+    "the predictions of the model match observational data on supenovae of the type ia @xcite and the big brake singularity is a special one - it is possible to cross it tach2 .",
+    "one of the simplest cosmological models revealing the big brake singularity is based on the anti - chaplygin gas @xcite with an equation of state @xmath2which through the continuity equation leads to @xmath3at @xmath4 the universe encounters the big brake singularity .",
+    "this singularity is traversable , because all the christoffel symbols are finite and hence the geodesics equations are well - defined .",
+    "let us consider now the model of the flat friedmann universe filled with the anti - chaplygin gas and dust @xcite .",
+    "the energy density and the pressure are @xmath5due to the dust component , the hubble parameter has a non - zero value at the singularity , therefore the presence of the dust implies further expansion . with continued expansion however ,",
+    "the energy density and the pressure of the anti - chaplygin gas would become ill - defined .",
+    "we solve the paradox by redefining the anti - chaplygin gas in a distributional sense . then a contraction could follow the expansion phase at the singularity at the price of a jump in the hubble parameter .",
+    "although such an abrupt change is not common in any cosmological evolution , we show that the set of friedmann , raychaudhuri and continuity equations are all obeyed both at the singularity and in its vicinity .",
+    "the jump in the hubble parameter @xmath6leaves intact the first friedmann equation @xmath7 , the continuity equations and the equations of state , however , it breaks the validity of the second friedmann ( raychaudhuri ) equation @xmath8 .",
+    "this is , because in the vicinity of the singularity the hubble parameter can be expanded as @xmath9leading to@xmath10    to restore the validity of the raychaudhuri equation we add a singular @xmath11 -term to the pressure of the anti - chaplygin gas @xmath12 to preserve the equation of state we also modify the expression for its energy density : @xmath13    in order to prove that @xmath14 and @xmath15 represent a self - consistent solution of the system of cosmological equations , we employed the following distributional identities : @xmath16 \\delta \\left ( \\tau \\right ) & = & 0\\ , \\\\ \\left [ f\\left ( \\tau \\right ) + c\\delta \\left ( \\tau \\right ) \\right ] ^{-1 } & = & f^{-1}\\left ( \\tau \\right ) \\ , \\\\ \\frac{d}{d\\tau } \\left [ f\\left ( \\tau \\right ) + c\\delta \\left ( \\tau \\right ) % \\right ] ^{-1 } & = & \\frac{d}{d\\tau } f^{-1}\\left ( \\tau \\right ) \\ .\\end{aligned}\\ ] ]",
+    "the use of generalized functions ( distributions ) is not uncommon in physics .",
+    "they appear naturally whenever there are lower - dimensional localized sources ( including branes in higher dimensional theories ) , but also when in quantum field theory the product of distributions becomes well - defined by a renormalization procedure .",
+    "the addition of a @xmath17-function centred on a point where the pressure already diverges can be considered as a similar procedure .",
+    "finally , we formulate questions for further related studies : how general is the paradox of the soft singularity crossing ? is it possible to find other ways out from the paradox of the soft singularity crossing ?"
+  ],
+  "abstract_text": [
+    "<S> a flat friedmann universe filled with a mixture of anti - chaplygin gas and dust - like matter evolves into a future soft singularity , where despite infinite tidal forces the geodesics can be continued . in the singularity the pressure of the anti - chaplygin gas diverges , while its energy density is zero . </S>",
+    "<S> the dust energy density however does not vanish , neither does the hubble parameter , which implies further expansion , if its evolution is to be continuous . </S>",
+    "<S> if so , the energy density and the pressure of the anti - chaplygin gas would become ill - defined , hence only a contraction would be allowed . </S>",
+    "<S> paradoxically , the universe in this cosmological model would have to expand and contract simultaneously . </S>",
+    "<S> the paradox can be avoided by redefining the anti - chaplygin gas in a distributional sense . </S>",
+    "<S> then the hubble parameter could be mirrored to have a jump at the singularity , allowing for a subsequent contraction . with this modification </S>",
+    "<S> the set of friedmann , raychaudhuri and continuity equations are all obeyed both at the singularity and in its vicinity . </S>"
+  ]
+}

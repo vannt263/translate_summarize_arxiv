@@ -1,0 +1,20 @@
+{
+  "article_text": [
+    "in the universe , core - collapse supernovas ( sns ) are among the most energetic explosions @xcite-@xcite . they",
+    "not only mark the catastrophic end of some stars , which turn into neutron stars or black holes after explosions , but also are responsible for the richness of heavy elements @xcite-@xcite .",
+    "sn1987a has attracted worldwide interests and has been studied extensively since it came into our sight several decades ago @xcite@xcite . during the explosions of the type ii sn , most of the binding energy is released as neutrinos , which are very useful for acquiring information about intrinsic properties and the explosion dynamics of sn @xcite@xcite .    for the past few decades , in most theoretical models , it has been believed that the neutrino mixing angle @xmath0 is smaller than @xmath9 , or even smaller than @xmath10 . in refs .",
+    "@xcite@xcite , the authors studied possible methods to measure this neutrino mixing angle while @xmath11 .",
+    "however , in recent years , some new experimental results indicated a large @xmath0 ( by large @xmath0",
+    "we mean @xmath12 ) @xcite-@xcite .",
+    "this year the daya bay experiment measured the value of @xmath0 to @xmath13 accuracy and obtained the result @xmath14 @xcite@xcite , which is much larger than @xmath9 .",
+    "table i shows a summary of the recent experimental results about @xmath0 . in this paper",
+    ", we will study detection of sn neutrinos on the earth in the case of large @xmath0 ."
+  ],
+  "abstract_text": [
+    "<S> supernova ( sn ) neutrinos detected on the earth are subject to the shock wave effects , the mikheyev - smirnov - wolfenstein ( msw ) effects , the neutrino collective effects and the earth matter effects . considering the recent experimental result about the large mixing angle @xmath0 ( @xmath1 ) provided by the daya bay collaboration and applying the available knowledge for the neutrino conversion probability in the high resonance of sn , @xmath2 , which is in the form of hypergeometric function in the case of large @xmath0 , we deduce the expression of @xmath2 taking into account the shock wave effects . </S>",
+    "<S> it is found that @xmath2 is not zero in a certain range of time due to the shock wave effects . after considering all the four physical effects and scanning relevant parameters </S>",
+    "<S> , we calculate the event numbers of sn neutrinos detected at the daya bay experiment . from the numerical results </S>",
+    "<S> , it is found that the behaviors of neutrino event numbers detected on the earth depend on the neutrino mass hierarchy and neutrino spectrum parameters including the temperature @xmath3 , the dimensionless pinching parameter @xmath4 or @xmath5 ( where @xmath6 refers to neutrino flavor ) , the average energy @xmath7 , and the sn neutrino luminosities @xmath8 . </S>",
+    "<S> we also compare the results of two parametrization methods for the neutrino energy distributions and give the ranges of sn neutrino event numbers that will be detected at the daya bay experiment .    </S>"
+  ]
+}

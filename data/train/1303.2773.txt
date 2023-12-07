@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "in @xcite a calculation of the btz black hole entropy from loop quantum gravity was obtained .",
+    "the calculation follows similar steps to the calculation of the usual 4-dimensional case .",
+    "the same calculation was done in @xcite using spin foam models .",
+    "the calculation is done by defining an expectation value using spin foam partition functions with observables .",
+    "here we describe and compare both calculations see that both give the same answer .",
+    "we focus on the euclidean version of the black hole .",
+    "a three dimensional solution of einstein s equations was introduced for the first time in @xcite .",
+    "now it is known as the btz black hole .",
+    "the three dimensional euclidean solution to empty einstein equations of general relativity with negative cosmological constant is given by the metric    @xmath0    in @xcite , it is shown that by a change of coordinates , the solution can be written in the form    @xmath1    for @xmath2 .",
+    "immediately it can be recognised as the metric of the hyperbolic space @xmath3 . then after some isometric identifications also described in @xcite the btz solution is in fact given by a fundamental region of the hyperbolic space .",
+    "this region is a solid torus where the core of the torus is the black hole horizon @xmath4 , and the rest of the torus is the outside of the black hole @xmath5 .",
+    "these identifications were also reviewed in @xcite .    according to bekenstein - hawking formula",
+    "the leading term of the entropy of a black hole in three dimensions is given by    @xmath6    where @xmath7 is the black hole horizon length .",
+    "the entropy is believed to be related to the logarithm of the number of microstates .",
+    "in @xcite the calculation of the entropy for the btz black hole is done in a similar way to the four dimensional case .",
+    "the isolated three dimensional black hole horizon was introduced in @xcite .",
+    "the black hole horizon surface is thought as a circular boundary on a spacelike surface .",
+    "it is also asummed that @xmath8 spin network graph edges puncture the horizon(see figure 1 ) .",
+    "the corresponding edges are labelled with irreducible representations of @xmath9 . if @xmath10 are the edge labels which cross the horizon .",
+    "the length spectrum of three dimensional gravity was studied in @xcite .",
+    "the length of the horizon according to @xcite is given by      the number of states which give rise to the entropy is shown to be given by the dimension of the invariant tensor in the decomposition of the tensor product of irreducible representations of the quantum group version of @xmath9 .",
+    "this number is shown to be given approximately by                      let @xmath17 be the turaev - viro @xcite partition function of the triangulated solid torus with the only difference that in the partition function we leave the labels at the horizon fixed .",
+    "@xmath17 is therefore a function of these labels .. @xmath18          the calculation of @xmath21 was carried out in @xcite and is computed by thinking of the blocks which form the triangulated horizon .",
+    "consider a particular triangulation which locally looks like in figure 3 and where the horizon is triangulated with an even number of edges .",
+    "label the horizon edges by @xmath22 .",
+    "each pair of edges @xmath23 belongs to a triangle which is labelled as @xmath24 .",
+    "the edges labelled @xmath25 belong to the boundary of the solid torus .",
+    "we have seen that loop quantum gravity and spin foam calculations lead to the same result .",
+    "this really implies a very nice result since it suggests what is always expected ; that loop quantum gravity and spin foams are truly the same theory ."
+  ],
+  "abstract_text": [
+    "<S> we present a comparison of the calculation of btz black hole entropy in loop quantum gravity and in spin foam models . </S>",
+    "<S> we see that both give the same answer . </S>"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "for a fixed @xmath4 @xmath5 , a meromorphic function @xmath3 in a domain @xmath6 is said to be @xmath4-valent ( or multivalent of order @xmath4 ) in @xmath6 if for each @xmath7 ( infinity included ) the equation @xmath8 has at most @xmath4 roots in @xmath6 where the roots are counted in accordance with their multiplicity and if there is some @xmath9 such that the equation @xmath10 has exactly @xmath4 roots in @xmath6 . in particular , @xmath3 is said to be univalent ( one - to - one ) in @xmath6 when @xmath11 .",
+    "a complex - valued harmonic function @xmath3 in @xmath6 is given by @xmath0 where @xmath2 and @xmath12 are analytic in @xmath6 .",
+    "we call @xmath2 and @xmath12 the analytic part and co - analytic part of @xmath3 , respectively",
+    ". a necessary and sufficient condition for @xmath3 to be locally univalent and sense - preserving in @xmath6 is @xmath13 for all @xmath14 ( see @xcite or @xcite ) .",
+    "the theory and applications of harmonic functions are stated in a book due to duren @xcite .",
+    "let @xmath15 denote the class of functions @xmath3 of the from @xmath16 which are harmonic in the open unit disk @xmath17 .",
+    "we next denote by @xmath18 the class of functions @xmath19 which are @xmath4-valent and sense - preserving in @xmath1 .",
+    "then , we say that @xmath20 is a @xmath4-valently harmonic function in @xmath1 .    in the present paper , we discuss a sufficient condition about @xmath2 for @xmath19 given by ( [ deff(z ) ] ) , satisfying @xmath21 for some @xmath22 @xmath23 , to be in the class @xmath18 . in this case , we can write @xmath24 which means that @xmath3 is well defined if @xmath2 is given .",
+    "our result is contained in    [ thm1 ] let @xmath25 be analytic in the closed unit disk @xmath26 with @xmath27 and let @xmath28 for some @xmath22 @xmath23 . if for each @xmath29\\right\\}$ ] where @xmath30 $ ] is the gauss symbol , the equation @xmath31 has at most a single root in @xmath32 and for all @xmath33 there exist exactly @xmath34 such roots in @xmath32 , then the harmonic function @xmath0 with @xmath35 belongs to the class @xmath18 and maps @xmath1 onto a domain surrounded by @xmath34 concave curves with @xmath34 cusps .",
+    "we first consider the function @xmath36 defined as @xmath37 supposing that @xmath38 we need the following equation @xmath39 this means that @xmath40 for some @xmath33 which gives us the equation ( [ eqf(t ) ] ) . in consideration of the assumption of the theorem ,",
+    "there are @xmath34 distinct roots on the unit circle @xmath41 and they divide @xmath42 onto @xmath34 arcs . moreover , since @xmath43 , we obtain that @xmath44 and @xmath45 this leads us that @xmath46 for all @xmath47 .",
+    "therefore , it follows that @xmath48 which shows that @xmath36 maps @xmath49 onto a union of @xmath34 concave curves . by the help of a simple geometrical observation , we know that the image of @xmath42 as a union of @xmath34 concave arcs is a simple curve .",
+    "thus , @xmath3 is @xmath4-valent in @xmath1 and the image @xmath50 is a domain surrounded by @xmath34 concave curves with @xmath34 cusps .",
+    "if we take @xmath11 in theorem [ thm1 ] , then we readily arrive at the univalence criterion for harmonic functions due to hayami and owa ( * ? ?",
+    "* theorem 2.1 ) ( see also @xcite ) .",
+    "in this section , we discuss functions @xmath0 satisfying the conditions of theorem [ thm1 ] and their image domains .",
+    "let @xmath51 .",
+    "then we easily see that the equation @xmath52 becomes @xmath53\\right)\\ ] ] which satisfies the conditions of theorem [ thm1 ] .",
+    "hence , the function @xmath54 belongs to the class @xmath18 and it maps @xmath1 onto a domain surrounded by @xmath34 concave curves with @xmath34 cusps . taking @xmath55 and @xmath56 for example , we know that the function @xmath57 is a @xmath58-valently harmonic function in @xmath1 and it maps @xmath1 onto the domain surrounded by @xmath59 concave curves with @xmath59 cusps as shown in figure 1",
+    ".        [ rem ] since we can rewrite @xmath60 given by @xmath61 as follows : @xmath62 we have that @xmath63 which implies that @xmath60 is increasing if @xmath64    by the above remark , we derive the following exapmle .",
+    "let @xmath65 @xmath66 .",
+    "then the equation @xmath52 becomes @xmath67 noting @xmath68 @xmath69 and @xmath70 where @xmath71 , we see that @xmath60 satisfies the conditions of theorem [ thm1 ] .",
+    "hence , the function @xmath72 belongs to the class @xmath18 and it maps @xmath1 onto a domain surrounded by @xmath34 concave curves with @xmath34 cusps . putting @xmath73 , @xmath74 and @xmath75 @xmath76 , we know that the function @xmath77 is a @xmath78-valently harmonic function in @xmath1 and it maps @xmath1 onto the domain surrounded by @xmath59 concave curves with @xmath59 cusps as shown in figure 2 .",
+    "we check only the boundary of @xmath50 , for the sake of simplicity .",
+    "the next result was conjectured by mocanu @xcite and proved by bshouty and lyzzaik @xcite .",
+    "if we consider special functions @xmath2 and @xmath12 given by @xmath85 then the function @xmath36 given by @xmath86 satisfies @xmath87 for any @xmath88 . thus , the function @xmath89 is a member of the class @xmath18 and it maps @xmath1 onto a domain surrounded by @xmath34 straight lines with @xmath34 cusps . indeed , setting @xmath55 and @xmath74 , we know that @xmath90 is a @xmath58-valently harmonic function and it maps @xmath1 onto a star as shown in figure 3 .",
+    "furthermore , if we take @xmath11 in @xmath91 , then we see that the function @xmath92 is univalent in @xmath1 and it maps @xmath1 onto a @xmath93-sided polygon .",
+    "for example , the function @xmath94 maps @xmath1 onto an octagon ( schlicht domain ) as shown in figure 4 ."
+  ],
+  "abstract_text": [
+    "<S> for normalized harmonic functions @xmath0 in the open unit disk @xmath1 , a sufficient condition on @xmath2 for @xmath3 to be @xmath4-valent in @xmath1 is discussed . moreover , </S>",
+    "<S> some interesting examples and images of @xmath3 satisfying the obtained condition are enumerated . </S>"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "another possible implementation of critical data compression@xcite compresses the critical bits of a data object losslessly , as before , while simultaneously compressing the entire object using lossy methods , as opposed to lossy coding only an error or residual value . in principle , this results in the coding of redundant information . in practice , however , the lossy coding step is often more effective when , for example , an entire image is compressed rather than just the truncated bits .",
+    "encoding an entire data object tends to improve prediction in the lossy coder , while encoding truncated objects often leads to the high spatial frequencies which tend to be lost during lossy coding .",
+    "such a redundant lossy coding of the original data often results in the most compact representation available , making this approach desirable for many applications relating to lossy coding .",
+    "this may not always be the case , for instance , when the desired representation is nearly lossless such a scheme may converge more slowly than one encoding truncated data . on the other hand , however , this scheme is simple generally applicable to any type of lossy coding , whereas greater care must be taken when lossy coding truncated data ( in video data , for instance ) to avoid introducing high - frequency artifacts and noise to the data .",
+    "furthermore , compressing and decompressing data using this approach potentially requires fewer operations than critically compressing data via truncation , as no normalization needs to be performed .",
+    "once the desired critical bit depth has been selected , the original data s precision is reduced from the original bit depth of @xmath0 to the critical bit depth of @xmath1 and the resulting object is coded losslessly , as before , while the original data is simultaneously coded using lossy compression . as before , this operation may take place on a channel - by - channel basis with arbitrary parameters and with data having undergone an arbitrary set of transformations , e.g. color space rotations .    upon decompression ,",
+    "the lossless code is used to establish exact upper and lower bounds for lossy compression .",
+    "the lossless code establishes a lower bound since the truncated values never exceed the original values .",
+    "likewise , since @xmath2 is the largest quantity which could have be truncated , adding this to the reduced - precision data produces an upper bound on any value which could be truncated to produce the losslessly coded reduced - precision data .",
+    "the decompression scheme is as follows : if the @xmath1 leading bits of the value predicted by the lossy code match the lossless code , the value predicted by the lossy code is returned as the decompressed datum .",
+    "if the @xmath1 leading bits predicted by the lossy code are less than the value coded by the lossless code , the value of the lossless code is returned as the decompressed datum since it is a lower bound on the original value .",
+    "otherwise , if the @xmath1 leading bits predicted by the lossy code are greater than the the value coded by the lossless code , the value coded by the lossless code is increased by @xmath2 and returned as the decompressed datum since this is an upper bound on the value of the original data .",
+    "as an example of this approach , we will consider the critical compression of another test image , the 8-bit ( per channel ) rgb color fireworks image from the new test images , available at imagecompression.info .",
+    "the image is 3136 by 2152 pixels , which is 20,246,016 bytes of raw data .",
+    "we will compress the image in ycc space , with the luminance channel being critically compressed at a bit depth of 4 and chrominance data is taken from the lossy compression .",
+    "two objects are stored , one is a jpeg2000 compressed version of the original rgb color space image ( which uses a ycc color space internally ) whose compression ratio is 1000:1 and the other is a paq - compressed lossless representation of a luminance ( y ) channel whose precision has been reduced from an 8-bit ( 256 shade ) grayscale image to a 4-bit ( 16 shade ) grayscale image . the jpeg2000 representation of the original image may be seen in figure 1 , and the lossless representation of a 4-bit luminance channel derived from the original image in figure 2 .",
+    "+ figure 1 +     + figure 2 +    during decompression , the luminance value implied by the color of each pixel in the jpeg2000 channel is compared to the 4-bit luminance channel .",
+    "the largest possible truncation error in the 4-bit luminance channel is 15 , so the luminance should be between the value coded by the 4-bit lossless channel and this value increased by fifteen . if the luminance predicted by the lossy jpeg2000 code falls within this range , then the color predicted by jpeg2000 is used for the pixel .",
+    "if the jpeg2000-predicted luminance falls below this range , then the value coded by the 4-bit lossless channel is used for the luminance , being combined with the chrominance values implied by the jpeg2000-predicted color value before being rotated back into the rgb color space .",
+    "if the jpeg2000-predicted luminance falls above the allowed range , then the value coded by the 4-bit lossless channel is increased by fifteen before used for the luminance and combined with the chrominance values implied by the jpeg2000-predicted color and being rotated back into the rgb color space . the decompressed image resulting from this coding and decoding scheme",
+    "may be seen below .",
+    "examination of this image reveals that the absolute bounds obtained from lossless brightness values have greatly increased the contrast of the resulting picture , as compared to the jpeg2000 representation .",
+    "+ figure 3 +",
+    "this research was funded entirely by the author , john scoville , and the method described is part of a pending patent application ."
+  ],
+  "abstract_text": [
+    "<S> an alternative approach to two - part critical compression is presented . whereas previous results were based on summing a lossless code at reduced precision with a lossy - compressed error or noise term , </S>",
+    "<S> the present approach uses a similar lossless code at reduced precision to establish absolute bounds which constrain an arbitrary lossy data compression algorithm applied to the original data . </S>"
+  ]
+}

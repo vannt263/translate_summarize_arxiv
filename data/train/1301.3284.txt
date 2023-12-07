@@ -1,0 +1,16 @@
+{
+  "article_text": [
+    "we construct broad - band seds ( uv to 24@xmath0 m ; fig .",
+    "[ fig1 ] ) for 48 radio sources at 1.5ghz with optical spectra in the akari - nep field ( [ 1 ] ) .",
+    "following @xcite , we fit an agn and a starburst component additively to each sed . the fractional contribution and luminosities of both components",
+    "are derived .",
+    "+   + we see a trend for decreasing contribution of active nuclei with increasing radio luminosity ( 3@xmath1 difference between lowest and highest luminosity bins ; fig .",
+    "[ fig1 ] ) .",
+    "the most radio - loud systems show hints for lower star - formation activity than otherwise expected ."
+  ],
+  "abstract_text": [
+    "<S> we study the host galaxy properties of radio sources in the akari - north ecliptic pole ( nep ) field , using an ensemble of multi - wavelength datasets . </S>",
+    "<S> we identify both radio - loud and radio - quiet agn and study their host galaxy properties by means of sed fitting . </S>",
+    "<S> we investigate the relative importance of nuclear and star - formation activity in radio - agn and assess the role of radio - agn as efficient quenchers of star - formation in their host galaxies . </S>"
+  ]
+}

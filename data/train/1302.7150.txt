@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "scalar - tensor theories lead to a spacetime - dependent effective gravitational coupling @xmath0 . in theories with this characteristic ,",
+    "the problem of understanding the behaviour of a local system embedded in a cosmological environment ( cf . the mcvittie solution@xcite of general relativity which is not yet well understood ) , is of particular interest .",
+    "this motivated the study of inhomogeneous analytical solutions of scalar - tensor theories of gravity .",
+    "the clifton  mota ",
+    "barrow spherically symmetric and time - dependent metric@xcite is [ cmbmetric ] ds^2= -a()^2dt^2 + a^2(t ) [(1+)^4 a()^ ( -1)(+2)](d^2+^2d^2 ) , with a()=,= , a(t ) = a_0()^ a_t^,where @xmath1 is the barotropic index of the equation of state for the cosmological perfect fluid .",
+    "this metric is an explicit solution of brans ",
+    "dicke theory , which is described by the action s_bd = d^4x , where the effective gravitational coupling is proportional to the inverse of the scalar field @xmath2 .",
+    "the constant @xmath3 is often called the brans  dicke parameter .",
+    "we would like to understand the dynamics of horizons ( black hole and cosmological ) in the clifton ",
+    "mota  barrow solution . given that the solution is asymptotically friedman  lematre  robertson  walker ( flrw ) and dynamical , the most straightforward way to do so is to look for apparent horizons ( note , however , potential caveats in the use for apparent horizon , as they depend on the foliation @xcite ) .",
+    "an apparent horizon ( elsewhere dubbed `` trapping horizon''@xcite ) is a space- ( or time-)like surface defined as the closure of a surface foliated by marginally trapped surfaces .",
+    "what follows is based on the analysis and results of ref .  .",
+    "the existence and location of the apparent horizons are determined by the condition @xmath4 , where @xmath5 is the areal radius ( not to be confused with the isotropic radius @xmath6 ) . for the clifton  mota  barrow solutions and for an expanding universe with @xmath7 this condition reads@xcite [ main ] hr^2- m a(t ) a(r)^-a(r)^+1r = 0 , where @xmath8 is the hubble parameter corresponding to the scale factor @xmath9 .",
+    "the scalar curvature is singular in the limit @xmath10 , denoting the presence of a central singularity .",
+    "once the variable @xmath11 has been introduced , eq .",
+    "( [ main ] ) can be solved parametrically for the radius @xmath5 of the apparent horizon(s ) and the time coordinate @xmath12 , r ( x ) & = & a _ t^ ()^ , + t(x ) & = & \\ {  [ ( 1-x)^2/ 2x ( 1-x)^-2(- 1)/ ] } ^.    as a typical example , we plot the radius of the apparent horizon as a function of time ( in adapted units ) for the case @xmath13 . the red ( dashed )",
+    "curve is for dust ( @xmath14 ) , the green ( solid ) curve is for both radiation and stiff matter ( @xmath15 and @xmath16 ) , while the blue ( dotted ) one corresponds to a cosmological constant ( @xmath17 ) .",
+    "the initial behaviour ( a unique , expanding apparent horizon ) is common in all of these different configurations .    for dust , radiation , and stiff matter",
+    ", two further horizons appear at a certain time @xmath18 , the outermost of which expands forever , while the other merges with the initial horizon , leaving behind a naked singularity covered by a cosmological horizon ( cf .",
+    "the contribution by v. faraoni to these proceedings , a similar solution by husain , martinez , and nunez@xcite , and its interpretation@xcite ) .",
+    "the cosmological constant case is different in the fact that the two horizons appear inside the initial one , as shown in the right panel of fig .",
+    "[ fig1 ] .",
+    "the complete analysis of the clifton - mota - barrow solution reveals a richer phenomenology@xcite than just the previous example .",
+    "in particular , the general relativity limit @xmath19 turns out to correspond to a generalized mcvittie metric@xcite . in this case",
+    "an initial naked singularity is then covered by two appearing horizons .",
+    "this is true for any equation of state of the cosmological fluid except for the cosmological constant . for",
+    "the latter the reverse happens , that is , an expanding and a contracting horizon merge to leave behind a naked singularity .",
+    "we conclude with a warning : as already mentioned , apparent horizons depend on the spacetime slicings adopted , namely , specific slicings could imply the absence of apparent horizons even though the singularity is hidden by an event horizon . from this perspective , the issue of the presence of the naked spacetime singularity reported above becomes particularly delicate .",
+    "nonetheless , looking for apparent horizons is probably the most straightforward probe for event horizon and it seems unlikely that slicing dependence seriously affects the results for a spherically symmetric foliation of a flrw spacetime .",
+    "vv is supported by fct - portugal through the grant sfrh / bpd/77678/2011 .",
+    "vf would like to thank nserc for financial support .",
+    "tps acknowledges financial support provided under the marie curie career integration grant limitsofgr-2011-tps and the european union s fp7 erc starting grant `` challenging general relativity '' cgr2011tps , grant agreement no ."
+  ],
+  "abstract_text": [
+    "<S> we analyze the apparent horizon dynamics in the inhomogeneous clifton - mota - barrow solution of brans - dicke theory . </S>",
+    "<S> this solution models a central matter configuration embedded in a cosmological background . in certain regions of the parameter space </S>",
+    "<S> we find solutions exhibiting dynamical creation or merging of two horizons . </S>"
+  ]
+}

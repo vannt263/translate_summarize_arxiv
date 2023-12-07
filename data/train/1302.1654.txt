@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "let @xmath15 denote the set of all nonnegative integers and let @xmath1 be the finite set of multi - indices for each @xmath16 . given @xmath0 ,",
+    "we set @xmath2 the family of all vector polynomials @xmath17 of the following form : @xmath18 where @xmath19 s are nonzero real numbers . given @xmath4 , @xmath20 and @xmath21 , we define a multi - parameter oscillatory singular integral : @xmath5}e^{i\\langle\\xi , p_{\\lambda}(t)\\rangle } \\frac{dt_1}{t_1}\\cdots\\frac{dt_n}{t_n}\\end{aligned}\\ ] ] where the principal value integral is defined by @xmath22 where @xmath23 with @xmath24 .",
+    "the existence of this limit follows by the taylor expansion of @xmath25 and the cancelation property @xmath26 with @xmath27 .",
+    "\\(1 ) the dependence on _ set @xmath29 of exponents _ is observed in the following simple cases : @xmath32 ( 2 ) the dependence on _ coefficients of polynomials _",
+    "@xmath12 first appeared in @xcite , later in @xcite and @xcite .",
+    "there exist two different polynomials @xmath12 and @xmath33 in @xmath34 having the same exponent set @xmath13 , with @xmath35 finite but @xmath36 infinite .",
+    "we can check this for @xmath37 and @xmath38 .",
+    "however , in this paper , we do not concern with this coefficient dependence .",
+    "we rather search for a condition of @xmath13 valid for universal @xmath39 that latexmath:[\\ ] ] whenever @xmath1906_\\nu^{*})^{\\circ}\\ne \\emptyset   \\ \\ \\text{and}\\ \\",
+    "\\text{rank}\\left(\\bigcup_{\\nu=1}^d   [ \\mathbb{k}_u]_\\nu \\right)\\le n-1    \\right\\}.\\ ] ] therefore by applying theorem [ th60 ] for @xmath1907\\in\\mathcal{a}(p ) } { \\rm cap } ( \\mathbb{f}^*_a)\\subset { \\rm cap}\\mathbb{f}_{u}^*$ ] with @xmath1887 , we obtain ( [ 3p3p ] ) .",
+    "a. nagel and s. wainger , _",
+    "@xmath1910 boundedness of hilbert transforms along surfaces and convolution operators homogeneous with respect to a multiple parameter group _ ,",
+    "amer . j. math .",
+    "* 99 * ( 1977 ) , 761785 .",
+    "s. patel , _",
+    "@xmath100 estimates for a double hilbert transform , _",
+    "( szeged ) * 75 * ( 2009 ) , 241264 s. patel , _",
+    "double hilbert transforms along polynomial surfaces in @xmath1911 _ , glasg . math .",
+    "j. * 50 * ( 2008 ) , 395428 ."
+  ],
+  "abstract_text": [
+    "<S> let @xmath0 with @xmath1 , and set @xmath2 the family of all vector polynomials , @xmath3 given @xmath4 , we consider a class of multi - parameter oscillatory singular integrals , @xmath5}e^{i\\langle\\xi , p_{\\lambda}(t)\\rangle } \\frac{dt_1}{t_1}\\cdots\\frac{dt_n}{t_n}\\ \\ \\text{where}\\ \\ \\xi \\in\\mathbb{r}^d ,   r\\in\\mathbb{r}_+^n.\\end{aligned}\\ ] ] when @xmath6 , the integral @xmath7 for any @xmath8 is bounded uniformly in @xmath9 and @xmath10 . </S>",
+    "<S> however , when @xmath11 , the uniform boundedness depends on each indivisual polynomial @xmath12 . in this paper </S>",
+    "<S> , we fix @xmath13 and find a necessary and sufficient condition on @xmath13 such that @xmath14 s . </S>"
+  ]
+}

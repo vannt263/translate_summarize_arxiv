@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "determining the nature of the atmospheres and surfaces of exoplanets is of primary importance in probing not only their formation history but also in identifying possible signatures of life .",
+    "while it is very challenging , and perhaps only feasible through direct photometric / spectroscopic observations of the planetary light resolved from that of the host star , there are several proposals for eventual astrobiological investigations of potentially habitable , rocky exoplanets ( e.g. , * ? ? ? * ; * ? ? ?",
+    "* ; * ? ? ?",
+    ".    the available exoplanetary light would be disk - integrated , i.e. , that of a point source without any spatial resolution . deciphering the exoplanetary light properly , therefore , is inevitably a highly difficult task , in particular for those planets with diverse surface types and atmospheres like our own earth .",
+    "indeed , habitable planets are likely to exhibit a variety of complex patterns of their surfaces and atmospheres , intrinsically dependent on their climatology and geology . according to the global water cycle , liquid water on the planetary surface",
+    "vaporizes , forms clouds , is carried by atmospheric circulation , and precipitates as rainfall / snowfall . depending on the total amount of water and the atmospheric circulation pattern , the surface of the habitable planets",
+    "may be partially covered by ocean ( e.g. * ? ? ?",
+    "* ) , and be observed only through atmospheres with highly inhomogeneous and variable cloud cover patterns .    given these complexities , techniques to properly decipher the disk - integrated light of exoplanets need to be developed . towards that goal ,",
+    "the time variation of planetary light due to spin rotation and orbital revolution is a powerful tool , and several authors have computed the expected variation patterns and proposed the reconstruction methods @xcite .",
+    "the variation of the continuum level in the visible to near - infrared ( nir ) range mainly reflects the distribution of landmass , ocean , cloud cover , and possibly vegetation .",
+    "the peak - to - trough diurnal variability for 0.1@xmath1m - wide photometry of the earth in the visible / nir range is found to be 10 - 30% @xcite .",
+    "thermal emission of the earth also shows a few percent of diurnal variation in the mid - infrared @xcite , which primarily originates from the uneven cloud cover and humidity .",
+    "in addition to the light - curve in broad - band photometry mentioned above , molecular absorption depths exhibit diurnal variation . since atmospheric absorption depths of molecules are determined by the column density of the corresponding molecules along the optical path , they are sensitive to the presence of highly reflective cloud cover in the atmosphere that effectively blocks the spectral influence of molecules in the lower atmosphere . for idealized uniformly mixed atmospheres ,",
+    "the diurnal variation of molecular absorption features should be strongly linked to the spatial distribution of clouds .    in reality",
+    ", the distribution of molecules itself is not entirely uniform and may be time - dependent .",
+    "moreover , the spatial and time variations are not the same for different molecular species comprising the atmosphere . in particular , the local column density of water vapor is known to vary widely on a timescale of @xmath2 1 hr @xcite , while other molecules , such as n@xmath0 and o@xmath0 , are well - mixed in the troposphere and thus show no significant variations on short timescales .",
+    "this paper extends our previous work on photometric light - curves in visible / nir bands @xcite , and examines the diurnal variation of molecular absorption signatures in the disk - integrated reflection spectra of the earth with future application to earth - analogs in mind .",
+    "we focus on the absorption bands of h@xmath0o at 1.13@xmath1 m and o@xmath0 at 1.27@xmath1 m , which are among the most prominent absorption bands in nir and are an indicator of habitability and a biosignature molecule , respectively .",
+    "we first analyze data from space - based nir spectroscopy of the earth by nasa s epoxi mission .",
+    "then we consider a simple model ( referred to as _ opaque cloud model _ ) that reasonably reproduces the observed variation pattern , if the cloud pattern data are provided separately .",
+    "our model implies that the different behavior of water vapor and oxygen in their absorption band variations can be ascribed to their intrinsically different spatial distribution patterns , rather than to the common cloud coverage .",
+    "we discuss how this difference can be used to probe signatures of surface and atmospheric inhomogeneity of exoplanets with next - generation direct imaging .",
+    "the organization of this paper is as follows .",
+    "section [ s : data ] introduces the epoxi data used in this paper and analyses the correlation between absorption depths and pixel - to - pixel climatological data obtained with earth observing satellites .",
+    "section [ s : model ] describes our model to reproduce the variation pattern of absorption depths and compares the simulation results with observation .",
+    "section [ s : dis ] further discusses the different behavior between h@xmath0o variation and o@xmath0 variation .",
+    "finally , section [ s : sum ] draws our main conclusions and discusses the implication for future observation of exoplanets .",
+    "an analysis of co@xmath0 , a molecule with properties intermediate between those of h@xmath0o and o@xmath0 in some ways , is presented in appendix [ ap : co2 ] .",
+    "[ hr ] from the start of the observations on that date ( see figure [ fig : diurnalvar ] ) .",
+    "three vertical dashed lines indicate the wavelength ranges that we adopt to compute the equivalent widths ( h@xmath0o : 1.07 - 1.24@xmath1 m , o@xmath0 : 1.24@xmath3m-1.283@xmath1 m , co@xmath0 : 1.59 - 1.62@xmath1 m ) . ]"
+  ],
+  "abstract_text": [
+    "<S> we study the variability of major atmospheric absorption features in the disk - integrated spectra of the earth with future application to earth - analogs in mind , concentrating on the diurnal timescale . </S>",
+    "<S> we first analyze observations of the earth provided by the epoxi mission , and find 5 - 20% fractional variation of the absorption depths of h@xmath0o and o@xmath0 bands , two molecules that have major signatures in the observed range . from a correlation analysis with the cloud map data from the earth observing satellite ( eos ) , we find that their variation pattern is primarily due to the uneven cloud cover distribution . in order to account for the observed variation quantitatively , we consider a simple _ opaque cloud _ model , which assumes that the clouds totally block the spectral influence of the atmosphere below the cloud layer , equivalent to assuming that the incident light is completely scattered at the cloud top level . </S>",
+    "<S> the model is reasonably successful , and reproduces the epoxi data from the pixel - level eos cloud / water vapor data . </S>",
+    "<S> a difference in the diurnal variability patterns of h@xmath0o and o@xmath0 bands is ascribed to the differing vertical and horizontal distribution of those molecular species in the atmosphere . on the earth , </S>",
+    "<S> the inhomogeneous distribution of atmospheric water vapor is due to the existence of its exchange with liquid and solid phases of h@xmath0o on the planet s surface on a timescale short compared to atmospheric mixing times . </S>",
+    "<S> if such differences in variability patterns were detected in spectra of earth - analogs , it would provide the information on the inhomogeneous composition of their atmospheres . </S>"
+  ]
+}
