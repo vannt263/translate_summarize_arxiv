@@ -1,0 +1,11 @@
+{
+  "article_text": [
+    "in the * dense @xmath0 loop model * , a square lattice is tiled with the following two kinds of square tiles known as * plaquettes * , denoted symbolically by @xmath1 and @xmath2 :"
+  ],
+  "abstract_text": [
+    "<S> the dense @xmath0 loop model is a statistical physics model with connections to the quantum xxz spin chain , alternating sign matrices , the six - vertex model and critical bond percolation on the square lattice . </S>",
+    "<S> when cylindrical boundary conditions are imposed , the model possesses a commuting family of transfer matrices . </S>",
+    "<S> the original proof of the commutation property is algebraic and is based on the yang - baxter equation . in this paper </S>",
+    "<S> we give a new proof of this fact using a direct combinatorial bijection . </S>"
+  ]
+}

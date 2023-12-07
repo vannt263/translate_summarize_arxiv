@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "thomx  @xcite will be a 50  mev compact accelerator used to produce x - rays by compton scattering between electrons and a laser .",
+    "it will be made of a linac and a ring in which the beam will be stored for 20  ms .",
+    "a more detailed description of the project is available elsewhere in these proceedings  @xcite and in the projet s tdr  @xcite . given the very short storage time , the short bending radius and the low energy of the electrons , several beam dynamics effect will have a strong effect on the expected flux .",
+    "an extensive study of the beam dynamics at thomx has been performed , including among others the effects of compton backscattering ( cbs ) , intrabeam scattering ( ibs ) and coherent synchrotron radiation ( csr ) .",
+    "this study is described in  @xcite and we present here its main results .",
+    "the simulation code we have used is based on matlab .",
+    "it is written as a shell in which several beam dynamics effects are implemented with macro - particles beings passed from the simulation of one effect to the other as arrays .",
+    "the code has also the flexibility of calling external program such as cain  @xcite .",
+    "the properties of the macro - particles can be exported after each turn although it is advised to do it less often to minimize the disk space used .",
+    "the structure of the code is shown on figure  [ structure_code ] .         [ cols=\"^,^,^ \" , ]     the possibility of exporting all macro - particles properties also allows to break the execution of the simulation in several jobs to be executed serially on a computer farm .",
+    "the duration of the simulation will depend on the number of macro - particles chosen . for @xmath0 macro - particle a simulation of the full injection / extraction cycle will take several week although , as we will see below , this can be significantly shortened",
+    "if one is mostly interested in what happen during the initial transient period .",
+    "using the code with have made a full simulation of the evolution of the longitudinal phase space as function of time .",
+    "as expected and as shown on figure  [ evolution ] just after injection the beam enters in a turbulent regime .",
+    "this is due to the shape of the injected beam being mismatched with the shaped of the bucket . during this turbulent regime",
+    "a fraction of the charge may be lost .",
+    "at high charge the most disruptive effect is csr . while performing our simulations we saw that sometimes csr can split the bunch in two or more parts leading to a significant fraction of the charge to be ejected from the bunch .",
+    "this result in a lower x - ray yield .",
+    "examples of simulations of the longitudinal phase space with and without such beam break - up are shown on figure  [ fig : csr_split ] : for the same initial beam parameters but for different random distributions of the macro particles one case leads to a relatively stable beam whereas the other case leads to the bunch been split in two parts within less than 10  000  turns and one of the two parts is then lost shortly after leave only 56% of the macro particules in the bunch .",
+    "this beam break - up means that there is a threshold above which adding charge at injection will in fact decrease the charge that can actually be stored and therefore decrease the x - ray yield .",
+    "this is shown on figure  [ sum - flux ] where one can see that the average flux produced for an initial charge of 1nc is higher than the flux produced for an initial charge of 1.1nc .",
+    "using the simulation code it is possible to simulate a full storage and predict the spectrum obtained .",
+    "[ spectrum ] shows an example of photons spectrum where the intensity is plotted against the energy ( vertical axis ) and the scattering angle ( horizontal axis ) .",
+    "it is also possible to investigate the effect of each beam dynamics effect on the final flux . for that we made several simulations where we turned on or off some effect selectively to see how doing this changed the flux .",
+    "the result of these simulations is shown on figure  [ compare_effects ] .",
+    "although in reality it will not be possible to turn off effects , understanding what is causing the losses will help us in designing the best possible mitigation strategy .",
+    "we have written a simulation code to study the beam dynamics at the thomx compact light source .",
+    "this allows us to better understand how beam dynamics will affect the photon flux with the aim of designing a mitigation strategy .",
+    "we see that csr is the effect that will the most significantly decrease the flux and the main reduction in flux will occur during the first 5  ms of the cycle ."
+  ],
+  "abstract_text": [
+    "<S> as part of the r&d for the 50 mev thomx compton source project , we have studied the effect of several beam dynamics processes on the evolution of the beam in the ring . the processes studied include among others compton scattering , intrabeam scattering , coherent synchrotron radiation . </S>",
+    "<S> we have performed extensive simulations of a full injection / extraction cycle ( 400000 turns ) . </S>",
+    "<S> we show how each of these processes degrades the flux of photons produced and how a feedback system contributes to recovering most of the flux . </S>"
+  ]
+}

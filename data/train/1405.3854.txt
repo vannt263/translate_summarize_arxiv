@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the modulation of the amplitude in luminosity and the pulsation period , known as blazhko effect , is observed in numerous rr  lyr stars @xcite .",
+    "alhough its theoretical explanation has not yet been determined , a considerable breakthrough in its interpretation has been realized because of recent space observations . as a matter of fact , corot @xcite and _ kepler _",
+    "@xcite results have shown that the blazhko mechanism is not acting as a clock , thus undermining both the competing models based on a strict regularity : the oblique pulsator and the resonant nonradial pulsator . in our previous work on galactic blazhko stars",
+    "@xcite , we did not consider the eponym of the class , i.e. , hd  182989@xmath1rr  lyr .",
+    "we know that its pulsational period shows some apparent erratic changes @xcite .",
+    "indeed , we thought that the observation of rr  lyr through the ages deserved a detailed study and , furthermore , dedicated projects .",
+    "the variability of rr  lyr was discovered by mrs .",
+    "willemina p. fleming ( see * ? ? ?",
+    "* for a short but complete biography ) on the photographic plates of the henry draper memorial in 1899 @xcite .",
+    "@xcite reports that the first observation dates back to july 20 , 1899 and the first maximum to september 23 , 1899 ( hjd  2414921.675 , calculated by * ? ? ?",
+    "@xcite and @xcite were the first to show the correlated photometric and spectroscopic variations .",
+    "5 of shapley ( 1916 ) constitutes the _ ante litteram _ representation of the blazhko effect  note that this definition was introduced later in the astronomical literature  because it shows the oscillation of the median magnitude of the ascending branch with a period of 40  d and an amplitude of 37  min .",
+    "@xcite compiled the first long list of observed maxima and reported a detailed investigation of the blazhko effect @xcite .",
+    "@xcite found that spectroscopic and photometric parameters were strongly variable in the blazhko cycles of 1961 and 1963 , but essentially constant in those of 1962 .",
+    "the idea of irregularities in the blazhko period gradually grew and later extended photoelectric observations suggested a 4-year cycle in the blazhko effect , with a minimum variability in 1971 june and a new maximum variability in 1972 april @xcite .",
+    "a hundred years after the discovery of the rr  lyr  variability , @xcite have reported that attempts at representing the blazhko variations by longer periods have failed because they are not strictly repetitive .",
+    "extensive photoelectric and ccd observations obtained over a 421-day interval in 2003 - 2004 fixed a shorter blazhko period of 38.8@xmath20.1  d @xcite .",
+    "finally , rr  lyr@xmath1kic7198959 was included in the field of view of the _ kepler _ space telescope @xcite .",
+    "thus , high - precision , continuous observations could be secured , first in the long cadence ( 29.4  min ) mode and then in the short cadence ( 1.0  min ) observing mode .",
+    "@xcite have reported the results in the long cadence mode , while @xcite and @xcite have reported the results in the short cadence mode .",
+    "rr  lyr shows no particularities in metallicity , abundances and physical characteristics when compared with the other _ kepler _ rr  lyrae stars , blazhko and non - blazhko , observed by means of homogeneous high - resolution spectroscopy @xcite .",
+    "it is clear that the full comprehension of the rr  lyr variability is very time demanding since the star has to be observed over decades with time series having a high temporal resolution , in order to survey the pulsation period ( @xmath0 ) of 13  h , the blazhko period ( @xmath3 ) of 40  d , and the long - term changes of both ."
+  ],
+  "abstract_text": [
+    "<S> rr  lyr is one of the most studied variable stars . </S>",
+    "<S> its light curve has been regularly monitored since the discovery of the periodic variability in 1899 . </S>",
+    "<S> analysis of all observed maxima allows us to identify two primary pulsation states defined as pulsation over a long ( @xmath0 longer than 0.56684 d ) and a short ( @xmath0 shorter than 0.56682 d ) primary pulsation period . </S>",
+    "<S> these states alternate with intervals of 13 - 16  yr , and are well defined after 1943 . </S>",
+    "<S> the 40.8  d periodical modulations of the amplitude and the period ( i.e. blazhko effect ) were noticed in 1916 . </S>",
+    "<S> we provide homogeneous determinations of the blazhko period in the different primary pulsation states . </S>",
+    "<S> the blazhko period does not follow the variations of @xmath0 and suddenly diminished from 40.8  d to around 39.0  d in 1975 . </S>",
+    "<S> the monitoring of these periodicities deserved and deserves a continuous and intensive observational effort . </S>",
+    "<S> for this purpose we have built dedicated , transportable and autonomous small instruments , very tiny telescopes ( vtts ) , to observe the times of maximum brightness of rr  lyr . as immediate results the vtts recorded the last change of @xmath0 state in mid-2009 and extended the time coverage of the _ kepler _ observations , thus recording a maximum o - c amplitude of the blazhko effect at the end of 2008 , followed by the historically smallest o - c amplitude in late 2013 . </S>",
+    "<S> this decrease is still ongoing and vtt instruments are ready to monitor the expected increase in the next few years .    </S>",
+    "<S> [ firstpage ]    techniques : photometric  stars : individual : rr  lyrae  stars : oscillations  stars : variables : rr  lyrae . </S>"
+  ]
+}

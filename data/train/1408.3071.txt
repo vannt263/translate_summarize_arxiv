@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "the aim of this project is :    * to determine column densities of simple diatomic + molecules toward new 80 targets in our database * to check relations between abundances of ch , ch@xmath0 , cn molecules and e(b - v ) basing on statistically meaningful sample of objects * to find out the new relation between column densities of ch and h@xmath1 molecules based on new results concerning ch molecule ( abundances of molecular hydrogen are published by savage et al .",
+    "1977 , rachford et al . 2002 ) .",
+    "our observing material consists of spectra of 168 stars containing cn and/or ch and ch@xmath0 features .",
+    "it was acquired using five echelle spectrometers :    * maestro fed by the 2-m telescope of the observatory at peak terskol ( see http://www.terskol.com  /telescopes/3-camera.htm ) * feros spectrograph , fed with the 2.2 m eso telescope in chile + ( see http://www.ls.eso.org/lasilla/sciops/2p2/e2p2m/feros/ ) * fiber - fed echelle spectrograph installed at 1.8-m telescope of the bohyunsan optical astronomy observatory ( boao ) in south korea * harps spectrometer , fed with the 3.6 m eso telescope in chile + ( see http://www.ls.eso.org/lasilla/sciops/3p6/harps/ ) * uves spectrograph at paranal in chile . for more information see : + http://www.eso.org/sci/facilities/paranal/instruments/uves    to obtain column densities of diatomic molecules we used :    * in the case of cn features with ew@xmath214m  ( cn features are saturated ) we used the method of roth & meyer ( 1995 ) .",
+    "* when ch line of a - x system was saturated we used the sum of column densities obtained from unsaturated 3886 and 3890 lines of b - x system . * in the case of saturated ch@xmath0 a - x ( 0 , 0 ) band at 4232   we used unsaturated ( 1 , 0 ) band centered near 3957  .",
+    "oscillator strengths in the case of each transition are given in table 1 .",
+    "* the interstellar reddening correlates better with ch than ch@xmath0 molecule .",
+    "a very poor relation is observed in the case of cn . *",
+    "certain objects ( hd 27778 , 147889 , 154368 , 161056 , 204827 , 208501 ) demonstrate high abundances of diatomic molecules in relation to e(b - v ) +  ch&cn abundant clouds * hd 34078 is untypical object in case of which ch and ch@xmath0 molecules are overabundant in relation to e(b - v ) ",
+    "ch&ch@xmath0 abundant cloud * the relation between column densities of ch and h@xmath1 molecules is very tight ( see also results of danks , federman and lambert 1984 , weselak et al .",
+    "2004 ) . new relation with correlation coefficient equal to 0.95 is obtained on the basis of 53 stars .",
+    "authors acknowledge the financial support : jk and tw acknowledge that of the polish state during the period 2007 - 2010 ( grant n203 012 32/1550 )",
+    ". we are grateful to y. byaletski .",
+    ", g. locurto , g.a .",
+    "galazutdiov and f.a .",
+    "musaev for their help in ackquiring the spectra used and many helpful suggestions .",
+    "danks a.c .",
+    ", federman s.r . ,",
+    "lambert d.l . , 1984 ,",
+    "a&a , 130 , 62 rachford b.l . , snow , t.p . ,",
+    "tumlinson , j. , et al . , 2002 , apj , 577 , 221 roth , k.c , meyer , d.m . , 1995 , apj , 441 , 129 savage , b.d . , bohlin , r.c . , drake , j.f . , budich , w. , 1977 , apj , 216 , 291 van dishoeck , e.f . , black , j.h . , 1986 , apjs , 62 , 109 van dishoeck , e.f . , black , j.h . , 1989 , apj , 340 , 273 weselak , t. , galazutdinov , g.a . , musaev , f.a . , kreowski , j. , 2004 , a&a , 414 , 949 weselak , t. , galazutdinov , g.a . ,",
+    "musaev , f.a . ,",
+    "kreowski , j. , 2008a , a&a , 479 , 149 weselak , t. , galazutdinov , g.a . ,",
+    "musaev , f.a . ,",
+    "kreowski , j. , 2008b , a&a , 484 , 381"
+  ],
+  "abstract_text": [
+    "<S> we analyze mutual relations between interstellar extinction e(b - v ) and column densities of diatomic molecules such as cn , ch and ch cation observed along translucent sightlines . </S>",
+    "<S> observational material acquired using five echelle spectrographs , situated in both northern and southern hemispheres , was used in this study . </S>",
+    "<S> while column densities of ch , ch@xmath0 correlate reasonably tightly with e(b - v ) the similar relation built for cn shows a large scatter . </S>",
+    "<S> this result suggests that ch and ch@xmath0 molecules are quite well spatially correlated to interstellar dust while cn requires another conditions to be formed . </S>",
+    "<S> the ch molecule is closely related to h@xmath1 as it was demonstrated already ; the fact is interesting since h@xmath1 is believed to be formed on grain surfaces rather than in the gas phase . </S>"
+  ]
+}

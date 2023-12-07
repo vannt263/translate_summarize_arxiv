@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "triple gauge boson interactions are the consequence of the @xmath25 gauge symmetry of the standard model ( sm ) .",
+    "a precise determination of the trilinear gauge boson couplings are necessary to test the validity of the sm and the presence of new physics up to a high energy scale .",
+    "since the tree - level couplings of the @xmath2 and @xmath3 vertices are fixed by the sm , any deviations from their sm values would indicate the new physics beyond the sm .",
+    "possible types of the collisions of the accelerated particles will extend the level of precision to triple couplings of the gauge bosons .",
+    "the photoproduction of @xmath26and @xmath27 bosons have been studied in the baseline of lepton - hadron coliders hera+lc @xcite and the large hadron electron collider ( lhec ) @xcite .",
+    "an investigation of the potential of the lhec to probe anomalous @xmath2 coupling has also been presented in ref .",
+    "@xcite .    the present bounds on the anomalous @xmath2 and @xmath3 couplings are provided by the lep @xcite , tevatron @xcite and lhc @xcite experiments .",
+    "recently , the atlas @xcite and cms @xcite collaborations have established updated constraints on the anomalous @xmath2 and @xmath3 couplings from the @xmath28 and @xmath29 production processes .",
+    "the best available constraints on @xmath30 , @xmath31 , @xmath23 and @xmath24 obtained from one parameter analysis at different experiments are summarized in table [ tab : tab1 ] .",
+    "the limits based on one - parameter analysis at @xmath32 c.l . on the @xmath30 and @xmath31 from atlas collaboration with @xmath33 production process data at @xmath34 tev and @xmath35 fb@xmath15 are @xmath36 and @xmath37 @xcite .",
+    "same limits from the @xmath32 c.l .",
+    "two - parameter analysis are @xmath38 for @xmath30 and @xmath39 for @xmath31 .",
+    "two - parameter @xmath32 c.l .",
+    "limits on anomalous couplings @xmath23 and @xmath24 are given as @xmath40 and @xmath41 , respectively .    according to cms collaboration , one - parameter @xmath32 c.l .",
+    "limits are @xmath42 and @xmath43 for @xmath30 and @xmath31 from @xmath33 production process at @xmath34 tev and @xmath44 fb@xmath15 @xcite . from two - parameter contours , the upper limits for @xmath30 and @xmath31 are obtained as @xmath45 and @xmath46 at the @xmath32 c.l . while one - parameter @xmath32 c.l .",
+    "limits on @xmath23 and @xmath24 are @xmath47 and @xmath43 from @xmath29 production process at @xmath34 tev . here",
+    ", the relation @xmath48 is used to extract some of the the limits in the lep scenario .",
+    "the results from atlas and cms experiments based on two parameter analysis of the anomalous couplings are given in table [ tab : tab2 ] .",
+    "in this study , we examined the @xmath0 and @xmath1 processes with anomalous @xmath2 and @xmath3 couplings at the high energy electron - proton collider namely , the large hadron electron collider ( lhec ) .",
+    "this collider is considered to be realised by accelerating electrons in a linear accelerator ( linac ) to 60 140 gev and colliding them with the 7 tev protons incoming from the lhc .",
+    "we take into account the possibility of the electron beam polarization at lhec which extends the sensitivity to anomalous triple gauge boson couplings .",
+    "the anticipated integrated luminosity is about at the order of 10 and 100 fb@xmath15 @xcite .",
+    ".the available @xmath32 c.l .",
+    "bounds on anomalous couplings ( @xmath30,@xmath31 ) and ( @xmath23,@xmath24 ) from the data at lep , tevatron , and lhc experiments . in each case",
+    "the parameter listed is varied while the others are fixed to their sm values .",
+    "[ tab : tab1 ] [ cols=\"^,^,^,^,^,^\",options=\"header \" , ]",
+    "the @xmath2 and @xmath3 anomalous interactions through the process @xmath49@xmath50 and @xmath51 can be studied independently at the lhec .",
+    "we obtain two - parameter accessible ranges of triple gauge boson anomalous couplings at lhec with the polarized and unpolarized beam at the energy of @xmath4 gev and @xmath5 gev .",
+    "our limits compare with the results from two - parameter analysis given by atlas and cms collaborations @xcite .",
+    "we find that the lhec with polarized electron beam improves the bounds on anomalous couplings .",
+    "the lhec will give complementary information about anomalous couplings compared to tevatron and lhc .",
+    "the work of o.c . is partially supported by state planning organisation ( dpt ) - ministry of development under the grant no .",
+    "a.s . would like to thank abant izzet baysal university department of physics where of part this study was carried out for their hospitality ."
+  ],
+  "abstract_text": [
+    "<S> we examine the potential of the @xmath0 and @xmath1 processes to search for the anomalous couplings of @xmath2 and @xmath3 vertices at the lhec with the electron beam energy of @xmath4 gev and @xmath5 gev . </S>",
+    "<S> the difference of maximum and minimum bounds on the anomalous couplings , ( @xmath6,@xmath7 ) and ( @xmath8,@xmath9 ) are obtained as ( @xmath10 , @xmath11 ) and ( @xmath12 , @xmath13 ) without electron beam polarization at the beam energy of @xmath5 gev for an integrated luminosity of @xmath14 fb@xmath15 , respectively . with the possibility of @xmath16beam polarization , we obtain more improved results as ( @xmath17 , @xmath18 ) and ( @xmath19 , @xmath20 ) for ( @xmath21 ) and ( @xmath22 ) , respectively . </S>",
+    "<S> the results are found to be comparable with the current experimental limits obtained from two - parameter analysis at the lepton and hadron colliders . </S>",
+    "<S> it is found that the limits on the anomalous couplings ( @xmath23,@xmath24 ) through the process @xmath1 at the lhec can further improve the current experimental limits . </S>"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the separation of the cmb and the various diffuse foreground components relies mostly on their different frequency dependence .",
+    "bayesian methods are especially useful for this , since all their assumptions are made explicitly and the remaining uncertainties are easily quantifiable ( see , e.g. , @xcite ) . established bayesian methods",
+    "infer a set of parameters explicitly describing the frequency spectra of a set of physical foreground components under the assumption of non - trivial priors for these parameters ( @xcite ) . on the other hand , the priors for the parameters describing the spatial dependence of the emission components , i.e. , the pixel values ,",
+    "are usually assumed to be flat ( @xcite ) , with the exception of the cmb component , for which an isotropic gaussian prior is sometimes assumed ( @xcite ) . here , we propose a natural extension , namely the inclusion of non - trivial spatial priors for the foreground components .",
+    "this will enable us to allow for spatial correlations both within each component and across components .",
+    "specifically , we suggest the use of isotropic log - normal priors for the diffuse galactic components . for simplicity , we will assume in the following that the frequency dependence of every physical component is known .",
+    "we can relate the observed frequency maps @xmath0 to maps of the emission components @xmath1 via the linear model @xmath2 here , the linear operator @xmath3 mixes the components into several frequency maps according to their frequency spectra .",
+    "it can in principle also mix the information from different points in the component maps into different pixels of the observed maps , e.g. , via a beam convolution .",
+    "the last term in eq .",
+    "is an additive noise term , for which we assume gaussian statistics with zero mean and a known covariance matrix .",
+    "thus , the likelihood @xmath4 is fully determined .    to find the posterior , @xmath5 , which is the probability distribution that we are interested in , we need to augment the likelihood with a suitable prior distribution @xmath6 . for this",
+    "we suggest to model the cmb as an isotropic gaussian random field and the foreground components as isotropic log - normal fields , i.e. , we define @xmath7 for the cmb component and @xmath8 for each of the foreground components , where the barred quantities are suitable dimensional normalization constants .",
+    "we then use an isotropic gaussian prior for the transformed components , @xmath9 , that is described by a zero mean and an isotropic covariance .",
+    "the latter can be written in the spherical harmonic basis as @xmath10 where the asterisk denotes complex conjugation . here , the auto - spectra , @xmath11 , describe the angular correlation structure within the components and the cross - spectra , @xmath12 for @xmath13 , describe the correlations between different components . both types of quantities",
+    "are clearly non - zero in nature and accounting for them will allow us to transfer some of the information from one pixel into the reconstruction of other pixels and from one component into the reconstruction of other components .    to complete the model , we need to specify a prior for the unknown auto- and cross - spectra . for this",
+    "we use an inverse - wishart distribution as the natural generalization of the inverse - gamma prior commonly used for unknown angular power spectra ( @xcite ) . with this",
+    ", the angular spectra can be marginalized and the posterior @xmath14 calculated .    a simpler way to account for",
+    "correlations would be to model all emission components as gaussian random fields .",
+    "however , the log - normal model has three advantages that make it more suited to describe the galactic foregrounds : the foreground intensities will automatically be positive , their fluctuations will easily be able to vary over orders of magnitude , such as observed between the galactic plane and the galactic halo , and the logarithmic model will suppress the anisotropies that are definitely present in the sky to some degree .",
+    "the posterior probability distribution @xmath14 can be calculated analytically . however , it is non - gaussian .",
+    "one way to explore this probability distribution would be to draw samples from it using a monte carlo algorithm . to minimize computational costs",
+    ", we pursue a different route here .",
+    "following @xcite , we instead apply an iterative scheme that finds the gaussian distribution that best approximates ( in a minimum kullback - leibler distance sense ) the true posterior , described by a mean and a covariance .",
+    "the details of the resulting algorithm are beyond the scope of these proceedings and will be described in a forthcoming publication .    in fig .",
+    "[ fig : testreal ] , we show a simplistic low - resolution simulation of a cmb sky and three foregrounds meant to mimic synchrotron radiation , free - free radiation , and thermal dust radiation , along with a simulated data set generated from these maps .",
+    "the third and fourth rows of the figure show the posterior mean reconstruction using our approximative algorithm and a maximum likelihood reconstruction , which corresponds to the posterior mean under the assumption of flat priors for the fields @xmath1 , respectively . this implementation has made use of the ` nifty ` package ( @xcite ) and the ` healpix ` package ( @xcite ) .",
+    "+          +         +",
+    "our test case demonstrates that the correlated log - normal prior model is not only well motivated as a good approximation of reality , but also produces superior results in practice , compared to an analysis using flat priors .",
+    "this is true even if reality , like the test case presented here , is not precisely described by isotropic log - normal distributions ."
+  ],
+  "abstract_text": [
+    "<S> the extraction of foreground and cmb maps from multi - frequency observations relies mostly on the different frequency behavior of the different components . </S>",
+    "<S> existing bayesian methods additionally make use of a gaussian prior for the cmb whose correlation structure is described by an unknown angular power spectrum . </S>",
+    "<S> we argue for the natural extension of this by using non - trivial priors also for the foreground components . focusing on diffuse galactic foregrounds </S>",
+    "<S> , we propose a log - normal model including unknown spatial correlations within each component and cross - correlations between the different foreground components . </S>",
+    "<S> we present case studies at low resolution that demonstrate the superior performance of this model when compared to an analysis with flat priors for all components . </S>"
+  ]
+}

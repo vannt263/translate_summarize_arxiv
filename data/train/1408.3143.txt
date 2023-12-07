@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "it is well - known that giant planet occurrence is strongly dependent on stellar metallicity for main - sequence and subgiant stars ( e.g. , @xcite ) .",
+    "recent works suggest that planet occurrence is also correlated with stellar mass , with the probability of a star hosting a jovian planet rising linearly over the mass range 0.2 to 2.0 m@xmath3 ( e.g. , @xcite ) . however , it has recently been argued that the subgiants / giants studied at the massive end off the planet - host mass distribution ( representing a stars after they evolve off the main sequence ) may not be as massive as initially suggested @xcite .",
+    "if the stellar masses have been previously underestimated , the nature and interpretation of the correlation between planet occurrence and stellar mass would need to be revised .",
+    "an accurate assessment of the stellar masses of subgiants and giants is thus required to fully understand this apparent correlation . in this work ,",
+    "we start to address this question by performing a spectroscopic analysis of the giant / subgiant star hd 185351 .",
+    "three spectra were obtained for hd 185351 using the high resolution echelle spectrometer ( hires ; @xcite ) on the keck i 10-meter telescope ( mauna kea , hawaii ) .",
+    "they have a nearly complete wavelength coverage from 3650 to 7950  , resolution r = 77,000 and s / n @xmath4 250 per resolution element at @xmath46700  .",
+    "we measured the atmospheric parameters ( @xmath0 , @xmath2 g , [ fe / h ] and @xmath5 ) in lte using an iterative method based on the excitation and ionization equilibria of fe i and fe ii lines , ares , moog @xcite and kurucz odfnew model atmospheres @xcite .",
+    "the results were : @xmath0 = 5035 @xmath1 29 k , @xmath2 g = 3.30 @xmath1 0.08 , [ fe / h ] = 0.10 @xmath1 0.04 and @xmath5 = 1.08 @xmath1 0.03 km s@xmath6 .",
+    "we also measured the lithium abundance in lte using a spectral synthesis technique , the atmospheric parameters above and moog .",
+    "our iterative procedure ( see @xcite for details ) tested different combinations for a(li ) and a single gaussian broadening fhwm@xmath7 .",
+    "a reduced @xmath8 minimization was used to find the best fit between the observed and synthetic spectra , which occurred for the following parameters : a(li ) = 0.77 @xmath1 0.07 and fhwm@xmath7 = 0.152  ( see figure [ synth_li ] ) .",
+    "we measured the physical parameters of hd 185351 using the atmospheric parameters @xmath0 and [ fe / h ] , the v magnitude ( 5.18 @xmath1 0.01 ) from the hipparcos catalog @xcite , the revised hipparcos parallax ( 24.49 @xmath1 0.22 mas ; @xcite ) , and the param web interface with the parsec evolutionary tracks @xcite .",
+    "the results were : m = 1.77 @xmath1 0.04 m@xmath3 , r = 4.85 @xmath1 0.11 r@xmath3 , @xmath2 g = 3.29 @xmath1 0.02 , and age = 1.79 @xmath1 0.09 gyr .",
+    "following the analysis of , we also obtained an independent estimate of the stellar mass from the analysis of the non - standard mixing history of hd 185351 : m = 1.64 @xmath1 0.06 m@xmath3 ( see figure [ models_lithium ] ) .",
+    "the independently measured masses are not only consistent , but also lie within the interval ( @xmath91.6 @xmath10 2.0 m@xmath3 ) defined by the extensive analysis of @xcite , which includes results from interferometry , spectroscopy , and asteroseismology ( see their figure 7 ) .",
+    "the mass of hd 185351 was determined using different methods and all estimated values are higher than 1.5 m@xmath3 .",
+    "these measurements are consistent with hd 185351 being the evolved counterpart of an a dwarf , which supports the results from @xcite .",
+    "we plan to extend the spectroscopic analysis described here to the entire sample of @xmath9300 evolved stars .",
+    "bressan , a. , marigo , p. , girardi , l. , et al .",
+    "2012 , , 427 , 127 castelli , f. , & kurucz , r.  l.  2004 , arxiv : astro - ph/0405087 do nascimento , j.  d. , jr . , castro , m. , melndez , j. , et al .",
+    "2009 , , 501 , 687 esa  1997 , the hipparcos and tycho catalogues , sp 1200 ( noordwijk : esa ) fischer , d.  a. , & valenti , j.  2005 , , 622 , 1102 ghezzi , l. , cunha , k. , smith , v.  v. , & de la reza , r.  2010 , , 724 , 154 hui - bon - hoa , a.  2008 , , 316 , 55 johnson , j.  a. , aller , k.  m. , howard , a.  w. , & crepp , j.  r.  2010 , , 122 , 905 johnson , j.  a. , huber , d. , boyajian , t. , et al .  2014 , arxiv:1407.2329 lloyd , j.  p.  2011",
+    ", , 739 , l49 lloyd , j.  p.  2013",
+    ", , 774 , l2 pietrinferni , a. , cassisi , s. , salaris , m. , & castelli , f.  2004 , , 612 , 168 schlaufman , k.  c. , & winn , j.  n.  2013 , , 772 , 143 sneden , c.  a.  1973 , ph.d .  thesis , univ . texas , austin sousa , s.  g. , santos , n.  c. , israelian , g. , mayor , m. , & monteiro , m.  j.  p.  f.  g.  2007 , , 469 , 783 van leeuwen , f.  2007 , hipparcos : the new reduction of the raw data ( astrophysics and space science library , vol .",
+    "350 ; dordrecht : springer ) vogt , s.  s. , allen , s.  l. , bigelow , b.  c. , et al .",
+    "1994 , proc .",
+    "spie , 2198 , 362"
+  ],
+  "abstract_text": [
+    "<S> doppler - based planet surveys have shown that , besides metallicity , the planet occurrence is also correlated with stellar mass , increasing from m to f - a spectral types . </S>",
+    "<S> however , it has recently been argued that the subgiants ( which represent a stars after they evolve off the main sequence ) may not be as massive as suggested initially , which would significantly change the correlation found . to start investigating this claim , </S>",
+    "<S> we have studied the subgiant star hd 185351 , which has precisely measured physical properties based on asteroseismology and interferometry . </S>",
+    "<S> an independent spectroscopic differential analysis based on excitation and ionization balance of iron lines yielded the atmospheric parameters @xmath0 = 5035 @xmath1 29 k , @xmath2 g = 3.30 @xmath1 0.08 and [ fe / h ] = 0.10 @xmath1 0.04 . these were used in conjunction with the parsec stellar evolutionary tracks to infer a mass m = 1.77 @xmath1 0.04 m@xmath3 , which agrees well with the previous estimates . </S>",
+    "<S> lithium abundance was also estimated from spectral synthesis ( a(li ) = 0.77 @xmath1 0.07 ) and , together with @xmath0 and [ fe / h ] , allowed to determine a mass m = 1.64 @xmath1 0.06 m@xmath3 , which is independent of the star s parallax and surface gravity . </S>",
+    "<S> our new measurements of the stellar mass support the notion that hd185351 is a retired a star with a mass in excess of 1.6 m@xmath3 . </S>"
+  ]
+}

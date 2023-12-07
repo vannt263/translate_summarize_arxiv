@@ -1,0 +1,21 @@
+{
+  "article_text": [
+    "in @xcite examples of topologically isotopic but smoothly nonisotopic spheres in simply connected @xmath2-manifolds , which become smoothly isotopic after connected summing with @xmath1 , were discussed . in this note",
+    "we show that such an example already follows from @xcite .",
+    "first review @xcite : let @xmath3 be the cork twisting involution of the mazur cork @xmath4 . since @xmath5 fixes the boundary @xmath6 of a properly imbedded disk @xmath7 up to isotopy , @xmath8 bounds a disk in @xmath9 as well ( isotopy in the collar union @xmath10 ) , hence we can extend @xmath5 across the tubular neighborhood of @xmath11 of @xmath10 by the carving process of @xcite .",
+    "this results a manifold @xmath12 of figure  [ s1 ] , homotopy equivalent to @xmath13 , and an involution on its boundary @xmath14 .",
+    "@xmath15 does not extend to @xmath16 as a diffeomorphism ( otherwise @xmath5 would extend to a self diffeomorphisim of @xmath9 ) .",
+    "so @xmath15 gives an exotic structure to @xmath16 relative to its boundary ( just as in the cork case ) . in @xcite",
+    "such @xmath17 s are called anticorks because they live inside of corks @xmath18 , and twisting @xmath16 by the involution @xmath15 undoes the effect of twisting @xmath9 by @xmath5 .",
+    "notice that the loop @xmath19 bounds two different disks in @xmath20 with the same complement @xmath16 ( where the identity map between their boundaries can not extend to a diffeomorphism inside ) , they are described by the two different ribbon moves indicated in the last picture of figure  [ s1 ] .",
+    "the two disks are the obvious disks which @xmath21 bounds in the third picture of figure  [ s1 ] , and the same disk after zero and dot exchanges of the figure .",
+    "now let @xmath22 be the @xmath2-manifold obtained by attaching a @xmath0-handle to @xmath20 along the ribbon knot @xmath23 of figure  [ s1 ] , with @xmath24 framing .",
+    "clearly @xmath22 has two imbedded @xmath0-spheres @xmath25 , @xmath26 of self intersection @xmath24 representing @xmath27 , corresponding to the two different @xmath0-disks which @xmath21 bounds in @xmath20 . blowing down either @xmath28 or @xmath29 turns @xmath22 into the _ positron _ cork @xmath30 of figure  [ s2 ] ( @xcite ) , and the two different blowings down process turns the identity map @xmath31 to the cork involution @xmath32 , i.e. the maps in figure  [ s2 ] commute ( this can be seen by blowing down @xmath21 of figure  [ s1 ] by using the two different disks ) . hence @xmath28 and @xmath29 are not smoothly isotopic in @xmath22 by any isotopy keeping @xmath33 fixed , though they are topologically isotopic ( by freedman s theorem )",
+    "; but they are isotopic in @xmath34 rel boundary ( since surgery corresponds turning the dotted circle to @xmath35-framed circle , in the third picture of figure  [ s1 ] ) .",
+    "since @xmath36 , this example shows that the blowing up @xmath37 operation undoes the cork twisting operation of @xmath38 . also since the dolgachev surface @xmath39 differs from its standard copy @xmath40 by twisting the positron cork @xmath38 inside ( theorem 1 of @xcite ) , the manifold @xmath22 in this example can be made to be closed ( without boundary ) .",
+    "reader can check that the two ribbon disks of the ribbon knot in figure  [ s1 ] are actually the same ribbon disks ( isotoping the last picture of figure  [ s1 ] , by forcing the two stands going through @xmath41 stay parallel , results the same picture except the positions of @xmath42 and @xmath41 are exchanged ) but @xmath5 induces nontrivial identifications on the boundaries of the ribbon complements ."
+  ],
+  "abstract_text": [
+    "<S> here we discuss an example of topologically isotopic but smoothly non - isotopic pair of @xmath0- spheres in a simply connected 4-manifold , which become smoothly isotopic after stabilizing by connected summing with @xmath1 .    5.9 in 7.9 in    .75 in .75 in    [ thm]lemma [ thm]corollary [ thm]proposition    p  s o h </S>"
+  ]
+}

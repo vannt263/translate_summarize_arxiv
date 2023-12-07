@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "in these thirty years , it seems that phase field equations describe the novel approach to the stefan problems . for example",
+    ", it has been proved that the phase field equations converge to the equations of the stefan problem as a singular limit .",
+    "caginalp and a co - researcher [ 1 - 4 ] have studied the reduction of these equations in the singular limit of stefan problems and hele - shaw problem .",
+    "the solution of the stefan problem is obtained from the phase - field equations which consist the heat equation and the ginzburg - landau equation by soner [ 10 ] .",
+    "hence , by the phase - field equations , we determine the sharp profile of the phase , the temperature distribution and the velocity of the moving interface between a solid and a liquid .",
+    "+ in this paper , using the landau - ginzburg theory of phase transition , physical properties show the phase field equations we consider , which is reduced to by the free energy @xmath1.\\ ] ] first we use the phase field equations of `` caginalp type '' due to [ 2 ] , @xmath2 directly and numerically . here",
+    "@xmath3 is a derivative of a symmetric double - well potential with minima at @xmath4 , @xmath5 a latent heat and @xmath0 @xmath6 liquid ( e.g. water ) , @xmath7 solid ( e.g. ice ) .",
+    "+ second we investigate the following equations @xmath8\\ ] ] in two space dimensions , where @xmath9 is a mobility of @xmath0 and these equations are called the modified allen - cahn equations .",
+    "+ third we consider the following equations due to [ 6 ] , @xmath10\\left[1-\\varphi^2\\right],\\\\\\\\ \\displaystyle\\frac{\\partial u}{\\partial t}=d\\frac{\\partial^2 u}{\\partial x^2}+\\frac{1}{2}\\frac{\\partial\\varphi}{\\partial t } \\end{array}\\ ] ] then applying the moving frame to these equations yields @xmath11\\left[1-\\varphi^2\\right]=0\\\\\\\\ \\displaystyle v\\frac{\\partial u}{\\partial x}+d\\frac{\\partial^2 u}{\\partial x^2}-\\frac{v}{2}\\frac{\\partial\\varphi}{\\partial x}=0 \\end{array}\\ ] ] finally , we also use the following relations due to [ 8 ] , @xmath12\\\\\\\\ \\displaystyle\\frac{\\partial c}{\\partial t}=\\nabla^2 c+\\alpha\\frac{\\partial\\varphi}{\\partial t}+\\left(\\nabla^2\\varphi-\\frac{\\partial\\varphi}{\\partial t}\\right)\\frac{\\alpha\\cdot\\displaystyle\\frac{\\partial\\varphi}{\\partial t}}{da|\\nabla\\varphi| } \\end{array}\\ ] ] to simulate the symmetric circular domain of solid . here",
+    "@xmath13 is pclet number , @xmath14 a positive parameter , @xmath15 a mean curvature , @xmath16 also a positive parameter , @xmath17 a damkhler number .",
+    "+ the so - called one phase stefan problem has no discontinuous - gradient model for the temperature distribution .",
+    "however , in the two phase stefan problem , this phenomena occurs .",
+    "thus one can obtain the sharp - interface numerically by investigating what control it .",
+    "+ our first purpose of this paper is to find out what determine the sharpness of the interface between two different phases ( e.g. ice and water ) .",
+    "the second is to investigate asymptotic behavior of the volume of the solidification and dissolution and/or precipitation . + we calculate these equations numerically performed in two - dimensions .",
+    "we take full advantage of the phase field parameter @xmath0 to track the interface on which complicated movements or changes are needed .",
+    "more precisely , we analyze the dissolution and/or precipitation without the unknown velocity functions like the navier - stokes equations numerically .",
+    "in our survey , we use the finite differential method for the time evolution equations numerically . + for eqs .",
+    "( 1 ) , we use the 5-point finite difference stencil @xmath18 and we use the forward scheme in time @xmath19 for eq .",
+    "( 2 ) , we use the forward scheme in time @xmath19 on the other hand , the second order center - ward scheme in space @xmath20 for eqs .",
+    "( 3 ) , the gradient of @xmath0 with respect to @xmath21 , @xmath22 , we use the central difference approximation @xmath23 respectively , and @xmath24 if we do not have any confusion , we abbreviate the `` @xmath25 '' .",
+    "this result is well - known",
+    ". however we consider it to show an asymptotic behavior of the solutions for the stefan problems . + in general",
+    ", the parabolic partial differential equations often have initial - boundary value problems in a certain sense and the exact solutions are difficult to obtain by the direct calculations .",
+    "therefore the fact that we investigate the asymptotic behavior of solutions of general case plays an important rle in this sense .",
+    "thus we get @xmath26 where @xmath27 corresponds to the integral formula `` gaussian distribution '' ( see friedman , 1964 , 2008 ) .",
+    "table i. numerical volumes of the solidification and dissolution and/or precipitation for the time step . from the above , eq .",
+    "( 1 ) v.s .",
+    "volume 1 and eq .",
+    "( 2 ) v.s .",
+    "volume 2 .        + we obtain the fact that the interface between two regions in the solidification and dissolution and/or precipitation are determined by the `` coupling parameters '' and coefficients , and sharp in our numerical simulation .",
+    "+ the volume controlled by the solidification and dissolution and/or precipitation is the dimensionless versions .",
+    "we report that the volume of them is proportional to the time step ( nstep in table i ) ."
+  ],
+  "abstract_text": [
+    "<S> phase field equations describe the novel approach to the stefan problems . </S>",
+    "<S> we calculate these equations numerically performed in two - dimensions . we take full advantage of the phase field parameter @xmath0 to track the interface on which complicated movements or changes are needed . </S>",
+    "<S> more precisely , we analyze the dissolution and/or precipitation without the unknown velocity functions like the navier - stokes equations numerically . </S>",
+    "<S> +   + pacs numbers : v79b 68 . 70 . w+ . </S>"
+  ]
+}
