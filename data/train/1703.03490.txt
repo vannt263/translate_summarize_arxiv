@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "the riemann - siegel @xmath7 function is defined by @xmath8 let @xmath9 be the approximate @xmath7 function where the @xmath10 function has been replaced with its stirling approximation . @xmath11 the @xmath6 function is not invertible but the inverse of its approximation @xmath12 is defined by a linear function of the lambert w function given by @xmath13 let @xmath14 be the function which gives the fractional part of a real number by subtracting either the floor @xmath15 or the ceiling @xmath16 of @xmath17 from @xmath17 , depending upon its sign .",
+    "furthermore , let @xmath18 be the argument of @xmath4 on the critical line .",
+    "[ ec]the for the imaginary part of the @xmath3-th zero of @xmath19 ( * ? ? ?",
+    "* equation 20 ) @xmath20 has a solution for each integer @xmath21 where @xmath22 enumerate the zeros of @xmath23 on the real line and the zeros of @xmath4 on the critical line @xmath24 where @xmath25 denotes the positive integers .",
+    "* equation 14 )      the @xmath3-th gram point is defined to be the solution of the equation @xmath26 a very accurate approximation @xmath27 to the gram points is @xmath28 is found by inverting @xmath12 to get the exact solution @xmath29 where @xmath30 is the lambert w function , and the approximation bounds @xmath31 when @xmath32 is @xmath33 , followed by @xmath34 and decreases monotincally with increasing @xmath3 , that is , @xmath35 .",
+    "the inverse of @xmath27 is given by @xmath36 now define the infinite sequence of functions indexed by @xmath37 @xmath38 near each `` bad '' gram point there will be a corresponding zero on the critical line which has an argument not on the principal branch .",
+    "the function @xmath39 determines how many multiples of @xmath40 to add or subtract to @xmath41 so that it agrees with the argument of @xmath4 at a zero on the critical line where it is discontinuous , having the value @xmath42 when @xmath43 .",
+    "let @xmath44    let @xmath45 be the sign of @xmath6 .    [ c]the argument @xmath46 of @xmath19 at the n - th non - trivial zero  @xmath47 on the critical strip is equal to @xmath48 , that is @xmath49    if conjecture [ c ] is true then conjecture [ ec ] is true and , due to @xmath50 [ fl ] , so is conjecture [ rh ] , the riemann hypothesis .    if @xmath51=@xmath52 then @xmath52 is well - defined @xmath53 since @xmath51 is well - defined @xmath53 .",
+    "@xmath54    the argument of any positive number @xmath17 with @xmath55 is equal to @xmath56 and @xmath57    @xmath58 .",
+    "that is @xmath59",
+    "[ le]if the limit @xmath63 is exists and is well - defined @xmath64 then the left - hand side of equation ( [ ae ] ) is well - defined @xmath64 , and due to monotonicity , there must be a unique solution for every @xmath37 .",
+    "* ii.a )          the riemann - von - mangoldt formula makes use of cauchy s argument principle to count the number of zeros @xmath73 where @xmath74 with @xmath75 @xmath76 and this definition does not depend on the riemann hypothesis(conjecture [ rh ] ) .",
+    "this equation has exactly the same form as the asymptotic equation [ ae ] .",
+    "* equation 15 )      if the exact equation has a unique solution for each @xmath3 , then the zeros obtained from its solutions on the can be counted since they are enumerated by the integer @xmath3 , leading to the counting function @xmath78 in equation ( [ n0 ] )",
+    ". the number of solutions obtained on the would saturate counting function of the number of solutions on the so that @xmath79 and thus all of the non - trivial zeros of @xmath4 would be enumerated in this manner .",
+    "if there are zeros off of the critical line , or zeros with multiplicity @xmath80 , then the exact equation ( [ ee ] ) would fail to capture all the zeros on the critical strip which would mean @xmath81 .",
+    "* ix )    1 guilherme frana and andr leclair .",
+    "transcendental equations satisfied by the individual zeros of riemann zeta , dirichlet and modular l - functions . _",
+    "communications in number theory and physics _ , 2015 ."
+  ],
+  "abstract_text": [
+    "<S> the function @xmath0 is conjectured to be equal to @xmath1 when @xmath2 is the imaginary part of the @xmath3-th zero of @xmath4 on the critical line . if @xmath5 then the exact transcendental equation for the riemann zeros has a solution for each positive integer @xmath3 which proves that riemann s hypothesis is true since the counting function for zeros on the critical line is equal to the counting function for zeros on the critical strip if the transcendental equation has a solution for each @xmath3 . </S>"
+  ]
+}

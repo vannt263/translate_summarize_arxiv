@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "interacting galaxies are considered to have a wide importance on triggering of starburst and agn activity .",
+    "therefore , we have investigated two subsamples of spectroscopically - selected , x - ray detected interacting seyfert 1s , including nls1 , and seyfert 2s galaxies ( rafanelli et al.,1995 ) with @xmath2 .",
+    "+ the pairs have been selected on poss plates using the following criteria given by rafanelli et al .",
+    "( 1995 ) : separation between the components @xmath3 , where @xmath4 is the apparent major axis of theseyfert galaxy , and a magnitude - difference between seyfert and the companion@xmath5 .",
+    "the identification is based on x - ray contour lines overlaid on optical images taken from dss . in fig .",
+    "1 we show as an example the overlay from the nls1 galaxy mkn 896 .",
+    "2 shows the spectrum of this object .",
+    "the deviation from the fit at energy 0.7 kev in fig .",
+    "2 indicates the presence of a warm absorber .",
+    "the pointing and survey lightcurves in fig .",
+    "3 show the variability of this source on short time scales .",
+    "to derive the interaction strength @xmath1 , we concentrate on the tidal force per unit mass produced by a companion on a primary galaxy , which is proportional to @xmath6 .",
+    "@xmath7 is the mass of the companion and @xmath8 is its distance from the center of the primary galaxy . in most cases ,",
+    "@xmath7 and the absolute value of @xmath8 are unknown . instead",
+    ", these parameters are related to the dimensions of the pair .",
+    "rubin et al . (",
+    "1982 ) describe the dependence of the mass @xmath9 of a galaxy on the size of its major axis @xmath10 as @xmath11 and we use @xmath12 ( dahari , 1984 ) .",
+    "if we utilize the apparent diameter of the primary galaxy @xmath4 as a scaling factor , we obtain : @xmath13 using these relations , we get as the dimensionless gravitational interaction strength @xmath1 : @xmath14 this parameter is obviously large for close and relatively large companions .",
+    "fig.4 shows interaction strength @xmath1 vs. the x - ray luminosity for seyfert 1 galaxies .",
+    "noticeable is a faint tendency for the luminosity increase for increasing values of interaction strength .",
+    "a possible explanation for the low luminosity sources are the presence of a high hydrogen column density in the nucleus and the emission from the circumnuclear starbursts .",
+    "+ the galaxy interactions or mergers are able to trigger a burst of star formation , which can be a reason for the rise in luminosity .",
+    "several studies about physical mechanisms which could trigger a burst of strong star formation have been investigated by barnes & hernquist ( 1991 ) , jog & das ( 1992 ) and jog & solomon ( 1992 ) .",
+    "also many observations suggest that galactic encounters enhance star formation rates , as demonstrated by studies of the optical ( e.g. , kennicut et al . 1987 ; bushouse 1987 ) , infrared ( e.g. , bernlhr 1993 ; telesco et al .",
+    "1993 ) and radio ( e.g. , hummel 1981 ; smith & kassim 1993 ) emission from interacting systems .",
+    "+ for each source detected in the all - sky survey with more than 100 counts in an exposure time of 400 sec and for all sources within pointed observations , we performed a spectral analysis and created a lightcurve .",
+    "studies of variability were possible , if more than one pointed observation was available or if both a detection in the survey and in a pointed observation existed .",
+    "we are extending our studies on starburst galaxies to examine the influence of interaction with companions on the x - ray luminosity .",
+    "a paper with data concerning x - ray properties , luminosity , flux , count rate variation and lightcurves for seyfert 1s & 2s is in preparation ."
+  ],
+  "abstract_text": [
+    "<S> we have correlated a sample of 99 seyfert 1 & 98 seyfert 2 ( rafanelli et al . , 1995 ) interacting galaxies with the survey and pointed rosat data and have detected 91 seyferts 1 & 47 seyfert 2s in the x - ray band . </S>",
+    "<S> we have performed spectral and timing analysis of the x - ray detected sources , and we have examined the relation of the x - ray luminosity @xmath0 with the interaction strength @xmath1 .    </S>",
+    "<S> galaxies : active , seyfert 1 , seyfert 2 , merger ; x - rays : galaxies </S>"
+  ]
+}

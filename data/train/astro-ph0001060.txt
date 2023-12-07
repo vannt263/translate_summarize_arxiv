@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "in this paper we have attempted to model the far - red spectra ( 640930 nm ) of several l - dwarfs suitably selected to cover this new spectral class .",
+    "we have used model atmospheres from tsuji ( @xcite ) and allard ( @xcite ) , as well as an lte spectral synthesis code ( pavlenko et al .",
+    "@xcite ) which takes into account chemical equilibrium for more than 100 molecular species , and detailed opacities for the most relevant bands .",
+    "we have arrived to the following conclusions :    \\1 ) alkali lines play a major role governing the far - red spectra of l - dwarfs . at early types ,",
+    "this role is shared with tio and vo bands , which dominate this spectral region in late m - dwarfs .",
+    "as we move to later spectral types we need to incorporate progressively higher depletions of these oxides and of the hydrides crh and cah , consistently with the expectation that ti and v atoms are depleted into grains ; and we also require additional opacity to reproduce the overall shape of the spectra .",
+    "this additional opacity could be either due to molecular / dust absorption or to dust scattering .",
+    "\\2 ) we have shown that a simple law for this additional opacity of the form @xmath3 , with @xmath1=4 , gives a sufficiently good fit to the observed spectra of l - dwarfs and gl229b . for this late object",
+    "we require the highest value of @xmath4 consistent with a very dusty atmosphere .",
+    "the strength of alkali lines is highly affected by this opacity .",
+    "\\3 ) from the best fits to our spectra , we derive the most likely @xmath5 values for our sample of l - dwarfs . for the warmer objects , our values",
+    "are consistent with those obtained by other authors , however we find lower @xmath5 s by serveral hundred degrees for the coolest l - dwarfs . because the optical spectra are very much affected by the input physics , a more reliable @xmath5 scale should be obtained by fitting the ir data of these cool objects .",
+    "\\4 ) after detailed consideration of chemical equilibrium , we find that the lithium resonance doublet at 670.8 nm can be detected in the whole spectral range ( down to 1000k ) . in the coolest l - dwarfs the strength of the resonance line",
+    "is more affected by the amount of additional opacity needed to explain the spectra than by the depletion of neutral lithium atoms into molecular species . in those atmospheres where the additional opacity required is low",
+    ", the lithium test can provide a useful discrimination of substellar nature .",
+    "changes in the physical conditions governing dust formation in l - dwarfs , will cause variability of the lithium resonance doublet .",
+    "taking into account the need for additional opacity in kelu1 , we find that the lithium abundance can be as high as log@xmath1(li)=3.0 , i.e. consistent with complete preservation .",
+    "we thank t. tsuji , f. allard , d. schwenke , g. schultz and b. oppenheimer for providing us model atmospheres , updated tio molecular data and the optical spectrum of gl229b , respectively .",
+    "we are also indebted to r. garca lpez , gibor basri and eduardo l. martn for their assistance with the observations .",
+    "partial financial support was provided by the spanish dges project no .",
+    "pb95 - 1132-c02 - 01 ."
+  ],
+  "abstract_text": [
+    "<S> we present synthetic optical spectra in the red and far - red ( 640930 nm ) of a sample of field l dwarfs suitably selected to cover this new spectral class , and the brown dwarf gl229b . </S>",
+    "<S> we have used the recent `` dusty '' atmospheres by tsuji ( @xcite ) and by allard ( @xcite ) , and a synthesis code ( pavlenko et al . </S>",
+    "<S> @xcite ) working under lte conditions which considers the chemical equilibrium of more than 100 molecular species and the detailed opacities for the most relevant bands . </S>",
+    "<S> our computations show that the alkali elements li , na , k , rb , and cs govern the optical spectra of the objects in our sample , with na and k contributing significantly to block the optical emergent radiation . molecular absorption bands of oxides ( tio and vo ) and hydrides ( crh , feh and cah ) also dominate at these wavelengths in the early l - types showing a strength that progressively decreases for later types . </S>",
+    "<S> we find that the densities of these molecules in the atmospheres of our objects are considerably smaller by larger factors than those predicted by chemical equilibrium considerations . </S>",
+    "<S> this is consistent with ti and v atoms being depleted into grains of dust .    in order to reproduce the overall shape of the optical spectra of our observations </S>",
+    "<S> an additional opacity is required to be implemented in the computations . </S>",
+    "<S> we have modelled it with a simple law of the form @xmath0 , with @xmath1=4 , and found that this provides a sufficiently good fit to the data . </S>",
+    "<S> this additional opacity could be due to molecular / dust absorption or to dust scattering . </S>",
+    "<S> we remark that the equivalent widths and intensities of the alkali lines are highly affected by this opacity . </S>",
+    "<S> in particular , the lithium resonance line at 670.8 nm , which is widely used as a substellarity discriminator , is more affected by the additional opacity than by the natural depletion of neutral lithium atoms into molecular species . </S>",
+    "<S> our theoretical spectra displays a rather strong resonance feature even at very cool effective temperatures ( @xmath21000k ) ; depending on the effective temperature and on the amount of dust in the atmospheres of very cool dwarfs , it might be possible to achieve the detection of lithium even at temperatures this cool . </S>",
+    "<S> changes in the physical conditions governing dust formation in l - type objects will cause variability of the alkali lines , particularly of the shorter wavelength lines .    [ </S>",
+    "<S> cols=\"<,<,^,^,^,^,^ \" , ] </S>"
+  ]
+}

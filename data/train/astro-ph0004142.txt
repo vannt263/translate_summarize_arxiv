@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "in order to identify @xmath0 binaries ( wielen et al . 1999a ) we compare the hipparcos proper motions ( esa 1997 ) , which are quasi - instantaneously measured within about three years , with long - term averaged , mean proper motions , which are derived by using ground - based data from a much longer observational period ( often a century or more ) . if the difference @xmath0 between the short - term and the long - term proper motion is statistically significant , the object is probably a binary or a multiple system .",
+    "the statistical significance of @xmath0 is measured by the test parameter @xmath1 .",
+    "if the errors of the proper - motion components were independent of the directions , @xmath1 would be equal to @xmath0/(mean error of @xmath0 ) .",
+    "we take into account the non - isotropy of the errors of @xmath0 and the correlations between the components of @xmath0 .",
+    "a value of @xmath2 3.44 corresponds to the same error probability as the familiar two - sided 3@xmath3 criterion , and is therefore used by us for identifying @xmath0 binaries .",
+    "the long - term averaged proper motions are partially taken from available astrometric catalogues ; partially they are derived from the mean positions given in the ground - based catalogues and the positions in the hipparcos catalogue ( we call this proper motion @xmath4 ) .",
+    "the ground - based catalogues are corrected for systematic errors by comparing them with the hipparcos catalogue .    for determining various values of @xmath0 with respect to hipparcos",
+    ", we have used the following astrometric catalogues : fk5 ( fricke et al . 1988 , 1991 ) , rsup ( schwan et al .",
+    "1993 ) , gc ( boss et al .",
+    "1937 ) , and tycho-2 ( hoeg et al . 2000 ) .",
+    "more details will be given in other papers .",
+    "for the basic fk5 stars , part i of the fk6 ( wielen et al .",
+    "1999b ) gives already many additional informations ( see also url : http://www.ari.uni-heidelberg.de/fk6 ) .",
+    "a finding list for about 4000 @xmath0 binaries is given in the internet under url +       + in a machine - readable format .",
+    "the list gives identification numbers , @xmath6 values , and other informations on these @xmath0 binaries .",
+    "for many of these objects , the probable duplicity was hitherto unknown .",
+    "the highest fraction of @xmath0 binaries occurs among the basic fundamental stars , because their proper motions are most accurately measured . among the fainter stars , the fraction of identified @xmath0 binaries is smaller , due to the larger measuring errors .",
+    "the highest sensitivity of our @xmath0 method for detecting binaries is reached for nearby stars .",
+    "wielen r. , dettbarn c. , jahrei h. , lenhardt h. , schwan h. , 1999a , _ indications on the binary nature of individual stars derived from a comparison of their hipparcos proper motions with ground - based data",
+    ". i. basic principles .",
+    "_ a&a 346 , 675    wielen r. , schwan h. , dettbarn c. , lenhardt h. , jahrei h. , jhrling r. , 1999b , _ sixth catalogue of fundamental stars ( fk6 ) .",
+    "part i. basic fundamental stars with direct solutions .",
+    "rechen - inst .",
+    "heidelberg no ."
+  ],
+  "abstract_text": [
+    "<S> the comparison of quasi - instantaneously measured hipparcos proper motions with long - term averaged proper motions , derived from ground - based data , allows the identification of many stellar objects as @xmath0 binaries ( wielen et al . , 1999 , a&a 346 , 675 ) . </S>",
+    "<S> we have used this method to find @xmath0 binaries among the fundamental stars , among the gc stars , and among the tycho-2 stars . </S>",
+    "<S> a finding list for about 4000 @xmath0 binaries is given under the url http://www.ari.uni-heidelberg.de/dmubin in a machine - readable format . </S>",
+    "<S> this information on the probable duplicity of the listed objects can be used for planning specific observing programs , for improving our knowledge of binary statistics , or for avoiding the use of these binaries in some astrophysical calibrations or as astrometric reference stars . </S>"
+  ]
+}

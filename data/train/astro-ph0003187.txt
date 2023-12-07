@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "accretion of matter from a thin disk into a black hole may spin up the black hole up to @xmath3 , at which point @xmath0 of the rest mass of accreted matter is radiated away ( thorne 1974 ) .",
+    "we define @xmath4 , where @xmath5 is the black hole mass and @xmath6 is its angular momentum per unit mass .",
+    "energy may be extracted out of a rapidly spinning black hole by means of the blandford - znajek mechanism and transported to a distant load by means of magnetic field ( blandford & znajek 1977 ) .",
+    "recently it has been shown that even more efficient extraction of rotational energy is possible with the magnetic field lines threading the kerr black hole and connecting it to the inner parts of the disk ( li 2000 ) . in these two processes energy of black hole rotation",
+    "may be extracted with up to 9% and 15% efficiency , respectively ( li 2000 ) .    in this letter",
+    "we propose an efficient way of converting rest mass to energy by alternating the two processes : accretion of matter from a thin disk into a kerr black hole and the magnetic extraction of energy from the black hole to the disk .",
+    "we show that this process has the highest efficiency in converting mass into energy through accretion into a black hole among those have been ever suggested : up to @xmath2 of accreted rest mass is radiated away by the disk , with the black hole mass increasing by @xmath1 per cycle .",
+    "we consider a black hole with the initial mass @xmath7 and spin @xmath8 .",
+    "next , the black hole is spun up by matter accreting from a thin , keplerian disk ; its mass and spin increase to @xmath9 and @xmath10 , respectively . during this phase",
+    "the amount of accreted disk rest mass is @xmath11 , and the total energy @xmath12 is radiated by the disk .",
+    "next the accretion stops , and the black hole transfers angular momentum and energy to the disk by means of magnetic field , as described by li ( 2000 ) , reducing the mass and the spin to the new values @xmath13 and @xmath14 , and transferring energy @xmath15 to the disk . that energy is radiated by the disk , while no new matter is accreted into the black hole .    during the evolution from @xmath16 to @xmath17",
+    "we calculate the change of black hole mass and spin , as well as the efficiency of converting accreted mass to radiation , using equations [ 3 ] and [ 4 ] provided by bardeen ( 1970 ) . in this calculation",
+    "we have used bardeen s simple solutions for accretion and the effects of ` photon capture ' of thorne ( 1974 ) have not been taken into account , except that @xmath18 has been limited to values not exceeding @xmath19 . note that the efficiency of converting rest mass to radiation by accretion from a thin disk into @xmath3 kerr black hole is equal to 32.4% in bardeen s formulation , but it is only 30.8% in the thorne s model . however",
+    ", this difference becomes insignificant when the @xmath18 parameter is somewhat smaller than 0.998 .",
+    "therefore , we overestimate the efficiency of energy release in during the evolution from @xmath16 to @xmath17 by a small amount only . during the evolution from @xmath17 to @xmath20 we use equation",
+    "[ 13 ] as given by li ( 2000 ) .",
+    "we consider a cycle which could be repeated indefinitely , and therefore we seek @xmath21 .",
+    "we would like the process to be as efficient as possible in converting the accreted disk mass @xmath22 to the radiated energy @xmath23 .",
+    "hence , we seek the values of @xmath24 and @xmath25 which maximize the ratio @xmath26 .",
+    "it turns out that the optimum values are : @xmath27 , and @xmath28 , which give the efficiency of converting disk rest mass to radiation : @xmath29 .    the evolution of our system is shown in fig .",
+    "1 : the black hole mass @xmath30 varies as a function of integrated amount of energy radiated from the disk @xmath31 .",
+    "obviously , @xmath32 varies monotonically with time , but @xmath5 increases during the accretion phase ( from @xmath33 to @xmath34 ) , and it is reduced during the spin - down phase ( from @xmath34 to @xmath35 ) .",
+    "the black hole mass increases by the same factor in every cycle , and it can grow as long as the cycles continue .    during the first part of the cycle the black hole mass increases by a factor 1.9625 between points @xmath16 and @xmath17 , while the amount of rest mass accreted from a thin disk is equal to @xmath36 , where @xmath37 is the initial black hole mass . the balance , equal to @xmath38 is radiated away . in the second part of the cycle",
+    "no mass is accreted , the black hole mass is reduced to 1.6644 of its initial value , and the corresponding amount of energy , i.e. @xmath39 is transferred to the disk and radiated away . during the complete cycle the black hole mass increases by a factor 1.6644 , and the total energy radiated from the disk is equal to @xmath40 , where @xmath22 is the total accreted disk mass .    this process can be repeated indefinitely , at least in principle . in each cycle",
+    "the black hole mass increases by a factor 1.6644 .",
+    "the system evolves through alternating phases of disk accretion associated with the black hole spin - up , and phases of no accretion and the disk radiating away energy transferred from the spinning - down black hole by means of the magnetic field .",
+    "the evolution of the system through two full cycles is illustrated in fig .",
+    "it is far from clear if the scenario we propose can be maintained over many cycles , or even over one cycle .",
+    "however , it shows that it may be possible , at least in principle , to radiate up to @xmath2 of rest mass energy , with only @xmath41 ending up permanently in the black hole .",
+    "this is the highest efficiency of converting rest mass to energy by accreting into a black hole that has been ever proposed ."
+  ],
+  "abstract_text": [
+    "<S> the highest efficiency of converting rest mass into energy by accreting matter into a kerr black hole is @xmath0 ( thorne 1974 ) . </S>",
+    "<S> we propose a new process in which periods of accretion from a thin disk , and the associated spin - up of the black hole , alternate with the periods of no accretion and magnetic transfer of energy from the black hole to the disk . </S>",
+    "<S> these cycles can repeat indefinitely , at least in principle , with the black hole mass increasing by @xmath1 per cycle , and up to @xmath2 of accreted rest mass radiated away by the disk . </S>"
+  ]
+}

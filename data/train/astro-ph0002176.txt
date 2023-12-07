@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "we study a stationary shock front in the @xmath4plane .",
+    "the accelerated particles are assumed to be test - particles without influence on the dynamics of the plasma or the jump conditions at the shock - front .",
+    "the plasma flows along the @xmath5-axis , with constant velocities @xmath6 in the upstream ( @xmath7 ) region and @xmath8 downstream ( @xmath9 ) , the velocities are related by the rankine - hugoniot jump conditions .",
+    "test - particles are injected into the acceleration process and their interaction with the plasma flow is assumed to give rise to diffusion in the angle @xmath10 between a particle s velocity and the shock normal . in the frame of the shock front this leads to a stationary transport equation valid for the local plasma rest frame and given in mixed coordinates as @xcite @xmath11 where the plasma speed @xmath12 is measured in units of the speed of light , @xmath13 is the lorentz - factor , @xmath14 is the ( lorentz invariant ) phase - space density as a function of the particle momentum @xmath3 , direction @xmath15 and position . @xmath3 and @xmath15 are measured in the local rest frame of the plasma , whereas @xmath5 is measured in the rest frame of the shock front .    equation ( [ e : aguthmann:1 ] ) is solved using the separation _ ansatz",
+    "_ @xcite @xmath16 valid in each half - plane with @xmath17 and @xmath18 the eigenvalues and eigenfunctions of the equation @xmath19-\\lambda_i(u+\\mu ) \\right\\ }   q_i(\\mu , u)=0\\ ] ] the momentum distribution of particles with energy far above the injection energy range  those in which we are interested  takes the shape of a power - law @xmath20 with a power - law index @xmath21 , since there is no preferred momentum scale in this range .",
+    "matching the expansion ( [ e : aguthmann:2 ] ) across the shock front according to liouville s theorem and imposing physically realistic boundary conditions up and downstream leads to a nonlinear algebraic equation for the power law index @xmath21 .    in @xcite and",
+    "@xcite only the eigenfunctions with @xmath22 were used and the method was applied to mildly relativistic shock speeds ( @xmath23 ) . here",
+    ", we use the eigenfunctions with @xmath24 and calculate them directly with a numerical scheme . in the limit @xmath25 an analytic expression is available @xcite .",
+    "four eigenfunctions ( @xmath26 ) are shown in fig .",
+    "[ f : aguthmann:1]a as functions of the cosine @xmath27 of the angle between the particle direction and the shock normal , measured in the shock rest frame .",
+    "for @xmath28 they are oscillatory for @xmath29 and for all @xmath24 fall off monotonically in the range @xmath30 .",
+    "= 7.5cm=7.5 cm    [ f : aguthmann:1 ]",
+    "the index @xmath21 of the momentum spectra of the accelerated particles in different cases are shown in fig .  [",
+    "f : aguthmann:1]b .",
+    "the jump conditions investigated are those for a relativistic gas both up and downstream : @xmath31[s : aguthmann:1 ] and for a strong shock in a medium with adiabatic index @xmath32 @xcite .",
+    "also we investigate two different scattering operators , @xmath33 ( isotropic small / angle scattering ) and @xmath34 corresponding to scattering in weak kolmogorov turbulence , together with a rough prescription for avoiding the lack of scattering at @xmath35 @xcite . for high upstream lorentz - factors the power - law index settles at a value around @xmath36 for all equations of state , which is reproduced in the limiting case @xmath25 .",
+    "the scattering operator has only a minor effect .",
+    "these results are in agreement with the asymptotic monte - carlo results of gallant et al . @xcite and those of bednarz & ostrowski @xcite for @xmath37 .",
+    "anisotropic scattering , which has not been treated by monte - carlo simulations , leads to a slight steeping in the power - law spectrum , because fewer particles are able to cross the region @xmath38 and return to the shock . from observations of grb afterglows , galama et al .",
+    "@xcite and waxman @xcite have found synchrotron spectral indices corresponding to @xmath39 , implying that the particles could indeed have been accelerated by the first order fermi mechanism operating at an ultrarelativistic shock front .",
+    "bednarz , j. , ostrowski , m. , _ phys",
+    "lett . _ * 80 * , 3911 ( 1998 ) .",
+    "galama , t. et al . , _ astrophysical journal _ * 500 * , l101 ( 1998 ) .",
+    "gallant , y.a . ,",
+    "achterberg , a. , kirk , j.g .",
+    ", _ astron .",
+    "ser . _ * 138 * , 549 ( 1999 ) heavens , a.f . ,",
+    "drury l.oc . ,",
+    "_ mnras _ * 235 * , 997 ( 1988 ) kirk , j.g . , duffy , p. , _ journal of physics g : nucl . part .",
+    "* 25 * , r163 ( 1999 ) kirk , j.g . ,",
+    "schneider , p. , _ astrophysical journal _ * 315 * , 425 ( 1987 ) .",
+    "kirk , j.g . ,",
+    "schneider , p. , _ astronomy & astrophysics _ * 225 * , 559 ( 1989 ) waxmann , e. , _ astrophysical journal _ * 485 * , l5 ( 1997 ) ."
+  ],
+  "abstract_text": [
+    "<S> we adapt and modify the eigenfunction method of computing the power - law spectrum of particles accelerated at a relativistic shock front via the first - order fermi process @xcite to apply to shocks of arbitrarily high lorentz factor . the power - law index of accelerated particles undergoing isotropic small - angle scattering at an ultrarelativistic </S>",
+    "<S> , unmagnetized shock is found to be @xmath0 ( where @xmath1 , with @xmath2 the lorentz - invariant phase - space density and @xmath3 the momentum ) , in agreement with the results of monte - carlo simulations . </S>",
+    "<S> we present results for shocks in plasmas with different equations of state and for lorentz factors ranging from 5 to infinity . </S>"
+  ]
+}

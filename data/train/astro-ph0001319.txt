@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "clusters of galaxies are x - ray bright to the extent that the rosat all - sky survey ( rass ) allows sizeable , statistically complete cluster samples to be compiled @xcite .",
+    "large - scale structure ( lss ) studies using clusters as tracers do not duplicate , but rather complement those using galaxies because clusters mark the locations of the deepest potential wells whereas galaxies probe primarily the low - density field . to date , most dynamical analyses of large - scale flows have been compared with the iras density fields @xcite .",
+    "however , the distribution of rich clusters is significantly different from that of iras - selected galaxies @xcite as the latter are mostly spirals .",
+    "there is evidence from dynamical modeling that mass congregates in clusters with much higher @xmath1 values than associated with field galaxies @xcite .",
+    "historically , optical searches for clusters of galaxies , and thus also the resulting lss studies , were forced to avoid a wide band of the sky centered on the galactic plane because of severe extinction and stellar obscuration at @xmath0 . with the advent of x - ray astronomy",
+    ", this restriction is greatly relaxed . rather than dust extinction and stellar confusion , it is now the x - ray absorbing equivalent hydrogen column density , @xmath2 , that is the limiting factor . as shown in figure 1",
+    ", @xmath2 rises only slowly toward the galactic plane allowing an x - ray cluster survey to penetrate the plane to much lower latitude .",
+    "in an attempt to overcome the limitations of existing cluster samples , we have initiated a program aimed at the construction of a statistical sample of galaxy clusters in what used to be the zone of avoidance . our survey is based on x - ray sources detected in the rass as listed in the rosat bright source catalog @xcite . in a first phase of our project which focuses on the x - ray brightest clusters we apply three selection criteria : @xmath0 , @xmath3 erg @xmath4 s@xmath5 , and a spectral hardness ratio cut to discriminate against softer , non - cluster x - ray sources .",
+    "cross - correlations with databases of galactic and extragalactic objects as well as follow - up observations with the university of hawaii s 2.2 m telescope have , so far , resulted in 73 spectroscopically confirmed galaxy clusters at @xmath6 ; only 15 of which were previously known ( see figure 1 ) .",
+    "highlights of the survey so far include the discovery of a distant , extremely x - ray luminous cluster which acts as a gravitational lens , and , at the opposite end of the redshift scale , the discovery of a cluster at @xmath7 at @xmath8 ( i.e. , in the mid - plane of the milky way ) which is very likely part of the perseus - pegasus complex .",
+    "davis m. , nusser a. & willick j.a .",
+    "1996 , apj , 473 , 22 dekel a. et al .",
+    "1993 , apj , 412 , 1 de grandi s. et al .",
+    "1999 , apj 514 , 148 ebeling h. et al .",
+    "1996 , mnras , 281 , 799 ebeling h. et al . 1998 , mnras , 301 , 881 fisher k.b .",
+    "1995 , apjs , 100 , 69 kaiser n. et al .",
+    "1991 , mnras , 252 , 1 tully r.b .",
+    "1997 , iau symp .",
+    "183 voges et al . 1999 ,",
+    "a&a , 349 , 389"
+  ],
+  "abstract_text": [
+    "<S> we discuss the design and current status of the ciza survey , the first systematic x - ray search for clusters of galaxies in the galactic plane region . </S>",
+    "<S> so far , we have compiled a sample of more than 70 x - ray selected clusters at @xmath0 , 80% of which were previously unknown . upon its completion </S>",
+    "<S> the ciza cluster catalogue will complement the existing galaxy surveys in the galactic plane region and allow a fresh look at large - scale structure and local streaming motions . </S>"
+  ]
+}

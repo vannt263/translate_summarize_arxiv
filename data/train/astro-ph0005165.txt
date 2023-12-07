@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "narrow - line seyfert 1 ( nls1 ) galaxies with narrow ( fwhm= 5002000 km s@xmath6 ) emission lines of hydrogen in their optical / uv spectrum tend to have the steepest soft x - ray spectra in the @xmath0 band of 0.12.0 kev , and form a distinct class of active galactic nuclei ( see boller et al . 1996 and references therein ) .",
+    "catalogues of ultra - soft x - ray sources are , therefore , very useful to find such objects . while carrying out optical spectroscopy of candidate objects in the positional error circles of such sources from the catalogue given by singh et al .",
+    "( 1995 ) , we have found a new narrow - line seyfert 1 ( nls1 ) galaxy . the galaxy is a strong candidate for being a counterpart to the ultra - soft x - ray source ",
+    "wga  j2153.3 - 1514 ( rxj  2153.3 - 1514 ) .",
+    "a brief summary of its optical and x - ray properties is presented below .",
+    "analysis of archival @xmath0 pspc data in the vicinity of wga  j2153.3 - 1514 shows two bright optical objects near the x - ray peak  a 14.7 mag galaxy and a 11.72 mag star ( see figure 1 ) .",
+    "the x - ray beam is broadened , and somewhat distorted , due to the large off - axis angle ( 41 arcmin ) of the source .",
+    "optical spectra were taken for both the objects at the lick 3 m telescope [ slit width = 2.5 arcsec ; grism for blue and a grating for red spectrum both of 600 lines / mm gave a resolution of 6.5   ( fwhm ) ] .",
+    "the spectrum of the galaxy is shown in figure 2 after smoothing .",
+    "the spectral parameters for the emission lines are given in table 1 .",
+    "spectral features are consistent with the classification as a nls1 galaxy ( osterbrock & pogge 1985 ; goodrich 1989 ) .",
+    "the star shows a spectrum of a late - a to an early - f type , and no chromospheric emission or emission lines characterisitic of an accreting cataclysmic variable are detected .",
+    "these properties and the ratio of x - ray flux ( f@xmath7 ) to optical flux ( f@xmath8 ) , effectively rule out the star as being the candidate for the x - ray source",
+    ".         steep x - ray spectra , as are observed here , are usually associated with nls1 galaxies ( brandt , pounds , & fink 1995 ; boller , brandt , & fink 1996 ; laor et al .",
+    "the position of this galaxy on the @xmath2-h@xmath9 line width plane ( fig",
+    ". 8 of boller et al ( 1996 ) ) is consistent with an extrapolation based on the other nls1 galaxies . for further details ,",
+    "please refer to singh & jones ( 2000 ) .",
+    "higher resolution x - ray observations with more sensitive satellites like @xmath10 and @xmath11 , as well as higher resolution optical / uv spectra with better signal - to - noise ratio are required to fully understand the nature of the agn in this galaxy ."
+  ],
+  "abstract_text": [
+    "<S> we have discovered a narrow - line seyfert 1 ( nls1 ) galaxy and identified it with an ultrasoft x - ray source * ( rx  215319 - 1514 ) * detected with @xmath0 . </S>",
+    "<S> we present its x - ray and optical spectral characteristics . </S>",
+    "<S> its redshift is found to be 0.0778@xmath10.0002 . </S>",
+    "<S> its optical spectrum shows fairly strong fe ii emission lines , and its x - ray spectrum has an extremely steep power - law index of @xmath2 @xmath34 , making it an extremely interesting example of this class of agns . </S>",
+    "<S> no low - energy absorption or variability is observed . the soft x - ray ( 0.12.0 kev ) luminosity is estimated to be 3.412.5@xmath410@xmath5 ergs s@xmath6 , depending on the spectral model .    </S>",
+    "<S> galaxies : active ; quasars : general ; x - rays : galaxies </S>"
+  ]
+}

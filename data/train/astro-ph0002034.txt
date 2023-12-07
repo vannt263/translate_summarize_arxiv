@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "we first show that the grbs with well - established redshifts could have been detected out to very high redshifts ( vhrs ) . then",
+    ", we show that their soft x - ray , optical , and infrared afterglows could also have been detected out to these redshifts .",
+    "we first show that grbs are detectable out to very high redshifts .",
+    "the peak photon number luminosity is @xmath1 where @xmath2 is the band of observation .",
+    "typically , for batse , @xmath3 kev and @xmath4 kev .",
+    "the corresponding peak photon number flux @xmath5 is @xmath6 assuming that grbs have a photon number spectrum of the form @xmath7 and that @xmath8 is independent of z , the observed peak photon number flux @xmath5 for a burst occurring at a redshift @xmath9 is given by @xmath10 where @xmath11 is the comoving distance to the grb .",
+    "taking @xmath12 , which is typical of grbs [ 1 ] , equation ( 3 ) coincidentally reduces to the form that one gets when @xmath5 and @xmath8 are bolometric quantities .    using these expressions",
+    ", we have calculated the limiting redshifts detectable by batse and hete-2 , and by _ swift _ , for the seven grbs with well - established redshifts and published peak photon number fluxes . in doing so",
+    ", we have used the peak photon number fluxes given in table 1 of [ 2 ] , taken a detection threshold of 0.2 ph s@xmath13 for batse [ 3 ] and hete-2 [ 4 ] and 0.04 ph s@xmath13 for _ swift _ [ 5 ] , and set @xmath14 km s@xmath13 mpc@xmath13 , @xmath15 , and @xmath16 ( other cosmologies give similar results ) .",
+    "+     +    figure 1 displays the results .",
+    "this figure shows that batse and hete-2 would be able to detect four of these grbs ( grbs 970228 , 970508 , 980613 , and 980703 ) out to redshifts @xmath17 , and three ( grbs 971214 , 990123 , and 990510 ) out to redshifts of @xmath18 .",
+    "_ swift _ would be able to detect the former four out to redshifts of @xmath19 , and the latter three out to redshifts in excess of @xmath20 , although it is unlikely that grbs occur at such extreme redshifts ( see  3 below ) .",
+    "consequently , if grbs occur at vhrs , batse has probably already detected them , and future missions should detect them as well .",
+    "the soft x - ray , optical and infrared afterglows of grbs are also detectable out to vhrs .",
+    "the effects of distance and redshift tend to reduce the spectral flux in grb afterglows in a given frequency band , but time dilation tends to increase it at a fixed time of observation after the grb , since afterglow intensities tend to decrease with time .",
+    "these effects combine to produce little or no decrease in the spectral energy flux @xmath21 of grb afterglows in a given frequency band and at a fixed time of observation after the grb with increasing redshift : @xmath22 where @xmath23 is the intrinsic spectral luminosity of the grb afterglow , which we assume applies even at early times , and @xmath11 is again the comoving distance to the burst .",
+    "many afterglows fade like @xmath24 , which implies that @xmath25 in the simplest afterglow model where @xmath26 [ 6 ] .",
+    "in addition , @xmath11 increases very slowly with redshift at redshifts greater than a few . consequently , there is little or no decrease in the spectral flux of grb afterglows with increasing redshift beyond @xmath27 .",
+    "for example , [ 7 ] find in the case of grb 980519 that @xmath28 and @xmath29 so that @xmath30 , which implies no decrease in the spectral flux with increasing redshift , except for the effect of @xmath11 . in the simplest afterglow model where @xmath31 , if the afterglow declines more rapidly than @xmath32 , the spectral flux actually _ increases _ as one moves the burst to higher redshifts !    as another example , we calculate the best - fit spectral flux distribution of the early afterglow of grb 970228 from [ 8 ] , as observed one day after the burst , transformed to various redshifts .",
+    "the transformation involves ( 1 ) dimming the afterglow , and @xmath16 ; other cosmologies yield similar results . ]",
+    "( 2 ) redshifting its spectrum , ( 3 ) time dilating its light curve , and ( 4 ) extinguishing the spectrum using a model of the ly@xmath33 forest . for the model of the ly@xmath33 forest , we have adopted the best - fit flux deficit distribution to sample 4 of [ 9 ] from [ 10 ] . at redshifts in excess of @xmath34 , this model is an extrapolation , but it is consistent with the results of theoretical calculations of the redshift evolution of ly@xmath33 absorbers [ 11 ] . finally , we have convolved the transformed spectra with a top hat smearing function of width @xmath35 .",
+    "this models these spectra as they would be sampled photometrically , as opposed to spectroscopically ; i.e. , this transforms the model spectra into model spectral flux distributions .",
+    "figure 2 shows the resulting k - band light curves . for a fixed band and time of observation , steps ( 1 ) and ( 2 ) above dim",
+    "the afterglow and step ( 3 ) brightens it , as discussed above .",
+    "figure 2 shows that in the case of the early afterglow of grb 970228 , as in the case of grb 980519 , at redshifts greater than a few the three effects nearly cancel one another out .",
+    "thus the afterglow of a grb occurring at a redshift slightly in excess of @xmath36 would be detectable at k @xmath37 mag one hour after the burst , and at k @xmath38 mag one day after the burst , if its afterglow were similar to that of grb 970228 ( a relatively faint afterglow ) .",
+    "figure 3 shows the resulting spectral flux distribution .",
+    "the spectral flux distribution of the afterglow is cut off by the ly@xmath33 forest at progressively lower frequencies as one moves out in redshift .",
+    "thus high redshift ( @xmath39 ) afterglows are characterized by an optical `` dropout '' [ 12 ] , and very high redshift ( @xmath40 ) afterglows by an infrared `` dropout . ''",
+    "mazzoli , r. s. , pendleton , g. n. , & paciesas , w. s. 1996 , apj , 471 , 636 lamb , d. q. , & reichart , d. e. , 2000 , apj , in press ( astro - ph/9909002 ) meegan , c. a. , et al .",
+    "1993 , second batse catalog ricker , g. 1998 , baas , 30 , abstract 33.14 gehrels , n. 1999 , baas , 31 , 993 wijers , r. a. m. j. , rees , m. j. , & mszros , p. 1997 ,",
+    "mnras , 288 , l51 halpern , j. p. 1999 , apj , 517 , l105 reichart , d. e. , 1999 , apj , 521 , l111 zuo , l. , & lu , l. 1993 , apj , 418 , 601 reichart , d. e. , 2000 , apj , submitted ( astro - ph/9912368 ) valageas , p. , schaeffer , r. , & silk , j. 1999 , a&a , 345 , 691 fruchter , a. s. 1999 , apj , 512 , l1"
+  ],
+  "abstract_text": [
+    "<S> there is increasingly strong evidence that gamma - ray bursts ( grbs ) are associated with star - forming galaxies , and occur near or in the star - forming regions of these galaxies . </S>",
+    "<S> these associations provide indirect evidence that at least the long grbs detected by bepposax are a result of the collapse of massive stars . </S>",
+    "<S> the recent evidence that the light curves and the spectra of the afterglows of grb 970228 and grb 980326 appear to contain a supernova component , in addition to a relativistic shock wave component , provide more direct clues that this is the case . </S>",
+    "<S> here we establish that grbs and their afterglows are both detectable out to very high redshifts ( @xmath0 ) . </S>"
+  ]
+}

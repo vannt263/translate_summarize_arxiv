@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the problem of finding numerical approximations to the roots of a non - linear system of equations was subject of various studies , different methodologies have been proposed between optimization and newton s procedures . in @xcite d. h. lehmer",
+    "proposed a method for solving polynomial equations in the complex plane testing increasingly smaller disks for the presence or absence of roots .",
+    "in other work , herbert s. wilf developed a global root finder of polynomials of one complex variable inside any rectangular region using sturm sequences@xcite .",
+    "the classical bolzano s theorem or intermediate value theorem ensure that a continuous function that changes sign in an interval has a root , that is , if @xmath0 \\rightarrow \\mathbb{r}$ ] is continuous and @xmath1 then there exist @xmath2 that @xmath3 . in the multidimensional case the generalization of this result is the known poincar - miranda theorem that ensure that if we have @xmath4 @xmath5-continuous functions of @xmath5 variables @xmath6 and the variables are subjected to vary between @xmath7 and @xmath8 then if @xmath9 for all @xmath10 then there exist @xmath11^{n}$ ] such that @xmath3 .",
+    "this result was announced the first time by poincar in 1883 @xcite and published in 1884 @xcite with reference to a proof using homotopy invariance of the index .",
+    "the result obtained by poincar has come to be known as the theorem of miranda , who in 1940 showed that it is equivalent to the brouwer fixed point @xcite . for different proofs of the poincar - miranda theorem in the @xmath12-dimensional case ,",
+    "see @xcite , @xcite . in the two - dimensional case",
+    "the poincar - miranda theorem can be enunciated in the following way .",
+    "[ poin - mir_teo ] ( poincar - miranda theorem ) .",
+    "let @xmath13 \\times [ -a_2,a_2 ] \\rightarrow \\mathbb{r}^2 $ ] be a continuous vector field such that @xmath14 , for each @xmath15 and @xmath16 , for each @xmath17 .",
+    "then there exist @xmath18 such that @xmath19 .",
+    "it is clear that the above theorem is still true assuming a non - symmetric square @xmath20 .",
+    "although this paper @xmath21 will denote a continuous mapping of a square @xmath22 \\times [ -a_2,a_2]\\subset \\mathbb{r}^2 $ ] into @xmath23 , the aim of this paper is to develop a bisection method for solving non - linear system of two - dimensional equations @xmath24 using the above poincar - miranda theorem .",
+    "we denote by @xmath25 the euclidean norm in @xmath23 and we accept @xmath26 as a root with tolerance level @xmath27 if @xmath28 .",
+    "the idea of the algorithm is similar as in the classical one dimensional algorithm , we perform refinement of the domain region in order to preserve the poincar - miranda sign conditions . one of the advantages of this method reside in the fact that it does not require derivatives of @xmath21 , nor the approximation of such derivatives ; only the computed values of @xmath21 are required .",
+    "however , we can not ensure always its converge .",
+    "this section gives a step - by - step description of our algorithm , the core of it meets in the classical bisection algorithm in one dimension .",
+    "a quadrisection of a rectangle @xmath20 is a refinement into four congruent rectangles @xmath29 .    [",
+    "cols=\"^,^\",options=\"header \" , ]",
+    "in this work we have developed an original two - dimensional root - finding bisection method using a generalization of bolzano theorem . since we can not always guarantee that a quadrisection will verify the poincar - miranda condition we can not always ensure the converge of the method , however for several systems it has very good performance in the root s approximation .",
+    "moreover , we have proved that the method converges to a root for systems that allow infinite quadrisections .",
+    "the accuracy of the method depends of the number of quadrisections allowed by the initial guess , so it plays a key role . on other side the main difference of this method respect to the classical newton and optimization algorithms reside in the fact that it does not require derivatives of @xmath21 avoiding the problem of ill - conditioned jacobian matrix .",
+    "25 w. kulpa , the poincar - miranda theorem , amer . math .",
+    "monthly 104 ( 1997 ) , no . 6 , 2513 - 2530 .",
+    "d. h. lehmer , ( april 1961 ) , a machine method for solving polynomial equations , journal of the acm , 8 ( 2 ) : 151 - 162 .    c. miranda , unosservazione su un teorema di brouwer , boll .",
+    "( 2 ) 3 ( 1940 ) , 5 - 7 .",
+    "h. poincar , sur certaines solutions particulires du problme des trois corps , c. r. acad sci.paris 97 ( 1883 ) , 251 - 252 ( french ) .",
+    "h. poincar , sur certaines solutions particulires du problme des trois corps , bulletin astronomique 1 ( 1884 ) , 65 - 74 ( french ) .",
+    "n. rouche and j. mawhin , quations diffrentielles ordinaires .",
+    "tome i : thorie gnrale , mason at cie , diteurs , paris , 1973 .",
+    "herbert s. wilf ( 1978 ) , a global bisection algorithm for computing the zeros of polynomials in the complex plane , journal of the acm , 25 ( 3 ) ."
+  ],
+  "abstract_text": [
+    "<S> in this paper we develop a root - finding algorithm in order to solve non - linear systems of two equations using the poincar - miranda theorem . </S>",
+    "<S> this theorem is the natural extension of the bolzano s theorem for the multidimensional case and it looks for sign conditions throughout the border domain in order to guarantee the existence of a root . in this work </S>",
+    "<S> we propose a two - dimensional bisection method following the terms of this theorem . given a system to solve and given a starting rectangle verifying the border conditions </S>",
+    "<S> , we perform refinement of the rectangle following the sign conditions and taking the center we generate root s approximation for the system . </S>"
+  ]
+}

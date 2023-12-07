@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "the detection of bipolar reflection nebulosities in ppn suggests that the dust envelopes in ppn are highly asymmetric .",
+    "( see hrivnak , these proceedings ) . in order to model these objects ,",
+    "a 2-d radiation transfer model is necessary .",
+    "however , a fully self - consistent determination of the source function in 2-d is impractical not only because of the large computing time required , but also in the lack of knowledge of the physical details of the scattering process .",
+    "since the morophology of the nebulae will be primarily determined by the geometry and orientation of the envelope , we have developed an approximate solution to simultaneously fit the sed and images of a centrally - heated dust envelope . in this paper , we report the models for 3 ppn , iras 17105 - 3224 , iras 18095 + 2704 and iras 17441 - 2411 , where hst images are available .",
+    "the dust envelope is assumed to be axial symmetric where the density distribution @xmath0 is assumed to have radial cutoffs at @xmath1 and @xmath2 .",
+    "the plane perpendicular to @xmath3 ( @xmath4 ) is referred to as the `` equatorial plane '' and the directions along the @xmath3 axis ( @xmath5 and @xmath6 ) are referred to as the two `` poles '' .",
+    "the density is assumed to decrease from the equator to the poles in the form of a power law ( @xmath7 ) . in order to produce the searchlight beams observed in the ppn , iras 17150 - 3224 ( kwok et al .",
+    "1998 ) , cavities can be put in the density distribution simply assuming a open - cone structure , where @xmath8 drops by a factor of @xmath9 inside the cone .",
+    "a disk can also be put in the density distribution in order to reprduce the dark lane observed in iras 17441 - 2411 ( su et al .",
+    "the viewing angle @xmath10 is defined as @xmath11 if the object is viewed along the pole ( pole - on ) , and @xmath12 if it is viewed along the equator ( edge - on ) .",
+    "we first solve the dust temperature distribution at the  polar \" and  equatorial \" directions from 1-d radiation transfer models .",
+    "the values at other angles are then obtained by interpolation using a power law :    @xmath13^n\\qquad{\\rm for~}\\theta \\leq \\pi/2\\ ] ] @xmath14 the three power indices ( @xmath15 ) are adjusted until best fits are obtained for both the sed and the images .",
+    "specifically , @xmath16 can be constrained by the infrared color ( [ 60]-[100 ] @xmath17 m ) because the total amount of dust is fixed .",
+    "@xmath18 determines the degree of asymmetry and is constrained by the observed width of the reflection nebula .",
+    "@xmath19 is basically the same as @xmath18 , but can be adjusted in order to get the total energy conserved .",
+    "the viewing angle _ i _ can be determined by comparing the flux ratio of the two reflection lobes in the simulated image to the one in the observed image .",
+    "iras 17150 - 3224 and iras 18095 + 2704 are both o - rich objects , as evidenced by the presence of the 9.7@xmath17 m silicate feature in the iras low resolution spectra ( lrs ) ; therefore , we use silicate dust grains in the fitting .",
+    "the strength of the silicate feature is also used to constrain the dust opticall depth along the line of sight .",
+    "iras 17441 - 2411 shows no feature in iras lrs , we adopted amorphous carbon dust grains in the fitting .",
+    "table 1 lists all the fitting parameters we used .",
+    "figure 1 shows model fits to the sed for these three objects .",
+    "figure 2 shows the comparision between the observed model images .",
+    "the model images not only reproduce the approximate shapes of the ppn , but also the absolute flux levels ( as evidenced by the sizes of the outermost contour ) .",
+    "in addition , searchlight beams in iras 17150 - 3224 and dark lane in iras 17441 - 2441 are successfully reproduced as well ."
+  ],
+  "abstract_text": [
+    "<S> we have fitted the hst images and the spectral energy distributions ( seds ) of three proto - planetary nebulae ( ppn ) with a 2-d radiation transfer model . </S>",
+    "<S> the geometric and mass loss properties of these ppn are also derived .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

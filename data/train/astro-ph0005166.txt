@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "narrow line seyfert 1 ( nls1 ) galaxies have recently received much attention due to their unusual optical  x - ray properties which are not yet well understood .",
+    "photoionization models of the circum - nuclear emission / absorption regions allow us to investigate scenarios to explain the main characteristics of nls1s , i.e. , ( i ) extremely steep x - ray spectra within the energy band , ( ii ) narrow ( fwhm @xmath0 2000 km / s ) balmer lines and strong feii emission , and ( iii ) weak forbidden lines except for some relatively strong high - ionization iron lines . here , we concentrate on ( iii ) ; for a discussion of ( i ) and ( ii ) see komossa & fink ( 1997a ) , and komossa & meerschweinchen ( 2000 ) . in particular , we study the influence of different euv - soft - x - ray spectral shapes ( a giant soft excess , a steep x - ray powerlaw , the presence of a warm absorber ) and nlr cloud properties ( density , abundances , and distance from the nucleus ) on the predicted optical emission - line ratios .",
+    "first results of this study were presented by komossa & janek ( 1999 ) .",
+    "1e 0117.2 - 2837 ( qso0117 - 2837 ) was discovered as an x - ray source by _ einstein _ and is at a redshift of @xmath1=0.347 ( stocke et al .",
+    "1991 , grupe et al .",
+    "its x - ray spectrum is extremely steep ( see komossa & meerschweinchen 2000 for a detailed x - ray analysis of this source ) .",
+    "we have obtained new optical spectra of 1e 0117.2 - 2837 with the eso1.52 m telescope at lasilla , in september 1995 .",
+    "the optical spectrum reveals several signs of a nls1 galaxy ( we do not distinguish between nl seyferts and nl quasars , here ) : weak [ oiii]@xmath25007 emission and strong feii complexes ( fig .",
+    "1 ) . after subtraction of the feii spectrum ( see grupe et al .",
+    "1999 for details ) we derive fwhm@xmath3=2100@xmath4 km / s , fwhm@xmath5}}$]=820@xmath6 km / s ( based on _ single - component _ gaussian fits to the emission lines ; this leaves some broad wings as residuals ) , and the ratio [ oiii]/h@xmath7=0.056 .",
+    "the narrow emission lines , i.e. those originating from the narrow line region ( nlr ) , like [ oiii]@xmath25007 and [ oi]@xmath26300 , are rather weak in 1e 0117.2 - 2837 and in nls1 galaxies in general .",
+    "occasionally , however , fairly strong high - ionization iron lines are present .",
+    "we investigate several models to explain these observations , starting with the assumption that the nlr is ` normal ' ( i.e. a typical type 1 seyfert , as far as distance from the nucleus , gas density and covering factor are concerned ) . all photoionization calculations were carried out using the _ cloudy _ code ( ferland , 1993 ) .    in the first step ,",
+    "non - solar metal abundances were assumed . over abundant metals ( with respect to the solar value ) were shown to delay the complete removal of a blr multiphase equilibrium ( komossa & meerschweinchen 2000 ) . due to their rather strong influence on the cooling , metals ,",
+    "if overabundant , can lead to weaker optical line emission .",
+    "however , we find the effect to be insufficient to explain the observed line intensities .    as shown in komossa & schulz ( 1997 ) , the weak [ oiii]@xmath25007 domain of the line correlations in the usual diagnostic diagrams of seyfert 2 galaxies can be explained by very steep euv continua with @xmath8 @xmath9 2.5 .",
+    "although , e.g. , the nls1 rxj1225.7 + 2055 indeed exhibits a rather _ steep _ euv spectrum ( determined by a powerlaw connection between the flux at the lyman limit and 0.1 kev ) , that of rxj1239.3 + 2431 is very _ flat _",
+    "( greiner et al . 1996 ) .",
+    "placing warm absorbing material along the line of sight to the nlr would make the latter see a continuum that is only modified in the soft x - ray region , with negligible influence on the line emission .",
+    "the same holds for an intrinsically steep x - ray powerlaw , which only leads to a slight weakening of the low - ionization lines .    in cases where a warm absorber is present ,",
+    "the high - ionization iron lines ( [ fex ] and higher ) can be produced within the warm gas itself ( see komossa & fink 1997a , b , c for details ) .",
+    "however , no one - to - one match between the observed coronal lines in the nls1 ngc4051 and those predicted to arise from the x - ray warm absorber in this galaxy was found ( komossa & fink 1997a , and these proceedings ) , suggesting that in general , the coronal line and warm absorber regions are separate components .    in order to assess the influence of a strong euv - soft - x - ray excess on optical line emission , we have calculated a sequence of models with an underlying mean seyfert continuum plus a black body of varying temperature , for a range of densities and distances of the nlr gas from the central continuum source .",
+    "although the contribution of a hot bump - component can considerably strengthen the high - ionization iron lines ( eg . [ fex]@xmath26374 , [ fevii]@xmath26087 and [ fexiv]@xmath25303 ) , reflecting the fact that their ionization potentials are at soft x - ray energies , these models overpredict the [ oiii ] emission .    we conclude that the weakness of forbidden lines in nls1s must be due to an overall lower emissivity of the nlr . if this is caused by _ shielding _ of the nlr from ionising photons , the model must avoid boosting the low - ionization lines like [ oii ] .",
+    "more likely , the region is gas poor , i.e. less of the impinging photons can be reprocessed into line emission .",
+    "` normal ' line ratios would then result in weak forbidden lines being undetected .",
+    "for those objects with strong high - ionization ( iron ) lines , models favor the dominance of low - density gas and small distances to the ionizing source ."
+  ],
+  "abstract_text": [
+    "<S> based on photoionization calculations we present a study of the nlr emission line ratios of narrow - line seyfert 1 ( nls1 ) galaxies . in particular , we investigate the influence of different euv - soft - x - ray spectral shapes ( a giant soft excess , a steep x - ray powerlaw , the presence of a warm absorber ) and nlr cloud properties ( density , abundances , distance from the continuum source ) on the predicted optical emission - line ratios like [ oiii ] and [ fexiv ] .    </S>",
+    "<S> ,    ,    agn , emission lines , photoionization models , nls1 galaxies , individual : 1e 0117.2 - 2837 </S>"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "recently lots of natural parity charm and charm - strange mesons are observed in experiments@xcite , which are summarized in , where we have combined the statistical , systematic and model errors in quadrature for simplicity .",
+    "these new resonances have great importance in improving our knowledge of the radial and orbital charmed excitations . especially for the spin - parity @xmath0 charm and charm - strange states",
+    ", there may exist the @xmath7-@xmath8 mixing , which makes the assignments more complicated .",
+    ".experimental results of the recently discovered excited open charm mesons with natural spin - parity . [ cols=\"<,<,<,<,<,<\",options=\"header \" , ]",
+    "in this work , we carried out a systematical research on the potential @xmath0 open charm mesons , including the charm - strange mesons @xmath16 and @xmath11 , charm mesons @xmath17 , @xmath18 , @xmath19 and @xmath20 . the main strong decay properties by taking these natural spin - parity resonances as the @xmath7 or @xmath8 states are achieved by using the bethe - salpeter methods . in particularly , the further @xmath21-@xmath22 mixing scheme is used to explain both the @xmath0 charm and charm - strange mesons .",
+    "the obtained results and predicted properties can be tested in the near future experiments .",
+    "our results reveal that , @xmath16 and @xmath11 can be well described by the further @xmath7-@xmath8 mixing scheme with a small mixing angle @xmath23 .",
+    "both the total widths and ratio of corresponding partial decay widths are consistent with the experimental measurements .",
+    "our predicted ratio @xmath24 for @xmath11 is @xmath12 , which could be used to test this @xmath21-@xmath22 mixing scheme in future . for the corresponding charm mesons ,",
+    "since the experimental measurements are not consistent with each other , the identification and assignments are much more difficult . based on our results ,",
+    "the babar @xmath17@xcite can be explained by the same mixing scheme with a mixing angle of @xmath25 .",
+    "@xmath18@xcite and @xmath19@xcite are more likely to be @xmath7 predominant states , since their masses are consistent with the @xmath7 predictions , while our calculated total widths are both comparable with the experimental measurements under the @xmath7 or @xmath8 assignments . our results also show that , the measured width of @xmath20 is much smaller than the theoretical calculations under the @xmath8 assignment",
+    ". this would be an obstacle to identify @xmath20 as the @xmath8 predominant @xmath14 .",
+    "there still exit puzzles and difficulties in identifications of these new excited charmed mesons .",
+    "further precise measurements of their properties are needed and important .",
+    "this work was supported in part by the national natural science foundation of china ( nsfc ) under grant nos .  11405037 , 11575048 , 11505039 , 11447601 , 11535002 and 11675239 , and also in part by pirs of hit nos .",
+    "t201405 , a201409 , and b201506 .",
+    "99 j. brodzicka _ et al . _",
+    "( belle collaboration ) , http://dx.doi.org/10.1103/physrevlett.100.092001[phys .",
+    "lett * 100 * , 092001 ( 2008 ) ] ."
+  ],
+  "abstract_text": [
+    "<S> we give a systematical study on the recently reported excited charm and charm - strange mesons with potential @xmath0 spin - parity , including the @xmath1 , @xmath2 , @xmath3 , @xmath4 , @xmath5 and @xmath6 . </S>",
+    "<S> the main strong decay properties are obtained by the framework of bethe - salpeter ( bs ) methods . </S>",
+    "<S> our results reveal that the two @xmath0 charm - strange mesons can be well described by the further @xmath7-@xmath8 mixing scheme with a mixing angle of @xmath9 degrees . </S>",
+    "<S> the predicted decay ratio @xmath10 for @xmath11 is @xmath12 .  </S>",
+    "<S> @xmath3 can also be explained as the @xmath7 predominant state with a mixing angle of @xmath13 degrees . </S>",
+    "<S> considering the mass range , @xmath4 and @xmath5 are more likely to be the @xmath7 predominant states , although the total widths under both the @xmath7 and @xmath8 assignments have no great conflict with the current experimental data . </S>",
+    "<S> the calculated width for lhcb @xmath6 seems about 100 larger than experimental measurement if taking it as @xmath8 or @xmath8 dominant state @xmath14 . </S>",
+    "<S> the comparisons with other calculations and several important decay ratios are also present . for the identification of these @xmath0 charm mesons , </S>",
+    "<S> further experimental information , such as @xmath15 are necessary . </S>"
+  ]
+}

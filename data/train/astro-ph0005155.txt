@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "narrow - line seyfert 1 galaxies ( nls1 ) are an unusual and unique class of agn which exhibit extreme x - ray properties .",
+    "these galaxies are characterized by the following properties ( boller , brandt and fink 1996 ) : ( 1 ) they have balmer lines of hydrogen that are only slightly broader than the forbidden lines in their spectrum , ( 2 ) they tend to have strong fe ii and weak [ o iii ] lines , and they thus tend to lie at one extreme of the boroson & green eigenvector ( boroson and green 1992 ) , ( 3 ) x - ray observations have shown the existence of persistent giant - amplitude variability observed at soft x - ray energies , and ( 4 ) they exhibit a strong , soft x - ray excess emission and a steep 2 - 10 kev power - law continuum .",
+    "the x - ray observations indicate that narrow - line seyfert 1s are not rare and represent a substantial part of the seyfert population .",
+    "the origin of the distinctive x - ray / optical properties is as yet unknown , but it has been suggested that it is linked to an extreme value of a primary physical parameter ; e.g. the accretion rate , nuclear orientation and black hole spin have been suggested .",
+    "one of the intriguing characteristics of nls1 galaxies is the existence of the persistent giant - amplitude variability observed at soft x - ray energies .",
+    "although variability is a well - known x - ray characteristic of seyfert 1 galaxies , the extreme variability reported for iras 13224 - 3809 ( boller et al . 1997 ) is astonishing . as a result of these reports of extreme variability , we recognized that it would be important to determine if a similar phenomenon is present at optical wavelengths , and if so , what is the relationship between the variability observed in these different regimes .",
+    "the high - time - resolution observations of the nls1s reported here were obtained with the 1.05-meter telescope at lowell observatory , the 0.6-meter telescope at siding spring observatory , the 0.4-meter telescope at braeside observatory , and the 0.4-meter telescope at gsu s hard labor creek observatory .",
+    "the observations were made with ccd cameras at each observatory equipped with a @xmath0-filter set .",
+    "repeated exposures of 90 - 120 seconds were obtained for the star field containing the nls1 galaxy and several comparison stars .",
+    "these comparison stars were internally calibrated and are located on the same ccd frame as the object of interest .",
+    "they were used as the reference standard stars in the data reduction process .",
+    "the observations were reduced using the method of howell and jacoby ( 1986 ) .",
+    "each exposure is processed through an aperture photometry routine which reduces the data as if it were produced by a multi - star photometer .",
+    "differential magnitudes can then be computed for any pair of stars on the frame .",
+    "thus , simultaneous observations of the nls1 , several comparison stars , and the sky background will allow one to remove variations which may be due to fluctuations in either atmospheric transparency or extinction .",
+    "the aperture photometry routine used for these observations is either the ccdphot package or the _ apphot _ routine in iraf .",
+    "the errors are determined from the scatter in the differential photometry of two comparison stars observed simultaneously with the object of interest .",
+    "the length of the vertical bars attached to each data point corresponds to a 2@xmath1 error bar .",
+    "during the past two years , we have embarked upon a program to monitor the rapid optical variability of a sample of five nls1 galaxies .",
+    "the primary goal of this program is the detection of rapid optical variations which may be the optical counterpart of the giant x - ray variability .",
+    "we have recently determined that optical variations of smaller amplitude , but on similar timescales , to those seen at x - ray wavelengths are clearly present for iras 13224 - 3809 .",
+    "however , the results are less conclusive for the other four galaxies in our sample ( akn 564 , mrk 766 , pg 1404 + 226 and pg 1244 + 026 ) .",
+    "iras 13224 - 3809 was monitored for rapid optical variability for five nights in 1999 february .",
+    "the most extreme variability detected is displayed in fig .",
+    "the object was monitored for approximately 5 hours on this night with the detection of three events : event 1 occurred at 1227.88 jd with an approximate amplitude of 0.12 mag ; event 2 occurred at 1227.925 jd with an approximate amplitude of 0.2 mag ; and event 3 occurred at 1227.97 jd with an approximate amplitude of 0.2 mag .",
+    "the time scales of these flares are comparable to the time scales of the most rapid x - ray flares observed , but the amplitudes are substantially smaller .",
+    "these events may be the result of small discrete events , such as hot spots or flares in the accretion disk , or may be due to magnetic reconnections ( mineshige et al , 2000 ) .",
+    "the authors wish to thank mount stromlo and siding spring observatory and lowell observatory for their generous allocations of observing time in support of this program .",
+    "hrm , ecf , abd and jpm are grateful for support from grants from the research corporation , nasa grant nagw-4397 , and the pega - rpe program at georgia state university ."
+  ],
+  "abstract_text": [
+    "<S> we present the first results of a search for the presence of rapid optical variability in a sample of five narrow - line seyfert 1 galaxies . </S>",
+    "<S> we find clear evidence of rapid variability for iras 13224 - 3809 with variations occurring on time scales of an hour . however , the results are less conclusive for the other four sources in our sample , markarian 766 , pg 1244 + 026 , pg 1404 + 226 and arakelian 564 . while there are several instances among these latter objects where there is a hint that variability may be present , iras 13224 - 3809 provides the only conclusive evidence of rapid optical variability detected to date .    </S>",
+    "<S> galaxies : active ; quasars : general ; seyfert : variability ; optical : galaxies </S>"
+  ]
+}

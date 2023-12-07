@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "the infrared spectrograph ( irs ) ( @xcite ) will provide the space infrared telescope facility ( sirtf ) ( @xcite ) with low and moderate - spectral resolution spectroscopic capabilities from 5.3 to 40 microns .",
+    "the irs ( see fig .  [ irs ] ) is composed of four separate modules , with two of the modules providing r@xmath360 spectral resolution over 5.3 to 40 microns and two modules providing r@xmath0600 spectral resolution over 10 to 37 microns .",
+    "the irs instrument has no moving parts ( `` bolt - and - go '' philosophy ) .",
+    "each module has its own entrance slit in the focal plane .",
+    "the low - resolution modules employ long slit designs that allow both spectral and one - dimensional spatial information to be acquired simultaneously on the same detector array .",
+    "two small imaging sub - arrays ( `` peak - up cameras '' ) in the short - low module ( sl ) will also allow infrared objects with poorly known positions to be accurately placed into any of the irs modules entrance slits .",
+    "the high - resolution modules use a cross - dispersed echelle design that gives both spectral and spatial measurements on the same detector array .",
+    "the expected sensitivity of irs is much higher than the one of the infrared space observatory .",
+    "the theoretical sensitivity plots for the four modules are presented in following figures .",
+    "the continuum point source ( 7@xmath4 , 500 seconds ) sensitivity of the low resolution module is 1  mjy at 12@xmath5 m .",
+    "the line sensitivity of the high resolution module is 4@xmath610@xmath7 wm@xmath8 at 15@xmath5 m .",
+    "the two peak - up cameras can center on sources as faint as 0.7  mjy .    the saturation limits in 8 seconds for point ( extended ) sources are 5  jy ( 0.4  jyarcsec@xmath8 ) at 10@xmath5 m for the low resolution module and 50  jy ( 2.1  jy arcsec@xmath8 ) at 15@xmath5 m for the high resolution module .",
+    "the 4  s saturation limits for the peak - up cameras are 0.5  jy for point sources and 40  mjyarcsec@xmath8 for extended sources .",
+    "[ cols=\"^,^,^,^,^,^ \" , ]     [ table1 ]    the diversity of the mid - infrared spectral features , became evident in this meeting .",
+    "the intensity of the unidentified infrared bands was shown to vary substantially as a function of the intensity of the radiation field .",
+    "their nature ( molecules in aromatic bond structures ) and physical properties are still under debate , while new features , such as the the 16.4 @xmath1 m ( @xcite ) are being discovered .",
+    "it appears though , that the carriers of these bands are present in the photo - dissociation regions and their intensity reveals the presence of star formation activity , often obscured in the optical wavelengths .    in conjunction with the other two instruments of sirtf ,",
+    "the mid - infrared camera ( irac ) and the mid / far - infrared photometer ( mips ) , irs provides unique opportunities for a wide range of research projects .",
+    "it s worth mentioning that most of the sources detected by iras two decades ago are too bright to be observed by irs !",
+    "the superior sensitivity of irs will allow to detect dust in galaxies at high redshift ( @xcite ) and cool faint nearby stars .",
+    "the small sizes of the slits , which are similar to the size of the point spread function , and the availability of the spectral - mapping mode will be powerful tools in tracing weak mid - infrared lines over a wide range of ism conditions .",
+    "this improved spatial resolution should permit a better comparison between the mid - infrared and the optical / radio properties of the ism and result to a better understanding the underlying physical processes .",
+    "more information on the irs and on upcoming deadlines for observing opportunities with sirtf can be found at the following web sites : +   + http://www.astro.cornell.edu/sirtf + http://sirtf.caltech.edu"
+  ],
+  "abstract_text": [
+    "<S> the infrared spectrograph ( irs ) is one of the three instruments on board the space infrared telescope facility ( sirtf ) to be launched in december 2001 </S>",
+    "<S> . the irs will provide high resolution spectra ( r@xmath0600 ) from 1037@xmath1 m and low resolution spectra ( r@xmath260 ) from 5.340@xmath1 m . </S>",
+    "<S> its high sensitivity and `` spectral mapping - mode '' make it a powerful instrument for observing both faint point - like and extended sources . </S>"
+  ]
+}

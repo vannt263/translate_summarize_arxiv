@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "several works have been made on the minimum edge - covering of a graph by a certain family of graphs .",
+    "on @xcite , cohen and tarsi prove that deciding if a graph @xmath0 can be edge - covered with graphs isomorphic to a graph @xmath1 and finding the decomposition is np - complete .",
+    "on @xcite , orlin presents the problem of edge - covering a graph @xmath0 by cliques , but he is interested on the minimum number of cliques that can cover the graph .",
+    "on @xcite pullman presentes a survey of all the work made on minimum edge - clique covering so far , and on @xcite roberts gives applications to this problem .",
+    "if we want to cover the edges of a graph @xmath0 of @xmath2 vertices , with @xmath2 edge - disjoint cliques , then we can say that this cliques have @xmath3 vertices .",
+    "note that it is not always possible to cover the edges of a graph of @xmath2 vertices with @xmath2 edge - disjoint cliques , but we will consider only the cases where this covering is possible .",
+    "the number of edges that this cliques have is in total    @xmath4    and we know that number can not exceed @xmath5 , that is an upper bound for the number of edges of @xmath0 .",
+    "what we want to maximize is    @xmath6    we know that @xmath7 must be integers , but we can give an upper bound for the case @xmath8 and then the bound holds if @xmath7 are integers .",
+    "an upper bound @xmath9 to the sum of the number of vertices of the @xmath2 cliques covering a graph on @xmath2 vertices is @xmath10 where @xmath11 .    as we know that    @xmath12    must hold , let us replace each @xmath7 with the average of all of them .",
+    "we can see that    @xmath13    holds too .",
+    "let us prove this inequality :    @xmath13 @xmath14 if and only if @xmath15 if and only if @xmath16    and this holds because of the cauchy - schwarz inequality .",
+    "so it is enough to prove the upper bound for the mean value .",
+    "let us call @xmath17 to the mean value of the @xmath7s in this case , now we know that    @xmath18    where @xmath11 as we defined before .",
+    "now we can conclude that if the maximum sum of the number of vertices of the @xmath2 cliques that edge - cover a graph @xmath0 on @xmath2 vertices is @xmath19 then @xmath20 , so @xmath21 is the upper bound that we wanted to find .",
+    "now we have an upperbound @xmath9 for the sum of the number of vertices of the @xmath2 cliques , we will give examples where the bound is reached .    if @xmath22 is a prime number , then for @xmath23 the bound can be reached taking @xmath24 as @xmath0 .",
+    "let us take a prime @xmath22 , and let @xmath23 , and let us organize the vertices of @xmath24 in @xmath25 groups of @xmath22 vertices indexed @xmath26 with @xmath27 and @xmath28 , and a special vertex @xmath29 .",
+    "we will take @xmath30 edge disjoint @xmath31s .    * type 1 cliques : for each @xmath32 we will have a @xmath31 composed by @xmath29 and every @xmath33 for a total of @xmath25 cliques . * type 2 cliques : for each @xmath34 we will have a clique that contains @xmath26 if and only if @xmath35 and @xmath36 or @xmath37 and @xmath38 .",
+    "this is a total of @xmath39 cliques .",
+    "it is easy to see that the type 1 cliques are edge disjoint , and that no type 1 clique has an edge in common with a type 2 clique , now let us see that no type 2 cliques have two vertices in common .",
+    "let us see that if @xmath40 and @xmath41 ( @xmath42 and @xmath43 ) belong to @xmath44 and @xmath45 then @xmath46 and @xmath47 .",
+    "if @xmath48 then @xmath49 and because @xmath50 then @xmath47 . the same happens if @xmath51 .    in case @xmath52 then we have    @xmath53    hence    @xmath54    and because @xmath55 is prime we can divide by the inverse of @xmath56 in both sides ( as we know it is not 0 ) so @xmath46 and then it must hold @xmath47 .    this way we found a complete graph on @xmath30 vertices with @xmath30 edge disjoint @xmath31 for a total of @xmath57 vertices .",
+    "now as @xmath23 and @xmath58 is the number of vertices per each clique we must prove that @xmath59 but this trivially holds .",
+    "now let us call @xmath19 to the maximum sum of vertices of @xmath2 edge disjoint cliques edge covering a graph on @xmath2 vertices .",
+    "let us prove that @xmath60 .",
+    "first we will use the following two lemmas :      the prime numbers theorem states that if @xmath65 is the number of primes between 1 and @xmath2 then @xmath66 .",
+    "let us see that @xmath67 diverges so there is @xmath62 such that @xmath68 for every @xmath63 .                    using lemma 2 and given @xmath61 , we can take the value of @xmath62 given by this lemma for @xmath81 , so we know that we can cover a graph on @xmath2 vertices with cliques whose vertices sum up to at least @xmath82 as @xmath83 is an increasing function , and there is a prime @xmath22 such that @xmath84 so @xmath85 .                        [ bibliography ]",
+    "cohen , e. and tarsi , m. , np - completeness of graph - decomposition problems , j. complexity , 7 ( 1991 ) , pp .",
+    "200 - 212 orlin , j. , contentment in graph theory .",
+    "proc . of the koninklijke nederlandse academie van wetenschappen , amsterdam ,",
+    "series a , 80 ( 1977 ) 406 - 424 pullman , n.j . , clique coverings of a graph - a survey .",
+    "proceedings of the xth australian conference on combinatorial mathematics , adelaide ( 1982 ) , pp .",
+    "72 - 85 roberts , f.s . , applications of edge coverings by cliques .",
+    "discrete applied mathematics , 10(1):93  109 , 1985 ."
+  ],
+  "abstract_text": [
+    "<S> all the work made so far on edge - covering a graph by cliques focus on finding the minimum number of cliques that cover the graph . on this paper </S>",
+    "<S> , we fix the number of cliques that cover a graph by the same number of vertices that the graph has , and give an upper bound for the sum of the number of vertices of these cliques in the cases where this covering is possible .    .... ....    clique , cover , vertices , graph </S>"
+  ]
+}

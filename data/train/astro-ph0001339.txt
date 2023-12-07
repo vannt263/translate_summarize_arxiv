@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "early observations of gamma - ray bursts ( grbs ) with afterglows led us to hypothesize that grbs with afterglows are spectrally harder than those without . however , the heterogeneous nature of grb observations , coupled with the multi - wavelength nature of afterglow observations , has led us to a number of _ concerns _ :",
+    "1 .   afterglow observations are heterogeneous : observational biases for detecting radio afterglows are different than those for detecting optical and/or x - ray afterglows .",
+    "2 .   a grb might have no intrinsic afterglow , or inadequate search conditions might result in no afterglow being detected .",
+    "spectral hardness measures are biased by instrument performance : one instrumental dataset should be used .    our _ solutions _ to these concerns are as follows :    1 .",
+    "we require grbs to either have detected radio afterglows or moderately - complete radio afterglow searches .",
+    "this condition satisfies the first and second concerns .",
+    "we require that grbs be observed by batse .",
+    "this satisfies the third concern .",
+    "our resulting database is shown in table [ table1 ] .",
+    ".grbs with and without radio afterglows . [ cols=\"<,^,^,^,^,^,^ \" , ]",
+    "to determine why this difference in hardness might exist , we checked other hardness ratios in the four - channel data .",
+    "hardness ratios involving channels 3 and 4 indicate similar results as obtained in figure [ fig1 ] .",
+    "thus , any spectral differences dependent on radio afterglow type appear to result from the distribution of high energy photons .",
+    "this is supported by figure [ fig2 ] , which indicates no correlation of radio afterglow type with hardness ratio hr21 .",
+    "this is also supported by figure [ fig3 ] , which compares the grb function spectral parameters e@xmath0 and @xmath1 for the bursts in question ( grbs 980425 and 980519 are not plotted due to large @xmath1 errors ) .",
+    "large values of e@xmath0 , large values of @xmath1 , or both produce conditions indicating many high - energy photons .",
+    "grbs with radio afterglows tend to occupy a different diagram region than grbs without radio afterglows .",
+    "since e@xmath0 and @xmath1 are obtained from time - averaged spectra , we suspect that the diagram regions might be even more distinct if signal - to - noise were better for faint batse grbs .",
+    "the possible correlation between grb spectral hardness and afterglow type can be clarified with additional observations in the future .",
+    "resolution of the status of grb 980425 would also help clarify this issue .",
+    "if grb spectral hardness is an indicator of radio afterglow type , then a direct link between the central engine and the delayed emission is established .",
+    "such a link could be very important to the understanding of grb physics .",
+    "the lorentz factor of the expanding external shock could be constrained by this correlation .",
+    "for this reason , it is as important to determine upper flux limits on afterglow non - detections as it is to provide information on detections .",
+    "there is evidence that grbs with radio afterglows have harder gamma - ray burst emission than those without . due to",
+    "small number statistics , the significance of this correlation depends at present time on whether or not grb 980425 is associated with supernova sn 1998bw . there is evidence of a similar correlation between bursts with optical afterglows , but this is more difficult to document because the literature is less clear on conditions under which an optical search failed to yield an afterglow .",
+    "if we assume that a relationship exists between spectral hardness and radio afterglow type , then grbs with radio afterglows appear to have more high - energy photons ( e @xmath2 100 kev ) than those without radio afterglows , as determined from the spectral parameters e@xmath0 and @xmath1 .",
+    "also , roughly @xmath3 of batse - detected grbs should produce radio afterglows based on the overall distributions of e@xmath0 and @xmath1 .",
+    "it should be noted that all grbs producing afterglows of any type belong to the long , bright , soft grb class .",
+    "we thank dale frail , chip meegan , geoff pendleton , ralph wijers , david haglin , and chryssa kouveliotou for valuable discussions .",
+    "jon hakkila acknowledges 1999 nasa / asee summer faculty fellowship program support ."
+  ],
+  "abstract_text": [
+    "<S> a possible relationship between the presence of a radio afterglow and gamma - ray burst spectral hardness is discussed . </S>",
+    "<S> the correlation is marginally significant ; the spectral hardness of the bursts with radio afterglows apparently results from a combination of the break energy e@xmath0 and the high - energy spectral index @xmath1 . </S>",
+    "<S> if valid , this relationship would indicate that the afterglow does carry information pertaining to the grb central engine . </S>"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "chemical kinetics with multiple time scales and their control involve highly stiff and often high - dimensional ordinary differential equations ( ode ) .",
+    "this poses hard challenges to the numerical solution and is the reason why model reduction methods are considered .",
+    "the dynamics can be simplified by focusing on the long time behavior of such systems ( leaving fast transients unresolved ) and calculating fast modes as functions of the slow ones .",
+    "ideally this leads to low dimensional manifolds in high - dimensional state space . in the special case of singularly perturbed system",
+    ", they are understood quite well and called slow invariant manifolds .",
+    "an open problem is how the slow manifolds can be used to simplify the solution of optimal control problems ( ocp ) that involve multiple time scale ode constraints .",
+    "in dissipative dynamical systems geometrically the bundling of trajectories ( on a fast time scale ) to low - dimensional manifolds is observed .",
+    "once trajectories reach the neighborhood of the slow manifold , they will evolve slowly and will never leave this manifold neighborhood .",
+    "thus , this manifold is called _ slow invariant attracting manifold _ ( siam ) .",
+    "the aim of slow manifold computation techniques is to approximately compute the siam as the graph of a function of only a few selected species ( so called _ reaction progress variables _ ) .",
+    "thus , manifold - based model reduction generate a function @xmath0 ( @xmath1 is the number of slow variables resp .",
+    "reaction progress variables and @xmath2 is the number of fast variables ) , such that @xmath3 approximates points of the siam .    in order to investigate optimal control benchmark problems",
+    ", we consider singularly perturbed systems , i.e. systems where the ode can be transformed into the following form :    [ formula : sps ] @xmath4    two methods relevant in our context for the approximative calculation of the siam are briefly reviewed in the following subsections .",
+    "the main idea of the zero derivative principle ( zdp ) @xcite,@xcite for model reduction of singularly perturbed systems is to identify for given values of the slow variables @xmath5 a point @xmath6 such that the higher - order time derivatives of fast components vanish , i.e @xmath7      another approach proposed by lebiedz and unger @xcite is motivated geometrically : among arbitrary trajectories of ( [ formula : sps ] ) for which the slow components end within the time @xmath8 in the state @xmath5 the corresponding part of the trajectory on the siam is characterized by the smallest curvature ( see also @xcite,@xcite ) .",
+    "this motivates optimization problem ( [ formula : unger ] ) which is a variational boundary value problem ( bvp ) .",
+    "[ formula : unger ] @xmath9 \\\\      & & { \\varepsilon}\\dot z_f & = f_f\\big(z_s , z_f\\big ) , \\quad t \\in [ t_0,t_1]\\\\      &   &     z_s(t_1 ) & = z_s^*.      \\end{aligned}\\ ] ]    in our application context we also use the local reformulation of problem ( [ formula : unger ] ) , where @xmath10 .",
+    "one of our research interests is to solve optimal control problems involving multiple time scales as it appears frequently e.g. in the field of chemical engineering .",
+    "thus , we consider the following ( typically high - dimensional ) ocp :    [ formula : origocp ] @xmath11    applying the model reduction methods presented in the last section and assuming the control @xmath12 to be a slow variable , yields the lower dimensional problem ( cf .",
+    "@xcite )    [ formula : redocp ] @xmath13    this systems has the advantage , that it has significantly less optimization variables and the ode ( [ formula : redocp ] ) is less stiff , which makes it solvable by fast explicit numerical integrators compared to implicit methods required for stiff ode .",
+    "however , numerical solution methods for ocps like the multiple shooting method need repeated evaluation of the function @xmath14 as well as its partial derivatives @xmath15 and @xmath16 .",
+    "therefore , it would be beneficial to combine the calculation of the sim and the optimal control problem .",
+    "this is obviously possible , if the approximation @xmath17 of the sim can be formulated as a ( nonlinear ) root finding problem @xmath18 , e.g. with the zdp method .",
+    "thus , we propose to solve the following ocp instead of ( [ formula : redocp ] ) :    [ formula : liftedocp ] @xmath19",
+    "we apply the ideas presented in the last sections to a benchmark ocp motivated by the michaelis - menten - henri mechanism @xmath20 modeling the reaction of substrate @xmath21 to a product @xmath22 via a substrate - enzyme - complex @xmath23 with the help of enzyme @xmath24 . simplifying the ode given by ( [ formula : enzyme ] ) and introducing an artificial objective function yields ocp ( [ formula : enzymeocp ] ) .",
+    "where the control @xmath26 $ ] represents the possibility to add some substrate ( corresponds to variable @xmath27 ) to the system and @xmath28 describes the time - scale separation ( between the time evolution of @xmath27 and @xmath29 ) .",
+    "figure [ fig : enzyme ] shows the results of the numerical solution of ( [ formula : enzymeocp ] ) using the multiple - shooting scheme with an implicit radau-2a integrator .",
+    "if we refer to the solution of the proposed ocp ( [ formula : liftedocp ] ) as @xmath30 and to the solution of ( [ formula : enzymeocp ] ) as @xmath31 , then it holds @xmath32 which gives a relative error of @xmath33 for both objective functional value and @xmath34 .",
+    "although , the proposed method uses exactly as many variables than the original ocp , we observe a speed up of factor 4 for solving ocp ( [ formula : enzymeocp ] ) due to the use of an explicit integration scheme .        c. w. gear and t. j. kaper and i. g. kevrekidis and a. zagaris ,",
+    "_ projecting to a slow manifold : singularly perturbed systems and legacy codes _ , siam journal on applied dynamical systems , 4 ( 2005 ) , pp . 711732 .",
+    "d. lebiedz and j. unger , _ on unifying concepts for trajectory - based slow invariant attracting manifold computation in kinetic multi - scale models _ , mathematical and computer modelling of dynamical systems , 22 ( 2016 ) , pp .",
+    "87112 .",
+    "a. zagaris , c. w. gear , t. j. kaper and y. g. kevrekidis , _ analysis of the accuracy and convergence of equation - free projection to a slow manifold _ , mathematical modelling and numerical analysis , 43 ( 2009 ) , pp ."
+  ],
+  "abstract_text": [
+    "<S> chemical reactions modeled by ordinary differential equations are finite - dimensional dissipative dynamical systems with multiple time - scales . </S>",
+    "<S> they are numerically hard to tackle  especially when they enter an optimal control problem as `` infinite - dimensional '' constraints . </S>",
+    "<S> since discretization of such problems usually results in high - dimensional nonlinear problems , model ( order ) reduction via slow manifold computation seems to be an attractive approach . </S>",
+    "<S> we discuss the use of slow manifold computation methods in order to solve optimal control problems more efficiently having real - time applications in view . </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the extraordinary nature of the poly - polar planetary nebula , kjpn  8 , has become apparent during a series of ground  based observations ( lpez , vzquez , & rodrguez 1995 ; lpez et al .",
+    "1997 , lpez et al . 1999",
+    "; steffen & lpez 1998 ; vzquez , kingsburgh , & lpez 1998 ) . a distance estimation to kjpn 8 of 1600 @xmath1 230 pc , has been deduced by a combination of proper motion and kinematical measurements ( meaburn 1997 ) .",
+    "it is the 14@xmath2 @xmath3 4@xmath2  extent of the largest lobes , with knots c@xmath4c@xmath5 at their extremities as shown in fig .",
+    "1a , compared with the few arcsec diameter of the bright nebular core , that first indicated the unusual nature of this nebula .",
+    "also , secondary , smaller lobes , delineated by knots a@xmath4a@xmath5 in figure 1 ( top ) , have a distinctly different axis from c@xmath4c@xmath5 .",
+    "the recognition of multiple outflows along different axes lead originally to their interpretation as the action of a bipolar , rotating , episodic jet or bret ( lpez et al . 1995 ) .",
+    "however , it has required optical imagery with the hubble space telescope , to reveal the elliptical ionized ring which constitutes the nebular core of kjpn 8 and to locate the central star which is now shown to be at the center of this ionized central ring .",
+    "this ring is clearly the ionized , inside surface of a 7 arcsec diameter ring of excited h@xmath5 ( lpez et al .",
+    "1999 ) , see figure 1 ( bottom ) , itself located within a central 30 arcsec diameter co disk ( foreveille et al .",
+    "1998 ) whose axis is aligned with the bipolar outflows defined by a@xmath4a@xmath5 in figure 1 ( top ) .",
+    "the largest lobes , with knots c@xmath4c@xmath5 at their extremities , from their linear dimensions ( 6.5 @xmath3 1.9 pc ) and kinematics , must be @xmath6 10@xmath7 yr old ( steffen & lpez 1998 ) , whereas the knots , a@xmath4a@xmath5 , aligned with the axis of the ring have a kinematical age @xmath8 yr as given directly by their angular displacements from the nebular core combined with measurements of their expansion proper motions ( meaburn 1997 ) .",
+    "this particular timescale estimation is independent of the distance to kjpn  8 . the ionized ring itself , if expanding at a constant 40 km s@xmath9 , would only take @xmath10 yr to reach its present 2.7 arcsec ( @xmath11 0.02 pc ) radius .",
+    "these temporal differences indicate that the a@xmath4a@xmath5 high - velocity ( 320 km s@xmath9 ) knots and associated bipolar outflows were formed prior to the present central ionized ring .",
+    "furthermore , the largest features , culminating in the knots c@xmath4c@xmath5 , must have formed along a different ejection axis well before any of the central ionized and molecular circumstellar structures had been formed .",
+    "the small dimensions of the central ionized ring , associated molecular material and low excitation nebular spectrum ( vzquez et al . 1998 ) , indicate that the physical characteristics of the core of kjpn 8 are representative of a very young pn .",
+    "moreover , its ionic abundances , with enhanced he and n , ( vzquez et al .",
+    "1998 ) correspond to extreme type i pne that are identified with massive ( @xmath12 ) progenitors ( peimbert & torres - peimbert 1994 ) which should evolve relatively quickly during the pn stage towards higher effective temperatures and consequently higher excitation conditions .",
+    "this implies that the core of kjpn 8 has only reached photoionization conditions during the last few hundred years and the formation of the bipolar high - speed ( a@xmath4a@xmath5 ) outflows ocurred shortly before , during the pre - planetary nebula stage .    for the current core conditions , the associated co and h@xmath13 molecular material",
+    "must be related to a second heavy mass - loss episode prior to the formation of the ionized nebular core .",
+    "the disk - like structure and common orientations of the molecular material and ionized nebular ring confirm their connection in this second event .",
+    "these characteristics are incompatible with the expected conditions that the core must have had at the time when the c@xmath4c@xmath5 bipolar outflows where triggered .",
+    "the arguments lead to the conclusion that the formation of the giant bipolar envelope had its origin in a different event , unrelated to the creation of the present nebular core and associated bipolar outflows .",
+    "kjpn 8 thus unfolds a unique situation among pne : the creation of a double planetary nebulae event .",
+    "a large bi - conical nebula was formed through episodic jets ( steffen & lpez 1997 ) along pa 72@xmath14 ( c@xmath15-c@xmath13 ) , 1 - 2 @xmath16 years ago .",
+    "these jets have now ceased their activity .",
+    "a second planetary nebula event is initiated @xmath8 years ago ejecting high - velocity bipolar outflows along pa 126@xmath14 ( a@xmath15-a@xmath13 ) .",
+    "unequivocal signatures of a second heavy mass - loss , superwind episode accompany this second event .",
+    "massive molecular disks of co and h@xmath13 surround now a very young ionized ring , all of which are perpendicular to the most recent a@xmath15-a@xmath13 bipolar outflows .",
+    "a possible explanation for the formation of kjpn 8 is that here we are witnessing the near - simultaneous death of two relatively massive stars in a binary system either with a separation large enough for no effective mass transfer to take place ( separations from several tens to a few hundred astronomical units ) or detached binaries ( with separations of the order of a few tens of au ) where the evolution of an originally less massive secondary may be speeded up by wind accretion from the primary so both reach the pn stage one shortly after the other , within 1 - 2 @xmath16 years .",
+    "two pne - type events have thus been consecutively produced from a binary core where the influence of the companion has probably aided in the production of bipolar outflows on each occasion and for each event having its own symmetry axis .",
+    "full details of this work will appear elsewhere ."
+  ],
+  "abstract_text": [
+    "<S> narrow - band images of the core of the extraordinary poly - polar planetary nebula kjpn 8 have been obtained with the wfpc2 camera on board the hubble space telescope . </S>",
+    "<S> spasmodic bipolar ejections , in changing directions have occurred over thousands of years to create kjpn 8 . </S>",
+    "<S> the central star is finally revealed in these observations and its compact nebular core is resolved into a remarkably young @xmath0 500 years old , elliptical ionized ring . the highest speed bipolar outflows are perpendicular to this central ring which is identified as the latest event in the creation of this nebula . </S>",
+    "<S> the formation history of kjpn 8 has involved two distinct planetary nebula - like events , probably originating from a binary core evolution with components of similar mass .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "symbiotic miras are interacting binary systems composed of a late agb star and a hot white dwarf .",
+    "even though the orbital periods of none of these systems have been measured , they are thought to be of the order of 20 - 100 yr ( cf .",
+    "mikoajewska 1997 )",
+    ". then interaction between the two stars does not occur via roche lobe overflow , but it is estimated that the white dwarf accretes mass from the mira wind at a rate of 10@xmath0  or slightly more . the accreted mass amounts to about 1@xmath1 of the mira wind ; the rest distributes around the binary system in a slowly expanding circumbinary nebula .",
+    "symbiotic miras are a key case for the study of the effects on the agb mass loss caused by interaction in detached binaries . the mira wind is partially ionised by the white dwarf radiation , and thus it is more easily observable than in single miras .",
+    "in addition , accretion of the mira wind onto the white dwarf causes nova  like eruptions and the consequent production of fast winds which can last for decades ( slow - novae ) .",
+    "these winds interact and shape the bulk of the mira wind which is not accreted . the velocities and mass loss rate of the fast winds from the erupting hot component of symbiotic stars are not very different from those produced by the central stars of planetary nebulae ( pne ) .",
+    "thus , in symbiotic miras not only we can observe the effects of the binary interactions on the geometry of the mira wind , but also a `` simulation '' of its post  agb evolution ( pn ) under the action of a fast wind .",
+    "our knowledge about the nebular environment of symbiotic stars has improved significantly in recent years .",
+    "basic information about the morphology of the innermost regions of these interacting binaries was obtained by means of radio observations ( see the list of references in corradi et al .",
+    "1999a ) , ground based long slit spectroscopic imaging ( solf 1983 , 1984 ) , and hst imagery ( paresce & hack 1994 ; this paper ) .",
+    "in addition , ground  based ccd imaging using specific narrow band filters allowed us to discover extended ionised nebulae with sizes typical of planetary nebulae ( up to more than one parsec ) . in spite of the many similarities",
+    ", it should be stressed that the nebulae around symbiotic stars are not genuine pne , since the gas is donated by a star which is still on the agb phase ( pre - pn ) , while ionisation is provided by the hot companion which has already lost its own pn .    to date",
+    ", 8 optically extended nebulae are known around symbiotic miras ( for a complete list of references of individual studies , see corradi et al .",
+    "three of them have a bipolar shape ( r  aqr , bi  cru , and he  2 - 104 ) , one is an inclined ring ( he  2 - 147 ) , three have a more irregular but markedly aspherical shape ( hm  sge , v1016  cyg and rx  pup ) , and one is barely resolved ( h  1 - 36 ) .",
+    "one of the most important things that we want to point out here , is that the bipolar symbiotic nebulae have morphological and kinematical properties ( including high polar velocities of 200 - 300  ) which are strikingly similar to those of some bipolar pne ( e.g. hb  5 and ngc  6537 , corradi & schwarz 1993 ) .",
+    "this suggests a link between the two classes .",
+    "the fact that among symbiotic miras half of the nebulae are bipolar / ring types , and all are markedly aspherical , while among pne only about 15@xmath1 is bipolar , and some 20@xmath1 is spherical , indicates that _ interaction in detached binaries favours the formation of bipolar and aspherical pne_. this is confirmed by theoretical modelling ( mastrodemos & morris 1999 ) .",
+    "moreover , several symbiotic miras possess _ multiple _ nebulae which are ascribed to the shaping action of fast winds set up during _ recurrent _ outbursts .",
+    "this also offers a natural explanation for the origin of _ quadrupolar _ pne ( manchado , stanghellini & guerrero 1996 ) , whose formation is difficult to understand in terms of interacting - winds evolution from single stars .",
+    "he  2 - 104 is a symbiotic star containing a mira with a pulsational period of 400 days .",
+    "note that the presence of a mira in this system is only detected by the modulation of the ir luminosity , while the optical spectrum does not show any sign of the cool stars , and appears as a typical spectrum of a pn except for a core with peculiarly high ( for pne ) densities .",
+    "we recently obtained an hst image of the multiple - bipolar nebula around he  2 - 104 in the light of the 658.3  nm line .",
+    "we present in fig .  1 the image as it appeared in an hst news release on august 1999",
+    "( see _ http://oposite.stsci.edu/ pubinfo / pr/1999/32/ _ ) .",
+    "this image nicely resolves the inner bipolar nebula , which is a small scale reproduction of the larger crab - like one .",
+    "the inner nebula is strikingly similar to the prototypical bipolar pn mycn  18 ( sahai & trauger 1998 ) , suggesting a similar formation process . at the distance of 800  pc preferred by schwarz et al .",
+    "( 1989 ) , the inner and outer bipolar nebulae of he  2 - 104 would have a kinematical age of 200 and 900  yr , respectively .      according to munari ( 1997 ) ,",
+    "he  2147 is a template case of a symbiotic nova whose pn  like spectrum ( which is typical of the outburst phase of these systems ) has `` retreated '' to the blue part of the spectrum leaving the red region dominated by strong tio bands and continuum from the mira ( which is instead characteristic of the quiescent phase of symbiotic novae ) .",
+    "the nebula around he  2147 ( fig .",
+    "2 ) is a ring expanding with a velocity of @xmath2100  which is inclined at @xmath2 55  to the line of sight ( corradi et al .",
+    "1999b ) . the kinematical age of the ring is of about 300  yr , and its size is 0.05  pc .",
+    "such a ring nebula can be considered an `` extreme bipolar '' , in which material in the polar directions and at intermediate latitudes ( if any ) is exceedingly tenuous , or has already vanished into the surrounding space ."
+  ],
+  "abstract_text": [
+    "<S> symbiotic miras give a nice practical demonstration of the formation of bipolar and highly aspherical nebulae as a consequence of interaction in detached binaries . </S>",
+    "<S> we believe that these binary systems are among the most promising candidates for the progenitors of bipolar planetary nebulae .    </S>",
+    "<S> we present a list of the optically extended nebulae known to date around symbiotic miras , and illustrate their properties using recent hst and eso - ntt  images of he  2 - 104 and he  2 - 147 .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

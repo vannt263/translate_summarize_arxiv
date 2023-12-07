@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "in 1984 shuichi nos used `` time scaling''@xcite to relate his novel hamiltonian @xmath1 to an extended version of gibbs canonical phase - space distribution @xmath2 , proportional to @xmath3 .",
+    "hoover s simpler `` nos - hoover '' motion equations@xcite dispensed with hamiltonian mechanics and time scaling , reducing the dimensionality of the extended phase space by one . for the special case of a harmonic oscillator",
+    "the nos - hoover motion equations and the corresponding modified gibbs distribution are : @xmath4/\\tau^2 \\ \\ } \\ \\longrightarrow\\ ] ] @xmath5 \\ .\\ ] ] here @xmath6 and @xmath7 are the oscillator coordinate and momentum .",
+    "@xmath8 is a `` friction coefficient '' , or `` control variable '' . in all that follows",
+    "we choose the equilibrium temperature @xmath9 equal to unity to simplify notation .",
+    "the timescale of the thermal response to the imposed equilibrium temperature is governed by the relaxation time @xmath10 . for simplicity",
+    "we choose force constants , masses , and boltzmann s constant all equal to unity .",
+    "hoover used the steady - state phase - space continuity equation : @xmath11 to show that gibbs canonical distribution is consistent with the nos - hoover motion equations . here",
+    "the phase - space flow velocity is @xmath12 .",
+    "hoover s numerical work showed that only a portion of the three - dimensional gaussian distribution ( typically just a two - dimensional torus ) is generated .",
+    "that is , solutions of these three - dimensional motion equations are not ergodic .",
+    "particular solutions fail to cover the entire @xmath13 phase space",
+    ".    considerable numerical work , following the comprehensive analyses of kusnezov , bulgac , and bauer@xcite , suggested that using _ two _ thermostat variables rather than _",
+    "one _ was the simplest route to oscillator ergodicity . including another thermostat variable requires a _",
+    "four_-dimensional @xmath14 phase space .",
+    "a successful example@xcite , ergodic in @xmath14 space , controlled two velocity moments , @xmath15 and @xmath16 rather than just one : @xmath17 @xmath18 \\ .\\ ] ]    in 2015 a _",
+    "single_-thermostat approach@xcite with simultaneous weak control of @xmath15 and @xmath16 was found to generate gibbs entire distribution for the harmonic oscillator : @xmath19 straightforward generalizations of this single - thermostat approach failed to thermostat the quartic and mexican hat potentials , leading to the posing of the 2016 snook prize problem solved by tapias , bravetti , and sanders@xcite .",
+    "the logistic map and the logistic flow are two simple models for chaotic behavior : @xmath20 a solution of the logistic flow equation is @xmath21 ^ 2 } \\longleftrightarrow   q = \\frac{e^{+t/2 } } { [ \\ e^{+t/2 } + e^{-t/2 } \\ ] } \\longleftrightarrow 2q = 1 + \\tanh(+t/2 ) \\ .\\ ] ] with these logistic equations in mind tapias , bravetti , and sanders@xcite suggested a hyperbolic tangent form for the thermostat variable , and showed , with a variety of numerical techniques , convincing evidence for the ergodicity of their `` logistic thermostat '' motion equations for the quartic and mexican hat potentials as well as the simpler harmonic oscillator problem .    in the most challenging case , the mexican hat potential ,",
+    "the ergodic set of motion equations found by tapias , bravetti , and sanders was feasible to solve , but relatively stiff : @xmath22 in replicating their work we also characterized solutions of a slight variant : @xmath23 where values of the parameter @xmath24 in the neighborhood of seven lead to apparent ergodic behavior in @xmath13 space .",
+    "one of the simplest and most useful tests for ergodicity in three dimensions is the lack of holes in the two - dimensional cross - sections ( as opposed to projections ) of the three - dimensional flow . for stiff equations",
+    "it is convenient to use `` adaptive '' integrations of the motion equations where the timestep varies to maintain the accuracy of the integrator@xcite .    in our own numerical work",
+    "we integrated for a time of 10,000,000 using timesteps which maintained the rms difference between a fourth - order or fifth - order runge - kutta step of @xmath25 and two such steps with @xmath26 to lie within a band varying from @xmath27 we generated about 3,000,000 @xmath28 double - precision cross - section points in laptop runs taking about an hour each .",
+    "typical timesteps were in the range from 0.0001 to 0.001 .",
+    "figure 1 shows portions of the @xmath29 cross section with @xmath30 which has evident holes at @xmath31 .",
+    "the holes disappear if @xmath24 is increased to 6.9 . but a look at the @xmath32 section with an error band of @xmath33 reveals not only `` normal '' ( irregularly - dotted ) regions but also a few _ striped _ regions . in figure 2",
+    "we see that the stripes using rk4 differ from those using rk5 showing that the stripes are artefacts . tightening the error band to @xmath34",
+    "confirms this diagnosis , as shown in figure 3 .",
+    "the interesting structure of these striped regions is a thoroughly unexpected fringe benefit of the new logistic thermostat .",
+    "d. tapias , a. bravetti , and d. p. sanders , `` ergodicity of one - dimensional systems coupled to the logistic thermostat '' , computational methods in science and technology ( in press , 2017 ) = arxiv 1611.05090 .",
+    "w. g. hoover and c. g. hoover , `` comparison of very smooth cell - model trajectories using five symplectic and two runge - kutta integrators '' , computational methods in science and technology * 21 * , 109 - 116 ( 2015 ) ."
+  ],
+  "abstract_text": [
+    "<S> the 2016 snook prize has been awarded to diego tapias , alessandro bravetti , and david sanders for their paper `` ergodicity of one - dimensional systems coupled to the logistic thermostat '' . </S>",
+    "<S> they introduced a relatively - stiff hyperbolic tangent thermostat force and successfully tested its ability to reproduce gibbs canonical distribution for three one - dimensional problems , the harmonic oscillator , the quartic oscillator , and the mexican hat potentials : @xmath0 their work constitutes an effective response to the 2016 ian snook prize award goal , `` finding ergodic algorithms for gibbs canonical ensemble using a single thermostat '' . </S>",
+    "<S> we confirm their work here and highlight an interesting feature of the mexican hat problem when it is solved with an adaptive integrator . </S>"
+  ]
+}

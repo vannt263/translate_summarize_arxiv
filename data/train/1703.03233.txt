@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "probabilistic models of argumentation became popular in cognitive science and its subfields including psychology , philosophy , and computer science in recent years .",
+    "like logic - based nonmonotonic approaches for defeasible argumentation , probabilistic approaches allow for dealing with exceptions and retracting conclusions in the light of new evidence",
+    ". however , in contrast to qualitative logical approaches , probability allows for managing _ degrees of belief _ in the sentences involved in common sense argumentation .",
+    "moreover , degrees of belief can be used to model the strength of arguments @xcite .    the concept `` argument '' is ambiguous . in logic",
+    ", it denotes a triple consisting of a ( possibly empty ) premise set , a conclusion indicator , and a conclusion set .",
+    "consider , for example , the following argument , which is an instance of modus ponens :    [ cols= \" < ,",
+    "< \" , ]     finally , we discuss qualitative data taken from structured interviews on folk psychological conceptions on what argument strength means .",
+    "[ [ interview - results ] ] interview results + + + + + + + + + + + + + + + + +    after the participants completed the paper and pencil tasks , we collected folk psychological conceptions on what `` argument strength '' ( _ argumentin vahvuus _ ) means by structured interviews .",
+    "we asked the participants how they would define argument strength in their own words .",
+    "participants who had received the _ persuasive _ booklets , we hypothesized , mentioned persuasive aspects ( like how _ convincing _ arguments are ) more frequently than those of the epistemic condition .",
+    "moreover , participants who had received the _ epistemic _ booklets focused more on epistemic aspects ( like truth and knowledge ) than those of the persuasive condition . however , the interview responses do not confirm these hypotheses .",
+    "the responses to the interview question concerning the meaning of `` argument strength '' reflected features of our measure @xmath1 .",
+    "specifically , the _ location _ of the coherent conclusion probability interval was referred to by almost all of the participants . for many participants the location seemed to be more important than the _ precision _ of the coherent conclusion probability interval .",
+    "they had , for example , focused solely on the lower probability bound of the interval and ignored the upper bound or responded based on the mean value of the interval .",
+    "however , a few participants also referred to the _ precision _ of the coherent conclusion probability interval by sentences like :    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ `` the size of this gap between 33 [ % ] and 100 [ % ] is so big that it increases the uncertainty . '' _",
+    "( epvarmuutta lis se , ett vli 33:n ja 100:n vlill on niin suuri ) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _    some participants also talked about the truth or correctness of the probability bounds of the conclusion . for them ,",
+    "the arguments were strong , when the probabilities in the conclusions were _ correct _ , almost regardless of the values in them .",
+    "finally , we note that the interview responses provide folk psychological evidence for using location and precision of conclusion probability intervals for evaluating the strength of uncertain arguments .",
+    "location and precision are the key ingredients of our measure of argument strength  @xmath1 .",
+    "we proposed a formal measure of argument strength and showed how it predicts responses in ellsberg tasks .",
+    "specifically , we framed choices among bets in terms of probability logical argument forms .",
+    "we confirmed experimentally that ellsberg s predictions can be justified by argument strength rankings and argument strength ratings .",
+    "since the proposed measure exploits tools available in coherence - based probability logic and since it is based on a deductive consequence relation , it allows for dealing with arguments involving conditionals .",
+    "the proposed measure has many plausible consequences , which calls for future formal - normative and experimental research for modeling also other argument types , like the conditional syllogisms .",
+    "understanding argument strength is important for theories about reasoning and argumentation in general .",
+    "our paper sheds formal and experimental light on what argument strength means .",
+    "this research was supported by the dfg project pf  740/2 - 2 ( awarded to niki pfeifer ) as part of the priority program `` new frameworks of rationality '' ( spp1516 ) ."
+  ],
+  "abstract_text": [
+    "<S> we present a formal measure of argument strength , which combines the ideas that conclusions of strong arguments are ( i ) highly probable and ( ii ) their uncertainty is relatively precise . </S>",
+    "<S> likewise , arguments are weak when their conclusion probability is low or when it is highly imprecise . </S>",
+    "<S> we show how the proposed measure provides a new model of the ellsberg paradox . </S>",
+    "<S> moreover , we further substantiate the psychological plausibility of our approach by an experiment ( @xmath0 ) . </S>",
+    "<S> the data show that the proposed measure predicts human inferences in the original ellsberg task and in corresponding argument strength tasks . </S>",
+    "<S> finally , we report qualitative data taken from structured interviews on folk psychological conceptions on what argument strength means . </S>",
+    "<S> * keywords : * argument strength ; coherence ; ellsberg paradox ; probability logic </S>"
+  ]
+}

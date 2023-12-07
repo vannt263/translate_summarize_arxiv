@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "properties of narrow line seyfert 1 type ( nls1 ) sources are summarized as , 1 ) steep soft x - ray spectrum , 2 ) rapid x - ray variability , 3 ) narrow h@xmath3 width ( see _ e.g. _ boller _ et al .",
+    "_ 1996 ) . these properties and their distinctive differences from broad line seyfert 1 type ( bls1 ) galaxies",
+    "are expected to be explained by fundamental parameters of agns , such as geometry , black hole ( bh ) mass , accretion rate , and so on . in this paper",
+    ", we try to estimate the bh mass of the nls1s ( and bls1s ) by two independent methods based on the asca observations ; one is from x - ray variability of the sources , and the other is from a black body fit to the soft x - ray spectrum .",
+    "we suggest that the nls1s have smaller black holes than usual seyfert 1s and emit x - rays with a higher efficiency .",
+    "earlier results with a smaller sample was presented in hayashida ( 1998 , 2000 ) . in this paper",
+    ", we treat 14 nls1 sources , izw1 , ton s 180 , phl 1092 , pks 0558 - 504 , 1h 0707 - 495 , re 1034 + 39 , ngc 4051 , pg 1211 + 143 , mrk 766 , pg",
+    "1244 + 226 , iras 13224 - 3809 , pg 1404 + 226 , mrk 478 and ark 564 .",
+    "we also use 9 bls1 sources observed with ginga and asca for the variability analysis . among the nine bls1s ,",
+    "we include mcg-6 - 30 - 15 .",
+    "however , the source may better be classified as a nls1 or a narrow emission line galaxy .",
+    "we adopt @xmath4 in this paper .",
+    "rapid and large amplitude x - ray variability is one of the common features of nls1s .",
+    "the most extreme case was found in iras13224 ( otani _ et al . _",
+    "( 1996 ) and boller _ et al . _",
+    "( 1997 ) ) ; the maximum variability was a factor of 60 , and the shortest doubling time was 800  s.    we have investigated the x - ray variability of seyfert 1 galaxies , in which we developed a method to extract relative variability time scale of sources using a normalized power spectrum ( hayashida et al . 1998a ) .",
+    "another point of our work was that , employing the stellar black hole cyg x-1 as the base point , and assuming the variability scales linearly with the time scale and the system size , we estimate the central black hole of agns .",
+    "we applied the same procedure to the nls1s and the bls1s in our sample ( fig.1 ) .",
+    "as shown in fig.1 , our nls1 sample have black hole masses ranging from @xmath0 @xmath5 to @xmath1 @xmath5 , systematically lower than the estimated masses of bls1s plotted in the same figure . in terms of the eddington ratio ,",
+    "the nls1s have typical values of 1 - 10 , while the bls1s have 0.1 - 10 .",
+    "differences in the estimated bh mass in nls1s and in bls1s are apparent if we look at the correlation with fwhm of @xmath6 ( fig.2 ) .",
+    "one of the most plausible interpretations of the soft component of nls1s is thermal emission from the accretion disk .",
+    "when we fit the soft component with a blackbody model , we obtain the area of the emission region . if we assume the emission region to be the surface of a 3 schwarzshild radius ( @xmath7 ) sphere or a 0.5 @xmath7 sphere , the black hole size can be estimated .",
+    "fig.3 shows the luminosity of the blackbody component versus the mass of the black hole estimated in this way .",
+    "if we assume the emission area size ( @xmath8)=3@xmath9 , most of the sources exceed the eddington limit .",
+    "on the other hand , if @xmath8=0.5@xmath9 , i.e. the extreme kerr case , the radiation is at the sub - eddignton phase .",
+    "a more important thing is that the mass ranges from @xmath0 to @xmath10 @xmath2 .",
+    "both mass estimates are compared directly in fig .",
+    "a large discrepancy of up to two orders of magnitude is found for some sources .",
+    "however , for the sources below the diagonal line , we have a possible reason for it ; 1 ) we neglected the disk inclination factor , with which the data points should move upward , and 2 ) the color temperature we used might be higher than the effective temperature that we should have used , if we had a sophisticated model for the disk emission . on the other hand , these facts can not reconcile the discrepancy for the sources above the diagonal line in fig.4 .",
+    "nevertheless , we find that most of those sources have an extremely enhanced soft component relative to the hard power law component .",
+    "one of the speculations we have is that those sources are in some extreme state in which the > variability mode is very much different from the others , e.g. , intrinsic amplitude is enhanced ."
+  ],
+  "abstract_text": [
+    "<S> asca observations of narrow - line seyfert 1 galaxies ( nls1s ) are presented . </S>",
+    "<S> we focus on the black hole size of the nls1 sources by employing two independent methods for the mass estimation ; one is using x - ray variability , the other is using a blackbody fit to the soft component . although the coincidence is not good for some sources , the mass estimated by these methods ranges from @xmath0 to @xmath1 @xmath2 , systematically smaller than those for typical ( broad line ) seyfert 1 . </S>",
+    "<S> we consider the small mass black hole to be the principal cause of the several extreme characteristics of the nls1s .    </S>",
+    "<S> galaxies : active ; x - rays : galaxies ; x - rays : variability ; black hole : mass </S>"
+  ]
+}
