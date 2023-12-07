@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "some planetary nebulae ( pne ) are observed to have binary central stars ( cs ) , and there is increasing evidence that the presence of a binary companion can determine the pn morphology ( @xcite ) .",
+    "however , the total fraction of pn with binary cs remains unclear .",
+    "this is due to the intrinsic difficulty in detecting binarity , even when high quality data is available .",
+    "one method of detecting cs binarity is to search for a percent - level cs @xmath2 band excess , indicative of a low mass main sequence binary companion ( @xcite ) .",
+    "vphas+ ( @xcite ) provides sub - arcsecond aperture photometry down to  20th magnitude in the sloan @xmath3 , @xmath4 , @xmath5 and @xmath2 bands , and a h@xmath0 filter .",
+    "this is a similar limiting brightness to the supercosmos h@xmath0 survey ( @xcite ) from which the macquarie / aao / strasbourg h@xmath0 ( mash ) catalogue ( @xcite , @xcite ) was created , however vphas+ should provide superior resolution .",
+    "once complete , there will be 1427 currently known pn within the vphas+ footprint .",
+    "presented here are the first results from analysis of the currently available vphas+ data ( release 2 ) .",
+    "the new , high resolution images of hf 38 from vphas+ have revealed a faint blue star in the centre of the nebula .",
+    "this is marked in the left panel of figure [ hf38 ] .",
+    "the right panel shows the h@xmath0/@xmath5 quotient image , which highlights an arc of nebulosity  0.36pc north west of the nebula , assuming a distance of 2.25kpc ( @xcite ) .",
+    "the marked star was confirmed to be the true cs by comparing the observed and expected colours .",
+    "the expected cs colours were calculated by convolving the spectrum of a 100kk , log(g)=7.0 , solar metallicity synthetic post - agb atmosphere from tmap ( @xcite ) with the vphas+ bandpasses .",
+    "the synthetic and observed colours were consistent within the errors .",
+    "the reddening of this pn was determined by calculating e(b - v ) using three methods .",
+    "first , by comparing the observed to the synthetic @xmath6 colour .",
+    "second , by calculating the h@xmath0/h@xmath7 line ratio using the spectrum from @xcite .",
+    "third , by calculating the flux ratio using literature values of h@xmath7 ( @xcite ) and radio flux ( @xcite ) .",
+    "these calculated values were compared to those in the literature .",
+    "the calculated and literature e(b - v ) values averaged to 0.90@xmath10.08 .",
+    "the observed cs colours were de - reddened using this value .",
+    "the synthetic cs spectrum was scaled so the synthetic @xmath4 band magnitude matched the de - reddened one .",
+    "the total flux of this spectrum was then calculated . at a distance of 2.25kpc",
+    ", this resulted in a cs luminosity estimate of 1070l@xmath8 , consistent with the expected value .",
+    "the de - reddened @xmath9 colour was then compared to the synthetic ones .",
+    "while the @xmath4 band will be unaffected by a low - mass main sequence companion , the companion s spectrum would peak in the @xmath2 band , thereby increasing the observed @xmath9 colour .",
+    "an @xmath2-band excess of 0.465@xmath10.334 magnitudes was detected in the cs of hf 38 , consistent with a m0v binary companion ."
+  ],
+  "abstract_text": [
+    "<S> despite years of effort , the impact of central star binarity on planetary nebula formation and shaping remains unclear . </S>",
+    "<S> this is hampered by the fact that detecting central star binarity is inherently difficult , and requires very precise observations . </S>",
+    "<S> the fraction of planetary nebulae with binary central stars therefore remains elusive . </S>",
+    "<S> this work presents initial results of central star analysis using data from the vst h@xmath0 survey of the southern galactic plane and bulge ( vphas+ ) . </S>",
+    "<S> the true central star of pn hf 38 has been revealed , and it exhibits a 0.465@xmath10.334 @xmath2 band magnitude excess , indicative of a m0v companion . </S>"
+  ]
+}

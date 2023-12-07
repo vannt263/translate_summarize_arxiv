@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "we are conducting a systematic study of star formation in the outer galaxy to uncover the population of intermediate- and low - mass young stellar objects ( ysos ) and investigate the impact of the environment on the star formation process .",
+    "we use the data from the `` _ _ spitzer _ _ mapping of the outer galaxy '' survey ( smog ; pi : sean carey ) that covered @xmath124 deg@xmath2 region in the outer galaxy : _ l _ = ( 102@xmath3 , 109@xmath3 ) , _ b _ = ( @xmath4 , @xmath5 ) in the irac 3.68.0 @xmath6 m and mips 24 @xmath6 m bands .",
+    "this relatively unstudied region , referred by us as `` l105 '' , have different environments and star formation activities .    however , in the outer galaxy including l105 we expect contamination from evolved stars such as asymptotic giant branch ( agb ) stars , post - agb objects and planetary nebulae ( pne ) .",
+    "* szczerba et al . ( 2016 ) ) concentrated on identifying the location of the low- and intermediate - mass evolved stars ( agbs , post - agbs , and pne ) on the colour - colour diagram ( ccd ) based on the 2mass and _ spitzer _ photometry ( @xmath7 $ ] vs. @xmath8 $ ] ) .",
+    "this diagram allows us to separate c - rich and o - rich agb stars quite effectively ( * ? ? ?",
+    "* ( matsuura et al .",
+    "2014 ) ) . nonetheless , the total number of the smog sources with good photometric data in all these bands is quite limited ( 15,311 as compared to almost 3 millions sources detected in l105 by _",
+    "spitzer _ at the shorter wavelengths ) .",
+    "therefore , we have found counterparts of the _ spitzer _ sources in the wide - field infrared survey explorer ( wise ) satellite survey at 3.4 , 4.6 , 12 and 22 @xmath6 m and considered all ccds based on different combinations of these bands .",
+    "amongst a total of 15 ccds , the best option for separating c - rich agb and post - agb stars from the o - rich ones is the @xmath9-[12]$ ] vs. @xmath10-[22]$ ] ccd . in figure",
+    "[ fig : hd ] , we show on this ccd the hydrodynamical ( hd ) models for gaseous dusty circumstellar shells around c - rich and o - rich stars during their final stages of agb ( red and blue dots , respectively ) and post - agb ( orange and light blue dots , respectively ) evolution ( * ? ? ?",
+    "* ( steffen et al . 1998 ) ) .",
+    "the mean and standard deviation ( std ) of the model distributions are also shown by the corresponding crosses .",
+    "in addition , we have over - plotted known sources from the magellanic clouds classified by ( * ? ? ?",
+    "* woods et al .",
+    "( 2011 ) ) and ( * ? ? ?",
+    "* ruffle et al .",
+    "( 2015 ) ) , as well as post - agb stars from our galaxy ( * ? ? ?",
+    "* ( szczerba et al . 2007 ; )",
+    "@xcite ) . from the position of the hd evolutionary tracks and the over - plotted data , we are able to distinguish typical regions for agb and post - agb star candidates .",
+    "figure  [ fig : hess ] presents the hess diagram for 60,655 smog sources with allwise photometry with the a or b quality flag .",
+    "the black lines are drawn according to the object distributions in figure  [ fig : hd ] .",
+    "below @xmath10-[22.0]=6 $ ] and to the right of the black lines we have agb ( both o- and c - rich ) candidates ( 2,510 smog sources ) , while above @xmath10-[22.0]=6 $ ] we have post - agb candidates ( 24,821 smog sources ) , since the theoretical tracks and most of the galactic post - agb candidates are located there .",
+    "however , while the agb candidates seem relatively easier to be isolated , the post - agb candidates are mixed with the known ysos .",
+    "the additional data analysis and follow - up spectroscopic observations are necessary to confirm the evolutionary status of the post - agb star ( or pn ) candidates . the final sample of agb / post - agb star candidates will be used to compare the stellar evolution in the outer and inner galaxy .     the hess diagram for the smog sources",
+    ". there are @xmath11 bins , and the colour indicates the number of sources in each bin .",
+    "the black lines represent the agb and post - agb star selection criteria ( see text ) . ]     the hess diagram for the smog sources .",
+    "there are @xmath11 bins , and the colour indicates the number of sources in each bin .",
+    "the black lines represent the agb and post - agb star selection criteria ( see text ) . ]"
+  ],
+  "abstract_text": [
+    "<S> we present the results of our search for low- and intermediate mass evolved stars in the outer galaxy using allwise catalogue photometry . </S>",
+    "<S> we show that the [ 3.4]@xmath0[12 ] vs. [ 4.6]@xmath0[22 ] colour - colour diagram is most suitable for separating c - rich / o - rich agb and post - agb star candidates . </S>",
+    "<S> we are able to select 2,510 agb and 24,821 post - agb star candidates . </S>",
+    "<S> however , the latter are severely mixed with the known young stellar objects in this diagram . </S>"
+  ]
+}

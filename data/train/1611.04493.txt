@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "yellow hypergiants are massive stars that have passed through the red - supergiant phase . on their way",
+    "back bluewards in the hertzsprung - russell diagram ( hrd ) their envelopes become unstable as soon as the effective temperature reaches a value of 7000  k , and the star experiences an outburst .",
+    "the yellow hypergiant @xmath0cas is famous for its outbursts , during which the star develops tio bands in a cool , optically thick wind with a very brief but high mass - loss rate @xcite .",
+    "each outburst is accompanied by a steep drop in the light curve .",
+    "at least three such outbursts were recorded for @xmath0cas : 19451947 , 19851986 , and 20002001 .    in 2010",
+    "we started to monitor spectroscopically several yellow hypergiants using the ondejov 2 m telescope .",
+    "the aim of this campaign is to track and study their mass ejection phases .",
+    "one of the objects we monitor is @xmath0cas .",
+    "our spectroscopic data show that during 2013 another outburst occurred .",
+    "the decrease of the time interval between the outbursts might indicate that @xmath0cas is preparing for its passage through the yellow void region @xcite towards the hot side of the hrd .",
+    "the observations were obtained during 20102015 using the coud spectrograph attached to the perek 2-m telescope at ondejov observatory @xcite .",
+    "spectra were taken in the wavelength regions 62506760 ( @xmath1 13000 ) and 69907500 ( @xmath1 15000 ) .",
+    "the spectra taken on october 1 , 2013 reveal weak tio absorption bands at 7055 and 7126  together with many atmospheric lines characteristic for a later spectral type .",
+    "photometric light curve obtained from the aavso international database and baavss database ( contributed by w.  vollmann and d.  loughney , respectively ) shows a drop in brightness by about 0.6 mag from may to october 2013 .",
+    "changes in the line profiles are remarkable already in the spectra taken in june 2013 ( data point 5 in fig.[fig1 ] ) , when the visual brightness was still high . note the broad blue wings of the fei and feii lines indicating the onset of a strong stellar wind .",
+    "we estimated the temperature of @xmath0cas ( right panel in fig.[fig1 ] ) using the fei @xmath26431 / feii @xmath26433 line ratio ( left panel in fig.[fig1 ] ) , calibrated by high resolution spectra ( elodie and uves pop ) of 19 late a to early k supergiants with precise effective temperature values @xmath3 from the literature @xcite .",
+    "the estimated error is @xmath4100k .",
+    "variations of @xmath3 follow the general trend of the light curve : hotter during bright phases and cooler during the outburst .",
+    "our temperature estimates agree with the results by @xcite during the time overlap of our observations in 20102011 ( sao spectra : empty triangles in fig.[fig1 ] ) .",
+    "the radial velocity variability displayed by lines of different elements in various ionization stages indicates the vertical velocity structure within the outer atmosphere . the amplitude in fei is larger than in feii : the outer layers where fei lines form are much more affected by the outburst activity .",
+    "we observe the same shift of the fei radial velocity curve with respect to the light curve as reported by @xcite , while the feii radial velocity curve follows both the light and effective temperature curves ."
+  ],
+  "abstract_text": [
+    "<S> spectroscopic monitoring of the yellow hypergiant @xmath0cas revealed a new outburst in 2013 , which is obvious from the development of tio bands in the spectra . also many atmospheric lines characteristic for a later spectral type appear . </S>",
+    "<S> this spectroscopic outburst is in agreement with the photometric light curve , which displays a drop by about 0.6 mag during the same period . </S>"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the gaia - eso survey is covering the main components of the milky way using vlt - flames , providing an homogeneous overview of the kinematics and chemical composition of our galaxy .",
+    "open clusters are useful tools for this aim , where it is possible to study stellar populations of different ages in different evolutionary stages . combined with gaia astrometry ,",
+    "this survey will help us to understand the formation history and evolution of young , mature and ancient galactic populations .",
+    "the carina nebula association represents a unique region to study galactic massive stars with flames . on the one hand , is one of the most massive association at a nearby distance @xmath0 2.3 kpc @xcite where is expected to obtain spectra for hundreds of massive stars . on the other hand , there is no systematic analysis of the stellar parameters in the association , that will be an important contribution of the gaia - eso survey.the analysis of the carina massive stellar population will be highly relevant for problems like the initial mass function @xcite , @xcite , the detailed chemical composition and evolution ( see @xcite in orion ) or the stellar multiplicity @xcite .",
+    "the gaia - eso survey ( ges ) is obtaining spectra using the giraffe and uves instruments , and for early type stars in trumpler 14 cluster are employing four giraffe setups ( hr03/ 05a/ 06/ 14a ) and the uves cd3 ( 520-nm setting ) .",
+    "unfortunately , the h@xmath2 line is not covered in the giraffe setting , which provides most of the early - type spectra .",
+    "this is a problem for our spectroscopic analysis , due to its importance on the accurate gravity determination ( is not affected by other broadening effects ) .    in order to know the real effects of the lack of this line",
+    ", we decided to analyse 129 iacob - own spectra , which have a full wavelength coverage in the optical range , but using different line sets . in figure  [ fig1 ]",
+    "we represents the errors obtained for the effective temperature ( teff ) , gravity ( logg ) , wind strength parameter ( logq , see @xcite ) and he abundances using ( a ) all the lines available on the iacob - own spectra ( in blue ) , ( b ) using only the lines available on the ges spectra ( in orange ) and ( c ) adding the h@xmath2 line to them ( in purple ) .",
+    "it is clear that adding this line , we are improving significantly the ges o - type parameters determination .",
+    "the effect is particularly relevant for gravity , and therefore the derived spectroscopic mass .",
+    "based on these results , the ges working group 13 on massive stars proposed the addition of the hr4 grating to the observations , covering the h@xmath2 line .",
+    "this proposal was accepted by the ges steering committee and the eso , and we have just received the new data , whose analysis is now started .",
+    "histogram of the errors obtained for teff , logg , logq and he abundances using all the lines available on the iacob - own spectra ( in blue ) , using only the lines available on the ges spectra ( in orange ) and adding the hgamma line to them ( in purple ) .",
+    "values have been normalized to those obtained with the whole line set available ( the blue bars ) .",
+    ", width=321 ]",
+    "in the idr4 we have 14 carina early - type stars suitable for our analysis . using automatized tools for the determination of stellar parameters ( iacob - gbat @xcite ) and fastwind stellar models @xcite , @xcite we have obtained the fundamental parameters of all of them ( rotational velocities , temperatures , gravities , he abundances and q parameter ) . in figure  [ fig2 ]",
+    "these stars are placed on a hertzsprung - russell diagram where evolutionary tracks of stars of various masses from @xcite are plotted .",
+    "3 of the stars are placed below the zams , which could be due to a binary nature or a wrong distance determination .",
+    "the new data provided by gaia will help us to settle this point .",
+    "hr diagram of the sample of o - type stars ( filled red circles ) in trumpler 14 , where the evolutionary tracks of various masses from ekstrm et al .",
+    "2012 are plotted ( v / vc=0 ) .",
+    ", width=415 ]",
+    "it was found recently by other authors that gravities determined using fastwind were systematically lower by 0.12 dex compared to cmfgen @xcite . in the ges",
+    "wg-13 there are 2 groups analyzing o - type stars but using different stellar atmosphere codes : fastwind and cmfgen , so we have compared results from both groups in order to confirm or reject this difference .",
+    "note however that , different to @xcite , our results have been obtained by two different groups .",
+    "taking into account that errors in the projected rotational velocity ( vsini ) affect the determination of logg @xcite , we have analyzed the sample from section 3 but using now the vsini considered by the cmfgen group in order to compare only codes .",
+    "we do not obtain a clear systematic effect on the gravity ( see figure  [ fig3 ] ) and thus we can not confirm the results from @xcite . the new data of the imminent idr5 will provide us with a bigger sample to corroborate it .",
+    "comparison of effective temperatures and gravities obtained using fastwind and cmfgen stellar atmospheres codes and considering the same vsini data .",
+    "blue arrows indicate lower limit values .",
+    ", width=359 ]"
+  ],
+  "abstract_text": [
+    "<S> the gaia - eso survey ( ges ) is obtaining high quality spectra of @xmath010@xmath1 stars in our galaxy , providing an homogeneous and unique overview of all the main components of the milky way , its formation history and the evolution of young , mature and ancient galactic populations.our group is in charge of the early - type massive stars that define the youngest population in the survey . in this contribution , we present the results of the quantitative spectroscopic analysis of o - type stars in the carina nebula within the gaia - eso survey . </S>",
+    "<S> for this aim , we have used fastwind and cmfgen stellar atmosphere codes , providing stellar parameters for the current sample ( ges data release idr4 ) . </S>"
+  ]
+}

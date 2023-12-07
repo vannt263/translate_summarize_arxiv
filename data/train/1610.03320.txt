@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "@xmath1gosc , the galactic o - star catalog , is an on - line catalog for o stars ( and relatives ) : http://gosc.iaa.es .",
+    "the first version was presented by http://adsabs.harvard.edu/abs/2004apjs..151..103m[maz apellniz et al .",
+    "( 2004 ) ] and the first major update by http://adsabs.harvard.edu/abs/2008rmxac..33...56s[sota et al .",
+    "( 2008 ) ] .",
+    "the current version is v3.2.2 an it has two sections : one public with 601 objects and another private with 7000 + objects .",
+    "gosss , the galactic o - star spectroscopic survey ( http://adsabs.harvard.edu/abs/2011hsa6.conf..467m[maz apellniz et al . 2011 ] ) , is observing all optically accessible galactic stars that anybody has ever classified as o ( if we get time on a large enough telescope ) .",
+    "it obtains @xmath2 2500 spectroscopy in the blue - violet region with s / n @xmath0 250 .",
+    "it has currently observed 2500 + stars , including all o stars down to complete to @xmath3 , with some objects as dim as @xmath4 . in some cases , mostly for extreme sb2s and variables , we have multiple epochs . as of 2016",
+    "we have published three major blocks of the survey : gosss - i ( http://adsabs.harvard.edu/abs/2011apjs..193...24s[sota et al . 2011 ] ) , gosss - ii ( http://adsabs.harvard.edu/abs/2014apjs..211...10s[sota et al .",
+    "2014 ] ) , and gosss - iii ( http://adsabs.harvard.edu/abs/2016apjs..224....4m[maz apellniz et al . 2016 ] ) .",
+    "@xmath1the primary goal of gosc and gosss is the spectral classification of o stars .",
+    "more specifically we aim to [ a ] identify and classify all optically accessible galactic o stars , [ b ] improve classification criteria and possibly define new special types and [ c ] identify objects wrongly classified as o. they also have five secondary goals :    1 .",
+    "derive the physical properties of o stars such as effective temperature or @xmath5 .",
+    "2 .   study sb2s in collaboration with their high - resolution sister surveys ( own , caf - beans , iacob , and nomads ) .",
+    "3 .   improve our knowledge of the extinction law and the ism .",
+    "4 .   measure the spatial distribution of massive stars and dust . 5 .",
+    "obtain the massive - star imf .",
+    "@xmath1 in the last two years gosc has produced several new versions , going from from v3.1.1 to v3.2.2 .",
+    "the most important update has been the use of gosss dr2.0 from gosss - iii ( http://adsabs.harvard.edu/abs/2016apjs..224....4m[maz apellniz et al . 2016 ] ) for public spectral types ( those in the main catalog and supplements 1 - 4 , see table  1 ) .",
+    "furthermore , the following updates have also been included :    * there are 1500 new objects , including all bright b stars .",
+    "* we have added wise hii regions in the clusters and nebulae field . *",
+    "coordinates have been revised with new tycho-2 and 2mass data .",
+    "* we have added 2mass catalog numbers and simbad names .",
+    "* we have added identifiers ( cpd , bd , and als ) .",
+    "* we are coordinating with the cds team at strasbourg for updates on simbad spectral types ."
+  ],
+  "abstract_text": [
+    "<S> we present the updates of the galactic o - star catalog ( gosc ) that we have undertaken in the last two years : new spectral types , more objects , additional information , and coordination with cds . </S>",
+    "<S> we also present updates for the galactic o - star spectroscopic survey ( gosss ) . </S>",
+    "<S> a new paper ( gosss - iii ) has been published and @xmath01000 targets have been observed since 2014 . </S>",
+    "<S> four new setups have been added to our lineup and for two of them we have already obtained over 100 spectra : with osiris at the 10.4  m gtc we are observing northern dim stars and with frodospec at the 2.0  m liverpool telescope we are observing northern bright stars . </S>",
+    "<S> finally , we also make available new versions of mgb , the spectral classification tool associated with the project , and of the gosss grid of spectroscopic standards . </S>"
+  ]
+}

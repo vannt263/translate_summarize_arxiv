@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "in the galactic center ( gc ) , the arched - filaments are thought to originate from the interaction of the gas with the radiation field of the massive arches cluster [ ( * ? ? ? * simpson et al.(2007 ) ) ] .",
+    "using the sub - mm data in ( * ? ? ?",
+    "* garca et al.(2016 ) ) , and complementary millimeter data from the mopra archive [ ( * ? ? ?",
+    "* jones et al.(2012 ) ) ] , and unpublished co(1 - 0 ) and 13co(1 - 0 ) rotational lines from the ongoing mopra cmz survey [ r. backwell et al .",
+    ", in prep .",
+    "] , we investigate the physical conditions of the gas , both atomic and molecular , in the arched - filaments region in the context of photo - dissociation regions ( pdrs ) using the kosma - pdr model of clumpy clouds [ ( * ? ? ?",
+    "* stoerzer et al.(1996 ) ) , ( * ? ? ?",
+    "* cubick et al.(2008 ) ) , and ( * ? ? ?",
+    "* rllig et al.(2013 ) ) ] .",
+    "we also compare the [ cii ] vs. [ nii ] integrated intensity predictions in ( * ? ? ?",
+    "* abel et al.(2005 ) ) for hii regions and adjacent pdrs in the galactic disk , and check for their applicability under the extreme physical conditions present in the gc .",
+    "we have selected seven positions within the arched - filaments following the peaks of 20 cm continuum emission in ( * ? ? ?",
+    "* yusef - zadeh & morris(1987 ) ) and two positions close to them tracing high density gas in ( * ? ? ?",
+    "* serabyn & guesten(1987 ) ) . from the kosma - pdr model of clumpy clouds ,",
+    "the following quantities are obtained from the fit to the observed integrated intensities : hydrogen nucleus number density n(h)@xmath10 ; total clump mass within the beam m@xmath11 ; fuv field in draine units @xmath12 ; hydrogen ionization rate due to cosmic - rays @xmath13(h ) ; clump ensemble mass lower limit m@xmath14 ; and clump ensemble mass upper limit m@xmath15 .",
+    "the model intensities can reproduce the observed intensities extremely well in almost all cases within error bars , except for the co(1 - 0 ) transition where the model systematically underestimates observations by a factor of @xmath8 2 - 3 .",
+    "calculations for the contribution of hii regions to the observed [ cii ] intensities as traced by [ nii ] emission for galactic plane sources have been presented in ( * ? ? ?",
+    "* abel et al.(2005 ) ) . when compared with the observed intensities in and around the arched - filaments location , their predictions for solar and under - solar metallicities do not match the data .",
+    "the observations show that the great majority of the integrated intensity [ cii]/[nii ] ratios ( calculated between @xmath1670 and @xmath1720 ) are fairly homogeneously distributed over the map for values below 10 .",
+    "calculations including variations in the [ c / n ] abundance ratio and stellar clusters seds can explain the observed scatter in the [ cii ] vs. [ nii ] plot and suggest that , in order to use the [ nii ] intensity to disentangle the [ cii ] component arising from h ii regions , tight constraints are needed on the [ c / n ] abundance ratio , significantly tighter than previous abundance measurements have discerned .",
+    "our preliminary results show that the gas is exposed to a relatively low @xmath12 , between 10@xmath0 - 10@xmath1 draine fields , with n(h)@xmath10 well constrained between 10@xmath2 - 10@xmath3 @xmath4 .",
+    "the @xmath13(h ) values vary between 10@xmath5 and 4@xmath610@xmath5 s@xmath7 , with the highest value @xmath8 10@xmath9 s@xmath7 found towards g0.07 + 0.04 . the model results ( specially for n(h)@xmath10 and @xmath12 ) , for all positions as a function of projected distance from the arches cluster , show a large dispersion suggesting that the true distance to the cluster must have a significant line of sight component .",
+    "combining all these results puts constraints on the 3-d spatial distribution , 3-d density structure , and hydrogen ionization rate due to cosmic - rays in the arched - filaments .",
+    "we discuss this further in an upcoming publication ."
+  ],
+  "abstract_text": [
+    "<S> we investigate the physical conditions of the gas , atomic and molecular , in the filaments in the context of photo - dissociation regions ( pdrs ) using the kosma - pdr mode of clumpy clouds . </S>",
+    "<S> we also compare the [ cii ] vs. [ nii ] integrated intensity predictions in abel et al . </S>",
+    "<S> 2005 for hii regions and adjacent pdrs in the galactic disk , and check for their applicability under the extreme physical conditions present in the gc . </S>",
+    "<S> our preliminary results show that observed integrated intensities are well reproduced by the pdr model . the gas is exposed to a relatively low far - uv field between 10@xmath0 - 10@xmath1 draine fields . </S>",
+    "<S> the total volume hydrogen density is well constrained between 10@xmath2 - 10@xmath3 @xmath4 . </S>",
+    "<S> the hydrogen ionization rate due to cosmic - rays varies between 10@xmath5 and 4@xmath610@xmath5 s@xmath7 , with the highest value @xmath8 10@xmath9 s@xmath7 found towards g0.07 + 0.04 . </S>",
+    "<S> our results show that the line - of - sight contribution to the total distance of the filaments to the arches cluster is not negligible . </S>",
+    "<S> the spatial distribution of the [ cii]/[nii ] ratio shows that the integrated intensity ratios are fairly homogeneously distributed for values below 10 in energy units . </S>",
+    "<S> calculations including variation on the [ c / n ] abundance ratio show that tight constraints on this ratio are needed to reproduce the observations . </S>"
+  ]
+}

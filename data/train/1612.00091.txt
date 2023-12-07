@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "the rv tau stars are a subclass of pulsating pagb stars named after the class prototype rv tauri .",
+    "they are luminous , variable yellow giant stars of spectral types f - k , with typical periods of 2080 days and with alternating deep and shallow minima .",
+    "the major hurdle to determining the physical characteristics of these stars is the lack of accurate distances .",
+    "this is a problem that we will rectify with the release of this , the second distance catalogue that will encompass the rv tauri stars , r coronae borealis stars , extreme helium stars and late thermal pulse objects . here",
+    "we will solely focus on the determination of luminosities and distances .",
+    "one of our goals is to construct a volume - limited survey of pagb stars based on our distance catalogues ( vickers et al .",
+    "2015 , 2016 ) , to compare with a similar survey for planetary nebulae ( frew et al .",
+    "2016 ) .",
+    "m waveband.,width=377 ]",
+    "using multi - epoch wise photometry from the irsa ( http://irsa.ipac.caltech.edu ) online database we have determined mean wise photometry for all galactic and extra - galactic rv tauri variables .",
+    "the [ 3.4][4.6 ] wise color is a good proxy for the presence of a dusty disk as shown in gezer et al .",
+    "we have built an sed for each rv tauri in the toru catalogue ( szczerba et al .",
+    "2007 , 2012 ) . for this distance catalogue",
+    "we have decided to use model atmospheres in a similar manner to kamath , wood & van winckel ( 2015 ) with the exception that we have determined interstellar extinction values as described in our first pagb distance catalogue ( vickers et al .",
+    "we have constructed plrs for each of the four wise mid - ir wavebands using all lmc and smc objects classified as rv tauri stars in the ogle - iii catalogue ( soszyski et al .",
+    "figure  1 clearly shows that the slope of the plr for stars with a disc like sed is much steeper than those with no ir - excess .",
+    "this suggests that the disc rv tauri stars have higher intrinsic luminosities and therefore come from higher mass progenitors .",
+    "the slope of the v - band plr shows an inflection which can be attributed to the rv tauri stars with a large ir - excess due to a circumstellar disc ( manick et al .",
+    "we have constructed plrs using the lmc and smc rv tauri population in the mid - ir which accentuates the bending of the plr as mentioned in manick et al .",
+    "( 2016 ) . using these plrs",
+    "we have developed a catalogue of distances for the entire galactic rv tauri population .",
+    "the presence of a disc increases scatter in the mid - ir plr which must be accounted for when determining distances to galactic rv tauri stars ."
+  ],
+  "abstract_text": [
+    "<S> a subset of post - agb ( pagb ) objects are the highly luminous rv tauri variables that show similarities to type - ii cepheids . by using a sample of known rv tauri stars from the magellanic clouds we are able to determine period luminosity relationships ( plrs ) in various bands that have been used to determine the luminosities of their galactic counterparts . </S>",
+    "<S> we have gathered all available photometry in order to generate an sed for each object and determine the total integrated flux . this total flux combined with a calculated or inferred intrinsic </S>",
+    "<S> luminosity leads to a distance ( vickers et al . </S>",
+    "<S> 2015 ) . </S>",
+    "<S> this distance catalogue has allowed us to begin to constrain the physical parameters of this poorly understood evolutionary phase and to determine links between these physical characteristics as a function of their stellar population . </S>"
+  ]
+}

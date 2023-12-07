@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "we measure the infrared luminosities integrated across the cmz ( @xmath0@xmath11@xmath2 , @xmath30.5@xmath2 ) from _ spitzer _ 24 , _ herschel _ 70 , and total infrared maps , derive star formation rates ( sfrs ) and compare to values in the literature ( * ? ? ?",
+    "* ; * ? ? ?",
+    "* ; * ? ? ?",
+    "* ; * ? ? ?",
+    "* ( yusef - zadeh et al . 2009 , immer et al . 2012 , longmore et al . 2013 , koepferl et al . 2015 ) ) .",
+    "we find that the global sfr measurements span @xmath4@xmath5 .",
+    "given that the observational and systematic uncertainties on these measurements are around a factor of two , all of these measurements are deemed to be in good agreement .",
+    "the implication of this are as follows .    * using the global properties of the cmz",
+    ", sf models over - predict the * _ current _ * global sfr by an order of magnitude ( * ? ? ? * ( longmore et al . 2013 ) ) . * as the mean time - scales covered by the adopted sfr tracers are @xmath4@xmath6myr ( * ? ? ? * ( kennicutt & evans 2012 ) ) , these results are consistent with recent models predicting that the sfr in the cmz is episodic on a much longer time - scale of @xmath4@xmath7myr ( * ? ? ? * ; * ? ? ?",
+    "* ( kruijssen et al .",
+    "2014 ; krumholz , kruijssen & crocker 2016 ) ) .",
+    "we measure the infrared ( bolometric ) luminosity each gas cloud to determine the embedded stellar population .",
+    "the sfrs and efficiencies have been estimated assuming sf began in these clouds at pericentre passage with sgr a * ( * ? ? ?",
+    "* ( kruijssen , dale & longmore 2015 ; see figure 1 and references ) ) .",
+    "these sfrs and efficiencies are compared to several of the commonly used models for sf , assuming the physical properties of the `` brick '' cloud can be used as the initial conditions for sf .",
+    "we find @xmath4@xmath8per cent of the cloud mass is converted to stars per free - fall time , which is consistent with `` volumetric '' sf models .",
+    "the results shown here are consistent with the idea that the cause of the low sfr in the bulk of the gas is due to it not being gravitationally - bound despite its very high density ( * ? ? ?",
+    "* ; * ? ? ?",
+    "* ( kruijssen et al . 2014 ; krumholz & kruijssen 2015 ) ) ."
+  ],
+  "abstract_text": [
+    "<S> the environment within the inner few hundred parsecs of the milky way , known as the `` central molecular zone '' ( cmz ) , harbours densities and pressures orders of magnitude higher than the galactic disc ; akin to that at the peak of cosmic star formation ( * ? ? ? </S>",
+    "<S> * ( kruijssen & longmore 2013 ) ) . </S>",
+    "<S> previous studies have shown that current theoretical star - formation models under - predict the observed level of star - formation ( sf ) in the cmz by an order of magnitude given the large reservoir of dense gas it contains . here </S>",
+    "<S> we explore potential reasons for this apparent dearth of star formation activity . </S>"
+  ]
+}

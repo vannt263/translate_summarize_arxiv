@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "the galactic center , being the closest galactic nucleus at a distance of only 8.5kpc , contains @xmath1% of the entire galactic molecular gas within a @xmath0500pc region known as the central molecular zone ( cmz ; e.g. morris et al .",
+    "1996 ; oka et al . 1998 ; jones et al .",
+    "this gas is subject to a unique and extreme environment that is dominated by shocks from cloud - cloud collisions , large fluxes of uv photons and cosmic rays , turbulence , as well as strong magnetic and tidal fields .",
+    "these conditions are reflected in extreme physical parameters : large temperatures , densities , dispersions , and ionization fractions of the gas , and in a peculiar chemistry that is enhanced in abundances of complex molecules .",
+    "similar conditions are also found in high - z galaxies at cosmic times when the bulk of stars were created ( e.g. kruijssen & longmore 2013 ) . to understand the astrophysics of star formation processes in this environment",
+    ", one must have accurate measurements of these ism conditions , as all of these physical parameters determine the capability of the molecular gas to cool , collapse , and eventually to form stars .",
+    "of particular importance is the temperature of the gas , as it is a direct indicator of the efficiencies of shielding and cooling .",
+    "`` the survey of water and ammonia in the galactic center '' ( swag ; survey page at : https://sites.google.com/site/atcaswag ) is an approach to measure some of the most important quantities in the cmz .",
+    "swag data consists of @xmath2 spectral lines in the 21 - 26ghz range with 4ghz of continuum at @xmath00.8pc ( 20  ) spatial and 0.4kms@xmath3 spectral resolution .",
+    "the data are a good compromise between spatial resolution and surface brightness sensitivity , but the interferometric observations do filter out the diffuse gas on the largest scales .",
+    "the maps therefore reveal the clumpy , filamentary structures of the cmz in great detail with little confusion .",
+    "the swag lines include multiple ammonia transitions ( fig.[fig1 ] top ) , which are being used as a thermometer , structure , and dynamic tracer for the molecular gas .",
+    "water masers ( fig.[fig1 ] bottom ) are visible at sites where young stars currently form ( in addition to envelopes of evolved stars ) .",
+    "we also obtain a rich dataset of density , photo - dominated region and shock tracers ( including c - c@xmath4h@xmath5 , hnco , ch@xmath4oh ) , radio recombination lines to map the ionized components , and continuum maps to measure the strength , spectral index , and polarization of the emission . together , swag is a comprehensive survey to couple the physical state ( density , temperature , ionization , shocks , magnetic field strength ) of the molecular gas with the dynamical structure of each cloud embedded in the galactocentric streams .",
+    "swag will also reveal the heating / cooling balance and chemistry of the gas in diverse environments and relates those parameters to each cloud s evolutionary stage of star formation ."
+  ],
+  "abstract_text": [
+    "<S> swag ( `` survey of water and ammonia in the galactic center '' ) is a multi - line interferometric survey toward the center of the milky way conducted with the australia telescope compact array . </S>",
+    "<S> the survey region spans the entire @xmath0400pc central molecular zone and comprises @xmath042 spectral lines at pc spatial and sub - km / s spectral resolution . </S>",
+    "<S> in addition , we deeply map continuum intensity , spectral index , and polarization at the frequencies where synchrotron , free - free , and thermal dust sources emit . </S>",
+    "<S> the observed spectral lines include many transitions of ammonia , which we use to construct maps of molecular gas temperature , opacity and gas formation temperature ( see poster by nico krieger et al . , this volume ) . </S>",
+    "<S> water masers pinpoint the sites of active star formation and other lines are good tracers for density , radiation field , shocks , and ionization . </S>",
+    "<S> this extremely rich survey forms a perfect basis to construct maps of the physical parameters of the gas in this extreme environment . </S>"
+  ]
+}

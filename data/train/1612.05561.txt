@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "of the three observations which can not be explained by the standard model ( sm ) - and which also include the baryon asymmetry of the universe ( bau ) and dark matter ( dm ) - neutrino oscillations provided the first evidence of new physics .",
+    "interestingly , among the several models successfully accounting for and explaining @xmath0-data , many offer the possibility to further address the bau via leptogenesis , succeed in putting forward viable dm candidates , or even ease certain theoretical puzzles of the sm , as is the case of the flavour problem .",
+    "leptonic mixings and massive neutrinos offer a true gateway to many new experimental signals or deviations from sm predictions in the lepton sector ; among others , these include charged lepton flavour violation ( clfv ) .",
+    "the most minimal extension of the sm allowing to accommodate @xmath0 oscillation data consists in the addition of right - handed neutrinos ( @xmath1 ) while preserving the total lepton number , thus giving rise to massive dirac neutral leptons . in such a framework ,",
+    "individual lepton numbers are violated ( as encoded in the @xmath2 matrix ) , and clfv transitions such as @xmath3 can occur , being mediated by @xmath4 bosons and massive neutrinos ; however , and due to the tiny values of light neutrino masses , the associated rate is extremely small , br(@xmath5)@xmath6 , lying beyond the reach of any future experiment .",
+    "thus , the observation of a clfv process would necessarily imply the existence of new physics degrees of freedom ( beyond minimal extensions via massive dirac neutrinos ) .",
+    "a comprehensive review of the experimental status of a vast array of clfv observables was presented at this conference by w. ootani  @xcite .    whether or not charged and neutral lfv are related , or equivalently if clfv arises from the mechanism of @xmath0-mass generation , and the question of which is the new physics model that can be at the origin of these phenomena , have constituted the starting point to extensive studies . here",
+    "we very briefly review the prospects for clfv observables of some appealing and well motivated sm extensions .",
+    "interpreting experimental data on clfv - be it in the form of a possible measurement or improved bounds - requires an underlying theoretical framework : new physics models can lead to `` observable '' clfv introducing new sources of lepton flavour violation , as well as new operators at the origin of the flavour violating transitions and decays .",
+    "a first , model - independent approach consists in parametrising clfv interactions by means of higher - order non - renormalisable ( dimension @xmath7 ) operators .",
+    "the new low - energy effective lagrangian can be written as @xmath8 , in which @xmath9 denotes the scale of new physics , and @xmath10 , @xmath11 the effective couplings and operators , with the former corresponding to complex matrices in flavour space .",
+    "contrary to the unique dimension - five weinberg operator ( common to all models with majorana neutrino masses ) , there exists a large number of dimension - six operators , whose low - energy effects include clfv . regarding the clfv dimension - six operators , these can be loosely classified as dipole , four - fermion and scalar / vector operators .    in order to constrain the new physics scale and the amount of flavour violation thus introduced , the clfv observables can be cast in terms of combinations of @xmath12 and @xmath13 ; simple , natural hypothesis on one allow to infer constraints on the other .",
+    "table  [ table : effective ] collects some bounds on the scale of new physics ( derived under the hypothesis of natural , @xmath14 , effective couplings ) and on the size of the new effective couplings ( inferred for a choice @xmath15  tev ) .",
+    ".bounds on the effective couplings and lower bounds on the scale @xmath9 ( tev ) , following the hypotheses described on the text ; the last column refers to the observable leading to the most stringent bounds . adapted from  @xcite.[table : effective ] [ cols=\"^ \" , ]",
+    "as of today , we have firm evidence that flavour is violated in the quark sector , as well as in the neutral lepton one . in the absence of a fundamental principle preventing it",
+    ", there is no apparent reason for nature to conserve charged lepton flavours . by itself ,",
+    "any observation of a clfv process would constitute a clear signal of new physics - beyond the sm extended via massive ( dirac ) neutrinos . as we aimed at illustrating in the present brief review",
+    ", clfv observables could provide valuable ( indirect ) information on the underlying new physics model , and certainly contribute to at least disfavour several realisations .",
+    "the current ( and planned ) experimental programme , with numerous observables being searched for in a large array of high - intensity and high - energy experiments ( see  @xcite ) renders clfv a privileged laboratory to search for new physics .",
+    "amt is gratefull to the organisers of `` neutrino 2016 '' for the invitation and support .",
+    "part of the work here summarised was done within the framework of the european union s horizon 2020 research and innovation programme under the marie sklodowska - curie grant agreements no 690575 and no 674896 .",
+    "99 ootani w 2016 review of experimental clfv searches , in these proceedings ."
+  ],
+  "abstract_text": [
+    "<S> if observed , charged lepton flavour violation is a clear sign of new physics - beyond the standard model minimally extended to accommodate neutrino oscillation data . </S>",
+    "<S> we briefly review several extensions of the standard model which could potentially give rise to observable signals , also emphasising the rle of charged lepton flavour violation in probing such new physics models . </S>"
+  ]
+}

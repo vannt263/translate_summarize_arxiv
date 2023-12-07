@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "lorentz symmetry is a built - in element of both general relativity and the standard model . to describe nature using them , we need to test this symmetry precisely .",
+    "also , if we seek a unified theory combining general relativity and the standard model , we also need to consider possible violations of lorentz symmetry that could emerge from the underlying theory , causing suppressed signals at attainable energy levels.@xcite    the sme framework is an approach to describing lorentz violation using effective field theory,@xcite where a series of terms that break lorentz symmetry spontaneously in lagrange density can be constructed .",
+    "these terms are couplings between lorentz - violation coefficients and known fields such as the gravity field , photon field , and fermion fields .",
+    "for example , in the pure - gravity sector , the lorentz - violation couplings in the lagrange density are written as @xcite @xmath0r_{\\abgd }   \\nonumber\\\\   & & + \\bigl[(k_{rr})^{\\abgd\\mn\\ka\\rh } + ... \\bigr]r_{\\abgd}r_{\\mn\\ka\\rh }     + ... \\bigr),\\end{aligned}\\ ] ] where @xmath1 are lorentz - violation coefficients . according to the mass dimensions of the coefficients , the term with @xmath2",
+    "is called the minimal lorentz - violation coupling , and all the other terms are nonminimal lorentz - violation couplings .    combining with the lagrange densities for general relativity and the standard model , as well as taking the fact of spontaneous lorentz symmetry breaking into consideration",
+    ", we can formally write down the full lagrange density for pure - gravity sector sme,@xcite and hence the modified einstein field equation .",
+    "the essential problem is that the dynamics of the lorentz - violation coefficients is unknown . to solve this problem we have to assume both gravity and lorentz - violation coefficients are weak fields.@xcite namely , for any lorentz - violation coefficient @xmath3",
+    ", its constant background value @xmath4 is much larger than its fluctuation @xmath5 .",
+    "then , by making the further assumptions that the modified einstein field equation is diffeomorphism invariant and that the conventional matter energy - momentum tensor is conserved , the leading - order contribution from the dynamics of the lorentz - violation coefficients is actually fixed with some parameters that depend on the unknown dynamics model.@xcite",
+    "in the weak - field approximation , the modified einstein field equation turns out to give the modified poisson equation@xcite @xmath6 where @xmath7 is the trace of @xmath8 , and @xmath9 involves more complicated combinations of @xmath10 and @xmath11 .",
+    "notice the lorentz - violation coefficients that have odd mass dimensions , for example @xmath12 , do not appear in the modified poisson equation .",
+    "this is a result of conservation of momentum .",
+    "treating the lorentz - violation terms in the modified poisson equation perturbatively , the solution is a modified newton potential @xcite @xmath13.\\end{aligned}\\ ] ] which shows violation of rotation symmetry due to the direction dependence , and hence violation of lorentz symmetry .",
+    "short - range gravity experiments are designed to test small deviations from newton gravity at short distance scales , ranging from microns to millimeters in different experiments . by comparing the experiment",
+    "result with the predicted result from a modified newton gravity , the parameters in the modified theory can be determined within uncertainties .",
+    "as the uncertainties are usually larger than the values , the uncertainties are also regarded as constraints on the parameters .    in the case of lorentz - violation gravity ,",
+    "discrete fourier analysis for the experiment data is required to compare the experimental data and the theoretical result because the lorentz - violation corrections in the modified newton potential indicate sidereal - variation signals .",
+    "the reason for the sidereal variations is that the lorentz - violation backgrounds @xmath7 and @xmath9 , which are constant in inertial frames such as the conventional sun - centered frame , @xcite vary in laboratories due to the earth s rotation .",
+    "so far the experimental data analyzed are from the iu and hust groups.@xcite both groups adopt planar tungsten as test masses .",
+    "the difference is that the iu experiment detects the force between two test masses , while the hust experiment detects the torque produced by the force with a torsion - pendulum design .",
+    "the planar geometry concentrates as much mass as possible at the scale of interest .",
+    "however , it is insensitive to the @xmath14 force . in the modified newton potential",
+    ", the @xmath7 term gives a @xmath14 force modification .",
+    "thus , both iu and hust experiments are insensitive to @xmath7 . as for the nonminimal lorentz - violation background @xmath9 , combining both experiments gives consistent constraints around @xmath15 m@xmath16 ."
+  ],
+  "abstract_text": [
+    "<S> general violations of lorentz symmetry can be described by the standard - model extension ( sme ) framework . </S>",
+    "<S> the sme predicts modifications to existing physics and can be tested in high - precision experiments . by looking for small deviations from newton gravity , short - range gravity experiments are expected to be sensitive to possible gravitational lorentz - violation signals . with two group s short - range gravity data analyzed recently </S>",
+    "<S> , no nonminimal lorentz violation signal is found at the micron distance scale , which gives stringent constraints on nonminimal lorentz - violation coefficients in the sme .    </S>",
+    "<S> .    # 1 # 1 </S>"
+  ]
+}

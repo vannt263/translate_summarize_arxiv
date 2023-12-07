@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "here we present a primarily self - contained review of the inverse - scattering transform theory necessary for the construction of semiclassical soliton ensembles .",
+    "starting from the basic framework constructed by zakharov and manakov @xcite and kaup @xcite , we review the general approaches developed by beals and coifman @xcite and zhou @xcite as applied to the twri equations . in appendices [ subapp : direct - scattering1][subapp : time - dependence ] we set up the direct - scattering transformation mapping the initial data to the scattering data . in appendices [ appb5-inverse - scattering ] and [ subapp - zhou - transform ]",
+    "we formulate the inverse map as a riemann - hilbert problem . finally , as our focus is on pure - soliton solutions , in appendix [ sec : solitons ] we detail the construction of these functions from the riemann - hilbert problem and discuss some of their relevant properties .",
+    "9        f. baronio , m. conforti , m. andreana , v. couderc , c. de angelis , s. wabnitz , a. barthlmy , and a. degasperis , `` frequency generation and solitonic decay in three - wave interactions , '' _ opt .",
+    "express _ * 17 * , 1388913894 , 2009 .",
+    "m. bertola and a. tovbis , `` universality in the profile of the semiclassical limit solutions to the focusing nonlinear schrdinger equation at the first breaking curve , '' _ int .",
+    "res . not .",
+    "_ * 2010 * , 21192167 , 2010 .",
+    "m. bertola and a. tovbis , `` universality for the focusing nonlinear schrdinger equation at the gradient catastrophe point : rational breathers and poles of the tritronque solution to painlev i , '' _ comm .",
+    "pure appl .",
+    "_ * 66 * , 678752 , 2013 .                      t. claeys and t. grava , `` painlev ii asymptotics near the leading edge of the oscillatory zone for the korteweg - de vries equation in the small - dispersion limit , '' _ comm .",
+    "pure appl .",
+    "_ * 63 * , 203232 , 2010 .",
+    "j. difranco , p. miller , and b. muite , `` on the modified nonlinear schrdinger equation in the semiclassical limit : supersonic , subsonic , and transsonic behavior , '' _ acta math .",
+    "ed . _ * 31 * , 23432377 , 2011 .",
+    "j. difranco and p. miller , `` the semiclassical modified nonlinear schrdinger equation ii : asymptotic analysis of the cauchy problem .",
+    "the elliptic region for transsonic initial data , '' _ contemp . math .",
+    "_ * 593 * , 2981 , 2013 .",
+    "s. kamvissis , k. mclaughlin , and p. miller , _ semiclassical soliton ensembles for the focusing nonlinear schrdinger equation _ , annals of mathematics studies * 154 * , princeton university press , princeton , nj , 2003 .",
+    "v. zakharov and a. shabat , `` exact theory of two - dimensional self - focusing and one - dimensional self - modulation of waves in nonlinear media , '' _",
+    "soviet physics jetp _ * 34 * , 6269 , 1972 . translated from _",
+    "fiz . _ * 61 * , 118134 , 1971 ."
+  ],
+  "abstract_text": [
+    "<S> the three - wave resonant interaction equations are a non - dispersive system of partial differential equations with quadratic coupling describing the time evolution of the complex amplitudes of three resonant wave modes . </S>",
+    "<S> collisions of wave packets induce energy transfer between different modes via pumping and decay . </S>",
+    "<S> we analyze the collision of two or three packets in the semiclassical limit by applying the inverse - scattering transform . using wkb analysis </S>",
+    "<S> , we construct an associated semiclassical soliton ensemble , a family of reflectionless solutions defined through their scattering data , intended to accurately approximate the initial data in the semiclassical limit . </S>",
+    "<S> the map from the initial packets to the soliton ensemble is explicit and amenable to asymptotic and numerical analysis . </S>",
+    "<S> plots of the soliton ensembles indicate the space - time plane is partitioned into regions containing either quiescent , slowly varying , or rapidly oscillatory waves . </S>",
+    "<S> this behavior resembles the well - known generation of dispersive shock waves in equations such as the korteweg - de vries and nonlinear schrdinger equations , although the physical mechanism must be different in the absence of dispersion . </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "_ gaia _ s radial velocity spectrometer @xcite data are processed on - ground by the data processing and analysis consortium ( dpac ) co - ordination unit ( cu ) 6 spectroscopic processing pipeline @xcite .",
+    "the pipeline formally runs at the cu6 data processing centre .",
+    "we present offline tests of the cu6 pipeline running at the mullard space science laboratory . as already presented in @xcite , fig .",
+    "[ fig1 ] ( left ) presents tentative evidence that the cu6 pipeline is able to achieve the end - of - mission rv precision predicted by simulations that include the straylight . the majority of the stars in fig .",
+    "[ fig1 ] ( left ) are g dwarfs so the measured @xmath4 km  s@xmath0 at @xmath2 mag is consistent with simulations that predict a loss of 1.4 mag .",
+    "the fixed limiting magnitude of @xmath5 mag onboard rvs was changed to an adaptive one in september 2015 .",
+    "now the limiting magnitude ranges from @xmath6 mag as a function of time , corresponding to the straylight pattern to save telemetry on spectra that contain more noise than signal . selecting milky way halo stars from the gums simulation @xcite with @xmath7 mag",
+    "suggests that rvs is collecting spectra for @xmath31.8 million stars in the milky way s halo , the majority of which will be metal - poor giants .",
+    "having approximately verified the rv performance model in section [ sec1 ] with preliminary measurements , we apply this model to each gums star .",
+    "this predicts an _ upper _ limit ( due to the adaptive limiting magnitude ) on the number of halo stars in the final _ gaia _ catalogue with @xmath8 km  s@xmath0 : @xmath3800,000 , @xmath342% of the observed halo stars ( red / dark grey dots in fig .",
+    "[ fig1 ] right ) .",
+    "[ fig1 ] ( left ) presents tentative evidence that @xmath9 can be measured up to 30 km  s@xmath0 : @xmath31.2 million stars , 67% of the observed halo stars ( green / light grey dots in fig .",
+    "[ fig1 ] right ) . beyond this limit",
+    ", it has not been tested that the data follow poisson statistics and so whether the predictions are valid .",
+    "rvs spectra were obtained with a fixed across scan ( ac ) window width of 10 pixels .",
+    "the rvs s / n simulator suggests that adapting the ac width to the observing conditions could mitigate the impact of straylight , recovering @xmath30.14 mag .",
+    "this would increase the aforementioned predicted upper limit to @xmath3900,000 , a 13% increase ( all galactic components increase by several million ) .",
+    "_ gaia _ s onboard software was updated in april 2015 to observe with adaptive ac widths .",
+    "this new functionality has been successfully commissioned but depends very much on rvs calibrations and so is still being optimised .",
+    "mag looking face on : x and y are in the galactic plane with the sun at the origin ( square ) , where the cross is the galactic centre .",
+    "each star is colour - coded according to its predicted end - of - mission @xmath9 , assuming every star is a metal - poor k1 giant : @xmath8 km  s@xmath0 ( red / dark grey ) , @xmath10 km  s@xmath0 ( green / light grey ) , @xmath11 km  s@xmath0 ( black).,title=\"fig:\",scaledwidth=49.0% ]   mag looking face on : x and y are in the galactic plane with the sun at the origin ( square ) , where the cross is the galactic centre .",
+    "each star is colour - coded according to its predicted end - of - mission @xmath9 , assuming every star is a metal - poor k1 giant : @xmath8 km  s@xmath0 ( red / dark grey ) , @xmath10 km  s@xmath0 ( green / light grey ) , @xmath11 km  s@xmath0 ( black).,title=\"fig:\",scaledwidth=41.0% ]    _ gaia_-rvs is already the largest ever spectroscopic survey ( 5.4 billion spectra observed in its first year ) .",
+    "this means it will also be the largest ever survey of the milky way s halo .",
+    "it will provide @xmath31 km  s@xmath0 precision radial velocities for @xmath12 mag , which is the planned cu6 contribution to the second _ gaia _ data release ( 2017 , to be confirmed ) . with _",
+    "astrometry , this will provide @xmath310,000 _ local field _ halo stars ( all galactic components @xmath32 million ) in 6d .",
+    "rvs spectra will also be used by dpac cu8 to derive abundances ( fe , ca , ti , si ) , @xmath13 , log @xmath14 , [ m / h ] and @xmath15 for @xmath12 mag , ready for later data releases .",
+    "cu6-measured @xmath16sin@xmath17 for these stars means that _ gaia _ will measure these @xmath310,000 local field halo stars and the @xmath32 million all - galactic - component stars in a total of 15 dimensions .",
+    "we present preliminary evidence that _ gaia_-rvs can provide @xmath315 km  s@xmath0 precision end - of - mission radial velocities at @xmath2 mag . at this precision and with _ gaia _ astrometry , _ gaia _ will provide @xmath3800,000 - 900,000 halo stars ( all galactic components @xmath375 - 100 million ) in 6d in the final _ gaia _ catalogue ( 2022 , to be decided ) . when analysed with cu8-derived [ m / h ] from _ gaia",
+    "_ s bp / rp spectra of these stars , _ gaia _",
+    "s chemo-6d - kinematic mapping out to @xmath330 - 50 kpc from the sun will revolutionise our understanding of the milky way halo s structure , origin and evolution ."
+  ],
+  "abstract_text": [
+    "<S> _ gaia _ s radial velocity spectrometer ( rvs ) has been operating in routine phase for over one year since initial commissioning </S>",
+    "<S> . rvs continues to work well but the higher than expected levels of straylight reduce the limiting magnitude . </S>",
+    "<S> the end - of - mission radial - velocity ( rv ) performance requirement for g2v stars was 15 km  s@xmath0 at @xmath1 mag . </S>",
+    "<S> instead , 15 km  s@xmath0 precision is achieved at @xmath2 mag , consistent with simulations that predict a loss of 1.4 mag </S>",
+    "<S> . simulations also suggest that changes to _ gaia _ s onboard software could recover @xmath30.14 mag of this loss . consequently _ gaia _ s onboard software was upgraded in april 2015 . </S>",
+    "<S> the status of this new commissioning period is presented , as well as the latest scientific performance of the on - ground processing of rvs spectra . </S>",
+    "<S> we illustrate the implications of the rvs limiting magnitude on _ gaia _ s view of the milky way s halo in 6d using the _ gaia _ universe model snapshot ( gums ) . </S>"
+  ]
+}

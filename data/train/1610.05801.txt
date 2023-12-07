@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "pyheadtail is a program currently under development at cern @xcite designed for the simulation of the interaction of particle beams with electron clouds , the impact of impedance and space charge effects .",
+    "it is used to study beam instabilities and emittance growth induced by the afore - mentioned collective effects .",
+    "the code itself is written in python : various modules covering different physical aspects allow the user to choose a particular combination of what he wants to incorporate into his simulation script .",
+    "pyheadtail is a python port from the program headtail written in c and fortran , which has been successfully employed in the world - wide beam dynamics community since at least 2002 .",
+    "since pyheadtail is still at an early stage of development , the current version does not exhibit any parallelised parts yet , it runs fully sequentially .",
+    "this is where the actual project comes into play , it poses the starting point for future parallelisation efforts of pyheadtail .",
+    "pyheadtail is a macro - particle simulation , i.e.  the code pushes particles described by their 3d spatial positions and momenta from one interaction point to another , cf .",
+    "figure [ fig : pushing ] . at the interaction points  depending on what type of interactions the user has included  , the fields of the particle distribution are constructed and act back on the particle distribution .",
+    "one essential part of pyheadtail is the tracking engine which transports the macro - particles .",
+    "one distinguishes between the transverse plane ( perpendicular to the direction of motion within the accelerator ring ) and the longitudinal direction ( along the direction of motion ) .",
+    "the macro - particle movement in the transverse plane is approximately described by linear transfer matrices , i.e.  the same matrix is repeatedly acting on the typically @xmath3 to @xmath4 macro - particles state vectors ( to give an order of magnitude , this depends on the resolution that the physics requires to be noiselessly described and be properly reproduced ) .",
+    "currently this is done with sequential vectorised matrix multiplication on a single core .",
+    "the macro - particles longitudinal motion is taken into account via various different integration algorithms , which allow for different levels of accuracy in exchange for computation time . to be more specific , the particles motion in longitudinal phase space  which comprises two coordinates , the spatial location @xmath5 and the corresponding ( dimensionless ) conjugate momentum @xmath6  is integrated turn by turn .",
+    "integration is performed via either the euler - cromer ( first order ) , leap - frog ( second order verlet ) or runge - kutta resp .",
+    "ruth ( fourth order ) numerical integration algorithms .",
+    "these heavy calculations are independently done for each particle s entry in the @xmath5 and @xmath6 arrays , i.e. they are destined to be parallelised and outsourced to the gpu .",
+    "the machine on which the testing is conducted runs the linux distribution ubuntu 12.04 .",
+    "table [ tab : specs ] summarises the most relevant machine parameters and specifications .",
+    ".relevant machine specifications [ cols=\">,<\",options=\"header \" , ]",
+    "due to the overhead caused by the gpu cuda device initiation , the use of the concurrent calculations on the gpu only pays off from a magnitude of @xmath7 to @xmath8 macro - particles on . as the usual",
+    "setting in headtail / pyheadtail is @xmath3 to @xmath4 macro - particles , a speedup of @xmath9 can be expected by using a parallelised version on the gpu . however , for more memory - bound applications such as calculating space charge effects between the particles or including impedance effects , the real speedup will be strongly affected by the large memory latency on the gpu .",
+    "the next steps include porting the parallelised version into pycuda and integrating the parallelised tracking into pyheadtail . for now , the strongly computation - bound tracking promises a large speedup , this will have to be analysed in greater detail for the more memory - bound physical effects that comprise the core part of ( py-)headtail and make it such a useful tool in the accelerator physics community ."
+  ],
+  "abstract_text": [
+    "<S> the longitudinal tracking engine of the particle accelerator simulation application pyheadtail shows a heavy potential for parallelisation . for basic beam circulation , </S>",
+    "<S> the tracking functionality with the leap - frog algorithm is extracted and compared between a sequential c and a concurrent cuda c api implementation for @xmath0 revolutions . including the sequential data i / o in both versions , a pure speedup of up to @xmath1 is observed which is in the order of magnitude of what is expected from amdahl s law . from @xmath2 macro - particles on the overhead of initialising the gpu cuda device </S>",
+    "<S> appears outweighed by the concurrent computations on the 448 available cuda cores . </S>"
+  ]
+}

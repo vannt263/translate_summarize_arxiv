@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "neutral - meson interferometry allows precise measurements of possible mass and decay rate asymmetries between particles and antiparticles , thereby testing cpt symmetry .",
+    "these asymmetries could be due to spontaneous violation of cpt , in which shifts of the rest - mass energy are caused by couplings to a cpt - violating background , arising as a nonzero vacuum expectation value from spontaneous symmetry breaking involving tensor fields.@xcite the standard - model extension ( sme ) is a general quantum field theory framework including lorentz violating terms in all sectors of the standard model .",
+    "cpt violation implies the violation of lorentz symmetry.@xcite inspection of the sme terms identifies a single flavor - dependent coefficient @xmath2 that can be studied with neutral mesons .",
+    "the flavor - specific relative value for the two valence quarks @xmath3 provides a unique testing ground for quark sector studies of the sme for @xmath4 , @xmath5 , @xmath6 neutral meson pairs.@xcite these coefficients for cpt violation in neutral mesons have to be direction- and boost - dependent to be consistent with quantum field theory.@xcite",
+    "in the last five years , impressive new results have been published on the relevant sme coefficient including its components , taking into account boost and direction dependence .",
+    "kloe provided an analysis including all possible spatial binning as well as sidereal binning , and published tight constraints for kaons on all four components of the sme coefficient involving @xmath1 and @xmath7 quarks.@xcite recently d@xmath8 gave improved bounds on the coefficient from like - sign dimuon decays , involving @xmath1 , @xmath7 , and @xmath0 quarks.@xcite lhcb reported detailed studies and set the best constraints in the @xmath5 system , also including full component analysis.@xcite babar gave new improved results reanalyzing data collected during its operation.@xcite .",
+    "belle ii is currently starting operations , targeting at 40 times higher luminosity than the original belle , with improved pixel and strip detectors providing proper vertex detection even for lower boost studies.@xcite lower boost searches open up possibilities for spatial and kinematics studies as well as for the investigation of quantum coherence in the presence of cpt violation .",
+    "cpt searches are further supported by improvements in data acquisition and analysis .",
+    "full event interpretation can allow improved kinematic studies and better neutral particle identification , provide reconstruction of the initial @xmath9 state , and give better tagging efficiency , giving detailed kinematics information important for momentum - dependent analysis .",
+    "belle ii carries other advantages compared to the high boost , precision studies at lhcb .",
+    "it can make specific contributions with high precision studies for the @xmath1 and @xmath0 quarks analogous to the detailed studies of correlated decays by kloe .    in phenomenological studies ,",
+    "more detailed investigations are needed to determine the possibilities for experiments at belle ii . in 2001 kosteleck introduced phenomenological parameters suitable for any size cpt violation that are phase independent and make explicit the different mechanism by which cpt violation affects the oscillations.@xcite the corresponding parameter is determined in terms of the sme coefficient .",
+    "this phenomenology included the direction and boost dependence of the relevant cpt - violation coefficient and forms the basis for more appropriate tests .",
+    "a classical analogue model was also presented for understanding the symmetry violations.@xcite         the 2001 study addressed the correlated mesons separately and is being adapted to give new searches a unified approach .",
+    "it is extended to investigate new physics in the presence of cpt violation for @xmath5 factories , where meson antimeson pairs are produced in correlated states and have different oscillation characteristics and experimental issues from uncorrelated mesons and for mesons assumed to experience only cp violation , including the correlated time evolution before the decay of the first meson because of the direction dependent interaction with the nonzero background .",
+    "the analysis addresses further decay modes , as well as those specific to experiments at belle ii .",
+    "details of the geographic location and beam orientation must be considered ( see fig .  1 ) , and there is a difference in how these coordinates are defined at each experiment .",
+    "it is also necessary to establish the connection between the parameters and definitions traditionally used by the various detectors and those adopted in the sme framework .",
+    "since data collection is just beginning , it will be beneficial to initiate sidereal binning of the data and find the optimal binning strategy in concordance with the data analysis ."
+  ],
+  "abstract_text": [
+    "<S> classic tests of cpt symmetry have been done in the neutral - meson system . </S>",
+    "<S> these have been continued with new results in the framework of the standard - model extension , where the coefficient for cpt violation is both boost and direction dependent . </S>",
+    "<S> recent contributions and new phenomenological improvements are discussed with possible new contributions for @xmath0 and @xmath1 specific correlated decays at the belle ii asymmetric energy collider . </S>"
+  ]
+}

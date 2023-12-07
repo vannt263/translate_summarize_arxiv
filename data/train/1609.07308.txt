@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "* gillessen et al . ( 2012 ) ) discovered a fast moving object within the range of the s - star cluster close to sgr a*. vlt naco images show the object in l-band , but not in k - band , indicating that it is a dusty , ionised gas cloud .",
+    "the spatially resolved ionised gas emission ( especially in the brackett-@xmath0 line ) monitored with the sinfoni instrument allows to accurately constrain the orbit around sgr a * to be highly eccentric ( e=0.98 ) with a peri - centre passage at a distance of 2400 schwarzschild radii .",
+    "the cloud has a mass of 3 earth masses and an orbital period of 400 years .",
+    "the tidal interaction with the central black hole is clearly visible in the developing gradients in observed position - velocity ( pv ) diagrams ( * ? ? ?",
+    "* ; * ? ? ?",
+    "* ( gillessen et al . , 2013a , 2013b ) ) .",
+    "an overlay of the pv diagrams of the years 2004 to 2014 shows that g2 , a second cloud g1 and the _ tail _ might form a stream of gas ( * ? ? ?",
+    "* ( pfuhl et al . , 2015 ) ) .",
+    "we employ 3d amr hydro - dynamical simulations using the pluto code in order to follow the evolution of a diffuse gas cloud which starts initially in pressure equilibrium with an adaf - like atmosphere on the observed orbit .",
+    "1 shows that the spherical cloud is initially compressed due to the radially increasing atmospheric pressure and ram pressure interaction ( fig .",
+    "close to peri - centre , the massive black hole leads to tidal stretching ( fig .",
+    "1b ) and after the peri - centre passage , the cloud develops a nozzle - like accretion stream feeding gas towards the centre ( fig .",
+    "1c ) with small infall rates .",
+    "however , despite the seemingly disruption of the cloud , the ( normalised ) brackett-@xmath0 emission on the sky closely follows the observed orbit , even after the cloud s peri - centre passage .",
+    "by directly comparing our simulated position - velocity ( pv ) diagrams for various starting times ( in pressure equilibrium ) along the orbit ( upper row in fig .",
+    "2 ) with the observed ones ( residuals in second row in fig .",
+    "2 ) , we find better correspondence for models with a starting time close to apo - centre of the best - fit g2 orbit , as inferred from a reduced @xmath1 analysis . this might indicate a formation scenario due to stellar wind interaction within the disc of young stars ( * ? ? ? * ( caldern et al . , 2016 ) ) or g2 s origin from a gas streamer .",
+    "brackett-@xmath0 light curves for these simulations show a ( partly physical ) mixing plateau and are roughly in agreement with the data .",
+    "similarly good overall agreement is found for the _ compact source scenario _ ( see conference contribution by alessandro ballone ) .",
+    "however , in the latter scenario , the source leaves g2 behind in approximately 5 years from now and forms a separate cloud , allowing us to distinguish the two scenarios ."
+  ],
+  "abstract_text": [
+    "<S> with the help of 3d amr hydrodynamical simulations we aim at understanding g2 s nature , recent evolution and fate in the coming years . by exploring the possible parameter space of the diffuse cloud scenario </S>",
+    "<S> , we find that a starting point within the disc of young stars is favoured by the observations , which may hint at g2 being the result of stellar wind interactions . </S>"
+  ]
+}
