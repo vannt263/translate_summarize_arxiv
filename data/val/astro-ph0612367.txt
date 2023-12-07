@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "grb  050904 was triggered on 2005 september 4 , and found to be the highest redshift ( @xmath8 ) gamma - ray burst ( grb ) known to date @xcite . in order to search for the host galaxy of grb  050904 , we carried out imaging of the field of grb  050904 with suprime - cam on the subaru 8.2-m telescope under the photometric conditions on 2005 december 28 - 2006 january 3 ( ut ) , when it was 115 days after the burst .",
+    "we used a narrow - band ( 130  ) filter centered at 9200   ( hreafter , nb921 ) and the @xmath0-band filter .",
+    "although nb921 has narrow width , it has two merits .",
+    "it does not include ly break and covers only the continuum light of an object at @xmath9 .",
+    "the sky background at 9200    is lower than the surrounding region because oh sky emission lines are weaker at that integration .",
+    "the @xmath0-band images were taken to discriminate foreground galaxies .",
+    "the integration times were 56700 s in the nb921 , and 24060 s in the @xmath0-band .",
+    "the circle indicates the grb position and its diameter is @xmath4 .",
+    "the arrow indicates an object located @xmath10 south of the grb .",
+    "( _ left _ ) the nb921 image .",
+    "( _ right _ ) the @xmath0-band image .",
+    ", title=\"fig:\",width=188 ] .",
+    "the circle indicates the grb position and its diameter is @xmath4 .",
+    "the arrow indicates an object located @xmath10 south of the grb .",
+    "( _ left _ ) the nb921 image .",
+    "( _ right _ ) the @xmath0-band image . , title=\"fig:\",width=188 ]    the nb921 and @xmath0-band images of the field of grb  050904 ( @xmath11 ) are shown in figure 1 .",
+    "the limiting magnitudes ( @xmath12 , 3@xmath5 ) are 26.4 ab mag . in the nb921 , and 27.2 ab mag . in the @xmath0-band .",
+    "no object ( @xmath13 ) is found at the position of the grb . the nearest object located at @xmath2 ne",
+    "is clearly detected at both the nb921 and @xmath0-band image .",
+    "this fact means that no ly break exists in the objects s spectrum at 8500  , and that its redshift is smaller than 6 .",
+    "the limiting magnitude of 26.4 mag at 9210   corresponds to the luminosity of @xmath6 erg / s / hz at 1260   assuming @xmath14 km / s / mpc , @xmath15 , @xmath16 . assuming a flat spectrum of the host galaxy",
+    ", we used the following relation @xcite to estimate the star formation rate : @xmath17 the upper limit of the star formation rate is 7.5 m@xmath7/year .",
+    "this value is consistent with the one estimated by @xcite using @xmath18 data .",
+    "this moderate star formation rate is similar to those of lower redshift grb host galaxies  @xcite .    in the nb921 image an object ( @xmath19 , 26.6 mag )",
+    "is located at @xmath10 south of the grb .",
+    "this object is also detected in the @xmath18 @xmath20-band image  @xcite , however , it is not detected in the @xmath0-band image .",
+    "these facts suggest that its possible redshift is larger than 6 .",
+    "the separation of @xmath10 between the object and the grb corresponds to 28 kpc ( @xmath14 km / s / mpc , @xmath15 , @xmath16 ) .",
+    "threfore , it may reside in the same dark halo where the grb occurred ."
+  ],
+  "abstract_text": [
+    "<S> we present the results of deep imaging of the field of grb  050904 with suprime - cam on the subaru 8.2 m telescope . we have obtained a narrow - band ( 130  ) image centered at 9200   ( nb921 ) and an @xmath0-band image with total integration times of 56700 and 24060 s , respectively . </S>",
+    "<S> the host galaxy was not detected within @xmath1 of the afterglow position . </S>",
+    "<S> an object was found at @xmath2 ne from the position of the afterglow , but clear detection of this object in the @xmath0-band image rules out its association with the burst . </S>",
+    "<S> we obtained a limit of @xmath3 ab magnitude ( @xmath4 diameter , 3 @xmath5 ) in the nb921 image for the host galaxy , corresponding to a flux of @xmath6 erg / s / hz at rest 1500   assuming a flat spectrum of the host galaxy . </S>",
+    "<S> the star formation rate should be less than 7.5 ( m@xmath7/yr ) based on the conversion rate by @xcite . </S>",
+    "<S> this upper limit for the host of grb 050904 is consistent with the star formation rate of other gamma - ray burst host galaxies around redshift of 2 or less .    </S>",
+    "<S> [ 2001/06/19 v1.4 g il nuovo cimento ] </S>"
+  ]
+}

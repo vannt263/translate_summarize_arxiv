@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "the intent of this work is to study of the impacts of the sb2009  @xcite beam parameters on the higgs recoil mass and higgs - strahlung cross - section measurements based on a dedicated fast simulation algorithm of the ild  @xcite detector .",
+    "we would like to compare this result with our previous result  @xcite at @xmath0250  gev with rdr  @xcite beam parameters ( rdr 250 ) for the accelerator optimization reason .",
+    "the study uses the @xmath1 channel , assuming a beam polarization of ( @xmath2 ) .",
+    "it takes into account the beam effects by beam simulation using guinea - pig  @xcite with beam parameters sb2009 .",
+    "i use pythia  @xcite for the event generation with the beams simulated by guinea - pig as inputs through the interface calypso  @xcite .",
+    "thereafter , i developed a fast simulation algorithm  @xcite to include the detector effects of the ild .",
+    "after the fast simulation , i perform the analysis based on the same algorithm as of my previous study  @xcite . in the end",
+    ", i give the result and the comparison .",
+    "the beam effects are simulated using guinea - pig , with the beam parameters sb2009 given by reference  @xcite .",
+    "figure  [ fig : lumi ] shows the luminosity spectra simulated with beam parameters sb2009 , comparing with rdr beam parameters . .",
+    "i use pythia for the event generation .",
+    "the event generation takes the beams simulated by guinea - pig as inputs through the interface calypso .",
+    "i take the @xmath1 channel under study , with two major background reactions the @xmath3 ( @xmath4 ) and the @xmath5 ( @xmath6 ) .",
+    "their cross - sections at @xmath0350  gev with beam polarization ( @xmath2 ) are listed in table  [ tab : xsec ] .        from figure",
+    "[ fig : fit_mi_lr_pm ] , the derived results of the higgs mass measurement is @xmath7  gev , and of the cross - section is @xmath8  fb ( @xmath9 ) . a comparison of the results with other beam parameters are shown in table  [ tab : results ] , together with the efficiency ( @xmath10 ) and signal over background ( s / b ) . in this table ,",
+    "the results of rdr 250 sb2009 w / o tf 250b are scaled from my previous analysis  @xcite based on full simulation according to the integrated luminosity . and the results of rdr 350 is estimated by scaling the result of sb2009 w / o tf 350 according to the integrated luminosity .",
+    "the higher s / b at @xmath0350  gev is due to better background suppression .",
+    "for example the variable @xmath11 , its distribution of @xmath12 signal is much center for @xmath0350  gev than 250  gev  @xcite , while that of the @xmath5 background is much forward .",
+    "hengne li , _ a fast simulation algorithm for higgs recoil mass study at ild _ , ild workshop 2010 , paris + http://ilcagenda.linearcollider.org/materialdisplay.py?contribid=35&sessionid=26&materialid=paper&confid=4326"
+  ],
+  "abstract_text": [
+    "<S> this proceeding reports a study of the impacts of the sb2009 beam parameters on the higgs recoil mass and higgs - strahlung cross - section measurements based on a dedicated fast simulation algorithm of the ild detector . </S>",
+    "<S> the study shows worse results from sb2009 beam parameters than the previous rdr beam parameters , because of the smaller luminosity . </S>",
+    "<S> however , travel focus ( tf ) technology can recover the degradation to certain level . </S>"
+  ]
+}

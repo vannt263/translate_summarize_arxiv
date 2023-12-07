@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "nasa s _ chandra _ x - ray observatory was launched on july 23 , 1999 .",
+    "the _ chandra _ multiwavelength project ( champ ) will combine radio to x - ray observations of serendipitous _",
+    "chandra _ sources , with emphasis on optical identification .",
+    "the champ is superior to previous x - ray surveys because of ( 1 ) unprecedented x - ray positional accuracy ( @xmath6 ) , ( 2 ) x - ray flux limits 20 times deeper than current wide area surveys ( down to @xmath7 erg  s@xmath1  @xmath2 ) , ( 3 ) larger sky coverage ( @xmath8 8 deg@xmath9 ) per year than current deep surveys .",
+    "* the x - ray luminosity function * at @xmath10 is described as    @xmath11    @xmath12 + where l@xmath13 is the x - ray luminosity in @xmath14 erg  s@xmath1 .",
+    "the redshift evolution of the luminosity function is characterized by    @xmath15    continuity of the luminosity function at the break luminosity requires that    @xmath16    the total number @xmath17 of quasars in the sample is obtained by integrating the luminosity function over luminosity and volume , i.e. ,    @xmath18    here @xmath19 is the solid angle covered by the survey as a function of redshift and luminosity .",
+    "the parameters of the x - ray luminosity function determined by boyle et al .",
+    "( 1993 ) are as follows : @xmath20 , @xmath21 , @xmath22 , @xmath23 . following comastri et al .",
+    "( 1995 ) , we have used k=2.6 and increased the the normalization @xmath24 by 20% .    * the x - ray logn - logs curve * : using the above luminosity function we derived the number density of quasars as a function of observed flux .",
+    "the luminosity function was integrated over the luminosity range @xmath25 erg s@xmath1 and the redshift range @xmath26 .",
+    "h@xmath27 and q@xmath28 were assumed throughout .",
+    "the predicted logn - logs curve is shown in figure 1 .    since the unabsorbed sources dominate at the faint end in the soft x - ray range , and since they are likely to be observed at high redshift , in the present analysis we will concentrate on unabsorbed sources only .",
+    "the absorbed sources would contribute an additional @xmath8 60% ( comastri et al .",
+    "1995 ) , making the total number consistent with the extrapolation of the empirical determination of logn - logs ( hasinger et al .",
+    "the flux of unabsorbed quasars is given by @xmath29 and in the soft x - ray band , @xmath30 is typically 1.3 .",
+    "* the champ sky coverage * : the champ cycle 1 consists of 85 extragalactic fields , |b|@xmath31 . from all the chandra cycle 1 fields we have excluded ( 1 ) deep fields of pi survey observations , ( 2 ) fields with extended sources & planetary targets , ( 3 ) acis sub - arrays and continuous clocking modes .",
+    "see figure 2 for champ sky coverage as a function of flux limit .",
+    "* cumulative number distribution in champ : * integrating the predicted logn - logs over the champ sky coverage , we obtained the cumulative number distribution of quasars in the champ fields ( figure 3 ) .",
+    "the total number in soft band is expected to be over 1500 for unabsorbed sources and over 2500 total .",
+    "* predicted redshift distribution : * the histogram ( figure 4 ) shows the predicted number distribution of quasars in champ fields . over 200 quasars will be detected in the redshift range @xmath3 and over 400 quasars in @xmath4 .",
+    "[ cols=\"<,>,>\",options=\"header \" , ]      boyle , b. , griffiths , r. , shanks , t. , stewart , g. , & georgantopoulus , i. 1993 , mnras , 260 , 49 comstri , a. , setti , g. , zamorani , g. , & hasinger , g. 1995 , a&a , 296 , 1 gioia et al .",
+    "1990 , apjs , 72 , 567 hasinger , g. et al .",
+    "1993 , a&a , 275 , 1"
+  ],
+  "abstract_text": [
+    "<S> _ chandra _ x - ray observatory , ( formerly known as axaf ) , will observe down to the flux limit of 2@xmath0 erg  s@xmath1  @xmath2 . in its first year of operation _ </S>",
+    "<S> chandra _ </S>",
+    "<S> s ccd detectors will observe over 1500 quasars serendipitously in the soft ( 0.53.5 kev ) band . over 200 quasars will be detected in x - rays in the redshift range @xmath3 and over 400 quasars in @xmath4 . </S>",
+    "<S> this will enable us to determine the high redshift x - ray luminosity function . </S>",
+    "<S> this is the contribution by unabsorbed sources only . </S>",
+    "<S> the total numbers would be larger by @xmath5% . </S>"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "rv uma is a rr lyr type variable star ( rrab type ) in the constellation of ursa major , located ( r.a . @xmath133",
+    "18.09  , decl .",
+    "+ @xmath259 14.6  ) , and it has this parameter : +   + * v@xmath3 range * : 9.81 - 11.3 + * spectral type * : a6-f5 + * orbital period * : p= @xmath4 .",
+    "+   + rr lyrae is a particular type of variables stars with asymmetric light curves ( steep ascending branches ) , periods from 0.3 to 1.2 days , and amplitudes from 0.5 to 2 magnitude in v. this phenomenon of modulated light variation is called _ blazhko effect_.",
+    "the stars was observed in 2011 april and may ( ut ) and all data were obtained with the richey - chretien telescope of the ts corporation on andrate ( to ) - italy station , equipped with a ccd camera ( fli eev2 back illuminated , 20482048 pixel mm 0,39 arcsex / pix ) with v filters ( johnson - kron - cousins @xcite , as a good quality , homogeneous set with an accuracy of 0.01 - 0.02 mag .",
+    "1 show the identification map for the stars rv uma and ref used in this study .",
+    "+ table 1 show the rv uma data by c.d.s .",
+    "- simbad , table 2 show the journal book of observations and capture image .",
+    "we do not indicate the values of the dark frame as the ccd is cooled to liquid nitrogen , and therefore there were no shooting dark .",
+    "preliminary processing of all ccd frames , to apply bias and flat field corrections , was alone with standard routines in the iraf software package .",
+    "+ the magnitudes of stars in the table 3 , 4 , 5 , 6 , 7 , 8 and 9 are computed by fitting the position and scale of the psf to each star image in turn , in order of decreasing brightness .",
+    "the zero point of the frame is set during the psf calculation , thought aperture photometry of the stars used to calculate the psf .",
+    "instrumental magnitudes for all measured stars were transformed to a standard system using fitting coefficients derived from observations of standard stars whose magnitudes have been well established in earlier studies@xcite .",
+    "+ the standard data for rv uma and ref used in this study , are visible in table 1 from c.d.s .",
+    "- simbad@xcite            + * fig.1 map of the stars rv uma and ref used in this paper * +   + * fig 2 : v light curve diagram of rv uma for this study .",
+    "the scatter of the light curve is caused by blazhko modulation .",
+    "phase 0.468002 is set to the middle of the ascending branch defined as the phase where the v flux is equal to its time averaged value .",
+    "* +   + * fig 8 : residual light curve diagram for this study * +   + * fig 7 : fourier diagram of the v light curve of rv uma for this study . * +   + * figure 3 - 4 - 5 - 6 : variation between instrumental measurement and value stellar catalog for each observing session *          99 * tasselli , d. * , 2011 ,  status of the new research facility in andrate - to - and prospective for research  , arxiv:1103.2663 t [ astro-ph.im ] . *",
+    "tasselli , d. * ,  photometry study of open cluster ngc 7788  , 2013 , arxiv:1307.4094 t .",
+    "* aavso - the international variable star index * , http://www.aavso.org/vsx/index.php * blazhko , s. * , 1907 , astron .",
+    "nachr . , 173 , 325 * c.d.s .",
+    "- simbad * * dymock e miles * , 2009 , a method for determining the v magnitude of asteroids from ccd images , jbaa , 119,3 , http://articles.adsabs.harvard.edu/full/2009jbaa..119..149d * konkoly observatory * , `` rr lyrae stars in the gcvs observed by the qatar exoplanet survey `` 2014 , arxiv:1405.3417v1 [ astro-ph.sr ] * landolt , a.u . * , ' ' ubvri photometric standard stars around the celestial equator '' , 1983 , _ astr.j . , 88 , 439_. * period4 software * , www.univie.ac.at/tops/period04/ * preston , g. w. , & paczinsky , b. * , 1907 , astron .",
+    "nachr . , 173 , 325 * preston , g. m. , smak , j. , & paczynsky , b. * , 1965 , apjs , 12 , 99 * preston , g. w. , & paczinsky , b. * , 1964 , apj , 140 , 181 * szeidl , b. , & kollath , z. * , 2000 , asp conf . ser .",
+    "vol.203 . , rr lyrae : analysis of 100 years of observations , eds.:szabados , l. , kurtz , d. w. , p. 281",
+    "* smith , h. a. * , 1995 , rr lyrae stars ( cambridge univ . press ) * sdordor , jurcsik & szeidl * , 1965 , mnras 394,261 * v.p.yudkina * , 1952 , perem .",
+    "zvezdy 8 , n4 , 289"
+  ],
+  "abstract_text": [
+    "<S> all available ccd observation of rv uma have been analyzed to obtain an accurate mathematical description of the ligh variation . </S>",
+    "<S> we discuss in this paper a new study of variable star rv uma , a short period rrab star , in orther to determine through the light curve and the physical parameters , the presence of _ `` blazhko effect''_. the star were observed for a total of 839 sessions shooting , and exhibits light curve modulation with the shortest modulation period=@xmath0 ever observed . </S>",
+    "<S> the result detect small but definite modification in temperature and mean radius of the star itself . </S>",
+    "<S> all results are compared with previously published literature values and discussed .    </S>",
+    "<S> * keyword * : stars : individual : rv uma - stars : variables : rv uma - stars : oscillations - techniques : photometric + this paper was prepared with the latex +    2 </S>"
+  ]
+}

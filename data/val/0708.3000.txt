@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "galaxies at the highest redshifts , z@xmath05 , are vital objects in observational cosmology .",
+    "they formed during an era of one of the most dramatic phase changes in the history of the universe  the epoch of reionization .",
+    "remarkably , these earliest galaxies were able to dictate the phase of the general medium in which all galaxies are imbedded .",
+    "because of their enhanced [ @xmath3/fe ] ratios , which are the product of core collapse supernova enrichment , and old ages , the densest ( i.e. , globular clusters ) and most massive stellar systems ( i.e. , giant ellipticals ) are thought to have formed at such high redshifts in spectacular bursts of star - formation of relatively short duration ( @xmath4100 myrs to a 1 gyr ) .",
+    "the short duration of the star - formation but the large accumulated mass must mean that these galaxies had very high star - formation intensities  the rate of star - formation per unit surface area .",
+    "it is well - known that galaxies with high star - formation intensities drive vigorous outflows of metals and energy .",
+    "such outflows from high redshift galaxies could have both cleared material from the galaxian surroundings allowing ionizing photons to escape as well as enriching the intergalactic medium ( igm ) . through this",
+    "mechanism problems of how the igm was re - ionized and enriched in metals even at the highest redshifts yet observed ( this is the so - called `` pre - enrichment problem '' ) could be solved . but can we find direct evidence for this scenario in the physical properties of high redshift galaxies ?",
+    "this is what we will attempt to address here .",
+    "at z@xmath55 , there have been a number of significant spectroscopic surveys investigating the nature of lyman - break galaxies ( lbgs , or `` v- or r - band dropouts '' ) , two of which has been lead by some of the authors .",
+    "there are now over 100 confirmed redshifts in total at z@xmath25 through the work of our eso large program ( the eso distant galaxy survey  ergs ; douglas et al .",
+    "2007 , in preparation ) and the study of the `` bdfs '' ( e.g. , lehnert & bremer 2003 ; lehnert et al .",
+    "2007 , in preparation ) .",
+    "the eso lp is based on the ediscs fields , which are 10 widely separated intermediate - redshift cluster fields , while the `` bdfs '' are four adjacent fields observable from paranal in winter .",
+    "our total sample constitutes the largest sample of z@xmath05 lbgs ( `` r - band drop outs '' ) with spectroscopically confirmed redshifts . in all of these fields",
+    ", we have deep r- , i- , z - band , and irac data ( 3.6 , 4.5 , 5.8 , and 8.0 @xmath6 m ) . some of the fields also have observations in other optical / infrared bands , including mips 24@xmath6 m data and hst acs imaging .",
+    "in addition , we have been studying a similar population of galaxies in the goods - s , taking advantage of the deep multi - wavelength data set ( verma et al . 2007 ) .",
+    "from our analysis of some of these extensive data sets ( verma et al . 2007 ) , we conclude :    @xmath7 the lbgs at z@xmath85 are young , with typical ages less than 100 myrs , compact , with typical half - light radii of about 1 kpc , and are rapidly forming stars , 10 to 200 m@xmath9 yr@xmath10 .",
+    "these ages are very young suggesting that they have been intensely forming stars for only a few dynamical times ( estimated from stellar mass estimates and sizes ) .",
+    "they therefore may likely represent a population of `` primordial galaxies '' .",
+    "@xmath7 these sources are generally so young that they likely did not substantially contribute to reionization .",
+    "the estimates of their ages from sed suggests that they formed at redshifts of about 6 - 7 . their contribution to re - ionization would likely be after the universe was already substantially ionized .",
+    "@xmath7 from sed fitting from the rest - frame uv through optical , the lbgs at z@xmath85 are typically about a factor of 10 less massive that similarly selected galaxies at z@xmath83 ( few x 10@xmath11 m@xmath9 compared to few x 10@xmath12 m@xmath9 ; shapley et al .",
+    "these galaxies represent about 1% of the local mass density ( verma et al .",
+    "2007 ) .",
+    "@xmath7 the lbgs at z@xmath85 have high stellar mass surface densities , @xmath13@xmath82 - 6 x 10@xmath14 m@xmath9 kpc@xmath15 and have very roughly approximated core phase densities of 10@xmath16 pc@xmath17 km@xmath17 s@xmath18",
+    ". both of these are similar to that of bulges and spheriods of m@xmath19 galaxies at low redshift .",
+    "@xmath7 the lbgs at z@xmath85 have high star - formation intensities , well above that needed to drive winds at low redshift , @xmath200.1 m@xmath9 kpc@xmath15 yr@xmath10 ( figure 1 ; heckman 2001 ; lehnert & heckman 1996 ) .",
+    "@xmath7 if the z@xmath85 drive strong outflows then they may be able to solve the `` pre - enrichment problem ''  whereby the metallicity of the igm does not appear to evolve strongly with redshift at least out to almost z=6 ( songaila 2001 ; ryan - weber et al .",
+    "quantitatively ( crudely ) estimating the likely metal contribution of these galaxies suggests that they are able to solve the pre - enrichment problem ( see figure 2 ) ."
+  ],
+  "abstract_text": [
+    "<S> we discuss the properties of lyman break galaxies ( lbgs ) at z@xmath05 as determined from disparate fields covering approximately 500 arcmin@xmath1 . </S>",
+    "<S> while the broad characteristics of the lbg population has been discussed extensively in the literature , such as luminosity functions and clustering amplitude , we focus on the detailed physical properties of the sources in this large survey ( @xmath2100 with spectroscopic redshifts ) . specifically , we discuss ensemble mass estimates , stellar mass surface densities , core phase space densities , star - formation intensities , characteristics of their stellar populations , etc as obtained from multi - wavelength data ( rest - frame uv through optical ) for a subsample of these galaxies . </S>",
+    "<S> in particular , we focus on evidence that these galaxies drive vigorous outflows and speculate that this population may solve the so - called `` pre - enrichment problem '' . </S>",
+    "<S> the general picture that emerges from these studies is that these galaxies , observed about 1 gyr after the big bang , have properties consistent with being the progenitors of the densest stellar systems in the local universe  the centers of old bulges and early type galaxies . </S>"
+  ]
+}

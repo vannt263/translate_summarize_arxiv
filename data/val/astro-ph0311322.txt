@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "in a pioneering investigation of the clusters in the large magellanic cloud , freeman , illingworfth & oemler ( 1983 ) surmised that `` [ t]here is no old , kinematical halo population among the clusters of the lmc . '' at that time radial velocities were only available for nine old clusters in the large cloud .",
+    "presently 13 globular clusters are known to be associated with the large magellanic cloud ( schommer 1991 , schommer et al .",
+    "1992 , suntzeff 1992 , van den bergh 2000 , p. 104 ) . from their discussion of the kinematics of old clusters in the lmc schommer et al .",
+    "( 1992 ) concluded that : `` the oldest clusters still present an enigma ; they do not have the kinematics of an isothermal , or slowly rotating , pressure - supported halo .",
+    "these objects rotate with an amplitude comparable to that of the younger disk '' . taken at face value",
+    "this conclusion would appear to indicate that the oldest clusters in the large cloud formed quite differently from those in m33 ( schommer et al .",
+    "1991 , chandar et al .",
+    "2002 ) , in which the oldest ( globular ) clusters are observed to have halo kinematics , whereas younger ( open ) clusters exhibit disk - like motions .",
+    "the view that late - type galaxies such as m33 ( m v = -18.9 ) and the lmc ( m v = -18.5 ) , which have similar uminosities , had very different evolutionary histories would not fit comfortably with most current views of galaxy evolution .",
+    "this prompts one to ask how secure is the conclusion that the oldest massive clusters in the large cloud formed in a disk , rather than in the lmc halo ?",
+    "in their table 2 schommer et al .",
+    "( 1992 ) provide radial velocities ( corrected for an eastward transverse velocity of 150 km s@xmath0 for the 13 oldest lmc clusters which belong to swb class vii ( searle , wilkinson & bagnuolo 1980 ) .",
+    "these data are plotted in figure 1 , which shows that the rms velocity dispersion around the lmc hi rotation curve ( thin line ) is 28 km s @xmath0 , compared to a dispersion of 30 km s@xmath0 around the mean velocity ( dashed line ) of the swb vii clusters .",
+    "this result shows that the h i rotation curve does not provide a significantly better fit to the the kinematics of the oldest lmc clusters than does a model in which these clusters are not assumed to be supported by rotation . in this respect",
+    "the old clusters of class wwb vii differ significantly from the intermediate - age clusters of swb classes iv , v and vi which ( see figure 5 of schommer et al .",
+    "1992 ) clearly exhibit a significant rotational velocity component .",
+    "it is interesting to note that the 30 @xmath16 km s@xmath0 velocity dispersion of the 13 swb vii clusters appears to be smaller , albeit only at the 2 @xmath2 level , than the 53 @xmath110 km s@xmath0 velocity dispersion that minniti et al .",
+    "( 2003 ) have recently found for 42 rr lyrae variables in the large cloud .",
+    "however , it is noted that the velocity dispersion of the lmc rr lyrae variables is comparable to the 54 @xmath18 km s@xmath0 velocity dispersion that chandar et al . obtain for the old m33 globular clusters with @xmath3 kpc , but smaller than the 82 @xmath113 km s@xmath0 dispersion that these authors find for the old m33 halo clusters with @xmath4 kpc .",
+    "by lumping old and intermediate - age lmc clusters together schommer et al .",
+    "( 1992 ) found that these clusters exhibited significant rotation .",
+    "however , the data plotted in figure 1 show that the oldest ( swb class vii ) clusters do not exhibit a significant rotational component . in this respect",
+    "the large cloud cluster system resembles m33 in which chandar et al .",
+    "find that 85 @xmath1 5 percent of the oldest clusters have halo kinematics .",
+    "it is therefore concluded that worries about the apparent difference between the kinematics of the oldest population components in m33 and in the lmc ( van den bergh 2000 , p. 83 ) were probably premature .",
+    "i thank ken freeman for pointing out to me that the number of old lmc globular clusters might not be large enough to prove the conclusion that these clusters have disk kinematics .",
+    "thanks are also due to peter stetson for statistical advice ."
+  ],
+  "abstract_text": [
+    "<S> the radial velocities of the 13 globular clusters in the large magellanic cloud have a dispersion of 28 km s@xmath0 relative to the hi rotation curve of the lmc , compared to a dispersion of 30 km s@xmath0 with regard to the mean globular cluster velocity . </S>",
+    "<S> this shows that , contrary to a suggestion by schommer et al . </S>",
+    "<S> ( 1992 ) , one can not yet rule out the possibility that the lmc globular clusters formed in a pressure supported halo , rather than in rotating disk . </S>",
+    "<S> the globular clusters in the lmc may therefore , after all , exhibit a relationship between age and kinematics that is similar to that of the clusters in m33 . </S>"
+  ]
+}

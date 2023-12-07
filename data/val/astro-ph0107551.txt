@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "there is increasing evidence that the long gamma - ray bursts ( grbs ) are associated with galaxies undergoing copious star formation , and occur near or in the star - forming regions of these galaxies ( see , e.g. , [ 1 ] for a discussion of this evidence ) .",
+    "star - forming regions contain large amounts of dust that can extinguish the optical and uv light of grb afterglows .",
+    "indeed , no optical afterglows have been detected for 60 - 70% of the long grbs .",
+    "some of these failures may be due to the relatively large size of the grb error box , or to a delay in observing the error box",
+    ". some may be because the grb lies at a very high redshift , and the lyman limit lies longward of the optical band [ 2,3 ] .",
+    "however , the majority of the failures are most likely because the optical afterglow is faint or absent due to its extinction by dust in the host galaxy of the grb .",
+    "we show that the clumpy structure of star - forming regions can naturally explain the statistics of optically `` dark''grb afterglows .",
+    "we also show that dust echos from the grb and its afterglow , produced by the clumpy structure of the star - forming region in which the grb occurs , can lead to temporal variability and peaks in the nir , optical , and uv lightcurves of grb afterglows .",
+    "star - forming regions are thought to be clumpy , with dense dust clouds embedded in a much less dense intercloud medium . a simple model of star - forming regions",
+    "can therefore be characterized by three parameters : ( 1 ) the amount of dust equivalent to a radial optical depth @xmath0 of a homogeneous uniform density medium , the volume filling factor @xmath1 of the dust clumps , and the density contrast @xmath2 of the clumps relative to the interclump medium [ 4,5 ] . in this model ,",
+    "the dense dust clumps form connected structures , as is true in real star - forming regions .",
+    "figure 1 shows the of a monte carlo calculation of the distribution of optical depths for random lines of sight ( los ) from the center of a clumpy star - forming region to an external observer .",
+    "the parameters of this particular calculation are @xmath3 , @xmath4 , @xmath5 , and the number @xmath6 of spatial bins is @xmath7 [ 4 ] .",
+    "these parameter values lead to results that are consistent with observations of star - forming regions in the milky way .",
+    "figure 1 shows that 35% of los have optical depths @xmath8 ( the minimum value possible in this particular model ) , while the remaining 65% of los have @xmath9 .",
+    "the distribution of optical depths can be understood as follows .",
+    "a substantial fraction of the photons emitted by the central source do not encounter a dense clump ; these photons correspond to the los with @xmath8 .",
+    "the remaining photons emitted by the central source encounter one or more clumps and experience @xmath9 .",
+    "the distribution of @xmath10 in this model is consistent with the statistics of grb optical afterglows , 50 - 70% of which are optically `` dark . ''",
+    "dust echos from the clumpy structure of the star - forming region can also produce variability and peaks @xmath11 after the grb in the nir , optical , and uv lightcurves of grb afterglows . as an illustrative example",
+    ", we have calculated the optical light curve produced by the dust echo from a single clump at a substantial distance from the burst source but along the los from the burst source to the observer .",
+    "the delay time @xmath12 between the grb and the echo is characterized by @xmath13 , where @xmath14 is the distance between the grb and the dust cloud and @xmath15 is the minimum of the perpendicular extent of the dust cloud @xmath16 , @xmath17 , and @xmath18 . here",
+    "@xmath19 is the half opening angle of the afterglow jet and @xmath20 is the half angular width ( @xmath21 ) of the forward scattering peak for scattering by dust grains .    the amplitude @xmath22 of the dust echo relative to the direct light from the afterglow is a function of the albedo @xmath23 of the dust , the scattering phase function @xmath24 , and the optical depth @xmath25 of the dust clump , all of which are wavelength dependent .",
+    "for forward scattering , which we assume here , @xmath26 [ 6 ] .",
+    "then in the limiting cases of small and large optical depths , @xmath27 and @xmath28 , respectively .",
+    "the prominence of the dust echo also depends on the time @xmath29 after the grb that the afterglow begins .",
+    "figure 2 shows the dust echo from a single clump along the los from the burst source to the observer , assuming @xmath30 . in the two cases shown , the rate of temporal decline of the grb afterglow was taken to be a power law with @xmath31 .",
+    "most grb afterglows decline more rapidly with time ( i.e. , @xmath32 ) .",
+    "the dust echo is more prominent for afterglows that decline more rapidly , since the contrast between the direct light from the afterglow and the echo  which reflects the brightness of the afterglow at an earlier time  is then larger .",
+    "thus the examples we have shown are conservative .",
+    "studies of the temporal variability of the nir , optical , and uv lightcurves of the afterglows of grbs may allow `` reverberation mapping '' of the structure of the star - forming regions in which grbs occur .",
+    "lamb , d. q. 2000 , phys .",
+    "reports , * 333 * , 505 fruchter , a. s. 1999 , apj , * 512 * , l1 lamb , d. q. & reichart , d. e. 2000 , apj , * 536 * , 1 witt , a. n. & gordon , k. d. 1996 , apj , * 463 * , 681 witt , a. n. & gordon , k. d. 2000 , apj , * 528 * , 799 van de hulst , h. c. 1957 , light scattering by small particles ( new york : wiley ) , chapter 9"
+  ],
+  "abstract_text": [
+    "<S> we show that the clumpy structure of star - forming regions can naturally explain the fact that 50 - 70% of grb afterglows </S>",
+    "<S> are optical``dark . '' </S>",
+    "<S> we also show that dust echos from the grb and its afterglow , produced by the clumpy structure of the star - forming region in which the grb occurs , can lead to temporal variability and peaks in the nir , optical , and uv lightcurves of grb afterglows .     </S>",
+    "<S> + -13pt     + -17pt </S>"
+  ]
+}

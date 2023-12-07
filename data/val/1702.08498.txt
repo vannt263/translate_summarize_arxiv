@@ -1,0 +1,18 @@
+{
+  "article_text": [
+    "in order to establish the maximum number @xmath0 of lattice points on a strictly convex curve of length at most @xmath1 , jarnk @xcite has considered a family of convex lattice polygons .",
+    "vertices of these polygons lie on strictly convex curves which optimize @xmath0 , in an asymptotic sense .",
+    "it has been shown @xcite that there is a limit shape of such polygons .",
+    "more precisely , as the number of vertices of these polygons increase and after a proper scaling ( e.g. , for a factor equal to the perimeter of the related polygon ) these polygons converge to a circle . the result has been derived starting from the family of the convex lattice polygons whose edge slopes @xmath2 belong to the set @xmath3 , defined as follows ( for an arbitrary @xmath4 ) : @xmath5    another family of convex lattice polygons has been considered in @xcite .",
+    "the edge slopes @xmath2 of lattice polygons from this family make the set @xmath6 defined for all @xmath7 , as follows @xmath8 the polygons @xmath9 do not relate to the jarnk s polygons ( i.e. , do not optimize the number of the polygon vertices with respect to the euclidean perimeter of the polygon ) , as it has been stated in @xcite .",
+    "indeed , the observation of @xmath9 , as given in @xcite , does not lead to a conclusion about the number of lattice points on a strictly convex curve with respect to the euclidean length of this curve .",
+    "thus , the statement , from @xcite , that the limiting curve of jarnk s polygons consist of parabolic arcs is not true .",
+    "the limit shape of such polygons is a circle , as it has been shown in @xcite .",
+    "the result from @xcite can be considered in sense of the maximal number of lattice points , on a strictly convex curve , with respect to the curve perimeter taken in sense of @xmath10 distance , rather than in sense of the @xmath11 ( i.e. euclidean ) distance .",
+    "it is also worth mentioning the following : the some of the results from @xcite ( see section 2 ) are derived following the idea and technique from @xcite and @xcite , but this was not referenced properly ; the term ` limit shape ' has been used by the others ( see @xcite , for an example ) but in different sense than it has been done in @xcite , @xcite , and @xcite ."
+  ],
+  "abstract_text": [
+    "<S> * in this note we point out that the limit shape of jarnk s polygonal curve @xcite is the circle , not a curve consisting of arcs of parabolas as it has been stated in the main result of @xcite ( section 2 ) . </S>",
+    "<S> the correct result has been established and proven in @xcite . </S>"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "optical detection of pulsars aid in the development and constraining of theoretical models of pulsar electromagnetic radiation .",
+    "psr1706 - 44 belongs to the set of seven @xmath1-ray pulsars detected by egret ( thompson et al .",
+    "1996 ) . in the optical it has not been detected yet .",
+    "detection of the optical counterparts of radio and gamma - ray pulsars is often complicated by field crowding by other stars in the optical bands .",
+    "the field of this pulsar was observed with the _ vlt_-ut1 on august 19 , 1998 ( sv phase ) .",
+    "the details of observation , analysis and theoretical implications are given in lundqvist et al ( 1999 ) .",
+    "chakrabarty and kaspi ( 1998 ) ( ck98 ) using the radio position of the pulsar as summarised in their paper estimate that the pulsar should lie @xmath2 away from the star 1 .",
+    "the combined error in position of the optical counterpart of the radio pulsar from various sources is @xmath3 .",
+    "measuring the background at a distance of @xmath4 from nearby bright star 1 in the vlt data shows that an artificial star with @xmath5 can be detected at more than 3@xmath6 level . to estimate how bright a star one could hide in the psf of star 1 we subtracted artificial stars from this position until a hole appeared in the background .",
+    "it is possible to hide a point source ( @xmath7 ) at a distance of @xmath8 from the star 1 . as an upper limit for a pulsar this close to star 1 we claim @xmath9 .",
+    "the optical fluxes may be correlated with the gamma - ray photon fluxes in outer gap models ( see e.g. usov ( 1994 ) and cheng , ho & ruderman ( 1986a , 1986b ) ) for vela - like pulsars . assuming @xmath10 to be the same in both the @xmath11 and @xmath12 bands , the magnitudes predicted by the outer gap models are @xmath13 and @xmath14 .",
+    "our faint @xmath11 limit , in comparison to the predictions of the standard outer - gap model , scaled from gamma - ray flux ( @xmath14 ) , requires a low frequency cutoff in its synchrotron emission spectrum .",
+    "if the magnetic axis inclination with respect to spin axis @xmath15 , the synchrotron cutoff frequency is @xmath16 hz and in that case the flux of optical radiation may be very small .",
+    "chakrabarty , d. , kaspi , v.m .",
+    "1998 , apj , 498 , l37 ( ck98 ) cheng , k.s . , ho , c. , ruderman , m.a . 1986 , apj , 300 , 500 lundqvist , p. , sollerman , j. , ray , a. , leibundgut , b. & sutaria , f. , 1999 , a & a , 343 , l15 ray , a. , harding , a.k . , strickman , m.s . 1999 ,",
+    "apj , 513 , 919 thompson , d.j .",
+    "1996 , apj , 385 , 465 thompson , d.j .",
+    "et al . 1999 ,",
+    "apj , in press ( astro - ph/9811219 ) usov , v.v .",
+    "1994 , apj 427 , 394"
+  ],
+  "abstract_text": [
+    "<S> optical data in the v - band gathered with the 8.2 m eso very large telescope ( vlt ) at the radio interferometric position of psr 1706 - 44 are presented . </S>",
+    "<S> the pulsar is close to a bright star in projection and was not detected . </S>",
+    "<S> the pulsar magnitude limit must be fainter than v=24.5 for a distance of @xmath0 20 from the bright star . in the outer gap model for an aligned rotor </S>",
+    "<S> the optical flux should scale with the gamma - ray flux . for pulsars which emit pulsed gamma - rays but are not detected in the optical bands , </S>",
+    "<S> the synchrotron cutoff frequency for the tertiary photons must be well below the optical frequencies and the magnetic and spin axes may be misaligned .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "details of pulsars discovered in the survey are placed on the www at the time of acceptance of the paper announcing the discoveries , or 18 months after confirmation of the detection , whichever is first .",
+    "raw data tapes from the survey are made available for copying two years after recording .",
+    "details of pulsars observations which fall into these categories can be found on http://www.atnf.csiro.au/ @xmath0pulsar / psr / pmsurv / pmwww/. there is no observatory - based archive , so access to the data should be negotiated with project pis .",
+    "one - bit samples are recorded at a rate of 4 khz for each of the 96 channels per beam .",
+    "each 35 minute survey observation with the 13-beam system fills 1.3 gbytes ( @xmath0100 mbytes per beam ) in its raw form .",
+    "this is recorded on dlt7000 tapes which hold up to 35 gbytes and cost around us$80 each .",
+    "about 3000 such observations will be made in completing the survey , giving a total data set of about 4 tbytes .",
+    "our search processing requires 130 hours of cpu time on a sun ultra 1 for each 35 minute observation .",
+    "data logs are available on http://www.atnf.csiro.au/@xmath0pulsar / psr / pmsurv / pmwww/. for the multibeam pulsar survey and followup timing projects the pis to contact are andrew lyne ( agl@jb.man.ac.uk ) or dick manchester ( rmanches@atnf.csiro.au ) or fernando camilo ( fernando@astro.columbia.edu ) .",
+    "* small requests : * if you want a copy of a single tape or a few individual observations we are happy to copy the data and post you a tape or a cd",
+    ". please indicate your preference for media type .    * larger requests : * you would need to come to epping or jodrell bank and copy the data onto your own dlt7000 media .",
+    "if you want a copy of the complete survey , you would need to bring a workstation , a dlt7000 tape drive and a drive for the media type of your choice .",
+    "* timing data : * processed archives or toas can be made available by ftp , cd or exabyte . for raw data requests the above schemes for small and large requests would apply .",
+    "the observing logs on the web site contain grid ids for the centre beam of each 35 minute survey observation . the grid i d @xmath1 where @xmath2 and @xmath3",
+    ". the galactic centre has grid i d 5000500 .",
+    "the nominal centre positions of the other 12 beams can be determined from the offsets relative to beam 1 given in the table below .",
+    "we guarantee to provide software to read the tapes on a sun ultra class workstation .",
+    "this software also works on most brands of unix operating systems .",
+    "a range of software tools are available on an all care and no responsibility basis .",
+    "[ cols= \" < , < \" , ]",
+    "it is possible to get access to data and results from the survey earlier by collaborative arrangements . to date",
+    "we have embarked on such arrangements with 11 groups and welcome proposals from others ."
+  ],
+  "abstract_text": [
+    "<S> the parkes multibeam pulsar survey began in 1997 and is now about 50% complete . </S>",
+    "<S> it has discovered more than 400 new pulsars so far , including a number of young , high magnetic field , and relativistic binary pulsars . </S>",
+    "<S> early results , descriptions of the survey and follow up timing programs can be found in papers by lyne et al . </S>",
+    "<S> ( 1999 mnras in press , astro - ph/9911313 ) , camilo et al . </S>",
+    "<S> ( this volume , astro - ph/9911185 ) , and manchester et al . </S>",
+    "<S> ( this volume , astro - ph/9911319 ) . </S>",
+    "<S> this paper describes the data release policy and how you can gain access to the raw data and details on the pulsars discovered .    1.25 in .125 in .25 in </S>"
+  ]
+}

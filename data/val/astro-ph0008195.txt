@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "over the past five years , thanks to the high spatial resolution imaging achieved with the hst , it has been established that the morphological properties of galaxies in rich clusters at intermediate redshift differ dramatically from those in nearby clusters .",
+    "the most obvious difference is the overabundance of spirals in the cluster cores at @xmath0 .",
+    "the second evidence for morphological evolution in clusters was uncovered only from post - refurbishment data , mainly thanks to the so called morphs collaboration ( d97 ) : coupled to the increase in the spiral fraction , the s0 galaxies at intermediate redshifts are found to be proportionately less abundant than in nearby clusters , while the fraction of ellipticals is already as large or larger .",
+    "another proof of the changes occurring in clusters is the observed evolution of the morphology - density ( md ) relation  the correlation between galaxy morphology and local projected density of galaxies  that @xcite ( @xcite , d80 ) found in all types of clusters at low redshift , whereby the elliptical fraction increases and the spiral fraction decreases with increasing local density .",
+    "a md relation qualitatively similar to that found by d80 was discovered by the morphs to be present in regular clusters and absent in irregular ones at @xmath1 .",
+    "overall , the available data seem to require a strong morphological evolution in clusters between @xmath2 and @xmath3 .",
+    "still , it is worth keeping in mind that these conclusions are based on a small sample of distant clusters and on the comparison of a limited redshift range around @xmath4 with the present - day cluster populations .",
+    "the goal of the present work is to fill in the observational gap between the distant clusters observed with _",
+    "hst _ and the nearby clusters , and hence trace , for the first time , the evolution of the morphological mix at a look - back time of @xmath5 gyr .",
+    "the data we used are part of a different project , for which 25 clusters spanning the redshift range @xmath6 have been observed .",
+    "the observations were collected at the not and 1.5  danish telescopes . to be consistent with previous morphological studies , among the 25 clusters observed , we have selected 9 clusters for which an acceptable coverage of the central 1  @xmath7 has been imaged . as in d97 , the analysis of the morphological types has been done for galaxies down to a visual absolute magnitude @xmath8 . in order to improve the morphological type estimates , besides the visual inspection of the images , we have used the luminosity and geometrical profiles obtained with the automatic surface photometry tool gasphot @xcite .    we have devised four different blind tests to check the reliability of our morphological classifications both in an absolute sense and relative to the morphs scheme . in particular , the absolute accuracy of our classifications has been checked in two ways : _ ( i ) _ by means of ` toy ' galaxies with bulge / disk luminosity and size ratios typical of e , s0 and sp galaxies ; _ ( i ) _ by producing redshifted versions of several galaxies of different morphological types belonging to the nearby galaxy imaging collection of @xcite ( @xcite ) . in both tests",
+    "the proper values of the observing parameters have been used to mimic our images and the resulting galaxies have been classified following the procedure used for our cluster galaxies .",
+    "the clusters appear to be grouped in two different families , according to their s0/e ratios : a low s0/e family with ratio @xmath90.8 , and a high s0/e family with ratio @xmath101.6 .",
+    "we have found that the only structural difference between the low- and the high - s0/e clusters is the presence / absence of a high concentration of elliptical galaxies in the cluster centre ( @xmath11/@xmath12 clusters , respectively ) .",
+    "a quantitative illustration of the difference in the galaxy spatial distribution between the low- and the high - s0/e clusters is given by the ks test shown in fig .",
+    "[ fig1 ] .",
+    "we have investigated the evolution of the galactic morphologies by comparing our results with other studies at lower and higher redshift . at higher redshifts , we have considered the morphs sample plus five additional clusters in the range @xmath13 , which we call the c98 + sample .",
+    "the morphological fractions of all the clusters as a function of redshift are presented in fig .",
+    "[ fig2 ] . at low redshift",
+    ", we refer to d80 as local benchmark for the @xmath11 and @xmath12 clusters ( solid and open large squares in fig .",
+    "[ fig2 ] , respectively ) .",
+    "we have also considered the values quoted by @xcite ( @xcite ) for different cluster types : spiral / elliptical / s0  -rich ( s / e / l in fig .",
+    "[ fig2 ] , respectively ) . in spite of the large error bars , it is clear from this figure that there are systematic trends with the redshift : moving towards lower redshift the spiral fraction declines and the s0 fraction rises .",
+    "the morphological fractions in our clusters are intermediate between the high and the low redshift values and seem to trace a continuous change of the abundances .",
+    "in contrast , the elliptical fraction shows no particular trend with redshift , but rather a large scatter from cluster to cluster at any epoch .     and",
+    "@xmath12 clusters are displayed as solid and open symbols , respectively .",
+    "the values from our sample are indicated by circles , whereas those from the morphs and c98 + samples are indicated with squares and triangles , respectively .",
+    ", width=377 ]    we have also analyzed the md relation of our clusters .",
+    "we found that , as in the higher redshift clusters , a morphology - density relation is present in highly concentrated clusters and absent in the low concentration ones .",
+    "this suggests that the morphology - density relation in low concentration clusters was established in the last 1 - 2 gyr ."
+  ],
+  "abstract_text": [
+    "<S> we have studied the evolution of galaxian morphologies from ground - based , good - seeing images of 9 clusters at z=0.09 - 0.25 . the comparison of our data with those relative to higher redshift clusters ( @xcite 1997 , d97 ) allowed us to trace for the first time the evolution of the morphological mix at a look - back time of 2 - 4 gyr , finding a dependence of the observed evolutionary trends on the cluster properties . </S>"
+  ]
+}

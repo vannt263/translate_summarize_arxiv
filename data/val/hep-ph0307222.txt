@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "when a massive star ( eight or more times the mass of the sun ) runs out of nuclear fuel , it develops a layered structure , which heavier elements lay in deeper layers , the innermost element being iron .",
+    "this configuration becomes eventually unstable and leads to a catastrophic collapse of the star core in a time window of a few thousandths of a second , since the star can not resist the pressure of its internal gravitational force .",
+    "this collapse leads to an explosion that is known as type ii supernova  @xcite .",
+    "the expected rate for such an event to occur in our galaxy is one every thirty years  @xcite .",
+    "the binding energy released during this process is enormous : @xmath6 ergs .",
+    "the high density prevents the emission of photons , therefore @xmath7 of the energy comes out in the form of neutrinos of all types . a small fraction of them , about @xmath8 ,",
+    "are produced during the neutronization process through the reaction @xmath9 , while the rest are @xmath10 pairs from later cooling reactions .",
+    "on their way out , neutrinos interact inside the stellar core which is an extremely dense and neutron - rich medium .",
+    "the different scattering reactions , underwent by every neutrino species , result in different energy distributions for the emitted neutrinos .",
+    "muon and tau neutrinos interact only through weak neutral currents , thus they decouple deep inside the core , where a higher temperature exists , and therefore are emitted with higher energies compared to @xmath0 s and @xmath3 s . in addition , @xmath3 s suffer fewer charged current interactions than @xmath0 s , so they decouple in hotter regions , thus having an energy spectrum that is harder than that of @xmath0 s .",
+    "the neutrino signal from a supernova rises first steeply and then falls exponentially with time ( see @xcite ) .",
+    "the experimental detection of a neutrino signal from a supernova is therefore expected to occur in a time window of about 10 seconds .",
+    "this implies that detector thresholds can , in principle , be set quite low since backgrounds are highly suppressed given the narrow time window in which the burst takes place .",
+    "the detection of neutrinos emitted by sn1987a in kamiokande  @xcite and imb  @xcite began the era of neutrino astronomy . nowadays , several running or planned experiments ( superkamiokande , sno , lvd , kamland , borexino ... ) have the capability to unambiguously detect supernova neutrinos  @xcite .",
+    "as discussed in  @xcite , a liquid argon tpc like in icarus has the ability to detect neutrino bursts from supernova collapses .",
+    "preliminary estimates of the expected rates yielded 76 events ( 44 from @xmath0 absorption and 32 from electron scattering assuming a 5 mev electron detection threshold)@xcite for a supernova at 10  kpc .",
+    "for the absorption cross section , a threshold of 11 mev was taken into account is quoted in units of @xmath11 . ] .",
+    "the energy threshold for this fermi transition is however 5.885 mev  @xcite .",
+    "in addition , the gamow - teller transitions were not included in the total absorption rate .    in this paper , we improve the estimates for supernova neutrino rates taking into account latest developments : we use new calculations in the random phase approximation ( rpa ) for the absorption processes@xcite and consider all the processes that contribute to the total number of expected neutrino events , including for the first time the absorption reaction @xmath5 .",
+    "we discuss the ability to determine the direction of the supernova .",
+    "models of type ii supernovae predict that neutrinos are emitted with a thermal spectrum , with a temperature hierarchy among neutrino flavours : @xmath12 .",
+    "the neutrino energy spectra can be described by a fermi - dirac distribution  @xcite : @xmath13 where @xmath14 ; @xmath15 is the temperature ( mev ) ; @xmath16 the neutrino energy ( mev ) ; @xmath17 the chemical potential and @xmath18 the number of expected neutrinos of a given species .",
+    "we use @xmath19  @xcite .",
+    "the following values for the different neutrino temperatures are used , giving the following average energies :"
+  ],
+  "abstract_text": [
+    "<S> a liquid argon tpc ( icarus - like ) has the ability to detect neutrino bursts from type - ii supernova collapses , via three processes : elastic scattering by electrons from all neutrino species , and @xmath0 charged current absorption on @xmath1 with production of excited @xmath2 and @xmath3 charged current absorption on @xmath1 with production of excited @xmath4 . in this paper we have used new calculations in the random phase approximation ( rpa ) for the absorption processes . </S>",
+    "<S> the anti - neutrino reaction @xmath5 absorption has been considered for the first time . </S>",
+    "<S> for definiteness , we compute rates for the 3 kton icarus detector : 244 events are expected from a supernova at a distance of 10 kpc , without considering oscillation effects . </S>",
+    "<S> the impact of oscillations in the neutrino rates will be discussed in a separate paper . </S>",
+    "<S> we also discuss the ability to determine the direction of the supernova .    </S>",
+    "<S> icarus - tm/03 - 02 +     +     dpto . </S>",
+    "<S> de fsica terica y del cosmos and cafpe , + universidad de granada , spain    , a. rubbia    institut fr teilchenphysik , ethz , ch-8093 zrich , switzerland </S>"
+  ]
+}

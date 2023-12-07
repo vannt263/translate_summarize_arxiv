@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the study of exo - planets ( eps ) requires many different approaches across the full wavelength spectrum to both discover and characterize the newly discovered objects in order that we might fully understand the prevalence , formation and evolution of planetary systems . the mid infrared ( mir ) and far infrared ( fir )",
+    "spectral regions are especially important in the study of planetary atmospheres as it spans both the peak of thermal emission from the majority of eps thus far discovered ( up to @xmath01000 k ) and is particularly rich in molecular features that can uniquely identify the chemical composition , from protoplanetary disks to planetary atmospheres and trace the fingerprints of primitive biological activity . in the coming decades many space and ground based facilities are planned that are designed to search for eps on all scales from massive , young `` hot jupiters '' , through large rocky super - earths down to the detection of exo - earths within the `` habitable '' zone .",
+    "few of the planned facilities , however , will have the ability to characterize the planetary atmospheres which they discover through the application of mir and fir spectroscopy .",
+    "the japanese led spica space telescope will be realized within 10 years and has a suite of instruments that can be applied to the detection and characterization of eps over the @xmath05210@xmath1 m spectral range ( see _ e.g. , _ our _ white paper _ ; goicoechea et al .",
+    "spica will have the same size telescope as the esa _ herschel space observatory _ ( 3.5 m ) but cooled to @xmath25k @xcite thus removing its self emission and delivering an improvement in photometric sensitivity over _ herschel _ of two orders of magnitude in the fir range ( see figure  [ fig : safari - sensitivity ] ) .",
+    "the spica telescope will be monolithic , unlike the segmented jwst mirror , and will deliver diffraction limited performance at 5@xmath1 m with a clean point spread function ( psf ) .    _",
+    "safari _ ( spica far ir instrument ; swinyard et al . )",
+    "is a nationally funded fir imaging spectrometer proposed and developed primarily in europe / canada with possible contributions from japan and us ( nasa ) .",
+    "_ safari _ will cover the fir window that extends from @xmath030@xmath1 m ( the upper cut - off of the mir instruments ) to @xmath0210@xmath1 m ( just longward of the [ nii]206@xmath1 m fine structure line ) with a large field - of - view of @xmath02@xmath3@xmath42@xmath3 .",
+    "assuming diffraction limited performance , _ safari _ will provide angular resolutions from @xmath02@xmath5 to @xmath015@xmath5 ( or @xmath020 to @xmath0150au at 10pc ) at wavelengths not covered by jwst and , as shown in figure  [ fig : safari - sensitivity ] , at more than 2 orders of magnitude higher sensitivity than _ herschel_/pacs .    the instrument concept that most closely matches the scientific requirements for large field - of - view , imaging and flexible spectral resolution is an imaging fourier transform spectrometer ( fts ) in a _",
+    "zehnder _ configuration .",
+    "similar designs have been already implemented in other ground - based and space telescopes @xcite . a spectral resolution of @xmath6=2000 at 100@xmath1 m ( higher at shorter wavelengths ) can be achieved in the most simple and lightweight optical configurations .",
+    "the huge increase in sensitivity compared to _",
+    "herschel _ can potentially open ep research to wavelengths completely blocked by the earth s atmosphere , but representing the emission peak of many cool bodies ( gas - giant planets , asteroids and so on ) .",
+    "_ safari _ will have its major strength in measuring excess radiation from dusty proto - planetary disks in hundreds of stars at almost all galactic distances .",
+    "it will also perform medium spectral resolution observations over a spectral range rich in dust features , water vapor rotational lines ( temperatures below @xmath0500 k ) , atomic oxygen fine structure lines at @xmath063 and @xmath0145@xmath1 m and solid state water - ice features at @xmath044 and @xmath062@xmath1 m .",
+    "water ice is the major ingredient of the core of gas giant planets comets and smaller objects and its detection in proto planetary systems will provide the observational evidence needed to constrain models of planetary formation . in nearby systems _",
+    "safari _ will be able to image disks directly ( see figure  [ fig : fir - vega ] ) to examine their structure and trace the mineral and ice content as a function of radius to compare them with the spectra of comets , asteroids and tnos within our own solar system .",
+    "_ safari _ will provide capabilities that complement spica s mir coronagraph studies ( enya et al .",
+    "these proceedings ) of extrasolar giant planets .",
+    "first , it will be able to characterize the exozodiacal dust component of several thousand nearby stars .",
+    "determining the exo - zodiacal background levels from observations of a large sample of stars will be key to prioritizing earth - like candidates for searches with longer - term tpf - type missions ( due to increased photon noise and potential confusion with zodiacal structures ) . with two orders of magnitude in sensitivity over _ herschel _ , spica would be able to survey stars to the level of dust mass that is limited by calibration accuracy i.e. , 0.01 lunar mass for 90k grains around sun - like stars @xcite out to 10 times greater distance ( _ e.g. , _ to 180pc as opposed to 18pc for sun - like stars ) , resulting in @xmath01000 times as many detections ( _ e.g. , _",
+    "@xmath010@xmath7 rather than 10@xmath8 sun - like stars can be surveyed with spica ) .",
+    "spica will be particularly adept at studying both protoplanetary disks and the brief epoch at @xmath010myr at which the transition from protoplanetary to debris disk occurs .",
+    "secondly , with very stable detectors and efficient , high cadence and high s / n observations , _ safari _ could also be used to perform transit photometry and , on the brightest candidates , spectroscopy for the first time in the fir domain .",
+    "fir light curves will allow the characterization of ep radii as a function of wavelength , whilst occultation spectroscopy , during secondary eclipses , may reveal the same bright rotational water emission lines detected by iso in the atmospheres of jupiter , saturn , titan , uranus and neptune @xcite .",
+    "note that with _ safari _",
+    "s sensitivities one could potentially extract the fir continuum of eps like hd 209458b at distances out to @xmath220pc ( figure  [ fig : fir - transit ] ) .",
+    "in addition , it may be possible to extract the thermal emission of nearby ( massive - enough ) cool planets ( 100 - 200 k ) as a detectable contrast only occurs at wavelengths longer than @xmath030@xmath1 m .",
+    "+ jrg is supported by a _ ramn y cajal _ research contract from the spanish micinn and co - financed by the european social fund ."
+  ],
+  "abstract_text": [
+    "<S> the far - ir spectral window plays host to a wide range of both spectroscopic and photometric diagnostics with which to open the protoplanetary disks and exoplanet research to wavelengths completely blocked by the earth s atmosphere . </S>",
+    "<S> these include some of the key atomic ( _ e.g. , _  oxygen ) and molecular ( _ e.g. , _  water ) cooling lines , the dust thermal emission , the water ice features as well as many other key chemical tracers . </S>",
+    "<S> most of these features can not be observed from ground - based telescopes but play a critical diagnostic in a number of key areas including the early stages of planet formation and potentially exoplanets . </S>",
+    "<S> the proposed japanese - led ir space telescope spica , with its 3.5 m cooled mirror will be the next step in sensitivity after _ </S>",
+    "<S> spica has been recently selected to go to the next stage of the _ esa s cosmic vision  2015 - 2025 _ process . </S>",
+    "<S> this contribution summarizes the design concept behind _ safari _ : an imaging far - ir spectrometer covering the @xmath030 - 210@xmath1 m waveband that is one of a suite of instruments for spica ; it also highlights some of the science questions that it will be possible to address in the field of exoplanets and planet formation . </S>"
+  ]
+}

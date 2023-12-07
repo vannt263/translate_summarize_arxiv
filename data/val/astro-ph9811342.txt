@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "the use of the baldwin et al .",
+    "( 1981 ) or veilleux & osterbrock ( 1987 ) diagnostic diagrams generally yields an immediate classification of the nuclear emission - line clouds ; `` transition objects '' exist however , which can not be classified unambiguously from their line ratios ( heckman et al .",
+    "1983 ; keel 1984 ; veilleux & osterbrock 1987 ; ho et al .",
+    "when observed with sufficient spectral resolution , such objects show different profiles for the permitted and forbidden lines ( heckman et al .",
+    "1981 ; busko & steiner 1990 ; vron et al .",
+    "1981a , b ; vron - cetty & vron 1985 , 1986b ) .    in a previous paper ( vron et al .",
+    "1997 , hereafter paper i ) , we presented high - dispersion ( 66 ) spectroscopic observations of 15 `` transition objects '' selected for having an ambiguous location on the veilleux & osterbrock ( 1987 ) diagnostic diagrams , and showed that most of them are in fact  composite \" .",
+    "this was done by modelling the , @xmath06548 , 6583 and/or , @xmath04959 , 5007 emission lines with gaussian profiles , allowing for the contribution of several components ; best fits showed these components to have different line strengths and widths , as the result of the lines being produced in regions that are kinematically and spatially distinct , usually a seyfert 2 or liner cloud and a  region .",
+    "we have found in the literature 88 emission - line galaxies located north of @xmath1 @xmath220 , with @xmath3 0.100 and @xmath4 17.0 , for which the published line ratios gave indication of a `` transition '' spectrum , constituting an unbiased sample of such objects .",
+    "here we report results for 53 of these galaxies , including seven already observed in paper i , bringing up to 61 the total number of observed objects , or 70% of our unbiased sample of galaxies with a `` transition '' spectrum .    [ cols=\"^,>,^,>,>,<,<,>\",options=\"header \" , ]      it has been suggested by several authors ( see for instance ferland & netzer 1983 ; shields 1992 ; ho et al .",
+    "1993a ) that in seyfert 2s , as well as in liners , the ionized gas is excited by a non - thermal continuum , the only differences being the value of the ionizing parameter which would be @xmath5 10@xmath6 for liners , and @xmath5 10@xmath7 for seyfert 2s . if this is the case , the discontinuity between seyfert 2s and liners is not easily understood .",
+    "no reliable detection of the  line in _ bona fide _ liners has been reported suggesting that there could be a serious problem with the picture of simply reducing @xmath8 in a standard power - law photoionization model predicting  @xmath9 0.15 ( viegas - aldrovandi & gruenwald , 1990 ) , as the weakness of  indicates that the continuum illuminating the nlr clouds must contain few photons more energetic than 54.4 ev , the ionization potential of he@xmath10 ( pquignot 1984 ) .",
+    "binette et al .",
+    "( 1996 ) proposed that the emission spectrum of liners is due to ionization - bounded clouds illuminated by a ionization spectrum filtered by matter - bounded clouds hidden from view by obscuring material . in this case , the  emission is reduced (  @xmath11 0.01 ) .",
+    "however , a nearly total obscuration of the matter - bounded component must then be invoked in order to keep the emission from  at an acceptable low level , a scenario which seems to be rather unlikely to barth et al .",
+    "we have shown that :    * nuclear  regions , seyfert 2s and liners lie in distinct , well separated regions in the log ( ) _ vs. _ log(@xmath126583/ ) and log ( ) _ vs. _ log ( ) diagrams .",
+    "there is no continuity between liners and seyfert 2s , with an apparent deficit of objects with  = 0.25 . * a number of objects",
+    "have `` transition '' spectra , falling outside the regions assigned to the three types of emission nebulosities .",
+    "they probably all have a `` composite '' spectrum .",
+    "* we have isolated a class of seyfert 2 galaxies with weak  lines .",
+    "this weakness could be due to an under - abundance of nitrogen or to the presence of matter - bounded clouds in these objects .",
+    "this research has made use of the nasa / ipac extragalactic database ( ned ) which is operated by the jet propulsion laboratory , caltech , under contract with the national aeronautics and space administration .",
+    "gonalves acknowledges support from the _ fundao para a cincia e a tecnologia _ , portugal , during the course of this work ( phd .",
+    "grant ref . praxis xxi / bd/5117/95 ) ."
+  ],
+  "abstract_text": [
+    "<S> in a previous paper ( vron et al . 1997 ) we presented medium resolution ( 3.4   fwhm ) spectroscopic observations of 15 `` transition objects '' , selected for having an ambiguous location in the veilleux & osterbrock ( 1987 ) diagnostic diagrams , and showed that most of them were in fact `` composite '' , this being due to the simultaneous presence on the slit of both a seyfert or liner nucleus and a  region . here , we report new spectroscopic observations of 53 emission - line galaxies with a `` transition '' spectrum , bringing up to 61 the total number of observed objects in an unbiased sample of 88 `` transition objects '' . </S>",
+    "<S> almost all of the observed galaxies have a  composite \" nature , confirming the finding that true `` transition '' spectra may not exist at all .    by eliminating `` composite objects '' from the diagnostic diagrams , </S>",
+    "<S> a clear separation between the different classes of nuclear emission - line regions ( seyfert 2s , liners and  regions ) becomes apparent ; by restricting the volume occupied by the different line - emitting regions in the 3-dimensional diagnostic diagrams , we are also restricting the range of possible physical parameters in these regions . </S>",
+    "<S> there seems to be no continuity between seyfert 2s and liners , the two classes occupying distinct volumes in the 3-dimensional space defined by , , and . </S>"
+  ]
+}

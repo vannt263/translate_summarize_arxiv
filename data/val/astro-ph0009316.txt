@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "within the field of quasar absorption lines , one long  standing question is how the halos and ism of earlier epoch galaxies compare or relate , in an evolutionary sense , to those of the present epoch . the look ",
+    "back time to @xmath1 covers well more than half the age of the universe .",
+    "furthermore , spectral and morphological properties of absorbing galaxies are accessible with present day ground  based and spaced  based observatories ( steidel , dickinson , & persson 1994 ; steidel 1998 ) .",
+    "thus , absorption line studies at intermediate redshifts provide an opportunity to examine the gaseous evolution of galaxies .",
+    "the ism and halos of local galaxies are comprised of many ionization phases , including diffused ionized gas , extended coronae , and denser low ionization regions often located in front of shock fronts ( e.g.dahlem 1998 ) . in absorption , simultaneous study of both the low and high ionization phases in our galaxy",
+    "have been required to constrain the ionization mechanisms , chemical abundance variations , and the dust properties ( e.g.  savage & sembach 1996 ) .    a significant obstacle in the face of rapid progress with studies employing absorption lines , however , is that the strongest transitions of the cosmologically most abundant elements lie in the far to near ultraviolet ( uv ) portion of the electromagnetic spectrum .",
+    "fortunately , at @xmath2 , the near uv transitions , which are most often associated with neutral and low ionization ions  ev .",
+    "] , are redshifted into the visible .",
+    "thus , they can be observed from the ground with large aperture telescopes .",
+    "however , the far uv transitions , associated with moderate and high ionization ions and @xmath3  ev and between @xmath4 and @xmath5  ev , respectively . ] , are redshifted to the near uv ; a study of the high ionization component requires a spaced  based telescope , i.e.  _ hst_. the _ hst _ archive is rich with @xmath6 fos spectra of quasars , the majority due to the qso absorption line key project ( bahcall et  al .",
+    "we used hires / keck spectra ( @xmath7  ) and archival fos/_hst _ spectra ( @xmath8  ) to place constraints on the ionization and multiphase distribution of absorbing gas at @xmath9 to @xmath1 . in figure  1 , we present  @xmath10 and the c0.1emiv  @xmath11 doublet for each of 40 systems ( note that the velocity scale for is 500   and for is 3000  ) . ticks above the hires spectra give the velocities of the voigt profile sub  components and ticks above the fos data give the expected location of these components for the doublet .",
+    "the labels `` d '' , `` l '' , and `` bl '' denote detection , limit , and blend , respectively .",
+    "the systems are presented in order of increasing kinematic spread from the upper left to lower right .    based upon a highly significant correlation between the equivalent widths and the kinematics",
+    ", it is inferred that most intermediate redshift galaxies have multiphase gaseous structures ( churchill et  al .   1999 , 2000 ) .",
+    "the low ionization gas is in multiple , narrow components , @xmath12  , and the high ionization gas is kinematically spread out with @xmath13   ( using the doublet ratio method ) .",
+    "this is an effective velocity dispersion , for the fos spectra are of too low resolution to resolve velocity splittings below @xmath14  .",
+    "the three systems at @xmath15 , @xmath16 , and @xmath17 along the line of sight to pg  @xmath18 exhibit complex kinematics and exceptionally strong , , and absorption .",
+    "we investigated the ionization and spatial distribution of these systems using detailed photoionization models ( cloudy ; ferland 1996 ) .    in the top panels of figure  2 ,",
+    "the hires / keck spectra of the @xmath19 transition and of the mg0.1emii  @xmath20 doublet are shown with a voigt profile model spectrum superimposed ; the ticks give the component centers .",
+    "the systemic redshifts of the three systems , a , b , and c , are labeled .",
+    "the lower two panels show the normalized fos/_hst _ spectrum ( histogram ) with tuned model predictions ( not fits ) superimposed ( see churchill & charton 1999 ) .",
+    "the dotted  line is a single  phase model , assuming all absorption arises due to ionization balance in the clouds ; a single phase of gas fails to account for the high ionization absorption strengths .",
+    "the solid spectrum is a two  phase model , which allows the higher ionization gas to reside in a separate phase .    based upon the photoionization modeling , a highly ionized phase , not seen in , is required to account for the observed , , and absorption",
+    ". an `` effective '' doppler width of @xmath21   is consistent with the complex , blended data .",
+    "the physical size of the high ionization component is less than 30  kpc , with the best values between 10 and 20  kpc .    based upon the sizes and effective doppler widths",
+    ", we infer that the highly ionized material is analogous to the galactic coronae ( savage et  al .",
+    "1997 ) , material stirred up by energetic mechanical processes , such as galactic fountains . in this scenario ,",
+    "the gas is concentrated around the individual galaxies which presumably provide a source of support , heating , and chemical enrichment ."
+  ],
+  "abstract_text": [
+    "<S> we present 40 quasar absorption line systems at intermediate redshifts ( @xmath0 ) , with focus on one of the most kinematically complex known , as examples of how the unique capabilities of space  based and ground  based facilities can be combined to glean much broader insights into astrophysical systems . </S>"
+  ]
+}

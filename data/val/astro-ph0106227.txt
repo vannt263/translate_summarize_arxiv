@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "there are contradictory conclusions about the dwarf spheroidal ( dsph ) galaxies tidal dissolution and its rate , as well as a number of observational constraints on this process in the galaxy ( e.g. , van den bergh 1996 ; gilmore et al .",
+    "1999 ; shetrone et al .",
+    "moreover , preliminary results on the cmd study of gcs in massive spirals of lg suggest a fraction of spgcs to be at least low among gcs in m31 ( rich et al .",
+    "2001 ) and to be high as for m33 gc population ( sarajedini et al .",
+    "1998 ) . hence there appear doubts about tidal disruption / stripping of dsphs as universal mechanism of and main contributor to a formation of populations of the spgcs in the above three galaxies .",
+    "note also that chandar et al .",
+    "( 2001 ) have estimated the total number of gcs in m 33 to be @xmath0 which gives a specific frequency significantly higher than in other late - type spirals .    by now , it is established that the galactic population of spgcs shows a number of basic distinctive characteristics as compared with those of other gcs in the halo of the milky way ( e.g. , da costa 1994 ; van den bergh 1996 ) . some of these characteristics imply that the galactic spgcs are very likely to have an accretive nature . however ,",
+    "if a tidal dissolution of dsphs is not main and the only contributor to the formation of population(s ) of the spgcs in our galaxy ( and in m33 ) then the following vexed questions arise .",
+    "_ what is a material accreted and where did it originate and come from",
+    "? why has the formation of spgcs lasted after formation of the bulk of halo objects in rapid collapse ? _",
+    "the high - redshift layman break galaxies ( lbgs ) are suggested to be progenitors of the present - day massive spheroids being in particular components of luminous early - type spirals ( friaca & terlevich 1999 ) . as summarized by heckman ( 2000 ) starburst - driven galactic superwinds observed in lbgs play important role in the mass outflow from them . during main , most powerful episode ( * @xmath1 gyr * ) of formation of the pop .",
+    "ii stars in a star forming galaxy like m31 , its outflows may carry off the galaxy the total mass of gas as large as mass of the stellar bulge and spheroid , with typical speeds ranging from * a few * @xmath2 to * @xmath3 km / s * ( pettini et al .",
+    "some a few tens percent of this mass ( @xmath4 or so ) with velocities exceeding the escape velocity of m31 could have quited the galaxy , portion of which might be accreted on our galaxy ( and m33 ) .",
+    "if we accept present distance between the galaxy and m31 ( * @xmath5 mpc * ) , ratio of their mass ( @xmath6 ) , and also a mean velocity of expanding gas to be of order * @xmath7 km / s * , then we easily find that a time spent by gas to reach a region of the lagrangian point between the two galaxies , may be as long as * @xmath8 gyr*. * an upper limit of mass @xmath9 of gas accreted on the galaxy * is estimated from a formula obtained ( in the approach of gas accretion in gravity potential @xmath10 of a field of less massive companion in a binary system ) and kindly offered by postnov ( 2000 , private communication ) :      even if a mass of really accreted gas was an order of magnitude lower than the upper limit estimated and if in turn approximately ten percent of this mass was converted into objects , i.e. , * @xmath12 * , that would be equal to a * total mass * of the bulk of * spgcs * , of a few * dsphs * , and of some portion of * field stars * which may have formed due to such a process in the outer halo of our galaxy .    similarly , it is possible to conclude that objects assumed to form from a gas accreted onto m33 might comprise a total mass of order * a few @xmath13*. some * 10 to 20 gcs * ( with fraction of * field stars * formed ) with cluster s typical mass of order @xmath14 may amount just to this mass .",
+    "i am deeply thankful for the iau travel grant .",
+    "also , i am very grateful to dr .",
+    "a.a . suchkov for his encouraging and valuable comments on the scenario presented , and to drs .",
+    "k. postnov , yu.a .",
+    "shchekinov , yu.n .",
+    "efremov , n.i .",
+    "shakura , and m.v .",
+    "sazhin for helpful discussions ."
+  ],
+  "abstract_text": [
+    "<S> i suggest that the bulk of the `` young '' , second - parameter globular clusters ( spgcs ) observed in the outer halo of our galaxy and recently found in other massive spiral of the local group ( lg ) , m33 , may have originated due to mass outflow from m31 and subsequent accretion of gas on the galaxy and m33 in the early epoch .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

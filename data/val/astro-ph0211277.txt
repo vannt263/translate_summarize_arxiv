@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the explosion mechanism(s ) responsible for thermonuclear supernovae ( snia ) is still not well known .",
+    "although there have been recently some claims that the delayed detonation mechanism lacks a physical background , there are still unexplored mechanisms by which the transition from deflagration to detonation could occur ( see garca - senz & bravo , this volume ) . here",
+    "we concentrate on the other possibility , i.e. a pure deflagration that would process about a solar mass , synthesizing of the order of @xmath2 of @xmath3ni in order to make a typical snia",
+    ". multidimensional calculations of deflagrations bear the advantage over one - dimensional models that the energy generation rate becomes eventually independent from the local value of the flame speed ( @xcite , see also niemeyer , this volume ) . in these calculations ,",
+    "the acceleration of the fuel consumption rate is due to the deformation of the flame surface , which is well accounted for by 3d hydrocodes .    in this picture",
+    ", the main free parameter is the initial configuration of the flame .",
+    "there have been a few @xcite simulations of the transition from the hydrostatic phase to the hydrodynamic one , but a self consistent multidimensional initial model is still far from being available .",
+    "however , a plausible ignition scenario was suggested in @xcite : the nearly - simultaneous runaway at several different spots ( from here on , bubbles ) in the central region of the white dwarf . in this paper",
+    ", we explore the dependence of the outcome of the explosion on the initial number of bubbles .",
+    "first , we address the statistics of the initial distribution of bubble radii and , then , we present the results of a couple of hydrodynamical simulations performed with an sph code ( @xcite and garca - senz & bravo , this volume ) .",
+    "[ [ statistical - approach - to - the - initial - distribution - of - igniting - bubbles ] ] statistical approach to the initial distribution of igniting bubbles ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~    our statistical approach is based on the following assumptions : * a ) * as a result of convection , there appear a number of hot spots , characterized by its central ( peak ) temperature , @xmath4 , and its thermal profile ( which we take here exponential , with characteristic exponent @xmath5 ) . *",
+    "b ) * each hot spot evolves adiabatically in place , in a time given by its ignition timescale .",
+    "* c ) * the peak temperatures of the hot spots can be characterized by a statistical continuous function , @xmath6 .",
+    "depending on the thermal gradient inside each hot spot our results can be split into two different regimes : * 1 ) * if the thermal profile is shallow enough , bubbles grow due to spontaneous flame propagation , * 2 ) * otherwise , bubbles grow conductively . in the first case ,",
+    "the distribution function of bubble radii is a time function given by @xmath7\\right\\}^{1 + 1/b}}}\\ ; , \\ ] ] where @xmath8 is the ignition timescale , and @xmath9  k. in the second case , the distribution function becomes @xmath10 in the first case , and for any reasonable choice of the function @xmath11 , the resulting distribution has a sharp peak at a determined value of @xmath12 so that the initial configuration is composed of an arbitrary number of _ equal size bubbles_. in contrast , in the second case the bubble radii distribution is continuous up to a maximum radius , which results in a initial distribution of _ unequal size bubbles_.                  given the constraints that the value of @xmath5 must satisfy in order to get an initial configuration composed of identical bubbles , we estimate as quite improbable this case .",
+    "however , for simplicity , here we have adopted this configuration as the starting point of our simulations .",
+    "we have followed the evolution of the explosion of a chandrasekhar mass white dwarf of initial density @xmath13  g/@xmath14 starting from two different numbers of equal size bubbles , as detailed in table  [ tab1 ] ( @xmath15 is the initial number of bubbles , @xmath12 its initial radius , @xmath16 the mass incinerated initially , and the other symbols have their usual meanings ) . the calculation was performed in 3d with the above mentioned sph code using 250,000 particles , with a central resolution of @xmath17  km .",
+    "it is important to emphasize that we did not impose any artificial symmetry conditions and , thus , our model has no artificial characteristic length other than the own resolution of the code .",
+    "actually , the imposition of artificial symmetry conditions ( for instance , symmetry planes ) in any 3d hydrodynamic calculation biases the development of large - scale structures or even of the small - scale ones if they are close enough to a symmetry plane .",
+    "the results of our calculations can be found in table  [ tab1 ] and in figs .",
+    "[ fig1 ] and [ fig2]a .",
+    "the outcome depends strongly on the initial number of bubbles .",
+    "the deflagration is powered by the evolution and interaction of the bubbles : growth , buoyancy ( second snapshot in fig .",
+    "[ fig1 ] ) , and merging ( third snapshot ) . the maximum acceleration of combustion is obtained when the bubbles interact with each other , feeding a rich spectrum of scalelengths to the hydrodynamic instabilities ( third snapshot in fig .",
+    "[ fig1 ] , see also fig .",
+    "[ fig2]a ) .",
+    "it is not a surprise that this interaction is favoured in the presence of a large number of bubbles .",
+    "the distribution of nuclei in velocity and space for model b30u is shown in figs .",
+    "[ fig2]b and [ fig3 ] .",
+    "our results agree qualitatively with those obtained in @xcite .    in summary , our best model ( b30u ) fails to give the magnitudes adequate for a typical snia . a possible",
+    "cause is a poor representation of the subsonic flame at low densities ( a common problem in most snia hydrocodes ) .",
+    "however , a thorough exploration of the parameter space of initial conditions is in order .",
+    "this work has been supported by the mcyt grants eps981348 and aya20001785 and by the dges grant pb98 - 1183c03 - 02 ."
+  ],
+  "abstract_text": [
+    "<S> in recent years , it has become clear from multidimensional simulations that the outcome of deflagrations depends strongly on the initial configuration of the flame . </S>",
+    "<S> we have studied under which conditions this configuration could consist of a number of scattered , isolated , hot bubbles . </S>",
+    "<S> afterwards , we have calculated the evolution of deflagrations starting from different numbers of bubbles . </S>",
+    "<S> we have found that starting from 30 bubbles a mild explosion is produced ( @xmath0 ) , while starting from 10 bubbles the star becomes only marginally unbound ( @xmath1 foes ) . </S>"
+  ]
+}

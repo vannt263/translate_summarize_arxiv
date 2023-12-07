@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "the _ swift_/bat caught a new outburst from the supergiant fast x - ray transient igr j16479 - 4514 on january 29 @xcite . _",
+    "swift _ slewed to the target so that the xrt started observing the field at 06:46:46.9 ut , 819.3 s after the bat trigger . in the days following the outburst ,",
+    "the source was regularly monitored with _",
+    "swift_/xrt , and showed renewed activity on 2009 february 8 @xcite .",
+    "the xrt data were sought for the presence of eclipses , as suggested by @xcite . using the ephemeris from @xcite",
+    ", we selected the events inside and outside the eclipses , where by ` inside the eclipse ' we consider the time interval between the start of the eclipse as defined by @xcite and 0.6 d later .",
+    "we obtain a net count rate of @xmath0  counts s@xmath1 ( inside ) and @xmath2  counts s@xmath1 ( outside ) .",
+    "this indicates that the source is in two distinct flux levels inside and outside the predicted times of the eclipses at the @xmath3 level .",
+    "consistent results are obtained examining the data of the whole 2008 xrt campaign .",
+    "we can thus conclude that the xrt data are consistent with the presence of an eclipse on the longest baseline so far examined .",
+    "the 3.32 days periodicity @xcite , if interpreted as the orbital period of the binary system , is very difficult to reconcile with the mechanisms proposed to explain the sfxts phenomenon .",
+    "we can compare the out - of - eclipse average x - ray luminosity ( l@xmath4 erg s@xmath1 ) with the x - ray emission expected from bondi - hoyle accretion onto a neutron star . assuming a circular orbit and a set of realistic physical parameters for the binary system @xcite",
+    ", the expected x - ray luminosity is @xmath5 erg s@xmath1 , about 23 order of magnitude higher than the observed value , that , on the other hand , can be obtained only at a wind mass loss rate of m@xmath6yr@xmath1 ( which is not reasonable for a o8.5 supergiant ) .",
+    "a viable explanation to this inconsistency could be that the 3.32 days periodicity is not orbital , but it is the time interval between the periodically recurrent flares when the neutron star passes through the preferential plane for the outflowing wind from the supergiant ; thus , the true orbital period can be much longer than this periodicity @xcite .",
+    "romano , p. ; sidoli , l. ; cusumano , g. ; la parola , v. ; vercellone , s. ; pagani , c. ; ducci , l. ; mangano , v. ; cummings , j. ; krimm , h. a. ; guidorzi , c. ; kennea , j. a. ; hoversten , e. a. ; burrows , d. n. ; gehrels , n. _ mnras _ * 399 * , 2021 , 2009"
+  ],
+  "abstract_text": [
+    "<S> igr  j16479 - 4514 is a member of the supergiant fast x - ray transient ( sfxt ) class . </S>",
+    "<S> we present the light curves of its latest outburst , which occurred on january 29 , 2009 . during this outburst , </S>",
+    "<S> igr  j16479 - 4514 showed prolonged activity lasting several days . </S>",
+    "<S> the presence of eclipses was successfully tested .     </S>",
+    "<S> address = inaf - iasf via u.  la malfa 153 , i-90146 palermo , italy     address = inaf - iasf via e.  bassini 15 , i-20133 milano , italy , altaddress = universit degli studi dellinsubria , via valleggio 11 , i-22100 como , italy     address = inaf - iasf via u.  la malfa 153 , i-90146 palermo , italy     address = inaf - iasf via e.  bassini 15 , i-20133 milano , italy     address = inaf - iasf via u.  la malfa 153 , i-90146 palermo , italy     address = inaf - iasf via u.  la malfa 153 , i-90146 palermo , italy     address = inaf - iasf via u.  la malfa 153 , i-90146 palermo , italy     address = department of astronomy and astrophysics , pennsylvania state university , university park , pa 16802 , usa     address = nasa / goddard space flight center , greenbelt , md 20771 , usa , altaddress = universities space research association , columbia , md , usa     address = department of astronomy and astrophysics , pennsylvania state university , university park , pa 16802 , usa     address = nasa / goddard space flight center , greenbelt , md 20771 , usa </S>"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "mrk334 is a sy1.8 galaxy , located at the distance of 88 mpc ( the scale is 430 pc/@xmath0 ) .",
+    "this galaxy demonstrates merging features as tidal tail and bright region ` a ' on the west from the nucleus .",
+    "according @xcite , the region \" a can be a second nucleus or a remainder of a satellite galaxy , which was devoured by mrk334 . on the mpfs maps in different emission lines ,",
+    "three bright regions can be distinguish : nucleus , regions ` a ' and ` b ' ( fig .  [ smir : fig1 ] ) .",
+    "spectra from these regions differ from each other and the gas ionization state vary from one region to another dramatically : on the diagnostic diagrams , the points belonging to the knot ` b ' lie in the region of ionization by a nonthermal radiation .",
+    "all points that correspond to the knot ` a ' fall into the photoionization region .",
+    "surprising , that the nucleus is located in the hii / liner boundary i.e. , the gas can also be partially ionized here by both shocks and radiation from young hot stars , but not by non - thermal source ! also , on the [ sii ] ratio map the region with the lowest density is the knot ` b ' , whereas the density in the knot ` a ' is much higher .",
+    "velocity fields corresponding to the most emission lines show almost circular rotation of ionized gas .",
+    "only [ oiii]@xmath1 velocity field is an exception and reveals outflow from the nucleus .",
+    "it becomes apparent in the excess of blue - shifted velocities in the center of the galaxy . on the large - scale h@xmath2 residual velocity field ( observational velocities minus model of pure circular rotation ) strong non - circular velocity perturbations in the knot ` b '",
+    "are seen ( fig .",
+    "[ smir : fig1 ] , right ) .",
+    "the amplitude of the velocity deviations reaches 50kms@xmath3 .",
+    "on the deep images obtained on the 6 m telescope we find new numerous faint elongated structures ( tidal debris ) at different spatial scales .",
+    "it confirms the merging with a satellite .",
+    "this event strongly affects the disc structure and kinematics in mrk334 .",
+    "knot ` a ' can be a region of violent star formation , ionizing diagrams confirm this conclusion .",
+    "what is the knot ` b ' located at the distances of 1 - 3 kpc from the nucleus ? if an jet from the active nucleus is placed here , then we must detect a non - thermal radio emission .",
+    "however , radio maps @xcite disprove this hypothesis .",
+    "we suggest that knot ` b ' is a region where a satellite debris passing through the disk of the main galaxy .",
+    "this merging event can trigger the fueling of agn in mrk 334 ."
+  ],
+  "abstract_text": [
+    "<S> we have studied the kinematics of the ionized gas and stellar component in mrk334 using methods of panoramic ( 3d ) spectroscopy . </S>",
+    "<S> the observations were performed at the prime focus of the sao ras 6-m telescope with the integral - field spectrograph mpfs @xcite and with a scanning fabry - perot interferometer ( fpi ) , installed on the multimode device scorpio @xcite . based on these data , </S>",
+    "<S> the monochromatic maps and velocity fields in different emission lines of the ionized gas were constructed . </S>",
+    "<S> the diagnostic diagrams have been made based on the emission lines ratios . </S>"
+  ]
+}

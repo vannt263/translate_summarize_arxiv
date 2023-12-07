@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "a number of x  ray luminous galaxy clusters show large  scale synchrotron radio emission associated to the intracluster medium .",
+    "these diffuse sources are know as radio halos , when they are located at the centre of the hosting cluster and show low or negligible polarization , and radio relics , when found in the cluster outskirts and highly polarized .",
+    "both halos and relics have low surface brightness , large linear size ( from @xmath10.5 mpc to more than 1 mpc ) and steep integrated spectra , i.e. @xmath2 ( s @xmath3 @xmath4 ) .",
+    "radio halos and relics represent the most striking evidence for @xmath5 g magnetic fields on cluster scale and relativistic electrons diffused within the whole cluster volume ( for a recent review see giovannini & feretti 2002 ) .",
+    "the existence of this class of radio sources is believed to be connected to cluster mergers , since thus far they have only been found in clusters with significant signs of a current or recent merging event . in particular",
+    "the leading hypothesis for the origin of the observed radio emission from these objects is a re  acceleration process , probably via turbolence powered by cluster mergers , of a population of relatively low energy ( @xmath6 ) electrons , initially injected in the intracluster medium ( two - phase model , brunetti et al .",
+    "the cluster a3562 is the easternmost component of the a3558 complex , a chain of three clusters and two sc groups which form a single physically connected structure , whose complex dynamical stage of merging is supported by a large amount of observational data in all bands ( see for instance ettori et al . 1997 , ettori et al . 2000 ) .",
+    "the existence of a radio halo at the a3562 centre was confirmed by deep radio observations at 1.4 ghz carried out with vla ( venturi et al .",
+    "2003 ) .    in the framework of the re  acceleration model ,",
+    "the halo in a3562 seems to play a very special role , since its largest linear size ( lls @xmath1 600 kpc ) and 1.4 ghz radio power ( p@xmath7 = 2.14@xmath8 w hz@xmath9 ) are among the lowest values found for this class of radio sources .",
+    "the halo nicely fits the correlations existing between the halo radio power and the cluster x  ray luminosity and temperature ( bacchi et al . 2003 ) , extending them to lower values for all quantities involved .    according to the two - phase model , the halo in a3562",
+    "could be interpreted either as the result of a low efficiency re - acceleration process or as a young source at the beginning of the re - acceleration phase .",
+    "it has been established that the head  tail radio galaxy j13333141 , located within the halo emission , has deposited in the intracluster medium a number of electrons high enough to feed the halo if it has been active for a considerable fraction of its crossing time ( t@xmath10 yrs ) .",
+    "this result seems to suggest that the halo at the centre of a3562 is young as compared to the other radio halos known to date ( venturi et al .",
+    "however only low frequencies observations allow to discriminate between the two possibilities .",
+    "with the purpose of studing the morphology of the halo in a3562 and determine the shape of its synchrotron spectrum at low frequencies , we carried out observations at 235 mhz , 327 mhz and 610 mhz with the giant metrewave radio telescope ( gmrt , pune , india ) .",
+    "thanks to the u  v coverage of this instrument , a range of resolutions at all frequencies ( from few arcsec to tens of arcsec ) is allowed .",
+    "this ensures an accurate determination of the total radio flux density of the halo , after a careful subtraction of the individual point sources embedded in the halo emission .",
+    "an extended radio emission , located south  west of the halo , surrounds the radio source j13323146 ( figure 1 ) , identified with the brightest galaxy in the sc 1329313 group ( giacintucci et al .",
+    "the nuclear component , detected at 1.4 ghz , disappears at low frequency .",
+    "this seems to rule out any connection between the low brightness extended emission and an active nucleus , suggesting that its origin is most likely due to cluster merger re  acceleration .",
+    "the preliminary results of our low frequency data suggest that the spectrum of the radio halo is steep up to @xmath1 610 mhz , with @xmath11 , and it flattens beyond 610 mhz , with @xmath12 .",
+    "this seems to be in good agreement with a very recent re  acceleration phase , supporting the idea that the radio halo in a3562 is young and that its existence is strongly connected to the ongoing major merger in the a3558 complex ( venturi et al . in prep ) ."
+  ],
+  "abstract_text": [
+    "<S> we present the preliminary results of 235 mhz , 327 mhz and 610 mhz observations of the galaxy cluster a3562 in the core of the shapley concentration . </S>",
+    "<S> the purpose of these observations , carried out with the giant metrewave radio telescope ( gmrt , pune , india ) , was to study the radio halo located at the centre of a3562 and determine the shape of its radio spectrum at low frequencies , in order to understand the origin of this source . in the framework of the re  acceleration model </S>",
+    "<S> , the preliminary analysis of the halo spectrum suggests that we are observing a young source ( few @xmath0 yrs ) at the beginning of the re  acceleration phase . </S>"
+  ]
+}

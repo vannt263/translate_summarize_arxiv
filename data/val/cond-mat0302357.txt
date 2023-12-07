@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "recently a new strategy for performing measurements on solid state ( josephson ) qubits was proposed which uses the entanglement of the qubit with states of a damped oscillator  @xcite , with this oscillator representing the plasma resonance of the josephson junction .",
+    "this system of a spin coupled to a damped harmonic oscillator ( see fig .  [",
+    "fig : system ] ) can be mapped to a standard model for dissipative quantum systems , namely the spin - boson model  @xcite .    .",
+    "]    here the spectral function governing the dynamics of the spin has a resonance peak .",
+    "such structured baths were also discussed in connection with electron transfer processes  @xcite .",
+    "we use the flow equation method introduced by wegner  @xcite to analyze the system shown in fig .",
+    "[ fig : system ] , consisting of a two - level system coupled to a harmonic oscillator @xmath0 , which is coupled to a bath of harmonic oscillators : @xmath1 with the spectral function @xmath2 . this system can be mapped to a spin - boson model  @xcite @xmath3 where the dynamics of the spin depends only on the spectral function @xmath4 given by @xmath5",
+    "using the flow equation technique we approximately diagonalize the hamiltonian @xmath6 [ eq.([eq : spin_boson ] ) ] by means of infinitesimal unitary transformations . the continuous sequence of unitary transformations @xmath7 is labelled by a flow parameter @xmath8 .",
+    "applying such a transformation to a given hamiltonian , this hamiltonian becomes a function of @xmath8 : @xmath9 . here",
+    "@xmath10 is the initial hamiltonian and @xmath11 is the final diagonal hamiltonian .",
+    "usually it is more convenient to work with a differential formulation @xmath12\\quad\\textrm{with}\\quad \\eta(l)=\\frac{du(l)}{dl}u^{-1}(l).\\ ] ] using the flow equation approach one can decouple system and bath by diagonalizing @xmath13  @xcite : @xmath14 here @xmath15 is the renormalized tunneling frequency . for the generator of the flow",
+    "we choose the ansatz  @xcite : @xmath16 @xmath17 the flow equations for the effective hamiltonian [ eq .  ( [ eq : effective_h ] ) ]",
+    "then take the following form : @xmath18 the unitary flow diagonalizing the hamiltonian generates a flow for @xmath19 which takes the structure @xmath20 where @xmath21 and @xmath22 obey the differential equations @xmath23 one can show that the function @xmath21 decays to zero as @xmath24 .",
+    "therefore the observable @xmath25 decays completely into bath operators  @xcite .",
+    "we integrated the flow equations numerically in order to calculate the fourier transform , @xmath26 , of the spin - spin correlation function @xmath27 @xmath28 can be used to calculate dephasing and relaxation times for measurements on qubits  @xcite .",
+    "[ fig : j+c](a ) shows @xmath29 and fig .",
+    "[ fig : j+c](b ) @xmath26 for different values of @xmath0 .",
+    "@xmath26 displays a double - peak structure , which can be understood from the term scheme shown in the inset .",
+    "the arrows indicate the transitions responsible for the peaks in @xmath30",
+    ". additional structure of @xmath30 due to higher order transitions in the term scheme is not seen in fig .",
+    "[ fig : j+c ] .",
+    "this is due to our ansatz for @xmath19 [ see eq.([eq : sigma_z ] ) ] , which does not include the corresponding higher order terms .",
+    "however , we do not expect the additional peaks to have much weight , as the sum rule  @xcite for the total spectral weight is fulfilled with an error of less than @xmath31 for all the plots in fig .",
+    "[ fig : j+c](b ) .",
+    "we leave the extension of the ansatz for @xmath19 for future work ."
+  ],
+  "abstract_text": [
+    "<S> we discuss the dynamics of a spin coupled to a damped harmonic oscillator . </S>",
+    "<S> this system can be mapped to a spin - boson model with a structured bath , i.e. the spectral function of the bath has a resonance peak . </S>",
+    "<S> we diagonalize the model by means of infinitesimal unitary transformations ( _ flow equations _ ) , thereby decoupling the small quantum system from its environment , and calculate spin - spin correlation functions .    ,    </S>",
+    "<S> ,    flow equations ; quantum dissipative systems , spin - boson , structured bath </S>"
+  ]
+}

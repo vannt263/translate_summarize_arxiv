@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "among known bulk high - temperature superconductive materials , mt - mbco ( m = y , nd ) possesses the highest level of cryomagnetic properties , which enables us to construct htsc electromotors with massive mt - ybco rotors with output power of about 19 kw at 3000 rpm @xcite .",
+    "the structure of mt - mbco samples consists of a few large textured grains or magnetic domains of mba@xmath1cu@xmath2o@xmath3 ( m123 ) with finely dispersed small inclusions of the non - superconductive y@xmath1bacuo@xmath4 ( y211 ) phase or nd@xmath5ba@xmath1cu@xmath1o@xmath6 ( nd422 ) for m = y or nd , respectively .",
+    "m123 grains are well oriented relative to each other , so that their @xmath7-planes and c - axes are almost parallel .",
+    "the presence of y211 or nd422 grains , which can serve as pinning centers in the m123 matrix , leads to an increase in critical current density .",
+    "a melt - textured material usually has micro- and macrocracks in the structure and pores ( its density is 85 - 90 % from the theoretical one ) .",
+    "the further increase of material density and improvement of mechanical properties are of great importance .     versus treatment temperature ( @xmath8 ) before and after hp - ht treatment of ( a ) yba@xmath1cu@xmath2o@xmath9-phase of mt - ybco , treated at 2 and 5  gpa ( b ) ndba@xmath1cu@xmath2o@xmath9-phase of mt - ndbco , treated under 5  gpa ]",
+    "high pressure - high temperature conditions ( hp - ht ) have been created in recessed - anvil - type hp apparatuses @xcite , where the treated sample has been surrounded with precompacted monoclinic zircinia .",
+    "[ fig1 ] and [ fig2 ] present the variations of unit cell parameters and critical current density ( @xmath10 ) versus treatment conditions for mt - mbco samples . with an increase in treatment temperature the tetragonal y123 structure forms due to the increase of oxygen content up to more than 7 oxygen atoms per unit cell @xcite as witnessed by a decrease in the @xmath11-parameter .",
+    "after optimal hp - ht treatment the @xmath10 in @xmath7-plane of mt - mbco ( m = y , nd ) was unchanged : 10@xmath12 a/@xmath13 , but some increase in @xmath10 along @xmath11-axis have been observed , which may be the result of densification and the increase in dislocation density ( for mt - ybco from 10@xmath14 up to 10@xmath15 @xmath16 in ( 001 ) planes ) .",
+    "materials density increased from 5.7 to 6.3 g/@xmath17 and from 5.5 to 6.64 g/@xmath17 , vickers microhardness from 3.4 to 5.3 gpa ( 4.91-n load ) and from 4.9 to 5.9 gpa ( 1.96-n load ) for m = y and nd , respectively .    ) of yba@xmath1cu@xmath2o@xmath9-phase of mt - ybco vs. the treatment temperature ( @xmath8 ) and time .",
+    "samples were treated at 2 gpa for 30 min ( curves 1 , 2 ) , 15 min ( 3,4 ) , and 10 min ( 5,6 ) ; solid dots  @xmath18 , open dots - @xmath19 . ]    9 w. gawalek , t. habisreuther , t : strasser , m. wu , d.  lizkendorf , k.v .",
+    "ilushin , v.t .",
+    "penkin , l.k .",
+    "kovalev , j. beest and b. oswald , in program and abstracts of xi trilateral german / russian / ukrainian seminar on high - temperature- superconductivity , september 28 - 30 , 1998 ( goettingen , germany , 1998 ) p. 14 .",
+    "prikhna , v.s .",
+    "melnikov , v.v .",
+    "kovylyaev and v.v .",
+    "moshchil , j. mat .",
+    "30 ( 1995 ) 3662 ."
+  ],
+  "abstract_text": [
+    "<S> the effect of a short ( 1030  min ) thermobaric action ( in the 15  gpa pressure and 7001300@xmath0c temperature range ) on the structure , superconductive and mechanical properties of melt  </S>",
+    "<S> textured mba@xmath1cu@xmath2o@xmath3 ( m = y , nd ) or mt  mbco have been studied . </S>",
+    "<S> the existence has been established of pressure  temperature  time conditions ( 2  gpa , 800@xmath0c for 30  min and 900950@xmath0c for 15  min for mt  ybco ; 5  gpa , 850900@xmath0c for 15  min for mt  </S>",
+    "<S> ndbco ) the treatment under which allows superconductive properties of the materials ( because of the contact with zirconia and high pressure ) to be preserved or improved , mechanical characteristics increased and the materials condensed .    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    high temperature superconductors ; melt - textured mba@xmath1cu@xmath2o@xmath3 ; critical current density ; high pressure ; thermobaric treatment </S>"
+  ]
+}

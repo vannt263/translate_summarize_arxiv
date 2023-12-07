@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "let us consider two quite different equations of state ( eos ) of nuclear matter within a _ true _ relativistic hydrodynamic framework ( i.e. , hylander - c ) @xcite .",
+    "the first one , eos - i , has a phase - transition to a qgp at @xmath3 = 200 @xmath4 ( @xmath5 = 1.35 @xmath6 ) @xcite .",
+    "the second eos , eos - ii , is a purely hadronic eos , which has been extracted from the transport code rqmd ( cf . ,",
+    "@xcite ) under the assumption of fully acchieved thermalization .",
+    "if one assumes for each eos _ different _ initial conditions before the hydrodynamical expansions , one can fit simultaneously hadronic single inclusive momentum spectra and bec , which have been measured recently by the cern / na44 and cern / na49 collaborations ( cf . , @xcite ) , respectively .",
+    "in particular , for the acceptance of the na44 experiment a ratio @xmath7 1.15 was found @xcite while using both eos , eos - i and eos - ii .",
+    "little difference was seen in the bec of identical pion pairs while considering the two different eos .",
+    "in the following , we shall assume for central au+au collisions at bnl / rhic beam energies a set of fireball initial conditions , ic - i , which are similar to those as described in ref .",
+    "@xcite . from these fireball initial conditions , ic - i , single inclusive momentum spectra have been calculated while using eos - i and eos - ii in the hydrodynamic expansions .",
+    "we note , that the rapidity spectra of both calculations differ in width and nomalization significantly @xcite .",
+    "shows , that the isothermes of the transversely expanding fluids at longitudinal coordinate @xmath8 also differ significantly .",
+    "since there will be only one set of measured data , we shall fit the calculation using eos - ii to the single inclusive momentum spectra of the calculation using eos - i . in doing so , we find new initial conditions , ic - ii @xcite .",
+    "but now the space - time picture of the evolving fireball at freeze - out is again very similar to the one using eos - i with ic - i .",
+    "if one calculates bec of identical pion pairs or identical kaon pairs , resepectively , one finds @xcite while comparing the calculations using eos - i with ic - i and eos - ii with ic - ii , respectively , _ no _ significant differences in the extracted ratios @xmath0 regardless of the pair kinematics under consideration .",
+    "in particular , the assumption of the phenix detector acceptance @xcite leads to a ratio @xmath7 1.65 for both choices of eos .    in summary",
+    ", the larger ratio @xmath0 at rhic beam energies appears to be rather a consequence of the expected higher energy deposit in the fireball during the heavy - ion collision , but it appears _ not _ to be an indicator of the present or absent phase - transition to a qgp .",
+    "of course , more theoretical analysis is neccessary , but there is strong evidence , that bec do not provide a good qgp signature , since we do not understand the initial state of a heavy - ion collision well enough yet",
+    ".    9 d.h .",
+    "rischke , m. gyulassy , nucl .",
+    "a608 ( 1996 ) 479 .",
+    "g. bertsch , m. gong , m. tohyama , phys .",
+    "c37 ( 1988 ) 1896 .",
+    "schlei , heavy ion phys . 5 ( 1997 ) 403 .",
+    "schlei , et al . , to appear in eur .",
+    "j. c10/1 ( 1999 ) .",
+    "schlei , d. strottman , n. xu , phys .",
+    "80 ( 1998 ) 3467 , and refs . therein .",
+    "check the web - site http://www.nis.lanl.gov/@xmath10bschlei/qm99.html b.r .",
+    "schlei , d. strottman , phys .",
+    "c59 ( 1999 ) r9 ."
+  ],
+  "abstract_text": [
+    "<S> + in 1996 , d.h . </S>",
+    "<S> rischke and m. gyulassy @xcite proposed to use the time - delay signal in bose - einstein correlations ( bec ) as a signature for the possible formation of a quark - gluon plasma ( qgp ) in relativistic heavy - ion collisions . in particular </S>",
+    "<S> , they suggested to measure the ratio of the transversal interferometry radii , @xmath0 , which can be obtained by fitting experimental bec data with a parametrization introduced by g. bertsch @xcite et al . in 1988 . </S>",
+    "<S> the transverse radius parameter @xmath1 has compared to the transverse radius parameter @xmath2 an additional temporal dependence which should be sensitive to a prolonged lifetime of a fireball , in case a qgp was formed in a relativistic heavy - ion collision . </S>",
+    "<S> this latter phenomenon is known under the term `` qgp stall '' . in the following , </S>",
+    "<S> i shall explain why i believe that the time - delay signal in bose - einstein correlations _ is not _ a good signature for the possible formation of a qgp . </S>"
+  ]
+}

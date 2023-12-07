@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "the detached m dwarf eclipsing binary tres - her0 - 07621 was published recently as an addition to the few such binary systems previously known @xcite ( see references within , c05 henceforth ) .",
+    "this object is interesting because m dwarfs are abundant in our galaxy , and yet are poorly understood .",
+    "the binary nature allows us to determine accurate stellar radii and masses .",
+    "previously we obtained precise mass estimates of both components of tres - her0 - 07621 ( hobby - eberly telescope , mcdonald observatory ) .",
+    "however , due to the 11/pixel resolution of the ccd detectors , our photometric time series is contaminated by a nearby non - variable star , thus providing limitations on the photometric accuracy and precision .",
+    "we present some new photometric results based on recently observed non - contaminated time series .",
+    "we obtained observations with the _ iac80 _ and _ tcs _ at the observatorio del teide , tenerife and with _ not _ at the observatorio roque de los muchachos , la palma .",
+    "the data were reduced using standard reduction procedures and we performed aperture photometry to obtain the time series .",
+    "we observed a total of 10 light curves in various filters at 6 different minimum epochs .",
+    "we tested to make sure that there were no phase shifts of minimum with filter ( we also found no depth dependance ) .",
+    "each of these light curves were fit to a binary system model to obtain the eclipse minima . to obtain a more accurate photometric period , we used the first observed eclipse by stare ( 2003 ) and the quoted hjd from c05 , along with the new minima .",
+    "we fit a straight line to the hjd of observed minimum times as a function of elapsed orbital cycle .",
+    "the slope of this line gave a period of 1.120804 ( @xmath0 0.000012 ) .",
+    "table 1 shows the new eclipse minima for both primary and secondary eclipses .",
+    "[ table : observations ]    lcccc hjd & error & cycle no .",
+    "& eclipse & observed with + 2452766.5161 & 0.0001 & 0 & 2 & @xmath1 stare + 2453139.74951 & 0.000001 & 333 & 2 & @xmath1 iac80 + 2453503.4368 & 0.0008 & 657.5 & 1 & @xmath1 not + 2453503.4362 & 0.001 & 657.5 & 1 & @xmath2 not + 2453523.6108 & 0.001 & 675.5 & 1 & @xmath3 tcs + 2453527.5333 & 0.001 & 679 & 2 & @xmath3 tcs + 2453536.4999 & 0.0004 & 687 & 2 & @xmath1 not + 2453536.4995 & 0.0004 & 687 & 2 & @xmath2 not + 2453554.4313 & 0.0006 & 703 & 2 & @xmath1 iac80 + 2453554.4306 & 0.0006 & 703 & 2 & @xmath4 iac80 + 2453555.5533 & 0.0004 & 704 & 2 & @xmath1 iac80 + 2453555.5529 & 0.001 & 704 & 2 & @xmath4 iac80 +    we used the data from not to model the binary system ( figure 1 ) . with this higher precision photometry",
+    "we have obtained better estimates for both radii , inclination and effective temperature ratio ( table  2 . )    [ table : param ]    lrclr r@xmath5(r@xmath6 ) & 0.449(0.030 ) & & r@xmath7 & 0.449(0.030 ) + m@xmath5(m@xmath6 ) & 0.493(0.003 ) & & m@xmath7 & 0.489(0.003 ) + @xmath8(@xmath9 ) & 83.10(0.30 ) & & t@xmath7/t@xmath5 & 0.97(0.02 ) +",
+    "we have provided new minima times and a refined photometric period for the eclipsing binary system tres - her0 - 07621 .",
+    "we have also obtained better radii estimates .",
+    "we hope that this system will contribute to learning more about low mass stars , there is a lack of such systems observed and so any new ones are not only of benefit but necessary in order to advance in this area of stellar physics .",
+    "acknowledgements + thank you to iac80 and tcs at the observatorio del teide , tenerife and not at the observatorio roque de los muchachos , la palma ( spain ) for observing time and their knowledgeable staff : john telting , erik stempels ( not ) , jos miguel gonzlez prez , alfred rosenberg , luis lpez martn ( ot ) .",
+    "thanks to peter hammersley for help with the ir data processing .",
+    "thanks to travis metcalfe and chris sterken for their suggestions regarding this work ."
+  ],
+  "abstract_text": [
+    "<S> tres - her0 - 07621 is a recently discovered detached m dwarf eclipsing binary system . </S>",
+    "<S> we present some follow - up observations of this system including new minima times and a refined orbital period . </S>",
+    "<S> we have also obtained better estimates of the stellar radii and inclination . </S>"
+  ]
+}

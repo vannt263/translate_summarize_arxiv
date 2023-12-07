@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "the main source of data used in this work is the entire ogle - ii dia time - series @xmath1 band photometric database of galactic bulge fields ( ( * ? ? ?",
+    "* szymaski 2005 ) ) .",
+    "all pulsating stars described here were discovered during our multiperiodicity search in the ogle - ii database .",
+    "most of them are not present in the catalog published by the ogle team ( ( * ? ? ?",
+    "* woniak at al .",
+    "2002 ) ) because of very small amplitudes ( a few mmag ) .",
+    "the second part of our project is based on follow - up single - epoch observations of 25 selected fields carried out with the ctio 1-m telescope in may and june 2007 . using the y4kcam detector ( @xmath2 field of view )",
+    ", we covered a relatively small part of the ogle - ii fields in four passbands : @xmath3 ( exposures : 1500 s ) , @xmath4 ( 400 s ) , @xmath5 ( 250 s ) , @xmath1 ( 120 s ) . in each field",
+    "we performed profile photometry by means of the daophot - ii package ( ( * ? ? ?",
+    "* stetson 1987 ) ) . to perform the transformation of our photometry to the standard system",
+    ", we carried out additional observations of a nearby standard field bwc ( ( * ? ? ?",
+    "* paczyski et al .  1999 ) ) on a photometric night of june 3/4 , 2007 .",
+    "accurate astrometry carried out by means of the ucac3 catalog ( ( * ? ? ?",
+    "* zacharias et al .  2010 ) ) allowed us to perform reliable cross - identifications with the ogle databases .",
+    "our standardized @xmath5 and @xmath1 measurements are in very good agreement with the ogle - iii photometry published by ( * ? ? ? * szymaski et al .  ( 2011 ) ) .",
+    "in order to remove long - term and seasonal trends , we applied spline function fits as the first step of the time - series analysis .",
+    "next , we performed frequency analysis by means of the fourier periodogram in the range between 0 and 40  d@xmath6 .",
+    "a given star was selected as a variable if the signal - to - noise ratio ( s / n ) of the dominant frequency exceeded a detection level equal to 5 .",
+    "for all stars selected through the s / n criterion , we applied a semi - automatic search for additional frequencies by means of consecutive prewhitening and repeated fourier analysis of the residual light curve . in each iteration all parameters of the fit were updated .",
+    "as a result , we found several hundreds of multiperiodic variables in each ogle - ii field .",
+    "they are good candidates for pulsators , mainly those on the main - sequence .",
+    "moreover , we divided these stars into two groups : short - period pulsators with    dominant periods shorter than 0.3 d and long - period pulsators including the remaining multiperiodic variables . in the first group",
+    "we expect @xmath7  cephei and @xmath8  scuti - type stars ; the second group consists of slowly pulsating b - type stars ( spb ) and @xmath9  doradus - type stars .",
+    "the preliminary multi - colour photometry of three selected fields allowed us to make use of colour - magnitude and colour - colour diagrams in our classification of variable stars .",
+    "we found pulsating stars in a wide range of colour indices measured with an accuracy better than 0.05 mag ( fig .  1 ) .",
+    "the distribution of early a - type stars in the ( @xmath10 ) vs.  ( @xmath11 ) diagram implies a significantly higher slope of the reddening line than the standard value .",
+    "the whole sample of short - period variables turned out to contain only @xmath8  scuti - type stars with @xmath12 reddenings between 0.3 and 1 mag .",
+    "the majority of the long - period pulsators can not be unambiguously classified : they can be either highly reddened spb or @xmath9  doradus stars ."
+  ],
+  "abstract_text": [
+    "<S> we present a study of photometric properties of very crowded stellar fields toward the galactic bulge . </S>",
+    "<S> we performed a search for pulsating stars among thousands of variable stars from the ogle - ii survey supplementing the variability study with photometric measurements in four johnson - cousins @xmath0 passbands . using these data </S>",
+    "<S> , we analysed the properties of objects located at different distances and , whenever possible , classified them . </S>"
+  ]
+}

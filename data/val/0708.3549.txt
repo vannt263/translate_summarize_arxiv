@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "interactions and mergers of galaxies are known to be common and these significantly affect their dynamics and evolution .",
+    "the outer regions of merger remnants covering a radial range of @xmath2 a few kpc to a few @xmath3 10 kpc have been well - studied . these can be fit by an elliptical - like r@xmath4 profile ( class i ) , or a disc - like outer exponential profile ( class ii ) , or a no - fit profile ( class iii ) ( chitre & jog 2002 ) .",
+    "the first two can be explained as arising due to equal - mass mergers ( e.g. , barnes 1992 ) or unequal - mass mergers ( bournaud , combes & jog 2004 ) respectively , while the third case corresponds to younger remnants . however , the central regions of a few kpc in mergers have not been studied in detail so far - which motivated our work ( jog & maybhate 2006 ) presented here , where we study a sample of advanced mergers which show signs of recent interaction such as tidal tails or loops but have a single nucleus .",
+    "elliptical isophotes were fit to the k@xmath5-band images from 2mass while allowing the centre , ellipticity and the position angle to vary to get the best fit .",
+    "figure 1 ( top panel ) shows the result for arp 163 ( a class iii galaxy ) - the isophotes are not concentric , instead the centres ( x@xmath6,y@xmath6 ) of consecutive isophotes show a wandering or sloshing pattern with a @xmath7 variation within the central 1 kpc , indicating an unrelaxed central region .",
+    "further , we measure the lopsidedness of the distribution by fourier- analyzing the galaxy image w.r.t . a constant centre .",
+    "the amplitude a@xmath8 and the phase p1 for @xmath0 were plotted versus radius- as shown for arp 163 in the lower panel of figure 1 , which shows high central lopsidedness @xmath9 over the central 5 kpc region .",
+    "all the sample galaxies show strong sloshing and lopsidedness in the central regions .",
+    "the asymmetry does not depend significantly on the masses of the progenitor galaxies , being similar for class i and ii cases , but it is higher for younger mergers ( class iii ) .",
+    "the corresponding values are smaller by a factor of few for a control sample of non - merger galaxies , confirming the merger origin of the high central asymmetry in our sample .      the ages of remnants are deduced to be @xmath1 1 - 2 gyr as seen from the merger remnants with similar outer disturbed features in the n - body simulations ( bournaud , combes & jog 2004 ) .",
+    "thus the central asymmetry lasts for over @xmath11 local dynamical timescales , and will have important consequences for the evolution of the central region .",
+    "first , it can help fuel the central active galactic nucleus , and second , it can lead to the secular growth of the bulge via the lopsided distribution .",
+    "these need to be studied in detail theoretically .",
+    "since this predicted evolution is due to the central asymmetry that is merger - driven , it could be important in the hierarchical evolution of galaxies ."
+  ],
+  "abstract_text": [
+    "<S> we measure the non - axisymmetry in the luminosity distribution in the central few kpc of a sample of advanced mergers of galaxies , by analyzing their 2mass images . </S>",
+    "<S> all mergers show a high central asymmetry : the centres of isophotes show a striking sloshing pattern with a spatial variation of upto 30% within the central 1 kpc ; and the fourier amplitude for lopsidedness ( @xmath0 ) shows high values upto 0.2 within the central 5 kpc . </S>",
+    "<S> the central asymmetry is estimated to be long - lived , lasting for @xmath1 a few gyr or @xmath1 100 local dynamical timescales . </S>",
+    "<S> this will significantly affect the dynamical evolution of this region , by helping fuel the central active galactic nucleus , and also by causing the secular growth of the bulge driven by lopsidedness . </S>"
+  ]
+}

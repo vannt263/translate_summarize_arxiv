@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "the mexican virtual solar observatory ( mvso ) is a set of software tools that offer global solutions for web development .",
+    "the operating system is linux , the web server is apache , sql ( structure query language ) and the relational database management system is mysql , everything is programmed with php ( hypertext pre  processor ) .",
+    "the computational backbone of the mvso is structured into three stages .",
+    "the first part is the related to the graphic user interface ( gui ) , the second part is associated to the remote numerical simulations ( rns ) and the third part is the creation of the database and associated search tools .",
+    "the implementation is explained by @xcite",
+    "all calculations of the evolution of the cme in the magnetized solar wind are performed with the mhd code zeus-3d , which solves the 3d system of ideal mhd equations by finite differences on fixed eulerian mesh ( @xcite ) .",
+    "the mvso uses a simplified model to understand the dynamics of a cme in the interplanetary space ( @xcite ) .",
+    "initially , we produce the ambient solar wind by specifying the fluid velocity , magnetic field , density , and temperature at an inner boundary of the grid , which is located beyond the critical point ( r = 18 ro @xmath0 0.083 au ) , and then the wind is allowed to evolve and reach a stationary equilibrium . for the injection of the magnetic field we used the technique described by @xcite ; this consists of using time dependent analytic solutions of the @xcite models .",
+    "finally we add an ejecta  like perturbation at the inner boundary to simulate the appearance of the cme into de interplanetary medium .",
+    "typical results produced by the mvso are shown in the two snapshots displayed in the figure  [ fig : mvso ] , where the density is shown in logarithmic color ",
+    "scale along with the intensity of the total magnetic field ( _ solid lines _ ) .",
+    "the rigidity and elasticity given to the solar wind by the magnetic field is better accentuated in 2d when the plane of motion of the cme is parallel to the field lines and the colliding gas distorts the initial field configuration .",
+    "we illustrate the response of these deformed field lines in the two snapshots displayed in figure  [ fig : mvso ] .",
+    "the tension of the magnetic field dominates the evolution and the results are completely different from those of the purely hydrodynamic cases .",
+    "the physical quantities ( @xmath1 , @xmath2 , @xmath3 & @xmath4 ) of the medium at 1 au change drastically , when the disturbance crosses by this point . for example , the density increase a factor @xmath0 3 and the size of the perturbed region has grown close to 1 au only 78 hours after the inyection of the cme .",
+    "this is clearly seen in the last snapshot of the figure  [ fig : mvso ] ."
+  ],
+  "abstract_text": [
+    "<S> coronal mass ejections ( cmes ) are solar eruptions into interplanetary space of as much as a few billion tons of plasma , with embedded magnetic fields from the sun s corona . </S>",
+    "<S> these perturbations play a very important role in solar  terrestrial relations , in particular in the spaceweather . in this work we present some preliminary results of the software development at the universidad nacional autnoma de mxico to performe remote mhd numerical simulations . </S>",
+    "<S> this is done to study the evolution of the cmes in the interplanetary medium through a web  based interface and the results are store into a database . </S>",
+    "<S> the new astrophysical computational tool is called the mexican virtual solar observatory ( mvso ) and is aimed to create theoretical models that may be helpful in the interpretation of observational solar data . </S>"
+  ]
+}

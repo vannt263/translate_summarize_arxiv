@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "a large number of `` fundamental '' particles , as well as observable free parameters ( put by hand ) , in standard model ( sm ) indicate that it is not `` the end of story '' .",
+    "physics has met similar situation two times in the past : one is the periodic table of the elements which was clarified by rutherford s experiment later , the other is hadron inflation which has resulted in quark model .",
+    "this analogy implies the preonic structure of the sm fermions ( see @xcite and references therein ) .",
+    "the preonic models predict a zoo of new particles such as excited leptons and quarks , leptoquarks , leptogluons etc .",
+    "excited fermions and leptoquarks are widely discussed in literature and their searches are inseparable parts of future collider s physics programs .",
+    "unfortunately , leptogluons did not attract necessary attention , while they are predicted in all models with colored preons ( see , for example , @xcite , @xcite , @xcite , @xcite , @xcite , @xcite ) .",
+    "lower bound on leptogluon masses , @xmath2 gev , given in pdg @xcite reflects twenty years old tevatron results @xcite . as mentions in @xcite",
+    "d0 clearly exclude @xmath3 gev leptogluons and could naively place the constraint @xmath4 gev .",
+    "fifteen years old h1 results on color octet electron , @xmath5 , search @xcite has excluded the compositeness scale @xmath6 @xmath7tev for @xmath8 gev and @xmath6@xmath9 gev for @xmath10 gev .",
+    "the advantage of lepton - hadron colliders is the resonant production of leptogluons , whereas at hadron and lepton colliders they are produced in pairs .",
+    "the sole realistic way to tev scale in lepton - hadron collisions are presented by linac - ring type electron - proton colliders ( see reviews @xcite , @xcite , @xcite and references therein ) .",
+    "recently cern , ecfa and nupecc initiated the study on the lhc based ep colliders @xcite .",
+    "two options are considered for the large hadron electron collider ( lhec ) : the construction of new e - ring in the lhc tunnel @xcite or the construction of e - linac tangentially to the lhc @xcite , @xcite , @xcite .",
+    "it should be noted that energy of electrons in first option is limited by synchrotron radiation , whereas in second option energy of electrons can be increased by lengthening the linac .",
+    "tentative parameters for linac - ring options of the lhec are presented in the table 1 .",
+    "qcd explorer stage(s ) is mandatory : it will provide necessary information on pdf s for adequate interpretation of future lhc results and it will clarify qcd basics , as well .",
+    "the realization of the energy frontier stage(s ) will be determined by the lhc results on beyond the standard model ( bsm ) physics .",
+    ".tentative parameters of the lhec linac - ring options .",
+    "qcde and ef denotes qcd explorer and energy frontier , respectively . [",
+    "cols=\"^,^,^,^\",options=\"header \" , ]",
+    "it seems that qcd explorer stage(s ) of the lhec , together with providing necessary information on pdf s and qcd basics , could play essential role on the bsm physics , also .",
+    "concerning color octet electrons .",
+    "lhec / qcde-1 will cover @xmath11 mass up to o(@xmath12 gev ) , whereas lhec / qcde-2 will enlarge covered mass range up to o(@xmath13 gev ) .",
+    "the discovery of @xmath1 at this machine , simultaneously will determine compositeness scale .",
+    "for example , if @xmath14 gev lhec / qcde-2 with @xmath15 @xmath16 will be sensitive to @xmath17 up to @xmath18 tev .",
+    "authors are grateful to a. celikel and m. kantar for useful discussions .",
+    "this work is supported by tubitak in the framework of the bidep post - doctoral program and taek under the grant no cern - a5.h2.p1.01 - 11 ."
+  ],
+  "abstract_text": [
+    "<S> in composite models with colored preons leptogluons ( @xmath0 ) has a same status with leptoquarks , excited leptons and quarks etc . we analyze resonant production of color octet electron ( @xmath1 ) at qcd explorer stage of the large hadron electron collider ( lhec ) . </S>",
+    "<S> it is shown that the @xmath1 discovery at the lhec simultaneously will determine the compositeness scale . </S>"
+  ]
+}

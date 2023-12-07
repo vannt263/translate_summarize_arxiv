@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "observable parameters of binary millisecond pulsars ( msps ) , e.g. mass of the pulsar , mass of the companion , spin period , orbital period , eccentricity , etc . , are used to probe the past accretion history of the msps .",
+    "the purpose of this proceeding is to demonstrate how to infer some of the observable quantities ( spin period , magnetic field and mass ) during the accretion induced collapse ( aic ) of a white dwarf ( wd ) on its way to become a member of the msp family .",
+    "we are able to determine the spin period of msps originating from wds .",
+    "the process begins with simple keplerian frequency .",
+    "we assume that the angular velocity of the ns is equal to the keplerian angular velocity , @xmath0 , of the magnetosphere , at roughly the alfv@xmath1n surface , @xmath2 from which we obtain the spin of the msp , @xmath3 , as a function of the wd spin , @xmath4 .",
+    "@xmath5 where @xmath6 is the minimum spin period of the standard wd ( * ? ? ? * ( warner 1995 ) ) . assuming @xmath6 @xmath7 s , @xmath8 km and @xmath9 km",
+    ", we thus obtain , @xmath10 fig . 1 ( left ) shows the observed and derived spin period distributions of msps . as for the observed msps , they show a relatively gaussian distribution . according to these distributions ,",
+    "the ratio of msps originating from cvs is about @xmath11 .",
+    "this result agrees with some theoretical predictions such as those by @xcite and @xcite .",
+    "to investigate the correlation between the magnetic fields of msps with bottom fields of cvs ( where the field is partially restructured due to accretion ) , we follow the model of @xcite .",
+    "the magnetic flux is assumed to be conserved .",
+    "this corresponds to the magnetic fields produced by aic .",
+    "@xmath12 if we adopt @xmath13 = @xmath14  cm and @xmath15 g in cvs , the minimum value , @xmath16",
+    "the sample of cvs whose masses we have considered is the set of binary systems collected by @xcite . among them",
+    "we have 26 massive cvs in the range @xmath17 .",
+    "1 ( right ) shows the relatively gaussian distribution , with mean at @xmath18 .",
+    "a summary of the known properties of these systems is given in table 1 of @xcite .",
+    "note that the aic process leads to a msp with mass less than chandrasekhar limit @xcite .",
+    "this provides evidence for the aic in massive cvs and evolutionary hypotheses of msp birthrate .",
+    "1 .   cvs would be invoked via the capability of producing a significant portion of the msps via the aic process , a regime which may be unattainable by normal channels .",
+    "we find that the quantitative implications of our calculations are that we estimate the expected @xmath19 in the observed of msps which could have originated from cvs to be @xmath11 .",
+    "we further find that the predictions of some parameters after aic process for the average levels are consistent with the observed msp population .",
+    "future work will consider other quantities e.g. orbital period , eccentricity , and mass ratio ( q ) using more data sets from sdss ."
+  ],
+  "abstract_text": [
+    "<S> we present a study of the observational properties of millisecond pulsars ( msps ) by way of their magnetic fields , spin periods and masses . </S>",
+    "<S> these measurements are derived through the scenario of accretion induced collapse ( aic ) of white dwarfs ( wds ) in stellar binary systems , in order to provide a greater understanding of the characteristics of msp populations . </S>",
+    "<S> in addition , we demonstrate a strong evolutionary connection between neutron stars and wds with binary companions from a stellar binary evolution perspective via the aic process . </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the corot @xmath0doradus thematic team ( http://www.oca.eu/gdor_corot/index.html contact : philippe.mathias@oca.eu ) involves about 40 persons in 30 institutes , brought together through the corot announcement of opportunity for the additional programs .",
+    "the aims of this additional program are mainly the definition of the observational instability strip ( is ) , from which new insights should be obtained concerning the destibilising mechanism ( rotation , metallicity , evolution , tidal effects ... ) , together with hybrid ( @xmath1- and @xmath2-mode pulsators ) detection .",
+    "in february 2009 were released by the corot variable classifier ( cvc ) the @xmath0doradus candidates detected in the first four runs : ira1 , src1 , lra1 and lrc1 .",
+    "the respective duration of each of these runs was 54.7 , 20.3 , 130.9 and 142.1 days .",
+    "there were more than 1000 stars being classified by the cvc as possible @xmath0doradus candidates , among which 32 were first priority candidates , the others being balanced between 2nd and 3rd priority targets .",
+    "note that due to the very poor spectro - photometric information , all the light curves obtained through the prism have been summed in order to deliver only white light curves .",
+    "most of the stars within the corot eyes have been observed and classified for exoplanet purpose , with results being centralized in the exodat database .",
+    "note that this information is essential to differentiate stars having similar morphologies of their light curves ; this is particularly true for spbs/@xmath0doradus stars that share the same typical frequency range .",
+    "however , the data in the exodat catalog should be treated with caution ( fig.[fig1 ] ) .",
+    "it is therefore essential to complement the space data with other ones : colour photometry and high resolution spectroscopy .",
+    "we are in particular part of the proposal concerning the classification of stars using eso s flames instrumenti ( pi : c. neiner , lesia , meudon ) .",
+    "before the frequency analysis , performed both with period04 @xcite and sigspec @xcite , the data set is corrected from the `` flags '' provided by the corot consortium ( saa , orbital eclipses  ) and the hot pixels .",
+    "these latter are particularly tricky since they produce jumps of different amplitudes associated to short - time trends related to the consecutive relaxation .",
+    "the resulting frequency analyses ( performed until the frequency has a significance of 5 in the sigspec frame ) show many frequencies related to the satellite orbit ( in particular at 2.01d@xmath3 and 13.97d@xmath3 ) together with their numerous harmonics / aliases .    once these frequencies ( more than 30 )",
+    "are removed , there remains a group at low frequency that is usually related to the trends ; these latter are not easily taken into account by the process .",
+    "these trends represent therefore the main difficulty to deduce the intrinsic stellar frequency , since trends frequencies might combine with true ones , even at high values .",
+    "figure[fig2 ] shows a typical frequency map for a hybrid @xmath0doradus star .",
+    "the hybrid status of the star is based on the presence of frequencies that are typical for @xmath0doradus stars together with much higher frequencies , above 20d@xmath3 .",
+    "d@xmath3 ) that still represent the long - term trends of the data despite a correction using spline - functions .",
+    "finally , the remaining frequencies should be intrinsic to the star unless some might be a combination between a real frequency and a low - one corresponding to a trend .",
+    "note that some frequencies are in the typical @xmath0doradus domain , while others are quite high , above 20d@xmath3 . ]",
+    "from the light curve behaviour and the frequency analysis , we are able to classify the sample of the 32 stars in different categories :    * @xmath0dor candidates : 10 ( + 3 uncertain ) * hybrid @xmath2- & @xmath1-mode pulsators : 2 * constant stars : 13 . * unclassified cases : 4 . among these 4 , one might be a rr lyrae star since both the basic and its 2 harmonics dominate the residuals .",
+    "other cases might be related to stellar activity .",
+    "note that these results may slightly evolve through a much powerful treatment of the different trends in particular .",
+    "the number of hybrid should in particular increase , while the number of constant stars should decrease .",
+    "figure[fig3 ] shows the sine - fit of the star corresponding to fig.[fig2 ] .",
+    "in order to manage such an enormous amount of data , it is essential to develop automated procedures to take care of the flags , the trends , the outliers , and , very tricky , the jumps . up to now ,",
+    "only part of these tasks are done in an automated way .",
+    "however , a fundamental problem is to be sure that the star is indeed a @xmath0doradus star : the frequency spectrum itself is not enough to conclude to a @xmath0doradus membership ( the confusion with spb stars is obvious ) : complementary observations are required .    in any case , ground based data are requested . indeed , in addition to the location of the star in the hr diagram , other fundamental parameters have to be obtained in order to perform modelling and consecutive asterosismic studies .",
+    "a difficult problem , especially for @xmath0doradus stars , is the knowledge of the stellar rotation .",
+    "indeed , what we measure is the frequency spectrum in the solar frame , that might be completely different from the real one i.e. , in the stellar frame ; the fequency shift depends on the rotation period , the azimuthal number and the whole stellar structure . even considering @xmath2-modes , and a quite low @xmath4-value ( 2 ) , a rotation frequency of 10d@xmath3",
+    "may shift the considered frequency by 10d@xmath3 ! therefore , the key - objects that are the hybrid stars have to be validated in the correct frame .",
+    "thus , the case given in this paper may also be interpreted through a pure @xmath2-mode pulsator .    therefore , whereas space missions will bring fundamental insights on the precision and the quality of the temporal signal , it is essential to accompany them with complementary observations , especially in order to derive the fundamental parameters of the stars ."
+  ],
+  "abstract_text": [
+    "<S> we present here preliminary results concerning 32 stars identified as main @xmath0doradus candidates by the corot variable classifier ( cvc ) among the 4 first fields of the exoplanet ccds .     </S>",
+    "<S> address = umr 6525 h. fizeau , uns , cnrs , oca , campus valrose , f-06108 nice cedex 2 , france , altaddress = laboratoire dastrophysique de toulouse - tarbes , universit de toulouse , cnrs , 57 avenue dazereix , f-65000 tarbes , france , email=philippe.mathias@oca.eu     address = umr 6525 h. fizeau , uns , cnrs , oca , campus valrose , f-06108 nice cedex 2 , france     address = umr 6525 h. fizeau , uns , cnrs , oca , campus valrose , f-06108 nice cedex 2 , france , altaddress = institut dastrophysique et de gophysique , universit de lige , alle du 6 aot 17 , b-4000 lige , belgique     address = instituto de astrofisica de andalucia , csic , apdo . 3004 , 18080 granada , spain     address = inaf - osservatorio astron . di brera , via e. bianchi 46 , i-23807 merate ( lc ) , italy     address = konkoly observatory of the hungarian academy of sciences , p.o . </S>",
+    "<S> box 67 , h-1525 budapest , hungary     address = institut fr astronomie , universitt wien trkenschanzstrasse 17 , a-1180 vienna , austria     address = royal observatory of belgium , ringlaan 3 , b-1180 brussels , belgium     address = observatoire de genve , 51 ch . </S>",
+    "<S> des maillettes , ch-1290 sauverny , switzerland </S>"
+  ]
+}

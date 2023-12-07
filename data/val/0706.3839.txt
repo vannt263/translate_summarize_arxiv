@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the relation between accretion and outflow is a key topic in modern high energy astrophysics and offers us a unique opportunity to understand the physics of distant , supermassive black holes in active galactic nuclei ( agn ) by studying nearby , rapidly varying objects such as x - ray binaries .",
+    "much of the focus in recent years has been on black holes and how accretion scales between those of mass @xmath0m@xmath1 in xrbs and those of mass @xmath2m@xmath1 in agn ( merloni , heinz & di matteo 2003 ; falcke , krding & markoff 2004 ; see also maccarone , gallo & fender ( 2004 ) ; krding , corbel & falcke 2006 ; wang , wu & kong 2006 ; mchardy et al .",
+    "2006 ) .",
+    "however , the neutron star xrbs represent an extremely valuable ` control sample ' .",
+    "these systems also produce dramatic jets ( e.g. fomalont et al .",
+    "2001 ; fender et al .",
+    "2004 ) over a wide range of accretion rates ( migliari & fender 2005 ) . by comparing the two classes of object we can test the necessity of black hole - specific physics , such as event horizons and static limits , on the observed phenomena of accretion and jet production ( e.g. krding , fender & migliari 2006 ) .    [ cols=\"^,^,^,^,^,^,^,^,^ \" , ]     note that while variations in the flux of xte j1701 - 462 between epochs could cause artefacts in such a combined map , we consider it highly unlikely that they could produce the extended structure seen in fig[wide ] .",
+    "furthermore , this structure is visible to a varying degree in longer individual runs ( runs b , f , m , n , o and p ) .",
+    "the obvious initial interpretation of this structure is that it is an unrelated background radio source , probably extragalactic .",
+    "however , based on the source counts from the atesp 5 ghz deep survey ( prandoni et al .",
+    "2006 ) , we would only expect @xmath3 sources in the 1.5 - 2.5 mjy range in a region the size of the map presented in fig[wide ] .",
+    "sources b , c and d are all in this range . in addition , if we consider that sources a  d are a single extended source , for the integrated flux density , @xmath4 mjy , the atesp survery indicates a mean angular size of @xmath5 arcsec , much less than the @xmath6 arcsec angular extent of the source(s ) .",
+    "furthermore , the simbad   database lists no catalogued objects at this location .",
+    "xte j1701 - 462 appears to lie in a region of the sky which is overdense in bright , compact , 5 ghz radio sources .",
+    "the possibility must therefore be considered that the source to the south may be related in some way to the x - ray binary .",
+    "if so , it appears to take the form of a curved , one - sided radio jet ( there is no comparable structure to the north ) . at an angular separation from the x - ray binary of three arcmin and a distance of 5 - 15 kpc , the physical separation of components a  d from xte j1701 - 462 greater than @xmath7 cm , which at face value seems to rule out an association with the 2006 january outburst , as apparent velocities greater than @xmath8 would be required ( but see fender et al .",
+    "2004 for the intriguingly similar case of cir x-1 ) .",
+    "further radio observations to look for variability and more diffuse structure are planned , as are observations at other wavelengths .",
+    "in 2006 janauary a new x - ray transient , xte j1701 - 462 , was discovered , and rapidly established to display the characteristics of a z - type neutron star x - ray binary . in this paper",
+    "we report on the variable radio counterpart to this x - ray source , which demonstrates a coupling between x - ray state ( branch of the z ) and radio luminosity similar to that of the other z sources . by analogy with sco x-1 and cir x-1 ,",
+    "we interpret this as telling us about the connection between accretion flows and the production of a relativistic jet .",
+    "fortunately , since its activation , xte j1701 - 462 has remained a bright x - ray source ( as of 2007 may ) and provides us with a new laboratory in which to study these phemonena .",
+    "furthermore , there is some evidence that the source is powering a large - scale radio jet , which hints not only at phases of past activity but also at the possibility of a nebula which may be used to constrain the integrated jet power and provide a further direct comparison between jets from neutron stars and those from black holes .",
+    "rpf would like to thank simone migliari for providing his data for fig 4 , and derek moss for assistance with radio source counts .",
+    "we would also like to thank the referee for suggesting , and the editor for insisting , that we check on the expected source counts .",
+    "we would like to acknowledge the extreme flexibility of the schedulers and observers at the australia telescope compact array who supported these observations .",
+    "the atca is run by atnf for csiro ."
+  ],
+  "abstract_text": [
+    "<S> we report radio observations , made with the australia telescope compact array , of the x - ray transient xte j1701 - 462 . </S>",
+    "<S> this system has been classified as a new ` z ' source , displaying characteristic patterns of behaviour probably associated with accretion onto a low magnetic field neutron star at close to the eddington limit . </S>",
+    "<S> the radio counterpart is highly variable , and was detected in six of sixteen observations over the period 2006 january  april . </S>",
+    "<S> the coupling of radio emission to x - ray state , despite limited sampling , appears to be similar to that of other ` z ' sources , in that there is no radio emission on the flaring branch . </S>",
+    "<S> the mean radio and x - ray luminosities are consistent with the other z sources for a distance of 515 kpc . </S>",
+    "<S> the radio spectrum is unusually flat , or even inverted , in contrast to the related sources , sco x-1 and cir x-1 , which usually display an optically thin radio spectrum . </S>",
+    "<S> deep wide - field observations indicate an extended structure three arcminutes to the south which is aligned with the x - ray binary . </S>",
+    "<S> this seems to represent a significant overdensity of radio sources for the field and so , although a background source remains a strong possibility , we consider it plausible that this is a large - scale jet associated with xte j1701 - 462 .    </S>",
+    "<S> ism : jets and outflows ; radio continuum : stars </S>"
+  ]
+}

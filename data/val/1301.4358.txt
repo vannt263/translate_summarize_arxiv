@@ -1,0 +1,21 @@
+{
+  "article_text": [
+    "one test recently proposed in the literature @xcite to discriminate between different homogeneous and inhomogeneous models is the redhshift - drift .",
+    "the redshift - drift is the change in the redshift of a given source observed at different proper times by a comoving observer in an expanding universe [ see fig . 1 ] .     of a source , initially at a redshift @xmath0 on the past light cone of an observer at @xmath1 , as measured by the same observer at @xmath2 after an elapsed time @xmath3 of the observer s proper time.,width=302 ]    sandage @xcite and then mcvittie @xcite had first calculated its expression in the friedmannian framework . in friedmann - lematre - robertson - walker ( flrw ) models , when the universe expansion decelerates , the redshift decreases with time , hence negative redshift - drift and when the expansion accelerates , like in the @xmath4cdm model , sources with redshifts @xmath5 exhibit a positive redshift - drift .",
+    "the redshift - drift has been recently calculated for inhomogeneous spherically symmetric ltb models @xcite .",
+    "we have generalized this calculation to the model proposed in @xcite and derived the equation for the redshift - drift in the axially symmetric qss model @xcite .",
+    "we derive the following equation for the redshift - drift in the axially symmetric qss model : @xmath6 we solve eqn .",
+    "( [ eq19 ] ) numerically to get the redshift - drift ( @xmath7 ) .    ) as a function of the redshift @xmath0 for the axially symmetric qss swiss - cheese model @xcite , the @xmath4cdm model , the cgbh ltb void model @xcite ( courtesy @xcite ) , the alnes et al .",
+    "ltb void model @xcite ( courtesy : @xcite ) and the yoo ltb hump model @xcite ( courtesy : @xcite ) ]    in fig .",
+    "[ drift_compfig ] , we display the redshift - drift for the szekeres model , the @xmath4cdm model , and for three ltb models : alnes et al.s void model @xcite and the constrained gbh ( cgbh ) void model @xcite , both studied in @xcite , and yoo s hump model @xcite , studied in @xcite .    in all three ltb models the observer is located at the center of the void . the drift for all three ltb as well as for the qss model is negative and its magnitude increases monotonically with the redshift @xmath0 .",
+    "the magnitude of the drift in the qss model is higher by a factor of about two , at a given redshift , than that in the ltb models ( at those redshifts where the ltb curves show a decline with increasing @xmath0 ) .",
+    "the drift in the @xmath4cdm model is positive up to @xmath8 , while it is negative in qss model . at redshift @xmath9 ,",
+    "its magnitude is much higher than that in the @xmath4cdm model by a factor of @xmath10 ,"
+  ],
+  "abstract_text": [
+    "<S> exact inhomogeneous solutions of einstein s equations have been used in the literature to build models reproducing the cosmological data without dark energy . however , owing to the degrees of freedom pertaining to these models , it is necessary to get rid of the degeneracy often exhibited by the problem of distinguishing between them and accelerating universe models . </S>",
+    "<S> we give an overview of redshift drift in inhomogeneous cosmologies , and explain how it serves to this purpose . </S>",
+    "<S> one class of models which fits the data is the szekeres swiss - cheese class where non - spherically symmetric voids exhibit a typical size of about 400 mpc . </S>",
+    "<S> we present our calculation of the redshift drift in this model , and compare it with the results obtained by other authors for alternate scenarios . </S>"
+  ]
+}

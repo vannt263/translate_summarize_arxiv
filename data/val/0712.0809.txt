@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "atomic diffusion is often proposed to explain the various observed anomalies ( abundance peculiarities , photometric jumps and gaps , and low gravities ) of bhb stars .",
+    "comprehensive surveys of bhb star abundances show that stars hotter than @xmath0 11,500k have abundance anomalies as compared to the other stars in the same globular cluster .",
+    "behr et al . ( 2000 ) demonstrated that the bhb stars with @xmath1 11,500k show modest rotation ( @xmath2 10  km / s ) , while the cooler stars are rotating more rapidly .",
+    "the metal abundance anomalies and slow rotation suggest that microscopic atomic diffusion is effective in stellar atmospheres of bhb stars with @xmath1 11,500  k. in this scenario , the competition between radiative levitation ( acting primarily through bound - bound atomic transitions ) and gravitational settling yields a net acceleration on atoms , which results in their diffusion in the atmosphere .",
+    "this process naturally produces vertical abundance stratification of different chemical species .",
+    "direct estimation of this stratification from line profile analysis would be a convincing argument in favour of efficient atomic diffusion in the atmospheres of hot bhb stars .",
+    "the line profile simulations are performed in a phoenix lte stellar atmosphere model with solar metallicity , but with enhanced iron and depleted helium abundances ( behr 2003 ) , employing the zeeman spectrum synthesis code . for each line",
+    "profile the iron abundance , radial velocity and @xmath3 were fitted using an automatic minimization routine ( khalack et al .",
+    "all the analysed stars are slowly rotating objects and have strong he depletion .",
+    "the results of our numerical simulations show that iron appears to be vertically stratified in the atmospheres of three stars : b267 and b279 in m15 and wf2 - 2541 in m13 .",
+    "the fe abundance increases towards the lower atmosphere , while for the upper atmospheric layers it is near its solar value . for wf4 - 3085 in m13 we can not reach a final conclusion , because models with higher ( by 1000 k ) @xmath4 and with solar abundances do not provide confident results for iron stratification , taking into account the uncertainties .",
+    "the other two stars , wf4 - 3485 in m13 and b84 in m15 , show no evidence of stratification of iron .",
+    "more details concerning these results are discussed by khalack et al .",
+    "( 2007b . )",
+    "we have found , for the first time , evidence of vertical stratification of iron in the atmospheres of three bhb stars .",
+    "these results support the common belief that atomic diffusion is important in the atmospheres of these objects . as abundance stratification",
+    "will modify the atmospheric structure , such observational results can serve as constraints in the development of atmospheric models such as those of hui - bon - hoa et al ."
+  ],
+  "abstract_text": [
+    "<S> the observed slow rotation and abundance peculiarities of certain blue horizontal branch ( bhb ) stars suggests that atomic diffusion can be important in their stellar atmospheres and can lead to vertical abundance stratification of chemical species in the atmosphere . to verify this hypothesis , </S>",
+    "<S> we have undertaken an abundance stratification analysis in the atmospheres of six bhb stars , based on recently acquired mcdonald - ce spectra . </S>",
+    "<S> our numerical simulations show that the iron abundance is vertically stratified in the atmospheres of two stars in m15 : b267 and b279 . </S>",
+    "<S> one star wf2 - 2541 in m13 also appears to have vertically stratified iron abundance , while for wf4 - 3085 the signatures of iron stratification are less convincing . in all cases </S>",
+    "<S> the iron abundances increase towards the lower atmosphere . </S>",
+    "<S> the other two stars in our sample , wf4 - 3485 and b84 , do not show any significant variation of iron with atmospheric depth . </S>",
+    "<S> our results support the idea that atomic diffusion dominates other hydrodynamic processes in the atmospheres of bhb stars . </S>"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the near - infrared cluster luminosity function is an important diagnostic tool for understanding the evolution of cluster galaxies . using ground - based k - band data and a sample of 38 clusters , de propris et al .",
+    ", ( 1999 ) showed that the evolution of m@xmath2 is consistent with a passively evolving population which formed at high redshift . from a deep observation of one",
+    "_ z _ = 1.27 cluster , toft et al .",
+    "( 2004 ) showed that the faint end slope of the lf was shallower at higher redshifts .",
+    "our 3.6@xmath0 lfs confirm both of these results .",
+    "we constructed lfs for our sample by stacking clusters in redshift intervals of @xmath5 .",
+    "we measure number counts from the full 4 degree@xmath1 of the fls and use them to statistically subtract the background . in order to stack clusters",
+    "we artificially redshift each cluster to the median redshift of the bin .",
+    "this involves computing the offset distance modulus as well as a small k - correction .",
+    "we use all galaxies within a radius of 750 mpc to construct the lfs , and apply a small completeness correction calculated from lacy et al .",
+    "the result is 10 lfs which span the redshift range 0.15 @xmath6 1.22 , and contain 7 - 21 clusters per bin .",
+    "figure 1 shows the _ z _ = 0.15 , 0.56 , 0.83 , & 1.00 lfs .",
+    "the fls data is fairly shallow ( @xmath4 m@xmath2 + 1.5 at _ z _ = 1.0 ) , and it does not allow a robust fit of the faint - end slope ( @xmath7 ) of the lfs .",
+    "therefore , we chose to hold @xmath7 constant ( adopting @xmath8 , the value assumed by de propris et al .",
+    "we fit only the normalization ( @xmath9 ) and characteristic magnitude ( m@xmath2 ) . at _ z _ @xmath10 0.5 , the lfs are well fit ( reduced @xmath11 @xmath4 1 ) .",
+    "however at _ z _ @xmath3 0.5 the fits become much poorer . in an attempt to improve the fit we allowed @xmath7 to vary in value from -0.2 to -1.5 , in increments of 0.1 .",
+    "we found that @xmath7 = -0.5 at @xmath12 , provided the best fit ( mean reduced @xmath11 of 0.83 compared to 1.1 for @xmath7 = -0.9 ) .",
+    "this faint - end slope is consistent with the value of @xmath7 = -0.64 found by toft et al .",
+    "( 2004 ) , and indicates that the number of low - mass galaxies in clusters decreases with redshift .",
+    "furthermore , our fitted values of m@xmath2 are consistent with models of passively evolving galaxies that form the bulk of their stars in a single - burst at _ z _ @xmath3 2 .",
+    "our interpretation of these results is that the most massive galaxies in clusters form synchronously with the cluster at _ z _ @xmath3 2 , whereas many of the low - mass systems are accreted from the field at lower redshift ( _ z _ @xmath10 0.5 ) ."
+  ],
+  "abstract_text": [
+    "<S> we have measured the 3.6@xmath0 cluster luminosity function ( lf ) using a sample of 123 galaxy clusters selected from the 4 degree@xmath1 _ spitzer _ first look survey ( fls ) . </S>",
+    "<S> the clusters were selected on the basis of their r - 3.6@xmath0 colors using the cluster red - sequence technique of gladders & yee ( 2000 ) . </S>",
+    "<S> the binned lfs are well - fit by a schechter function at all redshifts . </S>",
+    "<S> however , we note two interesting trends . </S>",
+    "<S> firstly , the evolution of m@xmath2 with redshift is consistent with models that form galaxies in a single - burst of star - formation at _ z _ @xmath3 2.0 , and evolve passively thereafter . </S>",
+    "<S> secondly , the faint - end slope of the lf appears to become shallower at higher redshift . </S>",
+    "<S> we conclude that the most massive galaxies were formed in the cluster at high redshift ( _ z _ @xmath3 2 . ) , while lower - mass galaxies have subsequently been accreted from the field at lower redshift ( _ z _ @xmath4 0.5 ) . </S>",
+    "<S> these results are consistent with the `` downsizing '' picture seen in previous cluster studies using smaller samples . </S>"
+  ]
+}

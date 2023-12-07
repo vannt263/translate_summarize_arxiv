@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "we have used the synthesis code by @xcite , updated by @xcite and newly revised now.the basic grid is composed by single stellar populations ( ssp ) for five different imf s .",
+    "the first one is a @xcite power law with masses between 0.85 and 120 m@xmath0 .",
+    "the others imfs are @xcite , @xcite , @xcite and @xcite functions , with masses between 0.15 and 100 m@xmath0 .",
+    "the isochrones are those from @xcite for 6 different metallicities : z @xmath1 0.0004 , 0.001 , 0.004 , 0.008 , 0.02 and 0.05 . the age coverage is from @xmath2 5.00 to 10.30 with a variable time resolution which is @xmath3 in the youngest stellar ages .",
+    "the wc and wn stars are identified in the isochrones according to their surface abundances .",
+    "the atmosphere models are from @xcite with an excellent coverage in effective temperature , gravity and metallicities , for stars with teff@xmath4 k. for o , b and wr we have taken the nlte blanketed models by @xcite at z@xmath10.001 , 0.004 , 0.008 , 0.02 and 0.04 .",
+    "there are 110 for o - b stars , with 25000 k @xmath5 k and @xmath6 , and 120 for wr stars ( 60 wn @xmath7 60 wc ) , with 30000 k @xmath8 k and @xmath9 for wn , and with @xmath10 k and @xmath11 for wc . t@xmath12",
+    "and r@xmath12 are the temperature and the radius at a roseland optical depth of 10 .    to assign a model to each wr star",
+    ", we use the relationships among opacity , mass loss and wind velocity : @xmath13 , where @xmath14 and @xmath15 , the h surface abundance , is taken as 0.2 for wn and 0 for wc .",
+    "the mass loss is : @xmath16 with @xmath17 taking @xmath18 .",
+    "integrating these equations we find r@xmath12 and then we select the closer atmosphere model .    for post - agb and pn with teff from 50000 to 220000 k",
+    "we take the nlte models by @xcite . for higher temperatures we use black bodies .",
+    "the resulting seds and hr diagrams are available in the vo .",
+    "the use of nlte blanketed models produce less hard ionizing photons than old models ( e.g. * ? ? ?",
+    "* ) which explains in antural way the emission line ratios in low excitation high metallicity hii regions .",
+    "previous work needed a steeper imf or mass segregation in small cluster , in disagreement with evidences from hst of the existence of very massive stars even in small clusters .",
+    "bressan , a. , granato , g. l. , & silva , l. 1998 , a&a , 332 , 135 chabrier , g.  2003 , apjl , 586 , l133 , f. , penco , u. , & palla , f. a&a , 231 , 391 garca - vargas , m. l. , bressan , a. , & daz , a. i. 1995 , a&as,112 , 13 garca - vargas , m.l .",
+    ", moll , m. , & bressan , a. 1998 , a&as,130 , 513 kroupa , p.  2002 , science , 295 , 82 lejeune , th . ,",
+    "cuisinier , f. , & buser , r. 1997 , a&as , 125 , 229 moll , m. , & garca - vargas , m. l. 2000 , a&a , 359,18 rauch t. 2003 , a&a 403 , 709 salpeter , e. e. 1955 , apj , 121 , 161 smith , l. , norris , r. , & crowther , p. 2002 , mnras , 337 , 1309"
+  ],
+  "abstract_text": [
+    "<S> we present new evolutionary synthesis models for single stellar populations covering a wide range in age and metallicity . </S>",
+    "<S> the most important difference with existing models is the use of nlte atmosphere models for the hot stars ( o , b , wr , post - agb stars , and planetary nebulae ) that have an important impact in the stellar cluster s ionizing spectra . </S>"
+  ]
+}

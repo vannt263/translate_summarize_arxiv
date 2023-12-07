@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "spectrophotometric data , such as spectral energy distributions ( sed ) , colors and spectral absorption stellar indices , are interpreted by mean of evolutionary synthesis models ( esm ) that usually provide their predictions for the so - called _ single stellar populations _ ( ssp ) .",
+    "these data are also available for spiral and irregular galaxies , although absorption spectral indices , mainly their radial distributions along the disks have been only recently obtained due to their arduous detection , for a certain number of spirals in @xcite .",
+    "spiral disks show a large complexity since they are composed by a mixing of stellar populations and show spatial variations along the disks and special phenomena as bars and outflows .",
+    "the use of the ssps predictions to analyze these data is inappropriate since in that case , the sed , @xmath0 , corresponds to the sum of different ssp seds , @xmath1(t ) ; that is , a convolution with the star formation history ( sfh ) , @xmath2 , must be done :    @xmath3    where @xmath4 . and @xmath1 are the sed of the ssp s .    the sfh and the age - metallicity relation ( amr ) , @xmath5 , necessary to assign @xmath6 to each time step , are , however , unknown .",
+    "but the present time state of a disk galaxy is known since emission lines from hii regions , from which elemental abundances are estimated , are observed .",
+    "these data , and other gas information , are usually interpreted by mean of chemical evolution models ( cem ) .",
+    "thus , our idea is to fit the present time data of a given spiral or irregular galaxy with a cem and then to use the evolutionary histories thus produced as input of a esm .",
+    "this technique of combining both types of data , those from the gas , and the spectro - photometric ones from stars , to better search for the possible evolution of a given spiral galaxy , has been successfully used to compute absorption spectral indices in @xcite , by demonstrating its validity .",
+    "we now apply the outlined method to the grid of cems from @xcite .",
+    "the sfh and amr of each radial region are the input of eq .",
+    "[ sed ] to calculate @xmath7 and thus colors , surface brightness and spectral absorption indices profiles .",
+    "fig .  [ ind ] shows the model results for ngc  4900 , a sbb spiral galaxy .",
+    "top panel are results of the cem which fits the present day data .",
+    "the oxygen abundance shows a radial gradient with a central value similar to that one estimated by @xcite . the hi predicted density shows a good fit for the disk , except the inner region with a density lower than observed .",
+    "the disk modeled star formation rate is in agreement with the data ( @xmath8 m@xmath9 yr@xmath10 ) .",
+    "the model predicts , however , a value one order of magnitude smaller than observed for the center .",
+    "an infall of gas from the disk , and a consequent burst of star formation , due to the effect of a bar may explain these differences model - data .",
+    "they are also apparent in spectral indices such as the bidimensional spectroscopy data from @xcite , marked in fig .",
+    "[ ind ] , show . in the bar , where young stellar populations over a subjacent old stellar population there exist ,",
+    "the spectral indices @xmath11 and higher h@xmath12 are smaller green dashed lines than predicted , and actually observed out of the bar . we conclude that our models are useful to interpret adequately complex disk galaxies , in particular the barred ones ."
+  ],
+  "abstract_text": [
+    "<S> we present a grid of 440 spectro - photometric models for simulating spiral and irregular galaxies . </S>",
+    "<S> they have been consistently calculated with evolutionary synthesis models which use as input the information proceeding from chemical evolution models . </S>",
+    "<S> the model predictions are spectral energy distributions , brightness and color profiles and radial distributions of spectral absorption stellar indices which are in agreement with observations . </S>"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "we study the possibility of a cool disk existing in the galactic center in the framework of the disk - corona evaporation .",
+    "interaction between the hot corona and the cool disk underneath occurs via energy and mass exchange .",
+    "the hot corona conducts heat downward by electrons . at the bottom",
+    "the heat is radiated away .",
+    "an equilibrium is established : if the density in the corona is too low , bremsstrahlung is inefficient and the thermal conductive flux heats up some of the disk gas leading to mass evaporation from the disk into the corona . the resulting density increase in the corona raises the radiation loss and thereby counteracts further evaporation .",
+    "if the coronal density is too high , radiative cooling is too strong and gas condenses into the disk . at the final equilibrium density one of the processes",
+    "works , either evaporation of disk mass to the corona or condensation of mass from the corona into the cool disk .",
+    "the outcome depends on the mass flow in the corona from outside .",
+    "assuming the applicability of our model for the evaporation / condensation process we can estimate how much mass would have evaporated by coronal action during a given time interval .",
+    "we get an upper limit for the mass that might have been left over in a putative accretion disk after a last star forming event , assuming that no thin disk exists now .",
+    "we consider the region at the distance @xmath0 schwarzschild radii from the black hole which corresponds to @xmath1 to @xmath2 pc .",
+    "for an assumed standard value of the viscosity parameter @xmath3 = 0.3 and no wind escape from the corona we found a rate of about @xmath4 times the eddington accretion rate corresponding to @xmath5 solar masses per year .",
+    "chandra observations directly image the hot x - ray - emitting thermal gas in the vicinity of the bondi accretion radius where the surrounding gas is captured by the gravitational pull of the central black hole , and determine temperatures and densities that allow to estimate a mass accretion rate of sgr a@xmath6 of @xmath7/yr ( e.g. baganoff et al .",
+    "if we assume that inflow rate during the time since the last star forming event , always disk evaporation would have been present .",
+    "we consider the history of our galactic center during the lifetime of the stars observed close to the galactic center .",
+    "after the last star forming event in a then gravitationally unstable disk a certain amount of gas might have remained .",
+    "this mass left over then should no longer have been gravitationally unstable .",
+    "we here ask how much of this mass would have evaporated .",
+    "the observations , especially spectroscopy of one star , s0 - 2 , observed in the vicinity of sgr @xmath8 suggest that these stars are main sequence o / b stars ( eisenhauer et al .",
+    "2003 , ghez et al .",
+    "the main sequence lifetime of these stars is of order of @xmath9 years ( maeder & meynet 1989 ) .",
+    "we consider the disk evolution during this time interval . from the evaporation rate we find an upper limit of 300 to 1000 solar masses for the amount of gas that remained in a disk after these stars had been formed and",
+    "was then evaporated until now .",
+    "this value is in the range of mass of the presently observed bright o / b stars close to the galactic center .",
+    "this means about the same amount of mass as used up in star formation could have remained in a thin disk .",
+    "such an estimate would also be of interest in the framework of star formation in the galactic center as recently discussed by milosavljevi and loeb ( 2004 ) .",
+    "they suggest star formation in a warm molecular disk where newly formed self - gravitating objects can have protostellar disks where fragmentation leads to multiple clumps resembling the irs 13 complex in the neighborhood of sgr @xmath8 .",
+    "interestingly this amount of gas is also close to that of the stability limit of a disk against self - gravitation .",
+    "this suggests as a possible picture for the evolutionary history that a disk could have become unstable by self - gravitation and formed the presently observed young massive stars around the galactic center until the gravitational instability had ceased .",
+    "even if such a disk could have been too cool to allow magnetic dynamo action and would then have negligible internal viscosity and mass flow , it would have disappeared by now by evaporation ."
+  ],
+  "abstract_text": [
+    "<S> we raise the question whether in the past a disk could have existed in our galactic center which has disappeared now . our model for the interaction of a cool disk and a hot corona above ( liu et al . </S>",
+    "<S> 2004 ) allows to estimate an upper limit for the mass that might have been present in a putative accretion disk after a last star forming event , but would now have evaporated by coronal action . </S>"
+  ]
+}

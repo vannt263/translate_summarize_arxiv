@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the most essential problem of cosmic ray physics is the study of the energy spectrum of primary cosmic radiation ( pcr ) , their chemical composition and interactions of pcr particles with atmospheric nuclei at superhigh energies , inaccessible for modern accelerators .",
+    "muon groups in underground experiments , being one of the components of extensive air showers ( eas ) , convey information about characteristics of cosmic rays . alongside with these data on muon groups",
+    "embrace the interval of primary energies located between direct and indirect methods of measuring : from @xmath5 to @xmath6 ev , i.e. , they cover the region of the presumed knee of the primary cosmic - ray spectrum .",
+    "besides , an interesting cosmic - ray phenomenon related to the so - called alignment of clusters of close particles or relatively isolated particles is also observed in the knee range .",
+    "this phenomenon has been first found in experiments on study of gamma - ray  hadron ( @xmath0 ) families ( groups of the most energetic particles in the eas cores ) with the use of x - ray emulsion chambers ( xrec ) in events with an observed energy @xmath7 tev @xcite .",
+    "the alignment is realized as the tendency of the location of particles near a straight line on the target diagram that corresponds in the three - dimensional case to the absence of the azimuthal symmetry with respect to the eas axis and concentration of particles momenta near some plane .",
+    "the explanation of the whole block of data related to the alignment phenomenon by fluctuations of cascade development in the atmosphere seems to be improbable @xmath8 @xcite .",
+    "the influence of the earth s magnetic field and thunderstorm - cloud electric fields is also negligible @xcite .",
+    "it was assumed that the cause of the alignment is trivial diffraction kinematics effects @xcite ; generation of quark - gluon strings @xcite ; appearance of a new strong interaction and generation of new super - heavy quarks of higher color symmetry @xcite ; semihard double diffraction dissociation with a tension of a quark - gluon string between a semihardly scattered constituent quark and spectator quarks of the projectile hadron and its following rupture with creation of secondary particles @xcite .",
+    "lateral @xmath9 distributions : 1  @xmath10 ; 2  @xmath11 ; 3  exponential fit ( @xmath12 m ) at @xmath13 tev . ]    [ plot1 ]     lateral @xmath9 distributions : 1  @xmath10 ; 2  @xmath11 ; 3  exponential fit ( @xmath12 m ) at @xmath14 tev . ]    [ plot2 ]     tev . ]    [ fig2 ]    there are very few experimental works on aligned events study in muon groups deep underground : macro @xcite and bust @xcite .",
+    "a search for aligned events has been done using the alignment parameter @xcite : + @xmath15 , $ ] where @xmath16 is the angle between the lines connecting the @xmath17-th particle with the @xmath18-th and @xmath19-th particles , @xmath20 is the number of particles @xmath21 . note that @xmath22 decreases from @xmath23 for completely aligned events to @xmath24 $ ] in the case of isotropic events .",
+    "in @xcite the distribution of events as function of parameter @xmath22 is peaked at @xmath25 due to the asymmetry of macro detector geometry @xmath26 m@xmath27 ) .",
+    "two variants of simulation ( corsika / qgsjet and hemas / dpmjet ) were made .",
+    "the experimental data not contradict the simulation .",
+    "results of our analysis of bust experimental data are shown in figs .",
+    "[ plot1 ] and [ plot2 ] for two muon threshold energies @xmath28 ( 0.85 and 3.2 tev ) .",
+    "one can see that there is no a significant difference in the lateral distribution for events selected by @xmath29 parameter .",
+    "note that visible change of slope in [ plot2 ] for both types of events can be explained by the admixture of @xmath30% wrong events corresponding to lower energy threshold due to errors in angular measurements and very high gradient of the mountain profile .",
+    "it was shown in our previous works @xcite that aligned muon events observed in our experiment are pure statistical ones . in this work",
+    "we shown that there are no statistically significant differences in lateral distributions of `` aligned '' and all events .",
+    "the latter confirms once again that our `` aligned '' muon groups are just a statistical tail of a big number of events recorded by bust .    fig .",
+    "[ fig2 ] shows the absence of a significant difference in lateral distributions of muon groups simulated with a qgsjet - like mc0 model and a coplanar particle generation model ( cpgm ) @xcite .",
+    "a key for explanation of this result can be found if one takes into account that a fraction of muons produced by decaying high - energy mesons generated in the first interaction is negligible as compared to muons produced in following generations deeper in the atmosphere .",
+    "this work is supported by russian foundation for basic research ( projects 04 - 02 - 17083 , 05 - 02 - 17599 , 05 - 02 - 16781 , 06 - 02 - 16606 ,",
+    "06 - 02 - 16969 ) , russian ministry of education and science ( projects ss-5573.2006.2 and ss-4580.2006.02 ) and russian federal agency of science and innovations ( state contract 02.445.11.7070 ) ."
+  ],
+  "abstract_text": [
+    "<S> the paper concerns the so - called aligned events observed in cosmic rays . </S>",
+    "<S> the phenomenon of the alignment of the most energetic subcores of gamma - ray  hadron ( @xmath0 ) families ( particles of the highest energies in the central eas core ) was firstly found in the `` pamir '' emulsion chamber experiment and related to a coplanar particle production at @xmath1 ev . here </S>",
+    "<S> a separation distribution ( distances between pairs of muons ) for aligned events has been analyzed throughout muon groups measured by baksan underground scintillation telescope ( bust ) for threshold energies @xmath2 tev during a period of 7.7 years . </S>",
+    "<S> only muon groups of multiplicity @xmath3 with inclined trajectories for an interval of zenith angles @xmath4 were selected for the analysis . </S>",
+    "<S> the analysis has revealed that the distribution complies with the exponential law . </S>",
+    "<S> meanwhile the distributions become steeper with the increase of threshold energy . </S>",
+    "<S> there has been no difference between the lateral distribution of all the groups and the distribution of the aligned groups .    * lateral distribution for aligned events in muon groups deep underground*talk given at the isvhecri2006 , weihai , china +   +   +   + </S>"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "m15 is a massive core - collapsed cluster , with an enormous stellar density in the central @xmath01@xmath1@xmath21@xmath1 , reflected in the scarcity of photometric variable star detections in this field .",
+    "however , ferraro & paresce ( 1993 ) used the hst / foc to identify 19 variable candidates . our earlier work ( butler et al . 1998 ) , using a triffid / mama camera similar to that described here , resulted in light curves and periods for all but four of these , with a further 16 suspected new variables .",
+    "we made new observations in _ b _ and _ v _ simultaneously with the triffid-2/mama camera on the 1 m jkt ( la palma ) , over 12 nights in july 1997 , with seeing of 0@xmath37 - 0@xmath38 .",
+    "the 2-d photon - counted data were first sharpened post - exposure by tip / tilt correction at 1ms time resolution . the isis ( alard & lupton 1998 ) image matching and difference imaging package was used to search for frame - to - frame variability .",
+    "all star - like objects 6-sigma above the local background of the the _ median _ of the set of difference images were selected as candidate variables ( see figure 1 ) .",
+    "psf - fitting photometry was performed at accurate positions for the candidate variables in the difference images .",
+    "the resulting relative fluxes were converted to absolute fluxes by performing profile - fitting photometery on the reference image .",
+    "the instrumental magnitudes were zeropointed against photometry of hst / wfpc2 archival images in the f555w and f439w filter system .",
+    "accurate periods ( and hence lightcurves ) were obtained for the set of magnitude measurements for all candidate variables using the phase dispersions minimisation technique ( pdm , stellingwerf 1978 ) .",
+    "simulations performed using an artificial image - set modeled on our m15 observations indicate that we are sensitive to rr lyrae variables with an amplitude swing of 0.15 mag ( at 80% detection probability ) .",
+    "we also increased our sensitivity to dwarf novae ( dne ) by summing all images per night prior to isis analysis .",
+    "we confirmed all known variables and detected 22 new ones . the lightcurve shape , amplitude , scatter and most significant period distinguished 12 rrab , 19 rrc and 2 ( probable ) rrd variables .",
+    "the nature of 11 variables remains uncertain .",
+    "we found that the core rr lyrae population has similar periods and amplitudes to the outer population .",
+    "however , in the core we find a marked increase in the ratio of rrc / rrab stars and a dearth of rrd stars , with respect to the outer reaches .",
+    "the latter can be reconciled on observational grounds but the former can not .",
+    "also detected were the lmxb counterpart ac211 , a w vir type cepheid , and a bl her type cepheid - objects 20 , 33 and 18 in figure 1 .",
+    "our search yielded no candidate dne . from simulations , we estimate fewer than 10 ( with 92% probability )",
+    "dne of absolute mag 4.3 ( f555w/@xmath4 ) to exist in the studied region .",
+    "this is the first such quantitative result for m15 ."
+  ],
+  "abstract_text": [
+    "<S> a two - week campaign of high - resolution imaging of the centre of m15 using the tip / tilt correcting triffid-2 camera , followed by analysis with isis ( image matching & subtraction software ) , has produced the most sensitive survey to date of variable stars in the central @xmath01@xmath1@xmath21@xmath1 - a total of 48 were detected - , and constrains the size of the dwarf nova population .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "current projects to increase the density of ultra - cold neutrons ( ucn ) available for physics experiments employ neutron converters of superfluid helium ( he - ii ) @xcite and solid deuterium @xcite . in these materials",
+    "cold neutrons with energies in the order of mev may be scattered down to the nev energy range by the excitation of a single phonon or multiphonon in the converter .",
+    "the inverse process is suppressed by the boltzmann factor if the converter is kept at sufficiently low temperature .",
+    "we consider ucn production in he - ii , for which first publications have focused on the single phonon process , where incident @xmath4    neutrons are scattered down to the ucn energy range @xcite .",
+    "later two publications korobkina2002,schott2003 have set out to calculate the expected ucn production rate from processes involving the emission of two or more excitations but reached contradicting results .",
+    "the purpose of this article is to provide on the one hand a physical - model - based extrapolation to short wavelengths of scattering data relevant for ucn production . on the other hand we consider for the first time ucn production in he - ii under pressure",
+    "this is motivated by the pressure dependence of the properties of he - ii , in particular its dispersion curve and density .",
+    "application of pressure to he - ii increases the velocity of sound , such that the dispersion curves of he - ii and of the free neutron cross at shorter neutron wavelength . for neutron beams from a neutron guide coupled to a liquid deuterium cold source , the differential flux density @xmath5 in the range @xmath6    normally increases for decreasing wavelength .",
+    "pressure also increases the density of he - ii .",
+    "these two facts may lead to the expectation that the single phonon ucn production rate increases with pressure .",
+    "furthermore , the multiphonon contributions might be favourably affected by application of pressure .",
+    "this justifies to investigate whether pressure may provide an ucn source superior to a converter at saturated vapour pressure ( svp ) .",
+    "the first part of this paper presents some general expressions for the ucn production rate in he - ii as given in an internal note in 1982 by pendlebury @xcite and in ref .",
+    "@xcite . in the second part we consider ucn production due to multiphonon scattering both for svp and for 20  bar , using inelastic scattering data for he - ii measured at 0.5  k@xcite .",
+    "we give a formula approximating the contribution from multiphonon processes to the ucn production rate .",
+    "this might be useful to calculate , for any given spectrum of incident neutrons , the expected ucn production rate .",
+    "as an example , this is done here for the cold neutron beam pf1b at the institut laue langevin .",
+    "ucn production in superfluid helium is due to coherent inelastic scattering of the incident cold neutrons with energy @xmath7 ( and wavenumber @xmath8 ) down to energies @xmath9 ( @xmath10 ) .",
+    "the maximum final energy is defined by the wall potential of the converter vessel ( @xmath11  nev for beryllium ) with respect to the fermi potential of he - ii ( 18.5  nev at svp ) : @xmath12  nev .",
+    "the production rate is given by          where @xmath18 is the neutron scattering length of @xmath19he , @xmath20 , @xmath21 , and @xmath22 is the dynamic scattering function evaluated for values on the dispersion curve of the free neutron .",
+    "details of calculation can be found in ref.@xcite where the general result is given in eq.(9 ) .",
+    "we may write          the single phonon contribution can be approximated by @xmath31 , where @xmath32 is the neutron wavelength at the intersection of the dispersion curves of the free neutron and the helium ( @xmath33  @xmath34 for svp ) , and @xmath35 denotes the intensity due to single phonon emission .",
+    "evaluation of the single - phonon ucn production rate yields              .factors relevant for single phonon production rate deduced from ref.@xcite .",
+    "an increase in flux of a factor @xmath42 , going from @xmath4    to @xmath43    is necessary to compensate for the loss in intensity .",
+    "[ cols= \" < , > , < , > , < \" , ]"
+  ],
+  "abstract_text": [
+    "<S> cold neutrons are converted to ultra - cold neutrons ( ucn ) by the excitation of a single phonon or multiphonons in superfluid helium . </S>",
+    "<S> the dynamic scattering function @xmath0 of the superfluid helium strongly depends on pressure , leading to a pressure - dependent differential ucn production rate . </S>",
+    "<S> a phenomenological expression for the multiphonon part of the scattering function @xmath1 describing ucn production has been derived from inelastic neutron scattering data . when combined with the production rate from single </S>",
+    "<S> phonon processes this allows us to calculate the ucn production for any incident neutron flux . for calculations of the ucn production from single phonon processes we propose to use the values @xmath2 at saturated vapour pressure and @xmath3 at 20  bar . as an example we will calculate the expected ucn production rate at the cold neutron beam for fundamental physics pf1b at the institut laue langevin . </S>",
+    "<S> we conclude that ucn production in superfluid helium under pressure is not attractive .    ,    ,    ultracold neutron production , superfluid helium , helium under pressure 78.20.nx , 61.12.ex , 29.25.dz </S>"
+  ]
+}

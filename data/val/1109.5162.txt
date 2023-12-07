@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "galactic planetary nebulae ( pne ) belong mostly to the galactic disk . within the central stars of pne",
+    "there is a particular group ( @xmath3 10% of the known sample ) which presents w - r spectral type , i.e , they show large mass loss and an atmosphere of he , c and o ( [ wc ] spectral type ) .",
+    "we aim to study the kinematical behavior of this group .",
+    "a sample of 72 pne were observed of which 40 are [ wc]pne .",
+    "the spectra were obtained with the spectrographs ` echelle ' of the oan - spm , mxico ( 47 objects ) and mike at clay 6.5-m telescope , las campanas observatory ( 25 objects ) . the spectra cover a range between 3700 and 7000  . to determine radial velocities",
+    "iraf tasks were employed .",
+    "we measured the central wavelengths of the lines h@xmath4",
+    ", h@xmath5 , h@xmath6 , [ oiii]@xmath74959,5007 and [ nii]@xmath76548 , 6583 by performing a gaussian fit . in the case of double profiles",
+    ", we took the average of both components .",
+    "the radial velocities were corrected for terrestrial motion , thus providing the heliocentric radial velocities .",
+    "we also computed the circular velocitites , v@xmath8 , corresponding to the heliocentric radial velocity due to galactic rotation .",
+    "this allows us to determine the peculiar velocities of the objects , as given by : @xmath9 to derived circular and peculiar velocities we used the distances by stanghellini & haywood ( 2010 ) .",
+    "1 shows that most of the pne are distributed in the galactic disk and they are strongly concentrated towards the galactic center .",
+    "many of them actually belong to the bulge .",
+    "[ wc]pne ( fig",
+    ". 1 above ) are more concentrated than normal pne ( fig . 1 below ) , showing distances above the plane lower than 400 pc while normal pne show typical distances above the plane up to 800 pc .",
+    "most [ wc]pn have a maximum galactic latitude b=@xmath10 .",
+    "in addition , a significant number have been detected in the bulge ( gorny et al .",
+    "2009 ) .",
+    "pne , below : normal pne.,title=\"fig:\",width=307 ] -8pt",
+    "- we have classified the [ wc]pne of our sample in peimbert s types ( peimbert 1978 ) . of the 46 objects analyzed ,",
+    "8 are peimbert s type i ( they are he and n - rich and represent 17.39% of the total sample , two of them , pn g003.1 + 02.9 hb4 and pn g011.9 + 04.2 m1 - 32 , belong to the bulge ) , 25 are peimbert s type ii ( defined as having @xmath1 @xmath2 60 km / s , they represent the 54.35% ) and 13 are peimbert s type iii ( these have @xmath11 60 km / s and represent the 28.26% ) . then most , being of peimbert type ii , are middle age objects , and there are some [ wc]pne belonging to the old disk population .    - two pne ( no [ wc ] ) in our sample have very high radial velocity .",
+    "one is the well known bobn-1 ( pn g108.4 - 76.1 , v@xmath12=187.82 km / s ) which belongs to the galactic halo , although recently it was found that it could belong to the sagittarius dwarf galaxy ( zijlstra et al .",
+    "the other case , hb12 ( pn g111.8 - 02.8 ) , shows an extremely large peculiar velocity ( v@xmath13371.34 km / s ) which classifies it as a very high velocity object despite it is located in the disk . for its high speed this object may belong to the halo .",
+    "gorny , s. , chiapini , c. , stasinska , g. , cuisinier , f. , 2009 , _ a&a _ ,",
+    "500 , 1089 peimbert , m. , 1978 , in : y. terzian ( ed . ) , _ planetary nebulae , observations and theory _ , proc .",
+    "76 ( reidel publishing co. ) , p.  215",
+    "stanghellini , l. , & haywood , m. , 2010 , _ apj _ , 714 , 1096 zijlstra , a. a. , gesicki , k. , walsh , r. j. , et al .",
+    ", 2006 , _ mnras _ , 369 , 875"
+  ],
+  "abstract_text": [
+    "<S> high resolution spectroscopic data of a large sample of galactic planetary nebulae with [ wc ] central stars ( [ wc]pne ) are analyzed to determine their kinematical behavior . </S>",
+    "<S> their heliocentric velocities have been determined with a precision better than a few km / s . </S>",
+    "<S> distances obtained from the literature are used to derive the peculiar velocities of the objects .    </S>",
+    "<S> our preliminary results are : ( a ) the [ wc]pne are distributed in the galactic disk and they appear more concentrated than the normal pne . </S>",
+    "<S> ( b ) separating the sample in peimbert s types , we find that type i pne show in general low peculiar velocities ( @xmath0 50 km / s ) except for a couple of objects apparently belonging to the galactic bulge . </S>",
+    "<S> for the other [ wc]pne , most of them belong to the peimbert s type ii ( defined as having @xmath1 @xmath2 60 km / s ) </S>",
+    "<S> . however there is an important fraction ( 28% ) showing @xmath1 larger than 60 km / s therefore they are classified as peimbert s type iii . </S>"
+  ]
+}

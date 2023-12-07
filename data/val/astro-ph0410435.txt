@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "analyses of the faint carina dsph have revealed that it contains a variety of stellar populations ( e.g. ,  [ 4 ] ) , exhibiting prominent old ( @xmath111gyr ) and intermediate - age ( 56 and 3gyr ) populations .",
+    "this implies that carina must have undergone several star forming ( sf ) episodes with at least three significant pulses . despite this wide spread in ages ,",
+    "its colour - magnitude diagram features a remarkably narrow rgb .",
+    "the reason for that can be an age counteracting spread in metallicities , where metal rich , young stars have colours comparable to the older , more metal poor ones .",
+    "such a possible age - metallicity degeneracy can be overcome if accurate and independent [ fe / h ] measurements are obtained so that the remaining parameter of age can be estimated from isochrones .",
+    "moreover , the overall shape and spatial variations of the metallicity distribution function ( mdf ) itself contain valuable implications for analysing carina s unusual sf history .",
+    "in the course of an eso large programme , we observed 1257 red giants covering five fields in carina out to the tidal radius .",
+    "our observations were performed during 23 nights with the multi - object spectrograph flames at the vlt in low - resolution mode , centered at the near infrared cat .",
+    "the data were reduced using the standard flames reduction pipline . since sky contamination from bright emission lines is strong in the cat region , we calculated an average sky - spectrum from 20 dedicated skyfibres , which then was carefully subtracted from the science spectra . typical signal - to - noise ( s / n ) ratios for our spectra lie between 25 and 150 pixel@xmath2 .",
+    "after rejection of foreground stars and stars with too low a s / n , 487 radial velocity members were analysed .",
+    "finally , metallicities were derived from the reduced equivalent width w@xmath3 ( [ 1],[5 ] ) .",
+    "the resulting mdf for our 487 red giants is shown in the top panel of fig .",
+    "1 . it is peaked at an average [ fe / h ] of @xmath4dex , which is in excellent agreement with the spectroscopic study of  [ 6 ] , who found a value of @xmath5dex .",
+    "we find a dispersion of @xmath6=0.25dex and as fig .",
+    "1 implies , the full spread of [ fe / h ] is at least one dex .",
+    "this suggests that the wide range in age is in fact counteracted by a wide spread in metallicity , which can explain carina s narrow rgb and confirms that a complex mixture of stellar populations as in carina does not necessarily contradict the rgb s narrowness .",
+    "the different stellar populations in carina have also different spatial distributions , where , the intermediate age red clump stars are clearly concentrated towards the center compared to the old hb ( see [ 1 ] )",
+    ". thus we plot in fig .  1 ( bottom panel ) the error - weighted mdfs for three different regions along the galaxy s axes .",
+    "while the curves for the central region and larger minor axis distances do not differ largely and also resemble those along the major axis , there is a shift of the mdf s peak towards the metal poor end by 0.2dex when concentrating on the outer , northwestern region ( lower axis distances ) .",
+    "1 also overplots a model curve from  [ 3 ] , showing the predicted mdf for carina .",
+    "this model uses a sf efficiency of 0.1gyr@xmath2 and a galactic wind efficiency at the lower end of wind rates in dsphs .",
+    "such a lower wind rate nicely explains the smooth decline of the observed mdf towards the metal rich end , as a higher wind rate would expel enriched gas more efficiently thus preventing the formation of this metal rich tail .",
+    "secondly , the low sf rate is able to explain the metal poor peak of the mdf in terms of a moderate enrichment history .",
+    "however , remaining caveats are the higher fraction of predicted extremely metal poor stars and the lower number of metal poor stars around [ fe / h]@xmath7 , which can be understood in the context of the low infall timescale of gas assumed in dsphs ( [ 3 ] ) . with our accurate [ fe / h ] measurements at hand we will in the next steps pursue the underlying age distribution and use the abundance ratios from our multi - object high - resolution spectroscopy to further unravel the mechanisms governing carina s evolutionary history .    .",
+    "the bottom plot shows spatially separated mdfs in three different regions of carina , measured along the major and minor axes.,title=\"fig:\",width=453 ] .",
+    "the bottom plot shows spatially separated mdfs in three different regions of carina , measured along the major and minor axes.,title=\"fig:\",width=453 ]      cole , a.a .",
+    ", et al . , mnras , 347 , 367 harbeck , d. , et .",
+    "2001 , aj , 122 , 3092 lanfrachi , g. , & matteucci , f. 2004 , mnras , 351 , 1338 monelli , m. , et al .",
+    "2003 , aj , 126 , 218 rutledge , g.a . ,",
+    "hesser , j.e . , stetson , p.b .",
+    "1997 , pasp , 109 , 907 smecker - hane , t.a .",
+    ", et al . 1999 , asp conf .",
+    "ser . , 192 , 159"
+  ],
+  "abstract_text": [
+    "<S> we present metallicities for 487 red giants in the carina dwarf spheroidal ( dsph ) galaxy that were obtained from flames low - resolution ca triplet ( cat ) spectroscopy . </S>",
+    "<S> we find a mean [ fe / h ] of @xmath0dex with an intrinsic dispersion of 0.25dex , whereas the full spread in metallicities is at least one dex . </S>",
+    "<S> the analysis of the radial distribution of metallicities reveals that an excess of metal poor stars resides in a region of larger axis distances . </S>",
+    "<S> these results can constrain evolutionary models and are discussed in the context of chemical evolution in the carina dsph . </S>"
+  ]
+}

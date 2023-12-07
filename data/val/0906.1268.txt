@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "studying the optical transients ( ot ) of grbs is one of the major tasks of the swift satellite .",
+    "however , a significant fraction of grbs does not show detectable ot fluences .",
+    "it means in the number of cases one measured only an upper limit instead of a real event . treating only those bursts exceeding the limit of detection with a high certainty one",
+    "never can be sure how representative is the sample obtained in this way for the whole population of the grbs detected by the bat .",
+    "survival analysis offers a solution to overcome this difficulty .",
+    "if one knows a lower / upper bound for the measured data instead of concrete values they are considered as censored . in mathematical terms let we have two independent stochastic variables : @xmath4 $ ] .",
+    "if @xmath5 then @xmath6 is detected , otherwise @xmath7 which is an upper bound for @xmath6 in this way .",
+    "a sample representing these observations consists of a mixture of real and censored ( upper bound ) data . in our case",
+    "@xmath6 represents the brightness of an ot and @xmath7 an upper bound for the non real ( censored ) detection .",
+    "kaplan and meier  @xcite showed it is possible to estimate the true distribution of a sample even in the case of censorship ( for the astronomical context see feigelson and nelson  @xcite ) .",
+    "according to kaplan and meier the following estimate gives the survival function :    @xmath8    where @xmath9 is is the probability distribution function and    @xmath10^{\\delta_i}\\ ] ]    @xmath11 means the number of data , @xmath12 equals 1 at non censored data and 0 in the censored case .",
+    "it means the estimated survival function jumps at real data and remains constant in the case of censoring .",
+    "until preparing this work swift observed 144 events and detected ot in 31 cases .",
+    "73 bursts have only upper limits and the rest has no optical data . before making the survival analysis the effect of the foreground extinction",
+    "has to be removed .",
+    "we used the data of schlegel et al .  @xcite . performing the analysis we derived the true cumulative distribution of the v visual magnitudes which can be compared with that of the measured optical events , as displayed in figure [ surv1 ] .",
+    "it is worth mentioning that a homogeneous spatial distribution in euclidean space would resulted in a coefficient of 0.6 instead of 0.234 , as obtained .",
+    "this result gives an important constraint on estimating the spatial distribution of ot events .",
+    "the bat on the swift satellite measured the fluence , peak flux and @xmath3 duration in the 15 - 150 kev energy range .",
+    "we computed the pearson linear correlation between the extinction - corrected @xmath0 visual magnitude of the ots and the logarithms of quantities mentioned .",
+    "we obtained significant correlation only with the logarithmic peak flux at the 99.7% level ( see fig .",
+    "[ surv2 ] ) ."
+  ],
+  "abstract_text": [
+    "<S> in a systematic search of the ots at grbs the swift satellite determined only an upper limit of the apparent brightness in a significant fraction of cases . combining these upper limits with the really measured ot brightness we obtained a sample well suited to survival analysis . performing a kaplan - meier product limit estimation we obtained an unbiased cumulative distribution of the @xmath0 visual brightness . </S>",
+    "<S> the @xmath1 logarithmic cumulative distribution can be well fitted with a linear function of @xmath0 in the form of @xmath2 . </S>",
+    "<S> we studied the dependence of @xmath0 on the gamma ray properties of the bursts . </S>",
+    "<S> we tested the dependence on the fluence , @xmath3 duration and peak flux . </S>",
+    "<S> we found a dependence on the peak flux on the 99.7% significance level . </S>"
+  ]
+}

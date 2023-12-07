@@ -1,0 +1,17 @@
+{
+  "article_text": [
+    "the most popular models for the engine of long grb attribute the energetics of the prompt emission ( @xmath0 erg ) and of the afterglow , to the energy released by the accretion of a torus onto a rotating black hole ( bh ) ( e.g. woosley 1993 , vietri & stella 1998 , see meszaros 2002 for a review ) .",
+    "indeed relativistic numerical simulations and analytical calculations support the view that the collapse of a rotating massive star can lead - under rather general assumptions - to the formation of a black hole and a disc containing about 10 per cent of the mass ( shibata & shapiro 2002 , shapiro & shibata 2002 ) .",
+    "if the event is catastrophic and not repetitive , the accretion of the whole of the torus should leave as a final result a bh with mass @xmath1 and angular momentum @xmath2 , depending on the mass and angular momentum of the progenitor star .    from general principles (",
+    "e.g. the no - hair theorem ( misner , thorne , wheeler 1973 ) , the ejecta giving raise to the grb and afterglow events can be only related to these quantities , @xmath1 and @xmath2 , that characterize the bh .    within this scenario",
+    "we then notice that the bh spin is expected to be directly related to the collimation angle @xmath3 of the relativistic fireball responsible for the grb emission and vice versa estimated values of @xmath3 can be translated into a value of the bh spin @xmath4 .",
+    "in particular the results presented by berger , kulkarni & frail ( 2003 ) correspond to a distribution which suggests that grb could be produced by almost maximally rotating bh ( see figure 1 ) .",
+    "under the general assumption that the energy released in grb originates from a torus accreting onto a rotating bh , we note the collimation angles of the ejecta reflect the distribution of the bh spin .",
+    "the reported values ( e.g. berger , kulkarni & frail 2003 ) suggest a maximally rotating bh ."
+  ],
+  "abstract_text": [
+    "<S> we note that if the grb phenomenon follows from the collapse of a massive object forming a black hole and a torus accreting into it , the resulting ejecta can be only related to the mass and angular momentum that characterize the black hole . </S>",
+    "<S> the opening angle of the fireball then corresponds to a black hole spin . </S>",
+    "<S> if indeed the fireballs opening angles are as small as recent estimates reported in the literature suggest , then grb would be produced by almost maximally rotating bh . </S>"
+  ]
+}
