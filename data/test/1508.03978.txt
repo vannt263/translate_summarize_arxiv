@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "with the introduction of new telescopes and instruments to the scientific astronomical community , and the rapid increase of sky surveys such as sdss and rave , tremendous amount of spectral data is being acquired on a daily basis and with an increasing rate .",
+    "therefore , these challenges urged the need of efficient and automated techniques to handle and analyze this huge amount of information .",
+    "such automated procedures for classification of stars have been discussed recently using different codes and mathematical approaches . as an example",
+    ", one can mention the methods used to analyze a spectral library described in @xcite .",
+    "+ in this work , we present a dimensionality reduction technique called pca , applied to a huge database of synthetic spectra .",
+    "pca searches in a high dimensional space for possible correlations , and finds an optimal basis for representing the data in a compact way . due to the high number of spectra in each synthetic database ( @xmath2200000 ) , and the high number of data points in each spectral domain ( @xmath22500 . same as observation , see section 2 ) , such technique is crucial for inverting stellar parameters of observed targets from gaia eso survey . using pca , data can be represented in a fewer number of data points , allowing a fast ",
+    "nearest neighbor(s ) \" search between the observed data set and the synthetic spectra .",
+    "this study is an extension of @xcite where the h - r domain of application has been extrapolated to stars of types earlier than f , and the training database used in this work is a set of synthetic spectra .",
+    "the procedure is applied to more than 800 stars , members of the open clusters ngc3293 , ngc6705 , and trumpler14 .",
+    "the observations are part of the gaia eso public survey and consist of 2 spectral ranges , one samples the h@xmath3 line region [ 4030 - 4200]and the second samples the [ 4400 - 4550](hr5 ) region .",
+    "these spectra were taken using giraffe / flames spectrograph at a resolution r @xmath4 25000 , and reduced by the ges .",
+    "balmer lines , due to the broadening caused by the stark s effect , are excellent indicators of effective temperature and surface gravity @xcite .",
+    "the reason behind studying h@xmath3 in particular is because this line is formed in deep enough atmospheric layers where lte can still be considered as a reasonable assumption .",
+    "moreover , the hr5 region was chosen since metallic lines ( namely feii , mgii , tiii , ... ) are potentially good indicators of rotational velocity and metallicity .",
+    "lte model atmospheres were calculated using atlas9 code @xcite and were used as input to the spectrum synthesis code synspec48 @xcite in order to compute a large grid of synthetic line profiles , over the same spectral regions as the observations .",
+    "spectra were calculated for t@xmath5 between 5000 and 15000 k , gravities between 2.0 and 5.0 cgs , rotational velocities between 0 and 200 @xmath6 , and metalicities between -0.6 and 0.4 dex ( only for the hr5 region , whereas a solar [ fe / h ] was assumed for the @xmath7 region ) , all at a microturbulence of 2 @xmath6 and at a resolution of 25000 .",
+    "the central idea of principal component analysis is to reduce the dimensionality of a data set in which there are a large number of interrelated variables , while retaining as much as possible of the variation present in the data set @xcite .",
+    "pca searches for basis vectors that represent most of the variance in a given database .",
+    "these vectors ( @xmath8 ) are in fact the eigenvectors of the variance - covariance matrix ( [ var - covar ] ) of the synthetic data set * s*. @xmath9 where @xmath10 being the mean spectrum over all the database .",
+    "once the basis is obtained ( adopted a set of 12 vectors , i.e @xmath11 ) , the synthetic spectra and each observation ( o ) are projected unto this basis to obtain the projected coefficients ( [ proj synth ] & [ proj obs ] ) @xmath12    @xmath13    then , a standard chi - squared ( [ chi - sqr ] ) is performed in this low dimensional space in order to achieve a fast inversion of stellar parameters of the observed targets .",
+    "the parameters of the synthetic spectrum having the minimum _ d _ will be considered as the observation fundamental parameters . @xmath14",
+    "the observation spectra were radial velocity corrected , and those with low signal - to - noise ratio were filtered out . upon starting the inversion process , the technique showed to be very sensitive to normalization of spectra , thus an iterative  re-\"normalization procedure was performed according to @xcite .",
+    "in general , inversion based on this technique was performed over the selected stars , and the fundamental parameters of the targets were estimated .",
+    "an example of the nearest neighbor search is given in figures [ hdelta ] and [ met ] .",
+    "the parameters derived by pca , along with the non - official parameters obtained by wg13 of ges are detailed in table [ table ] .",
+    ".results derived using pca along with parameters given by wg13 of ges [ cols=\"<,^,^,^,^,^,^,^,^ \" , ]     [ table ]    with pca , we will be contributing by determining stellar parameters to the next ges data release .",
+    "line of the star 10361733 - 5809031 member of ngc3293 cluster , with a synthetic spectrum .",
+    "blue being the observed spectrum , while red the fitted synthetic.,scaledwidth=80.0% ]",
+    "pca proved to be a fast and reliable inversion technique , with an ease to implement . an attempt to increase the size of the synthetic database",
+    "is being performed in order to improve the accuracy in the parameters obtained . moreover , the merging of two spectral ranges in a one data set is also considered as a future work ."
+  ],
+  "abstract_text": [
+    "<S> this work addresses a procedure to estimate fundamental stellar parameters such as @xmath0 , log__g _ _ , [ fe / h ] , and @xmath1 using a dimensionality reduction technique called principal component analysis ( pca ) , applied to a large database of synthetic spectra . </S>",
+    "<S> this technique shows promising results for inverting stellar parameters of observed targets from gaia eso survey .    </S>",
+    "<S> stars : fundamental parameters , techniques : spectroscopic </S>"
+  ]
+}

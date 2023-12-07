@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "the term _ patience sorting _ was introduced in 1962 by c.l .",
+    "mallows @xcite as the name of a card sorting algorithm invented by a.s.c . ross .",
+    "this algorithm works by first partitioning a shuffled deck of @xmath0 cards ( which we take to be a permutation @xmath1 ) into sorted subsequences @xmath2 called _ piles _ and then gathering the cards up in order from the tops of these piles .",
+    "the procedure used in forming @xmath3 can be viewed as an iterated , non - recursive form of the schensted insertion algorithm for interposing values into the rows of a young tableau ( see @xcite and @xcite ) .",
+    "given @xmath1 , we call this resulting collection of piles ( given as part of the more general algorithm  [ alg : extendedpsalgorithm ] below ) the _ pile configuration _ corresponding to @xmath4 and denote it by @xmath5 .    given a pile configuration @xmath6 , one forms its _ reverse patience word _ @xmath7 by listing the piles in @xmath6 `` from bottom to top , left to right '' ( i.e. , by reversing the so - called `` far - eastern reading '' ) as illustrated in example  [ eg : pileconfigurationexample ] below . in recent work @xcite",
+    "the authors used g. viennot s ( northeast ) shadow diagram construction ( defined in @xcite and summarized in section  [ sec : geometricrsk : neshadowdiagrams ] below ) to characterize these words in terms of the following pattern avoidance condition : given @xmath1 , each instance of the generalized permutation pattern @xmath8 in @xmath9 must be contained within an instance of the pattern @xmath10 .",
+    "we call this restricted form of the generalized permutation pattern @xmath8 a _ ( generalized ) barred permutation pattern _ and denote it by @xmath11 .",
+    "this notational convention is due to j. west , et al . , and first appeared in the study of two - stack sortable permutations @xcite . as usual , we denote the set of permutations @xmath1 that avoid the pattern @xmath11 by @xmath12 .",
+    "( see bna @xcite for a review of permutation patterns in general . )",
+    "[ eg : pileconfigurationexample ] let @xmath13 . then , using a simplified form of algorithm  [ alg : extendedpsalgorithm ] below , @xmath4 has the pile configuration @xmath14 , which is visually represented as the following array of numbers :          d. aldous and p. diaconis .",
+    "`` longest increasing subsequences : from patience sorting to the baik - deift - johansson theorem '' , _ bull .",
+    "* 36 * ( 1999 ) , 413432 .",
+    "available online at ` http://www.ams.org/bull/1999-36-04/ `                        g. viennot .",
+    "`` une forme gomtrique de la correspondance de robinson - schensted '' , in _ combinatoire et reprsenatation du groupe symtrique _ , d. foata , ed .",
+    "lecture notes in mathematics 579 .",
+    "springer - verlag , 1977 , pp ."
+  ],
+  "abstract_text": [
+    "<S> patience sorting is a combinatorial algorithm that can be viewed as an iterated , non - recursive form of the schensted insertion algorithm . in recent work </S>",
+    "<S> the authors extended patience sorting to a full bijection between the symmetric group and certain pairs of combinatorial objects ( called _ pile configurations _ ) that are most naturally defined in terms of generalized permutation patterns and barred pattern avoidance . </S>",
+    "<S> this extended patience sorting algorithm is very similar to the robinson - schensted - knuth ( or rsk ) correspondence , which is itself built from repeated application of the schensted insertion algorithm .    in this work </S>",
+    "<S> we introduce a geometric form for the extended patience sorting algorithm that is in some sense a natural dual algorithm to g. viennot s celebrated geometric rsk algorithm . unlike geometric rsk , though , the lattice paths coming from patience sorting are allowed to intersect . </S>",
+    "<S> we thus also give a characterization for the intersections of these lattice paths in terms of the pile configurations associated with a given permutation under the extended patience sorting algorithm . </S>"
+  ]
+}

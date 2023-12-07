@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the xmm - newton serendipitous source catalogue is the largest catalogue of x - ray sources built to date , see ( * ? ? ?",
+    "* watson  ( 2009 ) ) . in its latest version ,",
+    "the 3xmm - newton data release 4 ( 3xmm dr4 ) , it contains photometric information for more than 500,000 source detections , corresponding to @xmath1 370,000 unique sources . besides",
+    ", spectra and time series were also extracted if the number of source counts collected by the epic camera was @xmath2 100 counts .",
+    "the resulting catalogue contains spectra for more than 120,000 detections corresponding to @xmath1 85,000 unique sources .",
+    "the project described here , is aimed to take advantage of the great wealth of data and information contained within the xmm - newton source catalogue , to construct a database composed of spectral - fitting results .",
+    "the xmm - newton spectral - fit database is constructed by using automated spectral fits applied to the pipe - line extracted spectra within the 3xmm dr4 catalogue .",
+    "the software used to perform the spectral fits is xspec v12.7 ( see ( * ? ? ? * arnaud ( 1996 ) ) ) .",
+    "the statistics used to fit the data is cash statistics , implemented as c - stat in xspec .",
+    "this statistics was selected , to optimise the spectral fitting in the case of low quality spectra . however , even using this statistics , a lower limit on the number of counts in each individual spectrum of 50 counts per instrument had to be imposed to ensure a minimum quality on the spectral fits .",
+    "therefore , * the spectral - fit database is composed of spectral - fitting results for @xmath0 114,000 detections , corresponding to @xmath1 77,000 unique sources*. + three energy bands are considered during the spectral fits : full / total band ( 0.5 - 10 kev ) , soft band ( 0.5 - 2 kev ) , and hard band ( 2 - 10 kev ) .",
+    "six spectral models have been implemented in the spectral - fitting pipe - line : three simple models ( models 1 to 3 ) , and three more complex models ( models 4 to 6 ) .",
+    "these six models were designed and optimised to reproduce the most commonly observed x - ray spectral shapes among different astronomical sources .",
+    "the three simple models are applied to all sources provided that the number of counts collected in the energy band in use is @xmath2 50 counts :    * 1 . absorbed power - law model * ( wa*pow ) : a photoelectrically absorbed power - law model .",
+    "this model is applied in the three energy bands .    *",
+    "2 . absorbed thermal model * ( wa*mekal ) : a photoelectrically absorbed thermal model .",
+    "this model is applied in the total and soft bands .    *",
+    "3 . absorbed black - body model * ( wa*bb ) : a photoelectrically absorbed black - body model .",
+    "this model is only applied in the soft band , and its primary use is to obtain initial input parameters for a more complex model .",
+    "the three more complex models are only applied if the number of counts collected in the total band is @xmath2 500 counts ( @xmath0 28,000 detections , corresponding to @xmath1 18,000 unique sources ) :    * 4 .",
+    "absorbed power - law model plus thermal model * ( wa(mekal+wa*pow ) ) : an absorbed thermal model plus a more highly absorbed power - law model .",
+    "* 5 . double power - law model",
+    "* ( wa*(pow+wa*pow ) ) : .",
+    "two power - law models with different photon indices , and additional absorption for the second power - law component .    *",
+    "black - body plus power - law model * ( wa*(bb+pow ) ) : . a black - body plus a power - law component , both absorbed by the same amount of gas .",
+    "a full description of this project as well as the full spectral - fit database is presented in the webpage of this project : + * http://xraygroup.astro.noa.gr / webpage - prodec / index.html*. + the spectral - fit database contains one row per source and observation , listing source information , and spectral - fit output parameters and errors , as well as fluxes and additional information about the goodness of fit for every model applied . in this way",
+    ", users can construct large and representative samples of x - ray sources by querying this database according to spectral properties .",
+    "in addition , and in order to test the reliability of the automated fits , the spectral - fitting process has also been applied to a sample of x - ray sources extracted from the sdss / xmm - newton cross - correlation presented in ( * ? ? ?",
+    "* georgakakis & nandra ( 2011 ) ) .",
+    "the spectral - fitting pipe - line was modified to include the effect of redshift and galactic absorption , in the case of sources with either spectroscopic or photometric redshifts within that sample .",
+    "+ a. corral acknowledges financial support by the european space agency ( esa ) under the prodex program ."
+  ],
+  "abstract_text": [
+    "<S> the xmm - newton spectral - fit database is an ongoing esa funded project aimed to construct a catalogue of spectral - fitting results for all the sources within the xmm - newton serendipitous source catalogue for which spectral data products have been pipeline - extracted ( @xmath0 120,000 x - ray source detections ) . </S>",
+    "<S> the fundamental goal of this project is to provide the astronomical community with a tool to construct large and representative samples of x - ray sources by allowing source selection according to spectral properties . </S>"
+  ]
+}

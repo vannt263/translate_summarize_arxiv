@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "m51 is probably among the most famous galaxies in the sky , instantly recognizable by its nearby companion ngc  5195 .",
+    "also known as the `` whirlpool galaxy '' , it was one of the first galaxies in which spiral structure was discovered by lord rosse , and it provides a spectacular text - book example of a grand - design sbc type spiral seen nearly face - on .",
+    "it has a very high optical surface brightness @xcite and is also a strong emitter of far - infrared radiation , indicating strong star formation activity in the spiral arms @xcite .",
+    "deep images reveal faint outlying material embedding both m51 and ngc  5195 @xcite , providing clear evidence that the two galaxies are physically interacting .",
+    "these characteristics , along with the relatively small distance ( @xmath6 mpc , feldmeier et al .",
+    "1997 ) and the location far from the galactic plane ( @xmath7 ) make m51 an attractive target for studying its population of _ young massive star clusters _ ( ymcs )",
+    ".    ymcs are abundant in interacting and merger galaxies like e.g. the `` antennae '' ngc  4038/4039 ( a list of galaxies with known ymc populations is given in larsen ( 1999b ) ) .",
+    "however , they are also seen in more normal galaxies like e.g. the lmc @xcite and m33 @xcite . in a recent study of 21 nearby , non - interacting spiral galaxies ,",
+    "larsen & richtler ( lr2000 ) found a strong correlation between the specific @xmath1-band luminosity  of ymcs in a galaxy and the area - normalized star formation rate . in this respect , m51 provides a highly interesting intermediate case of a clearly interacting galaxy that has still retained the characteristics of a normal spiral .",
+    "this paper reports the results of a study of ymcs in m51 . in sect .",
+    "[ sec : selection ] , ymcs are identified and photometry is obtained from ground - based @xmath0 ccd imaging .",
+    "archive hst / wfpc2 images are then used to examine a few clusters in detail , including measurements of their sizes ( sect .",
+    "[ sec : hst ] ) .",
+    "next , the specific @xmath1-band luminosity of the m51 cluster system is derived and compared with other galaxies ( sect .",
+    "[ sec : glob ] ) . in sect .",
+    "[ sec : disc ] the ymc population in m51 is compared with young clusters in the milky way and the lmc , along with some considerations on formation of ymcs .",
+    "finally , conclusions are in sect .",
+    "[ sec : conc ] .",
+    "ccd images in the @xmath0 passbands were obtained on mar 13  14 , 2000 with the prime focus camera ( pfcam ) on the lick 3 meter shane telescope at mount hamilton , california .",
+    "the total integration times were 3600 , 1200 and 900 sec . in @xmath1 , @xmath8 and @xmath9 , split into 3 individual exposures in each filter .",
+    "typical seeing values ranged between 10 and 15 , but the image quality was degraded by problems with the alignment of the mirror cell after recent re - aluminization and oscillations due to wind , making stellar images appear somewhat elongated .",
+    "the image scale was 0296 /pixel and the total field of view was @xmath10 , sufficient to fully cover both m51 itself and the companion ngc  5195 .    to reduce read - out time ,",
+    "the two halves of the ccd were read out in parallel through two amplifiers . during the subsequent reductions ,",
+    "the difference between the bias levels in the two parts of the ccd image was found to change by up to @xmath11 adu from one exposure to another .",
+    "the difference was eliminated by adding a constant number to all pixel values in one half of the image .",
+    "a more serious concern was that the flat - field varied significantly , most likely because of scattered light . dividing two skyflats in the same filter with each other",
+    ", the ratio was found to vary by up to @xmath12 from the centre to the corner of the chip , with the most severe problems in the southern @xmath13 pixels ( about @xmath14 ) of the field . within the central @xmath15 pixels the variations were less dramatic , but still quite significant at about the 5% level .",
+    "the effect was clearly visible in the final calibrated images as large - scale gradients in the background .",
+    "however , the pattern appeared to be more or less the same in all passbands so the flatfielding errors may , to a certain extent , cancel out for colour indices ."
+  ],
+  "abstract_text": [
+    "<S> a search for young massive star clusters ( ymcs ) in the nearby face - on spiral galaxy m51 ( ngc  5194 ) has been carried out using @xmath0 ccd images from the prime focus camera on the lick 3 meter shane telescope . the ymc population is found to be quite rich with a specific @xmath1-band luminosity @xmath2 , consistent with the high current star formation rate of this galaxy . </S>",
+    "<S> the brightest clusters have @xmath3 , far brighter than any young clusters currently known in the milky way and even surpassing the luminosity of the r136 cluster in the 30 dor complex in the large magellanic cloud . </S>",
+    "<S> a few of the ymcs are examined on archive hst / wfpc2 images , confirming their cluster nature and providing estimates of their effective radii of @xmath4 pc . </S>",
+    "<S> the number of ymcs in m51 is compatible with extrapolation of a power - law luminosity function with exponent @xmath5 from a milky way - like population of open clusters . </S>",
+    "<S> both the sfr and  of m51 are similar to those of other cluster - rich spiral galaxies like ngc  1313 and m83 .    </S>",
+    "<S> epsf    galaxies : spiral  galaxies : star clusters  galaxies : individual ( ngc  5194 )  galaxies : interactions </S>"
+  ]
+}

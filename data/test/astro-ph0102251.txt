@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "the disk - galaxies are constructed in dynamical equilibrium ( hernquist , 1993 ) and consist of an exponential stellar disk , a bulge with a hernquist profile , and a pseudoisothermal dark halo ( units as in hernquist , 1993 ) .",
+    "the two merging galaxies approach each other on nearly parabolic orbits at a pericenter distance of 2 scale lengths of the larger disk .",
+    "the large galaxy is realized with 20000 disk particles , 6666 bulge particles and 40000 halo particles , respectively .",
+    "the smaller galaxy contains @xmath1 of the mass and of the particles in each component and has a disk scale length of@xmath2 compared to the more massive galaxy .",
+    "we tested 14 different relative orientations for every mass ratio .",
+    "the time integration was performed using the special purpose hardware grape .    after the remnants settled into equilibrium an artificial image of the remnant",
+    "was created ( see also heyl , hernquist & spergel , 1994 ) . following the definition of bender , dberreiner & mllenhoff ( 1988 ) we determined the characteristic isophotal shape @xmath3 , ellipticity @xmath4 , the ratio of major axis rotation and central velocity dispersion , @xmath5 , and the anisotropy parameter @xmath6 for 500 random projections of each of the 14 orbital geometries .",
+    "these values were used to calculate a probability density for a given simulated remnant to be  observed  at a given location in the two dimensional parameter plane , adopting that mergers occur randomly without any preferred relative inclination .",
+    "figure 1 shows the result for 1:1 , 2:1 , 3:1 and 4:1 merger remnants . from these results",
+    "we conclude that most of the global properties of elliptical galaxies can be explained by a sequence of stellar mergers between disk galaxies of mass ratios between 1:1 and 4:1 .",
+    "1:1 mergers completely erase the structure of the initial disk . in the 3:1 and 4:1 case",
+    "the remnants seem to remember their initial state ( see barnes , 1998 ) . in this sense",
+    "the sequence of mass ratios is a sequence of disk disruption .",
+    "however , even with 4:1 remnants we fail to reproduce the fastest observed rotators with @xmath7 at one effective radius ( figure 1 ) .",
+    "recent observations of fast rotating low luminosity ellipticals ( rix , carollo & freeman , 1999 ) show that the disagreement is even stronger at larger radii ( see cretton , naab , rix & burkert , this conference )    barnes , j. , 1998 , in galaxies : interactions and induced star formation , ed .",
+    "d. friedli , l. mertinet , & d.pfenniger ( saas - fee advanced course lecture notes , no . 26 : berlin : springer ) , 275 bender , r. , dberreiner , s. & mllenhoff , c. , 1988 , , 278 hernquist , l. , 1993 , , 86 , 389 heyl , j. s. , hernquist , l. & spergel , d. n. , 1994 , , 427 , 165 naab , t. , burkert , a. & hernquist , l. , 1999 , , 523 , l133 rix , h. w. , carollo , c. m. & freeman , k. , 1999 , , 513 , l25"
+  ],
+  "abstract_text": [
+    "<S> collisionless n - body simulations of merging disk - galaxies with mass ratios ( @xmath0 ) of 1:1 , 2:1 , 3:1 , and 4:1 have been performed using direct summation with the special purpose hardware grape . </S>",
+    "<S> the simulations are used to examine whether the formation of elliptical galaxies can be explained in the context of the merger scenario . </S>",
+    "<S> the photometric , kinematical and isophotal properties of the merger remnants are investigated and turn out to be in very good agreement with observations of giant elliptical galaxies . we conclude that equal mass mergers lead to slowly rotating , anisotropic remnants having predominantly boxy isophotes . </S>",
+    "<S> mergers with a mass ratio of 3:1 and 4:1 , on the other hand , are fast isotropic rotators with disky isophotes . </S>",
+    "<S> projection effects can explain the observed scatter in the kinematical and isophotal properties of elliptical galaxies . </S>"
+  ]
+}

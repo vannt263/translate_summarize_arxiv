@@ -1,0 +1,21 @@
+{
+  "article_text": [
+    "temporal variation of the vorticity magnitude during the falling procedure is demonstrated here .",
+    "a high vorticity region is obvious on top of the troplet .",
+    "the more the fragments , the more the complexity in the carrier phase .",
+    "two of the crucial parameters for the case of falling droplets are size and velocity of the fragments .",
+    "this video shows the variation of falling velocity over the interface . using the integration",
+    ", the falling velocity and size of the fragments can be easily and accurately achieved .",
+    "since an accurate prediction of the radius of curvature and vorticity magnitude are essential to the breakup process , these parameters are considered as refinement criteria , while the latter is also important to resolve the local turbulent eddies generated in the continues phase and close to the interface .",
+    "in this part , the detailed mechanism of thin liquid sheet breakup is shown where the instability growth over the interface generates several punctures .",
+    "the retraction of punctures produces a network of ligaments rapidly disintegrates into several number of small droplets .",
+    "a video presenting the results obtained via direct numerical simulation is presented .",
+    "outcomes demonstrates the capability of the current numerical methods to investigate the complex problem of falling droplets ."
+  ],
+  "abstract_text": [
+    "<S> using direct numerical simulations , the fragmentation of falling liquid droplets in a quiescent media is studied . </S>",
+    "<S> three simulations with different e@xmath0tv@xmath0s numbers were performed . </S>",
+    "<S> an adaptive volume of fluid ( vof ) method based on octree meshing is used , providing a notable reduction of computational cost . </S>",
+    "<S> the current video includes 4 main parts describing the fragmentation of the falling droplet . </S>"
+  ]
+}

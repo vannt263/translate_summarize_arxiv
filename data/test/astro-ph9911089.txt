@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "population synthesis models are evolved within a simple recycling scenario ( as outlined e.g. by lipunov 1992 ) , where the neutron stars ( nss hereon ) may experience the phase of _ ejector , accretor or propeller_. the magnetorotational evolution includes the general relativistic effects as modelled in burderi et al .",
+    "we considered two possibilities bracketing uncertainties in the accretion histories of the nss in lmbs : ( i ) steady accretion for a time @xmath0 ( ii ) persistent accretion followed by a transient phase during which the mass transfer becomes unsteady , mimicking the quenching of accretion ( ergma et al . 1998 ) .",
+    "in particular we account for the angular momentum losses by propeller , both for persistent and for non - stationary accretion , during the roche lobe overflow phase .",
+    "the nss in our population synthesis models have an initial gravitational mass of @xmath1 cook , shapiro & teukolsky ( 1994 ) showed that all viable equations of state ( eoss ) for nuclear matter allow for recycling to ultra - short periods , in the case of a nonmagnetic ns .",
+    "the minimum period below which the mass - shedding instability limit is encountered , depends however on the equation of state .",
+    "we consider either a soft ( fp ) and a stiff ( ps ) eos , whose critical periods for mass - shedding are @xmath2ms ( for fp - eos ) and of @xmath3msec ( for ps - eos ) , respectively .",
+    "a basic assumption for the present investigation is the crustal origin of the ns magnetic field .",
+    "its subsequent evolution is governed by the induction equation for ohmic diffusion and advection ( see urpin et al .",
+    "while at the surface the standard boundary condition for a dipolar field applies , the inner boundary condition is subject of scientific debates .",
+    "hence we explored two hypotheses , imposing at the crust  core boundary either complete field expulsion by the superconducting core ( boundary condition i , bc i ) or advection and freezing ( konar & bhattacharya 1997 ) in a very highly conducting transition shell ( bc ii ) .    in paper",
+    "i , possenti et al .",
+    "( 1998 ) evolved nss in low mass binaries ( lmbs ) through the five phases of the recycling scenario , and explored the evolution of either a core field threaded in the proton fluxoids , and a surface field buried by the diamagnetic accreting plasma . here , we start with a population of nss at the onset of the roche lobe overflow ( rlo ) phase and include the physical evolution of a crustal field .",
+    "the adopted parameters are :    [ cols=\"^,^,^,^\",options=\"header \" , ]     @xmath4 + @xmath5 @xmath6 = initial time of the rlo phase + @xmath7 baryonic accretion rate during the rlo phase + @xmath8 a maximum accreted mass of @xmath9 is permitted during the rlo phase + @xmath10 max duration of the rlo phase ; typical values : 5@xmath1110@xmath12 yr - 10@xmath13 yr - 5@xmath1110@xmath13 yr +    ' '' ''     + the values in this table are derived partly from the observation of lmxbs and partly from the tracks in the @xmath14 plane calculated by urpin , geppert & konenkov ( 1998 ) for a sample of pulsars , under different hypotheses for the binary evolution times , for the @xmath15 decay and for the angular momentum transfer at the magnetospheric radius .",
+    "to execute the synthesis calculation we built a monte carlo code , using typically 3,000 particles .",
+    "the statistical analysis is carried on only those nss reaching the so - called `` millisecond strip '' at the end of recycling , the ones having period @xmath16 ms and whichever value of the magnetic moment @xmath15 . in accordance with the values of @xmath17 and @xmath18 ( the weakest magnetic moment observed ; @xmath19 g @xmath20 ) , we divided our particles in four groups . those filling the first quadrant in the millisecond strip ( @xmath21 and @xmath22 )",
+    "behave as the known msps .",
+    "also the objects belonging to the second quadrant ( @xmath23 and @xmath22 ) should shines as pulsars ( see burderi & damico 1997 ) .",
+    "the observability of the objects in the third quadrant ( @xmath23 and @xmath24 ) as radio sources represents instead a challenge to the modern pulsar surveys .",
+    "most of these nss will be above the chen and ruderman ( 1993 ) `` death - line '' , and might have a bolometric luminosity comparable to that of the known msps .",
+    "thereafter we shortly refer as _ sub-_msps to all the objects having @xmath23 and @xmath15 above the `` death - line '' .",
+    "objects in the fourth quadrant ( @xmath21 and @xmath24 ) are probably radio quiet neutron stars ( rqnss ) , because they tend to be closer to the theoretical `` death - line '' , and they are in a period range which was already searched with good sensitivity by the radio surveys .",
+    "the left panel of figure 1 illustrates how the simulated nss fill the @xmath14 plane , while the right panel shows how the eos affects the shape of the period distribution .",
+    "figure 2 reports on the typical relative abundances ( left ) and gives indication on the role played by the propeller ( right ) in modifying the results .",
+    "the population synthesis calculation leads to a number of interesting predictions :      the fraction of _ sub-_msps estimated over the entire msps population varies between 0 to @xmath26% .",
+    "the eos and the parameters for the recycling play both an important role in determining these percentages .    for a mild - soft eos and",
+    "irrespective to the boundary condition at the crust - core interface for the magnetic field evolution , the recycling in lmbs gives rise to a ns distribution increasing toward short periods and a clear barrier is present at the minimum period for mass - shedding .    for a stiff eos ,",
+    "the distribution is flatter and displays a broad maximum .",
+    "the maximum is located where most of the spin periods of the nss in lmxbs are found , as indirectly inferred form the quasi periodic oscillations seen in the timing analysis of their x - ray light curves .",
+    "if nss at the end of persistent accretion in a lmb experience a phase of smooth decline of the accretion rate , the magnetospheric propeller at the end of the rlo phase produces a depletion of fastly spinning nss but , at least for the soft eos , it preserves a distribution that peaks at periods @xmath27 .",
+    "the models for the decay of a crustal magnetic field predict the existence of spun up nss with very low magnetic moment : their period distribution is a neat signature for the physics at the crust  core interface ."
+  ],
+  "abstract_text": [
+    "<S> we investigate the statistical evolution of magnetic neutron stars recycled in low mass binary ( lmb ) systems , simulating synthetic populations . </S>",
+    "<S> irrespective to the details of the physical models , we find to be significant the fraction of neutron stars spinning close to their mass shedding limit relative to the millisecond pulsar population . </S>",
+    "<S> the simulated neutron stars show a tail in their period distribution at periods shorter than 1.558 ms , the minimum detected so far . </S>",
+    "<S> crustal magnetic field decay models predict also the existence of massive rapidly spinning neutron stars with very low magnetic moment .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

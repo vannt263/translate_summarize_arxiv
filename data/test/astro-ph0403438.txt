@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "we have observed the pulsar vela with a range of australian telescopes . using the long baseline array ( lba )",
+    "we have measured the parallax of pulsar , and thus the distance . using the australia telescope compact array ( atca )",
+    "we have found the radio pulsar wind nebula ( pwn ) that surrounds the x - ray pwn . using the university of tasmania s dedicated pulsar monitoring telescope in hobart",
+    "we have detected the core interaction in the spin up of the pulsar in the glitch of 2000 .",
+    "the pulsar monitoring telescope at hobart is a fourteen meter radio telescope dedicated to timing the vela pulsar .",
+    "it collects three frequencies ( 635 , 990 , 1340-mhz ) , and the central one is collected unfolded for high resolution timing analysis ( @xcite ) .",
+    "the ` fast component ' observed , which was fitted with a decay time 1.2 minutes , has been reanalysed with a more realistic model .",
+    "we marginally detect the core interaction in the spin up ( @xcite ) .",
+    "the atca has been used to map the radio pwn at 21 cm , 13 cm , 6 cm and 3 cm . because we used compact configurations with better sensitivity to low surface brightness objects we are able to map the whole nebula , unlike previous observations ( @xcite ) .",
+    "we have used a single baseline from the lba to measure the on sky motion of the vela pulsar compared with the extra galactic source vela - g .",
+    "we have measured the proper motion and parallax of the vela pulsar to an unprecedented accuracy ( @xmath0 @xmath1  , @xmath2 mas ) , and have been able to convert these back to the space velocity and position angle of the pulsar in its local environment with greater precision that previously possible ( @xmath3 @xmath4at @xmath5 ) , because of the unambiguity in the radio reference frame .",
+    "we have found an arithmetic error in @xcite and , once corrected , their results agree with ours ( caraveo , personal comms ) .",
+    "we have funding for a coherently dedispersed 30mhz backend for the 635mhz if on the pulsar timing telescope .",
+    "this should allow us an increase in sensitivity of an order of magnitude over the previous observations .",
+    "we plan to observe at the atca the radio nebula at higher frequencies to find the turn over frequency , and model the emission from the x - rays down to the radio frequencies .",
+    "we are observing at the vla to get sensitive rapid observations to measure changes associated with the recently discovered x - ray outer jet ( @xcite ) .",
+    "the limitation in the accuracy of the vlbi observation is the solar motion parameters , and we can not improve on this .",
+    "nevertheless we are planning to use vela as a demonstration source in a baseband e - vlbi experiment ."
+  ],
+  "abstract_text": [
+    "<S> of all pulsars known vela has been one of the most productive in terms in understanding pulsars and their characteristics . </S>",
+    "<S> we present the latest results derived from australian telescopes . </S>",
+    "<S> these include a more accurate pulsar distance , a more precise pulsar local space velocity , a new model of the spin up and the association of a radio nebula with the x - ray pulsar wind nebula .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

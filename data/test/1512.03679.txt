@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "smc 3 is one of the symbiotic systems in the magellanic clouds .",
+    "the system contains a wd and an m giant with an orbital period of 4.5 years ( eg .",
+    "it is a supersoft x - ray source powered by a steady hydrogen burning on the surface of the white dwarf ( orio _ et al .",
+    "_ 2007 ) . because the system contains a massive white dwarf ( m@xmath01.18 m@xmath1 ; orio _ et al . _",
+    "@xcite ) with a high accretion rate ( @xmath2  m@xmath1/yr ; kahabka @xcite ) it is considered as one of the most promising supernova ia progenitors among the known symbiotic population .",
+    "to estimate the mass of the red giant we used the fact that it pulsates with a period of 110 days ( kahabka @xcite ) .",
+    "smc 3 lies on the sequence b in the k - log(p ) plane ( wood 2000 ) which suggests the first overtone pulsation . assuming the pulsation constant of q=0.04 we derived the mass of 2.3@xmath3  m@xmath1 . to carry out our analysis we used the startrack population synthesis code ( belczyski _ et al . _",
+    "the code includes the wind accretion through bondi - hoyle mechanism , roche - lobe overflow , @xmath4 roche - lobe overflow and @xmath5 roche - lobe overflow . as initial conditions we adopted the current parameters of the system and then we modeled its future evolution .",
+    "we assumed @xmath6=1.44  m@xmath1 and , since we studied the system in the sn ia context , a co  wd .",
+    "for all of our models the system went trough a common envelope ( ce ) after @xmath7  yrs and for none of the models system wd managed to accumulate enough matter to become a type ia supernova . the orbital separation after the ce was relatively big ( a@xmath8r@xmath1 ) , which makes a merger in the hubble time unlikely .",
+    "the obtained parameters of the system are presented in fig .",
+    "we predict that the system will not become a type ia supernova in contrary to what was suggested in the literature ( orio _ et al . _",
+    "the caveat is that our predicted mass transfer rate is somewhat lower then the one expected for the steady hydrogen burning on the surface of the white dwarf ( nomoto _ et al . _",
+    "a lower @xmath9 then expected could be due to the fact that our model underestimates the rg mass loss trough wind by treating it as in the single star scenario , whereas there is a strong observational evidence that this wind is significantly enhanced due to tidal interactions in syst ( mikoajewska _ et al . _",
+    "large roche lobe filling factor suggests ellipsoidal variability in the system .",
+    "99 belczyski k.  2008 , apjs , 174 , 223 kahabka p. , 2004",
+    ", a&a , 416 , 57 kato m.  2013 , apj , 763 , 5 nomoto k.  2007 , apj , 663 , 1269 mikoajewska j.  2002 , adspr , 30 , 2045 orio m.  2007 , apj , 661 , 1105 wood p.r . , 2000 , pasa , 17 , 18"
+  ],
+  "abstract_text": [
+    "<S> smc 3 is one of the most interesting symbiotic stars . </S>",
+    "<S> this binary contains a bright k - type giant transferring mass to a massive white dwarf comanion , which makes it is a very promising sn ia candidate . </S>",
+    "<S> we discuss the evolutionary status of the system using results of population synthesis code . </S>"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "article_text": [
+    "the vimos integral field unit ( hereafter ifu ) allows to obtain one spectrum for each resolution element of its field of view , thanks to a square array of microlenses , each one coupled to an optical fiber .",
+    "technical details about vimos ifu can be found in prieto et al .",
+    "see also le fvre et al .",
+    "( 1998 ) .",
+    "vimos ifu can be used in various configurations , outlined in table [ tab : ifuconf ]    [ tab : ifuconf ]    cccc field of view & spatial resolution & spectral resolution & number of fibers + 54@xmath0 54 & 067 & 250 & @xmath1 + 27@xmath0 27 & 033 & 250 & @xmath1 + 27@xmath0 27 & 067 & 700 , 2500 & @xmath2 + 13@xmath0 13 & 033 & 700 , 2500 & @xmath2 +",
+    "ifu data reduction presents new challenges and requires to set up new data reduction techniques with respect to `` traditional '' mos data .",
+    "two main aspects that have to be taken into account for the data reduction of every ifu are the high density of spectra on the detector , causing some degree of crosstalk ( overlapping of light from neighbouring spectra ) and the sky subtraction , demanding special care , since the sky must be evaluated using different fibers for different observations . for vimos ifu in particular",
+    "a third aspect is the high number of spectra collected in a single exposure ( up to 6400 spectra on four 2k@xmath04k ccds ) , requiring at least a partial automatization of the reduction process .",
+    "once data have been reduced , exploiting their scientific content is even more challenging .",
+    "for this reason a european network has been set up , formed by all the european institutes involved in ifu instrument development , with the purpose to provide the european astronomical community with powerful 3d data analysis tools .",
+    "the fact that an ifu can obtain spectra for all the objects in the field of view at once makes it much more efficient than a mos in very crowded field , where complete sampling is required .",
+    "this is especially true in the case of high - z clusters , where the numbers of interlopers is roughly 90% of all the field objects .",
+    "this can have great advantages regarding spectroscopic confirmation of clusters and dynamical studies of cluster cores , where just one ifu observation ( or a few ones , if using the smaller size and higher resolution configuration ) could obtain the same result as several mos exposures .",
+    "it is clear that medium and high - z clusters , being of a smaller angular size , are ideal targets for ifu observations , as shown by figure 1 ."
+  ],
+  "abstract_text": [
+    "<S> research on the core of medium and high z clusters of galaxies can derive great benefits from integral field spectroscopy , and a key role in this respect will be played by the integral field unit ( ifu ) being developed by the virmos consortium as part of the vimos spectrograph . after a brief technical outline of the instrument , some of the problems to be addressed by data reduction techniques are described , and the scientific issues to which vimos ifu is likely to give its major contribution are pointed out . </S>"
+  ]
+}

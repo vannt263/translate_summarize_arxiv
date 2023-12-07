@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "since the mid 1970 s the existence of heavy hadronic molecules ( composed by a pair of heavy hadrons instead of a pair of heavy quarks ) has been theorized@xcite .",
+    "this assumption was made based on the similarities between the heavy meson - heavy antimeson system and the deuteron .",
+    "however , it was not until the discovery of the @xmath0@xcite by the belle collaboration , in 2003 , that the first experimental data that could fit into that molecular scheme was found .",
+    "since then , many other xyz states have been found , being the @xmath1 also natural candidates to have a molecular structure ..    besides , the @xmath2 limit of qcd simplifies the theory so a set of symmetries are induced .",
+    "probably , the most important symmetries induced in this limit are hqss , hfs , and hads .",
+    "we make use of them , along with the assumptions of the @xmath0 and the @xmath1 to be heavy hadronic molecules , to obtain a family of heavy meson - doubly heavy baryons that could also be interpreted as triply heavy pentaquarks .",
+    "this proceeding is organized as follows .",
+    "first we briefly introduced our eft based on hqss and hfs that we will use in the analysis of the @xmath0 and the @xmath1 .",
+    "second , we will discuss hads and its implications .",
+    "finally , our results will be shown in table [ tab : predictions ] .",
+    "in this work we are following the scheme described in @xcite where all sort of details can be found . at lowest order , hqss and hfs",
+    "impose that the dynamics of the model does not depend on either the mass or the spin of the heavy quark . taking this into account , the most general potential that describes the dynamics of the heavy meson - antimeson pair depends only in four low energy constants or counter - terms ( lecs ) , up to corrections of the order @xmath3 : @xmath4 tr\\left[{h}^{(\\bar{q } ) } \\bar{h}^{(\\bar{q } ) } \\gamma^{\\mu } \\right ] + \\\\ \\nonumber { } & & + \\frac{c_{a}^{\\lambda}}{4}~ tr\\left[\\bar{h}^{(q)}_{a } \\lambda^{i}_{ab } { h}^{(q)}_{b } \\gamma_{\\mu } \\right ] tr\\left[{h}^{(\\bar{q})}_{c } \\lambda^{i}_{cd}\\bar{h}^{(\\bar{q})}_{d }",
+    "\\gamma^{\\mu } \\right ]   + \\\\",
+    "\\nonumber { } & & + \\frac { c_{b}}{4}~ tr\\left[\\bar{h}^{(q)}{h}^{(q ) } \\gamma_{\\mu } \\gamma_{5 } \\right ] tr\\left[{h}^{(\\bar{q } ) } \\bar{h}^{(\\bar{q } ) } \\gamma^{\\mu } \\gamma_{5}\\right ] + \\\\ & & +   \\frac{c_{b}^{\\lambda}}{4}~ tr\\left[\\bar{h}^{(q)}_{a } \\lambda_{ab}^{j}{h}^{(q)}_{b } \\gamma_{\\mu } \\gamma_{5 } \\right ] tr\\left[{h}^{(\\bar{q})}_{c } \\lambda^{j}_{cd } \\bar{h}^{(\\bar{q})}_{d } \\gamma^{\\mu } \\gamma_{5}\\right]\\end{aligned}\\ ] ] being @xmath5 the gell - mann matrices and @xmath6 the meson ( antimeson ) field in the charm sector ( and viceversa in the bottom sector ) .",
+    "moreover , the four lecs will be rewritten through a linear combination into @xmath7 , @xmath8 , @xmath9 and @xmath10 for notation .",
+    "these four lecs will be fitted to reproduce some experimental data in our scheme . in this framework",
+    ", bound states will be found by solving the lippmann - schwinger equation as they will appear as poles in the t - matrix : @xmath11 , and the ultraviolet divergences of the loop function are treated introducing a gaussian regulator in the propagator and in the potential such as :    @xmath12    these assumptions determine three linear combinations of the lecs , that is : @xmath13 and @xmath14 which in turn are determined by the @xmath0 ( for more details , see @xcite ) and @xmath15 by the @xmath16 resonances [ @xcite ] .",
+    "up to now , we have only established an eft that analyzes heavy meson - heavy antimeson molecules . in order to use this approach to different systems we will take advantage of the heavy antiquark - diquark symmetry ( hads ) .",
+    "this @xmath17 limit symmetry , first introduced by savage and wise , states that a heavy diquark behaves as a heavy antiquark up to corrections of the order @xmath18 , , being v the velocity of the heavy quarks .    furthermore ,",
+    "since the dynamics of our eft only depends on the light degrees of freedom , that are the same than in the heavy meson - heavy antimeson system , we can make use of some racah algebra ( similar to @xcite ) to obtain the potentials in every possible channels , which are displayed in table [ tab : potentials ] .",
+    "the @xmath19 states are those where heavy quarks in the baryon are coupled to @xmath20 ( which is forbidden if the two quarks are the same because of the pauli s principle of exclusion )",
+    ".    then we just have to solve the lippmann - schwinger equation in each channel using the lecs we have previously fitted to obtain the results of table [ tab : predictions ] .",
+    "the isoscalar states are related to the @xmath0 .",
+    "the isovector states are determined by the @xmath21 and the isovector component of the @xmath0 .",
+    "the sources of error in the analysis are : the masses of the @xmath0 and @xmath22 resonances , the ratio of the @xmath0 amplitude decays ( calculated in @xcite ) and the two eft expansions used in this work . the errors for hqss are taken to be @xmath23 in the charm ( bottom ) sector and @xmath24 $ ] in the charm ( charm - bottom ) [ bottom ] sector for hads .",
+    "then , an unique error is obtained by adding in quadratures all different sources .",
+    "as a summary , we can conclude that our analysis based on several qcd symmetries in the @xmath17 limit predicts the existence of several heavy meson - doubly heavy baryon molecular partners of the @xmath0 and the @xmath1 .",
+    "this same effective field theory approach could also be extended to study doubly heavy baryon - double heavy antibaryon molecular systems in the future .",
+    "f .- k.g . acknowledges the theory division of ihep in beijing , where part of the work was done , for the hospitality . c. h .- d .",
+    "thanks the jae - csic program .",
+    "this work is supported in part by the dfg and the nsfc through funds provided to the sino - german crc 110 `` symmetries and the emergence of structure in qcd '' , by the nsfc ( grant no .",
+    "11165005 ) , by the spanish ministerio de economa y competitividad and european feder funds under the contract fis2011 - 28853-c02 - 02 and the spanish consolider - ingenio 2010 programme cpan ( csd2007 - 00042 ) , by generalitat valenciana under contract prometeo/2009/0090 and by the eu hadronphysics2 project , grant agreement no ."
+  ],
+  "abstract_text": [
+    "<S> in this work , we have used an effective field theory ( eft ) framework based on heavy quark spin ( hqss ) , heavy flavour ( hfs ) and heavy antiquark - diquark symmetries ( hads ) . using a standard lagrangian for the heavy meson - heavy antimeson system , we fit the counter - terms of the model to predict some promising experimental data that can be interpreted as heavy meson - heavy antimeson molecules , that is , the @xmath0 and the @xmath1 . </S>",
+    "<S> next , and , taking advantage of hads , we use the same lagrangian to explore the consequences for heavy meson - doubly heavy baryon molecules , which can also be interpreted as triply heavy pentaquarks . </S>"
+  ]
+}

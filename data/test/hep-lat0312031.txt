@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the three - quark ( 3q ) potential is one of the most important fundamental quantities in the hadron physics , because it is directly responsible to the baryon properties and is the key quantity to clarify the quark confinement in baryons .",
+    "we perform the first systematic study of the ground - state 3q potential @xmath0 and the excited - state 3q potential @xmath1 using su(3 ) lattice qcd  @xcite . for more than 300 different patterns of the spatially - fixed 3q systems ,",
+    "we perform the thorough calculation for the ground - state potential @xmath0 in lattice qcd with @xmath3 at @xmath4 and with @xmath5 at @xmath6 at the quenched level . for the accurate calculation ,",
+    "we construct the quasi - ground - state of the 3q system using the smearing method  @xcite .    as an important conclusion",
+    ", the static ground - state 3q potential @xmath0 is found to be well described by the ",
+    "coulomb plus y - type linear potential \" , i.e. , y - ansatz , @xmath7 within the 1%-level deviation  @xcite . here",
+    ", @xmath8 denotes the minimal value of total flux - tube length , as shown in fig.1 .",
+    "such a y - type flux - tube profile is actually observed in recent lattice qcd  @xcite , as shown in fig.2 . from the comparison with the q-@xmath9 potential , @xmath10",
+    ", we find the universality of the string tension as @xmath11 and the one - gluon - exchange result as @xmath12  @xcite .     of the total flux - tube length",
+    ". there appears a physical junction linking the three flux tubes at the fermat point p , and one finds @xmath13 .",
+    ", width=168 ]    0.5fm in the maximally - abelian projected qcd  @xcite .",
+    ", width=432 ]",
+    "we study also the excited - state potential @xmath1 in the spatially - fixed 3q systems in lattice qcd with @xmath5 at @xmath14  @xcite .",
+    "the energy gap between @xmath0 and @xmath1 physically means the excitation energy of the gluon field in the presence of the spatially - fixed three quarks , and the gluonic excitation energy , @xmath2 , is found to be about 1gev , as shown in fig.3 .",
+    "note that the gluonic excitation energy is rather large compared with the excitation energy of quark origin , and the present result predicts that the hybrid baryon expressed as @xmath15 should be heavier than 2gev .       1 gev / fm . in the flux - tube picture ,",
+    "the gluonic excitation is described as the flux - tube vibration , and the flux - tube vibrational energy is expected to be large , reflecting the large string tension .",
+    "the large gluonic - excitation energy of about 1gev leads to the absence of the gluonic mode in low - lying hadrons , which would play the key role to the success of the quark model without gluonic excitation modes .",
+    ", width=672 ]      we show in fig.4 a possible scenario from qcd to the massive quark model . in terms of the flux - tube picture ,",
+    "the large gluonic - excitation energy is conjectured to originate from the large string tension as a result of strong color confinement .",
+    "the large gluonic - excitation energy would be responsible to the absence of the gluonic mode and the success of the quark model for low - lying hadrons .    9 t.t.takahashi , h.matsufuru , y.nemoto , h.suganuma , phys.rev.lett .",
+    "86 ( 2001 ) 18 .",
+    "t.t.takahashi , h.suganuma , y.nemoto , h.matsufuru , phys.rev .",
+    "d65 ( 2002 ) 114509 .",
+    "t.t . takahashi and h. suganuma ,",
+    "( 2003 ) 182001 .",
+    "takahashi , h. suganuma , h. ichie et al .",
+    "a721 ( 2003 ) 926 .",
+    "h. ichie , v. bornyakov , t. streuer and g. schierholz , nucl .",
+    "a721 ( 2003 ) 899 ."
+  ],
+  "abstract_text": [
+    "<S> we study the ground - state three - quark ( 3q ) potential @xmath0 and the excited - state 3q potential @xmath1 using su(3 ) lattice qcd . from the accurate and thorough calculation for more than 300 different patterns of 3q systems , </S>",
+    "<S> the static ground - state 3q potential @xmath0 is found to be well described by the coulomb plus y - type linear potential , i.e. , y - ansatz , within 1%-level deviation . with lattice </S>",
+    "<S> qcd , we calculate also the excited - state potential in the 3q system , and find the gluonic excitation energy , @xmath2 , to be about 1 gev . this large gluonic - excitation energy would play an essential role to the success of the quark model for the low - lying hadrons in terms of the absence of the gluonic mode . </S>"
+  ]
+}

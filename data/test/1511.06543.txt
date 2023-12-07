@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "rooted in the book of job , `` behemoth '' is a worthy accolade to bestow upon the class of red supergiants .",
+    "this finds reason in the popular use of the word .",
+    "thinking of the namesake polish death metal band , red supergiants are dying stars , and their explosive death sparks the production and distribution of metals . in the cult game final fantasy ,",
+    "behemoths are beasts most feared for their magic spell `` meteor '' ; indeed , red supergiants fabricate dust grains , a process enshrouded in mystery .",
+    "princeton university s farlex wordnet describes behemoths as `` abnormally large and powerful '' , `` unusual '' , `` of exceptional importance and reputation '' , and that `` strongly influence the course of events ''  all applicable to red supergiants . and",
+    "they are , simply put , `` whoppers '' .",
+    "descendent from stars with birth masses in the region of 830 m@xmath0 , red supergiants become large , hundreds of r@xmath0 up to more than a thousand r@xmath0 , because their mantles become convective .",
+    "the reason they become convective is because the energy production rate in the core can no longer be balanced by radiative diffusion and instead bulk motion is induced to transport the energy to the surface .",
+    "this causes a drastic restructuring of the mantle , with a much shallower density gradient .",
+    "it becomes optically thin at much larger radial distance from the core , and hence the temperature of the plasma where this happens is relatively low , @xmath14000 k , such that equilibrium is maintained ( @xmath2 ) .    to put this in perspective",
+    ", a massive main sequence star would easily fit within the orbit of mercury , but its red supergiant progeny could swallow jupiter . at that point , it would take more than a decade to travel around its surface at a speed of 10 km s@xmath3 , which is little more than the thermal motions in the star s atmosphere but only a few times smaller than the escape speed from its surface .",
+    "hence red supergiants oscillate on timescales of years , and their winds have speeds of just a few tens of km s@xmath3 taking tens of thousands of years for matter to move out to one parsec distance .",
+    "this means that we may be able to read the immediate past of the red supergiant  even if it is no longer there  in the story told by its circumstellar medium .",
+    "the low escape speed makes it easy for these stars to lose mass , but it critically depends on how long they spend their time doing this , how much mass they eventually will have lost .",
+    "it also means that rotation at the mere km s@xmath3 level may already affect these stars .",
+    "red supergiants matter , as actors and probes in processes that drive galaxy evolution .",
+    "but there are some important aspects of their formation , evolution and behaviour that need to be better understood : +        + and finally , if close binary interaction does affect the evolution of a large fraction of the massive star population ( ( * ? ?",
+    "* de mink ( 2014 ) ) , then observational and theoretical efforts must be promoted that aim to quantify these effects .",
+    "2012 , _ a&a _ , 548 , 113 2014 , _ apj _ , 782 , 7 2009 , _ a&a _ , 508 , 923 2014 , _",
+    "apj _ , 782 , l2 2015 , _ mnras _ , 447 , 3973 2009 , _ a&a _ , 504 , 115 2011 , _ a&a _ , 531 , 117 2015 , _ apj _ , 799 , 50 2006 , _ apj _ , 645 , 1102 2007 , _ apj _ , 667 , 202 2013 , _ a&a _ , 560 , 16 2011 , _ science _ , 333 , 1258 2015 ,",
+    ", 575 , 60 2012 , _ nature _ , 482 , 375 2013 , _ mnras _ , 433 , 1246 2015 , _ pasa _ , 32 , 16 2015 , _ apj _ , 799 , 158 2010 , _ aspc _ , 425 , 279 2013 , _ eas _ , 60 , 307 1999 ,",
+    "_ a&a _ , 351 , 559 2005 , _ a&a _ , 438 , 273"
+  ],
+  "abstract_text": [
+    "<S> as the opening review to the focus meeting `` stellar behemoths : red supergiants across the local universe '' , i here provide a brief introduction to red supergiants , setting the stage for subsequent contributions . </S>",
+    "<S> i highlight some recent activity in the field , and identify areas of progress , areas where progress is needed , and how such progress might be achieved . </S>"
+  ]
+}

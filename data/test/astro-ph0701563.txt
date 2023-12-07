@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "the grb050730 afterglow was observed 4.0 hours after the trigger .",
+    "we find seven main absorption systems at z=3.968 , 3.564 , 2.2536 , 2.2526 , 2.2618 , 1.7729 and 1.7723    the grb050922c afterglow was observed 3.5 hours after the trigger .",
+    "we find four main absorption systems at z=2.199 , 2.077 , 2.008 and 1.9985 .",
+    "the grb060418 afterglow was observed 10 minutes after the trigger .",
+    "we find four main absorption systems at z=1.489 , 1.106 , 0.655 and 0.602 .",
+    "the resolution of all spectra is r 40,000 ( 7.5 km / s in the observer frame ) .",
+    "data sets were reduced using uves pipeline for midas .",
+    "all afterglows are clearly detected in the range 3300 - 10000  .",
+    "fine structure lines for cii , oi , feii and siii have been identified in all the grbs .",
+    "such lines convey information on the temperature and electron density of the absorbing medium , provided that they are excited by collisional processes ( j. n. bahcall , r. a. wolf et al .",
+    "_ apj _ , 152 , 701 , 1968 ) .    to constrain these parameters we need to estimate the fine structure column densities for two different ions and compare them . for grb050730 ,",
+    "two out of five components show fine structure lines ( fig .",
+    "[ ciietc ] ) .",
+    "reliable values for temperature and electron density are t a few @xmath1 k and @xmath2 @xmath3 ( second component ; the components are numbered according to decreasing z ) and @xmath4 @xmath3 ( third component ) .",
+    "the other components do not show fine structure features : this is an indication that they refer to a clumpy environment .",
+    "metallicity in grbs can be measured comparing the column densities of heavy elements to that obtained for hydrogen by fitting the ly@xmath5 , @xmath6 and @xmath7 profiles . both for grb050730 and grb050922c",
+    ", we find metallicities between @xmath8 and @xmath9 with respect to the solar values .",
+    "since metals tend to form dust , that then does not contribute to the absorption lines , this result is affected by some uncertainties . in grb060418",
+    "we identify crii and znii lines . such elements tend to stay in the gas state , minimizing the uncertainty when estimating the metallicity .",
+    "no h features are present in this grb spectrum , so we derive the @xmath10 column from the x - ray data , leading to : z(cr ) @xmath11 and z(zn ) @xmath12 , a bit higher than for the other two grbs , but still below the solar values .",
+    "the absorption spectra of grb afterglows are extremely complex , featuring several systems at different redshifts .",
+    "both high and low ionization lines are observed in the circumburst environment , but their relative abundances vary from component to component , indicating a clumpy environment consisting of multiple shells .",
+    "fine structure lines give information on the temperature and electron density of the absorbing medium , provided that they are excited by collisional effects .",
+    "different components have different densities , suggesting a variable density profile .",
+    "metallicity can be derived from the metal column densities ; crii and znii are the best indicators , since they do not form dust .",
+    "metallicity values around @xmath9 with respect to the solar ones have been found .",
+    "more details can be found in v. delia , f. fiore , e.j.a meurs et al .",
+    "2006 ( submitted to a&a , astro - ph/0609825 , 2006 ) ."
+  ],
+  "abstract_text": [
+    "<S> we present early time , high resolution spectroscopy of three grb afterglows : grb050730 , 050922c and 060418 . </S>",
+    "<S> these data give us precious information on the kinematics , ionization and metallicity of the interstellar matter of grb host galaxies up to a redshift z @xmath0 , and of intervening absorbers along the line of sight .    </S>",
+    "<S> [ 1999/12/01 v1.4c il nuovo cimento ] </S>"
+  ]
+}

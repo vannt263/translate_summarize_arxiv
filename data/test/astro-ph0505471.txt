@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "* hereafter referred to as dm1991 ) established the multiplicity of g - type stars within about 22 pc .",
+    "their observational dataset consists of thirteen years of radial velocity monitoring , in combination with astrometric , visual and eclipsing binaries , for 164 g - type stars .    however , the pre - hipparcos lists of wide binaries were rather incomplete . currently , the number of known binaries is about three times larger .",
+    "in fact , an analysis of the currently available binarity and multiplicity data of nearby hipparcos - selected g - type stars indicates that as many as 95% of primaries have a cataloged companion .",
+    "this binary fraction is almost twice as large as reported by dm1991 . in the remainder of this paper",
+    "i will use the term binarity loosely to mean binarity or multiplicity , where the companion can be a star , a brown dwarf or a planet .",
+    "after the publications of the hipparcos catalogs @xcite , several new sources of binarity have become available , which are include in this paper .",
+    "specifically , the following ( compilation ) catalogs are used : hip [ the hipparcos catalog @xcite ] , ty2 [ the tycho-2 catalog @xcite ] , tds [ the tycho double star catalog @xcite ] , sb9 [ the 9@xmath0 catalog of spectroscopic binaries @xcite ] , exop [ the catalog of confirmed extra - solar planets @xcite ] , int4 [ the 4@xmath0 catalog of interferometric measurements of binary stars @xcite ] , and gcsn [ the geneva - copenhagen solar neighborhood radial velocity survey @xcite ] .",
+    "this combined catalog contains 37,341 binaries , or more than twice the number of hipparcos multiples .",
+    "angular separations are available for 11,101 entries for the hipparcos - only data , and for almost three times as many ( 29,769 ) stars in the combined catalog .    in figure",
+    "[ fig : hipp_t2ds_i4_separations ] , i present , as a function of distance , the binary separation in arcseconds ( top ) and au ( bottom ) .",
+    "the binaries included in the hipparcos catalog [ the combined catalog ] are plotted in the left - hand [ right - hand ] columns . in the bottom row , the selection effect due to the distance of the stars are apparent : at small distances , the large - separation binaries are absent , while at large distances , the binaries with short semi - major axes are missing .    since",
+    "the secondaries are drawn from the imf ( dm1991 ) , one expects the secondaries to be much fainter than the primaries , while faint companions should outnumber the bright ones .",
+    "however , since it is hard to detect faint stars , the apparent binary frequency ( @xmath1 ) might be influenced by magnitude - based selection effects . also , @xmath1 is likely to drop with distance since companions of the same physical separation are no longer resolved .",
+    "distant double stars are doubly hard to detect : 1 ) because the are fainter , 2 ) because they are less easily resolved .",
+    "figure  [ fig : hipp_t2ds_i4_gcsn_multiplicity ] shows that these selection effects are clearly present in the data .",
+    "the left - hand panels show @xmath1 decreasing rapidly with distance , and that the brighter stars have higher average @xmath1 s , exactly as expected . also striking is the steep magnitude dependence of @xmath1 ( right - hand column ) .",
+    "i also created a g - star sample similar to the one of dm1991 by selecting from the hipparcos catalog all 204 gv stars closer than 22 pc that are cataloged as primaries .",
+    "the behavior of @xmath1 ( not shown ) for this sample is very similar to that of the full sample , except that overall multiplicity level is increased , and that the peak multiplicity reaches 95% , while the minimum level is 65% .",
+    "a proper analysis of this data in terms of the multiplicity of field stars is beyond the scope of this paper .",
+    "even so , there is significant evidence that @xmath1 is substantially larger than hitherto determined .",
+    "because the most complete catalogs of binarity indicate that @xmath1 is close to 100% for the closest and brightest stars , i surmise that the steep drop - offs towards larger distances and fainter magnitudes are unphysical and in fact the result of selection effects .",
+    "given that the sample most favorable for the detection of companions has a multiplicity fraction of 95% , i suggest that in fact _ all _ stars are part of a multiple system .",
+    "starting with a sample of well - measured hipparcos stars and the period distribution of dm1991 , i generate a fake star catalog of the solar neighborhood .",
+    "i estimate the masses of the systems based on the observed color , and apply corrections based on the sample of measured masses from the 6th orbit catalog .",
+    "positions along the orbits are generated for these orbits , that roughly correspond to various planned astrometric missions .",
+    "the scatter incurred as a result of these orbital motions are substantial and will contribute to the error budget of a significant fraction of the stars .    california / carnegie planet search compilation .",
+    "extracted on 2003 - 09 - 09 from http://exoplanets.org/planet_table.shtml duquennoy , a.  & mayor , m.   1991 , , 248 , 485 ( dm1991 ) esa , 1997 , the hipparcos and tycho catalogues , esa publ .",
+    "division , estec , the netherlands hg e. et al . , 2000 , , 357 , 367 fabricius , c. et al .",
+    ", 002 , , 384 , 180 hartkopf , w.  i. et al .",
+    ", http://ad.usno.navy.mil/wds/int4.html nordstr \" om , b. , et al . , 2004 , , 418 , 989 pourbaix , d. , et al . , 2004 , , 424 , 727 http://sb9.astro.ulb.ac.be/intro.html#ack"
+  ],
+  "abstract_text": [
+    "<S> i analyze several catalogs of known visual and spectroscopic binaries and conclude that a large number of binaries is missing in current catalogs . </S>",
+    "<S> samples of the best studied ( nearby and bright ) stars indicate that the true binary fraction may be as high as 95% . </S>",
+    "<S> a preliminary analysis indicates that these binaries can affect the astrometry significantly . </S>"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "the gaia cornerstone mission by esa ( perryman et al . 2001 ) , scheduled for launch around 2010 , will record during its 5-year lifetime an average of @xmath2100 spectra for each of all the stars brighter than @xmath317.5 mag ( @xmath4 objects ) , over the wavelength range 84808740 and at a resolution 10000@xmath5 20000 , corresponding to dispersions 0.22 @xmath6  / pix @xmath6 0.44 in the nyquist fwhm=2  pix sense .",
+    "the main aim of such spectra is to support the mission micro - arcsec accurate astrometry with the 6@xmath7 component of the phase - space via determination of the radial velocities .",
+    "however , this huge number of spectra will not only provide radial velocities but will also carry the whole usual astrophysical content ( munari 2002 ) , which will be pretty large given the adopted high spectral resolution and the diagnostic potential of this wavelength region dominated by the caii triplet , the head of the paschen series , multiplet # 1 and # 8 of ni , and a forest of fei , tii lines and of many other metals",
+    ".    the study of the cool component of symbiotic stars will particularly benefit from the choice of this wavelength region for the gaia mission , as much as the spectral observations performed from the ground ( cf .",
+    "marrese et al . , this volume ) .",
+    "in fact , the 84808740   region is the only astrophysically relevant wavelength interval longward of h@xmath8 free from telluric absorption interference ( cf .",
+    "munari 1999 ) , and is within the reach of many of the currently available high - resolution spectrographs .",
+    "we have identified and calibrated , over this wavelength interval , a family of diagnostic line ratios that provide good estimate of temperature ( spectral type ) and surface gravity ( luminosity ) .",
+    "the whole set of ratios will be described elsewhere , with only a sample of them presented here .",
+    "other diagnostic ratios have been presented by munari ( 2002 ) .",
+    "the line ratios have been investigated on the available high - resolution spectral atlases in this region , both observational ( munari and tomasella 1999 ) and synthetic ( munari and castelli 2000 , castelli and munari 2001 ) ones .",
+    "the relations here presented come entirely from observational material , mainly referring to mkk standards ( thus bright , solar neighborhood stars ) .",
+    "figure  1 presents temperature ( spectral type ) sensitive indicators for supergiant , giant and dwarf cool stars , built on the ratio of equivalent widths . to _",
+    "blend 8680 _ contribute mainly lines of fei ( 8679.638 ) , si ( 8678.927 , 8679.620 , 8680.411 ) and ni ( 8680.282 ) , and the extremes for equivalent width integration extends from 8678.0 to 8681.6  .",
+    "the extremes for caii  8542 extend from 8522.0 to 8565.0  , to fully cover the line wings ( even if including several weak metallic lines ) .",
+    "those for fei  8675 go from 8673.0 to 8676.5 , for tii  8683 from 8681.6 to 8684.0 , for fei  8688 from 8688.5 to 8690.5  .",
+    "figure  2 offers surface gravity ( luminosity class ) sensitive indicators for supergiant , giant and dwarf cool stars , built on the ratio of equivalent widths .",
+    "the extremes for equivalent width integration of fei  8688 and fei  8675 are the same for in figure  1 , while for tii+mgi  8735 it is 8734.38737.7 , for sii+fei  8728 is 8726.78729.5 , for fei  8514 is 8512.58515.8 and for tii  8518 it is 8516.68519.6  .",
+    "castelli f. & munari u. 2001 , , 366 , 1003 munari u. 1999 , baltic astron . 8 , 73 munari u. 2002 , in _ gaia : an european space project _ , les houches , o.bienaym and c.turon ed.s , eas pub .",
+    "series , edp sciences , pag .",
+    "39 munari u. & castelli f. 2000 , , 141 , 141 munari u. & tomasella l. 1999 , , 137 , 521 perryman m.a.c .",
+    "2001 , , 369 , 339"
+  ],
+  "abstract_text": [
+    "<S> the far - red portion of the spectrum offers bright prospects for an accurate classification of cool stars , like the giant components of symbiotic stars . </S>",
+    "<S> the 84808740   region , free from telluric absorptions and where the gaia cornerstone mission by esa will record spectra for @xmath0 stars , is investigated on the base of available observed and synthetic spectral atlases . </S>",
+    "<S> we have identified and calibrated diagnostic line ratios useful to derive the effective temperature ( spectral type ) and gravity ( luminosity class ) for cool stars observed at spectral resolutions 10,000 @xmath1 20,000 , bracketing that eventually chosen for gaia . </S>"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "since the discovery of their period - luminosity ( p - l ) relation , at the beginning of the century ( leavitt @xcite ) , classical cepheids have played a central role as primary distance indicators .",
+    "the reliability of this relation , however , depends on the accuracy of its calibration .",
+    "this is done by using a handful of nearby cepheids , whose distances can be independently determined . due to the low - density distribution of the cepheids in our galaxy , however , this is a difficult task to accomplish .",
+    "large errors still affect direct parallax measurements done with the hipparcos satellite ( see e.g. madore & freedman @xcite ) , and even future space - based surveys appear to suffer from the same limitations .",
+    "recent progresses in ground - based , long baseline interferometry , however , have finally opened the possibility of direct measurements of nearby cepheids distances by using the so - called _ geometric _ baade - wesselink ( bw ) method ( baade 1926 , wesselink 1946 ) .",
+    "a detailed description of this method and its implications for the accuracy of the zero - point calibration of the cepheid p - l relation is given in sasselov & karovska @xcite ( sk94 hereafter ) .",
+    "the bw method relies on the accurate measurement of the cepheid diameter as the star pulsates . as such ,",
+    "it can only be carried on with high angular resolution interferometric measurements .",
+    "the vlti will be the ideal instrument for such measurements , given the available long baselines , and the large apertures allowing to reach fainter sources .",
+    "however , to convert the measured vlti visibilities into accurate diameters , it is critical to use appropriate limb darkening models for different pulsational phases .",
+    "as described in sk94 , the feasibility of the geometric bw method depends on the availability of accurate hydrodynamic models for the cepheid atmospheres , which are required to compute reliable time - dependent limb darkening profiles . in marengo",
+    "@xcite ( mm02 hereafter ) we describe a new approach to compute detailed wavelength- and phase - dependent limb intensity profiles for pulsating cepheids . our profiles are based on time - dependent , non - lte hydrodynamic computations which , starting from a model of the cepheid pulsation , reproduce the dynamic structure of the stellar atmosphere as it pulsates ( see sasselov & lester @xcite ) . from these model atmospheres , we obtain the intensity emerging from the stellar photosphere ( and thus the limb darkening ) , computed for each pulsational phase relevant to the interferometric observations .",
+    "this procedure can be applied to all cepheids for which a reliable pulsational model is available .",
+    "figure  [ fig-1 ] shows the effects of non - lte hydrodynamics in the limb darkening of the classical cepheid @xmath0  gem .",
+    "limb darkening appears to change with the pulsational phase and wavelength .",
+    "the change is not only in the amount of limb darkening , but also in the shape of the limb profile .",
+    "this shows that a single parametrization of the limb profile is not adequate for all pulsational phases .",
+    "detailed time - dependent modeling is thus required for realistic limb darkening .",
+    "our simulations show that the corrections introduced by the hydrodynamic effects and the wavelength dependence of the limb darkening in the diameter measurement , are of the order of a few percent at optical wavelengths . in the near - ir , which is the vlti primary domain , the corrections are of the order of @xmath12% , and are still sensitive to the effects of the pulsations .",
+    "the high accuracy of the vlti visibilities , and the large spectral dispersion of the amber camera , will finally provide the high quality data necessary to apply the bw method . at the same time",
+    ", vlti will allow the first direct testing of the atmospheric model themselves , improving our knowledge of the stellar atmosphere dynamics . to reach the full potential of the vlti , it is however necessary to take into account the corrections induced by limb darkening and its dependence from the pulsational hydrodynamics .    as the only long baseline interferometer below the equator , the vlti offers a unique opportunity to apply the geometric bw method to southern sources .",
+    "vlti provides both the sensitivity and the angular resolution necessary to detect the radial variations of a sample of classical cepheids , to be used to calibrate the zero point of the p - l distance relation .",
+    "the sensitivity required is of the order of mag 24 in the k band , for stars which are of mag 57 in the optical .",
+    "such sensitivity can be easily achieved at the vlti by the near - ir camera amber , using a setup with three auxiliary telescopes , and large spectral resolution to isolate individual spectral lines .",
+    "the typical expected diameters are of the order of @xmath2 mas , with a variation due to the stellar pulsation of about 10% of the diameter .",
+    "this angular resolution can be reached with the vlti by using baselines of @xmath1100 m , or longer .    to - date",
+    ", the angular diameter variations of classical cepheids have been measured only for two sources ( @xmath0 gem and @xmath3 aql , see lane et al .",
+    "@xcite ; lane et al .",
+    "@xcite ) . the vlti will give a substantial contribution in extending this sample , providing the necessary statistical significance for the recalibration of the p - l relation zero point with the bw method ."
+  ],
+  "abstract_text": [
+    "<S> the vlti is the ideal instrument for measuring the distances of nearby cepheids with the baade - wesselink method , allowing an accurate recalibration of the cepheid period - luminosity relation . </S>",
+    "<S> the high accuracy required by such measurement , however , can only be reached taking into account the effects of limb darkening , and its dependence on the cepheid pulsations . </S>",
+    "<S> we present here our new method to compute phase- and wavelength - dependent limb darkening profiles , based on hydrodynamic simulation of classical cepheid atmospheres . </S>"
+  ]
+}

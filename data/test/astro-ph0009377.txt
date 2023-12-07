@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "intermediate scale disk galaxies with starbursts are relatively common in the nearby universe .",
+    "about 5% of galaxies with @xmath017 @xmath1 m@xmath2 @xmath321 have evidence for starbursts .",
+    "many of these occur in smaller galaxies , produce blue colors and strong emission lines , and are in gas rich systems , as indicated by their relatively large fractional hi content .",
+    "the more luminous nearby blue starbursts structurally and spectroscopically resemble the faint blue compact narrow emission line galaxies ( cnelgs ) , which become common at redshifts of z@xmath40.3 ( e.g. , guzman et al .",
+    "they are less well - matched to high redshift blue galaxies , which have a combination of high uv luminosities and huge star formation rates that are not common in nearby extreme starbursts .",
+    "this difference probably reflects secular evolution in the lives of galaxies ; for example , systems at high redshift may be subject to frequent , strong mergers that trigger hyperactive star formation ( e.g. conselice et al .",
+    "2001 in prep ) .",
+    "nearby starbursts frequently show evidence for being dynamically cool , that is they contain strong spiral arms or bars , features that are found in rotationally supported galactic disks .",
+    "thus the processes that produced these starburst did not severely disrupt the disk , or the disk reformed during the starburst event .",
+    "local analogs to the cnelgs include profound starbursts arising from minor perturbations ( see figure 1 ) .",
+    "moderate interactions ( glancing collisions between equals , minor mergers ) are apparently the sources of many starbursts . evidence for this includes subtle optical structural features such as wisps , faint tails , or moderately disturbed kinematics in starbursts , as well as the more ubiquitous signatures of disturbed hi .",
+    "furthermore , in some starbursts where an interaction is the likely trigger , the outer regions of the optical disk appear to be relatively symmetric and relaxed .",
+    "three possible explanations for this behavior are :            @xmath5 blue starbursts are commonly associated with disk galaxies : near face - on systems can transmit uv light through areas where the disk has been cleaned out by supershells , supernova , etc .",
+    "( e.g. conselice et al .",
+    "2000 ) .",
+    "@xmath5 low inclination disks can mimic the kinematics of low mass galaxies due to their narrow line widths ( homeier & gallagher 1999 )",
+    ". some intermediate redshift cnelgs could be low inclination disks of moderate mass rather then extreme dwarf starbursts .",
+    "@xmath5 undisturbed intermediate mass galaxies , such as extreme late - type and superthin spirals ( e.g. , matthews et al .",
+    "1998 ) can be inefficient star - formers and thereby store interstellar gas , the fuel for starbursts , over cosmic time scales .",
+    "@xmath5 uv - bright regions of starbursts frequently occur in features associated with disks , such as rings or arms ( e.g. conselice et al .",
+    "2000 ) which may represent star forming environments not yet accessible to severely disturbed high luminosity starbursts in the distant universe .",
+    "conselice , c.j .",
+    "2000 , aj , 119 , 79 + guzman , r. et al .",
+    "1998 , apj , 495 , l13 + homeier , n. & gallagher , j.s . 1999 ,",
+    "apj , 522 , 199 + matthews , l. , van driel , w. , & gallagher , j. 1998 .",
+    "aj , 116 , 1169 + mihos , c. & hernquist , l. 1996 , apj , 464 , 641 +"
+  ],
+  "abstract_text": [
+    "<S> moderately luminous starbursts in the nearby universe often occur in disk galaxies that are at most subject to mild external perturbations . </S>",
+    "<S> an investigation of this type of galaxy leads to a better understanding of starburst triggering mechanisms and the resulting star formation processes , and provides useful comparisons to more extreme starbursts seen at high redshifts .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

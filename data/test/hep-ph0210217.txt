@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "since its discovery in 1974 , the @xmath0 meson has provided a useful laboratory for quantitative tests of quantum chromodynamics ( qcd ) and , in particular , of the interplay of perturbative and nonperturbative phenomena .",
+    "the factorization formalism of nonrelativistic qcd ( nrqcd ) @xcite provides a rigorous theoretical framework for the description of heavy - quarkonium production and decay .",
+    "this formalism implies a separation of short - distance coefficients , which can be calculated perturbatively as expansions in the strong - coupling constant @xmath3 , from long - distance matrix elements ( mes ) , which must be extracted from experiment .",
+    "the relative importance of the latter can be estimated by means of velocity scaling rules , i.e.  the mes are predicted to scale with a definite power of the heavy - quark ( @xmath4 ) velocity @xmath5 in the limit @xmath6 . in this way ,",
+    "the theoretical predictions are organized as double expansions in @xmath3 and @xmath5 .",
+    "a crucial feature of this formalism is that it takes into account the complete structure of the @xmath7 fock space , which is spanned by the states @xmath8 with definite spin @xmath9 , orbital angular momentum @xmath10 , total angular momentum @xmath11 , and colour multiplicity @xmath12 .",
+    "the hierarchy of the mes predicted by the velocity scaling rules is explained for the @xmath0 , @xmath13 , and @xmath14 mesons in table  [ tab : vsr ] . in particular , this formalism predicts the existence of colour - octet ( co ) processes in nature .",
+    "this means that @xmath7 pairs are produced at short distances in co states and subsequently evolve into physical , colour - singlet ( cs ) quarkonia by the nonperturbative emission of soft gluons . in the limit @xmath15 , the traditional cs model ( csm ) @xcite is recovered .",
+    "the greatest triumph of this formalism was that it was able to correctly describe @xcite the cross section of inclusive charmonium hadroproduction measured in @xmath16 collisions at the fermilab tevatron @xcite , which had turned out to be more than one order of magnitude in excess of the csm prediction .",
+    ".values of @xmath17 in @xmath18\\right\\rangle\\propto v^k$ ] for @xmath19 . [ cols=\"^,^,^\",options=\"header \" , ]",
+    "inclusive @xmath0 production in dis lends itself as a sensitive probe of the co mechanism . as for @xmath20",
+    ", the h1 data @xcite generally confirms nrqcd and disfavours the csm @xcite .",
+    "however , nrqcd predicts at lo a distinct rise in cross section as @xmath21 , which is not reflected by the h1 data .",
+    "this anomaly is familiar from photoproduction , and it is likely to be resolved by the inclusion of higher - order corrections @xcite , possibly in combination with intrinsic-@xmath22 effects and/or nonperturbative shape functions . as for @xmath23 , the chorus central value for the total cross section @xcite exceeds the lo prediction @xcite by almost one order of magnitude .",
+    "however , the experimental error is still rather sizeable . as for @xmath24 ,",
+    "co processes are dominant , diffractive ones are absent , and the experimental signature is spectacular , so that a measurement would be worthwhile @xcite .",
+    "inclusive @xmath0 production in cc dis represents a challenge for hera and thera .",
+    "cdf collaboration , f. abe et al .",
+    "lett .  69 ( 1992 ) 3704 ; 71 ( 1993 ) 2537 ; 79 ( 1997 ) 572 ; 79 ( 1997 ) 578 ; d0 collaboration , s. abachi et al . , phys .",
+    "b 370 ( 1996 ) 239 ; d0 collaboration , b. abbott et al .",
+    ", phys .  rev .",
+    "lett .  82 ( 1999 ) 35 .",
+    "m. beneke and m. krmer , phys .",
+    "d 55 ( 1997 ) 5269 ; a.k .",
+    "leibovich , phys .",
+    "d 56 ( 1997 ) 4412 ; m. beneke , m. krmer , and m. vnttinen , phys .",
+    "d 57 ( 1998 ) 4258 ; b.a .",
+    "kniehl and j. lee , phys .  rev .",
+    "d 62 ( 2000 ) 114027 ; s. fleming , a.k .",
+    "leibovich , and i.z .",
+    "rothstein , phys .",
+    "d 64 ( 2001 ) 036002 .",
+    "todorova - nov , in _ proceedings of the xxxi international symposium on multiparticle dynamics ( xxxi - ismd ) _ , datong , china , september 17 , 2001 , edited by b. yuting , y. meiling , and w. yuanfang , econf c010901 ( 2001 ) ; m. chapkin , talk presented at _",
+    "7th international workshop on meson production , properties and interaction ( meson 2002 ) _ ,",
+    "krakow , poland , 2428 may 2002 ."
+  ],
+  "abstract_text": [
+    "<S> we discuss the inclusive production of @xmath0 mesons in deep - inelastic scattering ( dis ) via the electromagnetic , weak neutral , and charged currents within the factorization formalism of nonrelativistic quantum chromodynamics . </S>",
+    "<S> theoretical predictions are confronted with experimental data of @xmath1 and @xmath2 dis taken by the h1 collaboration at desy hera and the chorus collaboration at cern , respectively . </S>"
+  ]
+}

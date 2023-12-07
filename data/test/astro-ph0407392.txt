@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "temperature profiles of galaxy clusters are of great importance for two main reasons : firstly they allow us to measure the total mass of these systems through the hydrostatic equilibrium equation and secondly they provide informations on the thermodynamic state of the intra cluster medium ( hereafter icm ) .",
+    "measurements of temperature profiles have been performed with the the first generation of x - ray satellites carrying telescopes operating in the medium energy band ( 2 - 10 kev ) , namely asca and bepposax .",
+    "a detailed description of results obtained with these experiments may be found in de grandi & molendi ( 2002 ) and refs . therein .    in the last 3 years",
+    "various authors have published xmm - newton temperature profiles of individual clusters .",
+    "arnaud et al .",
+    "( 2003 ) with a sample of 7 objects comprising 5 clusters and 2 groups find that the temperature profiles are essentially isothermal within @xmath1 , and possibly declining at larger radii , where the statistics is rather limited .",
+    "recently , zhang et al .",
+    "( 2003 ) have published temperature profiles for a sample of 9 clusters , in the outer regions they find both flat and strongly decreasing profiles , however they do not provide a mean temperature profiles of their sample . in this note we derive the mean temperature profile for a sample of hot , medium distant clusters whose profiles are available from the literature and compare it with our mean bepposax profile .",
+    "we have selected from the literature all hot ( i.e. kt@xmath2 kev ) clusters in the redshift range between 0.1 and 0.3 with an available projected radial temperature profile .",
+    "the resulting sample comprises a total of 15 clusters : 9 reflex clusters at redshift @xmath3 ( zhang et al .",
+    "2003 ) , a1413 at z=0.143 ( pratt & arnaud 2002 ) , a2163 at z=0.201 ( pratt et al .",
+    "2001 ) , a1835 at z=0.250 ( majerovitz et al .",
+    "2002 ) , pks 0745@xmath4191 at z=0.1028 ( chen et al .",
+    "2003 ) , zw 3146 at z=0.291 and e1455@xmath5223 at z=0.258 both taken from mushotzky ( 2003 ) .",
+    "the adopted redshift range allows us to compare the temperature profiles measured from xmm - newton data with those derived from bepposax observations .",
+    "the profiles published for the clusters in the xmm - newton sample extend out to @xmath6 from the core , corresponding to physical radii of @xmath7 mpc ( h@xmath8 km s@xmath9 mpc@xmath9 ) .",
+    "the same physical radii are reached by bepposax observations of clusters laying in the @xmath10 redshift range and detected out to @xmath11 ( see de grandi & molendi 2002 ) .",
+    "the average cluster temperature of the xmm - newton sample is @xmath12 7 kev , very similar to that of the bepposax sample ( @xmath13 kev ) .",
+    "we have converted all temperature uncertainties at the 90% confidence level into errors at the 68% c.l . by dividing them by the scaling factor 1.65 .",
+    "for each cluster we have computed the virial radius @xmath14 ( @xmath15 ) from the relation derived by evrard et al .",
+    "( 1996 ) : @xmath16 using published cluster mean temperatures and redshifts .    visual inspection of fig.1 , where we report the individual xmm - newton temperature profiles , shows that the profiles are about isothermal from 0.10 to @xmath17 ; beyond @xmath17 there seems to be a decline .",
+    "it is also clear that points at @xmath18 are heavily fluctuating and tend to have larger errors .",
+    "we have modelled the xmm - newton profiles in fig .",
+    "1 with a power law and converted the slope into the polytrophic gas index accordingly to the calculation reported in the appendix of de grandi & molendi ( 2002 ) . in the range",
+    "@xmath19 we have obtained a polytrophic index @xmath20 , which is close to the isothermal value 1 . whereas , for @xmath21r@xmath22 we have found @xmath23 , which is formally above the adiabatic limit of 5/3 , although consistent at the 68% confidence level with values below 5/3 .",
+    "the drop in the profiles at @xmath12 0.55 r@xmath24 ( clearly visible in fig .",
+    "2 ) highlights a possible problem in the xmm - newton profiles .",
+    "the binned error - weighted average temperature profile computed from the 15 clusters is shown in fig .",
+    "2 , where we also plot the bepposax cool core and non cool core clusters profiles ( see de grandi & molendi 2002 for details ) .",
+    "we have added here to the bepposax cool core clusters the ophiuchus cluster .",
+    "the xmm - newton and bepposax profiles are in good agreement between 0.05 and 0.25 @xmath0 . from 0.25 to about 0.5 @xmath0",
+    "both profiles decline , however the bepposax profile does so more rapidly than the xmm - newton profile .",
+    "the presence of a temperature jump , at the limit of convective stability , at the largest radii explored with xmm - newton , hints to a problem possibly related to the low signal - to - noise ratio of the outermost cluster regions and to the difficulties in operating a correct background subtraction ( see molendi these proceedings for a discussion of this issue ) ."
+  ],
+  "abstract_text": [
+    "<S> we derive here the mean temperature profile for a sample of hot , medium distant clusters recently observed with xmm - newton , whose profiles are available from the literature , and compare it with the mean temperature profile found from bepposax data . </S>",
+    "<S> the xmm - newton and bepposax profiles are in good agreement between 0.05 and 0.25 @xmath0 . from 0.25 to about 0.5 @xmath0 </S>",
+    "<S> both profiles decline , however the bepposax profile does so much more rapidly than the xmm - newton profile . </S>"
+  ]
+}

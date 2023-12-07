@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "catalogs of galaxy clusters with a large range of redshifts and cluster x - ray luminosities are an ideal basis for the test of cosmological parameters ( e.g. henry 2000  ; borgani et al .",
+    "2001 ) and the study of cluster formation and evolution .",
+    "the bright and southern serendipitous high redshift archival rosat cluster ( sharc ) surveys provide a sample of clusters detected in rosat observations over two decades of x - ray luminosities ( 10@xmath2 l@xmath3erg / s ) with redshifts between 0.2 and 0.8 ( romer et al . 2000  ; collins et al . 1997  ; burke et al .",
+    "1997 ) .",
+    "we present here preliminary results based on the follow - up observations of three of these selected galaxy clusters with xmm ",
+    "newton  : rx  j0256.5 + 0006 , rx  j2237.0 - 1516 and rx  j1200.8 - 0328 . for the first time",
+    ", the new generation of x - ray observatory , like xmm - newton and _ chandra _ give capabilities to do precise spectroscopic and imaging analysis at the same time ( see e.g arnaud et al .",
+    "2002a ) .",
+    "our analysis is based on the three epic cameras , mos1&2 and pn . throughout the paper ,",
+    "we use a cosmology with h@xmath4km / s / mpc , @xmath5 and @xmath6 .",
+    "the error bars are given with a confidence level of 90% .",
+    "all the data presented here are treated with the version 5.2 of the sas ( science analysis software ) .",
+    "we select event patterns and time intervals of low background as described in majerowicz et al .",
+    "table 1 shows the effective exposure time of our observations after flare rejection .",
+    "this suggests that this cluster does not host a strong cooling flow .",
+    "this was already seen in rx  j1120.1 + 4318 , a relaxed cluster at z=0.6 ( arnaud et al .",
+    "2002a ) also found in the sharc survey .",
+    "the global temperature for this cluster is 5.1@xmath1kev .",
+    "its surface brightness profile is fitted by a @xmath7-model and the parameters are  : @xmath7=0.64 and @xmath80.51@xmath9228kpc .",
+    "arnaud , m. , neumann , d.m . ,",
+    "aghanim , n. , et al , 2001 , , 365 , l80 arnaud , m. , majerowicz , s. , lumb , d. , et al , 2002a ,  in press , astro - ph/0204306 arnaud , m. , 2002b , this issue borgani , s. , rosati , p. , tozzi , p. , et al , 2001 , , 561 , 13 burke , d.j . , collins , c.a . ,",
+    "sharples , r.m . , et al , 1997 , , 488 , l83 collins , c.a . ,",
+    "burke , d.j . ,",
+    "romer , a.k .",
+    ", et al , 1997 , , 479 , l117 henry , j.p . ,",
+    "2000 , apj , 534 , 565 lumb , d. , 2002 , xmm - soc - cal - tn-0016 majerowicz , s. , neumann , d.m . & reiprich , t.h . , 2002 ,",
+    "submitted to , astro - ph/0202347 neumann , d.m .",
+    "& bhringer , h. 1997 , , 289 , 123 roettiger , k. , loken , c. & burns , j.o . , 1997 , , 109 , 307 romer , a.k . , nichol , r.c . ,",
+    "holden , b.p .",
+    ", et al , 2000 , , 126 , 209 schindler , s. & mller , e. , 1993 , , 272 , 137 snowden , s.l . , egger , r. , freyberg , m.j .",
+    ", et al , 1997 , , 485 , 125 takizawa , m. , 1999 , , 520 , 514"
+  ],
+  "abstract_text": [
+    "<S> we present the follow - up of three medium redshift galaxy clusters from the sharc survey observed with xmm  newton . </S>",
+    "<S> we studied rx  j0256.5 + 0006 which shows two components which are very likely in interaction . </S>",
+    "<S> the smallest component exhibits a comet - like structure indicating ram pressure stripping as it falls onto the main cluster . the second cluster , rx  j2237.0 - 1516 is an elliptical cluster with a gas temperature of 3.0@xmath00.5kev . the third cluster , rx  j1200.8 - 0328 seems to be in a relaxed state because its shape is regular and we do not see obvious temperature gradient . </S>",
+    "<S> its mean temperature is 5.1@xmath1kev .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

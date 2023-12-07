@@ -1,0 +1,19 @@
+{
+  "article_text": [
+    "in order to explain the differences observed between type 1 and type 2 agn it has been proposed that an axially symmetric dusty structure ( the torus ) beyond the accretion disk absorbes a considerable fraction of the radiation emitted at wavelengths shorter than 1 @xmath0 m ( the agn unified scheme ) .",
+    "the dust in this torus typically reaches temperatures of a few hundred degrees and therefore its emission peaks somewhere at ir wavelengths .",
+    "it is therefore in this wavelength regime that the torus can be detected allowing us to determine its properties .",
+    "we have obtained images for 49 seyfert 2 galaxies in 6 ir bands : j ( 1.25 @xmath0 m ) , h ( 1.65 @xmath0 m ) , k ( 2.2 @xmath0 m ) , l ( 3.78 @xmath0 m ) , m ( 4.66 @xmath0 m ) and n ( 10.36 @xmath0 m ) using the vlt at paranal , ntt at la silla and gemini at pachn .",
+    "these galaxies were selected from the _ extended 12 @xmath0 m galaxy sample _ @xcite .",
+    "we obtained the surface brightness profiles of each galaxy and modeled them to separate the contribution from a nuclear point source and a stellar component ( disk+bulge , figure 1 ) to construct the nuclear spectral energy distributions ( seds ) for each galaxy .",
+    "the seds are then fitted using theoretical models of the emission of the dusty torus from @xcite , who solved the radiative transfer problem of a clumpy torus including absorption , emission and scattering .    in figure 2",
+    "we show results for mcg -2 - 40 - 004 and mcg -3 - 34 - 64 , both galaxies classified as type 2 seyfert galaxies in @xcite , but in @xcite mcg -2 - 40 - 004 is classified as a type 1.9 seyfert , and mcg -3 - 34 - 64 as a type 1 due to the detection of broad polarized balmer lines . following @xcite definitions , for mcg -2 - 40 - 004 we obtained a torus of 100 pc in size , with 5 clouds along the line of sight ( each with a @xmath1=20 ) and an inclination of 60@xmath2 . for mcg -3 - 34 - 64",
+    "we obtained a torus of 30 pc in size , with 5 clouds along the line of sight ( each with a @xmath1=40 ) and a face on inclination .",
+    "this sed is clearly more consistent with a type 1 seyfert classification .",
+    "complementary data for our study comes from x - ray , spectropolarimetry , isocam and spitzer observations . together with our observations",
+    ", we will use this information to further constrain the seds of our targets and determine the geometrical and physical parameters that govern the ir emission from agns ."
+  ],
+  "abstract_text": [
+    "<S> we performed imaging on 49 type 2 seyfert galaxies in 6 near- and mid - infrared bands ( 1 - 10@xmath0 m ) . we are separating the contribution of the torus from the host galaxy by radial profile fitting techniques and we will compare the observed spectral energy distributions with theoretical models of torus emission to constrain geometrical and physical parameters . </S>"
+  ]
+}
