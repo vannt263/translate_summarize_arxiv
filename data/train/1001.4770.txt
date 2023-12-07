@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "collapsing massive stars produce supernovae ( sn ) and are linked to the production of long gamma ray bursts ( lgrbs ) , providing clues to the progenitors and their environments .",
+    "a key ingredient is the stellar rotation rate , impacting the energy release and outcome of the event following the implosion of the iron core .",
+    "stellar evolution considerations have shown that it is non - trivial to have rapid rotation , as mass loss and magnetic fields conspire to reduce the pre - sn angular momentum .",
+    "many studies of neutrino cooled accretion relevant for collapsars have considered specific rotation laws that guarantee by a large margin the formation of a centrifugal disk , because the angular velocity is assumed to be nearly keplerian , or because the absolute value of the angular momentum given implies a circularization radius much larger than the radius of the innermost stable circular orbit .",
+    "however , the distributions of specific angular momentum considered were constant in the equatorial plane .",
+    "this is unrealistic , as the specific angular momentum increases outwards in the core and envelope , with marked transitions at the boundaries between different shells .",
+    "here we explore how the distribution of angular momentum as a function of radius can affect the qualitative properties of the accretion flow , and hence the neutrino luminosity , accretion rate and energy release .",
+    "we pay particular attention to the form and rate of change of rotation in the star with radius , and show that state transitions may in principle produce observable consequences in lgrbs relevant to variability and quiescent periods .",
+    "woosley & heger s ( 2006 ) 1d pre - sn models were taken as the initial conditions .",
+    "the correspondent distributions were mapped to two dimensions assuming spherical symmetry , and the iron core was condensed onto a point mass at the origin representing a bh , producing a pseudo - newtonian potential .",
+    "the evolution is subsequently followed with the same numerical code used in lopez - camara et al ( 2009 ) .",
+    "the general trend in the distribution of specific angular momentum in pre - sn models is for a rise through the core and envelope .",
+    "we thus initially considered angular momentum which increased linearly as a function of the stellar radii ( @xmath0 ) .",
+    "when @xmath0 increased very slowly the result was a quasi - radial inflow ( qri ) ; on the other hand , for a rapidly increasing @xmath0 an accretion disk around the bh was produced .",
+    "interestingly , cases which increased linearly -but in neither of the two previous regimes- , this is : an intermediate linearly increasing case , allowed momentary appearance of a torus , which was accreted after a delay of @xmath1  s by th bh .    since neighboring shells in pre - sn cores exhibit strong jumps in the @xmath0 superimposed on an increasing function of radius . to explore how this feature affects the flow properties in the collapsing star , we considered a constant background distribution just below the critical value to produce the accretion disk around the bh ( @xmath2 ) , and two narrow spikes with @xmath0 well above @xmath2 .",
+    "the resulting neutrino luminosity is shown in figure  [ fig : spikes ] .",
+    "it is clear that multiple spikes in the distribution of specific angular momentum lead to clear transitions between the  quasi - radial \" low-@xmath3 and  disk \" high-@xmath3 state , with durations and delays correlated to the form and normalization of @xmath0 .",
+    "has a constant background with two superimposed spikes.,scaledwidth=40.0% ]    for the cases when the newly formed accretion disk had more than a third of the mass inside the qri envelope which is falling onto it ( case referred as : @xmath4 ) , then the initial disk absorbs the impact of the infalling shell and survives .",
+    "thus , when a second spike would approach the still existing disk it would simply add to the preexisting activity , leaving no place to quiescent periods .",
+    "this is illustrated in the bottom panel of figure  [ fig : pathways ] . on the other hand , for cases when the disk has less than a third of that which is present inside the qri envelope ( case referred as : @xmath5 ) , then the accretion disk would be destroyed within a dynamical time scale . with this , when a second spike would reach the centrifugal barrier , a new disk would be created , persisting as long as the inflow has sufficient rotation ( upper panel in figure  [ fig : pathways ] ) , and a quiescent epoch would be present .",
+    "the correspondent time scales can be estimated as the correspondent free fall time for each shell , thus for the case when there is a quiescent period , the initial active period lasts approximately between 1 and 3 second , while the quiescent period lasts from 1 to 15 seconds ( depending on the presn characteristics ) , prior to the main burst .",
+    "the corresponding neutrino luminosities would be : @xmath6  erg  s@xmath7 for the quiescent period , and @xmath6  erg  s@xmath7 for the active periods .",
+    "we wish to stress that while we have presented the neutrino luminosity as a measure of energy output , it is by no means the only one possible , and should be viewed here as a proxy for central engine activity , like the mass accretion rate ( with which it is closely correlated ) .",
+    "one could equally use @xmath8 or the power output through magnetic fields as a measure of the ability to drive relativistic outflows .",
+    "our numerical scheme is geared towards appropriate handling of thermodynamics and the neutrino emission , so it is natural to rely on these properties when making quantitative statements .",
+    "we note that just as not all lgrbs exhibit this behavior , clearly not all progenitors are capable of producing such state transitions .",
+    "whether this can power precursor activity is another matter , requiring the initial episode of accretion to create a low density polar funnel in the star , which remains to be studied in the near future ."
+  ],
+  "abstract_text": [
+    "<S> even thought a large amount of long gamma ray bursts ( lgrbs ) present quiescent periods , their origin remains unclear . in this talk , it is shown how different angular momentum distributions , as a function of the stellar radius ) , can lead to neutrino luminosity variability and the possibility of quiescent epochs in lgrbs . </S>"
+  ]
+}

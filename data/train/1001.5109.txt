@@ -1,0 +1,12 @@
+{
+  "article_text": [
+    "the author s research is partly supported by the agence nationale de la recherche ( anr , 212 , rue de bercy 75012 paris ) through the 20072010 grant anr-07-blan-0237  spbayes \" .",
+    "communications with professor burdzy helped in clarifying some factual inconsistencies in an earlier version and comments from the associate editor were helpful for the presentation of this review ."
+  ],
+  "abstract_text": [
+    "<S> _ the search for certainty _ was published in @xcite by krzysztof burdzy . </S>",
+    "<S> it examines the _  philosophical duopoly \" _ of von mises and de finetti at the foundation of probability and statistics and find this duopoly missing . </S>",
+    "<S> this review exposes the weakness of the arguments presented in the book , it questions the relevance of introducing a new set of probability axioms from a methodological perspective , and it concludes at the lack of impact of this book on statistical foundations and practice .     </S>",
+    "<S> christian p.  robert + universit paris - dauphine , ceremade , and crest , paris    * keywords : * foundations , frequentist statistics , bayesian statistics , von mises , de finetti , probability theory . </S>"
+  ]
+}

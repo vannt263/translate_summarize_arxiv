@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "recent observations of the host galaxies of agn both in the nearby universe and at redshifts out to @xmath2 have shown that the restframe optical colours of the host galaxies peak at intermediate colours between the blue cloud of star - forming galaxies and the red sequence of passively evolving galaxies ( e.g. * ? ? ?",
+    "* ; * ? ? ?",
+    "* ; * ? ? ?",
+    "this observation has led to the suggestion that these `` green valley '' agn host galaxies represent a population in transition from the blue cloud to the red sequence that continuously build up the red sequence across a large range in cosmic time ( e.g. * ? ? ?",
+    "* ; * ? ? ?",
+    "* ; * ? ? ?",
+    ". however , the interpretation of green or intermediate host galaxy colours is not necessarily unique .",
+    "in general , green or intermediate optical colours can arise from a number of scenarios .",
+    "the three main scenarios are ( 1 ) the recent , rapid suppression of star formation ; ( 2 ) the slow , gentle fading of star formation ; and ( 3 ) an enhanced dust screen covering a regular blue cloud star - forming galaxy .",
+    "thus the observation that agn host galaxies exhibit green optical colours is consistent with a scenario where a recent catastrophic event ( such as the agn phase ) has shut down star formation ; more details work on the host galaxy stellar populations are needed to determine which scenario has led agn host galaxies to the green valley .    however , if the green colours of agn host galaxies are due to a recent , rapid suppression of star formation , then the fact that the host galaxies are green leads to a time scale problem .",
+    "green colours in such a suppression scenario imply that the event that led to the suppression of star formation is already significantly in the past .",
+    "the minimum amount of time elapsed since the suppression event in the case of instantaneous suppression is set by the lifetime of ob stars that dominate the ultraviolet - optical spectral energy distribution of young stellar populations .",
+    "thus , if there are no agn host galaxies with blue host galaxy colours , then the agn population detected in the green valley can not be responsible for the suppression of star formation .    a study of an unbiased , hard x - ray selected sample of local agn host galaxies detected by the _ swift _ burst alert telescope by @xcite shows that the local high luminosity @xmath3  agn host galaxies , even when accounting for any contribution of blue agn continuum in the nucleus , strongly cluster at intermediate colours .",
+    "the distribution of these colours , assuming a scenario of rapid suppression of star formation , imply a minimum time delay of @xmath4 myr from the suppression event to the emergence of a radiatively efficient seyfert agn phase detected in the hard x - ray band of _ swift_.",
+    "a more detailed study of the stellar populations of agn host galaxies has been performed by @xcite . using both broadband photometry from the ultraviolet ( from _ galex _ ) ,",
+    "optical ( sdss ) and near - infrared ( 2mass ) and stellar absorption indices measured from sdss spectra , @xcite determined both the age and mass - fraction of the most recent episode of star formation in emission - line selected seyfert agn with early - type host galaxies .",
+    "they found that early - type seyfert agn host galaxies typically experienced a substantial starburst that built typically 110% of the total stellar mass between 300 myr and over 1 gyr in the past .",
+    "none of the early - type agn host galaxies are experiencing a co - eval episode of star formation .",
+    "they are , on the other hand , part of an evolutionary sequence that begins with a starburst in the blue cloud and ends @xmath5 gyr later on the red sequence .",
+    "early - type agn host galaxies can thus be described as post - starburst objects .",
+    "follow - up observations of the molecular gas content of the early - types using the co(1@xmath60 ) line with the 30 m iram telescope @xcite furthermore show that by the time of the seyfert phase , the formerly substantial cold gas reservoirs ( @xmath7 ) present during the starburst phase has been destroyed .",
+    "the destruction of the molecular gas reservoir takes place during the previous agn+sf composite phase ( the transition region on the bpt diagram ) where a low - luminosity agn and rapidly declining star formation are roughly comparable in their contribution to the budget of ionizing photons .",
+    "it would have to be this earlier , low - luminosity agn phase that could potentially be responsible for the suppression of star formation by destroying the molecular gas reservoir , perhaps in a radiatively inefficient kinetic feedback mode .",
+    "the fact that agn host galaxies preferentially exhibit green valley optical colours does not necessarily imply that they have experienced a recent , dramatic shutdown of star formation , and other interpretations of the broad - band colours are possible .",
+    "in addition , green colours imply that the star formation has _",
+    "already _ been shut down at least @xmath4 myr in the past . a detailed analysis of the stellar populations of _ early - type _ agn host galaxies from the sloan digital sky survey shows that early - type agn hosts are post - starburst galaxies with ages of 300 myr to over 1 gyr .",
+    "they form part of an evolutionary sequence starting in the blue cloud and ending on the low - mass end of the red sequence .",
+    "support for the work of k.s . was provided by nasa through einstein postdoctoral fellowship grant number pf9 - 00069 issued by the chandra x - ray observatory center , which is operated by the smithsonian astrophysical observatory for and on behalf of nasa under contract nas8 - 03060 .",
+    "k.s . gratefully acknowledges support from yale university .",
+    "bundy , k. , et al .",
+    "2008 , , 681 , 931 faber , s.  m. , et al .",
+    "2007 , , 665 , 265 nandra , k. , et al .",
+    "2007 , , 660 , l11 schawinski , k. , thomas , d. , sarzi , m. , maraston , c. , kaviraj , s. , joo , s .- j . ,",
+    "yi , s.  k. , & silk , j.  2007 , , 382 , 1415 schawinski , k. , virani , s. , simmons , b. , urry , c.  m. , treister , e. , kaviraj , s. , & kushkuley , b.  2009a , , 692 , l19 schawinski , k. , et al .  2009b , , 690 , 1672 silverman , j.  d. , et al .",
+    "2008 , , 675 , 1025"
+  ],
+  "abstract_text": [
+    "<S> the observation that agn host galaxies preferentially inhabit the  green valley \" between the blue cloud and the red sequence has significant consequences for our understanding of the co - evolution of galaxies and black holes via accretion events . </S>",
+    "<S> i discuss the interpretation of green valley agn host galaxy colours with particular focus on early - type galaxies .    </S>"
+  ]
+}

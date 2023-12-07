@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "we obtained @xmath1 photometry of yy  her , using a 60 cm cassegrain telescope at piwnice observatory near toru ( poland ) , equipped with an emi  9558b photomultiplier ( 19911999 ) , a rca  c31034 photomultiplier ( 20012004 ) and a sbig stl 1001 ccd camera ( 20052008 ) .",
+    "additionally , we used data published by hric et al .",
+    "( 2006 ) , tatarnikova et al .",
+    "( 2001 ) , mikoajewska et al .",
+    "( 2002 ) and data from asas ( pojmanski 2002 ) .    to eliminate the systematic shifts between the different photometric systems ,",
+    "some data sets were corrected as follows : tatarnikova et al .",
+    "( @xmath2 , @xmath3 , @xmath4 , @xmath5 ) and mikoajewska et al.(@xmath6 , @xmath7 , @xmath8 , @xmath9 ) in @xmath10 respectively .",
+    "the multicolor photometric observations of yy  her are presented in figure  1 ( left panel ) .",
+    "fast fourier transform was used to search for the orbital period .",
+    "the corresponding periodograms for all pass - bands are shown in figure  1 ( middle panel ) .",
+    "two peaks at about @xmath11 and @xmath12 dominate in these periodograms .",
+    "the first one is not visible in the @xmath13 filter and the second one is absent in the @xmath14 filter . assuming that the highest peak corresponds to the orbital period , to estimate its mean value ( @xmath15 ) we used the peaks in @xmath16 filters .    using this mean value and measuring the moments of the primary minima from the @xmath17 light curve",
+    ", we constructed the o - c diagram which allowed us to introduce a correction of @xmath18 for @xmath19 and @xmath20 for @xmath21 .",
+    "finally , we adopted the ephemeris @xmath22 .",
+    "the photometric data in all filters , phased with our ephemeris are shown in figure  1 ( right panel ) .",
+    "the @xmath14 light curve shows a pure sine wave shape with a large amplitude @xmath23 and probably reflects the eclipse of the ionized hii zone by red giant and neutral hi region in the system .",
+    "the second minimum appears in the @xmath24 light curve at orbital phase @xmath25 and is very well seen in the @xmath26 ones .",
+    "we estimated its mean value @xmath27 using the peaks in the @xmath26 periodograms .",
+    "we suggest that this second minimum is caused by ellipsoidal changes of the red giant .",
+    "to measure the moments of the secondary minima , we used the @xmath13 light curve in which these minima are best visible . assuming @xmath28 and using the secondary period mean value ( @xmath27 ) we estimated the corrections @xmath29 and @xmath30 .",
+    "our final ephemeries for the second minimum is @xmath31 .",
+    "double secondary period ( @xmath32 ) is @xmath33 days shorter than the orbital period .",
+    "this is a significant difference which will be analysing in the future .",
+    "hric l. , glis r. , niarchos , p. , dobrotka , a. , imon , v. , melcer , l. , velic , z.,hjek , p. , gazeas , k. , sobotka , p. , koss , k. , 2006 , _ caosp _ * 36*,26 mikoajewska , j. , kolotilov , e.a . ,",
+    "shugarov , s.yu . ,",
+    "yudin , b.f , 2002 , _ a&a _ * 392 * , 197 pojmanski , g. , 2002 , _ acta astronomica _ , * 52 * , 397 tatarnikova , a.a . , esipov , v.f . , kolotilov , e.a . ,",
+    "mikoajewska , j. , munari , u. , shugarov , s.yu .",
+    "astronomy letters _ * 27 * , 11"
+  ],
+  "abstract_text": [
+    "<S> a new estimation of the orbital period of yy her on the base of our and published observations is presented . </S>",
+    "<S> phased light curves in @xmath0 bands show evidently ellipsoidal effect connected with the tidal distortion of the giant surface . </S>"
+  ]
+}

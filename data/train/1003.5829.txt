@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "the galactic plane survey performed by _ integral _ satellite in the last 7 years allowed the discovery of a new class of hmxbs with ob supergiants , called _ supergiant fast x - ray transients _ ( sfxts ) : they are transient sources which sporadically exhibit flares , with duration of a few hours , reaching luminosity of @xmath0  erg  s@xmath1 , and a high dynamic range , spanning 3 to 5 orders of magnitude @xcite .",
+    "the accretion mechanism responsible for the peculiar sfxt behaviour is still not clear ( see @xcite and references therein for a recent review ) . among the different possible explanations",
+    ", @xcite proposed that the sfxts flares are produced by the accretion of dense blobs of matter from the companion wind .",
+    "since the accretion of one single clump of matter can not explain the observed x - ray lightcurve in sfxts in outburst ( see e.g. @xcite ) , we developed a more detailed clumpy stellar wind model for ob supergiants in hmxbs @xcite .",
+    "for the first time , a mass and radius distributions for the clumps have been introduced .",
+    "we assume for the clump the same velocity law of a smooth stellar wind , as suggested by @xcite , and following @xcite , we find that the clump size increases with the distance from the supergiant star @xcite . for each mass of the clump , we derived the upper and lower - limits for the clump radius .",
+    "we also modified the bondi - hoyle accretion model to take into account the presence of inhomogeneities in the wind . in this way",
+    ", we were able to compare the observerd lightcurves of sfxts and of persistent hmxbs with the calculated ones .",
+    "we found that the observational characteristics of the flares , luminosity , duration , number of flares produced , do not depend only on the orbital parameters , but are also significantly affected by the properties of the clumps @xcite .",
+    "this model has been successfully applied to four hmxbs : vela  x@xmath21 , 4u  1700@xmath237 , igr  j18483@xmath20311 and igr  j11215@xmath25952 @xcite .",
+    "9 v. et al . , _ _ * 444 * , ( 2005 ) 221 .",
+    "l. , _ advances in space research _ * 43 * , ( 2009 ) 1464 .",
+    "j.j.m . , _ _ * 441 * , ( 2005 ) l1 .",
+    "p. et al . , _ _ * 469 * , ( 2007 ) l5 .",
+    "l. et al . , _ _ * 476 * , ( 2007 ) 1307 .",
+    "l. et al . , _ _ * 398 * , ( 2009 ) 2152 .",
+    "s. and moffat a.f.j .",
+    ", _ aj _ * 136 * , ( 2008 ) 548 .",
+    "et al . , _ _ * 534 * , ( 2000 ) 348 .",
+    "p. et al . , _ _ * 401 * , ( 2010 ) 1564 ."
+  ],
+  "abstract_text": [
+    "<S> we have developed a clumpy stellar wind model for ob supergiants in order to compare predictions of this model with the x - ray behaviour of both classes of persistent and transient high mass x - ray binaries ( hmxbs ) . </S>"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "the gradients of metallicity observed in disk galaxies provide important constraints to the models of the chemical evolution of these objects .",
+    "it is frequently observed , in a first approximation , that spiral galaxies have a declining gradient of metallicity .",
+    "however , it is not rare to observe galaxies with a clear change in the slope of their gradient of metallicity ( eg .",
+    "zaritsky et al . , 1994 ) . considering that spiral arms are the main contributors to the formation of massive stars , which in turn are responsible for the metal enrichment of the interstellar medium , mishurov et al . (",
+    "2002 ) proposed a simple model for the chemical evolution of spiral galaxies that effectively introduces the role of the spiral arms in the star formation rate .",
+    "this model is able to explain the plateau observed in the metallicity distribution of our galaxy , which would be a consequence of the minimum expected in the metallicity distribution produced at corotation . in this work we compiled a set of spiral galaxies for which the rotation curves , the gradients of metallicity and the corotation radii ( or the spiral pattern speeds ) have been evaluated in the literature , to verify if the variations in their metallicity gradient are also related to the corotation .",
+    "there are many works on gradients of metallicity and on the rotation curves of spiral galaxies , but the corotation radii or the spiral pattern speeds were only estimated for a few galaxies .",
+    "the observational data for 20 spiral galaxies presented here are distributed over 108 references compiled and homogenized by scarano jr .",
+    "we adopted the oxygen abundances observed in h  ii regions to evaluate the metallicity distribution .",
+    "distances inside the plane of each galaxy were recalculated to a same reference base .",
+    "all methods used to determine the corotation were considered equivalent .",
+    "the changes in the slope of the metallicity distribution were calculated from a 4th order polynomial fitted to the observational data , which is enough to reproduce the expected radial declining behavior of the metallicities and admits a minimum inside it .",
+    "minima and inflections were determined using the derivatives of the fitted curve .",
+    "the uncertainties were calculated by propagating the errors in the fitted parameters .",
+    "plotting the minimum or the inflection radius @xmath0 , calculated with the procedure described above , against the median corotation radius @xmath1 , determined from the literature for each galaxy , and doing the same thing with the angular velocity @xmath2 , associated to @xmath0 , against the correspondent spiral pattern speed @xmath3 , we obtained the correlations shown in figure 1 for all galaxies in our sample .        in this figure",
+    "the continuous lines are the linear regressions using robust statistics methods , which show the strong correlation between the radii of the breaks in the metallicity gradients and of corotation .",
+    "the fitted lines are very near to the one - to - one correspondence represented by the dashed lines .",
+    "concerning other interesting relations discovered in the present study , the @xmath3 distribution shows a peak around 20 km / s / kpc , revealing that our galaxy is a typical one in this aspect .",
+    "a surprising correlation between the corotation radius and the elmegreen spiral arm class was also found , and when it is applied to our galaxy , it results in a spiral pattern similar to that revealed by recent observations from the spitzer telescope ( churchwell et al . , 2009 ) .",
+    "* churchwell et al . , 2009 ,",
+    "pasp 121 , 213 * mishurov , y.n . ,",
+    "lpine , j.r.d . and acharova , i.a . , 2002 ,",
+    "apj 571 , 113 * scarano jr , s. , 2008 , phd thesis , universidade de sao paulo . *",
+    "zaritsky , d. , kennicutt , jr .",
+    ", r.c . and",
+    "huchra , j.p . , 1994 , apj 420 , 87z"
+  ],
+  "abstract_text": [
+    "<S> the corotation radius in a spiral galaxy is the radius where the spiral pattern speed has the same velocity of the rotation curve . by compiling results from the literature for 20 spiral galaxies we verified a strong correlation between the radius of the minima or inflections of the metallicity distribution and the corotation radius . </S>"
+  ]
+}

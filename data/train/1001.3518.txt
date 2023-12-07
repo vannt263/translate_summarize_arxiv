@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "_ spitzer _ spectroscopy has revealed that @xmath1% of smgs are sb - dominated in the mid - infrared ( @xcite ; @xcite ) .",
+    "we have focussed on the remaining @xmath2% that show signs of harboring powerful agn and use _ spitzer_-irs spectroscopy to study a sample of 8 smgs @xmath3jy at 24@xmath4 m from the scuba half degree extragalactic survey ( shades ; @xcite ) selected on the basis of an irac color - selection ( @xmath5 ; i.e.  likely power - law mid - infrared seds ; see fig .  1 ) .",
+    "the full analysis will be presented in coppin et al.(apj , submitted ) , and our main results are as follows :    * there are signs of sf from pah features in _ all _ of our smgs , from which we derive redshifts between 2.53.4 , demonstrating the power of the mid - ir to determine redshifts when the optical counterparts are too faint to study with current facilities . *",
+    "the irs spectra show signs of _ both _ sb and agn activity in our @xmath5 smg sample , with a continuous distribution of agn fractions in the mid - ir .",
+    "overall , smgs selected in this way tend to have more dominant agn - components in the mid - ir than typical smgs , with a median agn - fraction of 58% .",
+    "although , extrapolation to the far - ir reveals that the agn is bolometrically unimportant in the majority of smgs , indicating that the level of agn contamination in the overall smg population is probably @xmath6% . for comparison , typical smgs",
+    "have @xmath7% agn contribution in the mid - infrared , while they are from a very similar sb @xmath8 class to our sample of @xmath9 .",
+    "* when literature sources are taken into account , a colour - selection of @xmath10 is a better description overall for defining the boundary between sb and agn - dominated smgs , with a small amount of scatter across this division ( see fig .  1 ) .",
+    "* our results are thus consistent with the evolutionary scenario @xcite , with all smgs undergoing a ` transitional ' agn - dominated phase with a duty cycle of @xmath2% .",
+    "our sample of agn - dominated smgs could be at a slightly later stage of evolution than sf - dominated smg systems , with the sf still occurring but where the agn has now begun to heat the dust appreciably in the smg as the bh undergoes a period of rapid growth .",
+    "we would like to thank the conference organizers , stfc , nsf , nasa and the royal society for financial support , and also our collaborators from shades who contributed to this work .",
+    "this work is based in part on observations made with the _",
+    "spitzer space telescope _ , which is operated by the jet propulsion laboratory , california institute of technology under a contract with nasa ."
+  ],
+  "abstract_text": [
+    "<S> it is widely believed that ultraluminous infrared ( ir ) galaxies and active galactic nuclei ( agn ) activity are triggered by galaxy interactions and merging , with the peak of activity occurring at @xmath0 , where submillimetre galaxies are thousands of times more numerous than local ulirgs . in this evolutionary picture </S>",
+    "<S> , submillimetre galaxies ( smgs ) would host an agn , which would eventually grow a black hole ( bh ) strong enough to blow off all of the gas and dust leaving an optically luminous qso . to probe this evolutionary sequence we have focussed on the missing link sources , which demonstrate both strong starburst ( sb ) and agn signatures , in order to determine if the sb is the main power source even in smgs when we have evidence that an agn is present from their irac colours . the best way to determine </S>",
+    "<S> if a dominant agn is present is to look for their signatures in the mid - infrared with the _ spitzer _ irs , since often even deep x - ray observations miss identifying the presence of agn in heavily dust - obscured smgs . </S>",
+    "<S> we present the results of our audit of the energy balance between star - formation and agn within this special sub - population of smgs  where the bh has grown appreciably to begin heating the dust emission .     </S>",
+    "<S> address = icc , durham university , uk     address=_spitzer fellow _ </S>",
+    "<S> , national optical astronomy observatory , tuscon , az , usa     address = nsf astronomy and astrophysics postdoctoral fellow , the observatories of the carnegie institution for science , pasadena , ca , usa     address = department of physics , durham university , uk     address = scottish universities physics alliance , institute for astronomy , university of edinburgh , royal observatory , uk </S>"
+  ]
+}

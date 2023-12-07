@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    ".total 244 and @xmath0 fluxes .",
+    "distances are as reported in condon et al . ( 1991 ) . [ cols=\"^,^,^,^ \" , ]     [ tab : models ]",
+    "we have combined new measurements of the 244 and 610  mhz fluxes , obtained with the gmrt , of a sample of 20 lirgs and ulirgs with existing radio data .",
+    "the resulting radio spectra show a range of bends and turn - overs that can be well explained in terms of free - free absorption . in several cases two radio components with different emission measures",
+    "are necessary to fit the data .    for those objects with two emission components ,",
+    "we estimate the fraction of radio emission associated with each . via a simple model for the temporal evolution of the supernova rate",
+    ", we estimate the fraction of supernovae occurring inside and outside of their parent hii regions as a function of hii region lifetime . for simple exponentially decreasing star formation rates the lifetimes so derived are too long for them to refer to single hii regions . altering the form of the high mass end of the imf or the metallicity has relatively little affect on this result . however , if the star formation rate for these sources is currently rising , rather than declining , the derived hii region lifetimes are very much reduced .",
+    "the effect of a rising star formation rate is to increase the number of younger ( high mass ) supernovae occurring within hii regions , relative to the number of older ( lower mass ) supernovae occurring outside hii regions .",
+    "the star formation rate rise times should be much less than the lifetime of the least massive stars that produce type ii supernovae . despite this reduction ,",
+    "the derived ages remain longer than those plausible for individual hii regions .",
+    "such large ages imply that the physical situation is one in which younger hii regions obscure older star formation regions along the line of sight . this situation would arise naturally if star formation propagated outwards during a burst .",
+    "because a rising star formation rate creates conditions more conducive to free - free absorption , and the fact that the number of sources with two emission components is close to 50% , it is likely that those in which only a single emission component is present are those with falling star formation rates .",
+    "the existence of two emission components in the radio therefore points to an age - dependent extinction analogous to that seen at other wavelengths . in the case of radio emission , the most massive stars ,",
+    "that end their lives earlier , produce synchrotron emission that is subjected to preferentially more free - free absorption than those , lower mass , stars that live for longer .",
+    "the observed over - prediction of fluxes at frequencies above @xmath3 may be resolved if the intrinsic synchrotron spectrum were not straight , but had a steeper spectral index at higher frequencies due to ionization losses , as modeled by thompson et al .",
+    "( 2006 ) .",
+    "the two radio components in ugc  8058 can be identified with the radio loud agn and star formation ; the former contributing 66% of the radio emission .",
+    "this interpretation is consistent with the model of vega et al .",
+    "mc and as acknowledge the expert assistance of ishwara chandra and the gmrt operators during the observations .",
+    "mc and ab acknowledge support from contrat asi / inaf i/016/07/0 . this research has made use of the nasa / ipac extragalactic database ( ned ) which is operated by the jet propulsion laboratory , california institute of technology , under contract with the national aeronautics and space administration .",
+    "baldry , i.  k. , glazebrook k. , 2003 , apj , 593 , 258 + bressan , a. , fagotto , f. , bertelli , g. , chiosi , c. , 1993 , a&as , 100 , 647 + bressan a. , silva l. , granato g.  l. , 2002 , a&a , 392 , 377 + clemens m.  s. , vega o. , bressan a. , granato g.  l. , silva l. , panuzzo p. , 2008 ,",
+    "a&a , 477 , 95 + clemens m.  s. , alexander p. , 2004 ,",
+    "mnras , 350 , 66 + condon j.  j. , 1992 , ara&a , 30 , 575 + condon j.  j. , huang z .- p . , yin q.  f. , thuan t.  x. , 1991 , apj , 378 , 65 + fagotto , f. , bressan , a. , bertelli , g. , chiosi , c. , 1994 , a&as , 104 , 365 + lisenfeld u. , alexander p. , pooley g.  g. , wilding t. , 1996 , mnras , 281 , 301 + neff s.  g. , ulvestad j.  s. , 2000 , aj , 120 , 670 + panuzzo , p. , bressan , a. , granato , g.  l. , silva , l. , danese , l. , 2003 , a&a , 409 , 99 + portinari l. , chiosi c. , bressan a. , 1998 , a&a , 334 , 505 + seaquist e.  r. , bell m.  b. , bignell r.  c. , 1985 , apj , 294 546 + silva l. , granato g.  l. , bressan a. , danese l. , 1998 , apj , 509 , 103 + thompson t.  a. , quataert e. , waxman e. , murray n. , martin c.  l. , 2006 , apj , 645 , 186 + valds j.  r. , berta s. , bressan a. , franceschini a. , rigopoulou d. , rodighiero g. , 2005 , a&a , 434 , 149 + vega o. , clemens m.  s. , bressan a. , granato g.  l. , silva l. , panuzzo p. , 2008 ,",
+    "a&a , 484 , 631 + wills k.  a. , pedlar a. , muxlow t.  w.  b. , wilkinson p.  n. , 1997 , mnras , 291 , 517 +"
+  ],
+  "abstract_text": [
+    "<S> we describe radio observations at 244 and @xmath0 of a sample of 20 luminous and ultra - luminous iras galaxies . </S>",
+    "<S> these are a sub - set of a sample of 31 objects that have well - measured radio spectra up to at least @xmath1 . </S>",
+    "<S> the radio spectra of these objects below @xmath2 show a great variety of forms and are rarely a simple power - law extrapolation of the synchrotron spectra at higher frequencies . </S>",
+    "<S> most objects of this class have spectral turn - overs or bends in their radio spectra . </S>",
+    "<S> we interpret these spectra in terms of free - free absorption in the starburst environment .    </S>",
+    "<S> several objects show radio spectra with two components having free - free turn - overs at different frequencies ( including arp  220 and arp  299 ) , indicating that synchrotron emission originates from regions with very different emission measures . in these sources , using a simple model for the supernova rate , we estimate the time for which synchrotron emission is subject to strong free - free absorption by ionized gas , and compare this to expected hii region lifetimes . </S>",
+    "<S> we find that the ionized gas lifetimes are an order of magnitude larger than plausible lifetimes for individual hii regions . </S>",
+    "<S> we discuss the implications of this result and argue that those sources which have a significant radio component with strong free - free absorption are those in which the star formation rate is still increasing with time .    </S>",
+    "<S> we note that if ionization losses modify the intrinsic synchrotron spectrum so that it steepens toward higher frequencies , the often observed deficit in fluxes higher than @xmath3 would be much reduced .    </S>",
+    "<S> [ firstpage ]    galaxies : active , infrared : galaxies , radio continuum : galaxies </S>"
+  ]
+}

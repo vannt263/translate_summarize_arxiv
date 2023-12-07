@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "there are two alternative methods of quantization of a hamiltonian system with constraints : ( i ) dirac s method - ` first quantize , then impose constraints ' , and ( ii ) non - dirac s method - ` first solve constraints , then quantize ' .",
+    "we have two corresponding methods in quantization of cosmological models of general relativity ( gr ) which make use of the so - called loop geometry : ( i ) standard lqc - dirac s method @xcite , and ( ii ) non - standard lqc - method proposed recently @xcite .",
+    "the latter method corresponds to the reduced phase space quantization of loop quantum gravity @xcite .    in what follows we present quantization of flat frw model with massless scalar field by making use of the non - standard lqc .",
+    "available results are the following : ( 1 ) within standard lqc - classical big - bang is replaced by quantum big - bounce due to strong quantum effects at the planck scale @xcite ; ( 2 ) within non - standard lqc - modification of gr by loop geometry is responsible for the resolution of the singularity , quantization may lead to discrete spectra of physical observables @xcite .",
+    "the gravitational part of the hamiltonian of the flat frw universe with massless scalar field ( in special gauges ) is found to be @xcite @xmath0 where @xmath1 , barbero - immirzi parameter ; @xmath2 , elementary cell ; @xmath3 , lapse function ; @xmath4 , alternating tensor ; @xmath5 , density weighted triad ; @xmath6 , curvature of @xmath7 connection @xmath8 ; @xmath9 ;    modification by loop geometry means approximation of @xmath10 as follows @xcite @xmath11 where the holonomy of the connection around the square loop @xmath12 , with sides length @xmath13 , reads @xmath14 where @xmath15 ( @xmath16 are the pauli spin matrices ) .",
+    "making use of thiemann s identity leads finally to @xmath17 where @xmath18 and where @xmath19 is the volume of the elementary cell @xmath20 .",
+    "variables @xmath21 and @xmath22 determine connections @xmath23 and triads @xmath24 : @xmath25 and @xmath26 , where @xmath27 and @xmath28 , @xmath29 .",
+    "the total hamiltonian for frw universe with a massless scalar field @xmath30 reads @xmath31 where @xmath32 is defined by ( [ hamr ] ) and @xmath33 are elementary variables satisfying @xmath34 .",
+    "the relation @xmath35 defines the physical phase space .",
+    "making use of ( [ box ] ) we calculate ( [ haml ] ) and get the modified total hamiltonian corresponding to ( [ ham ] ) @xmath36    equation ( [ regh ] ) presents a modified classical hamiltonian .",
+    "a function , @xmath37 , is a dirac observable if @xmath38 +       \\frac{\\partial \\cdot}{\\partial \\phi } \\frac{\\partial \\cdot}{\\partial p_\\phi } -       \\frac{\\partial \\cdot}{\\partial p_\\phi } \\frac{\\partial \\cdot}{\\partial       \\phi}.\\ ] ] thus , @xmath39 is solution to the equation @xmath40 solutions to ( [ dir ] ) are found to be @xcite @xmath41 observables satisfy the lie algebra @xmath42 due to the constraint @xmath43 , we have @xmath44 thus , in the physical phase space , @xmath45 , we have only two observables which satisfy the algebra @xmath46    in what follows we consider functions which can be expressed in terms of observables and an evolution parameter @xmath47 so they are not observables",
+    ". they do become observables for each fixed value of @xmath47 , since in such case they are only functions of observables :    the energy density of matter field is found to be @xcite @xmath48 the volume operator may be expressed as @xcite @xmath49",
+    "the energy density operator has been considered recently in @xcite .",
+    "the spectrum of the quantum operator corresponding to @xmath50 turns out to coincide with ( [ rho2 ] ) .",
+    "the energy density operator is bounded and has continuous spectrum .    in what follows we present quantization of the volume observable @xcite .",
+    "the classical volume operator , @xmath51 , reads @xmath52 thus , quantization of @xmath51 reduces to the quantization problem of @xmath53 : @xmath54 where @xmath55 . for @xmath56 and @xmath57",
+    "we use the schrdinger representation @xmath58 thus , an explicit form of @xmath59 is @xmath60    an explicit form of @xmath59 is @xmath60 solution to the eigenvalue problem @xmath61 is found to be @xcite @xmath62 where @xmath63 and @xmath64 .",
+    "completion of the span of @xmath65 in the norm of @xmath66 leads to @xmath67-dim separable hilbert space @xmath68 .",
+    "one may show @xcite that the operator @xmath59 is essentially self - adjoint on each orthonormal space @xmath69 .    due to the the relation ( [ vol ] ) and the spectral theorem on self - adjoint operators we get the solution of the eigenvalue of the volume operator @xmath70 the spectrum",
+    "is bounded from below and discrete .",
+    "there exists the minimum gap @xmath71 in the spectrum , which defines a quantum of the volume . in the limit @xmath72 ,",
+    "corresponding to the classical frw model , there is no quantum of the volume .",
+    "the discreteness may translate at the semi - classical level into a foamy structure of spacetime .",
+    "our results suggest that the foamy structure of space is a real property of the universe so its identification via astro - cosmo observations has sound motivation and is important for the fundamental physics .",
+    "modification of gravitational part of classical hamiltonian , realized by making use of the loop geometry ( parameterized by @xmath73 ) , turns big bang into big bounce ( bb ) .",
+    "since there is no specific @xmath74 , there is no specific energy density at bb , and no specific quantum of the volume .",
+    "the spectra of operators are parametrized by a free parameter @xmath75 that has not been determined theoretically , but is expected to be fixed by the data of observational cosmology ."
+  ],
+  "abstract_text": [
+    "<S> we present results concerning the nature of the cosmological big bounce ( bb ) transition within the loop geometry underlying loop quantum cosmology ( lqc ) . </S>",
+    "<S> our canonical quantization method is an alternative to the standard lqc . </S>",
+    "<S> an evolution parameter we use has clear interpretation both at classical and quantum levels . </S>",
+    "<S> the physical volume operator has discrete spectrum which is bounded from below . </S>",
+    "<S> the minimum gap in the spectrum defines a quantum of the volume . </S>",
+    "<S> the spectra of operators are parametrized by a free parameter to be determined . </S>"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "this work was supported by fct - portugal through project ptdc / fis/ 64175/2006 , nsf grants phy-0745779 , phy-0601459 , phy-0652995 , phy-090003 and phy-0900735 , the alfred p. sloan foundation and the sherman fairchild foundation to caltech .",
+    "computations were performed at teragrid in texas , magerit in barcelona , the woodhen cluster at princeton university and hlrb2 garching ."
+  ],
+  "abstract_text": [
+    "<S> we study gravitational wave emission , zoom - whirl behavior and the resulting spin of the remnant black hole in highly boosted collisions of equal - mass , non spinning black - hole binaries with generic impact parameter .    </S>",
+    "<S> [ [ sec : intro ] ]    * _ introduction : _ * ultra - relativistic black hole ( bh ) scattering simulations are of high interest for a variety of areas in contemporary physics . these include attempts to resolve the hierarchy problem by adding extra dimensions @xcite , the resulting possibility to produce bhs in particle colliders and ultra high - energy cosmic ray interactions with the atmosphere @xcite , the ads / cft correspondence @xcite as well as fundamental aspects of black - hole dynamics . here </S>",
+    "<S> we summarize results obtained for highly boosted collisions of bh binaries with generic impact parameter @xcite ; see also refs .  </S>",
+    "<S> @xcite .    * </S>",
+    "<S> _ simulations : _ * we have performed our numerical simulations using the lean code @xcite which employs the _ moving puncture _ </S>",
+    "<S> method @xcite . </S>",
+    "<S> the code is based on the cactus toolkit @xcite , uses carpet @xcite mesh - refinement , a spectral solver @xcite for bh initial data and thornburg s ahfinderdirect @xcite . for more details </S>",
+    "<S> see @xcite . </S>",
+    "<S> we set up a coordinate system such that the bhs start on the @xmath0-axis separated by a coordinate distance @xmath1 and with radial ( tangential ) momentum @xmath2 ( @xmath3 ) . </S>",
+    "<S> the impact parameter is @xmath4 , where @xmath5 is the linear momentum of either hole and @xmath6 the initial angular momentum . </S>",
+    "<S> our set of simulations consists of three sequences , characterized by @xmath1 and the lorentz boost @xmath7 : ( 1 ) @xmath8 @xmath9 and @xmath10 ; ( 2 ) @xmath8 @xmath9 and @xmath11 ; ( 3 ) @xmath12 @xmath13 and @xmath14 , where @xmath15 is the total bh mass . along each sequence </S>",
+    "<S> we increase the impact parameter starting from the head - on limit @xmath16 .    * _ results : _ * for all sequences we identify three distinct regimes in the @xmath17 parameter space : ( i ) _ immediate _ mergers , ( ii ) _ non - prompt _ mergers and ( iii ) the _ scattering _ regime where no common apparent horizon forms . </S>",
+    "<S> these regimes are separated by two special values of @xmath17 , the _ threshold of immediate merger _ @xmath18 and the _ scattering threshold _ @xmath19 . </S>",
+    "<S> roughly speaking , for @xmath20 , the holes merge within the first encounter , whereas for @xmath21 they do not , but radiate enough energy to enter a bound state that _ eventually _ results in merger .    in the left panel of fig .  </S>",
+    "<S> [ fig1 ] we illustrate these regimes by plotting the trajectories of one binary member , respectively , for three simulations of sequence 1 with @xmath22 , @xmath23 and @xmath24 . </S>",
+    "<S> analysis of the entire sequences 1 and 2 shows that merger occurs only for @xmath25 , consistent with the estimate @xmath26 of shibata et al.@xcite . for sequence 3 , however , we obtain @xmath27 , indicating that ref.@xcite might overestimate @xmath19 for large @xmath28 . </S>",
+    "<S> we emphasize in this context the excellent agreement of our findings with the point - particle approximation@xcite ; a cross section estimate from high - energy scattering off a kerr bh with @xmath29 gives @xmath30 . </S>",
+    "<S> the notion of a _ threshold of immediate merger _ arises in the context of the geodesic limit . </S>",
+    "<S> the argument is that this threshold should generically be accompanied by behavior akin to _ zoom - whirl _ orbits in the geodesic limit @xcite . </S>",
+    "<S> the number of `` whirls '' exhibits exponential dependence on the impact parameter according to @xmath31 , where @xmath32 is a constant and @xmath33 is inversely proportional to the lyapunov instability exponent of the limiting spherical orbit ; see ref.@xcite for details . </S>",
+    "<S> we have analyzed sequence 1 by estimating the number of orbits @xmath34 in the whirl phase using ( a ) the puncture trajectories ( @xmath35 ) and ( b ) the gravitational wave flux ( @xmath36 ) ; cf .  </S>",
+    "<S> fig .  1 in @xcite . </S>",
+    "<S> these two estimates are shown in the center and right panel of fig .  </S>",
+    "<S> [ fig1 ] and indicate that the above mentioned relationship between @xmath34 and @xmath17 is valid with a slope @xmath37 to within @xmath38 .    </S>",
+    "<S> the threshold of immediate merger @xmath18 appears to also play a special role when we consider gw emission and final spin in cases where merger occurs : both quantities show maxima for @xmath39 . for @xmath40 the radiated energy increases from @xmath41 of the total energy of the system for @xmath16 to @xmath42 near @xmath18 . </S>",
+    "<S> even for this comparatively small boost we thus exceed the maximum of @xmath43 reported for ultra relativistic head - on collisions @xcite . for sequence 3 with @xmath44 and </S>",
+    "<S> @xmath39 the radiated energy is @xmath45 . </S>",
+    "<S> extrapolation to @xmath46 indicates enormous luminosities @xmath47 corresponding in physical units to @xmath48 . </S>",
+    "<S> similarly we observe a maximum in the final spin of the post - merger hole near @xmath18 . for sequence 2 and @xmath49 we </S>",
+    "<S> obtain a dimensionless spin parameter @xmath50 . </S>",
+    "<S> for example , @xmath51 results in @xmath52 , close to extremal and larger than any values reported so far in the literature @xcite . </S>"
+  ]
+}

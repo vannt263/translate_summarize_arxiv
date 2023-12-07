@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "the hamilton - jacobi tunneling method ( see , for example @xcite ) is a covariant variant of the parikh - wilczeck method@xcite and it has been extended to the dynamical case @xcite .",
+    "the method is based on two natural requirements , namely that the tunnelling rate is an observable and therefore it must be based on invariantly defined quantities , and that coordinate systems which do not cover the horizon should not be admitted .",
+    "these simple observations can help to clarify some ambiguities , like the doubling of the temperature occurring in the static case when using singular coordinates and the role , if any , of the temporal contribution of the action to the emission rate .",
+    "our aim is to study the behavior of a scalar field near a ( dynamical ) event horizon .",
+    "the field is governed by the klein  gordon equation @xmath0 which , in a wkb approximation , reduces to the relativistic hamilton ",
+    "jacobi equation @xmath1 thus , the probability of tunneling through an horizon , if any , to the leading order in @xmath2 , is expressed by the relation @xmath3 .",
+    "if @xmath4 , with both @xmath5 and @xmath6 scalars , and @xmath6 representing an energy , we can associate a temperature to the field .    if black holes are to be considered real objects , we need to consider them as dynamical ( i.e. , time - dependent ) .",
+    "we take the metric of a spherically symmetric space - time ( sss ) as @xmath7 the areal radius @xmath8 is a geometrically invariant quantity .",
+    "other useful quantities are @xmath9 , which defines the dynamical trapping horizon as @xmath10 , provided @xmath11 .",
+    "we can also define the misner  sharp mass as @xmath12 .",
+    "of the utmost importance is the dynamical hayward s surface gravity , another scalar quantity : @xmath13    since we want to perform a wkb approximation , we need to give a definition for the energy of point - like particles , or , equivalently , a family of observers with some properties . going along previous works , it is natural to choose kodama observers , since the relation @xmath14 ensures the possibility of defining an energy , at least locally , integrating the current @xmath15 on 3-d spatial hypersurfaces .",
+    "more in detail , the kodama vector field can be constructed via @xmath16    for a single particle , considering its classical action @xmath17 , its invariant energy @xmath6 will be given by @xmath18    how to reconstruct the action along a selected path in space - time ?",
+    "@xmath19 with @xmath20 an oriented null curve with at least one point on the dynamical horizon .",
+    "the integration is split into two parts : one regular outside the horizon , and one that is generally divergent .",
+    "we need to use a coordinate system regular on the horizon , otherwise the integration has simply no meaning . + according to previous works on the subject , starting from parikh and wilczek , we make use of the feynman regularization for the divergent part of the integral .",
+    "thus , we derive @xmath21 @xmath22 and @xmath23 are scalars in the normal space , so the tunneling rate turns out to be an invariant , i.e. an observable , as we could expect .",
+    "is the quantity @xmath24 really a temperature ? of course not , in the strict sense : we are not dealing here with a system in strict thermodynamical equilibrium .",
+    "however , we can consider its non - vanishing as a signal of a quantum instability for dynamical black holes regarding quantum emission of particles .",
+    "+ from an experimentalist s point of view , however , under some approximation regarding the slow change of the solution in time , the situation is the same of someone measuring the temperature of a kettle of water which is heated up . operationally speaking",
+    ", @xmath24 is the redshift - normalized temperature measured by a kodama - observer .    in a static",
+    "setting , one is given at least two choices for defining an invariant energy : the killing vector is the most discussed one , the kodama is the other .",
+    "what normally happens is that @xmath25 same happens with the temperature .",
+    "however , the physical quantity is , strictly speaking , @xmath26 , and both turn out equal .",
+    "a thing worth noticing is that hayward s surface gravity is sensible to conformal transformations , especially to singular ones .",
+    "this can have an impact on the physics of solutions generated , for example , in different frames of string theory .",
+    "an example is represented by some stringy solution : in its extremal limit , in the string frame , it s only hayward s surface gravity which vanishes .",
+    "in this contribution we have discussed the so - called hamilton  jacobi method through - horizon tunneling .",
+    "we have dealt with a generic symmetric spherically space - time and made use of three important invariant points , namely regular coordinates on the horizon , a consistent notion of particle energy to be implemented in hj equations and the null expansions of geodesics for massless particles traveling across the horizon . using these items ,",
+    "we have shown how the method works in a completely coordinate - invariant way ."
+  ],
+  "abstract_text": [
+    "<S> previous work on dynamical black hole instability is further elucidated within the hamilton - jacobi method for horizon tunnelling and the reconstruction of the classical action by means of the null - expansion method and making use of a coordinate invariance approach . </S>"
+  ]
+}

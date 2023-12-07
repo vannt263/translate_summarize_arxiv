@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "there are many results on the minimum dilatation of pseudo - anosov homeomorphisms .",
+    "they includes bounds and specific examples  @xcite as well as known values on closed and punctured surfaces  @xcite .",
+    "for the punctured discs , the case with three punctures is classical .",
+    "discs with four and five punctures were solved by  @xcite and  @xcite using train track automata . in this paper",
+    "we give a simple derivation for four and five punctures , and find the least dilatation for up to eight punctures , using methods introduced in  @xcite .",
+    "it is well - known that the braid group @xmath4 is isomorphic to the mapping class group @xmath5 of the sphere with @xmath6 punctures ( one of which is a marked point ) , that is the disc with @xmath0 punctures .",
+    "we denote by @xmath7 the classical generators  @xcite .",
+    "we shall prove                                  n.  v. ivanov , _ coefficients of expansion of pseudo - anosov homeomorphisms _ , zap .",
+    "nauchn . sem .",
+    "otdel . mat .",
+    "inst . steklov ( lomi ) * 167 * ( 1988 ) , 111116 , translation in _",
+    "j. soviet math . _",
+    "* 52 * ( 1990 ) , pp ."
+  ],
+  "abstract_text": [
+    "<S> we find the minimum dilatation of pseudo - anosov braids on @xmath0-punctured discs for  @xmath1 . </S>",
+    "<S> this covers the results of song - ko - los ( @xmath2 ) and ham - song ( @xmath3 ) . </S>",
+    "<S> the proof is elementary , and uses the lefschetz formula . </S>"
+  ]
+}

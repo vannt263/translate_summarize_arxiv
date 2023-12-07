@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "the presence of metals and x - rays in star forming regions affect processes like gas heating , ionization degree and cooling time , and do so up to column densities of 10@xmath9 @xmath10 that are typical of dense cores ( e.g. , hocuk & spaans 2010 ; meijerink & spaans 2005 ) . at the same time",
+    ", star formation in the early universe and inside active galactic nuclei may depend strongly on the ambient metallicity and radiation background as well as on mechanical feedback from supernovae ( e.g. , greif et al .",
+    "2010 ) .       the simulation with x - rays results in a much flatter imf slope than the one without radiation , @xmath11 after @xmath12 years of evolution ( see figure 5 ) .",
+    "this is much flatter than the salpeter slope of -1.35 that we find for the simulation without x - rays , which has a typical cloud temperature of 10 k due to cosmic ray heating only .",
+    "these trends are maintained at higher dynamical times , @xmath13 .",
+    "the main reason for the change in imf comes from the jeans mass .",
+    "the efficient x - ray heating yields temperatures in the cloud of 50 k at densities as high @xmath14 @xmath7 and columns of @xmath15 @xmath10 .",
+    "we find that the sink particles still grow in mass after @xmath16 and experience competitive accretion ."
+  ],
+  "abstract_text": [
+    "<S> star formation is regulated through a variety of feedback processes . in this study </S>",
+    "<S> , we treat feedback by metal injection and a uv background as well as by x - ray irradiation . our aim is to investigate whether star formation is significantly affected when the ism of a proto - galaxxy enjoys different metallicities and when a star forming cloud resides in the vicinity of a strong x - ray source . </S>",
+    "<S> we perform cosmological enzo simulations with a detailed treatment of non - zero metallicity chemistry and thermal balance . </S>",
+    "<S> we also perform flash simulations with embedded lagrangian sink particles of a collapsing molecular cloud near a massive , 10@xmath0 m@xmath1 , black hole that produces x - ray radiation .    </S>",
+    "<S> we find that a multi - phase ism forms for metallicites as small as @xmath2 solar at @xmath3 , with higher ( @xmath4 ) metallicities supporting a cold ( @xmath5 k ) and dense ( @xmath6 @xmath7 ) phase at higher ( @xmath8 ) redshift . a star formation recipe based on the presence of a cold dense phase leads to a self - regulating mode in the presence of supernova and radiation feedback . </S>",
+    "<S> we also find that when there is strong x - ray feedback a collapsing cloud fragments into larger clumps whereby fewer but more massive protostellar cores are formed . </S>",
+    "<S> this is a consequence of the higher jeans mass in the warm ( 50 k , due to ionization heating ) molecular gas . </S>",
+    "<S> accretion processes dominate the mass function and a near - flat , non - salpeter imf results . </S>"
+  ]
+}

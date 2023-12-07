@@ -1,0 +1,15 @@
+{
+  "article_text": [
+    "the author s research is partly supported by the agence nationale de la recherche ( anr , 212 , rue de bercy 75012 paris ) through the 20072010 grant anr-07-blan-0237  spbayes \" ."
+  ],
+  "abstract_text": [
+    "<S> _ evidence and evolution : the logic behind the science _ was published in @xcite by elliott sober . </S>",
+    "<S> it examines the philosophical foundations of the statistical arguments used to evaluate hypotheses in evolutionary biology , based on simple examples and likelihood ratios . </S>",
+    "<S> the difficulty with reading the book from a statistician s perspective is the reluctance of the author to engage into model building and even less into parameter estimation . </S>",
+    "<S> the first chapter nonetheless constitutes a splendid coverage of the most common statistical approaches to testing and model comparison , even though the advocation of the akaike information criterion against bayesian alternatives is rather forceful . </S>",
+    "<S> the book also covers an examination of the  intelligent design \" arguments against the darwinian evolution theory , predictably if unnecessarily resorting to popperian arguments to correctly argue that the creationist perspective fails to predict anything . </S>",
+    "<S> the following chapters cover the more relevant issues of assessing selection versus drift and of testing for the presence of a common ancestor . while remaining a philosophy treatise , _ evidence and evolution _ </S>",
+    "<S> is written in a way that is accessible to laymen , if rather unusual from a statistician viewpoint , and the insight about testing issues gained from _ evidence and evolution _ makes it a worthwhile read .     </S>",
+    "<S> christian p.  robert + universit paris - dauphine , ceremade , and crest , paris    * keywords : * foundations , frequentist statistics , bayesian statistics , likelihood , evolution , darwin , cladistic parsimony , random drift , selection , hypothesis testing , model comparison , model , data . </S>"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "we used two methodologies for analyzing the data cube of ngc 404 .",
+    "the first of them was the spectral synthesis with the starlight software ( cid fernandes et al ( 2005 ) ) .",
+    "this software performs a spectral synthesis to fit an observed spectrum from a set of base spectra . from this spectral synthesis",
+    ", starlight calculates , among other things , the fraction of light attributed to each stellar population used to perform the fit .",
+    "the spectral synthesis was applied to the spectra of each spatial pixel of the data cube .",
+    "the second methodology used for this analysis was the spectral simulations with the cloudy ( developed by g. ferland ) and mappings iii ( allen et al ( 2008 ) ) softwares .",
+    "cloudy calculates the spectrum emitted by a non - equilibrium gas exposed or not to a radiation source .",
+    "mappings iii works in a similar way , but the atomic ionization and excitation sources , in this case , are shock waves .    in this work",
+    ", we tried to reproduce the emission line ratios detected along the field of view of the studied object by performing simulations with theses softwares .",
+    "by using starlight , we determined the flux and mass fractions corresponding to the stellar populations used in the spectral synthesis of the central region of ngc 404 . in figure 1",
+    "we can see that most of the stellar mass in the central region of this galaxy is due to stars with ages higher than @xmath3 years and with medium and high metallicities .",
+    "therefore , photoionization models involving young stars can not explain the emission spectrum of this galaxy .",
+    "the graph showing the flux fractions corresponding to the stellar populations used in the spectral synthesis appears to suggest the existence of several different star formation episodes along the evolution of this galaxy .    in all simulations performed with cloudy for this object",
+    ", we used an ionizing continuum with a power law shape and a spectral index of -1.7 , a filling factor of 0.01 and an electronic density of @xmath4 @xmath5 . in the simulations performed with mappings iii",
+    ", we used an electronic density of 1 @xmath5 and a solar metallicity .    in figure 2",
+    ", we can see that the photoionization by an agn ( with ionization parameters between @xmath6 and @xmath7 ) can reproduce part of the emission line ratios observed in the data cube of ngc 404 .",
+    "however , since there are no observational evidences for the existence of an agn in this galaxy , a possible explication is that there was an agn in the past , but the accretion stopped and the agn was extinguished .",
+    "now , some photons emitted by the agn are still propagating through the narrow line region , resulting in the observed spectrum .",
+    "the simulations performed with mappings iii show that photoionization models involving shock waves ( with velocities between 275 and 350 km / s ) can reproduce a great part of the emission line ratios observed in the data cube of ngc 404 if a low electronic density ( 1 @xmath5 ) is assumed .",
+    "however , this low density seems to be in disagreement with the observed [ s ii ] line ratios ."
+  ],
+  "abstract_text": [
+    "<S> ngc 404 , at a distance of 3.4 mpc , is the nearest s0 galaxy . this galaxy harbors a liner ; however , since the spectrum does not show a broad h@xmath0 emission , it is not certain that this liner is a low luminosity agn and its nature is still an open question . </S>",
+    "<S> hst observations show the existence of stellar populations with an age of @xmath1 years in the galactic bulge and with an age of @xmath2 years in the galactic disk . in this work </S>",
+    "<S> , we present an analysis of the data cube of ngc 404 obtained with the ifu ( integral field unity ) of the gmos ( gemini multi - object spectrograph ) on the gemini north telescope . </S>"
+  ]
+}

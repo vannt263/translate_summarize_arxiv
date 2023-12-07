@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "in this paper we work on a 3-manifold @xmath0 equipped with local coordinates @xmath1 , @xmath2 , and prescribed positive metric @xmath3 which does not depend on time @xmath4 .",
+    "we view our 3-manifold @xmath0 as an elastic continuum whose material points can experience no displacements , only rotations , with rotations of different material points being independent . rotations of material points of the elastic continuum are described mathematically by attaching to each geometric point of the manifold @xmath0 an orthonormal basis , which gives a field of orthonormal bases called the _",
+    "coframe_.    the coframe @xmath5 is a triple of orthonormal covector fields @xmath6 , @xmath7 , on the 3-manifold @xmath0 .",
+    "each covector field @xmath6 can be written more explicitly as @xmath8 where the tensor index @xmath2 enumerates the components .",
+    "the orthonormality condition for the coframe can be represented as a single tensor identity @xmath9 we view the identity ( [ constraint for coframe ] ) as a kinematic constraint : the metric @xmath10 is given ( prescribed ) and the coframe elements @xmath6 are chosen so that they satisfy ( [ constraint for coframe ] ) , which leaves us with three real degrees of freedom at every point of @xmath0 .",
+    "as dynamical variables in our model we choose the coframe @xmath5 and a positive density @xmath11 .",
+    "these are functions of local coordinates @xmath1 on @xmath0 as well as of time @xmath4 .    at a physical level , making the density @xmath11 a dynamical variable means that we view our continuum more like a fluid rather than a solid . in other words , we allow the material to redistribute itself so that it finds its equilibrium distribution .    the crucial element in our construction is the choice of potential energy . as a measure of deformations caused by rotations of material points",
+    "we choose _ axial torsion _ , which is the 3-form given by the explicit formula @xmath12 where @xmath13 denotes the exterior derivative .",
+    "we take the potential energy of our continuum to be @xmath14 .",
+    "it is easy to see that this potential energy is conformally invariant : it does not change if we rescale our coframe as @xmath15 and our density as @xmath16 where @xmath17 is an arbitrary scalar function .",
+    "we take the kinetic energy of our continuum to be @xmath18 where @xmath19 is the 2-form @xmath20 with @xmath21 denoting the time derivative .",
+    "the 2-form @xmath19 is , up to a constant factor , the hodge dual of the vector of angular velocity .",
+    "we now combine the potential energy and kinetic energy to form the action ( variational functional ) of our dynamic problem : @xmath22 where @xmath23 is our dynamic ( time - dependent ) lagrangian density .",
+    "our field equations ( euler  lagrange equations ) are obtained by varying the action ( [ our action ] ) with respect to the coframe @xmath5 and density @xmath11 .",
+    "varying with respect to the density @xmath11 is easy : this gives the field equation @xmath24 which is equivalent to @xmath25 .",
+    "varying with respect to the coframe @xmath5 is more difficult because we have to maintain the kinematic constraint ( [ constraint for coframe ] ) .",
+    "the technical difficulty mentioned above can be overcome by switching to a different dynamical variable .",
+    "it is known that in dimension  @xmath26 a coframe @xmath5 and a ( positive ) density @xmath11 are equivalent to a nonvanishing spinor field @xmath27 modulo the sign of @xmath27 .",
+    "the explicit formulae relating coframes and spinors are given in appendix c of ref .  .",
+    "the advantage of switching to a spinor field @xmath27 is that there are no kinematic constraints on its components , so the derivation of field equations becomes straightforward .",
+    "switching to spinors in formula ( [ our lagrangian density ] ) we arrive at the following self - contained explicit spinor representation of our dynamic lagrangian density @xmath28 ^ 2 \\\\ - \\|i ( \\bar\\xi^{\\dot a}\\sigma_{\\alpha\\dot ab}\\partial_0\\xi^b - \\xi^b\\sigma_{\\alpha\\dot ab}\\partial_0\\bar\\xi^{\\dot a } ) \\|^2 \\bigr)\\sqrt{\\operatorname{det}g}\\end{gathered}\\ ] ] where the @xmath29 are pauli matrices and the @xmath30 are covariant derivatives .",
+    "we write down the dynamic ( containing time derivatives ) field equation for the lagrangian density ( [ our lagrangian density in terms of spinor ] ) and seek solutions of the form @xmath31 where @xmath32 is a real number .",
+    "we call solutions of the form ( [ stationary spinor field ] ) _ stationary_.    it turns out that despite the fact that our dynamic field equation is nonlinear , time @xmath4 can be separated out and stationary solutions do indeed make sense .",
+    "the underlying group - theoretic reason for our nonlinear dynamic field equation admitting separation of variables is the fact that our model is @xmath33-invariant , i.e.  it is invariant under the multiplication of a spinor field by a complex constant of modulus 1 .",
+    "our problem has been reduced to the study of the stationary ( time - independent ) lagrangian density @xmath34 ^ 2 - ( p_0\\bar\\eta^{\\dot a}\\sigma_{0\\dot ab}\\eta^b)^2 \\bigr)\\sqrt{\\operatorname{det}g}\\ ] ] which is our dynamic lagrangian density ( [ our lagrangian density in terms of spinor ] ) with time @xmath4 separated out .",
+    "our main result is the following    [ main theorem ] a nonvanishing time - independent spinor field @xmath35 is a solution of the field equation for our stationary lagrangian density  ( [ our lagrangian density in terms of spinor stationary ] ) if and only if it is a solution of one of the two stationary weyl equations @xmath36    observe that our stationary lagrangian density  ( [ our lagrangian density in terms of spinor stationary ] ) factorises as @xmath37 where @xmath38\\sqrt{\\operatorname{det}g } $ ] are the lagrangian densities for the stationary weyl equations ( [ stationary weyl equation ] ) .",
+    "it is easy to see that the latter posses the property of scaling covariance : @xmath39 where @xmath17 is an arbitrary scalar function .",
+    "in fact , the lagrangian density of any formally selfadjoint ( symmetric ) linear first order partial differential operator has the scaling covariance property ( [ proof of theorem equation 1 ] ) ."
+  ],
+  "abstract_text": [
+    "<S> the paper deals with the weyl equation which is the massless dirac equation . </S>",
+    "<S> we study the weyl equation in the stationary setting , i.e. when the the spinor field oscillates harmonically in time . </S>",
+    "<S> we suggest a new geometric interpretation of the stationary weyl equation , one which does not require the use of spinors , pauli matrices or covariant differentiation . </S>",
+    "<S> we think of our 3-dimensional space as an elastic continuum and assume that material points of this continuum can experience no displacements , only rotations . </S>",
+    "<S> this framework is a special case of the cosserat theory of elasticity . </S>",
+    "<S> rotations of material points of the space continuum are described mathematically by attaching to each geometric point an orthonormal basis which gives a field of orthonormal bases called the coframe . as the dynamical variables ( unknowns ) of our theory we choose the coframe and a density . </S>",
+    "<S> we choose a particular potential energy which is conformally invariant and then incorporate time into our action in the standard newtonian way , by subtracting kinetic energy . </S>",
+    "<S> the main result of our paper is the theorem stating that in the stationary setting our model is equivalent to a pair of weyl equations . </S>",
+    "<S> the crucial element of the proof is the observation that our lagrangian admits a factorisation . </S>"
+  ]
+}

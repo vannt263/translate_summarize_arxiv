@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "the structure of a large city is probably one of the most complex spatial system that we can encounter .",
+    "it is made of a large number of diverse components connected by different transportation and distribution networks . in this respect ,",
+    "the popular conception of a city with one center and pendular movements going in and out of the business center is likely to be an audacious simplification of what actually happens .",
+    "the most prominent and visible effects of such spatial organization of economic activity in large and densely populated urban areas are characterized by severe traffic congestion , uncontrolled urban sprawl of such cities and the strong possibilities of rapidly spreading viruses biologial and social through the dense underlying networks @xcite .",
+    "the mitigation of these undesirable effects depends intrinsically on our understanding of urban structure @xcite , the spatial arrangement of urban hubs and centers , and how the individuals interact with these centers .",
+    "the dominant model of the industrial city is based on a monocentric structure  @xcite , but contemporary cities are more complex , displaying patterns of polycentricity that require a clear typology for their understanding @xcite .",
+    "one of the most important features of an urban landscape is the clustering of economic activity in many centers @xcite : the idea of the polycentric city in such terms can be traced back over one hundred years @xcite , but so far no clear quantitative definition has been proposed , apart from various methods of density thresholding based , for example , on employment @xcite . in order to characterize polycentricity",
+    ", we must investigate movement data such as person flow and mobile - phone usage @xcite which offers the possibility of analyzing quantitatively various features of the spatial organization associated with individual traffic movements .",
+    "more precisely , in this study , we analyze data for the london underground rail ( ` tube ' ) system collected from the oyster card ( an electronic ticketing system used to record public transport passenger movements and fare tariffs within greater london ) which enables us to infer the statistical properties of individual movement patterns in a large urban setting .",
+    "world cities @xcite are among those with the most complex spatial structure .",
+    "the number , the diversity of components and their localization warns us intuitively that these megapoles are far from their original historical form which is invariably represented by a simple , monocentric structure . in particular , the level of commercial and industrial activity varies strongly from one area to another .",
+    "thus flows of individuals can be thought as good proxies for the activity of an area and to this end we first checked that the flows at different stations correlate positively with other activity indicators such as counts of employees and the employee density .",
+    "this shows that indicators of a different nature and on different time scales , which are also widely regarded as measures of polycentricity in large cities , are also consistent with movement data recorded over much shorter time scales .",
+    "the main results that we will discuss in this section are that ( i ) flows are generally of a local nature ( ii ) they are also organized / aggregated around polycenters and ( iii ) the examination and decomposition of these flows lead to the description of entangled hierarchies , and ( iv ) hence one likely structure describing this large metropolitan area is based on polycentrism .",
+    "this perspective thus draws new insights from data that has become available from electronic sources that have so far not been utilised in analyzing the urban spatial structure and in this sense , are unprecedented in the field .    to get a preliminary grasp on the data , we observe that the flow distribution ( normalized histogram of flows of individuals ) is fitted by a power law with exponent @xmath0 which indicates that there is strong heterogeneity of individuals movements in this city ( for this distribution",
+    ", the ratio of the two first moments has a large value @xmath1 , which confirms this strong heterogeneity) see figure  @xmath2 .",
+    "we observe that there is a continuous addition of new sources along with connections to new and old centers .",
+    "besides , for a total flow less than @xmath3 , there is a relatively stable proportion of sources ( about @xmath4 ) whose outdegree varies when @xmath5 increases .",
+    "when we zoom into finer scales ( i.e. , larger values of the total flow @xmath5 ) , new sources appear and connect preferentially to the existing largest centers , while the existing sources connect to the new centers through secondary connections .",
+    "this yields two types of connection only .",
+    "the first type goes from new sources to old centers , and the second type from old sources to new centers .",
+    "guttierez , j. , garcia - palomares , j.c .",
+    "( 2006 ) new spatial patterns of mobility with the metropolitan area of madrid : towards more complex and dispersed flow network . _ journal of transport geography _ * 15 * , 18 - 30 ."
+  ],
+  "abstract_text": [
+    "<S> the spatial arrangement of urban hubs and centers and how individuals interact with these centers is a crucial problem with many applications ranging from urban planning to epidemiology . </S>",
+    "<S> we utilize here in an unprecedented manner the large scale , real - time oyster card database of individual person movements in the london subway to reveal the structure and organization of the city . </S>",
+    "<S> we show that patterns of intraurban movement are strongly heterogeneous in terms of volume , but not in terms of distance travelled , and that there is a polycentric structure composed of large flows organized around a limited number of activity centers . for smaller flows , </S>",
+    "<S> the pattern of connections becomes richer and more complex and is not strictly hierarchical since it mixes different levels consisting of different orders of magnitude . </S>",
+    "<S> this new understanding can shed light on the impact of new urban projects on the evolution of the polycentric configuration of a city and the dense structure of its centers and it provides an initial approach to modeling flows in an urban system . </S>"
+  ]
+}

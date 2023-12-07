@@ -1,0 +1,17 @@
+{
+  "article_text": [
+    "the author s research is partly supported by the agence nationale de la recherche ( anr , 212 , rue de bercy 75012 paris ) through the 20072010 grant anr-07-blan-0237  spbayes \" .",
+    "the first draft of this paper was written during the conference on frontiers of statistical decision making and bayesian analysis in san antonio , texas , march 17 - 20 , held in honour of jim berger s 60th birthday , and the author would like to dedicate this review to him in conjunction with this event .",
+    "he is also grateful to eric sr for his confirmation of the arithmetic mean distribution classification found in chapter xvii of the _ treatise_. detailed and constructive comments from a referee greatly helped in preparing the revision of the paper .",
+    "this paper was composed using the ba.cls macros from the international society for bayesian analysis ."
+  ],
+  "abstract_text": [
+    "<S> _ a treatise on probability _ was published by john maynard keynes in 1921 . </S>",
+    "<S> the _ treatise _ contains a critical assessment of the philosophical foundations of probability and of the statistical methodology at the time . </S>",
+    "<S> we review the aspects of the book that are most related with statistics , avoiding uninteresting neophyte s forrays into philosophical issues . </S>",
+    "<S> in particular , we examine the arguments provided by keynes again the bayesian approach , as well as the sketchy alternative of a return to lexis theory of analogies he proposes . </S>",
+    "<S> our conclusion is that the _ treatise _ is a scholarly piece of work looking at past advances rather than producing directions for the future .     </S>",
+    "<S> christian p.  </S>",
+    "<S> robert + universit paris - dauphine , ceremade , and crest , paris    * keywords : * probability theory , frequency , law of large numbers , foundations , bayesian statistics , history of statistics . </S>"
+  ]
+}

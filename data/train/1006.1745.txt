@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "determinations of the kobayashi - maskawa matrix elements  [ 1 ] provide important checks on the consistency of the standard model and ways to search for new physics . in decades , several methods have been discussed to provide interior angles @xmath8 , @xmath9 and @xmath0 of the unitarity triangle . the @xmath0 measurement is still on the way since the measurement has been statistically limited even with modern electron - positron b factories .",
+    "two of those analyses to evaluate @xmath0 are reported here .",
+    "as space is limited , belle experiment and kekb accelerator are not explained here . detailed description of the belle detector is found elsewhere  [ 2 ] .",
+    "the time - dependent @xmath10 analysis of the @xmath11 system provides a theoretically clean measurement of the product @xmath12  [ 3 ] , where @xmath13 is the ratio of the magnitudes of the doubly cabibbo - suppressed decay amplitude to the cabibbo - favoured decay amplitude . unlike the @xmath14 process",
+    ", @xmath2 , which is predominantly a spectator process with a @xmath15 transition , does not have contributions from @xmath16 decays to the same final state and can provide clean experimental access to @xmath17 . assuming su(3 ) flavour symmetry between @xmath18 and @xmath19 , @xmath17 is given by    @xmath20    where @xmath21 is the cabibbo angle , @xmath22 and @xmath23 are the meson form factors , and the @xmath24 s stand for the corresponding branching fractions . the @xmath2 process , in addition , does not have a penguin loop contribution and hence can in principle be used to determine @xmath25  [ 4 ] .",
+    "the decay @xmath2 does not have a contribution from the @xmath26-exchange amplitude , as the quark - antiquark pair with the same flavor , required for such a diagram , is absent from the final state .",
+    "we assume the @xmath26-exchange contributions in @xmath27 to be negligible , in making the correspondence between @xmath28 and @xmath29 in the @xmath17 calculation .",
+    "the size of the w - exchange diagram can be estimated from the @xmath3 decay , which proceeds only via @xmath26 exchange . the @xmath3 branching fraction was expected to be enhanced due to rescattering effects  [ 5 , 6 ] . here",
+    "we briefly report an improved measurement of the branching fractions for @xmath2 and @xmath3 with a data sample consisting of @xmath30 @xmath31 pairs .",
+    "detailed description of the analysis is found elsewhere  [ 7 ] .",
+    "the signal is reconstructed in three @xmath32 modes : @xmath33 with @xmath34 , @xmath35 with @xmath36 , and @xmath37 with @xmath38 . after applying belle",
+    "standard event selection criteria , we obtained results of fits  ( figure 1 ) summarized in table 1 .",
+    "the significance is defined as @xmath39 , where @xmath40 are the likelihoods for the best fit and with the signal branching fraction fixed to zero .",
+    "table 2 summarizes the systematic uncertainties involved .",
+    "the overall systematic uncertainty is obtained by adding these contributions in quadrature .",
+    "lcrllr @xmath41 mode & @xmath32 mode & @xmath42(% ) & @xmath43 & @xmath44 & @xmath45 + @xmath2 & @xmath46 & @xmath47 & @xmath48 & @xmath49 & @xmath50 + & @xmath51 & @xmath52 & @xmath53 & @xmath54 & @xmath55 + & @xmath56 & @xmath57 & @xmath58 & @xmath59 & @xmath60 + & simultaneous & @xmath61 & @xmath61 & @xmath62 & @xmath63 + @xmath3 & @xmath46 & @xmath64 & @xmath65 & @xmath66 & @xmath50 + & @xmath51 & @xmath67 & @xmath68 & @xmath69 & @xmath70 + & @xmath56 & @xmath71 & @xmath72 & @xmath73 & @xmath74 + & simultaneous & @xmath61 & @xmath61 & @xmath75 & @xmath76 +        captypetable    lcc source & + & @xmath77 & @xmath78 + @xmath32 branching fraction uncertainties & & + signal & 5.9 & 6.2 + peaking background & 1.5 & 1.9 + total(@xmath24 ) & 6.1 & 6.5 + tracking efficiency & 4.0 & 4.0 + photon detection efficiency & 7.0 & 7.0 + particle identification efficiency & 2.4 & 2.1 + @xmath79 efficiency & 1.1 & 1.1 + @xmath80 & 0.6 & 0.5 + @xmath81 & 1.4 & 1.4 + mc statistics & 1.4 & 1.6 + pdf shape & 3.4 & 1.5 + fit bias & 0.9 & 0.3 + total ( other ) & 9.4 & 8.8 +    we obtain @xmath82 and @xmath83 with significance of @xmath84 and @xmath85 , respectively , where the systematic uncertainties on the signal yield as well as the statistical uncertainties are included in the significance evaluation . using observed value for the @xmath2 branching fraction , the latest values for @xmath86 , @xmath87  [ 8 ] , and the theoretical estimate of the ratio @xmath88  [ 9 ] , we obtain @xmath89 where the first error is statistical , the second corresponds to the experimental systematic uncertainty , and the third accounts for the theoretical uncertainty in the @xmath90 estimation .",
+    "we have assumed that the ratio @xmath91 is equal to the ratio of vector meson decay constants , @xmath92 .",
+    "the value we obtain for @xmath13 is consistent with theoretical expectation of 2% .",
+    "the observed value for the @xmath3 branching fraction is 2 orders of magnitude lower than that for the cabibbo - favoured decay @xmath93 .",
+    "among various methods to measure the angle @xmath0 using @xmath10 violation in @xmath95 decays  [ 10 - 14 ] , three body final states such as @xmath96 have been suggested as promising modes for the extraction of @xmath0  [ 15 ] . assuming no @xmath10 asymmetry in neutral @xmath97 decays , the amplitude of the neutral @xmath97 decays from @xmath98 as a function of dalitz plot variables @xmath99 and @xmath100 is @xmath101 where @xmath102 is the amplitude of the @xmath103 decay , @xmath104 is the ratio of the magnitudes of the two interfering amplitudes , and @xmath105 is the strong phase difference between them .",
+    "the @xmath103 decay amplitude @xmath106 can be determined from a lage sample of flavor - tagged @xmath103 decays produced in @xmath107 continuum process .",
+    "once @xmath106 is known , a simultaneous fit of @xmath108 and @xmath109 data allows the contribution of @xmath104 , @xmath0 and @xmath105 to be separated .    in this paper",
+    ", we report a preliminary result of a measurement of @xmath0 using the modes @xmath110 and @xmath111 with @xmath112 , based on a 605 @xmath113 data sample .",
+    "detailed description is found in reference  [ 16 ] . after event selection(figure  2 and 3 ) , we obtained @xmath0 and other parameters by fitting the dalitz plots for two event samples , @xmath110 , @xmath111 and combined results of angle @xmath0 as @xmath4  ( table  3 ) .",
+    ".@xmath10 fit results .",
+    "the first error is statistical , the second is experimental systematic , and the third is the model uncertainty .",
+    "the error in combined result of @xmath0 is only statistical .",
+    "consult the reference for detailed results  [ 16 ] .",
+    "[ cols=\"<,^,^,^,^\",options=\"header \" , ]      decays from selected @xmath114(top ) and @xmath115(bottom ) candidates , shown separately for @xmath109(left ) and @xmath108(right ) tags . ]",
+    "decays from selected @xmath114(top ) and @xmath115(bottom ) candidates , shown separately for @xmath109(left ) and @xmath108(right ) tags . ]",
+    "we report results of measurements of the angle @xmath0 of kobayashi - maskawa triangle with @xmath1 dalitz plot analysis and related issues with @xmath2 and @xmath3 decay processes .",
+    "measurement of angle @xmath0 is on the way to verify the standard model prediction , and will be a rich physics subject for a decade with next generation @xmath116 factories and lhc ."
+  ],
+  "abstract_text": [
+    "<S> we report results of measurement of the unitarity triangle angle @xmath0 with @xmath1 dalitz plot analysis and related issues with @xmath2 and @xmath3 decay processes . </S>",
+    "<S> the dalitz analysis improves accuracy of the angle @xmath0 as @xmath4 and the branching fractions are found to be @xmath5 decays are set as @xmath6 and @xmath7 . </S>"
+  ]
+}

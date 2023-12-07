@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the observations of halos in light nuclei followed by the skin phenomena in medium and heavy nuclei give new insight into the isospin dynamics of nuclear matter .",
+    "firstly predicted in hydrodynamic and collective models@xcite and further approved by microscopic theories@xcite , one of the most interesting findings , related to skin oscillations in stable and unstable neutron - rich nuclei , was a new dipole mode named pygmy dipole resonance ( pdr).@xcite    nowadays , the rapidly increasing number of photon - scattering experiments allows already a systematics of the pdr over different isotopic chains.@xcite    here , we present a theoretical method , based on self - consistent hartree - fock - bogoljubov ( hfb ) description of the nuclear ground state and quasiparticle - phonon model ( qpm ) for the excited states.@xcite it is applied for investigations on dipole and other multipole excitations in n=50 , 82 and z=50 nuclei , particularly exploring their connection to the thickness of the nuclear skin . as a link to nuclear many - body theory a density functional theory ( dft ) is applied to express the interaction part in the energy density functional in terms of wood - saxon potentials .",
+    "the model hamiltonian resembles in structure the traditional qpm model @xcite but in detail differs in the physical content in important aspects as discussed in ref .",
+    "@xcite . in this sense , the approach is able to describe the nuclear ground state properties like binding energies , neutron and proton root mean square radii and the difference between them defining the nuclear skin , and separation energies.@xcite calculations of ground state neutron and proton densities for z=50 and n=50 , 82 nuclei are shown in refs . @xcite .",
+    "of special importance for these investigations are the nuclear surface regions , where the formation of a skin takes place .",
+    "a common observation found in the investigated isotopic and isotonic chains of nuclei is that the thickness of the neutron skin is related to the neutron - to - proton ratio n / z .",
+    "the nuclear excitations are expressed in terms of quasiparticle - random - phase- approximation ( qrpa ) phonons : @xmath1 where @xmath2 is a single - particle proton or neutron state ; @xmath3 and @xmath4 are time - forward and time - backward operators , coupling two - quasiparticle creation or annihilation operators to a total angular momentum @xmath5 with projection @xmath6 by means of the clebsch - gordan coefficients @xmath7 .",
+    "the excitation energies of the phonons and the time - forward and time - backward amplitudes @xmath8 and @xmath9 in eq .",
+    "( [ phonon ] ) are determined by solving qrpa equations.@xcite    furthermore , the qpm provides a microscopic approach to multiconfiguration mixing.@xcite the wave function of an excited state consists of one- , two- and three - phonon configurations.@xcite the electromagnetic transitions are described by transition operators accounting for the internal fermionic structure of the phonons.@xcite",
+    "of summed pdr strengths in tin isotopes in comparison ( upper panel ) with dft nuclear skin thickness @xmath10 calculations and data derived from charge exchange reactions@xmath11.,width=278 ]      1 ( electric dipole ) and @xmath121 ( magnetic dipole ) photoabsorption cross sections in @xmath0ba below 9.0 mev .",
+    "the cross sections are averaged over 0.2 mev energy bins ( see in ref.17 as well).,title=\"fig:\",width=249 ] 1 ( electric dipole ) and @xmath121 ( magnetic dipole ) photoabsorption cross sections in @xmath0ba below 9.0 mev .",
+    "the cross sections are averaged over 0.2 mev energy bins ( see in ref.17 as well).,title=\"fig:\",width=249 ]    from analysis of the structure of low - energy 1@xmath13 states and corresponding neutron and proton transition densities@xcite a pdr mode is identified as a distinct and unique excitation different from the giant dipole resonance ( gdr ) .",
+    "the total pdr strength is found to be closely related to the neutron skin thickness .",
+    "qrpa results for sn isotopes are presented in fig .",
+    "the transition of the neutron pdr to a proton pdr manifests itself via the proton and neutron transition densities as well .",
+    "thus , in @xmath14sn the proton oscillations dominate at the nuclear surface due to the formation of a proton skin ( see in ref .",
+    "@xcite for details ) . in comparison",
+    ", the presence of a neutron skin explains the neutron oscillations at the surface of tin nuclei with a@xmath15106 as it is demonstrated for @xmath16sn in fig .",
+    "[ fig2 ] ( left panel ) .    furthermore , in theoretical investigations of 2@xmath17 excitations in sn isotopic chain , we find a strength clustering at low - energies of quadrupole states with predominantly neutron structure .",
+    "they strongly resemble by spectroscopic features the known pdr excitations in terms of spectral distributions , electric response functions and transition densities .",
+    "these states we relate to pygmy quadrupole resonance ( pqr).@xcite the connection of the pqr with neutron ( proton ) skin oscillations is demonstrated in analysis of transition densities ( see in fig .",
+    "[ fig2 ] ( right panel ) ) . similarly to the pdr , a transition from a neutron pqr to a proton pqr in @xmath18sn is observed for the mass region where the neutron skin reverses into a proton skin .",
+    "an important question to clarify is the fine structure of the observed low - energy dipole strength . for this purpose ,",
+    "qpm calculations of low - energy e1 and spin - flip m1 excitations are made , in a configuration space including up to three - phonon components , in @xmath0ba nucleus .",
+    "the results are compared to experimental data obtained from polarized photon beams.@xcite the experimental observations and their theoretical interpretation show unambiguously the predominantly electric character of the observed low - energy dipole strength ( see fig . [ fig3 ] ) .",
+    "namely , only the electric dipole strength should be related to pdr mode ( for more details see in ref .",
+    "@xcite ) .    in conclusion ,",
+    "the systematic investigations in isotopic and isotonic chains reveal a connection between pdr and pqr strengths and the n / z ratio defining the size of the neutron or proton skin .",
+    "this connection manifests itself as well via the independence of the pdr and pqr modes of the type of nucleon excess .    in n=82 nuclei",
+    "the low - energy dipole strength is mostly due to electric excitations . even though , in order to determine the pure pdr strength associated with a nuclear skin , the magnetic contribution must be identified and subtracted ."
+  ],
+  "abstract_text": [
+    "<S> systematic studies of dipole and other multipole excitations in stable and exotic nuclei are discussed theoretically . exploring the relation of the strengths of low - energy dipole and quadrupole pygmy resonances to the thickness of the neutron ( proton ) skin a close connection between static and dynamic properties of the nucleus is observed . </S>",
+    "<S> the fine structure of low - energy dipole strength in @xmath0ba nucleus is revealed from e1 and spin - flip m1 strengths distributions . </S>"
+  ]
+}

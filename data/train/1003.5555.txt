@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "time explicit schemes are prone to the courant - friedriech - lewy ( cfl ) stability condition which constrains the maximum time step one can use in numerical calculations .",
+    "however , in some stellar physics problems , the physical solution evolves on time - scales which are much longer than this `` numerical '' time - scale .",
+    "this often makes calculations too cumbersome to be tractable .",
+    "it is then necessary to use an implicit scheme , which does not have such a limitation on the time step .",
+    "this paper describes such an implicit hydrodynamic code .",
+    "the first scientific problem to be adressed with the code is the role of convection in pulsating stars .",
+    "this requires an implicit approach since the typical cfl time step ( for a moderate resolution ) is @xmath0 s , whereas the convection ( eddy turnover ) time - scale is @xmath1 s ( @xmath2 ) and typical pulsation periods are of the order of a few days ( @xmath3 s ) with a growth rate of the order of @xmath4 s.",
+    "we solve numerically the standard hydrodynamic conservation equations with radiative transfer .",
+    "we use the internal energy density equation and we treat radiation transport in the diffusion limit . this approximation is suitable for optically thick region but becomes inaccurate in the photosphere and optically thin regions . molecular viscosity is negligible in astrophysical flow , but we use artificial viscosity when robustness might be an issue , e.g. for the initial relaxation of stellar models or for shocks .",
+    "the hydrodynamic equations are closed with an equation of state and opacities appropriate for the description of stellar interior structure .",
+    "we use spherical coordinates and assume azimuthal symmetry , leaving @xmath5 as independent coordinates .",
+    "the spatial discretization is done on a staggered grid , using a finite volume approach .",
+    "fluxes are computed at cell interfaces with an upwind reconstruction scheme : we use either the donor cell method ( first order in space ) or the van leer method ( second order in space ) . for the implicit temporal discretization ,",
+    "we use either the backward euler scheme ( first order in time ) or the crank - nicholson scheme ( second order in time ) .",
+    "an implicit discretization results in a non - linear system which is solved by newton - raphson iterations .",
+    "this requires the inversion of a linear system involving the jacobian matrix of the set of equations . here the jacobian matrix is computed by numerical differencing and we use a direct solver , mumps ( amestoy et al .",
+    "2001 ) , which implements an efficient and robust lu decomposition .",
+    "the variable time step is chosen on empirical ground , depending on the amount of changes of variables during a time step , as described for example in dorfi ( 1997 ) .",
+    "for test purpose , we have also implemented in the code cartesian geometry ( 2d ) and the equation of state of a perfect gas with a constant adiabatic index @xmath6 .",
+    "basic tests ( e.g. sedov , sod , barenblatt ) have been successfully done for code validation during its first stages of development , so we focus here on two tests more relevant to stellar physics problems such as convection or oscillations .",
+    ".run parameters for the entropy bubble test [ cols=\"^,^,^,^,^\",options=\"header \" , ]",
+    "we have presented a new multi - d hydrodynamic implicit code . as shown in section [ bubble ] ,",
+    "high cfl simulations are efficient to study physical processes proceeding on time - scale larger than the cfl limit .",
+    "one should always consider numerical results with care , as an inappropriate time step can give significantly wrong results .",
+    "we have shown that the code is able to handle strong convection , at least in a simple setup .",
+    "our first results on a realistic ( weakly convective ) stellar model are encouraging and provide very promising perspectives for the first multi - d simulations of convection in pulsating star , a challenge in the field of asteroseismology .",
+    "p. r. amestoy , i. s. duff , j. koster and j .- y .",
+    "lexcellent , simax , vol 23 , 1 , 15 , 2001 a. brandenburg , k.l .",
+    "chan , a. nordlund , & r.f .",
+    "stein , astron .",
+    "nachr . 8 , 681 , 2005 b. dintrans & a. brandenburg , a&a , 421 , 775 , 2004 e.a .",
+    "dorfi in r.j .",
+    "leveque , d. mihalas , e.a .",
+    "dorfi , e. muller , saas - fee advanced course 27 , swiss society for astrophysics and astronomy , 1997"
+  ],
+  "abstract_text": [
+    "<S> we report on the development of an implicit multi - d hydrodynamic code for stellar evolution . </S>",
+    "<S> we present two test - cases relevant for the first scientific goal of the code : the simulation of convection in pulsating stars . </S>",
+    "<S> first results on a realistic stellar model are also presented . </S>"
+  ]
+}

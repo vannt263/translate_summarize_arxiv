@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "psr j1012 + 5307 is a 5.3ms pulsar in a low eccentricity binary system with orbital period of @xmath014.5h @xcite and a low mass helium white dwarf ( wd ) companion @xcite .",
+    "ref .   compared the measured optical luminosity of the wd to the value expected from wd models and calculated a distance of @xmath1pc . in addition they measured , a radial velocity component of @xmath2kms@xmath3 relative to the solar system barycentre ( ssb ) , and the mass ratio of the pulsar and its companion @xmath4 .",
+    "finally they derived a companion mass of @xmath5 , a pulsar mass of @xmath6 and an orbital inclination angle of @xmath7 .",
+    "ref .   presented the timing analysis of psr j1012 + 5307 using 4 years of timing data from effelsberg and 7 years from lovell radio telescope .",
+    "they derived the spin , astrometric and binary parameters for the system and they discussed the prospects of future measurements of a post - keplerian parameter ( pk ) which can contribute to the derivation of stringent limits on alternative gravity theories .",
+    "in this work psr j1012 + 5307 has been revisited with seven more years of high - precision timing data and combined datasets from the epta telescopes ( effelsberg , lovell , nanay , westerbork ) , at five different frequencies .",
+    "the data have been analysed using the timing software tempo and all the astrometric , spin and binary parameters of this system have been improved .",
+    "for the first time a parallax @xmath8mas has been measured for psr j1012 + 5307 .",
+    "this corresponds to a distance of @xmath9pc which is consistent with the @xmath1 pc measured from the optical observations .    as predicted by ref .",
+    "a significant measurement of the change in the orbital period of the system , @xmath10 , has been obtained for the first time .",
+    "this is caused by the doppler correction ( which is the combined effect of the proper motion of the system @xcite and a correction term for the galactic acceleration ) and by a contribution due to the quadrupole term of the gravitational wave emission , as predicted by general relativity ( gr ) .",
+    "after subtracting these two contributions from our measured value , the excess value of @xmath11 confirms the validity of gr for one more millisecond pulsar binary system .",
+    "all the terms mentioned above are the ones expected to contribute by using gr as our theory of gravity . however , there are alternative theories of gravity , that violate the strong equivalence principle ( sep ) and predict extra contributions to the observed orbital period variation .",
+    "one is the dipole term of the gravitational wave emission , which results from the difference in gravitational binding energy of the two bodies of a binary system .",
+    "thus psr j1012 + 5307 , a pulsar - wd system , is ideal for testing the strength of such emission . for small - eccentricity pulsar - wd systems , where the sensitivity @xmath12 ( related to the gravitational self - energy of a body ) of the wd is much smaller than the one of the pulsar",
+    ", one finds @xmath13 , @xcite where @xmath14 and @xmath15 is the reduced mass ; @xmath16 is the sensitivity of the pulsar and @xmath17 refers to the dipole self - gravitational contribution .",
+    "another term is predicted by a hypothetical variation of the locally measured gravitational constant as the universe expands , @xmath18 p_{b } $ ] , @xcite where @xmath19 is the total mass of the system .",
+    "it has been shown that there is no need to add these extra contributions to explain the variations of the orbital period , however the excess value has been used to set limits for a wide class of alternative theories of gravity .",
+    "psr j1012 + 5307 is an ideal lab for constraining the dipole radiation term because the wd nature of the companion is affirmed optically , the mass estimates are free of any explicit strong - field effects and the mass of the pulsar is rather high , which is important in the case of strong field effects that occur only above a certain critical mass , like the spontaneous scalarisation @xcite .",
+    "thus , by using the @xmath20yr@xmath3 limit from the lunar laser ranging ( llr ) @xcite the @xmath21 contribution has been calculated and subtracted from our excess value in order to finally obtain an improved generic limit for the dipole contribution of @xmath22 ( 95 per cent c.l . ) .",
+    "a generic test for @xmath23 can not be done with a single binary pulsar , since , in general , theories that predict a variation of the gravitational constant typically also predict the existence of dipole radiation .",
+    "this degeneracy has been broken here in a joint analysis of psr j1012 + 5307 and psr j0437@xmath244715 @xcite , two binary pulsar - wd systems with tight limits for @xmath25 and different orbital periods . by applying eq .",
+    "1 @xmath26 - 4 \\pi^2 \\frac{t_\\odot\\mu}{p_b^2 } \\ , \\kappa_{\\rm d } s_p^2\\ ] ] to both binary pulsars , and solving in a monte - carlo simulation this set of two equations , stringent and generic limits based purely on pulsar data and in the strong field regime have been obtained . with a 95 per cent c.l . ,",
+    "@xmath27 and @xmath28 . in the future",
+    ", more accurate measurements of @xmath29 and distance of the two pulsars and wds could constrain even more our derived limits .    a more detailed work on this study of psr j1012",
+    "+ 5307 can be found in ref .  .",
+    "we are very grateful to all staff at the effelsberg , westerbork , jodrell bank and nanay radio telescopes for their help with the observations .",
+    "kl was supported for this research through a stipend from the international max planck research school ( imprs ) for astronomy and astrophysics at the universities of bonn and cologne .",
+    "mp is supported by a grant from the science and technology facilities council ( stfc ) .",
+    "we are grateful to paulo freire for valuable discussions ."
+  ],
+  "abstract_text": [
+    "<S> we report on the high precision timing analysis of the pulsar - white dwarf binary psr j1012 + 5307 . using 15 years of multi - telescope data from the european pulsar timing array ( epta ) network , </S>",
+    "<S> a significant measurement of the variation of the orbital period is obtained . using this ideal strong - field gravity laboratory we derive theory independent limits for both the dipole radiation and the variation of the gravitational constant . </S>"
+  ]
+}

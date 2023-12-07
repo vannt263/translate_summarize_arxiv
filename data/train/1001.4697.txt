@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "one of the main sources of gravitational radiation for the future space - based gravitational - wave observatory lisa@xcite are the capture , and posterior inspiral , of stellar - mass compact objects ( scos ) into massive black holes ( mbh ) located at galactic centers .",
+    "since the masses of interest for the sco are around @xmath0 , and for the mbh are in the range @xmath1 , the mass - ratio for these systems is @xmath2 .",
+    "for this reason , they are called _ extreme - mass - ratio inspirals _ ( emris ) . during the inspiral phase , an emri losses energy and angular momentum via the emission of gravitational waves ( gws ) .",
+    "lisa will be able to detect gw signals of @xmath3 emri@xmath4 up to distances with @xmath5@xcite .",
+    "these signals will be hidden in the lisa instrumental noise and in the gw foreground produced mainly by compact binaries in the lisa band .",
+    "thus , in order to extract the emri signals we need a very accurate theoretical knowledge of the gravitational waveforms . the main difficulty in producing those waveforms is the description of the gravitational effects of the sco on its own trajectory .",
+    "these effects produce deviations in the motion of sco , which is not longer a geodesic around the mbh , which can be pictured as the action of a local force , the _ self - force_. here , we review the results of recent work@xcite  where a new time - domain technique for the computation of the self - force has been proposed .",
+    "due to the complexity of the gravitational emri problem@xcite we have developed our new techniques for self - forse computations using a simplified model that contains all the ingredients of the gravitational case .",
+    "it consists of a charged scalar particle ( the sco ) in a circular motion around a non - rotating mbh .",
+    "this provides a good test bed to test our techniques before extending them to the gravitational case .",
+    "the equations of a ( scalar , electromagnetic , gravitational ) field on a schwarzschild background inherit the spherical symmetry of the geometry .",
+    "therefore , we can decompose the field in harmonic modes , eliminating the angular dependence , so that each of them satisfies a decoupled 1 + 1 wave - type equation .",
+    "in contrast with the behavior of the full field , each harmonic mode turns out to be finite at the particle location , which is very useful to regularize the field mode by mode using the _ mode - sum _ regularization scheme@xcite .",
+    "then , we can obtain a regular field by adding all the regularized harmonic modes , from which we can compute the self - force acting on the particle .",
+    "it is then very important to develop efficient techniques to compute precisely the harmonic modes near or at the particle location so that we can estimate very precisely the self - force via the mode - sum scheme .",
+    "recently , we presented@xcite a new time - domain technique to solve the wave equations for the harmonic modes in an efficient and precise way .",
+    "it consists in a multi - domain framework where the particle is always located at the interface between two subdomains .",
+    "this setup has two important advantages : ( i ) we do not need to resolve a small scale associated with the presence of a point - like singularity inside the computational domain and ( ii ) to avoid the negative effects in the numerical computations of the low differentiability of the solution .",
+    "the main idea is that the wave equations in the different domains are source - free and then do not see point - like singularities , which ensure good differentiability properties and hence , good numerical convergence properties . the way the different domains are communicated is through analytical junction conditions dictated by the field equations themselves@xcite .    regarding the numerical implementation , we perform the spatial discretization using a chebyschev - lobatto _ pseudospectral _ collocation method@xcite ( pcm ) .",
+    "we evolve a first - order system of equations , obtained from the reduction of the wave - type equations , that allow us to impose the junction conditions on the characteristic fields of this system . in practice , this is imposed via the _ _ penalty method__@xcite , which drives the system dynamically to satisfy the junction conditions@xcite .",
+    "the convergence properties of the pcm are very sensitive to the smoothness properties of the solution , which gives more importance to the multi - domain techniques we are using . in this sense",
+    ", it has been shown@xcite that our methods are able to resolve with precision the field on the particle location with a reasonably low computational cost , showing that indeed the method is well suited for time - domain computations of the self - force . up to now",
+    ", we have done calculations for circular orbits .",
+    "comparing our results with others in the literature@xcite , we have found that they agree with a high degree of precision even when we use a relatively low number of collocation points .",
+    "for instance , at the last stable circular orbit ( @xmath6 ) , our computation of the radial derivative of the field , the only one that requires regularization in the circular case , coincides with the values obtained in other time - domain and frequency - domain calculations with a relative error of the order of @xmath7 .",
+    "our calculations use between 12 and 24 subdomains ( for the discretization of the radial direction in terms of the tortoise coordinate ) and 50 collocation points per domain .",
+    "the average time for a full self - force calculation ( which involves the calculation of 231 harmonic modes ) in a computer with two quad - core intel xeon processors at 2.8 ghz is always in the range 20 - 30 minutes@xcite .",
+    "these calculations can be further optimized by distributing the subdomains and collocation points so that the resolution is adapted to the physical problem .",
+    "the calculations can be easily parallelized , either by spreading the work of the harmonic modes or that of the subdomains .",
+    "looking at the future , we are currently extending these techniques to eccentric orbits .",
+    "this has required some modifications to keep the particle fixed at a node between subdomains , and results of the calculations will be published elsewhere@xcite",
+    ". the next step will be the gravitational case , where the challenge comes from the fact that each harmonic mode is described by a set of coupled 1 + 1 wave type equations .",
+    "pcm is supported by a predoctoral fpu fellowship of the spanish ministry of science and innovation ( micinn ) .",
+    "cfs acknowledges support from the ramn y cajal programme of the ministry of education and science of spain and by a marie curie international reintegration grant ( mirg - ct-2007 - 205005/phy ) within the 7th european community framework programme ."
+  ],
+  "abstract_text": [
+    "<S> we introduce a new time - domain method for computing the self - force acting on a scalar particle in a schwarzschild geometry . </S>",
+    "<S> the principal feature of our method consists in the division of the spatial domain into several subdomains and locating the particle at the interface betweem two them . in this way , we avoid the need of resolving a small length scale associated with the presence of a particle in the computational domain and , at the same time , we avoid numerical problems due to the low differentiability of solutions of equations with point - like singular behaviour . </S>"
+  ]
+}

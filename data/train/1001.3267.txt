@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "one of the simplest models of the neighborhood of the cosmological singularity , inspired by string / m theory @xcite , is the compactified milne space , @xmath0 .",
+    "it has been used in the cyclic universe scenario @xcite .",
+    "this model seems to be attractive , because it consists of pre - singularity and post - singularity epochs and can be described in terms of _ quantum _ elementary objects propagating in _ classical _ spacetime .",
+    "let us consider a two - dimensional spacetime with the line element : @xmath1 we identify the points @xmath2 for some fixed value of @xmath3 , so that @xmath4 . generalization of ( [ line1 ] ) to the @xmath5 dimensional spacetime , which will be denoted by @xmath0 , has the form : @xmath6 where @xmath7 .",
+    "one term in the metric ( [ line2 ] ) disappears / appears at @xmath8 , thus the space @xmath0 may be used to model the big - crunch / big - bang type singularity .",
+    "orbifolding @xmath9 to the segment gives a model of spacetime in the form of two orbifold planes which collide and re - emerge at @xmath8 .",
+    "our results apply to both choices of topology of the compact dimension .    the polyakov action integral for a test @xmath10-brane ( i.e. @xmath11-brane = particle , @xmath12-brane = string , @xmath13-brane = membrane , @xmath14 ) embedded in a fixed background spacetime with metric @xmath15 reads : @xmath16\\ ] ] where @xmath17 is mass per unit of @xmath10-volume , @xmath18 are @xmath10-brane worldvolume coordinates , @xmath19 is @xmath10-brane worldvolume metric , @xmath20 $ ] , @xmath21 are embedding functions of @xmath10-brane , i.e. @xmath22 , corresponding to @xmath23 directions of @xmath5 dimensional background spacetime .",
+    "the case of a particle propagating in @xmath0 is not clear and was studied in @xcite .",
+    "propagation of classical string across the singularity of @xmath0 is the best example of how extended objects can successfully cure spacetime singularities . in what follows we use the _ local flatness _ of @xmath0 to solve the dynamics of a string .",
+    "the well - known string s propagation in minkowski space is given by : @xmath24 @xmath25 where @xmath26 @xmath27 are minkowski coordinates and @xmath28 are any functions .",
+    "the equations ( [ gauge2 ] ) are just gauge constraints . for _ winding _ modes @xmath29 in @xmath0 , where @xmath30 one shows in @xcite that the extra conditions hold : @xmath31 and @xmath32 satisfying the last condition is not straightforward and rests upon the fact that the dynamics is governed by a second order differential equation .",
+    "thus it is sufficient to satisfy the condition ( [ deter ] ) by specifying @xmath33 , @xmath34 on a single cauchy s line . in this way one",
+    "rules out one of the variables in ( [ deter ] ) and compares functions dependent on just a single variable .",
+    "this strategy works @xcite and leads to the solutions : @xmath35 where @xmath36 and @xmath37 are constants .",
+    "these solutions should satisfy the gauge conditions ( [ gauge2 ] ) , which in the case of @xmath0 read @xmath38 alternatively , the solutions ( [ solution2 ] ) in terms of @xmath39 and @xmath40 have the form @xmath41 where @xmath42 denotes @xmath42-th excitation . the number of arbitrary constants in ( [ gen ] ) can be reduced by the imposition of the gauge condition ( [ gauge ] ) .",
+    "one observes that the above solutions are well - defined everywhere and it is reasonable to expect that the same holds for higher dimensional objects like classical membrane .",
+    "the quantization should not spoil this as it was proven in the case of a string in @xcite .",
+    "\\rangle,\\ ] ] which is a quantum counterpart for each subalgebra contained in the full algebra ( [ consl ] ) . to construct the representation of the full algebra ( [ consl ] ) , which consists of two commuting subalgebras",
+    ", one may use standard techniques , i.e. direct sum or tensor product of the representations of both subalgebras .",
+    "now , following the dirac prescription one solves the quantum constraints , i.e. one looks for such @xmath67 that : @xmath68=0,~~n\\in{z}.\\ ] ] for @xmath69 the condition ( [ dirac ] ) reads : @xmath70~d\\sigma=0,~~n\\in{z},\\ ] ] which has the solution @xcite : @xmath71 where @xmath72 .",
+    "this is an expected result since the measure @xmath73{\\prod_{\\mu}|\\acute{y}^{\\mu}|^{\\rho^{\\mu}}}d\\sigma$ ] is invariant with respect to @xmath74-diffeomorphisms .",
+    "all operators acting on the solutions ( [ dirsol ] ) are observables since they act on gauge invariant states .",
+    "the whole variety of states includes many subspaces , which we can use to construct representations of observables .",
+    "an example of such subspace is spanned by : @xmath75=\\int\\alpha_{\\mu}(\\overrightarrow{y})d{y}^{\\mu}.\\ ] ] we may introduce quantum observables @xmath76 such that : @xmath77=\\widehat{o}_{[s , t]}.\\ ] ]    but what are the fields @xmath78 ?",
+    "it seems that one needs to postulate ( find ? ) a relation between @xmath78 and @xmath79 .",
+    "such a relation was proposed in @xcite .",
+    "study of this relation would enable to interpret the observables in ( [ obs ] ) in physical terms and thus complete the proposed quantization scheme for membrane .",
+    "it seems that the compactified milne space , @xmath0 , is suitable for modelling higher dimensional cosmological singularity .",
+    "we showed that classical propagation of excited string is well - defined and unambiguous .",
+    "the natural expectation would be : quantization should not spoil it !    we have proposed a quantization procedure for uniformly winding membrane , within which we made some progress , particularly we found non - trivial quantum states",
+    ". it would be interesting to find some relation of our quantization of membrane with m - theory ( in our procedure there is no critical dimensionality )",
+    ". however , our work is a first step toward the full resolution of the cosmological singularity that would require quantization of both spacetime and physical @xmath10-branes ."
+  ],
+  "abstract_text": [
+    "<S> in this paper we argue that the compactified milne space is a promising model of the cosmological singularity . </S>",
+    "<S> it is shown that extended objects like strings propagate in a well - defined manner across the singularity of the embedding space . </S>",
+    "<S> then a proposal for quantization of extended objects in the case of a membrane is given . </S>"
+  ]
+}

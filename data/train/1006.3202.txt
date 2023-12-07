@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the authors gratefully acknowledge the support of the united states national science foundation for the construction and operation of the ligo laboratory , the science and technology facilities council of the united kingdom , the max - planck - society , and the state of niedersachsen / germany for support of the construction and operation of the geo600 detector , and the italian istituto nazionale di fisica nucleare and the french centre national de la recherche scientifique for the construction and operation of the virgo detector .",
+    "the authors also gratefully acknowledge the support of the research by these agencies and by the australian research council , the council of scientific and industrial research of india , the istituto nazionale di fisica nucleare of italy , the spanish ministerio de educacin y ciencia , the conselleria deconomia hisenda i innovaci of the govern de les illes balears , the foundation for fundamental research on matter supported by the netherlands organisation for scientific research , the royal society , the scottish funding council , the scottish universities physics alliance , the national aeronautics and space administration , the carnegie trust , the leverhulme trust , the david and lucile packard foundation , the research corporation , and the alfred p. sloan foundation .",
+    "this document has been assigned ligo document number p0900307 ."
+  ],
+  "abstract_text": [
+    "<S> this brief report describes the search for gravitational - wave inspiral signals from short gamma - ray bursts . since these events are probably created by the merger of two compact objects , a targeted search with a lower threshold can be made . </S>",
+    "<S> the data around 22 short gamma - ray bursts have been analyzed .    </S>",
+    "<S> gamma ray bursts ( grb ) are intense flashes of @xmath0-rays that occur in two classes ; long duration bursts ( duration @xmath1 ) which are generally associated with hypernova explosions in star - forming galaxies @xcite and short duration bursts ( duration @xmath2 ) , thought to originate primarily from the coalescence of a neutron star ( ns ) with another compact object@xcite , like a neutron star or a black hole ( bh ) . such coalescences produce gravitational waves ( gw ) which are searched for , and because the grbs give the time and sky location the search can be performed with reduced threshold , increasing the sensitivity compared to untriggered searches .    </S>",
+    "<S> this is a brief report on a search for gravitational wave signals associated with short grbs ( sgrb ) during ligo s fifth science run s5 and virgo s first science run , vsr1 . </S>",
+    "<S> s5 took place from 4 november 2005 to 30 september 2007 and vsr1 from 18 may 2007 to 30 september 2007 . </S>",
+    "<S> s5 is comprised of three detectors ( h1 and h2 at hanford , wa , and l1 at livingston , la ) and vsr1 is comprised of the virgo detector near pisa , italy </S>",
+    "<S> . there are 212 grbs in total observed during this time , of which 33 are sgrbs . because we require coincident data from at least two detectors ( which are the ones with the best directional sensitivity to the known sky location of the grb ) , </S>",
+    "<S> only 22 sgrbs have been selected for the analysis . </S>",
+    "<S> there are 9 grbs in h1h2 coincident time , 11 in h1l1 , 1 in h2l1 , and 1 grb in h1l1v1 coincident time . </S>",
+    "<S> the latter grb ( 070923 ) is a special case because it uses data from three spatial separated detectors , which all have about the same directional sensitivity to grb  070923 . </S>",
+    "<S> worth special mention is also grb  070201 , which has been already analyzed in a high - priority search because the progenitor was possibly located in m31 , a galaxy only @xmath3780  kpc away . </S>",
+    "<S> no gravitational - wave signal was found and a coalescence scenario could be ruled out with @xmath499% confidence at that distance @xcite . this grb is being reanalyzed in the current work because of the use of a lower threshold and improved analysis methods .    </S>",
+    "<S> the coalescence model suggests that the time delay between the arrival of the gravitational wave and the subsequent electromagnetic burst , referred to as trigger time , is of order one second or less . </S>",
+    "<S> if the initial spike of grbs is created by so - called internal shocks ( produced by the impact of a faster outmoving shells on a slower moving shells in a grb ) , the time - delay is on the millisecond scale @xcite or at least below 1 second @xcite . with a more semi - analytical description of the final stage of a ns-bh merger </S>",
+    "<S> it has been calculated that the majority of matter plunges on the bh within 1 second @xcite and numerical simulations on the mass transfer suggest a timescales of milliseconds @xcite or some seconds at maximum @xcite . </S>",
+    "<S> these considerations prompted the use of a long time window ( _ on - source _ ) around the trigger time ( from -5 to + 1 ) , in which we expect the gw signal to be .    </S>",
+    "<S> the data around the on - source segment is chosen to estimate the background and to perform software injections . to prevent a possible loud on - source signal biasing the background estimation </S>",
+    "<S> , we discard on each side of the on - source segment , and split the remaining data in up to 324 segments , each long . </S>",
+    "<S> the number of used off - source segments varies because some might be vetoed due to bad data quality @xcite . </S>",
+    "<S> the data are analyzed using the standard compact binary search pipeline described in detail in [ ] , using a matched - filter technique to filter the data against post - newtonian approximants of the expected gw signal . </S>",
+    "<S> the mass - range of binaries searched for spans the range @xmath5 in total mass . </S>",
+    "<S> after having applied signal - based vetoes and performing the coincidence criterion , we end up with a list of _ candidate events _ ; see [ ] for details .    to obtain the search efficiency and to calculate the likelihood of a candidate event , simulated waveform signals ( _ software injections _ ) </S>",
+    "<S> are added to the off - source data and processed with the pipeline described above . </S>",
+    "<S> the efficiency is determined by the fractional number of recovered injections , made over a wide range of parameters ( i.e. masses , spins etc . ) . </S>",
+    "<S> the likelihood ratio of a candidate is then the efficiency divided by the false - alarm probability , which is obtained by the relative number of off - source trials yielding a statistical significance equal or greater than the on - source measurement .    </S>",
+    "<S> the analysis yielded no evidence for a gravitational - wave signal in coincidence with any grb in our sample . with the null observations and the large number of injection trials we are able to constrain the distance to each grb assuming it was caused by a compact binary coalescence consisting of a neutron star and a neutron star or a black hole . </S>",
+    "<S> detailed results on the exclusion distances are given in  [ ] .    </S>",
+    "<S> in addition to the individual detection searches , we assess the presence of a gravitational wave signal too weak to stand out above background separately , but which is significant when the entire sample of analyzed grbs are taken together . </S>",
+    "<S> this is being done with the non - parametric wilcoxon - mann - whitney u test @xcite , to answer the question of whether both samples ( significances of the on - source and off - source segments ) are drawn from the same population . </S>",
+    "<S> this test calculates a u statistic by the sums of the ranks of both samples , and compares it to the expected value if both samples were drawn from the same distribution . </S>",
+    "<S> since this statistic is approximately gaussian distributed , a one - sided probability @xmath6 can be calculated that either shows the two samples are indeed drawn from the same distribution ( @xmath7 ) or contain a population of weak signals in the sample ( @xmath8 ) . </S>",
+    "<S> a large value for @xmath6 would hint of a problem with the analysis , since it implies more signicant candidates in the off - source than in the on - source . </S>",
+    "<S> the full details of this analysis and discussion of the results can be found in  [ ] . </S>"
+  ]
+}

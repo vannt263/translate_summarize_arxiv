@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "optimal control theory @xcite has been extensively used recently for the design of pulses that optimize the performance of various nuclear magnetic resonance ( nmr ) and quantum systems limited by the presence of relaxation @xcite , the dissipation due to random interactions between the system and its environment . in this letter",
+    ", we employ tools from optimal control to derive minimum - energy @xmath0 and @xmath1 pulses for a simple nmr system described by the bloch equations . in particular ,",
+    "we study the case where transverse relaxation dominates the dissipation of the system and the control amplitude is bounded .",
+    "the problem of optimal control of the bloch equations and its closely related corresponding problem for a two - level quantum system have received considerable attention .",
+    "d alessandro and dahleh @xcite considered the problem of minimum - energy optimal control for a two - level quantum system without dissipation .",
+    "boscain and mason @xcite examined the time minimal problem for a spin-@xmath2 particle in a magnetic field neglecting dissipation .",
+    "sugny , kontz and jauslin @xcite , bonnard and sugny @xcite and bonnard , chyba and sugny @xcite studied extensively the problem of time - optimal control for a dissipative two - level quantum system .    in our recent work , we studied the problem of designing minimum - energy @xmath0 and @xmath1 pulses for the bloch system dominated by the transverse relaxation with unlimited control amplitude @xcite .",
+    "this dissipative system is of great practical importance as it is a very good approximation for many applications of interest . in this article",
+    ", we extend this previous work to consider the case where the control amplitude is limited , which accounts for realistic limitations of the experimental setup and also makes the problem more interesting from a control theoretic perspective .    in the next section ,",
+    "we formulate the related optimal control problems of such pulse designs .",
+    "the solutions of these problems are presented in section 3 , which is the main contribution of this article .",
+    "then in section 4 , we present some examples to demonstrate our analytical results .",
+    "in a resonant rotating frame , the bloch equations with the longitudinal relaxation neglected are of the form @xcite @xmath3 where @xmath4 is the magnetization vector , @xmath5 are the transverse components of the magnetic field and @xmath6 is the transverse relaxation rate .",
+    "the above equations constitute a dissipative bilinear control system . by the following change of variables ( see fig .",
+    "[ fig:3d ] ) and time rescaling @xmath7 we arrive at a new system @xmath8 where @xmath9 are the normalized components of transverse magnetic field perpendicular and parallel to @xmath10 , respectively .    note that @xmath11 does not affect the angle @xmath12 of the pulse .",
+    "it just rotates @xmath13 around @xmath14-axis , resulting in a waste of energy .",
+    "thus , optimality requires that @xmath15 and hence @xmath16 .",
+    "if for example we choose @xmath17 to be parallel to the @xmath18-axis , then @xmath19 and @xmath13 rotates in @xmath20-plane , see fig .",
+    "[ fig:2d ] .",
+    "this is the case that we consider in this letter .",
+    "equations ( [ magnitude ] ) and ( [ angle ] ) are sufficient to describe this rotation .    [",
+    "cols=\"^,^ \" , ]",
+    "to conclude , in this letter we calculated minimum - energy @xmath0 and @xmath1 pulses for bloch equations in the case where transverse relaxation dominates and the control amplitude is bounded , using optimal control theory .",
+    "this work is expected to find applications in nmr spectroscopy , magnetic resonance imaging ( mri ) and quantum information processing , serving as a reference for numerical studies of more complicated and realistic situations that incorporate for example longitudinal relaxation and magnetic field inhomogeneity ."
+  ],
+  "abstract_text": [
+    "<S> in this letter , we apply optimal control theory to design minimum - energy @xmath0 and @xmath1 pulses for the bloch system in the presence of relaxation with constrained control amplitude . </S>",
+    "<S> we consider a commonly encountered case in which the transverse relaxation rate is much larger than the longitudinal one so that the latter can be neglected . </S>",
+    "<S> using the pontryagin s maximum principle , we derive optimal feedback laws which are characterized by the number of switches , depending on the control bound and the coordinates of the desired final state .    </S>",
+    "<S> maximum principle , bloch equations </S>"
+  ]
+}

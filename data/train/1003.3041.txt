@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "supergiant fast x  ray transients ( sfxts ) constitute a new class of high mass x  ray binaries ( hmxbs ) . discovered by _ integral _",
+    "@xcite , they are associated with blue supergiant stars , and display sporadic outbursts significantly shorter than those of typical be / x - ray binaries , characterized ( as observed by _",
+    "integral_/ibis ) by bright flares lasting a few hours with peak luminosities of 10@xmath210@xmath3  erg  s@xmath1 @xcite .",
+    "the quiescence , which is characterized by a soft spectrum ( likely thermal ) and a luminosity of @xmath4  erg  s@xmath1 , is a rarely - observed state ( igr  j175442619 , @xcite ; igr j084084503 , @xcite ) .",
+    "therefore , sfxts show a very large dynamic range of 35 orders of magnitude .",
+    "their hard x  ray spectra during outburst resemble the typical shape of hmxbs hosting accreting neutron stars ( ns ) , with a hard power law below 10kev , and a high energy cut - off at @xmath530  kev , sometimes strongly absorbed at soft energies @xcite .",
+    "_ swift _ s contribution to this field has been two - fold .",
+    "first , it has given sfxts the first non serendipitous attention throughout all phases of their life through an extensive monitoring campaign .",
+    "the _ swift _ monitoring of the outburst of the periodic sfxt igr j112155952 in 2007 february @xcite , showed that the x  ray light curve is composed of several bright flares , superimposed on a much longer accretion phase .",
+    "this implies that the short duration flares ( @xmath6hours ) observed with _",
+    "integral _ and with _ rxte _ are actually only the brightest flares , part of a much longer outburst event lasting a few days , not only hours . our monitoring campaign on 4 sfxts @xcite since october 2007 ( see fig .",
+    "[ fig01 ] ) has allowed the first assessment of how long each source spends in each state using a systematic monitoring with a sensitive instrument .",
+    "we discovered that x  ray emission from sfxts is still present outside the bright outbursts , although at a much lower level ( 10@xmath710@xmath8  erg  s@xmath1 ) .",
+    "we calculated the duty - cycle of inactivity to be @xmath9% , for igr  j16479@xmath104514 , ax  j1841.0@xmath100536 , xte  j1739302 , and igr  j17544@xmath102619 , respectively @xcite .",
+    "true quiescence is thus a rare state , when compared with estimates from less sensitive instruments .",
+    "this demonstrates that these transients accrete matter throughout their life at different rates . out - of - outburst",
+    "intensity - based spectroscopy shows that spectral fits with an absorbed blackbody result in blackbody radii of a few 100 m , consistent with being emitted from a small portion of the ns surface , very likely the ns polar caps @xcite .",
+    "swift _ is currently the only observatory which can catch outbursts from these transients and examine them panchromatically as they evolve in their early stages , thus addressing the basic issue of the nature of the mechanisms producing them .",
+    "this has allowed us to perform the first study of truly simultaneous spectra ( igr  j164794514 , @xcite , in the 0.3150 kev band ) and fit them succesfully not only with phenomenological models ( such as absorbed cutoff power - laws ) but also , for the first time for sfxts , with physical models such as the comptonization model .",
+    "the x  ray light curve of the 2008 jul 5 outburst of igr  j084084503 @xcite showed a multiple - peaked structure with three equally bright flares within 75ks whose spectral characteristics differ dramatically , with most of the difference , as derived via time - resolved spectroscopy , being due to absorbing column variations . the broad - band spectrum @xcite of the 2008 sep 21 outburst required two distinct photon populations , a cold one ( @xmath60.3 kev ) most likely from a thermal halo around the neutron star and a hotter one ( 1.41.8 kev ) from the accreting column .",
+    "we also found variable @xmath11 in the prototype xte  j1739302 , higher during an outburst than in the out - of - outburst state @xcite , and varying during an outburst @xcite .",
+    "the outbursts of igr  j175442619 were caught both as they triggered the bat @xcite , and as part of our monitoring campaign @xcite .",
+    "individual sources behave somewhat differently , yet we confirmed in all cases the spectral similarity with accreting ns and highlighted the common x  ray characteristics of the class : _ i ) _ outburst lengths well in excess of hours ; _ ii ) _ outbursts with a multiple - peaked structure whose flares we used to confirm inhomogeneities in the wind and model the wind parameters , and _",
+    "iii ) _ a high dynamic range ( 34 orders of magnitude in luminosity ) ."
+  ],
+  "abstract_text": [
+    "<S> for the first time , _ swift _ is giving us the opportunity to study supergiant fast x  </S>",
+    "<S> ray transients ( sfxts ) throughout all phases of their life : outbursts , intermediate level , and quiescence . </S>",
+    "<S> we present our intense monitoring of four sfxts , observed 23 times per week since october 2007 . </S>",
+    "<S> we find that , unexpectedly , sfxts spend most of their time in an intermediate level of accretion ( @xmath0 erg s@xmath1 ) , characterized by rich flaring activity . </S>",
+    "<S> we present an overview of our investigation on sfxts with _ </S>",
+    "<S> swift _ , the key results of our project . </S>",
+    "<S> we highlight the unique contribution _ swift _ is giving to this field , both in terms of outburst observations and through a systematic monitoring . </S>"
+  ]
+}

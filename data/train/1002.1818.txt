@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "this talk is meant to contribute to the present discussion about the existence or non - existence of stationary equilibrium configurations consisting of separate bodies at rest . in newtonian",
+    "theory it is a classical result that there exists no static @xmath0-body configuration ( with bodies separated by a plane and with @xmath1 ) .",
+    "recently , a similar statement was shown in the context of general relativity : beig and schoen @xcite were able to prove a non - existence theorem for a reflectionally symmetric _ static _",
+    "@xmath0-body configuration . in the meantime , beig _ _ et al.__@xcite have been able to extend this non - existence theorem to symmetric configurations with _ anti - aligned _ spins .    however , as indicated by post - newtonian approximations , anti - aligned spins enhance the omnipresent mass attraction .",
+    "hence it could be desirable to study examples of _ aligned _ spins that could generate repulsive effects .    as a characteristic example for such configurations we investigate the possibility of equilibrium between two aligned rotating axisymmetric _ black holes_. we will present and review a chain of old and new arguments which finally forbid this equilibrium situation .",
+    "the following considerations are based on another article @xcite .",
+    "interestingly , there exists an exact solution to the einstein equations that was expected to solve the two - black - hole equilibrium problem @xcite  the _ double - kerr - nut solution _ , first investigated by kramer and neugebauer @xcite .",
+    "this solution is a particular case of a more general solution which was constructed by applying an @xmath2-fold _ _ bcklund transformation _ _ to an arbitrary seed solution @xcite .",
+    "the double - kerr - nut solution can be obtained as the special case of a two - fold ( @xmath3 ) bcklund transformation applied to minkowski spacetime @xcite .",
+    "since a single bcklund transformation generates the kerr - nut solution that contains , by a special choice of its parameters , the kerr black hole solutions and since bcklund transformations act as a `` nonlinear superposition principle '' , the double - kerr - nut solution was considered to be a good candidate for the solution of the two - horizon problem .",
+    "however , there was no argument requiring that this particular solution be the _ only _ candidate .",
+    "the deciding step to remove this objection was to formulate and discuss a boundary value problem for two separate horizons . using the _ _ inverse scattering method of soliton theory _ _ we were able to show that the solution of this boundary value problem necessarily leads to ( a subclass of ) the double - kerr - nut family of solutions .",
+    "as a consequence , we can indeed make use of former discussions@xcite of the double - kerr - nut solution .",
+    "details of the solution of the boundary value problem can be found in neugebauer _ _ et al.__@xcite these articles make use of a particular form of the linear problem  @xcite ( see eq .",
+    "( 1 ) of this reference ) which is equivalent to the linear problem of belinski and zakharov@xcite .",
+    "in the following we investigate whether the double - kerr - nut solution can describe equilibrium between two _ sub - extremal _ black holes ( where we define sub - extremality by existence of trapped surfaces in every sufficiently small interior neighborhood of the event horizon@xcite ) .",
+    "the possibility of two - black - hole equilibrium configurations involving _ degenerate _ black holes will be studied in a forthcoming article@xcite .    with methods from the calculus of variations",
+    "it can be shown@xcite that every sub - extremal black hole satisfies the inequality @xmath4 between angular momentum @xmath5 and horizon area @xmath6 . with the explicit formulae for the quantities @xmath6 and @xmath5 for the two gravitational objects ( black hole candidates ) described by the double - kerr - nut solution we can test whether inequality is satisfied for both objects .",
+    "however , it turns out that for all choices of the free parameters at least one of these two objects violates the inequality .",
+    "hence we conclude that _ an equilibrium between two sub - extremal black holes is impossible_.",
+    "this work was supported by the deutsche forschungsgemeinschaft ( dfg ) through the collaborative research centre sfb / tr7 `` gravitational wave astronomy '' ."
+  ],
+  "abstract_text": [
+    "<S> we resume former discussions of the question , whether the spin - spin repulsion and the gravitational attraction of two aligned sub - extremal black holes can balance each other . to answer the question we formulate a boundary value problem for two separate horizons and apply the inverse ( scattering ) method to solve it . making use of a universal inequality between angular momentum and horizon area that has to be satisfied by every sub - extremal black hole , </S>",
+    "<S> we prove the non - existence of the equilibrium situation in question . </S>"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "transferring a symbolic _ mathematica _ expression to _ matlab _ is a recurring issue one for anyone using these two programs . on the one hand ,",
+    "the _ mathematica _ software is perfect to work out analytical calculations and derive involved symbolic formulas . on the other hand , _ matlab _ offers a quasi - infinite and very flexible environment for graphical , numerical or statistical treatment .",
+    "the perspective of working in both environment to solve a given problem is thus very attractive .",
+    "as long as the equations involved remain simple , an expression derived in _",
+    "mathematica _ can be straightforward reproduced in _",
+    "matlab_. problems arise for long and intricate formulas which can not be easily copy - pasted .",
+    "the transfer of a polynomial poses an additional problem : if one is willing to take advantage of the _ matlab _ polynomial routines , the very definition of the function needs to be adapted because _ matlab _ defines a polynomial from its coefficients .",
+    "the _ mathematica _ notebook presented in this paper offers a simple solution to this problem . given any polynomial expression derive in _ mathematica _ , the notebook generates a text which can be directly copy - pasted into _ matlab_.",
+    "consider a polynomial of the form , @xmath0 where the coefficients @xmath1 are themselves polynomial expressions of some parameters @xmath2 . while both _ mathematica _ and _ matlab _ can deal with this kind of expressions , matlab requires a different format if functions such as @xmath3 are to be exploited .",
+    "more specifically , the polynomial @xmath4 defined by eq .",
+    "( [ eq : poly ] ) will be expressed in _",
+    "matlab _ under the form of a 1d matrix ,    * p = [ @xmath5   @xmath6   ",
+    "@xmath7 *    the notebook which is about to be described generates the format needed by _ matlab _ from the _ mathematica _ expression .",
+    "the starting point is the definition of the polynomial ,    _ _ in[1]:=__**p = @xmath8 +  + @xmath9 ; * *    note that the polynomial does not need to be specifically formatted like in eq .",
+    "( [ eq : poly ] ) . the notebook can perfectly deal with an expression where the coefficients of the @xmath10 s are not factorized .",
+    "if the polynomial expression accounts for greek characters ( dealt with by _ mathematica _ ) , they will have to be replaced by some equivalents for proper _ matlab _ treatment .",
+    "for example , if the _ mathematica _",
+    "polynomial accounts for the parameters @xmath11 and @xmath12 , the next line of the notebook is ,    _ _ in[2]:=__**pclear = p/. @xmath13 beta , @xmath14 gamma , @xmath15 omega } ; * *",
+    "we then need the degree of the polynomial , given by",
+    "_ _ in[3]:=__**deg = exponent[pclear , x ] ; * *    we now have _ mathematica _ extracting the @xmath16 s with ,    _ _ in[4]:=__**coefs = table[inputform[fullsimplify[coefficient[pclear , x , k ] ] ] , \\{k , 0 , deg , 1 } ] ; * *    here , the @xmath17 coefficient is first gathered through the * coefficient[pclear , x , k ] * command .",
+    "the resulting expression is simplified with * fullsimplify*. note that a simple * simplify * can be inserted here if the argument is too involved for * fullsimplify * to execute successfully .",
+    "the * inputform * command is a key element of the transfer to * matlab*. _ mathematica _ can deal with symbolic fractions or power , but not _",
+    "matlab_. for example , the _ mathematica _ expression ,    @xmath18    must be cast under the form    a^2*b^3/(c^4*(t - u ) ) ,    for _ matlab _ to interpret it .",
+    "the * inputform * command is responsible for the _ matlab _ formatting of the polynomial coefficients . finally , the * table * command ensures that the operation is implemented for all the @xmath16 s , and the result is stored in the _ mathematica _ array * coefs*.    we finally have mathematica displaying the content of the array * coefs * under a form which can be copy - pasted to * matlab * ,    _ _ in[2]:=__**do[print[``p ( '' , deg + 2 - n , `` ) = '' , coefs[[n ] ] , `` ; '' ] , \\{n , deg + 1 } ] ; * *    the command above thus prints all the coefficients of the polynomial from p(1 ) , coefficient of @xmath19 to p(deg+1 ) , coefficient of @xmath20",
+    ". the output can then be copy - pasted to a `` .m '' _ matlab _ file .",
+    "note that it is here necessary to `` copy as plain text '' from _ mathematica _ , as illustrated in figure [ fig ] .",
+    "two files have been attached to this article , as an illustration of the kind of transfer allowed by this technique .",
+    "the _ mathematica _ notebook `` bridge to matmab.nb '' introduces a imposing polynomial which arises as the dispersion equation of a quite involved relativistic magnetized beam plasma system @xcite .",
+    "it is a very involved polynomial in terms of the parameters @xmath21 .",
+    "the degree of the polynomial in terms of @xmath22 is 14 .",
+    "the expression results from the determinant of a dielectric tensor , and the coefficients of @xmath22 are not gathered at all .",
+    "the execution takes only a few minutes , which can be reduced even further by replacing the * fullsimplify * by the faster * simplify * command in the coefficients calculation .    after copying the output as shown on figure [ fig ] ,",
+    "the result has been directly pasted in the _ matlab _ file `` poly.m '' and can be readily exploited in this software .",
+    "this work has been achieved under projects ene2009 - 09276 of the spanish ministerio de educacin y ciencia and pai-05 - 045 of the consejera de educacin y ciencia de la junta de comunidades de castilla - la mancha ."
+  ],
+  "abstract_text": [
+    "<S> a _ mathematica _ notebook is presented which allows for the transfer or any kind of polynomial expression to _ matlab_. the output is formatted in such a way that _ matlab _ routines such as `` root '' can be readily implemented . </S>",
+    "<S> once the notebook has been executed , only one copy - paste operation in necessary . </S>"
+  ]
+}
