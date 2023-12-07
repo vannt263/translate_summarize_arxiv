@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "tracing the values of the fundamental constants through the history of the universe provides strong constraints on the possibility of cosmologies other than the standard @xmath9cdm universe and new physics that deviates from the standard model . in this investigation",
+    "we use the observed limits on the variation of the proton to electron mass ratio @xmath4 as a new input parameter for three quintessence cosmologies and k - essence .",
+    "each of these cosmologies postulates a rolling scalar field @xmath1 with a potential @xmath0 .",
+    "realistic models of this class expect the scalar field to also have non - zero couplings to sectors other than gravity unless an unknown symmetry is postulated to suppress them @xcite . here",
+    "we assume the simplest non - vanishing coupling to the electromagnetic sector and a unification scenario of the type described in @xcite that leads to a change in @xmath4 that is related to a change in @xmath3 .    at the epoch of each @xmath10 measurement",
+    "there is a constraint placed on the product of the coupling of @xmath4 to the rolling scalar field and the equation of state parameter @xmath2 that is independent of the cosmology except for the form of the equation describing the dark energy density @xmath11 .",
+    "the evolution of @xmath4 and @xmath2 within those constraints , however , is dependent on the particular cosmology .",
+    "we investigate one freezing cosmology , slow roll quintessence , and 3 thawing cosmologies , hilltop quintessence , non - minimal quintessence and k - essence .",
+    "freezing models start with the equation of state parameter w different from @xmath12 at early times and approaching @xmath12 at the present time while thawing models start with w close to @xmath12 at early times and deviate from @xmath12 at the present epoch .",
+    "each of these cosmologies has the advantage of having a family of solutions which is a function of a small number of parameters ( @xcite,@xcite,@xcite,@xcite ) we will follow the methodology laid out in @xcite for just slow roll quintessence to investigate the constraints on all four cosmologies .",
+    "appendix  [ s - curs ] gives a comprehensive list of measurements of @xmath4 using astronomical observations .",
+    "based on this list table  [ tab - con ] gives the most constraining limits on the value of @xmath13 .",
+    "the listings for radio observations of pks1830 - 211 and b0218 + 357 give the @xmath14 limits about a null result .",
+    "all of the other observations contain the null result in their @xmath15 limits .",
+    "figure  [ fig - err ] shows the errors from table  [ tab - con ] plotted as a function of redshift .",
+    "these are the measurements used in establishing the constraints used in this analysis ."
+  ],
+  "abstract_text": [
+    "<S> many cosmological models invoke rolling scalar fields to account for the observed acceleration of the expansion of the universe . </S>",
+    "<S> these theories generally include a potential @xmath0 which is a function of the scalar field @xmath1 . </S>",
+    "<S> although @xmath0 can be represented by a very diverse set of functions , recent work has shown the under some conditions , such as the slow roll conditions , the equation of state parameter @xmath2 is either independent of the form of @xmath0 or is part of family of solutions with only a few parameters . in realistic models of this type the scalar field couples to other sectors of the model leading to possibly observable changes in the fundamental constants such as the fine structure constant @xmath3 and the proton to electron mass ratio @xmath4 . </S>",
+    "<S> although the current situation on a possible variance of @xmath3 is complicated there are firm limitations on the variance of @xmath4 in the early universe . </S>",
+    "<S> this paper explores the limits this puts on the validity of various cosmologies that invoke rolling scalar fields . </S>",
+    "<S> we find that the limit on the variation of @xmath4 puts significant constraints on the product of a cosmological parameter @xmath5 times a new physics parameter @xmath6 , the coupling constant between @xmath4 and the rolling scalar field . </S>",
+    "<S> even when the cosmologies are restricted to very slow roll conditions either the value of @xmath7 must be at the lower end of or less than its expected values or the value of @xmath5 must be restricted to values vanishingly close to 0 . </S>",
+    "<S> this implies that either the rolling scalar field is very weakly coupled with the electromagnetic field , small @xmath7 , very weakly coupled with gravity , @xmath8 or both . </S>",
+    "<S> these results stress that adherence to the measured invariance in @xmath4 is a very significant test of the validity of any proposed cosmology and any new physics it requires . </S>",
+    "<S> the limits on the variation of @xmath4 also produces a significant tension with the reported changes in the value of @xmath3 .    </S>",
+    "<S> [ firstpage ]    ( cosmology : ) cosmological parameters  dark energy  theory  early universe . </S>"
+  ]
+}

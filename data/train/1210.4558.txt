@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the xva @xmath3 ( also known as `` excess variance '' ) is the variance of a light curve normalized by its mean squared after correcting for experimental noise ( nandra et al . 1997 ; turner et al .",
+    "1999 ) . for a light - curve segment with @xmath4 bins : @xmath5,\\ ] ] where @xmath6 and @xmath7 are count rates and uncertainties in each bin , and @xmath8 is the average of the count rates . there is an empirical ( anti)correlation between xva and bh masses in agn ( @xcite ) . to constrain this correlation , we selected and studied two ( largely overlapping ) agn samples with x - ray observations longer than 40 ks : one sample with bh masses derived from reverberation mapping , and the other from the @xmath9-@xmath10 relation ( see @xcite for details ) .",
+    "we found that the intrinsic dispersion of the @xmath9-@xmath3 relation for the reverberation - mapped agn is quite small , no larger than the uncertainties in the bh masses : @xmath11 a similar result was independently obtained by ( * ? ? ?",
+    "* ponti et al . ( 2012 ) ) .",
+    "we used this relation to determine the bh mass in the seyfert galaxies mcg-6 - 30 - 15 and 1h0707@xmath12495 , using archival _ xmm - newton _ data .",
+    "we obtained bh masses of @xmath13 and @xmath14 , respectively ( @xcite ) .",
+    "the xva derived from multiple _ xmm - newton _ observations changes by a factor of 23 .",
+    "this means that the uncertainty in the bh mass from a single observation is slightly worse than that from the reverberation mapping or the stellar velocity dispersion methods .",
+    "however , if the xva randomly scatters around the true value for the power spectral density ( psd ) , the mean xva of many data segments reduces the error ( @xcite ) .",
+    "we conclude that the xva might be a better bh mass estimator than the virial method .",
+    "the @xmath15-@xmath3 relation is explained by a shift of the high - frequency break @xmath16 in the psd , to lower frequencies for higher bh masses .",
+    "@xmath16 scales approximately as @xmath17 , where @xmath18 is the dimensionless eddington accretion rate ( @xcite ) ; however , we found that there is no or very weak correlation between xva and @xmath18 , confirming the findings of ( * ? ? ?",
+    "* oneill et al .",
+    "( 2005 ) ) .",
+    "this suggests that the normalization of the psd varies with @xmath18 in a way that compensates for the break - frequency dependence on @xmath18 .",
+    "finally , we point out that our sample of agn is skewed towards bhs with low mass and high eddington rates . in forthcoming work",
+    ", we will explore : where the relation saturates at the low - mass end ( @xcite ) ; how it may extend to very - low - luminosity nuclear bhs in normal galaxies ; and whether it may be used to estimate bh masses in ultraluminous x - ray sources ( ulxs ) .",
+    "x - ray spectral studies of accreting bhs show a correlation between the photon index @xmath0 of the power - law component and the eddington ratio .",
+    "specifically , @xmath0 varies from @xmath19 for @xmath20 to @xmath21 for @xmath22 ( for agn : @xcite ; for stellar - mass bhs : @xcite ) .",
+    "( at even lower luminosities , there is evidence that @xmath0 increases again , but with a much weaker correlation : @xcite ) . in @xcite , we refined this correlation by choosing a sample of 29 low - redshift ( @xmath23 ) agn in the luminosity range @xmath24 .",
+    "we determined @xmath0 by fitting their _ xmm - newton_/epic spectra in the @xmath25@xmath26 kev range .",
+    "we selected only radio - quiet agn , because beaming in radio - loud sources may affect measurements of the intrinsic value of @xmath0 .",
+    "all sources have bh masses from reverberation mapping , and @xmath27 estimated from simultaneous x - ray , uv and optical data .",
+    "we obtain : @xmath28 + @xmath29    the correlation ( 2.2 ) appears stronger than ( 2.1 ) ( see also @xcite ) . in forthcoming work",
+    ", we shall compare these correlations with those inferred from high - redshift agn , to check for evolutionary effects in agn spectral properties .",
+    "assuming no evolutionary effect , we can use ( 2.1,2.2 ) to determine bh masses in agn for which we know the x - ray luminosity .",
+    "we estimate a mean uncertainty in the bh mass of a factor of 2 or 3 ( @xcite ) .",
+    "we shall also explore the @xmath0 versus @xmath1 correlation for @xmath30 , with possible applications to ulxs and quasars .",
+    "2011,_apj _ , 727 , 31 2008 , _ mnras _ , 389 , 1697 2009 , _ mnras _ , 399 , 349 2012 , _ mnras _ , 425 , 907 2001 , _ mnras _ , 324 , 653 2006 , _ nature _ , 444 , 730 1997 , _ apj _ , 476 , 70 2005 , _ mnras _ , 358 , 1405 2012 , _",
+    "a&a _ , 542 , 83 2008 , _",
+    "apj _ , 682 , 81 1999 , _ apj _ , 524 , 667 2003 , _ mnras _ , 345 , 1271 2008 , _ apj _ , 682 , 212 2010 , _ apj _ , 710 , 16 2010 , _ apj _ , 720 , l206"
+  ],
+  "abstract_text": [
+    "<S> we discuss two methods to estimate black hole ( bh ) masses using x - ray data only : from the x - ray variability amplitude and from the photon index @xmath0 . </S>",
+    "<S> the first method is based on the anti - correlation between bh mass and x - ray variability amplitude . using a sample of agn with bh masses from reverberation mapping , </S>",
+    "<S> we show that this method shows small intrinsic scatter . </S>",
+    "<S> the second method is based on the correlation between @xmath0 and both the eddington ratio @xmath1 and the bolometric correction /@xmath2 . </S>"
+  ]
+}

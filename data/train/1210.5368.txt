@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the structural properties , masses , and stellar populations of nuclear star clusters ( nscs ) have been extensively discussed elsewhere , both for late - type spirals ( * ? ? ?",
+    "* ( bker et al .",
+    "2004 , walcher et al .",
+    "2005 , 2006 ) ) as well as for spheroidal galaxies ( * ? ? ?",
+    "* ( ct et al . 2006 ) ) .",
+    "a key finding from these studies is that , in general , the star formation histories of nscs are long and complex , but * only * nscs in late - type spirals also contain a young ( few hundred myrs ) stellar population .",
+    "the nscs in spheroidal galaxies , on the other hand , generally have luminosity - weighted ages of many gyrs , but are on average 3.5gyrs younger than the bodies of their host galaxies ( * ? ? ?",
+    "* ( paudel 2010 ) ) .",
+    "this implies that in the present - day universe , any growth mechanism that causes the `` rejuvenation '' of nscs occurs only in ( gas - rich ) disk galaxies .",
+    "the nscs in ( gas - poor ) spheroidals , on the other hand , must have evolved passively for at least a few gyrs .",
+    "if they have acquired stellar mass over this timescale , it can only have occurred via the accretion of evolved stars , e.g. through the merging of globular clusters onto the nsc .",
+    "the merging of star clusters is indeed one of the proposed mechanisms for the build - up of nscs ( * ? ? ?",
+    "* ( capuzzo - dolcetta & miocchi 2008 ) ) . at least in disk galaxies , however , this is unlikely to be the whole story , because @xcite show that cluster infall alone can not explain the dynamical properties of the nsc in the nearby edge - on disk ngc4244 .",
+    "they conclude that at least 50% of its mass must have been produced by in - situ star formation .",
+    "the star formation is the result of gas infall into the central few pc , which can be caused by a number of mechanisms such as bar - induced torques ( * ? ? ? * ( schinnerer et al .",
+    "2006 ) ) , compressive tidal forces ( * ? ? ?",
+    "* ( emsellem & van der ven 2008 ) ) , or the magneto - rotational instability in galaxy disks ( * ? ? ?",
+    "* ( milosavljevic 2004 ) ) .    in any case",
+    ", it is important to keep in mind that the _ formation _ of nscs and their subsequent _ growth _ do not necessarily have to be governed by the same mechanism , and that more than one mechanism can contribute to the evolution of an nsc after its formation .",
+    "the co - evolution of nscs and central super - massive black holes ( smbhs ) is currently a very active field of research , triggered by the realization that both types of a central massive object ( cmo ) can co - exist at the low end of the smbh mass range ( * ? ? ?",
+    "* ( @xmath0 , seth et al . 2008 ) ) .",
+    "unfortunately , the exact mechanism for smbh formation , and whether or not an nsc is _ necessary _ to form an smbh remain unclear for now .",
+    "however , there appears to be a transition in what type of cmo dominates : at very low cmo masses , smbhs are hard to identify ( * ? ? ? * ( satyapal et al .",
+    "2009 ) ) , and their mass is usually less than that of the nsc . in galaxies hosting smbhs with masses above @xmath1 , on the other hand ,",
+    "nscs are usually not observed ( * ? ? ?",
+    "* ( graham & spitler 2009 ) ) , suggesting that the most massive smbhs have destroyed their host nscs .",
+    "a similar transition is also evident in the surface brightness profiles of spheroidal galaxies , which smoothly transition from a pronounced light excess in the central few pc of low - mass systems to a clear light deficit in high mass system ( * ? ? ?",
+    "* ( ct et al . 2007 ) ) .",
+    "this gradual change may be identified with a decreasing prominence of the nsc as the mass of the host spheroid grows .",
+    "the mass ratio between smbh and nsc may well be imprinted early - on in the galaxy s life by their mutual feedback during the `` competitive accretion '' phase , as proposed by @xcite .",
+    "however , it is also tempting to speculate that , as the evolution of the host galaxy progresses , the smbh grows in mass at the expense of the nsc .",
+    "for example , the merger of two bhs has been shown to efficiently destroy the surrounding nsc(s ) via loss - cone depletion ( * ? ? ? * ( e.g. merritt 2006 ) ) .",
+    "while many details of nsc evolution remain to be addressed , the general picture outlined in figure 1 appears to be consistent with what we currently know .        *",
+    "figure1 * possible evolutionary path of an nsc that forms early in the life of a gas - rich , disk - dominated `` proto''-galaxy . as long as gas is available for infall into the center",
+    ", the nsc ( and any smbh it may harbor ) will grow . once the gas is depleted or expelled ( e.g. by the disruption of the galaxy disk through harassment or a close encounter ) , the cmo growth stops , and it will only evolve passively from then on . the host galaxy may progress along the merger tree , and its smbh may well merge with the smbhs of the merger partners , destroying their hosts nscs in the process ."
+  ],
+  "abstract_text": [
+    "<S> this talk is an attempt to combine recent insights into the nature of the nuclear star clusters in galaxies of various morphologies into a coherent ( albeit simplistic ) picture for their formation , growth , and eventual destruction . </S>"
+  ]
+}

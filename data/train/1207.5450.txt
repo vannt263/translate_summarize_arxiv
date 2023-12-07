@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "in a recent paper , currie and saari initiated the study of the least periods of infinite words .",
+    "if @xmath2 is a finite word , then we say @xmath3 has period @xmath4 if @xmath5 for @xmath6 .",
+    "for example , alfalfa has period @xmath7 and entanglement has period @xmath8 .",
+    "if @xmath9 is an infinite word , then a _ factor _ of @xmath10 is a contiguous subword of the form @xmath11 for some @xmath12 with @xmath13 ; we write it as @xmath14 $ ] .",
+    "( if @xmath15 then the factor is @xmath16 , the empty string . )    currie and saari were interested in the set of all positive integers that can be the least period of some finite nonempty factor of @xmath10 .",
+    "they explicitly computed the set of least periods for some famous infinite words , such as the thue - morse sequence .",
+    "the thue - morse sequence @xmath17 is defined by letting @xmath18 $ ] be the sum of the bits in the binary expansion of @xmath19 , taken modulo @xmath20 .",
+    "they proved that every positive integer can be the least period of the thue - morse sequence .",
+    "the thue - morse sequence is one of a much larger class of infinite words called `` automatic '' . roughly speaking ,",
+    "an infinite word @xmath21 is @xmath1-automatic if there is a deterministic finite automaton taking the base-@xmath1 representation of @xmath19 as input , with transitions leading to a state with output @xmath22 $ ] . for more details , see .    in this note",
+    ", we prove that if @xmath10 is @xmath1-automatic , then so is the characteristic sequence of the least periods of @xmath10 .",
+    "our method gives an explicit way to construct the automaton accepting the base-@xmath1 representation of the least periods of @xmath10 .",
+    "using an implementation developed by the first author , we then reprove the currie - saari result for thue - morse using a short finite computation , and we find similar results for three other classic sequences .",
+    "if @xmath10 is a @xmath1-automatic sequence , then the characteristic sequence of least periods of @xmath10 is ( effectively ) @xmath1-automatic .    using the method developed in , it suffices to construct a predicate @xmath23 that is true if @xmath19 is a least period and false otherwise , using a logical language restricted to addition , subtraction , indexing into @xmath10 , comparisons , logical operations , and the existential and universal quantifiers .",
+    "it is easy to express the predicate @xmath24 that @xmath19 is a period of the factor @xmath14 $ ] , as follows : @xmath25 = { \\bf x}[i+n .. j ]   \\\\ & = & \\forall \\ t \\text { with $ i \\leq t \\leq j - n$ we have }       { \\bf x}[t ] = { \\bf x}[t+n ] .\\end{aligned}\\ ] ] using this , we can express the predicate @xmath26 that @xmath19 is the least period of @xmath14 $ ] : @xmath27 finally , we can express the predicate that @xmath19 is a least period as follows @xmath28 the construction is effective , and there is an algorithm that , given the automaton generating @xmath10 , will produce an automaton generating the characteristic sequence of least periods of @xmath10 .",
+    "currie and saari proved      we implemented the algorithm in to convert the automaton generating a @xmath1-automatic sequence @xmath10 to the automaton accepting the characteristic sequence of least periods of @xmath10 . using this",
+    ", we were able to verify the result above using a short computation .",
+    "( in contrast , currie and saari used four pages of rather intricate case reasoning . )      * the period - doubling sequence @xmath29 defined by @xmath30 if @xmath18 \\not=",
+    "t}[n+1]$ ] , and @xmath31 otherwise ; * the paperfolding sequence @xmath32 , defined as the limit of the finite words @xmath33 and @xmath34 , where @xmath35 , @xmath36 , and @xmath37 denotes the mirror image or reversal of the word @xmath38 ; * the rudin - shapiro sequence @xmath39 defined by counting the number of ( possibly overlapping ) occurrences of @xmath40 in the binary representation of @xmath19 , taken modulo @xmath20 .        for the paperfolding sequence ,",
+    "the least periods are given by the integers whose base-@xmath20 representations are accepted by the automaton below .",
+    "the least omitted least period is @xmath41 , and there are infinitely many . in the limit , exactly @xmath42 of all integers are least periods of the paperfolding sequence .             for the result about the paperfolding sequence ,",
+    "we take the automaton computed by the algorithm ( displayed in figure 1 ) and compute the transition matrices @xmath43 , @xmath44 , containing a @xmath45 in row @xmath46 and column @xmath47 if there is a transition on @xmath48 from state @xmath46 to state @xmath47 .",
+    "then @xmath49 , where @xmath50 , gives the number of words taking the automaton from state @xmath46 to state @xmath47 .",
+    "a short computation gives that each row of @xmath51 equals @xmath52.\\ ] ] all states except @xmath53 and @xmath40 are accepting , so the density of least periods is given by @xmath54 , as claimed .",
+    "e.  charlier , n.  rampersad , and j.  shallit .",
+    "enumeration and decidable properties of automatic sequences . in g.",
+    "mauri and a.  leporati , eds . , _ developments in language theory  15th international conference , dlt 2011 _ , vol .",
+    "6795 , springer , 2011 , pp .",
+    "165179 .",
+    "d. go , d. henshall , and j. shallit . automatic theorem - proving in combinatorics on words . in n. moreira and r. reis , eds . , _",
+    "ciaa 2012 _ , lect .",
+    "notes in comput .",
+    ", vol .  7381 , springer , 2012 , pp ."
+  ],
+  "abstract_text": [
+    "<S> currie and saari initiated the study of least periods of infinite words , and they showed that every integer @xmath0 is a least period of the thue - morse sequence . </S>",
+    "<S> we generalize this result to show that the characteristic sequence of least periods of a @xmath1-automatic sequence is ( effectively ) @xmath1-automatic . through an implementation of our construction </S>",
+    "<S> , we confirm the result of currie and saari , and we obtain similar results for the period - doubling sequence , the rudin - shapiro sequence , and the paperfolding sequence . </S>"
+  ]
+}

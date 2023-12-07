@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "we consider a supersonic two - dimensional flow of an ideal reactive mixture emanating radially out of a source .",
+    "the flow is described by the reactive euler equations with a one - step arrhenius chemistry .",
+    "it is found that a steady - state circular self - sustained detonation is possible .",
+    "we compute its structure and investigate its dependence on various parameters of the problem , such as the conditions of the incoming flow and the mixture thermodynamic and chemical properties . in the simulations shown we chose the parameters to correspond to a mixture of stoichiometric hydrogen - oxygen diluted with helium .",
+    "global activation energy , heat release , and the ratio of specific heats are chosen based on those computed by @xcite with detailed chemistry .",
+    "the rate constant is chosen to impose the unit length of the size of the reaction zone computed by the detailed chemical model in @xcite .",
+    "specifically , our simulations correspond to : the helium dilution of @xmath0 , the specific - heat ratio of @xmath1 , the activation energy of @xmath2 , the heat release of @xmath3 , where @xmath4 is the upstream ambient temperature and @xmath5 is the universal gas constant .",
+    "the supersonic flow from the source is at a temperature sufficiently low that reactions do not occur , so that the initial expansion is essentially adiabatic .",
+    "such flow is known to be accelerating and at some distance , @xmath6 , from the source , the flow speed can reach the detonation speed of a given mixture .",
+    "therefore , one can expect a standing detonation to exist at about @xmath6 .",
+    "indeed , the solution of the steady - state reactive euler equations shows that such detonation exists .",
+    "it is a self - sustained detonation as there exists a sonic point near the end of the reaction zone .    to understand the stability of this steady solution ,",
+    "we perform two - dimensional simulations that start with the steady solution as the initial condition .",
+    "we find that generally , the detonation undergoes the usual cellular instability .",
+    "however , the detonation structure is seen to enlarge radially so that effectively the wave expands radially out of the computational domain . to prevent the unbounded explansion",
+    ", we placed several rigid obstacles in the flow to be located some short distance behind the steady detonation - shock position .",
+    "then several reflected shock waves are formed and the detonation tends to stand , on average , some short distance ahead of the obstacles .",
+    "this way , the detonation is kept inside the computational domain at least for sufficiently long time .",
+    "e. schultz , j. shepherd , `` validation of detailed reaction mechanisms for detonation simulation '' , phd thesis , california institute of technology , 2000 .",
+    "a. kasimov , s. korneev , `` on gaseous detonation in a radially expanding flow '' , g26.00009 , bulletin of the americal physical society , 65th annual meeting of the aps division of fluid dynamics , volume 57 , number 17 , san - diego , ca , 2012 ."
+  ],
+  "abstract_text": [
+    "<S> in this fluid dynamic video we present simulations of converging two - dimensional detonation in a radially expanding supersonic flow of ideal reactive gas . </S>",
+    "<S> the detonation is found to be unstable and leads to formation of characteristic cellular patterns . without any obstacles in the flow </S>",
+    "<S> , the detonation keeps expanding radially . to retain the wave within a bounded region , we place a number of rigid obstacles in the flow so that the detonation shock stands some distance toward the center from the obstacles . </S>",
+    "<S> this leads to generation of reflected shock waves from the obstacles which help the detonation wave to remain at a finite distance from the source . </S>",
+    "<S> the cellular structure of detonation creates beautiful patterns of shock waves and contact discontinuities within and after the reaction zone . </S>",
+    "<S> the patterns often resemble a sunflower , hence the name of  sunflower detonation \" @xcite . </S>"
+  ]
+}

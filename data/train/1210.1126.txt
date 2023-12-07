@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the past decade has seen major advances in establishing the progenitors of core - collapse supernovae ( ccsne , smartt 2009 ) .",
+    "three discrete sub - populations of hydrogen - rich ccsne are known , exhibiting plateau s ( ii - p ) , slow declines ( ii - l ) and rapid declines ( iib ) in their light curves ( arcavi et al . 2012 ) , representing progressively lower hydrogen envelope masses .",
+    "it has been empirically established that the most common of these ( ii - p ) are the direct progeny of red supergiants ( smartt et al .",
+    "some of the rarer subtypes ( ii - l and iib ) have been proposed to originate from yellow supergiants , hydrogen - rich wolf - rayet stars or interacting binaries , while hydrogen - rich ccsne with narrow components in their spectra ( iin ) seem to involve interactions with dense circumstellar material ( kiewe et al .",
+    "2012 ) .    no progenitors of hydrogen - deficient",
+    "( ib / c ) ccsne have yet been detected ( crockett et al .",
+    "2007 ; yoon et al . 2012 ) which are believed to either arise from massive wolf - rayet stars that have stripped their hydrogen from powerful stellar winds ( e.g. conti 1976 ; crowther 2007 ) , or lower mass stars in close binary systems ( podsiadlowski et al .",
+    "1992 ; nomoto et al . 1995 ; fryer et al .",
+    "2007 ) , or some combination thereof ( smith et al . 2011",
+    "; langer 2012 ) .",
+    "it is likely that helium - strong iib and ib ccsne possess similar progenitor channels ( arcavi et al .",
+    "2012 ) , while helium - weak ic ccsne may arise from disparate progenitors ( e.g. dessart et al .",
+    "in particular , broad - lined type ic ccsne are notable in several ways ; they represent the majority of hydrogen - deficient ccsne in dwarf hosts ( arcavi et al .",
+    "2010 ) , there is a broad - lined ic - gamma ray burst ( grb ) connection ( woosley & bloom 2006 ) , while long grbs prefer metal - poor hosts ( levesque et al .",
+    "2010 ) .    in view of the scarcity of nearby ccsne amenable to the direct detection of the progenitor star",
+    ", studies have turned to the host environment .",
+    "for example , the population of hydrogen - deficient ccsne are dominated by ic ccsne in large galaxies , versus ib and broad - lined ic ccsne in dwarf galaxies ( arcavi et al .",
+    "2010 ) , although the overall statistics of ib / c versus ii ccsne are relatively insensitive to host galaxy ."
+  ],
+  "abstract_text": [
+    "<S> previous studies of the location of core - collapse supernovae ( ccsne ) in their host galaxies have variously claimed an association with hii regions ; no association ; or an association only with hydrogen - deficient ccsne . </S>",
+    "<S> here , we examine the immediate environments of 39 ccsne whose positions are well known in nearby ( @xmath015 mpc ) , low inclination ( @xmath065@xmath1 ) hosts using mostly archival , continuum - subtracted h@xmath2 ground - based imaging . </S>",
+    "<S> we find that 11 out of 29 hydrogen - rich ccsne are spatially associated with hii regions ( 38 @xmath3 11% ) , versus 7 out of 10 hydrogen - poor ccsne ( 70 @xmath3 26% ) . </S>",
+    "<S> similar results from anderson et al . led to an interpretation that the progenitors of type ib / c ccsne are more massive than those of type ii ccsne . here </S>",
+    "<S> , we quantify the luminosities of hii region either coincident with , or nearby to the ccsne . </S>",
+    "<S> characteristic nebulae are long - lived ( @xmath420 myr ) giant hii regions rather than short - lived ( @xmath44 myr ) isolated , compact h ii regions . </S>",
+    "<S> therefore , the absence of a hii region from most type ii ccsne merely reflects the longer lifetime of stars with @xmath512 @xmath6 than giant hii regions . </S>",
+    "<S> conversely , the association of a h ii region with most type ib / c ccsne is due to the shorter lifetime of stars with @xmath712 @xmath6 stars than the duty cycle of giant hii regions . </S>",
+    "<S> therefore , we conclude that the observed association between certain ccsne and hii provides only weak constraints upon their progenitor masses . nevertheless , we do favour lower mass progenitors for two type ib / c ccsne that lack associated nebular emission , a host cluster or a nearby giant hii region . </S>",
+    "<S> finally , we also reconsider the association between long gamma ray bursts and the peak continuum light from their ( mostly ) dwarf hosts , and conclude that this is suggestive of very high mass progenitors , in common with previous studies .    </S>",
+    "<S> [ firstpage ]    stars : early - type  stars : supernovae : general  ism : hii regions  galaxies : star clusters , galaxies : ism </S>"
+  ]
+}

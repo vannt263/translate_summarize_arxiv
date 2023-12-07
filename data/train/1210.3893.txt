@@ -1,0 +1,10 @@
+{
+  "article_text": [
+    "this fluid dynamics video demonstrates the merger of long vortex filaments is shown experimentally .",
+    "two counter - rotating vortices are generated using in a tank with very high aspect ratio .",
+    "piv demonstrates the merger of the vortices within a single orbit ."
+  ],
+  "abstract_text": [
+    "<S> vortex merger of long filaments . </S>"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "the mash miscellaneous emission nebulae catalogue ( mash - men ) represents the compilation of about 450 new emission line sources identified as pn candidates but now removed as contaminants mostly prior to publication of mash - i ( ( * ? ? ?",
+    "* parker  2006 ) ) and mash - ii ( ( * ? ? ?",
+    "* miszalski  2008 ) ) .",
+    "this was achieved by careful application of spectral and multi - wavelength image diagnostic criteria as described in ( * ? ? ?",
+    "* frew & parker ( 2010 ) ) .",
+    "several kinds of astrophysical objects mimic planetary nebulae and pre - mash pn catalogues still contain significant numbers of contaminants that are being detected and eliminated via our newly developed methodology . to classify men objects into categories ,",
+    "we first collect as much information as possible , i.e. multi - wavelength images and spectra ( from surveys as shs , sss , dss , iphas , 2mass , msx , mips , glimpse , and wise ) .",
+    "the h@xmath0/sr quotient image is effective for revealling the extent of any emission to emphasize the men objects .",
+    "it is also useful to create rgb images whiwh can reveal a reflection component from the b - band . when all these data are available , we are able to classify objects into categories thanks to their morphological and spectroscopic criteria where the overall body of evidence is used in combination with a decision tree we created .",
+    "other tools such as diagnostic plots using nebular emission - line ratios are also used to distinguish pne , herbig - haro objects , snrs , and hii regions .",
+    "photometric data are useful to identify symbiotic stars or close - binary cspn .",
+    "other properties used for the identification of the men objects are detailed in ( * ? ? ?",
+    "* frew & parker ( 2010 ) ) .",
+    "all 450 men sources ( see examples in figure [ fig1 ] ) have been classified into about a dozen different object categories . unsurprisingly ,",
+    "hii regions ( 39% of men objects ) and symbiotic stars ( 22% ) are most often confused with pne .",
+    "the men catalog contains also 8% snrs , 5% flaws , 4% galaxies , 4% reflection nebulae , 3% ysos and herbig - haro objects , 3% cataclysmic variables , 2% clusters , 2% b[e ] stars , 1% wolf - rayet ejecta , and under 1% lbvs . finally ,",
+    "as better data became available , several bona - fide pn previously removed from mash can now be re - integrated as a result of this project uncovering their true pn nature ( 6% of the men objects ) .",
+    "the mash - men project was instigated first to house the many interesting but non - pn mimics uncovered during the mash survey and subsequently to classify the mimics according to type into a new catalogue of miscellaneous emission nebulae ( men ) .",
+    "application of our careful diagnostic processes have resulted in the mash pn catalogues being of high purity .",
+    "some of these contaminants are very interesting in their own right and deserve follow - up and further study .",
+    "we are now applying the same processes to other extant pn catalogues to remove their many mimics ."
+  ],
+  "abstract_text": [
+    "<S> the total number of true , likely and possible planetary nebulae ( pn ) now known in the milky way is about 3000 , approximately twice the number known a decade ago . </S>",
+    "<S> the new discoveries are a legacy of the recent availability of wide - field , narrowband imaging surveys , primarily in the light of h@xmath0 . </S>",
+    "<S> the two most important are the aao / ukst supercosmos h@xmath0 survey  shs and the isaac newton photometric h@xmath0 survey - iphas , which are responsible for most of the new discoveries . </S>",
+    "<S> a serious problem with previous pn catalogues is that several different kinds of astrophysical objects are able to mimic pn in some of their observed properties leading to significant contamination . </S>",
+    "<S> these objects include h  ii regions and strmgren zones around young o / b stars , reflection nebulae , wolf - rayet ejecta , supernova remnants , herbig - haro objects , young stellar objects , b[e ] stars , symbiotic stars and outflows , late - type stars , cataclysmic variables , low redshift emission - line galaxies , and even image / detector flaws . </S>",
+    "<S> pn catalogues such as the macquarie / aao / strasbourg h@xmath0 planetary nebula catalogue ( mash ) have been carefully vetted to remove these mimics using the wealth of new wide - field multi - wavelength data and our 100% follow - up spectroscopy to produce a compilation of new pn discoveries of high purity . during this process </S>",
+    "<S> significant numbers of pn mimics have been identified . </S>",
+    "<S> the aim of this project is to compile these mash rejects into a catalogue of miscellaneous emission nebulae ( men ) and to highlight the most unusual and interesting examples . </S>",
+    "<S> a new global analysis of these men objects is underway before publishing the men catalogue online categorizing objects by type together with their spectra and multi - wavelength images . </S>"
+  ]
+}

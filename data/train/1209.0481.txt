@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "we thank j .- c .",
+    "gminard for introducing us to this phenomenon , and for very enlightening discussions .",
+    "we also thank p .-",
+    "brun and d. vella for sharing results of their work with us .",
+    "we acknowledge funding from u.  s.  national science foundation grants dmr 1207778 , dmr 0907245 , and dmr 0846582 ."
+  ],
+  "abstract_text": [
+    "<S> a loop of chain can move along its own tangents , maintaining a steady shape . </S>",
+    "<S> an open - ended chain undergoing a nontrivial motion must change its shape . </S>",
+    "<S> one consequence is that chains pulled around objects will fail to follow the contours of the objects , unwrapping themselves instead . </S>",
+    "<S> this short note accompanies a fluid dynamics video submission ( 83068 ) to the aps dfd gallery of fluid motion 2012 .    the accompanying video shows chain ( stainless steel , 3.3 mm flat oval cable , ) unwrapping from various obstacles , as one end is pulled in an approximately straight line at speeds on the order of 2 - 3 m / s .    while other forces , including gravity and friction , are operative in these demonstrations , the behavior of the free end may be explained by the interplay of inertia and a line tension that serves to locally preserve arc length . </S>",
+    "<S> these two elements combine in the string equations @xcite , which admit steady loop configurations with uniform positive tension , the material points moving purely along the tangents of a curve of steady but arbitrary shape . </S>",
+    "<S> the tension is analogous to a volume - preserving pressure in a one - dimensional fluid . </S>",
+    "<S> it must fall to zero at a free end . </S>",
+    "<S> gradients in this tension generically imply a time dependence of the curvature of the chain . </S>",
+    "<S> the result is that a chain with a free end can not maintain a steady shape . </S>",
+    "<S> though its initial trajectory may follow the contours of an obstacle , it will subsequently try to squeeze the obstacle or unwrap .    also apparent in some of these films </S>",
+    "<S> is the whip - like motion of the chain , when the waveform corresponding to the obstacle reflects from the free end . </S>"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "recently iron - based superconductors ( fescs ) have attracted much attention following the discovery of the high-@xmath5 superconductivity ( htsc ) in lafeas(o , f ) @xcite .",
+    "the fescs that have received extensive experimental and theoretical studies include refeaso ( re = la or rare earth ) ( 1111-type ) @xcite , a@xmath6 ( a = ba , sr , ca , etc ) ( 122-type ) @xcite , lifeas ( fig.[fig : crystalstructure]a ) or nafeas ( 111-type ) @xcite , and fese ( 11-type ) @xcite ( fig.[fig : crystalstructure]b ) .",
+    "the family of fescs as a whole has the second highest @xmath5 , and are more tunable than cuprate - based superconductors ( cuscs ) as one can control transition temperature not only by doping but also by applying pressure on parent stoichiometric compounds .",
+    "the common structural properties among these fescs is that fe atoms form two - dimensional layers , in which spins on fe atoms interact with each other via a super - exchange mediated by non - metallic species @xcite .",
+    "this can be naturally modelled by using a two - dimensional heisenberg model @xcite .",
+    "this feature is also shared by cusc whereas cu atoms carry spins .",
+    "however , the superconducting gap structures of fescs and cuscs may be different @xcite .",
+    "there is also intense debate on the existence of magnetic fluctuations , especially in li(na)feas @xcite .",
+    "some of these debates are concentrated on the electronic structure near the fermi surface .    [ cols=\"^ \" , ]     i also compare the total energies per unit cell of fese for different spin configurations including non - magnetic and spin-2 .",
+    "the total energies per cell of the non - magnetic state higher than that of spin-2 by @xmath7 ev .",
+    "this indicates that the spin-2 state is also favoured by fese in this tetragonal structure . for fese , @xmath8 is approximately @xmath2 mevs and @xmath9 is approximately @xmath3 mevs",
+    "this is qualitatively in agreement with the results for fese in ref.@xcite .",
+    "the strong hybridization between fe and se in fm configuration indicate the exchange mechanism is dominated by super - exchange mediated by se atoms .",
+    "the energy of the stripe - type afm ordering is also computed , which is lower than that of the checkerboard one by @xmath10 ev per cell .",
+    "the total energies of different spin configurations including non - magnetic and spin-2 have been computed by using hybrid functional pbe0 and are carefully compared for lifeas and fese , which shows that both of them favour spin-2 state .",
+    "the band structure calculations show that lifeas is conducting , but fese is insulating .",
+    "the fundamental difference between the band structures of lifeas and fese might be able to shed some light on the comparison between the experiments on them .",
+    "as shown in the electronic structure of lifeas , the co - existence of localized magnetic moments and the dominant @xmath4-band near the fermi surface might lead to the competition between itinerant and localized @xmath4-orbital magnetism , and this might be the key to understand the superconductivity of lifeas @xcite .",
+    "the exchange interactions of the nearest and next nearest neighbours are also calculated , and the computed values qualitatively agree with recently experiments and theoretical results leading to a two - dimensional collinear ordering rather than nel ordering .",
+    "the energies of checkerboard and stripe - type afm ordering have been computed . for lifeas",
+    "the checkerboard one is lower whereas for fese the stripe - type is lower",
+    ".    these calculations might be useful for the experimentalists who are concerned with the superconductivity , magnetic properties , and electronic structure of the 111-type and 11-type fescs . in the future",
+    ", i would like to investigate further how the localised and itinerant magnetisms compete with each other and the change of electronic structure in doped lifeas and fese to understand superconductivity in fescs .",
+    "r. dovesi , v. r. saunders , c. roetti , r. orlando , c. m. zicovich - wilson , f. pascale , b. civalleri , k. doll , n. m. harrison , i. j. bush , p. darco , and m. llunell , crystal09 user s manual ( university of torino , torino , 2009 ) ."
+  ],
+  "abstract_text": [
+    "<S> the electronic structure and magnetic properties of lifeas and fese have been studied using hybrid exchange density functional theory . </S>",
+    "<S> the total energies for a unit cell in lifeas and fese with different spin states including non - magnetic and spin-2 are calculated . </S>",
+    "<S> the spin-2 configuration has the lower energy for both lifeas and fese . </S>",
+    "<S> the computed anti - ferromagnetic exchange interactions between spins on the nearest ( next nearest ) neighbouring fe atoms in lifeas and fese are approximately @xmath0 ( @xmath1 ) mev and @xmath2 ( @xmath3 ) mev respectively . </S>",
+    "<S> the total energies of the checkerboard and stripe - type anti - ferromagnetic ordering for lifeas and fese are compared , yielding that for lifeas the checkerboard is lower whereas for fese the stripe - type is lower . however , owing to the fact that the exchange interaction of the next nearest neighbour is larger than that of the nearest one , which means that the collinear ordering might be the ground state . </S>",
+    "<S> these results are in agreement with previous theoretical calculations and experiments . </S>",
+    "<S> especially the calculations for lifeas indicate a co - existence of conducting @xmath4-bands at the fermi surface and @xmath4-orbital magnetism far below the fermi surface . </S>",
+    "<S> the theoretical results presented here might be useful for the experimentalists working on the electronic structure and magnetism of iron - based superconductors .    </S>",
+    "<S> author keywords : a. superconducting materials ; d. electronic structure ; d. magnetism </S>"
+  ]
+}

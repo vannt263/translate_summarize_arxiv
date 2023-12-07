@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "mass loss phenomena are of fundamental importance to the structure and evolution of accretion discs . in recent decades , it has been established that winds or outflows may function as a supplemental sink of mass , angular momentum and energy , whose dynamical influences to the accretion flow are worthy of study . as for the formation of stars , the most energetic outflow phase occurs during the self - gravitational collapse of a molecular cloud core when the disc is still starless and the accretion rate is high .",
+    "furthermore , recent observations detected an outer boundary for starless cores , and evidence for time - dependent mass accretion in the class 0 and class i protostellar phases ( see vorobyov & basu 2005 and references therein ) .",
+    "on the theoretical side , some investigators ( e.g. knigge 1999 ) studied the potential effects of winds / outflows on the radial structure of the accretion discs , within the framework of standard model ( shakura & sunyaev 1973 ) .",
+    "shadmehri ( 2009 , hereafter ms ) and recently abbassi  ( 2012 , hereafter ans ) examined the time - dependant behavior of the self - gravitating accretion discs , under the influences of winds and viscous forces . here",
+    ", the changes in the boundary conditions , not to mention , affect the profiles of the physical variables going from one boundary to another .",
+    "motivated by this , it is a matter of interest to know , for example , how the outer boundary condition ( obc ) which is fixed by the large scale gas distribution in the parent cloud , would act on the behaviors of inflow - outflow solutions .",
+    "let us begin with the main differential equation ( 56 ) of ans , prescribing renowned @xmath0-viscosity and assuming the polytropic relation of state to avoid the limits of isothermality .",
+    "this equation can be integrated numerically once we have an expression for the similarity surface density @xmath1 [ from equation ( 54 ) of ans ] and more interestingly for the mass loss indicator @xmath2 . here",
+    ", the self - similar radial velocity , @xmath3 , has a negative value and approaches zero in the way towards the center of the disc .",
+    "moreover , as explained in ms and ans , we can safely assume the inflow rate from the parent cloud is constant .",
+    "hence , the accretion rate at the outer edge of the disc , i.e. @xmath4 , needs to be so as well .",
+    "now , fixing other input parameters appeared in ans , we shall inquire into the possible role of mass inflow rate from the surrounding parent cloud , as an obc , in the structure of our solutions .    ,",
+    "@xmath5 and @xmath6 .",
+    "the zero indices in titles correspond to no - wind solutions.,width=518 ]",
+    "figure [ fig1 ] represents the radial profiles of some important physical variables in our simplified model ( see ans for notations ) . as we analyzed solutions , although the outer radial velocity increases due to the outflow , it is not very sensitive to variations of the mass inflow rate from the parent cloud . the disc rotates slower in the presence of mass and angular momentum loss . the outer part flow ,",
+    "however , shows a bit of resistance to such a reduction to the rotational velocity . also , this reduction becomes less important once we require higher mass accretion rate for the outermost part of the disc which is towards the parent cloud .",
+    "the solutions imply that the disc temperature , t ( which depends on the surface density ) , noticeably decreases because of the outflows and drops more at the outer edge .",
+    "in addition , higher @xmath4 could make the disc warmer which is likely to counteract the above - mentioned cooling influence of the outflows . as outflow emanates from the disc ,",
+    "mass accretion rate reduces and reaches to a constant amount ( @xmath4 ) at the outer boundary .",
+    "one can readily deduce from solutions that the disc becomes thicker and gravitationally more stable , when outflow carries away the mass and angular momentum outward .",
+    "further , the more mass inflow comes from the parent cloud per unit time , the more local gravitational instabilities occur in the disc , and collapse proceeds in a geometrically thinner disc regime .",
+    "to sum up , if we adopt larger values of @xmath4 , this may act as a quenching agent against the outflow ."
+  ],
+  "abstract_text": [
+    "<S> given the fact that accretion discs are associated with their parent molecular cloud , we studied its effects as a constraint on the outer boundary of the viscous - resistive polytropic self - gravitating accretion flows subject to the mass and angular momentum loss . </S>"
+  ]
+}

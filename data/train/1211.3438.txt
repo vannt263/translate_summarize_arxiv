@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the present - day galaxy population has a bimodal color distribution , with a genuine lack of green valley galaxies ( strateva et al .",
+    "2001 ; baldry et al .",
+    "this dearth of green valley galaxies , coupled with the increase in quiescent galaxies since @xmath3 , implies that galaxies quench star formation ( sf ) and transition rapidly from blue to red optical colors ( bell et al . 2004 ; faber et al .",
+    "thus far , it is not clear if , or how , agn feedback plays a role in this rapid quenching ( springel , di matteo & hernquist 2005 ; hopkins et al . 2005 ) , though there is some circumstantial evidence that supports the agn - driven sf quenching scenario .",
+    "in particular , schawinski et al .",
+    "( 2007 ) have found that agns predominantly reside in green valley galaxies , but direct evidence ( e.g. , a galaxy where the agn is clearly responsible for the expulsion of starforming material ) has been scarce .",
+    "however , the recent discovery of a massive molecular outflow likely driven by an agn in the early - type galaxy ngc  1266 may be a rare example of a galaxy transitioning from the blue to red sequence .",
+    "ngc 1266 is thus a promising local laboratory for studying agn - driven sf quenching .",
+    "ngc  1266 is a nearby ( @xmath4 mpc ) field early - type galaxy that co observations have shown to harbor a compact molecular disk ( @xmath5 pc@xmath6 ) and a mass - loaded ( @xmath7 ; @xmath8 yr@xmath9 ) molecular outflow ( alatalo et al .",
+    "alatalo et al .",
+    "( 2011 ) showed that the molecular gas could not be driven by sf alone and concluded that an agn was the most likely culprit . very large array ( vla )",
+    "observations revealed a compact radio core coincident with the weak detection of hard x - rays with _",
+    "chandra _ ( alatalo et al . 2011 ) .",
+    "subsequent vlba observations confirmed the presence of a compact , high brightness temperature ( @xmath10 k ) radio core ( fig .",
+    "[ fig1 ] ) , further supporting existing evidence that ngc  1266 hosts a low - level agn .",
+    "the vlba source is positioned at the center of the molecular disk ( fig .",
+    "[ fig1]a , yellow contours ) , where the h@xmath11 column density is at least @xmath12 cm@xmath6 . given the high column density of molcular gas directly atop the agn , it is unsurprising that little hard x - ray emission was detected ( alatalo et al .",
+    "2011 ) since this object may be mildly compton thick .",
+    "vlba observations have provided strong supporting evidence for the presence of an agn in the center of ngc 1266 , evidence directly implicating the agn in the outflow awaits .",
+    "future high sensitivity array observations will provide improved imaging capable of revealing the signature of a radio outflow at the launch point of the outflowing molecular gas and would provide direct evidence of an agn - driven molecular outflow in the local universe .",
+    "-band greyscale imaged .",
+    "carma co(10 ) @xmath14 contours are overlaid in yellow at levels of [ 0.25 , 0.5 , 0.75 ] of the peak co emission ( @xmath15 k km s@xmath9 ) .",
+    "the box shows the field - of - view of the vlba image to the right . *",
+    "( right ) : * ngc  1266 1.65 ghz continuum image with contours .",
+    "the vlba beam is the black ellipse in the lower right corner and has a major axis diameter of 9.75 mas ( 1.14 pc ) .",
+    "the relative contour levels are [ -3 , 3 , 6 , 10 , 14 ] and the unit of the contour level is 42 @xmath16jy beam@xmath9 .",
+    "the agn is detected to 14@xmath17 significance , and the vlba does indeed probe the sphere of influence ( @xmath18 ) , but does not appear to resolve the point source.,width=518 ]"
+  ],
+  "abstract_text": [
+    "<S> ngc  1266 is a nearby field galaxy observed as part of the atlas@xmath0  survey ( cappellari et al . </S>",
+    "<S> 2011 ) . </S>",
+    "<S> ngc  1266 has been shown to host a compact ( @xmath1 pc ) molecular disk and a mass - loaded molecular outflow driven by the agn ( alatalo et al . </S>",
+    "<S> 2011 ) . </S>",
+    "<S> very long basline array ( vlba ) observations at 1.65 ghz revealed a compact ( diameter @xmath2 pc ) , high brightness temperature continuum source most consistent with a low - level agn origin . </S>",
+    "<S> the vlba continuum source is positioned at the center of the molecular disk and may be responsible for the expulsion of molecular gas in ngc 1266 . </S>",
+    "<S> thus , the candidate agn - driven molecular outflow in ngc 1266 supports the picture in which agns do play a significant role in the quenching of star formation and ultimately the evolution of the red sequence of galaxies . </S>"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "hadron blind detector ( hbd ) was developed and installed as an upgrade of the phenix experiment at the relativistic heavy ion collider ( rhic ) experiment for the measurement of electron pairs , particularly in the low mass region ( @xmath3 1 gev/@xmath4 including the light vector mesons @xmath5 , @xmath6 and @xmath7)[1 ] .",
+    "dileptons are valuable probes for the hot and dense matter formed in ultra - relativistic heavy - ion collisions .",
+    "they play a crucial role in the quest for the qcd phase transition from hadron gas ( hg ) to the quark gluon plasma ( qgp ) expected to be formed in these collisions .",
+    "they can provide evidence of chiral symmetry restoration and deconfinement phase transition[2 ] .",
+    "+ dileptons offer also the possibility to identify the thermal radiation emitted from the qgp via @xmath8 annihilation .",
+    "such a radiation is regarded as a very strong signal of deconfinement .",
+    "there is no convincing evidence for thermal radiation from the qgp at lower energies , either in the dilepton or in the real photon channels .",
+    "theoretical calculations have singled out the dilepton intermediate mass range @xmath9 as the most appropriate window for the observation of qgp thermal radiation[4 ] .",
+    "+ the measurement of dileptons in heavy ion collisions is a challenging task because of the huge combinatorial background in the low mass region .",
+    "electron pairs measured in phenix from the 2004 run showed very low signal - to - background ratio s / b @xmath10 1/200 in the low mass region with large statistical and systematic uncertainties ( fig.1 ) .    .",
+    "]    moreover , the limited azimuthal angular acceptance in the central arms and the strong magnetic field beginning radially at r=0 , makes the identification and rejection of electron - positron pairs from dalitz decays and photon conversions very difficult .",
+    "therefore , the improved s / b is needed for further studies of low mass dilepton spectra .",
+    "the main sources of combinatorial background are coming from @xmath11 and @xmath12 , and we exploited the fact that these channels have small opening angle so by using the opening angle we must be able to distinguish single hits from double hits in hbd .    [ ]",
+    "the main task of hbd was to recognize and reject @xmath2-conversions and @xmath1 dalitz decay pairs using the fact of their small opening angle . in order to conserve the opening angle of the decay pairs",
+    ", hbd was placed in the magnetic field free region as is shown in figure 2(b ) .",
+    "hbd consists of a cherenkov radiator operated with pure cf@xmath13 in a proximity focus configuration directly coupled to a triple - gem detector element with a csi photocathode on the top gem[5 ] and a pad readout . + the choice of cf@xmath13 both as radiator and detector gas in a windowless geometry results in a very large bandwidth ( from @xmath106 ev given by the threshold of the csi to @xmath1011.5 ev given by the cf@xmath13 cut - off ) and consequently in a large figure of merit n@xmath14 and a large number of photo electrons n@xmath15 .",
+    "one of the important advantage of using gems is that it allows the use of a reflective photocathode which is totally screened from photons produced in the avalanche process .",
+    "hbd contains two arms in east and west side of phenix co - ordinate system and its acceptance in pseudorapidity is @xmath16 0.45 and in azimuthal angle ( @xmath17 ) is 135@xmath18 .",
+    "hbd position resolution is estimated by the matching of the central arm tracks to the hbd .",
+    "the matching distributions ( difference between projection point and the closest cluster in hbd ) of electron tracks in @xmath19 and z were determined for different track momentum bins . in fig .",
+    "3 , the momentum dependence of the sigma of @xmath20z and @xmath17 is shown and the asymptotic resolution in z and @xmath19 are obtained @xmath21 cm and 8 mrad respectively .     with respect to momentum . ]    in fig.4(a ) , a drop in pulse height of hadrons in rb mode of hbd is demonstrated .",
+    "hadron rejection factor ( ratio of the number of hadron tracks identified in central arm detectors to the number of corresponding matched hits in the hbd ) as a function of threshold charge in reverse bias mode of hbd for a single module is shown in fig .",
+    "also a very good separation between single electrons and hadrons in rb has been observed as single electron response peaked at @xmath10 20 photoelectrons whereas electrons from hadrons are peaked at @xmath1040 due to single and double hits in hbd respectively .",
+    "single electron efficiency for the full hbd extracted from di - electrons in the j/@xmath22 mass region is obtained approximately as @xmath23 .",
+    "hadron blind detector performed well in phenix during rhic runs in 2009 ( @xmath24+@xmath24 ) and 2010 ( au+au ) .",
+    "the performance studies carried with @xmath24+@xmath24 data , the hadron rejection power achieved , good separation between electrons coming from resonances or heavy quarks and neutral hadrons are consequent improvement in the di - electron s / b .",
+    "the studies of au+au data set are in progress .",
+    "0.1 cm authors acknowledge the financial support from department of science and technology ( dst ) , government of india , new delhi ."
+  ],
+  "abstract_text": [
+    "<S> electron pairs or di - leptons in general are unique probes to study the hot and dense matter formed in relativistic heavy ion collisions at rhic . particularly , low mass di - leptons are sensitive to chiral symmetry restoration effects and to thermal radiation emitted by the plasma via virtual photons , providing a direct measurement of the quark gluon plasma temperature . but </S>",
+    "<S> the experimental challenge is the huge combinatorial background created by @xmath0 pairs from copiously produced @xmath1 dalitz decay and @xmath2 conversions . in order to reduce this background , </S>",
+    "<S> a hadron blind detector was proposed in phenix for electron identification in high - density hadron environment . in the present paper some of the performance studies of the hbd carried with data from 2009 run </S>",
+    "<S> are discussed .    and b. k. singh + ( for phenix collaboration )    quark gluon plasma , low mass dileptons , hadron blind detector </S>"
+  ]
+}

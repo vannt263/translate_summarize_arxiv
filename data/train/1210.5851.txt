@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the study of strongly interacting matter at extreme energy densities as produced in ultrarelativistic heavy ",
+    "ion collisions is the aim of the alice detector @xcite at the large hadron collider ( lhc ) at cern .",
+    "quantum chromodynamics ( qcd ) @xcite predicts that at sufficiently high energy density , of the order of 0.5  gev/@xmath3 @xcite , a deconfined state of quarks and gluons is produced , the so - called quark gluon plasma ( qgp ) .",
+    "many different observables are used to find experimental evidence and subsequently study the properties of the qgp . in this contribution",
+    "we will focus on the measurement of event  by  event net  charge fluctuations and charge balance functions .",
+    "the analyses use the data taken in pb ",
+    "pb collisions at @xmath2 tev and make use of the excellent tracking capabilities of the alice time projection chamber ( tpc ) .",
+    "insight into the possible existence of a qgp can be gained by determining the relevant degrees of freedom for the electric charge of the system produced in a heavy  ion collision @xcite . in a hadron ( resonance )",
+    "gas these are mesons and baryons , while in the qgp phase these would be quarks in the simplest case ( neglecting more complex bound states ) .",
+    "a significant difference between the two phases is expected in measuring event  by  event net  charge fluctuations per charged degree of freedom : @xmath4 with @xmath5 the variance of the net  charge @xmath6 and @xmath7 the average number of all measured charged particles per event .",
+    "the variable d is close to 1 for the case of a qgp , and is predicted to be close to 3 for a hadron ( resonance ) gas @xcite .    in the experiment ,",
+    "charge fluctuations are best studied by calculating the quantity @xmath8 , which is strongly connected to the variable d via the relationship shown in eq .",
+    "[ equ : d ] and is defined as : @xmath9 taking into account global charge conservation and finite acceptance , one obtains the corrected value of @xmath10 : @xmath11 where @xmath12 is the average total number of charged particles produced over the full phase space .            in the left panel of fig .",
+    "[ fig : chargefluc : nudyn ] the values of @xmath13 are shown for pp and pb  pb collisions as a function of the mean number of participating nucleons @xmath14 in two pseudorapidity windows @xmath15 and @xmath16 .",
+    "the shaded bands indicate the predictions for a hadron resonance gas ( hg ) and the qgp @xcite .",
+    "the data points show a monotonic decreasing dependence with @xmath14 and lie clearly below the hg , but above the qgp expectation .",
+    "on the other hand , the results from the hijing event generator for both pseudorapidity windows do not show any dependence on @xmath17 and are in the vicinity of the hg band . the observed pseudorapidity dependence , as shown in the right panel of fig .",
+    "[ fig : chargefluc : nudyn ] , hints to a dilution of the primordial fluctuations during the evolution of the system from hadronization to kinetic freeze  out because of the diffusion of charged hadrons in rapidity @xcite .",
+    "it can be parametrized with @xmath18 with @xmath19 being a measure for the diffusion .",
+    "it was proposed to measure the creation time of particles via the correlations between positive and negatively charged pairs as a function of rapidity @xcite . assuming these pairs being created at the same space  time point and correlated in momentum space due to a strong collective expansion , their separation in pseudorapidity @xmath0 depends not only on the initial momentum difference but also on the length of the rescattering phase .",
+    "furthermore , it was shown that the balance function for the relative azimuthal angle of the charge ",
+    "anticharge pair can probe the collective motion of the produced system and in particular its radial flow @xcite .",
+    "the definition of the balance function ( e.g. for the pseudorapidity difference @xmath0 ) reads : @xmath20 \\label{eq : bfdefinitionineta}\\ ] ] with @xmath21 the number of @xmath22 particle pairs and @xmath23 the number of positive ( negative ) particles in the analyzed phase  space .    in fig .",
+    "[ fig : bf ] the balance functions are shown for the 5% most central and for more peripheral ( 6070% ) pb  pb collisions as a function of @xmath0 and @xmath1 @xcite . furthermore , a comparison to results from different mc event generators is shown .",
+    "hijing @xcite produces charges early in the collision history , mainly via string fragmentation , and includes no collective motion , e.g. radial flow .",
+    "it is not able to match the data points for @xmath24 and @xmath25 for central collisions . only in the most peripheral events the hijing results for @xmath24 are consistent with the alice data , which shows a strong centrality dependence , that is not observed in hijing .",
+    "ampt ( string melting ) @xcite , on the other hand , with parameters tuned to reproduce the measured elliptic flow values of non  identified particles at the lhc , shows an agreement in @xmath25 , not only in the most central bin but for the whole centrality dependence .",
+    "this can be understood as collective flow being the determining source of balancing charge correlation in @xmath1 .",
+    "for @xmath24 the balance functions are similar to hijing .",
+    "in summary , dynamical net  charge fluctuations were presented as a function of centrality and pseudorapidity and have a value below the expectation for a hadron resonance gas and above that of the qgp .",
+    "the balance functions for charged particles show a strong narrowing with increasing centrality , which can be reproduced in @xmath1 with a model including collective effects , e.g. flow , but not in @xmath0 .",
+    "the analysis of net  charge fluctuations will be extended to higher moments and balance functions will be studied for identified particles and regarding their transverse momentum and event  plane dependence ."
+  ],
+  "abstract_text": [
+    "<S> the measurement of event  by  event fluctuations and charge  </S>",
+    "<S> dependent particle correlations are used to study properties of nuclear matter at high temperatures as produced in ultrarelativistic heavy  ion collisions . </S>",
+    "<S> we present results for event  by  event net  </S>",
+    "<S> charge fluctuations and charge balance functions in @xmath0 and @xmath1 in pb  </S>",
+    "<S> pb collisions at @xmath2 tev . </S>"
+  ]
+}

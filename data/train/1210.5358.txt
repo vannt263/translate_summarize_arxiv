@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "dispersion measure quantifies the integrated dispersive effect of the plasma between the pulsar and the observing telescope , on the propagating broadband pulsar signal . in general , it varies with time due to reasons such as the transverse motion of pulsar sampling different lines of sight ( los ) through inhomogeneous and turbulent interstellar medium ( ism ) , solar wind and solar corona , plasma density changes in the binary orbit and drifting wisps of ionized gas in supernova shell . for pulsar timing arrays ( ptas ) , which aim for a final accuracy of 100 @xmath1 or better at l band , dm variations as small as",
+    "@xmath2 need to be corrected for .",
+    "meanwhile , the timing accuracies currently achieved for most of the ppta pulsars are still of the order of a @xmath3 and above ( @xcite ) and therefore dm corrections could improve these . as indicated from the observations by @xcite , @xcite , later from analytical derivation , for a turbulent ism , @xmath4 , which implies significant change over a period of a few days to a week for a typical dm of a few tens of @xmath5 .",
+    "the gmrt , using its low frequency capability , can provide more accurate dm measurements by taking advantage of the inverse - square law dependency of the delay on the observing frequency , as has been demonstrated by @xcite , who had achieved an accuracy of up to @xmath6 for long period pulsars .",
+    "a program was initiated at the gmrt , in nov 2009 , to carry out roughly bi - weekly simultaneous dual - frequency observations at 325 and 610 mhz for 11 millisecond pulsars ( msps ) , primarily to track the dm variations accurately and study their effects on timing accuracy as well as for studying dm variations due to the solar corona and the solar wind .",
+    "the observations used the gmrt software back - end ( @xcite ) in the simultaneous dual - frequency phased array mode , giving total intensity time - series from 512 channels over 32 mhz of bandwidth at each frequency . in this mode the data streams from the two frequencies are locked to each other without any instrumental delay , allowing accurate dm estimates without requiring absolute timing measurements .",
+    "the data were incoherently dedispersed and folded using a doppler corrected period .",
+    "the delay was computed using the peak of the cross - correlation between the profiles at the two frequencies .",
+    "the dm was computed as @xmath7 , where k , called dispersion constant , is equal to @xmath8 and @xmath9 is the total delay , as seen at the solar system barycenter , between the signals at the two frequencies @xmath10 and @xmath11 .",
+    "errors were estimated by propagating the off - pulse noise of the two profiles to estimate the rms error of the measured delay .",
+    "significant dm variations are detected ( table [ tab1 ] ) for all the pulsars , with accuracies of @xmath0 achieved for most of them . for most pulsars ,",
+    "the rms dm variation is comparable to that seen in the ppta data and also to the reported value from @xcite .",
+    "the dm variations seem to show significant correlation with the parkes data for four msps ( figure [ fig1 ] ) .",
+    ".summary of the dm measurements for nine of the msps .",
+    "the catalogue period is in @xmath12 , dm@xmath13 and @xmath14 are in @xmath15 .",
+    "rms@xmath16 and @xmath17 are in @xmath18 .",
+    "the last four columns give the mean of dm , rms of dm , the mean absolute error of dm over all the epochs and the equivalent toa error at l band ( corresponding to the rms ) in @xmath19s . [",
+    "cols=\"^,^,^,^,^,^,^\",options=\"header \" , ]         the effects of solar corona are clearly detected in the case of low ecliptic latitude pulsars ( figure [ fig2 ] ) , even though many of our data points , up to 25@xmath20 from the sun , seem to disagree with the predictions based on the two - state solar wind model of @xcite , indicating possibilities for further refinements of the model including effects of special events like coronal mass ejections ( cmes ) .",
+    "two - state jumps in psr j1022 + 1001 s dm variation ( figure [ fig3 ] ) are found to be due to small , but quite well defined profile shape changes , akin to the well known mode changing phenomenon seen in some pulsars .",
+    "further comparisons and studies ( e.g. ism structure function analysis ) will be possible in future as our data extend to longer time spans ."
+  ],
+  "abstract_text": [
+    "<S> we present the results from nearly three years of monitoring of the variations in dispersion measure ( dm ) along the line - of - sight to 11 millisecond pulsars using the giant metrewave radio telescope ( gmrt ) . </S>",
+    "<S> these results demonstrate accuracies of single epoch dm estimates of the order of @xmath0 . </S>",
+    "<S> a preliminary comparison with the parkes pulsar timing array ( ppta ) data shows that the measured dm fluctuations are comparable . </S>",
+    "<S> we show effects of dm variations due to the solar wind and solar corona and compare with the existing models . </S>"
+  ]
+}

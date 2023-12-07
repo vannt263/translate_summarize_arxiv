@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "`    ` in this fluid dynamics video , we examine whether low reynolds number swimmers such as _ caenorhabditis ( c. ) elegans _ synchronize their gait when they are swimming in close proximity .",
+    "the experimental apparatus consists of a tapered conduit .",
+    "two animals are introduced into the conduit , one after the other .",
+    "the conduit is subjected to a dc electric field , with the negative pole at the narrow end and applied flow directed from the narrow end . as a result of their attraction to the negative pole ( electrotaxis @xcite ) of the electric field , both animals swim upstream towards the narrow end of the conduit .",
+    "as the conduit narrows , the average adverse flow velocity increases and the swimming speed of the leading animal decreases faster than that of the trailing animal , allowing the trailing animal to catch up with the leading animal .",
+    "+ we quantify synchronization by measuring the phase lag between the gait of the trailing animal and the extended wave pattern of the leading animal as a function of the distance between the two animals . when the distance between the two animals is greater than one body length , the animals motions appear independent of each other ( unsynchronized ) .",
+    "only when the distance between the two animals body centers is nearly equal to or smaller than one body length are the animals motions synchronized .",
+    "when the nematodes are parallel to one another , synchronization enables the animals to swim together in a confined space without interference .",
+    "+ to examine whether synchronization is a result of steric hindrance , we carried out simple stochastic numerical experiments in which two animal - like objects with randomly - selected gaits were placed randomly in a conduit of dimensions similar to the one used in our experiments .",
+    "we excluded events in which the two swimmers partially overlapped and calculated the synchronization as a function of the distance between the two swimmers .",
+    "the model predictions nearly duplicate our experimental observations , lending credence to the notion that synchronization results from volume exclusion rather than a deliberate action of the animals .",
+    "+ clearly , synchronization is essential to allow the two animals to reside in the same segment of the conduit , but would synchronization confer an advantage when one animal is trailing the other ? to answer this question , we carried out direct numerical simulations and calculated the propulsive velocities of a single swimmer and of two synchronized and unsynchronized swimmers travelling in a single file with the trailer s head just behind the leader s tail .",
+    "we found that the velocities of the two swimmers , when one chases the other , are only marginally higher compared to that of a single swimmer .",
+    "+ in summary , we have shown that swimmers synchronize their gait to maximize utilization of space and that synchronization most likely results from steric hindrance .",
+    "numerical simulations indicate that synchronization enhance the propulsive speed only marginally ."
+  ],
+  "abstract_text": [
+    "<S> in this fluid dynamics video , we show that low reynolds number swimmers , such as _ caenorhabditis ( c. ) elegans _ , synchronize their gait when swimming in close proximity to maximize utilization of space . </S>",
+    "<S> synchronization most likely results from steric hindrance and enhances the propulsive speed only marginally . </S>"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "it is known that the intracluster medium ( icm ) , hot x - ray emitting gas , contains most of the baryonic material in a galaxy clusters . since",
+    ", the mean free paths of electrons and protons in the icm are very smaller than the characteristic radius of the galaxy cluster , then it is reasonable to treat the icm as a fluid .",
+    "thus , for analyzing the icm we can use the parametrized post - newtonian ( ppn ) virial theorem @xcite . this ppn virial theorem has been derived for a hydrodynamic system@xcite . on the other hand , using the ideal gas law the pressure and the matter density are related as @xmath0 , where @xmath1 is the velocity dispersion in the radial direction , @xmath2 is boltzmann s constant , @xmath3 is the mean atomic weight , @xmath4 is the proton mass and @xmath5 is the temperature profile .",
+    "also , the internal energy per unit mass of the ideal gas is given by @xmath6 where @xmath7 is the adiabatic index .",
+    "if we assume that icm is a isothermal spherical configuration , then @xmath5 , @xmath8 and @xmath9 are constants .",
+    "now , let us simplify the scalar ppn virial theorem as follows @xmath10 where @xmath11 is the velocity , @xmath12 , @xmath13 , @xmath14 , @xmath15 and @xmath16 are ppn parameters , @xmath17 is the newtonian gravitational potential and the potentials @xmath18 , @xmath19 and @xmath20 have been introduced in @xcite . in order to make an estimation of the virial mass , it is convenient to introduce the virial mass @xmath21 and the virial radius @xmath22 as follows @xmath23 where @xmath24 is the total mass of the hot gas",
+    ". we may also write @xmath25 after elementary calculations the integrals of equation can be rewritten as @xmath26 where @xmath27 , @xmath28 and @xmath29 . by substituting equations , and into equation , and assuming that the icm is composed of a monatomic gas ( @xmath30 ) , we get @xmath31 where @xmath32^{\\frac{1}{2 } } \\end{split}\\ ] ] we choose the minus sign for @xmath33 because it recovers the newtonian virial theorem in the newtonian limit . on the other hand , in the galaxy clusters @xmath34 , thus we have @xmath35 where @xmath36    the term @xmath37 is the post - newtonian correction to the virial mass of galaxy clusters . using the x - ray properties of 30 clusters @xcite",
+    ", we obtain @xmath38 in order to get @xmath39 .",
+    "however , substituting the current values of ppn parameters @xcite into , we get @xmath40 .",
+    "it is obvious that the post - newtonian correction is not large enough to solve the mass problem in the galaxy clusters .",
+    "the author thanks the national elite s foundation of iran for financial support",
+    ".    9 m. roshan , _ class .",
+    "quantum . grav _ * 29 * , 215001 ( 2012 ) .",
+    "s.  chandrasekhar , _ astrophys .",
+    "j. _ * 142 * 1488 ( 1965 ) .",
+    "t.  h.  reiprich and h.  boehringer , _ astrophys .",
+    "j. _ * 567 * 716 ( 2002 ) . c.  m.",
+    "will , _ proc .",
+    "sci . _ * 108 * 5938 ( 2011 ) ."
+  ],
+  "abstract_text": [
+    "<S> we estimate virial masses of galaxy clusters using the parametrized post - newtonian ( ppn ) virial theorem . also , we show explicitly that post - newtonian corrections can not address the mass discrepancy in the galaxy clusters . </S>"
+  ]
+}

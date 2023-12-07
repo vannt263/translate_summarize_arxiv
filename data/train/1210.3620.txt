@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "the rotating , stratified boussinesq equations are a fundamental model of oceanic and atmospheric dynamics . in the limit of rapid rotation ( small rossby @xmath0 number )",
+    "the classical taylor - proudmann theorem indicates that the fluid motion is restricted to columnar structures @xcite .",
+    "this video shows the formation of the vortex columns in one component of the horizontal velocity field .",
+    "the data is collected from a direct numerical simulation ( dns ) from the lanl / sandia dns code ( see @xcite for details regarding the simulation and code ) of the rotating , stratified boussinesq equations with the rotation parameter rossby number @xmath1 , and stratification parameter froude number @xmath2 . as explained in @xcite the momentum is forced via a stochastic white - noise forcing centered at wave - number 3 , and the initial conditions are zero for all dynamic quantities .",
+    "the computational grid is @xmath3 in order to resolve the smallest scale which for these simulations is dictated by the rossby deformation radius ( see @xcite for a brief discussion ) .",
+    "the first part of the movie shows the effects of the stochastic forcing from the zero initial condition .",
+    "one can recognize large scale structures in the velocity field that are a result of the wave - number 3 dependence of the forcing .",
+    "eventually the initial cutoff for the isosurfaces of the velocity field become obscured , so we renormalize these cutoffs . in this intermediate time , we recognize the eventual organization of columnar structures in the flow field .",
+    "these columnar structures are paired , i.e. for each positive strong velocity column there is a corresponding negative velocity column directly above ( in the sense of the video ) it .",
+    "these structures correspond to a vortex column .",
+    "after the columnar vortices are fully formed , we renormalize the isosurfaces yet again so they are more visible .",
+    "the remainder of the video depicts the effective vortex dynamics as the vortices interact , dictating the flow . this spontaneous evolution of vortex columns provides strong quantitative support of the classical taylor - proudmann theorem .",
+    "the computations were conducted on the institutional computing resources of the u. s. department of energy s los alamos national laboratory .",
+    "we gratefully acknowledge the guidance and comments of j. patchett , and the support of the u.s .",
+    "department of energy s lanl / ldrd program ."
+  ],
+  "abstract_text": [
+    "<S> a fluid dynamics video of the rotating , weakly stratified boussinesq equations is presented that illustrates the spontaneous formation of columnar vortices in the presence of stochastic , white noise forcing . </S>"
+  ]
+}

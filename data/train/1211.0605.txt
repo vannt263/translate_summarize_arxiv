@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "we introduce a novel approach in the context of the linearised stability analysis of generic dynamical spherically symmetric thin shells @xcite .",
+    "the key point is to develop an extremely general and robust framework that can quickly be adapted to wide classes of generic thin - shell configurations .",
+    "we consider standard general relativity , with the transition layer confined to a thin shell .",
+    "the bulk spacetimes ( interior and exterior ) on either side of the transition layer will be spherically symmetric and static but otherwise arbitrary .",
+    "the thin shell ( transition layer ) will be permitted to move freely in the bulk spacetimes , permitting a fully dynamic analysis .",
+    "this will then allow us to perform a general stability analysis , where the stability is related to the properties of the matter residing in the thin - shell transition layer .",
+    "to set the stage , consider two distinct spacetime manifolds , an _ exterior _ @xmath0 , and an _ interior _",
+    "@xmath1 , that are to be joined together across a surface layer @xmath2 .",
+    "consider two generic static spherically symmetric spacetimes given by the following line elements : @xmath3 dt_{\\pm}^2 +   \\left[1-\\frac{b_{\\pm}(r_{\\pm})}{r_{\\pm}}\\right]^{-1}\\,dr_{\\pm}^2 + r_{\\pm}^2   d\\omega_{\\pm}^{2}\\ , , \\label{generalmetric}\\end{aligned}\\ ] ] where @xmath4 refers to the exterior and interior geometry , respectively .",
+    "a single manifold @xmath5 is obtained by gluing together @xmath0 and @xmath1 at their boundaries . using the darmois - israel formalism ,",
+    "the surface stress components on the junction interface are given by @xmath6 , \\label{gen - surfenergy2 } \\\\ % % % { \\cal p}&=&\\frac{1}{8\\pi a}\\left [ \\frac{1+\\dot{a}^2+a\\ddot{a}-\\frac{b_+(a)+ab'_+(a)}{2a}}{\\sqrt{1-\\frac{b_{+}(a ) } { a}+\\dot{a}^{2 } } }       + \\sqrt{1-\\frac{b_{+}(a)}{a}+\\dot{a}^{2 } } \\ ; a\\phi'_{+}(a ) \\right . \\nonumber\\\\ & & % \\hspace{-0.5 cm }   \\left . - \\frac{1+\\dot{a}^2+a\\ddot{a}-\\frac{b_-(a)+ab'_-(a)}{2a}}{\\sqrt{1-\\frac{b_{-}(a ) } { a}+\\dot{a}^{2 } } } - \\sqrt{1-\\frac{b_{-}(a)}{a}+\\dot{a}^{2 } } \\ ; a\\phi'_{-}(a ) \\right].\\label{gen - surfpressure2}\\end{aligned}\\ ] ] the surface mass of the thin shell is given by @xmath7 .",
+    "the conservation equation is @xmath8 , where @xmath9 .",
+    "@xmath10 is related to the energy - momentum flux that impinges on the shell , and is given by @xmath11\\,.\\ ] ] the flux term @xmath10 is zero whenever @xmath12 ; this is actually a quite common occurrence , for instance in either schwarzschild or reissner  nordstrm geometries , or whenever @xmath13 , so it is very easy for one to be mislead by those special cases .    to analyse the stability of the thin shell , it is useful to rearrange the expression of @xmath14 into the form @xmath15 , where the potential @xmath16 is given by @xmath17 ^ 2-\\left[\\frac{b_{+}(a)-b_{-}(a)}{2m_{s}(a)}\\right]^2\\right\\}\\ , .",
+    "\\label{potential}\\ ] ]    note that @xmath16 is a function of the surface mass @xmath18 .",
+    "however , it is sometimes useful to reverse the logic flow and determine the surface mass as a function of the potential .",
+    "thus , if we specify @xmath16 , this tells us how much surface mass we need to put on the transition layer , which is implicitly making demands on the equation of state of the matter residing on the transition layer .    to analyse the stability of the thin shell ,",
+    "consider a linearisation around an assumed static solution , @xmath19 , where one taylor expands @xmath16 around @xmath19 to second order . now , expanding around a static solution @xmath20 , we have @xmath21 , so it is sufficient to consider @xmath22 $ ] .",
+    "the assumed static solution at @xmath19 is stable if and only if @xmath16 has a local minimum at @xmath19 , which requires @xmath23 .",
+    "the condition @xmath23 will be our primary criterion for the thin shell stability , though it will be useful to rephrase it in terms of more basic quantities .",
+    "for instance , it is useful to express @xmath24 and @xmath25 , which allows us to easily study linearised stability , and to develop a simple inequality on @xmath26 using the constraint @xmath27 .",
+    "similar formulae hold for @xmath28 , @xmath29 , for @xmath30 , @xmath31 , and for @xmath32 , @xmath33 . in view of the redundancies coming from the relations @xmath34 and the differential conservation law , the only interesting quantities are @xmath32 , @xmath33 .",
+    "thus , the stability condition @xmath35 is given as an inequality on @xmath26 : @xmath36 ^ 2\\over[1-b_+(a_0)/a_0]^{3/2 } }   -   { [ b_-(a_0)- a_0 b_-'(a_0)]^2\\over[1-b_-(a_0)/a_0]^{3/2 } } \\right\\ } \\nonumber\\\\ & &   + { 1\\over2 }   \\left\\ {   { b_+''(a_0)\\over\\sqrt{1-b_+(a_0)/a_0 } }   - { b_-''(a_0)\\over\\sqrt{1-b_-(a_0)/a_0 } } \\right\\ } ,    \\label{stable_ddms1}\\end{aligned}\\ ] ] provided @xmath37 . if @xmath38 the direction of the inequality is reversed . in the absence of external forces",
+    "this inequality is the only stability constraint one requires .",
+    "however , once one has external forces ( @xmath39 ) , we have a second stability inequality : @xmath40''\\right|_{a_0 } & \\leq & \\left.\\left\\ {   \\phi_+'''(a ) \\sqrt{1-b_+(a)/a } -   \\phi_-'''(a ) \\sqrt{1-b_-(a)/a } \\right\\}\\right|_{a_0 } \\nonumber\\\\ & &   \\hspace{-2.0 cm } - \\left.\\left\\ {   \\phi_+''(a ) { ( b_+(a)/a)'\\over\\sqrt{1-b_+(a)/a } } -   \\phi_-''(a){(b_-(a)/a)'\\over\\sqrt{1-b_-(a)/a } } \\right\\}\\right|_{a_0 } \\nonumber\\\\ & & \\hspace{-2.0 cm } -{1\\over4 }   \\left.\\left\\ {   \\phi_+'(a ) { [ ( b_+(a)/a)']^2\\over[1-b_+(a)/a]^{3/2 } } - \\phi_-'(a ) { [ ( b_-(a)/a)']^2\\over[1-b_-(a)/a]^{3/2 } } \\right\\}\\right|_{a_0 } \\nonumber\\\\ & & \\hspace{-2.0 cm } -{1\\over2 }   \\left.\\left\\ {   \\phi_+'(a ) { ( b_+(a)/a)''\\over\\sqrt{1-b_+(a)/a } } - \\phi_-'(a ) { ( b_-(a)/a)''\\over\\sqrt{1-b_-(a)/a } } \\right\\}\\right|_{a_0 } ,     \\label{stability_xi}\\end{aligned}\\ ] ] if @xmath41 . note that this last equation is entirely vacuous in the absence of external forces .",
+    "we have developed a novel and extremely general and robust framework leading to the linearised stability analysis of dynamical spherically symmetric thin shells . a key point in the conservation law of the surface stresses is the presence of a flux term .",
+    "more specifically , we have considered the surface mass as a function of the potential , so that specifying the latter tells us how much surface mass we need to put on the transition layer .",
+    "this procedure demonstrates in full generality that the stability of the thin shell is equivalent to choosing suitable properties for the material residing on the thin shell .",
+    "fsnl acknowledges the cern / fp/123615/2011 and cern / fp/123618/2011 fct grants .",
+    "pmm thanks financial support from the spanish ministry of education through a fecyt grant , via the postdoctoral mobility contract ex2010 - 0854 ."
+  ],
+  "abstract_text": [
+    "<S> we construct generic spherically symmetric thin shells by using the cut - and - paste procedure . </S>",
+    "<S> we take considerable effort to make the analysis as general and unified as practicable ; investigating both the internal physics of the transition layer and its interaction with `` external forces '' arising due to interactions between the transition layer and the bulk spacetime . </S>",
+    "<S> we demonstrate in full generality that stability of the thin shell is equivalent to choosing suitable properties for the material residing on the junction interface . </S>",
+    "<S> applications to gravastars and wormhole geometries are also explored . </S>"
+  ]
+}

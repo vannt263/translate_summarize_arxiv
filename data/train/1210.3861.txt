@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "we use shells made of vinylpolysiloxane ( a silicone - based elastomer ) with elastic moduli of @xmath0 , @xmath1 and @xmath2 mpa , as well as shells made of latex .",
+    "the shells range from @xmath3@xmath4 mm in diameter , @xmath3@xmath5 mm in length and approximately @xmath6@xmath0 mm in thickness .",
+    "we clamp one end of these shells onto a rigid nozzle and pass air through them at flow rates ranging from @xmath0@xmath7 liters per second .",
+    "when the flow rate of air in the shells exceeds a certain critical value , dependent on the dimensions and material properties of each shell , the shell becomes unstable and begins to vibrate .",
+    "the mode of vibration corresponds to one of the circumferential normal modes of vibration of cantilevered cylindrical shells .",
+    "which mode is observed depends on the dimensions and material properties of the shell .",
+    "we observed the first three modes .    in the first mode , commonly known as the  garden hose mode , \" the shells oscillate side - to - side with the frequency of approximately @xmath8 hz .    in the second mode , the surface of the shell bends inwards , obstructing the fluid flow and causing a large jump in the pressure drop across the nozzle . in this mode , the shell can vibrate with frequencies from @xmath9@xmath10 hz , depending on the volumetric flow rate of air .",
+    "we observed that the frequency of oscillation is directly proportional to air flow rate .",
+    "additionally , when the shell vibrates in the second mode with average frequencies ranging from approximately @xmath11@xmath12 hz , the vibration is unstable and the oscillation frequency varies widely between periods .",
+    "the second mode is the most robust and can be observed in the largest range of parameters in our shells .    in the third mode of vibration , the circumference of the free end of the shell",
+    "is divided into three ",
+    "flaps \" oscillating inwards and outwards . in this mode ,",
+    "the shells vibrate with frequency of approximately @xmath13@xmath14 hz .",
+    "the images were captured with a phantom v5.2 high speed color camera .",
+    "the images of the second and third mode were captured using a stroboscopic technique and the final video is a concatenation of frames taken from different oscillation periods . each frame is slightly offset in phase , yielding a slow - motion effect .",
+    "we would like to express our gratitude to felice frankel for her help with cinematography , and to prof .",
+    "john bush who kindly lent us the high speed camera .",
+    "we would also like to thank prof .",
+    "pedro reis and dr .",
+    "arnaud lazarus for sharing with us their data on elastic properties of vinylpolysiloxane elastomers ."
+  ],
+  "abstract_text": [
+    "<S> in this fluid dynamics video , we demonstrate the first three circumferential modes of fast , large amplitude vibrations of compliant cylindrical shells carrying a fluid . </S>"
+  ]
+}

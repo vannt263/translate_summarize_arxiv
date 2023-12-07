@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "brown dwarfs  substellar objects with masses below the hydrogen burning limit of 0.08@xmath1  are ideal to test the mass dependence of critical parameters in stellar evolution .",
+    "one example for such a parameter is the lifetime of circumstellar disks , which is an important constraint for the core - accretion scenarios for planet formation .",
+    "the disk lifetime is affected by a number of physical processes , e.g. disk ionisation by the central object and cosmic rays , accretion , grain growth ( e.g. @xcite ) .",
+    "our understanding of the relative importance of these processes and how they change with object mass is still incomplete , i.e. observational guidance is important to advance the theory .",
+    "the clear majority of low - mass stars lose their disk within less than 5myr @xcite .",
+    "maybe the best test for the longevity of disks is the upper scorpius ob assocation ( upsco in the following ) , the oldest nearby star forming region with a substantial number of brown dwarfs .",
+    "upsco is often assumed to have an age of 5myr @xcite but recently @xcite have derived an older age of 10myr for this region . in upsco , @xcite derived a disk frequency of @xmath2% for f and g stars and @xmath3% for k0-m5 stars ( with 1@xmath4 binomial confidence intervals ) . the brown dwarfs in this region exhibit a disk fraction of @xmath5% , based on an examination of 35 objects @xcite .",
+    "thus , the spitzer data tentatively shows that the disk fractions _ in upsco increase monotonically with decreasing object mass for early f- to late m - type objects_. this would imply a mass dependence in the disk evolution , resulting in long - lived disks in the substellar regime .",
+    "so far , the brown dwarf disk frequency in upsco is affected by low number statistics . here",
+    "we set out to test previous findings based on a much enlarged number of brown dwarfs in upsco , identified from ukidss . to identify the objects in our sample that have a disk ( class ii objects ) and those that do not ( class iii objects ) , we use data from the wide - field infrared survey explorer ( wise)@xcite . as will be shown , with improved statistics we find a disk fraction for brown dwarfs that is consistent with the value published for low - mass stars in this region ."
+  ],
+  "abstract_text": [
+    "<S> we present a census of the disk population for ukidss selected brown dwarfs in the 5 - 10 myr old upper scorpius ob association . for 116 objects originally identified in ukidss , </S>",
+    "<S> the majority of them not studied in previous publications , we obtain photometry from the wise database . the resulting colour - magnitude and </S>",
+    "<S> colour - colour plots clearly show two separate populations of objects , interpreted as brown dwarfs with disks ( class ii ) and without disks ( class iii ) . </S>",
+    "<S> we identify 27 class ii brown dwarfs , 14 of them not previously known . </S>",
+    "<S> this disk fraction ( 27 out of 116 or 23% ) among brown dwarfs was found to be similar to results for k / m stars in upper scorpius , suggesting that the lifetimes of disks are independent of the mass of the central object for low - mass stars and brown dwarfs . </S>",
+    "<S> 5 out of 27 disks ( 19% ) lack excess at 3.4 and 4.6@xmath0 m and are potential transition disks ( i.e. are in transition from class ii to class iii ) . </S>",
+    "<S> the transition disk fraction is comparable to low - mass stars . </S>",
+    "<S> we estimate that the timescale for a typical transition from class ii to class iii is less than 0.4myr for brown dwarfs . </S>",
+    "<S> these results suggest that the evolution of brown dwarf disks mirrors the behaviour of disks around low - mass stars , with disk lifetimes on the order of 5 - 10myr and a disk clearing timescale significantly shorter than 1myr .    </S>",
+    "<S> [ firstpage ]    techniques : photometric  techniques : brown dwarfs  open clusters and associations : individual : upper scorpius  infrared : stars . </S>"
+  ]
+}

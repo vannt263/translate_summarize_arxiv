@@ -1,0 +1,18 @@
+{
+  "article_text": [
+    "a series of numerical simulations of an upward bubbly flow with a void fraction of 3% between two vertical walls using direct numerical simulation with a front tracking method is performed . a rectangular computational domain with two no - slip vertical wall and periodic boundary conditions in streamwise and spanwise directions is used .",
+    "the effect of bubble deformability is isolated through controlling the surface tension while keeping other flow parameters fixed .",
+    "the flow is driven upward by a specified pressure gradient .",
+    "the dimensionless numbers in the problem are reynolds number , @xmath0 , eotvos number , @xmath1 , and density and viscosity ratios . here ,",
+    "@xmath2 , and @xmath3 are the liquid density and viscosity , surface tension coefficient , bubble diameter , channel width , average vertical velocity in the channel , and acceleration due to gravity , respectively .",
+    "the pressure gradient and eotvos number are specified _ a priori _ and the reynolds number is calculated from the average velocity _ a posteriori_. eotvos number is decreased from 4.5 to 0.9 . the decrease in the deformability of bubbles changes the lateral lift force on the bubbles .",
+    "therefore , the distribution of the bubbles changes from a uniform distribution in the middle of the channel to a wall - peak distribution with only a few bubbles in the center .",
+    "the reduction of the number of the bubbles in the center increases the average density there which leads to a reduction in flow rate since the driving pressure gradient is kept fixed . as a result",
+    ", the reynolds number drops from 3750 to 1700 ."
+  ],
+  "abstract_text": [
+    "<S> this article describes the fluid dynamics video : `` effect of bubble deformability on the vertical channel bubbly flow . '' </S>",
+    "<S> the effect of bubble deformability on the flow rate of bubbly upflow in a turbulent vertical channel is examined using direct numerical simulations . </S>",
+    "<S> a series of simulations with bubbles of decreasing deformability reveals a sharp transition from a flow with deformable bubbles uniformly distributed in the middle of the channel to a flow with nearly spherical bubbles with a wall - peak bubble distribution and a much lower flow rate . </S>"
+  ]
+}

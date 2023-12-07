@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "galactic globular clusters ( gcs ) today appear as large aggregates of long - lived low - mass stars , with little or even no gas . yet",
+    ", they must have formed as gas - rich objects hosting also numerous massive and intermediate - mass stars .",
+    "clues on this early epoch were revealed recently with the discovery of multiple stellar generations thanks to detailed spectroscopic and deep photometric investigations ( see e.g. reviews by s.lucatello and j.anderson , this volume ) . in particular , abundance data for light elements from c to al call for early self - enrichment of gcs by a first generation of rapidly evolving stars .",
+    "current scenarii involving either fast rotating massive stars or massive agbs as potential polluters imply that gcs were initially much more massive and have lost most of their first generation low - mass stars ( e.g. decressin et al .",
+    "2007 , 2010 ; dercole et al .",
+    "2008;vesperini et al . 2010",
+    "; schaerer & charbonnel 2011 ) .",
+    "based on crude energetic arguments , gas expulsion by sne was long thought to be the timely mechanism that could have unbound first generation stars and removed the bulk of gas together with metal - enriched sne ejecta that are not found in second generation stars . in k12",
+    "we actually show that this mechanism does not generally work for typical gcs .",
+    "indeed , while the energy released by sne usually exceeds the binding energy , sne - driven shells turn out to be destroyed by rayleigh - taylor instability before they reach escape speed as shown on figure 1 ( left panels ) .",
+    "consequently the shell fragments that contain the gas remain bound to the cluster .",
+    "this result , which is presented here for a typical protocluster of initial mass equal to @xmath0  m@xmath1 and initial half - mass radius of 3pc , holds for all but perhaps the initially least massive and most extended gcs ( see k12 for details ) .    instead ,",
+    "k12 propose that gas expulsion is launched thanks to the energy released by coherent and extremely fast accretion of interstellar gas onto dark - remnants .",
+    "due to sudden power increase in that case , the shell reaches escape speed before being affected by the rayleigh - taylor instability as depicted in figure 1 ( right panels ) .",
+    "consequently , the gas can be expelled from the cluster , and the sudden change of gravitational potential is expected to unbind a large fraction of first generation low - mass stars sitting initially in the gc outskirts ( see e.g. decressin et al .",
+    "consequences of these results for the self - enrichment scenario will be presented in a forthcoming paper ( krause et al .",
+    "2012b , in preparation ) .",
+    "the impact of sne and stellar winds on their surroundings are among the current issues in understanding chemical evolution of galaxies , e.g. how interstellar gas is energized near those sources , and how ejecta are mixed into remaining gas .",
+    "gcs serve as a laboratory to study this in a special , possibly extreme , environment of a smaller system , thus less complex than a galaxy as a whole .",
+    "we acknowledge support from the swiss national science foundation , the french society of astronomy and astrophysics , the cluster of excellence `` origin and structure of the universe '' , and the esf eurocores programme  origin of the elements and nuclear history of the universe \" ."
+  ],
+  "abstract_text": [
+    "<S> we summarize the results presented in krause et al . </S>",
+    "<S> ( 2012a , k12 ) on the impact of supernova - driven shells and dark - remnant accretion on gas expulsion in globular cluster infancy . </S>"
+  ]
+}

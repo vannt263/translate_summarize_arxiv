@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "in the spring of 1936 , the famous mexican muralist david alfaro siqueiros @xcite organized an experimental painting workshop in new york : a group of artists focused in developing painting techniques through empirical experimentation of modern and industrial materials and tools . among the young artists attending the workshop was jackson pollock @xcite .",
+    "they tested different lacquers and a number of experimental techniques .",
+    "one of the techniques , named by siqueiros as a `` controlled accident , '' consisted in pouring layers of paint of different colors on top of each other . after a brief time , the paint from the lower layer emerged from bottom to top creating a relatively regular pattern of blobs .",
+    "this technique led to the creation of explosion - inspired textures and catastrophic images .",
+    "we conducted an analysis of this process .",
+    "we experimentally reproduced the patterns `` discovered '' by siqueiros and analyzed the behavior of the flow .",
+    "we found that the flow is driven by the well - known rayleigh taylor instability @xcite : different colors paints have different densities ; a heavy layer on top of a light one is an unstable configuration .",
+    "the blobs and plumes that result from the instability create the aesthetically pleasing patterns .",
+    "we discuss the importance of fluid mechanics in artistic creation .",
+    "we used the same type of paints that siqueiros used .",
+    "their physical properties are shown in table [ table_props ] . with these combinations ,",
+    "both the reynolds and artwood numbers are small .",
+    "the paint layers where dripping on top of a horizontal glass sheet .",
+    "volumes of approximately 50 and 25 ml were deposited for the bottom and bottom layers , respectively .",
+    "the flow was photographed with a computer - controlled hd digital camera ( finepix si pro , fujifilm ) , such that long term time sequences could be obtained .",
+    "the time interval between photos was either 500 or 143 ms .",
+    ".properties of the fluids and fluid combinations used .",
+    "@xmath0 , is the artwood number and @xmath1 , is the reynolds number , where @xmath2 and @xmath3 and the velocity of the front and the thickness of the layer , respectively . [",
+    "cols=\"^,^,^,^,^\",options=\"header \" , ]     to our knowledge an formal analysis of this process has not been studied to date .",
+    "our video contributions can be found at :"
+  ],
+  "abstract_text": [
+    "<S> this is an entry for the gallery of fluid motion of the 65st annual meeting of the aps - dfd ( fluid dynamics video ) . </S>",
+    "<S> this video shows an analysis of the ` accidental painting ' technique developed by d.a . </S>",
+    "<S> siqueiros , a famous mexican muralist . </S>",
+    "<S> we reproduced the technique that he used : pouring layers of paint of different colors on top of each other . </S>",
+    "<S> we found that the layers mix , creating aesthetically pleasing patterns , as a result of a rayleigh - taylor instability . due to the pigments used to give paints their color </S>",
+    "<S> , they can have different densities . when poured on top of each other , if the top layer is denser than the lower one , </S>",
+    "<S> the viscous gravity current undergoes unstable as it spread radially . </S>",
+    "<S> we photograph the process and produced slowed - down video to visualize the process . </S>"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "nuclear star clusters ( ncs ) are a very common structural component at the centers of galaxies .",
+    "they are found in @xmath0 of late type galaxies ( @xcite ) , @xmath1 of spirals ( @xcite ) , and at least @xmath2 of ( dwarf ) ellipticals and s0s ( @xcite ) .",
+    "these studies find that the half - light radii of ncs are typically @xmath3 , and due to these small sizes , their detection requires very high spatial resolution observations , making the hst crucial for systematic searches .",
+    "ncs are on average 4mag brighter than gcs ( @xcite ) , i.e. they are more massive but have similar half - light radii .",
+    "this makes ncs the densest stellar systems in the universe ( @xcite ) .",
+    "they lie at the high - mass end of the star cluster mass function , and are structurally very different from bulges .",
+    "nuclear star clusters truly occupy the centers of galaxies , both photometrically but also kinematically ( @xcite , respectively ) , and it may be this special location at the bottom of the potential well of the galaxies , that causes the star formation history of ncs to be rather complex .",
+    "several studies have shown that ncs have multiple stellar populations both in late type ( @xcite ) and also early type galaxies ( @xcite ) .",
+    "the nc seems to be typically more metal - rich and younger than the surrounding galaxy ( @xcite ) , and the abundance ratios [ @xmath4/fe ] show that ncs are more metal enriched than globular clusters ( gcs ) ( @xcite ) .",
+    "this finding suggests that ncs can not solely be the merger product of gcs , but need some gas for recurrent star formation .",
+    "this finding is also supported by recent kinematical studies ( @xcite ) , where cluster infall alone can not explain the dynamical state of the nc .",
+    "recent studies of the kinematics of ncs with integral - field spectroscopy show that the cluster as a whole rotates ( seth et al .",
+    "2008 , 2010 ) .",
+    "combined with the superb spatial resolution of adaptive - optics , the 2d velocity maps resolve stellar and gas kinematics down to a few parsecs on physical scales .",
+    "in addition , due to the extremely high central stellar density in ncs , it becomes possible to pick - up kinematic signatures for intermediate - mass black hole inside ncs ( @xcite , neumayer et al . in prep ) .",
+    "unlike black holes , ncs provide a visible record of the accretion of stars and gas into the center of a galaxy , and studying their stellar populations , structure and kinematics allow us to disentangle their formation history .",
+    "ncs do co - exist with black holes .",
+    "the best studied example is the nc in our own galaxy ( see r. schdel this edition ) .",
+    "but there are also ncs with very tight upper limits on the mass of a central black hole ( see @xcite for an overview ) , and it is not yet clear under what conditions galaxies make ncs and/or bhs .",
+    "figure  [ fig : mbh_mnc ] shows a compilation of mass measurements of bhs and ncs . for the lowest mass ncs bhs",
+    "are very hard to detect ( if present ) , while for the highest mass bhs , the surrounding ncs seem to have been destroyed already .",
+    "the underlying physical connection remains unclear for now , but it may well be that bhs grow inside ncs , that may thus be the precursors of massive bhs at the nuclei of galaxies .     and a mbh / mnc mass ratio of 100 .",
+    "these lines separate nc dominated galaxy nuclei ( lower left of both lines ) from bh dominated galaxy nuclei ( upper left of both lines ) and a transition region ( to the right of both lines ) ( figure  5 from @xcite ) .",
+    "[ fig : mbh_mnc ] ]"
+  ],
+  "abstract_text": [
+    "<S> this is an overview of nuclear star cluster observations , covering their structure , stellar populations , kinematics and possible connection to black holes at the centers of galaxies . </S>"
+  ]
+}

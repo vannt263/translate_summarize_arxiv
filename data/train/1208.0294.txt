@@ -1,0 +1,18 @@
+{
+  "article_text": [
+    "it was shown in ref .   that the complex ernst potentials@xcite on the symmetry axis of an asymptotically flat , stationary and axisymmetric electro - vacuum spacetime surrounding a connected killing horizon ( including the case of a degenerate horizon ) can be constructed uniquely by means of the inverse scattering method@xcite .",
+    "this provides a new proof of the kerr - newman black hole uniqueness since the full solution can straightforwardly be derived from the axis data , cf .",
+    "here we present a particular method for obtaining the ernst potentials off the axis , see sec .",
+    "the stationary and axisymmetric einstein - maxwell vacuum equations are equivalent to the ernst equations@xcite @xmath0 @xmath1 where @xmath2 and @xmath3 are weyl coordinates and a bar denotes complex conjugation .",
+    "these equations are the integrability condition of a related linear problem ( lp)@xcite : @xmath4{\\bf y}\\ , , \\ ] ] @xmath5{\\bf y}\\ ] ] @xmath6 @xmath7 @xmath8 where @xmath9 is the complex `` spectral parameter '' .",
+    "on the upper part of the symmetry axis ( @xmath10 , @xmath11 ) , denoted by @xmath12 , a suitably normalized solution to the lp for the black hole problem ( horizon at @xmath10 , @xmath13 ) reads@xcite @xmath14 where we have assumed @xmath15 for @xmath16 . the ernst potentials @xmath17 and",
+    "@xmath18 on @xmath12 are given by @xmath19 together with the parameter relation @xmath20 where @xmath21 , @xmath22 and @xmath23 denote mass , angular momentum and charge .",
+    "the functions @xmath24 , @xmath25 , @xmath26 and @xmath27 are given by @xmath28 @xmath29 @xmath30",
+    "using the relation@xcite @xmath31 together with @xmath32 we are led from to the following ansatz for @xmath33 : @xmath34 with @xmath35 @xmath36 @xmath37 @xmath38 @xmath39 a careful discussion of the regularity conditions at @xmath40 leads to a set of linear algebraic equations which uniquely determine the unknowns @xmath41 , @xmath42 , @xmath43 , @xmath44 , @xmath45 and @xmath46 .",
+    "according to , @xmath47 is given by @xmath48 .",
+    "the resulting ernst potentials are the well - known expressions @xmath49 with boyer - lindquist coordinates @xmath50 and @xmath51 related to our weyl coordinates @xmath2 and @xmath3 by @xmath52"
+  ],
+  "abstract_text": [
+    "<S> the kerr - newman black hole solution can be constructed straightforwardly as the unique solution to the boundary value problem of the einstein - maxwell equations corresponding to an asymptotically flat , stationary and axisymmetric electro - vacuum spacetime surrounding a connected killing horizon . </S>"
+  ]
+}

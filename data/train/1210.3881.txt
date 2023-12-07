@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "the experiment is conducted in a tow - tank of length 60 m , width 1.8 m and depth 2 m. the plate is towed by a fully automated carriage capable of speeds up to @xmath1 ms@xmath2 .",
+    "the plate is 5.0 m long and 1.2 m wide with an elliptical leading edge .",
+    "the boundary layer formed on the bottom surface of the plate is tripped using a 1 mm diameter trip wire .",
+    "fluorescein is injected through a spanwise oriented slot located immediately downstream of the trip .",
+    "the developing boundary layer is then illuminated using a continuous 4 w argon - ion laser which has been fanned into a streamwise / wall - normal sheet .",
+    "images are acquired using a redlake y-3 classic high - speed camera , with @xmath3 pixel resolution .",
+    "the approximate field of view for all visualisations is @xmath4 mm ( streamwise @xmath5 wall - normal ) .",
+    "two flow visualisations are shown : one towed at a slower speed of 0.22 ms@xmath2 and the other at @xmath6 ms@xmath2 . by the trailing edge of the plate",
+    ", the boundary layer develops to a friction reynolds number @xmath7 and @xmath8 respectively for the low and high speed experiments .",
+    "here @xmath9 , where @xmath10 is boundary layer thickness , @xmath11 is wall - shear velocity and @xmath12 is the kinematic viscosity .",
+    "the camera frame - rate is 25 hz for the low speed , and 90 hz for the high speed case .    by viewing the visualisations in slow motion",
+    ", one can distinguish the origins of the interfacial bulging that forms at the edge of the boundary layer , leading to the well - known highly intermittent fluctuation statistics in this region .",
+    "one can also observe eruptions of strongly vortical motions , originating close to the wall , and growing beyond this interface . connected with these events",
+    "is the entrainment of irrotational fluid from the freestream into the boundary layer .",
+    "these entrainment motions occasionally penetrate deep into the boundary layer , transporting high momentum fluid from the freestream to the near - wall region . by comparing the high and low speed visualisations ,",
+    "the impact of reynolds number on the turbulent structure is clearly demonstrated . at the high reynolds number ,",
+    "the increased mixing reduces the contrast in the flow visualisation .",
+    "one can also observe smaller - scale motions and a more complicated multi - scale interface separating the freestream from the turbulence .",
+    "ultimately this unique facility will be developed for high - speed time - resolved particle image velocimetry ( piv ) experiments to enable statistical analysis of the evolving structure of turbulence . in the meantime",
+    ", these visualisations illustrate the complexity and beauty of the fluid motion within wall - bounded turbulence ."
+  ],
+  "abstract_text": [
+    "<S> this fluid dynamics video submitted to the gallery of fluid motion shows a turbulent boundary layer developing under a 5 metre - long flat plate towed through water . </S>",
+    "<S> a stationary imaging system provides a unique view of the developing boundary layer as it would form over the hull of a ship or fuselage of an aircraft . </S>",
+    "<S> the towed plate permits visualisation of the zero - pressure - gradient turbulent boundary layer as it develops from the trip to a high reynolds number state ( @xmath0 ) . </S>",
+    "<S> an evolving large - scale coherent structure will appear almost stationary in this frame of reference . </S>",
+    "<S> the visualisations provide an unique view of the evolution of fundamental processes in the boundary layer ( such as interfacial bulging , entrainment , vortical motions , etc . ) . in the more traditional laboratory frame of reference , in which fluid </S>",
+    "<S> passes over a stationary body , it is difficult to observe the full evolution and lifetime of turbulent coherent structures . </S>",
+    "<S> an equivalent experiment in a wind / water - tunnel would require a camera and laser that moves with the flow , effectively ` chasing ' eddies as they advect downstream @xcite . </S>"
+  ]
+}

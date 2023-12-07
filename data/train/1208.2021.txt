@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "in experimental investigations of the pion , a great deal of experimental data concerning its electromagnetic structure , as its electromagnetic form factor @xmath0 , has been reported  @xcite . in the theory of light mesons , relevant problems considered in the literature concern , for instance , the calculation of the mass and decay constant of the pion in a relativistic potential model of independent quarks  @xcite , the study of masses and electroweak properties of light mesons in a relativistic quark model  @xcite and the study of a relativistic treatment of pion wave functions in the annihilation @xmath1  @xcite , beside a lot of other works in which are considered calculations involving light mesons , as in refs .",
+    "@xcite .",
+    "one of the theoretical ways for describing so many experimental data is to adopt the light - front field theory formalism  @xcite . a model inspired by qcd",
+    "was proposed in ref .",
+    "@xcite . in the present work ,",
+    "we consider a particular description based on a nonsymmetrical vertex model , as reported in ref .",
+    "@xcite . in it ,",
+    "the light - front formalism is applied to the electromagnetic form factor , calculated with the @xmath2 components of the currents of the quark - antiquark bound states of the pion .",
+    "methods based on the light - front formalism have been successful in the description of the electromagnetic properties of the hadronic wave functions  @xcite .    in the following",
+    ", the light - front model with the nonsymmetrical vertex ( nsv model ) for the pion is briefly described , followed by the numerical results for the pion electromagnetic form factor and electromagnetic radius .",
+    "the pion electromagnetic form factor in light - front field theory can be performed in the covariant form as : @xmath3 in which @xmath4 and the matrix elements of the electromagnetic current @xmath5 are given by @xmath6\\gamma(k , p^{\\prime})\\gamma(k , p ) ,   \\label{current}\\end{aligned}\\ ] ] where @xmath7 is the quark propagator and @xmath8 is the number of colors .",
+    "we adopt in our calculations the breit frame , by considering initial momenta @xmath9 , final momenta @xmath10 and @xmath11 . as described in refs .",
+    "@xcite , the electromagnetic form factor of the pion receives only a valence contribution to the plus component of the electromagnetic current . in the case of the nsv model , @xmath12 is the regulator vertex function known as nonsymmetrical vertex , which can be written as  @xcite : @xmath13 the form factor @xmath14 in the nsv model , using the @xmath2 component of the electromagnetic current , can be expressed with the light - front wave function , as shown in refs .",
+    "@xcite , according with : @xmath15 in which @xmath16 , @xmath17 and @xmath18 is the fraction of the carried momentum by the quark .",
+    "the light - front wave function with the nonsymmetric vertex can be written as : @xmath19 here , @xmath20 and @xmath21 is the free mass operator .",
+    "the normalization constant @xmath22 obeys the condition @xmath23 .",
+    "in the numerical calculations , we initially considered the parameters @xmath24 gev , @xmath25 gev and @xmath26 gev . for the input data cited , we obtained for the pion charge radius the value @xmath27 fm , with an error about 2% smaller than the experimental value ( @xmath28 fm )  @xcite . in order to improve the description of the experimental data",
+    ", we explored the variation of the regulator mass @xmath29 and studied its influence on the form factor for low and intermediate momentum range .",
+    "-.25 cm    we show in figure [ lcp1 ] the numerical results obtained in the nsv model for the electromagnetic form factor of the pion , up to 10  @xmath30 ^ 2 $ ] .",
+    "by analyzing the curves in figure [ lcp1 ] , we conclude that @xmath31 gev provides the best value to describe with more precision the experimental data  @xcite .",
+    "values of the regulator mass smaller than @xmath32 gev and above @xmath33 gev do not show good agreement with the experimental data for a wide range of momenta . in order to confirm the best value of @xmath29",
+    ", one can calculate the electromagnetic radius .",
+    "in fact , we have calculated it for all of the values considered and , for @xmath31 gev , we obtain @xmath34 fm , with a 0.2% deviation of the experimental value . in order to check our model",
+    ", we also calculated the pion decay constant for @xmath31 gev , obtaining @xmath35 93.1 mev , very close to the experimental value @xmath36 92.2 mev .",
+    "-.2 cm we conclude that the best value of the regulator mass for the nonsymmetrical vertex model in the light - front formalism is @xmath37 1.0 gev . with that value , it is possible to describe with the best precision the experimental data for the electromagnetic form factor of pion .",
+    "we also studied the dependence of the model on the regulator mass .",
+    "the numerical results show that the model significantly breaks down for @xmath38 0.8 gev and also fails for higher values , above 1.3 gev .",
+    "we thank  the brazilian agencies  capes ( _ coordenadoria de aperfeiomento de pessoal de nvel superior _ ) , cnpq ( _ conselho nacional de desenvolvimento cientfico e tecnolgico _ ) and fapesp ( _ fundao de amparo  pesquisa do estado de so paulo _ ) , for financial support ."
+  ],
+  "abstract_text": [
+    "<S> in this work , we analyze the electromagnetic structure of the pion . we calculate its electromagnetic radius and electromagnetic form factor in low and intermediate momentum range . </S>",
+    "<S> such observables are determined by means of a theoretical model that takes into account the constituent quark and antiquark of the pion within the formalism of light - front field theory . </S>",
+    "<S> in particular , we consider a nonsymmetrical vertex in this model , with which we calculate the electromagnetic form factor of the pion in an optimized way , so that we obtain a value closer to the experimental charge radius of the pion . </S>",
+    "<S> the theoretical calculations are also compared with the most recent experimental data involving the pion electromagnetic form factor and the results show very good agreement .     </S>",
+    "<S> address = laboratrio de fsica terica e computacional ( lftc ) , + universidade cruzeiro do sul , 01506 - 000 , so paulo , brazil </S>"
+  ]
+}

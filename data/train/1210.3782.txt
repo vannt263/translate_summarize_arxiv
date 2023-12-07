@@ -1,0 +1,11 @@
+{
+  "article_text": [
+    "in this video ( ref ) , we show that when a liquid drop impacts a powder which is superhydrophobic , the drop rebounds with a powder coating that can `` freeze '' the oscillations and yield a deformed ( i.e. non - spherical ) liquid marble . for water drops ,",
+    "the critical impact speed for the onset of this phenomenon is @xmath0 m / s .",
+    "repeat experiments with more viscous drops show even more deformed shapes ."
+  ],
+  "abstract_text": [
+    "<S> this document accompanies fluid dyanmics video entry v83911 for aps dfd 2012 meeting . in this video , </S>",
+    "<S> we present experiments on how drop oscillations can be `` frozen '' using hydrophobic powders . </S>"
+  ]
+}

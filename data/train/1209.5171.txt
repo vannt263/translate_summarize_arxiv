@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "pulsars are extremely stable electromagnetic emitters , and along with their extreme physical properties and surrounding environments , they provide useful astrophysical laboratories to study fundamental physics ( lorimer & kramer 2005 ) .",
+    "radio timing of binary pulsars maps out the binary orbital dynamics through recording the time - of - arrivals of the pulsar signals at the telescope . for millisecond pulsars",
+    "this can be done with high precision , providing a powerful tool to probe gravity ( see e.g. , @xcite and @xcite ) . in this work , we summarize new results on testing the local lorentz invariance ( lli ) of gravity from binary pulsars obtained by shao & wex ( 2012 ) .",
+    "tends to polarize the orbital eccentricity vector @xmath2 towards the direction perpendicular to @xmath3 ( damour & esposito - farse 1992 ) ; _ right _ : @xmath1 induces a precession of the orbital angular momentum around the direction of @xmath4.,width=336 ]    non - gravitational lli is an important ingredient of the einstein equivalence principle ( eep ) ( will 1993 , 2006 ) . but even metric gravity , which fulfills the eep exactly , could still exhibit a violation of lli in the gravitational sector ( will & nordtvedt 1972 , nordtvedt & will 1972 , damour & esposito - farse 1992 , will 1993 ) .",
+    "such a violation of lli induces preferred frame effects ( pfes ) in the orbital dynamics of a binary system that moves with respect to the preferred frame . in the parametrized post - newtonian ( ppn )",
+    "formalism , pfes of a semi - conservative gravity theory are described by two parameters , @xmath0 and @xmath1 . and",
+    "@xmath5 ) , here `` hat '' indicates possible modifications by strong - field effects . ]",
+    "the orbital dynamics of binary pulsars with non - vanishing @xmath0 and @xmath1 are obtained from a generic semi - conservative lagrangian ( damour & esposito - farse 1992 ) .",
+    "it is found that in the limit of small orbital eccentricity , pfes induced by @xmath0 and @xmath1 decouple , and lead to separable effects in the timing observations .",
+    "hence they can be tested independently using observations of only one binary pulsar ( shao & wex 2012 ) .    *",
+    "a non - zero @xmath0 induces a polarization of the eccentricity vector towards a direction in the orbital plane perpendicular to the velocity of the binary system with respect to the preferred frame , @xmath4 .",
+    "the observed eccentricity vector @xmath2 is a vectorial superposition of a `` relativistically rotating '' eccentricity @xmath6 ( of constant length ) and a `` fixed eccentricity '' @xmath7 : @xmath8 ( damour & esposito - farse 1992 ) . the effect is graphically illustrated in the left panel of fig .  [ fig : pfe ] .",
+    "previous methods use the smallness of the observed eccentricity , combined with probabilistic considerations concerning the unknown angle @xmath9 ( the angle between @xmath10 and @xmath11 ) to constrain @xmath0 ( damour & esposito - farse 1992 , wex 2000 ) .",
+    "the method developed in @xcite is an extension of the method by damour & esposito - farse ( 1992 ) that does not require any probabilistic considerations concerning @xmath9 .",
+    "it is applicable to binary pulsars of short orbital period that have been observed for a long enough time , during which the periastron has advanced significantly .",
+    "even if the advance of periastron is not resolved in the timing observation , the constraints on the ( observed ) eccentricity vector can be converted into a limit on @xmath0 . from the 10 years of timing and the optical observations of psr  j1738 + 0333 ( antoniadis  2012 , freire  2012 ) one obtains the most constraining limit , @xmath12 which is significantly better than the current best limits from both weak field ( mller  2008 ) and strong field ( wex 2000 ) .",
+    "* a non - vanishing @xmath1 induces a precession of the orbital angular momentum around the direction of @xmath4 ( see the right panel of fig .",
+    "[ fig : pfe ] ) , which changes the observed orbital inclination . using the long - term timing results on psrs",
+    "j1012 + 5307 ( lazaridis  2009 ) and j1738 + 0333 ( antoniadis  2012 , freire  2012 ) , @xcite find an upper limit @xmath13 which is better than the current best limit for strongly self - gravitating bodies ( wex & kramer 2007 ) by more than three orders of magnitude , but still considerably weaker than the weak - field limit of @xmath5 by nordtvedt ( 1987 ) .",
+    "we summarize results presented in shao & wex ( 2012 ) that proposed new tests of lli .",
+    "these yield improved constraints on pfes from binary pulsar experiments .",
+    "specifically , limits on parameters @xmath0 and @xmath1 are obtained from long - term timing of two binary pulsars with short orbital period ( see eqs .",
+    "( [ eq : a1 ] ) and ( [ eq : a2 ] ) ) . our extended @xmath0 test no longer requires probabilistic considerations related to unknown angles .",
+    "the proposed tests have the advantage that they continuously improve with time , and will benefit greatly from the next generation of radio telescopes , like fast ( nan  2011 ) and ska ( smits  2009 ) .",
+    "lijing shao is supported by china scholarship council ( csc ) .                2008 , in : h.  dittus , c.  lammerzahl , & s.  g.  turyshev ( eds . ) , _ lasers , clocks and drag - free control : exploration of relativistic gravity in space _ 349 ( astrophysics and space science library : springer ) , p.  457"
+  ],
+  "abstract_text": [
+    "<S> preferred frame effects ( pfes ) are predicted by a number of alternative gravity theories which include vector or additional tensor fields , besides the canonical metric tensor . in the framework of parametrized post - newtonian ( ppn ) formalism , we investigate pfes in the orbital dynamics of binary pulsars , characterized by the two strong - field ppn parameters , @xmath0 and @xmath1 . in the limit of a small orbital eccentricity , @xmath0 and @xmath1 contributions decouple . by utilizing recent radio timing results and optical observations of psrs j1012 + 5307 and j1738 + 0333 </S>",
+    "<S> , we obtained the best limits of @xmath0 and @xmath1 in the strong - field regime . </S>",
+    "<S> the constraint on @xmath0 also surpasses its counterpart in the weak - field regime . </S>"
+  ]
+}

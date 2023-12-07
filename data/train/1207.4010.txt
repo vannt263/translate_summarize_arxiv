@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "from the point of view of these notes , for a positive integer @xmath5 , a blaschke product of order @xmath5 ( or @xmath5-fold blaschke product ) is an @xmath5-to - one analytic map of the open unit disk , @xmath6 , onto itself .",
+    "it is well known that such maps are rational functions of order @xmath5 , so have continuous extensions to the closed unit disk and the riemann sphere that are @xmath5-to - one maps of these sets onto themselves , and have the form @xmath7 for @xmath8 , @xmath9 , @xmath10 , @xmath11 points of the unit disk and @xmath12 .",
+    "these notes were my first formal mathematical writing , developed at the beginning of the work on my thesis , and were written as a present to my former teacher professor john yarnelle on the occasion of his retirement from hanover college , hanover , indiana , where i had been a student .",
+    "the only original of these notes was given to professor yarnelle ( since deceased ) in december 1974 and what is presented here is a scan of the xerox  copy i made for myself at that time .",
+    "these notes have never been formally circulated , but they have been shared over the years with several people and form the basis of the work in my thesis  @xcite , especially in section 2 , my further work on commutants of analytic toeplitz operators then  @xcite , and more recently in work on multiple valued composition operators  @xcite and a return to questions of commutants of analytic multiplication operators  @xcite .",
+    "in addition , they have formed the basis of my talk  an unexpected group \" , given to several undergraduate audiences in recent years starting in 2007 at wabash college . in the past few years",
+    ", more interest has been shown in this topic and it seems appropriate to make these ideas public and available to others who are working with related topics .",
+    "examples of a revival of interest of ritt s ideas are in the work of r.  g.  douglas and d.  zheng and their collaborators , for example  @xcite , and in the purely function theoretic questions such as the very nice work of rickards  @xcite on decomposition of polynomials and the paper of beardon and ng  @xcite .",
+    "the reason this is the first time these notes are being circulated is simple . in the fall of 1976 ,",
+    "i gave a talk on this work in the analysis seminar at the university of illinois at urbana - champaign where i was most junior of postdocs .",
+    "the audience received it politely , and possibly with some interest , so as the end of the talk neared , i was feeling good at my first foray into departmental life .",
+    "then , at question time , the very distinguished professor joe doob asked , ",
+    "did nt ritt  @xcite do something like this in the 1920 s ?",
+    "\" i was devastated and embarrassed and promptly put the manuscript in a drawer , thinking it unpublishable .",
+    "in retrospect , i probably should have gone to professor doob for advice and written it up for publication with appropriate citations . because ritt s first work was on compositional factorization of polynomials , it is somewhat different than this , but it is obvious that the ideas involved apply to polynomials , blaschke products , or rational functions more generally .",
+    "i believe that many analysts today , as i was then , are ignorant of ritt s work in this arena and , at the very least , his work deserves to be better known .",
+    "the remainder of this document is the scan of the original work for professor yarnelle from fall 1974 , a short addendum from a year later that describes the application of these ideas to factorization of an analytic map on the disk into a composition of an analytic function and a finite blaschke product , and a short bibliography of some work related to these ideas .    in the original notes ,",
+    "given a ( normalized ) finite blaschke product @xmath13 of order @xmath5 , a group @xmath14 is described as a permutation group of the branches of the local inverses of the blaschke product @xmath13 acted on by loops ( based at @xmath15 ) in a subset of the disk , the disk with @xmath16 points removed .",
+    "the main theorem of the notes is the following . +",
+    "* theorem 3.1 . *",
+    "_ let @xmath13 be a finite blaschke product normalized as above .",
+    "_    _ if @xmath17 is a partition of the set of branches of @xmath18 at @xmath15 , @xmath19 , that @xmath14 respects , then there are finite blaschke products @xmath20 and @xmath21 with the order of @xmath21 the same as the order of @xmath17 so that _ @xmath22    _ conversely , if @xmath23 and @xmath24 are finite blaschke products so that @xmath25 , then there is a partition @xmath26 of the set of branches of @xmath18 at @xmath15 which @xmath14 respects such that the order of @xmath26 is the same as the order of @xmath24 . _",
+    "it is shown that the compositional factorizations of @xmath14 are associated with normal subgroups of @xmath14 , but that the association is more complicated than one might hope in that non - trivial normal subgroups of @xmath14 can be associated with trivial compositional factorizations of @xmath13 .",
+    "however , the association is strong enough , then if one knows all of the normal subgroups of @xmath14 , then one can construct all possible non - trivial factorizations of @xmath13 into compositions of finite blaschke products and inequivalent factorizations of @xmath13 as compositions correspond to different normal subgroups of @xmath14 .",
+    "the main theorem of the addendum is the following . +",
+    "* theorem . *",
+    "_ if @xmath28 is analytic and exactly @xmath5-to - one [ as a map of the open unit disk onto the image @xmath29 , then there is a finite blaschke product @xmath30 and a one - to - one function @xmath31 so that @xmath32 . _",
+    "+ this result has the obvious corollaries that @xmath33 is simply connected and @xmath34 has exactly @xmath35 zeros in the disk ."
+  ],
+  "abstract_text": [
+    "<S> these notes answer the question  when can a finite blaschke product @xmath0 be written as a composition of two finite blaschke products @xmath1 and @xmath2 , that is , @xmath3 , in a non - trivial way , that is , where the order of each is greater than @xmath4 . </S>",
+    "<S> \" it is shown that a group can be computed from @xmath0 and its local inverses , and that compositional factorizations correspond to normal subgroups of this group . this manuscript was written in 1974 but not published because it was pointed out to the author that this was primarily a reconstruction of work of ritt from 1922 and 1923 , who reported on work on polynomials . it is being made public now because of recent interest in this subject by several mathematicians interested in different aspects of the problem and interested in applying these ideas to complex analysis and operator theory . </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "there has been an attempt @xcite to find out the properties of potentials which can produce closed , stable orbits using special relativistic techniques . in general relativistic parlance",
+    "the particular spacetime @xmath0 called bertrand spacetime@xcite of type ii ( bst - ii ) has the property of admitting periodic closed orbits .",
+    "the parameters @xmath1 , @xmath2 and @xmath3 are real , and @xmath4 must be a positive rational number .",
+    "the specialty of bst - ii proposed by perlick , in ref .",
+    "[ ] , is that this kind of spacetime admits closed , stable and periodic orbits from any point in the manifold . unlike schwarszchild solution",
+    "bst - ii is not a vacuum solution of einstein s equation .",
+    "the work presented in this talk rests heavily on ref .  .",
+    "the energy density , in bst - ii , turns out to be @xmath5 for @xmath6 , this implies that the energy density is negative for positive values of @xmath3 .",
+    "the situation might be remedied by choosing a negative value of @xmath3 .",
+    "one can note that this necessitates , from eq .",
+    "( [ type2 ] ) that for @xmath7 ( where @xmath8 is a positive real number ) , @xmath9 .",
+    "we can thus choose @xmath10 so that the positivity of the energy density of space - time of eq .",
+    "( [ type2 ] ) is guaranteed for a large range of @xmath11 .",
+    "the analysis of the weak energy condition ( wec ) shows that a given choice of @xmath8 ( in accordance with the discussion above ) , the wec is always satisfied for @xmath9 when @xmath2 is a small positive real number .",
+    "before we end this section , we will briefly comment on the strong energy condition ( sec ) : @xmath12 .",
+    "we find that for the metric of eq .. ([type2 ] ) , @xmath13 so that the sec is satisfied whenever @xmath9 , for positive values of @xmath2 .",
+    "calling the deformation ( between two points on two geodesics ) vector @xmath14 one can write @xmath15 , where @xmath16 is a second rank tensor . from the last equation one can write : @xmath17 in @xmath18 space - time dimensions ,",
+    "the general form of the second rank tensor @xmath19 can be decomposed into irreducible parts as @xcite : @xmath20 where @xmath21 for @xmath22 time - like tangent vector on the geodesic , and @xmath23 is the expansion variable , @xmath24 is associated with shear and @xmath25 signifies rotation .",
+    "one can explicitly write @xmath26      the esr variables are generally denoted by @xmath23 , @xmath30 and @xmath31 . from the discussions in this section it is seen that if one knows the form of @xmath32 one can calculate @xmath19 , and hence the esr parameters as shown in refs .  [ ] .    from now we will discuss the geodesics and their properties in the equatorial plane , i.e. for @xmath33 and @xmath3 will be assumed to be a negative real number unless it is set to zero . in general",
+    "we will assume @xmath2 to be a positive real number .",
+    "the choices are guided by the energy conditions discussed previously .",
+    "using the geodesic equations and the normalization condition of the 4-velocity @xmath34 ( where @xmath28 is the affine parameter ) the expression for @xmath35 for the outgoing timelike radial geodesics comes out as : @xmath36}\\ , . \\label{ur}\\end{aligned}\\ ] ] in the above expression @xmath37 is an integration constant appearing in the geodesic equations . assuming @xmath38 this implies that there is a turning point of the outgoing radial time - like geodesics , for @xmath39 .",
+    "if @xmath29 then the @xmath23 parameter for the radial outgoing timelike geodesics looks like : @xmath40 one can solve eq .",
+    "( [ ur ] ) in terms of @xmath28 and then plug in this solution in the above equation and get @xmath23 as a function of the affine parameter . the functional dependence of @xmath11 , @xmath23 and @xmath27 on @xmath28 is shown in fig .",
+    "[ st : f1 ] . to draw the above plot we have taken @xmath41 , @xmath42 , and",
+    "the lower and upper limits of the affine parameter have been set to @xmath43 and @xmath44 .",
+    "the upper limit of @xmath28 is chosen so that @xmath11 varies from zero to the turning point of @xmath35 , which can be seen to be @xmath45 in this case . from the figure",
+    "we see that @xmath46 is always negative . as @xmath47 ( in this case )",
+    "this fact confirms the focusing theorem @xcite .",
+    "also , @xmath23 diverges at the upper and lower limits of @xmath11 , signaling a true spacetime singularity at @xmath48 and the turning point .",
+    "the @xmath49 case for radial time - like geodesics follow the same qualitative behavior .    in our work",
+    "we did not explicitly solve the raychaudhuri equation in bst - ii but have expressed the esr parameters in terms of the affine parameter @xmath28 by using the geodesic equations . as finally the esr parameters are expressed in terms of @xmath28 our treatment indirectly gives the solution of the raychaudhuri equations in bst - ii .",
+    "kumar , k.  bhattacharya and t.  sarkar , _ phys .",
+    "d _ * 86 * , 044028 ( 2012 ) [ arxiv:1206.4249 [ gr - qc ] ] .",
+    "e. poisson , `` _ a relativist s toolkit : the mathematics of black hole mechanics_,''cambridge ( 2004 ) ."
+  ],
+  "abstract_text": [
+    "<S> in this article we will discuss some features of a particular spacetime called bertrand space - time of type ii ( bst - ii ) . </S>",
+    "<S> the talk discusses about the energy conditions and the esr parameters in this spacetime . </S>"
+  ]
+}

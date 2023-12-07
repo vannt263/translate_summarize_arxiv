@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "this is an update to the _ chandra _ high energy transmission grating ( hetg ) calibration based on in - orbit observations .",
+    "the hetg was described by canizares et al .",
+    "( 2005 @xcite ) and previous flight calibration results were reported by marshall et al .",
+    "( 2004 @xcite ) .",
+    "there are two grating types on the hetg : the high energy gratings ( hegs ) have @xmath22 higher dispersion than the medium energy gratings ( megs ) .",
+    "when combined with the detectors , the system is called the hetg spectrometer ( hetgs ) .",
+    "a new set of hetg efficiencies was released as part of _ chandra _ caldb v4.4.7 , which was intended to reduce systematic differences between the heg and meg fluxes as well as improve overall model fits .",
+    "here is provided details of the steps that went into the release and what is in store for the next update .",
+    "updates will also be available at the hetgs calibration web site http://space.mit.edu/asc/calib/hetgcal.html and are presented regularly at meetings of the international astronomical consortium for high energy calibration ( iachec ) ( see http://web.mit.edu/iachec/meetings/index.html ) .",
+    "first , data were selected from the tgcat on - line catalog of hetgs spectra .",
+    "see http://tgcat.mit.edu to obtain the data used here , which are given in table  [ tab : observations ] .",
+    "i started with sources of all sorts but relied most on extragalactic sources with relatively smooth continua .",
+    "a simple type is given : `` bll '' for the bl lac objects ( without strong optical emission lines ) , and `` agn '' for the remaining quasars and seyfert galaxies .",
+    "support for this work was provided by the national aeronautics and space administration ( nasa ) through the smithsonian astrophysical observatory ( sao ) contract sv3 - 73016 to mit for support of the chandra x - ray center ( cxc ) , which is operated by sao for and on behalf of nasa under contract nas8 - 03060 .",
+    "canizares , c.r . ,",
+    "et al . , 2005 , pasp , 117 , 1144 .",
+    "marshall , h.  l. , dewey , d. , & ishibashi , k.  2004 , , 5165 , 457 marshall , h.  l. , dewey , d. , schulz , n.  s. , & flanagan , k.  a.  1998 , , 3444 , 64 perlman , e.  s. , et al .",
+    "2005 , , 625 , 727"
+  ],
+  "abstract_text": [
+    "<S> the efficiencies of the gratings in the high energy transmission grating spectrometer ( hetgs ) were updated using in - flight observations of bright continuum sources . </S>",
+    "<S> the procedure first involved verifying that fluxes obtained from the @xmath0 and @xmath1 orders match , which checks that the contaminant model and the ccd quantum efficiencies agree . </S>",
+    "<S> then the fluxes derived using the high energy gratings ( hegs ) were compared to those derived from the medium energy gratings ( megs ) . </S>",
+    "<S> the flux ratio was fit to a low order polynomial , which was allocated to the megs above 1 kev or the hegs below 1 kev . </S>",
+    "<S> the resultant efficiencies were tested by examining fits to blazar spectra . </S>"
+  ]
+}

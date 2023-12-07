@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the only star we can study easily with any spatial resolution is the sun , and now with the stereo spacecrafts we can do it even in 3-d . for other stars",
+    "we are usually restricted to using indirect methods for getting information of their surface structures . here a short review on methods for studying stellar interiors and surfaces and the main recent results are presented .",
+    "kepler has not only revolutionised the exoplanet research , but also stellar astrophysics . the short , one minute ,",
+    "cadence data is uniquely suited for studying stellar oscillations and thus the interiors of stars ( see , e.g. , ( * ? ? ? * gilliland  2010 ) ) .",
+    "recent kepler results , based on a sample of 500 solar - like stars , show that even though distribution of observed radii is similar to the one predicted by models of synthetic stellar populations in the galaxy , the distribution of observed masses seems to deviate significantly from the predicted distribution ( ( * ? ? ?",
+    "* chaplin  2011a ) ) .",
+    "this result raises interesting questions on the star formation rate and initial mass function .",
+    "studying the same sample of solar - like stars further reveals that the number of stars showing oscillations decreases significantly with increasing levels of activity ( ( * ? ? ?",
+    "* chaplin  2011b ) ) .",
+    "this on the other hand implies that the magnetic fields can inhibit the amplitudes of solar - like oscillations .",
+    "the strength of the dynamo - created stellar magnetic fields and the frequency of the associated phenomena ( e.g. , starspots and flares ) is strongly linked to the rotation of the star , with rapid rotation enhancing the field generation ( e.g. , ( * ? ? ? * pallavicini  1981 ) ) .",
+    "many active stars , rapid rotation usually induced either by youth or binarity , show large starspots which are detectable even using photometric observations from small ground - based telescopes ( e.g. , ( * ? ? ? * kron 1947 ) ) . in some cases",
+    "the monitoring has become almost nightly after the implementation of automatic photometric telescopes in the late 1980 s ( e.g. , ( * ? ? ?",
+    "* rodon & cutispoto 1992 ) ; ( * ? ? ?",
+    "* strassmeier  1997 ) ) .",
+    "these observations give crucial information on the stellar activity cycles ( e.g. , ( * ? ? ?",
+    "* olh  2009 ) ) and long - term spot longitudes ( e.g. , ( * ? ? ?",
+    "* lehtinen  2012 ) ) , i.e. , 2-d information where one dimension is longitude and the other time . with observations using multiple filters",
+    "crude spot latitudes can be obtained ( e.g. , ( * ? ? ?",
+    "* roettenbacher  2011 ) ) , making the reconstruction 3-d ( longitude , latitude and time ) .",
+    "similarly , the continuous , high precision , space - based light - curves allow for recovering latitudinal and longitudinal information in addition to the temporal variations .    for obtaining more detailed stellar surface structures",
+    "doppler imaging techniques have to be used ( e.g. , ( * ? ? ?",
+    "* vogt , penrod & hatzes 1987 ) ) , giving a 2-d snapshot of the surface temperature with a reasonable resolution ( e.g. , ( * ? ? ?",
+    "* korhonen  2010 ) ) . combining many observations from different epochs",
+    "adds the third dimension , namely time ( e.g. , ( * ? ? ?",
+    "* skelly  2010 ) ; ( * ? ? ?",
+    "* hackman  2012 ) ) .",
+    "doppler images can also be used for studying stellar surface rotation and its dependence on latitude ( for a recent review see ( * ? ? ?",
+    "* korhonen 2012 ) ) . if spectral lines formed at different heights in the stellar atmosphere are used in the reconstruction , also vertical structures in starspots can be mapped ( ( * ? ? ?",
+    "* berdyugina 2011 ) ) , coming closer to what is possible in the solar case .",
+    "obtaining multi - dimensional infromation on the active stars , which are just point sources , is challenging but not impossible .",
+    "observations give us detailed information , both temporal and spatial , on occurrence of starspots . in the future long baseline infrared / optical interferometry can offer a direct check on some of the results .",
+    "furthermore , while the interferometric imaging is restricted to the brightest and nearest stars , the method does not require large projected rotational velocities , like doppler imaging does .",
+    "this will open up new targets that have not been approachable earlier , significantly widening the parameter space for activity studies ."
+  ],
+  "abstract_text": [
+    "<S> stars are usually faint point sources and investigating their surfaces and interiors observationally is very demanding . here </S>",
+    "<S> i give a review on the state - of - the - art observing techniques and recent results on studying interiors and surface features of active stars . </S>"
+  ]
+}
