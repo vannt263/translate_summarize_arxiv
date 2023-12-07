@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "we tested the metallicity calibration of @xcite ( hereafter b05 ) , as well as the calibrations of @xcite ( hereafter ja09 ) and @xcite ( hereafter sl10 ) , with a sample of 17 m dwarf secondaries with a wide ( @xmath0 arcsec separation ) physical fgk companion .",
+    "following b05 , three papers with different calibrations were published : ja09 , sl10 , and @xcite ( hereafter ra10 ) .",
+    "each work claims a calibration with a better precision than the previous ones , and in general , poor v photometry is identified as a serious limitation . in order to address the photometric limitation ,",
+    "only m stars with precise v photometry ( @xmath1 0.04 mag ) were selected .",
+    "most stars have v magnitude uncertainties of 0.01 or 0.02 mag .",
+    "note that the ra10 calibration was not tested because it requires ir indices that we do not have .",
+    "this test will be done in the near future .",
+    "we found that the metallicity values of our stars ( obtained from the fgk primary component ) are in reasonable agreement with the [ fe / h ] values obtained with all calibrations , as can be seen in fig .",
+    "however , our calibrators are found to be more metal poor ( on average ) than both ja09 and sl10 calibrations .    a better photometry did not improve the dispersion measured around the different calibrations .",
+    "this means that precision on v photometry may not be the main limitation in the derivation of the [ fe / h ] calibration .",
+    "table 1 . shows a quantitative comparison between the calibrations .",
+    "we note that the rms , @xmath2 and the @xmath3 values were offset - corrected . in general , the calibrations have similar offsets , @xmath4 , @xmath2 , and correlation coefficients .",
+    "interestingly , the calibration of b05 ( 1 ) has the lowest offset and rms .",
+    "however , the correlation coefficient is a bit lower than the values of ja09 and sl10 . the results are inconclusive and require further study .",
+    ".comparison of the residuals offset , @xmath4 , residual mean square ( @xmath2 ) , and adjusted square of the multiple correlation coefficient ( @xmath3 ) of the calibrations of @xcite , @xcite , and @xcite applied to our data .",
+    "@xmath2 and @xmath3 definitions were taken from @xcite . [",
+    "cols=\"^,^,^,^,^ \" , ]      * acknowledgements : * we acknowledge the support by the european research council / european community under the fp7 through starting grant agreement number 239953 .",
+    "ncs also acknowledges the support from fundao para a cincia e a tecnologia ( fct ) through program cincia2007 funded by fct / mctes ( portugal ) and poph / fse ( ec ) , and in the form of grant reference ptdc / cte - ast/098528/2008 .",
+    "vn would also like to acknowledge the support from fct in the form of the fellowship sfrh / bd/60688/2009 ."
+  ],
+  "abstract_text": [
+    "<S> the determination of the stellar parameters of m dwarfs is of prime importance in the fields of galactic , stellar and planetary astronomy . </S>",
+    "<S> m stars are the least studied galactic component regarding their fundamental parameters . yet , they are the most numerous stars in the galaxy and contribute to most of its total ( baryonic ) mass . </S>",
+    "<S> in particular , we are interested in their metallicity in order to study the star - planet connection and to refine the planetary parameters . as a preliminary result we present a test of the metallicity calibrations of @xcite , @xcite , and @xcite using a new sample of 17 binaries with precise v band photometry . </S>"
+  ]
+}

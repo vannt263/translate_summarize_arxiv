@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "the ongoing observations of the crab pulsar are being reduced using a new real - time pipeline .",
+    "the data are taken with wuppi and processed on tofu , which has 16 processor cores , allowing 16 processes to be run in parallel .",
+    "this pipeline is comprised of a set of scripts using freely available analysis tools ( http://sigproc.sourceforge.net ) that can reduce a file in the same amount of time it is taken in .",
+    "the pipeline outputs profiles for each gp , observation time vs pulse phase plots , a folded profile , and an average gp profile , made by summing all of the individual gp profiles .",
+    "_ fermi _ data are downloaded from the online archive ( http://fermi.gsfc.nasa.gov/cgi-bin/ssc/lat/latdataquery.cgi ) for times during which radio observations occured .",
+    "this amounts to about 5400 @xmath0-ray photons over all of the days processed so far .",
+    "the @xmath0-ray photons for each day ( @xmath2180 ) are folded to make sure the crab is visible , then they are correlated with the gp toas .",
+    "correlations are searched for with time lags of 1 pulsar spin period , 1 second , and every 10 seconds up to 60 seconds .",
+    "as shown in figure [ fig : fermi ] ( top ) , randomized toas correlate just as well as real data do with _ fermi _ photons .",
+    "this lack of significant correlation means that increased coherence or changes in beaming seem to be the cause of gps , as opposed to an increase in pair production in the magnetosphere .      in total",
+    ", @xmath223000 gps have been analyzed to date . a cumulative amplitude distribution ( figure [ fig : fermi ] , bottom ) for a subset of those pulses was made .",
+    "this can be fit by a power - law with slope = -2.09 , in agreement with other published values ( e.g. @xcite ) ."
+  ],
+  "abstract_text": [
+    "<S> the 43 m telescope at the nrao site in green bank , wv has recently been outfitted with a clone of the green bank ultimate pulsar processing instrument ( guppi @xcite ) backend , making it very useful for a number of pulsar related studies in frequency ranges 800 - 1600 mhz and 220 - 440 mhz . some of the recent science being done with it include : monitoring of the crab pulsar , a blind search for transient sources , pulsar searches of targets of opportunity , and an all - sky mapping project . for the crab monitoring project </S>",
+    "<S> , regular observations are searched for giant pulses ( gps ) , which are then correlated with @xmath0-ray photons from the _ fermi _ spacecraft . </S>",
+    "<S> data from the all - sky mapping project are first run through a pipeline that does a blind transient search , looking for single pulses over a dm range of 0 - 500 pc  @xmath1 . these projects are made possible by mit lincoln labs .     address = department of physics , west virginia university , morgantown , wv 26506     address = department of physics , west virginia university , morgantown , wv 26506 , altaddress = national radio astronomy observatory , green bank , wv 24944     address = department of physics , west virginia university , morgantown , wv 26506 , altaddress = national radio astronomy observatory , green bank , wv 24944     address = national radio astronomy observatory , green bank , wv 24944     address = department of astronomy , university of virginia , charlottesville , va 22904     address = netherlands institue for radio astronomy ( astron ) , postbus 2 , 7990 aa dwingeloo , the netherlands , altaddress = astro space center of the lebedev physical institute , profsoyuznaya str . </S>",
+    "<S> 84/32 , moscow 117997 , russia     address = national radio astronomy observatory , charlottesville , va 22903     address = department of physics and astronomy , franklin and marshall college , lancaster , pa 17604 </S>"
+  ]
+}

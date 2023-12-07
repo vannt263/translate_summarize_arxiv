@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the discovery of a growing number of dust disks around cool ( @xmath1k ) daz white dwarfs ( wd ) has been linked to the existence of old planetary systems containing terrestrial bodies .",
+    "the dust disks are thought to originate from the tidal disruption of a minor planet that has wandered too close to the wd ( @xcite ) . at temperatures",
+    "@xmath2k , any dust close to the wd will be sublimated and produce no infrared emission , although in a few wds @xmath3k a gas disk exists in addition to warm dust .",
+    "the gas disks are revealed by caii emission at @xmath4 and sometimes feii emission at @xmath5 ( @xcite ) .",
+    "heavy elements are ubiquitous in the atmospheres of da white dwarfs at @xmath6k ( @xcite ) , and are present in some , but not all , objects at temperatures cooler than this . above @xmath7k , metals are levitated in the stellar photospheres against the strong gravitational field by radiation pressure . for single stars , it is impossible to distinguish whether their origin is primordial or due to accretion .",
+    "but below @xmath8k , the metal abundances sometimes can not be explained by diffusion theory alone .",
+    "indeed , exactly which elements may be present , and in what abundances , can vary between stars of seemingly identical temperatures and masses ( @xcite ) . as with the cooler daz",
+    "white dwarfs , the gravitational settling times for these heavy elements are so fast that some hot white dwarfs @xmath9k may be undergoing low level accretion from an unknown external source .",
+    "the discovery of dust and gas disks around some dazs suggests these may also be the source of the material seen in the photospheres of some hotter white dwarfs between @xmath10k and @xmath7k .",
+    "we used spitzer / irac to search for excess mid - ir emission , potentially due to the presence of warm dust , in a sample of hot da wds @xmath0k , whose photospheric heavy element composition we had previously studied in detail in the far - uv and euv ( @xcite ) .",
+    "data were obtained in our own programmes , and from the spitzer public archive .",
+    "only one star , pg@xmath11 , shows any excess emission , due to the presence of an l0 dwarf companion ( @xcite ) .",
+    "the non - detection of warm dust at these hot degenerates is not entirely unexpected , given our current expectation that the known disks lie within a few solar radii of their wd hosts , and that at higher wd temperatures this material will likely be sublimated .",
+    "we obtained optical spectra of ten hot da white dwarfs studied by @xcite to search for emission lines of the caii triplet near @xmath12 and feii near @xmath13 , indicative of the presence of a gas disk .",
+    "we used the @xmath14 m william herschel telescope and the isis spectrograph with the r@xmath15 gratings .",
+    "no such emission lines were observed in any object ( figure [ mrburleigh01 ] ) , although siiii absorption was detected in gd394 ( also by @xcite ) and feii absorption in hs@xmath16 .",
+    " , @xmath17 , @xmath18 triplet .",
+    "top to bottom : hs@xmath16 , gd394 , rej@xmath19 , gd246 , rej@xmath20 .",
+    ", title=\"fig : \" ] [ mrburleigh01 ]",
+    "the non - detection of warm dust or gaseous emission from the @xcite sample of metal - rich hot wds is disappointing but not necessarily a surprise . at a stretch",
+    ", radiative levitation may still explain their abundances , although the considerable variations between objects with similar temperatures and surface gravities suggests accretion from unseen companions or circumstellar debris ( see also @xcite ) .",
+    "the presence of disks around cooler wds , and the conclusion that they are accreting the remains of disrupted terrestrial bodies , suggests the same phenomenon must be occurring at higher temperatures .",
+    "indeed , one well - studied object , gd394 ( @xmath21k ) , displays a silicon abundance @xmath22 times higher than any other degenerate at similar temperature and gravity .",
+    "in addition , the silicon is inhomogeneously distributed across the wd surface ( @xmath23  days , @xcite ) .",
+    "there is a strong temptation to conclude that gd394 is accreting from surrounding silicate - rich material , just as with the cooler dazs , despite the lack of evidence for the presence of a dust or gas disk in the observations discussed above .",
+    "in fact , there is evidence for circumstellar material at these hot wds in existing far - uv observations .",
+    "@xcite noted the presence of velocity shifted lines of e.g.  civ , siiv , and nv in addition to photospheric and interstellar components , and discussed possible origins for these features including ionization of the local interstellar environment , the presence of material inside the gravitational well of the white dwarf , mass loss in a stellar wind and the existence of material in an ancient planetary nebula around the star .",
+    "with hindsight , the link to dust and gas disks at cooler dazs becomes more enticing .",
+    "but the question remains - can we convincingly and conclusively prove that individual hot wds are accreting from surrounding material derived from disrupted minor planets in an old solar system ?"
+  ],
+  "abstract_text": [
+    "<S> we have searched for evidence for dust and gas disks at a sample of hot da white dwarfs @xmath0k , without success . </S>",
+    "<S> although their atmospheres are polluted with heavy elements , we can not yet convincingly and conclusively show that any of these objects is accreting metals from surrounding material derived from disrupted minor planets in an old solar system .     </S>",
+    "<S> address = dept physics and astronomy , university of leicester , university road , leicester , le1 7rh , uk     address = dept physics and astronomy , university of leicester , university road , leicester , le1 7rh , uk     address = dept physics and astronomy , university of leicester , university road , leicester , le1 7rh , uk     address = dept physics and astronomy , university of leicester , university road , leicester , le1 7rh , uk     address = dept physics and astronomy , university of leicester , university road , leicester , le1 7rh , uk     address = dept physics and astronomy , university of leicester , university road , leicester , le1 7rh , uk     address = australian astronomical observatory , po box 296 , epping , nsw 1710 , australia     address = astrophysics research centre , school of mathematics and physics , queen s university , university road , belfast , bt7 1nn , uk     address = department of physics , university of warwick , coventry , cv4 7al , uk </S>"
+  ]
+}

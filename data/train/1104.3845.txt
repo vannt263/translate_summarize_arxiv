@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the determination of @xmath0 , the mass fraction of primordial helium , is of fundamental importance due to its important cosmological implications .",
+    "( see @xcite for a discussion ) .",
+    "the discrepancy among different measurements of @xmath0 has been reduced to a 1 - 2% level , nevertheless this uncertainty still imply a wide range of possible values of the barion - to - photon ratio @xmath1 , an important parameter of the standard big bang nucleosynthesis , usually obtained from observed primordial abundances . the classical method for the determination of @xmath0 @xcite",
+    "is based on the abundance analysis of extra - galactic h ii regions through their emission lines and the extrapolation to zero metallicity .",
+    "several systematic errors can affect a precise determination of the @xmath0 .",
+    "we focus here on the uncertainty produced by an underlying stellar absorption , which causes a systematic decrement of the intensity of helium nebular emission lines .",
+    "an accurate assessment of this factor is important if one requires high precision results .",
+    "theoretical single stellar population ( ssp ) models appear as an effective tool to perform a thorough investigation of the absorption contribution for the lines commonly used to determine @xmath0 such as he i @xmath24471 , @xmath25876 , @xmath26678 and he ii @xmath24686 , which are nebular lines of particularly small equivalent width .",
+    "we present here the results of an exploratory analysis on this issue .",
+    "we measured the equivalent width of the four he lines of interest ( he i @xmath24471 , @xmath25876 , @xmath26678 , and he ii @xmath24686 ) using the pure absorption high resolution ssp models ( bressan 2005 , private communication ) based on the theoretical libraries of stellar spectral called * bluered * and * uvblue * @xcite respectively .    in order to account for the possible presence of mixed population we calculated 24 combinations of ssps of different ages and chemical composition . for these combinations we considered two metallicities ( @xmath3 and @xmath4 ) and a set of _ young _ ( 10 - 500 myr ) and _ old _ ( 1 - 2 gyr ) populations .",
+    "the sed mixed populations ( @xmath5 ) were calculated such that @xmath6 where @xmath7 and @xmath8 were 0.8 and 0.2 respectively .",
+    "the ew of he lines for each flux combination were measured after the seds had been degraded to the spectral resolution of the sloan digital sky survey ( @xmath9 ) .",
+    "some examples of seds ( at a fixed age of 1 gyr of the _ old _ component ) in the region around the he i @xmath24471 line are shown in figure  1 .",
+    "the intensity of the line falls abruptly with increasing age of the _ young _ population and its absorption becomes almost negligible for ages older than 200 myr .",
+    "this same behavior is common to all the lines that we have included in our analysis .",
+    "4471 line of ssps with variable age of the _ young _ component and a fixed age of 1 gyr of the _ old _ component , at metallicities of @xmath3 ( _ left _ panel ) and @xmath4 ( _ right _ panel).,height=377 ]",
+    "in order to quantitatively asses the importance of the stellar absorption , we measured the variation of the he abundance on the metal poor extragalactic h ii region sdss j094401.86 - 003832.1 , which we selected from the sdss catalog based on the quality observed spectrum . figure 2 shows the observed spectrum around the he i @xmath24471 emission line together with the theoretical ssp flux with ages of 10 myr and 1 gyr for the _ young _ and _ old _ components , respectively .",
+    "this combination presents the largest stellar absorption and we can notice that , even though it is small compared with the emission feature , its effect on the ew is not negligible .",
+    "table 1 reports the equivalent widths of the three he i lines in emission ( measured on the observed spectrum ) and in absorption ( measured on the ssp sed partially shown in figure 2 . ) as well as the variations in the he ionic abundance @xmath10 with and without taking into account the effect of underlying stellar component .",
+    "the he ionic abundance has been computed following @xcite .",
+    "we found the maximum he abundance variation to be about 6% for the hei @xmath24471 line .",
+    ", @xmath11 = 10 myr and @xmath12 = 1.5 x @xmath13 yr showing the influence of the absorption feature for he i @xmath24471.,height=264 ]    ccccccc & & & + & & he i & object & ssp model & & without correction & with correction & @xmath14 + @xmath24471 & 9.04 @xmath15 0.04 & 0.51 @xmath15 0.02 & & 87.02 @xmath15 1.51 & 92.03 @xmath15 1.50 & 5.1 ( 5.86% ) + @xmath25876 & 51.20 @xmath15 0.3 & 0.36 @xmath15 0.02 & & 86.85 @xmath15 1.45 & 87.40 @xmath15 1.42 & 0.55 ( 0.60% ) + @xmath26678 & 18.4 @xmath15 0.5 & 0.23 @xmath15 0.01 & & 81.78 @xmath15 1.62 & 82.94 @xmath15 1.65 & 1.16 ( 1.42% ) +",
+    "in the exploratory analysis presented here , we found ( based on table 1 ) that the difference between the he abundance determined with and without taking into account the underlying stellar absorption component is on average 3% . despite",
+    "that this is a small value , the effect is not negligible , as such a variation overestimate systematically the helium abundance of individual regions which are then used to fit a linear regression in order to get a value of @xmath16 .",
+    "greater values of @xmath10 would yield an overestimated primordial helium abundance , therefore it is important to obtain an accurate correction for this effect .",
+    "however , we stress that the grid of ssp models that we used had a lower age limit of 10 myr ; younger stellar populations , with ages characteristic of o - b stars , the typical ionizing sources of hii regions , should be taken into account to better map their contribution to the ew of he lines .",
+    "therefore our result represents a lower limit to the error on the helium abundance determination if the stellar absorption is neglected .",
+    "bertone , e. , buzzoni , a. , rodriguez - merino , l.h . , & chavez , m. 2004 , mem.sait , 75 , 158 olive , k.a . & skillman , e.d .",
+    "2004 , apj , 617 , 29 pagel , b.e.j . ,",
+    "simonson , e.a .",
+    ", terlevich , r.j . , & edmunds , m.g .",
+    "1992 , mnras , 255 , 325 peimbert , m. & torres - peimbert , s. 1974 , ap.j . ,",
+    "193 , 327 rodriguez - merino , l. h. , chavez , m. , bertone , e. , & buzzoni , a. 2005 , apj , 626 , 411"
+  ],
+  "abstract_text": [
+    "<S> we carried out an exploratory analysis of the contribution of the underlying stellar absorption to the total uncertainty of the abundance of primordial helium using simple stellar populations models and observational data from the sloan digital sky survey . </S>",
+    "<S> results indicate that our analysis yields a lower limit to the error on the helium abundance determination if the stellar absorption is neglected . </S>"
+  ]
+}

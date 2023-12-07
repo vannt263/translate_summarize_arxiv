@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "supergiants are the descendants of massive o and b - type main sequence stars . unlike their main sequence progenitors ,",
+    "cool supergiants are characterized by a helium - burning core and a deep convective envelope .",
+    "due to their extended radii , low - atmospheric densities , slow rotation and long convective turnover times , supergiants provide an opportunity to study stellar magnetism at the extremes of parameter space .",
+    "in fact , observations of late - type supergiants show characteristics consistent with magnetic activity , such as luminous x - ray emission and flaring , and emission in chromospheric uv lines - phenomena suggesting the presence of dynamo - driven magnetic fields .    motivated by the activity - related puzzles of late - type supergiants , the near complete lack of direct constraints on their magnetic fields , and recent success of measuring fields of red and yellow giants ( e.g. aurire et al .",
+    "2008 ) , we have initiated a program to search for direct evidence of magnetic fields in these massive , evolved stars . here",
+    "we summarize the recent results of grunhut et al .",
+    "circular polarization ( stokes @xmath0 ) spectra were obtained with the high - resolution ( r@xmath168000 ) espadons and narval spectropolarimeters at the canada - france - hawaii telescope and bernard lyot telescope , as part of a large survey investigating the magnetic properties of late - type supergiants .    to date , we have observed more than 30 stars : 4 a - type stars , 8 f - type stars , 11 g - type stars , 7 k - type stars , and 3 m - type stars .",
+    "we applied the least - squares deconvolution ( lsd ; donati et al .",
+    "1997 ) technique to all our data in order to increase the s / n and detect weak zeeman signatures .    in fig .",
+    "[ lsd ] we present all stars with clear zeeman signatures detected in stokes @xmath0 . also shown in fig .",
+    "[ lsd ] is the placement of all observed stars on an hr diagram .",
+    "( top ) , diagnostic null ( middle ) , and unpolarized stokes @xmath2 ( bottom ) lsd profiles of the 9 stars with clear detections.,width=600 ]",
+    "our investigation shows that many late - type supergiants host detectable stokes @xmath0 zeeman signatures , which are frequently complex . the detected stars span a large range of physical characteristics , with the most massive being @xmath3  lep ( @xmath115m@xmath4 ) , which also happens to be the hottest star in our sample ( @xmath5k ) .",
+    "the lowest mass detection is @xmath6  dra ( @xmath15m@xmath7 ) , while the coolest star is either @xmath8 pup or @xmath9  vel , depending on the adopted temperature ( both @xmath10k ) .",
+    "overall , we find that approximately 1/3 of our sample reveal detectable zeeman signatures in stokes @xmath0",
+    ". however , we find no clear differences between classical activity indicators ( such as caii h&k or h@xmath3 emission ) of those stars with or without detections .",
+    "however , we do find a weak correlation between the caii core equivalent width and the magnetic field strength for those stars with multiple observations , as displayed in fig .",
+    "[ ca2_var ] .",
+    "in addition , we also see clear temporal variability of the stokes @xmath0 profiles for those targets with multiple observations , as shown in fig .",
+    "[ temp_var ] .",
+    "profiles ( left , solid lines ) and stokes  @xmath2 ( right ) of @xmath3  per for the nights indicated .",
+    "profiles are vertically offset for display purposes .",
+    "the dashed line corresponds to the observation obtained on 04 dec .",
+    "2009 , shifted to the position of each night in order to highlight changes in the profile.,width=576 ]"
+  ],
+  "abstract_text": [
+    "<S> we present the results of an ongoing survey of cool , late - type supergiants - the descendants of massive o- and b - type stars - that has systematically detected magnetic fields in these stars using spectropolarimetric observations obtained with espadons at the canada - france - hawaii telescope . </S>",
+    "<S> our observations reveal detectable , often complex , stokes @xmath0 zeeman signatures in least - squares deconvolved mean line profiles in a significant fraction of the observed sample of @xmath130 stars . </S>"
+  ]
+}

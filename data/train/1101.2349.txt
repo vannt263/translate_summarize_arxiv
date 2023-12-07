@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "[ cols=\"^,^ \" , ]",
+    "p.  scheglov worked on increasing angular resolution of ground - based telescopes , realizing that the sensitivity to faint objects depends on the resolution as much as on the telescope diameter .",
+    "he considered this to be a huge and poorly used resource of ground - based astronomy .",
+    "he approached the problem from multiple sides .",
+    "* select astronomical sites with best natural seeing .",
+    "* study the man - made seeing in domes and telescopes , determine optimum parameters of astronomical domes ( height , ventillation regime ) . *",
+    "interact with the optical industry to help build telescopes of high optical quality .",
+    "p.s . had a strong interest in optical testing and telescope technology .",
+    "* develop electronic and photographic detectors to approach the photon sensitivity limits .",
+    "p.s . was a pioneer of using image intensifiers in astronomy .",
+    "* increase the resolution by post - processing ( image sharpening ) and interferometry .",
+    "p.s . was among the first to recognize and advocate the potential of speckle interferometry and long - baseline interferometers .",
+    "p.s . tried to actively promote these ideas by presenting them at various colloquia and meetings , publishing review papers , russian translations of textbooks and proceedings on detectors and large telescopes of the future and , finally , writing his own books on new astronomical techniques .",
+    ", height=264 ]",
+    "p.  scheglov teached at the moscow university .",
+    "his course on experimental astronomy largely contributed to the education of many currently active researchers .",
+    "he was the phd advisor of several graduate students working on site testing : s.  novikov , a.  guryanov , v.  kornilov , a.  tokovinin , a.  kutyrev , yu .",
+    "he has influenced the whole generation of astronomers in the former republics of the soviet union .",
+    "p.v . scheglov ( sheglov , shcheglov ) published about 50 papers on site testing , some are listed below ."
+  ],
+  "abstract_text": [
+    "<S> the multi - faceted contributions of dr . </S>",
+    "<S> peter scheglov ( 1932 - 2002 ) in the area of site testing are briefly reviewed . </S>",
+    "<S> he discovered and studied astronomical sites in the central asia , developed new site - testing instruments , promoted new methods and techniques among his colleagues and teached new generation of observational astronomers . </S>"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "it is well known that the low - hard state of cyg  x-1 can not be explained@xcite by the keplerian accretion disk@xcite . therefore , eardley , lightman & shapiro@xcite initiated to model the two temperature hot accretion flow . later , muchotrzeb & paczyski@xcite introduced the idea of sub - keplerian , transonic accretion , which was later improved by other authors@xcite , by discussing importance of advection .",
+    "most of them introduced various cooling mechanisms , e.g. , blackbody , bremsstrahlung , synchrotron , inverse - compton radiation , appropriately according to their models . however , none of them attempted to understand the variation of cooling / advective efficiency in the flow while infalling towards the black hole . generally , it is expected that far away from the black hole the flow to be relatively cooler , while in the vicinity of the black hole it is hotter .",
+    "we , in the approximation of optically thin two temperature flow , plan to understand how the flow behavior , in the light of advective efficiency , changes while infalling towards a rotating black hole .",
+    "this successfully explains luminosities of observed low to high luminous sources , in the framework of a single model , which has not been attempted yet . in reproducing the correct luminosity of a source",
+    ", the present model also predicts the spin parameter of the black hole at the center .",
+    "the optically thin flow is assumed geometrically not to be thick enough so that the disk could be vertically averaged .",
+    "all the variables used here have their usual meanings and are expressed throughout in conventional dimensionless units , unless stated otherwise ( see rajesh & mukhopadhyay@xcite for details ) .",
+    "the equations of mass and momentum conservation are same as of previous work@xcite .",
+    "the proton and electron energy equations are given below as @xmath0 when the coulomb coupling @xmath1 is given by @xmath2 where @xmath3 and @xmath4 respectively denote number densities of ion and electron , @xmath5 the electron charge , ln(@xmath6 ) the coulomb logarithm , and total heat radiated away ( @xmath7 ) by the bremsstrahlung ( @xmath8 ) , synchrotron ( @xmath9 ) processes and inverse comptonization ( @xmath10 ) due to soft synchrotron photons is given by @xmath11 where @xmath12 when @xmath13 is the scattering optical depth , @xmath14 is the synchrotron self - absorption cut off frequency .",
+    "now following previous work@xcite , we solve the set of disk conservation equations to obtain solution .",
+    "we define a quantity called cooling factor , @xmath15 , such that @xmath16 which determines the efficiency of cooling in the flow .",
+    "we concentrate on two extreme cases : stellar mass black hole with super - eddington accretion ( stbsupa ) and super - massive black hole with sub - eddington accretion ( subsuba ) .",
+    "while the former describes highly luminous x - ray sources ( e.g. ss433 ) , the later is for low luminous agns and quasars ( e.g. sgr  a@xmath17 )",
+    ". for stbsupa , density of the flow is higher than that of subsuba , which results in efficient cooling processes therein compared to the later case . as a result",
+    "the flow is cooler in stbsupa than that in subsuba .",
+    "hence the difference in temperature between protons and electrons in stbsupa ( @xmath18k ) is smaller in the former case compared to the later case ( @xmath19k ) .",
+    "figure [ fig1 ] shows that @xmath15 is very small in stbsupa until very close to the black hole , while in subsuba it is very high in most of the inner disk region .",
+    "however , in either of the cases , flow appears hotter around rotating black holes compared to nonrotating ones .",
+    "this is because the specific angular momentum of the flow is smaller around rotating black holes compared to nonrotating ones which results in a faster infall and hence low residence time of the flow in the former case which does not allow the cooling processes to complete before the flow impinges into the black hole .    ) , super - eddington , @xmath20 ; top - right : stellar mass ( @xmath21 ) , super - eddington , @xmath22 ; bottom - left : super - massive ( @xmath23 ) , sub - eddington , @xmath20 ; bottom - right : super - massive ( @xmath23 ) , sub - eddington , @xmath22 .",
+    "solid , dashed curves in upper panels are for @xmath24 eddington rates and solid , dashed , dotted curves in lower panels are for @xmath25 eddington rates . for @xmath20 , @xmath26 and for @xmath22 , @xmath27 .",
+    "[ fig1],title=\"fig:\",scaledwidth=70.0% ] -0.5 cm 9.5 cm    it has already been understood that the under - luminous source sgr  a@xmath17 of mass @xmath28 accretes in a sub - eddington accretion rate giving rise to a very low luminosity @xmath29erg / sec . based on our model with @xmath30 , @xmath31 ,",
+    "@xmath32 only if @xmath33 .",
+    "this argues the black hole to be of intermediate spin .",
+    "we have the following punchline out of our two temperature , optically thin , sub - keplerian accretion disk .",
+    "+ @xmath34 during infall , the flow governs much lower electron temperature ( @xmath35k ) compared to proton temperature ( @xmath36k ) , in the range of accretion rate @xmath37 .",
+    "this could explain hard x - rays and @xmath38-rays from agns and x - ray binaries .",
+    "+ @xmath34 weakly viscous flows are cooling dominated compared to their highly viscous counter part of radiatively inefficient flows .",
+    "+ @xmath34 the model flows transit from radiatively inefficient phase to cooling dominated phase and vice versa , depending on the system , during infall .",
+    "+ @xmath34 the model is able to reproduce a wide range of luminosities observed from under - fed agns and quasars ( e.g. sgr  @xmath39 ) to highly - luminous x - ray sources ( e.g. ss433 ) , as well as highly - luminous quasars ( e.g. pks  0743 - 67 ) .",
+    "+ @xmath34 based on our results sgr  @xmath39 appears to be an intermediate spinning black hole with the possible range of spin : @xmath33 .",
+    "this work is partly supported by a project , grant no .",
+    "sr / s2hep12/2007 , funded by dst , india ."
+  ],
+  "abstract_text": [
+    "<S> we model two temperature viscous accretion flows in the sub - keplerian , optically thin , regime around rotating black holes including important radiation effects self - consistently . </S>",
+    "<S> the model successfully explains observed luminosities from ultra - luminous to under - luminous sources and predicts the spin parameter of black holes . </S>"
+  ]
+}

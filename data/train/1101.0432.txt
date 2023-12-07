@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "to probe the impact of stellar duplicity on the frequency of giant planets , we have conducted with vlt / naco an adaptive optics search for stellar companions to @xmath060 planet - host stars and to @xmath070 non - planet - host stars ( hereafter control stars ) .",
+    "this survey revealed 95 companion candidates near 33 targets ( fig .",
+    "[ fig1 ] ) . using two - epoch astrometry we identified 19 true companions ,",
+    "2 likely bound objects , and 34 background stars ( ( * ? ? ?",
+    "* eggenberger et al . 2007 ) ) .",
+    "the companionship of the remaining 40 companion candidates could not be constrained due to the lack of a second - epoch astrometric measurement .",
+    "assuming that all but two of these 40 objects were unbound , we showed that giant planets seem slightly less frequent in @xmath035 - 100 au binaries than around single stars ( ( * ? ? ? * eggenberger et al .",
+    "we recently performed the second - epoch measurements that were missing previously .",
+    "the new observations show that the companion candidates we detected near the planet - host stars hd 76700 , hd 83443 , hd 162020 , and hd 330075 are all unrelated background stars . on the other hand ,",
+    "the new data confirm the physical association of the companion candidates to the control stars hd 82241 and hd 134180 .",
+    "figure  [ fig1 ] ( right ) shows the difference in binary fraction between the control and the planet - host subsamples . according to the updated statistical analysis",
+    ", the difference in binary fraction is @xmath1% for semimajor axis below 100 au , and @xmath2 for semimajor axis between 100 and 200 au .",
+    "the positive difference seen for mean semimajor axis @xmath3100 au suggests that giant and intermediate - mass planets are slightly less frequent in moderately close binaries than in wider systems or around single stars .",
+    "if confirmed with a larger sample , this result would support the idea that the presence of a moderately close stellar companion affects the formation of giant planets , but does not completely stop the process ."
+  ],
+  "abstract_text": [
+    "<S> if it is commonly agreed that the presence of a ( moderately ) close stellar companion affects the formation and the dynamical evolution of giant planets , the frequency of giant planets residing in binary systems separated by less than 100 au is unknown . to address this issue , </S>",
+    "<S> we have conducted with vlt / naco a systematic adaptive optics search for moderately close stellar companions to 130 nearby solar - type stars . according to the data from doppler surveys , half of our targets host at least one planetary companion , while the other half show no evidence for short - period giant planets . </S>",
+    "<S> we present here the final results of our survey , which include a new series of second - epoch measurements to test for common proper motion . </S>",
+    "<S> the new observations confirm the physical association of two companion candidates and prove the unbound status of many others . </S>",
+    "<S> these results strengthen our former conclusion that circumstellar giant planets are slightly less frequent in binaries with mean semimajor axes between 35 and 100 au than in wider systems or around single stars . </S>"
+  ]
+}

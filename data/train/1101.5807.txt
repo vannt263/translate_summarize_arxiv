@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the hundreds of exoplanets known today allow us to put our own solar system in the broad context of our galaxy .",
+    "in particular , the subset of known exoplanets that transit their parent stars are key objects for our understanding of the formation , evolution and properties of planetary systems ( e.g. , charbonneau , this volume ) . on the other hand , the objects of our own solar system are and will remain exquisite guides for helping us understand the mechanisms of planetary formation and evolution .",
+    "notably , comets are most probably remnants of the initial population of planetesimals of the outer part of the protoplanetary disk , and therefore , the study of their physical and chemical properties makes possible a thorough understanding of the conditions that prevailed during the formation of our four giant planets",
+    ".    installed last april at the eso la silla observatory ( chile ) , our new telescope trappist ( transiting planets and planetesimals small telescope ) is fully dedicated to the study of planetary systems . more specifically , its science goals are the following .",
+    "( 1 ) the photometric search for transits of planets detected by radial velocities ( rv ) .",
+    "trappist was designed to be precise enough to detect the transit of a neptune - size planet in front of a solar - type star , and the transit of a ` super - earth ' in front of a red dwarf .",
+    "( 2 ) the photometric follow - up of planet candidates found by the transit surveys corot and wasp . ( 3 ) the characterization of confirmed transiting planets by high - precision eclipse photometry .",
+    "transit light curves obtained by trappist will be used to determine precisely the size of the planet and to possibly detect gravitational perturbations due to an undetected planet . for extremely irradiated giant planets",
+    ", trappist will also be used to measure , in the very near - infrared , the planetary emission that is blocked out during the occultation .",
+    "( 4 ) the photometric variability monitoring of harps late - type targets to help discriminating astrophysical and planetary rv signals . ( 5 ) the photometric monitoring of bright comets visible from the southern hemisphere to determine the evolution of their dust and gas production rates as a function of the heliocentric distance .",
+    "these observations will be performed in narrow - band filters specially designed by nasa for the observing campaign of the great comet hale - bopp ( farnham et al . 2000 ) .",
+    "trappist s optical tube unit is a ritchey - chretien 0.6 meter telescope with a focal length of 4.8 meter .",
+    "it is associated with a german equatorial mount that is , thanks to its direct drive system , extremely fast ( up to 50 deg / sec ) , accurate ( tracking accuracy without autoguider better than 10 `` in 10 min ) , and free of periodic error .",
+    "the instrument is a peltier - cooled commercial camera equipped with a fairchild 3041 back - illuminated 2k @xmath0 2k chip .",
+    "the pixel scale is 0.64''/pixel .",
+    "three read - out modes are available , the shortest read - out time being 2s . the total field of view of the camera is 22 @xmath0 22. it is associated to a custom - made dual filter wheel .",
+    "one of the filter wheel contains broad band filters for the exoplanet photometry ( johnson @xmath1 , @xmath2 , @xmath3 , cousins @xmath4 , sloan @xmath5 , and a special ` @xmath6 ' filter ) , while the other contains the narrow - band cometary filters .",
+    "the telescope is protected by a 5 meter diameter dome that was totally refurbished and automatized early 2010 .",
+    "the observatory is fully robotic and equipped with a weather station , a ups and webcams .",
+    "fig . 1 shows three examples of exoplanet transit light curves obtained by trappist , for the planets wasp-18b , wasp-19b and wasp-30b ( that is in fact a brown dwarf , see anderson et al .",
+    "the obtained photometric precisions per 5 minutes interval are , respectively , 620 ppm for wasp-19 ( @xmath7=11.4 ) , 590 ppm for wasp-30 ( @xmath7=11.4 ) and 395 ppm for wasp-18 ( @xmath7=8.8 ) .    as trappist",
+    "is totally dedicated to our planetary program , it will be able to reach even better photometric precisions by observing the eclipses of the same objects as many times as needed , and should be able to meet all its science goals , including the most challenging ones .",
+    "anderson d. r. , collier cameron a. , hellier c. , et al .",
+    ", 2010 , apjl , 726 , l19 charbonneau , d. , 2011 , in _ detection and dynamics of transiting exoplanets _ , colloquium held in ohp , france , august 23 - 27 , 2010 , edited by f. bouchy , r. diaz & c. moutou , published by platypus press .",
+    ", in press .",
+    "farnham t. l. , schleicher d. g. , ahearn m. f. , 2000 , icarus , 147 , 180"
+  ],
+  "abstract_text": [
+    "<S> we present here a new robotic telescope called trappist ( transiting planets and planetesimals small telescope ) . </S>",
+    "<S> equipped with a high - quality ccd camera mounted on a 0.6 meter light weight optical tube , trappist has been installed in april 2010 at the eso la silla observatory ( chile ) , and is now beginning its scientific program . the science goal of trappist is the study of planetary systems through two approaches : the detection and study of exoplanets , and the study of comets . </S>",
+    "<S> we describe here the objectives of the project , the hardware , and we present some of the first results obtained during the commissioning phase . </S>"
+  ]
+}

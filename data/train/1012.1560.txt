@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "testing the scatter peak from a sequence of light curves is a promising tool for detecting moons directly in the light curves .",
+    "the successful detection relies on three important conditions :    * all light curves must be stacked in such way that the transit time of the planet exactly coincide in every light curves involved to the analysis .",
+    "* transit observations must include the out - of transit phases immediately before and after the transit of the planet , where the scatter due to the moon is the highest .",
+    "the wings must be at least as long as the transit duration .",
+    "* trend filtering the light curves must be done such that the tiny brightness variations due to the exomoons shall remain unaffected .",
+    "this work is supported by the hungarian otka grants k76816 and mb08c 81013 , the `` lendlet '' young researchers program of the hungarian academy of sciences and the hungarian state `` etvos '' fellowship ."
+  ],
+  "abstract_text": [
+    "<S> the number of known transiting exoplanets is rapidly increasing , which has recently inspired significant interest as to whether they can host a detectable moon . </S>",
+    "<S> although there has been no such example where the presence of a satellite was proven , several methods have already been investigated for such a detection in the future . </S>",
+    "<S> all these methods utilize post - processing of the measured light curves , and the presence of the moon is decided by the distribution of a timing parameter . here </S>",
+    "<S> we propose a method for the detection of the moon _ directly in the raw transit light curves . </S>",
+    "<S> _ when the moon is in transit , it puts its own fingerprint on the intensity variation . in realistic cases , </S>",
+    "<S> this distortion is too little to be detected in the individual light curves , and must be amplified . averaging the folded light curve of several transits helps decrease the scatter , but it is not the best approach because it also reduces the signal . </S>",
+    "<S> the relative position of the moon varies from transit to transit , the moon s wing will appear in different positions on different sides of the planet s transit . </S>",
+    "<S> here we show that a careful analysis of the scatter curve of the folded light curves enhances the chance of detecting the exomoons directly .    </S>",
+    "<S> we simulated transit light curves of different qualities for exoplanets with moons . </S>",
+    "<S> space measurements covering 3 years were represented by kepler space telescope short cadence and long cadence samplings and the bootstrap noise of non - variable stars . </S>",
+    "<S> model moons had 0.7 , 0.8 , 0.9 , 1.0 earth - radius size , orbited on circular orbit with @xmath0  days , while the planet orbited its circular orbit with @xmath1  days period . </S>",
+    "<S> the planet was a hot jupiter with 0.7 m@xmath2 , 1.0 @xmath3 mass and radius , while the mass of the moon was neglected . </S>",
+    "<S> the central star was a solar analog , the radius of orbits were @xmath4  au , @xmath5  km , putting the moon to the border of the hill - sphere .    </S>",
+    "<S> we concluded that the most efficient tool of detecting the signal of the moon is observing the residual scatter in the folded light curves , after subtracting a boxcar median of all light curves . </S>",
+    "<S> the scatter peak reflects the tiny light variations that occur because of the changing position of the moon in individual transits . </S>",
+    "<S> we have deduced from simulations that for a clear detection ( false alarm rate < 1% ) , cut levels in the 4.24.4@xmath6 range must be chosen . selecting 4.4@xmath6 treshold , 90% of the earth - sized moons can be discovered in long cadence data , and practically all moons of this size will be discovered in short cadence ( detection rate is 99% . ) there is still some chance for the discovery of large exomoons with earth - based quality observations via the scatter peak , in this case the discovery rate is 30% for earth - sized moons . </S>"
+  ]
+}

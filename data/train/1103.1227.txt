@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "we present a linear implicit _ _",
+    "m-__step method lil ( local iterative linearization ) and prove its convergence applied for the following initial value problem @xmath0    where  @xmath1\\times \\mathbb{r}^{n}\\rightarrow \\mathbb{r}^{n}$ ] ,  @xmath2  is a @xmath3 smooth lipschitz function .",
+    "although the classical linear multi - step algorithms are very known and utilized , the lil characteristics ( convergence properties , time stability and applications results ) show that this numerical method could be considered as an interesting alternative to the widely used formulas .",
+    "the backward approximation of derivatives implies null coefficients of the odd order derivatives which represent a major advantage for the propagation of errors .    as a comparative test two simple odes with known analytical solutions and a chaotic continuous - time dynamical system , first studied by fabrikant and rabinovich [ 6 ] and recent",
+    "numerically re - examined by danca and chen [ 3 ] , was integrated using the lil algorithm and some of the most known algorithms .",
+    "the complex dynamic of this special model represented a real challenge for almost all of these methods as shown in sect.5 .",
+    "being an implicit method , an extrapolation is used as the predictor phase .",
+    "like all the @xmath4-step algorithms , the previous  @xmath4  points ( beside the first  @xmath4  start points ) should be estimated every step .    to study the convergence we use the unified approach of stability and consistency developed by germund dahlquist in 1956 [ 2 ] ( see also [ 7 - 8 ] ) .",
+    "thus , the lil method applied to the initial value problem ( [ 1.1 ] ) is considered convergent if and only if it is stable and consistent .",
+    "the content of this paper is as follows : in sect .",
+    "2 the lil method is deduced .",
+    "the convergence is proved in sect .",
+    "3 . in sect .",
+    "4 is presented the time stability with the corresponding time stability domains . in sect .",
+    "5 three examples are presented .",
+    "all computer tests were realized using a turbo pascal code written by the author . in the appendix ,",
+    "the coefficients of lil method are presented .",
+    "let us consider the uniform grid @xmath5 with the step - size @xmath6        one introduce the following notations @xmath10 , \\\\",
+    "x_{k}^{(i ) } & : & = x^{(i)}(t_{k}),\\quad x_{k}^{(0)}:=x(t_{k}),\\quad \\qquad j=1,2, ... ,m.\\end{aligned}\\ ] ] in the following  @xmath11 is supposed to take the values  @xmath12    if we consider  @xmath13  as a function of variable @xmath14 defined in  @xmath15 , then the first  @xmath4  terms of taylor approximation of  @xmath13  is  and  @xmath14  is supposed to be such that the taylor approximation can be used . the link between  @xmath14  and  @xmath4  is analyzed in section 3.1 ] @xmath16 where",
+    "@xmath17  the relations  ( [ 2.1 ] ) represent a cramer system with the unknown  @xmath18@xmath19{l } x_{k-1}-x_{k}\\thickapprox \\frac{h}{1!}x_{k}^{^{\\prime } } + \\frac{\\,h^{2}}{2!}% x_{k}^{^{\\prime \\prime } } - ... +\\left ( -1\\right ) ^{m}\\frac{\\,h^{m}}{m!}% x_{k}^{\\left ( m\\right ) } , \\\\ x_{k-2}-x_{k}\\thickapprox \\frac{2\\,h}{1!}x_{k}^{^{\\prime } } + \\frac{\\left ( 2\\,h\\right ) ^{2}}{2!}x_{k}^{^{\\prime \\prime } } - ... +\\left ( -1\\right ) ^{m}% \\frac{\\left ( 2\\,h\\right ) ^{m}}{m!}x_{k}^{\\left ( m\\right ) } , \\\\ ... \\\\ x_{k - m}-x_{k}\\thickapprox \\frac{m\\,h}{1!}x_{k}^{^{\\prime } } + \\frac{\\left ( m\\,h\\right ) ^{2}}{2!}x_{k}^{^{\\prime \\prime } } - ... +\\left ( -1\\right ) ^{m}% \\frac{\\left ( m\\,h\\right ) ^{m}}{m!}x_{k}^{\\left ( m\\right ) } .",
+    "\\end{array } \\label{2.2}\\ ] ] the determinant of the system ( [ 2.2 ] ) is @xmath20 because for  @xmath21  @xmath22we have @xmath23 ,  there exists a unique solution @xmath24 the coefficients  @xmath25  being drawn in table 7/appendix .",
+    "thus we obtained a backward approximation of derivatives , which represents the key of lil method .",
+    "the taylor approximation of the solution @xmath26 , considered now as function of  @xmath27  in the neighborhood  @xmath28 is            if we use in ( [ 2.5 ] ) the derivatives expression ( 2.3 ) we have @xmath34 the coefficients  @xmath35  being given in table 8(a)/appendix . using the same way one can approximate  @xmath36  on  @xmath15 @xmath37 the coefficients",
+    "@xmath38  being drawn in table 8(b)/appendix .    to overcome the difficulty of taylor approximation of the composite function  @xmath39  we found , empirically , that the relations ( [ 2.6 ] ) could be considered as a simple way to approximate the integral of  @xmath40  without altering the method convergence .",
+    "thus @xmath41 where  @xmath42 .    using ( [ 2.7 ] ) and ( [ 2.8 ] ) we can integrate ( [ 1.1 ] ) in  @xmath43 @xmath44 because  @xmath45 ,  for every  @xmath46(see table 8/appendix ) ,  the approximation of the solution in  @xmath15  is @xmath47 if we denote @xmath48 the relations ( [ 2.9 ] ) become @xmath49 formula ( [ 2.10 ] ) represents the @xmath50th - order lil method . in table 1",
+    "the formulae for orders one through five ( @xmath51 are presented ."
+  ],
+  "abstract_text": [
+    "<S> the objective of this paper is to prove the convergence of a linear implicit multi - step numerical method for ordinary differential equations . </S>",
+    "<S> the algorithm is obtained via taylor approximations . </S>",
+    "<S> the convergence is proved following the dahlquist theory . as an additional topic </S>",
+    "<S> , the time stability is established too . </S>",
+    "<S> comparative tests between some of the most known numerical methods and this method are presented .    * keywords * taylor approximation , multi - step method , stability , consistency , time regions stability .    * </S>",
+    "<S> ams ( mos ) * subject classification : 65l06 , 65p99 . </S>"
+  ]
+}

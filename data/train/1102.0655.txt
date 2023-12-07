@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "forecast of various time series has been widely using in many fields of science and practice and many methods have been advanced for prediction of time series .",
+    "but common problem of each method is a priori estimate of its accuracy .",
+    "common practice is to take a truncated series ( reference series ) ended in the past , investigate its statistical parameters , build prediction and compare it with existing continuation of series under investigation .",
+    "using moving shift of reference series one can collect needed statistics and obtain estimate of accuracy of used method depending on length of prediction .",
+    "after that obtained accuracy is assigned to real predictions .    in most of predicted time series last observed point ( epoch ) preceding the first predicted one has its final value and is not subject of refinement in future ( e.g. , number of sunspots for some epoch ) .",
+    "it is not the case for eop .",
+    "all real eop predictions are based on operational solution that may differ substantially from final eop values that comes usually in one - two months .    as an illustration of the foregoing ,",
+    "let s consider fig .  1 . in this figure @xmath0  the epoch of beginning of prediction , @xmath1   operational eop series used for computation of prediction , @xmath2   prediction computed in real time ( at date @xmath0 ) , @xmath3   final eop series , @xmath4   prediction that would be computed from the final series if it were available at date @xmath0",
+    ". upon this circumstance , accuracy and other statistical parameters of operational eop series may differ substantially from ones for final series that are commonly used for a priori estimate of prediction accuracy .",
+    "it means that estimates of prediction accuracy obtained by `` standard '' method may be far from reality and some its modification ( or at least investigation ) is desirable .",
+    "evidently , the most simple way to make a priory estimate of accuracy of prediction is a fictive disturbances of one or more last points of reference interval to investigate reaction of given method of prediction on errors at the last observed epoch(s ) .",
+    "this test was realized in ( malkin & skurikhina 1996 ) .",
+    "two kind of fictive errors was applied to real observed points :    _ test 1 _ :",
+    "the value of 1 mas was added to ( or subtract from ) the c04 value corresponding to the last observed epoch .    _",
+    "test 2 _ :  the values of 0.5 , 1.0 , 1.5 mas were added to ( or subtract from ) the c04 value corresponding to the three last observed epoch .",
+    "this test was used only for arima method because its influence on the extrapolation of trend - harmonics model ( e.g. , mccarthy & luzum 1991 ) can be easily foreseen without special calculations .",
+    "typical differences between predictions of real and distorted c04 series are presented in table  [ tab : pred_xy_dist ] .",
+    "one can see that serious degradation of accuracy may occur when arima method is used for erroneous observed eop values .",
+    "it should be mentioned that this effect practically linearly depends on the value of error .",
+    "analogous results were obtained for prediction of ut ( malkin & skurikhina 1996 ) .",
+    ".influence of errors in the last values on prediction results .",
+    "[ cols=\"^ , > , > , > , > , > , > , > , > \" , ]     [ tab : pred2 m ]",
+    "in this paper we have attempted to estimate real accuracy of predictions of eop using real - time predictions made at the iaa and the usno has been also made .",
+    "although collected statistics is too poor to make more or less final conclusions , we can state that :    * estimate of accuracy of prediction based on use of old data is not adequate to accuracy of real - time prediction , especially for short - time prediction .",
+    "a modification of commonly used method of a priori estimate of accuracy , e.g. , proposed in ( malkin & skurikhina 1996 ) can give more realistic estimates .",
+    "* accuracy of methods of prediction of eop used at the iaa and the usno is approximately the same .",
+    "more detailed conclusion can be made only after collecting supplement statistics .",
+    "* estimate of both rms and maximal errors in prediction is very useful for potential users .",
+    "it seems reasonable to provide such estimates for iers and other prediction series ."
+  ],
+  "abstract_text": [
+    "<S> to estimate real accuracy of eop prediction real - time predictions made by the iers subbureau for rapid service and prediction ( usno ) and at the institute of applied astronomy ( iaa ) eop service are analyzed . </S>",
+    "<S> methods of a priory estimate of accuracy of prediction are discussed . </S>"
+  ]
+}

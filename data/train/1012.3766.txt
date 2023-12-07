@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "we provide a brief description of some of the measured quantities in our sloan digital sky survey ( sdss ; * ? ? ?",
+    "* ) data release 7 ( dr7 ; * ? ? ?",
+    "* ) value - added catalog below . a much more thorough description of the catalog selection and its bulk characteristics can be found in @xcite .",
+    "the catalog will eventually be available on the vizier site , but can also be obtained immediately by contacting the primary author ( aaw ) .",
+    "we visually inspected 116,161 m dwarf candidates ( color selected from the sdss database ) and manually assigned spectral types .",
+    "the sample was divided among 17 individuals who used the manual `` eyecheck '' mode of the hammer ( v.  1_2_5 ; * ? ? ?",
+    "* ) to assign spectral types and remove non - m dwarf interlopers , resulting in 70,841 m dwarfs ( see figure [ fig : bam ] ) .",
+    "we also matched our catalog to the 2mass point source catalog @xcite , matching only to unique 2mass counterparts within 5@xmath5 of the sdss position that do not fall within the boundaries of an extended source ( gal_contam @xmath60 ) .",
+    "radial velocities ( rvs ) were measured by cross - correlating each spectrum with the appropriate @xcite m dwarf template .",
+    "this method has been shown to produce uncertainties ranging from 7 - 10 kms@xmath7 @xcite .",
+    "all of the dr7 objects were cross - matched to the usno - b / sdss proper motion catalog @xcite , identifying 39,151 m dwarfs with good proper motions .",
+    "distances to each star were calculated using the @xmath8 vs.  @xmath9 color - magnitude relation given in @xcite .",
+    "the proper motions and distances were combined with the rvs to produce 3-dimensional space motions for the dr7 m dwarfs .    as part of our analysis",
+    ", we measured a number of spectral lines and molecular features in each m dwarf spectrum .",
+    "all of the spectral measurements were made using the rv corrected spectra .",
+    "the tio1 , tio2 , tio3 , tio4 , tio5 , tio8 , caoh , cah1 , cah2 , and cah3 molecular bandhead indices and their formal uncertainties were measured using the hammer with the molecular bandheads as defined by @xcite and @xcite .",
+    "we also measured the chromospheric hydrogen balmer and ca ii lines that are associated with magnetic activity .",
+    "we expanded the h@xmath0 analysis of @xcite to include h@xmath1 , h@xmath2 , h@xmath3 and ca ii k ( h@xmath10 and ca ii h are blended in sdss data and were not included in our sample ) .",
+    "all of the line measurements were made by integrating over the specific line region ( 8   wide centered on the line ) and subtracting off the mean flux calculated from two adjacent continuum regions .",
+    "equivalent widths ( ew ) were computed for each line by dividing the integrated line flux by the mean continuum value .    for all of the active stars in the sample ( see * ? ? ? * for definition of activity ) we computed the ratio of luminosity in the emission line as compared to the bolometric luminosity ( l@xmath11/l@xmath12 ) .",
+    "we followed the methods of @xcite , @xcite and @xcite who derived @xmath13 factors for the balmer and ca ii chromospheric lines as a function of m dwarf spectral type .",
+    "the l@xmath11/l@xmath12 values were computed by multiplying the ew of each active star by the appropriate @xmath13 value .",
+    "formal uncertainties were computed for each l@xmath11/l@xmath12 value and are included in the final database .",
+    "we also computed the metal sensitive parameter @xmath4 , defined by @xcite , which uses a combination of the tio5 , cah2 , and cah3 molecular band indices to separate the sample into different metallicity classes .",
+    "this is similar to the @xcite classification system but was re - calibrated using wide common proper motion pairs that were assumed to be at the same metallicity .",
+    "stars with solar metallicity ( [ fe / h]=0 ) have @xmath4 values @xmath141 and stars with [ fe / h]=-1 have @xmath4 @xmath140.4 @xcite .",
+    "although there is considerable scatter in the [ fe / h ] versus @xmath4 relation at high - metallicities , this parameter is very useful for finding and classifying low - metallicity stars that are likely members of the galactic halo .    as with previous sdss spectroscopic catalogs of low - mass stars ,",
+    "we remind the community that these data do not represent a complete sample and that the complicated sdss spectral targeting introduces a variety of selection effects .",
+    "however , our new sample covers a large range of values for many of the physical attributes of the m dwarfs , including parameters that are sensitive to activity , metallicity , and galactic motion , making accurate activity , kinematic , and chemical analyses possible .",
+    "in addition , because some of the derived quantities are computed by automatic routines , values for a small percentage of individual stars may be incorrect ; this should not affect large statistical results .",
+    "users are nevertheless cautioned to understand the origin of specific data products before using them indiscriminately ."
+  ],
+  "abstract_text": [
+    "<S> we present a spectroscopic catalog of 70,841 visually inspected m dwarfs from the seventh data release ( dr7 ) of the sloan digital sky survey ( sdss ) . for each spectrum , we provide measurements of the spectral type , a number of molecular bandheads , and the h@xmath0 , h@xmath1 , h@xmath2 , h@xmath3 and ca ii k emission lines . in addition , we calculate the metallicity - sensitive parameter @xmath4 and 3d space motions for most of the stars in the sample . </S>",
+    "<S> our catalog is cross - matched to two micron all sky survey ( 2mass ) infrared data , and contains photometric distances for each star . </S>",
+    "<S> future studies will use these data to thoroughly examine magnetic activity and kinematics in late - type m dwarfs and examine the chemical and dynamical history of the local milky way . </S>"
+  ]
+}

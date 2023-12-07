@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "ec20058@xmath05234 has been the target of a long term campaign to measure the neutrino production rate in hot dbv wds .",
+    "these measurements also allow us to probe for a planetary system using the pulsation timing method , see @xcite .",
+    "a planetary companion will cause a wobble of the wd around the system barycenter , resulting in variations between the expected and observed arrival times of the wd pulsations ( o@xmath0c method ) .",
+    "this will cause an identical sinusoidal variation in each frequency s o@xmath0c diagram .",
+    "this method has resulted in a planet detection around an sdb star , see @xcite and planetary candidates and exclusions around wds , see @xcite .",
+    "we were able to build an o@xmath0c diagram for four pulsation frequencies ( figure [ oc ] ) .",
+    "first we note that each has a parabolic and sinusoidal component . the parabolic contribution to",
+    "an o@xmath0c is indicative of a slow linear change in period .",
+    "if we fit each o@xmath0c with a parabola + sinusoid we find that the four o@xmath0c diagrams can be split into two distinct sets .",
+    "two of the o@xmath0cs show a positive @xmath1 and a sinusoid with a relative phase of 0 and the other two o@xmath0cs reveal a negative @xmath1 and a sinusoid with relative phase @xmath2 .",
+    "the four have a sinusoidal contribution with different amplitudes but similar period .",
+    "finally we fit all four o@xmath0cs simultaneously with independent parabolas and with sinusoids of identical period and phase .",
+    "the functional form of our fit to the @xmath3 o@xmath0c is @xmath4    the data and the fit is shown in figure  [ oc ] .",
+    "the resultant fit parameters are summarized in table 1 .",
+    "[ oc ] 5234.,title=\"fig:\",width=576 ]    [ tbl1 ]    .model fit parameters .",
+    "see equation [ model ] .",
+    "all units for @xmath5 and @xmath6 are @xmath7 [ cols= \" < , > , > , > , > , > , > , > , > , > \" , ]",
+    "we have discovered sinusoidal behavior in pulsating wd o@xmath0cs that are not due to a planetary companion .",
+    "it has been assumed that variations of this nature could only be the result of a planet + wd system .",
+    "if only one of these four modes had been observed , it is very possible that the topic of this paper would be the first planet detection around a wd . even more alarming",
+    "is that the o@xmath0c diagrams have sinusoidal variations with correlated phase and period .",
+    "it seems plausible that two modes behaving in this way could conspire to mimic a planet + wd system .",
+    "this does not eliminate the possibility of a wd planet detection with this method , but demonstrates that a sinusoidal variation in the o@xmath0c of a single mode is inconclusive .",
+    "an important question is if dav and sdbv pulsators also experience the same o@xmath0c variations .",
+    "qualitatively , davs and dbvs are very similar .",
+    "it would seem likely that these types of variations could exist in the davs as well .",
+    "the sdbvs are somewhat different from the wd pulsators , but until the physical processes driving these variations are understood we can not exclude the possibility of this behavior .",
+    "r.  silvotti , s.  schuh , r.  janulis , j.  solheim , s.  bernabei , r.  stensen , t.  d. oswalt , i.  bruni , r.  gualandi , a.  bonanno , g.  vauclair , m.  reed , c.  chen , e.  leibowitz , m.  paparo , a.  baran , s.  charpinet , n.  dolez , s.  kawaler , d.  kurtz , p.  moskalik , r.  riddle , and s.  zola , _ nature _ * 449 * , 189191 ( 2007 ) .",
+    "c.  sterken , `` the o - c diagram : basic procedures , '' in _ the light - time effect in astrophysics : causes and cures of the o - c diagram _ , edited by c.  sterken , 2005 , vol .",
+    "335 of _ astronomical society of the pacific conference series _ , pp . 323 ."
+  ],
+  "abstract_text": [
+    "<S> we present 13 years of pulsation timing measurements of the dbv white dwarf ec20058@xmath05234 . </S>",
+    "<S> each of the four o@xmath0c diagrams mimic the sinusoidal behavior typically attributed to a planet + wd system . however , the amplitude and phase of the o@xmath0c variations are inconsistent with each other . </S>",
+    "<S> we discuss the impact of this result on timing based wd planet searches .     </S>",
+    "<S> address = university of delaware , department of physics and astronomy , 217 sharp lab , newark  de  19716 , usa , altaddress = delaware asteroseismology research center     address = university of delaware , department of physics and astronomy , 217 sharp lab , newark  de  19716 , usa , altaddress = delaware asteroseismology research center     address = university of delaware , department of physics and astronomy , 217 sharp lab , newark  de  19716 , usa , altaddress = delaware asteroseismology research center </S>"
+  ]
+}

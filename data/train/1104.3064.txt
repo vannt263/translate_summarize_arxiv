@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "very recently the bes - iii collaboration reported the observation of several resonant structures in the @xmath11 invariant mass spectrum in @xmath12 @xcite . among these resonant structures , @xmath0 that was first observed by the bes - ii collaboration  @xcite ,",
+    "was confirmed with mass and width of @xmath13 mev and @xmath14 mev , respectively .",
+    "the bes - ii determinations of the @xmath0 resonance parameters are @xmath15 mev and @xmath16 mev with @xmath17 .",
+    "in contrast with the bes - iii result , it shows that the newly measured width is larger than that from bes - ii .",
+    "apart from the @xmath0 , the observation of another two resonant structures initiate a lot of interests here , i.e. @xmath18 where we refer to these two new structures by the names @xmath1 and @xmath2 in this work .",
+    "in 2005 , when @xmath0 was firstly announced by the bes - ii collaboration , it immediately stimulated tremendous interests in its internal structure .",
+    "in particular , its appearance in @xmath19 instead of @xmath20 has initiated various interpretations based on exotic configutations .",
+    "taking into account the new observation of the @xmath1 and @xmath2 by bes - iii , it could be a great opportunity for us to gain some deep insights into the isoscalar pseudoscalar meson spectrum . to proceed",
+    ", we first give a brief review of the studies of the @xmath0 in the literature .",
+    "we will then propose a classification scheme to combining the @xmath1 and @xmath2 with the existing pseudoscalar mesons in the quark pair creation ( qpc ) model .    in ref .",
+    "@xcite , @xmath0 was explained as the lowest pseudoscalar glueball state due to the instanton mechanism of partial @xmath21 symmetry restoration . for further explaining why the mass of @xmath0 is lower than the prediction of the quenched lattice qcd and qcd sum rules ( qcdsr ) , an @xmath22-glueball mixing mechanism was proposed @xcite .",
+    "later , the authors of ref .",
+    "@xcite studied the qcd anomaly contribution to @xmath0 using the qcdsr , and obtained a sizable matrix element @xmath23 for @xmath0 .",
+    "it shows that @xmath0 could be explained as a pseudoscalar state with a large gluon content . in ref .",
+    "@xcite , a further study of @xmath0 as a pseudoscalar glueball was performed by estimating the decay rates of @xmath24 and cross sections of @xmath25 and @xmath26 by an effective lagrangian approach .",
+    "a @xmath27 trigluon glueball with mass range @xmath28 gev was also investigated within a baryonium - gluonium mixing picture using the qcdsr @xcite ."
+  ],
+  "abstract_text": [
+    "<S> inspired by the newly observed three resonances @xmath0 , @xmath1 and @xmath2 , in this work we systematically study the two - body strong decays and double pion decays of @xmath3 , @xmath4 and @xmath5 by categorizing @xmath3 , @xmath4 , @xmath1 and @xmath2 as the radial excitations of @xmath6 . </S>",
+    "<S> our numerical results indicate the followings : ( 1 ) the obtained theoretical strong decay widths of three pseudoscalar states @xmath7 , @xmath8 and @xmath9 are consistent with the experimental measurements ; ( 2 ) @xmath0 could be the second radial excitation of @xmath10 ; ( 3 ) @xmath1 and @xmath2 can be explained as the third and fourth radial excitations of @xmath6 , respectively . </S>",
+    "<S> the predicted two - body decay patterns of @xmath3 , @xmath4 and @xmath5 and their double pion decays should be useful for further testing the conventional meson assignment to @xmath3 , @xmath4 , @xmath1 and @xmath2 . </S>"
+  ]
+}

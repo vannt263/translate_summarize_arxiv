@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "comet halley has a large number of observed apparitions , and many visual observations have been published in the literature .",
+    "ferrn ( 2010)@xcite has published brightness observation of several comets , considering that the envelope of the data describes the behavior of the brightness in time .",
+    "several secular light curves show asimmetry . we have developed a model that predicts this asimmetry .",
+    "the orientation of the rotation axis explains the asimmetry in the secular light curve ( rondn & ferrn , 2010 ; rondn , 2007)@xcite@xcite .",
+    "the importance of studying the secular light curve is that it gives a large amount of physical informations of comet .",
+    "by modeling this curve we can explain the behavior of the brightness mathematically and we can predict the physical parameters of the curve .",
+    "the first step for modeling the light curve is to calculate the sublimation rate of water .",
+    "the equation that describes the vaporization rate of a comet is the energy conservation equation , given by :    @xmath1    where a@xmath2 is the infrared albedo , r@xmath3 sun - comet distance , @xmath4 is the projection factor ( cowan&ahearn , 1979)@xcite , @xmath5 is the steffan bolztmann constant , t is the temperature , z(t ) is the sublimation function , l(t ) is the latent heat function , k is the thermal conductivity constant , z is the layer depth .    @xmath6    where @xmath7 is the vapor pressure function , m is the molecular weight , k is the ideal gas constant .",
+    "if we know the vapor pressure function and the latent heat function , we can solve for the energy conservation equation(1 ) .",
+    "@xmath8    we have modeled the water production rate for comet 1p / halley using the observational data given by ( schleicher , 1998)@xcite , and we have found that when considering an active region of 80 km we can predict the average of the observational data ( fig.1a ) . however , the secular light curve considers the envelope of the data ( ferrin , 2005)@xcite . for this case",
+    "we have taken an active region of 180 km(fig.1b ) . in both cases",
+    "we have assumed an visual albedo @xmath9 , an infrared albedo @xmath10 and a thermal conductivity k=0 .",
+    "the correlation equation between the reduce visual magnitude and the water production rate is known ( jorda , 2008)@xcite and is given by :    @xmath11     + the secular light curve of comet halley is assymetric .",
+    "this can be explained through of the orientation of the rotation axis of comet ( rondn , 2007)(rondn & ferrn , 2010)@xcite@xcite .",
+    "-5 mm   -5 mm        -1.5 mm    we have calculated the standar deviation for our model with the observational data , and found that the solution with minimal standar deviation is for a obliquity , i = 90 and a pole orbital longitude , @xmath0 = 112 , ( fig , [ fig2 ] ) .",
+    "several authors obtained solutions for the orientation of the rotation axis ( sekanina , 1986 ) @xcite .",
+    "= 112. in the upper envelope curve has been considered an active region of 180 km and in the lower envelope curve has been considered an active region of 80 km.,title=\"fig:\",width=2 ] -3 mm    -7 mm + in figure [ fig2 ] we can see that a region of the solution of ( grun , 1986)@xcite has a standard deviation of only 1 magnitude . in the figure [ fig3 ] we have modeling the secular light curve assuming an orientation of the rotation axis of i= 90 , @xmath0=112 for an active region of 80 km(blue line ) , and 180 km , ( red line ) . in this graph",
+    "we can see that before perihelion the model fits the observational data , but after perihelion the fits is not very good .",
+    "this behavior is due to the thermal conductivity effect in the nuclear surface that has not been considered in the model . in figure 4",
+    "we can see that the surface temperature as a function of the latitude is constant for values of the heliocentric distance near and very far away of perihelion .",
+    "this behavior near of perihelion is that the coma of comet tends to stabilize the temperature , while for heliocentric distance very far away perihelion the sun radiation is small and therefore the whole cometary nucleus cools .",
+    "+   +     = 112.,width=2 ]",
+    "we have developed a theoretical model capable of reproducing the observational data of the secular light curve and water production rate of comet halley , with minimal standar deviation @xmath5 = 0.3 mag , for an orientation of the rotation axis i = 90 , @xmath12 = 112. the region of the solution shown by ( grun ,",
+    "1986)@xcite explain the secular light curve with a standard deviation @xmath5=0.6 5 mag .",
+    "we also have found that the surface temperature as a function of the latitude is constant for values of the heliocentric distance near and very far away of perihelion ."
+  ],
+  "abstract_text": [
+    "<S> we have been modeling the envelope of the secular light curve ( ferrn , 2010)@xcite of comet 1p / halley . </S>",
+    "<S> as the first step we have modeled the water production rate of the comet , for several active regions as a function of visual albedo and infrared albedo , and then we have used the correlation between the water production rate and the reduced magnitude ( jorda , 2008)@xcite for modeling the envelope of the secular light curve of the comet . </S>",
+    "<S> we obtain probable orientations of the rotation axis ( i,@xmath0 ) . </S>",
+    "<S> these orientations are compared with several solutions by several authors . </S>",
+    "<S> we have calculated the surface temperature for the orientation of the rotation axis with minimal standar deviation . </S>",
+    "<S> we have found that for near and far values of the perihelion the surface temperature as a function of the latitude is constant . </S>"
+  ]
+}

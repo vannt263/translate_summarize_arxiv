@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "the time evolution of the intrinsic continuum v - band polarization ( v - pol ) of @xmath0 aqr is shown in figure 1 .",
+    "we find evidence of clockwise loop - like structures ( figure 2 ) when comparing the evolution of the polarization across the balmer jump ( bj ) vs v - pol , particularly during polarimetric outburst events ( red in figure 1 ) .",
+    "60 cyg also displays this behavior .",
+    "we use the non - lte 3d monte carlo code developed by @xcite , hdust , to investigate the origin of the loop - like behavior of the bj vs v - pol during polarimetric outbursts .",
+    "interestingly , we find that the clockwise loop structures can be reproduced when the mass - loss from the central star which feeds the disk is turned on ( 6 to 12 o@xmath1clock , figure 3 ) then off ( 12 to 6 o@xmath1clock , figure 3 ) .",
+    "we therefore suggest that this diagnostic can provide insight into the time dependence of the density of the innermost disk region .",
+    "counter - clockwise loops are also observed in @xmath0 aqr and 60 cyg and will require further modeling to ascertain thier origin .",
+    "we note that @xcite found similar loop structures in cmd diagrams of be stars .",
+    "in ( * ? ? ? * paper i ) , we detected variations in the pa of disks during polarimetric outbursts , and speculated that these variations could be indicative of warps , non - equatorial blob injections , or spiral density waves in the inner disk .",
+    "figure 4 depicts deviations in the mean pa during polarimetric outbursts of @xmath0 aqr .",
+    "as shown in figure 5 , we model a density enhancement on one side ( orange ) of the disk and a decrement on the opposing side ( black ) using hdust .",
+    "the result of computing the polarization from different viewing angles in a counter - clockwise motion are shown in figure 6 .",
+    "this model suggests that asymeteric material being ejected from the star can potentially match observed deviations in the pa ."
+  ],
+  "abstract_text": [
+    "<S> in @xcite , paper i , we analyzed 15 years of spectroscopic and spectropolarimetric data from the ritter and pine bluff observatories of 2 be stars , 60 cygni and @xmath0 aquarii , when a transition from be to b star occurred . </S>",
+    "<S> here we anaylize the intrinsic polarization , where we observe loop - like structures caused by the rise and fall of the polarization balmer jump and continuum v - band polarization being mismatched temporaly with polarimetric outbursts . </S>",
+    "<S> we also see polarization angle deviations from the mean , reported in paper i , which may be indicative of warps in the disk , blobs injected at an inclined orbit , or spiral density waves . </S>",
+    "<S> we show our ongoing efforts to model time dependent behavior of the disk to constrain the phenomena , using 3d monte carlo radiative transfer codes . </S>"
+  ]
+}
