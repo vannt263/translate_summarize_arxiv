@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the asteroid 1689 floris - jan is a small sized object from the main asteroid belt .",
+    "it was discovered on september 1930 by h. van gent .",
+    "the diameter of 1689 floris - jan is estimated to be 9 to 27 km depending on the assumed albedo . in 1982",
+    "schober et .",
+    "al . ( 1982 ) presented ubv photometry of this object , which revealed its unusually long period of rotation of 6.042 @xmath0 0.21 days .",
+    "typical periods of rotation of asteroids range from about 2 to about 20 hours . for many years",
+    "this asteroid was considered to be one of the slowest rotators among minor planets .",
+    "1689 floris - jan was selected as a target for the observations by our colleagues from the astronomical observatory of adam mickiewicz university , pozna , during a long term program of ccd photometry of minor planets ( kryszczyska et .",
+    "al . , 1996 ) .",
+    "observational data were collected at the ostrowik station of the warsaw university observatory . we used a ccd system attached to 0.6 m telescope ( udalski and pych , 1992 ) . on nights of february 10th , 1997 and february 11th , 1997 we used cousins i filter for 120 second exposures . on the night of march 7th , 1997",
+    "we made unfiltered exposures with integration time of 60 seconds .",
+    "de - biasing and flat - fielding were done with the procedures available in the iraf package .",
+    "aperture photometry was obtained with the daophotii program ( stetson , 1987 ) .",
+    "figure 1 presents the light curve of the 1689 floris - jan compared with the light curves of two nearby stars , obtained on the night 1997.02.11/12 .",
+    "monotonic rise of brightness is observed .",
+    "this is the manifestation of the long rotational period of the planet .",
+    "short period light variations with an amplitude of about 0.1 mag . are superimposed onto the long term trend .",
+    "we subtracted linear trends from the data from feb.10th , 1997 and feb .",
+    "11th , 1997 separately .",
+    "figure 2 shows the aov ( schwarzenberg - czerny , 1991 ) and fourier - clean ( roberts et.al . , 1987 )",
+    "periodograms computed on the collected data points .",
+    "peaks corresponding to the period of 0.003461 @xmath0 0.000006 [ days ] ( 4.98 @xmath0 0.01 minutes ) are clearly present on both periodograms .    figure 3 presents phased light curve based on the points from the two nights .",
+    "solid line shows sine fit to the obtained light curve .",
+    "full amplitude of the fit is 0.084 mag .",
+    "taking into account that exposure time was 40% of the observed period we made the amplitude correction according to the following formula : @xmath1 this correction yields the real amplitude of about 0.11 mag .    the observed period might be two times longer ( i.e. about 10 minutes ) , if we assume that it was a result of the fast rotation of the object . lately",
+    "two independent groups claimed similar periodicity in the light variations of an apollo - type object 1998 ky26 ( pravec and sarounova , 1998 ; hicks and rabinowitz , 1998 ) .",
+    "no light oscillations of the 5 minute period were observed in the data obtained for 1689 floris - jan in the night of match 7th , 1997 .",
+    "figure 4 presents the light curve of 1689 floris - jan compared with the light curves of the two nearby stars .",
+    "no significant light variations are present .",
+    "hicks , m. , and rabinowitz , d. , 1998 , iauc , 6945 kryszczyska , a. , colas , f. , and berthier , j. , michaowski , t. and pych , w. , 1996 , icarus , 124 , 134 pravec , p. , and sarounova , l. , 1998 , iauc , 6941 roberts , d.h . , lehar , j. , and john w. dreher , j.w . , 1987 , astron .",
+    "j. , 93 , 968 schober , h.j .",
+    ", surdej , j. , harris , a.w . , and young , j.w . , 1982 ,",
+    "a&a , 115 , 257 schwarzenberg - czerny , a. , 1991 , mnras , 253 , 198 stetson , p.b . , 1987 , pasp , 99 , 191 udalski , a. , and pych , w. , 1992 , acta astron . , 42 , 285"
+  ],
+  "abstract_text": [
+    "<S> we present ccd photometry of the long period asteroid 1689 floris - jan . on the light curve from nights </S>",
+    "<S> 1997.02.10/11 and 1997.02.11/12 we detected sine - like oscillations with the period p=4.98 @xmath0 0.01 minutes and full amplitude about 0.11 mag . </S>",
+    "<S> observations from night 1997.03.07/08 show no light variations at this period . </S>"
+  ]
+}

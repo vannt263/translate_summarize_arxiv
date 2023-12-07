@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "the 48  ms radio pulsar psr  b1259@xmath063 is in a highly eccentric 3.4  yr orbit with a be star ( johnston et al .",
+    "1992 ) . near periastron ,",
+    "for a sufficiently strong be star wind , psr  b1259@xmath063 could possibly make a transition to an accretion regime , exhibiting x - ray pulsations of luminosity @xmath210@xmath3  erg  s@xmath4 .",
+    "_ asca _ x - ray observations at three epochs around the 1994 periastron passage ( kaspi et al .",
+    "1994 ; hirayama 1996 ) found the source to be unpulsed , with modest luminosity @xmath110@xmath5  erg  s@xmath4 , for a distance of 2  kpc .",
+    "these properties imply that shock emission produces the observed x - rays , rather than accretion ( tavani & arons 1997 ) .",
+    "however radio timing observations suggested sudden , brief accretion events near periastron that could not be ruled out by the x - ray observations ( manchester et al .",
+    "indeed the pulsar s anomalously low period suggests it may have undergone occasional accretion episodes in the past .",
+    "_ asca _ observations during the 1997 periastron passage were impossible due to solar constraints .",
+    "the asm on _ rxte _ has been observing bright celestial x - ray sources regularly since early 1996 .",
+    "the instrument consists of three `` scanning shadow cameras , '' each containing a position - sensitive proportional counter that is mounted below a wide - field collimator , covered by a coded mask .",
+    "the instrument provides roughly 5 celestial scans per day , with diminished exposure in directions toward the sun .",
+    "further information on the asm is given by levine et al .",
+    "( 1996 ) . while psr  b1259@xmath063 is not routinely monitored for the asm source - history database , we extracted an x - ray light curve as an archival analysis project using standard techniques .",
+    "the derived light curve ( figure  1a ) covers the time interval of mjd 5017850762 ( 1996 apr 5 to 1997 nov 10 ) .",
+    "the overall mean intensity of psr b1259@xmath063 during this time interval was @xmath6  erg  s@xmath4  @xmath7 at 210 kev .",
+    "this result is given with consideration of both the systematic bias and uncertainty in the asm light curves for faint , yet fairly isolated x - ray sources .",
+    "figure  1b shows @xmath8 upper limits obtained in the periastron vicinity in 2-day averages .",
+    "it shows that in the 2 weeks following periastron , the source was not observed to be brighter than @xmath110 times the 1994 periastron luminosity .",
+    "the @xmath8 upper limits to the x - ray emission from psr  b1259@xmath063 from the asm thus argue that the pulsar did not undergo even brief episodes of accretion during the 1997 periastron passage .",
+    "this is consistent with the shock emission model , as well as with new conclusions based on timing that rule out the sudden `` spin - ups '' that were claimed previously ( wex et al . 1998 ) .",
+    "hirayama , m. 1996 , phd thesis , university of tokyo kaspi , v. m. et al .",
+    "1995 , apj , 453 , 424 levine , a. m. et al .",
+    "1996 , apj , 469 , l33 manchester , r. n. et al .",
+    "1995 , apj , 445 , l137 tavani , m. , arons , j. 1997 , apj , 477 , 439 wex , n. et al .",
+    "1998 , mnras , in press"
+  ],
+  "abstract_text": [
+    "<S> _ rxte_/asm observations of psr  b1259@xmath063 near the 1997 periastron passage find no emission brighter than @xmath110 times that detected by _ asca _ during the 1994 periastron encounter , demonstrating that the pulsar is unlikely to have undergone even brief episodes of accretion . </S>"
+  ]
+}

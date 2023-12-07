@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "new high resolution spectra are presented for the high - redshift @xmath2 lensed system behind a2390 .",
+    "figure 1 shows a section of the spectrum aligned along the long axes of the two main arcs .",
+    "this clearly shows that the ly@xmath1 emission is spatially - separated from the continuum light and redshifted with respect to the interstellar lines , indicating an outward flow of enriched gas thought to be typical of starburst galaxies ( lequeux et al .",
+    "all stellar and interstellar features are common to both spectra , confirming these arcs are images of one single highly - magnified galaxy .",
+    "note the ly@xmath1 absorption is seen only in the southern portions of both arcs , coincident with the stellar continuum and with no associated ly@xmath1 emission , indicating absorption of this line where the hi column is high . a lens model for this system",
+    "is discussed in frye & broadhurst ( 1998 ) .",
+    "keck infrared observations were also taken to study the stellar populations of this galaxy , by comparing flux ratios on opposite sides of the 4000   break ( bunker , et al .",
+    "these proceedings ) .",
+    "the famous ` straight ' arc was first observed spectroscopically by pell , et al .",
+    "1991 at z=0.913 .",
+    "the straightness and length of this arc led to difficulties in finding a reasonable lens model ( kassiola , et al .",
+    "we present here new keck spectra taken along this arc confirming the known redshift , z=0.913 , but also revealing that the redshift of component a of this arc ( in the notation of pell et al ) is in fact an unrelated galaxy at z=1.033 .",
+    "thus the straight arc comprises two unrelated galaxies , close in projection .",
+    "interestingly , low ionization metal lines are found at @xmath3 against the spectrum of the higher redshift galaxy , indicating an extended gaseous halo around this lower redshift galaxy , similar to the halos detected against bright qsos ( bergeron , et al .",
+    "1992 , steidel , et al .",
+    "1994 , churchill , et al . 1996 ) as shown in figure 3 .",
+    "two - dimensional spectrum of two arcs at z=4.040 , taken along the long axes of the arcs .",
+    "the northern and southern components extend 5 and 3 arcsec above and below the central cluster elliptical , the bright white central strip .",
+    "the blue end is at the left hand side of the chip and the pixel scale is 0.21 arcsec / pix .",
+    "ly@xmath1 emission , seen in each component as a bright spot in the blue is spatially separated from the broad clearly visible continuum and the damped ly@xmath1 absorption .",
+    "high resolution keck spectra of two arcs at z=4.040 ( 8 resolution ) .",
+    "the upper two panels show the spectra of the southern and northern arcs .",
+    "( see fig .",
+    "the interstellar lines of siii , oi , cii , and siiv are clearly seen in both images , used in determining the redshift .",
+    "these metal lines lie blueward of the centroid of the ly@xmath1 emission by 300km / s .",
+    "this behavior is common to all high quality high redshift and local starburst galaxy spectra and indicates global outflow of gas .",
+    "keck spectra taken at two different positions along the straight arc .",
+    "two unrelated galaxies are found at z=0.913 and z=1.033 , corresponding to components c and a respectively ( in the notation of pell , et al .",
+    "in addition interstellar lines of mgii and feii at the redshift of component c are seen in absorption towards the higher redshift component a ( indicated by dashed lines extending downward into the middle panel ) , evidence for an extended gaseous halo ."
+  ],
+  "abstract_text": [
+    "<S> we present new keck observations of giant arcs in the cluster abell 2390 . </S>",
+    "<S> high resolution two - dimensional spectra of two arcs show metal lines at @xmath0 with ly@xmath1 emission spatially separated from the stellar continuum . </S>",
+    "<S> in addition , spectroscopy along the notorious ` straight ' arc reveals two unrelated galaxies , at z=0.913 and z=1.033 , with absorption lines of mgii and feii at z=0.913 seen against the more distant object , indicating the presence of a large gaseous halo . </S>"
+  ]
+}

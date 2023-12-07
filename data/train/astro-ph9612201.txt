@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "early - type ( sa - sab ) spirals are widely perceived to be the most inert of spiral galaxies .",
+    "indeed , the very term `` early - type '' refers to an early phase of star formation that has long since passed eg . @xcite .",
+    "the perception is based , in large part , on the optical morphology which is dominated by an inert stellar bulge .",
+    "there are other observational results , however , which suggest that early - type spirals are not as quiescent as once believed .",
+    "one of the most striking is the fact that early - type spirals are among the most luminous in the population of nearby galaxies ( d @xmath1 40mpc ) when observed in the far - infrared with the infrared astronomical satellite @xcite . adopting the far - infrared luminosity as a measure of the massive star formation rate ,",
+    "one finds that the iras data reveals a previously unsuspected population of early - type spirals with star formation rates that rival the most prodigously star forming sc galaxies .",
+    "data obtained with the infrared astronomical satellite ( iras ) are used to investigate the dependence of the l(fir)/l(blue ) ratio on hubble type for a sample of 1462 galaxies selected from the nearby galaxy catalog @xcite . adopting the far infrared luminosity as a measure of the present day massive star formation rate and the blue luminosity as a measure of the past star formation rate , the l(fir)/l(blue ) luminosity ratio measures the ratio of present to past star formation in a way that is analogous to @xmath0 equivalent widths .",
+    "our results ( fig .",
+    "1 ) @xcite indicate +    a ) the mean l(fir)/l(blue ) luminosity ratios are similar for sa s , sb s , and sc s .",
+    "+    b ) the range in l(fir)/l(blue ) luminosity ratios is as large for the early - type spirals as it is for the late type spirals .",
+    "thus , l(fir)/l(blue ) luminosity ratios do not support what may be one of the most basic tenets of extragalactic astronomy , that the ratio of present to past star formation is correlated with hubble type .",
+    "there is growing evidence to suggest that early - type spiral galaxies are perhaps the most dynamic of all the nearby galaxy systems .",
+    "the discovery of ripples , shells @xcite , and counter rotating gas and star disks in some early - type spirals @xcite @xcite indicate that a major accretion event occured in the past 1 - 2 gyr @xcite .",
+    "we have obtained @xmath0 images for 5 of the most luminous ( @xmath2 ) sa - sab galaxies . the @xmath0 images ( fig .",
+    "2 ) suggest two types of early - type spiral galaxies .",
+    "one type clearly shows signs of disturbance in both the continuum and @xmath0 images .",
+    "the other type includes galaxies that appear to be undisturbed morphologically , but their entire @xmath0 emission is radiated from a very small , @xmath3 , diameter region centered on the nucleus .",
+    "the origin of the nuclear @xmath0 emission is unclear , but it is most likely a starburst , an active nucleus or a combination of the two .",
+    "the current perception that high mass star formation increases along the hubble sequence ( sa - scd ) is largely based on measurements of the @xmath0 luminosities and equivalent widths by kennicut & kent @xcite .",
+    "their measurements do indicate an increase in the ratio of present to past star formation along the sequence sa to sc .",
+    "our results , however , indicate that both the massive star formation rate and the present to past star formation ratio are independent of hubble type , at least for the sa s , the sb s and the sc s . on the other hand",
+    ", there is still a lingering controversy over the origin of far infrared luminosity .",
+    "we are therefore obtaining complimentary @xmath0 images for a complete , all sky , sample of 57 , bright , @xmath4 magnitudes , nearby , @xmath5 mpc , early type ( sa - sab ) spiral galaxies in order to better understand the difference between the iras results and the existing @xmath0 measurements ."
+  ],
+  "abstract_text": [
+    "<S> a recent analysis of the iras database indicates that the massive star formation rates in early - type ( sa - sab ) spirals are comparable to the massive star formation rates in late - type spirals . @xmath0 </S>",
+    "<S> imaging of some of the infrared luminous early - type spirals reveals two types of galaxies . </S>",
+    "<S> one type shows clear signs of interaction , whereas the other type appears to host a nuclear starburst . </S>",
+    "<S> the occurence of nuclear starbursts in early - type spirals may be related to the propensity for such galaxies to also host seyfert nuclei . </S>",
+    "<S> the evidence for interactions suggests that early - type spirals are evolving in the current epoch . </S>"
+  ]
+}

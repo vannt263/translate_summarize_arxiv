@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "the galactic x - ray transient grs1915 + 105 has proved to have a rich structure in its high- and low - energy x - ray emission . in the radio regime , it is no less remarkable : mirabel & rodrguez ( 1995 ) discovered a double - sided relativistic ejection for which they derive a velocity of 0.92@xmath0 .",
+    "the distance is estimated , from hi absorption measurements , to be 12.5 kpc .",
+    "radio monitoring had already shown the emission to be highly variable ( rodrguez et al .",
+    "( 1995 ) , foster et al .",
+    "( 1996 ) ) , and we started monitoring the source at 15 ghz in mid-1995 . the observational details and further results are described by pooley & fender ( 1997 ) .",
+    "figure 1 shows the data for some 17 months .",
+    "individual observations lasted from less than 1 hour to about 6 hours .",
+    "it can be seen that the variations are unpredictable and frequently very rapid ; the flux density can increase from less than 1 mjy to 100 mjy and back in less than a day .",
+    "the major flare event starting in 1996 july was characterised by relatively smooth variations during the first month or so ; subsequently the source became highly variable and showed frequent examples of quasi - periodic variations .      a characteristic form of the outbursts observed at 15 ghz is an event with a rise - time of less than 5 min , followed by a roughly exponential decay with time constant between 12 and 25 min .",
+    "these may be isolated , they may recur with apparently random intervals , or they may repeat with some regularity ; the qpos seem to favour intervals near 25 and 40 minutes , although not exclusively so .",
+    "some examples are shown in figure 2 .",
+    "the pattern of radio emission is related in a rather complex way to that of the soft x - ray , as recorded by the _",
+    "rxte _ all - sky monitor .",
+    "active ( rapidly - varying ) x - ray emission is usually , but not always , accompanied by radio emission . during the 1996 july radio flare ,",
+    "the x - ray emission was unusually constant .",
+    "obtaining simultaneous observations of the rapid qpo events is difficult , since they are very unpredictable , but we believe that these observations will be necessary for a better understanding of the source .",
+    "perhaps the most intriguing simultaneous observation is that on 1996 oct 24 , when the pca on the _ rxte _ satellite detected oscillations which appear , on the basis of only a few cycles , to be related in phase with the 15-ghz data .",
+    "fender et al .",
+    "( 1997 ) have observed outbursts in the infrared with time - scales and flux densities similar to those of the radio events .",
+    "we do not yet have simultaneous ir and radio data for these flares ."
+  ],
+  "abstract_text": [
+    "<S> monitoring with the ryle telescope at 15ghz of the galactic x - ray transient source grs1915 + 105 has revealed a remarkable range of rapid and extended flares which appear to be related to the x - ray emission as recorded by the _ </S>",
+    "<S> rxte _ all - sky monitor . </S>",
+    "<S> quasi - periodic oscillations in the range 20  40 min have been found and are probably related to oscillations in the soft x - ray flux .    </S>",
+    "<S> [ poole ] </S>"
+  ]
+}

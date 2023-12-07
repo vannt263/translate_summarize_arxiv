@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "the h  i proximity effect has been widely studied since it was discovered .",
+    "one thing of particular interest is that the study of the h  i proximity effect provides a method of measuring the intensity of the muvb at the h  i edge .",
+    "however , the h  i proximity effect does not reveal information on the spectral shape of the muvb .",
+    "we demonstrate that the proximity effect on metal elements may provide a method for constraining the spectral shape of the muvb .",
+    "songalia and cowie ( 1996 ) @xcite reported that metal elements are detected in 75% of clouds with @xmath0 .",
+    "the lack of data for studying the proximity effect on metal elements is going to overcome .",
+    "if future observations detect what we expect for the proximity effect on metal elements , it will confirm that the proximity effect is an ionization effect and photoionization is the dominant ionization mechanism for metal ions in which the proximity effect is seen .",
+    "the electronic configurations of metal elements are complicated and a large number of ionization stages can coexist simultaneously . in general , a simple feature does not exist for metal proximity effect , unlike for the h  i proximity effect .",
+    "therefore , we may study the dependence of the column density ratios of two ions in successive ionization stages on @xmath1 .",
+    "we found that [ o  iv / o  iii]@xmath2 is the most optimum indicator of the spectral shape of the muvb ( we use [ x]@xmath2 to represent the ratio of the value of x in the vicinity of the qso to that in background case ) .",
+    "the hst does provide the possibility to observe o  iv and o  iii simultaneously @xcite and @xcite .",
+    "it is clear from figure 1 that [ o  iv / o  iii]@xmath2 strongly depends on the assumed spectral shape of the muvb and less sensitive to the assumed @xmath3 ( the ionization parameter in background case ) in small @xmath1 region .",
+    "therefore , [ o  iv / o  iii]@xmath2 is good for constraining the spectral shape even if @xmath3 is unknown .",
+    "the ratio si  iv / c  iv , contrast to previous thought , is not a good indicator to the spectral shape , because it strongly depends on both the ionization parameter @xmath3 and the spectral shape of the muvb . a small uncertainty on either of them must results in a big error in determination of the other .",
+    "we also found that the extra ionizing radiation from qsos does not always reduce the ratio c  iv / h  i , but enhances c  iv / h  i in the case of @xmath4 .",
+    "so , the observed excess of c  iv systems in luminous qsos may be a photoionization effect , but not a gravitational lensing effect @xcite .",
+    "99 liu , j.m . , & meiksin , a. , 1997 , in preparation songaila , a. , & cowie , l.l .",
+    "1996 , aj , 112 , 335 tripp , t.m .",
+    ", lu , l. , & savage , b.d .",
+    "1997 , [ astro - ph/9703080 ] vanden berk , d.e . ,",
+    "quashnock , j.m . , york , d.g . , & yanny , b. 1996 , 469 , 78 vogel , s. , & reimers , d. 1995 , a&a , 294 , 377"
+  ],
+  "abstract_text": [
+    "<S> using our photoionization code cirrus @xcite , we show that the study of proximity effect on metal elements provides a possibility of placing constraints on the spectral shape of the metagalactic uv background ( muvb ) . from theoretical point of view , the most optimum indicator of the spectral shape of the muvb is the ratio o  iv / o  iii . unlike previous thought , </S>",
+    "<S> the ratio si  iv / c  iv is not a good indicator of the spectral shape because of its strong dependence on an ionization parameter as well . </S>",
+    "<S> we also find that the observed excess of c  iv systems in luminous qsos may be a photoionization effect , but not a gravitational lensing effect @xcite . </S>"
+  ]
+}

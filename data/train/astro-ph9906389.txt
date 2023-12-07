@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "if @xmath2-ray bursts ( grbs ) originate in a dense environment their x  ray afterglow spectra are modified by absorption features and the imprinted edges can be used to determine their redshifts . given the time decay law observed in the grb x  ray afterglows , the necessary s / n ratio to reveal an absorption feature can be achieved only if the x  ray observation starts immediately after the burst itself , or if the collecting effective area of the detector is much larger than 100 @xmath3 .",
+    "we have simulated the observed spectrum by using the response matrices of some future planned missions , such as jet - x ( @xmath4 @xmath3 at 1.5 kev and @xmath5 @xmath3 at 8.1 kev for the two telescopes ; citterio et al .",
+    "1996 ) , axaf with back illuminated ( bi ) ccds ( @xmath6 @xmath3 at 1.5 kev and @xmath7 @xmath3 at 8.1 kev ; kellogg et al . 1997 ) and xmm with the epic detectors ( @xmath8 @xmath3 at 1.5 kev and @xmath9 @xmath3 at 8.1 kev for three telescopes ; gondoin et al . 1996 ) and assuming : @xmath10 @xmath11 erg @xmath12 s@xmath13 between 2 and 10 kev at the beginning of the observation ; @xmath14 a power law time decay of the flux @xmath15 ; @xmath16 an intrinsic ( unabsorbed ) power law spectrum of photon index @xmath17 constant in time . all the simulations reported here",
+    "refer to observations of 10 ks .",
+    "we simulated two different cases : a grb afterglow at @xmath18 and intrinsic @xmath19 @xmath12 and @xmath20 and @xmath21 @xmath12 , which are relevant for the oxygen and iron edge , respectively .",
+    "a galactic column density of @xmath22 @xmath12 has also been included ( for an overview of the @xmath23 values with bepposax see owens et al .",
+    "1998 ) . in the case of the oxygen edge ( at 0.52 kev ) the satellite energy band is extremely important in order to recover the correct grb redshift .",
+    "we keep fixed the edge energies , even if in the case of a warm absorber fit should be worse .    in the case of jet - x , the minimum energy of 0.3 kev limits the maximum detectable redshift to @xmath24 .",
+    "the influence of the galactic absorption plays also a crucial role , such that only for low values ( @xmath25 @xmath12 ) we are able to disentangle the intrinsic and the galactic absorption .    in fig .",
+    "1 ( left side ) we report the contour plots in the @xmath26 plane of the simulated models as observed with different x  ray satellites .",
+    "the three contours refer to 1 , 2 and @xmath27 confidence levels . in fig .",
+    "1a is shown the case of the jet - x telescope .",
+    "it can be noted that the input redshift and column density are not recovered satisfactorily .",
+    "in particular , the presence of different absorption features ( o , ne , mg , si ) results in the elongated contour in the @xmath26 plane . in the case of axaf ( fig .",
+    "1b ) , the recovery of the grb redshift is eased by the higher throughput at low energies guaranteed by the bi ccds .",
+    "the large effective area of xmm poses no problem for the identification of the redshift ( fig .",
+    "in the case of the fe edge there are less problems due to the fact that beyond iron there are not prominent k edges .",
+    "this is testified by fig .",
+    "1 ( right side ) , in which for all the considered instrument the redshift and the column density are recovered with a high degree of confidence .",
+    "note however that at these large redshift , the iron abundance may be lower than the solar value .",
+    "oxygen and iron edges are the most prominent absorption features in the spectra of x  ray sources .",
+    "this individuates two almost distinct accessible part of the redshift ",
+    "column density plane for grb : one characterized by a moderate @xmath28@xmath29 @xmath12 and @xmath30@xmath31 and the other one by a column larger than @xmath32 @xmath12 . note that for a standard dust to gas ratio , a column of @xmath33 @xmath12 corresponds to an optical extinction @xmath34 mag , precluding the possibility to detect the optical afterglow .",
+    "if , furthermore , it were not possible to perform spectroscopic optical observation of the host galaxy ( either because a precise position is lacking , or because it is too faint ) , then the x  rays could be the only mean to determine the redshift , especially for strong bursts located at @xmath35 , for which the iron edge lies in the most sensitive energy range of x  ray detectors .",
+    "citterio o. et al .",
+    "1996 , spie , 2805 , 56 ghisellini g. et al . , 1999 , apj , 517 , 168 gondoin p. et al . , 1996 ,",
+    "spie , 2808 , 390 kellogg e.m .",
+    "et al . , 1997 ,",
+    "spie , 3113 , 515 owens a. et al .",
+    ", 1998 , a&a , 339 , l37"
+  ],
+  "abstract_text": [
+    "<S> if @xmath0ray bursts originate in dense stellar forming regions , the interstellar material can imprint detectable absorption features on the observed x  ray spectrum . </S>",
+    "<S> such features can be detected by existing and planned x  ray satellites , as long as the x  ray afterglow is observed after a few minutes from the burst . </S>",
+    "<S> detection of these x  ray features will make possible the determination of the redshift of @xmath0ray bursts even when their optical afterglows are severely dimmed by extinction . for further detail </S>",
+    "<S> see ghisellini et al . </S>",
+    "<S> ( 1999 ) . </S>"
+  ]
+}

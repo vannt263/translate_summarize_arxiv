@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "axaf hetg is designed to provide high resolution spectroscopy up to e/@xmath1e@xmath2 ( for point source ) between 0.4 kev and 10 kev .",
+    "if the dla systems contain a sufficient column density of highly ionized metals , the high spectral resolution of the hetg will permit detection of resonance lines . for specificity ,",
+    "we consider q2223 - 052 , a high redshift quasar at z = 1.404 which has a dla cloud at @xmath3 .",
+    "x - ray observations with @xmath4 @xcite show its flux to be @xmath5 between 0.16 - 3.5 kev .",
+    "this implies a count rate of 0.36 counts / sec with axaf meg in the first order .",
+    "given the observation time and the instrument resolving power we can calculate the minimum detectable equivalent width of an absorption feature and the required ion column density . in table 1 @xmath6 is the required column density .",
+    "here @xmath7 is the optical depth at the line center , and the velocity dispersion @xmath8 .",
+    "all energies are in the observer frame .",
+    "we assume the spectrum of the high - z quasar has the form of a power law + galactic absorption + an assumed resonance line from the dla system due to si  xiii at @xmath9 in the observer frame , then fit it with a model not containing the absorption line . in the @xmath10 plot",
+    "we can clearly find the line .",
+    "+     ion&e(kev)&ew(ev)&@xmath7&@xmath11&@xmath12 + mg xi&0.91&1.4&3&6&9.8 + si xiii&1.26&1.2&1.2&3.2&4.6 +",
+    "table 1 gives the minimum column density which could be detected the by axaf hetg .",
+    "could a dla cloud gives such a column density ? to answer this question , we have simulated the ionization structure using the cloudy package @xcite .",
+    "we assume the dla cloud is photonionizated by a power law continuum radiation with a mean intensity of @xmath13 at 1 rydberg , @xmath14 .",
+    "the temperature and metallicity are fixed at @xmath15 and @xmath16=-0.5 $ ] @xcite .",
+    "the value of @xmath13 is very uncertain , especially at low redshift .",
+    "our calculation shows that only when @xmath17 are ion column densities high enough to produce resonance lines which could be detected by axaf hetg ( see fig.1 ) .",
+    "the results presented in the sixth column of table 2 is calculated with @xmath18 .",
+    "haardt & madau @xcite give a value of @xmath19 at @xmath20 when taking into account qsos as the source of ionization .",
+    "however , some other photonionization sources , such as the young stars inside the dla clouds and nearby quasars , may significantly increase the intensity of ionization photon flux . on the other hand",
+    ", there may also exist other sources of ionization ( such as collisional ionization ) or other ionized material co - located with dla clouds , which would then simply be markers of higher density regions in an ionized intergalactic medium ."
+  ],
+  "abstract_text": [
+    "<S> the high energy transmission grating ( hetg ) spectrometer on the advanced x - ray astrophysics facility ( axaf ) ( scheduled for launch in august , 1998 ) will provide a new tool for the study of absorption in the x - ray spectra of high redshift quasars due to the material along the line of sight . in this paper </S>",
+    "<S> we try to explore the possibility of using axaf hetg to detect resonance absorption lines from the damped lyman-@xmath0 ( dla ) clouds . </S>"
+  ]
+}

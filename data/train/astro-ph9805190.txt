@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "the rapidly oscillating ap stars ( roap ) represent a class of stars pulsating in nonradial p - modes with periods of 415 min .",
+    "we have begun a programme of using precise stellar radial velocity ( rv ) measurements to study these pulsations .",
+    "data were acquired using the f3 focus of the 2-d coud spectrograph of mcdonald observatory s 2.7-m telescope ( @xmath1 @xmath2 60,000 ) .",
+    "rv measurements were made using an iodine gas absorption cell placed in the optical path of the spectrograph ( cochran & hatzes 1994 ) .",
+    "exposures of 45 - 60 secs duration were made in rapid succession over @xmath3 4 hrs for each of the stars presented here .",
+    "to date we have measured rvs in three roap stars :    _ @xmath0 equ : _ the photometric variability is dominated by 4 modes centered around 12 min ( martinez et al .",
+    "the dominant photometric period has been detected in our rv measurements . a detailed analysis ( kanaan & hatzes , 1998 )",
+    "reveals that the pulsational rv amplitude depended not only on atomic species , but also line strength .",
+    "figure  [ gamequ ] shows the measured pulsational amplitude as a function of equivalent width for neutral and once ionized cr , fe , and ti .    _",
+    "hr 1217 : _ there are at least 6 pulsation modes in this star with periods near 6.15 minutes",
+    ". matthews et al .",
+    "( 1988 ) found a peak - to - peak rv amplitude of 400 m s@xmath4 .",
+    "our measurements show that the rv amplitude depends on the spectral region that is examined ( fig .",
+    "[ hr1217 ] ) .    _",
+    "33 lib : _ the single pulsation mode with period 8.27 min ( kurtz 1991 ) is clearly seen in the periodogram of the rv measurements ( top panel of fig .  [ 33lib ] ) .",
+    "the 2@xmath5-amplitude of the variations is about 100 m s@xmath4 ( lower panel fig .",
+    "[ 33lib ] ) .",
+    "our rv measurements show that the pulsational amplitude for roap stars depends 1 ) on atomic species ( e.g. in @xmath0 equ , cr has a higher amplitude than fe ) , and 2 ) line strengths ( weaker lines have a higher rv amplitude than stronger lines ) .",
+    "the former effect is interpreted as arising from the inhomgenous distribution of elements on the stellar surface ( if cr is concentrated at the magnetic poles then its vertical motion is unhindered by the field lines ) .",
+    "the line strength effect most likely arises from vertical structure of the pulsations since weaker lines are formed , on average , deeper in the stellar atmosphere ."
+  ],
+  "abstract_text": [
+    "<S> we present recent results from our radial velocity ( rv ) studies of rapidly oscillating ap ( roap ) stars . </S>",
+    "<S> our measurements reveal that the pulsational amplitude of these stars depends on the spectral region that is examined . for one star , @xmath0 equ , </S>",
+    "<S> the pulsational rv amplitude depends on both line strength and atomic species . </S>",
+    "<S> the elemental difference is most likely related to the abundance patches on the surface of these stars . </S>",
+    "<S> the line strength difference is interpreted as arising form a height effect in the atmosphere . </S>",
+    "<S> ultimately , these measurements may provide valuable diagnostics of the atmospheres of these stars . </S>"
+  ]
+}

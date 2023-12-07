@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "our model is most briefly described as kind of a synthesis of a modified tinsley model for the chemical evolution ( sn@xmath1ia treated  la matteuchi ) and a bruzual  like model for the spectral evolution of the stellar population .",
+    "models have been improved to be * chemically consistent * , i.e. we use evolutionary tracks , yields , lifetimes and remnant masses for the metallicity calculated at the time of birth for respective stars .",
+    "metallicity dependent stellar yields and remnant masses for massive stars ( @xmath2 ) are taken from weaver & woosley@xcite . for lower mass stars data from van den hoek & groenewegen@xcite are incorporated .",
+    "updated sn@xmath1ia contributions are taken from nomoto et al.@xcite . adopting any cosmological model ( @xmath3 , @xmath4 , @xmath5 ) and epoch of galaxy formation ( ) we obtain redshift dependent quantities ( ism abundances , spectra , etc . ) which can be compared to observations .",
+    "-2.25 cm    -0.75 cm",
+    "figure  1 shows preliminary results for the abundances of zinc .",
+    "a considerable part of observed dla abundances@xcite@xcite lies between our sa and sd models . in particular",
+    "the chemically consistent sd model fits the observational data better than the model calculated with solar abundances !",
+    "the rough agreement of element abundances from our models with those for high redshift galaxies ( dla systems at @xmath6 ) is an important result , because the sfr we use has been derived from comparison with photometric data of low redshift galaxies ( @xmath7 ) .",
+    "the appreciable number of precise dla abundances now available enables us for the first time to compare results of our chemical evolution models with high redshift ( @xmath6 ) galaxies .",
+    "99 lu , l. , et al .",
+    ", 1996 , apjs 107 , 475 nomoto , k. , et al .",
+    ", 1997 , preprint astro - ph/9706025 pettini , m. , et al . , 1997 ,",
+    "apj 486 , 665 van den hoek , l.b . ,",
+    "& groenewegen , m.a.t . , 1997 , a&a suppl .",
+    "123 , 305 woosley , s.e . & weaver , t.a .",
+    ", 1995 , apjs 101 , 181"
+  ],
+  "abstract_text": [
+    "<S> we have compiled all available data on chemical abundances in damped lyman alpha absorption systems for comparison with results from our combined chemical and spectrophotometric galaxy evolution models . </S>",
+    "<S> preliminary results from * chemically consistent * calculations are in agreement with observations of damped ly@xmath0 systems . </S>"
+  ]
+}

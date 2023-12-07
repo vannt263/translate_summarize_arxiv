@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "at this conference it has been said that determinations of cosmological parameters from cmb data is something that will be done in the future  that the scatter in the data does not allow one to conclude anything yet .",
+    "however the results presented here show that current cmb data can _ already _ rule out large regions of parameter space under certain popular assumptions , e.g. , adiabatic initial conditions , no tensor modes , @xmath13 .",
+    "the details of these assumptions as well as results for the slope @xmath14 and amplitude @xmath15 of the primordial power spectrum and the position and amplitude of the peak in the power spectrum are given in lineweaver & barbosa ( 1997a & b ) . here",
+    "i limit the discussion to the cmb constraints on @xmath0 and @xmath1 .",
+    "figure 1 is a compilation of current cmb data .",
+    "although there is much scatter , simple binning of the data brings out a very significant peak at @xmath16 .",
+    "we do @xmath17 fits of model power spectra to this data .",
+    "the power spectra are calculated with a fast boltzmann code ( seljak & zaldarriaga , 1996 ) .",
+    "our results are displayed in figures 2 and 4 where the @xmath18 contours are for @xmath19 $ ] corresponding to @xmath20 $ ] confidence regions .    by comparing figures 2 and 3",
+    "we see that the cmb and non - cmb constraints are consistent in the sense that the 68% confidence regions overlap .",
+    "however the overlap is at @xmath21 .",
+    "this is inconsistent with local measurements of hubble s constant which favor @xmath22 .",
+    "the assumption that @xmath23 has led to this inconsistency .",
+    "figures 4 and 5 show that this inconsistency is removed when we let @xmath24 .",
+    "figure 4 shows that letting @xmath1 be a free parameter loosens the constraint on @xmath0 but that a very narrow banana in the @xmath25 plane is preferred .",
+    "this region is consistent with the non - cmb constraints as well as with the local measurements of @xmath0 since the 68% confidence regions of figures 4 and 5 overlap .",
+    "an interesting common feature in both plots is that high @xmath1 values prefer low @xmath0 while low @xmath1 values prefer high @xmath0 .",
+    "notice that the @xmath10 , @xmath26 model cited by ostriker as a model consistent with all observational data is acceptable to the non - cmb data but is ruled out by the cmb data at more than @xmath12 .",
+    "figure 6 combines both cmb and non - cmb observations .",
+    "the maximum likelihood is at @xmath27 and @xmath28 .",
+    "critical density universes , i.e. , @xmath23 , are marginally excluded at about the 95% confidence level . the low density universe mentioned by ostriker ( @xmath26 , @xmath10 )",
+    "is excluded at slightly more than the 95% confidence level .",
+    "my conclusion is that cmb data can _ already _ be used as a tool to distinguish contending cosmological models and determine cosmological parameters .    9 lineweaver , c.h .",
+    "& barbosa , d. ( 1997a ) , `` cosmic microwave background observations : implications for hubble s constant and the spectral parameters @xmath14 and @xmath15 in cold dark matter critical density universes '' , _ astronomy & astrophysics _ , in press    lineweaver , c.h . & barbosa , d. ( 1997b ) , `` what can cosmic microwave background observations already say about cosmological parameters in open and critical - density cold dark matter models ? '' , _ astrophysical journal _ , in press"
+  ],
+  "abstract_text": [
+    "<S> the cmb is already one of the pillars of the big bang model . </S>",
+    "<S> however it may also become our most powerful tool to distinguish contending models and to determine their cosmological parameters . </S>",
+    "<S> to realize this goal , more than 20 observational groups and two new satellites are gearing up to make precise measurements of the cmb at small angular scales . </S>",
+    "<S> in such a situation it is important to keep track of what the cmb data can already say about cosmological parameters .    </S>",
+    "<S> current cmb data can already be used to constrain cosmological parameters . </S>",
+    "<S> the results are model dependent . </S>",
+    "<S> we have obtained contraints on hubble s constant @xmath0 and the density of the universe @xmath1 in the context of open and critical density cdm models with @xmath2 . in critical density models we obtain @xmath3 . </S>",
+    "<S> this low value is inconsistent with direct measurements of @xmath0 but fully consistent with four other cosmological measurements : big bang nucleosynthesis , cluster baryonic fraction , age constraints from globular clusters and limits on the shape parameter @xmath4 of matter power spectra ( in @xmath5 models ) . if @xmath1 is left as a free parameter the constraints on @xmath0 are less restrictive : @xmath6 . </S>",
+    "<S> this is fully consistent with local @xmath0 measurements and the four other cosmological measurements mentioned above . </S>",
+    "<S> the best - fit density is @xmath7 and we set an upper limit of @xmath8 at @xmath9 cl .    at this conference ostriker has claimed that open - cdm models with @xmath10 and @xmath11 are compatible with all current data . however our new cmb data analysis rules this model out at more than @xmath12 . </S>"
+  ]
+}

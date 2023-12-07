@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "in a previous paper @xcite , quashnock , vanden berk , & york analyzed line  of  sight correlations of  and  absorption  line systems on large scales , using an extensive catalog @xcite  of 2200 heavy  element absorption  line systems in over 500 qso spectra . here , we extend that analysis to smaller comoving scales  from 1 to 16   and relate the small  scale clustering of absorbers to galaxy clustering in general .",
+    "the  and  data sample is drawn from the catalog of vanden berk  @xcite , using the same selection criteria as those in @xcite .",
+    "it consists of 260  absorbers , drawn from 202 lines of sight , with redshifts ranging from @xmath11 and mean redshift @xmath0 , and 64  absorbers , drawn from 278 lines of sight , with redshifts ranging from @xmath12 and mean redshift @xmath1 .    unless otherwise noted , we take @xmath5 and @xmath13 .",
+    "we follow the usual convention and take the hubble constant to be 100@xmath14  km  s@xmath15  mpc@xmath15 . a more detailed version of this work , including more results and outlining our maximum  likelihood method , has appeared elsewhere @xcite .",
+    "figure  1 shows the line  of  sight correlation function @xmath16 , for the entire sample of  absorbers ( with mean redshift @xmath0 ) , as a function of absorber comoving separation @xmath17 from 1 to 16 , in 4 octaves .",
+    "the vertical error bars through the data points are 1-@xmath18 errors in the estimator for @xmath19 .",
+    "the correlation function and error bars are computed in the same fashion and using the same selection criteria as those in @xcite , except that we have combined all absorbers lying within 1.0 ( instead of 3.5 ) comoving  of each other into a single system .    using the maximum  likelihood method of @xcite",
+    ", we find that , for the  sample as a whole , the line  of  sight correlation function is well described by a power law of the form @xmath2 , with maximum  likelihood values of @xmath3 and comoving correlation length @xmath4  ( @xmath5 ) .",
+    "the clustering of absorbers at high redshift is thus of the _ same form _ as that found for galaxies and clusters at low redshift ( @xmath20 for galaxies @xcite , @xmath21 for clusters @xcite ) , and of amplitude such that absorbers are correlated on scales of clusters of galaxies .",
+    "it appears that the absorbers are tracing the large  scale structure seen in the distribution of galaxies and clusters , and are doing so at high redshift .",
+    "the finding strengthens the case for using absorbers in probing large  scale structure .",
+    "we have investigated the evolution of the clustering of absorbers by dividing the  absorber sample into three approximately equal redshift sub  samples , and comparing these to the  sample .",
+    "figure  2 shows the mean of the correlation function , @xmath6 , averaged over comoving scales @xmath17 from 1 to 16 , for the low ( @xmath22 ) , medium ( @xmath23 ) , and high ( @xmath24 ) redshift  sub  samples , as well as for the  sample ( @xmath25 ) .",
+    "the amplitude of the correlation function is clearly growing _ rapidly _ with decreasing redshift .",
+    "we have used the maximum  likelihood formalism of @xciteto describe the evolution of the correlation function . we have fixed @xmath26 at its maximum  likelihood value of 1.75 in our analysis , and parametrized the amplitude of the correlation function in the usual manner as @xmath27 , where @xmath28 is the evolutionary parameter @xcite . using all the data sets",
+    ", we find that the rapid growth is reflected in a large value for the evolutionary parameter , namely @xmath29 .",
+    "this value is 3.3-@xmath18 from the no  evolution value ( @xmath30 ) ; thus , at the 99.95 % confidence level , growth of the correlation function has been detected .",
+    "( these results are with @xmath5 . with @xmath31",
+    ", we expect our estimate of @xmath28 to decrease by about 1.3 . )",
+    "the rapid growth in the correlation function , and the correspondingly large value of the evolutionary parameter ( @xmath29 ) that is implied , is what is expected in a critical universe ( @xmath32 ) , both from linear theory of gravitational instability @xcite , with @xmath33 ( or @xmath34 , if @xmath35 ) , and from numerical simulations @xcite : for @xmath32 , @xmath36 , whereas for @xmath37 , @xmath38 .",
+    "evidence for a trend of increasing clustering of ly@xmath39 absorbers ( @xmath40 ) with decreasing redshift has been found by cristiani  @xcite .",
+    "these authors also find a clear trend of increasing ly@xmath39 absorber clustering with increasing column density , and find that an extrapolation to column densities typical of heavy  element systems ( @xmath41 ) is consistent with the clustering observed for  absorbers @xcite .",
+    "our finding of growth in the clustering of heavy  element systems with decreasing redshift supports both a continuity scenario between ly@xmath39 and heavy  element systems @xcite , and the common action of gravitational instability .",
+    "the strong clustering that we find in the heavy  element absorption  line systems is thus not surprising , given that most of the sample consists of the strongest systems with relatively large equivalent widths ( order 0.4   and greater ) , and the recent claims @xcite  of a strong dependence of clustering strength on the column density of the systems .",
+    "we do confirm that the weaker systems ( equivalent widths 0.2   and less ) are less clustered than the stronger ones , by a factor of two or so ; unfortunately , most of the spectra used to assemble the vanden berk  catalog @xcite  are not of sufficient quality to yield a large number of weak systems ."
+  ],
+  "abstract_text": [
+    "<S> we have analyzed the clustering of  and absorption  line systems on comoving scales from 1 to 16 , using an extensive catalog of heavy  element qso absorbers with mean redshift @xmath0 and @xmath1 . </S>",
+    "<S> for the  sample as a whole , the absorber line  of  sight correlation function is well fit by a power law of the form @xmath2 , with maximum  likelihood values of @xmath3 and comoving @xmath4  ( @xmath5 ) . </S>",
+    "<S> this clustering is of the _ same form _ as that for galaxies and clusters at low redshift , and of amplitude such that absorbers are correlated on scales of clusters of galaxies . </S>",
+    "<S> we also trace the _ evolution _ of the mean amplitude @xmath6 of the correlation function from @xmath7 to @xmath8 . </S>",
+    "<S> we find that , when parametrized in the conventional manner as @xmath9 , the amplitude grows _ rapidly _ with decreasing redshift , with maximum  likelihood value for the evolutionary parameter of @xmath10 ( @xmath5 ) . </S>",
+    "<S> the rapid growth seen in the clustering of absorbers is consistent with gravitationally induced growth of perturbations . </S>"
+  ]
+}

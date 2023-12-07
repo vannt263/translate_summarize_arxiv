@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "a very weak feature at 1176    was found by laor et al .",
+    "( 1995 ) in three high s / n quasar spectra obtained by hst , and was tentatively identified as c  iii@xmath0 .",
+    "the rich uv emission line spectrum of the narrow line quasar i zw 1 obtained by hst ( laor et al . in preparation ) allowed us to clearly identify this feature as c  iii@xmath0 .",
+    "this line was previously detected in agns only in absorption ( bromage et al .",
+    "1985 , kriss et al . 1992 ) .",
+    "the line originates from radiative transition of electrons at the @xmath6 levels ( 17.1 ev above the ground level ) , down to the @xmath1 levels ( 6.5 ev above the ground level ) .",
+    "given the high energy of the @xmath6 levels , the presence of significant c  iii@xmath0 emission appears surprising .",
+    "in order to calculate the c  iii@xmath0 line flux we solved the equilibrium equations for the population of the lowest 10 levels of c  iii ( n=2 levels ) .",
+    "collisional coupling of all levels , and radiative decay to all levels are included .",
+    "the contributions of recombination ( mostly dielectronic ) and continuum fluorescence to the level population were not included since they are not important for the observed line flux .",
+    "we find that for typical blr conditions which are able to generate significant c  iii]@xmath7 emission ( @xmath8 ) , the @xmath9 ratio is at least 50 times smaller than observed .",
+    "the observed @xmath9 ratio is obtained for @xmath10 . but this ratio is obtained because @xmath11 is strongly suppressed at such a high density , and not because @xmath12 is enhanced .",
+    "a high density component can not produce the observed @xmath12 flux even for a covering factor of @xmath13%          the observed @xmath9 is obtained for @xmath16  k. such a component was also inferred by kriss et al .",
+    "( 1992 ) in ngc  1068 , based on the c  iii@xmath17 and n  iii@xmath18 lines .",
+    "however , the overall observed emission line spectrum is fit well by photoionization models , rather than collisional ionization models .",
+    "the @xmath19 produced by resonance scattering of continuum photons in the blr is : @xmath20 , where @xmath21 is the blr covering factor , @xmath22 is the velocity dispersion within the cloud , and @xmath23 is the line center optical depth ( for @xmath24 , the @xmath19 is increased by @xmath25 ) . the optical depth is @xmath26 , where @xmath27  km  s@xmath5 , and the sum is over the 6 permitted transitions contributing to the @xmath12 line .",
+    "we get @xmath28-@xmath29 for @xmath308 - 10 .",
+    "thus the observed c  iii@xmath0 @xmath19 of 1.4    can be produced if @xmath31  km  s@xmath5 , and @xmath32 .",
+    "a similar process of continuum fluorescence was invoked by ferguson et al .",
+    "( 1995 ) to explain the strong c  iii@xmath17 and n  iii@xmath18 lines in ngc  1068 .",
+    "bromage , g.  e. , et al .",
+    "1985 , , 215 , 1 ferguson , j.  w. , ferland , g.  j. , & pradhan , a.  k.  1995 , , 438 , l55 kriss , g.  a. , et al . , 1992 , , 394 , l37 laor , a. ,",
+    "1995 , , 99 , 1 storey , p.  j. , 1981 , , 195 , 27p"
+  ],
+  "abstract_text": [
+    "<S> i zw 1 is a well known narrow line quasar with very strong fe  ii emission . </S>",
+    "<S> high s / n spectra obtained with the hst _ fos _ show a remarkably rich emission line spectrum . </S>",
+    "<S> the c  iii@xmath0 line is clearly detected in emission for the first time in agns . </S>",
+    "<S> this line arises from radiative decay to the @xmath1 metastable levels of c  iii . </S>",
+    "<S> the observed flux is _ @xmath2 larger _ than expected from collisional excitation , or dielectronic recombination , in photoionized gas . </S>",
+    "<S> the most plausible mechanism for the large enhancement in the c  iii@xmath0 flux is resonance scattering of continuum photons by c  iii@xmath3 ions . </S>",
+    "<S> this mechanism requires _ large velocity gradients _ ( @xmath4  km  s@xmath5 ) within each emitting cloud in the blr . such large velocity gradients can be induced by forces external to the gas in the blr clouds , such as tidal disruption , or radiation pressure . </S>"
+  ]
+}

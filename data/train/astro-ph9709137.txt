@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "we present the analysis of the distribution of ly-@xmath0 clouds at @xmath2 .",
+    "our line sample was drawn from the hst fos spectra of 152 qsos . in order to achieve self - consistency",
+    "we reduced all the spectra from scratch .",
+    "the line sample consists of lines between the ly-@xmath3 and ly-@xmath0 emission lines .",
+    "we excluded : metal systems and regions adjacent to them , lines within 3000  km / s from the qso emission redshift , and lines with @xmath4   .",
+    "the resulting sample has 595 lines .",
+    "the evolution of the ly-@xmath0 forest lines is usually described with @xmath5 . for a non - evolving population of clouds @xmath6 , depending on @xmath7 . at @xmath8 , @xmath9 is significantly higher than 1 , indicating strong evolution ( e.g.  @xcite and references therein ) .",
+    "the results from the hst key project showed that for low redshifts @xmath9 is smaller , and in principle consistent with no evolution ( @xcite , @xcite ; see @xcite for completed key project results ) .",
+    "we estimated @xmath9 for various subsets of our sample .",
+    "see @xcite for detailed description of the sample and the analysis .",
+    "we present the major results in tab .  1 and on fig .  1 .",
+    "we confirm that line density evolution at @xmath10 is much slower than at higher redshifts and that it is consistent with the no evolution case .",
+    "it is possible that the number density of weak lines increases with decreasing redshift . in any case",
+    ", there is a significant difference in the evolution of weak and strong lines . while number densities of strong and weak lines are comparable at @xmath11 , the former outnumber the latter more than twice at @xmath12 .",
+    "this can be an indication that the weak and strong lines are members of separate populations of the absorbers .",
+    "ccccc @xmath13 [  ] & @xmath14 [  ] & @xmath15 & @xmath9 & @xmath16 + @xmath17 & 1.00 & 595 & @xmath18 & @xmath17 + 0.24 & 1.00 & 339 & @xmath19 & 26.3 + 0.36 & 1.00 & 296 & @xmath20 & 11.0 + 0.24 & 0.36 & 125 & @xmath21 & 12.0 +    99 bechtold , j. 1994 , apjs , 91 , 1 bahcall , j.  n. , et al .",
+    "1993 , apjs , 87 , 1 bahcall , j.  n. , et al .",
+    "1996 , apj , 457 , 19 dobrzycki , a. , et .",
+    "al .  1997 , to be submitted to apj jannuzi , b.  t. 1997 , this volume"
+  ],
+  "abstract_text": [
+    "<S> we present the analysis of a sample of the ly-@xmath0 forest spectra of 152 quasars taken with the hst fos . </S>",
+    "<S> the ly-@xmath0 lines show little evolution at @xmath1 . </S>",
+    "<S> we see a difference between the evolution indices for weak and strong lines . </S>"
+  ]
+}

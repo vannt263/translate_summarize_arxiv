@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "soft excesses are the steep upturn in the x - ray spectra of active galactic nuclei ( agn ) below @xmath12kev ( e.g. ) . they were first detected in seyfert galaxies @xcite , where they are quite common (; mushotzky et al .",
+    ". they can be modelled by a steep power law ( @xmath22 ) , or by a cool thermal component ( t@xmath3ev ) , and are thought to be the high energy tail of the accretion disc radiation ( e.g. mushotzky et al .",
+    "1993 ) .",
+    "soft excesses are reasonably common in quasars @xcite , and there appears to be a trend for the more distant objects to have flatter spectra @xcite , as expected if a soft component were being redshifted below the soft x - ray energy range .",
+    "initial detections were in radio - quiet objects @xcite , but more recent work @xcite suggests that a soft excess may also be a common feature in radio - loud objects .",
+    "one of these with a consistently detected soft excess is 3c 273 @xcite .",
+    "it is also one object for which the spectral parameters of the soft excess itself are reasonably well known ( leach et al .",
+    "[ cols=\"<,<,^,>,^,^,^,<,^,^,^,^ \" , ]     notes : @xmath4_rxte _ observation number , @xmath5best - fitting power law slope to _ rxte _ data only with 68 per cent error , @xmath6value for _ rxte _ fitting only , @xmath7_rosat _ observation numbers used in combined fits with the _ rxte _ data , @xmath8best - fitting power law slope to the combined _ rxte _ and _ rosat _ data ( see section  [ sec - spec ] ) , @xmath9value for combined _ rosat _ and _ rxte _ fits , @xmath10210kev model flux , @xmath11wm@xmath12 , @xmath130.12kev model flux , @xmath11wm@xmath12",
+    "we have presented contemporary _ rxte _ ( 215kev ) and _ rosat _ ( 0.12kev ) observations of the quasar 3c 279 at daily intervals over a three week period . during this time the source exhibited only low amplitude variability , decreasing in flux by @xmath130 per cent .",
+    "the largely featureless nature of the light curves prevents us from determining any lag between the _ rxte _ and _ rosat _ light curves which are quite consistent with zero time delay .",
+    "we find no evidence for any spectral variability either within the _ rxte _ observations or in the combined _ rxte _ and _ rosat _ observations .",
+    "there is also no significant evidence that a soft excess is present , although modelling can not rule out a soft excess which emits 25 per cent of the 0.12.0kev x - ray luminosity .",
+    "comparison with 3c 273 shows that any soft excess is relatively weaker in 3c 279 than in 3c 273 ( although the upper limit to the soft excess in 3c 279 in terms of absolute luminosity is some three times larger than that of 3c 273 ) .",
+    "this relative weakness could be caused by a number of phenomena , such as a more luminous source having a more massive black hole and cooler disc , but it is more likely that 3c 279 is more jet dominated than 3c 273 , perhaps due to a higher beaming factor or more acute viewing angle .",
+    "tashiro  m. , ueda  y. , kii  t. , makino  f. , fujimoto  r. , mushotzky  r. , makishima  k. , yamashita  a. , 1994 , in makino  f. , ohashi  t. , eds , new horizon of x - ray astronomy - first results from asca .",
+    "uap , tokyo , p.  343",
+    "urry  c.  m. , arnaud  k. , edelson  r.  a. , kruper  j.  s. , mushotzky  r.  f. , 1989 , in hunt  j. , battrick  b. , eds , proc .",
+    "23rd eslab symposium on two topics in x - ray astronomy .",
+    "esa sp-296 , noordwijk , netherlands , p.  789"
+  ],
+  "abstract_text": [
+    "<S> we present the results of a three - week daily monitoring campaign on the quasar 3c 279 by the x - ray satellites _ rxte _ and _ rosat_. a cross correlation provides no evidence for any time lag between the very similar soft and hard x - ray light curves , and the source shows no significant spectral variability over the observing period . </S>",
+    "<S> there is no evidence to support the presence of a soft excess , with a 99 per cent upper limit on any such component of 25 per cent of the total observed luminosity in the 0.12kev band ( @xmath0w ) . </S>",
+    "<S> this fraction ( but not the luminosity ) is significantly less than that of the soft excess observed in 3c 273 .    </S>",
+    "<S> quasars : individual : 3c 279 - galaxies : active - x - rays : galaxies </S>"
+  ]
+}

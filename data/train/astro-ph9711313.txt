@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "dynamical evolution of globular clusters is strongly affected by gravitational tidal shocks .",
+    "when the clusters cross the disk of the galaxy they experience disk shocking ; when the clusters pass near the galactic center , they experience bulge shocking .",
+    "the effects of the tidal shocks depend on the density of the background stars and are especially pronounced in the inner regions of the galaxy .",
+    "tidal shocks increase the energy of random motion of stars , reduce the binding energy of the cluster , accelerate core collapse , and lead to the faster overall evolution and destruction of globular clusters ( for example , spitzer 1987 ; weinberg 1994 ; murali & weinberg 1997a , b , c ; gnedin & ostriker 1997a ) .",
+    "we calculate the rate of destruction of globular clusters as a result of various physical processes : two - body relaxation , evaporation of stars through the tidal boundary , disk shocking and bulge shocking ( gnedin & ostriker 1997a ) .",
+    "we use a fokker - planck code which includes tidal shocks semi - analytically .",
+    "we introduce the adiabatic corrections that account for the conservation of adiabatic invariants of the fast moving stars ( gnedin & ostriker 1997b ) .",
+    "these corrections reduce the energy input due to the shocks in the inner parts of the cluster . the results ( figure 1 ) show that tidal shocks dominate cluster evolution near the galactic center .",
+    "overall , as many as 50% to 90% of the present sample of globular clusters may be destroyed within the next hubble time .",
+    "tidal shocks destroy most easily the low - mass , low - density clusters .",
+    "figure 2 shows the distribution of the inner and outer galactic globular clusters . as expected , there are no low - density clusters in the inner part of the galaxy where the tidal shocks operate most efficiently .",
+    "removal of those low - mass clusters makes the mean , or the peak , of the luminosity function ( lf ) to shift towards bighter magnitudes .",
+    "an apparent correlation of the masses and densities of outer clusters allows us to construct an intrinsic distribution of globulars , unaffected by the shocks . by applying the dynamical calculations",
+    ", we can estimate the amount of brightening of the peak of the lf .",
+    "assuming that in all galaxies the initial distribution is the same , we can reconstruct the shock history in an external galaxy and infer the peak of the original distribution of globular clusters . comparing that peak with the center of the intrinsic distribution in the galaxy ,",
+    "we obtain a distance estimate to the galaxy .",
+    "this method is fully independent and makes unnecessary the common assumption that the peak of the lf is a standard candle . applied to the best known samples of m31 and m87 ( ostriker & gnedin 1997 )",
+    ", our method gives a distance estimate in very close agreement with that obtained with cepheids and other methods .",
+    "tidal heating can be simply parametrized to study semi - analytically the evolution of the individual clusters .",
+    "we derive analytic equations for the first and second order energy changes , @xmath0 and @xmath1 , of stars in the cluster ( gnedin , hernquist & ostriker 1997 ) .",
+    "these equations are supplemented by the adiabatic corrections depending on the effective duration of the shock .",
+    "heating on the nearly circular orbits is strongly suppressed because the `` shock '' becomes very slow ( figure 3 ) .",
+    "the analytical estimates are tested against the self - consistent n - body simulations of the shocking event along a true trajectory of the cluster in the galaxy .",
+    "we find a remarkable agreement with the simulations .",
+    "gnedin , o. y. , hernquist , l. & ostriker , j. p. 1997",
+    ", , submitted gnedin , o. y. & ostriker , j. p. 1997a",
+    ", , 474 , 223 gnedin , o. y. & ostriker , j. p. 1997b",
+    ", , submitted murali , c. & weinberg , m. d. , 1997a , , 288 , 749 murali , c. & weinberg , m. d. , 1997b , , 288 , 767 murali , c. & weinberg , m. d. , 1997c , , 291 , 717 ostriker , j. p. & gnedin , o. y. 1997 , , 487 , 667 spitzer , l. 1987 , dynamical evolution of globular clusters ( princeton : + princeton university press ) weinberg , m. d. 1994 , , 108 , 1414"
+  ],
+  "abstract_text": [
+    "<S> the semi - analytic theory of tidal shocks proves to be a powerful tool to study tidal interactions of star clusters and satellite galaxies with their massive hosts . </S>",
+    "<S> new models of the globular cluster evolution employ a combination of analytic estimates , solutions of the fokker - planck equation and direct n - body simulations . </S>",
+    "<S> the models predict large destruction rates for the galactic globular clusters . </S>",
+    "<S> those on the highly eccentric orbits around the galactic center are much more likely to be disrupted than the ones on nearly circular orbits . </S>",
+    "<S> the destruction rates are largely increased near the bulge . </S>",
+    "<S> disruption of the low - mass clusters changes the luminosity function of the globular cluster system , shifting the peak of the luminosity function to the brighter end . </S>"
+  ]
+}

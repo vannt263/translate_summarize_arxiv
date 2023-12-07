@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "despite the potential for obscuration by dust , a significant fraction of a disk galaxy s uv emission manages to escape and thus be detected by instruments located beyond the earth s atmosphere . even in disk galaxies of high inclination",
+    ", uv imaging can reveal widespread emission ( cf .",
+    "fanelli et al . , neff et al . , & oconnell , these proceedings ) .",
+    "ultraviolet imaging of nearby disk galaxies reveals the star - forming activity with unprecedented clarity .",
+    "unlike imaging at h@xmath0 , uv imaging _ directly _ traces the full range of oba stellar spectral types , thereby sampling the recent - epoch `` population i '' component of each galaxy more completely .",
+    "uv imaging also provides a cleaner separation of the hot star component in regions dominated by cooler stars ( e.g. central disks & bulges ) .",
+    "moreover , uv imaging is unaffected by line absorption in the atmospheres of b & a - type stars  unlike imaging at h@xmath0 and h@xmath1  thereby providing a truer representation , where these populations are concentrated ( see figure 1 ) .",
+    "finally , the uv colors of ob / hii regions can be used to derive extinction - free uv luminosities @xcite@xcite , whereas few constraints exist for deriving extinction - free euv ( e.g. lyman continuum ) luminosities based on h - line , radio - continuum , or other indirect indices .",
+    "uv images of nearby disk galaxies obtained with the shuttle - borne _ ultraviolet imaging telescope _ ( uit ) reveal a remarkable variety of star - forming morphologies .",
+    "these pop i patterns yield important insights to the respective roles of _ tides , waves , and resonances _ in orchestrating starbirth activity in disk galaxies .",
+    "a comparison of m33 ( scd ) , m74 ( sc ) , and m81 ( sb ) at uv and visible wavelengths highlights the pop i character of the uv imagery @xcite . _ flatter radial distributions _",
+    "are evident in the uv  with exponential scalelengths that are 2045% larger .",
+    "the effects of reddening , abundance , and imf variations do not fully explain the differences .",
+    "the flatter uv profiles most likely indicate that the median radius of star - forming activity has migrated outward over the past several gyrs @xcite .",
+    "the uv morphologies also show _ narrower arms _  delineated by a combination of direct starlight from oba associations and indirect ( scattered ) radiation from dust associated with the massive young stars @xcite@xcite .",
+    "the narrower uv features indicate that star formation over the past @xmath210 myrs occupies a significantly smaller areal domain than the @xmath211000 myr legacy of star formation that is traced at longer wavelengths .      in the giant sci spiral m101 ,",
+    "multiple linear arm segments ( _ `` crooked arms '' _ ) can be traced throughout the disk ( see figure 2 ) .",
+    "these features , along with a faint spiral arm and _ `` curly tail '' _ feature that links the outermost supergiant hii region with the rest of the galaxy , indicate that _ tidal processes of both external and internal origin _ are directing the current starbirth activity @xcite .",
+    "numerical simulations of isolated disk galaxies show that the `` crooked arm '' behavior can arise through the action of `` massive disturbers '' orbiting within the disks .",
+    "the outermost supergiant hii region , ngc 5471 may represent one of these massive disturbers .",
+    "larger - scale morphological and kinematic anomalies in m101 , including the faint arm and `` curly tail '' feature , require external interactions with companion galaxies .",
+    "such interactions can induce the formation of massive condensations at the ends of the tidal tails , perhaps explaining the origin of ngc 5471 at the terminus of m101 s `` curly tail '' @xcite .",
+    "similar behavior can be found in other giant sc galaxies with `` companions , '' including m51 , ngc 1232 , ngc2805 , and ngc 4303 .      in the `` grand - design '' sci galaxy m74 ( ngc 628 ) ,",
+    "reflection of the uv - emitting disk upon itself shows the spiral structure to be more symmetric than is observed at visible wavelengths  thus arguing for large - scale dynamics ( e.g. density waves ) governing the current - epoch star formation @xcite .",
+    "evidence for _ spatio - temporal sequences _ of molecular - cloud aggregation , massive star formation , cluster evolution , and cloud disruption can be found in m74 , m51 ( oconnell , these proceedings ) , and the _ inner disk _ of m101 @xcite . in m101 , far - uv emission is often found on the outer ( downstream ) side of the inner - disk co arms .",
+    "modeling the fuv ",
+    "co displacements according to density - wave dynamics results in a wave pattern speed and co - rotation radius remarkably similar to those derived from a multi - mode analysis of the optical spiral structure @xcite .",
+    "similar downstream displacements between the fuv and h@xmath0 emission is evident in the se arm of m74 , again indicating density - wave dynamics at work .      in the sab spiral m94 ( ngc 4736 ) , uv imaging reveals an inner starbursting ring and bi - symmetric outer knots in high contrast against the underlying visible bulge and disk ( see figure 1 ) .",
+    "dynamical resonances seem to best explain these transient features .",
+    "similar uv rings are evident in the inner disks of ngc 1317 ( sba ) , ngc 1512 ( sbb ) , ngc 3351 ( sbb ) , and m100 ( ngc 4321 ) ( sc )  most of which are also of `` early '' morphological type .",
+    "resonances may also explain the dearth of uv emission interior to m81 and m31 s ring - like spiral arms @xcite , whereby star - forming gas migrates outwards from the interior and piles up near the inner lindblad resonances ( kenney , these proceedings ) . because the longer - wavelength emission traces the older stellar populations and is so prominent interior to the ringlike arms , we conclude that the resonant locations and their constructive / inhibiting effects must have evolved with time ."
+  ],
+  "abstract_text": [
+    "<S> ultraviolet imaging of nearby disk galaxies reveals the star - forming activity in these systems with unprecedented clarity . </S>",
+    "<S> uv images recently obtained with the shuttle - borne ultraviolet imaging telescope ( uit ) reveal a remarkable variety of star - forming morphologies . </S>",
+    "<S> the respective roles of tides , waves , and resonances in orchestrating the observed patterns of starbirth activity are discussed in terms of the extant uv data . </S>"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "the shapley supercluster ( ssc ) is recognised as one of the most massive concentrations of galaxies in the local universe@xcite so it is of particular interest to consider its effect on the dynamics of the local group@xcite .",
+    "previous studies@xcite,@xcite concentrated on the rich abell galaxy clusters in the region , but this might give a very biased view of the supercluster .",
+    "in this paper we present new data obtained with the flair - ii multi - fibre spectrograph on the uk schmidt telescope at the anglo - australian observatory .",
+    "this has 90 fibres in a @xmath1 deg@xmath0 field allowing us to measure a more uniform distribution of ssc galaxies , avoiding any bias in favour of the rich clusters .",
+    "we selected galaxies from digitised red eso / src sky survey plates to a limit of @xmath2 . after removing galaxies with known redshifts and randomly selecting between any too close to another galaxy or star to observe we obtained samples of about 100 galaxies per schmidt field .",
+    "we observed 3 fields centred on the ssc , obtaining velocities for a total of 189 galaxies in the sample ; full details are published elsewhere@xcite .",
+    "the results presented in fig .  1 show that both components of the ssc extend much further to the south than was previously thought .",
+    "these form sheets of galaxies which extend to the full area we measured , and presumably beyond as well .",
+    "our measurements to the north of the cluster were much less complete ( only one field in poor weather ) so we can not exclude the possibility that these sheets of galaxies extend equally to the north .",
+    "it was earlier concluded@xcite from the velocity distribution of the clusters that the ssc was very elongated and either inclined towards us or rotating : we can now see that this is not the case .",
+    "[ 0cm][0 cm ]    we measured 152 new ssc galaxies in the velocity range @xmath3 compared to 864 previously known .",
+    "if the ssc is equally extended to the north as to the south we might expect to find a further additional 150 galaxies or a total of an extra 30% of galaxies in the central region of the ssc .",
+    "the effect of the mass of the ssc on the dynamics of the local group was previously estimated@xcite to account for at least 25% of the motion of the local group with respect to the cosmic microwave background .",
+    "our new data suggest that the ssc is at least 30% more massive with a significant part of the extra mass in the closer sub - region .",
+    "the ssc therefore has an even more important effect on the local group than previously thought ."
+  ],
+  "abstract_text": [
+    "<S> we present new radial velocities for 189 galaxies in a 91 deg@xmath0 region of the shapley supercluster measured with the flair - ii spectrograph on the uk schmidt telescope . </S>",
+    "<S> the data reveal two sheets of galaxies linking the major concentrations of the supercluster . </S>",
+    "<S> the supercluster is not flattened in declination as was suggested previously and it may be at least 30% larger than previously thought with a correspondingly larger contribution to the motion of the local group . </S>"
+  ]
+}

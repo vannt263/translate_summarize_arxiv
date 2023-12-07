@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "metal  line absorption in the intergalactic medium ( igm , i.e.  ly@xmath0 forest clouds ) is astrophysically interesting because the absorption properties can be exploited to reveal the chemical enrichment and ionization histories of the universe . at all",
+    "redshifts , forest clouds far from bright galaxies may sample igm chemical enrichment from the first generation of stars . at low redshifts",
+    ", they may trace a population of low surface brightness and/or dwarf galaxies .",
+    "cowie et  al .",
+    "@xcite detected high ionization c  iv and si  iv in the forest at @xmath6 , where the uv background ( uvb ) is likely dominated by `` hard '' radiation from quasars and active galactic nuclei . at @xmath7 , the uvb intensity is reduced by a factor of @xmath8 and its shape may be softened by bright field galaxies . in short ,",
+    "the igm ionization conditions may have evolved so that low ionization species , i.e.  mg  ii and fe  ii , are detectable in `` forest '' clouds .",
+    "we searched a hires / keck spectrum of pks @xmath1 for mg  ii absorption in the ly@xmath0 clouds reported by boiss et  al .",
+    "the success rate was 2/28 , or @xmath9% .",
+    "the upper limits are @xmath1011.06",
+    "@xmath5 for @xmath11   h  i clouds .",
+    "the two discovered systems , at @xmath12 0.6248 and 0.9315 , have @xmath13 and @xmath14   , respectively . in figure 1 , the 0.93 system is presented .",
+    "the unresolved metal lines were fitted with voigt profiles and extensive monte carlo simulations were performed to obtain the column densities and @xmath15 parameters .",
+    "we obtained @xmath16  @xmath5 for both mg  ii and fe  ii , with @xmath17 km  s@xmath18 .",
+    "we assumed the cloud is thermally broadened and used the curve of growth to estimate @xmath19  @xmath5 .",
+    "we then used cloudy @xcite , once with a @xmath20 uv continuum slope and once with @xmath21  k blackbody spectrum [ cool stars are suggested by @xmath22 , to explore the cloud chemical and ionization conditions .    for the power ",
+    "law uvb with @xmath23 , the cloud properties are @xmath24  @xmath25 , @xmath26  pc , and @xmath27  m@xmath28 , with ionization parameter @xmath29 . this cloud is inferred to have super  solar metallicity , @xmath30 < 1.5 $ ] ! in a f702w wfpc / hst image of the @xmath1 field @xcite",
+    "there are a few diffuse extended lsb galaxies over the impact parameter range @xmath31 kpc , if they have @xmath32 .",
+    "however , it is difficult to understand how extended super  solar gas could arise from such diffuse galaxies .    for the blackbody `` cool stars '' uv continuum , the inferred cloud properties are @xmath33  @xmath25 , @xmath34  pc , and @xmath35  m@xmath28 , with @xmath36 .",
+    "the inferred metallicity is @xmath37 \\sim - 1.2 $ ] .",
+    "this scenario models a dwarf  like galaxy with a late  type stellar population .",
+    "the value of @xmath38 implies an extreme number of stars ; this scenario is astrophysically implausible @xcite .",
+    "we thus conclude that the absorber is metal rich and ionized by the uvb .",
+    "it may be that systems like the one presented here are fairly common and comprise a yet  to  be explored class of absorber . a sensitive search for mg  ii systems in the forests along the lines of sight to other",
+    "qsos is in progress .",
+    "99 boiss , p. , bergeron , j. , le brun , v. , & deharveng , j.m .",
+    "1997 , apj , submitted churchill , c.w .",
+    ", & le brun , v. 1997 , apj , submitted cowie , l.,l . , songaila , a. , kim , t.s . , &",
+    "1995 , aj , 109 , 1522 ferland , g. , 1996 , _ hazy _ , university of kentucky internal report le brun , v. , bergeron , j. , boiss , p. , & deharveng , j.m .",
+    "1997 , a&a , 321 , 733"
+  ],
+  "abstract_text": [
+    "<S> we report the detection of mg  ii absorption in two ly@xmath0 forest clouds along the line of sight to pks @xmath1 . these clouds , at redshifts @xmath2 and @xmath3 , respectively , also have strong fe  ii absorption . </S>",
+    "<S> we present results on the @xmath3 cloud . </S>",
+    "<S> the upper limit on @xmath4(h  i ) is 16.5  @xmath5 . based upon uv background photoionization models </S>",
+    "<S> , we infer that the cloud has super  solar metallicity . </S>",
+    "<S> photoionization by a late  type stellar population is ruled out .    </S>",
+    "<S> # 1#2#3#4#5#6#7    to#2    ' '' '' </S>"
+  ]
+}

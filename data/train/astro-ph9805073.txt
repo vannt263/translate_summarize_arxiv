@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "main - sequence a stars have shallow surface convection zones , therefore their composition responds sensitively to any ` contamination ' by processes of diffusion or accretion . for example , the metal deficiency of the @xmath0bootis stars indicates accretion of depleted gas after separation of gas and dust in the stellar environment . yet not all a stars with circumstellar ( cs ) matter show chemical anomalies indicative of accretion .",
+    "a prominent example is @xmath1pictoris .",
+    "however , in most cases nothing is known about their composition and the presence of cs gas .",
+    "accurate surface abundances of a stars that are positive or negative iras detections and a sensitive search for cs lines permit to trace the signature of accretion differentially and with a high sensitivity .",
+    "table  1 provides some data of our programme stars .",
+    "spectral types and rotational velocities are adapted from holweger & rentzsch - holm ( 1995 ) or , if not available , from the bright star catalogue ( hoffleit & jaschek 1982 ) .",
+    "a detailed spectrum synthesis will be carried out to improve the @xmath2 values and to determine the calcium abundances .",
+    "the parallaxes and the visual magnitudes have been obtained from the hipparcos catalogue . the version of the uvbybeta code ( moon & dworetsky 1985 ) modified by napiwotzki et al .",
+    "( 1993 ) was used to determine @xmath3 and @xmath4 from strmgren photometry ( hauck & mermilliod 1990 ) .",
+    "stars marked as ` dusty ' are iras sources whose infrared excesses are attributed to circumstellar dust ( cheng et al .",
+    "1991 , 1992 ) .",
+    "the other stars are negative iras detections .",
+    "the last column indicates preliminary detections of narrow absorption components in the ca  k lines .",
+    "obviously stars with detectable cs gas are found preferably among rapid rotators .",
+    "this strengthens the findings of holweger & rentzsch - holm ( 1995 ) and their supposition that @xmath2 is the prime factor responsible for the presence , or absence , of cs absorption in ca  k. hauck et al .",
+    "( preprint 1997 ) provide additional evidence for this conclusion from an independent study of a different sample of @xmath0 bootis stars .",
+    "the lack of stars with cs lines and small @xmath2 values is interpreted tentatively by holweger & rentzsch - holm ( 1995 ) : for stars with cs gas concentrated in a disk - like structure the column density of absorbing gas along the line of sight will be at its maximum if the disk is viewed edge - on . therefore cs lines should be detected preferably in objects with @xmath5 .",
+    "hence the chance to find a rapid rotator with cs lines in the lower part of the diagram is small .",
+    "figure  2   is an hr  diagram .",
+    "the symbols are the same as in figure  1 .",
+    "the absolute magnitudes have been calculated using the parallaxes found by hipparcos .",
+    "the solid line represents the zams ( vandenberg 1985 ) .",
+    "stars with cs gas are found both near and above the zams ."
+  ],
+  "abstract_text": [
+    "<S> we present preliminary results of our search for circumstellar absorption features in the ca  k lines based on high s / n observations obtained with the eso  cat / ces system . </S>"
+  ]
+}

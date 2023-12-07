@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "we study the general properties of the kinematics of the low and high ionization phases in a large sample of 26 damped ly@xmath0 systems ( hereafter dlas ) covering the redshift range 1.17@xmath24.38 .",
+    "it has been argued that high - redshift dlas could represent a population of large , fast rotating disks mainly on the basis of the asymmetric shape of their low ionization species absorption lines @xcite@xcite .",
+    "we note a strong correlation between the velocity broadenings of the si  ii@xmath11808 and fe  ii@xmath11608 transition lines for apparent optical depths of 0.1 and 0.7 respectively ( see fig .  1 , left panel ) .",
+    "this shows that the physical conditions are quite homogeneous in the neutral gas and that large variations of abundance ratios and thus large depletions onto dust grains in dlas are unlikely . since the fe  ii transitions are easier to detect , we are able to compare velocities measured on _ the same ion_.",
+    "we define an asymmetry parameter @xmath3  =  @xmath4 that is close to zero for a symmetric profile and close to one for a one - sided profile . it can be seen on fig .  1 ( right panel ) that the fe  ii line asymmetry is correlated with the velocity broadening up to @xmath5  @xmath6  120  km  s@xmath7 .",
+    "for larger velocity broadenings however this correlation disappears .",
+    "the systems with large @xmath8 , such as the system at @xmath9  =  3.151 toward q  2233 + 131 , are indeed very peculiar , with kinematics much more consistent with random motions than ordered disks .",
+    "they show sub - systems as those expected if the objects are in the process of merging .",
+    "therefore the claim that cdm models should be rejected has to be considered with caution . indeed using hydro - simulations , haehnelt et al .",
+    "( 1997 ) @xcite have reached the same conclusion .",
+    "although more work has to be done especially investigating comparisons with simple kinematical models , the overall picture seems to be more in favor of the dlas to be aggregates of dense knots with complex kinematics rather than ordered disks .",
+    "this does not rule out however the possibility that part of the kinematics could be due to rotation .",
+    "the correlation shown in fig .",
+    "1 ( right panel ) is suggestive of rotational motions in sub - systems on scales smaller than @xmath5  @xmath10  120  km  s@xmath7 .",
+    "the kinematics of the low and high ionization species themselves is found to be statistically correlated though the high ionization phase has a much more disturbed kinematical field than low ions .",
+    "this should be taken into account in any model of high - redshift damped ly@xmath0 systems .",
+    "99 haehnelt m.g . , steinmetz m. , rauch m. , 1997 , astro - ph/9706201 prochaska j.x . , wolfe a.m. , 1997 , astro - ph/9704169 wolfe a.m. , 1995 , eds meylan g. , in _ qso absorption lines_. springer editions , berlin , p. 13"
+  ],
+  "abstract_text": [
+    "<S> we report on high spectral resolution observations of five damped ly@xmath0 systems whose line velocity profiles and abundances are analyzed . by combining these data with information from the literature , we study the kinematics of the low and high ionization phases of damped systems and discuss the possibility that part of the motions is due to rotation . </S>"
+  ]
+}

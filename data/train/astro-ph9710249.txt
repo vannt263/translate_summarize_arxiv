@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "encouraged by the early results of steidel and others ( e.g. steidel & hamilton , 1993 ) , and of our own pilot programme imaging a 1.5 arcmin@xmath2 region around the radio galaxy 4c41.17  ( lacy & rawlings , 1996 ) , we embarked in november 1995 upon a project to apply the technique of lyman  limit imaging to fields of area @xmath340 arcmin@xmath2 around high  redshift radio  galaxies using the prime focus of the wht in la palma .",
+    "our initial aim was to identify galaxies at redshifts similar to those of the central radio  galaxy in each field , searching for @xmath4 dropouts in the @xmath5 fields and @xmath6 dropouts in those at @xmath1 , with spectroscopic follow - up where possible .",
+    "we imaged four radio  galaxy fields in total , two of the radio galaxies being at @xmath1 .",
+    "our imaging observations are summarised in table  [ tab : obs ]",
+    ".    lrrrrrc + field & redshift & & & & & sensitivity + & & & & & & limit +    b20902@xmath7343 & 3.40 & @xmath4 & 2021.11.95 & 1.32.3 & 18000 & 26.3 + & @xmath6 & 21.11.95 & @xmath82.2 & 1600 & 25.9 + & & @xmath9 & 20.11.95 & @xmath81.3 & 2000 & 26.0 + 4c41.17 & 3.80 & @xmath4 & 22.11.95 & @xmath81.7 & 18000 & 26.3 + & @xmath10 & 22.11.95 & 1.92.3 & 2800 & 26.5 + & & @xmath9 & 21.11.95 & 1.41.8 & 2400 & 26.0 + 6c0140@xmath7326 & 4.41 & @xmath6 & 2122.11.95 & 1.21.8 & 12600 & 27.2 + & @xmath11 & 20.11.95 & @xmath81.3 & 1800 & 25.7 + & & @xmath9 & 21.11.95 & @xmath81.4 & 1800 & 26.1 + & & @xmath12 & 20.11.95 & 1.11.4 & 6600 & 25.7 + & & h@xmath13 & 21.11.95 & @xmath81.2 & 7200 & 24.1 + 8c1435@xmath7635 & 4.25 & @xmath6 & 19.04.96 & @xmath81.0 & 5400 & 27.0 + & @xmath9 & 19.04.96 & @xmath81.1 & 2700 & 26.2 + & & @xmath12 & 19.04.96 & 0.91.1 & 5400 & 25.8 +",
+    "we based our initial selection criteria on the assumption that high redshift galaxies are likely to show a relatively flat spectrum at wavelengths longward of ly@xmath13 , a pronounced spectral break at ly@xmath13 , and little or no flux below the lyman limit . for simplicity",
+    ", we use the ab magnitude system .",
+    "initial candidates were selected according to the following criteria : @xmath15 ( to eliminate the very faintest objects ) ; no detectable flux in @xmath6 , or @xmath16 ( with hindsight , a cutoff in @xmath17 would probably have been better ) ; and @xmath18 , to eliminate objects which are obviously merely very red objects . there remains a possible contamination from intrinsically red objects ( e.g. m stars ) and galaxies at lower redshift , particularly those with a strong 4000  break .",
+    "colour  colour plots for the magnitude ranges in question are shown in figure  [ fig : colcol ] .",
+    "those for objects for which spectra are available are shown in figure  [ fig : specbrri ] . in the light of the results from our spectroscopic observations and from detailed modelling of the _ expected _ colours of @xmath19 galaxies",
+    ", we are looking to see whether our selection criteria can be improved  there is a strong suggestion that we are selecting objects too red in @xmath20 ( figure  [ fig : specbrri ] ) .",
+    "[ fig : specbrri ]    using the ldss2 multi - slit spectrometer at the wht , we took spectra of 49 objects in the 6c0140@xmath7326  field , 42 selected by means of their broadband colours and seven through detection of excess flux through our @xmath21 656.5 nm  filter with respect to the broad @xmath9 .",
+    "we split the objects across two slit masks according to their @xmath9  magnitudes , with total integration times 13645s for the brighter objects and 26000s for the fainter ones .",
+    "of these 49 , we were unable to determine any significant features on 25 of the spectra , either due to insufficient integration time or through problems with the slit mask such as ghosting or stray light from the alignment stars .",
+    "of the remaining 24 for which we were able to deduce anything of the nature of the object , we find that six are stars , eight are almost certainly galaxies at relatively low redshift ( @xmath22 ) and one is most likely a qso at @xmath23",
+    ".    two have spectra with prominent breaks and absorption features consistent with their being @xmath24 galaxies , one is presented in figure  [ fig : specs ] .",
+    "we believe that these are among the first to be found using the lyman ",
+    "limit technique at @xmath24 .",
+    "the remaining seven spectra have prominent continuum breaks and/or spectral features not inconsistent with their being at high redshift , although in many cases the possibility that they are low - redshift objects can not be ruled out .",
+    "rrrrrrc + i.d . & & & & & & possible @xmath25 + 1028 & 26.44 & 24.64 & 23.93 & 22.82 & 23.17 & 0.58 or 4.09 + & + 122 & 25.55 & 25.17 & 23.70 & 22.14 & 24.08 & 4.02 ? + & + & + 5099 & @xmath2627.17 & 24.74 & 23.61 & 22.31 & @xmath2624.1 & 0.64 or 4.4 + & + 5118 & 25.96 & 24.19 & 23.67 & 22.70 & 23.40 & 4.15 + & + 5123 & 25.06 & 24.06 & 23.15 & 22.17 & 22.47 & 0.58 or 4.1 + 63 & 25.98 & 24.30 & 23.37 & 22.59 & 23.02 & 3.34 ? ?",
+    "+ 84 & 26.86 & 25.59 & 23.67 & 22.49 & @xmath2624.1 & 0.6 or 4.3 + 127 & @xmath2627.17 & @xmath2626.1 & 25.58 & 24.16 & @xmath2624.1 & 0.55 or 4.1 + 95 & @xmath2627.17 & @xmath2626.1 & 25.25 & 23.70 & @xmath2624.1 & 4.58 ? ?",
+    "our thanks go to richard mcmahon for the loan of his @xmath10  band filter .",
+    "the wht is operated on the island of la palma by the royal greenwich observatory in the spanish observatorio del roque de los muchachos of the instituto de astrofsica de canarias .",
+    "rejs acknowledges the support of a pparc studentship ."
+  ],
+  "abstract_text": [
+    "<S> we present preliminary results of a search for galaxies at @xmath0 through lyman  </S>",
+    "<S> limit imaging of the fields of known high  </S>",
+    "<S> redshift radio  galaxies . </S>",
+    "<S> objects were selected by means of their broad  band colours , and spectroscopy of candidate objects in one of the fields has been performed through multi  </S>",
+    "<S> slit spectroscopy at the 4.2 m william herschel telescope . </S>",
+    "<S> these spectra show some of the first @xmath1 galaxies to be identified using the lyman break technique . </S>"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "the lognormal properties of the soft repeater sgr1806 - 20 have been previously reported@xcite . in particular ,",
+    "both the time interval between repeater events and the luminosity function of the source were fit with lognormal distributions@xcite .",
+    "this analysis used the data - base of 111 events detected by the international cometary explorer ( ice ) mission@xcite .    while the present number of events observed from the other three sources @xcite does not allow any detailed analysis , the intervals between successive events of sgr 0526 - 66 @xcite is also suggestive of lognormal behaviour .",
+    "the relationship between the number of active ( i.e observable ) sources and the true number of sgrs in the galaxy is one which is the subject of some debate @xcite .",
+    "if the time intervals between sgr events proves to be lognormal with a wide range of means and variances then there may be long quiescent periods where the source could be undetectable , leading to an underestimate of the population .",
+    "monte carlo simulations of sgr event sequences with a variety of distribution parameters were generated .",
+    "the simulations were performed using octave 2.0.5 for unix . randomly generated standard normal variates , @xmath0 ,",
+    "were transformed to lognormal variates using the relationship @xmath1 where @xmath2 is lognormally distributed with parameters  and .",
+    "the effect of the detector on the observations was simulated by rejecting events below a preset intensity level to mimic a threshold and by rejecting at random some predefined fraction of events to mimic a less than 100% live time .",
+    "four separate monte carlo simulations of duration 500 years of sgr1806 - 20 activity , generated from lognormal distributions for recurrence intervals and intensities with parameters as determined from sgr1806 - 20 .",
+    "the detector model is described in the text .",
+    "the long gaps in activity of the source are the contributions from the tail of this highly skewed distribution . ]",
+    "the parameters of the two lognormal density function which were fit to the distribution of recurrence intervals and intensity for sgr1806 - 20 were respectively @xmath3 , @xmath4 and @xmath5 , @xmath6 @xcite . to investigate how the probability of observation with a given time interval depended on the the parameters for the waiting times (  and ) and the parameters for the event intensity (  and ) , two large simulations were performed . in the first , the waiting time parameters were varied over a small range relative to the sgr1806 - 20 values ( while the intensity distribution was fixed ) , forming a grid of @xmath7 cells , each with a different value for  and  but the same value for  and .",
+    "for each cell on the grid ten 500 year simulations were performed ( as for the sequences produced in figure  [ sg - p07:fig : gen - seq ] ) and the mean number of events per 0.5 year interval was determined .",
+    "the second simulation was performed with varying  and ( the intensity distribution parameters ) but it followed the same procedure - the region of parameter space to be explored was divided into a grid and ten 500 year simulations were performed at each grid point ( each grid point having a different  and  but the same   and ) .",
+    "the resulting distributions of probability of observation for each of the two grids are presented in figures  [ sg - p07:fig : surf - w ] and figure  [ sg - p07:fig : surf - i ] .",
+    "figure  [ sg - p07:fig : surf - w ] presents a surface plot of the probability of detecting an sgr source within 0.5 years , given that the event intervals are distributed with a lognormal probability and the intensity distribution is fixed to that observed for sgr1806 - 20 .",
+    "note that the parameters for sgr1806 - 20 ( @xmath8 and @xmath9 ) an estimated probability of 30% for observation in 0.5 years and that the probability falls quickly with increasing  and . for @xmath10 , which is equivalent to a mean of @xmath11 ,",
+    "the probability of observing the source in @xmath12 years has fallen to less than 5% .",
+    "in contrast , figure  [ sg - p07:fig : surf - i ] shows a much flatter more uniform behaviour over a similar variation in the intensity distribution parameters . note that the parameters for sgr1806 - 20 again give us an estimated probability of 30% for observation in the 0.5 years of observation . the grainy nature of the surface is due to the much lower variation in probability across the range of intensities chosen ( from 50% of sgr1806 - 20 to 300% for each distribution parameter ) .",
+    "the lognormal distribution arises in statistical processes whose completion depend on a product of probabilities , arising from a combination of independent events @xcite .",
+    "lognormal statistics have previously been used in connection with gamma - ray bursts @xcite . in the context of this investigation the physical significance of this statistical behaviour",
+    "may lie in the connection between sgrs and neutron stars where a similar statistical analysis was presented for the microglitches from the vela pulsar . the time separation and the intensity of these small ( @xmath13 ) frequency adjustments",
+    "were both compatible with lognormal distributions , and there was no correlation between waiting time and intensity , just as observed with sgr1806 - 20 @xcite .",
+    "this result , combined with the identification of x - ray point sources @xcite embedded in plerion - powered snr @xcite as counterparts to the sgr sources , suggests structural adjustments in neutron stars may be the cause of sgrs .",
+    "the activity of sources with mean recurrence times similar to or much longer than sgr 1806 - 20 was investigated using monte carlo simulations .",
+    "the results of the simulations indicate that there could exist a significant population of sgrs with mean waiting times considerably longer than sgr1806 - 20 that remain undiscovered .",
+    "structural adjustments in neutron stars may be responsible for this behaviour .",
+    "finally , a new breed of experiments with very long observation times will be required to search for this type of source ."
+  ],
+  "abstract_text": [
+    "<S> monte carlo simulations of long sgr event sequences based on lognormal distributions with a range of time intervals and intensity distribution parameters have been investigated . </S>",
+    "<S> the main conclusions are that the majority of sgrs with properties similar to sgr 1806 - 20 have been detected but sgrs with mean waiting times much longer than sgr 1806 - 20 remain to be discovered . a large decrease in the probability for detection of an sgr source results from a relatively small increase in the distribution parameters obtained for sgr 1806 - 20 . a new breed of experiments with very long observation times are required to search for this type of source . </S>"
+  ]
+}

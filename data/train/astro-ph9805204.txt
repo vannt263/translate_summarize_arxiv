@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "the spectral lines of rare - earth elements are present in solar as well as in stellar spectra ( see e.g. grevesse & blanquet 1969 , molnar 1972 , adelman 1987 , mathys & cowley 1992 , sadakane 1993 , bidelman et al .",
+    "1995 , cowley et al .",
+    "1996 , etc . ) .",
+    "principally , these lines originate in layers of stellar atmospheres with higher electron density ( photosphere or subphotosphere ) .",
+    "consequently , electron - impact broadening mechanism can be important , especially for hot ( a and b ) stars as well as for white dwarfs .",
+    "so , it is important to have a set of electron - impact broadening data for the lines of ionized rare - earth elements .",
+    "for some transitions of laii and laiii we have calculated stark widths ( popovi & dimitrijevi 1997 ) by using the modified semiempirical approach ( dimitrijevi & konjevi 1980 , popovi & dimitrijevi 1996a , b ) . here",
+    "we present our plans and specify the number of lines for which we may calculate electron - impact broadening parameters with a satisfying accuracy and discuss the difficulties which may appear in the calculation .",
+    "due to the lack of known energy levels as well as of reliable transition probabilities for rare - earth elements , the approximate methods are adequate for stark broadening calculations .",
+    "consequently the modified semiempirical approach will be applied .",
+    "this method was developed by dimitrijevi & konjevi(1980 ) .",
+    "for the case of ions with complex spectra the improvement was done by popovi & dimitrijevi ( 1996a , b ) . also , as regards lines for which it is not possible to apply this method , we will use the simplified modified semiempirical formula ( smse ) given by dimitrijevi & konjevi ( 1987 ) . for the lines which are very important for astrophysical purposes and",
+    "for which , due to the lack of atomic data , it is not possible to use even the smse method , we will estimate stark broadening parameters on the basis of regularities and systematic trends ( rst , dimitrijevi & popovi 1989 ) .    .",
+    "list of the ions for which we are going to calculate the electron - impact broadening parameters .",
+    "the number of transitions given in the table could be calculated using the modified - semiempirical ( mse ) and simplified modified - semiempirical ( smse ) methods , the @xmath0 indicates that the data can be provided for several other transitions by using regularities and systematic trends ( rst ) for astrophysically very important lines .",
+    "key to the columns : i , iv  ion , ii , v  number of transition for which we can calculate the stark broadening parameters , iii , vi  method which we are going to use . [ cols=\"<,<,<,<,<,<,<,<,<,<\",options=\"header \" , ]     moreover , due to the very complex spectra of ionized rare - earth elements we have to improve the existing software developed by us ( popovi 1994 ) .",
+    "it means that calculations within intercoupling approximation have to be performed .",
+    "for example in the spectra of ceiii , the @xmath1 levels are well described by @xmath2 coupling approximation , while @xmath3 levels , which are perturbed by @xmath1 ones , are well described by @xmath4 coupling approximation .",
+    "such interaction between these two levels should be taken into account .",
+    "also , a numerical experiment about the influence of this effect on calculated parameters should be done .",
+    "in table 1 we present the ions and number of lines for which we are going to calculate the electron - impact broadening parameters .",
+    "as one can see from table 1 , there is a very limited number of transitions for which this is possible ( only 51 transitions ) .",
+    "the list has been made taking into account atomic data given by martin et al .",
+    "( 1978 ) , so , this list may be extended after a detailed search through literature and after including the new experimental results ."
+  ],
+  "abstract_text": [
+    "<S> in order to provide atomic data needed for astrophysical investigations , a set of electron - impact broadening parameters for ionized rare - earth element lines should be calculated . </S>",
+    "<S> we are going to calculate the electron - impact broadening parameters for more than 50 transitions of ionized rare - earth elements . taking into account that the spectra of these elements are very complex , for calculation we can use the modified semiempirical approach  mse or simplified mse . </S>",
+    "<S> also , we can estimate these parameters on the basis of regularities and systematic trends . </S>"
+  ]
+}

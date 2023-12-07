@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "we report on the results of peculiar velocity measurements obtained from three samples of spiral galaxies , based on the tully  fisher technique which combines i  band photometry and either 21 cm or h@xmath0 long  slit spectroscopy .",
+    "the three samples are : ( a ) sci , which includes 782 galaxies in the fields of 24 clusters within @xmath1 ( @xcite , @xcite ) ; ( b ) sfi , which includes 1631 field galaxies out to @xmath2 ( @xcite,@xcite ) ; and ( c ) sc2 , which includes 522 galaxies in the fields of 52 clusters out to @xmath3 ( @xcite , @xcite ) .",
+    "recently , it has been suggested by @xcite that the volume within @xmath4 is subject to a hubble acceleration of @xmath5% , resulting from a local underdensity of 20% , surrounded by an overdense shell .",
+    "the result is based on the distances to 44 sn of type ia . in figure 1",
+    ", we test that result by using the combined sample of 76 clusters of sci plus sc2 .",
+    "the distances to each individual cluster have typical accuracy of 5% , and the cluster sample is well distributed over the sky .",
+    "figure 1 displays @xmath6 against @xmath7 , where @xmath8 is the peculiar velocity in the cmb reference frame and @xmath9 is the tf distance in mpc , in the same frame .",
+    "unfilled symbols represent clusters with poor distance determinations , based on fewer than 5 galaxies with tf measurements per cluster .",
+    "1 illustrates how , at small distances , the deviations from hubble flow are dominated by the motions of nearby groups , comparable in amplitude to those of the lg ( 611 ) . at distances larger than 35@xmath10 mpc",
+    ", the monopole of the cluster peculiar velocity field exhibits no significant change of value , anywhere up to 200 mpc .",
+    "the hubble bubble suggestion of @xcite is not corroborated by this larger and more accurate data set .",
+    "figure 2 displays the dipoles of the reflex motion of the local group ( lg ) with respect to field galaxies in shells 2000 thick .",
+    "the dashed line in panel 2a corresponds to the amplitude of the cmb dipole , of 611 .",
+    "the three sets of symbols identify different ways of computing the peculiar velocities , using different subsets of the data or adopting a direct ( stars ) or inverse tf relation .",
+    "the sfi sample indicates convergence to the cmb dipole , in the motion of the lg with respect to galaxies in shells , when a radius of a few thousand is reached .",
+    "convergence is achieved both in amplitude and apex direction , the dipole of @xcite is excluded with a high level of confidence .",
+    "see @xcite for further details .",
+    "the dipole moments of the reflex motion of the lg with respect to ( i ) the subset of clusters farther than 4000 in the sci cluster sample and ( ii ) the sc2 sample both coincide , within the errors , with that of the cmb .",
+    "this coincidence is matched both in amplitude and apex direction .",
+    "figure 3 displays the error clouds for the coordinates of the apices of data sets derived from the sc2 sample , plotted against supergalactic cartesian coordinates .",
+    "one and two  sigma contours are plotted , as well as the locations of the cmb and the lauer & postman dipoles .",
+    "the latter can be excluded by our data with a high level of confidence .",
+    "the bulk flow within a sphere of 6000 radius , as derived from sci , is between 140 and 320 , in the cmb reference frame , somewhat lower than obtained by other techniques ( e.g. @xcite,@xcite ) .",
+    "see @xcite and @xcite for details .",
+    "the reflex motion of the lg converges to the cmb dipole amplitude and direction within 6000 . no evidence is found for a local hubble bubble .",
+    "da costa , l. , freudling , w. , wegner , g. , giovanelli , r. , haynes , m. & salzer , j. 1996 , apj ( lett ) 468 , l5 dale , d. , giovanelli , r. , haynes , m.p . ,",
+    "scodeggio , m. , hardy , e. & campusano , l. 1997 , 114 , 455 dale , d. , giovanelli , r. , haynes , m.p . , scodeggio , m. , hardy , e. & campusano , l. 1998a , 115 , 418 dale , d. , giovanelli , r. , haynes , m.p .",
+    ", hardy , e. & campusano , l. 1998b , in preparation dekel , a. 1994 , ann .",
+    "32 , 371 giovanelli , r. et al .",
+    "1997a , 113 , 22 giovanelli , r. et al .",
+    "1997b , 113 , 53 giovanelli , r. , haynes , freudling , w. , da costa , l. , salzer , j. & wegner , g. 1998a , apj ( lett ) to appear ( astro  ph/9807274 ) giovanelli , r. , haynes , m. , salzer , j. , wegner , g. , da costa , l. & freudling , l. 1998a , to appear ( astro  ph/9808158 ) haynes , m. et al .",
+    "1998a , submitted haynes , m. et al .",
+    "1998b , submitted lauer , t. & postman , m. , 425 , 418 zehavi , i. , riess , a.g . ,",
+    "kirshner , r.p .",
+    "& dekel , a. 1998 , 503,483"
+  ],
+  "abstract_text": [
+    "<S> monopole and dipole signatures of the peculiar velocity field as derived from the sfi sample of field spirals and the sci and sc2 samples of cluster spirals are presented . </S>",
+    "<S> the monopole exhibits no evidence of a ` hubble bubble ' within 7000 as suggested by @xcite ; the dipole of the reflex motion of the local group converges to the cmb dipole within less than 6000 , and remains consistent with it , when referred to the reference frame constituted by the sc2 cluster sample , which extends to 20,000 . </S>"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the demand on higher precision in distance measurement has prompted us to examine the systematic uncertainties in the basic primary distance indicators .",
+    "the need for higher _ accuracy _ made us look for overall consistency .",
+    "the primary distance indicators are established in our galaxy and its companions .",
+    "four basic methods provide primary distances in the near field and as far as virgo @xmath0 cepheids , rr lyrae , proper motions , and sn type ii .",
+    "they agree within large uncertainties ( huterer , sasselov , & schechter 1995 ) , but pairwise comparisons of the methods show clearly a systematic discrepancy between the cepheids and rr lyrae , in that the latter distances are smaller . this discrepancy has been discussed widely ( see walker 1995 and references therein ) , and is illustrated in fig .",
+    "1 @xmath0 in summary , rr lyrae calibrations within our galaxy ( bw method , statistical parallaxes ) have a zero point some 0.2@xmath00.3  @xmath1 fainter .",
+    "the rr lyrae distance scale is the single largest uncertainty in deriving the ages of globular clusters ( chaboyer 1996 ) , through calibrating the luminosity of the main sequence turn - off .",
+    "these ages are often compared to hubble timescales , which depend on the cepheid distance scale .",
+    "clearly any such comparison requires the satisfactory resolution of the cepheid@xmath0rr lyrae zero point discrepancy .",
+    "let us assume that the discrepancy is due to ( 1 ) systematic overestimate of the cepheid scale , ( 2 ) systematic underestimate of the rr lyr scale , or ( 3 ) combination of the two , and explore some of the possibilities here .",
+    "it has been suggested ( van den bergh 1995 ) that the discrepancy shown in fig .",
+    "1 might be due to a metallicity - dependent zero point of the cepheid pl relation .",
+    "we note that our calculations illustrated in fig .",
+    "1 already account for such a metallicity effect , as estimated semi - empirically by caldwell & coulson ( 1987 ) with the use of theoretical model atmospheres .",
+    "however , as theoretical estimates have been uncertain , we defer our discussion of this idea to the next section , where we report an empirical result for the metallicity effect on cepheids .",
+    "most recently , the discrepancy between `` high '' and `` low '' rr lyrae zero points was strongly reinforced .",
+    "the macho microlensing project published an impressive sample of double - mode rrd lyrae variables in the lmc ( alcock 1996 ) .",
+    "the distance to lmc can be derived independently ( dm = 18.6@xmath2 ) , but the technique is unfortunately model(s ) dependent with systematic uncertainties which are difficult to estimate .",
+    "this lmc distance compares well with the one based on cepheids ( dm = 18.45@xmath3 ) . on the other hand ,",
+    "an equally impressive sample of galactic rr lyrae stars was observed and analyzed by layden ( 1996 ) using the method of statistical parallax .",
+    "the latter confirms the `` low '' zero point and gives dm = 18.28@xmath4 to the lmc .",
+    "these two new results are independent of the cepheid distance scale and indicate that the problem may lie in part with the rr lyrae stars themselves .",
+    "the degree of dependence of cepheid distances on chemical composition ( metallicity ) has been an open issue for many years .",
+    "here we report on a solution to this problem from new eros microlensing survey data .",
+    "eros ( experience de recherche dobjets sombres ) is a collaboration between french astronomers and particle physicists to search for baryonic dark matter in the galactic halo through microlensing effects on stars in the lmc and smc .",
+    "we use the ccd data from the eros survey to discover about 500 cepheids and use their @xmath5 3 million photometric observation for a differential comparison between lmc and smc . for more details",
+    "see beaulieu ( 1997 ) and sasselov ( 1997 ) .",
+    "the metallicity effect on the cepheids from our analysis is : metal deficiency makes cepheids bluer , and the period - luminosity zero point shifts are small and depend on wavelength .",
+    "therefore the metallicity effect on cepheid distances is large if the reddening is derived from the colors of the cepheids .",
+    "if one considers as reddening the color difference due to metal content , @xmath6 , in deriving the true distance modulus , @xmath7 , of a given galaxy , then we find that the following correction should be applied : @xmath8 such a technique , which derives true distance moduli and extinction simultaneously , has been used for m31 , m33 , and ic1613 .",
+    "the sign is such that the distances to metal - poor galaxies would be overestimated if the effect were ignored @xmath0 fig .",
+    "obviously , this goes nicely into solving the discrepancy with the rr lyrae distance estimate in ic1613 , but not in m31 and m33 .",
+    "there is much to be desired , however , of the rr lyrae distances to m31 and m33 , where a modern set of observations is definitely needed ( see huterer 1995 for more details ) .",
+    "our study of * systematic effects * in the two most heavily weighted primary distance indicators  the cepheids and rr lyrae , led us to conclude :            \\(5 ) finally , the corrections due to the above systematics are ( a ) in the direction of decreasing gcs ages ( by @xmath920% ) , if the rr lyrae zero point is rescaled to the cepheids , and ( b ) converging @xmath10 estimates to @xmath570 km.s@xmath11mpc@xmath11 due to the metallicity effects on the cepheid scale ."
+  ],
+  "abstract_text": [
+    "<S> 0.4 cm we examine the overall consistency of the primary distance indicators and ways for a satisfactory resolution of the cepheid - rr lyrae zero point discrepancy .    </S>",
+    "<S> 1 harvard - smithsonian center for astrophysics , cambridge , ma 02138 , usa ; dsasselov@cfa.harvard.edu + 2 kapteyn laboratorium , po box 800 , 9700 av groningen , nederlands ; beaulieu@astro.rug.nl </S>"
+  ]
+}

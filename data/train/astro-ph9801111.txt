@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "in the absence of a solar antineutrino flux , the superkamiokande ( sk ) background is expected to be isotropic . in the presence of solar antineutrinos , positrons emitted by i@xmath4d contribute to the background , which , due to the angular dependence of i@xmath4d cross section , should have a non - zero angular slope proportional to the antineutrino flux .",
+    "a linear fit to the counting yield , @xmath12 ( in the angular region where events from the @xmath2 interactions can be neglected , see fig .",
+    "[ fig1 ] ) , provides the antineutrino flux @xmath13 through the relation :    @xmath14    where @xmath15 is the number of free protons , t is the exposure time , @xmath16 is the ( assumed constant ) detection efficiency , @xmath17 the minimal detectable antineutrino energy and @xmath18 is the cross section averaged over the antineutrino spectrum for @xmath19 .    in order to provide a quantitative illustration of the previous points we used data from the first 101.9 operational days of sk , as reported in fig.3 of @xcite , corresponding to @xmath20 .",
+    "the reported background does not show an angular dependence . according to equation ( 3 ) , to extract an upper limit on the solar antineutrino flux",
+    ", we must know the average cross section @xmath18 , which can be determined within two approches :    @xmath21_assuming _ that the antineutrino spectrum has the same shape as that of @xmath22b solar neutrinos , one has @xmath23 .",
+    "this gives , as a final result , @xmath24 , to the 95% c.l .",
+    "this bound corresponds to a fraction x=3.5% of the solar neutrino flux ( in the energy range @xmath25 ) predicted by the ssm @xcite .",
+    "@xmath26 as @xmath27 is an increasing function of @xmath11 , one has @xmath28 .",
+    "this lower limit to @xmath18 gives a _ model independent _ bound @xmath29 to the 95% c.l .",
+    "we remark two points of the method just presented :    * the sensitivity to antineutrinos increases as statistics accumulates . within three years of data taking",
+    ", the sensitivity to @xmath1 transition probability will reach the 1% level , thus allowing for a definite test of several theoretical models . *",
+    "the determination of the angular slope @xmath30 provides a mean for _ detecting _ antineutrinos from the sun ( and not only for deriving upper bounds ) .",
+    "a non vanishing slope for sk background would be , in fact , a clear signature of a solar antineutrino flux .    .",
+    "if a type  ii supernova explosion occurs near the center of our galaxy about 4000 @xmath0 events and 300 @xmath31 events will be produced in the superkamiokande detector @xcite .",
+    "the detection of supernova neutrinos and antineutrinos will provide important information on the supernova mechanism .",
+    "in particular we remark that :    * from the strong correlation of the elastic scattering events one can reconstruct the supernova direction with an accuracy of about four degrees @xcite ; * from a fit to experimental data one can determine the number of neutrinos and antineutrinos events , thus providing important inputs to check supernova modelling .",
+    "the anisotropy of i@xmath4d is so small that it looks reasonable to neglect it when discussing the detector sensitivity @xcite . however , let us investigate how it can affect the data analysis . with this aim",
+    "we have simulated a supernova explosion in the galactic plane , assuming that it produces @xmath32 and @xmath33 events in the detector .",
+    "we took into account a @xmath34 angular resolution @xcite and repeated the simulation two - hundred times .",
+    "we analysed the data looking for the galactic longitude @xmath35 of the supernova and the ratio @xmath36 of reconstructed events , see fig.2 .",
+    "if the analysis is performed neglecting the anisotropy ( i.e. @xmath37 ) the supernova direction is correctly determined within the predicted accuracy , however the reconstructed @xmath38 is badly underestimated ( @xmath39 , the correct value being @xmath40 ) and the fit is poor ( @xmath41 on the average of the 200 simulations , using 20 angular bin ) .",
+    "we checked that when the anisotropy is included , both the supernova direction and the ratio @xmath38 are correctly reconstructed , and the quality of the fit improves significantly .",
+    "these features are clearly understood :    * as the positron angular distribution is symmetrical around the supernova direction , it does not alter its reconstruction . *",
+    "the depleted forward positron production mimics a reduced number of @xmath2 events .",
+    "99 g. fiorentini , m. moretti , f.l .",
+    "villante , phys .",
+    "b , in press , 1997 y. totsuka , `` first result from super - kamiokande '' , presented at texas symposium ( 1996 ) .",
+    "j.n . bahcall and m.h .",
+    "pinsonneault , rev .",
+    "61 ( 1992 ) 885 . k. nakamura , ",
+    "superkamiokande  , presented at 3rd nestor international workshop , pylos , greece , 1993"
+  ],
+  "abstract_text": [
+    "<S> the anisotropy of the positrons emitted in the reaction @xmath0 has to be taken into account for extracting an antineutrino signal in superkamiokande . for the sun </S>",
+    "<S> , this effect allows a sensitivity to @xmath1 transition probability at the 3% level already with the statistics collected in the first hundred days . for a supernova in the galaxy , </S>",
+    "<S> the effect is crucial for extracting the correct ratio of @xmath2 to @xmath3 events .    </S>",
+    "<S> as well known , the specific signature of antineutrinos in hydrogen containing materials is through the inverse beta decay ( i@xmath4d ) , @xmath0 , which produces _ almost isotropically _ distributed monoenergetic positrons ( @xmath5 ) . for energy above a few mev , the differential cross section is :    @xmath6    where : @xmath7 @xmath8 ( @xmath9 ) is the vector ( axial ) coupling of the neutron and @xmath10 is the total cross section for antineutrino energy @xmath11 .    </S>",
+    "<S> the goal of this paper is to assess the importance of the angular dependence of the cross section in two situations of practical interest :    * the search for solar antineutrinos ; decay or magnetic moment . </S>",
+    "<S> _ see @xcite for details and references _ ] * the detection of a supernova in the galaxy . </S>"
+  ]
+}

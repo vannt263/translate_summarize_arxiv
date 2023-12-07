@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "the second byurakan survey ( herafter sbs ) was aimed to reach fainter limiting magnitudes ( markarian & stepanian 1983 , 1984a , 1984b ; markarian et al .",
+    "1985 , 1986 ; stepanian et al . 1988 , 1990",
+    "; stepanian 1994 ) in comparison with first byurakan survey ( markarian 1967 ) .    between 1974 and 1991 a total area of 1000 square degrees of the sky",
+    "were observed down to the limiting magnitude @xmath0 .",
+    "this area is confined by the strip defined by @xmath1 , @xmath2 .",
+    "a selection of more than 1700 galaxies and about 1800 stellar objects with an excess ultraviolet emission is the main result of the sbs survey ( stepanian 1994 ) .",
+    "infrared data for nearly 500 sbs galaxies were obtained from the ned(_nasa / ipac extragalactic database _ ) , ipss ( _ iras point source survey _ ) and ifss ( _ iras faint source survey _ ) .",
+    "about 50 sbs galaxies are newly identified with iras sources .",
+    "the difference of coordinates less than @xmath3 had been used for preliminary identification .",
+    "the presence of optical objects had been analysed in the @xmath3 circle with the centres of iras coordinates .",
+    "then the sbs galaxies as well as the other optical objects till the limit of digitized palomar sky survey which were displased inside of mentioned circle were analyzed .",
+    "the difference of coordinates for above mentioned 500 sbs iras galaxies also may be used for preliminary identification .",
+    "the plot of this differences is shown in fig .",
+    "it is seen from fig .",
+    "1a that nearly 80% of objects are in the box of @xmath4 .",
+    "galaxies are the only nearest objects around iras sources .",
+    "there are 5 objects more , where the difference of coordinates is greater than @xmath4 , but the optical sbs galaxy is the only nearest galaxy around iras source . the remainder 25 sbs galaxies require additional identification .",
+    "therefore , 25 sbs galaxies with the hight probability may be identified as iras sources .",
+    "so , the total amount of sbs iras galaxies contains 525 objects , that compose about 30% of all sbs galaxies , 5% of this sources are newly identified . the list of these 25 objects is presented in the table  1 .",
+    "the autor thanks j. a. stepanian for a formulation of the task and repeated discussion of this paper and n. serafimovich for her help in draw up the article .",
+    "this work were supported by the research grants no .",
+    "97 - 02 - 17168 and 1.2.2.2 from the russian foundation for basic research and from state programm `` astronomy '' respectively ."
+  ],
+  "abstract_text": [
+    "<S> the identification of iras sources with faint markarian galaxies on the base of the second byurakan survey were made . </S>",
+    "<S> it is shown that about 30% of sbs galaxies are also iras sources . </S>",
+    "<S> the list of newly identified objects are presented . </S>"
+  ]
+}

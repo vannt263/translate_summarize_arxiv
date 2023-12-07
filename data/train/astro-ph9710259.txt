@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "several groups have reported strong emission from mrk501 at this workshop . the cat imaging telescope , operating since october 1996 and ( described in rivoal et al . 1997 ) , is located in the french pyrenees ( 42,5@xmath1 n , 2@xmath1 e ) at an altitude of 1650  m. it has a mirror area of 17  m@xmath2 with a fine grained imaging camera ( 546 pixels , each 0.12@xmath1 for these data ) and a threshold energy of 220 gev . between march and august 1997 a total of 80 hours of data were taken on mrk501 with 25 hours of control region ( off ) data . as the performance of the telescope at large zenith angles is still under investigation , the data used for the variability study were limited to those at less than 25@xmath1 from zenith , and for the spectral analysis at less than 10@xmath1 ( 16.58 hours ) .",
+    "a standard moment - based ( `` supercuts '' ) analysis has been used for the study of mrk501 s light curve ( section 3 ) .",
+    "the cuts used are lower than for other detectors , taking advantage of the cat telescope s very high resolution imaging camera , as follows :    [ cols=\"^,^,^,^,^ , < \" , ]",
+    "the nightly flux levels ( expressed in gamma - rays per minute uncorrected for cut efficiencies ) for mrk501 between march 7 and august 8 1997 are shown in figure 2 . during this period",
+    "the average flux was higher than that of the crab nebula , with the highest flare over 6 times greater .",
+    "variability on a day time - scale is evident in this figure ; shorter time variations are still under study .",
+    "figure 3 shows the remarkable agreement between the data from three observatories ( cat , whipple , and hegra ) for the april period .",
+    "the data from each experiment have been rescaled as they have different thresholds and observatory altitudes .",
+    "this demonstrates also the utility / necessity of having several observatories to follow continuously such variable sources .",
+    "the acceptance area and the cut efficiency were derived from detailed monte carlo simulations as a function of energy and zenith angle .",
+    "these , combined with the energies from the maximum - likelihood fit , allow differential energy spectra to be obtained .",
+    "spectra from mrk501 are shown in figure 4 ( for data less than 10@xmath1 from zenith ) : for all data , for the data for which the source was in a low state , and for the largest flare on the night of april 15 - 16th",
+    ". a maximum - likelihood fit of a power law to the spectrum of these data gives for all data : @xmath3 the corresponding flux and index for the low state data are @xmath4 and @xmath5 , and for the largest flare @xmath6 and @xmath7 .",
+    "the errors in these formula are statistical only as the systematics studies are underway . within statistical errors",
+    "the spectrum index seems compatible with a constant hardness of the source . a cross - check of these values by the standard supercuts analysis yields closely compatible results both for flux values and spectral indices .",
+    "the spectra appear to be harder than that of the crab nebula ( given in goret et al . , 1997 ) .",
+    "in this dataset alone , there is a 4.7@xmath8 signal at energies above 7  tev ; if the cut on @xmath9 is relaxed the signal increases to 6.3@xmath8 above 7  tev , with 4.8@xmath8 above 10  tev .",
+    "further studies using the data taken at high zenith angle should extend the spectral coverage to higher energies .",
+    "the source markarian 501 entered a very active phase in 1997 , with several large flares during which it became the brightest object in the vhe @xmath10-ray sky .",
+    "this unusual behaviour has been detected by the cat imaging telescope and several other groups .",
+    "the intensity of the emission provides data which are exteremely rich in @xmath10-rays , useful both for testing of the detector capabilities and investigation of the highest - energy part of the spectrum . at the time of writing the source",
+    "has been seen to be still active in data taken at high zenith angle ."
+  ],
+  "abstract_text": [
+    "<S> the cat imaging telescope has observed the bl lac object markarian 501 between march and august 1997 . </S>",
+    "<S> we report here on the variability over this time including several large flares . </S>",
+    "<S> we present also preliminary spectra for all these data , for the low emission state , and for the largest flare .    * spectrum and variability of mrk501 as observed by the cat imaging telescope + * a. djannati - ata@xmath0 for the cat collaboration +   _ @xmath0lpnhe paris university 6&7 , 4 place jussieu - t33 rdc , 75252 paris cedex 05 , france + _ </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "recently , a measurement of the beta - delayed alpha - particle emission of @xmath0 was performed at triumf @xcite , which , together with an r - matrix analysis of these and related data , was used to extract a value for the p - wave astrophysical s - factor of the 12ag reaction .",
+    "such an analysis relies upon accurate knowledge of the line - shape of the spectrum of the beta - delayed alpha - particle emission of 16 . in the same paper",
+    "@xcite a comparison with the mainz(71 ) data is shown , as communicated to dr .",
+    "barker by dr .",
+    "h. wffler @xcite and published @xcite , and it is claimed @xcite that the mainz(71 ) spectrum `` ... is difficult to fit ... '' due to a broader line - shape .",
+    "hence the mainz(71 ) data have been largely ignored by these and other authors . in this papert",
+    "we demonstrate the validity of the original mainz(71 ) calibration , with which two additional experiments @xcite agree quite well , see fig",
+    "while the unaltered mainz(71 ) data disagree with the triumf(94 ) experiment on both the high and low energy sides of the broad @xmath3 peak , the triumf group @xcite has produced a recalibration of the mainz spectrum leading to a very different spectrum with `` the difference ranges from 6.5 kev at the low end to 18 kev at the higher energies '' @xcite .",
+    "the altered mainz data agree with the later triumf data @xcite on the high energy side , but disagree even more significantly on the low energy side . it is claimed \" ... the mainz spectrum shows evidence of an enhancement on the low energy side of the peak that is likely to be the result of the low energy tail of the system response function .",
+    "hence the mainz(71 ) data have been considered faulty .",
+    "azuma _ et al .",
+    "_ @xcite make the claim that the energy calibration ( 10.60 kev / ch ) contained in wffler s communication to barker @xcite is wrong , and that the mainz(71 ) spectrum can be self - calibrated with high accuracy .",
+    "they use wffler s statement ( in his letter ) that `` ... channel 37 corresponds to 1281 kev ... '' @xcite and claim that the centroid of the @xmath4 state is accurately extracted from the mainz(71 ) spectrum @xcite . using only the well known energy of the @xmath4 state",
+    "they derive a different energy dispersion ( 10.45 kev / ch @xcite ) .    at first",
+    "we note that it seems arbitrary that azuma _",
+    "@xcite adopt part of wffler s calibration ( channel 37 is 1281 kev ) @xcite , but reject the very dispersion ( 10.60 kev / ch ) used to calibrate it . even accepting this ,",
+    "their recalibration @xcite depends upon the ability to precisely extract the centroid of the @xmath4 state in the mainz(71 ) spectrum @xcite . in fig .",
+    "2a we show the mainz(71 ) data over the region of interest .",
+    "the raw data show a very strong energy dependence , and in the vicinity of channel 106 one observes a minuscule excess of counts , most likely due to a contribution from the @xmath4 state .",
+    "an accurate extraction of a centroid for this excess is very dependent on the choice of background and requires data with extremely good statistics .",
+    "the exact energy dependence of the background can not be calculated _ ab initio _ as it is a convolution of the beta - decay phase space with contributions from the broad @xmath3 state plus non - calculable background states .    in fig .",
+    "2a we show the original mainz(71 ) data with a fourth order polynomial background fit ( @xmath5 for ch 92 - 100 and @xmath6 for ch 110 - 114 ) . the background subtracted data are shown in fig .",
+    "2b together with a fit to a gaussian with a centroid fixed at the expected energy of the @xmath4 state ( @xmath7 = 2.0115 mev expected at channel 105.9 ) .",
+    "the resultant fit is not inconsistent with the expected shape of the @xmath4 state when allowing for undulations in the background .",
+    "this fit casts a strong doubt on the necessity of the recalibration .",
+    "in addition , we emphasize that the choice of background leads to a systmatic uncertainty in the extracted centroid ( ch 105.2 to 107.5 ) greater than the correction introduced in ref .",
+    "we emphasize that this is a systematic uncertainty and thus different from statistical uncertainties ( derived from chi - square considerations ) .    in fig .",
+    "3 we show the original calibration data from the mainz(71 ) experiment @xcite . using the @xmath8 procedure which resulted in an energy uncertainty of @xmath9 .",
+    "in contrast to the spectrum used for the recalibration with a signal a few percent above background , the original calibration spectrum has a signal to noise ratio of 12 . we strongly doubt the stated accuracy of the recallibration procedure as given by the triumf collaboration . while they use data with a signal to background ratio nearly 1000 times worse ( i.e. 12:1 vs about 1% above background see figs . 2 and 3 ) the triumf collaboration claims to extract a centroid with a factor of 5 better precission ( @xmath10 kev vs. @xmath11 kev ) .",
+    "it is most important to evaluate the effect of the various data sets on the extracted p - wave astrophysical s - factor of the 12ag reaction .",
+    "this question is beyond the scope of this short contribution , but we remark that the 16 spectrum allows for extracting the reduced alpha - particle width of the bound @xmath3 state at 7.12 mev , but it can not determine a priori whether the interference between the bound and quasi - bound @xmath3 states is constructive or destructive , and can not rule out the small s - factor solution ( i.e @xmath12 kev - b ) @xcite .",
+    "clearly a change in the line shape by as much as a factor of two at 1.4 mev ( the region of the interference minimum , see fig . 1",
+    "is expected to , for example , significantly alter the f - wave contribution and thus the extracted p - wave astrophysical s - factor of the 12ag reaction ."
+  ],
+  "abstract_text": [
+    "<S> contrary to claims that the problem has been solved , the astrophysical e1 s - factor of 12ag is not yet well known . </S>",
+    "<S> r - matrix analyses of elastic scattering data,12ag data , and data on the beta - delayed alpha - particle emission of @xmath0 are not consistent and a small s - factor solution [ @xmath1 can not be ruled out . in particular , data on the beta - delayed alpha - particle emission of @xmath0 do not agree . </S>",
+    "<S> the unaltered mainz data do not agree with triumf , but agree with both seattle and yale - uconn . </S>",
+    "<S> the triumf collaboration has recalibrated the mainz(71 ) data ; however , we dispute both the alteration of the mainz data performed by the triumf collaboration and the very justification for the recalibration .    12ag@xmath2 16@xmath0 </S>"
+  ]
+}

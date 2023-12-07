@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "recent work @xcite has shown that at least some fraction of the  absorption lines seen in the spectra of low redshift qsos arises in the extended haloes of galaxies . at high redshift absorbers",
+    "are found to be strongly clustered @xcite and many contain ionised carbon @xcite .",
+    "this suggests that some fraction of high redshift  absorbers may also be identified with the haloes of galaxies .",
+    "thus it seems likely that the  forest may exhibit large scale structure .",
+    "however , it has been shown @xcite that significant clustering may be missed when using the classical tool of cluster analysis , the two - point correlation function @xcite . here , we present a new technique to search for non - randomness in the spatial distribution of the  forest based on the first and second moments of the transmission probability density function .",
+    "this method is able to identify the strength , position and scale of individual structures since it retains spatial information .",
+    "it is fairly insensitive to noise and resolution characteristics and is easy to apply in practice .",
+    "the new technique has been tested with the help of synthetic spectra and it was found to be substantially more sensitive than a two - point correlation function analysis .",
+    "the method was applied to the spectra of a close group of eight qsos with a mean redshift of 2.97 .",
+    "the data @xcite was kindly made available to us by gerry williger ( see also these proceedings ) .",
+    "figure [ liskef1 ] shows the result of the analysis . the most prominent feature is a @xmath6 overdensity of absorption at 3978    ( @xmath7 ) .",
+    "it is due to the spectra of q0041 - 2707 and q0041 - 2658 .",
+    "the two lines of sight are separated by @xmath8 proper mpc ( @xmath3 ) and the feature covers @xmath9  km / s in velocity space .",
+    "williger et  al .",
+    "@xcite find metal absorption at redshift 2.2722 in the spectrum of q0041 - 2658 , which is remarkably consistent with the redshift of the overdense structure .",
+    "cowie l.l .",
+    ", songaila a. , kim t. , hu e.m . , 1995 , 109 , 1522 fernndez - soto a. , 1996 , 460 , l85 lanzetta k.m . ,",
+    "bowen d.b .",
+    ", tytler d. , & webb j.k .",
+    ", 1995 , 442 , 538 oke j.b .",
+    ", korycansky d.g . , 1982 , 255 , 11 peebles p.j.e . , 1993 , _ principles of physical cosmology _ , princeton univ .",
+    "press sargent w.l.w . , young p. j. , boksenberg a. , & tytler d. , 1980 , apjs 42 , 41 williger g.m . , 1996 , apjs 104 , 145"
+  ],
+  "abstract_text": [
+    "<S> the spatial distribution of  forest absorption systems toward a group of 8 , closely spaced qsos has been analysed and evidence for large scale structure has been found at @xmath0 . </S>",
+    "<S> our technique is based on the first and second moments of the transmission probability density function which is capable of identifying and assessing the significance of regions of over- or underdense  absorption . </S>",
+    "<S> the data has revealed at least two interesting features . </S>",
+    "<S> 1 . an overdense structure at @xmath1 which extends at least over @xmath2 comoving mpc ( @xmath3 ) in the plane of the sky . </S>",
+    "<S> metal absorption lines have been found at the same redshift and thus a cluster or proto - cluster of galaxies seems to have been discovered . </S>",
+    "<S> 2 . a void at @xmath4 , extending over @xmath5 comoving mpc in the plane of the sky , possibly caused by a locally increased uv ionising flux due to a foreground qso . </S>"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "recent measurements of molecular absorption in some radio sources corresponding to known hi 21 cm absorption systems give us ideal laboratories in which we can search for any possible temporal and spatial variation in the fundamental constants of nature ( a summary is given in @xcite ) .",
+    "the rotational transition frequencies of diatomic molecules such as co are proportional to @xmath6 where @xmath7 is the reduced mass and @xmath8 is the bohr radius . the 21 cm hyperfine transition in hydrogen has a frequency @xmath9 , where @xmath10 , @xmath2 is the proton g - factor and @xmath11 . consequently ( assuming @xmath12 is constant ) the ratio of the hyperfine frequency to the molecular rotational frequency @xmath13 where @xmath14 is the fine structure constant .",
+    "any variation in @xmath15 would therefore be observed as a difference in the apparent redshifts : @xmath16 .",
+    "two sources have common extragalactic molecular and hi absorption detections published : 0218@xmath17357 and 1413@xmath17135 ( see table  1 ) which we use in this paper to put constraints on any such variations .",
+    "one possible problem with this approach is that the hi and molecular absorptions might result from different clouds along the respective lines of sight .",
+    "we investigated this by looking at a sample of galactic mm - wave continuum sources @xcite with both hco@xmath18 and hi @xcite absorption detected .",
+    "we deconvolved the complex hi absorption into single systems and then identified the closest matching hi line to each hco@xmath18 absorption : the distribution of velocity differences is centred close to zero ( mean @xmath19 ) and very narrow with a gaussian dispersion of only 1.2kms@xmath20 .",
+    "this is equal to the spectral resolution of the hi data ( 0.61.3kms@xmath20 ) and shows the absorption is from the same clouds to within our velocity resolution .",
+    "[ 0cm][0 cm ]    we used the same approach to decompose the high - redshift hi absorption systems listed in table  1 , fitting a number of components to each system @xcite .",
+    "the fitting routine gave uncertainties less than 1kms@xmath20 for the strong lines ; these were added in quadrature with the velocity scale uncertainty of 0.3kms@xmath20 to obtain the errors . as with the low - redshift galactic absorption we picked the the hi absorption closest in velocity to each molecular absorption and list these new redshifts in table  1 .",
+    "molecular measurements are much more precise than the hi data ( velocity uncertainties of 0.1kms@xmath20 ) but the published values were not quoted to this precision , so we estimated the molecular redshifts and uncertainties from the publications as listed in table  1 ( we excluded a third source 1504@xmath17377 because of evidence of an offset in its molecular velocity scale)@xcite . in both sources",
+    "the redshifts agree to within our errors so we combined the uncertainties in quadrature to give 1 sigma upper limits on the redshift differences in table  1 .",
+    "the corresponding limits on any change in @xmath26 are @xmath27 at @xmath4 and @xmath5 .",
+    "these are significantly lower than the previous best limit of @xmath28@xcite ( it was quoted as a limit on nuclueon mass , but it actually refers to @xmath29 ) . as there are no theoretical grounds to expect that the changes in @xmath2 and @xmath30 are inversely proportional",
+    ", we obtain independent rate - of - change limits of @xmath31 and @xmath32 at @xmath4 and @xmath33 and @xmath34 at @xmath5 ( for @xmath35kms@xmath20mpc@xmath20 and @xmath36 ) .",
+    "these are much lower than the previous 1 sigma limit of @xmath37 at @xmath38 @xcite .    99 carilli , c. l. , perlman , e. s. , stocke , j. t. 1992 , 400 , l13 carilli , c. l. , rupen , m. p. , yanny , b. 1993 , 412 , l59 dickey , j.e . ,",
+    "kulkarni , s.r .",
+    ", van gorkom , j. , heiles , c.e .",
+    "1983 , apjs , 53 , 591 drinkwater , m.j . , webb , j.k . , barrow , j.d . , 1997 , mnras , submitted liszt , h. , lucas , r. 1996 , aa , 314 , 917 varshalovich , d.a . , potekhin , a.y .",
+    "1995 , space science review , 74 , 259 varshalovich , d.a . , potekhin , a.y .",
+    "1996 , astron .",
+    "lett . , 22 , 1 varshalovich , d.a . , panchuk , v.e . , ivanchik , a.v . 1996 , astron .",
+    "lett . , 22 , 6 wiklind , t. , combes , f. 1994 , 286 , l9 wiklind , t. , combes , f. 1995 , 299 , 382"
+  ],
+  "abstract_text": [
+    "<S> we have compared the frequency of high - redshift hydrogen hi 21 cm absorption with that of associated molecular absorption in two quasars to place new ( 1 sigma ) upper limits on any variation in @xmath0 ( where @xmath1 is the fine structure constant and @xmath2 is the proton g - factor ) of @xmath3 at redshifts @xmath4 and @xmath5 . </S>"
+  ]
+}

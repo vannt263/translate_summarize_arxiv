@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "the shapley concentration stands out as the richest system of abell clusters in the list of zucca et al .",
+    "( 1993 ) , at every density excess . in particular , at a density contrast of @xmath2",
+    ", it has 25 members ( at mean velocity @xmath3 km / s ) , while at the same density contrast the great attractor , which is the largest mass condensation within @xmath4 h@xmath5 mpc , has only 6 members and the corona borealis and hercules superclusters are formed by 10 and 8 clusters , respectively . while the cluster distribution in the shapley concentration has been well studied ,",
+    "little is known about the distribution of the galaxies .",
+    "determining the properties of these galaxies is very important in order to assess the physical reality and extension of the structure and to determine if galaxies and clusters trace the matter distribution in the same way .",
+    "with the use of the optopus and mefos multifibre spectrographs at the 3.6 m eso telescope we performed a redshift survey of galaxies in the two cluster complexes ( dominated by a3528 and a3558 ; bardelli et al .",
+    "1994 , 1998a , 1998b ) at the center of the supercluster and of galaxies between clusters ( the inter ",
+    "cluster galaxies ; bardelli et al .",
+    "the sampled area is contained in the ukstj plates 443 , 444 and 509 , corresponding to a scale of @xmath6 h@xmath5 mpc at the distance of the shapley concentration , and our total sample contains 2057 velocities . in fig.1",
+    "we show the observing strategy for the inter  cluster galaxies survey in plates 443 and 444 , while in fig.2 we report the wedge diagrams of the galaxy distribution . in the upper panel of fig.2 , it is clear the presence of the two cluster complexes dominated by a3558 ( on the left ) and by a3528 ( on the right ) .",
+    "these two structures appear to be connected by a bridge of galaxies , resembling the coma - a1367 system in the central part of the great wall .",
+    "the scale of this system is @xmath7 h@xmath5 mpc and it is similar to that of coma - a1367 ( @xmath8 h@xmath5 mpc ) .",
+    "note also the presence of two voids at @xmath9 km / s and @xmath1 km / s in the easternmost half of the wedge .",
+    "other two voids are visible in the westernmost part of the sample , delimiting two filamentary structures at @xmath1 km / s and @xmath10 km / s , which connect each other at right ascension of @xmath11 .    knowing the incompleteness of the sample and using the luminosity function of field galaxies ( from the esp survey , zucca et al .",
+    "1997 ) , it is possible to reconstruct the density profile . in fig.3",
+    "the histogram and the density profile of the 512 inter ",
+    "cluster galaxies are shown . in the lower panel",
+    "it appears clearly the presence of the large overdensity at @xmath12 km / s .",
+    "note however that in this plot the shapley concentration is not fully represented , lacking the large contribution of cluster galaxies .",
+    "the same analysis has been done for the cluster complexes surveys and then the total density excess has been calculated .",
+    "the total overdensity in galaxies of this supercluster is @xmath13 on a scale of @xmath14 h@xmath5 mpc of radius , corresponding to a mass of @xmath15 h@xmath5 @xmath16 if light traces mass and @xmath17 .",
+    "if the light is more clustered than the mass and considering reasonable bias factors in the range @xmath18 $ ] ( hudson 1993 ) , we find that the mass could lie in the range @xmath19\\times 10^{15}$ ] h@xmath5 @xmath16 .",
+    "if light traces mass and @xmath17 , the shapley concentration already stopped its expansion due to the hubble flow and started to grow .",
+    "moreover , the central cluster complexes result to be in the collapse phase .",
+    "the predicted peculiar velocities inside the shapley concentration are @xmath20 km / s in the light  traces  mass case or in the range @xmath21 $ ]",
+    "km / s in the case of biased galaxy formation .    for what concerns the structure at @xmath1 km / s ,",
+    "its estimated overdensity is @xmath22 on scales of @xmath6 h@xmath5 mpc , corresponding to a mass of @xmath23 h@xmath5 @xmath16 if the light is an unbiased tracer of the underlying mass ."
+  ],
+  "abstract_text": [
+    "<S> we present the results of a galaxy redshift survey in the central region of the shapley concentration . </S>",
+    "<S> our total sample contains @xmath0 radial velocities of galaxies both in the clusters and in the inter - cluster field . </S>",
+    "<S> we reconstruct the density profile of this supercluster , calculate its overdensity and total mass . </S>",
+    "<S> moreover we detect a massive structure behind the shapley concentration , at @xmath1 km / s . </S>"
+  ]
+}

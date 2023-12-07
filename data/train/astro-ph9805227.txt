@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "the peculiar hgmn , am , and magnetic ap stars are now thought to be reasonably well understood , but the same can not be said about the @xmath0 boo stars .",
+    "these objects have caii k and metallic - line types near a0 , weak mgii @xmath04481 lines , and h lines with cores typical of early to late a - type stars , but often with shallow wings .",
+    "relative to the balmer line cores the k and metal line types are too early - the stars are metal weak ( gray 1988 ) .",
+    "quantitative measurements suggest that cno abundances are approximately normal while fe , mg , ca and other elements are underabundant by up to 2 dex ( venn & lambert 1990 ; strenburg 1993 ) .",
+    "several ideas have been put forward in the last few years to explain the @xmath0 boo phenomenon .",
+    "venn & lambert s ( 1990 ) observation that the abundances of elements in 3 members of the class are similar to that of interstellar gas depleted by the formation of grains has led to a promising model developed by charbonneau ( 1991 ) and turcotte & charbonneau ( 1993 ) in which the @xmath0 boo stars are accreting mass at a rate on the order of @xmath1 yr@xmath2 .    if the @xmath0 boo stars have accreted their atmospheres , this theory predicts that members of the class should be accreting in the present epoch and therefore many of them may be near the zams .",
+    "since asteroseismology has the potential to provide direct measurements of the evolutionary state of pulsating stars , our recent discovery of nonradial pulsation ( nrp ) in the @xmath0 boo star hd 111604 encouraged us to complete a spectroscopic search for nrp in all members of the class observable from the canada - france - hawaii telescope .",
+    "our program objects are listed in table [ stars ] , and as an examination of the table reveals , positive detection of nrp has been obtained in 50% of the 18 observed @xmath0 boo stars .    .program star data . [ cols=\">,<,^,^,^,^,^ \" , ]",
+    "one of the more prominent @xmath0 boo nonradial pulsators is shown in fig .",
+    "[ fig1 ] . where the length of the time series for a particular star warrants , we have attempted to estimate feature crossing times , @xmath3 t , principal modes , @xmath4 , assuming sectorial modes , and the time it takes for one wave to travel around the star , @xmath5 .",
+    "these values are tabulated in table [ stars ] . also of interest is the fact that most of the nonradial pulsators are also photometric variables .",
+    "( see the column labeled `` phot .",
+    "var . ? '' in the table [ stars ] for upper limits in photometric variability for stars in which no photometric varations have been observed . )",
+    "photometric periods are given in the last column of the table where known .",
+    "hd 30422 , hd 111604 , hd 192640 , and hd 210111 have the highest amplitude nrp among our program stars . of these",
+    ", hd 192640 ( 29 cyg ) has v=4.92 which makes it very attractive as a target for future multisite photometric and spectroscopic campaigns .",
+    "hd 31295 , hd 111604 , hd 183324 , and hd 221756 also warrant consideration as bright ( @xmath6 ) pulsators .",
+    "we also would like to encourage additional photometric observations of @xmath0 boo itself ."
+  ],
+  "abstract_text": [
+    "<S> we have completed a high - resolution , high - signal - to - noise , spectroscopic survey of the northern members of the peculiar @xmath0 boo stars in order to investigate the frequency of the incidence of nonradial pulsation ( nrp ) in these metal - deficient stars . </S>",
+    "<S> of 18 objects observed , 9 show conclusive evidence of nrp , which suggests that pulsation instability is a common phenomenon in the @xmath0 boo class . </S>"
+  ]
+}

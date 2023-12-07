@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "we have made a spectroscopical follow - up of 10 pdcs lines of sight including 15 clusters . these pdcs clusters ( lubin et al . 1996 ) are optically selected cluster candidates .",
+    "we have measured about 700 redshifts in 6 nights at cfh with the mos spectrograph .",
+    "the expected redshift of these clusters is around 0.4 .",
+    "two areas of the sky are particularly well covered : 4 lines of sight around 9h and 3 lines of sight around 13h .",
+    "the sampled redshift range is z=[0.,0.9 ] .",
+    "the first results of this survey show that more than 60% of the candidate clusters are real gravitationally bounded structures with a velocity dispersion ranging from 600 km / s to 1500 km / s .",
+    "using the 6 best sampled clusters , we have used the same techniques as were were used for the nearby enacs clusters ( adami et al . 1998 ) .",
+    "we plot the variation of the galaxy normalized velocity dispersion versus the absolute magnitude and the morphological type ( fig 1 : we assume as a first approximation that the em line galaxies are a mix of early and late spirals and that the only absorption line galaxies are a mix of ellipticals and so ) .",
+    "the open symbols are the results for nearby clusters ( z@xmath00.05 : adami et al .",
+    "1998 ) and the filled triangles are for the pdcs clusters ( z@xmath00.4 ) .",
+    "we see that the two distributions are essentially the same : the evolution of the internal dynamics of the clusters between 0.05 and 0.4 seems to be negligible . at z@xmath00.4 or z@xmath00.05 , the emission line galaxies are an infalling population while the absorption line galaxies seem to be virialized and the galaxies follow the energy equipartition law ( thick line in fig 1 left ) .",
+    "the conclusion is that the epoch formation of the clusters is probably significantly greater than 0.4 , the clusters continually evolving after with late type galaxies still infalling at low redshifts .",
+    "the 2 well sampled cop areas ( 9h and 13h ) allow a study of the periodicity along the line of sight .",
+    "the structures are defined exactly as the enacs ( katgert et al .",
+    "at 9h , we find a periodicity of 90 @xmath1 2 mpc and at 13h the periodicity is 143 @xmath1 10 mpc .",
+    "comparing these results with broadhurst et al ( 1990 ) ( 128 mpc in another direction ) , we tentatively conclude that periodicities in the structure distribution are in agreement with the `` web '' representation of the universe and the value of this periodicity depends of the line of sight .",
+    "adami c. , biviano a. , mazure a. , 1998 , a@xmath2a 331 , 439 broadhurst t. , ellis r. , koo d. , et al . , nature 343 , 726 katgert p. , mazure a. , perea j. , et al .",
+    ", 1996 , a@xmath2a 310 , 8 lubin l. , postman m. , 1996 , aj 111 , 1795"
+  ],
+  "abstract_text": [
+    "<S> we present in this paper the first results of the cop survey about the reality of the pdcs clusters , about their velocity dispersions and dynamic and about the periodicity of the structures along the line of sight . </S>"
+  ]
+}

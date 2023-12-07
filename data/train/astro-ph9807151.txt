@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "in recent years a number of authors have investigated the microlensing of extended stellar sources .",
+    "( hereafter snw95 ) have shown that the light curves of extended sources can exhibit a significant chromatic dependence , essentially because limb darkening renders the effective radius of the star a function of wavelength .",
+    "thus , in addition to improving constraints on the lens parameters , modelling the microlensing of extended sources provides a powerful tool for gravitational imaging stellar surfaces .    in this contribution",
+    "we describe how microlensing light curves of extended sources may be used as a test of stellar atmosphere models .",
+    "we generate artificial light curves , assuming a particular model atmosphere , and use the backus - gilbert numerical inversion method to estimate the radial stellar intensity profile from the observed light curves .",
+    "the ( time dependent ) integrated flux , @xmath0 , from an extended stellar source of radius , @xmath1 , lensed by a point lens is given by ( c.f .",
+    "snw95 ) @xmath2 where @xmath3 is the projected distance from the lens to the element of the stellar surface and the amplification function , @xmath4 , takes its usual analytic form for a point source .",
+    "( note that @xmath3 is a function of @xmath5 , @xmath6 and @xmath7 ) .",
+    "if we assume that the projected stellar surface displays circular symmetry ",
+    "i.e. @xmath8  we may write the above equation in the form @xmath9 where @xmath10 and the kernel function , @xmath11 , is obtained by integrating over @xmath6 .",
+    "a solution to this integral equation for @xmath12 can be obtained by applying the backus - gilbert inversion procedure .",
+    "this method takes account of the smoothing effect of the kernel function and reconstructs a regularised estimator of @xmath12 which optimises the trade - off between the bias and variance of the estimator . for details of the method",
+    "in order to test the feasibility of reconstructing stellar surface profiles , we assumed a simple , linear , limb darkening law with coefficient , @xmath13 .",
+    "we generated microlensed light curves of typically 100 data points , with an even sampling rate , and gaussian noise added to the photometry at a level of typically 2% of the baseline flux .",
+    "in most cases we took the impact parameter and the einstein radius equal to the stellar radius .",
+    "we considered two model atmospheres :    @xmath14 ; @xmath15 ; @xmath16 , @xmath17    @xmath18 ; @xmath19 ; @xmath20 , @xmath21    where the johnson @xmath22 and @xmath23 band linear limb darkening coefficients are from .",
+    "we carried out inversions of the @xmath22 and @xmath23 band intensity profiles for these models , and investigated the effect of changing the impact parameter , stellar radius , light curve sampling rate and photometric accuracy .",
+    "figure [ fig : fig1 ] illustrates the reconstructed @xmath23 band profile for model ( 2 ) , for the case of the impact parameter and stellar radius equal to the einstein radius of the lens .",
+    "the errors on the recovered solution are determined from the covariance matrix of the backus - gilbert estimator .",
+    "we can see that the reconstructed profile is significantly biased for @xmath24 , due to the smoothing effect of the kernel function , but the true profile is well recovered over the interval @xmath25 .",
+    "we now briefly summarise the results of varying the stellar and lens parameters .",
+    "* the inversions generally recover the true profiles well over the interval @xmath25 , for a wide range of @xmath26 , @xmath27 and @xmath13 . *",
+    "increasing the einstein radius improves significantly the inversions for @xmath28 , but no improvement is seen for @xmath24 . * reducing the impact parameter ( i.e. a transit event ) significantly improves the accuracy of the reconstruction for @xmath28 and reduces the bias for @xmath24 . for impact parameters greater than the stellar radius , however , the reconstruction deteriorates rapidly for all @xmath29 . *",
+    "even with photometric errors of 10% a reasonable recovery of @xmath12 is still obtained over the interval @xmath25 ; on the other hand , reducing the errors to only 0.2% does _ not _ improve the recovery for @xmath24 , however .",
+    "this is because the bias is primarily due to the ill - posedness of the kernel over this range , and not due to the photometric errors . *",
+    "the reconstructions become unacceptably noisy when the number of light curve data points is reduced to @xmath30 , but there is little further improvement in accuracy above @xmath31 .",
+    "our results indicate that  with realistic light curve sampling and photometric errors  one can accurately reconstruct , at least in part , the multicolour radial intensity profiles of extended stellar sources from their microlensed light curves , provided that the impact parameter of the lens is comparable to the stellar radius .",
+    "the smoothing properties of the kernel function result in a biased solution for @xmath24 , unless the lensing event is a transit with small impact parameter .",
+    "nevertheless , the accurate recovery over the interval @xmath25 is a robust result over a wide range of stellar temperatures and limb darkening coefficients . despite the narrow width of this ` good fit ' annulus , it is still adequate to usefully discriminate between different model atmospheres ",
+    "e.g. two models with the same temperature but with @xmath15 and @xmath32 .",
+    "thus , we conclude that broad band microlensed photometric light curves are a powerful tool for investigating extended stellar sources and testing model stellar atmospheres , and form a useful adjoint to spectroscopic and polarimetric microlensing signatures .",
+    "we are currently investigating the application of inversion techniques to more realistic model atmospheres and stellar intensity profiles ."
+  ],
+  "abstract_text": [
+    "<S> we investigate the feasibility of reconstructing the radial intensity profile of extended stellar sources by inverting their microlensed light curves . using a simple , linear , limb darkening law as an illustration </S>",
+    "<S> , we show that the intensity profile can be accurately determined , at least over the outer part of the stellar disc , with realistic light curve sampling and photometric errors . </S>",
+    "<S> the principal requirement is that the impact parameter of the lens be less than or equal to the stellar radius . </S>",
+    "<S> thus , the analysis of microlensing events provides a powerful method for testing stellar atmosphere models .    </S>",
+    "<S> gravitational lensing , stars : atmospheres </S>"
+  ]
+}

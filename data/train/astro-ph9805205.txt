@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "( hd 358 , hr 15 ) is a bright , well known binary system with a hgmn primary .",
+    "pan et al .",
+    "( 1992 ) obtained its visual orbit from observations with the mark iii stellar interferometer .",
+    "later tomkin et al .",
+    "( 1995 ) detected the weak secondary spectrum , measured the secondary s radial velocities near the nodes , and calculated the spectroscopic orbital elements of this sb2 system .",
+    "their derived mass ratio 0.42 @xmath1 0.02 differs from 0.48 of pan et al . and gives too large a mass for the primary .",
+    "no abundances of the secondary are published .",
+    "was observed in 1990 - 91 and 1996 - 97 at crimean astrophysical observatory ( crao ) and in 1992 - 94 at dominion astrophysical observatory ( dao ) .",
+    "crao spectra were obtained at the coud spectrograph of the 2.6 m telescope with a ccd detector in three spectral regions centred at @xmath2 4960 , 6347 and 6678 with s /",
+    "n @xmath3 300 .",
+    "the dao reticon spectra were taken with the 1.22 m telescope for a grid of central wavelengths between @xmath2 3830 and 5180 with 55   offsets .",
+    "the typical s / n was @xmath3 200 .",
+    "radial velocity measurements for both components were made using synthetic spectra calculated with the model atmospheres and abundances discussed below .",
+    "for each spectral region we synthesized the primary s spectra and derived the radial velocities from the shifts of the calculated spectrum relative to the observations .",
+    "the rotational velocities are = 52 for the primary and = 110 for the secondary .",
+    "we calculated the orbital elements for  with a code by tokovinin ( 1992 ) combining our measurements with those from abt & snowden ( 1973 ) , aikman ( 1976 ) , and tomkin et al .",
+    "table 1 compares these orbital elements .",
+    ".orbital elements of [ cols=\"<,^,^,^ \" , ]     our orbital solution yields a mass ratio 0.50 @xmath1 0.03 , which agrees with the masses from the mass - luminosity relation . figure 1 compares the observed and computed binary spectra in the 4957  spectral region for a few orbital phases in the rest frame of the primary .",
+    "the contributions from the secondary are shown by dashed lines .",
+    "the effective temperatures and the surface gravities of the components of were obtained by fitting the observed spectrophotometry ( adelman & pyper 1983 ) . combining data from the visual orbit measurements and from the spectroscopy and using evolutionary tracks by schaller et al .",
+    "( 1992 ) we found :        both stars are close to the zero age main sequence .",
+    "the abundances of both stars were derived by synthetic spectrum calculations ( see fig .",
+    "the chemical abundances of a are typical of hot hgmn stars .",
+    "the secondary star shows abundances typical of the metallic - line stars : a ca deficiency , small overabundances of the iron - peak  elements , and 1.0  dex overabundances of sr and ba .",
+    "abt h. a. , snowden m. s. , 1973 , apjs , 25 , 137 adelman s. j. , pyper d. m. , 1983 , a&a , 118 , 313 aikman",
+    "g. c. l. , 1976 , publ . dominion astrophys .",
+    ", 14 , 379 pan x. , shao m. , colavita m. m. , armstrong j. t. , mozurkewich d. , vivekanand m. , denison c. s. , simon r. , johnston k. j. , 1992 , apj , 384 , 624 schaller g. , schaerer d. , meynet g. , maeder a. 1992 , a&as 96 , 269 tokovinin a. , 1992 , in mcalister h. a , hartkopf w. i. , eds .",
+    ", asp conf .",
+    "32 , complementory approaches to double and multiple star research .",
+    ", san francisco , p. 573 tomkin j. , pan x. , mccarthy j. k. , 1995 , aj , 109 , 780"
+  ],
+  "abstract_text": [
+    "<S> we performed a spectroscopic study of the sb2 mercury - manganese star @xmath0 and . </S>",
+    "<S> our measurements of the secondary s radial velocities result in improved orbital elements . </S>",
+    "<S> the secondary shows abundances typical of the metallic - line stars : a ca deficiency , small overabundances of the iron - peak elements , and 1.0 dex overabundances of sr and ba . </S>"
+  ]
+}

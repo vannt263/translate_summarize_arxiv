@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the stellar population synthesis technique is used to generate synthetic hertzsprung - russell diagrams ( hrds ) .",
+    "this is a powerful tool in studies of the properties of resolved stellar populations .",
+    "the so - called hrd galactic software telescope ( hrd - gst ) is developed to study the stellar populations in our galaxy ( ng et  al .",
+    "1995 ) . the basis is formed by the latest evolutionary tracks calculated by the padova group ( bertelli et  al .",
+    "1994 and references cited therein ) . through a galactic model synthetic colour - magnitude diagrams ( cmds ) are generated and compared with the observations .",
+    "the primary goal of the hrd - gst is to determine the interstellar extinction along the line of sight and to obtain constraints on the galactic structure and on the age - metallicity of the different stellar populations distinguished in our galaxy .",
+    "thus far the distribution of the disc stars are described by a double exponential with a specific scale height and scale length for each subpopulation distinguished from differences in age and metallicity .",
+    "the distribution of the halo / bulge / bar stars are well described with a power - law .",
+    "one should bear in mind that the cmds studied are ` snapshots ' from our galaxy .",
+    "these cmds do not provide information about the galaxy s dynamical structure .",
+    "one therefore can not distinguish if different stellar populations might form one dynamical entity .",
+    "the results obtained thus far are reported in various papers ( bertelli et  al .",
+    "1995 , 1996 ; ng et  al .",
+    "19951997 ) .",
+    "in star counts studies with the hrd - gst one first has to determine the extinction along the line of sight ( bertelli et al . 1995 , ng&bertelli 1996 ) . in one of the fields studied by bertelli et al .",
+    "( 1995 , 1996 ) hot horizontal branch stars were found .",
+    "the padova isochrones , single stellar populations and synthetic stellar populations all indicated that these stars can not be old and metal - poor , but are likely old and metal - rich ( 1315  gyr , z up to 0.08 ) .",
+    "( 1996 ) found from a study of the red horizontal branch morphology in baade s window the presence of a significant younger ( 89  gyr ) and less metal - rich ( z=0.0050.03 ) stellar population .",
+    "the presence of an old , metal - rich population could not be excluded . however , no conclusive evidence was on the other hand found for its presence .",
+    "the results thus far indicate that the stellar population constituting the galactic bulge and bar are likely not the same . in baade",
+    "s window a stellar ratio bulge / bar=1/2 was obtained . the star counts studies",
+    "do not reveal if those stellar populations behave dynamically like one entity .",
+    "this information should be obtained by other means .",
+    "future star counts studies with the hrd - gst ought to identify features in cmds , which are indicative for different ages of metal - rich stellar populations .",
+    "furthermore , studies of large areas are required to obtain a statistically significant number of metal - rich , hot horizontal branch stars .",
+    "the extinction ought to be studied carefully in order to disentangle metallicity from differential extinction and a detailed study should be made of the ( de - reddened ) red horizontal branch morphology .",
+    "the availability of the ogle - ii data ( http://www.astrouw.edu.pl/@xmath0ftp/ogle/index.html ) satisfies the requirement for homogeneous photometry from large areas and further justifies a forthcoming effort to verify the star counts results .",
+    "_ acknowledgements_ng acknowledges financial support received from the iau and the italian space agency ( asi ) .",
+    "bertelli g. , bressan a. , chiosi c. , fagotto f. , nasi e. , 1994 , a&as 106 , 275 bertelli g. , bressan a. , chiosi c. , ng y.k . , ortolani s. , 1995 , a&a 301 , 381 bertelli g. , bressan a. , chiosi c. , ng y.k . , 1996 ,",
+    "a&a 310 , 115 ng y.k . , bertelli g. , 1996 , a&a 315 , 116 ng y.k . , bertelli g. , bressan a. , chiosi c. , lub j. , 1995 , a&a 295 , 655 ng y.k .",
+    ", bertelli g. , chiosi c. , bressan a. , 1996 , a&a 310 , 771 ng y.k . , bertelli g. , chiosi c. , bressan a. , 1997 , a&a 324 , 65"
+  ],
+  "abstract_text": [
+    "<S> an overview is given of the results obtained about galactic structure studies towards the galactic centre from star counts . </S>",
+    "<S> the results indicate the presence of an old metal - rich population (; ) , presumably the old galactic bulge . </S>",
+    "<S> in addition , a younger , less metal - rich population was found (; ) , likely related to the tri - axial bar found in other studies . in baade </S>",
+    "<S> s window a ratio bulge / bar stars of approximately 1/2 was obtained from star counts . </S>"
+  ]
+}

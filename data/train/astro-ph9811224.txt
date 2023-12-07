@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "galaxy evolution is strongly influenced by the environment .",
+    "the galaxy morphology is related to the density of its environment ( dressler 1980 ) and , in the case of galaxy clusters , elliptical galaxies are more common than spirals with respect to the field . if we look to distant clusters we detect some evolution effects as butcher - oemler effect ( 1984 ) or a variation in the morphological content with the redshift ( dressler et al . , 1997 ) .",
+    "+ in this observational program of galaxy clusters at medium and high redshift ( p.i .",
+    ": a. franceschini ; collaborators : c. cesarsky , p.a .",
+    "duc , a. moorwood and a. biviano ) , we are interested in studying the galaxy evolution with respect to their distance from the cluster center , in observing active galaxies in clusters and finally , in comparing the behavior of galaxies in clusters and in the field .",
+    "this is really interesting especially after the results of ir deep surveys which claim the existence of a population of galaxies with great ir fluxes in the past ( @xmath1 ) , which does not present any peculiar optical signature ( elbaz et al .",
+    "1998 , aussel et al . 1998 ) .",
+    "ten rich galaxy clusters , with redshift ranging from 0.2 to 1 , have been observed with the iso camera in the two bands lw2 and lw3 ( centered respectively at 6.75 @xmath0 m and 15 @xmath0 m ) .",
+    "three of them were observed very deeply ( see tables  [ tab : shallow ] and  [ tab : deep ] ) .",
+    "optical follow - up s of the observed clusters are scheduled in the next months .",
+    "only that of a1689 has already been carried out in may 1998 with emmi on the ntt at la silla ( p.i .",
+    "a total of about 120 spectra have been obtained in a field of 3@xmath25 square arcminutes centered on abell 1689 .",
+    "the observed objects were mostly the optical counterpart candidates of the sources detected in the isocam bands and the data are in course of reduction .",
+    "crrccr + & & & & + & & & & +   + a1689 & 0.19 & 5.6@xmath3 @xmath2 5.6@xmath3 & 6@xmath4 & 4506 + gho1600 + 412 & 0.3 & 7.4@xmath3 @xmath2 7.4@xmath3 & 6@xmath4 & 4546 + 3c295 & 0.46 & 4.0@xmath3 @xmath2 4.0@xmath3 & 3@xmath4 & 5413 + 3c330 & 0.55 & 7.4@xmath3 @xmath2 7.4@xmath3 & 6@xmath4 & 4536 + cl0016 + 1609 & 0.55 & 5.6@xmath3 @xmath2 5.6@xmath3 & 6@xmath4 & 4476 + j1888.16cl & 0.56 & 5.6@xmath3 @xmath2 5.6@xmath3 & 6@xmath4 & 4506 + cl1322 + 3029 & 0.7 & 2.2@xmath3 @xmath2 2.2@xmath3 & 3@xmath4 & 5373 + gho1322 + 3027 & 0.75 & 4.0@xmath3 @xmath2 4.0@xmath3 & 6@xmath4 & 2732 + gho1603 + 4313 & 0.895 & 2.2@xmath3 @xmath2 2.2@xmath3 & 3@xmath4 & 5373 + cl1603 + 4329 & 0.92 & 4.0@xmath3 @xmath2 4.0@xmath3 & 6@xmath4 & 2732 + cl1415 + 5244 & ... & failed & ... & ... +   +    crcccr + & & & & & + & & & & & +   + 3c330 & 0.55 & lw3 & 15.2@xmath53.3@xmath3 & 6@xmath4 & 20584 + j1888.16cl & 0.56 & lw2 & 13.7@xmath53.35@xmath3 & 6@xmath4 & 20967 + j1888.16cl & 0.56 & lw3 & 15.2@xmath53.3@xmath3 & 6@xmath4 & 20624 + gho1603 + 4313 & 0.895 & lw2 & 13.7@xmath53.35@xmath3 & 6@xmath4 & 20967 + gho1603 + 4313 & 0.895 & lw3 & 15.2@xmath53.3@xmath3 & 6@xmath4 & 20604 +   +",
+    "the part of the galaxy spectrum seen by each isocam filter is a function of the redshift ( k correction ) .",
+    "the galaxy spectrum is the sum of three different components : uibs , warm dust and forbidden lines of ionized gas . in the case of nearby clusters ,",
+    "the lw3 band is centered on the warm dust emission and the lw2 band is dominated by the contribution of the uibs .",
+    "when we consider distant clusters ( @xmath6 ) , the lw3 band is more and more contaminated by the uibs , while in the lw2 band the contribution of the stellar continuum , especially from old population stars , overtakes the uib features ( see fig .  [",
+    "fig : lw2lw3 ] ) .",
+    "we detect a spatial segregation in the distribution of isocam sources .    in the a1689 field ( fig .",
+    "[ fig : a1689-images ] ) we can remark an overdensity of lw2 sources in the cluster center , while lw3 sources seem to avoid the central region . there are more detections associated to the dust ( lw3 band ) in the outskirts than in the central region , likely because galaxies which are far from the cluster center are generally more active than central galaxies ( see fig .  [",
+    "fig : a1689-dens ] ) .",
+    "if we compare the distribution of colors for the galaxies ( gudehus & hegyi 1991 ) with the analogous distributions for galaxies detected in the two bands ( fig .",
+    "[ fig : a1689-colors ] ) , we note that these distributions do not differ significatively , as in the case of isocam observations of the hubble deep field ( aussel et al .",
+    "this shows that the activity unveiled by the mid - infrared images is hidden in the optical , corroborating the observation of the antennae galaxy by mirabel et al .",
+    "( 1998 ) .    the segregation effect is more clearly visible in the cluster j1888.16cl at a redshidft of 0.5 ( fig .",
+    "[ fig : j1888-dens ] ) .",
+    "this effect could be due to a more intense activity of galaxies or to a favored detection of arclets at 15 @xmath0 m as in the case of a2390 ( altieri & al , 98 ) .",
+    "for the cluster gho 1603 + 4313 at @xmath7 we find an uniform distribution for the lw2 band and an overdensity of galaxies at the cluster center for the lw3 band ( fig .",
+    "[ fig : gho - dens ] ) .",
+    "this is consistent with previous cases , since lw3 at @xmath7 corresponds to lw2 band at rest ( @xmath8 ) , due to k - correction , but may be also associated to a stronger star formation activity at higher @xmath9 .",
+    "we thank h. aussel for his helpful advises . +",
+    "the isocam data presented in this paper was analyzed using `` cia '' , a joint development by the esa astrophysics division and the isocam consortium led by the isocam pi , c. cesarsky , direction des sciences de la matiere , c.e.a ."
+  ],
+  "abstract_text": [
+    "<S> ten galaxy clusters , with redshift ranging from 0.2 to 1 , have been observed with the iso camera in the two bands lw2 and lw3 ( centered respectively at 6.75  @xmath0 m and 15  @xmath0 m ) . </S>",
+    "<S> we present a first analysis for three of these clusters at redshift 0.2 , 0.5  and  1 . </S>",
+    "<S> + key  words : iso ; infrared astronomy ; galaxy clusters . </S>"
+  ]
+}

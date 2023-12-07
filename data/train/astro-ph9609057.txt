@@ -1,0 +1,15 @@
+{
+  "article_text": [
+    "by means of the code named cuba ( described in hmi ) , we have calculated the ratio @xmath4 for a set of qso spectral models as discussed in hmii .",
+    "the hi and heii opacities computed with various qso background models have been then tested against the observed values .",
+    "together with the already mentioned heii data , we have taken a collection of hi data .",
+    "the calculated redshift dependent heii @xmath5 ( the fractional flux decrement shortward of ly@xmath6 ) is shown in figure for different input qso spectral models , together with the available data points . in the left upper panel we plotted also hi @xmath5 against the data ."
+  ],
+  "abstract_text": [
+    "<S> the detection of a heii absorption trough in the spectra of three high - redshift quasars provides new constraints on the spectral shape of the uv extragalactic background . </S>",
+    "<S> the relative strengths of the observed flux decrements at the rest - frame wavelengths of 1216 and 304   require a relatively soft radiation field at 4 ryd compared to 1 ryd . </S>",
+    "<S> if the ionizing metagalactic flux is dominated by the integrated light from qsos , and the heii reionization of the universe was completed well before @xmath0 , then the uv / soft x - ray spectrum of individual quasars at these epochs must , once the cosmological `` filtering '' through material along the line of sight is taken into account , satisfy similar constraints on the average . </S>",
+    "<S> we model the propagation of agn - like ionizing radiation through the intergalactic medium using cuba , a numerical code developed in our prior work . </S>",
+    "<S> we show that , in order to explain the reported heii absorption , any thermal component responsible for the `` soft x - ray excess '' observed in the spectra of agns at @xmath1 must , at @xmath0 , have a typical temperature @xmath2  ev , and a luminosity not exceeding @xmath3% of that of the `` uv bump '' . </S>"
+  ]
+}

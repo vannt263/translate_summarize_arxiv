@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "scientific data analysis means using our data to make inferences about various hypotheses .",
+    "however , what the data give us is the likelihood of getting our specific data set as a function of the hypothesis . to reverse",
+    "the conditioning bayes theorem can be used which invokes a prior probability distribution for the hypotheses as additional input .",
+    "the prior probability distribution can be fairly simple , for example a scaling of a known behaviour in a system to its subsystem .",
+    "the consequence of this is that the `` best '' hypothesis can be derived by maximising the entropy ( for an extensive introduction see @xcite ) @xmath0 under the constraint of a likelihood argument . here",
+    "@xmath1 is the hypothesis in pixel @xmath2 and @xmath3 is our prior expectation .",
+    "an implementation of this method is given by the memsys5-package , which further allows us to derive a posterior probability bubble and thus the uncertainty of the `` best '' hypothesis .",
+    "from the definition it is clear that the prior expectation of the analyst has a strong influence on the result .",
+    "this implies also that without information on what kind of prior was used the results of a mem run have to be taken with care .",
+    "it is often argued that mem is advantageous for the analysis of diffuse emission or extended structure . in fig.[lmc ] we show the region around the large magellanic cloud ( lmc ) twice .",
+    "one image is derived without having lmc included into the prior expectation , and the second is the result of adding a point source to the prior expectation based the flux and best position of lmc @xcite .",
+    "though the prior distribution is different only in an area of 1 square degree , the final image is influenced over roughly 20 square degrees .",
+    "this implies that a ) the appearance of lmc depends strongly on the prior expectation , and b ) any source of unknown extent , which is not accounted for in the prior distribution , may result in a fuzz of a few degrees extent .",
+    "so with mem we do find sources , but it is hard to distinguish point sources from structure like that in the sky distribution of galactic diffuse emission .    a similar effect is seen in crowded regions like the galactic center , as shown in fig.[gc ] .",
+    "here we have restricted ourselves to energies above 300 mev so that the smaller extent of the point - spread function can be used to advantage .",
+    "the second egret catalogue @xcite lists a highly significant source right at the position of the galactic center , but notes potential problems of the likelihood analysis in this region . in the mem analysis",
+    "we again see a strong influence of the prior model on the resulting image , however on smaller scale .",
+    "this is due both to our restriction to higher energies and to the better statistic than in case of lmc .",
+    "when we now artificially increase the flux of the galactic center source in the data , but still use the catalogue flux in our prior distribution , then the additional intensity will be spatially distributed like in the case of no point source in the prior , i.e. the lower panel of fig.[gc ] .",
+    "we have shown that on small scales the mem images tend to be influenced strongly by the prior expectation .",
+    "thus point sources can not be easily distinguished from structure in the diffuse emission .",
+    "also , in single viewing periods the prior distribution is likely to be dominant of the likelihood statistic and thus the final image .",
+    "thus mem can not be used in a simple way to deduce the light curve of point sources in regions of high confusion level . however",
+    ", what we can do is to use mem to improve the background model for the likelihood analysis of known point sources in crowded regions of the sky .    despite our concerns about the limited reliabity of individual structure in the mem output ,",
+    "it is still true that mem produces images which are highly reliable on larger scales . as an example we show an allsky image in fig.3 .",
+    "please note that the grey scale here is logarithmic and spans more than two orders of magnitude in integrated intensity above 100 mev .",
+    "the point sources stick out very clearly .",
+    "none of the point sources is in the prior distribution , so that all of them have an extent of a few degrees in the image .    0.5truecm",
+    "the egret team gratefully acknowledges support from the following : bundesministerium fr bildung , wissenschaft , forschung und technologie ( bmbf ) , grant 50 qv 9095 ( mpe ) ; nasa cooperative agreement ncc 5 - 93 ( hsc ) ; nasa cooperative agreement ncc 5 - 95 ( su ) ; and nasa contract nas5 - 96051 ( ngc ) ."
+  ],
+  "abstract_text": [
+    "<S> egret data are usually analysed on the basis of the maximum - likelihood method @xcite in a search for point sources in excess to a model for the background radiation ( e.g. @xcite ) . </S>",
+    "<S> this method depends strongly on the quality of the background model , and thus may have high systematic uncertainties in region of strong and uncertain background like the galactic center region .    </S>",
+    "<S> here we show images of such regions obtained by the quantified maximum - entropy method . </S>",
+    "<S> we also discuss a possible further use of mem in the analysis of problematic regions of the sky .    </S>"
+  ]
+}

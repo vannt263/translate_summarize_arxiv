@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "spectroscopic surveys of radio sources at flux density levels much lower than those of the 3c catalogue and its various revisions ( e.g.  laing , riley & longair 1983 , hereafter lrl ) are essential to provide coverage of the redshift - radio luminosity plane .",
+    "such coverage is required to establish the cosmic evolution of these sources both in number density and physical properties such as size and structure . over the past two decades , several flux - limited samples selected at low radio frequency ( and hence directly comparable with lrl in being selected primarily on the basis of unbeamed steep spectrum radio lobe emission ) have been defined and imaged in the radio and optical . only recently , however , have redshifts have been obtained for a significant fraction of the radio sources .",
+    "this paper describes spectroscopic observations of the 38-mhz 8c north ecliptic cap ( nec ) sample of lacy , rawlings & warner ( 1992 ; hereafter paper i ) and lacy et al .",
+    "1993 , 1999a ( hereafter papers ii and iii respectively ) , and the closely - related 7c - iii sample .",
+    "this latter sample was selected at a frequency of 151 mhz using the 7c survey data of lacy et al .",
+    "( 1995 ) with a flux limit chosen to maximise overlap with the 8c sample .",
+    "this sample is defined in section 2 , and will be described in more detail in a future paper ( lacy et al .",
+    "a further paper will discuss spectroscopy of the 6c sample of eales ( 1985 ) , and details of the 7c - i and 7c - ii samples are presented in willott ( 1998 , and papers in preparation ) .",
+    "the properties of these samples are summarised in table 1 , and the coverage of the radio - luminosity  redshift plane is illustrated in , e.g.   fig .",
+    "1 of blundell , rawlings & willott ( 1999 ) .",
+    "samples such as these are very valuable for studying the cosmic evolution of the radio source population , in particular the question of the evolution of source size , @xmath5 , with redshift . as redshift and radio luminosity",
+    "are always strongly correlated within any flux - limited sample , partial correlation coefficients need to be calculated to investigate whether the true correlation is with redshift or luminosity .",
+    "studies based on low - frequency selected samples typically show a weak correlation with redshift only , parameterised as @xmath6 where @xmath7 ( e.g.  the 6c sample , eales 1985 ; neeser et al .",
+    "1995 , and the 7c - i and 7c - ii samples ; blundell , rawlings & willott 1999 ) , although samples selected at higher frequencies seem to have stronger dependences , with @xmath8 ( oort , katgert & windhorst 1987 ; kapahi 1989 ) combined with a radio luminosity dependence @xmath9 with @xmath10 .    in paper ii we performed a partial rank correlation on the 8c - nec sample using photometric redshifts .",
+    "this showed that the fundamental correlation was between size and redshift , but having only redshifts based on @xmath11-band magnitudes we were forced to only consider @xmath12 objects and to accept the uncertainties associated with photometric redshifts .",
+    "we also investigated the four - way correlation coefficients of redshift , luminosity , size and spectral index , finding that spectral index at 2ghz in the rest frame was most strongly correlated with redshift , and any correlation with luminosity was weak . since then , independent work on the 6c , 7c - i and 7c - ii surveys has been carried out by blundell et al .   ( 1999 ) with results that are broadly consistent with the neeser et al .",
+    "result and the results of paper ii .",
+    "they find , however , a significant correlation of spectral index with luminosity at a rest - frame frequency of 1 ghz , although a correlation with redshift is seen at higher frequencies .",
+    "in this paper we use the redshifts for the 7c - iii and 8c - nec samples to study the size - redshift relation further .",
+    "we assume @xmath13 and an einstein  de sitter ( @xmath14 , @xmath15 ) cosmology unless otherwise stated .",
+    "positions are all epoch b1950.0 .",
+    "spectral indices , both radio and optical are defined in the sense that @xmath16 ."
+  ],
+  "abstract_text": [
+    "<S> we present the results of optical spectroscopy of two flux - density  limited samples of radio sources selected at frequencies of 38 and 151 mhz in the same region around the north ecliptic cap , the 8c - nec and 7c - iii samples respectively . </S>",
+    "<S> both samples are selected at flux density levels @xmath0 times fainter than samples based on the 3c catalogue . </S>",
+    "<S> they are amongst the first low - frequency selected samples with no spectral or angular size selection for which almost complete redshift information has been obtained , and contain many of the lowest - luminosity @xmath1 radio galaxies so far discovered . </S>",
+    "<S> they will therefore provide a valuable resource for understanding the cosmic evolution of radio sources and their hosts and environments . </S>",
+    "<S> the 151-mhz 7c - iii sample is selected to have @xmath2jy and is the more spectroscopically complete ; out of 54 radio sources fairly reliable redshifts have been obtained for 44 objects . </S>",
+    "<S> the 8c sample has a flux limit of @xmath3jy and contains 58 sources of which 46 have fairly reliable redshifts . </S>",
+    "<S> we discuss possible biases in the observed redshift distribution , and some interesting individual objects , including a number of cases of probable gravitational lensing . using the 8c - nec and 7c - iii samples in conjunction </S>",
+    "<S> , we form the first sample selected on low - frequency flux in the rest - frame of the source , rather than the usual selection on flux density in the observed frame . </S>",
+    "<S> this allows us to remove the bias associated with an increasing rest - frame selection frequency with redshift . </S>",
+    "<S> we investigate the difference this selection makes to correlations of radio source properties with redshift and luminosity by comparing the results from traditional flux - density selection with our new method . </S>",
+    "<S> we show in particular that flux - density  based selection leads to an overestimate of the steepness of the correlation of radio source size with redshift .    </S>",
+    "<S> galaxies:@xmath4active  galaxies:@xmath4evolution  radio continuum:@xmath4galaxies  gravitational lensing </S>"
+  ]
+}

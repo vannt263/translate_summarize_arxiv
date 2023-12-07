@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "it is well known that the energy spectrum does not provide sufficient information to determine the dynamics of mass accretion in x - ray binaries .",
+    "this information can be obtained from the independent variability measurements .",
+    "one of the frequently used variability measures is the phase or time lag of hard x - rays with respect to the soft ones . because in comptonization , the energy of the escaping photons increases with their residence time in the scattering medium , the hard photons lag with respect to softer ones by amounts which depend on the photon scattering time .",
+    "thus , observations of these time lags provide a measure of the local electron density , a quantity inaccessible to the spectral analysis alone .",
+    "since the high energy radiation is believed to be produced in the vicinity of the compact object of the size of a few radii , these lags should be roughly of the order @xmath0 msec or shorter .",
+    "observations of these lags , however , have given results drastically different from our expectations : the lags measured from the black hole candidate cyg x-1 obtained by ginga @xcite has revealed that these lags increase linearly with increasing fourier period to @xmath1 sec for frequency @xmath2 hz ( figure 1a ) .",
+    "similar results were obtained by the analysis of the higher quality rxte data from the high state of the same source @xcite ( figure 3b ) .",
+    "analysis of the ginga data from the source gx 339 - 4@xcite and the rxte data from grs 1758 - 258(@xcite , figure 1b ) gave the similar dependence , with @xmath3 extending in the latter source to @xmath4 sec for @xmath5 hz ! finally , the high energy transient gro j0422 + 32 was observed by osse during outburst and the lags indicated a similar behavior ( @xcite , figure 2a ) .",
+    "these results suggest that the _ frequency - dependent hard x - ray time lags may be a common property of these sources_.    -0.5truecm",
+    "kazanas , hua & titarchuk @xcite proposed that the discrepancy between expectation and observation can be resolved if the the corona of comptonizing electrons is non - uniform and extending over several orders of magnitude in radius .",
+    "specifically , they proposed the following density profile for the comptonizing medium : @xmath6 where the power index @xmath7 is a free parameter ; @xmath8 is the radial distance from the center of the spherical corona ; @xmath9 and @xmath10 are its radii of the inner and outer edges respectively .",
+    "the density profile of eq .",
+    "( 1 ) allows scattering to take place over a wide range of densities , thereby introducing time lags over a similar range of time , leading to the observed @xmath11dependent lags .    in particular , we considered density profiles with @xmath12 and 3/2 .",
+    "a soft photon from a source located near @xmath13 would undergo the scattering process , which increases its energy and introduces hard photon time lags proportional to the scattering mean free time in the medium @xcite .",
+    "the majority of the data available to - date ( figures 1a , 1b , 2a and 3b ) are consistent with the @xmath12 density profile .",
+    "the density profile with @xmath14 , implied by the advection - dominated accretion model suggested by narayan & yi ( @xcite ) would result in a weaker dependence on fourier period .",
+    "there are indications of such a dependence in the recent cyg x-1 data in its hard state ( @xcite , figure 2b ) and during the transitions @xcite .",
+    "_ the above arguments , thus , lead us to the notion that that these lags can be used to probe the density structure of the corona . _",
+    "these arguments have been verified by numerical simulation of the spectral - temporal properties of the comptonization process in media with density profile given by eq .",
+    "( 1 ) ( @xcite , @xcite , @xcite , @xcite ) . the simulations also show that the density distribution of the comptonizing electrons can significantly affect the emergent spectrum .",
+    "figure 3a displays the energy spectra of comptonizing coronae of various density profiles with properly chosen optical depths . these coronae give rise to spectra that can fit the batse data of cyg x-1 @xcite equally well",
+    "this fact shows that fitting the spectra alone does not suffice to determine the optical depth @xmath15 if the density profile is unknown .    on the other hand ,",
+    "the analysis of the lags between photons in the high and low energy ranges , resulting from comptonization in the above three coronae , yields widely different results ( figure 3b ) .",
+    "also plotted in the figure are the lags obtained from the rxte observation @xcite whose corresponding photon spectrum is given in figure 3a .",
+    "it is obvious that the observation favors the non - uniform electron density distributions , specifically the profile with @xmath16 .",
+    "all the fits of the lags in figures 1a , 2a , 2b and 3b require that _ the outer edge of the coronae be at a distance as great as @xmath17 light second , or @xmath18 cm _ !",
+    "this conclusion is rather inescapable , since the observed lags and energy spectra require scattering free path of the order 1 light second and @xmath19 respectively .",
+    "it is clear that 1 ) appropriate modeling of the time properties of accreting compact sources suggests a very different picture than that assumed to - date in modeling their spectra , with direct consequences for the associated dynamics and 2 ) realistic models must consider the associated time variability properties of the system .",
+    "the physically meaningful way to model these type of sources is through combined spectral - temporal models . -1.0truecm"
+  ],
+  "abstract_text": [
+    "<S> the fourier frequency dependent hard x - ray lag , first discovered from the analysis of aperiodic variability of the light curves of the black hole candidate cygnus x-1 , turns out to be a property shared by several other accreting compact sources . </S>",
+    "<S> we show that the lag can be explained in terms of comptonization process in coronae of hot electrons with inhomogeneous density distributions . </S>",
+    "<S> the density profile of a corona , like the optical depth and electron temperature , can significantly affect the comptonization energy spectrum from it . </S>",
+    "<S> this means , by fitting the energy spectrum alone , it is not possible to uniquely determine the optical depth and temperature of the comptonization cloud if its density profile is unknown . </S>",
+    "<S> the hard x - ray time lag is sensitive to the density distribution of the scattering corona . </S>",
+    "<S> thus simultaneous analysis of the spectral and temporal x - ray data will allow us to probe the density structure of the comptonizing corona and thereby the dynamics of mass accretion onto the compact object .    -0.5truecm    </S>"
+  ]
+}

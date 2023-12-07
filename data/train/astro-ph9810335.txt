@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "the source , of typical dimension @xmath1 , is embedded in a tangled magnetic field @xmath2 .",
+    "relativistic electrons are injected homogeneously throughout the source for a time @xmath0 : this is equivalent to the case in which a shock active for a time @xmath0 runs along a region of the jet ( chiaberge & ghisellini 1998 ) .",
+    "we consider synchrotron and synchrotron self compton cooling , and particle escape ( assumed being independent of energy ) .",
+    "the source moves relativistically with a lorentz bulk factor @xmath3 , and the radiation is beamed with a doppler factor @xmath4 . in order to reproduce the fast variability ,",
+    "a flaring emission is summed to a constant component .",
+    "we assume that the source is a cube of dimension @xmath1 , moving towards the observer at an angle @xmath5 to the line of sight , which is appropriated for blazars . in the comoving frame , the transformed angle is @xmath6 .",
+    "we numerically solve the continuity equation for the electron distribution and we calculate the ssc spectra produced at any timestep .",
+    "we consistently take into account , as already mentioned , the different light travel times of photons produced in different regions of the source ( for details see chiaberge & ghisellini , 1998 ) . notice that in the case of a ",
+    "geometry the different slices have equal volumes : in this way we can separate the geometrical effects from the radiative cooling effects .",
+    "extension to different geometries ( e.g. cylinder , sphere ) can be trivially taken into account by properly weighting the different slice volumes .",
+    "we consider both the 1991 ( edelson et al . 1995 ) and the 1994 ( urry et al . 1997 ) multiwavelength campaigns .",
+    "time delays between lightcurves at different frequencies and quasi  symmetric flares ( especially in the x  ray band ) were observed .",
+    "nevertheless the two campaigns showed different behaviors with respect to the time lags between the x ",
+    "rays and the lower frequencies .",
+    "we qualitatively reproduce the behavior observed during the 1991 campaign , where the time lags between the x  ray band and the uv / optical was found to be @xmath7 hours .",
+    "the 1994 x  ray flare shape can be well reproduced by our model with almost the same physical parameters used for the 1991 case , except for a different injection function .",
+    "in fact , a power law injection , appropriate to reproduce the 1991 data , would cause the uv and optical fluxes to rise almost simultaneously to the x  ray flare , contrary to what observed .",
+    "a  monoenergetic ",
+    "injection function can reproduce this particular behavior .",
+    "a fundamental problem remains in explaining the data : in order to reproduce symmetric x  ray and uv flares we require that the electron cooling time is lower than @xmath0 ( which is constrained by the flare duration ) in a wide range of energies .",
+    "a short @xmath8 requires an intense magnetic field , but this immediately implies that also the time lag between x  rays and uv is too short to agree with the observed 34 days delay .",
+    "two alternative possibilities can be envisaged : ( i ) introduce some inhomogeneities in the model ; ( ii ) the flare revealed by asca is not associated to the uv one , and the correlation between the two is artificially due to the lack of data in the x  ray band ."
+  ],
+  "abstract_text": [
+    "<S> the quasi  symmetric shape of the lightcurves , as seen in the x  rays and in the optical , together with the fast variations of the flux observed , suggest that the cooling time for the highest energy electrons may be shorter than the light crossing time @xmath0 . </S>",
+    "<S> moreover the existence of time lags between lightcurves at different frequencies can be interpreted , in the frame of homogeneous models , as due to the different cooling times of electrons of different energy . to reproduce in detail the variability pattern at different wavelengths we need to study the time dependent behavior of the emitting particle distribution and to take into account of the different light travel times of photons produced in different regions of the source . </S>",
+    "<S> we apply the model to pks 2155304 ( 1991 and 1994 campaigns ) . </S>"
+  ]
+}
