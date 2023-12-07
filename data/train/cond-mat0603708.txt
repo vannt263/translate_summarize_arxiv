@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "the halides of cadmium , mercury and zinc form layered structures and hence their physical and structural study is of interest for material scientist , as is evident from the extensive studies made recently on these halides in thin film state by pankaj tyagi et al@xcite and rawat et al@xcite . in fact",
+    "@xmath1 is known to crystallize in more than 200 different states @xcite , with each poly - state exhibiting different properties .",
+    "while @xmath1 in it s hexagonal state is most prevalent , @xmath2 is known to exist with a tetragonal structure .",
+    "a survey of the literature shows that @xmath0 has not attracted the same attention as @xmath1 and @xmath3 .",
+    "only three structural studies have been done on @xmath0 @xcite , and they report two possible states that it can exist in . while fourcroy et al@xcite assigns a large unit cell size ( a = b=1.2284 nm , c=2.3582 nm ) whose miller indices are listed in astm 30 - 1479 , the remaining studies have indexed @xmath0 with a = b=0.4388 nm and c=1.1788 nm ( astm 10 - 72 ) .",
+    "even though majority of the peak positions listed in both the above mentioned astms agree well ( till the second place of decimal ) , the assigned unit cell dimensions differ remarkably .",
+    "this is a direct consequence of the fact that astm 10 - 72 only reported peaks between @xmath4 and @xmath5 while the more recent astm 30 - 1479 reports x - ray diffraction peaks between @xmath6 to @xmath7 .",
+    "peaks occurring at lower diffraction angles demand larger lattice parameters .",
+    "these old studies have suggested @xmath0 to exist either with the same crystal structure as @xmath3 or with a hexagonal structure similar to @xmath8 ( @xmath1 ) . while @xmath3 has a tetragonal structure with two bases per unit cell , i.e. with body center cubic ( bcc ) arrangement",
+    ", @xmath8 has only one basis per it s hexagonal unit cell . the relatively poor attention on @xmath0 and the fact that fourcroy assumed a rather large basis of @xmath9 chain motivated us to investigate whether a structure with i - zn - i basis can exist .",
+    "d spacing ( in  ) of @xmath10 listed in astm card 30 - 1479 along with the orignal miller indexing ( hkl ) and it s error is compared with the miller indexing done in present work .",
+    "the improvement in indexing is evident from the decrease in error . [",
+    "cols=\"^,^,^,^,^,^,^,^,^ \" , ]     [ fig:2 ]",
+    "in conclusion , the proposed crystal structure is a possible state is which @xmath0 can exist . the large ratio of lattice parameter ( c / a ) along with the larger bond lengths suggest covalent bond formation between the atoms of the molecule .",
+    "fourcroy s structure was more of a correction of the previous structure based on astm 10 - 72 .",
+    "the correction made necesscary due to the new peaks detected at low diffraction angles . in the present study , the indexing and lattice parmaeter s of astm 30 - 1479 have been refined allowing for a proposing simpler structure for @xmath0 based on a simpler basis selection as compared to fourcroy s chain of @xmath11 basis .",
+    "the help rendered by dr .",
+    "a. g. vedeshwar , department of physics and astrophysics , prof .",
+    "p. k. verma , department of geology , university of delhi , delhi , india and dr .",
+    "r. s. rawat , national sciences , national institute of education , nanyang technological university , singapore is gratefully acknowledged .",
+    "the computational facilities extended by mr ashok kumar das is also gratefully acknowledged ."
+  ],
+  "abstract_text": [
+    "<S> a new structure for @xmath0 is proposed which it exists in tetragonal state . in this structure </S>",
+    "<S> the @xmath0 molecule exists in a nonlinear array and forms the basis of the tetragonal unit cell with one basis per unit cell . the structural analysis based on the reflections listed in astm </S>",
+    "<S> 30 - 1479 shows that the proposed structure is correct . </S>"
+  ]
+}

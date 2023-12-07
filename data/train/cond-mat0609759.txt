@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "the doped layered hexagonal cobaltates na@xmath1coo@xmath2 have attracted considerable interest in the last few years since the discovery of a superconducting phase ( na@xmath8coo@xmath21.3  h@xmath9o )  @xcite and of an exceptionally high thermopower  @xcite .",
+    "the crystallographic structure of na@xmath1coo@xmath2 consists in electronically active layers of edge - shared coo@xmath5 octahedra alternating with layers of na .",
+    "the physics of these compounds is believed to be essentially two dimensional because of the weak coupling between coo@xmath2 layers , and na atoms act as a charge reservoir whose order can dramatically affect the coo@xmath2 planes like in na@xmath10coo@xmath2  @xcite .",
+    "the knowledge of the band structure and the fermi surface ( fs ) of these systems is crucial to understand their physical properties .",
+    "however , while local - density approximation ( lda ) calculations predict a fs which consists of a large portion around the @xmath11 point of the brillouin zone , and six pockets near the @xmath12 points  @xcite , angle - resolved photoelectron spectroscopy ( arpes ) revealed only a single hole like fs around @xmath11 and no hole pockets  @xcite .",
+    "whether a single - band model can properly describe these compounds is still under debate .",
+    "recent experiments with x - ray spectroscopy ( xas ) and their interpretation  @xcite show a strong co  o covalency which should be taken into account . here",
+    "we study a multiband hamiltonian with just two ingredients which we believe are the essential ones : the indirect hoppings between the three @xmath0 orbitals through o @xmath13 orbitals and the trigonal splitting .",
+    "both are derived from cluster calculations which take properly co  o covalency and correlations into account .",
+    "as first pointed out by koshibae and maekawa  @xcite , the dominant hopping process for a carrier on a given co @xmath0 orbital to specific nearest co orbitals takes place through an intermediate o @xmath13 orbital .",
+    "see fig .",
+    "[ fig : hopping ] . starting from a given @xmath0 orbital ,",
+    "the states accessible by successive indirect hoppings form a kagom sublattice . in the basis @xmath14 of the @xmath0 orbitals ,",
+    "the indirect hopping matrix reads  @xcite @xmath15 with @xmath16 , @xmath17 and @xmath18 , where here @xmath19 refers to the direction of two nearest neighbors co atoms ( ( -1,1,0 ) in fig .",
+    "[ fig : hopping ] ) .",
+    "the trigonal distortion in the ( 1,1,1 ) direction splits the @xmath0 orbitals into a doublet @xmath20 and a singlet @xmath21 with @xmath22 .",
+    "this corresponds to an on - site potential @xmath23 calculations on a coo@xmath5 cluster  @xcite , in which correlations were treated properly , lead to a strongly covalent system and give @xmath6  mev , @xmath7  mev .",
+    "thus we have @xmath24 , therefore the splitting is not strong enough to justify a single - band model based on localized @xmath21 orbitals .",
+    "to a neighboring state with symmetry @xmath25 , through a @xmath26 orbital of an intermediate o site . ]    the resulting effective model for the motion of the doped holes in the system can be written in the form @xmath27 with @xmath28 to avoid double occupancy .",
+    "this strong - interaction limit is justified by comparison of the energy scale @xmath24 with the remaining correlations in the effective model .",
+    "the effective model is solved using the slave boson treatment of kotliar and ruckenstein in mean - field  @xcite ( which is equivalent to the gutzwiller approximation ) generalized to the multiband case  @xcite , resulting in a renormalization of the hoppings .",
+    "in fig .  [ fig : results ] we show the resulting dispersion relations for electrons for three different values of @xmath29 near to those measured by arpes , as well as the corresponding fs .",
+    "as observed by arpes  @xcite , the feature that would give rise to hole - pockets near the @xmath12 points remains under @xmath30 with very little doping dependence , and the fs consists only in a central lobe around @xmath11 which verifies the luttinger theorem as experimentally observed .     and corresponding fs in red , green , blue respectively ( larger fs corresponds to lower doping @xmath29).,title=\"fig : \" ]   and corresponding fs in red , green , blue respectively ( larger fs corresponds to lower doping @xmath29).,title=\"fig : \" ]   and corresponding fs in red , green , blue respectively ( larger fs corresponds to lower doping @xmath29).,title=\"fig : \" ]   and corresponding fs in red , green , blue respectively ( larger fs corresponds to lower doping @xmath29).,title=\"fig : \" ]    in summary",
+    ", we have derived an effective multiband hamiltonian @xmath31 whose parameters are determined by cluster calculations . without any new adjustable parameter , this model is able to reproduce the main features of the arpes experiments ."
+  ],
+  "abstract_text": [
+    "<S> we construct an effective hamiltonian for the motion of @xmath0 highly correlated states in na@xmath1coo@xmath2 . </S>",
+    "<S> this three - band model includes the indirect co  o  co hopping @xmath3 and the crystal - field splitting @xmath4 . </S>",
+    "<S> calculations in a coo@xmath5 cluster give the effective parameters @xmath6  mev and @xmath7  mev . </S>",
+    "<S> the hamiltonian is solved using a generalized slave - boson mean - field approximation . </S>",
+    "<S> the results show a significant band renormalization . without any additional hypothesis </S>",
+    "<S> , the dispersion of the bands near the fermi energy and fermi surface topology agrees with angle - resolved photoemission experiments , in contrast to predictions using the local - density approximation .    ,    ,    </S>",
+    "<S> ,    cobaltates , strongly correlated electrons , electronic structure , multiband model </S>"
+  ]
+}

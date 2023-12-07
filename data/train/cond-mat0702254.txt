@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the single - walled cnt is a strip of the 2d graphite plane rolled up into cylinder .",
+    "remind that the 2d graphite plane is composed of hexagons , every vertex of which is the carbon atom .",
+    "the chirality of cnt is defined by two integer numbers @xmath0 which specify the 2d co - ordinate of the hexagon imposed on the hexagon located at the origin , when the strip of the 2d graphite layer is rolled up .",
+    "cnts with @xmath1 chirality are the `` armchair '' cnts .",
+    "all the previous works @xcite-@xcite clearly assert that armchair cnts with any chirality numbers have metallic conductivity , that is why here we can use approximations that proper to the theories of metals .",
+    "however , fundamental results of the theory of metals can not be applied directly to armchair nanotubes for their one - dimensional structure . at the same time their one - dimensional analogues",
+    "are of the barest necessity for investigation of optical and transport properties of nanotubes .",
+    "this note is aimed at derivation of one important result of this kind , namely the derivation of explicit expression for the effective quasione - dimensional potential of charged interstitial defect , which would account the collective effect of dielectric screening of the defect by free electrons of nanotube .",
+    "because of its relatively large length @xmath2 and small diameter @xmath3 cnt may be considered as a quasione - dimensional system .",
+    "so we ve used here the lindhard screening theory ( so - called rpa ) in one dimension .",
+    "then in the limiting case of small wavenumber we have got the thomas - fermi screened potential for two charges localized on the wall of tube .",
+    "the further transverse integration of the obtained expression yields the self - consistent one - dimensional charge - charge interaction potential , which can be used for account of many - particle effects in cnts .",
+    "within the framework of the lindhard screening theory we consider the one - dimensional fourier transform of the following poisson equation for screened electrostatic potential @xmath4 : @xmath5 where @xmath6 is the one - dimensional fourier transform along the tube axis of the density of extraneous charge , @xmath7 is that of the charge density induced by the extraneous charge , @xmath8 is the longitudinal component of wave vector , and @xmath9 is the transverse component of the radius - vector . for simplicity we will assume that @xmath10 is axial symmetric , @xmath11 , and localized in the small vicinity of the tube wall .",
+    "as follows @xmath12 , @xmath7 depend on @xmath9 only through @xmath13 and besides whatever the case @xmath14 is localized in the small vicinity of the tube walls .",
+    "the @xmath14 may be written as follows : @xmath15 where @xmath16 is the fermi - dirac function , @xmath17 and @xmath18 are the band energies and the corresponding bloch wave functions of @xmath19-electrons , @xmath20 is the charge density without extraneous charges and @xmath21 is the length of cnt . following the lindhard method we get the linear in @xmath22 approximation for the induced charge density : @xmath23 where @xmath24 is the number of unit cells in cnt and @xmath25 number @xmath19-electrons bands crossed by the fermi level .",
+    "further , writing @xmath4 in the form @xmath26 and taking into account that the sought potential varies slightly inside the unit cell we get from  ( [ 2.3 ] ) that @xmath27 where @xmath28 is the longitudinal period of nanotube , @xmath29 - its radius , and @xmath30 by  ( [ 2.1 ] ) @xmath31 where @xmath32 is the green function for the 2d helmholtz equation , @xmath33 where @xmath34 is the modified bessel function of the second kind . by our assumptions",
+    "both the @xmath35 and @xmath36 are actually localized on the tube wall . hence , for @xmath37 from  ( [ 2.6 ] ) and  ( [ 2.7 ] ) we have @xmath38 where @xmath39 is the contribution to the fourier transform of the total potential from @xmath10 , and @xmath40 is the modified bessel function of the first kind .",
+    "we see from  ( [ 2.4 ] ) and  ( [ 2.8 ] ) that @xmath41 for low and room temperatures the main contributions to  ( [ 2.9 ] ) are made by quasi - momenta from the small vicinity of the fermi quasi - momentum @xmath42 . due to the orthogonality and normalization condition of the bloch functions for @xmath43 we have @xmath44 and , besides with account of the spin degeneracy @xmath45 where @xmath46 is the dirac delta - function .",
+    "it follows from  ( [ 2.9])-([2.11 ] ) that @xmath47 where @xmath48 is the velocity of electrons of the @xmath49-th band on the fermi level .    actually , according to  ( [ 2.9 ] )",
+    "@xmath50 is an analogue of the thomas - fermi dielectric function for any quasione - dimensional metallic nanotube .",
+    "the screened quasione - dimensional electrostatic potential produced by a charge @xmath51 , distributed with the density @xmath52 in accordance with  ( [ 2.12 ] ) is given by : @xmath53 with the constant @xmath54 note that the interaction energy @xmath55 of electrons of infinite nanotube with the given external charge due to screening appears to be finite : @xmath56 where @xmath57 is the number of electrons per unit length of nanotube .",
+    "both the velocity of electrons and fermi energy for the @xmath1 carbon nanotube can be obtained from any single - electron model ( the tight binding method , for example ) .",
+    "the band structure of 2d graphite was obtained in  @xcite within the framework of the tight binding method .",
+    "it has up to constant shift the following form : @xmath58 where @xmath59 and @xmath60 are the nearest - neighbour transfer integral and the in - plain lattice constant , respectively . according to  @xcite ,",
+    "when a 2d graphite layer is rolled up as a cylinder the number of allowed states in the circumferential direction becomes limited .",
+    "so allowed values for the wavenumber in the circumferential direction for armchair nanotubes can be written as : @xmath61 where @xmath62 , @xmath63 is the chirality number .",
+    "thus the one - dimensional dispersion relation for @xmath65 energy bands of the @xmath1 single - walled armchair cnt was obtained in  @xcite .",
+    "it follows from  ( [ 3.1 ] ) and  ( [ 3.2 ] ) that with respect to  ( [ 3.1 ] ) the fermi energy @xmath66 and only two bands @xmath67 cross the fermi level at @xmath68 .",
+    "as follows , @xmath69 and @xmath70 is the universal constant for all the armchair tubes within the framework of the tight binding approximation .",
+    "figure 1 shows the numerically calculated screened potential  ( [ 2.14 ] ) for the ( 5 , 5 ) nanotube , with radius @xmath71 , in comparison with the unscreened averaged over axial component coulomb potential .",
+    "thus the dielectric screening of the coulomb potential by free @xmath19-electrons in armchair nanotubes results in substantial reducing of the effective depth of coulomb well at the origin and rather faster vanishing of the corresponding potential at infinity ."
+  ],
+  "abstract_text": [
+    "<S> the screened effective quasione - dimensional interaction potential for charged particles localized on the wall of a single - walled metallic armchair carbon nanotube ( cnt ) was obtained within the framework of the random phase approximation ( rpa ) .    </S>",
+    "<S> pacs number(s ) : 73.63.fg </S>"
+  ]
+}

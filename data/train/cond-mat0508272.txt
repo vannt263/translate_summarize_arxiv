@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "the concept of charge stripes@xcite is a controversial one in the field of high - temperature superconductivity .",
+    "there is direct evidence from neutron diffraction measurements for charge and spin stripe order in a couple of cuprates,@xcite la@xmath0nd@xmath1sr@xmath2cuo@xmath3 and la@xmath4ba@xmath2cuo@xmath3 with @xmath5 ; however , the ordering of stripes is correlated with the depression of the superconducting transition temperature , @xmath6.@xcite ( for reference , fig .  [ fig : stripes ] shows examples of possible stripe domains . ) while it is clear that static _ ordering _ of stripes competes with superconductivity , this does not mean that dynamic stripes are necessarily bad for superconductivity . in this paper",
+    ", i will argue the case that stripes , in fact , underlie the high - temperature superconductivity in under- to optimally - doped cuprates ( with the implication that stripes , or more general forms of charge inhomogeneity , are essential to the superconductivity ) .",
+    "wakimoto _ et al._@xcite have recently shown that the low - energy ( @xmath7  mev ) magnetic scattering decreases rapidly with overdoping beyond @xmath8 , going to zero by @xmath9 . in the stripe picture ,",
+    "the magnetic excitations are associated with the stripe - correlated regions , so that the experimental results are consistent with a decrease in the stripe fraction in the overdoped regime .",
+    "measurements are currently underway to test whether this decrease in magnetic signal also applies at higher energies , up to 100 mev .",
+    "the perspective expressed in this paper is strongly influenced by frequent discussions with steve kivelson and eduardo fradkin .",
+    "work at brookhaven is supported by the office of science , u.s .",
+    "department of energy , under contract no .",
+    "de - ac02 - 98ch10886 .",
+    "h.  woo , a.  t. boothroyd , k.  nakajima , t.  g. perring , c.  frost , p.  g. freeman , d.  prabhakaran , k.  yamada , and j.  m. tranquada , `` mapping spin - wave dispersions in stripe - ordered la@xmath4sr@xmath2nio@xmath3 ( @xmath10 , @xmath11 ) . ''",
+    "( in press ) .                            e.  w. carlson , v.  j. emery , s.  a. kivelson , and d.  orgad , `` concepts in high temperature superconductivity , '' in _ the physics of superconductors vol ii : superconductivity in nanostructures , high-@xmath12 and novel superconductors , organic superconducors _ , k.  h. bennemann and j.  b. ketterson , eds . , springer - verlag , ( berlin ) , 2004 .",
+    "k.  yamada , c.  h. lee , k.  kurahashi , j.  wada , s.  wakimoto , s.  ueki , y.  kimura , y.  endoh , s.  hosoya , g.  shirane , r.  j. birgeneau , m.  greven , m.  a. kastner , and y.  j. kim _ phys .",
+    "b _  * 57 * , p.  6165"
+  ],
+  "abstract_text": [
+    "<S> one type of order that has been observed to compete with superconductivity in cuprates involves alternating charge and antiferromagnetic stripes . </S>",
+    "<S> recent neutron scattering studies indicate that the magnetic excitation spectrum of a stripe - ordered sample is very similar to that observed in superconducting samples . </S>",
+    "<S> in fact , it now appears that there may be a universal magnetic spectrum for the cuprates . </S>",
+    "<S> one likely implication of this universal spectrum is that stripes of a dynamic form are present in the superconducting samples . on cooling through the superconducting transition temperature , </S>",
+    "<S> a gap opens in the magnetic spectrum , and the weight lost at low energy piles up above the gap ; the transition temperature is correlated with the size of the spin gap . </S>",
+    "<S> depending on the magnitude of the spin gap with respect to the magnetic spectrum , the enhanced magnetic scattering at low temperature can be either commensurate or incommensurate . </S>",
+    "<S> connections between stripe correlations and superconductivity are discussed . </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "half - metallic ferromagnets have been proposed as ideal candidates for spin injection devices because they have been predicted to exhibit 100  % spin polarization at the fermi energy ( @xmath3 ) @xcite . from the applications point of view , a high curie temperature for a half - metallic ferromagnet may be an important condition .",
+    "for this reason , heusler alloys ( @xmath2 structure ) have recently attracted great interest .",
+    "some of these alloys exhibit high curie temperatures and , according to theory , should have a high spin polarization at the fermi energy @xcite .",
+    "calculations also show that anti - site disorder will destroy the high spin polarization @xcite , implying that precise control of the atomic structure of the heusler alloys is required .",
+    "the heusler alloy co@xmath0mnsi has attracted particular interest because it is predicted to have a large minority spin band gap of 0.4  ev and , at 985  k , has one of the highest curie temperature , among the known heusler compounds @xcite .",
+    "structural and magnetic properties of co@xmath0mnsi have been reported for films and single crystals @xcite . from tunnelling magneto resistance ( tmr ) data with one electrode consisting of a co@xmath0mnsi film sakuraba _",
+    "et al _ @xcite measured a tmr ration of 159  % at 2k and @xmath4  % at 300k . if using co@xmath0fesi as one electrode inomata _",
+    "et al _ @xcite obtained tmr ratios of 60  % at 5k and 41  % at 300k .",
+    "an important quantity for the application of the half - metallic ferromagnets is the size of the gap in the minority states and the position of @xmath3 inside of the gap .",
+    "small gaps may be easily destroyed by temperature effects or quasi - particle excitations @xcite .",
+    "the half - metallicity may also be easily destroyed if @xmath3 is located close to the band edges , either of the minority valence or conduction bands .",
+    "the recent tmr results @xcite show that elctrodes made of heusler compounds result in high tmr ratios at low temperatures but the temperature dependence is still a challenge which has to be solved to use heusler electrodes in applications .",
+    "the present investigation focuses on searching for a mixed compound where the half - metallic behaviour is stable against temperature effects .",
+    "the self - consistent electronic structure calculations were carried out using the full potential linearized augmented plane wave method ( flapw ) as provided by wien2k @xcite .",
+    "the lda@xmath5 method @xcite was used to account for on - site correlation at the transition metal sites .",
+    "semi - empirical values corresponding to 7.5% of atomic values of coulomb - exchange parameter have been used as suggested in our previous publication @xcite .",
+    "the size of the minority band gap and position of @xmath3 can be seen from the calculated energies displayed in fig .",
+    "[ fig-1 ] for the heusler alloy co@xmath0mn@xmath6fe@xmath7si . in co@xmath0mnsi",
+    ", @xmath3 is close to the top of the valence band . in co@xmath0fesi ,",
+    "the situation is different and @xmath3 is near to the bottom of the conduction band .",
+    "both of the compounds are at the two corners of the gap . in co@xmath0mn@xmath1fe@xmath1si @xmath3",
+    "is directly in the middle of the minority band gap and therefore this compound should be more stable against temperature effects or quasi - particle excitations compared to pure co@xmath0mnsi and co@xmath0fesi .",
+    "co@xmath0mn@xmath1fe@xmath1si samples were prepared by arc melting of stoichiometric amounts of the constituents in an argon atmosphere at 10@xmath8  mbar .",
+    "the polycrystalline ingots were then annealed in an evacuated quartz tube at 1273  k for 21  days .",
+    "the samples exhibiting the heusler type @xmath2 structure with a lattice parameter of 5.64   ( see fig .",
+    "another proof of the high order of the samples are the results from the @xmath9fe mbauer spectra taken of the samples ( see fig .",
+    "the spectrum is dominated by an intense sextet with a line width of approximately @xmath10  mm / s .",
+    "in addition to the sextet , a much weaker line at the centre of the spectrum is visible .",
+    "its contribution to the overall intensity of the spectrum is approximately 3.5  % .",
+    "the origin of the singlet may be caused by anti - site disorder leading to a small fraction of paramagnetic fe atoms .",
+    "the hyperfine field ( hff ) at the fe sites amounts to @xmath11  a / m . for more details and other properties of the whole series of co@xmath0mn@xmath6fe@xmath7si with the fe concentration ranging from @xmath12 to 1 in steps of 0.1",
+    "see ref.@xcite .",
+    "electronic structure calculations predicted the heusler compound co@xmath0mn@xmath1fe@xmath1si due to the position of @xmath3 in the middle of the minority band gap as very stable against any kind of effects destroying the halfmetalicity and therefore well suited for spintronic applications .",
+    "polycristaline samples were prepared exhibiting @xmath2 structure and a high magnetic order ."
+  ],
+  "abstract_text": [
+    "<S> electronic structure calculation were used to predict a new material for spintronic applications . </S>",
+    "<S> co@xmath0mn@xmath1fe@xmath1si is one example which is stable against on - site correlation and disorder effects due to the position of the fermi energy in the middle of the minority band gap . </S>",
+    "<S> experimentally the sample were made exhibiting @xmath2 structure and a high magnetic order . </S>"
+  ]
+}

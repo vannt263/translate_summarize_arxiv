@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "quasi - one dimensional material formed of weakly coupled chains are known to posses low temperature instability towards a state with an incommensurate static modulation of the electronic charge and of the lattice displacement known as charge density wave ( cdw ) phase .",
+    "cdws behave as elastic systems @xcite provided coulomb interaction are screened .",
+    "when coulomb interaction are not sufficiently screened elasticity becomes non - local @xcite and disorder becomes long ranged correlated .",
+    "an important question is whether the competition of the non - local elasticity with the long - range random potential results in the complete destruction of the crystalline order , or whether some remnants of the underlying periodic structure remain observable .",
+    "a powerful experimental technique able to characterize the structural properties of cdw with impurities is afforded by x - ray diffraction . in this paper",
+    "we derive the static displacement correlation functions and x - ray intensity of the cdw with charged impurities and we highlight the similitude of the latter to the x - ray intensity of smectic - a liquid crystals subjected to thermal fluctuations .",
+    "finally , we discuss the experimental significance of our result and suggest that the smectic - like correlations should be observable in experiments on @xmath2 .",
+    "we consider an incommensurate cdw , in which the electron density is modulated by a wave vector @xmath3 incommensurate with the underlying crystal lattice . in this phase , the electron density has the following form  @xcite : @xmath4 where @xmath5 , is the average electronic density . the second term in eq .",
+    "( [ eq : rhoexp ] ) is the long wavelength density and corresponds to variations of the density over scales larger than @xmath6 .",
+    "the last oscillating term describes the sinusoidal deformation of the density at a scale of the order of @xmath7 induced by the formation of the cdw with amplitude @xmath8 and phase @xmath9 .",
+    "the low energy properties of the cdw are described by an elastic hamiltonian for the fluctuations of the phase @xmath9 .",
+    "when the coulomb interactions are unscreened this hamiltonian becomes non - local .",
+    "choosing the @xmath10 axis aligned with @xmath11 the total hamiltonian in three dimensions reads @xcite :    @xmath12   \\nonumber\\\\end{aligned}\\ ] ]    where @xmath13 is the fermi velocity and @xmath14 is the number of chains per unit surface that crosses a plane orthogonal to @xmath3 .",
+    "the velocity of the phason excitations parallel to @xmath3 is @xmath15 with @xmath16 the effective mass of the cdw and @xmath17 the mass of an electron . @xmath18",
+    "denote the phason velocities in the transverse directions .",
+    "the lengthscale @xmath19 is defined by : @xmath20 where we have assumed for simplicity an isotropic dielectric permittivity @xmath21 of the host medium and @xmath22 is the charge of the electron .",
+    "when a non - zero concentration of charged impurities is present , the hamiltonian becomes : @xmath23 where @xmath24 is the density of impurities at position @xmath25 .",
+    "we assume gaussian distributed impurities with @xmath26 , where @xmath27 is the measure of the disorder strength . using the expression of the density in  ( [ eq : rhoexp ] ) ,",
+    "the interaction with disorder comprises two parts , one that describes the interaction with long wavelength fluctuations of the density ( forward scattering ) , and a second part that describes interactions of impurities with density fluctuations of wavelength @xmath7 ( backward scattering ) . in @xcite",
+    "we have shown that even in the case of long range disorder , the backward scattering terms behave essentially like their short ranged ( neutral impurities ) counterparts . in that case",
+    ", it is known that in three dimensions , the contribution of the backward scattering to the phase correlations grows slowly as @xmath28.@xcite the contribution of the forward scattering term is obtained from the hamiltonian : @xmath29 , \\nonumber \\\\",
+    "\\end{aligned}\\ ] ] and reads in the limit of @xmath30 : @xmath31 where @xmath32 is a momentum cutoff and : @xmath33 as a result , in the presence of charged impurities , the forward scattering terms generate the leading contribution to the phase correlations .",
+    "it is well known that the presence of a cdw in a compound is associated with the appearance of two satellites at positions @xmath34 around each bragg peak.@xcite the intensity profiles of these satellites give access to the structural properties of the cdw . the main contribution to the x - ray satellite intensity",
+    "is given by @xmath35 , which is symmetric under inversion around the bragg vector @xmath36.@xcite the intensity @xmath37 is given by the following correlation function : @xmath38 where @xmath39 is an average x - ray scattering amplitude and @xmath40 is the amplitude of the lattice modulation induced by the presence of the cdw . using the result given in eq.([eq : correlator ] ) we extract the small @xmath41 behavior of the intensity peak : @xmath42 the intensity @xmath43 is divergent for @xmath44 but is finite for @xmath45 , i.e. for strong disorder .",
+    "we note that these intensities are remarkably similar to those of a disorder - free smectic - a liquid crystal@xcite at positive temperature .",
+    "in fact , the expression of the exponent @xmath46 eq .",
+    "( [ eq : kappa - def ] ) is analogous to the expression ( 5.3.12 ) in  @xcite , with the disorder strength @xmath27 playing the role of the temperature @xmath47 in the smectic - a liquid crystal .",
+    "let us turn to an estimate of the exponent @xmath46 appearing in the intensities to determine whether such smectic - like intensities are indeed observable in experiments .",
+    "a good candidate is the blue bronze material @xmath48 which has a full gap so that coulomb interactions are unscreened at low temperature .",
+    "we use the parameters of @xcite : @xmath49 and a relative permittivity of @xmath50 , so that @xmath21 is equal to the permittivity of the vacuum . for the doped material @xmath51",
+    ", we find that the disorder strength can be expressed as a function of the doping and obtain : @xmath52 for the crystal parameters , @xmath5318.25 , @xmath547.56 , @xmath559.86 , @xmath56117.53@xmath57 @xcite , with 20 molybdenum atoms per unit cell , and a doping @xmath58 , the disorder strength @xmath59 .",
+    "moreover , using the experimental bounds of the velocities : @xmath60 and @xmath61 , we find that @xmath46 is in the range @xmath62 $ ] .",
+    "therefore , the smectic - like order should be observable in x - ray diffraction measurements on this material ."
+  ],
+  "abstract_text": [
+    "<S> when unscreened charged impurities are introduced in charge density wave system the long wavelength component of the disorder is long ranged and dominates static correlation functions . </S>",
+    "<S> we calculate the x - ray intensity and find that it is identical to the one produced by thermal fluctuations in a disorder - free smectic - a . </S>",
+    "<S> we suggest that this effect could be observed in the blue bronze material k@xmath0moo@xmath1 doped with charged impurities such as vanadium . </S>"
+  ]
+}
