@@ -1,0 +1,20 @@
+{
+  "article_text": [
+    "pythagoras theorem is ilustrated in figure below .      to prove this theorem it is enough to consider the particular case @xmath1 , for then the general case follows by rescaling .",
+    "define the trigonometric functions @xmath2 and @xmath3 , for @xmath4 , as usual ( see figure 1 ) .",
+    "the addition formula @xmath9 @xmath10 , can , in the same way , also be proved geometrically without using pythagoras theorem , from which it follows the half - angle formula @xmath11 if we use pythagoras formula ( [ fund ] ) in ( [ half1 ] ) then we get @xmath12 what if we could prove ( [ half2 ] ) without using pythagoras theorem ? then using ( [ half1 ] ) and ( [ half2 ] ) we would get the pythagoras formula ( [ fund ] ) !",
+    "first we observe the simple fact that in an isosceles triangle with two equal sides with length 1 , forming an angle @xmath13 , the length of the other side is @xmath14 .",
+    "this can be seen by dividing the isosceles triangle in two right triangles with an angle @xmath15 .",
+    "see figure 2 .                      here",
+    "we prove the pythagoras theorem using formulas ( [ half3 ] ) and ( [ half4 ] ) ( instead of using formulas ( [ half3 ] ) and ( [ half1 ] ) )",
+    ". we get @xmath23 by mathematical induction we get @xmath24 for every natural number @xmath25 . clearly @xmath26 ( actually this quantity can be made arbitrarly small by making @xmath25 large ) .",
+    "let @xmath13 be measured in radians .",
+    "it follows from figure 3 that @xmath27 .",
+    "then @xmath28 which is clearly arbitrarly small by making @xmath25 large enough .",
+    "then ( [ ind ] ) implies the pythagoras formula ( [ fund ] ) ."
+  ],
+  "abstract_text": [
+    "<S> only very recently a trigonometric proof of the pythagoras theorem was given by zimba @xcite , many authors thought this was not possible . in this note </S>",
+    "<S> we give other trigonometric proofs of pythagoras theorem by establishing , geometrically , the half - angle formula @xmath0 . </S>"
+  ]
+}

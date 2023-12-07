@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "as datasets become increasingly important in all branches of science , many have proposed methods and tools to publish data @xcite @xcite @xcite .",
+    "nanopublications @xcite are an approach to bundle atomic data snippets ( in rdf ) in small packages together with their provenance and metadata . such nanopublications can be manually created by scientists and linked to their articles , but they can also be automatically extracted from existing datasets or be directly created by programs that implement scientific methods .    in general , computer programs form a third kind of scientific contribution , besides narrative articles and datasets . while many such programs are openly available , there are no conventions or standards of how to reliably link data to the software that produced it , including the version of the software and the input it received . moreover ,",
+    "due to the focus of the scientific life cycle on the publication of articles , scientific software is typically applied only to the data available at the time of writing a paper .",
+    "it is often not the case that new output data is made public when new input data becomes available . to tackle these problems",
+    ", i argue that we can encapsulate certain types of scientific algorithms as small independent agents that take inputs of a given type and produce , for example , nanopublications , and they could do this in a real - time and automatic manner as new input data becomes available .",
+    "i borrow the term `` bot '' from wikipedia , where bots are applied , for example , to revert edits that are the results of vandalism @xcite @xcite .",
+    "a prominent example is a bot that has created around 454 000 articles for the swedish wikipedia @xcite .",
+    "the fact that bots can be powerful also in a negative sense has become apparent with the rise of botnets @xcite , and with the increasing problem of `` social bots '' that pretend to be humans @xcite .",
+    "i argue here that the power of bots could also be harnessed in a positive way for scientific computation .",
+    "in contrast to the agents in the original semantic web paper @xcite , such bots would not propose or make decisions as a kind of personal assistant , but they would only publish data snippets and they would do that without any further interaction with humans .    in previous work , i showed how the concept of nanopublications can be extended and i mentioned the possible use of bots to create them @xcite .",
+    "i also presented an approach to attach cryptographic hash values to nanopublication identifiers to make them verifiable and immutable @xcite .",
+    "based on that work , i have started to establish a nanopublication server network , with which nanopublications can be published , retrieved , and archived in a reliable , trustworthy , and decentralized manner @xcite , which could serve as the basis for the communication for bots .",
+    "in this position paper , i propose bots as a general concept for scientific computation .",
+    "for example , a bot could apply text mining to extract relations from the abstracts of the constantly growing pubmed database , another bot could regularly measure the temperature at a given location and publish the results , and yet another one could infer new facts from existing nanopublications by applying specified rules or heuristics ( e.g. if disease x is related to gene y , which is targeted by drug z then z might help to treat x ) .",
+    "importantly , these bots can automatically publish the obtained data without double - checking or direct supervision by their creators , and these data can be made immediately accessible to everybody ( including other bots ) .    in a system that treats bots as first - class citizens",
+    ", we have to expect that some bots ( and humans for that matter ) will produce low - quality contributions , and we have to make sure that this does not affect the reliability and trustworthiness of the system .",
+    "i argue that we can achieve that without introducing a central authority , without making concessions with respect to the openness of the system , and without delaying the publishing of results .",
+    "we simply need a sufficiently accurate automatic method to discern good contributions from bad ones , which can be achieved by a reputation system .",
+    "we can let scientists and bots participate in the same reputation system , where they would increase their reputation by receiving positive feedback by other participants on the usefulness and quality of their contributions .",
+    "positive reputation of a bot , in turn , would give credit and reputation to the scientist who created it .",
+    "to arrive at a simple exemplary model to explain the approach , we can define a relation `` is contributed by '' , where bots can occur on either side : they are contributions , as they were programmed and created by somebody , but they are also contributors , as they can create new digital entities on their own .",
+    "we can define a second type of relation to represent assessments . for the sake of simplicity , we model here only positive assessments and strip them of all granularity and detail , and we can call the resulting relation `` gives positive assessment for '' .",
+    "[ figure - graph ] shows a simple example of such a graph with two kinds of edges , representing creatorship and assessments . to determine the reputation or importance of the nodes",
+    ", we can in the simplest case treat the two types of edges identically and rank the nodes by applying a network measure such as eigenvector centrality ( which is closely related to google s pagerank algorithm to rank websites ) , as shown by the red numbers .",
+    "the person at the top - left has a high reputation because he is endorsed by the person in the middle .",
+    "the latter has a high reputation because her direct and indirect contributions were positively assessed by others ( even though she has not received a direct assessment herself ) .",
+    "the third person to the right , however , has not contributed anything that was positively assessed by others ( only by his own bot ) , and therefore his reputation is low .",
+    "of course , there are many possible variations and extensions , such as bidirectional contribution edges for the eigenvector calculation , as indicated by the gray numbers . in general , as one can not influence _ incoming _ links from the part of the network that is not under one s control , there is no way to efficiently game the system .",
+    "the scalability of such algorithms in open and decentralized systems is demonstrated by their successful application by search engines and peer - to - peer systems @xcite .",
+    "bots could free scientists from routine tasks and therefore allow them to focus on the interesting questions .",
+    "furthermore , this approach could increase the value and appreciation of datasets and software as research products , and give due credit to their creators . with appropriate reputation mechanisms , this can be achieved in a fully open and decentralized environment ."
+  ],
+  "abstract_text": [
+    "<S> as a response to the trends of the increasing importance of computational approaches and the accelerating pace in science , i propose in this position paper to establish the concept of `` science bots '' that autonomously perform programmed tasks on input data they encounter and immediately publish the results . </S>",
+    "<S> we can let such bots participate in a reputation system together with human users , meaning that bots and humans get positive or negative feedback by other participants . </S>",
+    "<S> positive reputation given to these bots would also shine on their owners , motivating them to contribute to this system , while negative reputation will allow us to filter out low - quality data , which is inevitable in an open and decentralized system .    </S>",
+    "<S> [ automation ] </S>"
+  ]
+}

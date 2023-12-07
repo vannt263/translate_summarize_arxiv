@@ -1,0 +1,21 @@
+{
+  "article_text": [
+    "in the popular game sudoku , players are presented with a nine - by - nine array , divided into nine three - by - three subsubarrays , and partially filled with the numbers @xmath0 through @xmath1 .",
+    "the goal is to fill the nine - by - nine array with the numbers @xmath0 through @xmath1 so that each row , column , and three - by - three subarray contains no repeated numbers .",
+    "see a starting and completed sudoku square in figure [ sudokugrid ] @xcite .",
+    "[ sudokugrid ]    [ cols=\"^,^,^,^,^,^,^,^,^ \" , ]",
+    "sliced space - filling designs can be constucted from the doubly orthogonal quasi - sudoku latin squares or the quasi - sliced asymmetic orthogonal array using the techniques in @xcite , @xcite , and @xcite . in brief , the column - wise procedure is as follows .",
+    "first , randomly relabel each column s elements @xmath2 subject to the constraint that the elements mapped to the same symbol by @xmath3 form a consecutive subset of @xmath2 .",
+    "next , replace the elements in each column with symbol @xmath4 with a random permutation of @xmath5 .",
+    "lastly , each element of the space - filling is generated as @xmath6 , where @xmath7 denotes the design elements after the first two steps and @xmath8 denotes a random @xmath9 deviate .",
+    "as an example , figure [ spacefilling ] shows a sliced space - filling design constructed based on the quasi - sliced asymmetic orthogonal array whose first sliced is shown in figure [ ex : quasi - slice ] .    as shown in @xcite and @xcite , the complete design achieves uniformity in one and two - dimensional projections , while the slices are guaranteed to achieve uniformity in two - dimensional projections . on the other hand ,",
+    "the columns based on the doubly orthogonal quasi - sudoku latin squares can be divided into a larger number of slices , as defined by the quasi - sudoku sub - squares , each of which has guaranteed uniformity under one and two - dimensional projections , as shown in @xcite ."
+  ],
+  "abstract_text": [
+    "<S> sliced sudoku - based space - filling designs and , more generally , quasi - sliced orthogonal array - based space - filling designs are useful experimental designs in several contexts , including computer experiments with categorical in addition to quantitative inputs and cross - validation . here </S>",
+    "<S> , we provide a straightforward construction of doubly orthogonal quasi - sudoku latin squares which can be used to generate sliced space - filling designs which achieve uniformity in one and two - dimensional projections for both the full design and each slice . </S>",
+    "<S> a construction of quasi - sliced orthogonal arrays based on these constructed doubly orthogonal quasi - sudoku latin squares is also provided and can , in turn , be used to generate sliced space - filling designs which achieve uniformity in one and two - dimensional projections for the full design and and uniformity in two - dimensional projections for each slice . </S>",
+    "<S> these constructions are very practical to implement and yield a spectrum of design sizes and numbers of factors not currently broadly available .    </S>",
+    "<S> key words : computer experiments , space - filling designs , sudoku , sliced experimental designs . </S>"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "variable phenomena are common in the universe and multi - epoch surveys are producing very interesting scientific results ( see * ? ? ?",
+    "* ) . among all the numerous existing surveys",
+    ", gaia is really prominent and will have a tremendous impact on time domain astronomy ( see for example * ? ? ?",
+    "* ; * ? ? ?",
+    "* ) . within the gaia data processing and analysis consortium ( dpac ,",
+    "see * ? ? ?",
+    "* ) , one coordination unit ( cu7 ) is dedicated to the thematics of variability .",
+    "the objective of cu7 is to populate the gaia catalogue with properties of sources having photometric and/or spectral variability .",
+    "cu7 is composed of about 70 researchers , postdocs , students , and computers scientists who are distributed among about 20 countries .",
+    "the top - level work - breakdown is represented in fig .",
+    "[ figcu7wps ] .",
+    "we describe briefly the different tasks hereafter .",
+    "a first global release of all variable sources detected among the one billion observed sources is foreseen in the 4th release ( currently planned for 2018/2019 ) , the final release might come in 2022",
+    ". however the goal of cu7 is to release at earlier dates specific groups of variables , once the estimations of completeness and contamination are thought to be reliable enough and reach acceptable levels .    99 distefano , e. , lanzafame , a.  c. , lanza , a.  f. , et al .",
+    "2012 , mnras , 421 , 2774 dubath , p. , rimoldini , l. , sveges , m. , et al .",
+    "2011 , mnras , 414 , 2602 dzigan , y. , & zucker , s.  2012 , apj , 753 , ll1 dzigan , y. , & zucker , s.  2013 , mnras , 428 , 3641 eyer , l. , & mowlavi , n.  2008 , journal of physics conference series , 118 , 012010 eyer , l. , palaversa , l. , mowlavi , n. , et al .",
+    "2012 , astrophysics and space science , 341 , 207 eyer , l. , holl , b. , pourbaix , d. , et al .",
+    "2013 , central european astrophysical bulletin , 37 , 115 mignard , f. , bailer - jones , c. , bastian , u. , et al .",
+    "2008 , iau symposium , 248 , 224 nienartowicz , k. , ordez blanco , d. , guy , l. , et al .",
+    "2014 , arxiv:1411.5943 rimoldini , l. , dubath , p. , sveges , m. , et al .",
+    "2012 , mnras , 427 , 2917 tingley , b.  2011 , a&a , 529 , aa6 varadi , m. , eyer , l. , jordan , s. , & koester , d.  2011 , eas publications series , 45 , 167"
+  ],
+  "abstract_text": [
+    "<S> we present the variability processing and analysis that is foreseen for the gaia mission within coordination unit  7 ( cu7 ) of the gaia data processing and analysis consortium ( dpac ) . </S>",
+    "<S> a top level description of the tasks is given . </S>"
+  ]
+}

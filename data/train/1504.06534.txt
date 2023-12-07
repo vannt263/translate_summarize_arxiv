@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "let us prove ( a ) .",
+    "( @xmath23 ) : suppose @xmath24 .",
+    "let @xmath25 .",
+    "by lemma  [ lem : datapdl ] , there is a run @xmath16 of @xmath26 such that @xmath27 .",
+    "moreover , since @xmath28 , all runs @xmath16 of @xmath26 satisfy @xmath29 .",
+    "this applies , in particular , to all runs @xmath16 such that @xmath30 . by lemma  [ lem : lcpdl ]",
+    ", we have @xmath31 .",
+    "we conclude @xmath32 .",
+    "( @xmath33 ) : suppose @xmath34 .",
+    "then , there are a ring @xmath35 , an @xmath36-run @xmath16 of @xmath26 , and a process @xmath37}$ ] such that @xmath38 .",
+    "since @xmath13 can not distinguish isomorphic rings , we can shift @xmath36 until @xmath39 `` arrives '' on position @xmath40 .",
+    "thus , there are @xmath41 and an @xmath42-run @xmath43 of @xmath26 such that @xmath44 . by lemma  [ lem : lcpdl ] , @xmath45 and , therefore , @xmath46 . due to lemma  [ lem : datapdl ]",
+    ", we also have @xmath47 .",
+    "we conclude @xmath48 ."
+  ],
+  "abstract_text": [
+    "<S> * abstract . * </S>",
+    "<S> we introduce an automata - theoretic method for the verification of distributed algorithms running on ring networks . in a distributed algorithm , </S>",
+    "<S> an arbitrary number of processes cooperate to achieve a common goal ( e.g. , elect a leader ) . </S>",
+    "<S> processes have unique identifiers ( pids ) from an infinite , totally ordered domain . </S>",
+    "<S> an algorithm proceeds in synchronous rounds , each round allowing a process to perform a bounded sequence of actions such as send or receive a pid , store it in some register , and compare register contents wrt .  the associated total order . </S>",
+    "<S> an algorithm is supposed to be correct independently of the number of processes . to specify correctness properties , </S>",
+    "<S> we introduce a logic that can reason about processes and pids . referring to leader election </S>",
+    "<S> , it may say that , at the end of an execution , each process stores the maximum pid in some dedicated register . </S>",
+    "<S> since the verification of distributed algorithms is undecidable , we propose an underapproximation technique , which bounds the number of rounds . </S>",
+    "<S> this is an appealing approach , as the number of rounds needed by a distributed algorithm to conclude is often exponentially smaller than the number of processes . </S>",
+    "<S> we provide an automata - theoretic solution , reducing model checking to emptiness for alternating two - way automata on words . </S>",
+    "<S> overall , we show that round - bounded verification of distributed algorithms over rings is pspace - complete .    </S>",
+    "<S> = 0.9 mm    ( pid1)(-8,19.8)@xmath0 ( pid1)(0,20)4 ( pid2)(23,20)8 ( pid3)(46,20)3 ( pid4)(69,20)1 ( pid5)(92,20)6 ( pid6)(115,20)5 ( pid7)(138,20)7    ( 0,-5 ) ( i)(-7,20.5)@xmath1 ( i1)(0,20 ) ( i2)(23,20 ) ( i3)(46,20 ) ( i4)(69,20 ) ( i5)(92,20 ) ( i6)(115,20 ) ( i7)(138,20 )    ( conf)(-16,8)@xmath2 ( conf)(-16,-8)@xmath3 ( conf)(-16,-32)@xmath4 ( conf)(-16,-48)@xmath5 ( conf)(-16,-72)@xmath6 ( conf)(-16,-88)@xmath7 ( conf)(-16,-112)@xmath8    ( conf)(-16,0 ) ( conf)(-16,-20 ) ( conf)(-16,-40 ) ( conf)(-16,-60 ) ( conf)(-16,-80 ) ( conf)(-16,-100 )    ( pid1,pid2 ) ( pid2,pid3 ) ( pid3,pid4 ) ( pid4,pid5 ) ( pid5,pid6 ) ( pid6,pid7 ) ( pid1,pid7 )     ( ialabel)(0,0 ) ( ialabel)(23,0 ) ( ialabel)(46,0 ) ( ialabel)(69,0 ) ( ialabel)(92,0 ) ( ialabel)(115,0 ) ( ialabel)(138,0 )    ( 0,-20 ) ( ailabel)(0,0 ) ( aplabel)(23,0 ) ( ailabel)(46,0 ) ( newaplabel)(69,0 ) ( aplabel)(92,0 ) ( ailabel)(115,0 ) ( aplabel)(138,0 )    ( 0,-40 ) ( ialabel)(0,0 ) ( pplabel)(23,0 ) ( ialabel)(46,0 ) ( pplabel)(69,0 ) ( pplabel)(92,0 ) ( ialabel)(115,0 ) ( pplabel)(138,0 )    ( 0,-60 ) ( newaplabel)(0,0 ) ( pplabel)(23,0 ) ( aplabel)(46,0 ) ( pplabel)(69,0 ) ( pplabel)(92,0 ) ( ailabel)(115,0 ) ( pplabel)(138,0 )    ( 0,-80 ) ( pplabel)(0,0 ) ( pplabel)(23,0 ) ( pplabel)(46,0 ) ( pplabel)(69,0 ) ( pplabel)(92,0 ) ( ialabel)(115,0 ) ( pplabel)(138,0 )    ( 0,-100 ) ( pplabel)(0,0 ) ( pplabel)(23,0 ) ( pplabel)(46,0 ) ( pplabel)(69,0 ) ( pplabel)(92,0 ) ( aelabel)(115,0 ) ( pplabel)(138,0 )    ( c)(0,8 )    [ cols=\"^ \" , ]    * the case @xmath9 is almost identical . in , we just replace @xmath10 by @xmath11 . * consider the path formula @xmath12 . note that @xmath13 is good . </S>",
+    "<S> we show ( c ) : @xmath14\\!]}}_{t_{\\chi } } } = { { \\ensuremath{[\\![{\\{{\\widetilde{{\\varphi}}}\\}?}]\\!]}}_{t_{\\chi}}}\\\\[1ex ] = & \\{(x , x ) \\mid x \\in { \\mathit{pos}({\\chi } ) } : t_{\\chi},x \\models { \\widetilde{{\\varphi}}}\\}\\\\[1ex ] \\smash{\\stackrel{\\text{i.h.(b)}}{= } } & \\{(x , x ) \\mid x \\in { \\mathit{pos}({\\chi } ) } : { \\chi},1,x \\models { \\varphi}\\}\\\\[1ex ] = & { { \\ensuremath{[\\![{\\{{\\varphi}\\}?}]\\!]}}_{{\\chi},1 } } \\end{array}\\ ] ] * consider @xmath15 . </S>",
+    "<S> suppose the coordinate set of @xmath16 is @xmath17 } \\times { [ k]_0}$ ] . </S>",
+    "<S> we show ( c ) : @xmath18\\!]}}_{t_{\\chi } } } = { { \\ensuremath{[\\![{\\mathord{\\rightarrow}}+ { \\{\\neg{\\ensuremath{\\langle{\\mathord{\\rightarrow}}\\rangle}}\\}?}{\\mathord{\\leftarrow}}^\\ast{\\{\\neg{\\ensuremath{\\langle{\\mathord{\\leftarrow}}\\rangle}}\\}?}]\\!]}}_{t_{\\chi}}}\\\\[1ex ] = & \\{((i , j),(i+1,j ) ) \\mid ( i , j ) \\in { [ n-1 ] } \\times { [ k]_0}\\ } \\cup \\{((n , j),(1,j ) ) \\mid j \\in { [ k]_0}\\}\\\\[1ex ] = & { { \\ensuremath{[\\![{\\mathord{\\rightarrow}}]\\!]}}_{{\\chi},1}}\\\\[1ex ] \\end{array}\\ ] ] * the regular operations as well as @xmath19 and @xmath20 are obvious , and the case @xmath21 is symmetric to @xmath22 . </S>"
+  ]
+}

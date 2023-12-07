@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "the homological representation and modeling @xcite of networks ( n / w ) is based on their geometric elements , called also the chains  nodes , branches ( edges ) , meshes ( simple closed loops ) , and using the natural geometric boundary operator of the n / w which only depends on the geometry ( topology ) of the n / w .",
+    "then , both of the kirchhoff laws can be presented in a compact algebraic form that may be called the homological kirchhoff laws .    in the present note",
+    ", we compose the discrete poisson equations and consider the star - triangle ( external ) equivalence transformation in conducting networks , see fig .",
+    "[ fig_star_triangle ] , and prove the kennelly famous transformation formulae @xcite .",
+    "we use the geometrical representation that was explained in @xcite .    , height=151 ]",
+    "first introduce some notations , here we follow @xcite . the both circuits are assumed to have the same boundary conditions .",
+    "we denote    @xmath0    the impedance matrices are @xmath1 z_{1 } & 0 & 0\\\\ 0 & z_{2 } & 0\\\\ 0 & 0 & z_3 \\end{bmatrix * } , \\quad   z '   { : = } \\begin{bmatrix*}[r ] z'_{3 } & 0 & 0\\\\ 0 & z'_{1 } & 0\\\\ 0 & 0 & z'_2 \\end{bmatrix*}\\end{aligned}\\ ] ] the admittances @xmath2 and @xmath3 are defined by @xmath4 and the admittance matrices are @xmath5 y_{1 } & 0 & 0\\\\ 0 & y_{2 } & 0\\\\ 0 & 0 & y_3 \\end{bmatrix * } , \\quad   y ' { : = } z'^{-1 } = \\begin{bmatrix*}[r ] y'_{3 } & 0 & 0\\\\ 0 & y'_{1 } & 0\\\\ 0 & 0 & y'_2 \\end{bmatrix*}\\end{aligned}\\ ] ]",
+    "consider the star circuit represented on fig .",
+    "[ fig_star_triangle ] . define    * _ node space _",
+    "@xmath6 , @xmath7 * _ branch space _ @xmath8 , @xmath9    first construct the boundary operator @xmath10 . by definition ,",
+    "@xmath11    and in the matrix representation we have @xmath12 -1 & 0 & 0\\\\ 0   & -1 & 0\\\\ 0 & 0 & -1\\\\ 1 & 1 & 1 \\end{bmatrix * } \\quad\\longrightarrow\\quad { \\partial^{t}}= \\begin{bmatrix*}[r ] -1 & 0 & 0 & 1\\\\ 0 & -1 & 0 & 1\\\\ 0 & 0 & -1 & 1 \\end{bmatrix*}\\end{aligned}\\ ] ] now it is easy to calculate the laplacian as follows :    @xmath13 -1 & 0 & 0\\\\ 0   & -1 & 0\\\\ 0 & 0 & -1\\\\ 1 & 1 & 1 \\end{bmatrix * } \\begin{bmatrix*}[r ] y_{1 } & 0 & 0\\\\ 0 & y_{2 } & 0\\\\ 0 & 0 & y_{3 } \\end{bmatrix * } \\begin{bmatrix*}[r ] -1 & 0 & 0 & 1\\\\ 0 & -1 & 0 & 1\\\\ 0 & 0 & -1   & 1 \\end{bmatrix * }   \\\\ & \\hphantom{:}=   \\begin{bmatrix*}[r ] y_1 & 0 & 0 & -y_1 \\\\ 0 & y_2 & 0 & -y_2 \\\\ 0 & 0 & y_3 & -y_3 \\\\ -y_1 & -y_2 & -y_3 & y_1+y_2+y_3 \\end{bmatrix*}\\end{aligned}\\ ] ]    the poisson equation @xmath14 in coordinate form reads @xmath15 { \\beta}_2=\\dfrac{-\\phi_{2}+\\phi_{4}}{z_{2}}\\\\[1em ] { \\beta}_3=\\dfrac{-\\phi_{3}+\\phi_{4}}{z_{3}}\\\\[1em ] { \\beta}_4=-\\left(\\dfrac{-\\phi_{1}+\\phi_{4}}{z_{1 } } + \\dfrac{-\\phi_{2}+\\phi_{4}}{z_{2 } } + \\dfrac{-\\phi_{3}+\\phi_{4}}{z_{3}}\\right ) \\end{cases}\\ ] ] we can easily check consistency : @xmath16 for @xmath17 we have @xmath18 from which it follows that @xmath19",
+    "next consider the the triangle circuit on fig . [ fig_star_triangle ] .",
+    "we denote the spanning nodes and branches by the same letters",
+    ". then the linear spans are    * _ node space _ @xmath20 * _ branch space _",
+    "@xmath21    construct the boundary operator @xmath10 .",
+    "we can see that @xmath22 and the matrix representation is @xmath12 -1 & 0 & 1\\\\ 1   & -1 & 0\\\\ 0 & 1 & -1 \\end{bmatrix * } \\quad\\longrightarrow\\quad { \\partial^{t}}= \\begin{bmatrix*}[r ] -1 & 1 & 0\\\\ 0 & -1 & 1\\\\ 1 & 0 & -1 \\end{bmatrix*}\\end{aligned}\\ ] ] the laplacian is    @xmath23 -1 & 0 & 1\\\\ 1   & -1 & 0\\\\ 0 & 1 & -1 \\end{bmatrix * } \\begin{bmatrix*}[r ] y'_{3 } & 0 & 0\\\\ 0 & y'_{1 } & 0\\\\ 0 & 0 & y'_{2 } \\end{bmatrix * } \\begin{bmatrix*}[r ] -1 & 1 & 0\\\\ 0 & -1 & 1\\\\ 1 & 0 & -1 \\end{bmatrix * }   \\\\ & \\hphantom{:}= \\begin{bmatrix*}[r ] y'_3+y'_2 & - y'_3 & -y_2 \\\\ -y'_3 & y'_3+y'_1 & -y'_1\\\\ -y'_2 & -y'_1 & y'_1+y'_2 \\end{bmatrix*}\\end{aligned}\\ ] ]    the poisson equation is @xmath24 hence we have @xmath25 { \\beta}_2=-\\dfrac{-\\phi_{1}+\\phi_{2}}{z'_{3}}+\\dfrac{-\\phi_{2}+\\phi_{3}}{z'_{1}}\\\\[1em ] { \\beta}_3=-\\dfrac{-\\phi_{2}+\\phi_{3}}{z'_{1}}+\\dfrac{\\phi_{1}-\\phi_{3}}{z'_{2 } } \\end{cases}\\ ] ] check the consistency : @xmath26",
+    "now consider the star - triangle equivalence as exposed on fig .",
+    "[ fig_star_triangle ] and prove the kennelly theorem .",
+    "we can easily check consistency of the last eqs , by summing these we easily obtain @xmath34 .",
+    "this means that one equation is a linear combination of others and we can variate the independent potentials @xmath35 only in two equations .",
+    "we use the first two eqs ."
+  ],
+  "abstract_text": [
+    "<S> by using the discrete poisson equations the star - triangle ( external ) equivalence in conducting networks is considered and the kennelly famous transformation formulae [ kennelly a e 1899 electrical world and engineer * 34 * 413 ] are explicitly restated . </S>"
+  ]
+}

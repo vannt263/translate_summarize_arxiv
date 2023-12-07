@@ -1,0 +1,21 @@
+{
+  "article_text": [
+    "the warkworth radio astronomical observatory for which a panorama photo is shown in figure [ fig : warkworth ] is located some 60 km north of the city of auckland , near the township of warkworth .",
+    "specifications of the warkworth 12-m and 30-m antennas are provided in table [ t : wark ] .",
+    "the 12-m radio telescope is equipped with an s / x dual - band dual - circular polarization feed at the secondary focus and an l - band feed at the prime focus .",
+    "backend data digitizing is handled by a digital base band converter ( dbbc ) manufactured by the hat - lab , catania , italy .",
+    "the 30-m radio telescope is currently equipped with a un - cooled c band dual - circular polarization receiver .",
+    "the station frequency standard is a symmetricom active hydrogen maser mhm-2010 ( 75001 - 114 ) .",
+    "mark 5b+ and mark 5c data recorders are used for data storage and streaming of recorded data off site .",
+    "the observatory network is directly connected to the national network provided by research and education advanced network new zealand ltd ( reannz ) via a 10  gbps fibre link to the site @xcite .",
+    "foundations have been laid for the future hosting of a gravimeter when in transit here in new zealand from antarctica .",
+    "the site is just outside the 12-m antenna control facility so as to easily access utilities , and is also close to one of the linz ( land information new zealand ) gnss station hosted at the warkworth observatory . in march 2015 a site survey of the observatory",
+    "will be undertaken with the assistance of linz .",
+    "this will provide a useful check o fthe initial local tie survey of the 12-m antenna and gnss station conducted at the end of 2012 @xcite , and also provide a tie to the 30-m radio telescope for the first time .",
+    "woodburn , l. , natusch , t. , weston , s. , thomasson , p. , godwin , m. , granet , c. , gulyaev , s. , conversion of a new zealand 30 metre telecommunications antenna into a radio telescope , publications of the astronomical society of australia , accepted , 2015 ."
+  ],
+  "abstract_text": [
+    "<S> the warkworth radio astronomical observatory is operated by the institute for radio astronomy and space research ( irasr ) , aut university , auckland , new zealand . here </S>",
+    "<S> we review the characteristics of the vlbi station facilities and report on a number of activities and technical developments in 2014 . </S>"
+  ]
+}

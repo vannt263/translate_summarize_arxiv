@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "modern physical models of eclipsing binaries and transiting exoplanets ( eclipsing systems = es ) ( e.g. * ? ? ?",
+    "* ; * ? ? ?",
+    "* ; * ? ? ?",
+    "* ; * ? ? ?",
+    "* ; * ? ? ?",
+    "* ) are able to simulate their light curves with impressive fidelity .",
+    "however , a solution of the reverse problem , to derive all important parameters of the model from observational data , is seldom unique .",
+    "if we have observational data of moderate or poor quality , we are often forced to diminish the number of free parameters and thus use simplified ( and frequently physically inconsistent ) models . a decision which parameters to fix or leave floating is usually nontrivial .    nevertheless , for several common practical tasks , such as : 1 )  determination of the mid - eclipse times , 2 )  light curve fitting , 3 )  description and classification of es light curve shapes for the purpose of the current and future surveys like asas or gaia , and 4 )  fine period analysis , we do not need to know the detailed physics of the system .",
+    "a good approximation of the shape of observed light curves is usually sufficient in such cases .",
+    "we present here a few - parameter general phenomenological model of eclipsing system light curves in the form of the special , analytic , periodic functions that are able to fit an overwhelming majority of the curves with an accuracy better than 1% . for the sake of simplicity",
+    ", we will limit our considerations only to systems with approximately circular orbits that represent more than 80% of observed eclipsing systems .",
+    "the model function of a monochromatic light curve ( expressed in magnitudes ) of eclipsing systems @xmath0 , can be assumed as the sum of three particular functions : @xmath1 where @xmath2 describes the mutual eclipses of the components , @xmath3 models the proximity effects , while @xmath4 approximates the oconnell effect ( irrespectively of its physical cause ) .",
+    "the normally occurring features of all eclipsing system light curves are two more or less symmetrical depressions caused by mutual eclipses of gravitationally bound stellar or planetary components",
+    ". the model function of eclipses @xmath5 can be approximated by the sum of two symmetrical analytic functions of the phase @xmath6 .",
+    "we assume that the primary eclipse is centered at the phase @xmath7 , while the secondary eclipse ( if one is present ) is centered at phase @xmath8 , @xmath9}{\\left\\{1\\!-\\!{\\left\\{1\\!-\\!\\exp{\\left[1\\!-\\ ! \\cosh{\\left(\\frac{\\varphi_k}{d_k}\\right)}\\right]}\\right\\}}^{\\mathit{\\gamma}_{\\!k}}\\right\\}};\\\\ & \\varphi_k={\\left[\\varphi-(k-1)/2\\right ] } - \\mathrm{round}{\\left[\\varphi-(k-1)/2\\right]},\\nonumber\\end{aligned}\\ ] ] where the summation is over the number of eclipses , @xmath10 : @xmath11 or @xmath12 ( the common situation for exoplanet transits ) , @xmath13 are the auxiliary phases defined in the interval @xmath14 , @xmath15 are the central depths of eclipses in mag , @xmath16 is the parameter expressing half - widths of eclipses , @xmath17 are the correcting parameters , @xmath18 parameterize the kurtosis of individual eclipses .",
+    "the fit of a transit of the exoplanet tres2b ( @xmath12 ) observed by _ kepler _",
+    "( see fig.[fig1 ] ) @xcite utilizes five parameters : @xmath19 .",
+    "however , the full description of the model monochromatic light curves with two eclipses ( @xmath11 ) would generally require nine free parameters : @xmath20 , and @xmath21 .",
+    "nevertheless , the most common situations would permit a reduction to 5 parameters , @xmath22 , because it is usually acceptable to assume that @xmath23 , @xmath24 , @xmath25 , @xmath26 . a detailed discussion of the properties of the eclipse model function @xmath5 and its possible simplifications are given in @xcite .",
+    "light variations of eclipsing binaries caused by eclipses are usually modified by proximity and oconnell effects that may be modelled by a sum of cosine and sine harmonic polynomials : @xmath27};\\quad f_{\\rm c}(\\varphi)= \\sum_{k = n_{\\mathrm p}+n_{\\mathrm e}+1}^{n_{\\mathrm c}+ n_{\\mathrm p}+n_{\\mathrm e } } a_k\\,\\sin(2\\,\\pi\\,\\varphi),\\ ] ] where @xmath28 , @xmath29 is the number of terms in @xmath30 : @xmath31 , @xmath32 if the oconnell asymmetry is not present then @xmath33 , else @xmath34 ( for more information see * ? ? ? * ) .    the uncommon @xmath35 light curve of eclipsing binary v477lyr ( see fig.[477lyr ] ) is determined by 8 parameters : @xmath36 , @xmath37 .",
+    "the parameters of the above defined model functions , especially the amplitudes @xmath38 , and parameters @xmath39 , @xmath40 and @xmath41 are generally wavelength dependent .",
+    "it follows both from the theory and experience that most of the wavelength dependencies can be well approximated by the low order polynomials of the quantity @xmath42 ; @xmath43 , where @xmath44 is the effective wavelength of corresponding passband , @xmath45 is an arbitrarily selected central wavelength of the data set . then : @xmath46 where @xmath47 , @xmath48 or @xmath49 , are the numbers of degrees of freedom of the corresponding parameters of the model .",
+    "the standard set of the monochromatic light curve model parameters of eclipsing binaries ( see sec.[monoch ] ) : @xmath50 can be considered as the special case of the multicolour decomposition eq.[multi ] : @xmath51 .",
+    "all needed parameters and their uncertainties can be determined using the standard non - linear weighted least square technique ( see in * ? ? ?",
+    "the outlined phenomenological modeling of eclipse - binary and planetary - transit light curves has an advantage of high efficiency and simplicity and thus can be used for a wide range of applications ."
+  ],
+  "abstract_text": [
+    "<S> we present a new few - parameter phenomenological model of light curves of eclipsing binaries and stars with transiting planets that is able to fit the observed light curves with the accuracy better than 1% of their amplitudes . </S>",
+    "<S> the model can be used namely for appropriate descriptions of light curve shapes , classification , mid - eclipse time determination , and fine period analyses . </S>"
+  ]
+}

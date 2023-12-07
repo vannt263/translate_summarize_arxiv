@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "in modern portfolio theory , risk diversification is the most essential issue , which involves the understanding of clustering behavior and risk contagion of the assets in a portfolio .",
+    "thus , in a stock market , the price fluctuate of a listed company s asset ( i.e. , stock ) is parallel to others or interactively influenced by others .",
+    "the widely used cross - correlation analysis is an important measurement to investigate the interactive relationships between pairs of stocks for understanding the dynamic mechanics in complex economic system .",
+    "for example , the random matrix theory ( rmt ) suggests the eigenvalues and corresponding eigenvectors of the cross - correlation matrix of price fluctuations are relevant to clustering behavior and economic sector division ( or taxonomy ) of stocks @xcite .",
+    "meanwhile , with the development of complex network theory , diverse cross - correlation based stock networks are proposed to describe the interactive relationship , such as minimum spanning tree ( mst )  @xcite , planar maximally filtered graph ( pmfg )  @xcite , and threshold networks ( tn )  @xcite , etc .",
+    "especially , the clustering behavior of stocks can be well associated with the communities scratched from these stock networks via complex network measurement .    in order to evaluate risk contagion , a lot of works",
+    "have been devoted to analyze the influence relationships from directed network perspective .",
+    "@xcite introduced the measurement of partial correlation to construct tn and pmfg of listed companies and uncover the dominating ones in a stock market .",
+    "the engle - granger method  @xcite is an alterative way to obtain the asymmetric influences ( i.e , granger causality ) among listed companies .",
+    "for example , yang _",
+    "et al . _",
+    "@xcite constructed directed cointegration network of global stock markets based on engle - granger cointegration test , and presented ranking analysis of nodes to distinguish their importance . besides , time - dependent cross - correlation @xcite is also applied to determine the linking direction between a pair of listed companies due to the time shift of maximum correlation .",
+    "if the time shift is non - zero , thepulling \" effect is assumed to exist in these listed companies .    as an important emerging market ,",
+    "the chinese stock market possesses unique properties , such as stronger cross - correlations and less market efficiency @xcite .",
+    "there are few works involved the unidirectional influence relationship @xcite .",
+    "however , these results are obtained based on daily stock returns , thus may be debatable under the consideration of efficient market . in this paper , we mainly focus on the risk contagion in chinese stock market , by constructing a directed influence network on the basis of time series of minute - by - minute price fluctuations with the time - dependent cross - correlation method , which is well behaved in american stock market@xcite . unlike previous literatures",
+    ", we analyzed not only the global topological structure , but also the subnetworks of a few significant economic sectors in aim to explore the unique economic structure of china .",
+    "empirical results reveal three types of connectivity involving with the intra - sector s influence relationship .",
+    "we also compare several measurements of node s centrality to find out available characterization of the importance of listed companies in this influence network .",
+    "the findings provide intriguing information about the topological properties of chinese stock market and give important hint about risk contagion in portfolio management ."
+  ],
+  "abstract_text": [
+    "<S> in a stock market , the price fluctuations are interactive , that is , one listed company can influence others . in this paper , we seek to study the influence relationships among listed companies by constructing a directed network on the basis of chinese stock market . </S>",
+    "<S> this influence network shows distinct topological properties , particularly , a few large companies that can lead the tendency of stock market are recognized . </S>",
+    "<S> furthermore , by analyzing the subnetworks of listed companies distributed in several significant economic sectors , it is found that the influence relationships are totally different from one economic sector to another , of which three types of connectivity as well as hub - like listed companies are identified . </S>",
+    "<S> in addition , the rankings of listed companies obtained from the centrality metrics of influence network are compared with that according to the assets , which gives inspiration to uncover and understand the importance of listed companies in the stock market . </S>",
+    "<S> these empirical results are meaningful in providing these topological properties of chinese stock market and economic sectors as well as revealing the interactively influence relationships among listed companies . </S>"
+  ]
+}

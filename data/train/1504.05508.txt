@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "the first generation stars formed in galaxies are composed almost entirely of hydrogen and helium .",
+    "when these stars evolve and return their nuclear - processed interiors to the interstellar medium ( ism ) , the enriched gas then present will be incorporated into future generation of stars .",
+    "the amount of the chemical elements observed today and the timescales over which the ism is being enriched with heavy metals are then , a function of many processes : the star formation rate ( sfr ) , the initial mass function ( imf ) , the rate of element production and eventual return to the ism via mass - loss and thresholds on the gas density for the star formation to proceed .",
+    "the synthesis of the chemical elements and their return to the ism are functions of lifetime and mass of stars .",
+    "as the physical conditions such as the surface density of gas in the galactic disk and the sfr vary throughout many galaxies , the observed / derived abundances are a function of position as well .",
+    "therefore , the precise measurement of the variation of chemical elements as a function of radius in the galactic disk ( i.e. the radial abundance gradient ) and the gradient s temporal variation over the disk s lifetime are essential to develop a complete picture of galactic evolution",
+    ".    stars numbering hundreds to thousands are born in rich open clusters ( ocs ) ( see for example , de silva et al .",
+    "many high - dispersion spectroscopic abundance analyses support the presence of chemical homogeneity among cluster members with a typical star - to - star abundance scatter of about 0.01 to 0.05 over many elements ( carretta et al .",
+    "2005 ; de silva et al .",
+    "2006 & 2007 ; pancino et al .",
+    "2010 , reddy et al .",
+    "2012 , hereafter paper i and reddy et al .",
+    "2013 , hereafter paper ii ) .",
+    "this implies that the ocs harbor coeval group of stars all formed in a single burst of star formation from a well mixed proto - cloud .",
+    "an oc facilitates the measurement of basic parameters like age , distance , kinematics and metallicity more accurately than for field stars .",
+    "the broad coverage of ages and galactocentric distances of these ocs make them powerful tracers to map the structure , kinematics , and chemistry of the galactic disk with respect to galactic coordinates and its evolution with time ."
+  ],
+  "abstract_text": [
+    "<S> we have observed high - dispersion echelle spectra of red giant members in the five open clusters ngc 1342 , ngc 1662 , ngc 1912 , ngc 2354 and ngc 2447 and determined their radial velocities and chemical compositions . </S>",
+    "<S> these are the first chemical abundance measurements for all but ngc 2447 . </S>",
+    "<S> we combined our clusters from this and previous papers with a sample drawn from the literature for which we remeasured the chemical abundances to establish a common abundance scale . with this homogeneous sample of open clusters , </S>",
+    "<S> we study the relative elemental abundances of stars in open clusters in comparison with field stars as a function of age and metallicity . </S>",
+    "<S> we find a range of mild enrichment of heavy ( ba@xmath0eu ) elements in young open cluster giants over field stars of the same metallicity . </S>",
+    "<S> our analysis succinct that the youngest stellar generations in cluster might be under - represented by the solar neighborhood field stars .    </S>",
+    "<S> [ firstpage ]     galaxy : abundances  galaxy : open clusters and associations  stars : abundances : general  open clusters : individual : ngc 1342 , ngc 1662 , ngc 1912 , ngc 2354 and ngc 2447 </S>"
+  ]
+}

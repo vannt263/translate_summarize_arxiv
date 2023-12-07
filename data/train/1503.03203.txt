@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "narrow - line seyfert 1 galaxy ( nls1 ) is a class of active galactic nuclei ( agn ) .",
+    "the width of optical emission lines is narrower than that of seyfert 1 galaxies , and nls1s do not exhihit strong x - ray absorption like seyfert 2 galaxy . in the x - ray spectrum , there is often a large soft - excess .",
+    "nls1s are identified by the following three characteristics .",
+    "1 .   fwhm ( h@xmath0 ) @xmath1 2000 kms@xmath2 ( goodrich 1989 ) 2 .   @xmath3oiii@xmath4 $ ] / h@xmath5 3 ( osterbrock & pogge 1985 ) 3 .",
+    "strong permitted fe ii emission lines ( boroson & green 1992 )    nls1s have a small - mass black hole , but its mass accretion rate is almost as high as eddington limit ( marconi et al .",
+    "we can study the evolution of supermassive black holes at the center of galaxies by observing nls1s .",
+    "most of nls1s are radio - quiet ( r @xmath1 10 , r : radio loudness , ratio of 5 ghz radio to b - band flux densities ) ( kellermann et al . 1989 ) , but  7 @xmath6 of nls1s are radio - loud ( r @xmath7 10 ) and  2.5 @xmath6 are very radio - loud ( r @xmath7 100 ) ( komossa et al",
+    ". 2006 ) , and they are called as radio - loud narrow - line seyfert 1 galaxies ( rl - nls1 ) .    with early fermi observation , gev gamma - ray emission has been discovered from pmn j0948 + 0022 , one of rl - nls1s ( abdo et al .",
+    "after that , gev gamma - ray emission was found from other three rl - nls1s ( abdo et al .",
+    "2009b ) , so it is found that rl - nls1s generally emit gev gamma - rays . from past observations ,",
+    "the multi - wavelength spectrum of rl - nls1 is similar to that of typical blazars ; the synchrotron emission in the lower energy band up to the optical band and the inverse compton scatterred x - ray and gamma - ray emission of low energy photons from disk , torus , and broad line region .",
+    "x - ray band is a transition region between the synchrotron and the inverse compton , and also there is a possible disk / corona emission .    as described above , x - ray emission mechanism of rl - nls1s is uncertain .",
+    "therefore , we studied the energy - dependence of time variability of the x - ray emission of a rl - nls1s 1h 0323 + 342 , which have been observed by suzaku in 2009 and 2013 .",
+    "fig.[lc13 ] is a light curve of 1h 0323 + 342 observed by suzaku in 2013 .",
+    "1h 0323 + 342 varies with a time scale of several ks , but the soft x - ray band below 1 kev shows a independent behavior from the other bands .",
+    "fig.[multi ] shows correlations of count rates between 23 kev and other bands . the lower energy below 2 kev and the higher energy above 7 kev show a different variability from the middle energy band , suggesting that there are at least two spectral components in the x - ray band .",
+    "first , we fit the x - ray spectrum of 1h 0323 + 342 with the absorbed power - law model , but there remain redisuals at the higher and lower energy region ( @xmath8 = 1017.26/528 ) and thus the spectrum is not a simple power - law shape ( fig . [ redisual ] ) .      to reduce the redisual in fig.[redisual ] , we added a broken power - law model this model of one hard power - law and one broken power - law represents a jet emission of inverse compton and synchrotron , respectively .",
+    "as in fig.[bkn09all ] and fig.[bkn13all ] , x - ray spectra can be fitted with this model for 2009 and 2013 ( table i ) .",
+    "the breaking energy becomes around 0.7 kev .",
+    ".fitting parameters of jet emission model in 2009 and 2013 [ cols=\"^,^,^,^,^,^ \" , ]     we also try to fit the spectra of two periods defined in fig [ lc13 ] with disk emission model , as jet emission model . as a result ,",
+    "a `` powerlaw '' component varied .",
+    "if disk model is correct , the variability is almost attributed to the disk / corona component and the reflection component is stable .",
+    "this behavior is similar to other seyfert galaxies .",
+    "we suggests that x - ray emission of 1h 0323 + 342 has at least two emission components , based on energy - dependence of time variability .",
+    "if the x - ray emission of 1h 0323 + 342 is dominated by jet emission , a variable component is a synchrotron , and it is similar to other blazers .",
+    "if the emission is dominated by disk / corona emission , disk / corona emission varies while disk reflection is stable , this is similar to seyfert galaxies .",
+    "we can not distinguish these two models by current data .",
+    "therefore an extensive study by astro - h observations with high energy resolution and good sensitivity in wide x - ray band is hopeful ."
+  ],
+  "abstract_text": [
+    "<S> 1h0323 + 342 is one of narrow - line radio - loud seyfert 1 galaxies ( rl - nls1 ) , which is a new class of gamma - ray emitting agns . </S>",
+    "<S> narrow - line seyfert 1 galaxies ( nls1 ) have a small - mass black hole , but its mass accretion rate is almost as high as eddington limit . </S>",
+    "<S> therefore , by observing nls1s , we can know the evolution of supermassive black holes at the center of galaxies . some of nls1s are radio - loud and we call them rl - nls1 . from past observations , </S>",
+    "<S> multi - wavelength spectrum of rl - nls1s is similar to that of typical blazars ; the synchrotron emission in the lower energy band up to the optical band , and inverse compton scattering of low energy photons from disk , torus , and broad line region . </S>",
+    "<S> x - ray band is a transittion region between the synchrotron and inverse compton , and also there is a possible disk / corona emission . </S>",
+    "<S> therefore , we studied the energy - dependence of time variability of the x - ray emission of 1h0323 + 342 , which have been observed by suzaku in 2009 and 2013 , in order to constrain the emission mechanism . </S>",
+    "<S> we found that the lower energy below 1 kev and the higher energy above 7 kev show a different variability from the middle energy band , indicating at least two emission components in the x - ray band . </S>",
+    "<S> x - ray spectrum is not a simple power - law , but requires an additional features ; a broken power - law plus flat hard component , or a power - law plus a relativistic reflection component . each spectral component seems to vary independently . </S>"
+  ]
+}

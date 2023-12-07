@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "ngc 1275 , also known as perseus a and 3c 84 , is the nearby active galaxy located at the center of the perseus cluster at redshift of @xmath3 ( ( * ? ? ? *",
+    "veron ( 1978 ) ) ) .",
+    "this object has been well studied in radio , optical / uv , x - ray and mev - gev emission ( ( * ? ? ?",
+    "* abdo  ( 2009 ) ) , , ( * ? ? ?",
+    "* acciari  ( 2009 ) ) ) .",
+    "recently , this source has been detected by magic telescopes with a statistical significance of @xmath4 above 100 gev in 46 hr of stereo observations carried out between august 2010 and february 2011 .",
+    "the measured differential energy spectrum between 70 gev and 500 gev can be described by a power law with a steep spectral index of @xmath5 , and the average flux above 100 gev is @xmath6 ( ) .",
+    "we propose a lepto - hadronic model to describe the whole sed as the superposition of synchrotron self - compton ( ssc ) emission and the neutral pion decay products .",
+    "fermi - accelerated electrons in the emitting region are described by a broken power - law written as : @xmath7 for @xmath8 , and @xmath9 for @xmath10 and co - accelerated protons at the same place for a simple power law as : @xmath11 , where @xmath12 is the power index for electrons ( protons ) and @xmath13 ( @xmath14 ) are the electron ( proton ) lorentz factors .",
+    "the index @xmath15 , @xmath16 and @xmath17 are for minimum , break and maximum , respectively . assuming that the emitting region is endowed by a magnetic field , electrons and protons are cooled down by electromagnetic ( synchrotron radiation and compton scattering ) and hadronic ( proton - photon interaction ) channels , respectively .",
+    "taking into account the cooling processes for electron and proton distributions , the observed spectra for electron synchrotron radiation , compton scattering and proton - photon interaction are ( ( * ? ? ? * fraija ( 2014a ) ) , ( * ? ? ?",
+    "* fraija  ( 2012 ) ) ) @xmath18 @xmath19 and @xmath20 respectively , where @xmath21 ( @xmath22 ) , @xmath23 ( @xmath24 ) , @xmath25 ( @xmath26 ) and @xmath27 ( @xmath28 ) are the proportionality constant and break energies for characteristic , cut - off and maximum of electron synchrotron ( compton scattering ) spectrum and @xmath29 and @xmath30 are the proportionality constant and break photon energy for photo - pion spectrum ( ( * ? ? ? * fraija ( 2014b ) ) ) .",
+    "it is important to highlight that the neutrino counterpart is calculated through @xmath31 , where the neutrino flux is dn@xmath32 , with @xmath33 .",
+    "we have presented a lepton - hadronic model through eqs .",
+    "[ espsyn ] , [ espsyn ] and [ pgamma ] to describe the broadband sed of ngc1275 . for the hadronic interactions we evoke the p@xmath0 interactions of fermi - accelerated protons with the target photons at the second ssc peak . to find the best fit of our leptonic and hadronic models , we use the method of chi - square ( @xmath34 ) minimization .",
+    "the fit values for the leptonic model are shown in table 1 and 2 while for hadronic model are @xmath35 and @xmath36 .",
+    "the leptonic model describes the photon spectrum up to a few gevs while the hadronic model up to hundreds of gevs .",
+    "the neutrino event expected in a km@xmath2 cherenkov telescope is @xmath37 per year ."
+  ],
+  "abstract_text": [
+    "<S> the nearby active galaxy ngc 1275 , has widely been detected from radio to gamma rays . </S>",
+    "<S> its spectral energy distribution ( sed ) shows a double - peak feature , which is well explained by synchrotron self - compton ( ssc ) model . </S>",
+    "<S> however , recent tev detections might suggest that very - high - energy @xmath0-rays ( e@xmath1100 gev ) may not have a leptonic origin . </S>",
+    "<S> we test a lepto - hadronic model to describe the whole sed through ssc emission and neutral pion decay resulting from p@xmath0 interactions . also , we estimate the neutrino events expected in a km@xmath2 cherenkov telescope . </S>"
+  ]
+}

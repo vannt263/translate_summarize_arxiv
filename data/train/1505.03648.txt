@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the all sky automated survey ( asas , @xcite ) project started in 1996 with the observations in the southern hemisphere aimed at classification and investigation about 10@xmath0 stars that show photometric variability in their light curves .",
+    "the observations were carried out with the ccd cameras having 4k and 2k resolutions in the @xmath1 and @xmath2 filters at the stations located in chile and hawaii .",
+    "the main scope of the survey was to form the asas catalog of variable stars ( acvs ) and 39000 new variables were discovered so far .",
+    "@xcite included ao  aqr into their catalogue of eclipsing binary stars .",
+    "they listed the fundamental parameters of the components and classified the system as f type with uncertainty . @xcite",
+    "categorized ao  aqr to be a contact binary system which mostly show ew and eb  type light curves in a statistical study of 1000 eclipsing binary systems .",
+    "@xcite determined the accurate position of the system by using the right ascension and declination values .",
+    "@xcite grouped the system as ew  type with an orbital period of 0.6984 and the spectral type of f. a variable classification catalogue based on the northern sky variability survey was published by @xcite .",
+    "the same authors classified the star as w  uma type with an orbital period , position and magnitude values in different filters .",
+    "the star cw  aqr was first mentioned as a variable by @xcite .",
+    "the author provided some basic properties of 115 variable stars and noted that cw  aqr is a binary system with a short orbital period .",
+    "the system was also classified as near ",
+    "contact binary with spectral type of a9 by @xcite .",
+    "@xcite included the system into their catalogue of eclipsing binaries .",
+    "the evolutionary status of the system was found to be near  contact showing eb - type light curve according to their classification .    although no other study focusing on the star asas  012206 - 4924.7 was available in the literature the fundamental parameters of the system ( orbital period , a time of minimum light and magnitude in the v filter )",
+    "were given by the asas database ( table  [ tablis ] ) .",
+    "the system is also included as eclipsing detached binary in the asas catalogue .",
+    "in this paper we present the details of the first analyses of the asas light curves in the next section .",
+    "the light elements and absolute parameters are given in sect .",
+    "we briefly discuss our results and the evolutionary properties of the systems in the last section .    [ cols=\"<,^,^,^,^\",options=\"header \" , ]",
+    "cu acknowledges financial support from the university of south africa ( unisa ) and the south african national research foundation ( nrf ) , grant no:87635 .",
+    "cu also wishes to thank prof .",
+    "greg cuthbertson , prof .",
+    "michele havenga and mr .",
+    "prince tatz nyoka for their valuable contribution to her research .",
+    "this research has made use of the simbad database , operated at cds , strasbourg , france .",
+    "brancewicz h.  k. , dworak t.  z. , 1980 , aca , 30 , 501 binnendijk l. , 1970 , va , 12 , 217 cox a.  n. , 2000 , asqu.book demartino r. , kocyla d. , predom c. , wetherbee e. , 1996 , ibvs , 4321 , 1 eggleton p.  p. , 1983 , apj , 268 , 368 flower p.  j. , 1996 , apj , 469 , 355 giuricin g. , mardirossian f. , mezzetti m. , 1983 , a&as , 54 , 211 girardi l. , bressan a. , bertelli g. , chiosi c. , 2000 , a&as , 141 , 371 hoffman d.  i. , harrison t.  e. , mcnamara b.  j. , 2009 , aj , 138 , 466 hilditch r.  w. , king d.  j. , mcfarlane t.  m. , 1988 , mnras , 231 , 341 hoffmeister c. , 1933 , an , 247 , 281 lucy l.  b. , 1968 , apj , 151 , 1123 malkov o.  y. , oblak e. , snegireva e.  a. , torra j. , 2006 , a&a , 446 , 785 pojmanski g. , 1997 , aca , 47 , 467 pra a. , zwitter t. , 2005 , apj , 628 , 426 ruciski s.  m. , 1969 , aca , 19 , 245 shaw j.  s. , 1994 , mmsai , 65 , 95 southworth j. , 2014 , arxiv , arxiv:1411.1219 stpie k. , gazeas k. , 2012 , aca , 62 , 153 van hamme w. , 1993 , aj , 106 , 2096 wenger m. , et al .",
+    ", 2000 , a&as , 143 , 9 wilson r.  e. , devinney e.  j. , 1971 , apj , 166 , 605 yildiz m. , doan t. , 2013 , mnras , 430 , 2029"
+  ],
+  "abstract_text": [
+    "<S> using the data from the public database of the all sky automated survey ( asas ) we performed the very first light curve analyses of the three eclipsing binary systems , and . </S>",
+    "<S> the physical parameters of the systems were determined by the phoebe @xcite software . from an analysis of the asas data </S>",
+    "<S> it was concluded that ao  aqr was found to be a contact binary system while cw  aqr and asas  012206 - 4924.7 were found to be near  contact and detached binaries , respectively . finally , the locations of the components , corresponding to the estimated physical parameters , in the hr diagram were also discussed .    </S>",
+    "<S> stars : binaries : eclipsing  stars : fundamental parameters  stars : individual : ( , , ) </S>"
+  ]
+}

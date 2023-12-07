@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "the noisy signal propagation through an optical fiber is governed by the following normalized stochastic nonlinear schrodinger equation ( snlse )  @xcite @xmath0 where @xmath1 , and @xmath2 is the electrical field propagation in the optical fiber .",
+    "the term @xmath3 is a standard circularly symmetric complex white gaussian noise , and @xmath4 is a small scalar .",
+    "because of the fiber nonlinearity and chromatic dispersion effect , signals from different users interfere with each other in multiuser communications .",
+    "recently , yousefi and kschischang  @xcite propose a new transmission scheme , called nonlinear frequency division multiplexing ( nfdm ) , with the help of the nonlinear fourier transform , in which the time domain nonlinear channel can be diagonalized in the ( nonlinear ) spectral domain ( composed by discrete spectrum and continuous spectrum ) into several linear scalar multiplicative channels that are independent of each other .",
+    "hence , interference free multiuser communication can be achieved at least in the noise free case , which provides a potential of increasing the data rate of communication .    however , modulating continuous spectrum is complicated because a set of integration equations need to be solved . as a result , @xmath5-solitons are of interest in optical fiber communications , which does not have continuous spectrum , and only have @xmath5 discrete eigenvalues on the upper half complex plane .",
+    "al  @xcite design a special sub - class of @xmath5-solitons , namely spatially periodic signals @xmath2 , as possible input signals for the nfdm , which maintain their shape periodically over @xmath6 . in this paper",
+    ", we restrict our input to be ( fundamental ) solitons , where @xmath7 .",
+    "although the time domain behavior of solitons with noise is known , the spectral domain analysis is lacking .",
+    "our motivation is to study how the noise contaminates the solitons in the spectral domain .",
+    "specifically , how are the eigenvalue and the spectral amplitude perturbed due to noise .",
+    "this work is of importance because the properties of the noise need to be understood in order to study the fundamental limit of reliably communication  @xcite .",
+    "we use a split - step nonlinear pulse propagation solver ( nppfs )  @xcite for solving the snlse .",
+    "uniformly distributed pseudo random numbers were generated on a computer and then transformed into gaussian noises .",
+    "the input of the simulation is an ideal fundamental soliton which follows the form of eq.([eq1 ] ) : @xmath8\\right\\ } e^{-2j\\alpha(z)t - j\\left\\{arg\\left[q(z)\\right]+\\frac{\\pi}{2}\\right\\ } } ,      \\label{eq2}\\ ] ] where @xmath9 and @xmath10 are the real and imaginary part of the eigenvalue and @xmath11 is the spectral amplitude .",
+    "we chose @xmath12 , @xmath13 , @xmath14 and @xmath15 for the initial values .",
+    "nonlinear curve fittings were applied on the amplitudes and the phases of the output pulses for variables @xmath9 , @xmath10 , @xmath16 and @xmath17 . due to",
+    "the existence of background noise in the fft window greatly influences the fitting results , only the range of data where @xmath18 where used .",
+    "same calculations were repeated 100 times for each @xmath4 .",
+    "the results of the simulations are shown in fig.[fig1 ] . the existence of the noise perturbs both real ( @xmath9 ) and imaginary ( @xmath10 ) part of the eigenvalues , which translates into the changes in the output solitons amplitudes and group velocities . as the noise increases , the fluctuations in both real and imaginary part of the eigenvalues increase .",
+    "however , the overall changes are relatively small considering @xmath19 corresponding to approximately 10% noise in the output pulse power .",
+    "furthermore , when the noise added is small ( @xmath20 ) , the fluctuation of the real and imaginary part of the eigenvalues are more or less evenly distributed around the mean values . as the noise increases , the distribution of the imaginary part of the eigenvalues shifts towards negative side , which corresponding to a decrease in soliton amplitude .",
+    "the reason for the decrease can be understood as the power transfer from the soliton to noise through nonlinear interactions as such cross - phase modulation and modulation instability  @xcite .",
+    "in this paper , we numerically study the noise contaminates the solitons in the nonlinear fourier domain .",
+    "evidences are found that the eigenvalues and the nonlinear spectral amplitudes are effected by the noise .",
+    "and the fluctuations in the eigenvalues and nonlinear spectral amplitudes increase with the increase of noise",
+    ". however , the absolute change in the eigenvalues and nonlinear spectral amplitudes is negligible and will not influence and implementation of the nonlinear frequency division multiplexing ."
+  ],
+  "abstract_text": [
+    "<S> in this work , how the noise contaminates signals propagating in an optical fibre is discussed in the nonlinear spectral domain after applying the nonlinear fourier transform . </S>",
+    "<S> simulation results about how the soliton parameters in the nonlinear spectral domain perturb is shown . </S>"
+  ]
+}

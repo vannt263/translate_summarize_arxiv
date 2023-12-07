@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "consider two probability distributions @xmath1 and @xmath2 defined on a common measurable space @xmath3 .",
+    "the csiszr - kemperman - kullback - pinsker inequality ( a.k.a .",
+    "pinsker s inequality ) states that @xmath4 where @xmath5 = \\int_{{\\ensuremath{\\mathcal}}{a } } \\text{d}p(a ) \\ , \\log \\frac{\\text{d}p}{\\text{d}q } \\ , ( a)\\end{aligned}\\ ] ] designates the relative entropy ( a.k.a .",
+    "the kullback - leibler divergence ) from @xmath1 to @xmath2 , and latexmath:[\\ ] ] _    see ( * ? ? ? * section  7.c ) .    _ a simple bound , albeit looser than the one in theorem  [ thm : ub - rd - tv - fs ] is @xmath113 which is asymptotically tight as @xmath114 in the case of a binary alphabet with equiprobable @xmath2 .",
+    "_    _ figure  [ figure : compare_ub_rd_finite_graph1 ] illustrates the bound in , which is valid for all @xmath83 $ ] ( see ( * ? ? ?",
+    "* theorem  23 ) ) , and the upper bounds of theorem  [ thm : ub - rd - tv - fs ] in the case of binary alphabets . _",
+    "the rnyi divergence @xmath21 for @xmath1 and @xmath2 which are defined on a binary alphabet with @xmath115 , compared to ( a ) its upper bound in , and ( b ) its upper bound in ( see ( * ? ? ?",
+    "* theorem  23 ) ) .",
+    "the two bounds coincide here when @xmath116.,width=370 ]",
+    "we derive in this paper some  reverse pinsker inequalities \" for probability measures @xmath117 defined on a common finite set , which provide lower bounds on the total variation distance @xmath118 as a function of the relative entropy @xmath32 under the assumption of a bounded relative information or @xmath57 .",
+    "more general results for an arbitrary alphabet are available in ( * ? ? ?",
+    "* section  5 ) .    in @xcite , we study bounds among various @xmath99-divergences , dealing with arbitrary alphabets and deriving bounds on the ratios of various distance measures .",
+    "new expressions of the rnyi divergence in terms of the relative information spectrum are derived , leading to upper and lower bounds on the rnyi divergence in terms of the variational distance .",
+    "the work of i. sason has been supported by the israeli science foundation ( isf ) under grant 12/12 , and the work of s. verd has been supported by the us national science foundation under grant ccf-1016625 , and in part by the center for science of information , an nsf science and technology center under grant ccf-0939370 .",
+    "i. sason , `` on the rnyi divergence and the joint range of relative entropies , '' _ proceedings of the 2015 ieee international symposium on information theory _ , pp .  16101614 , hong kong , june 1419 , 2015 .",
+    "m. tomamichel and v. y. f. tan , `` a tight upper bound for the third - order asymptotics for most discrete memoryless channels , '' _ ieee trans . on information",
+    "59 , no .  11 , pp .  70417051 ,",
+    "november 2013 .",
+    "s. verd , `` total variation distance and the distribution of the relative information , '' _ proceedings of the information theory and applications workshop _ , pp .",
+    "499501 , san - diego , california , usa , february 2014 ."
+  ],
+  "abstract_text": [
+    "<S> a new upper bound on the relative entropy is derived as a function of the total variation distance for probability measures defined on a common finite alphabet . </S>",
+    "<S> the bound improves a previously reported bound by csiszr and talata . </S>",
+    "<S> it is further extended to an upper bound on the rnyi divergence of an arbitrary non - negative order ( including @xmath0 ) as a function of the total variation distance .    </S>",
+    "<S> epsf    : pinsker s inequality , relative entropy , relative information , rnyi divergence , total variation distance . </S>"
+  ]
+}

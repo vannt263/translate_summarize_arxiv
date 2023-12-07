@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "one of many devices used to measure the beam emittance is a two - slit emittance scanner @xcite , which consists of two narrow slits separated by a distance @xmath0 ( fig .",
+    "[ fig : slits ] ) .",
+    "the beam is sent to the front slit of the scanner , which then cuts out a flat ` beamlet ' .",
+    "the transverse beamlet expands proportionally to its initial angular spread and is thus measured by moving the back slit , recording the current passing through both slits with a collector . repeating the measurement at various front and rear slit positions allows for reconstruction of a full phase space portrait and calculation of the beam emittance .",
+    "alternatively , in an allison scanner @xcite the beamlet is moved across the back slit , the position of which is fixed with respect to the front slit , by applying a transverse electric field along the beamlet trajectory .",
+    "if the quality of the electric field is good and effects of secondary particles are minor , both scanners give the same result and are affected by the slit size in an identical manner",
+    ".    effect of finite slit size is discussed in @xcite .",
+    "however , the formula derivation is not presented ( only referenced to a private communication ) , and the formula itself clearly has a typo because dimensions of terms in the sum differ .    in this paper , we derive formulae for this effect to be directly applied to measurements made with the allison - type emittance scanner at fermilab s pxie lebt @xcite .",
+    "consider a gaussian beam distribution with normalised phase density    @xmath1     + where @xmath2 and @xmath3 are twiss functions at the front slit and @xmath4 is the real emittance .",
+    "the beam phase portrait is measured by a scanner with two infinitely long slits , with width @xmath5 at the front and @xmath6 at the rear .",
+    "the measured emittance may be calculated for such a scanner , assuming that steps of slit motion are much smaller than all relevant dimensions i.e. summing can be replaced by integration .    at each step",
+    "the position of the slit centres are denoted as @xmath7 , @xmath8 and particle coordinates ( with respect to the slit centres ) as @xmath9 , @xmath10 , where indices 1 and 2 refer to the front and back slits respectively .",
+    "at a given step of measurement the portion of the beam that reaches the collector @xmath11 is determined by integration of eq .",
+    "[ eq : dist ] over the surface outlined in fig .",
+    "[ fig : ellipse ] .        to simplify calculations",
+    ", we can integrate over @xmath9 and @xmath10 :    @xmath12     + the sum @xmath13 , measured with steps @xmath14 and @xmath15 , can be approximated by the integral    @xmath16     + this form can be integrated analytically by changing the order of integration , followed by a substitution of variable ,    @xmath17     + the rightmost integral may then be solved using the identity found in eq .",
+    "[ eq : eu ] , leading to    @xmath18     + the same identity is again employed for the integral over @xmath7 , followed by definite integrals over @xmath9 and @xmath10 .",
+    "the final result is    @xmath19     + the integrals used to calculate the second moments are    @xmath20     + proceeding with integration similar to that in eqs .",
+    "[ eq : s0_arr ] and [ eq : s0_2 ] , and utilising the integration identities in eqs .",
+    "[ eq : ueu ] and [ eq : u2eu ] , the second moments are defined as    @xmath21     + finally , the reconstructed emittance and twiss functions from measured data are given by    @xmath22 \\right ) + \\frac{d_1 ^ 2 d_2 ^ 2}{9l^2 } \\quad , \\end{aligned}\\ ] ]    @xmath23     + the relations of eq .",
+    "[ eq : beta ] and [ eq : alpha ] for the measured twiss functions may be substituted into that of the measured emittance ( eq . [ eq : emit_m ] ) .",
+    "this conveniently gives the true emittance exclusively in terms of measured parameters :    @xmath24     + the error on the measured emittance due to a finite slit size is therefore    @xmath25     +",
+    "the results in @xcite differ from those derived in this paper by typos and a numerical coefficient in the expressions for @xmath26 and @xmath27 , as well as by the absence of the last term in eq .",
+    "[ eq : emit_m ] .",
+    "note that this term does not appear if the derivation is made by integration of the distribution in eq .",
+    "[ eq : dist ] , expanded near the location of the slits , as it requires slit sizes much smaller than the width of both beam and beamlet .    as a numerical example of the effect ,",
+    "the error in measured emittance estimated with eq .",
+    "[ eq : error ] using dimensions of the pxie allison scanner ( @xmath5 = 0.2  mm , @xmath6 = 0.5  mm , and @xmath0 = 118  mm ) , with typical beam parameters at the end of the pxie lebt ( @xmath26 = -0.56 rad , @xmath28 = 0.33 m , and @xmath27 = 14.4 mm mrad ) , is 3.2@xmath29 .",
+    "fermilab is operated by fermi research alliance , llc , under contract de - ac02 - 07ch11359 with the united states department of energy .",
+    "9    a. anders , e. chacon - golcher , _ time resolved emittance of a bismuth ion beam from a pulsed vacuum arc ion source _ , j. appl",
+    ". phys . * 93 * 2298 - 2300 ( 2003 )    p. allison , j. sherman , d. holtkamp , _ an emittance scanner for intense low - energy ion beams _ , trans .",
+    "* ns-30 * 4 ( 1983 )    o. r. sander , _ transverse emittance : its definition , applications , and measurement _ , aip conf . proc .",
+    "* 212 * 127 , p.143 ( 1990 )    r. darcy , et al . , _ distinct transverse emittance measurements of the pxie lebt _ , ibic14 conf .",
+    "proc , monterey , usa , * tupd01 * ( 2014 )"
+  ],
+  "abstract_text": [
+    "<S> parallel slit - slit devices are commonly used to measure the transverse emittance of a particle beam , selecting a portion of the beam with the front slit and measuring the angular distribution with the rear . </S>",
+    "<S> this paper calculates the effect of finite slit sizes on measured emittance and twiss functions in the case of gaussian spatial and angular distributions of the oncoming beam . a formula for recovering the true emittance from the measured values is derived . </S>"
+  ]
+}

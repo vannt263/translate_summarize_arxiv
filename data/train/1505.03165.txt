@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "blazars spend a fraction of their time in a lowest steady flux level , called baseline state and another fraction in flaring states .",
+    "the duty cycle is the percentage of time that the source spends in flaring states .",
+    "* abdo et al . ( 2014 ) ) presented an estimation of the duty cycle above 1 tev ( @xmath1 ) of mrk 421 for different flare flux thresholds and compared their results with the x - ray duty cycle @xmath2 estimated by .",
+    "if only the leptonic synchrotron self- compton ( ssc ) process occurred , we should expect that @xmath2 is similar to the @xmath1 , since in this framework synchrotron x - ray photons are always up scattered by relativistic electrons to vhe . instead , ( * ? ? ?",
+    "* abdo et al . ( 2014 ) ) have shown that , for flares with a flux above 3 standard deviations from the baseline flux ( @xmath3 ) , @xmath4 is greater than @xmath2 , suggesting the possible presence of emission processes additional to the ssc , for instance hadronic processes . if we consider that both leptonic and hadronic processes are responsible for the tev flares , we can write the @xmath4 as the sum of the leptonic and hadronic components ( @xmath5 and dc@xmath6 ) : @xmath7 where @xmath8 is the total observation period . therefore , we can estimate @xmath9 . to calculate @xmath10 we consider @xmath11 crab , corresponding to the mean of the gaussian function describing the baseline state of mrk 421 ( ) . for this value of @xmath3 , @xmath12 ( ( * ? ? ?",
+    "* abdo et al . 2014 ) ) , while estimated @xmath13 .",
+    "therefore , we have @xmath14 .",
+    "assuming that the tev gamma - ray spectrum of mrk421 is produced by the interaction of fermi - accelerated protons with ssc photons , a neutrino counterpart is expected .",
+    "in particular for each p@xmath15 interaction we have gamma - ray production through @xmath16 and neutrino production through @xmath17 .",
+    "the spectral indices of neutrino and gamma - ray spectra are considered similar @xmath18 while the carried energy is slightly different : each neutrino brings 5@xmath19 of the initial proton energy ( @xmath20 ) while each photon brings around 16.7@xmath19 . with these considerations",
+    "the normalization factor of neutrino spectrum @xmath21 is related to the normalization factor of gamma - ray spectrum @xmath22 through @xmath23 . extending the spectrum of expected neutrino to maximum energies detectable by a km@xmath0 cherenkov detector array ,",
+    "we can obtain the number expected neutrino events detected as : @xmath24 where @xmath25 is the avogadro number , @xmath26 is the density of environment for the neutrino telescope , @xmath27 and @xmath28 are the low and high energy threshold considered , @xmath29 is the @xmath30 effective volume , obtained through monte carlo simulation , for a hypothetical km@xmath0 neutrino telescope considering the neutrino source at the declination of mrk421 . in fig .",
+    "[ sigtonoisenu ] we can see the signal to noise ratio for one year of data - taking . as a signal we consider the neutrinos obtained assuming the gamma - ray spectrum of mrk421 veritas high state ( ( * ? ? ?",
+    "* acciari et al . 2001 ) ) , taking into account the @xmath10 estimated in the previous section , while the `` backgrounds '' are represented by the atmospheric and cosmic neutrinos reconstructed in @xmath31 around mrk421 . with a @xmath14 more than one decade of observation is needed for a km@xmath0 neutrino telescope like icecube to see a neutrino track - event related to the hadronic component of mrk421 high states ."
+  ],
+  "abstract_text": [
+    "<S> markarian 421 ( mrk 421 ) is one of the brightest , fastest and closest bl lac object known . </S>",
+    "<S> its very high energy ( vhe ) spectrum has been successfully modeled with both leptonic and hadronic models and not conclusive results have been achieved yet about the origin of its vhe emission . here </S>",
+    "<S> we investigate the possibility that a fraction of the vhe flares of mrk 421 are due to hadronic processes and calculate the expected neutrino flux associated . </S>",
+    "<S> we introduce the obtained neutrino flux in a monte carlo simulation to see the expectation for a km@xmath0 cherenkov neutrino telescope . </S>"
+  ]
+}

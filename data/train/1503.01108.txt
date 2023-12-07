@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "star formation drives the evolution of galaxies , and the material from which stars form constantly cycles in and out of the interstellar medium ( ism ) . within this process , neutral hydrogen ( hi ) represents a crucial transitionary stage between supernovae - expelled plasma and dense star - forming gas .",
+    "consequently , the presence and influence of radiative and dynamic physical processes in the ism are imprinted in the mass distribution of hi as a function of temperature and density .",
+    "observational constraints over the full range of temperature and density are therefore necessary for realistic heating , cooling and feedback prescriptions within accurate models of star formation and galaxy evolution on all galactic scales ( e.g. bryan et al.2007 , governato et al.2010 , ostriker et al.2010 , hill et al.2012 , christensen et al.2012 ) .",
+    "analytical models of heating and cooling in the ism predict the existence of two neutral hi phases the cold neutral medium ( cnm ) and the warm neutral medium ( wnm) each in thermal equilibrium ( e.g. , pikelner 1968 , field et al.1969 , mckee & ostriker 1977 ) .",
+    "mckee & ostriker ( 1977 ) and wolfire et al.(2003 ) predict that the two phases should be mostly in thermal equilibrium , with the cnm dominating and the wnm comprising only a few percent of the total hi column density . over the range of pressures for which the two stable phases can coexist , @xmath7",
+    ", we theoretically expect a volume density ( @xmath8 ) and kinetic temperature ( @xmath9 ) of @xmath10@xmath11 , 40@xmath12 ) for the cnm , and @xmath13@xmath14 , @xmath15@xmath16 ) for the wnm @xcite . within the high - density cnm , collisions between electrons , ions and other h atoms can thermalize the 21-cm transition so that @xmath17 . on the other hand , within the low - density wnm , collisions are not sufficient to thermalize the transition , and therefore it is widely expected that @xmath18 ( e.g. field et al.1958 , deguchi & watson 1985 , liszt 2001 ) .",
+    "in addition , the presence of hi in the intermediate , thermally unstable regime between the cnm and wnm has a range of theoretical implications .",
+    "dynamical processes are required to maintain this unstable material , as thermal pressure alone is not sufficient to force gas across extreme density boundaries ( cox et al.2005 ) .",
+    "shocks driven by supernovae into turbulent , magnetized gas create dense cnm clouds within a multiphase medium , where the fraction of thermally unstable gas is determined by the supernova rate ( koyama & inutsuka 2002 , maclow et al.2005 ) .",
+    "audit & hennebelle ( 2005 ) showed that turbulent flow collisions produce unstable fractions of 10 - 30% , depending on the amount of turbulence injected .",
+    "modeling collisions of wind - blown superbubbles , ntormousi et al.(2011 ) found most gas in cold clumps , with only 8 - 10% thermally - unstable wnm by mass . in another colliding flow model , clark et al.(2012 ) showed that the initial flow speed , including a time - dependent chemical network , has a huge effect on the resulting fractions of cold and warm gas . clearly , observational constraints of the wnm properties and the full temperature distribution over @xmath19@xmath20 are important to constrain the role of self - gravity , turbulence , and large - scale gas flows in models of the ism , as well as to guide initial conditions for numerical simulations .           0.1 in @xmath21 : the rms noise calculated in the residuals of the bandpass solution _ after _ removing the ripple model .",
+    "+ @xmath22 : calculated using the periodogram analysis of the solution ( i.e. these are the parameters of the dominant component ) + @xmath23 : starting channel of a new period nearest to the center of the solution .      to minimize noise levels in bandpass ( bp ) solutions , we combine bandpass observations acquired at different times . to compare noise levels in the bp solutions from the original observation and the combined observations , we first model and",
+    "remove the 59 khz ripple present in all solutions .",
+    "figure  [ f : f1 ] shows an example of the modeling process . a zoom - in onto a bandpass solution from one observation of 3c147 ( 33 min integration ) is shown in the top left panel , with the ripple model overlaid in red .",
+    "the top right panel displays the residuals following the removal of the ripple model , from which the noise in the bandpass solution is computed .",
+    "the bottom panels are the same , after adding an additional observation of 3c147 from 4 days later ( for a total of 33 + 30=63 min integration ) .",
+    "we expect the noise in the bandpass solution to decline according to the factor of increase in integration time given by the ideal radiometer equation , or by @xmath24 .",
+    "for example , from figure 15 , for an increase in integration time of @xmath25 , we expect an improvement in noise by a factor of @xmath26 .",
+    "the improvement in noise is @xmath27 .    in figure",
+    "[ f : f2 ] we show the rms noise in the bandpass solution ( computed after removing the ripple ) as a function of @xmath28 for several different observations ( symbols ) .",
+    "the solid line displays a fit to the data points , which is linear in log space with a slope of @xmath29 .",
+    "this is nearly equal to the theoretically expected fit index of @xmath30 ( e.g. a noise decrease by factor of @xmath24 ) .",
+    "this result is highly encouraging , as it demonstrates that vla bandpass solutions at this resolution from different days are stable enough to be combined to increase the sensitivity of observations while significantly saving observing time , which is especially useful for very deep observations .      in this process , we are able to combine observations of different sources . in figure",
+    "[ f : f2 ] , the green triangles are from a trial combining observations of the sources 3c410 ( @xmath31 ) and 3c454.3 ( @xmath32 ) as bandpass calibrators .",
+    "the other three cases are combinations of observations of the same bandpass calibrators , 3c147 ( @xmath33 ) and 3c286 ( @xmath34 ) between several days .",
+    "these examples represent a common trend in our results .    in later observations , we experimented with including additional 0.5 mhz subbands spaced @xmath35 mhz from the hi line .",
+    "we found that combining these subbands does not significantly improve the noise in the bandpass solution ."
+  ],
+  "abstract_text": [
+    "<S> we present methods and results from  21-cm spectral line observations of neutral gas with the evla \" ( 21-sponge ) , a large survey for galactic neutral hydrogen ( hi ) absorption with the karl g. jansky very large array ( vla ) . with the upgraded capabilities of the vla , we reach median root - mean - square ( rms ) noise in optical depth of @xmath0 per @xmath1 channel for the 31 sources presented here . upon completion </S>",
+    "<S> , 21-sponge will be the largest hi absorption survey with this high sensitivity . </S>",
+    "<S> we discuss the observations and data reduction strategies , as well as line fitting techniques . </S>",
+    "<S> we prove that the vla bandpass is stable enough to detect broad , shallow lines associated with warm hi , and show that bandpass observations can be combined in time to reduce spectral noise . in combination with matching hi emission profiles from the arecibo observatory ( @xmath2 angular resolution ) , </S>",
+    "<S> we estimate excitation ( or spin ) temperatures ( @xmath3 ) and column densities for gaussian components fitted to sightlines along which we detect hi absorption ( 30/31 ) . </S>",
+    "<S> we measure temperatures up to @xmath4 for individual lines , showing that we can probe the thermally unstable interstellar medium ( ism ) directly . </S>",
+    "<S> however , we detect fewer of these thermally unstable components than expected from previous observational studies . </S>",
+    "<S> we probe a wide range in column density between @xmath5 and @xmath6 for individual hi clouds . </S>",
+    "<S> in addition , we reproduce the trend between cold gas fraction and average @xmath3 found by synthetic observations of a hydrodynamic ism simulation by kim et al.(2014 ) . </S>",
+    "<S> finally , we investigate methods for estimating hi @xmath3 and discuss their biases . </S>"
+  ]
+}
