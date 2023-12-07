@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "recent discoveries of unconventional electronic behaviour  such as high-@xmath2 superconductivity in the cuprates or colossal magnetoresistance in the manganates  have focused scientific interest on the transition metal oxides . to understand the properties of metallic oxides , it is important to probe the validity of the fermi liquid picture and , if possible , to infer the shape of the fermi surface and other quasiparticle properties .",
+    "measurement of the quantum - oscillatory part of the magnetization  the de  haas - van  alphen ( dhva ) effect  is the most direct way to obtain such information .",
+    "however , these investigations are difficult as the materials in question are frequently non - stoichiometric and are often only available as very small crystallites .",
+    "in particular , sr@xmath0ruo@xmath1  has aroused great interest as the only known superconductor with the same ( layered perovskite ) crystal structure as the high-@xmath2 cuprates but without copper.@xcite moreover , it represents a possible candidate for p - wave superconductivity.@xcite sr@xmath0ruo@xmath1  is one of the very few complex materials for which there is a good prospect that a deeper physical understanding will soon be achieved .",
+    "high - purity stoichiometric crystals can be prepared , and its normal state fermi surface is known to be `` quasi-2d '' , consisting of three slightly warped cylindrical sheets.@xcite    here , we reexamine the dhva effect in sr@xmath0ruo@xmath1  using piezolever torque magnetometry : a new and ultra - sensitive technique which is especially suited for small microcrystals of anisotropic materials .",
+    "it was possible to obtain _ absolute _ estimates for the quantum - oscillatory magnetization on all three fermi surface sheets .",
+    "the torque interaction effect and its remarkable manifestation in the `` overcritical '' case will also be discussed .",
+    "the fundamental frequency of the quantum - oscillatory torque density ( magnetic torque per unit volume ) corresponding to a fermi surface cylinder in a quasi-2d metal is@xcite @xmath3 where @xmath4 is the magnetic field which is applied at an angle @xmath5 to the low conductivity axis , @xmath6 is the brillouin zone height ( i.e.  the length of the cylinder ) , @xmath7 the on - axis quasiparticle mass , and @xmath8 the dhva frequency corresponding to the on - axis fermi cylinder cross - section @xmath9 via .",
+    "the number @xmath10 represents the damping factors related to finite temperature , sample inhomogeneity , spin - splitting , and the warping of the cylinder.@xcite    to record this small torque , we have employed piezoresistive microcantilever torque magnetometry as shown in fig .",
+    "[ simplelever ] .",
+    "this technique was pioneered only recently;@xcite we successfully implemented it at low temperatures and achieved quantum - oscillatory moment sensitivities of at 150mk in a 17 t field.@xcite    = 6.5 cm    a small high - quality sr@xmath0ruo@xmath1  crystal ( @xmath11 , residual resistivity about 0.6@xmath12 cm ) , prepared in a floating zone image furnace , was mounted on a piezolever@xcite of dimensions . a second ( empty )",
+    "piezolever was used for background compensation in a wheatstone bridge circuit , driven by a 50na amplitude ac current through each lever .",
+    "temperatures of 150mk were achieved on a dilution cryostat during field sweeps from 18 t to 15 t .",
+    "the output signal and its dhva spectrum for a sweep close ( ) to the @xmath13-axis is shown in fig .",
+    "all dhva frequencies observed in the original study@xcite ( which employed the standard field modulation technique ) were reproduced with piezolever torque magnetometry .",
+    "one can extract the _ absolute _ quantum - oscillatory magnetization , and we estimate 460a / m , 200a / m , and 30a / m , respectively , as the dhva amplitudes ( at , , and ) for the @xmath14 , @xmath15 , and @xmath16 sheets  to within a factor of two . these values are in agreement with eq .",
+    "( [ lkm ] ) .",
+    "for off - axis fields , the magnetization signal is affected by the torque interaction effect which is due to the feedback of the oscillating magnetic moment on the position of the lever in the field.@xcite as a result , the apparent magnetization profile gets sheared , and harmonics and sidebands are introduced to the dhva spectrum . fortunately , this effect can be compensated through numerical treatment of the experimental data . for large @xmath5 and high fields , however , the effect becomes strong enough ( `` overcritical '' ) to produce discrete jumps in the magnetization and hence in the position of the lever , see fig .",
+    "[ tioverlay ] .",
+    "although observed previously in arsenic,@xcite this remarkably macroscopic manifestation of an inherently quantum phenomenon was visible in our experiments at unprecedented strength .",
+    "the `` sproing '' effect at the magnetization jumps  when the lever snaps into its new equilibrium position  was also recorded with a high - speed voltmeter : the lever movement turned out to be near - asymptotically damped by eddy currents .",
+    "this casts some doubt on the practicability of proposed `` dynamic mode '' piezolever measurements,@xcite at least on metallic samples .",
+    "in conclusion , piezolever torque magnetometry measurements have been able to reproduce the quantum - oscillatory magnetization data on all three fermi surface sheets of the layered perovskite oxide superconductor sr@xmath0ruo@xmath1 .",
+    "moreover , they provide an absolute estimate of the amplitude of the oscillation .",
+    "this introduces the piezolever technique as an interesting alternative to conventional methods for dhva experiments on anisotropic compounds if these are only available as microcrystals  a common situation for complex modern materials .",
+    "we also investigated the phenomenon of torque interaction which distorts the magnetization signal and introduces harmonics and sidebands to the dhva spectrum .",
+    "as torque interaction grows in strength , it leads to irreversibility effects and discrete magnetization jumps : a near - asymptotically damped `` sproing '' effect ."
+  ],
+  "abstract_text": [
+    "<S> sr@xmath0ruo@xmath1  is the only known layered perovskite oxide superconductor without copper ; there is strong evidence for an unconventional ( `` p - wave '' ) pairing mechanism , and it has recently been shown to possess a cylindrical , `` quasi - two - dimensional '' fermi surface . using sr@xmath0ruo@xmath1  as a test case for the detection of quantum oscillations with piezoresistive microcantilevers , </S>",
+    "<S> the piezolever torque magnetometry technique was successfully implemented on a dilution refrigerator . </S>",
+    "<S> it was possible to reproduce the quantum - oscillatory magnetization data on all three fermi surface sheets , in a crystal of microgram mass . </S>",
+    "<S> moreover , an absolute estimate of the amplitude of the oscillation is provided . </S>",
+    "<S> we also investigated the phenomenon of torque interaction which distorts the magnetization signal and introduces harmonics and sidebands to the dhva spectrum . </S>",
+    "<S> as the torque interaction effect grows in strength , overcriticality is shown to lead to discrete magnetization jumps and to a near - asymptotically damped `` sproing '' effect . </S>"
+  ]
+}

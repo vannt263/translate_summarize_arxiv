@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "it is well known that the decay of @xmath3 into two pions violates cp .",
+    "such a violation can have two contributions : one , indirect , associated to @xmath3 mixing and another , direct , coming from the decay amplitude .",
+    "the amount of direct cp violation in this decay is parametrized by the parameter @xmath2 , which can be computed in the framework of the standard electro - weak - model , albeit with large theoretical uncertainties .",
+    "typical theoretical predictions of @xmath2 varies from few @xmath4 to about @xmath5 , even though with large exceptions .",
+    "+ @xmath2 is connected to the double ratio of decay rates according to the following formula : @xmath6 in order to exploit the cancellation in the double ratio of systematic uncertainties , the experimental apparatus consists of two concurrent and almost co - linear beams , one providing the experiment with @xmath7 decays and the other one with @xmath8 decays and the @xmath1 to @xmath9 decays are reconstructed in the same decay region .",
+    "a tagging station is devoted to identify the @xmath1 decay as a @xmath8 or a @xmath7 decay . in 2002 na48",
+    "has published @xcite the final result of the measurement : @xmath10 it is the most precise measurement ever done as shown in fig.[eoe ] .",
+    "the world average value is also reported together with the uncertainty ( yellow band ) .    ) [ eoe ] _ ]",
+    "the radiative kaon decays are ideally suited to test the validity of the chiral perturbation theory ( @xmath11 ) .",
+    "the processes may be described in a perturbative expansion of momenta : @xmath12 .",
+    "examples of this type are @xmath13 and @xmath14 . in both cases",
+    "there is no contribution from the @xmath15 term , while the @xmath16 contribution is predicted to better than 5@xmath17 by @xmath11 .",
+    "na48 has measured @xcite,@xcite : @xmath18 @xmath19 the value of @xmath20 deviates from @xmath16 prediction and indicates a large @xmath21 contribution . the @xmath16 contribution to @xmath14 turns out to be also an underestimation of the decay rate .",
+    "anyway at @xmath21 the rate may be reproduced by adding a contribution from the vdm mechanism , via the coupling constant @xmath22 that na48 has measured to be : @xmath23",
+    "the target used for the production of @xmath1s is also a huge source of hyperons . by using the small fraction of hyperons that passed",
+    "the standard triggers in the previous years , the na48 collaboration has already published results on hyperon physics @xcite : @xmath24mev / c^{2}\\ ] ] @xmath25\\times 10^{-3}\\ ] ] @xmath26\\times 10^{-3}\\ ] ] in the 2002 special triggers have been dedicated to hyperon decays and na48 claims main achievements to :    1 .",
+    "study form factors and flavor symmetry violations in the @xmath27 decays ; 2 .   give an alternative measurement of @xmath28 ( ckm parameter ) using @xmath29 ( and @xmath30 ) beta decay instead of kaon beta decays .",
+    "99 cern geneva - cern - spsc-90 - 22 phys.lett.b317:233-242,1993 phys.rev.d55:6625-6715,1997 phys.lett.b544:97-112,2002 phys.lett.b551:7-15,2003 cern - ep/2002 - 030 - hep - ex/0205010 eur.phys.j.c,12:69-76,2000"
+  ],
+  "abstract_text": [
+    "<S> we report relevant results from na48 experiment at cern sps . </S>",
+    "<S> na48 was proposed in 1990 @xcite to study direct cp violation in @xmath0 to a level of accuracy sufficient to resolve the inconclusive status left by the previous measurements performed by na31 @xcite and e731 @xcite . in 2002 </S>",
+    "<S> na48 published the final result @xcite . </S>",
+    "<S> small modification to the experimental setup have allowed na48 to go forward with an extensive investigation of @xmath1 rare decays and hyperon decays . </S>",
+    "<S> some results are already available and reported here together with the final cp violation measurement .    </S>",
+    "<S> = 14.5pt </S>"
+  ]
+}

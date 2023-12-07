@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "the dynamical systems approach @xcite has been used with great success over the last 30 years , to a gain ( qualitative ) description of the global dynamics of cosmological models .",
+    "this method provides a useful tool for finding exact solutions which correspond to fixed points of the system .",
+    "carloni _ et al _ @xcite have recently used this method to study the dynamics of @xmath0-theories in friedmann - lematre - robertson - walker ( flrw ) universes .",
+    "clifton and barrow @xcite used the dynamical systems approach to determine the extent to which exact solutions can be considered as attractors of spatially flat universes at late times .",
+    "they compared the predictions of these results with a range of observations and argued that the parameter @xmath1 in flrw may only deviate from gr by a very small amount ( @xmath2 ) .",
+    "the main aim of this paper @xcite is to see how the shear behaves in lrs bianchi i cosmologies in @xmath0- gravity and whether these models isotropises at early and late times . to achieve this goal we use the theory of dynamical systems @xcite to analyse the system of equations governing the evolution of this model with and without matter",
+    "the cosmological equations that we require for our analysis are : @xmath3 where @xmath4 is the volume expansion and @xmath5 is the shear ( @xmath6 ) .    in order to convert the above equations into a system of autonomous first order differential equations , we define the following set of expansion normalised variables ; @xmath7 whose equations are @xmath8 , \\nonumber \\\\ & & z ' = z\\left",
+    "[ 2z-(1 + 3w)-3x-\\frac{2y}{n-1}+4\\sigma\\right ] , \\nonumber\\\\ & & 1-\\sigma+x - y - z=0 , \\nonumber\\end{aligned}\\ ] ] where primes denote derivatives with respect to a new time variable @xmath9 .",
+    "the solutions associated to the fixed points can be obtained from : @xmath10 under the condition that @xmath11 and the terms inside the brackets of , do not add up to zero , these equations may be integrated to give the following solutions @xmath12    in terms of our expansion normalised variables , the energy density is given by @xmath13 from this relation it can be seen that when @xmath14 and @xmath15 the energy density is zero .",
+    "however when @xmath16 and @xmath17 the behaviour of @xmath18 does depend on the value of @xmath1 . in this case the energy density is zero when @xmath19 but is divergent when @xmath20 .",
+    "when both @xmath21 and @xmath22 are equal to zero and @xmath20 , one can only determine the behaviour of @xmath18 by direct substitution into the cosmological equations .",
+    "the vacuum case is characterised by @xmath14 . in this case",
+    "we can obtain the fixed points of by setting @xmath23 and @xmath24 .",
+    "we find one isotropic fixed point ( @xmath25 and a line of fixed points ( @xmath26 , with non - vanishing shear .",
+    "the isotropic fixed point is an attractor ( stable node ) for values of the parameter @xmath1 in the ranges @xmath27 , @xmath28 and @xmath29 . in the range",
+    "@xmath30 this point is a repeller ( unstable node ) and therefore may be seen as a past attractor .",
+    "however , we also have attractors for @xmath31 on @xmath32 .",
+    "therefore inflation may not be needed since the shear anisotropy approaches a constant value which may be chosen as the expansion normalised shear observed today@xcite ( @xmath33 ) , provided that other observational constraints such as nucleosynthesis are satisfied .    the phase space is divided into two regions by the line @xmath34 , which represents all points for which the shear dissipate at the same rate as in gr .",
+    "the region @xmath35 represents a _ fast shear dissipation _",
+    "( fsd ) regime where shear dissipates faster than in gr , and the region @xmath36 , is a _",
+    "slow shear dissipation _ ( ssd )",
+    "regime where the shear dissipates slower than in gr ( see figure 1 ) .",
+    "# 1    ( # 1 )      setting @xmath23 , @xmath24 and @xmath37 we obtain three isotropic fixed points and a line of fixed points with non - vanishing shear .",
+    "we observe the same kind of behaviour as in the vacuum case ; the phase space is however 3-dimensional , but is similarly divided into two regions , by the plane @xmath38 .",
+    "the space above the plane is a ssd region and below a fsd region .",
+    "in conclusion we have shown that @xmath0- gravity modifies the dynamics of the shear in lrs bianchi i cosmologies by altering the rate at which the shear dissipates .",
+    "there are cases in which the shear always dissipates slower or faster than in gr , and there are ones which make the transition from first evolving faster and then slower ( and _ vice versa _ ) than in gr ."
+  ],
+  "abstract_text": [
+    "<S> we consider the case of @xmath0-gravity and perform a detailed analysis of the dynamics in bianchi i cosmologies which exhibit _ local rotational symmetry _ </S>",
+    "<S> ( lrs ) . </S>",
+    "<S> we find exact solutions and study their behaviour and stability in terms of the values of the parameter @xmath1 . </S>",
+    "<S> in particular , we found a set of cosmic histories in which the universe is initially isotropic , then develops shear anisotropies which approaches a constant value . </S>"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "in the di - lepton channel top anti - top quark pairs decay via @xmath0 followed by @xmath1 we can identify and measure the @xmath2-momenta of the jets - jets ] and the charged leptons .",
+    "the two neutrinos in the event remain undetected .",
+    "the vector sum of their transverse momenta can be inferred from the observed missing @xmath3 this leaves us with @xmath4 observables @xmath5 out of @xmath6 values @xmath7 needed to describe the six particle final state . in order to constrain the @xmath8 kinematics , three additional constraints on the invariant masses of final state particle combinations",
+    "are introduced : + @xmath9 + @xmath10 + in the end the set of equations are still under - constrained by one equation .",
+    "extraction of the mass of the top quark by kinematic reconstruction is therefore not possible .",
+    "this analysis was developed during run i@xcite .",
+    "ideally we would like to calculate the probability to measure the @xmath4 observables @xmath5 , given the top quark mass @xmath11 @xmath12 is the probability density function ( _ pdf _ ) for measuring @xmath5 given the @xmath6 final state parameters @xmath13 for a hypothetical @xmath14 and for the parton ( anti - parton ) momentum fraction @xmath15 here @xmath16 @xmath17 is the proton ( anti - proton ) parton distribution function and @xmath18 is the matrix element for the process .",
+    "a hypothetical value of @xmath14 is used as the last constraint .",
+    "we then obtain up to @xmath2 real solutions for the @xmath19 and @xmath20 momenta@xcite .",
+    "there is a two - fold combinatoric ambiguity in pairing the charged leptons and @xmath21-jets . as a result up",
+    "to eight solutions of the neutrino momenta are possible . instead of rigorously computing the _ pdf _ in equation  [ evt_pdf ] , event weights@xcite@xcite are used to characterize the physics . in this poster",
+    "we calibrate the effect of this simplification by comparing the measured mass of the top quark obtained from the likelihood fits to simulated events , versus the value used in their generation .    for every event , a weight @xmath22 which is a function of the hypothesized mass of the top quark @xmath23 is derived@xcite@xcite@xcite that corresponds to the @xmath24 neutrino momentum solution .",
+    "the event weight @xmath25 represents the likelihood to observe the event for a given @xmath11 here @xmath26 is the probability density function for the energy of the charged lepton to be @xmath27 in the rest frame of the top quark of mass @xmath14@xcite .",
+    "the quantity @xmath28 is the analogue for the anti - top quark . with @xmath29 solutions for the neutrino",
+    "momenta the total event weight @xmath30 is defined as : @xmath31    the value of @xmath14 at which the weight curve peaks is used as the mass estimator in the analysis .",
+    "( right )  template constructed from peak values obtained from many events each having input @xmath32 gev.,title=\"fig:\",height=188 ]   gev .",
+    "( right )  template constructed from peak values obtained from many events each having input @xmath32 gev.,title=\"fig:\",height=188 ]    all simulated events are first filtered using the same criteria as for data events@xcite .",
+    "figure  [ peak_plots](left ) shows the weight curve for a simulated event with input @xmath33 @xmath34 gev .",
+    "the peak values from many events generated with the same @xmath14 are binned into histograms to construct templates , one of which is shown in figure  [ peak_plots](right ) .",
+    "it is not possible to generate mc events with continuously varying input @xmath11 seven distinct @xmath14 values are used to generate the signal mc template distributions from @xmath35 gev to @xmath36 gev .",
+    "templates representing contamination from background processes are also constructed and then added to the signal templates in the proportion of the expected background@xcite .",
+    "normalized templates represent the likelihood of observing the particular event if the mass of the top quark equals @xmath11    sets of eight mc events are used to construct simulated experiments data@xcite . ] .",
+    "a binned maximum likelihood fit is performed for each such ensemble using the template distributions .",
+    "one such fit to ensemble events is illustrated in figure  [ calib_plots](left ) .",
+    "many different ensembles are constructed , and the exercise is repeated many times to obtain a distribution of maximum likelihood estimates ( mles ) as in figure  [ calib_plots](center ) .",
+    "the mean of this distribution yields the mean fitted estimate of @xmath14 . repeating the same exercise for different input mc @xmath14 yields values which can be used to check the performance of the method . a straight line parameterized as : +    @xmath37 @xmath38     +",
+    "gives the best fit to the ensemble test results for @xmath39 and @xmath40 gev .",
+    "this fit to the set of points , shown in figure  [ calib_plots](right ) , is consistent with a straight line of unit slope and @xmath34 gev offset .",
+    "the calibration of this method verifies its performance , and indicates absence of bias in the method .",
+    "i would like to thank the d  collaboration for the opportunity to present this work at pic-2004 , and in particular my thesis adviser , professor ulrich heintz , for his guidance ."
+  ],
+  "abstract_text": [
+    "<S> we present a method for extracting the mass of the top quark from the di - lepton decays of top anti - top quark pairs . in this decay channel </S>",
+    "<S> two neutrinos remain undetected . </S>",
+    "<S> extraction of the mass of the top quark by kinematic reconstruction is not possible because the event is under - constrained . </S>",
+    "<S> we therefore employ a dynamical likelihood method to solve the problem .    </S>",
+    "<S> = 14.5pt </S>"
+  ]
+}

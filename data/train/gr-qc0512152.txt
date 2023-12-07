@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "over the last decade there has been theoretical interest in curiosities dubbed warp - drives initiated by the 1994 paper by m. alcubierre [ 1 ] .",
+    "these warp drives are constructs that allow some object ( a spacecraft ) to travel at superluminal velocities by manipulating spacetime in a way such that the spacecraft never locally exceeds the speed of light , but in a manner identical to the inflationary stage of the universe the spacecraft does have a relative speed defined as change of proper spatial distance over proper spatial time faster than the speed of light .",
+    "interest in warp drives has not been solely confined to the realm of theoretical speculation as shown by the formation of the nasa breakthrough propulsion program [ 2 ] and the british aerospace project greenglow [ 3 ] both of whose purpose has been to investigate the realization of these ideas .    in the spirit of the morris ,",
+    "thorne and yurtsever paper [ 4 ] these warp drives , thought highly speculative in nature , provide an unique and inspiring opportunity to ask the question what constraints do the laws of physics place on the abilities of an arbitrarily advanced civilization. in this paper a new and innovative mechanism to generate the necessary alcubierre warp bubble is proposed .",
+    "it has been suggested in the context of brane - world models that our universe is a ( 3 + 1 ) brane residing in some higher dimensional bulk [ 5 ] .",
+    "it is known phenomenologically that supersymmetry is broken on our 3-brane , however is has been suggested that it may not be broken on the bulk [ 6 ] .",
+    "existing in higher dimensional bulk.,width=312 ]    unbroken susy decrees that the components of the chiral or gauge multiplets share equal masses in the bulk and have the same interaction strength , however on the 3-brane susy breaking induces a mass square difference between them .",
+    "motivated by string theory the 3-brane has an effective thickness @xmath0 characterized by the string thickness @xmath1 . as a result",
+    "the casimir energy is non - trivial in the extra dimensional volume that encompasses the brane .",
+    "this energy has the necessary features to account for the cosmological constant",
+    ".    for simplicity assume an @xmath2 manifold with extra dimensional radius a. susy breaking around the brane alters the casimir energy which leads to a mass shift of the bulk fields .",
+    "it is the aim of this paper to demonstrate that the mass shift is directly related to the radius of the extra dimension and as such a local change in the radius of the extra dimension will have the effect of altering the mass shift and thus the casimir energy which locally effects the value of the cosmological constant in the region effectively creating a bubble of inflation / contraction .    a spacecraft with the ability to create such a bubble will always move inside their own local light - cone however the ship can utilize the expansion of spacetime behind the ship to move away from some object at any desired speed or equivalently to contract the spacetime in front of the ship to approach any object .",
+    "the alcubierre top - hat metric is shown beneath to demonstrate the analogous effects on spacetime.,title=\"fig:\",width=240 ] .",
+    "the alcubierre top - hat metric is shown beneath to demonstrate the analogous effects on spacetime.,title=\"fig:\",width=240 ]",
+    "to build the model we consider for simplicity a scalar field and its susy partner a calar field .",
+    "the scalar part of the action will be @xmath3\\ ] ] where @xmath4 characterizes the mass - square shift and the location of the three - brane is at y=0 .",
+    "the shift of the casimir energy density due to susy - breaking in the three brane extra volume is [ 7 ] @xmath5    where @xmath6 is some constant .",
+    "the renormalized casimir energy density is    @xmath7    after integrating over the extra dimensional space the renormalized casimir energy density is    @xmath8    where @xmath0 is the width of the brane and @xmath9 is the radius of the compactified extra dimension .    the same calculations can be applied to the superpartner calar field .",
+    "the only change is a sign difference .",
+    "thus the total casimir energy density contribution from a scalar / calar field induced by susy breaking is    @xmath10    it is important to note that although the casimir energy lies in the extra dimension it does contribute to the overall energy density of the unverse in @xmath11 and represents the @xmath12 term in einstein s equation    @xmath13    the important term in equation ( 5 ) is @xmath14 which demonstrates that the casimir energy density and hence the cosmological constant term are immutably related to the radius a of the extra dimension .",
+    "consider some arbitrarily advanced civilization with the ability to locally alter the radius of the extra dimension .",
+    "this would bring about a local shift in the cosmological constant roughly of the form    @xmath15\\ ] ]    where @xmath16 represents the modified radius .",
+    "thus , given some mechanism for locally adjusting the radius it is feasible that one could locally change the value of the cosmological constant thus providing a mechanism for pushing / pulling a spacecraft .",
+    "this is analogous to the alcubierre bubble .",
+    "\\1 . m. alcubierre 1994 class . quantum grav . 11 , l73              \\7 .",
+    "casimir effect in a supersymmetry - breaking brane world as dark energy . by pisin chen ( slac ) , je - an gu ( taiwan , natl .",
+    "taiwan u. and slac ) , .",
+    "slac - pub-10772 , sep 2004 .",
+    "e - print archive : astro - ph/0409238"
+  ],
+  "abstract_text": [
+    "<S> within the framework of brane - world models it is possible to account for the cosmological constant by assuming supersymmetry is broken on the 3-brane but preserved in the bulk . </S>",
+    "<S> an effective casimir energy is induced on the brane due to the boundary conditions imposed on the compactified extra dimensions . </S>",
+    "<S> it will be demonstrated that modification of these boundary conditions allows a spacecraft to travel at any desired speed due to a local adjustment of the cosmological constant which effectively contracts / expands space - time in the front / rear of the ship resulting in motion potentially faster than the speed of light as seen by observers outside the disturbance . </S>"
+  ]
+}

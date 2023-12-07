@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "throughout this paper we work on a 4-manifold @xmath0 equipped with prescribed lorentzian metric @xmath1 .",
+    "the accepted mathematical model for a neutrino field is the following linear partial differential equation on @xmath0 know as the _ weyl equation _ : @xmath2 the corresponding lagrangian is @xmath3 here @xmath4 , @xmath5 , are pauli matrices , @xmath6 is the unknown spinor field , and @xmath7 is the covariant derivative with respect to the levi - civita connection : @xmath8 where @xmath9 are christoffel symbols uniquely determined by the metric .",
+    "the purpose of our paper is to give an alternative representation of the weyl equation ( [ weyl s equation ] ) and the weyl lagrangian ( [ weyl s lagrangian ] ) . to this end , we follow @xcite in introducing instead of the spinor field a different unknown  the so - called _",
+    "a coframe is a quartet of real covector fields @xmath10 , @xmath11 , satisfying the constraint @xmath12 where @xmath13 . in other words , the coframe is a field of orthonormal bases with orthonormality understood in the lorentzian sense .",
+    "we define an affine connection and corresponding covariant derivative @xmath14 from the conditions @xmath15 ) read @xmath16 giving a system of linear algebraic equations for the unknown connection coefficients @xmath17 .",
+    "the connection defined by the system of equations  ( [ defining condition for connection ] ) is called the _ teleparallel _ or _ weitzenbck _ connection .",
+    "let @xmath18 be a nonvanishing real lightlike teleparallel covector field ( @xmath19 , @xmath20 ) .",
+    "such a covector field can be written down explicitly as @xmath21 where the @xmath22 are real constants ( components of the covector @xmath18 in the basis @xmath10 ) , not all zero , satisfying @xmath23 we define our lagrangian as @xmath24 where @xmath25 stands for the exterior derivative .",
+    "note that @xmath26 is the axial ( totally antisymmetric ) piece of torsion of the teleparallel connection .",
+    "let us emphasize that formula ( [ lagrangian as function of vartheta and c ] ) does not explicitly involve connections or covariant derivatives .",
+    "the lagrangian ( [ lagrangian as function of vartheta and c ] ) is a rank 4 covariant antisymmetric tensor so it can be viewed as a 4-form and integrated over the manifold @xmath0 to give the action @xmath27 .",
+    "variation with respect to the coframe @xmath10 subject to the constraint ( [ constraint for coframe ] ) produces an euler  lagrange equation which we write symbolically as @xmath28 the explicit form of the field equation ( [ field equation 1 ] ) is given in griffiths and newing s paper @xcite .",
+    "let us define the spinor field @xmath6 as the solution of the system of equations @xmath29 where @xmath30 .",
+    "the above system determines the spinor field @xmath6 uniquely up to a complex constant factor of modulus @xmath31 .",
+    "this non - uniqueness is acceptable because we will be substituting @xmath6 into the weyl equation  ( [ weyl s equation ] ) and weyl lagrangian ( [ weyl s lagrangian ] ) which are both @xmath32-invariant .",
+    "we will call @xmath6 the spinor field _ associated _ with the coframe @xmath10 .",
+    "the main result of our paper is the following    [ main result ] for any coframe @xmath10 we have @xmath33 where @xmath6 is the associated spinor field .",
+    "the coframe satisfies the field equation ( [ field equation 1 ] ) if and only if the associated spinor field satisfies the weyl equation ( [ weyl s equation ] ) .",
+    "the proof @xcite of theorem  [ main result ] is based on the observation that our lagrangian ( [ lagrangian as function of vartheta and c ] ) is invariant under the action of a certain class of local ( i.e. with variable coefficients ) transformations of the coframe , the class in question being the subgroup @xmath34 of the lorentz group @xcite .",
+    "this means that coframes come in equivalence classes ( cosets ) and the nature of these cosets is such that they can be identified with spinors .",
+    "our lagrangian ( [ lagrangian as function of vartheta and c ] ) has the unusual feature that it depends on a quartet of real parameters @xmath22 which can be chosen arbitrarily as long as they satisfy the condition  ( [ constraint for constants ] ) .",
+    "this parameter dependence requires an explanation .",
+    "one possible explanation of the physical nature of the @xmath22 s is sketched out below .",
+    "consider the lagrangian @xmath35 ( `` axial torsion squared '' ) . putting @xmath36 and varying with respect to the coframe @xmath10 subject to the constraint ( [ constraint for coframe ] ) we get an euler  lagrange equation which we write symbolically as @xmath37    it turns out that in the case of _ minkowski _ metric one can construct an explicit solution of ( [ field equation for quadratic lagrangian ] ) as follows .",
+    "let @xmath38 be a constant reference coframe and let @xmath39 be a constant real lightlike covector ; here `` constant '' means `` parallel with respect to the levi - civita connection induced by the minkowski metric '' .",
+    "of course , @xmath40 for some real constants @xmath22 satisfying the condition ( [ constraint for constants ] ) .",
+    "perform a rigid lorentz transformation @xmath41 so that @xmath42 for some @xmath43 , put @xmath44 where @xmath45 ( here @xmath46 are arbitrary local coordinates on the manifold @xmath0 and @xmath47 are minkowskian coordinates on @xmath0 associated with the constant coframe  @xmath48 ) , and , finally , set @xmath49 .",
+    "straightforward calculations show that the coframe @xmath10 is indeed a solution of ( [ field equation for quadratic lagrangian ] ) .",
+    "we call this solution _ plane wave _ with _ momentum _  @xmath18 . note that for a plane wave @xmath50 and @xmath51 where the @xmath22 are the original constants from ( [ origin of the l_j s ] ) .",
+    "now consider a perturbation of a plane wave .",
+    "this perturbation can be the result of either a ) us looking for a wider class of solutions or b ) the metric ceasing to be minkowski .",
+    "application of a formal perturbation argument to the lagrangian  ( [ axial torsion squared ] ) with @xmath52 as small parameter gives the lagrangian ( [ lagrangian as function of vartheta and c ] ) ."
+  ],
+  "abstract_text": [
+    "<S> the main result of the paper is a new representation of the weyl lagrangian ( massless dirac lagrangian ) . as the dynamical variable we use the coframe , i.e. an orthonormal tetrad of covector fields . </S>",
+    "<S> we write down a simple lagrangian  wedge product of axial torsion with a lightlike element of the coframe  and show that variation of the resulting action with respect to the coframe produces the weyl equation . </S>",
+    "<S> the advantage of our approach is that it does not require the use of spinors , pauli matrices or covariant differentiation . </S>",
+    "<S> the only geometric concepts we use are those of a metric , differential form , wedge product and exterior derivative . </S>",
+    "<S> our result assigns a variational meaning to the tetrad representation of the weyl equation suggested by j.  b.  griffiths and r.  a.  newing . </S>"
+  ]
+}

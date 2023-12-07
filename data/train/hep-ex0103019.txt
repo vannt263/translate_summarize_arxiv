@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the pion responses are obtained with geant simulations with a detailed description of cms calorimeter geometry ( cmsim 115 ) , version tdr-2@xmath1 .",
+    "the ecal is the pbwo@xmath2 one ( readout number 1 ) .",
+    "an additional 1 cm scintillator layer is placed in front of hb to compensate for the energy loss in the cables , electronics and cooling system on the back side of the ecal , which is simulated by a uniform slab of 0.2 @xmath3 of dead material ( readout number 2 ) .",
+    "the sampling thicknesses of copper alloy ( 90%cu + 10%zn ) are 5 cm in the barrel segments , except the inner and outer plates which are 7 cm stainless steel .",
+    "the 9 mm gaps between the absorber plates are filed with 4 mm scintillator planes ( readout number 3 ) .    to improve the energy measurement for late developing hadron showers ,",
+    "tail catcher layers are inserted in front and behind the first return yoke iron layer ( ry1 ) ( readout number 4 ) .    the regions behind the ecal are empty except for the scintillator layer and equivalent dead material uniform absorber layer .",
+    "the effects of the cms 4 t field are fully included .",
+    "we have performed a geant simulation of the response to pions for a set of incident energies from 10 to 3000 gev at pseudorapidity set to 0 .",
+    "gheisha was used as a hadron interaction simulator .",
+    "the sum of the energies deposited by the showers in the active elements of each readout has been stored in a disk file so that the showers could be analysed later .",
+    "the standard calibration used just sampling coefficients for calorimeter parts with different sampling ratio . the reconstructed energy of simple shower is given by the weighted sum of the energies deposited in the readouts :    @xmath4    where :    @xmath5 - amplitude of the signal from the calorimeter longitudinal segmentation ( readouts ) ;    @xmath6 - calibration coefficients .",
+    "coefficients @xmath6 , i = 1 , 4 are determined by the minimisation of the width of the energy distributions .    the gaussian part of reconstructed energy distributions at various incident energies are then fitted to obtain the calorimeter energy resolution",
+    ". the energy resolution is parametrised by the expression :    @xmath7    the obtained energy resolution by the standard calibration is shown on fig . 1 and the residuals of the reconstructed energy on fig",
+    "the nonlinear behaviour of the calorimeter response could be solved by application of the non - linear method which improve the linearity of the calorimeter response and the energy resolution in the broad energy range .",
+    "non - linear technique is the selection of some additional parameters which provide correct energy reconstruction of the hadron shower .",
+    "thus the reconstructed energy @xmath8 is parametrised as :    @xmath9    where @xmath10 are non - linear functions of unknown parameters @xmath11 .",
+    "large number of free parameters ( more than 50 ) are needed to better describe the non - linearity .",
+    "for such a big number of parameters minimisation performed by minuit is inefficient . to this end",
+    "we used the specialised program regn based on a autoregularized newton type method@xmath12 . in the regn computer",
+    "code@xmath13 the @xmath14 is one of the criteria available for solving the system and for testing the mathematical model .",
+    "other criteria permit one to chose uniquely between several model functions the best one@xmath15 .",
+    "the energy resolution obtained applying non - linear calibration method is shown in fig .",
+    "1 together with results from the standard calibration . in figure 2",
+    "the residuals of the reconstructed energies are shown for both methods .",
+    "the comparison of the standard calibration method to the non - linear technique shows clear improvement in the resolution and linearity of the reconstructed energy .",
+    "the cms calorimeters pion calibration was done using two different approaches .",
+    "calibration using non - linear technique improves the resolution and linearity of the reconstructed energy .      , g. bayatian et al . , _",
+    "`` the hadron calorimeter project''_. , l. alexandrov , _ `` regularized newton - kantorowich computational processes''_. , l. alexandrov et al . , _ `` program regn for solving numerical nonlinear systems via regularized gauss - newton methods''_. , l. alexandrov and s. cht .",
+    "mavrodiev , _ `` the dependence of high energy hadron - hadron total cross sections in quantum numbers''_. , s. drenska et al . , _",
+    "`` some predictions for the characteristics of the elastic and inelastic interactions of hadrons at high energies''_. , l. alexandrov et al . , _ `` estimation of primary cosmic ray characteristics with the help of eas cerencov light''_."
+  ],
+  "abstract_text": [
+    "<S> cms calorimeter energy calibration was done in the full cms simulated geometry for the pseudorapidity region @xmath0 = 0 . </S>",
+    "<S> the samples of single pion events were generated with a set of incident energies from 10 gev to 3 tev . </S>",
+    "<S> the analysis of the simulated data shows that standard calibration using just sampling coefficients for calorimeter parts with different sampling ratio gives nonlinear calorimeter response . </S>",
+    "<S> non - linear calibration technique was applied for improving calorimeter energy resolution and restoring the calorimeter linearity .    </S>",
+    "<S> 16.5 cm 22.3 cm -10pt </S>",
+    "<S> -10pt -40pt    * cms note 2001/010 *    * non - linear energy calibration of cms calorimeters for single pions *    j. damgov , v. genchev , s. cht . </S>",
+    "<S> mavrodiev    inrne , sofia , bulgaria    ( february 26 , 2001 )    this study is supported by the bulgarian ministry of education and sciences </S>"
+  ]
+}

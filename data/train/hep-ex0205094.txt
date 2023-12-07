@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "charm production in deep inelastic scattering ( dis ) at hera has been shown in previous studies to be consistent with purely dynamic boson - gluon fusion ( bgf ) production @xcite .",
+    "this agreement has now been tested with a larger data sample than the previous zeus measurements , and @xmath2 as well as @xmath1 cross sections have been calculated .",
+    "the charmed mesons were identified using the decay @xmath5 with @xmath8 and corresponding antiparticle processes , where @xmath9 refers to a low momentum pion accompanying the @xmath10 .",
+    "the differential cross sections are measured as functions of @xmath11 and bjorken @xmath12 , defined as @xmath13 and @xmath14 , where @xmath15 and @xmath16 are the four - momenta of the initial and final state lepton , and p is the four - momentum of the proton .",
+    "the zeus detector is described in detail elsewhere @xcite .",
+    "the @xmath12 and @xmath11 variables were reconstructed by the @xmath17-method , which uses both the scattered lepton and the hadronic system measurements @xcite .",
+    "standard cuts were imposed to select neutral current dis events @xcite .",
+    "the @xmath18 mesons were selected in the range @xmath19 gev , @xmath20 gev , @xmath21 gev , and @xmath22 .",
+    "the number of @xmath23 events determined from a 5 parameter fit    @xmath24 \\cdot exp[0.5 \\cdot (    \\delta m - p2)^2 / p3 ] + p4 \\cdot ( \\delta m - m_{\\pi } ) ^{p5}$ ]    where @xmath25 - @xmath26 are free parameters is @xmath27 in the @xmath2 data , and @xmath28 in the @xmath1 data . the number of @xmath29 mesons extracted from empirical wrong charge background subtraction within the signal region @xmath30 mev , is @xmath31 and @xmath32 in the @xmath2 and @xmath1 data respectively .",
+    "the @xmath33 distributions are shown in figure 1 , for @xmath2 and @xmath1 data separately .",
+    "the systematic uncertainties on the measured @xmath18 cross sections were determined by changing the selection cuts or analysis procedure .",
+    "these uncertainties are divided into three groups .",
+    "+ event reconstruction and selection :    * the cuts on @xmath34 .",
+    "@xmath35 , @xmath36 , and the vertex position were varied @xcite . *",
+    "the cut on the position of the scattered lepton in the rcal was raised . *",
+    "the minimum energy of the scattered lepton was raised . *",
+    "the electron method or double angle method @xcite was used to reconstruct the kinematics .",
+    "@xmath18 reconstruction :    * a higher track quality was required ( restriction on the polar angle of the track ) . *",
+    "the transverse momentum requirement of the @xmath37 and @xmath38 candidates was varied . * the signal region for @xmath39 and @xmath33",
+    "were varied .",
+    "monte carlo :    * the acceptance was calculated using herwig @xcite instead of rapgap @xcite .",
+    "the overall systematic uncertainty was determined by adding the above uncertainties in quadrature .",
+    "the normalisation uncertainties due to the luminosity measurement error , and those due to the @xmath18 and @xmath10 branching ratios were not included .",
+    "in the kinematic region @xmath40 gev@xmath41 , @xmath42 and the selected @xmath23 region , the cross sections calculated are        the @xmath1 cross section is consistent with that previously published @xcite , allowing for the increase in proton beam energy @xcite , while the @xmath2 cross section is slightly higher .",
+    "figure 2 shows the differential cross sections as a function of @xmath11 and @xmath12 compared to the nlo calculation implemented in the hvqdis program @xcite .",
+    "this program is based on the bgf mechanism , and uses the peterson fragmentation function @xcite , with @xmath45 = 0.035 , to hadronise the charm quark to a @xmath23 .",
+    "the mass and renormalisation scales were set to @xmath46 .",
+    "the hadronisation fraction @xmath47 was set to 0.235 @xcite .",
+    "the boundaries of the shaded band indicate two extreme values of hvqdis predictions , from changing the charm mass between @xmath48 to @xmath49 gev , and using different sets of structure functions , grv98ho @xcite , cteq5f3 @xcite and a zeus nlo fit @xcite .",
+    "the nlo calculations based on bgf give a good description of the measured @xmath18 cross section over the full range of @xmath11 and @xmath12 .",
+    "for @xmath50 gev@xmath41 , the @xmath18 cross sections in @xmath2 and @xmath1 differ slightly , while conventional charm production mechanisms contain no charge dependence on the lepton in these interactions .",
+    "more @xmath2 data is essential to investigate whether this is a statistical fluctuation ."
+  ],
+  "abstract_text": [
+    "<S> inclusive production of @xmath0 mesons in deep inelastic scattering has been measured using @xmath1 and @xmath2 data obtained with the zeus detector at hera using integrated luminosities of @xmath3 and @xmath4 , respectively . </S>",
+    "<S> the decay channel @xmath5 with @xmath6 and corresponding antiparticle decays were used to identify @xmath7 mesons . </S>",
+    "<S> the @xmath7 cross sections in @xmath2 and @xmath1 interactions agree with nlo qcd predictions , although the @xmath7 cross section in @xmath2 is slightly higher than that in @xmath1 . </S>"
+  ]
+}

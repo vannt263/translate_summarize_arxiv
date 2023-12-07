@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "the equation of motion of a neutral test body reads in the presence of the @xmath0-field @xmath4 where the geodesic equation is recovered in the case of a non variable @xmath0-field . in the weak fields and low velocity limit , assuming spherical symmetry and circular orbits , the rotational velocity , @xmath5 , at radius @xmath6",
+    "is then given by @xmath7 where @xmath8 is a constant which would represent the angular momentum per unit mass if the @xmath0-field were not present within the galaxy .",
+    "assuming that the excitation of the @xmath0-field is very small compared to its vacuum expectation value , @xmath9 , the equation of the @xmath0-field reads in the first approximation @xmath10 where @xmath11 denotes the trace of the energy - momentum tensor of the source of the @xmath0-field , @xmath12 is the einstein gravitational constant and @xmath13 a universal dimensionless coupling constant .",
+    "hence , one gets for a static spherical matter distribution @xmath14 where @xmath15 denotes the mass density of the matter fields other than the @xmath0-field itself . assuming in addition a sufficiently thin disk ( stellar plus gaseous disks ) and a ( quasi - isothermal ) spherical dark halo with mass density such that @xmath16 the static spherical solution of @xmath0 is found proportional to @xmath17 ( up to the vacuum expectation value ) within the galaxy out of the bulge .",
+    "hence , the rotational velocity reads @xmath18 where the functions @xmath19 are defined as follows @xmath20}.\\ ] ] for our purpose , @xmath21 .",
+    "indeed , this is one of the two necessary conditions for the @xmath0-field mimics a dark matter mass profile ( @xmath22 ) .",
+    "as can be seen in figure 1 , the greater is the integer @xmath3 , the steepest is the curve @xmath23 versus @xmath24 for @xmath25 and the flatest it is for @xmath26 .",
+    "hence , the steepest is a rc below the turnover radius , the flatest it should be beyond .",
+    "figure 2 shows some fits to individual rotation curves ( from the samples of rubin _ et al . _",
+    "@xcite , van albada _",
+    "@xcite , lake and van gorkom @xcite ) .",
+    "this is achieved by using the least - squares fit to search the parameters @xmath27 and @xmath28 that yield the maximum square , @xmath29 , of the correlation coefficient for the relation @xmath30 .",
+    "as yet , based on the study of a hundred spirals , it is found that @xmath27 is always negative ( this is the other necessary condition for the @xmath0-field mimics a dark matter mass profile ) whereas @xmath31 is always positive .",
+    "in addition , one gets approximately the following statistics : @xmath32 for @xmath33% of the spirals , @xmath34 for almost a half of them and @xmath35 for @xmath36% of them .",
+    "figure 3 shows our new result : there is a strong correlation between the coefficients @xmath27 and @xmath31 .",
+    "though displayed here for only fifteen spirals , this remains true for the whole sample of a hundred spirals we have studied hitherto .",
+    "hence , if a natural theoretical explanation is found in the future , only two independent parameters will be needed to fit the rc with the proposed model one of which is just an integer .",
+    "it is possible that long range scalar fields external to gravity play a significant role not only at the cosmological level but also at the scale of galaxies or even the solar system @xcite ."
+  ],
+  "abstract_text": [
+    "<S> in a previous work @xcite , we have modelled the rotation curves ( rc ) of spiral galaxies by including in the equation of motion dynamical terms from an external real self - interacting scalar field , @xmath0 , minimally coupled to gravity and which respects the equivalence principle in the absence of electromagnetic fields . this model appears to have three free parameters : the turnover radius , @xmath1 , the maximum rotational velocity , @xmath2 , plus a strictly positive integer , @xmath3 . here , the coupling of the @xmath0-field to other kinds of matter is emphasized at the expense of its self - interaction . </S>",
+    "<S> this reformulation presents the very advantageous possibility that the same potential may be used now for all galaxies . </S>",
+    "<S> new correlations are established . </S>"
+  ]
+}

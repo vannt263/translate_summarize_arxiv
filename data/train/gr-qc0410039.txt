@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "let a physical reference frame ( prf ) be defined by a time - like congruence @xmath0 of world - lines of particles constituting the 3-dimensional reference frame.@xcite the motion of free particles relative to @xmath0 can be described by projecting the equation of motion onto the 3-space of the prf by means of the `` natural splitting . ''",
+    "the projected equation can be written in the form@xcite @xmath1 in terms of the gem fields @xmath2 .",
+    "in other words , the dynamics of particles , relative to the reference frame @xmath0 , is described in terms of motion under the action of a gem lorentz force , which is obtained without any approximations on fields and velocities . on the basis of the the analogy between the `` classical '' lorentz force and the gem lorentz force ( [ eq : lorentzgem ] )",
+    ", we may formally introduce the gravito - magnetic aharonov - bohm phase shift and the corresponding time delay@xcite @xmath3 eq .",
+    "( [ eq : deltatau1 ] ) describes the time delay for two massive or massless beams , which propagate in opposite directions along a closed path , with the same velocity in absolute value . because of the gravito - magnetic field ,",
+    "the two beams take different times ( as measured by a clock at rest in @xmath0 ) for a round trip , and ( [ eq : deltatau1 ] ) expresses this time delay .",
+    "in particular , some rotation effects can be thought of as gravito - magnetic aharonov - bohm effects : this is the case , for instance , of the sagnac effect , both in flat and curved - space time .",
+    "@xcite , @xcite .",
+    "depends on the mass of the rotating body only , while the amplitude modulation frequency @xmath4 depends on its angular momentum only.,width=453,height=188 ]",
+    "gravito - magnetic effects originating from masses rotation can be exploited for measuring the angular momentum of celestial bodies . shapiro _",
+    "@xcite,@xcite,@xcite verified the influence of the solar mass on signals propagation , however , in weak field approximation , the time of flight does depend also on the angular momentum , and its contribution has the form@xcite @xmath5 where @xmath6 is the magnitude of the angular momentum , whose direction is supposed to be perpendicular to the plane of propagation of the signals ; @xmath7 is the impact parameter and @xmath8 is a geometrical factor .",
+    "the double sign means that the propagation time is shortened on one side of the rotating mass and lengthened on the other side .",
+    "the interplay of the motions of the source of electromagnetic signals , the rotating mass and the observer results in a change of the impact parameter in ( [ eq : angmom1 ] ) : this induces a frequency shift@xcite . to fix the ideas ,",
+    "let us consider electromagnetic signals coming from a distant source ( such as a star , or a pulsar ) ; these signals , after propagating in the field of the sun , are received by an earth - based observer .",
+    "for the sake of simplicity , let us suppose that the source , the sun and the observer are in the same plane . since the source is much more distant from the sun than the receiver , to first approximation the time variation of the impact parameter is due to the motion of the receiver only . around the occultation of the source by the sun , the impact parameter depends linearly on time and its time variation is approximately given by @xmath9 , where @xmath10 is the apparent velocity of the source in the sky .",
+    "if the signal is emitted with a frequency @xmath11 , it is received with a ( slowly varying ) frequency @xmath12 , such that@xcite @xmath13 where @xmath14 is the distance of the observer from the rotating body whose mass is @xmath15 .",
+    "the order of magnitude of this frequency shift , for a solar system experiment , is@xcite @xmath16 the frequency shift due to the mass has been recently measured by bertotti _ _ et al.__@xcite , using radio pulses from cassini spacecraft .",
+    "the angular momentum contribution could be measured by producing interference between the received signals .",
+    "in other words , if we record the signal before and after the occultation , and then superimpose them , we get a beating function ( see figure [ fig : beats1 ] ) .",
+    "the beating has a basic frequency@xcite @xmath17 which depends on the mass only , and a frequency of amplitude modulation @xmath18 which depends on the angular momentum only : the two effects are then decoupled .",
+    "though small , this rotation effect is , in principle , detectable , and it would provide a way for measuring the angular momentum of celestial bodies . more favourable conditions for observing this and other gravito - magnetic effects could be attained by studying the recently observed double pulsar system j0737 - 3039.@xcite"
+  ],
+  "abstract_text": [
+    "<S> gravito - electromagnetism is somewhat ubiquitous in relativity . in fact </S>",
+    "<S> , there are many situations where the effects of gravitation can be described by formally introducing `` gravito - electric '' and `` gravito - magnetic '' fields , starting from the corresponding potentials , in analogy with the electromagnetic theory@xcite,@xcite ( see also a. tartaglia s contribution to these proceedings ) . </S>",
+    "<S> the `` many faces of gravito - electromagnetism''@xcite are related to rotation effects in both approximated and full theory approaches . here </S>",
+    "<S> we show that , by using a 1 + 3 splitting , relativistic dynamics can be described in terms of gravito - electromagnetic ( gem ) fields in full theory . on the basis of this formalism </S>",
+    "<S> , we introduce a `` gravito - magnetic aharonov - bohm effect '' , which allows to interpret some rotation effects as gravito - magnetic effects . </S>",
+    "<S> finally , we suggest a way for measuring the angular momentum of celestial bodies by studying the gravito - magnetic effects on the propagation of electromagnetic signals . </S>"
+  ]
+}

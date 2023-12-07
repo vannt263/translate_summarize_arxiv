@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "binary black holes are considered as one of the most promising sources for the gravitational wave interferometric detectors ligo , virgo , geo600 and tama currently under construction , as well as for the space interferometer lisa in project . from the theoretical point of view , computing the final inspiral and merger of binary black holes has proved to be a very difficult task . however , when the black holes are far enough so that the radiation reaction timescale is large as compared to the dynamical timescale , the orbits can be approximated as closed ones . moreover , due to the accumulated effects of the reaction to gravitational radiation , these orbits can be considered as circular .",
+    "in such a case ( closed circular orbits ) , the spacetime possesses a one - parameter symmetry group , whose integral curves are helices .",
+    "the associated killing vector is called the _ helical killing vector_. in full general relativity , requiring the helical symmetry for a binary system imply equal amounts of outgoing and incoming gravitational radiation.@xcite the spacetime can not therefore not be asymptotically flat.@xcite however , there are two interesting cases where helical symmetry and asymptotic flatness are compatible : ( i ) in the post - newtonian ( pn ) approximation , up to the second order and ( ii ) the isenberg - wilson - mathews ( iwm ) approximation of general relativity ( see e.g. sec .",
+    "iv.c of ref .",
+    "@xcite ) , which assumes that the spacetime can be foliated by a family of conformally flat spacelike hypersurfaces and reduces the einstein equations to five elliptic equations .",
+    "both approximations ( i ) and ( ii ) do not allow for gravitational radiation , which explains why they permit asymptotically flat spacetimes .",
+    "they are valid approximations to general relativity when the gravitational radiation content of spacetime does not play any important dynamical role .",
+    "note that the iwm formulation contains the first order pn one .    in our first study of the binary black hole problem,@xcite",
+    "we have used the helical symmetry along with the iwm approximation      regarding the rotation state of the black holes , we have chosen each black hole to be corotating ( synchronized binary ) , so that the whole system is in rigid rotation .",
+    "there are several motivations for this : ( i ) it has been recently argued@xcite that when the black holes are close together , tidal forces may lead to an efficient transfer of spin angular momentum to orbital angular , which might lead to synchronization .",
+    "however this not clear yet .",
+    "( ii ) as discussed by friedman et al.@xcite , corotating black holes are the only state compatible with the helical symmetry in full general relativity ( basically , any other rotation state would result in shear and increase of the horizon area , which is not allowed by the helical symmetry ) .",
+    "detweiler@xcite has already pointed this by noticing that gravitational radiation going down in the hole from the distant past piles up near the distant horizon , resulting in a divergence of the metric , except for the corotating state .",
+    "( iii ) for the iwm spacetimes we are considering , other rotation states are permitted,@xcite but the corotating one has a very simple geometrical interpretation : the black holes horizons are in this case killing horizons , i.e. the helical killing vector is tangent to the black hole horizons.@xcite      in the iwm framework , the field equations reduce to five elliptic equations and the orbital angular velocity @xmath0 appears only in the boundary condition at infinity for the corotating shift vector .",
+    "this contrasts with the fluid case , where @xmath0 shows up in the equation governing the equilibrium of the fluid .",
+    "we have determined @xmath0 by demanding that the adm mass be equal to the komar - like one@xcite , a requirement which reduces to the classical virial theorem at the newtonian limit .",
+    "we have verified that when the holes are far apart , this procedure leads to kepler s third law .    the minimum of adm mass along a sequence of decreasing circular orbits with constant horizon area marks the limit of orbital stability.@xcite we call this configuration the isco ( for _ innermost stable circular orbit _ ) .",
+    "the five non - linear elliptic equations describing corotating binary black holes in the iwm approximation have been solved by means of a multi - domain spectral method.@xcite we use spherical coordinate systems centered on each black hole , which allow for an easy implementation of the boundary conditions on the horizons .",
+    "moreover the computational domain extends to spacelike infinity , thanks to some suitable compactification of the external domain .",
+    "this permits a rigorous implementation of the boundary condition at infinity ( flat spacetime ) .",
+    "the numerical implementation has been performed by means of an object - oriented code based on the lorene library.@xcite numerous tests of the code have been presented in ref.@xcite .",
+    "prior to our study@xcite , the agreement between numerical computations of orbiting black holes and analytical ( post - newtonian ) ones was very bad ( compare the dotted line with the dot - dashed one in fig .  [",
+    "f : comp]a ) .",
+    "notably the orbital frequency at the isco was differing by a factor of two ( compare the triangles with the circles and diamonds in fig .  [",
+    "f : comp]b ) .",
+    "our results , based on the helical killing vector approach , turned out to be much closer to the post - newtonian ones ( compare the dark solid line with the light solid one in fig .  [",
+    "f : comp]a , as well as the square with the circles and diamonds in fig .",
+    "[ f : comp]b ) .",
+    "we present a detailed comparison with the effective one body ( eob ) analytical approach in ref .  @xcite .",
+    "this work has benefited from numerous discussions with luc blanchet , brandon carter , thibault damour , david hobill , jrme novak and keisuke taniguchi .",
+    "we warmly thank all of them ."
+  ],
+  "abstract_text": [
+    "<S> binary black hole systems in the pre - coalescence stage are numerically constructed by demanding that the associated spacetime admits a helical killing vector . </S>",
+    "<S> comparison with third order post - newtonian calculations indicates a rather good agreement until the innermost stable circular orbit . </S>"
+  ]
+}

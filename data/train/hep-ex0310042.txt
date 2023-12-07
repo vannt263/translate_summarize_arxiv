@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "the flux of neutrons in the vicinity of cresst ( jagemann et al .",
+    "2003 ) is dominated by low energy neutrons induced by radioactivity in the surrounding rock / concrete .",
+    "in addition , a very small remaining impurity in the material used in the setup can induce significant background if higher sensitivity is to be aimed for .",
+    "although the flux of high energy neutrons induced by muons in the rock is small compared to the total flux at the experimental site , this component can penetrate a neutron moderator , reach the setup and produce additional neutrons through spallations .",
+    "moreover , neutrons can be produced by muons in the experimental setup , particularly in the lead shield .    to investigate the contribution of each neutron source to the expected background rate in cresst ii ,",
+    "a study based on monte carlo simulations has been performed . for this purpose",
+    "different monte carlo codes have been employed , namely mcnp4b ( briesmeister 1997 ) , mcnpx ( waters 1999 ) , fluka ( fasso 2001 ) and music ( antonioli 1999 ) .",
+    "the contributions of different neutron sources to the count rate in the 15 - 25kev interval in a cawo@xmath0 detector are shown in table 1 . in cresst ii , 60 gev wimps with a cross section as claimed by the dama experiment in ( bernabei et al .",
+    "2000 ) would give 55 cts / kg / y in the same energy range .",
+    "this makes it difficult for cresst ii to check the dama evidence without a neutron moderator .",
+    "the flux of low energy neutrons from the surrounding rock / concrete can be reduced effectively by a hydrogen - rich material like polyethylene . for the cresst ii setup",
+    "a polyethylene shield ( 35 - 50 cm thick ) is advisable .",
+    "this will reduce the background count rate in the cawo@xmath0 detector by up to three orders of magnitude .",
+    "then the background will be dominated by neutrons from other origins ( see table 1 ) and the sensitivity of the experiment for the wimp - nucleon cross section would be limited to about @xmath1pb .",
+    "l|c neutron origin & count rate + & ( cts / kg / y ) + low energy neutrons from the rock : ( i)no moderator & 50 + ( ii)pb / cu + 50 cm pe & 0.04 + low energy neutrons from fission of 0.1ppb @xmath2u in the lead & 0.2 + high energy neutrons produced by muons in the rock & 0.3 + high energy neutrons produced by muons in the shields & 1 +      the remaining neutron flux with the neutron moderator installed is dominated by neutrons induced by muons in the lead shield .",
+    "it is possible to suppress this neutron background by detecting the muons and rejecting muon coincident events .",
+    "for cresst ii a muon veto system is planned in addition to a neutron moderator .",
+    "this will enable cresst ii to reach the projected sensitivity of below @xmath1pb .",
+    "the muon veto will be placed inside the polyethylene shield and will have an efficiency of more than 90% .",
+    "however , the muon veto will reduce the neutron background only by a factor of three , unless high energy neutrons from the rock can be overcome .",
+    "neutrons scattered in more than one detector can be rejected as background , because wimps do not scatter multiply . therefore the neutron background will be further reduced and multiple scattering can also be engaged to determine the remaining single scatter neutron background .",
+    "such a simulation with an array of detectors will be done in the near future to investigate , which sensitivity level can be reached by this technique ."
+  ],
+  "abstract_text": [
+    "<S> cresst ii is an experiment for direct wimp search , using cryogenic detectors . </S>",
+    "<S> the ratio of the two signals ( temperature rise and scintillation light ) measured for each interaction is an excellent parameter for discrimination of radioactive background . </S>",
+    "<S> the main remaining background is the neutron flux present at the experimental site , since neutrons produce the same signals as wimps do . </S>",
+    "<S> based on monte carlo simulations the present work shows how neutrons from different origins affect cresst and which measures have to be taken into account to reach the goal sensitivity .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

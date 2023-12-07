@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "in the dvali - gabadadze - porrati ( dgp ) braneworld scenario @xcite our universe is a ( 3 + 1 ) space - time brane embedded in a five - dimensional minkowskian bulk .",
+    "all the particles and fields of our experience are constrained to remain on the brane apart from gravity which is free to explore the empty bulk . beyond a certain threshold @xmath1 , which is a free - parameter of the theory and",
+    "is fixed by observations to @xmath2 gigaparsec , gravity experiences strong modifications with respect to the usual four - dimensional newton - einstein picture : they allow to explain the observed acceleration of the expansion of the universe without resorting to the concept of dark energy . for a recent review of the phenomenology of dgp cosmologies see ref .",
+    "2 . with more details ,",
+    "an intermediate regime is set by the vainshtein scale @xmath3 , where @xmath4 is the schwarzschild radius of a central object of mass @xmath5 acting as source of gravitational field ; @xmath6 and @xmath7 are the newtonian gravitational constant and the speed of light in vacuum , respectively . for a sun - like star @xmath8",
+    "amounts to about 100 parsec . in the process of recovering the 4-dimensional newton - einstein gravity for @xmath9 ,",
+    "dgp predicts small deviations from it which yield to effects observable at local scales .",
+    "they come from an extra radial acceleration of the form @xmath10 the minus sign is related to a cosmological phase in which , in absence of cosmological constant on the brane , the universe decelerates at late times , the hubble parameter @xmath11 tending to zero as the matter dissolves on the brane : it is called friedmann - lematre - robertson - walker ( flrw ) branch .",
+    "the plus sign is related to a cosmological phase in which the universe undergoes a de sitter - like expansion with the hubble parameter @xmath12 even in absence of matter .",
+    "this is the self - accelerated branch , where the accelerated expansion of the universe is realized without introducing a cosmological constant on the brane .",
+    "thus , there is a very important connection between local and cosmological features of gravity in the dgp model .",
+    "about the local effects , lue and starkman in ref",
+    ". 5 and iorio in ref . 6 derived an extra - secular precession of the pericentre @xmath13 of the orbit of a test particle @xmath14 of @xmath15 arcseconds per century ( @xmath16 cy@xmath17 ) , while iorio in ref .",
+    "6 showed that also the mean anomaly @xmath18 is affected by dgp gravity at a larger extent @xmath19 the longitude of the ascending node @xmath20 is left unchanged .",
+    "as a result , the mean longitude @xmath21 , which is a widely used orbital parameter for nearly equatorial and circular orbits as those of the solar system planets , undergoes a secular precession of the order of @xmath22 @xmath16 cy@xmath17 .",
+    "such precessions are independent of the semi - major axis @xmath23 of the planetary orbits and depends only on their eccentricities @xmath24 via second - order terms .",
+    "the effects of dgp gravity on the orbital period of a test particle were worked out by iorio in ref .",
+    "7 ; the dgp precession of a spin can be found in ref .",
+    "8 , but it is too small to be detectable in any foreseeable future .",
+    "recent improvements in the accuracy of the data reduction process for the inner planets of the solar system , which can be tracked via radar - ranging , have made the possibility of testing dgp very thrilling .",
+    "in particular , iorio in ref .",
+    "12 showed that the recently observed secular increase of the astronomical unit can be explained by the self - accelerated branch of dgp and that the predicted values of the lue - starkman perihelion precessions for the self - accelerated branch are compatible with the recently determined extra - perihelion advances , especially for mars , although the errors are still large .",
+    "rather surprisingly , it was recently showed in ref .",
+    "15 that the kuiper belt objects , if not properly modelled in the dynamical force models of the data - reduction softwares used to process planetary data , might affect the dynamics of the earth and mars at a non negligible level with respect to the dgp features of motion . the possibility of using the outer planets of the solar system , suggested by lue in ref .",
+    "2 and , in principle , very appealing because all the compering newtonian and einsteinian orbital effects are smaller than the dgp precessions , is still very far from being viable .",
+    "finally , we mention that it was argued that the launch of a lageos - like earth artificial satellite would allow to measure the dgp perigee precession , but such a proposal was proven to be highly unfeasible in ref . 11 .",
+    "i am grateful to r. ruffini and h. kleinert for the grant received to attend the eleventh marcel grossmann meeting on general relativity , 23 - 29 july , freie universit@xmath25 t berlin , 2006 .",
+    "standish , e.m . , the astronomical unit now , in _ transits of venus : new views of the solar system and galaxy , proceedings iau colloquium no .",
+    "196 _ , ed .",
+    "kurtz ( cambridge university press , cambridge , 2005 ) ."
+  ],
+  "abstract_text": [
+    "<S> in this talk we review the perspectives of testing the multidimensional dvali - gabadadze - porrati ( dgp ) model of modified gravity in the solar system . </S>",
+    "<S> the inner planets , contrary to the giant gaseous ones , yield the most promising scenario for the near future .    </S>",
+    "<S> # 1  # 1 # 1#2_#1^#2 # 1eq . </S>",
+    "<S> ( [ # 1 ] ) # 1#2([#1])-([#2 ] ) # 1eq . ( </S>",
+    "<S> [ # 1 ] ) # 1#2([#1])-([#2 ] ) # 1    # 1#2 # 1#2 # 1#2     } \\def\\ear{\\end{aligned}\\ ] ] # 1#2#1#2 # 1 # 1[#1 ]    2@xmath0    # 1 </S>"
+  ]
+}

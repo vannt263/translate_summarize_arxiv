@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the weyl scalars - the components of the weyl tensor over a null tetrad - were known and used in relativity before the introduction of the newman - penrose ( np ) formalism , but within the latter they acquired a new relevance . here",
+    "i will summarise the use of weyl scalars as tools in two different contexts in astrophysical relativity .",
+    "first i will briefly summarize recent work @xcite aimed at assessing the validity of the hartle - thorne ( ht ) slow - rotation approximation for describing stationary axisymmetric rotating neutron stars ( nss ) , introducing work in progress @xcite to extend the analysis . in this context the weyl scalars are used to construct invariant measures of the deviation of the exterior spacetime from petrov type d , in view of a possible development of a teukolsky - like perturbative formalism for rotating nss .    in the second part",
+    "i will outline how the weyl scalars may be used in numerical relativity in order to construct a wave extraction formalism for simulations dealing with spacetimes that will settle to a perturbed black hole ( bh ) at late times . in this case",
+    "the teukolsky bh perturbation formalism @xcite is in principle applicable , but it is difficult to extract a bh background spacetime , i.e.  the gravitational mass and angular momentum , from a given simulation . introducing the notion of a quasi - kinnersly frame ( also used in @xcite ) , in @xcite a method was proposed that bypasses this difficulty , by not requiring a background , and allows direct wave extraction .",
+    "i will present here work in progress @xcite where the method is directly applicable .",
+    "[ francesfig ]     for decreasing values ( from bottom left ) @xmath0 , for a 1.4 @xmath1 star , for a representative equation of state .",
+    "left panel : @xmath2 ; right panel : @xmath3 . ]     for decreasing values ( from bottom left ) @xmath0 , for a 1.4 @xmath1 star , for a representative equation of state .",
+    "left panel : @xmath2 ; right panel : @xmath3 . ]",
+    "using a variety of models for nss of different masses and equations of state , and comparing with full general relativistic numerical models , it was shown in @xcite that the ht approximation to the metric of a rotating relativistic star is very good for most astrophysical applications , even at the rotation rates of the fastest known milli - second pulsar .",
+    "for instance , the innermost stable circular orbit is predicted with an accuracy of @xmath4 .",
+    "it was also shown in @xcite that although the spacetime of these stars is of petrov type i ( general ; it would be type d for a spherical star ) , the deviation from type d is small , at least on the equatorial plane .",
+    "the ht metric is obtained as a perturbative solution to second order in @xmath5 , where @xmath6 is the star s angular velocity and @xmath7 is a `` keplerian '' rotational scale . the deviation from type d",
+    "is measured by @xmath8 , where @xmath9 is an invariant curvature scalar , with @xmath10 for type d. fig .",
+    "[ francesfig ] @xcite shows that @xmath8 is small also out of the equatorial plane .",
+    "in fact , @xmath8 decreases more rapidly to zero out of the equatorial plane , as one would have expected .",
+    "thus in this sense @xmath8 in the equatorial plane is a good upper limit for the deviation from type d.",
+    "in @xcite methods were introduced to identify , for a general numerical relativity implementation , what was dubbed the quasi - kinnersley frame , an equivalence class of tetrads that reduce , in the limit where the spacetime approaches type d , to the kinnersly tetrad used in @xcite for the bh background . in this tetrad",
+    "the weyl scalar @xmath11 carries information on outgoing gravitational radiation , and @xmath12 on ingoing radiation .",
+    "work is in progress to identify one specific and physically significant tetrad from the equivalence class , appropriate for a generic numerical relativity code using an arbitrary adm slicing .",
+    "however , the method of @xcite is already applicable when using a null slicing , in particular to the bondi metric used in @xcite , where non - linear oscillations of a bh were analysed . in the case of the bondi metric the gravitational wave signal",
+    "can be extracted using the news function @xmath13 ( @xmath14 is retarded time ) , directly related to the outgoing energy . in the linear regime ,",
+    "one expects @xmath15 .",
+    "thus this case is ideally suited to test our method , since we can compare @xcite the news function obtained directly from the bondi metric with that obtained via @xmath11 in the quasi - kinnersley frame .",
+    "[ andreafig ] shows the comparison of @xmath11 with @xmath16 , where in our axisymmetric case @xmath17 , i.e.  the other polarization @xmath18 vanishes .",
+    "clearly the agreement is excellent at late times , as predicted , with an error @xmath19 at @xmath20 .",
+    "[ andreafig ]   and @xmath16 at retarded times @xmath21 , @xmath22 , @xmath23 , @xmath20.,title=\"fig : \" ]",
+    "here we have shown how the method obtained in @xcite works , reproducing very well results obtained in @xcite , when applied in the context of a code using the characteristic approach @xcite .",
+    "work is in progress to find a method to choose one particular quasi - kinnersly tetrad out of the general class in order to properly extract gravitational wave templates from any numerical relativity code using an arbitrary adm slicing .    for a rotating ns",
+    ", we have shown that the deviation of the spacetime from petrov type d is always very small , with @xmath8 rapidly decreasing out of the equatorial plan and with increasing distance from the star ."
+  ],
+  "abstract_text": [
+    "<S> in this talk i will briefly outline work in progress in two different contexts in astrophysical relativity , i.e.  the study of rotating star spacetimes and the problem of reliably extracting gravitational wave templates in numerical relativity . in both cases </S>",
+    "<S> the use of weyl scalars and curvature invariants helps to clarify important issues .     </S>",
+    "<S> address = institute of cosmology and gravitation , university of portsmouth , portsmouth po1 2eg , uk .     </S>",
+    "<S> address = institute of cosmology and gravitation , university of portsmouth , portsmouth po1 2eg , uk .     </S>",
+    "<S> address = institute of cosmology and gravitation , university of portsmouth , portsmouth po1 2eg , uk . </S>"
+  ]
+}

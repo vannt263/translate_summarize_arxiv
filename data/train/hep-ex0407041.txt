@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the work has been supported by the european community - access to research infrastructure action of the improving human potential programme , by the daad exchange programme ( ppp - polen ) , by the polish state committe for scientific research ( grants no .",
+    "2p03b07123 and pb1060/p03/2004/26 ) and by the research centre jlich ."
+  ],
+  "abstract_text": [
+    "<S> due to the high sensitivity of the @xmath0 reaction to the nucleon    nucleon potential , bremsstrahlung radiation is used as a tool to investigate details of the nucleon    nucleon interaction . </S>",
+    "<S> such investigations can be performed at the cooler synchrotron cosy in the research centre jlich , by dint of the cosy11 detection system . </S>",
+    "<S> + the results of the identification of bremsstrahlung radiation emitted via the @xmath1 reaction in data taken with a proton target and a deuteron beam are presented and discussed . </S>",
+    "<S> +    the installation of a neutron detector at the cosy-11 facility  [ 1,2 ] enables to study a plethora of new reaction channels . </S>",
+    "<S> it opens wide possibilities not only to investigate the isospin dependence of the meson production  [ 3 ] , but also to measure the bremsstrahlung radiation created in the collisions of nucleons . </S>",
+    "<S> the study of the latter process is interested since it is highly sensitive to the kind of the nucleon - nucleon potential , and hence may serve as a tool to discriminate between various existing potential models  [ 4,5 ] . </S>",
+    "<S> although bremsstrahlung radiation has been studied since many years , it is still the subject of interest of many theoretical and experimental groups  [ 4,5,6,7 ] . </S>",
+    "<S> + at the cosy11 experiment a signal from @xmath2quanta was observed in the time  of  flight distribution for the neutral particles measured between the target and the neutral particle detector  [ 2 ] . </S>",
+    "<S> this encouraged us to analyse the data in view of the bremsstrahlung radiation in a free @xmath3 and a quasi  </S>",
+    "<S> free @xmath4 reactions .    </S>",
+    "<S> data have been taken using a proton target and a deuteron beam with a momentum close to the threshold of the @xmath5 process . </S>",
+    "<S> events corresponding to the @xmath3 and @xmath6 reaction have been identified by measuring the outgoing charged as well as neutral ejectiles . </S>",
+    "<S> the protons and deuterons are detected by means of drift chambers and scintillator hodoscopes while neutrons and photons are registered in a scintillator  </S>",
+    "<S> lead sandwich type detector . </S>",
+    "<S> the momentum vectors of the charged ejectiles are reconstructed by tracking back the trajectories to the target point  [ 1 ] . in case of a neutron the time  of  flight between the target and the neutral  particle  detector together with the known position of the hitted detection unit enables to determine its four  momentum vector  [ 8 ] . + in order to identify the @xmath3 reaction events with two tracks in the drift chambers and a simultaneous signal in the neutron detector have been selected . in fig.1 ( left ) the squared mass of one particle is plotted versus the squared mass of the other registered particle . </S>",
+    "<S> based on this figure the measured reactions can be grouped according to the type of ejectiles . </S>",
+    "<S> thus reactions with two protons , proton and pion , proton and deuteron , and pion and deuteron can be clearly selected . </S>",
+    "<S> next the distribution of the time  of  flight between the target neutron detector was determined with requirement that one of the charged particles was identified as a proton and the other as a deuteron . due to the baryon number conservation , gamma quanta </S>",
+    "<S> are the only one possible source of a signal in a neutron detector . </S>",
+    "<S> indeed a clear peak around the time corresponding to the time  of  light of the light is visible ( see fig.1 right ) . </S>",
+    "<S> the gamma quanta may originate from bremsstrahlung reaction or from the decay of produced mesons eg . via the @xmath7 . </S>",
+    "<S> it is possible to distinguish between these hypothesis calculating the missing mass produced in the @xmath8 reaction . </S>",
+    "<S> fig.2 left shows the distribution of the squared missing mass as obtained for the @xmath8 reaction . a significant peak around 0  mev@xmath9/c@xmath10  the squared mass of a gamma quanta </S>",
+    "<S>  constitute an evidence for events associated to the deuteron  </S>",
+    "<S> proton bremsstrahlung . </S>",
+    "<S> in addition a broad structure at higher masses originating from two pions emmited from reaction @xmath11 or two gamma quanta from @xmath12 reaction is visible . </S>",
+    "<S> the extraction of the total cross section of the @xmath3 reaction requires the luminosity and acceptance determination , which will be performed in the near future . </S>",
+    "<S> the analysis of the @xmath13 reaction is more complicated , however in this case all three baryons , namely two protons and neutron can be measured in the drift chambers and in the neutron detector , respectively . </S>",
+    "<S> fig.2 ( right ) presents the time  of  flight with the condition that in coincidence with a neutral particle also two protons were identified . a clear signal originating from gamma quanta </S>",
+    "<S> is seen at a time value of 24  ns which coresponds to the velocity of light . using the missing mass technique , it might be possible to verify if gamma quanta originate from the direct @xmath13 reaction . at present </S>",
+    "<S> the data analysis is in progress . </S>"
+  ]
+}

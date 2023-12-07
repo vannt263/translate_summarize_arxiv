@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "the processors virtualization technology permits to split a real physical processor into two virtual chips , so that the operating system , as ms windows or linux , of a computer can use the virtual processors as two real chips .",
+    "example of such technology is intel s hyper threading [ 1 ] .",
+    "the hardware can so be considered as a symmetric multi - processor machine and the software can use it as a true parallel environment .    in this work",
+    "i show some results obtained with parallel computations using matlab [ 2 ] programs on intel technology .",
+    "a previous paper [ 3 ] describes the same cases for an older matlab version and for a single dual processor machine .",
+    "the physical and logical characteristics of the used cluster are presented in the following tables : +    [ cols=\"<,<\",options=\"header \" , ]      +   +",
+    "from the results of the previous section , i deduce the following observations : +    1 .   the case _ _",
+    "nproc__=8 , hence the number of possible hyper - threading virtual processors based on the four physical chips , has the better performances for all the values of the _ m _ parameter ; 2 .   the case _",
+    "nproc__=4 , the number of physical processors in the cluster , has a local peak of performances for all the values of the _ m _ parameter ; 3 .",
+    "the speedup [ 6 ] seems to be better for increasing values of the parameter _ m _",
+    ", hence for larger amount of data to be computed ; in the case _ _ m__=2 the speedup of 8 running processes over the case of 2 processes is about 2.14 , while in the case _ _ m__=6 the same speedup is about 3.35 ( quasi - linear speedup ) .",
+    "+    in the fig .",
+    "1 the graphs are interpolations of the table 1 .",
+    "the peaks of performances at _ _ nproc__=4 and _ _ nproc__=8 are well visible , specially in the case _ _ m__=6 .",
+    "+          from the previous facts one can deduce that a virtual processors technology as hyper threading on a cluster environment can be a good choice for running spmd programs in the case that    * the number of parallel processes is equal to the number of virtual processors ; * the data to be computed have a large amount , particularly when their distribution among processes and the merging of final results are based on files stored on fast storage system .",
+    "i wish to thank simone rossato , member of infrastructures and systems area at ict department , riello group , for helpful discussions about the suse distribution of linux , and dr .",
+    "marco cavallone of mathworks - italy for the possibility of a free evaluation account for linux version of matlab 6.5 .    9 _ www.intel.com/technology/hyperthread_ , 2003 + web site for technical informations about intel hyper threading technology .",
+    "_ www.mathworks.com_ , 2003 + web site of mathworks , the producer of the mathematical package matlab .",
+    "gianluca argentini , _ using virtual processors for spmd parallel programs _ , www.arxiv.org/abs/cs.dc/0312049 , 2003 + the version of this work in the case of a single node and matlab 5.3 . _",
+    "www.mathworks.com/company/newsletter/pdf/spr95cleve.pdf_ , 2003 +",
+    "this is a short but clear paper by cleve moler , co - founder of mathworks , where the author discusses why there is nt a parallel version of matlab ; the article has date 1995 , but in its essential philosophy is still valid . _",
+    "www.mathtools.net/matlab/parallel/index.html_ , 2003 + a web page for a list of parallel extensions , as libraries and tools , to matlab .",
+    "peter pacheco , _",
+    "parallel programming with mpi _",
+    ", morgan kaufmann , 1997 + one of the best books for an introduction to parallel programming and its technical aspects ; it focuses on the message passing interface ."
+  ],
+  "abstract_text": [
+    "<S> in this paper i describe some results on the use of virtual processors technology for parallelize some spmd computational programs in a cluster environment . </S>",
+    "<S> the tested technology is the intel hyper threading on real processors , and the programs are matlab 6.5 release 13 scripts for floating points computation . by the use of this technology </S>",
+    "<S> , i tested that a cluster can run with benefit a number of concurrent processes double the amount of physical processors . </S>",
+    "<S> the conclusions of the work concern on the utility and limits of the used approach . </S>",
+    "<S> the main result is that using virtual processors is a good technique for improving parallel programs not only for memory - based computations , but in the case of massive disk - storage operations too . </S>"
+  ]
+}

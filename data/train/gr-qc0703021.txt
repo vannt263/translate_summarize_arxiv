@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "among the various models proposed for the explanation of the accelerated expansion in terms of dark energy ( de ) , distinctions can be made between static ( cosmological constant ) or dynamical ( e.g. quintessence ) , coupled or uncoupled to dark matter ( dm ) , clustering or unclustering or even unified ( chaplygin gas ) de . this wealth of models calls for discriminating schemes .",
+    "the goal of this work is to propose a unified analysis extending previous studies ( see le  delliou 2006@xcite , manera & mota 2006@xcite and@xcite references therein ) of de impact on dark matter haloes on mass functions , for confrontation with other de assessments .",
+    "[ cap : choice - of - scalar ]",
+    "we model a cosmic fluid with baryons , radiation and , either uncoupled ( and coupled ) dm with          > p10.2cmc    [ cols=\"^ \" , ]     &    > m11 cm     le  delliou 2006@xcite & manera & mota 2006@xcite    a(n ) ( un)clustering scalar field de ( quintessence ) @xmath0 , ( non-)minimally coupled to dm , or a chaplygin gas ( gcg )  dm / de unified component  defined either from @xmath1 or from a scalar field mimicking it .",
+    "we restrict to flat backgrounds , a linear coupling and model clustering through energy conservation .",
+    "the models are defined by their potential ( table [ cap : choice - of - scalar ] ) .",
+    "we already studied homogeneous minimal quintessences ( left side , upper part@xcite ) and a coupled , clustering quintessence ( left side , lower part@xcite ) .",
+    "all potentials shown will have clustering and interaction .",
+    "we use the top hat spherical collapse to model non - linear structure formation as a friedmann sphere with higher , varying curvature .",
+    "we extract the linearly extrapolated overdensity as a function of non - linear collapse scale factor @xmath2 .",
+    "this is combined in a press - schechter scheme to get the mass function of large scale structures .",
+    "the results obtained so far are presented in fig .",
+    "[ cap : cumulative - mass - functions ] .",
+    "extending previous evidence of de models impact on dm mass functions , our results permit the confrontation of several homogeneous models and the examination of clustering and interacting quintessence .",
+    "this have shown that more insights can be drawn from confrontation of several homogeneous models@xcite and that strong effects on mass function evolution proceed from clustering and interacting quintessence@xcite . indeed , the spread of @xmath310% at @xmath4 between mass functions and the hierarchy between models on the lower ( @xmath5 ) panel of the left part of fig .",
+    "[ cap : cumulative - mass - functions ] shows that the method should be most discriminant on clusters scales and that the impact of @xmath6 dominates other effects .",
+    "moreover , its right part entails that , contrary to homogeneous models , de clustering increases dm clustering while coupling decreases it .",
+    "this motivates our extended study of de models with mass functions .",
+    "some pending questions remain : our use of birkhoff s theorem with spherical symmetry in cosmology may require some mass function corrections ; geometric effects are argued to induce a degeneracy in angular mass functions@xcite , not taking the bias - geometry dependence@xcite into account .",
+    "we are extending our results to other models ( table [ cap : choice - of - scalar ] ; chaplygin gas ) , including clustering and interacting de .",
+    "further developments are also planned .",
+    "see acknowledgements in @xcite .",
+    "current work involves j.p .",
+    "mimoso , u. lisboa , d.f . mota , u. heidelberg , c. van de bruck , u. sheffield and o. bertolami , ist lisboa",
+    ".    1 m. le  delliou , _ jcap _ * 0601 * , 021 ( 2006 ) [ astro - ph/0506200 ] m. manera and d.  f. mota , _ mnras _ * 371 * , 1373 ( 2006 ) [ astro - ph/0504519 ] r. mainini and s.  a. bonometto , _ phys .",
+    "d _ * 74 * , 043504 ( 2006 ) [ astro - ph/0605621 ] a. albrecht and c. skordis , _ phys .",
+    "lett . _ * 84 * , _ _ _ _ 2076 _ _ ( 2000 ) [ astro - ph/9908085 ] v. sahni and l. wang , _ phys .",
+    "d _ * 62 * , 103517 ( 2000 ) [ astro - ph/9910097 ] s. dodelson , m. kaplinghat and e. stewart , _ phys .",
+    "lett _ * 85 * , 5276 ( 2000 ) [ astro - ph/0002360 ] o. bertolami , a.  a. sen , s. sen and p.  t. silva , _ mnras _ * 353 * , 329 ( 2004 ) [ astro - ph/0402387 ] p. solevi , r. mainini and s.  a. bonomento , _ apj _ ( 2004 ) [ astro - ph/0412054 ] n. kaiser , _ apj _ * 284 * , l9 ( 1984 )"
+  ],
+  "abstract_text": [
+    "<S> this project proposes to discriminate in the wealth of models for dark energy using the formation of non - linear dark matter structures . in particular , it focuses on structures traced by the mass function of dark matter haloes . </S>"
+  ]
+}

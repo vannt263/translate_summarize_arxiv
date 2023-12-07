@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the lep centre - of - mass energy ( @xmath10 ) for @xmath11 collisions has now exceeded the w pair and z pair production thresholds , allowing the study of triple gauge boson production processes such as @xmath0 and @xmath12 .",
+    "measurements of these processes give a new insight into the standard model of electroweak interactions ( sm )  @xcite .",
+    "the possibility of these triple gauge boson production processes proceeding via @xmath13-channel exchange of a fourth boson provides a probe of quartic gauge boson couplings ( qgc ) .",
+    "such measurements were recently performed for the @xmath12 process  @xcite .",
+    "this letter describes the first measurement of the cross section of the process @xmath0 followed by the hadronic decay of the z. in the sm this process occurs by radiation of the photons from the incoming electron and/or positron , corresponding to a total of six diagrams , three of which are presented in figure  [ fig:0 ] .",
+    "no qgc contribution is predicted at the tree level and z@xmath14 events are sensitive to anomalous qgc  @xcite contributions , as shown in figure  [ fig:0 ] .",
+    "the measurement uses data collected with the l3 detector  @xcite at lep in 1997 and 1998 at average centre - of - mass energies of @xmath15 and @xmath16 corresponding to integrated luminosities of 55pb@xmath1 and 176pb@xmath1 , respectively .",
+    "these energies are respectively denoted as @xmath17 and @xmath18 hereafter .",
+    "the @xmath19 signal is defined by three phase space cuts : photon energies above @xmath20 , photon angles with respect to the beam axis between @xmath21 and @xmath22 and invariant mass of the primary produced quarks within a @xmath23 window around the z mass , @xmath24 being the z width .",
+    "the kk2f monte carlo ( mc ) program  @xcite predicts signal cross sections of about @xmath25 at both energies .",
+    "the selection of events satisfying the signal definition given above is optimised using hadronic events generated at @xmath26 with the kk2f mc program and at @xmath27 with the pythia5.72  @xcite mc program .",
+    "events from these mc programs failing the signal definition are termed qcd@xmath14 background .",
+    "other background processes are generated both at @xmath27 and @xmath26 with the mc programs pythia ( @xmath28 and @xmath29 ) , koralz4.02  @xcite ( @xmath30 ) , phojet1.05c  @xcite ( @xmath31 ) and koralw1.21  @xcite for @xmath32 production except for the @xmath33 final states which are generated with excalibur  @xcite .",
+    "additional background sources are found to be negligible .",
+    "the l3 detector response is simulated using the geant 3.15 program  @xcite , which takes into account the effects of energy loss , multiple scattering and showering in the detector .",
+    "time dependent detector inefficiencies , as measured in each data taking period , are reproduced in these simulations .",
+    "the selection of @xmath19 candidates from balanced hadronic events with two photons and little energy deposition at low polar angles is based on photon energies and angles together with the invariant mass of the hadronic system .",
+    "the photon energy and angle criteria follow directly from the signal definition whereas the invariant mass of the hadronic system is required to be between @xmath34 and @xmath35 .",
+    "the main background after these selection requirements is due to the radiation of two initial state photons with a hadronic system failing the z signal definition criteria .",
+    "the boost @xmath36 of the recoiling system to the photons , assuming its mass to be the nominal z mass , is on average larger for these background events .",
+    "candidate events are hence required to have @xmath37 at @xmath27 and @xmath38 at @xmath26 .",
+    "another class of background events is the so called radiative return to the z , where a photon in the initial state is emitted , bringing the effective @xmath10 to the z resonance .",
+    "a z boson is then produced decaying into a hadronic system with an electromagnetic energy deposition ( photon , misidentified electron or unresolved @xmath39 ) faking the least energetic photon of the signal selection .",
+    "these events are rejected by an upper bound on the energy @xmath40 of the most energetic photon and a lower bound on the angle @xmath41 between the least energetic photon and its closest jet .",
+    "numerically @xmath42 at @xmath27 and @xmath43 at @xmath44 with @xmath45 at both the energies .    data and mc distributions of the selection variables are presented in figure  [ fig:1 ] for @xmath26 , where selection criteria on all the other variables are applied . a good agreement between data and mc is observed .",
+    "the application of the selection procedure described above yields the signal efficiencies and selected data and mc events summarised in table  1 .",
+    "a clear signal structure is observed in the recoil mass spectra of the two photons , presented in figure  [ fig:2 ] for the two centre - of - mass energies under study .",
+    "the @xmath19 cross section at @xmath27 and @xmath26 is then determined from the number of events selected and the efficiency and background estimates from mc ."
+  ],
+  "abstract_text": [
+    "<S> a first measurement of the cross section of the process @xmath0 is reported using a total integrated luminosity of 231pb@xmath1 collected with the l3 detector at centre - of - mass energies of @xmath2 and @xmath3 . by selecting hadronic events with two isolated photons </S>",
+    "<S> the @xmath0 cross section is measured to be @xmath4 at @xmath2 and @xmath5 at @xmath3 . </S>",
+    "<S> the measurements are consistent with standard model expectations </S>",
+    "<S> . limits on quartic gauge boson couplings @xmath6 and @xmath7 of @xmath8 and @xmath9 are derived at 95% confidence level . </S>"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "in recent years there has been a revived interest in theories having a larger number of spatial dimensions than the three that are observed .",
+    "in contrast to the original kaluza - klein theories of extra dimensions , the recent development of extra dimensional theories allow the extra dimensions to be large and even infinite in size ( in the original kaluza - klein theories the extra dimensions were curled up or compactified to the experimentally unobservable small size of the planck length : @xmath0 cm ) .",
+    "these new extra dimensional theories have opened up new avenues to explaining some of the open questions in particle physics ( the hierarchy problem , nature of the electro - weak symmetry breaking , explanation of the family structure ) and astrophysics ( the nature of dark matter , the nature of dark energy ) .",
+    "in addition they predict new experimentally measurable phenomena in high precision gravity experiments , particle accelerators , and in astronomical observations .",
+    "we consider 5d gravity + two interacting fields @xcite .",
+    "the key for the existence of a regular solution here is that the scalar fields potential have to have _ local _ and _ global _ minima , and at infinity the scalar fields tend to a local but _ not _ to global minimum .",
+    "the 5d metric is @xmath1 the lagrangian for the scalar fields @xmath2 and @xmath3 is @xmath4 where @xmath5 .",
+    "the potential @xmath6 is @xmath7 where @xmath8 is a constant which can be considered as a 5d cosmological constant @xmath9 .",
+    "the profile of the potential @xmath6 is presented in fig .",
+    "[ fig3 ] .",
+    "the corresponding field equations are @xmath10 , \\label{sec2 - 85}\\\\       \\phi '' + 4 \\frac{a'}{a } \\phi ' & = & \\phi \\left [            \\chi^2 + \\lambda_1 \\left ( \\phi^2 - m_1 ^ 2 \\right )       \\right ] , \\label{sec2 - 95}\\\\       \\chi '' + 4 \\frac{a'}{a } \\chi ' & = & \\chi \\left [            \\phi^2 + \\lambda_2 \\left ( \\chi^2 - m_2 ^ 2 \\right )       \\right ] .",
+    "\\label{sec2 - 105}\\end{aligned}\\ ] ] the boundary conditions are @xmath11 the boundary condition and eq . give us the following constraint @xmath12 this means that the constant @xmath8 is not an arbitrary constant but it is defined by the @xmath13symmetry of the thick brane .    the mathematical problem for solving these equations",
+    "is that _ not for all _ values of the parameters @xmath14 _ a regular solution exists .",
+    "_ thus the problem of finding a regular solution of these equations is _ a non - linear eigenvalue problem _ for the parameters _",
+    "@xmath14 _ and the eigenfunctions _",
+    "@xmath15_. in fig .",
+    "[ fig1 ] we present _ the regular solution _ which describes the thick brane solution for the 5d gravity . the dimensionless energy density is presented in fig . [ fig2 ] .",
+    "the thickness of the brane depends on all parameters which are included in the equations : @xmath16",
+    "* at the infinity the scalar fields tends to _ a local minimum not to global_. * the first item leads to the fact that the solution is _ topologically trivial_. * mathematically the solution of einstein - scalar fields equations is _ a non - linear eigenvalue problem .",
+    "_ * there are arguments ( @xcite ) that these scalar fields present non - perturbatively quantized su(3 ) gauge field . in this case",
+    "the brane world is a plain defect in 5d spacetime filled with a gauge condensate ."
+  ],
+  "abstract_text": [
+    "<S> a new 5d thick brane solution is presented . </S>",
+    "<S> we conjecture that the deduced thick brane is a plane defect in a bulk gauge condensate . </S>"
+  ]
+}

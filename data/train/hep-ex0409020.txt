@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "this study is based on the measurement of the forward - backward charge asymmetry of electron - positron pairs at cdf in @xmath5 collisions with @xmath6  =  1.96 tev at fermilab  @xcite .",
+    "the process @xmath7 , where @xmath8 is an isolated high p@xmath9 electron or muon , is mediated primarily by virtual photon at low energy  @xcite , and by the @xmath3 at @xmath10  =  @xmath11 .",
+    "elsewhere the interference of these two processes is an important effect .",
+    "the vector and axial - vector couplings of the gauge bosons to fermions give rise to an asymmetry in the polar angle of the lepton momentum in the rest frame of the lepton pair with respect to the proton direction .",
+    "the annihilation process @xmath12 depends on the helicities of the initial fermion @xmath13 and the final electron @xmath14 .",
+    "the amplitude is given by  @xcite : @xmath15 where @xmath16 denotes the square of the center of mass energy , and the coefficients are given in table  [ tab : rosner_couplings ] for ( @xmath17,@xmath18 ) = ( @xmath19,@xmath20 ) .",
+    "the differential cross section for @xmath21 is@xmath22 .",
+    "\\label{eq : xsection}\\ ] ]    .left- and right - handed couplings , where @xmath23 and @xmath24 . [ cols=\"^,^,^,^,^,^,^\",options=\"header \" , ]     the dominant source of the systematic error is the energy resolution of cdf electromagnetic calorimeter , which is measured using the rate of @xmath25 as a function of @xmath26 .",
+    "other sources of the systematic error include the uncertainties in pdf , the effect of material , energy scale and background .",
+    "the coupling constants of the @xmath3 to left- and right - handed electrons are measured assuming standard model quark couplings and are also shown in table  [ tab : q ] .",
+    "finally , effective @xmath27 is measured _ via _ its effects on the quark and electron couplings as in table  [ tab : q ] .",
+    "the sensitivity is dominated by the @xmath3-electron couplings near the @xmath3 pole .",
+    "the value of @xmath4 and the coupling constants of quarks and electron to the @xmath3 boson were measured using 72 @xmath28 of cdf run ii data .",
+    "the result shows agreement with standard model .",
+    "since the errors are dominated by the statistical errors , sensitivity is expected to improve with higher luminosity , and systematic errors will improve with increased statistics .",
+    "greg veramendi _",
+    "et al _ , measurement of forward - backward charge asymmetry of electron - positron pairs , to be submitted to prd . s.d . drell and t",
+    "yan , phys rev",
+    ". lett . * 25 * , 316 , 902 ( e ) 1970 ; ann .",
+    "( n.y . ) * 66 * , 578 ( 1971 ) . j.l",
+    ".  rosner , phys .",
+    "b * 221 * , 85 ( 1989 ) .",
+    "u. baur , o. brein , w. hollik , c. schappacher and d. wackeroth , phys .",
+    "d * 65 * 033007 ( 2002 ) .",
+    "j. erler , private communication ; hep - ph/0005084 ."
+  ],
+  "abstract_text": [
+    "<S> the forward - backward charge asymmetry ( @xmath0 ) of @xmath1 is sensitive to the vector and axial - vector couplings of the initial state quarks and final state leptons . </S>",
+    "<S> based on the measurement in @xmath2 of cdf run ii data , we measure the coupling constants of the @xmath3 boson to quarks and electron . the electroweak mixing angle , @xmath4 , is also measured through its relation to the coupling constants .    </S>",
+    "<S> = 14.5pt </S>"
+  ]
+}

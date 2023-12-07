@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "conventional on - axis ( as opposed to off - axis@xcite ) pulsed laser deposition is one of the most convenient methods for growing films of high - temperature superconductors ( hts ) and hts - based multilayer structures@xcite .",
+    "a large number of droplets and other macro - particles arriving at the substrates is the main problem of the method .",
+    "use of a fast shutter for velocity filtration of plasma streams induced by a short - wave excimer laser radiation ( wavelength 308  nm or shorter ) has been found to be an effective method for protecting substrates from hit of the particles@xcite .    as compared to the excimer lasers",
+    "yag : nd@xmath0 lasers are handy and cheaper in use however the radiation density across their beams usually is non - uniform .",
+    "furthermore , they produce radiation of longer ( 1.06 @xmath5 m ) wavelength and generate much more droplets and solid particles of larger size , therefore .    in this paper new conditions of on - axis preparation of yba@xmath2cu@xmath3o@xmath4 ( ybco ) films by yag",
+    ": nd@xmath0 pulsed laser are studied .",
+    "the ybco film deposition was performed in oxygen atmosphere at a pressure of 0.3 mbar on zro@xmath2:y@xmath2o@xmath3 ( ysz ) and srtio@xmath3 single - crystal substrates heated to a temperature of 680@xmath6c and placed at a distance 5.5  cm from a rotated y - ba - cu - o ceramic target .",
+    "a disc - chopper installed between the target and the substrate at a distance 3.8  cm from the target was used as a fast shutter .",
+    "an opening of 2.5  cm diameter was milled out 6 cm off the disk center .",
+    "the yag : nd@xmath0 laser pulses of 10  ns duration , 0.1 - 0.4  j energy , and about 14 hz repetition rate were triggered by a phase - adjustable electronic device when the opening situated opposite the substrate .",
+    "@xmath1 of the films was measured as the temperature of the alternating - magnetic - field half - screening ( i.e. when the susceptibility @xmath7 ) .",
+    "starting the on - axis deposition with targets of yba@xmath2cu@xmath3o@xmath4 composition we got non - stoichiometric films with low @xmath1 and a large amount of precipitates on the surfaces . changing the target composition by small steps we tested the properties of the films deposited in various conditions .",
+    "the highest @xmath1 and no precipitates had the films of nearly stoichiometric ( or with a small ba deficit ) composition , however we found that their preparation required the targets of about yba@xmath8cu@xmath2o@xmath9 composition .",
+    "the ordinary on - axis deposition of 200 nm thick films using the infrared exciting radiation led to extremely large number of droplets ( up to 10@xmath10 @xmath11 ) . as the size of the particles was typically of 1@xmath5 m and reached 5 - 10@xmath5 m , they covered the film surface almost completely and caused a dramatic @xmath1 reduction .",
+    "the disc - chopper rotated with a revolution rate higher than 200 hz demonstrated an excellent separation of the fast vapor stream and the slow macro - particles by time of flight , the @xmath1 increasing ( see fig.1 ) and the surface becoming smooth .",
+    "practically complete detaining the particles ( reduction by a factor of 10@xmath12 , at least ) was observed with the rotation faster than 300 hz .     of the ybco films grown on ysz substrates with different rotation frequency @xmath13 of the disc - chopper .",
+    "]    we revealed also a dramatic @xmath1 reduction with increasing non - uniformity of the radiation density .",
+    "so far as highly uniform beam profile was difficult to achieve and maintain , we increased the mean pulse energy density from 5 - 8 to 10 - 20 j/@xmath14 so reducing the vapor composition fluctuations due to complete evaporation of the less - irradiated target zones .",
+    "however , it led to a ball - like plasma shape and to bad transfer of the material to the substrate . by various multimode adjustment of the laser resonator or using a mask we formed the beam profile so that to get sharp and bright lines ( * @xmath15 * , * @xmath16 * , * @xmath17 * ) or several bright spots instead of the ordinary ( @xmath18 ) filled - circle shape .",
+    "as a result we got both the high pulse energy density and the large size of the irradiated target area without increasing the entire energy , so providing an oblong shape of the plasma and an effective vapor transfer .",
+    "a reproducible growth of the high - quality films was enabled ( see examples in table1 and fig.2 ) .    [ cols=\"^,^,^,^,^,^\",options=\"header \" , ]     * - profiled beam , @xmath13=400  hz ) and srtio@xmath3 ( * @xmath16 * -profiling , @xmath13=380 hz ) substrates . ]    since our films grown on highly ( 100)-oriented substrates had reduced @xmath1 ( 85 - 87k ) , to all appearance due to the terrace epitaxy disturbance@xcite , we became using slanting cut substrates ( all the data presented above belong to the films grown on the substrates cut 2 - 4@xmath6 off the ( 100 ) plane ) .",
+    "stable growth of ybco films with @xmath1 about 90  k or higher was observed on ysz and srtio@xmath3 substrates cut with the slant from 2 to 20@xmath6 .",
+    "in summary , due to the foregoing study of the on - axis yag : nd@xmath0 laser deposition of hts films , several novelties ( namely , the beam profiling , the velocity filtering realized for the infrared exiting radiation , the considerably non - stoichiometric targets , and the slanting cut substrates ) have been introduced and reproducible growth of high - quality ybco films has been reached .",
+    "the author is grateful to a.v.varlashkin for the chopper control electronic device assembling .",
+    "e.v.pechen , r.schnberger , b.brunner , s.ritzinger , k.f.renk ,  m.v.sidorov ,  and  s.r.oktyabrsky , epitaxial growth of yba@xmath2cu@xmath3o@xmath4 films on oxidized silicon with yttria- and zirconia - based buffer layers . j.appl.phys . * 74 * , 3614 - 16 ( 1993 ) .",
+    "e.v.pechen , a.v.varlashkin , s.i.krasnosvobodtsev , b.brunner , and k.f.renk , pulsed - laser deposition of smooth high-@xmath1 superconducting films using a synchronous velocity filter . appl.phys.lett . *",
+    "66 * , 2292 - 94 ( 1995 ) .",
+    "r.grosser , a.martin , o.kus , e.v.pechen , and w.schpe , levitation of small permanent magnet between superconducting yba@xmath2cu@xmath3o@xmath4 thin films .",
+    "( the netherlands , 30 june-3 july 1997 ) , inst.phys.conf.ser . * 158 * , 1643 - 46 ( 1997 ) ."
+  ],
+  "abstract_text": [
+    "<S> a special shaping of yag : nd@xmath0 laser beam profile has been found to improve homogeneity and @xmath1 of yba@xmath2cu@xmath3o@xmath4 films being deposited by the pulsed laser . </S>",
+    "<S> targets of a considerably non - stoichiometric composition and substrates of slanting cuts have turned to be necessary for the high - quality film growing . </S>",
+    "<S> multiple droplets and solid particles ejected from the target surface by the infrared radiation are removed successfuly from the laser - induced plasma by use of a velocity filter .    </S>",
+    "<S> films ; laser deposition ; high-@xmath1 superconductor </S>"
+  ]
+}

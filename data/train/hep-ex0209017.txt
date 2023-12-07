@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "slac experiment e158 is an @xmath9 fix target experiment .",
+    "a beam of longitudinally polarized ( polarization @xmath10 ) @xmath11 of 45gev(or 48.3gev ) collides with a 1.5 meter long target of liquid @xmath12 ( unpolarized ) .",
+    "the produced interactions are mainly ( @xmath13 ) moller scattering , ( @xmath14 ) elastic scattering and ( @xmath15 ) inelastic scattering .",
+    "the experiment goal is to measure the asymmetry in the cross section of the moller scattering @xmath16 with a precision of @xmath17 . in equation [ asymm ] @xmath18 is the cross section for incident right(left ) helicity electrons . in the standard model @xmath19",
+    "is due to the interference between weak and electromagnetic feynman diagrams . at the tree ,",
+    "level for e158 kinematics ( at a @xmath4 of 0.003@xmath20 ) , @xmath19 is about 3.2 @xmath21 .",
+    "radiative corrections reduce it to about 1.8 @xmath21 . from @xmath19 one",
+    "can extract @xmath22 .",
+    "e158 goal is @xmath8 , this gives unique sensitivity to new physics at the tev level ( compositeness , guts , extra dimensions , lepton flavor violation ) .",
+    "the degree of precision desired requires : 1)large statistics ( the goal is for 600 million pairs of pulses on target , each pulse of about 5 @xmath23 , from which 1/10000 is detected ) .",
+    "2)an electron beam polarized source photocathode capable of produce high polarization with high electron intensity .",
+    "3)high beam stability , intensity jitter @xmath24 , spotsize jitter @xmath25 , position jitter @xmath25 .",
+    "4 ) small beam helicity correlated asymmetries and differences in beam intensity ( @xmath26 ) , beam position and angle ( @xmath27 ) , beam energy ( @xmath28 ) .",
+    "5)precise electron beam monitoring devices , toroid resolution @xmath29 parts per million ( ppm ) , beam position monitor resolution @xmath30 per pulse , energy resolution @xmath3150 ppm per pulse .",
+    "6)stable liquid @xmath12 , density fluctuations @xmath32 7)a high flux - integrating calorimeter detector with resolution @xmath31100 ppm per pulse , with nonlinearity @xmath24 and able to perform well after high radiation damage .",
+    "8)compatible with pepii operation ( babar collaboration experiment ) .",
+    "9)theoretical predictions of ep elastic and inelastic asymmetries which are important backgrounds to our measurement .",
+    "e158 had its first physics run in 2002 , 6 weeks may - june .",
+    "approximately 250 million pulses were logged .",
+    "we are performing a blind analysis ( moller asymmetry value randomly offset ) which we expect to complete by the end of september 2002 .",
+    "we obtain a @xmath33 ppm ( stat ) . in table",
+    "[ table 1 ] we give electron beam delivery and monitoring performance and in table [ table 2 ] the electron beam asymmetries and their contributions to the moller asymmetry .",
+    "e158 will run 6 weeks october - november 2002 and probably 6 weeks at the end of 2003 , hopefully completing the experiment ."
+  ],
+  "abstract_text": [
+    "<S> slac experiment e158 is a precision measurement of parity violation in mller scattering in which @xmath050 gev longitudinally polarized electrons scatter off unpolarized electrons in a liquid hydrogen target . </S>",
+    "<S> the resulting left - right parity - violating asymmetry is proportional to @xmath1 , where @xmath2is the electroweak mixing angle . </S>",
+    "<S> experiment e158 will provide the most precise measurement to date of @xmath2off the mass of @xmath3 boson at a @xmath4 of 0.003@xmath5 . </S>",
+    "<S> this measurement will provide an important test for the standard model with tev scale sensitivity to new physics . the predicted standard model asymmetry is @xmath6 . </S>",
+    "<S> the e158 goal is to measure this asymmetry to an accuracy of better than @xmath7 , which corresponds to @xmath8 . in our poster </S>",
+    "<S> we presented an overview of the e158 experimental setup as well as our performance during the 2002 run .    </S>",
+    "<S> = 14.5pt </S>"
+  ]
+}
