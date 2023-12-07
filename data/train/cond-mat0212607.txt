@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "recently , the ordered double perovskites sr@xmath0@xmath2@xmath3o@xmath1 ( @xmath2 being the magnetic @xmath4 element , and @xmath3 being the @xmath5 or @xmath6 element ) have attracted a great deal of attention .",
+    "the interest to these systems was spurred on by large intergrain - tunneling magnetoresistance observed at room temperature in sr@xmath0femoo@xmath1 and sr@xmath0fereo@xmath1  @xcite , which opens wide perspectives for technological applications . on the contrary , sr@xmath0mnmoo@xmath1 remains paramagnetic down to the very low temperature  @xcite .",
+    "the magnetic susceptibility of sr@xmath0mnmoo@xmath1 obeys the curie - weiss law with fairly large effective moment . however , there is something that prevents formation of the long - range magnetic order in this material ( a similar situation occurs in double - layer manganites la@xmath7sr@xmath8mn@xmath0o@xmath9 around @xmath10@xmath11@xmath12  @xcite ) . in this work",
+    "we argue that such a behavior may be due to the competition between ferromagnetic ( fm ) and type - ii antiferromagnetic ( afm ) phases .",
+    "the main idea of this work is to complement the standard total energy calculations with the analysis of inter - atomic magnetic interactions in the collinear magnetic state characterized by the directions @xmath13 of the spin magnetic moments .",
+    "the latter can be described in terms of a perturbation theory expansion for small rotations @xmath14 near @xmath15 .",
+    "the  perturbed ",
+    "direction of the magnetic moment at the site @xmath16 is given by @xmath17@xmath11@xmath18@xmath19@xmath20@xmath21@xmath22$]@xmath23 , and the total energy change @xmath24@xmath11@xmath25@xmath26@xmath27 in the second order of @xmath14 can be exactly mapped onto the heisenberg model as  @xcite : @xmath28 .",
+    "\\label{eqn : heisenberg}\\ ] ] eq .",
+    "( [ eqn : heisenberg ] ) originates from the taylor series expansion for @xmath29 near @xmath30 , and @xmath31 are related with the second derivatives of @xmath29 with respect to @xmath32 .",
+    "@xmath31 can be expressed through the matrix elements of the one - electron green function and the magnetic part of the kohn - sham potential at the site @xmath33 , @xmath34@xmath11@xmath35@xmath26@xmath36 , as  @xcite : @xmath37 with @xmath38 denoting the trace over the orbital indices .",
+    "all calculations have been performed in the local - spin - density approximation , using the asa - lmto method  @xcite .",
+    "the calculated densities of states for the fm and afm phases are shown in fig.[fig.dos ] , as a function of the breathing distortion @xmath39@xmath11@xmath40 ( the ratio of mn - o and mn - mo bondlengths ) .    when @xmath39@xmath41@xmath42 , the fm state is metallic . the fermi level crosses mn(@xmath43 ) band in the majority ( @xmath44)-spin channel and the mo(@xmath45 ) band in the minority ( @xmath46)-spin channel .",
+    "therefore , one can expect two main contributions , which tends to stabilize the fm ordering : the canonical double exchange ( de ) operating in the @xmath44-spin mn(@xmath43 ) band , similar to the colossal magnetoresistive manganites  @xcite ; and a generalized de mechanism associated with partial filling of the @xmath46-spin mo(@xmath45 ) band and originating from the strong mn - mo hybridization  @xcite .",
+    "the breathing distortion @xmath39@xmath47@xmath48 tends to fully populate the mn(@xmath43 ) band and depopulate the mo(@xmath45 ) band .",
+    "therefore , when @xmath39 increases , the de interactions of the both types will _",
+    "decreases_.    the afm phase is metallic in the undistorted cubic structure ( @xmath39@xmath11@xmath48 ) .",
+    "however , even small oxygen displacement towards the mo sites opens the band gap .",
+    "the situation corresponds to the formal configurations @xmath49 ( mn@xmath50 ) and @xmath51 ( mo@xmath52 ) of the transition - metal sites .",
+    "the half - filled mn(@xmath4 ) states give rise to the afm superexchange ( se ) interactions , similar to the rock - salt monoxide mno , which are roughly proportional to @xmath26@xmath53 .",
+    "the effective hoppings @xmath54 between nearest - neighbor ( @xmath55 ) mn(@xmath4 ) orbitals are smaller in sr@xmath0mnmoo@xmath1 ( in comparison with mno ) , as they are mediated by much longer mn - o - mo - o - mn paths .",
+    "however , @xmath56 is expected to be also smaller in sr@xmath0mnmoo@xmath1 , which is more itinerant material than mno .",
+    "thus , smaller @xmath54 in sr@xmath0mnmoo@xmath1 is compensated by smaller @xmath56 , and the resulting se interactions are expected to be comparable with those in mno .",
+    "the qualitative discussions are supported by direct calculations of inter - atomic magnetic interactions ( fig.[fig.jij ] ) . in the fm state ,",
+    "the @xmath57 exchange @xmath58 between next - nearest - neighbors in the mn sublattice is the strongest interaction .",
+    "the @xmath55 ( @xmath59 ) interaction @xmath60 is significantly weaker and becomes antiferromagnetic around @xmath39@xmath11@xmath61 .",
+    "however , the fm interaction @xmath58 largely prevails and the fm phase remains stable at least up to @xmath39@xmath11@xmath42 .",
+    "the @xmath55 interactions @xmath62 between mn and mo sublattices is small and does not play any role in the problem .",
+    "the breathing distortion in the afm state stabilizes the afm coupling ( both between first and second nearest neighbors in the mn - sublattice ) . @xmath63 and @xmath64 are of the order of 5 - 8 mev , and comparable with similar interactions in mno  @xcite .",
+    "thus , within the interval @xmath48@xmath65@xmath39@xmath41@xmath42 _ both _ fm and type - ii afm phases are locally stable .",
+    "next , we argue that these two local minima of the total energy may exist in the very narrow energy range , so that _ two magnetic solutions are nearly degenerate_. this is qualitatively supported by results of direct total energy calculations shown in fig.[fig.etot ] .",
+    "the situation when the fm and afm solutions become nearly degenerate can occur roughly around @xmath39@xmath11@xmath61 .",
+    "we have argued that sr@xmath0mnmoo@xmath1 may have ( at least ) two total energy minima corresponding to the metallic fm and insulating type - ii afm states , which coexist in the very narrow energy range .",
+    "we expect the competition between these states to prevent the formation of the long - range magnetic order which features the experimental behavior of sr@xmath0mnmoo@xmath1 down to the very low temperature .",
+    "the quantitative description of such a situation , using results of first - principles electronic structure calculations , could be one of the possible extensions of the present work ."
+  ],
+  "abstract_text": [
+    "<S> it is argued that the magnetic behavior of sr@xmath0mnmoo@xmath1 is determined by the existence of two total energy minima corresponding to the metallic ferromagnetic and insulating antiferromagnetic states , which may be nearly degenerate depending on the magnitude of the breathing distortion . </S>",
+    "<S> + _ pacs : _ 71.20.be ; 71.70.gm ; 72.25.ba ; 75.30.et    _ keywords : _ ordered double perovskites , double exchange and superexchange interactions , electronic structure calculations , lattice distortion    * on the competition between ferromagnetic and antiferromagnetic states in sr@xmath0mnmoo@xmath1 *   + i.  v.  solovyev + _ tokura spin superstructure project ( sss ) , + erato japan science and technology corporation , + c / o national institute of advanced industrial science and technology , + aist tsukuba central 4 , 1 - 1 - 1 higashi , tsukuba , ibaraki 305 - 8562 , japan _ </S>"
+  ]
+}

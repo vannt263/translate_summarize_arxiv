@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "repulsive step potentials , or collapsing sphere@xmath0 , have been used to describe liquid - liquid phase transition@xmath1 and pattern formation in self- organizatio@xmath2 , the tip5p model of wate@xmath3 has a steep repulsion on the oxygen ( part of the lennard- jones potential ) and coulombic potentials centered on the hydrogens plus two other points , all tetrahedrally located from the oxygen , so that near the oxygen there is some kind of a step potential .",
+    "simulations using a computer program written to calculate the radial distribution function of hard spheres with a repulsive step were done .",
+    "the potential is characterized by sigma=2=hard sphere diameter and sigma1=sigma*1.55=3.1= diameter of second length .",
+    "the step lies between sigma and sigma1 and has height ep . for distances greater than sigma1",
+    "the potential is zero and less than sigma , is infinite .",
+    "the temperature used ( redt in the program ) is in reduced units kt / ep , where k is the boltzmann constant .",
+    "the reduced density is given by the number of particles divided by the volume of the box ( n / v ) and this is multiplied by the hard sphere diameter cubed .",
+    "the number of particles used is reporte@xmath4 to be as low as 32 .",
+    "recen@xmath5 research indicates that size effects using 32 particles are small .",
+    "thirty two particles were used in a canonical ( nvt constant ) ensemble for this preliminary study .",
+    "the number of equilibration cycles equalled the number of measurement cycles of 100,000 mc cycles .",
+    "one mc cycle or one monte carlo step per particle ( mcs ) , is the equivalent of the `` time ''",
+    "it takes for n particles on the average to have had a chance to change their coordinates .",
+    "as density increased in figures 1 and 2 , the peaks were getting sharper ; this is characteristic of greater order among the particles .",
+    "structural changes in the arrangements of the spheres are expecte@xmath6 to be exhibited by changes in the radial distribution function .",
+    "preliminary results indicate that there are changes in g(r ) brought about by structural changes , however some of these can be subtle .",
+    "it is best to get more thermodynamic data including mean square displacement and specific heat in order to determine the phase diagram ."
+  ],
+  "abstract_text": [
+    "<S> canonical ensemble monte carlo calculations have been carried out on spheres with two different length scales . </S>",
+    "<S> radial distribution functions at various temperatures and densities were computed and compared . </S>",
+    "<S> preliminary results indicate that there are differences but because these may be subtle , more calculations including self - diffusion coefficient , heat capacity , etc </S>",
+    "<S> . would be necessary in order to determine a phase diagram . </S>"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "experimental successes of the bec and the fermi degenerate systems of the trapped atomic gas have opened up renewed interests in the boson - fermion mixed condensates , which are expected to show many interesting physical phenomena @xcite .    in case",
+    "that the boson - fermion interaction is enough attractive , the boson - fermion pairs can make quasi - bound states , which behave as composite fermions bf , and produce new phases as the bf degenerate state .    in this paper",
+    ", we discuss the phase structures of the mixed condensates under the existence of the quasi - bound states with solving the equilibrium condition for the reaction : @xmath2 .",
+    "especially interesting is a competition between the bf degenerate states and the bec of unpaired bosons ; the energy - reduction in the bf binding energies v.s . that in the boson kinetic energies in the bec .",
+    "if the bf binding energy is enough large , the bf pairs can exhaust the bosons and the bec will not appear in the mixed condensates .",
+    "let s consider the uniform system of porallized bosons and fermions ( b and f ) , with the masses @xmath3 and @xmath4 .",
+    "the total numbers of b and f should be conserved and their densities are @xmath5 and @xmath6 each other . a quasi - bound state ( composite fermion ) bf is assumed to exist with the mass @xmath7 .    in states with temperature @xmath8 , because of the equilibrium @xmath9 , a part of the atom b and f are paired in the bf states , and the others are in free unpaired states .",
+    "the equilibrium condition is given by @xmath10 where @xmath11 are chemical potentials of atoms b , f , bf each other , and @xmath12 is a binding energy of the bf state .",
+    "the chemical potentials in ( [ eqa ] ) are obtained by the density formulae of the free bose / fermi gas : @xmath13 where @xmath14 is a boltzmann constant , and @xmath15 are the densities of the free ( unpaired ) b and f and the composite bf .",
+    "solving eq .",
+    "( [ eqa ] ) with ( [ eqb]-[eqd ] ) under the atom number conservation for b and f : @xmath16 and @xmath17 , we obtain the densities @xmath15 as functions of @xmath8 and @xmath18 .",
+    "when @xmath8 and @xmath19 satisfy @xmath20 , a part of free bosons condensates into the bec , and @xmath21 becomes zero . in that case , the equilibrium condition becomes @xmath22 .",
+    "when the bec exists , the condensed- and normal - component densities of bosons @xmath23 are defined by @xmath24 $ ] , and @xmath25 .",
+    "-dependence of boson density ]    as an typical example , we show the @xmath8-dependence of free boson density @xmath26 when @xmath27 in fig .  1 .",
+    "the lines a0-a5 are for @xmath28 .",
+    "the oblique straight line is the critical border of the bec region .",
+    "the @xmath19 are found to decrease with decreasing @xmath8 ; it is because the number of composite fermions increases in low-@xmath8 . in small @xmath29 cases ( a0-a3 ) ,",
+    "the @xmath19 is still large and free bosons can condensate into the bec in low-@xmath8 , but , in large @xmath29 cases ( a4,a5 ) , free bosons are exhausted in making composite fermions and the @xmath19 becomes too small for the bec realization .",
+    "the line a6 corresponds to the critical case . in high-@xmath8 region , all composite fermions dissociate into free bosons and fermions , so that @xmath19 approaches to @xmath30 .            at @xmath1 ,",
+    "the condition ( [ eqa ] ) becomes @xmath37 , where @xmath38 ( @xmath39 ) .",
+    "it can be solved algebraically and gives the phase structures at @xmath1 . in fig .  3",
+    ", we show the phase diagrams in @xmath40 plane when @xmath41 , where the symbol ( b , f , bf ) means the coexistence of free bosons and free and composite fermions , and so on .      in summary",
+    ", we studied the role of the composite fermion in the boson - fermion mixed condensates and its phase structure in low-@xmath8 .",
+    "the more details and further applications of the present results should be discussed in further publication@xcite ."
+  ],
+  "abstract_text": [
+    "<S> the phase structures of the boson - fermion ( b and f ) mixed condensates of atomic gas are discussed under the existence of boson - fermion composite fermions ( quasi - bound states ) bf from the equilibrium in @xmath0 . </S>",
+    "<S> especially we discuss the competitions between the bf degenerate states and the bose - einstein condensates ( bec ) in low - t . </S>",
+    "<S> the criterion for the bec realization is obtained from the algebraically - derived phase diagrams at @xmath1 .    ,    ,    bose - einstein condensate ; fermi degenerate gas ; quantum atomic gas ; </S>"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "an antiferromagnetic phase is observed in most _ cuprate _ high @xmath4 superconductors . on the other hand antiferromagnetic correlations",
+    "are considered to play an important role in the mechanism of pair formation in those materials .",
+    "the normal phase of @xmath0 hubbard model has been studied intensively by the composite operator method ( com ) , leading to good agreement with numerical results and experimental data @xcite .",
+    "a study of the af phase in the @xmath0 hubbard model by com is therefore supposed to give some insight in both , the nature of antiferromagnetism and the pair forming mechanism .",
+    "we investigate the hubbard hamiltonian on a @xmath0 square lattice with additional next ",
+    "nearest neighbor hopping @xmath3 @xmath5 by means of com @xcite , using the hubbard operators @xmath6 and @xmath7 as components of the basic spinor @xmath8 .    to describe the af phase we introduce a coarse grained , bipartite lattice with lattice constant @xmath9 , overlaying the chemical lattice by grouping together pairs of nearest neighbors in the usual way . for the two sublattices @xmath10 and @xmath11 we assume a symmetric electronic state , @xmath12 .    the retarded greens functions @xmath13 with @xmath14 in the static approximation where finite life time effects are neglected are determined in a fully self  consistent way by the constraints @xmath15 and @xmath16 , emerging from the algebra of the hubbard operators , namely from the pauli principle .",
+    "the critical value of the coulomb interaction is given in fig .",
+    "[ fig : u_c ] as function of @xmath3 .     at @xmath17 and @xmath18 . as inset",
+    "the band structure is shown for @xmath19 and @xmath20 at the same temperature and particle density . ]",
+    "@xmath21 turns out to be significantly larger then in results obtained by renormalization group techniques @xcite@xcite , which might be due to the fact , that the latter is valid only in the weak coupling limit , whereas com provides a good approximation for intermediate and strong coupling as well .",
+    "the band structure shows the opening of a gap at the transition line between the paramagnetic and the af phase .     at @xmath17 , @xmath22 and @xmath18 .",
+    "as inset the corresponding values of the internal energy per site are plotted . ]    in fig .",
+    "[ fig : m(t ) ] the sublattice magnetization @xmath23 is plotted versus temperature for different values of the coulomb interaction . with decreasing magnetization the energy per site , which is not sublattice dependent because of the above symmetry assumption on the electronic state , is increasing , reaching finally the paramagnetic value at vanishing @xmath24 .",
+    "first results for the af phase of the @xmath0 hubbard model obtained by com within a fully self  consistent treatment were presented .",
+    "further results and a detailed elaboration of the theoretical framework will be presented elsewhere .",
+    "f.  mancini , s.  marra and h. matsumoto , physica c * 244 * ( 1995 ) 49 ; ibidem * 250 * ( 1995 ) 184 ; ibidem * 252 * ( 1995 ) 361 j.v .",
+    "alvarez , j.  gonzlez , f.  guinea , a.h .",
+    "vozmediano , j.  phys .",
+    "japan * 67 * ( 1998 ) j.v .",
+    "alvarez , j.  gonzlez , europhys .",
+    "* 44 * ( 1998 )"
+  ],
+  "abstract_text": [
+    "<S> we present a first study of the antiferromagnetic state in the @xmath0 @xmath1@xmath2@xmath3 model at finite temperatures by the composite operator method , providing simultaneously a fully self  consistent treatment of the paramagnetic and the af phase . near half filling the critical value of the coulomb repulsion as a function of @xmath3 and the temperature dependence of the magnetization and internal energy have been studied .    ,    ,    hubbard model ; strongly correlated electron systems ; antiferromagnetism ; composite operator method </S>"
+  ]
+}

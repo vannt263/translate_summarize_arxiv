@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "stochastic rate processes in bi- or multi - stable systems lead to many interesting phenomena observed in various scientific areas ranging from physics to social science , and have thus been studied for a long time .    here",
+    "we consider a network of stochastically driven bistable elements whose distinct feature is a time - delayed coupling .",
+    "the time delays are considered as uniform and the network elements are assumed to be highly interconnected , so that the connectivity can be approximated by a global all to all coupling .",
+    "the dynamics of the network is numerically explored by using a langevin model and analytically by using a gaussian approximation and a dichotomous model , derived from the corresponding fokker - planck equations and master equation , respectively .",
+    "the langevin model consists of @xmath0 equations , each describing the overdamped motion of a particle in a bistable potential in the presence of noise and global coupling to a time - delayed mean field @xmath1 , @xmath2 where @xmath3 is the time delay , @xmath4 is the coupling strength of the feedback and @xmath5 denotes the variance of the gaussian fluctuations @xmath6 .",
+    "in order to theoretically study the dynamical properties of a globally coupled set of noisy bistable elements ( with no time delay ) , desai and zwanzig @xcite derived a hierarchy of equations for the cumulant moments of the distribution function from the multi - dimensional fokker - planck equation for the joint probability distribution for all elements . for large noise intensities , when the statistics of individual elements are approximately gaussian , this hierarchy can be truncated . applying this approach to our system",
+    "yields the following set of equations for the mean field @xmath7 and the variance @xmath8 ,",
+    "to study the dynamics of a single bistable element with time - delayed feedback tsimring and pikovsky @xcite used a dichotomous approximation . in the dichotomous approximation intra - well fluctuations of @xmath9",
+    "are neglected , so that a bistable element can be replaced by a discrete two - state system .",
+    "applying this complementary approach to our system , allows us to express the mean field dynamics in terms of the hopping rates @xmath10 which denote the probability of a bistable element to change its state form @xmath11 to @xmath12 and vice versa , respectively .",
+    "the equation for the mean field reads @xmath13 where the hopping probabilities are given by the kramers transition rate @xcite , which in the limit of small noise and small coupling strength reads ( cf .",
+    "@xcite ) @xmath14",
+    "phase diagram of the langevin model ( crosses ) , the gaussian approximation ( dashed lines ) and the dichotomous theory ( solid lines ) .",
+    "double lines indicate hysteretic transitions among phases.,width=200 ]    a numerical study of the langevin model ( eq . [ lang ] ) shows that the system undergoes ordering transitions and demonstrates multistability .",
+    "that is , for a strong enough positive coupling the system exhibits a non - zero stationary mean field and a variety of stable oscillatory states are accessible for positive and negative feedback .",
+    "while the transition to the non - zero stationary mean field is second order ( continuous ) , the type of the oscillatory transitions depends on the system parameters and can be first order ( discontinuous ) , associated with hysteretic behavior , or second order .    a linear stability analysis of eq .  ( [ xx1 ] )",
+    "yields the critical coupling strengths @xmath15 and the frequencies @xmath16 of the accessible oscillatory states .",
+    "it is found that the oscillation periods can be arbitrary small meaning that a separation of time scales of the macroscopic mean field dynamics and the microscopic hopping dynamics of the constituent bistable elements is not possible .",
+    "a comparison of the langevin model with the gaussian approximation and the dichotomous theory shows that while near the transition points the system dynamics is strongly non - gaussian , it is in this regime well described by a two - state model ( see fig .",
+    "[ phase ] ) , which allows for a complete analysis of the bifurcations of the trivial equilibrium .",
+    "the normalized coherence @xmath17 of the oscillatory state at @xmath18 as a function of the noise strength d , for networks of different size @xmath0 as well as for the dichotomic theory .",
+    "the coherence is given through @xmath19 , where @xmath20 is the hight of the dominant spectral peak at @xmath21 and @xmath22 is the half - width of the peak.,width=222 ]      both , kramers random switching frequency @xmath23 ( see [ p1221 ] ) and the frequency of the oscillatory states @xmath16 , resulting from the coupling with the time - delayed mean field , depend on the noise strength , i.e. , @xmath24 and @xmath25 .",
+    "thus , the noise can be tuned so that the random hoping between the potential wells of the bistable oscillators is synchronized with the periodic modulation of the mean - field .",
+    "this statistical synchronization takes place when @xmath26 , where the coherence of the oscillatory states becomes maximal .    for the @xmath27 case",
+    "the coherence resonance was observed by @xcite .",
+    "we observe that the resonance phenomenon not only persists in globally coupled networks with large @xmath0 , but is enhanced , a property which was found in other systems and is sometimes referred to as array - enhanced resonance @xcite ."
+  ],
+  "abstract_text": [
+    "<S> the dynamics of an ensemble of bistable elements under the influence of noise and with global time - delayed coupling is studied numerically by using a langevin description and analytically by using 1 ) a gaussian approximation and 2 ) a dichotomic model . </S>",
+    "<S> we find that for a strong enough positive feedback the system undergoes a phase transition and adopts a non - zero stationary mean field . </S>",
+    "<S> a variety of coexisting oscillatory mean field states are found for positive and negative couplings . </S>",
+    "<S> the magnitude of the oscillatory states is maximal for a certain noise temperature , i.e. , the system demonstrates the phenomenon of coherence resonance . </S>",
+    "<S> while away form the transition points the system dynamics is well described by the gaussian approximation , near the bifurcations it is more adequately described by the dichotomic model .     </S>",
+    "<S> address = institute for nonlinear science , university of california , san diego , la jolla , ca 92093 - 0402 </S>"
+  ]
+}

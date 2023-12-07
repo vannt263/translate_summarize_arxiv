@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "since long time financial data have been widely studied by economists , mathematicians and , more recently , by physicists @xcite .",
+    "the variations of these financial time series can be seen as stochastic processes where a set of financial quantities is varying in time as consequence of underlying economic changes .",
+    "the present availability of enormous sets of financial data allows to get increasingly important insights on the complex behavior of these systems starting from empirical studies .",
+    "these investigations are leading to more and more accurate results on risk assessment and search for market imperfections .",
+    "one of the important points in these analyses is to individuate similarities and specificities among the analyzed financial time series .",
+    "this search has been widely exploited for stocks price changes whereas interest rates have been less investigated @xcite . for several economic reasons , interest rates and bonds have very similar statistical behavior in time or , in other words , they are all highly correlated .",
+    "their multivariate dynamics has been studied with a correlation - based clustering procedure in a set of us treasury securities where an underlying hierarchical structure has been detected @xcite .",
+    "here we investigated a partially different and less homogeneous set to evaluate the degree of hierarchal organization among different time series in a diversified group of bonds .",
+    "we investigate weekly data for 34 selected interest rate time series recorded in the federal reserve ( fr ) statistical release database @xcite . in the following",
+    "we will indicate these time series with the symbol @xmath3 , where @xmath4 is the current date and @xmath5 is a number which labels the different time series ( see tab.[t.1 ] ) .",
+    "the corresponding interest rates associated with these clusters are summarized in first column ( 1982 - 1997 ) of fig.[f.delta ] ( right ) where the ultra - metric distances at which the nucleation process starts and ends for each cluster are also indicated .",
+    "as one can see , the empirical analysis allow us to distinguish several different clusters that gather together meaningful quantities :    * all the interest rates with maturities equal to 1 months ; * all the interest rates with maturities 3 and 6 months with distinctions for the treasury securities at ` constant maturity ' ( tc ) , treasury bill rates ( tba ) and treasury bill secondary market rates ( tbs ) ; * all the interest rates with maturities between 1 and 3 years ; * all the interest rates with maturities larger than 3 years .",
+    "fig.[f.ficlust ] reports the plot for the interest rates time series @xmath6 grouped into the different sets retrieved from the cluster analysis described above .",
+    "for some of the series the data - collapse is impressive , indicating that the correlations inside the clusters are strong in any part of the analyzed period .",
+    "it is therefore interesting to investigate whether a cluster structure , similar to the one obtained for the period 1982 - 1997 , could be retrieved from an analysis on shorter periods .",
+    "this is of course a delicate point since the fragmentation of the data sets will increase the fluctuations due to the noise .",
+    "we choose to divide the whole period 1982 - 1997 in four smaller periods of 4 years .",
+    "the results are reported in fig.[f.delta ] ( right ) where it is evident how the cluster structure is mostly conserved ( and partially modified ) in this 4-years period analysis . in conclusion , from the analysis of different kinds of interest rates in money and capital markets , referring to government , private , industries securities and commitments , we have shown how the used clustering linkage procedure is useful to detect differences and analogies among these tangled correlated data .",
+    "r. n. mantegna and h. e. stanley , `` an introduction to econophysics '' , cambridge university press ( cambridge , 2000 ) .",
+    "j. p. bouchaud , and m. potters , `` theory of financial risks '' , cambridge university press ( cambridge , 2000 ) .",
+    "m. m. dacorogna , r. gencay , u. a. muller , r. olsen , o. v. pictet , `` an introduction to high - frequency finance '' , academic press ( 2001 ) .",
+    "a. r. pagan , a. d. hall , and v. martin , `` modeling the term structure '' , handbook of statistics * 14 * , elsevier science b. v. ( 1997 )",
+    ". r. rebonato , `` interest - rate option models '' , john wiley & sons ( new york 1998 ) .",
+    "j. p. bouchaud , n. sagna , r. cont , n. el - karoui and m. potters , cond - mat/9712164 ( 1997 ) , _ applied mathematical finance _ * 6 * ( 1999 ) 209 - 232 .",
+    "m. bernaschi , l. grilli and d. vergni , _ physica a _ * 308 * ( 2002 ) 381 - 390 . t. di matteo and t. aste , _ j. theoret",
+    ". finance _ * 5 * ( 2002 ) 122 - 127 , cond - mat(0101009 ) ."
+  ],
+  "abstract_text": [
+    "<S> an empirical analysis of interest rates in money and capital markets is performed . </S>",
+    "<S> we investigate a set of @xmath0 different weekly interest rate time series during a time period of 16 years between @xmath1 and @xmath2 . </S>",
+    "<S> our study is focused on the collective behavior of the stochastic fluctuations of these time - series which is investigated by using a clustering linkage procedure . without any a priori assumption , </S>",
+    "<S> we individuate a meaningful separation in 6 main clusters organized in a hierarchical structure .    ,    </S>",
+    "<S> ,    interest rates , data clustering , correlations , econophysics . </S>"
+  ]
+}
