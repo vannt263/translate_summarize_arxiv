@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "luminous compact blue galaxies ( lcbgs ) are a morphologically and spectroscopically diverse class of galaxies characterized by high luminosity ( m@xmath3  @xmath418.5 ) , blue color ( b@xmath5v@xmath60.6 ) and high surface brightness ( sb@xmath7 21 mag arcsec@xmath8 ) . at z@xmath01 ,",
+    "lcbgs are common , contributing 45% of the total star formation rate density , but they evolve rapidly being ten times rarer by z@xmath00 . as such , it is important to understand the role of lcbgs in galaxy formation and evolution .",
+    "yet we do not know the basic nature of these galaxies nor their evolutionary fate .",
+    "they may evolve into dwarf ellipticals @xcite , irregular or low - mass spiral galaxies @xcite , or bulges of grand - design spirals @xcite . in order to discriminate between these possibilities ,",
+    "we have begun a multi - wavelength study of the rare , local ( d@xmath9200  mpc ) lcbgs .",
+    "our sample was selected from the sloan digital sky survey to match the rest - frame optical properties as lcbgs observed at z@xmath01 .",
+    "a key component of this study is the measurement of the hi flux and linewidths , allowing determinations of gas content , dynamical masses , and gas depletion timescales .",
+    "such measurements constrain the evolutionary possibilities for this class of galaxies .",
+    "background and preliminary results have been previously reported by @xcite ; in this proceedings we present the first results from our expanded study of 142 lcbgs .",
+    "our single - dish hi data come from a number of sources : 57 lcbgs were observed with arecibo , the green bank telescope ( gbt ) , or nanay , down to a 5@xmath10  m@xmath1 detection limit of 2.5@xmath1110@xmath12m@xmath13 .",
+    "data on the remaining 85 galaxies come from @xcite , @xcite , @xcite , and the gbt hi survey .",
+    "we reanalyzed all of the spectra ; only two galaxies were marginal detections and two were undetected .",
+    "our survey found that local lcbgs have a diverse range of hi properties , but that they are generally gas - rich with m@xmath14 .",
+    "they have m@xmath2 within r@xmath15 of 10@xmath16 .",
+    "these properties , as well as their mass - to - light and m@xmath1/m@xmath2 , are similar to those of late - type spiral galaxies @xcite .",
+    "lcbgs have specific star formation rates ( sfr / m@xmath2 ) similar to hii galaxies , and gas depletion timescales @xmath172  gyr for the majority of the population .",
+    "the sizes and hi linewidths of local lcbgs , which should not evolve dramatically , suggest that they will become massive dwarf ellipticals or dwarf irregulars , or late - type spiral galaxies .",
+    "if the z@xmath01 lcbgs have similar gas properties , then we can infer that those lcbgs will follow similarly diverse evolutionary paths .",
+    "this work confirms the results of @xcite with a much larger sample .",
+    "we have begun a program of mapping a number of these galaxies in hi to search for gas - rich companions , signatures of outflows and recent interactions , as well as to obtain resolved measurements of their rotation curves to derive their dynamical masses .",
+    "finally , we are obtaining additional data ranging from the radio to the x - ray regime , to further understand the nature of these galaxies ."
+  ],
+  "abstract_text": [
+    "<S> luminous compact blue galaxies ( lcbgs ) are common at z@xmath01 , contributing significantly to the total star formation rate density . by z@xmath00 , they are a factor of ten rarer . while we know </S>",
+    "<S> that lcbgs evolve rapidly , we do not know what drives their evolution nor into what types of galaxies they evolve . </S>",
+    "<S> we present the results of a single - dish hi survey of local lcbgs undertaken to address these questions . </S>",
+    "<S> our results indicate that lcbgs have m@xmath1 and m@xmath2 consistent with low - mass spirals , but typically exhaust their gas reservoirs in less than 2 gyr . </S>",
+    "<S> overall , the properties of lcbgs are consistent with them evolving into high - mass dwarf elliptical or dwarf irregular galaxies or low - mass , late - type spiral galaxies . </S>"
+  ]
+}

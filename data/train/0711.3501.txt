@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "it is well known that hyperons appear at several times normal nuclear density and lead to a strong softening of the equation of state ( eos ) with a consequent substantial reduction of the maximum neutron star mass .",
+    "actually the microscopic brueckner - hartree - fock approach gives much lower masses than current observation values of @xmath0 .    on the other hand ,",
+    "the hadron - quark deconfinement transition is believed to occur in hot and/or high - density matter .",
+    "taking eos of quark matter within the mit bag model , the maximum mass can increase to the chandrasekhar limit once the deconfinement transition occurs in hyperon matter @xcite . since the deconfinement transition from hadron to quark phase may occur as a first - order phase transition",
+    ", the hadron - quark mixed phase should appear , where charge density as well as baryon number density is no more uniform .",
+    "owing to the interplay of the coulomb interaction and the surface tension , the mixed phase can have exotic shapes called pasta structures @xcite .",
+    "the bulk gibbs calculation of the mixed phase , without the effects of the coulomb interaction and surface tension , leads to a broad region of the mixed phase ( mp ) @xcite .",
+    "however , if one takes into account the geometrical structures in the mixed phase and applies the gibbs conditions , one may find that mp is considerably limited and thereby eos approaches to the one given by the maxwell construction ( mc ) @xcite .    in this report",
+    "we explore the eos and the structure of the mixed phase during the hyperon - quark transition , properly taking account of the gibbs conditions .",
+    "the numerical procedure to determine the eos and the geometrical structure of the mp is similar to that explained in detail in ref .",
+    "we employ a wigner - seitz approximation in which the whole space is divided into equivalent wigner - seitz cells with a given geometrical symmetry , sphere for three dimension ( 3d ) , cylinder for 2d , and slab for 1d . a lump portion made of one phase",
+    "is embedded in the other phase and thus the quark and hadron phases are separated in each cell .",
+    "a sharp boundary is assumed between the two phases and the surface energy is taken into account in terms of a surface - tension parameter @xmath1 .",
+    "the energy density of the mixed phase is thus written as @xmath2 \\ : , % \\end{equation } % $ ] where the volume of the wigner - seitz cell @xmath3 is the sum of those of hadron and quark phases @xmath4 and @xmath5 , @xmath6 the quark - hadron interface area .",
+    "@xmath7 , @xmath8 and @xmath9 are energy densities of hadrons , quarks and electrons , which are @xmath10-dependent since they are functions of local densities @xmath11 ( @xmath12 ) .",
+    "the coulomb potential @xmath13 is obtained by solving the poisson equation . for a given density @xmath14 , the optimum dimensionality of the cell , the cell size @xmath15 , the lump size @xmath16 , and the density profile of each component",
+    "are searched for to give the minimum energy density .",
+    "we employ @xmath17 in the present study .    to calculate @xmath7 in the hadron phase , we use the thomas - fermi approximation for the kinetic energy density .",
+    "the potential - energy density is calculated by the nonrelativistic bhf approach @xcite based on microscopic nn and ny potentials that are fitted to scattering phase shifts .",
+    "nucleonic three - body forces are included in order to ( slightly ) shift the saturation point of purely nucleonic matter to the empirical value .    for the quark phase , we use the mit bag model with massless @xmath18 and @xmath19 quarks and massive @xmath20 quark with @xmath21 mev .",
+    "the energy density @xmath8 consists of the kinetic term by the thomas fermi approximation , the leading - order one - gluon - exchange term @xcite proportional to the qcd fine structure constant @xmath22 , and the bag constant @xmath23 .",
+    "we here use @xmath24 @xmath25 and @xmath26 to get the quark eos which crosses the hadronic one at an appropriate baryon density .",
+    "figure  [ figprof ] illustrates an example of the density profile in a 3d cell .",
+    "one can see the non - uniform density distribution of each particle species together with the finite coulomb potential ; charged particle distributions are rearranged to screen the coulomb potential . the quark phase is negatively charged , so that @xmath19 and @xmath20 quarks are repelled to the phase boundary , while @xmath18 quarks gather at the center .",
+    "the protons in the hadron phase are attracted by the negatively charged quark phase , while the electrons are repelled .",
+    "figure  [ figeos ] compares the resulting eos with that of the pure hadron and quark phases .",
+    "the thick black curve indicates the case of the mc , while the colored line indicates the mp in its various geometric realizations starting with a quark droplet structure and ending with a bubble structure .",
+    "note that the charge screening effect , combined with the surface tension , makes the non - uniform structures mechanically less stable and limits the density region of the mp @xcite .",
+    "consequently the energy of the mp is only slightly lower than that of the mc .",
+    "however , the structure and the composition of the mp are very different from those of the mc ,        which is demonstrated in fig .",
+    "[ figratio ] , where we compare the particle fractions as a function of baryon density in the full calculation ( left panel ) and the mc ( right panel ) .",
+    "one can see that the compositions are very different in two cases .",
+    "in particular , a relevant hyperon ( @xmath27 ) fraction is only present in the mc . non - uniform structure and suppression of hyperons in the mixed phase should have some implications on the neutrino transport and cooling of pulsars ."
+  ],
+  "abstract_text": [
+    "<S> we investigate the properties of the hadron - quark mixed phase in compact stars using a brueckner - hartree - fock framework for hadronic matter and the mit bag model for quark matter . </S>",
+    "<S> we find that the equation of state of the mixed phase is similar to that given by the maxwell construction . </S>",
+    "<S> the composition of the mixed phase , however , is very different from that of the maxwell construction ; in particular , hyperons are completely suppressed .    ,    ,    ,    neutron star , mixed phase , hyperon mixture , quark matter , pasta structure    97.60.jd , 12.39.ba , 26.60.+c </S>"
+  ]
+}

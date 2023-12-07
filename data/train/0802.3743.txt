@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "+   + * * +",
+    "we observe that +   +   +   +   +   + 2 . for a given initial ratio , except for the light quarks and anti - quarks",
+    ", the output does not depend much on the initial baryon number density .",
+    "for the light quarks and antiquarks this variation is due to the presence of the exponentiated non - zero chemical potentials .",
+    "+ 3 . for a given initial baryon number density we can recast the equation for baryon number density in the form @xmath25 + @xmath26 ... (27 )    where c is a constant for a given temperature , light quark fugacity and given baryon number density . here",
+    "d is the light quark to antiquark initial fugacity ratio . for a fixed light quark fugacity and temperature , as d falls clearly the rhs of the above equation increases which indicates a rise in the chemical potential .",
+    "again for a system of higher chemical potential , the temperature has to drop at a slower rate due to the constraint imposed .",
+    "hence we observe that +   + i ) the temperature falls at a slower rate for a smaller value of the light quark to antiquark initial fugacity ratio .",
+    "+ ii ) as the temperature falls at a slower rate , it would imply a lesser expenditure of energy to produce particles in general .",
+    "this would show up in the slower rise of all fugacity values except the light antiquark , which would show a higher growth rate .",
+    "this is due to the exponentiated chemical potential part .",
+    "+ 4 . for inclusion of the quark - flavour - changing process",
+    "we observe the following : +   + due to the additional production of s - quarks from massless quarks via qfcp , we see an additional increase in fugacity of the strange quark while , the rate of equilibration falls for non - strange fermions ."
+  ],
+  "abstract_text": [
+    "<S> parton equilibration studies for a thermally equilibrated but chemically non - equilibrated quark - gluon plasma ( qgp ) , likely to be formed at the relativistic colliders at bnl and cern is presented . </S>",
+    "<S> parton equilibration is studied enforcing baryon number conservation . </S>",
+    "<S> process like quark - flavour interchanging is also taken into consideration . </S>",
+    "<S> the degree of equilibration is studied comparatively for the various reactions / constraints that are being considered . </S>"
+  ]
+}

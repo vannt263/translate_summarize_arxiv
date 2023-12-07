@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "scalar leptons are among the lightest supersymmetric particles in many susy - breaking scenarios @xcite .",
+    "they mainly decay into their standard model ( sm ) leptonic partners and the lightest supersymmetric particle .",
+    "searches for sleptons at hadron colliders will thus mainly be focused on highly - energetic lepton pairs plus missing energy .",
+    "a precise prediction of the transverse - momentum spectrum of the slepton pair @xcite allows to use the cambridge ( s)transverse mass to measure the slepton masses @xcite and spin @xcite and to extract the signal from @xmath1 and @xmath2 production events @xcite , which are the main backgrounds to drell - yan slepton pair production at the lhc .",
+    "the ( lo ) cross section for the production of a non - mixing slepton pair was computed in , while recently the mixing between the interaction eigenstates has been included @xcite .",
+    "the next - to - leading order ( nlo ) qcd corrections have been calculated in @xcite , and the full susy - qcd corrections have been added in @xcite .",
+    "the genuine susy corrections turned out to be quite small compared to the standard qcd ones due to the presence of massive non - mixing squarks and gluino propagators in the loop diagrams .",
+    "the aim of our work @xcite was to extend the previous calculations by including mixing effects relevant for the squarks appearing in the loops , and also considering the threshold - enhanced contributions due to soft - gluon emission from the initial state .",
+    "these enhancements arise when the available partonic energy is just enough to produce the final state particles and thus there is a mismatch between virtual corrections and phase - space suppressed real - gluon emission .",
+    "this causes the appearance of large logarithmic terms @xmath3_+$ ] at the @xmath4 order of perturbation theory , where @xmath5 , @xmath6 is the slepton - pair invariant mass , and @xmath7 is the partonic center - of - mass energy",
+    ". clearly , when @xmath7 is close to @xmath8 , the convergence of the perturbative result is spoiled and the large logarithms have to be resummed , i.e.  taken into account to all orders in @xmath9 .",
+    "most importantly , the convolution of the partonic cross section with the steeply falling parton distributions enhances the threshold contributions even _",
+    "far _ from hadronic threshold , i.e. when @xmath10 , where @xmath11 is the hadronic center - of - mass energy .",
+    "large corrections are thus expected for the drell - yan production of a slepton pair with invariant mass @xmath6 of a few hundreds gev at the lhc .",
+    "the resummation of the large logarithmic contributions proceeds through the exponentiation of the soft - gluon radiation , which does not take place in @xmath12-space directly , but in mellin @xmath0-space , where @xmath0 is the mellin - variable conjugate to @xmath12 : the threshold region @xmath13 corresponds to the limit @xmath14 .",
+    "a final inverse mellin - transform is thus required to go back to the usual @xmath12-space .",
+    "threshold resummation for the drell - yan process was first performed in @xcite at the leading - logarithmic ( ll ) and next - to - leading - logarithmic ( nll ) levels , corresponding to terms of the form @xmath15 and @xmath16 in the exponent . the extension to the nnll level ( @xmath17 terms )",
+    "has been carried out both for the drell - yan process @xcite and for higgs - boson production @xcite . very recently ,",
+    "even the nnnll contributions ( @xmath18 terms ) became available @xcite .",
+    "a suitable matching procedure has eventually to be performed in order to keep the full information contained in the fixed - order calculation and to apply the resummation technique only where it is fully justified . a correct matching",
+    "is achieved by adding the resummed and fixed - order contributions and then subtracting the expansion of the resummed result at the same perturbative order of the fixed - order calculation : in this way , a possible double - counting of the logarithmically - enhanced contributions is avoided and a uniform theoretical accuracy over the entire invariant mass range is obtained .",
+    "since the total cross section for slepton pair production is currently available at nlo , we could only perform soft - gluon resummation at the nll+nlo level @xcite .",
+    "we used the computer program suspect @xcite to calculate the physical masses of the susy particles and the mixing angles , and we chose the msugra point sps 1a and gmsb point sps 7 @xcite , as benchmarks for our numerical studies . in the case of the lightest stau mass eigenstate @xmath19 , which we will examine in the following , the returned value for the mass is @xmath20=136.2 gev for sps 1a and @xmath20=114.8 gev for sps 7 .",
+    "feasibility studies of tau - slepton identification at the lhc with the atlas detector @xcite and tau tagging with the cms detector @xcite have recently shown that stau masses should be observable up to the tev range .",
+    "the cross sections have been calculated both for the tevatron , currently operating at @xmath21=1.96 tev and for the lhc , bound to operate at @xmath21=14 tev . for lo ( nlo and nll ) predictions , we used the lo 2001 @xcite ( nlo 2004 @xcite ) mrst - sets of parton distribution functions .    in fig.[fig1 ]",
+    "we show the @xmath22-factor , with respect to the lo result , of the invariant - mass @xmath23 distribution for stau pair production at the lhc : the total nll+nlo matched , the nll resummed , the fixed order nlo ( susy-)qcd and the expanded nll resummed curves are plotted .",
+    "the resummed contribution mildly grows with @xmath6 , reaching a 7% increase over the fixed - order result for @xmath6=3 tev . in this large-@xmath6 region ,",
+    "the resummed result approaches the total prediction , since the nlo qcd calculation is dominated by large logarithms and thus approaches the expanded resummed result .",
+    "however , we are still far from the hadronic threshold region , so that both resummed and fixed - order contributions and a consistent matching of the two are needed . at lower values of @xmath6 , where finite terms dominate , the resummed contribution is close to its fixed - order expansion and disappears with @xmath6 .",
+    "the dependence on the factorization and renormalization scales has also been investigated both for the total cross section and for the invariant mass differential distribution . within the conventional scale variations @xmath24 , the uncertainty reduces from 20% at nlo to roughly 10% after the inclusion of threshold effects .",
+    "+    -factors for third - generation slepton - pair production at the lhc .",
+    "we show the total nll+nlo matched , the nll resummed , the fixed order nlo ( susy-)qcd and the expanded nll resummed curves . ]",
+    "* acknowledgements .",
+    "* this work was partially supported by the deutsche forschungsgemeinschaft under sfb tr-9 `` computergesttzte theoretische teilchenphysik '' ."
+  ],
+  "abstract_text": [
+    "<S> we present a study of threshold resummation effects for slepton pair production at the large hadron collider ( lhc ) . after confirming the known nlo qcd corrections and generalizing the nlo susy - qcd corrections to the case of mixing squarks in the virtual loop contributions , we employ the mellin @xmath0-space resummation formalism to compute logarithmically enhanced soft - gluon terms to all perturbative orders . </S>"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "storing and querying structured metadata is an important point for building astronomical archives containing heterogeneous datasets coming from various telescopes and/or instruments .",
+    "ivoa characterisation data model ( mcdowell et al . , in prep . ) allows to describe a position of any astronomical dataset in the multidimensional space of physical parameters .",
+    "thus , building query interface on top of the characterisation metadata , will provide enough capabilities for elaborated queries often needed for sophisticated scientific usage of the resource .",
+    "usage of mature and freely available dbms engine as a backend for the query interface is of a big importance for further development of working prototypes implementing characterisation dm , since relational database server can solve many data structure and manipulation problems one may encounter when deploying data archive in a consistent way .    with the advent of native xml support in relational database engines it all become possible .",
+    "we use open source postgresql dbms for storing and querying characterisation metadata",
+    ".    initial xml type support in the postgresql has recently been implemented by ns in a frame of  google summer of code 2006  .",
+    "we make heavy use of this feature in order to provide comprehensive search over characterisation metadata tree .",
+    "figure  [ p3.23_fig1 ] demonstrates the concepts used to store and query xml structures , and shows how xpath expressions can be incorporated in sql queries .",
+    "we built a prototype of the characterisation metadata query service , implementing two access methods :    1 .",
+    "http - get / post based interface implements almost direct translation of the query parameter name into xpath of the data model element , then incorporated into extended sql / xml queries to xml and relational data being stored in dbms .",
+    "this concept allows to distinguish axes by some specific properties , for instance by their ucds , and provides ability of putting constraints on the query result .",
+    "2 .   web - service based interface to receive xquery which is also directly translated into sql / xml statements .",
+    "this method aims in dealing with adql - like queries in the future .",
+    "presently xml type in postgresql is developed for manipulation abilities rather than a specific storage engine , meaning that it is built on top of varchar as initial storage implicit type .",
+    "this somehow limits performance of queries since one is confined only to use functional indices based on result of xpath expression evaluation .",
+    " standardized by sql:2006 way of integration of xquery capabilities with other essential relational functionality .",
+    "joins of xml and relational data in one expression .",
+    "* proper design at physical level ( data structure , comprehensive indices system and generalized search tree usage , etc ) .",
+    "this will lead to fast xquery and xpath evaluation .",
+    "we are very grateful to the support given by the organizing committee of adass , essential for attending this exciting conference .",
+    "travel of iz is supported via rfbr grant # 06 - 02 - 27333 and grant of the president of rf for leading scientific school , nsh-5290.2006.2 .",
+    "chilingarian i. et al . , 2004 , , [ mcd ] mcdowell j. et al . , 2006 , ivoa characterisation data model , in preparation samokhvalov n. ,  xml type support in postgresql  , + http://chernowiki.ru/index.php?node=87 [ sql2006 ] sql:2006 , 2006 , part 14 : xml - related specifications ( sql / xml ) , iso / iec jtc 1/sc 32 , cd 9075 - 14:200x(e ) .",
+    "/ international standard , iso , ansi"
+  ],
+  "abstract_text": [
+    "<S> we use postgresql dbms for storing xml metadata , described by the ivoa characterisation data model . </S>",
+    "<S> initial xml type support in the postgresql has recently been implemented . </S>",
+    "<S> we make heavy use of this feature in order to provide comprehensive search over characterisation metadata tree . </S>",
+    "<S> we built a prototype of the characterisation metadata query service , implementing two access methods : ( 1 ) http - get / post based interface implements almost direct translation of the query parameter name into xpath of the data model element in the xml serialisation ; ( 2 ) web - service based interface to receive xquery which is also directly translated into xpath . </S>",
+    "<S> this service will be used in the aspid - sr archive , containing science - ready data obtained with the russian 6-m telescope . </S>"
+  ]
+}

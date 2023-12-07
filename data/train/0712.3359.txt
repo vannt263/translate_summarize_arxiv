@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "i am grateful to laszlo jenkovszky and oleg selyugin for the interesting and extensive correspondence ."
+  ],
+  "abstract_text": [
+    "<S> this is a comment on the recent paper by o.v .  </S>",
+    "<S> selyugin , j .- </S>",
+    "<S> r .  </S>",
+    "<S> cudell , and e.  predazzi `` analytic properties of different unitarization schemes '' arxiv : 0712.0621v2 , [ hep - ph ] .    </S>",
+    "<S> unitarity or conservation of probability , which can be written in terms of the scattering matrix as @xmath0 implies an existence at high energies of the two scattering modes - shadowing and antishadowing . </S>",
+    "<S> antishadowing in the context of the rising total cross - sections and transition beyond the black disk limit was discussed in the framework of the rational unitarization scheme in @xcite ( fig . </S>",
+    "<S> 1 ) .    in the recent paper @xcite we considered saturation of the unitarity limit in head - on ( and small impact parameter ) hadron collisions , i.e. when @xmath1 at @xmath2 . </S>",
+    "<S> it was shown that the approach to the full absorption in head - on collisions , in another words , the limit @xmath3 at @xmath2 does not follow from unitarity , it is merely a result of the assumed saturation of the black disk limit . </S>",
+    "<S> this limit is a direct consequence of the exponential unitarization with an extra assumption on the pure imaginary nature of the phase shift ( fig . </S>",
+    "<S> 2 ) .    natural interpretation of antishadowing as the the reflective scattering was proposed . </S>",
+    "<S> this interpretation of the unitarity saturation has grounds in the optical concepts in high energy hadron scattering . </S>",
+    "<S> a new attempt to derive antishadowing scattering mode was made in @xcite . </S>",
+    "<S> the authors claim that `` extended eikonal '' unitarization scheme can also reproduce antishadowing .    </S>",
+    "<S> however , as it is evident from fig . </S>",
+    "<S> 3 the extended eikonal itself can not be considered as a unitarization scheme . </S>",
+    "<S> the authors of @xcite in the new version of their paper consider possible unitarity violation when a born amplitude has a real part and claim that such violation is small at high energies . </S>",
+    "<S> this argument does not work at large values of impact parameters where the eikonal function is vanishingly small . </S>"
+  ]
+}

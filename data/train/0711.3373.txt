@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "we have used the synthesis code by @xcite , updated by @xcite and newly revised now .",
+    "the basic grid is composed by single stellar populations ( ssp ) for five different imfs : two based on salpeter power law @xcite , with mass range 0.85 - 120 m@xmath0 and 0.15 - 100 m@xmath0 respectively , and those of @xcite , @xcite and @xcite functions , with masses between 0.15 and 100 m@xmath0 . these models do not include binaries either mass segregation .",
+    "the isochrones are those from @xcite for 6 different metallicities : z @xmath1 0.0004 , 0.001 , 0.004 , 0.008 , 0.02 and 0.05 .",
+    "the age coverage is from @xmath2 5.00 to 10.30 , with a variable time resolution which is @xmath3 in the youngest stellar ages .",
+    "the wc and wn stars are identified in the isochrones according to their surface abundances .",
+    "the atmosphere models are from @xcite with an excellent coverage in effective temperature , gravity and metallicities , for stars with t@xmath4 @xmath5 k. for o , b and wr we have taken the nlte blanketted models by @xcite at 5 different metallicities .",
+    "there are 110 models for o - b stars , calculated by @xcite , with @xmath6 k @xmath7",
+    "t@xmath4 @xmath8 k and @xmath9 , and 120 for wr stars ( 60 wn and 60 wc ) , from @xcite , with 30 000 k @xmath10 k and @xmath11 for wn , and with @xmath12 k and @xmath13 for wc . t@xmath14 and r@xmath14 are the temperature and the radius at a roseland optical depth of 10 . to assign an appropriate model to each wr star , we use the relationships among opacity , mass loss and velocity wind : @xmath15 , where @xmath16 and @xmath17 , the h surface abundance , is taken as 0.2 for wn and 0 for wc .",
+    "the mass loss is : @xmath18 with @xmath19 taking @xmath20 . integrating these equations we find r@xmath14 from the @xmath21 of isochrones selecting the closer atmosphere model to this r@xmath14 .",
+    "above 54ev emergent flux is determined by the wind density as a function of metallicity and in this set of models the hardness of ionizing radiation decreases , producing a lower flux of hei continuum , for @xmath22 and t @xmath23 myr .",
+    "heii 4686 is very low and hei 5786 / h@xmath24 decreases when metallicity increases due to line blanketing .    for post - agb and planetary nebulae with t@xmath4 ranging from 50 000 k to 220 000",
+    "k we take the nlte models by @xcite with values of t@xmath4 between 50 000 k and 190 000 k and logg between 5.00 and 8.00 .",
+    "these models include all elements from h to ni . for higher temperatures we use black bodies .",
+    "we provide the sed in the vo standard : @xmath25 ( in  ) and l@xmath26 ( in ergs@xmath27@xmath27 ) spectra can be selected by imf type , age and z and can be managed with the vospec tool .",
+    "we have produced the hr diagram files covering the whole grid in age and metallicity . at the moment",
+    ", there is not a specific vo access protocol for such files .",
+    "however , we have produced vo tables that can be used with some vo tools like topcat .",
+    "a detailed description of the models and the products is available at the webpage http://www.fractal-es.com/sedmod.htm/ , where the files can be downloaded .",
+    "we have computed a new grid of seds with updated isochrones and atmosphere models in a wide range of age and metallicity .",
+    "the use of nlte blanketed models produce seds with less hard ionizing photons , able to explain the observed emission line spectrum in low excitation high metallicity hii regions without changing the imf parameters .",
+    "previous models @xcite could not explain these observations without eliminating the more massive stars artificially ( with a flatter imf , a lower value of the upper mass limit or using the standard imf but considering the large clusters divided in small less massive sub - cluster with a low probability of forming very massive stars ) .",
+    "h - r diagrams are available as vo tables .",
+    "the resulting seds are in vo format accessible through ssap protocol and can be managed with vospec .",
+    "m. moll and m. garca - vargas are researchers of the project estallidos ( aya2004 - 08260-c03 ) .",
+    "the authors thank pedro osuna , jess salgado , isa barbarisi ( esa - vo ) , enrique solano and miguel cervio ( svo ) their support in vo issues .",
+    "the spanish virtual observatory is supported from the spanish mcyt through grants aya2005 - 04286 , aya2005 - 24102-e ."
+  ],
+  "abstract_text": [
+    "<S> we present a new set of theoretical evolutionary synthesis models , popstar . </S>",
+    "<S> this grid of single stellar populations covers a wide range in both , age and metallicity . </S>",
+    "<S> the models use the most recent evolutionary tracks together with the use of new nlte atmosphere models for the hot stars ( o , b , wr , post - agb stars , planetary nebulae ) that dominate the stellar cluster s ionizing spectra . </S>",
+    "<S> the results of the models in vo format can be used through vospec . </S>"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "in this paper , we compare the mass terms of the earth rotation parameters ( erp ) series , length of day ( lod ) and polar motion , obtained from various techniques .",
+    "we use ( i ) on one hand the iers ( international earth rotation and refrence systems service ) c04 series ( obtained combining mainly vlbi and gps measurements ) , and ( ii ) on the other hand the gravity field variations data ( cnes / grgs gravity field degree  2-coefficients , obtained from lageos  i and ii positionning measurements : for further explanation see bourda & capitaine 2004 ) .",
+    "the exces in the length of day @xmath3 ( with respect to 86400  s ) can be related to the temporal variations of the stokes cofficient @xmath0 ( bourda  2004a , bourda  2004b ) : @xmath4 where @xmath5 is the third moment of inertia of the earth s mantle , @xmath6 is the mass of the earth , @xmath7 is the mean equatorial radius of the earth , and @xmath8 is related to the motion of masses from the equator till the northern or the southern hemisphere ( and the opposite ) .",
+    "the excitation @xmath9 of the polar motion @xmath10 , where @xmath11 and @xmath12 are the components of the rotation axis in the earth , can be theoretically related to the degree 2 and order 1 coefficients of the earth gravity field ( bourda  2004a , bourda  2004b ) : @xmath13 where @xmath14 ( barnes et al .",
+    "1983 ) , and @xmath15 , with @xmath16 the geodetic polar motion excitation ( i.e.  the observed one ) and @xmath17 the chandler pulsation .",
+    "zonal tides , motion terms , oceanic tides and atmospheric angular momentum effects were removed from the iers c04 series for valuable comparisons .",
+    "we noticed a good agreement between lod and polar motion exciation obtained from ( i ) gravity field variations data , and ( ii ) classical geodetic measurements .",
+    "but it still remains some critical points .",
+    "for example , the correlation between the iers c04 lod series and the one from @xmath8 residual data ( i.e. the measurements , without solid earth tides , atmospheric pressure effects , and oceanic tides ) is poor : 0.17 . but",
+    "this can come from the using of various models for the same effect ( e.g. the atmospheric pressure part ) in these two methods .",
+    "further investigations will focuss on the errors made removing atmospheric winds from lod data ( which is the main effect ) , and on the hypothesis @xmath18 ( bourda 2004a ) assumed computing eq .",
+    "( [ eq : lod ] ) ( which is perhaps not valuable using the @xmath8 residuals ) .",
+    "barnes , r. t. h. , hide , r. , white , a. a. , & wilson , c. a. , 1983 , proc .",
+    "lond . , a 387 , 31 bourda , g. , 2004a , sf2a-2004 : semaine de lastrophysique francaise , 3 bourda , g. , 2004b , journes-2004 : systmes de rfrence spatio - temporels , 132 bourda , g. , & capitaine , n. , 2004 , a&a , 428 , 691 lambeck , k. , 1988 , geophysical geodesy : the slow deformations of the earth ( oxford : oxford science publications )"
+  ],
+  "abstract_text": [
+    "<S> the masses distribution inside the earth governs the behaviour of the rotation axis in the earth ( polar motion ) , as well as the earth rotation rate ( or equivalently , length of day ) . </S>",
+    "<S> this masses distribution can be measured from space owing to artificial satellites , the orbitography of which provides the earth gravity field determination . </S>",
+    "<S> then , the temporal variations of the earth gravity field can be related to the variations of the earth orientation parameters ( eop ) ( with the inertia tensor ) . nowadays , owing to the satellite laser ranging ( slr ) technique and to the new gravimetric satellite missions ( as champ or grace ) , the temporal variations of the low degree coefficients of the earth gravity field ( i.e. stokes coefficients ) can be determined . </S>",
+    "<S> this paper is one of the first study using gravity variations data in the equations already established ( e.g. lambeck 1988 ) and linking the variations of the length of day and of the @xmath0 stokes coefficient ( or , linking the polar motion and the @xmath1 and @xmath2 coefficients ) . </S>",
+    "<S> this paper combines the earth rotation data ( mainly obtained from vlbi and gps measurements ) and the earth gravity field variations ones ( e.g. lageos i and ii data , or grace data ) , in order to complete and constrain the models of the earth rotation . the final goal is a better earth global dynamics understanding , which possible application can be the constraint on the couplings into the earth system ( e.g. core - mantle couplings ) . </S>"
+  ]
+}

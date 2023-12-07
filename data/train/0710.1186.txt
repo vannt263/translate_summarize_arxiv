@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    ".quantum numbers of doubly heavy baryons analyzed in this study .",
+    "@xmath0 is the spin parity of the baryon , and @xmath1 is the spin of the heavy degrees of freedom .",
+    "@xmath2 denotes a light @xmath3 or @xmath4 quark .",
+    "mass predictions from ref .  @xcite obtained using the al1 interquark potential of ref.@xcite are also given . [ cols=\"^,^,^,^,^,^,^,^,^,^\",options=\"header \" , ]",
+    "we have checked the constraints imposed by hqss on form factors and decay widths . to our knowledge",
+    "those constraints have not been exploited before to check the consistency of different quark model calculations .",
+    "we have shown that our calculation is consistent with hqss .",
+    "the ratios in eqs.([eq : snzrbc],[eq : snzrbb ] ) , obtained using hqss with strict zero recoil approximation , and the approximate ratios in eqs.([eq : hqssdw1]-[eq : hqssdw4 ] ) , where we have relaxed that approximation , compare well with the results in our model and the one by ebert _",
+    "et al . _",
+    "@xcite , but they are incompatible with the calculation in ref .",
+    "we think that although this is not enough guarantee for the predictions here and in ref .",
+    "@xcite to be fully correct ( in fact the few results in refs .",
+    "@xcite are not incompatible with hqss constraints while they are a factor of four larger than ours ) , it certainly indicates problems either in the model or in the calculation performed in ref .",
+    "@xcite .",
+    "this research was supported by dgi and feder funds , under contracts fis2005 - 00810 , fis2006 - 03438 , fpa2007 - 65748 , and the spanish consolider - ingenio 2010 programme cpan ( csd2007 - 00042 ) , by junta de andaluca and junta de castilla y len under contracts fqm0225 and sa016a07 , and it is part of the eu integrated infrastructure initiative hadron physics project under contract number rii3-ct-2004 - 506078 .",
+    "s. nussinov and w. wetzel , phys . rev .",
+    "d 36 , 130 ( 1987 ) .",
+    "shifman and m.b .",
+    "voloshin , sov .",
+    "45 , 292 ( 1987 ) ( yad .",
+    "45 , 463 ( 1987 ) ) .",
+    "politzer and m.b .",
+    "wise , phys .",
+    "b 206 , 681 ( 1988 ) ; 208 , 504 ( 1988 ) . n. isgur and m.b .",
+    "wise , phys .",
+    "b 232 , 113 ( 1989 ) ; 237 , 527 ( 1990 ) ."
+  ],
+  "abstract_text": [
+    "<S> ' '' ''    we show how heavy quark symmetry constraints on doubly heavy baryon semileptonic decay widths can be used to test the validity of different quark model calculations . </S>",
+    "<S> the large discrepancies in the results observed between different quark model approaches can be understood in terms of a severe violation of heavy quark spin symmetry constraints by some of those models . </S>"
+  ]
+}

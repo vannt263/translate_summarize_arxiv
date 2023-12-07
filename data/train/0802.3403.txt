@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "this note concerns the moduli space @xmath1 of conjugacy classes of homomorphisms of the fundamental group of a compact orientable 2-manifold @xmath2 into a lie group @xmath3 .",
+    "this object has recently attracted a great deal of interest in symplectic and algebraic geometry and mathematical physics . in mathematical physics",
+    "it appears as the space of gauge equivalence classes of flat connections on a 2-manifold . in algebraic geometry",
+    "it appears as the moduli space of holomorphic bundles on a riemann surface .",
+    "the smooth locus of the space @xmath1 has a symplectic structure ; see , for instance , @xcite or @xcite .",
+    "if the 2-manifold is equipped with a complex structure , the space @xmath1 inherits a complex structure compatible with the symplectic structure .",
+    "when @xmath4 , the moduli space of a riemann surface coincides with its jacobian , which is a complex torus whose complex dimension is the genus of the surface .    in @xcite ,",
+    "w. goldman studied the hamiltonian flows of certain natural functions on the moduli space .",
+    "these functions are constructed from functions that send a flat connection to its holonomy around a specific simple closed curve @xmath5 in the 2-manifold .    in this paper",
+    "we show that when the gauge group is @xmath0 the goldman flows preserve the complex structure on @xmath6 . when the gauge group is @xmath7 , the goldman flows are ill defined on a set of real codimension 3 , ( see @xcite ) , which is inconsistent with these flows preserving the complex structure .",
+    "the curve @xmath5 is either nonseparating ( top ) , or separating ( bottom ) . ]",
+    "let @xmath4 .",
+    "the goldman flow on @xmath1 is a periodic @xmath8-action @xmath9 associated to a simple closed curve @xmath5 . since the lie group is abelian , the moduli space is @xmath10 .",
+    "choose a symplectic basis of @xmath11 , in other words a collection of cycles @xmath12 in which all the intersections are empty except for @xmath13 and @xmath14 , which intersect once transversely with positive intersection index .",
+    "if the curve @xmath5 is nonseparating then we let @xmath15 in this symplectic basis ; if the curve @xmath5 is separating then we assume that the cycles @xmath16 do not intersect @xmath5 .",
+    "choose a basepoint on @xmath5 for the fundamental group of @xmath2 , and lift the cycles in the symplectic basis to loops @xmath17 that only intersect @xmath5 at their endpoints .",
+    "see figure  [ x_surfaces ] .    for @xmath4 ,",
+    "identify @xmath18 with @xmath19 by letting @xmath20 .",
+    "if the simple closed curve @xmath5 is nonseparating then the associated goldman flow on @xmath21 is @xmath22 for @xmath23 . if @xmath5 is separating then the goldman flow is trivial , @xmath24 .",
+    "the goldman flows can be described using gauge theory as follows , ( cf .",
+    "@xcite ) . if @xmath25 is a flat connection on the trivial @xmath3-bundle over @xmath2 , and @xmath26 is the holonomy of @xmath25 along the loop @xmath27 , then the map that sends @xmath25 to @xmath28 identifies the space of gauge equivalence classes of flat connections with the moduli space ; see @xcite .",
+    "let @xmath29 be the complement of @xmath5 in @xmath2 , and let @xmath30 be the intersection of @xmath29 with a tubular neighbourhood of @xmath5 in @xmath2 .",
+    "the open sets @xmath31 and @xmath32 can be thought of as neighbourhoods of the two  boundary components \" of @xmath29 , as shown in figure  [ x_gauge ] . for a flat connection @xmath25 on @xmath2 ,",
+    "define @xmath33 where @xmath34 is a gauge transformation on @xmath29 with @xmath35 on @xmath32 and @xmath36 on @xmath31 . here , since @xmath34 is constant on both @xmath32 and @xmath31 and since the gauge group is abelian , the flat connection @xmath37 on @xmath29 extends ( by @xmath25 ) to a flat connection @xmath38 on @xmath2 . if the curve @xmath5 separates @xmath2 into two components then @xmath39 because @xmath34 may be chosen to be a locally constant gauge transformation on @xmath29 , which acts trivially since @xmath3 is abelian .",
+    "if the curve @xmath5 is nonseparating , however , then the gauge transformations @xmath34 on @xmath29 act nontrivially and do not come from gauge transformations on @xmath2 for @xmath40 , so in general the @xmath38 are distinct elements of the moduli space @xmath1 , ( although they are the same when viewed as elements of the moduli space of @xmath29 ) .     the gauge transformation @xmath34 . ]",
+    "when @xmath4 , the moduli space @xmath6 is the jacobian @xmath41 .",
+    "the jacobian inherits a complex structure from the riemann surface @xmath2 , and identifies with @xmath42 as a complex manifold for a lattice @xmath43 described below .",
+    "see , for example , @xcite .",
+    "the jacobian is defined as @xmath44 where @xmath11 maps to @xmath45 by integration : a class @xmath46 sends @xmath47 to @xmath48 .",
+    "explicitly , choose a basis @xmath49 of @xmath50 , and use the dual basis to identify @xmath51 with @xmath52 .",
+    "let @xmath53 be the resulting map from @xmath11 to @xmath52 , @xmath54 and equate @xmath55 with the lattice @xmath56    a choice of basis @xmath57 of @xmath11 identifies @xmath42 with @xmath58 as follows .",
+    "viewed as a _ real _ vector space , @xmath52 is spanned by @xmath59 , @xmath60 identify @xmath42 with @xmath58 by the group isomorphism that maps @xmath61\\in{\\mathbb{c}}^g/\\lambda\\ ] ] to @xmath62 we define @xmath63 .",
+    "the goldman flow on the jacobian is defined as follows . if @xmath5 is a nonseparating simple closed curve then choose @xmath5 as the generator @xmath64 in a symplectic basis @xmath57 of @xmath11 .",
+    "so the goldman flow associated to @xmath5 is @xmath65 for @xmath23 .",
+    "this corresponds to translation by @xmath66 in @xmath52 , which is clearly a holomorphic self map of @xmath42 ."
+  ],
+  "abstract_text": [
+    "<S> we show that the goldman flows preserve the holomorphic structure on the moduli space of homomorphisms of the fundamental group of a riemann surface into @xmath0 , in other words the jacobian . </S>"
+  ]
+}

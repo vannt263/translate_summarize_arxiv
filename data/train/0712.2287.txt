@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "proper interpretation of results obtained from radial velocity ( rv ) survey of gk giants requires detailed knowledge of their physical parameters . since gk - giants are known to exhibit various types of intrinsic variability induced by pulsations and/or surface inhomogeneity connected with rotation these effects have to be ruled out before substellar companion interpretation can be considered .",
+    "effective temperatures and gravitational accelerations are needed to obtain estimates of stellar radii and together with the rotational periods address the influence of possible starspots on results .",
+    "additional knowledge of metallicities allows for stellar masses estimates that are crucial for interpretation of the observed rv periodical variations and determination of companion s masses .",
+    "the observational material and data reduction are described in niedzielski & wolszczan ( this volume ) .",
+    "the atmospheric parameters of program stars were obtained with the purely spectroscopic method @xcite based on analysis of fe i and fe ii lines and assumption of lte .    to test reliability of our determinations",
+    "we used the procedure to obtain parameters of 8 stars of @xcite .",
+    "comparison of results shows that @xmath3 agrees within @xmath4 , @xmath5 within @xmath6 and @xmath7 $ ] within @xmath6 .",
+    "these values are comparable to our intrinsic error estimates , except for metallicity , which is systematically higher than literature values .",
+    "typical intrinsic uncertainties of these parameters are @xmath8 , @xmath9 , @xmath10 and @xmath11 } = 0.06 $ ] . in table 1",
+    "we present results of our determinations of atmospheric parameters for 16 stars , targets of our survey .",
+    "the metalicities presented in table 1 are corrected for the systematic effect .",
+    "stellar masses were obtained by comparing the position of stars on the hr diagram with the theoretical evolutionary tracks of @xcite and @xcite for given metallicity .",
+    "stellar radii were determined using the calibration given in @xcite .",
+    "the uncertainties of stellar masses obtained by comparison with theoretical evolutionary tracks depend on the accuracy of the position of a star on hr diagram and metalicity . for stars for which the parallax is",
+    "precise enough the metallicity may introduce significant uncertainty in mass .",
+    "we assume that for an average red giant with known parallax the mass may be estimated within @xmath12 .",
+    "l|c|c|c|c|c|c|c name & @xmath3 & @xmath5 & @xmath13 & @xmath7 $ ] & @xmath14 & @xmath15 & @xmath16 + & @xmath17 & & @xmath18 & & @xmath19 & & + hd 17028 & 4246 & 2.43 & 1.52 & 0.11 & -2.89 & 5.5 & 27.4 + hd 17092 & 4649 & 3.00 & 1.27 & 0.22 & 0.80 & 2.3 & 10.9 + hd 77819 & 5007 & 2.92 & 1.19 & -0.11 & 1.01 & 2.5 & 9.4 + hd 95296 & 4603 & 2.23 & 1.36 & -0.08 & -0.28 & 2.7 & 10.9 + hd 96127 & 4319 & 2.65 & 1.23 & 0.35 & -2.46 & 5.0 & 22.1 + hd 102103 & 4565 & 2.54 & 1.44 & -0.04 & -0.63 & 3.0 & 12.8 + hd 102272 & 4908 & 3.07 & 1.30 & -0.26 & 1.43 & 1.7 & 10.1 + hd 109402 & 5036 & 4.03 & 0.80 & -0.11 & 3.34 & 1.3 & 8.6 + hd 112914 & 4975 & 4.86 & 0.01 & -0.25 & 5.22 & 0.8 & - + hd 134901 & 5427 & 3.91 & 0.86 & -0.22 & 3.09 & 1.3 & 3.4 + hd 160723 & 4775 & 2.67 & 1.29 & -0.30 & 0.80 & 2.2 & 10.3 + hd 257498 & 4773 & 2.94 & 1.33 & -0.19 & 5.85 & 0.8 & 10.3 + bd + 03 2562 & 4365 & 2.95 & 1.29 & -0.12 & 0.40 & 1.4 & 22.1 + bd + 20 2457 & 4352 & 2.19 & 1.64 & -0.65 & 0.40 & 0.8 & 22.1 + bd + 57 144 & 5010 & 3.09 & 1.28 & -0.08 & -0.22 & 3.3 & 9.4 + sao 112133 & 4993 & 3.56 & 1.50 & 0.18 & 0.80 & 2.1 & 9.4 +    we thank y. takeda for making his code available for us .",
+    "the project is supported in part by the polish ministry of science and higher education grant 1p03d 007 30 .",
+    "pz was supported by polish ministry of science and higher education grant spb 104/e-337/6 .",
+    "alonso , a. , salaris , m. , et al . 2000 , a&a , 355 , 1060 butler , r.  p. , et al .",
+    "2006 , , 646 , 505 girardi , l. , bressan , a. , bertelli , g. , chiosi , c. 2000 , a&as , 141 , 371 salasnich , b. , girardi , l. , weiss , a. , chiosi , c. 2000 , a&a , 361 , 1023 takeda , y. , ohkubo , m. , sadakane , k. 2002 , pasj , 54 , 451 takeda , y. , ohkubo , m. , sato , b. , kambe , e. , sadakane , k. 2005 , pasj , 57 , 27"
+  ],
+  "abstract_text": [
+    "<S> the objective of the psu / tcfa search for planets around evolved stars is to study evolution of planetary systems in the stellar evolution timescale . </S>",
+    "<S> for such an analysis precise physical parameters of the hosts of the planetary systems are essential . in this paper </S>",
+    "<S> we present an attempt to obtain basic physical parameters for a sample of evolved stars observed within our survey with the high resolution spectrograph of the hobby - eberly telescope .    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ pawe zieliski@xmath0 and andrzej niedzielski@xmath1    _ @xmath0torun centre for astronomy , nicolaus copernicus university , + ul . </S>",
+    "<S> gagarina 11 , 87 - 100 torun , poland _    _ @xmath2department of astronomy and astrophysics , pennsylvania state university , 525 davey laboratory , university park , pa 16802 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ </S>"
+  ]
+}

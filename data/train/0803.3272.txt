@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "we suggested in ref . that the cosmological constant ( cc ) problem can be resolved in a natural way if gravity emerges from a gauge theory in noncommutative ( nc ) spacetime .",
+    "especially , it was shown that the emergent gravity formulated from a background independent theory reveals a noble , radically different picture about the origin of spacetime where vacuum energy does not gravitate but only fluctuations around the vacuum generate gravity .",
+    "an extreme example is that a flat spacetime emerges from uniform condensation of energy , previously identified with the cc .    in this short contribution we will summarize an underlying spacetime picture emerging from the background independent formulation of nc gauge theory .",
+    "some technical details will be deferred to refs . and .    in general relativity",
+    ", gravity is described by metric fields of spacetime which is determined by the distribution of matter and energy .",
+    "that is , the spacetime geometry is not a rigid but a dynamical object .",
+    "but there is a blind point about the dynamical origin of spacetime in general relativity ; it says nothing about the dynamical origin of flat spacetime since the flat spacetime is a geometry of special relativity rather than general relativity .",
+    "it turns out @xcite that this nonchalance about the dynamical origin of flat spacetime gives rise to the cc problem in general relativity .",
+    "however , it has been shown in refs . -",
+    "that the emergent gravity from nc gauge theory naturally explains the dynamical origin of flat spacetime , which is absent in einstein gravity .",
+    "we want to emphasize that this spacetime picture is an inevitable consequence provided one accepts the fact that gravity is an emergent phenomenon , which nowadays becomes a new paradigm emerging from string theory .",
+    "if gravity is emergent from gauge fields , the general relativity implies that spacetime should also be emergent from gauge field interactions .",
+    "if so , what kind of gauge field configurations corresponds to a flat spacetime ?",
+    "the most tenable answer is a uniform condensation of gauge fields in a vacuum , while it appears as a vacuum energy in einstein gravity , so causing the cc problem . therefore  a solution \" of the cc problem might be surprisingly simple if and only if there exists a physically viable theory ( i.e. , a background independent theory ) to contain all the above properties .",
+    "the correspondence between nc field theory and gravity @xcite precisely realizes the desired properties of emergent gravity and so resolves the cc problem @xcite .",
+    "a nc spacetime arises from a condensation of gauge fields in a vacuum : @xmath0_\\star = i \\theta^{ab } \\;\\ ; \\leftrightarrow \\;\\ ; [ a_i , a_j^\\dagger ] = \\delta_{ij}\\ ] ] where @xmath1 and @xmath2 .",
+    "every nc space can be represented as a theory of operators in a hilbert space @xmath3 , which consists of ( nc ) c*-algebra @xmath4 like as a set of observables in quantum mechanics .",
+    "a standard dynamical system can be described in terms of vector fields as derivations of a certain ( commutative ) c*-algebra .",
+    "this concept of dynamics can be generalized to a nc space provided that one describes nc dynamics in terms of derivations of nc c*-algebra .",
+    "this kind of vector fields in the nc space ( [ nc - spacetime ] ) was explicitly constructed in ref .",
+    ", where it was shown that the vector fields form an orthonormal frame and so define vielbeins of a gravitational metric .",
+    "furthermore , if one has a representation of the hilbert space @xmath3 , e.g. , a fock space of harmonic oscillators for the space ( [ nc - spacetime ] ) , any operator in @xmath4 or any nc field can be represented as a matrix whose size is determined by the dimension of @xmath3 . for the nc space ( [ nc - spacetime ] ) , one gets @xmath5 matrices in the @xmath6 limit . in this sense , the emergent geometry arising from the vector fields in the nc space ( [ nc - spacetime ] ) can be understood as a dual geometry of large @xmath7 matrices in @xmath3 according to the large @xmath7 duality or ads / cft correspondence @xcite .",
+    "a looming point in emergent gravity is that a flat spacetime emerges from the vacuum ( [ nc - spacetime ] ) triggered by the planck energy condensation . in other words ,",
+    "the vacuum energy does not gravitate and so causes no cc problem @xcite .",
+    "a flat spacetime is not free gratis but a result of the maximum energy condensation in a vacuum .",
+    "h. s. yang , instantons and emergent geometry , hep - th/0608013 ; emergent gravity from noncommutative spacetime , hep - th/0611174 ; noncommutative electromagnetism as a large n gauge theory , arxiv:0704.0929 ."
+  ],
+  "abstract_text": [
+    "<S> we address issues on the origin of gravity and the dark energy ( or the cosmological constant ) from the perspectives of emergent gravity . </S>",
+    "<S> we discuss how the emergent gravity reveals a noble , radically different picture about the origin of spacetime , which is crucial for a tenable solution of the cosmological constant problem . </S>",
+    "<S> in particular , the emergent gravity naturally explains the dynamical origin of flat spacetime , which is absent in einstein gravity . </S>"
+  ]
+}

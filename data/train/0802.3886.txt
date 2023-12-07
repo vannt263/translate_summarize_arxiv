@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "in order to place constraints on galaxy evolution in cluster environments , we present a study based on the stages survey of the abell 901/902 supercluster ( gray et al . 2008 ) at @xmath0  0.165 .",
+    "the dataset includes high resolution ( @xmath4 , corresponding to @xmath5280 and @xmath6 = 70  km  s@xmath7  mpc@xmath7 . ] pc ) @xmath1 acs f606w images , star formation rates ( sfrs ) from @xmath2 24@xmath3 ( bell et al .",
+    "2007 ) data , xmm - newton x - ray data , and gravitational lensing maps ( heymans et al .",
+    "2008 ) , along with accurate spectrophotometric redshifts from combo-17 ( wolf et al . 2004 ) and stellar masses ( borch et al .",
+    "2006 ) .    using the cas code ( conselice et al .",
+    "2000 ) , the concentration ( c ) , asymmetry ( a ) , and clumpiness ( s ) parameters were derived from @xmath1 acs f606w images . since the cas merger criteria ( a@xmath8s and a@xmath80.35 ) tend to capture only a fraction of interacting / merging galaxies ( e.g. , conselice 2006 ; jogee et al .",
+    "2008a , b ) , we also resort to visual classification .",
+    "we classify galaxies into three distinct visual classes : ( 1 ) galaxies with _ externally - triggered _ distortions : these are distortions that arise from tidal interactions or mergers and include features , such as double or multiple nuclei inside a common body , tidal tails , arcs , shells , ripples , or tidal debris in body of galaxy , warps , and offset rings .",
+    "( 2 ) galaxies with _ internally - triggered _ asymmetries ( classified as irr-1 ) : internally - triggered asymmetries are due to stochastic star - forming regions or the low ratio of ordered to random motions , common in irregular galaxies .",
+    "these asymmetries tend to be correlated on scales of a few hundred parsecs , rather than on scales of a few kpc .",
+    "( 3 ) relatively _ undistorted symmetric _ galaxies ( classified as normal ) .",
+    "visual classification shows that 3.3@xmath91% of galaxies",
+    "brighter than m@xmath10 @xmath1118 are strongly distorted .",
+    "the fraction of strongly distorted galaxies with m@xmath12 is @xmath51% .",
+    "most ( 74% ) of strongly distorted galaxies lie on the blue cloud ( fig .",
+    "1 , right ) . the distortion fraction in a901/02 is lower than in the field ( 7% to 9% ) for massive or bright ( jogee et al 2008a , b ; lotz et al .",
+    "2008 ) galaxies at similar redshifts .",
+    "most strongly distorted galaxies on a901/902 lie outside the cluster cores , and avoid the peaks in dm surface mass density ( @xmath13 0.1 ) and icm density ( fig . 1 , left ) . these results are consistent with high galaxy velocity dispersions in the core being unfavorable to mergers and strong tidal interactions .      bell , e. et al .",
+    "2007 , , 663 , 834 borch , a. et al . 2006 , , 453 , 869 conselice , c. ,  bershady , m. a. ,  & jangren , a. 2000 , 529 , 886 conselice , c.  j.  2006 , , 638 , 686 gray , m. et al . 2008 , in preparation heymans , c. et al . , 2008 ,",
+    "astro - ph/0801.1156 jogee , s. et al .",
+    "2008a , proceedings of  formation and evolution of galaxy disks \" , organized by the vatican observatory in rome , 1 - 5 october 2007 jogee , s. et al . 2008b , , in preparation lotz , j. et al .",
+    "2008 , , 672 , 177 wolf , c. et al .",
+    "2004 , , 421 , 913"
+  ],
+  "abstract_text": [
+    "<S> we present a study of galaxies in the stages survey of the abell 901/902 supercluster at @xmath0  0.165 , based on @xmath1 acs f606w , combo-17 , @xmath2 24@xmath3 , xmm - newton x - ray , and gravitational lensing maps . </S>",
+    "<S> we characterize galaxies with strong , externally - triggered morphological distortions and normal , relatively undisturbed galaxies , using visual classification and quantitative cas parameters . </S>",
+    "<S> we compare normal and distorted galaxies in terms of their frequency , distribution within the cluster , star formation properties , and relationship to dark matter ( dm ) or surface mass density , and intra - cluster medium ( icm ) density . </S>",
+    "<S> we report here our preliminary results . </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "for 32 edge - on spiral galaxies , spanning hubble type and mass , we fit the edge - on infinite disk model by @xcite on the irac mocaics : @xmath0 .",
+    "we applied stellar dominated 3.6 and 4.5 @xmath1 m channels and the pah emission at 8.0 @xmath1 m , with the stellar contribution subtracted ( using the prescription from * ? ? ? * ) .",
+    "the data is from our dedicated go program ( go 20268 ) and the _ spitzer _ archive .",
+    "our program aims to populate the lower range of disk masses . from the fit",
+    "we obtain the scale - length ( @xmath2 ) , the scale - height ( @xmath3 ) , and the face - on central surface brightness ( @xmath4 ) .",
+    "the edge - on disk model fits the stellar channels very well but the pah channel less so because of star - formation structures , such as hii regions , in the pah maps .",
+    "the disk s total luminosity is inferred from the fitted model : @xmath5 , with @xmath2 the scale - length and @xmath4 the face - on central surface brightness ( see * ? ? ?",
+    "combined with the rotational velocities from hyperleda , we can construct the tully - fisher relation for our galaxy disks and a plot of disk oblateness as a function of rotational velocity ( and hence dynamical mass ) .",
+    "figure [ f : tf ] shows the inferred tully - fischer relation for these disks in one of the stellar channels , 4.5 @xmath1 m .",
+    "notably , the slope ( @xmath6 ) is 3.5 , similar to what @xcite found but contrary for the increasing trend of slope with redder filters .",
+    "the effects of age and metallicity of the stellar population become independent and opposite effects on the color - m / l relation in nir ( see * ? ? ?",
+    "* figure 2d ) .",
+    "hence , the shallower slope in the irac stellar channels , could well be this metallicity effect starting to dominate .",
+    "the tully - fisher relation for disks in our sample .",
+    "notably , the slope is very similar to the one found by @xcite for the sings sample .",
+    "open circles are the poorer disk fits ( @xmath7).,scaledwidth=80.0% ]",
+    "figure [ f : hz ] shows the relation between the disk oblateness the ratio of scale - length and -height , @xmath8 relative to the oblateness in 4.5 @xmath1 m .",
+    "the 3.6 and 4.5 @xmath1 m channels both trace the stellar population and their oblateness measurements agree well .",
+    "the pah mosaic ( 8 @xmath1 m ) , shows flattening compared to stellar disk : @xmath9 .",
+    "the pah disk s flattening is substantial in the case of the more massive disks ( @xmath10 ) .",
+    "this appears to corroborate the reasoning of @xcite that massive disks are vertically unstable and hence form the characteristic dust lanes .     the oblateness ( @xmath8 ) of the 3.6 @xmath1 m fit ( open triangles ) and 8.0 @xmath1 m pah map ( filled squares ) in terms of the 4.5 @xmath1 m . a similar oblateness as the 4.5 @xmath1 m .",
+    "the oblateness of the stellar filters , 3.6 and 4.5 @xmath1 m is very similar .",
+    "the pah disk is flatter than the stellar , especially in massive disks ( @xmath10 , vertical dotted line).,scaledwidth=80.0% ]",
+    "hence , from our disk models of irac data , we conclude :    * the tully - fisher relation has a shallower slope ( @xmath11 ) than naively expected from trends with filter ( figure [ f : tf ] ) , which may be a metallicity effect of the stellar population s",
+    "m / l . * the pah disk is flatter than the stellar one , especially in more massive spirals ( figure [ f : hz ] ) .",
+    "the effect is not as pronounced as found by @xcite and @xcite based on dust lanes .",
+    "the unique perspective of _ spitzer _ on edge - on spirals allows us to quantify the vertical structure in spiral disks .",
+    "the pah maps are the product of both the ism density and star - formation .",
+    "the stellar channels are effectively unaffected by extinction and can therefore serve as a reference to quantify dust lanes and smaller dust extinction structures .",
+    "the phenomenon of truncation the sudden change in exponential behavior of disks can also be characterized for all irac bands ."
+  ],
+  "abstract_text": [
+    "<S> edge - on spiral galaxies offer a unique perspective on disks . </S>",
+    "<S> one can accurately determine the height distribution of stars and ism and the line - of - sight integration allows for the study of faint structures . </S>",
+    "<S> the spitzer irac camera is an ideal instrument to study both the ism and stellar structure in nearby galaxies ; two of its channels trace the old stellar disk with little extinction and the 8 micron channel is dominated by the smallest dust grains ( polycyclic aromatic hydrocarbons , pahs ) . @xcite probed the link between the appearance of dust lanes and the disk stability . in a sample of bulge - less disks </S>",
+    "<S> they show how in massive disks the ism collapses into the characteristic thin dust lane . </S>",
+    "<S> less massive disks are gravitationally stable and their dust morphology is fractured . </S>",
+    "<S> the transition occurs at 120 km / s for bulgeless disks . here </S>",
+    "<S> we report on our results of our spitzer / irac survey of nearby edge - on spirals and its first results on the nir tully - fischer relation , and ism disk stability . </S>"
+  ]
+}

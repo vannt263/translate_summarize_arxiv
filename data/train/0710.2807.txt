@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "while more than 250 extra - solar planets orbiting main - sequence stars have been discovered , the destiny of planetary systems in the late stages of the evolution of their host stars is very uncertain , and so far no planet has been found around a white dwarf .",
+    "infrared excess detected around a number of white dwarfs has been interpreted as the signature of dust discs ( e.g. * ? ? ?",
+    "* ; * ? ? ?",
+    "* ; * ? ? ?",
+    "* ; * ? ? ?",
+    "the photospheres of these white dwarfs are rich in metals @xcite , indicating ongoing accretion from the circumstellar material .",
+    "the likely origin of these debris discs are tidally disrupted asteroids @xcite , and hence they represent a close association with the planetary systems that the white dwarf progenitor stars may have had .",
+    "however , while the infrared excess detected around these white dwarfs can be explained in terms of a dusty debris disc , the observations actually do not provide any strong constraint on the geometry of the source of the infrared light ( e.g. * ? ? ?",
+    "we summarise here our recent discovery of two white dwarfs in the sdss spectroscopic data base which exhibit double - peaked emission lines of caii@xmath18600 , unambiguously confirming a circumstellar disc - like structure @xcite",
+    "visually inspecting the sdss spectra of several hundred white dwarfs , we noticed very unusual caii@xmath18600 emission lines in sdssj122859.93 + 104032.9 ( fig.1 ) and sdssj104341.53 + 085558.2 ( fig.2 ) .",
+    "the double - peaked shape of these line profiles is the unmistakable signature of gas rotating around these stars on keplerian orbits @xcite .     to h@xmath4 line profiles ( top to bottom , gray lines ) along with the best - fit white dwarf model ( black lines ) .",
+    "top right panel : 1 , 2 , and 3@xmath5 @xmath6 contour plots in the @xmath7 plane .",
+    "the line profiles allow a `` hot '' and a `` cold '' solution ( black dots ) on either side of the temperature corresponding to maximum balmer line equivalent widths ( dashed line ) .",
+    "the degeneracy in the line profile fits is lifted by the best - fit to the continuum slope ( red dot ) .",
+    "the best - fit to the line profiles results in @xmath8k and @xmath9 .",
+    "bottom panels : the white dwarf spectrum and associated flux errors ( gray lines ) along with the best - fit white dwarf model ( black line ) to the 38507150  wavelength range ( top ) and the residuals of the fit ( gray line , bottom ) .",
+    "note the strong , double - peaked emission lines of caii@xmath108600 .",
+    ", scaledwidth=83.0% ]    while caii emission lines are observed in a few white dwarfs with low - mass companions ( e.g. * ? ? ? * ) , these lines are _ always _ accompanied by balmer emission . in fact",
+    ", even wd0137349 and sdss1035 + 0551 , two white dwarf / brown dwarf binaries , display copious amounts of h@xmath11 emission @xcite .",
+    "in contrast to those binaries , the spectrum of sdssj1228 + 1040 is totally devoid of balmer emission .",
+    "we obtained time - resolved intermediate resolution spectroscopy and photometric time series of sdssj1228 + 1040 , which clearly rule out the possibility of this object being a white dwarf plus low mass companion binary .",
+    "photospheric mgi@xmath124482 absorption lines demonstrates that both sdssj1228 + 1040 and sdssj1043 + 0855 are accreting from their circumstellar discs .",
+    "stellar parameter of the two white dwarfs ( fig.1 & 2 , table1 ) were determined from spectral fits using tlusty and synspec models @xcite .",
+    "the absence of hydrogen ( and/or helium ) emission from material close to a @xmath13k white dwarf implies that the circumstellar material must be depleted in volatile elements . a low content ( @xmath14% solar ) of helium in the circumstellar material",
+    "is corroborated by the absence of helium lines in the spectrum of sdssj1228 + 1040 . a dynamical model of the caii line profiles in sdssj1228 + 1040 computed following @xcite implies an outer radius of the disc of just 1.2 solar radii .",
+    "this circumstellar material can not have survived the red giant phase of the white dwarf progenitor at its current location , and must have been supplied from distances greater than 1000@xmath15 after the formation of the white dwarf . a plausible originally is the tidal disruption of a rocky asteroid @xcite , probably destabilised from its original much wider orbit by interaction with a larger object @xcite .    ccccccc system & @xmath16 & @xmath17 & @xmath18 & @xmath19 & mg abund . & caii e.w",
+    ". + & [ k ] & @xmath20 $ ] & [ yr ] & [ @xmath21 & [ @xmath22 & [  ] + sdssj1228 + 1040 & 22292 & 0.81 & @xmath23yr & @xmath24 & 0.7 & 61.1 + sdssj1043 + 0855 & 18330 & 0.67 & @xmath25yr & @xmath26 & 0.3 & 21.2 +",
+    "it has been suggested that planetary systems may survive the post - main sequence evolution of their host stars @xcite , however , no planet has yet been discovered around a white dwarf .",
+    "the detection of debris discs from rocky asteroids around white dwarfs , such as sdssj1228 + 1040 and sdssj1043 + 0855 and the cooler white dwarfs with dusty debris discs lends strong support to the survival hypothesis .",
+    "it appears also entirely possible that these white dwarfs may still have planetesimal objects or planets .",
+    "sdssj1228 + 1040 is particular interesting , as its relatively high mass implies that its progenitor must have had a mass of @xmath27 @xcite , suggesting that also short - lived massive stars may be host to planetary discs .",
+    "this is in accordance with the detection of a relatively massive debris disc around the young a2e star mwc480 @xcite ."
+  ],
+  "abstract_text": [
+    "<S> we have identified two moderately hot ( @xmath01800022000k ) white dwarfs , sdssj1228 + 1040 and sdssj1043 + 0855 , which exhibit double - peaked emission lines in the caii@xmath18600 triplet . </S>",
+    "<S> these line profiles are unambiguous signatures of gaseous discs with outer radii of @xmath2 orbiting the two white dwarfs . both stars accrete from the circumstellar material , resulting in large photospheric mg abundances . </S>",
+    "<S> the absence of hydrogen emission from the discs , and helium absorption in the white dwarf photospheres demonstrates that the circumstellar material is depleted in volatile elements , and the most likely origin of these gaseous rings are tidally disrupted rocky asteroids . </S>",
+    "<S> the relatively high mass of sdssj1228 + 1040 implies that planetary systems can not only form around @xmath3 stars , but may also survive their post main - sequence evolution . </S>"
+  ]
+}

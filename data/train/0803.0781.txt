@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "as recently as 10 years ago , it was generally believed that black holes ( bhs ) occur in two broad mass ranges : stellar ( @xmath0 ) , which are produced by the core collapse of massive stars , and supermassive ( @xmath1 ) , which are believed to have formed in the center of galaxies at high redshift and grown in mass as the result of galaxy mergers ( see e.g. volonteri , haardt & madau 2003 ) .",
+    "however , the existence of bhs with masses intermediate between those in the center of galaxies and stellar bhs could not be established by observations up until recently , although intermediate mass bhs ( imbhs ) were predicted by theory more than 30 years ago ; see , e.g. , wyller ( 1970 ) .",
+    "indirect evidence for imbhs has accumulated over time from observations of so - called ultraluminous x - ray sources ( ulxs ) , objects with fluxes that exceed the angle - averaged flux of a stellar mass bh accreting at the eddington limit .",
+    "an interesting result from observations of ulxs is that many , if not most , of them are associated with star clusters .",
+    "it has long been speculated ( e.g. , frank & rees 1976 ) that the centers of globular clusters ( gcs ) may harbor bhs with masses @xmath2 .",
+    "if so , these bhs affect the distribution function of the stars , producing velocity and density cusps . a recent study by noyola & gebhardt ( 2006 ) obtained central surface brightness profiles for 38 galactic gcs from hst wfpc2 images .",
+    "they showed that half of the gcs in their sample have slopes for the inner 0.5 \" surface density brightness profiles that are inconsistent with simple isothermal cores , which may be indicative of an imbh .",
+    "however , it is challenging to explain the full range of slopes with current models . while analytical models can only explain the steepest slopes in their sample , recent n - body models of gcs containing imbhs ( baumgardt et al . 2005 ) , might explain some of the intermediate surface brightness slopes .",
+    "in our study we repeat some of the previous n - body simulations of gcs with central imbhs but using the monte - carlo ( mc ) method .",
+    "this gives us the advantage to model the evolution of gcs with a larger and thus more realistic number of stars .",
+    "we then compare the obtained surface brightness profiles with previous results in the literature .",
+    "the dynamical effect of an imbh on the surrounding stellar system was first described by peebles ( 1972 ) , who argued that the bound stars in the cusp around the bh must obey a shallow power - law density distribution to account for stellar consumption near the cluster center . analyzing the fokker - planck equation in energy space for an isotropic stellar distribution ,",
+    "bahcall & wolf ( 1976 ) obtained a density profile with @xmath3 , which is now commonly referred to as the bahcall - wolf cusp .",
+    "the formation of this cusp has been confirmed subsequently by many different studies using different techniques and also , more recently , by direct @xmath4-body methods ( baumgardt et al . 2004 ) . in fig .",
+    "[ imprints ]       shows the two - dimensional density profiles of bright stars for the two clusters at an age of @xmath5 .",
+    "the profile in the left panel can directly be compared to the corresponding result of baumgardt et .",
+    "al ( 2005 ) as @xmath4 is the same . as was expected from the discussion in ",
+    "[ imprintsimbh ] , the profile shows only a very shallow cusp with a power - law slope @xmath6 between @xmath7 and @xmath8 , consistent with the @xmath4-body results .",
+    "the right panel shows the resulting profile for a cluster that is similar but twice as massive and , consequently , has twice as many stars as in the @xmath4-body simulation .",
+    "we obtain a very similar profile with @xmath9 which is very close to the average @xmath10 found in baumgardt et al .",
+    "therefore , based on these very preliminary results , there seems to be no significant difference in cusp slopes for larger-@xmath4 clusters compared to small-@xmath4 ones , which means that no new candidate cluster from the sample of noyola & gebhardt ( 2006 ) can be identified in addition to those found by baumgardt et al .",
+    "however , the parameter space must be explored much further in order to confirm this finding ."
+  ],
+  "abstract_text": [
+    "<S> we present the first results of a series of monte - carlo simulations investigating the imprint of a central black hole on the core structure of a globular cluster . </S>",
+    "<S> we investigate the three - dimensional and the projected density profile of the inner regions of idealized as well as more realistic globular cluster models , taking into account a stellar mass spectrum , stellar evolution and allowing for a larger , more realistic , number of stars than was previously possible with direct n - body methods . </S>",
+    "<S> we compare our results to other n - body simulations published previously in the literature . </S>"
+  ]
+}

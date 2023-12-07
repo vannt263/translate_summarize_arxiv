@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "vector meson production is an ideal tool for studying the structure of the proton and to investigate the transition from purely soft to hard pqcd processes .",
+    "l0.25     @xmath0 +   @xmath1    vector mesons can be produced in two different ways in lepton proton scattering , in so - called inelastic processes , where the proton breaks , or elastic ( exclusive ) processes , where the incoming proton stays intact .",
+    "the different production mechanisms are shown schematically in fig .",
+    "[ vm - prod ] .",
+    "they suggest that the cross section for inelastic vector meson production behaves like @xmath2 whereas for elastic production like @xmath3 ^ 2 $ ] .",
+    "different regions of the available phase space ranging from photoproduction ( @xmath4 ) to the dis regime ( @xmath5  gev@xmath6 ) and various vector mesons , including photons can be investigated .",
+    "inelastic @xmath7 production ( see fig .  [ vm - prod]@xmath0 ) has been measured by the h1 and zeus experiments both in the photoproduction  @xcite and dis  @xcite regime .",
+    "cross section as a function of @xmath8 for @xmath7 lepto - production in the range of @xmath9  gev@xmath6@xcite , scaledwidth=100.0% ]     cross section as a function of @xmath8 for @xmath7 lepto - production in the range of @xmath9  gev@xmath6@xcite , scaledwidth=100.0% ]    the cross section @xmath10 as measured by h1@xcite for photoproduction is shown in fig .",
+    "[ jpsi - inel - ph ] . in fig .",
+    "[ jpsi - inel - dis ] the cross section @xmath10 in the dis region  @xcite ( @xmath9  gev@xmath6 ) for different values of the inelasticity @xmath11 is shown .",
+    "the results are in good agreement with the measurements of zeus  @xcite and they agree well in normalization and shape with a qcd calculation  @xcite using @xmath12-factorization ( implemented in  @xcite ) .",
+    "the nlo calculation of @xcite applicable for the photoproduction region also agrees well with the measurement .",
+    "prompt photon production ( the vector meson is replaced by a real photon in fig .  [ vm - prod ] ) in @xmath4 and in the dis region have been measured by h1 and zeus @xcite .",
+    "calculations using leading log parton showers or nlo calculations ( @xmath13 ) are able to describe some of the features of the data in dis but not all . in the photoproduction region",
+    "the measurements are reasonably well described in shape by nlo calculations but the predicted cross sections are a factor @xmath14 smaller than the measured ones , indicating that significant contributions ( presumably higher order corrections ) are still missing in the calculations .",
+    "thus , vector meson production ( not prompt photon production ) is reasonably well understood and can be used to further investigate the structure of the hadronic final state : the elastic ( exclusive ) production of vector mesons , where the proton stays intact .",
+    "the cross section for elastic vector meson production as a function of the @xmath15 center of mass energy @xmath16 is shown in fig .",
+    "[ excluisve - vm - prod - w ]  @xcite .",
+    "@xmath17 for @xmath18 production at large @xmath19 compared with the one from inclusive @xmath20  @xcite , scaledwidth=70.0% ]     @xmath17 for @xmath18 production at large @xmath19 compared with the one from inclusive @xmath20  @xcite , scaledwidth=70.0% ]    one observes a steep rise of the cross section with @xmath16 for heavy vector mesons .",
+    "a similar behavior is observed for light vector meson production at large @xmath19 . as suggested in fig .",
+    "[ vm - prod ] , elastic vector meson production at large scales should behave like @xmath21 ^ 2 \\sim x^{-2 \\lambda}$ ] , whereas inelastic processes , like inelastic vector meson production or the inclusive cross section @xmath20 at small @xmath22 , behave like @xmath23 .",
+    "[ vm - prod - lambda ]  @xcite shows a measurement of @xmath17 for @xmath18 production at large @xmath19 and compared with the one from @xmath20 showing a similar energy dependence @xmath17 , in contrast to the naive expectation coming from 2-gluon exchange .",
+    "note , a similar behavior is seen in the energy dependence of diffractive and inclusive cross sections at large @xmath19  @xcite .",
+    "@xmath24 measured in elastic @xmath18 photoproduction . ,",
+    "scaledwidth=85.0% ]     @xmath24 measured in elastic @xmath18 photoproduction .",
+    ", scaledwidth=70.0% ]    the dependence of the elastic vector meson production cross section on @xmath25 , the momentum transfer at the proton vertex , is often parameterized as @xmath26 .",
+    "the measured @xmath27-slope obtained from different measurements of vector meson production is shown in fig .",
+    "[ b - slope ]  @xcite as a function of @xmath28 , with @xmath29 being the mass of the produced vector meson . at large @xmath30",
+    "gev@xmath6 the @xmath27-slope becomes constant at @xmath31  gev@xmath32 .",
+    "the energy dependence of the cross section as a function of @xmath33 can be parameterized with @xmath34 . the measurement of @xmath24 within a one experiment is shown in fig .",
+    "[ alpha_pom ]  @xcite and compared with results of  @xcite . even in the photoproduction region",
+    "the value of @xmath24 is smaller than expected from soft hadron - hadron interactions .",
+    "measurements of inelastic vector meson production in the photoproduction and dis region can be reasonably well described with higher order qcd calculations .",
+    "measurements of elastic @xmath18 vector meson production show a energy dependence , which is similar to the one obtained from inclusive measurements . even in photoproduction of elastic @xmath18 mesons ,",
+    "the measured @xmath35 is smaller than expected from soft hadron - hadron interactions .",
+    "thus understanding of elastic vector meson production is still a challenge ."
+  ],
+  "abstract_text": [
+    "<S> inelastic and elastic ( exclusive ) cross section measurements of vector meson production at hera are discussed . </S>"
+  ]
+}

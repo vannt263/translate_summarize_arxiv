@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "in this paper we present a semiclassical theory of the interaction of a single two - level atom with a single mode of the field in which the atom is treated as a quantum two - level system and the field is treated classically .",
+    "+ we will use a simple physical model in order to define the goals , terminology , and methodology of applied control theory .",
+    "+ we propose a simple model of feedforward ( open - loop ) control for two - level atom in the external one - dimensional optical field .",
+    "+ we use the so - called `` semi - classical model '' of the atom - field interaction that describes a single quantum two - level atomic system ( all other levels are neglected ) with classical electromagnetic field .",
+    "we use the standard notation following @xcite , but in our model the optical field plays the role of a control signal @xmath1 for open - loop ( feedforward ) control scheme @xcite .",
+    "recently other authors studied the control of two - level atoms in the frame of open - loop ideology when the controlling field was known a priori .",
+    "it allowed to get the different forms of atomic energy spectra , producing @xmath2- and @xmath3- pulses @xcite , taking special non - constant shapes of external field @xcite etc .",
+    "we consider the quantum two - level atomic system in the classical optical field @xmath4 .",
+    "let @xmath5 and @xmath6 represent the upper and lower level states of the atom , i.e. , they are eigenstates of the unperturbed part of the hamiltonian @xmath7 with the eigenvalues : @xmath8 and @xmath9 .",
+    "+ the equations of motion for the density matrix elements are given by @xcite : @xmath10 where @xmath11 ; @xmath12 is the matrix element of the electric dipole moment , @xmath13 and @xmath14 are the decay constants , @xmath15 is a decay rate including elastic collisions between atoms , and @xmath16 is the atomic transition frequency .",
+    "+ let s denote @xmath17 and @xmath18.\\end{aligned}\\ ] ] using ( 2 ) we can re - write the system ( 1 ) in the real form : @xmath19 for further calculation we put @xmath20 .",
+    "+ then @xmath21 the first two equations of system ( 3 ) can be combined together .",
+    "+ we put : @xmath22 substituting ( 5 ) in ( 3 ) we eliminate the decay @xmath23-containing terms . + finally , re - scaling the time by @xmath24 : @xmath25 , and denoting the dimensionless control signal by @xmath26 and @xmath27 , we get the simplified system : @xmath28 here the dot means the derivative with respect to the new dimensionless time @xmath29 . +",
+    "we remind that @xmath30 $ ] , since @xmath31 $ ] , and @xmath32 as @xmath33 .",
+    "we mention here the special ( particular ) case of @xmath34 and thus , @xmath35 .",
+    "+ then the system ( 6 ) has the integral of motion : @xmath36 now in the spherical coordinates : @xmath37 then @xmath38 if @xmath39 , @xmath40 , then @xmath41 and @xmath42 .",
+    "to solve ( 6 ) numerically we will use maple . + let s apply the initial conditions @xmath43 corresponding to the ground level of the atom .",
+    "+ here we put @xmath44 and @xmath45 .",
+    "+ the result is presented on fig.1 ( left ) .",
+    "+ another case corresponds to the increasing signal @xmath46 .",
+    "+ the result is presented on fig.1 ( right ) .",
+    "+     and the control signal @xmath47 ( left ) and @xmath48 ( right).,title=\"fig:\",width=11 ] +     + from fig.1 we can conclude that the shape of the control field ( i.e. the optical field @xmath49 ) influences drastically on the present state of two - level atoms .",
+    "in this paper we studied the techniques to control the behavior of the two - level quantum particles by the modulated external optical field .",
+    "+ we conclude that the semi - classical model of interaction between two - level quantum particle system and classical optical field can be successfully applied to describe the control process of the particle energy stabilization ."
+  ],
+  "abstract_text": [
+    "<S> the methods of mathematical control theory are widely used in the modern physics , but still they are less popular in quantum science . </S>",
+    "<S> we will discuss the aspects of control theory , which are the most useful in applications to the real problems of quantum optics . </S>",
+    "<S> we apply this technique to control the behavior of the two - level quantum particles ( atoms ) in the modulated external optical field in the frame of the so called `` semi classical model '' , where quantum two - level atomic system ( all other levels are neglected ) interacts with classical electromagnetic field . in this paper </S>",
+    "<S> we propose a simple model of feedforward ( open loop ) control for the quantum particle system , which is a basement for further investigation of two - level quantum particle in the external one - dimensional optical field .     +    @xmath0 deptt . of physics , herzen state pedagogical university + 48 moika river , </S>",
+    "<S> 191186 st . </S>",
+    "<S> petersburg , russia + email : sebori@mail.ru </S>"
+  ]
+}

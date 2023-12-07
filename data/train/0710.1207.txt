@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "young star clusters , with typical masses of @xmath3 , indicate recent or ongoing violent star formation , and are often triggered by mergers and close encounters between galaxies .",
+    "only a fraction of these young massive star clusters evolve into old globular clusters , while the majority ( @xmath4 ) will dissolve into the field star population within about 30myr ( e.g. , de grijs & parmentier 2007 ) . in order to understand the formation and fate of these clusters , it is important to study these in detail , and obtain good estimates of the mass , stellar content , dynamics , and binary population .",
+    "the dynamical mass for a cluster in virial equilibrium , consisting of single , equal - mass stars , is given by : @xmath5 ( spitzer 1987 ) , where @xmath6 is the ( projected ) half - mass radius , @xmath7 the measured line - of - sight velocity dispersion , and @xmath8 . for unresolved clusters , @xmath7 is usually derived from spectral - line analysis , neglecting the presence of binaries . however , observations have shown that the majority of stars form in binary or multiple systems ( e.g. , duquennoy & mayor 1991 ; kouwenhoven et al . 2005 , 2007 ; kobulnicky et al .",
+    "when binaries are present , @xmath7 does not only include the motion of the binaries ( i.e. , their centre - of - mass ) in the cluster potential , but additionally the velocity component of the orbital motion .",
+    "this results in an overestimation of the velocity dispersion , and hence of @xmath9 .",
+    "the systematic error introduced by the single - star assumption depends on the properties of the star cluster and of the binary population .",
+    "this effect is most easily seen in the extreme case when @xmath7 is dominated by the orbital motion of binaries ( which is the case for most galactic ob associations ) . in this binary - dominated case ,",
+    "the measured @xmath7 is independent of @xmath6 and the true cluster mass , @xmath10 .",
+    "the inferred @xmath9 from equation  ( 1 ) is then proportional to @xmath6 .",
+    "the dynamical mass overestimation is therefore @xmath11 .",
+    "sparse clusters are thus most sensitive to binaries ; the systematic error in @xmath9 could be as influential as that from the assumption of virial equilibrium .",
+    "the cluster structure , stellar mass function and the presence of mass segregation also affect @xmath9 , but these are of much less importance ( kouwenhoven & de grijs , in prep . ) .    whether or not the binaries affect @xmath9 additionally depends on the properties of the binary population .",
+    "obviously , the most important parameters are the binary fraction ( which determines the relative weight between singles and binaries when measuring @xmath7 ) and the semi - major axis , @xmath12 , or period distribution ( tight binaries have a larger orbital velocity component ) . as in a binary orbit @xmath13",
+    ", we have for the binary - dominated case @xmath14 .",
+    "the distributions over eccentricity and mass ratio play a significantly smaller role than the binary fraction and semi - major axis distribution ( kouwenhoven & de grijs , in prep . ) .",
+    "finally , we wish to stress that further systematic errors are introduced by observational selection effects .",
+    "firstly , @xmath7 is often derived from spectral lines of red giants ; the velocities of these objects may or may not be representative for the cluster as a whole .",
+    "secondly , a measurement in the cluster centre , and near the tidal limit , will result in dynamical masses differing by @xmath15 ; caution should be exercised when interpreting the observational results .",
+    "the effect of binaries on the dynamical mass determination of a star cluster is important if the typical orbital velocity of a binary component is of order , or larger than , the velocity dispersion of the particles ( single / binary ) in the potential of the cluster .",
+    "our simulations indicate that , for example , the dynamical mass is overestimated by 70% for @xmath16kms@xmath17 , 50% for 2kms@xmath17 , 20% for 5kms@xmath17 , and 5% for 10kms@xmath17 . due to spectral resolution and stellar atmospheric turbulence ,",
+    "most _ measured _ velocity dispersions are @xmath18kms@xmath17 .",
+    "most of the known dynamical masses of massive star clusters are therefore only mildly affected by the presence of binaries . however ,",
+    "for low - mass star clusters , the spectroscopic velocity dispersion may result in an overestimation of the dynamical mass by a factor of two or more ."
+  ],
+  "abstract_text": [
+    "<S> the total mass of a distant star cluster is often derived from the virial theorem , using line - of - sight velocity dispersion measurements and half - light radii , under the implicit assumption that all stars are single ( although it is _ known _ that most stars form part of binary systems ) . </S>",
+    "<S> the components of binary stars exhibit orbital motion , which increases the measured velocity dispersion , resulting in a dynamical mass overestimation . in these proceedings </S>",
+    "<S> we quantify the effect of neglecting the binary population on the derivation of the dynamical mass of a star cluster . </S>",
+    "<S> we find that the presence of binaries plays an important role for clusters with total mass @xmath0 ; the dynamical mass can be significantly overestimated ( by a factor of two or more ) . </S>",
+    "<S> for the more massive clusters , with @xmath1 , binaries do not affect the dynamical mass estimation significantly , provided that the cluster is significantly compact ( half - mass radius @xmath2  pc ) . </S>"
+  ]
+}

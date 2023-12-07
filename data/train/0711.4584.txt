@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the earth orientation is generally considered as ( i ) earth rotation axis movements in space ( precession - nutation ) , ( ii ) earth rotation axis movements in the earth ( polar motion ) , or ( iii ) earth rotation speed variations ( exces in the length of the day ) .",
+    "these movements come from earth inside masses distributions .",
+    "the earth gravity field can give us information about this distribution of masses because nowadays we can determine the variations of the earth gravity field by space geodetic techniques .",
+    "hence , there is a link between the variations of the earth gravity field and the variations of the earth orientation parameters . and",
+    "the high accuracy now reached in the vlbi ( very long baseline interferometry ) earth orientation parameters ( eop ) determination requires looking further at the various geophysical contributions to variations in eop .",
+    "so we investigate here if this variable gravity field can be valuable for the improving the modelisation of the earth rotation .",
+    "the fundamental equations for the rotation of the earth in an inertial frame are euler s dynamical equations , based on the conservation of the angular momentum @xmath0 of the earth under an external torque @xmath1 ( lambeck 1980 ) : @xmath2 for a non - rigid earth , these equations in a rotating frame become : @xmath3 + \\vec \\omega \\wedge \\left [ i(t)~\\vec \\omega + \\vec h(t)\\right ] = \\vec l\\ ] ] where the inertia tensor @xmath4 is time dependent , as well as the relative angular momentum @xmath5 , and @xmath6 is the earth instantaneous rotation vector which direction is the one of the rotation axis and which norm is the rotation speed .",
+    "it depends on the earth orientation parameters ( eop ) .",
+    "the inertia tensor , which is symetric , can be written as : @xmath7 =   \\left [ \\begin{array}{ccc } a+c_{11 }   &   c_{12 }     &   c_{13 }    \\\\ c_{12 }     &   b+c_{22 }   &   c_{23 }    \\\\ c_{13 }     &   c_{23 }     &   c+c_{33 } \\end{array } \\right]\\ ] ] with @xmath8 the constant part and @xmath9 ( @xmath10 ) the variable part of the inertia tensor .",
+    "the earth gravity field of the earth devived from the external gravitational potential @xmath11 which is expressed in a spherical harmonic expansion as ( lambeck 1980 ) : @xmath12\\ ] ] where @xmath13 is the geocentric distance , @xmath14 the latitude and @xmath15 the longitude of the point at which @xmath11 is detremined .",
+    "@xmath16 is the gravitational constant , @xmath17 and @xmath18 are the mass and the equatorial radius of the earth , respectively . @xmath19 and @xmath20 are the stokes coefficients of degree @xmath21 and order @xmath22 , and @xmath23 are the legendre polynomials . hence the second - degree stokes coefficients can be directely related to the inertia tensor components ( lambeck , 1988 ) : @xmath24",
+    "we just have shown that the earth rotation ( with @xmath6 and the eop ) could be related to the earth gravity field ( with the degree 2 stokes coefficients ) .",
+    "then , we investigate now how we can link each eop with these coefficients .",
+    "the exces in the length of the day @xmath25 ( with respect to a mean lod ) can be related to ( i ) the third component @xmath26 of the variable part of the inertia tensor and ( ii ) the third component @xmath27 of the relative angular momentum of the earth , ignoring the external torques : @xmath28 moreover , with the help of eq .",
+    "( [ eq : coeffs_c_inertie ] ) , we can write : @xmath29 where @xmath30 is the variation in time of the sum of the diagonal elements of the inertia tensor .",
+    "we can consider that it is equal to zero ( rochester & smylie 1974 ) .",
+    "then , we can obtain : @xmath31 where the coefficient @xmath32 accounts for the loading effects and @xmath33 is the third moment of inertia of the earth s mantle ( barnes et al .",
+    "then we have compared the @xmath25 obtained with eq .",
+    "( [ eq : lod_fin ] ) and the @xmath34 data in fig .",
+    "[ fig : bourda_fig2 ] with the one usually used but corrected from zonal tides , atmopheric wind effects ( @xmath27 ) and long terms ( see fig .  [",
+    "fig : bourda_fig1 ] ) .",
+    "the study of the earth precession nutation angles variations influenced by the temporal variations of the @xmath35 coefficients of the geopotential is developped in the article of bourda & capitaine ( 2004 ) .",
+    "it is based on the works of williams ( 1994 ) and capitaine et al .",
+    "( 2003 ) which considered secular terms for the @xmath35 variations , whereas we consider also annual and semi - annual ones .      the polar motion @xmath36 , where @xmath37 and @xmath38 are the components of the rotation axis in space can be theoretically related to the degree 2 and order 1 coefficients of the earth gravity field : @xmath39 where @xmath40 is related to @xmath41 and @xmath42 with eq .",
+    "( [ eq : coeffs_c_inertie ] ) , and @xmath43 .",
+    "the part of the length of the day obtained with the @xmath34 data corresponds to gravitational terms .",
+    "then we have compared @xmath25 corrected from the movements terms ( as atmospheric ones ) , the zonal tides and the decadal terms ( from magnetic effects in the core - mantle boundary ) .",
+    "but the residual term has an amplitude of the order of @xmath44 @xmath45s , whereas the better precision on these lod data is of the order of @xmath46 @xmath45s .",
+    "barnes , r. t. h. , hide , r. , white , a. a. , & wilson , c. a. 1983 , proc .",
+    "lond . , a 387 , 31 bourda , g. , & capitaine , n. 2004 , a&a , in press capitaine , n. , wallace , p. t. , & chapront , j. 2003 , a & a , 412 , 567 lambeck , k. 1980 , the earth s variable rotation ( cambridge : cambridge univ . press ) lambeck , k. 1988 , geophysical geodesy : the slow deformations of the earth ( oxford : oxford science publications ) rochester , m. g. , & smylie , d. e. 1974 , j. geophys .",
+    "res . , 79 , 4948 williams , j. g. 1994 , astron . j. , 108(2 ) , 711"
+  ],
+  "abstract_text": [
+    "<S> the determination of the earth gravity field from space geodetic techniques now allows us to obtain the temporal variations of the low degree coefficients of the geopotential , combining the orbitography of several satellites ( e.g. lageos1 , lageos2 , starlette ) . </S>",
+    "<S> these temporal variations of the earth gravity field can be related to the earth orientation parameters ( eop ) through the inertia tensor . </S>",
+    "<S> this paper shows these relations and discusses how such geodetic data can contribute to the understanding of the variations in eop . </S>"
+  ]
+}

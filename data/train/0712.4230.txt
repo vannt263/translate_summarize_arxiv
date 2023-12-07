@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "recent proper motion and parallax measurements for the pulsar psr b1508 + 55 ( chatterjee et al .",
+    "@xcite ) gave the first example of a high velocity ( @xmath2 ) _ directly _ measured for a neutron star ( ns ) .",
+    "a possible way to account for extremely high velocities of nss is to assume that they are due to a natal kick or a post - natal acceleration ( chatterjee et al . 2005 ) . in this paper",
+    ", we propose an alternative explanation for the origin of hyperfast nss ( cf .",
+    "gvaramadze @xcite ) based on the hypothesis that they could be the remnants of _ symmetric _ supernova ( sn ) explosions of hypervelocity stars [ hvss ; the ordinary stars moving with extremely high ( @xmath3 ) peculiar velocities ; e.g. brown et al .",
+    "a strong argument in support of this hypothesis comes from the fact that the mass of one of the hvss is @xmath4 ( edelmann et al .",
+    "@xcite ) so that this star ends its evolution in a type ii sn leading to the production of a hyperfast ns .",
+    "it is believed that the origin of hvss could be connected to scattering processes involving the supermassive black hole ( bh ) in the galactic centre ( hills @xcite ; yu & tremaine @xcite ; gualandris et al .",
+    "it is therefore possible that the progenitors of some hyperfast nss were also ejected from the galactic centre .",
+    "the proper motion and parallax measured for psr b1508 + 55 , however , indicate that this ns was born in the galactic disk ( chatterjee et al .",
+    "the kinematic characteristics of some high - velocity early b stars also suggest that these objects originated in the disk ( e.g. ramspeck et al .",
+    "we consider the possibility that the hvss ( including the progenitors of hyperfast nss ) could be ejected not only from the galactic centre but also from the cores of young ( @xmath5 yr ) massive ( @xmath6 ) star clusters ( ymscs ) , located either in the galactic disk or near the galactic centre ( cf .",
+    "gualandris & portegies zwart @xcite ) .",
+    "to check the hypothesis that the hyperfast nss could be the descendants of hvss which were ejected from the cores of ymscs , we calculated ( see gvaramadze et al .",
+    "@xcite ) the maximum possible ejection speed produced by dynamical processes involving close encounters between : _",
+    "i _ ) two hard ( heggie @xcite ) massive binaries ( e.g. leonard @xcite ) , _ ii _ ) a hard binary and an intermediate - mass ( @xmath7 ) bh ( e.g. portegies zwart & mcmillan @xcite ) , and _ iii _ ) a single star and a hard binary intermediate - mass bh ( e.g. grkan et al .",
+    "we find that main - sequence o - type stars can not be ejected from ymscs with peculiar velocities high enough to explain the origin of hyperfast nss , but lower mass main - sequence stars or the stripped helium cores of massive stars could be accelerated to hypervelocities .",
+    "we find also that the dynamical processes in the cores of ymscs can produce stars moving with velocities of @xmath8 which therefore contribute to the origin of high - velocity nss as well as to the origin of the bound population of halo stars ( ramspeck et al .",
+    "@xcite ; brown et al .",
+    "@xcite ) .    v.v.g . acknowledges the international astronomical union and the russian foundation for basic research for travel grants .",
+    "is supported by grant nnx07ah15 g from nasa .",
+    "acknowledge support from the netherlands organization for scientific research ( nwo under grant no .",
+    "635.000.001 and 643.200.503 ) and the netherlands research school for astronomy ( nova ) ."
+  ],
+  "abstract_text": [
+    "<S> we propose an explanation for the origin of hyperfast neutron stars ( e.g. psr b1508 + 55 , psr b2224 + 65 , rx j0822@xmath04300 ) based on the hypothesis that they could be the remnants of a _ symmetric _ supernova explosion of a high - velocity massive star ( or its helium core ) which attained its peculiar velocity ( similar to that of the neutron star ) in the course of a strong three- or four - body dynamical encounter in the core of a young massive star cluster . </S>",
+    "<S> this hypothesis implies that the dense cores of star clusters ( located either in the galactic disk or near the galactic centre ) could also produce the so - called hypervelocity stars  the ordinary stars moving with a speed of @xmath1 . </S>"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "article_text": [
+    "we used an selection algorithm based on assumption that a total energy of physical pair of galaxies must be negative @xcite .",
+    "individual mass of the galaxies are estimated from their k - luminosity using appropriate value of m / l .",
+    "it is chosen to reproduce the well known nearby groups of galaxies , like the centaurus  a , m  81 , m  83 and ic  342 .",
+    "the 5687 galaxies of 10571 ( about 54% ) with @xmath0 and @xmath1 have been gathered in 1127 groups .",
+    "the median velocity dispersion in groups with @xmath2 members is 88 km  s@xmath3 , and the median harmonic radius is 222 kpc .",
+    "we find the median mass - to - k - luminosity ratio for the groups to be 26 in solar units using a projected mass estimator @xcite .",
+    "that shows presence of moderate amount of dark matter in the considered groups .",
+    "@xcite , expected m / l ratio for baryonic @xmath4 and dark @xmath5 matter in standard cosmology @xcite.,scaledwidth=65.0% ]    based on our algorithm for group selection we derived the median mass - to - light ratio of groups @xmath6 that was used to trace the distribution of mass via light distribution in the local supercluster ( lsc ) . the mean k - band luminosity density within the considered volume is @xmath7 l@xmath8 mpc@xmath9 , being in good agreement with the global luminosity density @xmath10 l@xmath8 mpc@xmath9 from 2df survey @xcite and @xmath11 l@xmath8 mpc@xmath9 from 2mass and sdss surveys @xcite .",
+    "thus , the mean total mass density inside the lsc volume is @xmath12 m@xmath8 mpc@xmath9 that corresponds to @xmath13 .",
+    "this value amounts only a quarter of the global density @xmath14 in standard cosmology @xcite .",
+    "even the total mass - to - light ratio of the virgo cluster ( @xmath15 ) is not enough to reach the global value @xmath16 expected for @xmath14 . to adjust the ensemble",
+    "averaged value @xmath13 with the global density one needs to suppose that a significant part of the dark matter on the lsc scale is not associated with system of galaxies ."
+  ],
+  "abstract_text": [
+    "<S> the local supercluster is an ideal laboratory to study distribution of luminous and dark matter in the nearby universe . </S>",
+    "<S> the 1100 small groups have been selected using algorithm based on assumption that a total energy of physical pair of galaxies must be negative . </S>",
+    "<S> the properties of the groups have been considered . </S>"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the hottest helium - rich white dwarfs exhibit lines of ionized helium in their optical spectra and they are classified as do white dwarfs . currently forty dos are known .",
+    "the coolest one has @xmath1  k and the hottest one is kpd0005 + 5106 . from an analysis of optical and _ hubble space telescope _",
+    "fos spectra @xmath2  k and @xmath3 has been derived ( werner et al . 1994 ) for kpd0005 + 5106 .",
+    "the sloan digital sky survey has recently revealed another do with @xmath4  k ( hgelmeyer et al . 2006 ) .    in the _ far ultraviolet spectroscopic explorer _ (",
+    "fuse ) spectra of the hottest pg1159 stars ( @xmath5  k ) we have recently discovered absorption lines of ( werner et al .",
+    "the same features were also discovered in kpd0005 + 5106 ( fig.1 ) .",
+    "emission lines in the optical spectrum are also from and not , as previously thought , from superionized ( i.e. , non - thermally excited ) .",
+    "non - lte line profile fits to the lines of kpd0005 + 5106 yield @xmath0  k and @xmath6 .",
+    "a reassessment of the line spectrum confirms these parameters ( werner et al .",
+    "hence , kpd0005 + 5106 is by far the hottest he - rich white dwarf .",
+    "in fact , it is the hotter than any other white dwarf or central star of planetary nebula .",
+    "it is only rivaled by the exotic pg1159 star h1504 + 65 ( werner et al .",
+    "2004 , and these proceedings ) .",
+    "rosat has revealed two x - ray emission components of kpd0005 + 5106 .",
+    "_ chandra _ observations of the soft component ( 2080 ) prove that it is of photospheric origin ( drake & werner 2005 ) and not , as claimed earlier , coronal ( fleming et al .",
+    "deposing the idea of non - photospheric lines is in accordance with the deposition of the corona .",
+    "the hard component ( at 12 ) remained unexplained ( odwyer et al .",
+    "2003 ) . in the light of the newly determined ,",
+    "extreme @xmath7 it should be investigated whether this component is of photospheric origin , too .",
+    "kpd0005 + 5106 is located on a 0.7m@xmath8 wood & faulkner ( 1986 ) post - agb track , just before the `` knee '' , at the hot end of the white dwarf cooling sequence .",
+    "this position is well within the pg1159-class domain of the hr diagram , hence , it can not simply be a pg1159 descendant .",
+    "the immediate progenitor could have been a o(he ) star .",
+    "this spectral class consists of five hot stars ( @xmath9  k , @xmath10 , rauch et al .",
+    "1998 , and these proceedings ) with almost pure he atmospheres .",
+    "kpd0005 + 5106 as well as the o(he ) stars might be descendants of rcrb stars .",
+    "is supported by the _",
+    "german astrophysical virtual observatory _",
+    "project of the german federal ministry of education and research under grant 05ac6vtb .",
+    "is supported by the fuse project , funded by nasa contract nas5 - 32985 .",
+    "drake , j. j. , & werner , k. 2005 , apj , 625 , 973 fleming , t. a. , werner , k. , & barstow , m. a. 1993 , apj , 416 , l79 hgelmeyer , s.  d. , dreizler , s. , homeier , d. , et al .",
+    "2006 , a&a , 454 , 617 odwyer , i.  j. , chu , y .- h . , gruendl , r.  a. , et al .",
+    "2003 , aj , 125 , 2239 rauch , t. , dreizler , s. , & wolff , b. 1998 , a&a , 338 , 651 werner , k. , heber , u. , & fleming , t.  a. 1994 , a&a , 284 , 907 werner , k. , rauch , t. , barstow , m.  a. , & kruk , j.  w. 2004 , a&a , 421 , 1169 werner , k. , rauch , t. , & kruk , j.  w. 2007 , a&a , in press wood , p.  r. , & faulkner , d.  j. 1986 , apj , 307 , 659"
+  ],
+  "abstract_text": [
+    "<S> kpd0005 + 5106 is the hottest known helium - rich white dwarf . </S>",
+    "<S> we have identified lines in uv and optical spectra and conclude that it is significantly hotter than previously thought , namely @xmath0  k instead of 120000  k. this is a possible explanation for the observed hard x - ray emission as being of photospheric origin . concerning its evolutionary state , we suggest that kpd0005 + 5106 is not a descendant of a pg1159 star but more probably related to the o(he ) stars and rcrb stars . </S>"
+  ]
+}

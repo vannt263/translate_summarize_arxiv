@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "at present the international virtual observatory has become a rapidly growing initiative .",
+    "recently , several vo resources providing access to complex observational and theoretical datasets have appeared . providing the transparent and efficient data access and visualization mechanisms are the crucial points for data sources to be used by the scientific community .    in this paper",
+    "we demonstrate how to visualize complex observable and theoretical datasets stored in the vo - enabled data archives using a web - browser , existing vo client software and plastic ( platform for astronomical tools inter - connection ) , a prototype of an application messaging protocol , for interaction between archive query results and tools .",
+    "the technical details of the middle layer software implementation are given in a paper `` middleware for data visualization in vo - enabled data archives '' by zolotukhin & chilingarian ( this volume ) .",
+    "aspid - sr ( chilingarian et al .",
+    "2007a ) is a prototype of an archive of heterogeneous science ready data , containing observations obtained at the russian 6-m telescope .",
+    "this resource provides the world largest collection of science - ready 3d spectroscopic data , including about a hundred integral - field unit ( ifu ) datasets mostly for extragalactic objects and scanning fabry - perot interferometric observations ( about 70 data - cubes for nearby galaxies in h@xmath0 and [ oiii ] emission lines ) .",
+    "aspid - sr provides implementation for several existing ivoa standards : characterisation data model ( louys et al .",
+    "2007 , one of the reference implementations ) , spectrum data model ( mcdowell et al . 2007 ) simple spectral access protocol ( tody et al . 2007 ) .",
+    "interaction between vo client applications and the aspid - sr archive interface is implemented in several stages :    1 .   querying the xml characterisation metadata ( zolotukhin et al .",
+    "2007 ) using the web interface .",
+    "light - weight java applet is integrated into the html pages , containing the query response ; it detects a plastic hub , connects to it , and checks whether other tools ( aladin , vospec , vo paris euro3d client ) are registered within it .",
+    "if the applications are not detected , they are started using javascript and java webstart .",
+    "3 .   as soon as all the used applications have been started and registered within the plastic hub",
+    ", a small script is sent to cds aladin to display the dss2 image of the area , corresponding to the position of the ifu field of view . at the same time , the ifu dataset in the euro3d fits format ( kissler - patig et al .",
+    "2004 ) is loaded into vo paris euro3d client ( chilingarian et al .",
+    "positions of ifu fibers are sent from vo paris euro3d client to cds aladin and overplotted on the dss2 image .",
+    "user can interactively select either groups of fibers or individual ones using cds aladin .",
+    "an extracted spectrum ( or co - added spectra of several fibers ) is sent to esa vospec using plastic by clicking on the corresponding button in the user interface of vo paris euro3d client .",
+    "this implementation follows the principles of handling 3d spectral datasets , proposed and described in chilingarian et al .",
+    "the horizon galmer database ( di matteo et al .",
+    "2007a ) contains results of n - body simulations of mergers of galaxies ( di matteo et al .",
+    "2007b ) of different morphological types . to model the galaxy evolution , the tree - sph code is used , where gravitational forces are calculated using a hierarchical tree method and gas evolution is followed by means of smoothed particle hydrodynamics .",
+    "the first release of the data contains about 900 simulations ( with limited inclination angles of the orbits ) , in 50 to 70 snapshots each , representing mergers of giant galaxies of different morphological types ( e0 to sd ) .",
+    "the web - based access to the simulation results is provided .",
+    "the middleware described in zolotukhin & chilingarian ( this conference ) is used to provide plastic based communication between archive web - pages and topcat used as a tool for displaying the 3-dimensional snapshot datasets , as well as star formation histories of the merging galaxies .",
+    "the horizon galmer database implements a prototype of ivoa simple numeric access protocol data model ( lemson et al .",
+    ", in prep . )",
+    "serialized as the relational database schema .",
+    "the two implementations described above demonstrate that the observable and theoretical datasets having complex structure can be discovered and accessed at the present stage of the virtual observatory development , when not all the interoperability standards are yet established .",
+    "a web - browser and existing client applications interacting via simple application messaging protocol such as plastic provide an infrastructure powerful enough for scientific usage of the data sources in a vo framework ."
+  ],
+  "abstract_text": [
+    "<S> our presentation is aimed at data centers providing access to complex observational and theoretical data and to the users of these resources . </S>",
+    "<S> we show how to visualize complex datasets stored in the vo enabled data archives using existing vo client software and plastic , a prototype of an application messaging protocol , for interaction between archive query results and tools . </S>",
+    "<S> we demonstrate how to display and explore observable ifu datasets , provided within the aspid - sr archive , using cds aladin , esa vospec , and vo - paris euro3d client . in the second part of the paper </S>",
+    "<S> we show how to use topcat for displaying results of n - body simulations of galaxy mergers available in the horizon galmer database . </S>"
+  ]
+}

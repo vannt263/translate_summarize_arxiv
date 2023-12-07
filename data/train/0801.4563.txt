@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "in order to understand the formation and evolution of galaxies it is necessary to measure the distribution of galaxy properties and how they evolve with redshift . however , most studies of galaxies look at the distributions of galaxies observed properties like luminosity , color , size and morphology . because of attenuation by dust these properties can change with galaxy inclination and therefore what is measured is a convolution of a galaxy s intrinsic properties and the effects of dust .",
+    "this complicates attempts to understand how galaxy properties evolve with redshift as any observed change could be due to variations in dust properties or evolution of galaxies intrinsic properties .",
+    "furthermore , comparison to theory is made more difficult because a model of attenuation from dust as a function of inclination is needed to compare theoretical models to observations .    for these reasons it is useful to determine inclination corrections for galaxies .",
+    "this can be done for large samples in a statistical manner by searching for correlations between a galaxy property and inclination , and then assuming that correlation should be removed @xcite . in @xcite",
+    "we perform such an analysis on a sample of galaxies from the nyu - vagc @xcite which are imaged in both the sloan digital sky survey @xcite and the two micron all sky survey @xcite .",
+    "this gives us @xmath0 galaxies with eight wavebands of coverage from @xmath1 to @xmath2 with which to determine inclination corrections .    ) while orange points highly inclined ( @xmath3 ) .",
+    "clearly , the observed properties of face - on and edge - on galaxies differ , with edge - on galaxies being fainter and redder . however , when inclination corrections are applied the two show a comparable distribution in the color - magnitude diagram . also , the fraction of galaxies that one would consider red decreases when going from observed to intrinsic color . ]    when inclination corrections are applied to the sample interesting changes to the population of galaxies can be noted .",
+    "figure [ fig : cmd ] shows the color - magnitude diagram for observed ( left panel ) and intrinsic ( right panel ) galaxy properties .",
+    "the color - magnitude diagram changes in a number of ways .",
+    "galaxies redder than the red sequence are found in the observed color - magnitude diagram , but not once inclination corrections have been applied .",
+    "also , the fraction of galaxies with @xmath4 in the observed color - magnitude diagram is @xmath5 .",
+    "this drops to @xmath6 when going to the intrinsic color - magnitude diagram a reduction of almost one third in the number of red galaxies a significant change",
+    ". please see @xcite for more detail ."
+  ],
+  "abstract_text": [
+    "<S> galaxies are seen from different viewing angles and their _ observed _ properties change as a function of viewing angle . in many circumstances </S>",
+    "<S> we would rather know the _ </S>",
+    "<S> intrinsic _ properties of galaxies  those properties that do not depend on viewing angle . for a large sample of galaxies </S>",
+    "<S> it is possible to recover the intrinsic properties of galaxies , statistically , by looking for correlations with galaxy inclination , and then applying a correction to remove those dependencies . </S>",
+    "<S> studying the intrinsic properties of galaxies can give a different impression of the galaxy population and help avoid the mistake of connecting observed properties to quantities that do nt depend on inclination like halo mass . </S>"
+  ]
+}

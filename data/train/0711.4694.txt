@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "scintillating fiber trackers have already been realized using _ _ visible - light photon counters__@xcite or _ _ multi - anode photomultiplier tubes__@xcite as photodectors .",
+    "multi - anode pmts do not exhibit a sufficiently high photodetection efficiency ( generally around @xmath0 to @xmath1 ) to encourage their use for a high precision scifi tracker using very thin scintillating fibers which yield only a small number of photons for a traversing minimal ionizing particle .",
+    "vlpcs on the other hand require a significant overhead since they require operating temperatures of @xmath2 .",
+    "sipms achieve high photodetection efficiencies ( pde ) of over @xmath3@xcite and allow for operation at room temperature ( @xmath4 ) .",
+    "furthermore novel sipm arrays with very densely packed channels allow for a compact design ( see fig .",
+    "[ figsipmarray ] ) .    [ cols=\"^,^ \" , ]     sipm arrays with an area of @xmath5 and 32 readout cells , each sensitive cell covering an area of @xmath6 , are used for column - wise fiber readout .",
+    "the sipm arrays are mounted on alternating ends of the fiber modules along with an integrated preamplifier and digitization solution .",
+    "the respective opposing ends of the fibers are covered by a reflective coating .",
+    "a dedicated monte carlo simulation , using the geant4@xcite package , has been developed for comparison to and generalization of the testbeam results@xcite . a key question to be answered was the spatial resolution obtained with a fiber module as a function of the mean photoelectron yield @xmath7 of the fiber - sipm chain ( see fig .",
+    "[ figspatial ] ) . for the photo electron yield achieved in the testbeam , a spatial resolution of @xmath8",
+    "is obtained at the mean projected angle of incidence , which is @xmath9 for the pebs geometry .",
+    "the testbeam results indicate that this concept for a high - resolution scifi / sipm tracker is technically feasible .",
+    "the average yield of 5.4 photoelectrons with a reflective foil on one fiber end and the sspm-0606exp sipms is acceptable .",
+    "sipms with a reduced pixel density and a @xmath10 higher pde are commercially available from hamamatsu and will be tested thoroughly during the next test beam in fall 2007 . the light output from scintillating fibers",
+    "can be improved by @xmath11 using fibers without white coating as measurements with different fiber coatings conducted for the cream experiment have shown@xcite .    a spatial resolution as good as @xmath12 is possible , depending on the granularity of the readout , the quality of the sipms , the qualtity of the optical coupling of the fibers to the sipms and the type of fibers used . for the final tracker an average spatial resolution of @xmath13",
+    "is expected .",
+    "e. c. aschenauer , j. baehr , v. gapienko , b. hoffmann , a. kharchilava , h. luedecke , r. nahnhauer , r. shanidze , _ development of scintillating fiber detector technology for high rate particle tracking _",
+    "( arxiv : hep - ex/9710001v1 ) ."
+  ],
+  "abstract_text": [
+    "<S> using thin scintillating fibers with silicon photomultiplier ( sipm ) readout a modular high - resolution charged - particle tracking detector has been designed . </S>",
+    "<S> the fiber modules consist of 2 x 5 layers of 128 round multiclad scintillating fibers of 0.250 mm diameter . </S>",
+    "<S> the fibers are read out by four sipm arrays ( 8 mm x 1 mm ) each on either end of the module .    </S>",
+    "<S> the basic features of this detector concept have been evaluated in a test beam in october 2006 using novel sipm detectors with improved photon detection efficiency . </S>",
+    "<S> this detector has been developed for a balloon borne spectrometer ( pebs ) to measure the comsic ray positron- and electron flux with high precision .    </S>",
+    "<S> this particle detection concept is also very interesting for future applications , for example as an outer layer of an ilc detector or for other astroparticle physics experiments . </S>"
+  ]
+}

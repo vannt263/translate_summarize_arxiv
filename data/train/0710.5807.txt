@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "the motion of point vortices ( pvs ) in a periodic box has been studied numerically in @xcite .",
+    "the @xmath2 and @xmath1 functions , which are familiar in the field of spatial ecology , are introduced in order to quantitate clustering of pvs .",
+    "periodic boundary conditions guarantee spatial homogeneity and we need not to include the edge corrections in the @xmath2 function .    in this report",
+    ", the monte carlo simulation is performed for 100 identical pvs in order to obtain the probability distribution function ( pdf ) for the hamiltonian .",
+    "@xcite showed the pdf for two types of positive and negative pvs and the clustered state of the negative temperature .",
+    "figure 1 shows the histogram of the hamiltonian for @xmath0 identical pvs @xmath3 + \\omega |z_i - z_j|^2/2\\ } , \\label{eq1}\\ ] ] where @xmath4 is the complex position of the pv , @xmath5 denotes the real part , @xmath6 is the weierstrass sigma function parametrized by two numbers @xmath7 and @xmath8 , @xmath9 , @xmath10 , and the ensemble number is @xmath11 .",
+    "the @xmath12 term denotes a rigid rotation centered at each pv .",
+    "similarly to @xcite , the distribution with decaying tails is obtained .",
+    "the figures 2 - 4 and 5 - 7 show the spatial distribution of pvs and the @xmath1 functions for the minimum , median and maximum of the hamiltonian , respectively .",
+    "the @xmath1 and @xmath2 functions are defined by @xmath13 @xmath14 where @xmath15 , @xmath16 is the area , and @xmath17 is the step function . for complete spatial randomness ( csr ) , we have @xmath18 and @xmath19 .",
+    "the positive ( negative ) values of @xmath1 imply clustering ( uniform spacing ) .",
+    "the right - side tail in figure 1 corresponds to clustering of pvs , the positive value of @xmath1 , and the state of the onsager s negative temperature .",
+    "the left - side tail in figure 1 shows uniform spacing of pvs , the negative value of @xmath1 , and the positive temperature .",
+    "figure 6 shows an oscillatory behavior of the @xmath1 function for the median of @xmath20 , where @xmath21 is close to the peak of the histogram ( @xmath22 ) .",
+    "since there is a minimum in the hamiltonian for each pair of @xmath23 , the total hamiltonian @xmath20 is also lower bounded .",
+    "however , we have no upper bound for @xmath20 since @xmath24 for @xmath25 . in general , it is difficult to judge whether the point distribution is clustered , completely spatially random , or uniformly spaced .",
+    "the @xmath1 function is found to be useful for the present purpose .",
+    "the numerical simulation of 100 pvs with various conditions has been done in @xcite .",
+    "one of the typical behaviors observed in the case of positive and negative pvs with the same strength is the scattering and recoupling of the linearly moving pair of pvs .",
+    "a gradient method for detecting stable stationary configurations of pvs , which corresponds to the system of point sources with a uniform sink , has been found by the author and will be reported elsewhere ."
+  ],
+  "abstract_text": [
+    "<S> the monte carlo simulation of @xmath0 point vortices with square periodic boundary conditions is performed where @xmath0 is order of 100 . </S>",
+    "<S> the clustering property is examined by computing the @xmath1 function familiar in the field of spatial ecology . </S>",
+    "<S> the case of a positive value of @xmath1 corresponds to the state of clustering and the onsager s negative temperature . </S>"
+  ]
+}

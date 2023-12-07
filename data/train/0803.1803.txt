@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "we use gas dynamical simulations of the nearly head - on collision of two unequal - mass clusters to model the `` bullet cluster '' 1e 0657 - 56 , to show that the high shock velocity of @xmath2 inferred from x - ray observations @xcite may exceed the relative velocity of the merging halos .",
+    "previous estimates of the extremely small probability of finding such a high - velocity cluster - cluster collision in a @xmath0cdm universe assumed that the shock and the halo - collision velocities were the same @xcite .",
+    "our results , first described in @xcite , significantly increase the likelihood of observing such a merger event in @xmath0cdm .",
+    "we used the adaptive mesh - refinement ( amr ) asc flash code @xcite in 2d cylindrical coordinates to simulate a region @xmath3 mpc across , with @xmath4 kpc spatial resolution .",
+    "gravity is contributed by two rigid , spherical dm halo profiles , whose centers free - fall toward each other from rest at separation @xmath5 mpc . the density associated with the gravitational force is an nfw profile @xmath6 for the subcluster , and a cored profile @xmath7 for the main cluster , to imitate a non - head - on merger .",
+    "the masses ( @xmath8 ) and radii @xmath9 and @xmath10 ( mpc ) are @xmath11 and @xmath12 for the main cluster and subcluster , respectively .    [ cols=\"^,^,^ \" , ]",
+    "our simulations of merging galaxy clusters show that the halo collision velocity need not be the same as the intergalactic gas shock velocity . applying our correction to the speed of the subhalo , the probability that such a massive cluster in our cdm universe has such a high - speed subhalo increases by 3 orders of magnitude relative to previous estimates , but is still small ( @xmath13 ) . @xcite",
+    "independently reached a similar conclusion , although their relative halo velocity is much smaller , @xmath14 .",
+    "they assumed perfectly head - on collision between a cuspy main halo and a more concentrated subhalo than ours , which would make the subhalo decelerate more before reaching the observed separation .",
+    "more recent simulations by @xcite show that the difference between the shock velocity and the halo relative velocity is smaller if the initial halo collision velocity is larger and if the collision is not perfectly head - on .",
+    "clowe , d. , brada , m. , gonzalez , a.  h. , markevitch , m. , randall , s.  w. , jones , c. , & zaritsky , d.  2006 , , 648 , l109 farrar , g.  r. , & rosen , r.  a.  2007 , physical review letters , 98 , 171302 fryxell , b. , et al .",
+    "2000 , , 131 , 273 hayashi , e. , & white , s.  d.  m.  2006 , , 370 , l38 markevitch , m.  2006 , the x - ray universe 2005 , 604 , 723 markevitch , m. , & vikhlinin , a.  2007 , phys . rep .",
+    ", 443 , 1 mastropietro , c. , & burkert , a.  2007 , preprint(arxiv:0711.0967 ) milosavljevi , m. , koda , j. , nagai , d. , nakar , e. , & shapiro , p.  r.   2007 , , 661 , l131 petrosian , v. , madejski , g. , & luli , k.  2006 , , 652 , 948 springel , v. , & farrar , g.  r.  2007 , , 380 , 911"
+  ],
+  "abstract_text": [
+    "<S> the merging galaxy cluster 1e 0657 - 56 , known as the `` bullet cluster , '' is one of the hottest clusters known . </S>",
+    "<S> the x - ray emitting plasma exhibits bow - shock - like temperature and density jumps . </S>",
+    "<S> the segregation of this plasma from the peaks of the mass distribution determined by gravitational lensing has been interpreted as a direct proof of collisionless dark matter . </S>",
+    "<S> if the high shock speed inferred from the shock jump conditions equals the relative speed of the merging cdm halos , however , this merger is predicted to be such a rare event in a @xmath0cdm universe that observing it presents a possible conflict with the @xmath0cdm model .    </S>",
+    "<S> we examined this question using high resolution , 2d simulations of gas dynamics in cluster collisions to analyze the relative motion of the clusters , the bow shock , and the contact discontinuity , and relate these to the x - ray data for the bullet cluster . </S>",
+    "<S> we find that the velocity of the fluid shock need not equal the relative velocity of the cdm components . </S>",
+    "<S> an illustrative simulation finds that the present relative velocity of the cdm halos is @xmath1 lower than that of the shock . </S>",
+    "<S> while this conclusion is sensitive to the detailed initial mass and gas density profiles of the colliding clusters , such a decrease of the inferred halo relative velocity would significantly increase the likelihood of finding 1e 0657 - 56 in a @xmath0cdm universe . </S>"
+  ]
+}

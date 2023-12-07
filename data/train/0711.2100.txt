@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "the ngc  128 group ( d=57  mpc ) includes ( spectroscopically confirmed ) : giant gas - rich s0 ngc  128 with a peanut - shaped bulge , giant sa ngc  125 , 3 low - luminosity s0 closer than 100  kpc in projection to ngc  128 : ngc  126 ( m@xmath0=-18.5 , 61 kpc ) , ngc  127 ( m@xmath0=-18.6 , 14 kpc ) , and ngc  130 ( m@xmath0=-19.0 , 16 kpc ) , and several late - type spirals beyond 300  kpc .",
+    "ngc  128 is known to have a gaseous disc counter - rotating to the stars ( emsellem & arsenault , 1997 ) .",
+    "we have obtained observations for ngc  126 , 127 , and 130 in 2005 and 2006 with the mpfs ifu spectrograph at the 6-m telescope of sao ras . using a novel stellar population fitting technique ( chilingarian et al .",
+    "2005 , 2006 , 2007a , prugniel et al .",
+    "2005 ) we have derived maps of the stellar population parameters ( age and metallicity ) and internal kinematics of stars and ionised gas .",
+    "* ngc  126 * contains a prominent bar seen on direct images .",
+    "it appears as a s - shaped structure on the velocity field .",
+    "no emission lines are seen in the fitting residuals . * ngc  127 * is a gas - rich object with early - type morphology and ongoing star formation : strong emission lines are observed .",
+    "h@xmath1 has been used to recover velocity field of the ionised gas showing faster rotation ( @xmath2100 km / s ) than stars ( @xmath250 km / s ) , and asymmetry on the se part of ngc  127 ( direction of ngc  128 ) that may be caused by perturbed motions of the gas near the region , where the accreting flow reaches ngc  127 .",
+    "* ngc  130 * located at nearly the same projected distance is very different .",
+    "relatively old stellar population , regular kinematics and absence of ionised gas suggest it is located much further from ngc  128 .",
+    "ngc  130 exhibits a spatially unresolved young nucleus ( @xmath3t=4 gyr ) reminiscent of young central structures observed in bright virgo cluster de galaxies ( chilingarian et al .",
+    "2007b ) .    [ cols=\"^,^,^,^,^,^ \" , ]",
+    "while ngc  126 and 130 look similar to cluster ds0/s0 s , ngc  127 is a star - forming galaxy with unusual kinematics of gas and a bridge connecting it to ngc  128 .",
+    "we propose the following scenario : ngc  127 has recently passed its pericentre , and now we observe an infall of gas from ngc  128 onto ngc  127 .",
+    "after gas removal and several gyr of passive evolution it will fade down and would be indistinctive from  normal  de galaxies by morphology and luminosity .",
+    "chilingarian i. , prugniel ph . ,",
+    "silchenko o. , afanasiev v. ; proceedings of the iauc 198 , eds : jerjen , h. ; binggeli , b. ; cambridge university press , 2005 .",
+    ", p.105 chilingarian , 2006 , phd thesis , msu ( russia ) , ucbl ( france ) , astro - ph/0611893 chilingarian i. , prugniel ph . ,",
+    "silchenko o. , afanasiev v. ; 2007 , mnras , 376 , 1033 chilingarian i. , silchenko o. , afanasiev v. , prugniel ph . ; 2007 , astl , 33 , 292 emsellem & arsenault , 1997 , a&a , 318 , l39 prugniel ph . , chilingarian i. , silchenko o. , afanasiev v. ; proceedings of the iauc 198 , eds : jerjen , h. ; binggeli , b. ; cambridge university press , 2005 . , p.105"
+  ],
+  "abstract_text": [
+    "<S> we present spatially resolved kinematics and stellar population parameters for three low - luminosity galaxies in the ngc  128 group obtained by means of 3d spectroscopy . </S>",
+    "<S> we briefly discuss their evolutionary scenarii . </S>"
+  ]
+}

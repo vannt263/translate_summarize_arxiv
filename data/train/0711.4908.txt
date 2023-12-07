@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "a number of slowly rotating magnetic a and b stars have surface magnetic fields strong enough to produce observable zeeman splitting of line profiles in high - resolution spectroscopic observations .",
+    "this effect is routinely used to diagnose the surface magnetic field strength ( e.g. mathys et al .",
+    "but , at the same time , information provided by the shapes of the resolved @xmath0 and @xmath1 components is largely neglected . here",
+    "we propose a novel technique to measure the _ relative width _ of the resolved zeeman components and to infer an important global field characteristic from the resulting new magnetic observable .",
+    "at each point on the magnetic star surface the local line profiles are splitted according to the magnetic field strength .",
+    "the @xmath0 component of a triplet line coincides with the laboratory wavelength , whereas the shift of @xmath1 components is proportional to the field modulus and therefore varies over the stellar surface together with the field strength .",
+    "consequently , the @xmath1 components are broader than @xmath0 components .",
+    "thus , the width of the @xmath1 components relative to that of @xmath0 components provides a measure of _ the contrast of the field strength distribution _ over the stellar disk .    neglecting stellar rotation and using assumptions similar to the derivation of common magnetic observables ( e.g. , mathys @xcite )",
+    ", we can quantify the difference in width of the resolved zeeman components of a triplet line using measurement of their second moments , @xmath2 , computed with respect to the center - of - gravity of each component : @xmath3 where @xmath4 is the mean land factor and other variables have their usual meaning .",
+    "@xmath5 is a new magnetic observable , _ mean field scatter_. it is primarily sensitive to the field strength contrast and weakly sensitive to the field orientation .     ratio expected for multipolar field geometries viewed from different angle @xmath6 between the field axis and the line of sight.,width=234 ]",
+    "we studied zeeman split triplet lines in the uves spectra of cool ap stars hd47103 and hd154708 .",
+    "results of the @xmath5 measurements for these stars are summarized in fig .",
+    "it is evident that large width of @xmath1 components in hd154708 is consistent with the dipolar field geometry , but the @xmath1 components are unexpectedly narrow in hd47103 .",
+    "some other strong - field ap stars also exhibit narrow @xmath1 components .",
+    "[ fig1 ] shows that this observation can not be reconciled with _",
+    "any _ low - order multipolar field configuration .",
+    "thus , some slowly rotating cool ap stars host surprisingly homogeneous surface magnetic field topologies .",
+    "this finding might have an important implication for the theories of formation and evolution of magnetic fields in these stars ."
+  ],
+  "abstract_text": [
+    "<S> we show that high - resolution observations of resolved zeeman split lines can be used to obtain new constraints on the stellar magnetic field geometry . </S>",
+    "<S> in particular , the contrast of the field strength distribution over the stellar surface can be deduced from the differential measurement of the second moment of the @xmath0 and @xmath1 zeeman components . </S>",
+    "<S> our analysis of the triplet lines in slowly rotating cool magnetic cp stars uncovers a surprisingly homogeneous field structure , inconsistent with any low - order multipolar geometry . </S>"
+  ]
+}

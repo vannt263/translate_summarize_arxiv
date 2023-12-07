@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "by fitting a gaussian to the ccf profile we obtain three free parameters : position of the minimum ( which is directly related to the radial velocity ) , dispersion @xmath4 ( related to the surface velocity field ) and the cross correlation area ( related to the stellar metallicity ) .",
+    "if we measure @xmath4 for stars for which accurate @xmath0 were determined by fourier analysis or from rotational periods , we may build a calibration of the ccf technique to determine accurate @xmath0 .",
+    "the observational material and reduction are described in niedzielski & wolszczan ( this volume ) .",
+    "we obtained the ccf by cross correlating the high s / n blue spectra with a numerical mask defined as a sum of delta - functions centered on the rest wavelengths of selected lines ( since the mask is a mathematical function it does not add noise to the data ) .",
+    "after computing the ccfs for every order , they are adjusted to a common reference frame and co - added to get the final normalized ccf for which the @xmath6 is measured . the dispersion ( @xmath4 ) is related to @xmath6 as : @xmath7 .",
+    "@xcite have shown that the width of the ccf ( @xmath4 ) is related to the @xmath0 by a function of a form of : @xmath8 , where @xmath9 is a constant coupling the differential broadening of the ccfs to the @xmath0 of a star , and @xmath5 is the width of the ccf of an non - rotating star of the same spectral type and luminosity and is related to the measured width of the ccf ( @xmath4 ) by the following formula : @xmath10",
+    ". the measured width of the ccf of a star ( @xmath4 ) results from several broadening mechanisms : gravity , effective temperature , magnetic field , metallicity , and of course the rotation .",
+    "@xmath11 is the rotational broadening and @xmath12 is responsible for all other broadening mechanisms ( including the instrumental profile ) except rotation .",
+    "@xmath5 is a critical parameter .",
+    "it is a function of the color of a star and we may obtain its dependence on @xmath13 by using slowly - rotating calibrator stars . to determine the @xmath5 vs. @xmath13 relation we used 16 slow rotators with accurate projected rotational velocities measured in various papers , preferably from by @xcite , @xcite and @xcite . for every of these stars we determined @xmath5 using formula from @xcite and assuming the constant @xmath14 following the @xcite and @xcite .",
+    "we carried out a least - squared fit to the data by the analytical function @xmath15 which yields the following calibration : @xmath16 .",
+    "hd 17092 & k0 & 1.000 & 3.437 & 0.98 & - + hd 38529 & g4v & 0.773 & 3.551 & 2.94 & @xmath19 + hd 118203 & k0 & 0.810 & 3.896 & 4.44 & @xmath20 + hd 10697 & g5iv & 0.860 & 3.288 & 2.17 & @xmath21 + hd 88133 & g5iv & 0.860 & 3.167 & 1.38 & @xmath22 + hd 75732 & g8v & 0.869 & 3.136 & 1.07 & @xmath23 + hd 95296 & k0 & 1.000 & 3.484 & 1.46 & - + hd 77819 & g5 & 0.860 & 3.845 & 4.37 & - + bd+57 114 & g4v & 0.940 & 3.720 & 3.64 & - +    in table [ hethrsresults ] we present projected rotational velocities for several stars from our survey ( the typical error of our measurements is about 1.5 km / s ) .",
+    "it is clear , that our measurements are in good agreement with previous determinations .",
+    "we thank the het resident astronomers and telescope operators for cooperation .",
+    "we acknowledge the financial support from the mnisw through grant 1p03d 007 30 .",
+    "gn is a recipient of a graduate stipend of the chairman of the polish academy of sciences ."
+  ],
+  "abstract_text": [
+    "<S> we present results of our projected rotational velocities ( @xmath0 ) measurements of f , g and k giants obtained from the cross - correlation function ( ccf ) constructed from high signal to noise spectra . </S>",
+    "<S> we also present the calibration of the het / hrs cross - correlation function to determine accurate projected rotational velocities @xmath0 for slowly - rotating f - k giants .    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ grzegorz nowak@xmath1 and andrzej niedzielski@xmath2    _ @xmath1torun centre for astronomy , nicolaus copernicus university , _    </S>",
+    "<S> ul . </S>",
+    "<S> gagarina 11 , 87 - 100 torun , poland    _ @xmath3department of astronomy and astrophysics , pennsylvania state _    university , 525 davey laboratory , university park , pa 16802 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ </S>"
+  ]
+}

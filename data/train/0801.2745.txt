@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "in the last fifteen years , chiral perturbation theory ( chpt ) has been systematically employed in the study of nuclear interactions . in chpt , amplitudes are expanded in power series of a typical variable @xmath2 , representing either pion four - momenta or nucleon three - momenta , such that @xmath3 gev . in the case of nuclear interactions , chpt predicts a hierarchy in which potentials have structures with different orders of magnitude .    the leading contribution to the @xmath0 potential begins at @xmath4 and is due to the @xmath5@xcite .",
+    "the two - pion exchange contribution @xmath6 begins at @xmath7 and has already been expanded up to @xmath8 , by means of both heavy baryon@xcite and covariant@xcite chpt .",
+    "the leading contribution to the three - nucleon force , associated with two - pion exchange , begins at @xmath9 and @xmath10 corrections are presently being evaluated@xcite . nowadays , about 20 nuclear - force components are known and the overall picture can be assessed .",
+    "an outstanding problem in the hierarchy predicted by chpt concerns the relative sizes of the isospin independent @xmath11 and dependent @xmath12 central components of the @xmath13@xcite , displayed in fig.1 . according to chpt ,",
+    "the former begins at @xmath9 and the latter at @xmath14 . on the other hand",
+    ", the figure shows that the chiral hierarchy is defied , since @xmath15 .",
+    "these profile functions were scrutinized in ref.@xcite and the function @xmath16 was found to be heavily dominated by a term of the form v_c^+ ~- ( 4/f_^2)(c_3 - 2c_1 ) - c_3 ^2/2 _ n_n , [ e1 ] where the @xmath17 are lecs and @xmath18 is the leading contribution of the pion cloud to the nucleon scalar form factor .",
+    "this close relationship between @xmath18 and @xmath16 indicates that the study of the former can shed light into the properties of the latter .",
+    "the discussion in this section is based on results derived in ref.@xcite .",
+    "the nucleon scalar form factor is defined as @xmath19 where @xmath20 is the symmetry breaking lagrangian .",
+    "the function @xmath21 can be well represented by a leading @xmath14 tree contribution associated with the lec @xmath22 , supplemented by two triangle diagrams , involving nucleon and delta intermediate states , which give rise respectively to @xmath9 and @xmath10 corrections . in configuration space contact and loop contributions",
+    "split apart and one has @xmath23    the symmetry breaking lagrangian is written in terms of the chiral angle @xmath24 as @xmath25 , in a convention in which the energy density vanishes when @xmath26 ( @xmath27 is the pion mass ) .",
+    "the ratio @xmath28 is displayed in fig.2(left ) and increases monotonically as one approaches the center of the nucleon . on the other hand ,",
+    "the physical interpretation of the quark condensate corresponds to the condition @xmath29 and the function @xmath30 becomes meaningless beyond a critical radius @xmath31 , corresponding to @xmath32 . in ref.@xcite",
+    "we assumed that the condensate no longer exists in the region @xmath33 and evaluated the @xmath34 sigma - term using the expression _",
+    "n = r^3 f_^2 ^2 + 4_r^drr^2_n ( ) .",
+    "[ e2 ] depending on the value adopted for the @xmath35 coupling constant , this procedure yielded the range@xcite 43 mev@xmath3649 mev , which is fully compatible with the empirical value 45@xmath37 mev .",
+    "this indicates that our picture of the nucleon scalar form factor is sound and can be used to gain insight about @xmath16 .",
+    "in the case of the scalar from factor , contributions from @xmath38 and @xmath39 intermediate states are respectively @xmath9 and @xmath10 . inspecting fig.2 , one learns the hierarchy predicted by chpt is subverted for distances smaller than 1.5 fm , where the delta becomes more important than the nucleon . on the other hand ,",
+    "the good results obtained from eq.([e2 ] ) for the nucleon sigma - term ( and also for @xmath40 , @xcite ) indicate that the functions @xmath41 and @xmath42 convey the correct physics at least up to the critical radius @xmath43 0.6 fm , which lies well beyond the domain of the validity of chpt . just outside this radius",
+    "the chiral angle is of the order of @xmath44 , a clear indication of the non - perturbative character of the problem .",
+    "this finding is supported by the results from the study of the @xmath13 performed in ref.@xcite . in that work the predictions for @xmath16 , reproduced in our fig.1(left ) , were in rather close agreement with the argonne phenomenological potentials@xcite up to 1 fm , in spite of the fact that power counting was ineffective already at 2 fm , as shown in their fig.6 ."
+  ],
+  "abstract_text": [
+    "<S> the scalar - isoscalar term in the two - pion exchange @xmath0 potential is abnormally large and does not respect the hierarchy of effects predicted by chiral perturbation theory . </S>",
+    "<S> we argue that this anomaly is associated with non - perturbative effects , which are also present in the @xmath1 scalar form factor . </S>"
+  ]
+}

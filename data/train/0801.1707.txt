@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "here we present results from an ongoing project aimed at simulating a representative sample of galaxies that form in a @xmath0cdm cosmology .",
+    "simulations are run with gasoline @xcite and use the `` blastwave feedback '' described in @xcite .",
+    "three of the four models presented here use the same initial conditions as in governato et al .",
+    "( 2007 , g07 ) and thus the galaxy halos have the same merging history and form inside the same large scale structure . however , these new simulations use 8 times more resolution elements and a 50% smaller force softening than those presented in g07 . to understand the numerical limitations of our work and to better compare with the existing literature ,",
+    "we vary the number of resolution elements and the feedback implementations . in one case ( named mw1 ) we run three models with the number of resolution elements varying from a few tens of thousand to a few million particles and force resolution from 1.2kpc to 0.3kpc . to allow a straightforward comparison between simulations and observations , the galaxies b / d ratios and disk scale lengths",
+    "are measured using galfit on dust reddened , face - on i and k band artificial images produced using sunrise @xcite .",
+    "recent works by different groups and using different hydrodynamical codes have highlighted the role of feedback in creating galaxies with a dominant stellar component supported by rotation @xcite .",
+    "significant improvements have been made in reproducing a number of scaling properties of late type galaxies : namely the age - circular velocity , the tully fisher , the stellar mass - metallicity relations and the abundance of galaxy satellites @xcite .",
+    "however , a well known problem of most galaxies formed in cosmological simulations is a massive , centrally concentrated spheroidal component that creates unrealistically declining rotation curves @xcite .",
+    "the explanations proposed in the literature invoke both physical and numerical arguments : catastrophic angular momentum loss due to dynamical friction suffered by gas rich subhalos @xcite , spurious gravitational torques between the disk and the surrounding halo of dark matter and gas caused by the noisy mass distribution at low resolution @xcite , or artificial pressure gradients at the cold / hot gas interface @xcite .    [",
+    "cols=\"^,^,^,<\",options=\"header \" , ]     sn feedback is a promising solution as it decouples baryons from the dark matter ( zavala et al . , 2007 ) .",
+    "however , @xcite recently presented results from simulations that did not include feedback from sne : the resulting circular velocity profile of their simulated galaxies changed significantly with increasing resolution , with the peak velocity dropping from 320 km / sec to 220 when the number of particles was increased from 40@xmath1 to 200@xmath1 ( their fig.1 ) .",
+    "@xcite used simulations of isolated galaxies to show that cold , rotationally supported disks lose a large fraction of thier initial angular momentum if the number of gas particles is below @xmath2 .",
+    "the literature presents encouraging evidence that both a physically motivated description of feedback and a high number of resolution elements help to form galaxies with at least some of the properties of the real ones . however , an analysis of a uniform sample of simulations with techniques _ directly comparable _ to those used by observers ( who measure the light rather than the underlying mass distribution ) has been lacking , making a comparison between observations and theoretical models more open to interpretation .",
+    "to show the separate effects of feedback and resolution we focus on a simulation of a milky way like galaxy ( total halo mass 10@xmath3 m@xmath4 ) .",
+    "the disk , halo and bulge components are first identified based on their kinematics ( brook et al 08 , in prep ) .",
+    "all runs adopted the `` blastwave '' feedback , but those named `` th '' , that use the much less effective `` thermal '' feedback @xcite which is a lower limit to the possible effects of feedback ( the two methods inject the same amount of energy into the icm ) .",
+    "all runs include the effects of a uniform cosmic uv background .",
+    "the kinematically defined stellar disk component becomes more dominant as resolution increases or a physically realistic description of feedback effects is adopted ( fig.1a ) .",
+    "bulge masses decrease significantly in the high resolution run with feedback ( hr vs mr and & mr - th ) .",
+    "feedback is also particularly effective in reducing the fraction of halo stars , a consequence of a smaller stellar mass in stripped galaxy satellites ( mr vs. mr - th ) ( brook et al 04 ) .",
+    "fig.1b shows the circular velocity profile ( v@xmath5(r ) = @xmath6 ) for the same galaxy as resolution and feedback are varied and shows results consistent with those in @xcite and kaufmann et al ( 2007 ) : higher resolution models are less centrally concentrated .",
+    "while this plot emphasizes the role of resolution , we have verified that effect of feedback on the mass distribution is larger in less massive halos with a shallower potential well , consistent with zavala et al ( 2007 ) .    after a bulge / disk decomposition with galfit , photometric , dust reddened i - band disks",
+    "have larger scale lengths ( r@xmath7 ) and galaxies have bluer colors in higher resolution runs that include the blastwave feedback ( table 1 and fig.3 ) .",
+    "fig.2a shows the rotation curves from cold gas or young stars for the high resolution version of the galaxies in g07 .",
+    "compared with the lower resolution models in g07 rotation curves are flatter , as the very central regions are less dense and the disks dynamically colder in the outer parts .",
+    "however , they are still not as flat as those of most real galaxies of similar mass .",
+    "fig.2b shows the resulting i - band tully fisher relation .",
+    "v@xmath8 is measured at 3.5 r@xmath7 .",
+    "there is good agreement between data and the high resolution models , confirming results in g07 , while the low res mw1 model is significantly shifted to the right compared to its high resolution equivalent and the observed distribution .",
+    "we added to the sample a recently simulated large spiral galaxy with an r@xmath7 of 9.2 , 9.2 and 9.1 kpc in the b , i and k bands respectively .",
+    "its dust reddened i - band b / d is = 0.64 ."
+  ],
+  "abstract_text": [
+    "<S> we present a new set of multi - million particle sph simulations of the formation of disk dominated galaxies in a cosmological context . some of these galaxies are higher resolution versions of the models already described in governato et al ( 2007 ) . to correctly compare simulations with observations we create artificial images of our simulations and from them measure photometric bulge to disk ( b / d ) ratios and disk scale lengths . </S>",
+    "<S> we show how feedback and high force and mass resolution are necessary ingredients to form galaxies that have flatter rotation curves , larger i band disk scale lengths and smaller b / d ratios . </S>",
+    "<S> a new simulated disk galaxy has an i - band disk scale length of 9.2 kpc and a b / d flux ratio of 0.64 ( face on , dust reddened ) . </S>"
+  ]
+}

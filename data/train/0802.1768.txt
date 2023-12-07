@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "the currently standard framework for understanding cosmological structure is based on hierarchical clustering of cdm in the accelerating universe .",
+    "low mass systems collapse and form earlier and later they merge to form more massive gravitationally bound systems .",
+    "the standard model is successful for explaining a wide variety of astrophysical observations such as the temperature fluctuations in the cosmic microwave background and large - scale distribution of galaxies . despite the great success of the concordance model ,",
+    "there are several open issues .",
+    "one of them is so - called `` the missing satellite problem '' .",
+    "some authors have argued that this discrepancy could be resolved by considering some suppressing process for star formation , such as gas heating by an intergalactic uv background . in whatever models relying on the suppression of galaxy formation",
+    ", a typical galaxy - sized halo should contain numerous dark subhalos .",
+    "it is thus important to constrain the presence or absence of many invisible satellites around a galaxy like the milky way in the form of dark subhalos .    to obtain the direct evidence for such dark subhalos",
+    ", we propose to observe the multiply imaged qsos with a high angular resolution .",
+    "irrespective of the presence or absence of associated luminous components , it is possible to probe these subhalos in a foreground lensing galaxy by means of gravitational lensing .",
+    "the phenomena that light rays are deflected by gravity is one of the consequences of einstein s general theory of relativity .",
+    "this is referred to as gravitational lensing .",
+    "gravitational lensing is a powerful tool to determine the mass of lens objects which deflect and distort a source image in the background .    in a gravitational lens system ,",
+    "einstein radius is a useful indicator of the scale of image distortion . in the case of an singular isothermal sphere ( sis ) with density distribution of @xmath3 ,",
+    "einstein radius is written as , @xmath4\\ ] ] where @xmath5 is a supposed tidal radius of an sis lens and @xmath6 is a total mass enclosed within @xmath5 .",
+    "@xmath7 and @xmath8 are angular diameter distances between lens and source and between observer and source , respectively .    several observations of lens systems in a galactic scale have revealed that the density distribution of a galaxy lens , being composed of both baryonic and dark matter , is well represented by an sis profile .",
+    "however , actual density profiles in subhalos are yet to be settled . according to n - body simulations based on the cdm model , i.e. , without taking into account dissipative baryonic matter",
+    ", all dark halos appear to show a shallower density profile at their central parts , expressed as @xmath9 with @xmath10 ( e.g. , navarro et al .",
+    "if this is the case , then a dark halo with this profile has a smaller einstein radius than an sis case , so the resulting lensing signal to be observed by vsop-2 would be biased further in favor of more massive subhalos .",
+    "how baryonic components , if there are any , affect a dark halo profile is yet uncertain : an adiabatic contraction of a halo as driven by gas cooling yields a steeper density profile , whereas starburst activity and associated heating by supernovae explosion may make a gravitational potential shallower owing to galactic wind .",
+    "whatever effects of baryonic components are at work , an sis profile would provide a possibly upper limit to the lensing signal of subhalos .    as is shown in equation ( 1 )",
+    ", the size of an einstein radius depends on the distance ratio , @xmath11 .",
+    "we plot , in figure 1 , this dependence for a subhalo of @xmath12 and @xmath13 kpc , using known lensing systems taken from castles .",
+    "in figure 2 , we show simulated images of a gravitational lensing system using the lens parameters of mg0414 + 0534 , where a source image and a lensing galaxy are at redshifts of 2.64 and 0.96 , respectively .",
+    "we assume an sis profile for the density distribution of a subhalo .",
+    "the locally distorted feature for an arc - like lensed image in figure 2 can be caused by not only subhalo lensing but also intrinsic substructure within a source image . to distinguish the effect of subhalo lensing alone ,",
+    "we should select a lens system showing multiple images as a target : intrinsic substructure in a source would be seen in all multiple images , whereas subhalos yield particular features in each image .",
+    "thus it is possible to extract the lensing signals of subhalos by subtracting commonly - observed features in lensed images ."
+  ],
+  "abstract_text": [
+    "<S> hierarchical clustering models of cold dark matter ( cdm ) predict that about 5% - 10% of a galaxy - sized halo with mass @xmath0 solar masses ( @xmath1 ) resides in substructures ( cdm subhalos ) with masses @xmath2 . to directly identify such substructures </S>",
+    "<S> , we propose to observe radio continuum emission from multiply imaged qsos using vsop-2 with a high angular resolution . </S>"
+  ]
+}

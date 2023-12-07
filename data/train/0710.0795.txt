@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "`` mass segregation '' describes the effect that high - mass stars are preferentially found in the center of clusters , while the outskirts are preferentially occupied by lower - mass stars .",
+    "( primordial ) mass segregation is studied observationally in a number of clusters .",
+    "some examples are : the orion nebula cluster ( @xcite ) , 6 lmc clusters ( @xcite ) .",
+    "dynamical mass segregation is also found from n - body simulations ( e.g. @xcite ) , caused by two - body encounters and energy equipartition",
+    ". a number of authors also point at the preferential mass loss of low - mass stars when the cluster evolves in a tidal field ( e.g. @xcite ) , as mass segregation populates the cluster outskirts preferentially with low - mass stars where they are most easily stripped from the cluster potential .",
+    "the resulting changes in the overall stellar mass function inside the cluster are quantified by @xcite .    in",
+    "we use the results from @xcite to incorporate the changing mass function slope in a simplified manner into the galev code ( see and references therein ) to calculate its impact on the integrated photometry of star clusters .",
+    "our main findings are :    * at 0  40 per cent of the cluster s lifetime : the cluster colours are comparable to standard models ( i.e. without preferential loss of low - mass stars ) * at 40  80 per cent of the cluster s lifetime : a cluster appears too blue / young ( compared to standard models ) due to the loss of lower main - sequence stars * at 80  100 per cent of the cluster s lifetime : a cluster appears too red / old ( compared to standard models ) due to the loss of main sequence turn - off stars * when interpreting photometry of mass - segregated clusters , that have preferentially lost low - mass stars , with standard photometric models ( without taking mass - segregation effects into account ) the derived ages can be wrong by 0.3  0.5 dex",
+    "here we propose a benchmark test for comparison of n - body codes : 1024 equal - mass particles , plummer sphere model , without primordial binaries , external tidal field or stellar / binary evolution .",
+    "we performed simulations using the same input files ( 10 individual runs ) for nbody4 ( see e.g. @xcite ) and starlab ( see e.g. @xcite ) , following the setup from the proposed benchmark test .",
+    "we find stochastic effects to be of importance for 10 runs , hence we supplemented the starlab results with 20 additional runs ( equivalent nbody4 runs are in preparation ) .",
+    "some results are shown in fig .",
+    "[ fig1 ] . for most parameters studied the results are virtually indistinguishable .",
+    "some questions remain for the kinetic energy and the parameter distributions of dynamically formed binaries .",
+    "any differences there could be originating from the different treatment of binaries , or due to stochastical effects .",
+    "further tests ( e.g. with primordial binaries ) are in preparation ."
+  ],
+  "abstract_text": [
+    "<S> two aspects of our recent n - body studies of star clusters are presented : + 1 ) what impact does mass segregation and selective mass loss have on integrated photometry ? + 2 ) how well compare results from n - body simulations using nbody4 and starlab / kira ? </S>"
+  ]
+}

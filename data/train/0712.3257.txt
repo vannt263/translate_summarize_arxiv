@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the centerpiece of all life on earth is carbon - based biochemistry .",
+    "it has repeatedly been surmised that biochemistry based on carbon may also play a pivotal role in extraterrestrial life forms , if existent .",
+    "this is due to the pronounced advantages of carbon , especially compared to its closest competitor ( i.e. , silicon ) , which include : its relatively high abundance , its bonding properties , and its ability to form very large molecules as it can combine with hydrogen and other molecules as , e.g. , nitrogen and oxygen in a very large number of ways ( ( * ? ? ?",
+    "* goldsmith & owen 2002 ) ) .    in the following ,",
+    "we explore the relative damage to carbon - based macromolecules in the environments of a variety of main - sequence stars using dna as a proxy by focussing on the effects of photospheric radiation .",
+    "the radiative effects on dna are considered by applying a dna action spectrum ( ( * ? ? ?",
+    "* horneck 1995 ) ) that shows that the damage is strongly wavelength - dependent , increasing by more than seven orders of magnitude between 400 and 200  nm .",
+    "the different regimes are commonly referred to as uv - a , uv - b , and uv - c .",
+    "the test planets are assumed to be located in the stellar habitable zone ( hz ) . following the concepts by (",
+    "* kasting et al .",
+    "( 1993 ) ) , we distinguish between the conservative and generalized hz .",
+    "stellar photospheric radiation is represented by using realistic spectra taking into account millions or hundred of millions of lines for atoms and molecules ( ( * ? ? ?",
+    "* castelli & kurucz 2004 ) , and related publications ) .",
+    "we also consider the effects of attenuation by an earth - type planetary atmosphere , which allows us to estimate attenuation coefficients appropriate to the cases of earth as today , earth 3.5 gyr ago , and no atmosphere at all ( ( * ? ? ?",
+    "* cockell 2002 ) ) .",
+    "our results are presented in figs . 1 , 2 , and 3 .",
+    "the first two figures show the relative damage to dna due to stars between spectral type f0 and m0 , normalized to today s earth .",
+    "we also considered planets at the inner and outer edge of either the conservative or generalized hz as well as planets of different atmospheric attenuation .    based on our studies",
+    "we arrive at the following conclusions : ( 1 ) all main - sequence stars of spectral type f to m have the potential of damaging dna due to uv radiation .",
+    "the amount of damage strongly depends on the stellar spectral type , the type of the planetary atmosphere and the position of the planet in the habitable zone ( hz ) ; see ( * ? ? ?",
+    "* cockell ( 1999 ) ) for previous results .",
+    "( 2 ) the damage to dna for a planet in the hz around an f - star ( earth - equivalent distance ) due to photospheric radiation is significantly higher ( factor 5 ) compared to planet earth around the sun , which in turn is significantly higher than for an earth - equivalent planet around an m - star ( factor 180 ) . ( 3 )",
+    "we also found that the damage is most severe in the case of no atmosphere at all , somewhat less severe for an atmosphere corresponding to earth 3.5 gyr ago , and least severe for an atmosphere like earth today .",
+    "( 4 ) any damage due to photospheric stellar radiation is mostly due to uv - c .",
+    "the relative importance of uv - b is between 5% ( f - stars ) and 20% ( m - stars ) .",
+    "note that damage due to uv - a is virtually nonexistent ( see fig .",
+    "our results are of general interest for the future search of planets in stellar hz ( e.g. , ( * ? ? ?",
+    "* turnbull & tarter 2003 ) ) .",
+    "they also reinforce the notion that habitability may at least in principle be possible around m - type stars , as previously discussed by ( * ? ? ?",
+    "* tarter et al . ( 2007 ) ) .",
+    "note however that a more detailed analysis also requires the consideration of chromospheric uv radiation , especially flares ( e.g. , ( * ? ? ?",
+    "* robinson et al . 2005 ) ) , as well as the detailed treatment of planetary atmospheric photochemistry , including the build - up and destruction of ozone , as pointed out by ( * ? ? ?",
+    "* ; * ? ? ?",
+    "* segura et al . ( 2003 , 2005 ) ) and others ."
+  ],
+  "abstract_text": [
+    "<S> we focus on the astrobiological effects of photospheric radiation produced by main - sequence stars of spectral types f , g , k , and m. the photospheric radiation is represented by using realistic spectra , taking into account millions or hundred of millions of lines for atoms and molecules . </S>",
+    "<S> dna is taken as a proxy for carbon - based macromolecules , assumed to be the chemical centerpiece of extraterrestrial life forms . </S>",
+    "<S> emphasis is placed on the investigation of the radiative environment in conservative as well as generalized habitable zones . </S>"
+  ]
+}

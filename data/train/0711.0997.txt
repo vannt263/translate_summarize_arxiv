@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "despite their historical importance in understanding the formation processes of our own galaxy ( eggen , lynden - bell & sandage 1962 ; searle & zinn 1978 ; mackey & gilmore 2004 ; forbes , strader & brodie 2004 ) , detailed studies of the stellar populations of globular cluster ( gc ) systems in spiral galaxies beyond the local group are somewhat limited .",
+    "it is important that this be rectified , not only to inform formation models of spiral galaxies , but also to constrain formation models of other morphological types .",
+    "for example , ashman & zepf ( 1992 ) proposed that the gc systems of elliptical galaxies represent the merged systems of spiral galaxies plus the addition of newly formed red ( metal - rich ) gcs .",
+    "bedregal et al .",
+    "( 2006 ) have argued that the gc systems of s0s are consistent with faded spirals",
+    ". a better understanding of gc systems in spirals , with a range of types and luminosities , is needed to test these ideas .",
+    "imaging studies of gc systems exist for about a dozen spirals ( e.g. kissler - patig et al .",
+    "1999 ; larsen , forbes & brodie 2001 ; goudfrooij et al .",
+    "when sufficient numbers of gcs are present , they reveal a bimodal colour distribution ( similar to those seen in elliptical galaxies ) with the red ( metal - rich ) subpopulation associated with the galaxy bulge component ( see forbes , brodie & larsen 2001 ) .",
+    "spectroscopic studies of gcs in spirals beyond the milky way and m31 ( burstein et al .",
+    "1984 ; beasley et al . 2004 ) are even more limited .",
+    "schroder et al .",
+    "( 2002 ) investigate the stellar population properties of 16 individual gcs in m81 .",
+    "similar , or smaller , numbers have been investigated in m104 ( larsen et al .",
+    "2002 ) , ngc  253 and ngc  300 ( olsen et al . 2004 ) , and m33 ( chandar et al .",
+    "these studies generally find old ages with a wide range of metallicities for the gcs .",
+    "some gc systems reveal bulk rotation , while others do not , but small numbers and the lack of edge - on systems make such analyses uncertain ."
+  ],
+  "abstract_text": [
+    "<S> we analyse keck spectra of 24 candidate globular clusters ( gcs ) associated with the spiral galaxy ngc  2683 . </S>",
+    "<S> we identify 19 bona fide gcs based on their recession velocities , of which 15 were suitable for stellar population analysis . </S>",
+    "<S> age and metallicity determinations reveal old ages in 14 out of 15 gcs . these old gcs exhibit age and metallicity distributions similar to that of the milky way gc system . </S>",
+    "<S> one gc in ngc  2683 was found to exhibit an age of @xmath03  gyr . </S>",
+    "<S> the age , metallicity and @xmath1-element abundance of this centrally located gc are remarkably similar to the values found for the galactic centre itself , providing further evidence for a recent star formation event in ngc  2683 .    </S>",
+    "<S> globular clusters : general  galaxies : individual : ngc  2683  galaxies : star clusters . </S>"
+  ]
+}
