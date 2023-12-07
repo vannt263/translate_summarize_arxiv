@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "letting @xmath10 be the function that takes a positive integer to the sum of the squares of its ( base 10 ) digits , a positive integer @xmath11 is said to be a _",
+    "happy number _ if @xmath12 for some @xmath13  @xcite .",
+    "these ideas were generalized in  @xcite as follows : fix an integer @xmath9 , and let @xmath14 , where @xmath15 are integers . for each integer @xmath16 , define the function @xmath17 by @xmath18 if @xmath19 for some @xmath20 , then @xmath11 is called an _",
+    "@xmath21-power @xmath1-happy number_.    we further generalize these functions by allowing the addition of a constant after taking the sum of the powers of the digits .",
+    "( throughout this work , all parameters are assumed to be integers . )",
+    "[ d : gen ] fix integers @xmath8 and @xmath9 .",
+    "let @xmath14 , where @xmath15 are integers .",
+    "for each integer @xmath16 , define the _ augmented generalized happy function _",
+    "@xmath22 , by @xmath23    in section  [ s : properties ] , we examine various properties of the function @xmath24 , which , for ease of notation , we denote by @xmath0}}}$ ] . in section  [ s :",
+    "cbgoodness ] , we state and prove theorem  [ t : happysequence ] , an analogue to the existence of arbitrarily long sequences of consecutive happy numbers .",
+    "although this result is quite general , it leaves a particular case unresolved , which we make explicit in conjecture  [ c : happysequencebetter ] , and in section  [ s : conj ] , we prove that the conjecture holds for small values of @xmath2 and @xmath1 .",
+    "in this section , we consider the function @xmath0}}}= s_{2,b , c}$ ] .",
+    "note that @xmath26 } = s_2 $ ] , as defined in section  [ s : introduction ] .",
+    "fix @xmath8 , @xmath9 , and @xmath27 .",
+    "we say that @xmath11 is a _",
+    "fixed point _ of @xmath0}}}$ ] if @xmath0}}}(a ) = a$ ] , and that @xmath11 is in a _ cycle _ of @xmath0}}}$ ] if @xmath0}}}^k(a ) = a$ ] for some @xmath13 .",
+    "the smallest such @xmath4 is called the _ length _ of the cycle .    as is well - known ( see , for example ,  @xcite ) , @xmath10 has exactly one fixed point and one nontrivial cycle .",
+    "the standard proof of this uses a lemma similar to the following , which is a generalization for the function @xmath0}}}$ ] .",
+    "@xmath38}}}(a ) & = \\sum_{i=0}^n a_i b^i - \\left(c + \\sum_{i=0}^n a_i^2\\right ) \\\\   & = a_n\\left(b^n - a_n\\right ) + \\sum_{i=1}^{n-1 } a_i \\left(b^i - a_i\\right ) + a_0(1-a_0)-c\\\\   & \\geq 1\\left(b^m-1\\right ) + 0 + ( b-1)(1 - ( b-1))-c\\\\   & = b^m - b^2 + 3b - 3 - c \\\\   & > 0.\\end{aligned}\\ ] ]         by lemma  [ l : blemma4cycle ] , to prove that @xmath41 is @xmath42$]-cycle - good , it suffices to prove that each of the @xmath43 is @xmath42$]-cycle - good . to each @xmath44 , we associate a pair @xmath45 , as given in table  [ t : conjpf3 ] and to each @xmath43 , we associate a pair @xmath46 , as in table  [ t : conjpf4 ] .    to see that @xmath47 is [ c , b]-cycle - good , fix a cycle , @xmath44 , of @xmath0}}}$ ] and note that for each @xmath48 , @xmath0}}}^{k_i}(t + n_i ) \\in c_i$ ] .",
+    "thus @xmath47 is @xmath42$]-cycle - good .",
+    "now , fix @xmath49 such that @xmath50 .",
+    "a direct calculation shows that for each @xmath51 , @xmath0}}}^{k_j^\\prime}(t + n_j^\\prime ) \\in v_1 $ ] . since @xmath47 is @xmath42$]-cycle - good , so is @xmath43 .",
+    "thus , by lemma  [ l : blemma4cycle ] , @xmath41 is @xmath42$]-cycle - good .",
+    "h.  g. grundman and e.  a. teeple , _ sequences of consecutive happy numbers _ , rocky mountain j. math .",
+    "* 37 * ( 2007 ) , no .  6 , 19051916 . h.  g. grundman and e.  a. teeple , _ sequences of generalized happy numbers with small bases _ , j. integer sequences * 10 * ( 2007 ) , article 07.1.8 ."
+  ],
+  "abstract_text": [
+    "<S> an augmented generalized happy function , @xmath0}}}$ ] maps a positive integer to the sum of the squares of its base-@xmath1 digits and a non - negative integer @xmath2 . </S>",
+    "<S> a positive integer @xmath3 is in a _ </S>",
+    "<S> cycle _ of @xmath0}}}$ ] if , for some positive integer @xmath4 , @xmath0}}}^k(u ) = u$ ] and for positive integers @xmath5 and @xmath6 , @xmath5 is _ @xmath6-attracted _ for @xmath0}}}$ ] if , for some non - negative integer @xmath7 , @xmath0}}}^\\ell(v ) = w$ ] . in this paper </S>",
+    "<S> , we prove that for each @xmath8 and @xmath9 , and for any @xmath3 in a cycle of @xmath0}}}$ ] , ( 1 ) if @xmath1 is even , then there exist arbitrarily long sequences of consecutive @xmath3-attracted integers and ( 2 ) if @xmath1 is odd , then there exist arbitrarily long sequences of 2-consecutive @xmath3-attracted integ </S>"
+  ]
+}

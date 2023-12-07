@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "radio jet of agn could be produced from either the disk accretion or the black hole ( bh ) spin , or even both .",
+    "the accretion produced jet power could be linearly proportional to the product of the eddington ratio and bh mass , as found in radio loud quasars ( * ? ? ? * ( liu & han 2014 ) ) .",
+    "whereas , in relative low luminosity agn , e.g. in spiral galaxies , the index of the power law relation between jet power and accretion rate is significantly less than unity , implying that besides the accretion , other mechanisms must be at work in the production of jet , e.g. the bh spin . in this paper , we investigate further in this aspect .",
+    "the bh spin can produce jet as suggested by ( * ? ? ?",
+    "* steiner et al . ( 2013 ) ) , which principally predicted by ( * ? ? ?",
+    "* blandford & znajek ( 1977 ) ) , bz - jet hereafter .",
+    "the bz - jet depends on the magnetic flux ( @xmath1 ) threading on the bh ergosphere and the spin ( @xmath2 ) of bh , and can be expressed as the function of @xmath2 and relative magnetic flux @xmath3 . the maximum magnetic flux @xmath4 has a root - squared relation with the disk accretion rate ( * ? ? ?",
+    "* ( tchekhovskoy et al . 2011 ) ) and see ( * ? ? ?",
+    "* yuan & narayan ( 2014 ) ) for a review , but it is not clear how the magnetic flux @xmath5 relates to the accretion rate .",
+    "we think that a minimum accretion rate is required for the bh spin to produce a jet , since the magnetic flux ( outgoing poynting flux ) needs plasma from the accretion to the bh horizon .",
+    "there may also exist a critical accretion rate for the maximum magnetic flux @xmath4 as noted by ( * ? ? ?",
+    "* tchekhovskoy et al . ( 2011 ) ) and ( * ? ? ?",
+    "* yuan & narayan ( 2014 ) ) for the bz - jet .",
+    "exceeding the critical accretion rate ( or the critical eddington ratio @xmath6 for similar bh masses ) , the bz - jet could be suppressed , and the accretion disk would dominate the behavior of total jet power when the accretion rate is greater than the @xmath6 .    there is a false linear proportional relation between the bz - jet power and the mass accretion rate ( see ( * ? ? ? * yuan & narayan 2014 ) ) , because the @xmath1 in that formula is also a function of the accretion rate .",
+    "the relation between the bz - jet power and the mass accretion rate should be a non - linear form which we want to know . to consider both the accretion and the bh spin contribute to jet power",
+    ", the total jet power should be the sum of the two but not the multiplying of two contributions .    as the first approximation",
+    ", we assume that the jet power is dominated by the accretion at high accretion rate ( e.g. @xmath7 , or @xmath8 for @xmath9 solar mass bh ) , and the jet power is dominated by the bz - jet at lower accretion rate ( @xmath10 , or @xmath11 ) , as noted by ( * ? ? ?",
+    "* liu & han ( 2014 ) ) . attributing the jet power in the low accretion rate agn to the bz - jet",
+    ", this thus implies that the jet power has a flatter spectrum than the accretion - dominated jet versus the accretion rate , as plotted in fig .",
+    "[ fig1 ] that the @xmath12 for the bh spin dominated jet in the seyfert galaxies ( the slope @xmath130.3 from ( * ? ? ?",
+    "* liu & han 2014 ) ) has a flatter spectrum than the linear proportional relation for the disk accretion - dominated jet power .",
+    "the linear proportionality of jet power versus accretion rate is well constrained by the theory proposed by ( * ? ? ?",
+    "* liu & han ( 2014 ) ) , and largely consistent with the data as observed in ( * ? ? ?",
+    "* van velzen & falcke ( 2013 ) ) , ( * ? ? ?",
+    "* fernandes et al .",
+    "( 2011 ) ) , and ( * ? ? ?",
+    "* willott et al . ( 1999 ) ) , for radio loud quasars",
+    ". however , in the lower accretion regime , the power law slopes are obviously flatter ( @xmath15 ) , see ( * ? ? ?",
+    "* liu & han ( 2014 ) ) , for radio galaxies and seyferts / liners .",
+    "the flatter spectrum is most likely due to that the bz - jet power dominates over the accretion jet power in the low accreting agn .",
+    "of course , the bh spin must be high for producing such jet power efficiently , and this implies that most of radio - loud low - luminosity agn may have high - spin bhs , and there are some indications for this in ( * ? ? ?",
+    "* martnez - sansigre & rawlings ( 2011 ) ) and ( * ? ? ?",
+    "* wu et al . ( 2011 ) ) .",
+    "contrarily , for the high accretion quasars , their accretion jet power is dominating over their bz - jet power , so that we can not identify whether their bh is highly spinning or not from their jet luminosity only ."
+  ],
+  "abstract_text": [
+    "<S> from ( * ? ? ? * liu & han ( 2014 ) ) , the accretion - dominated jet power has a linear proportionality with the accretion rate , whereas the power law index is @xmath00.5 at lower accretion rate . attributing the jet power in low accretion rate agn to the black hole spin </S>",
+    "<S> , it implies that the jet power has a flatter spectrum than the accretion - dominated jet versus the accretion rate . </S>",
+    "<S> the black hole must be spinning rapidly for producing such jet power efficiently , and this may allow us to find high - spin black holes in the radio - loud low - luminosity agn . </S>"
+  ]
+}

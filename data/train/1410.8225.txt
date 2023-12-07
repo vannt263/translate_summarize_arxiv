@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "peng ( 2007 ) introduced the notion of @xmath1-normal distribution via the viscosity solutions of the @xmath1-heat equation below @xmath4 where @xmath5 , @xmath6 with @xmath7 , and @xmath8 , the collection of bounded lipstchiz functions on @xmath9 .",
+    "then the one - dimensional @xmath1-normal distribution is defined by @xmath10=u^\\varphi(1,0),\\ ] ] where @xmath11 is the viscosity solution to the @xmath1-heat equation with the initial value @xmath12 .",
+    "we denote by @xmath13 the collection of functions @xmath1 defined above . for @xmath14 ,",
+    "the convolution between @xmath15 is defined as @xmath16:=n_{g_1}[\\phi]$ ] with @xmath17 $ ] .    as is well - known , the convolution of two normal distributions is also normal .",
+    "how about @xmath1-normal distributions ?",
+    "we state the question in the pde language : for @xmath14 , set @xmath18 $ ] and @xmath19 $ ] .",
+    "let @xmath20 be the viscosity solution to the following pde @xmath21 can we find a function @xmath22 such that @xmath23 here @xmath11 is the viscosity solution to the @xmath1-heat equation .",
+    "however , @xcite gave a counterexample to show that generally @xmath24 is not @xmath1-normal any more .",
+    "we denote by @xmath25 the subset of @xmath13 consisting of the elements with @xmath26 .",
+    "@xmath27 is called non - degenerate if @xmath1 belongs to @xmath25 . for @xmath28 ,",
+    "set @xmath29 for abbreviation , we write @xmath30 instead of @xmath31 when no confusion can arise .",
+    "we shall prove that @xmath24 is a @xmath1-normal distribution if and only if @xmath32 . besides , the convolution between @xmath1-normal distributions is not commutative .",
+    "we also prove that @xmath33 if and only if @xmath32 .    therefore , in order to emphasize the importance of the ratio @xmath34 , we denote the @xmath1-normal distribution @xmath27 by @xmath35 .",
+    "first we shall consider the solutions of special forms to the @xmath1-heat equation @xmath36 assume that @xmath37 with @xmath38 is a solution to the @xmath1-heat equation ( [ g ] ) .",
+    "then we conclude that @xmath39 is a constant . assuming that they are equal to @xmath40 , we have @xmath41 and    @xmath42    if @xmath43 is positive , the equation ( [ c ] ) reduces to @xmath44 and the solution is @xmath45 on the other hand , if @xmath43 is negative , the equation ( [ c ] ) reduces to @xmath46 and the solution is @xmath47 motivated by the arguments above",
+    ", we shall construct the solutions to the equation ( [ c ] ) in the following way . denoting by @xmath48 , set @xmath49",
+    "this is a variant of the trigonometric function @xmath50 ( see figure 1 ) .    [ !",
+    "ht ] , title=\"fig : \" ]    then extend the definition of @xmath51 to the whole real line by the property @xmath52 , @xmath53 .",
+    "clearly , @xmath54 and @xmath51 belongs to @xmath55 , the space of bounded functions on @xmath9 with uniformly lipschitz continuous second - order derivatives .",
+    "@xmath51 is a solution to equation ( [ c ] ) with @xmath56 .",
+    "the proof follows from simple calculations . for @xmath57 , @xmath58 so @xmath59 for @xmath60 , @xmath61 so @xmath62    let @xmath63 and @xmath64 .",
+    "@xmath65 is the solution to equation ( [ g ] ) with the initial value @xmath66 .",
+    "in other words , @xmath67=e^{-\\frac{{\\sigma}^2}{2}t}\\phi_\\beta(x)$ ] .    for @xmath68 and @xmath69 , set @xmath70 .",
+    "it s easy to check that @xmath71 so @xmath72 is the solution to equation ( [ g ] ) with the initial value @xmath73 . for any @xmath74 ,",
+    "we call @xmath75 the characteristic functions of @xmath1-normal distributions @xmath76 .",
+    "let s introduce more properties on the characteristic functions @xmath77 . for @xmath78 , we have @xmath79        the sufficiency is obvious , and we only prove the necessity .",
+    "assume @xmath82 is a @xmath1-normal distribution",
+    ". then @xmath83 and @xmath84 .",
+    "if @xmath85 , we may assume that @xmath86 , and the other case can be proved similarly .",
+    "then we have @xmath87 . on one hand we have @xmath88=e^{-\\frac{\\sigma^2_n}{2}t}\\phi_{\\beta_n}(0)=\\frac{2}{1+\\beta_n}e^{-\\frac{\\sigma^2_n}{2}t}.\\ ] ]",
+    "on the other hand we have @xmath89\\\\       & \\geq&n_{g_2}[\\phi_{\\beta_{g_2}}(\\sqrt{t}(x+\\cdot))]+e(\\beta_n,\\beta_{g_2})\\\\       & = & e^{-\\frac{\\sigma^2_{g_2}}{2}t}\\phi_{\\beta_{g_2}}(\\sqrt{t}x)]+e(\\beta_n,\\beta_{g_2})\\\\       & \\geq&- \\frac{2\\beta_{g_2}}{1+\\beta_{g_2}}e^{-\\frac{\\sigma^2_{g_2}}{2}t}+e(\\beta_n,\\beta_{g_2}).\\end{aligned}\\ ] ] consequently , @xmath88=n_{g_1}*n_{g_2}[\\phi_{\\beta_n}(\\sqrt{t}\\cdot)]\\geq - \\frac{2\\beta_{g_2}}{1+\\beta_{g_2}}e^{-\\frac{\\sigma^2_{g_2}}{2}t}+e(\\beta_n,\\beta_{g_2}).\\ ] ]        we shall only prove the necessity .",
+    "assume that @xmath86",
+    ". then @xmath92=e^{-\\frac{\\sigma^2_{g_1}}{2}t}\\phi_{\\beta_{g_1}}(\\sqrt{t}x)\\leq \\frac{2}{1+\\beta_{g_1 } } e^{-\\frac{\\sigma^2_{g_1}}{2}t}.\\ ] ] so @xmath93\\leq \\frac{2}{1+\\beta_{g_1 } } e^{-\\frac{\\sigma^2_{g_1}}{2}t}.\\ ] ] on the other hand @xmath94\\\\       & \\geq&n_{g_2}[\\phi_{\\beta_{g_2}}(\\sqrt{t}x+\\sqrt{t}\\cdot)]+e(\\beta_{g_1},\\beta_{g_2})\\\\       & = & e^{-\\frac{\\sigma^2_{g_2}}{2}t}\\phi_{\\beta_{g_2}}(\\sqrt{t}x)+e(\\beta_{g_1},\\beta_{g_2})\\\\       & \\geq&- \\frac{2\\beta_{g_2}}{1+\\beta_{g_2}}e^{-\\frac{\\sigma^2_{g_2}}{2}t}+e(\\beta_{g_1},\\beta_{g_2}),\\end{aligned}\\]]which implies that @xmath95\\geq - \\frac{2\\beta_{g_2}}{1+\\beta_{g_2}}e^{-\\frac{\\sigma^2_{g_2}}{2}t}+e(\\beta_{g_1},\\beta_{g_2}).\\ ] ] noting that @xmath96 , we have @xmath95>n_{g_2}*n_{g_1}[\\phi_{\\beta_{g_1}}(\\sqrt{t}\\cdot ) ] \\ \\textmd{for $ t$ large enough.}\\ ] ]"
+  ],
+  "abstract_text": [
+    "<S> as is known , the convolution @xmath0 of two @xmath1-normal distributions @xmath2 with different intervals of variances may not be @xmath1-normal . </S>",
+    "<S> we shows that @xmath0 is a @xmath1-normal distribution if and only if @xmath3 .    </S>",
+    "<S> * key words * : @xmath1-normal distribution , cramer s decomposition    * msc - classification * : 60e10 </S>"
+  ]
+}

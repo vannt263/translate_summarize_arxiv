@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "many observational and theoretical works suggest that planetary systems with only rocky planets are the most common in the universe .",
+    "in particular , ( * ? ? ?",
+    "* miguel et al .",
+    "( 2011 ) ) indicated that a planetary system with only small rocky planets is the most common outcome obtained from a low - mass disk ( @xmath0 0.03 @xmath1 ) for different surface density profiles .",
+    "in general , most of the studies of terrestrial - type planet formation typically use ad hoc initial conditions ( ( * ? ? ?",
+    "* kokubo & ida , 1998 ) ; ( * ? ? ?",
+    "* raymond et al . 2005 ) ) . here ,",
+    "we complement the results of _ n - body high - resolution simulations _ performed by starting from a semi - analytical model developed by ( * ? ? ?",
+    "* brunini & benvenuto ( 2008 ) ) and ( * ? ? ?",
+    "* guilera et al . ( 2010 ) ) wich simulates the evolution of the protoplanetary disk during the gas phase .",
+    "we analyze the formation of terrestrial planets and water delivery without gas giants and compare the results with the previous work .",
+    "the semi - analytical model is used to calculate the formation of several embryos between 0.5  au and 5  au ( as in ( * ? ? ?",
+    "* de ela et al . 2013 ) ) .",
+    "these embryos were separated by 10 mutual hill radii and their initial masses correspond to the transition mass between runaway and oligarchic growth ( ( * ? ? ?",
+    "* ida & makino , 1993 ) ) . in our previous work",
+    "we adopted three different values for the exponent @xmath2 that characterize the slope of the surface density ( @xmath3 , @xmath4 and @xmath5 ) .",
+    "the planetary systems formed with @xmath6 were the most distinctive ones from an astrobiological point of view .",
+    "thus , in this new work we developed three n - body simulations with new initial conditions given by the semi - analytical model , only for @xmath6 .",
+    "for this profile we found the same proportion for both populations : half the mass in embryos and half the mass in planetesimals after the gas is completely dissipated in 3  myr .",
+    "these new planetary systems are globally similar to those found in our previous work .",
+    "each simulation formed between 1 and 2 planets in the habitable zone ( hz ) ( between 0.8  au and 1.5  au ) after 200  myr of evolution ( fig .",
+    "[ fig1 ] ) .",
+    "their masses range between @xmath7 and @xmath8 and their water content between 7.5% and 24.3% by mass , which represent between 427 and 1671 earth oceans ( 1 earth ocean @xmath9 @xmath10 ) .",
+    "we also found planets with masses from @xmath11 to @xmath12 near the snow line ( located at 2.7  au ) , which can be discovered by the microlensing technique .",
+    "the masses of the planets in the hz are large enough to retain an atmosphere and to sustain plate tectonics , and as we also formed in the previous simulations , this profile formed _",
+    "water worlds _ that come from beyond the snow line .",
+    "thus , the planets that remain in the hz present the characteristics to be potencially habitable .",
+    "we therefore conclude that the results are globally similar to those found by .",
+    "these planetary systems do not seem to be sensitive to the particular initial distribution of embryos and planetesimals and we suggest that the strong dependence on the final results would go with the initial mass proportion used in both populations . however , these more realistic initial conditions allowed us to find more reliable results concerning the water delivery and the global dinamics of the planetary systems .",
+    "brunini , a. , & benvenuto , o.  g.  2008 , _ icarus _ , 194 , 800 de ela , g.  c. , guilera , o.  m. , & brunini , a.  2013 , _ a&a _ , 557 , a42 guilera , o.  m. , brunini , a. , & benvenuto , o.  g.  2010 , _",
+    "a&a _ , 521 , a50 ida , s. , & makino , j.  1993 , _ icarus _ , 106 , 210 kokubo , e. , & ida , s.  1998 , _ icarus _ , 131 , 171 miguel , y. , guilera , o.  m. , & brunini , a.  2011 , _ icarus _ , 417 , 314 raymond , s.  n. , quinn , t . , & lunine , j.  i.  2005 , _ apj _ , 632 , 670 ronco , m.  p. , & de ela , g.  c.  2014 , _ a&a _ , 567 , a54"
+  ],
+  "abstract_text": [
+    "<S> in general , most of the studies of terrestrial - type planet formation typically use ad hoc initial conditions . in this work </S>",
+    "<S> we improved the initial conditions described in starting with a semi - analytical model wich simulates the evolution of the protoplanetary disk during the gas phase . </S>",
+    "<S> the results of the semi - analytical model are then used as initial conditions for the n - body simulations . </S>",
+    "<S> we show that the planetary systems considered are not sensitive to the particular initial distribution of embryos and planetesimals and thus , the results are globally similar to those found in the previous work . </S>"
+  ]
+}

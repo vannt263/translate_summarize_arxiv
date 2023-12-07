@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "the creation of electron - positron pairs through strong fields , which as been predicted theoretically by f. sauter as early as 1931 @xcite but not yet been observed , is nowadays of high interest for both laboratory scientists and astrophysicists @xcite .",
+    "the obstacle to be solved is the creation of a sufficiently strong electric field . in this note",
+    "we will present an approach to investigate the dynamic response of an ultra - relativistic compressed electron gas subjected to the breathing mode of the underlying nucleus , a system that promises to generate strong electric fields , depending on the mutual dynamics of negative and positive charges .",
+    "this model can , with slight modification like an adjustment of proton density , be extrapolated to astrophysical scales . in @xcite",
+    "we presented the stationary solutions of pulsating electron gas in the framework of the thomas - fermi model , and we will now recapitulate the main results that are of importance for the present work . in this model",
+    "the nucleus is modeled as a sphere of homogenous positive charge distribution .",
+    "the electrons are considered a charged perfect fluid with the equation of state of a fermi gas at zero temperature .",
+    "since we want to treat the regime around nuclear density we can assume the ultra - relativistic limit @xmath0 for the equation of state , where @xmath1 , @xmath2 , and @xmath3 are energy density , pressure , and number density respectively of the electron gas . throughout the text , natural units @xmath4 , @xmath5 are used .",
+    "when we assume the nucleus of proton number @xmath6 to have a radius @xmath7 in units of the pion mass , and provide sufficient external pressure to restrain the electrons to the volume of the nucleus , we obtain the very simple equilibrium configuration @xmath8 the parameter @xmath9 measures the departure of proton density from nuclear densities .",
+    "positive and negative charges completely cancel , so there is no electric field in equilibrium .",
+    "introducing a time - dependent displacement field @xmath10 and treating euler s and maxwell s equations to first order , one obtains for stationary modes the second order ordinary differential equation @xmath11\\xi(r)=0.\\end{aligned}\\ ] ] here @xmath12 is the fine structure constant , and @xmath13 is the frequency of the mode that has to be choosen according to approriate boundary conditions .",
+    "this leads to @xmath14^{1/2 }    \\ \\ \\ \\mathrm{and}\\ \\ \\ \\ \\xi_n(x)={\\mathcal c}\\,j_{1}\\left(\\pi n\\,r / r_\\mathrm{nuc}\\right),\\end{aligned}\\ ] ] where @xmath15 is an arbitrary factor and @xmath16 is the first member of the spherical bessel functions of first kind .",
+    "the first member of the spherical bessel functions of first kind @xmath16 allows to construct an orthonormal basis ( see figure [ fig : basisplot ] ) @xmath17 on the interval @xmath18 $ ] with respect to the scalar product @xmath19 to model a driving force acting on the system we can expand the dirac delta function on the surface @xmath20 and the identity function @xmath21 in terms of this basis .",
+    "the spatial delta function at the surface can be used in combination with a temporal delta function to model an instantaneous impulse applied to the surface , or in combination with a harmonic temporal function to drive the surface periodically . the identity function in combination with a harmonic temporal function models the breathing mode of a homogenously charged sphere .",
+    "to first order , gauss law predicts an electric force proportional to the radius resulting from any contraction or expansion of the sphere .",
+    "according to ( [ diffeqn ] ) and ( [ omegan ] ) the basis functions fulfil the equation @xmath22 where @xmath23 is a differential operator in @xmath24 . making the ansatz @xmath25 and plugging it into the equation of motion subject to an external force @xmath26 we can expand in the basis @xmath27 to obtain the independent equations @xmath28 where @xmath29",
+    "if the force is applied just for an instant at @xmath30 we can write @xmath31 , and assuming the system initially unperturbed ( @xmath32 for @xmath33 ) the solution to ( [ eqnsom ] ) is @xmath34 if the force is applied at a frequency @xmath35 starting at @xmath30 we can write @xmath36 , and assuming the system initially unperturbed the solution to ( [ eqnsom ] ) is @xmath37 using for @xmath38 now the coefficients of ( [ deltaexpand ] ) or ( [ idexpand ] ) , we can construct various dynamical situtations in the compressed atom .",
+    "using the formalism developed above , it is now possible to investigate the response of the electron gas to the nuclear breathing mode for different system sizes from atoms and giant atoms to neutron stars .",
+    "the proton density should be determined from beta - equilibrium , while the frequency of the breathing mode has to be inferred from studies of nuclear incompressibility such as @xcite .",
+    "an investigation has to take into account the energy budget of the intitial breathing mode , comparing it to the energy transferred to electron gas and electric field , to determine if dampening of the former occurs first .",
+    "we thank the national academy of sciences of belarus for their hospitality .",
+    "h. ludwig is supported by the erasmus mundus joint doctorate program by grant number 2012 - 1710 from the eacea of the european commission .",
+    "+   +   + h. ludwig : hendrik.ludwig@icranet.org + r. ruffini : ruffini@icra.it + s .- s .",
+    "xue : xue@icra.it + all authors : p.zza della republica 10 , i-65122 pescara , italy                fig.1 .",
+    "the basis functions @xmath39 for @xmath40 are shown for @xmath41 , corresponding to @xmath42 and @xmath43 . for ascending @xmath3 ,",
+    "the lines are solid , dashed , dotted and dash - dotted , respectively ."
+  ],
+  "abstract_text": [
+    "<S> we derive and solve by the spectral method the equations for a neutral system of ultra - relativistic electrons that are compressed to the radius of the nucleus and subject to a driving force . </S>",
+    "<S> this driving force can be thought of as originating from a nuclear breathing mode , a possibility we discuss in detail . </S>"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the study of the qcd phase diagram , when matter is subject to strong external magnetic fields has been a topic of intense investigation recently . the fact that magnetic fields can reach intensities of the order of @xmath0 g or higher in heavy - ion collisions @xcite and up to @xmath1 g in the center of magnetars @xcite made theoretical physicists consider matter subject to magnetic field both at high temperatures and low densities and low temperatures and high densities .    in this work",
+    "we study the above mentioned situations within the framework of the nambu  jona - lasinio model with polyakov loop ( pnjl ) and different versions of the nambu  jona - lasinio ( njl ) model @xcite for two commonly used parameter sets , known as hk @xcite and rkh @xcite .",
+    "we describe quark matter subject to strong magnetic fields within the su(3 ) pnjl model with vector interaction and the lagrangian density reads : @xmath2 \\psi_f ~+~ { \\cal l}_{sym}~+~{\\cal l}_{det } \\nonumber\\\\ & + & { \\cal l}_{vec }   + { \\mathcal{u } } \\left(\\phi,\\bar\\phi;t\\right ) - \\frac{1}{4}f_{\\mu \\nu}f^{\\mu \\nu } ,      \\label{pnjl}\\end{aligned}\\ ] ] with @xmath3 , \\\\     { \\cal l}_{det}&=&-k\\left\\{{\\rm det}_f \\left [ { \\bar \\psi}_f(1+\\gamma_5)\\psi_f \\right ] +      { \\rm det}_f\\left [ { \\bar \\psi}_f(1-\\gamma_5)\\psi_f\\right ] \\right \\},\\end{aligned}\\ ] ] where @xmath4 represents a quark field with three flavors , @xmath5 is the corresponding ( current ) mass matrix , @xmath6 where @xmath7 is the unit matrix in the three flavor space , and @xmath8 denote the gell - mann matrices .",
+    "the coupling between the magnetic field @xmath9 and quarks , and between the effective gluon field and quarks is implemented _ via _ the covariant derivative @xmath10 where @xmath11 represents the quark electric charge , @xmath12 is a static and constant magnetic field in the @xmath13 direction and @xmath14 . to describe the pure gauge sector an effective potential @xmath15",
+    "is chosen : @xmath16 ,      \\label{ueff}\\ ] ] where @xmath17 , @xmath18 .",
+    "the standard choice of the parameters for the effective potential @xmath19 is @xmath20 , @xmath21 , @xmath22 , and @xmath23 .    as for the vector interaction , the lagrangian density that denotes",
+    "the @xmath24 invariant interaction is @xmath25 ,   \\label{p1}\\ ] ] and a reduced lagrangian density can be written as @xmath26    at zero temperature the pnjl model reduces to the normal njl model .    in the su(3 ) models , the above lagrangian densities for the vector sector are not identical in a mean field approach and we discuss both cases next .",
+    "we refer to the lagrangian density given in eq .",
+    "( [ p1 ] ) as model 1 ( p1 ) and to the lagrangian density given in eq .",
+    "( [ p2 ] ) as model 2 ( p2 ) .    for our calculations ,",
+    "we need to evaluate the thermodynamical potential for the three flavor quark sector , @xmath27 where @xmath28 represents the pressure , @xmath29 the energy density , @xmath30 the temperature , @xmath31 the entropy density , and @xmath32 the chemical potential of quark with flavor @xmath33 . to determine the eos for the su(3 ) njl at finite density and in the presence of a magnetic field in a mean field approximation we need to know the scalar condensates , @xmath34 , the quark number densities , @xmath35 , as well as the pressure kinetic contribution from the gas of quasi - particles , @xmath36 . in the presence of a magnetic field",
+    "all these quantities have been evaluated with great detail in @xcite .",
+    "[ cols=\"^,^ \" , ]     we move next to finite temperature and study the location of the critical end point ( cep ) on the qcd phase diagram within the framework of the pnjl model and without the introduction of the vector interaction .",
+    "we investigate different scenarios with respect to the isospin and strangeness content of matter , as shown in figure [ fig5 ] left for non - magnetized matter . for matter in @xmath38-equilibrium ,",
+    "the cep occurs at smaller temperatures and densities .",
+    "this scenario is of interest for neutron stars and confirms previous calculations that indicate that a deconfinement phase transition in the laboratory will be more easily attained with asymmetric nuclear matter @xcite .    as a matter of fact , by taking @xmath39 and increasing systematically @xmath40 with respect to @xmath41 the cep moves to smaller temperatures and larger baryonic chemical potentials @xcite : less symmetric matter is less bound and , therefore , the transition to a chirally symmetric phase occurs at a smaller temperature and density than in the symmetric case ( @xmath42 ) .",
+    "when the asymmetry is large enough , @xmath43 , the cep disappears .",
+    "another interesting situation is observed when analyzing very isospin asymmetric matter subject to different intensities of the magnetic field , as seen in figure [ fig5 ] right .",
+    "starting from a scenario having an isospin asymmetry above which the cep does not exist for a zero external magnetic field ( @xmath44 ) it was shown the introduction of an external magnetic field could drive the system to a first order phase transition .",
+    "the cep occurs at very small temperatures if @xmath45 gev@xmath46 and , in this case , a complicated structure with several cep at different values of ( @xmath47 are possible for the same magnetic field , because the temperature is not high enough to wash out the landau level effects .",
+    "indeed , the magnetic field affects in a different way @xmath48 and @xmath49 quarks due to their different electric charge .",
+    "a consequence is the possible appearance of two or more ceps for a given magnetic field intensity . for @xmath50 gev@xmath46",
+    "only one cep exists .",
+    "this is an important result because it shows that an external magnetic field is able to drive a system with no cep into a first order phase transition @xcite .    in the right panel of figure [ fig5 ]",
+    "we present the results for two other scenarios where a first order phase transition already occurs at zero magnetic field : @xmath42 and @xmath51 . for moderate magnetic fields",
+    "the trend is very similar for all scenarios : as the intensity of the magnetic field increases , the transition temperature increases and the baryonic chemical potential decreases until the critical value @xmath52 gev@xmath46 . for stronger magnetic fields both @xmath30 and @xmath53 increase .",
+    "it is also important to point out that all three scenarios presented in the right panel of figure [ fig5 ] show an inverse magnetic catalysis at finite chemical potential and zero temperature , i.e. , the critical temperature decreases with increasing @xmath54 . for large values of @xmath54",
+    "this inverse magnetic catalysis tendency disappears and a magnetic catalysis takes place .",
+    "this work was partially supported by cnpq ( brazil ) , capes ( brazil ) and fapesc ( brazil ) under project 2716/2012,tr 2012000344 , by project no .",
+    "ptdc / fis/113292/2009 developed under the initiative qren financed by the ue / feder through the program compete programa operacional factores de competitividade ,  by grant no .",
+    "sfrh / bd/51717/2011 ( f.c.t . ) and by new compstar , a cost initiative ."
+  ],
+  "abstract_text": [
+    "<S> in the present work we are interested in understanding various properties of quark matter subject to strong magnetic fields described by the nambu  jona - lasinio model with polyakov loop . </S>",
+    "<S> we start by analysing the differences arising from two different vector interactions in the lagrangian densities , at zero temperature , and apply the results to stellar matter . </S>",
+    "<S> we then investigate the position of the critical end point for different chemical potential and density scenarios . </S>"
+  ]
+}

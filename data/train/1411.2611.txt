@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "galactic outflows originating in regions of high star formation surface - density and in active galactic nuclei ( agns ) likely play a significant role in regulating the metal content of galaxies and are probably fully responsible for the chemical enrichment of the intergalactic medium ( igm ) ( e.g. * ? ? ?",
+    "understanding the distribution and extent of the cool gas surrounding galaxies can aid in constraining the metal contribution via winds to the cgm and igm .",
+    "though there are many studies of outflows originating from star - forming galaxies @xcite , we are only beginning to understand the effect and distribution of gas surrounding agns ( e.g. * ? ? ? * ; * ? ? ? * ; * ? ? ? * ; * ? ? ? * ) .",
+    "recent work has shown that large gas reservoirs surround quasars with a covering fraction of 6080% and a physical extent of 200  kpc @xcite , similar to what is observed for inactive field galaxies @xcite .",
+    "the cool gas surrounding field galaxies , as traced by absorption , exhibits an anisotropic distribution whereby most gas is located along their projected major and minor axes , which is interpreted to be due to accretion and outflows , respectively @xcite .",
+    "quasars also exhibit an anisotropic gas distribution possibly caused by the intense agn - driven ionizing radiation that heats the gas to temperatures of @xmath9k and destroys cool gas clouds out to a few hundred kiloparsecs @xcite .",
+    "@xcite analyzed 74 quasar ",
+    "quasar pairs with projected separations of @xmath10  kpc and showed that , although quasars exhibit a high covering fraction of cool gas as traced by and , cool gas is rarely detected along the jet ( ` down - the - barrel ' ) of the quasar itself .",
+    "they suggest that the background quasar sight - lines intercept gas that is shadowed from the ionizing radiation of the quasar jet .",
+    "similar anistropy has been observed in @xcite and @xcite .",
+    "the distribution of the cgm of agns , like seyfert galaxies , has yet to be explored .",
+    "if the agn radiation field is responsible for destroying cool gas , then the orientation of the agn - driven outflows with respect to the background quasar sight - line may dictate the presence , strength and frequency of the absorption .",
+    "the inclination of the agn - driven outflows are primarily constrained by the unified agn model ( see * ? ? ?",
+    "* and references therein ) .",
+    "the type of agn observed may be dependent on the observers vantage point , or essentially the agn dust torus inclination .",
+    "quasars and blazers are typically viewed down - the - barrel of the agn jet ( face - on torus ) , while broad - line seyfert  i objects are viewed at a slightly higher inclination and narrow - line seyfert  iis are viewed with an edge - on torus . if one were to probe quasars or blazars with background quasars , the dusty torus is in the plane of the sky ( face - on and orthogonal to the jet ) and provides the maximum cross - section of radiation - shielded extended halo gas , yielding the highest covering fraction of cool halo gas . therefore , we would expect that the cool gas covering fraction surrounding agns should decrease as the inclination of the dusty torus decreases from face - on to edge - on for quasars , seyfert  is and seyfert  iis , respectively .",
+    "motivated by the idea that the gas covering fraction of agns may change with viewing angle ( according to the unified model ) , we target a sample of 14 narrow - line agn ( seyfert iis ) to examine their cool cgm gas covering fractions .",
+    "we target @xmath11 agn so that we are able to detect the mg0.1emii  @xmath12 and 0.05emd @xmath13 absorption doublets from ground - based facilities and we are able to resolve the morphological properties of their host galaxies in ground - based images . we investigate the cool gas covering fractions and azimuthal angle dependencies .",
+    "we show that agn exhibit intrinsic absorption , unlike quasars , and we quantify their outflow properties . in section  [ sec : data ] we present our sample and data reduction . in section",
+    "[ sec : results ] , we present the gas covering fractions and azimuthal dependencies .",
+    "present clear signs of intrinsic ( down - the - barrel ) cool gas outflows originating from ongoing star - formation rather than the jets and quantify their outflow properties . in section  [ sec : dis ] , we discuss what can be inferred from the results and how it arises naturally from the agn unified model .",
+    "concluding remarks are offered in section  [ sec : conclusion ] . throughout",
+    "we adopt an h@xmath14  mpc@xmath15 , @xmath16 , @xmath17 cosmology ."
+  ],
+  "abstract_text": [
+    "<S> we performed a detailed study of the extended cool gas , traced by absorption [ @xmath0   ] , surrounding 14 narrow - line active galactic nuclei ( agns ) at @xmath1 using background quasar sight - lines . </S>",
+    "<S> the background quasars probe the agns at projected distances of @xmath2  kpc . </S>",
+    "<S> we find that , between @xmath3  kpc , agns appear to have lower gas covering fractions ( 0.09@xmath4 ) than quasars ( 0.47@xmath5 ) and possibly lower than in active field galaxies ( 0.25@xmath6 ) . </S>",
+    "<S> we do not find a statistically significant azimuthal angle dependence for the covering fraction around agns , though the data hint at one . </S>",
+    "<S> we also study the ` down - the - barrel ' outflow properties of the agns themselves and detect intrinsic 0.05emd absorption in 8/8 systems and intrinsic absorption in 2/2 systems , demonstrating that the agns have significant reservoirs of cool gas . </S>",
+    "<S> we find that 6/8 0.05emd and 2/2 intrinsic systems contain blueshifted absorption with @xmath7  , indicating outflowing gas . </S>",
+    "<S> the 2/2 intrinsic systems have outflow velocities a factor of @xmath8 higher than the 0.05emd outflow velocities . </S>",
+    "<S> our results are consistent with agn - driven outflows destroying the cool gas within their halos , which dramatically decreases their cool gas covering fraction , while star - burst driven winds are expelling cool gas into their circumgalactic media ( cgm ) . </S>",
+    "<S> this picture appears contrary to quasar  </S>",
+    "<S> quasar pair studies which show that the quasar cgm contains significant amounts of cool gas whereas intrinsic gas found ` down - the - barrel ' of quasars reveals no cool gas . </S>",
+    "<S> we discuss how these results are complementary and provide support for the agn unified model .    </S>",
+    "<S> [ firstpage ]    galaxies : ism , haloes quasars : absorption lines . </S>"
+  ]
+}

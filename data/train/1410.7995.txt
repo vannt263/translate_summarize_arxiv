@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "there is a complex , two - way relationship between radio - loud agn and their cluster environments , and understanding this relationship is crucial for our understanding of the rle of agn feedback in galaxy evolution ( eg @xcite ; @xcite ) .",
+    "the radio jets transport energy a considerable distance into the cluster , and are themselves affected by the intra - cluster medium .",
+    "do the properties of the large - scale cluster environment in their turn affect the feedback loop maintaining the agn , or are the agn properties solely determined by the more local environment of the host galaxy ? and how does does this disruption of the cluster environment affect its evolution ?    in the era programme ( @xcite ) , we are making a systematic examination of the effects of epoch and environment on the properties of radio - loud agn in order to address two questions : is radio luminosity is related to the large - scale cluster environment , and does the environment evolve with epoch ?    in phase 1 , we used the era sample ( fig.[fig : all ] , top left ) to compare radio luminosity and the hot gas environment within a limited redshift range ( @xmath0 ) , thus removing the effects of redshift evolution .",
+    "we also looked for differences between the populations of high and low excitation radio galaxies ( hergs and lergs ) , which have different accretion rates and host galaxy properties .",
+    "we now are comparing these results with a sample at @xmath1 to look for evolution effects .",
+    "we use the x - ray luminosity of the icm as a proxy for total cluster mass .",
+    "the results from the era and @xmath1 samples individually show an overall correlation between radio luminosity ( @xmath2 ) and cluster luminosity ( @xmath3 ) , with the correlation is driven entirely by the lerg sub - sample . when the samples are combined ( fig.[fig : all ] , top )",
+    ", the @xmath4 correlation for the lergs is very strong ( @xmath5 , kendall s @xmath6 test with partial correlation for redshift ) , and again there is no correlation for the hergs .",
+    "thus there is strong evidence of a correlation between radio luminosity and the cluster environment for lergs but not for hergs , supporting the theory that lergs take part in a feedback loop connected to the cluster gas .",
+    "both lerg sub - samples occupy the same region of the @xmath4 plot , and sub - samples matched in radio luminosity ( fig.[fig : all ] , bottom ) have comparable distributions of @xmath3 , implying that they come from the same population .",
+    "conversely , the @xmath1 hergs occupy a wider range of environments than era hergs , and the matched sub - samples suggest that they come from different populations ( @xmath7 , peto & prentice tests )",
+    ". the era subsamples are however small and contain upper limits .       and era samples . results for the combined samples are shown in the centre and right , with radio luminosity vs cluster richness ( top ) and redshift vs cluster richness for sub - samples matched in radio luminosity ( bottom ) .",
+    "lergs are in the central column , and hergs on the right.,width=480 ]"
+  ],
+  "abstract_text": [
+    "<S> radio - loud agn play an important rle in galaxy evolution . we need to understand their properties , and the processes that affect their behaviour in order to model galaxy formation and development . </S>",
+    "<S> we here present preliminary results of an investigation into the cluster environments of radio galaxies . </S>",
+    "<S> we have found evidence of a strong correlation between radio luminosity and environment richness for low excitation radio galaxies , and no evidence of evolution of the environment with redshift . </S>",
+    "<S> conversely , for high excitation radio galaxies , we found no correlation with environment richness , and tentative evidence of evolution of the cluster environment . </S>"
+  ]
+}

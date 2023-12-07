@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "for geometric frustrated magnetic materials it is impossible to choose one conguration with minimal energy by the individual minimization of the magnetic moments interactions .",
+    "consequently , their ground states are degenerated .",
+    "the most studied cases are systems with crystalline structures composed by triangles and tetrahedrons with nearest - neighbor antiferromagnetic interaction of their magnetic moments  @xcite . recently frustration has been observed in jarosites and pyrochlore oxides as a result of ferromagnetic interaction  @xcite . in these structures",
+    "the spins are arranged in kagom and pyrochlore lattices and forced to point in towards the center of the triangles and tetrahedrons respectively .",
+    "for this reason , there is only the two possible states , `` in '' or `` out '' , and therefore can be approximated through the classical ising model . since the angle between the spins the ferro - antiferromagnetic rule is changed so ferromagnetic systems can be mapped by the antiferromagnetic ising model and vice - versa  @xcite .",
+    "these systems are called spin ice because of the similarity between their ground state conguration and the pauli model for the water ice . due to the simplicity of the ising model in comparison with heisenberg they became a model for the study of geometric frustration . in some cases it is even possible an analytic treatment in order to compare to experimental and computational results  @xcite .",
+    "the recent artificial production of the first spin ices in the square and honeycomb lattices had attracted a lot of attention  @xcite .",
+    "they are constructed with bi - dimensional sequences of nanoislands with ferromagnetic magnetic moments considered as effective ising spins .",
+    "recently it was possible to produce artificial jarosite and volborthite crystals with practically no distortions or impurities , something not possible for natural materials found in nature  @xcite .",
+    "another recent example of the ising model is the study of magnetic materials in the triangular kagom lattice , artificially produced , as an alternative for adiabatic demagnetization  @xcite .",
+    "they consist of a kagom lattice with an inserted site between two nearest - neighbors .",
+    "additionally it can be used in the study of the exchange coupling constants  @xcite .",
+    "they are composed of sequences kagom lattices with weak interaction between the layers so they are considered bidimensional structures .",
+    "in this paper it is presented an alternative to the conventional representation of the kagom  @xcite and pyrochlore  @xcite lattices for monte carlo study of spins systems .",
+    "furthermore , the critical temperatures and exponents using the standard ferromagnetic ising model is shown . as suggested ,",
+    "there are the studies of the xy and heisenberg models for these lattices or the addition of the dipolar term in the ising model  @xcite .",
+    "there is also the possibility of the study of critical quantities and phase diagram for diluted cases .",
+    "the kagom lattice is a two - dimensional arrangement of sites with four nearest - neighbors as shown in figure  [ fig : kagome ] .",
+    "the unitary cell in gray has three sites with bonds forming equilateral triangles , each site in an indenpendent rhombic sublattices labeled a , b and c. for a site with label @xmath0 and coordinates @xmath1 and @xmath2 its nearest - neighbors are defined using the two versors *  * and *  * as shown in table  [ tab : kag_neighbors ] ( @xmath3 , @xmath4 and @xmath5 for a , b and c respectivelly ) .",
+    "the sites are indexed by @xmath6 , the space between the sites are set to 1 and @xmath7 .",
+    ".nearest - neighbors for the kagom lattice . [ cols=\"^,^,^\",options=\"header \" , ]",
+    "a. l. passos is grateful for the partial support provided by fapitec / se ."
+  ],
+  "abstract_text": [
+    "<S> this work aims to present a representation for the kagom and pyrochlore lattices for monte carlo simulation and some results of the critical properties . </S>",
+    "<S> these geometric frustrated lattices are composed of corner sharing triangles and tetrahedrons respectively . </S>",
+    "<S> the simulation was performed with the cluster wollf algorithm for the spins updates using the standard ferromagnetic ising model . </S>",
+    "<S> the determination of the critical temperature and exponents was done through the histogram technique and the finite - size scalling theory .    </S>",
+    "<S> kagom , pyrochlore , ising model , monte carlo </S>"
+  ]
+}

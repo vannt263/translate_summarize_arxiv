@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "quantum entanglement has been one of the key ideas in the revolution that the contemporary world has witnessed with the emergence of the concept of quantum computation and information .",
+    "it has been used to formulate certain interesting , though often counterintuitive , applications such as teleportation and super - dense coding [ 1][2][3 ] .",
+    "decoherence and ways to lessen the effect of decoherence on quantum states has been the subject of work [ 4][5][6 ] .",
+    "lately work has been done on experimental realization of such ideas , such as the realization of decoherence free subspaces using nickel impurities in diamond [ 7 ] .",
+    "entanglement has been a key concept in quantum communication protocols .",
+    "quantum repeaters and entanglement purification has been the subject of interest lately , as well [ 8][9][10 ] .",
+    "+   + for information transfer using entanglement between parties , one needs an established entangled channel - state and means of classical communication .",
+    "teleportation of an arbitrary single qubit state using a channel comprising of an epr pair was first demonstrated by bennett et al [ 11 ] . lately , w - ghz composite states have been used for teleportation as well as superdense coding of arbitrary quantum states . in this paper , we have shown that the seven - qubit xwz state can be used for teleportation of arbitrary single , double and triple qubit states .",
+    "+   + recently , xin - wei zha et al [ 12 ] arrived at a maximally entangled seven - qubit state through a numerical optimization process , following the path taken by brown et al [ 13 ] and borras et al [ 14 ] to find maximally entangled five - qubit and six - qubit states .",
+    "we will consider the case where alice possesses qubits 1 , 2 , 3 , 4 , 5 , 6 and the 7th particle belongs to bob .",
+    "alice wants to transport an arbitrary state @xmath0 to bob .",
+    "the combined state of the system is then , @xmath1 alice then measures the seven qubits in her possession via the seven qubit orthonormal states as described below : @xmath2 @xmath3    where @xmath4   \\notag\\ ] ] + @xmath5\\notag\\ ] ] + @xmath6\\notag\\ ] ] + @xmath7\\notag\\ ] ]    alice then conveys the outcome of the measurement results to bob via two classical bits .",
+    "bob then applies a suitable unitary operation from the set @xmath8 to recover the original state , sent by alice . in this way",
+    ", one can teleport an arbitrary single - qubit state using the state @xmath9 .",
+    "we will consider the case where alice possesses qubits 1 , 2 , 3 , 4 and 5 , and the 6th and 7th particles belong to bob .",
+    "alice wants to transport an arbitrary state @xmath10 to bob .",
+    "the combined state of the system is then , @xmath11 + so , alice prepares the combined state       + where +   + @xmath13 +   + @xmath14 +   + @xmath15 +   + @xmath16 +   + @xmath17 +   + @xmath18 +   + @xmath19 +   + @xmath20 +   + @xmath21 +   + @xmath22 +   + @xmath23 +   + @xmath24 +   +   + @xmath25 +   + @xmath26 +   + @xmath27 +   + @xmath28 +   + where @xmath4\\notag\\ ] ]"
+  ],
+  "abstract_text": [
+    "<S> we have tried to gauge the utility of a recently introduced seven - qubit state by xin - wei zha et al for quantum teleportation and quantum state sharing . </S>",
+    "<S> it is shown that this state can be used for the teleportation of an arbitrary single , double and triple qubit systems . </S>",
+    "<S> we have also come up with 3 proposals for quantum state sharing using the xin - wei zha state . </S>"
+  ]
+}

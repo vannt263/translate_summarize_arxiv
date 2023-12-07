@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "we consider a permutation of length @xmath4 simply to be a sequence containing exactly one copy of each element of the set @xmath5 .",
+    "a permutation @xmath6 of length @xmath7 is said to be a _ subpermutation _ of another permutation @xmath8 , written @xmath9 , if @xmath8 has a subsequence of length @xmath7 whose terms occur in the same relative order as those of @xmath6 . for example , @xmath10 is a subpermutation of @xmath11 since @xmath12 has the same relative order as @xmath10 .",
+    "a _ permutation class _ is a downset of permutations under this subpermutation order ; thus if @xmath8 is a member of a permutation class @xmath13 and @xmath9 , then @xmath14 . if @xmath15 is a set of permutations , we use @xmath16 to denote the members of @xmath15 of length @xmath4 .",
+    "the _ growth rate _ of a permutation class @xmath13 is defined by the limit @xmath17{|\\ccc_n|},\\ ] ] if it exists .",
+    "there are no known examples of permutation classes for which this limit does not exist and it is widely believed ( @xcite conjecture  1.1 ) that every permutation class does indeed have a growth rate .",
+    "the proof by marcus & tardos  @xcite of the stanley  wilf conjecture implies that growth rates are finite except in the case of the class of all permutations .",
+    "what does the set of possible permutation class growth rates look like ?",
+    "the last few years have seen substantial progress on answering this question , with particular focus on significant phase transition values .",
+    "kaiser & klazar  @xcite characterised all growth rates up to 2 , showing that the golden ratio @xmath18 ( the unique positive root of @xmath19 ) is the least growth rate greater than 1 .",
+    "indeed , they prove a stronger statement , known as the _ fibonacci dichotomy _ , that if @xmath20 is ever less than the @xmath4th fibonacci number , then @xmath20 is eventually polynomial ( see also  @xcite ) .",
+    "kaiser & klazar also determine that 2 is the least limit point in the set of growth rates .",
+    "klazar  @xcite considered the least growth rate admitting uncountably many permutation classes ( which he denoted @xmath21 ) and proved that @xmath21 is at least 2 and is no greater than approximately @xmath22 ( a root of a quintic ) .",
+    "vatter  @xcite determined the exact value of @xmath21 to be the unique real root of @xmath23 ( approximately @xmath24 ) and completed the characterisation of all growth rates up to @xmath21 , proving that there are uncountably many permutation classes with growth rate @xmath21 and only countably many with growth rate less than @xmath21 .",
+    "the phase transition at @xmath21 also has enumerative ramifications : albert , rukuc & vatter  @xcite have shown that every permutation class with growth rate less than @xmath21 has a rational generating function .",
+    "balogh , bollobs & morris  @xcite extended kaiser & klazar s work to the more general setting of _ ordered graphs_. an ordered graph is a graph with a linear order on its vertices . to each permutation",
+    "we associate an ordered graph .",
+    "the ( ordered ) _ graph _ of a permutation @xmath8 of length  @xmath4 has vertex set @xmath5 with an edge between vertices @xmath25 and @xmath26 if @xmath27 and @xmath28 .",
+    "see the figures below for illustrations .",
+    "we use @xmath29 to denote the graph of @xmath8 .",
+    "an _ induced ordered subgraph _ of an ordered graph @xmath30 is an induced subgraph of @xmath30 that inherits its vertex ordering .",
+    "a set of ordered graphs closed under taking induced ordered subgraphs is known as a _",
+    "hereditary class_. it is easy to see that @xmath9 if and only if @xmath31 is an induced ordered subgraph of @xmath29 .",
+    "thus each permutation class is isomorphic to a hereditary class of ordered graphs , and results can be transferred between the two domains .",
+    "balogh , bollobs & morris conjectured that the set of growth rates of hereditary classes of ordered graphs contains no limit points from above , and also that all such growth rates are integers or algebraic irrationals .",
+    "these conjectures were disproved by albert & linton  @xcite who exhibited an uncountable _ perfect set _ ( a closed set every member of which is a limit point ) of growth rates of permutation classes and in turn conjectured that the set of growth rates includes some interval @xmath32 .",
+    "their conjecture was established by vatter  @xcite who proved that there are permutation classes of every growth rate at least @xmath2 ( the unique real root of @xmath33 ) .",
+    "in addition , he conjectured that this value was optimal , the set of growth rates below @xmath3 being nowhere dense . by generalising vatter",
+    "s constructions , we now refute his conjecture by proving the following two results :    in order to complete the characterisation of all permutation class growth rates , further investigation is required of the values between @xmath21 and @xmath34 .",
+    "this interval contains the first limit point from above ( which we denote @xmath35 ) and the first perfect set ( whose infimum we denote @xmath36 ) , as well as the first interval ( whose infimum we denote @xmath37 ) . in  @xcite",
+    ", vatter showed that @xmath38 ( the unique real root of @xmath39 ) is the infimum of a perfect set in the set of growth rates and hence a limit point from above , and conjectured that this is the least such limit point ( in which case @xmath40 ) .",
+    "if @xmath41 denotes the set of all permutation class growth rates , then the current state of our knowledge can be summarised by the following table :          the author is grateful to vince vatter for suggesting that it might be worthwhile investigating whether his conjecture concerning the behaviour below @xmath3 may in fact be false .",
+    "he would also like to thank vince , robert brignall and two referees for reading earlier drafts of this paper ; their feedback resulted in significant improvements to its presentation ."
+  ],
+  "abstract_text": [
+    "<S> we prove that the set of growth rates of permutation classes includes an infinite sequence of intervals whose infimum is @xmath0 , and that it also contains every value at least @xmath1 . </S>",
+    "<S> these results improve on a theorem of vatter , who determined that there are permutation classes of every growth rate at least @xmath2 . </S>",
+    "<S> thus , we also refute his conjecture that the set of growth rates below @xmath3 is nowhere dense . </S>",
+    "<S> our proof is based upon an analysis of expansions of real numbers in non - integer bases , the study of which was initiated by rnyi in the 1950s . in particular , we prove two generalisations of a result of pedicini concerning expansions in which the digits are drawn from sets of allowed values . </S>"
+  ]
+}

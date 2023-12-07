@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "looking outward from the sun in the direction of the galactic anticenter , one s sight line passes through the local , perseus and outer spiral arms of the milky way ( e.g. xu et al .",
+    "2013 ; choi et al . 2014 ; dame et al . 2001",
+    "; valle 2005 ; churchwell et al .",
+    "2009 ; reid et al .",
+    "2014).the outer arm may originate near the galactic bar ( mcclure - griffiths et al .",
+    "2004 ; nakanishi & sofue 2006 ; levine et al . 2006",
+    "; dame & thaddeus 2011 ) and wind its way outward through more than 360 deg of galactocentric azimuth , until reaching and then passing the anticenter direction . while , for example , there is prolific star formation in the perseus arm",
+    ", there is relatively little activity in the outer arm in the second and third quadrants .",
+    "this makes it challenging to accurately trace its structure and determine kinematic properties .",
+    "trigonometric parallax distances , @xmath3 , have been measured for only three 22 ghz water maser sources in the outer arm : @xmath4 kpc for g075.30 + 01.32 ( sanna et al .",
+    "2012 ) , @xmath5 kpc for wb 89437 ( g135.27 + 02.79 ) ( hachisuka et al . 2009 ) , and @xmath6 kpc ( honma et al .",
+    "2007 ) or @xmath7 kpc ( asaki et al . 2014 ) for s 269 ( g196.4501.67 ) .",
+    "while clearly more astrometric data are desirable in order to better understand the properties of the outer arm , few maser sources have been discovered , owing to the low star formation rate and general weakness of these masers ( e.g. wouterloot et al .",
+    "1993 ; szymczak & kus 2000 ) .",
+    "astrometry with very long baseline interferometry ( vlbi ) can yield trigonometric parallaxes with accuracies better than @xmath8  and is an excellent tool to study galactic structure and dynamics ( e.g. reid et al .",
+    "2009b ; honma et al 2012 ; reid et al .",
+    "2014 ) . in this paper ,",
+    "we report parallaxes and proper motions of three water masers associated with high - mass star - forming regions ( hmsfrs ) : g@xmath9 , g@xmath10 and g@xmath11 .",
+    "these measurements are part of the bar and spiral structure legacy ( bessel ) survey and double the number of sources with accurate parallaxes in the outer arm .",
+    "we used the national radio astronomy observatory s ( nrao ) very long baseline array ( vlba ) to observe 22 ghz water maser sources under programs br145 g , h , and v. we observed with four adjacent 8 mhz bands in right and left circular polarization , with the second band centered on the water maser . the continuum and line data were correlated with the vlba difx , producing 16 and 256 spectral channels per band , respectively .",
+    "additionally , we placed four `` geodetic blocks '' throughout each seven hour track , as described in reid ( 2009a ) , in order to measure and remove residual tropospheric delays relative to the correlator model .",
+    "the parallax observations involved rapid switching between compact extragalactic continuum sources and water maser sources . for each maser source , we observed at six epochs spanning one year ( see tables  [ table:1 ] and [ table:1 - 2 ] for details ) , with a sequence designed to yield good parallax results for a maser spot that might last only seven months .",
+    "data reduction was performed using the nrao astronomical image processing system , as described in reid et al .",
+    "( 2009a ) .",
+    "the water masers were detected at all epochs , and generally we chose a strong , compact maser spot to use as the interferometer phase reference . the second continuum source associated with g@xmath12 ,",
+    "while detected at the first epoch , was not useful for parallax results owing to its large angular separation ( @xmath13 ) from the maser ."
+  ],
+  "abstract_text": [
+    "<S> we report parallaxes and proper motions of three water maser sources in high - mass star - forming regions in the outer spiral arm of the milky way . </S>",
+    "<S> the observations were conducted with the very long baseline array as part of bar and spiral structure legacy survey and double the number of such measurements in the literature . </S>",
+    "<S> the outer arm has a pitch angle of @xmath0 and a galactocentric distance of @xmath1 kpc toward the galactic anticenter . </S>",
+    "<S> the average motion of these sources toward the galactic center is @xmath2  and we see no sign of a significant fall in the rotation curve out to 15 kpc from the galactic center . </S>",
+    "<S> the three - dimensional locations of these star - forming regions are consistent with a galactic warp of several hundred parsecs from the plane . </S>"
+  ]
+}

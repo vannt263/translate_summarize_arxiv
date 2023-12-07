@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "over the last decades , there has been a surge in research activities in the physical properties of biopolymers , such as double - stranded dna ( dsdna ) , filamental actin ( f - actin ) and microtubules .",
+    "semiflexibility is a common feature they share : they preserve mechanical rigidity over a range , characterised by the persistence length @xmath2 , along their contour .",
+    "( e.g. , for a dsdna , f - actin and microtubules , @xmath3 nm @xcite , @xmath4 m @xcite and @xmath5 mm @xcite respectively . )",
+    "recently , two of us introduced a bead - spring model for semiflexible polymers @xcite .",
+    "the model has four parameters .",
+    "three of them determine the mechanical properties : the average inter - bead distance @xmath6 , the longitudinal stiffness @xmath7 , and the bending stiffness @xmath8 .",
+    "the fourth parameter is related to the viscosity of water @xmath9 and sets the time scale . in earlier work",
+    "@xcite we determined a set of values for the first three parameters that are able to reproduce the mechanical properties of double - stranded dna in experiment , and we studied the canonical averages of a number of equilibrium properties . in most of the present paper ,",
+    "we restrict ourselves to the same set of parameter values .    in this paper",
+    ", we primarily discuss how the equations of motion of our model can be efficiently integrated in time .",
+    "there is no hydrodynamic interactions among the beads .",
+    "this is in fact not a problem when it comes to comparing to experimental results for dsdna segments up to a few persistence lengths , since at these lengths a semiflexible polymer does not form a coil , and therefore should be free - draining .",
+    "indeed , this is the feature that allows us to meaningfully compare the diffusion coefficients of short model dsdna segments to those from experiments , from which we determine the fourth ( and the last ) parameter of the model , @xmath9 , which describes the langevin friction on the beads .    the default simulation approach to integrate the corresponding langevin equations of motion in time for",
+    "our model would be a simple integration scheme such as the euler method , using the bead positions as dynamical variables . in this paper",
+    "we develop a time - forward integration scheme by using the properties of ( a very good approximation of ) the polymer s fluctuation modes in this model @xcite , and allowing a set of representative equilibrium and dynamical observables to differ by at most 5% , we achieve 2 - 3 orders of magnitude speed - ups in comparison to the default method . with average inter - bead distance @xmath10 nm as a model parameter",
+    ", the length of a dsdna basepair , the maximum size @xmath11 of the time step is summarised in table [ table0 ] .",
+    "the variation in @xmath12 with @xmath13 does not have significant consequences since @xmath12 enters the dynamical equations only in the form of @xmath14 .",
+    "the decrease of @xmath15 with increasing @xmath13 , on the other hand , has much more severe consequences on the dynamics , as it makes the chain effectively more inextensible .",
+    "in contrast to dsdna one already runs into  even for fairly mild coarse - graining  quite small values of @xmath15 .",
+    "e.g. , for @xmath16 , which would mean about 75 beads per persistence length , the value of @xmath15 is so small that for all practical purposes our model behaves ( except of course the force - extension curve ) as the inextensible wlc , and our maximum time - step then would then be @xmath17 .",
+    "even more interesting is the ratio between the real time and the scaled time involving the @xmath13-dependent parameters [ c.f .",
+    "( [ g2a ] ) ] : @xmath18 e.g. , even with a small maximal allowable timestep @xmath19 the large value of @xmath20 for @xmath16 leads to @xmath21 this is orders of magnitude larger than the order of picosecond estimates for @xmath22 for dsdna ."
+  ],
+  "abstract_text": [
+    "<S> using a recently developed bead - spring model for semiflexible polymers that takes into account their natural extensibility , we report an efficient algorithm to simulate the dynamics for polymers like double - stranded dna ( dsdna ) in the absence of hydrodynamic interactions . </S>",
+    "<S> the dsdna is modelled with one bead - spring element per basepair , and the polymer dynamics is described by the langevin equation . </S>",
+    "<S> the key to efficiency is that we describe the equations of motion for the polymer in terms of the amplitudes of the polymer s fluctuation modes , as opposed to the use of the physical positions of the beads . </S>",
+    "<S> we show that , within an accuracy tolerance level of @xmath0 of several key observables , the model allows for single langevin time steps of @xmath1 , 8 , 16 and 16 ps for a dsdna model - chain consisting of 64 , 128 , 256 and 512 basepairs ( i.e. , chains of 0.55 , 1.11 , 2.24 and 4.48 persistence lengths ) respectively . </S>",
+    "<S> correspondingly , in one hour , a standard desktop computer can simulate 0.23 , 0.56 , 0.56 and 0.26 ms of these dsdna chains respectively . </S>",
+    "<S> we compare our results to those obtained from other methods , in particular , the ( inextensible discretised ) wlc model . </S>",
+    "<S> importantly , we demonstrate that at the same level of discretisation , i.e. , when each discretisation element is one basepair long , our algorithm gains about 5 - 6 orders of magnitude in the size of time steps over the inextensible wlc model . </S>",
+    "<S> further , we show that our model can be mapped one - on - one to a discretised version of the extensible wlc model ; implying that the speed - up we achieve in our model must hold equally well for the latter . </S>",
+    "<S> we also demonstrate the use of the method by simulating efficiently the tumbling behaviour of a dsdna segment in a shear flow . </S>"
+  ]
+}
