@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "massive stars are progenitors of supernovae . at the end of their evolution",
+    "they leave behind either neutron stars or black holes .",
+    "stars follow different evolutionary stages up to this point of evolution @xcite .",
+    "these differences are mainly because of the initial masses of stars ; especially for single stars . in binary stars , on the other hand , in addition to the initial mass ; orbital period , mass ratio , and total mass are crucial parameters that may affect their evolution .",
+    "evolution of x - ray binaries consisting of a compact object and a main - sequence star or a giant star depends strongly on the variation of these parameters .",
+    "x - ray binaries with low mass components are classified as lmxbs while binaries with high mass components are classified as hmxbs .",
+    "parameters of many binary systems that are members of lmxbs and hmxbs have been published in the literature . in this study ,",
+    "x - ray binary systems consisting of a neutron star and a m / o star have been studied ( ns+s ) . both lmxb and hmxb are considered .",
+    "the binary systems presented in this study contain both early and late type components .",
+    "hence , mass loss via stellar activity that is observed in late type stars and mass loss through strong stellar wind , that is observed in early type stars , can be detected .",
+    "in addition , mass transfer between the components takes place .",
+    "mass loss / transfer is directly related to the angular momentum loss / transfer . in main - sequence stars",
+    "angular momentum loss mechanisms via stellar wind are important ( see @xcite , @xcite , @xcite ) while in cataclysmic variables and in other x - ray binaries mass loss via stellar activity and angular momentum loss via gravitational radiation is important ( see @xcite , @xcite and references therein ) .    if the components are close to each other , in other words if the orbital period is short , angular momentum loss via gravitational radiation might be important .",
+    "general relativity predicts energy loss because of the perturbation in space - time of binary stars , which releases gravitational waves @xcite .",
+    "recently , gravitational waves are observed by ligo team @xcite .    in this project ,",
+    "the orbital and physical parameters of 33 systems have been collected .",
+    "collecting the parameters we carefully examined all the studies and selected the best observational results .",
+    "the orbital period vary from 0.2 to 1236 days .",
+    "the mass of the components varies between 0.24 to 58 solar masses .",
+    "some of the systems have late type components ; therefore , in addition to angular momentum loss via mass loss , angular momentum loss through gravitational radiation is also important .",
+    "angular momentum loss via stellar winds and gravitational radiation has been studied previously by @xcite and the formulae are given in eq .",
+    "( 1 ) and eq . ( 2 ) .",
+    "yakut et al .",
+    "@xcite calculated angular momentum loss time scale via stellar wind and gravitational radiation ( eq .  1 and eq .  2 ) .",
+    "observations of gravitational waves ( abbott et al . 2016 ) increased the importance of compact binaries",
+    ". binary systems with neutron systems could be the progenitor of ns+ns or ns+bh systems and most important candidates of gravitational - wave sources .",
+    "kse and yakut @xcite calculated the gw amplitude ( h ) following the linearized einstein field equation ( eq .",
+    "we calculated h amplitude for the collated ns+s systems and plotted them in fig .",
+    "( 2 ) .",
+    "99 postnov k.  a. , yungelson l.  r. , 2014 , lrr , 17 kawaler , s.d . , 1998 ,",
+    "apj , 333 , 236 yakut , k. ; eggleton , p.p . , 2005 , apj , 629 , 1055 yakut , k. ; kalomeni , b. ; tout , c. a. , 2008 , arxiv:0811.0455 andronov , n. ; pinsonneault , m. ; sills , a. , apj ( 2003 ) 582 , 358 kalomeni , b. , 2010 , iaus , 262 , 362 einstein , a. , 1918 , preuss .",
+    "berlin , sitzungsberichte der physikalisch - mathematischen klasse , 15 abbott b.  p. , et al . , 2016 ,",
+    "phrvl , 116 , 061102 kse , o. , yakut , k. , 2012 , iaus , 282 , 468"
+  ],
+  "abstract_text": [
+    "<S> binary systems with neutron stars and double degenerate systems are crucial objects to test current stellar evolution models and einstein s general relativity . in this study , we present angular momentum loss mechanism via gravitational radiation and magnetized stellar winds for some selected systems with a neutron star . </S>",
+    "<S> we calculated and plotted their time scales for angular momentum loss . </S>",
+    "<S> gravitational wave amplitudes of binary systems with a neutron star components are also estimated and their detectability with a gravitational wave detector ( lisa ) has been plotted . </S>"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the majority of core - collapse supernovae ( sne ) are associated with the deaths of hydrogen - rich massive stars with zero - age - main - sequence masses @xmath1 >  8  . the most common hydrogen - rich type ii sne exhibit a @xmath2 day plateau in their light curves ( sne  iip ) , and the physics behind their emission",
+    "is well understood .",
+    "in particular , the energy source powering the plateau phase is the energy deposited by the shock wave soon after the explosion .",
+    "the recombination process of the ionized hydrogen is responsible for the photosphere moving inward and allowing the stored energy to be radiated during this phase @xcite .",
+    "the recombination wave travels through the hydrogen - rich ejecta as the sn expands homologously and cools @xcite .",
+    "however , a fraction of sne  ii have a linear decline in their light curves after a rapid rise to maximum light ( sne  iil ; * ? ? ?",
+    "* ; * ? ? ?",
+    "after either the plateau or linear decline phase in sne ii there is a subsequent rapid drop , usually around 100 - 140 days after explosion for sne iip and 80 - 100 days for sne iil @xcite . this difference may be due to a smaller ejecta mass in sne iil .",
+    "@xcite argued that the fast light - curve decline of sne iil is the result of both the small amount ( 12 ) of hydrogen envelope in a progenitor of relatively larger radius ( a few 1000 ) .",
+    "these values can be compared with the progenitors of sne iip , which are red supergiants ( rsgs ) that span radii of 101600 @xcite at the moment of explosion and should have an ejected mass of @xmath3 610 .",
+    "recent hydrodynamical and radiative - transfer calculations have also confirmed that a smaller ejected mass may produce a short plateau , but can not reproduce the luminosity of sne  iil @xcite . a larger radius , a different hydrogen distribution , or extra energy sources may play an important role in shaping the light curves of sne  iil .",
+    "rsgs have been definitively identified as the progenitors of sne  iip ( e.g. , @xcite ; @xcite ; @xcite ) , with masses estimated from the measured luminosities of the progenitor stars to be in the range 817 .",
+    "the fact that more - massive rsg progenitors have not been identified has been highlighted as significant and termed the `` red supergiant problem '' @xcite .",
+    "the separation , if any , between sne  iip and iil is an open issue .",
+    "some authors suggest that they form a continuous distribution @xcite , while others favour their separation into distinct classes @xcite .",
+    "if one of the keys to differentiating sne  iip from iil is the amount of hydrogen in the envelope , a clear dichotomy may suggest the presence of a specific , unknown ingredient in the evolution of massive stars that sometimes strips them of discrete ( large for sne  iil , small for sne  iip ) amounts of hydrogen . despite an increasing number of sne  ii with published light curves and the growing evidence that sne  ii form a continuum of light - curve properties , it remains unknown whether their progenitors span a range of stellar populations .    in this paper",
+    ", we present comprehensive optical light curves of 12 sne  ii that have been monitored by the las cumbras observatory global telescope ( lcogt , @xcite ) network between 2013 and 2014 .",
+    "the lcogt network of nine 1  m and two 2  m robotic telescopes enables photometric coverage with long temporal baselines and fast response times to cover the most time - critical phases of sn evolution .",
+    "many of these sne  ii have also been followed at ultraviolet ( uv ) wavelengths with the uvot camera onboard _ swift",
+    "when possible , we will compare our data with those previously published and publicly available ( see next section ) .",
+    "the main goal of this paper is to focus on generic properties of our sample to gain an expanded understanding of the sn  iip / iil diversity .",
+    "various authors use different values of the linear decay rate after maximum brightness to separate sne iip and sne iil .",
+    "_ the reader should be aware that in this paper , we will not define a specific decline - rate value to distinguish sne  iip and sne  iil ; rather , we will use iip to refer to sne  ii with flatter linear decays after maximum light ( iip - like sne ) and iil to refer to sne  ii with faster decline rates after maximum light ( iil - like sne ) .",
+    "_ when possible , we will colour - code the sample of objects using the decline rate of the @xmath4-band light curve ( @xmath5 ; see section [ sec : slope ] for the definition ) to emphasize that we are not dividing sne  ii to iip and iil _ a priori_.    in section  [ sec : sample ] , we present our sample of new sne as well as sne from the literature that are used in the analysis . in section  [ sec : data ] we present our photometric data , and section [ sec : slope ] describes the main parameters characterizing them ( listed also in the appendix [ apefigures ] ) .",
+    "we repeat the analysis in section  [ sec : bolo ] using pseudobolometric light curves . in section  [ sec : early ] we discuss early - time data , focusing on the uv differences between sne  iip and iil .",
+    "we derive in section  [ sec : nickel ] the amount of @xmath0ni produced in sne  ii and compare our results with progenitor studies of sne  ii @xcite . in section  [ sec : nebular ]",
+    "we constrain the mass of the progenitor for a few sne in our sample using their nebular spectra , and section [ sec : discussion ] summarizes our results .",
+    "[ cols=\"<,^,^,^,^,^,^,^,^ \" , ]"
+  ],
+  "abstract_text": [
+    "<S> high - quality collections of type ii supernova ( sn ) light curves are scarce because they evolve for hundreds of days , making follow - up observations time consuming and often extending over multiple observing seasons . in light of these difficulties , </S>",
+    "<S> the diversity of sne  ii is not fully understood . here </S>",
+    "<S> we present ultraviolet and optical photometry of 12 sne  ii monitored by the las cumbres observatory global telescope network ( lcogt ) during 20132014 , and compare them with previously studied sne having well - sampled light curves . </S>",
+    "<S> we explore sn  ii diversity by searching for correlations between the slope of the linear light - curve decay after maximum light ( historically used to divide sne  ii into iil and iip ) and other measured physical properties . </S>",
+    "<S> while sne  iil are found to be on average more luminous than sne  iip , sne  iil do not appear to synthesize more @xmath0ni than sne  iip . </S>",
+    "<S> finally , optical nebular spectra obtained for several sne in our sample are found to be consistent with models of red supergiant progenitors in the 1216   range . </S>",
+    "<S> consequently , sne  iil appear not to account for the deficit of massive red supergiants as sn  ii progenitors .    </S>",
+    "<S> supernovae : general  supernovae : individual : sn  2013bu , sn  2013fs , sn  2014cy , sn  2013ej , asassn-14 ha , asassn-14gm , asassn-14dq , sn  2013ab , sn  2013by , sn  2014 g , lsq13dpa , lsq14gv , sn  2014 g , sn  2013ab , sn  2015w . </S>"
+  ]
+}

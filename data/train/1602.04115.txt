@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "[ accesstomobilesensors ]    .brief description of _ touchsignatures _ and in - app sensor - based password/ pin identifiers .",
+    "acc = accelerometer , gyr = gyroscope , and ori = orientation .",
+    "motion streams are a set of measurements which are accessible within browsers and include accelerometer , accelerometer - including - gravity , and rotation rate ( see section [ sensordetail ] ) . [ cols=\"<,<,<,<\",options=\"header \" , ]     we tested several browsers including three major browsers on android : chrome , firefox , and opera , and three major browsers on ios : safari , chrome , and opera .",
+    "other android browsers were also included in the study due to their high download counts on the google play store .",
+    "the full list of tested android browsers and their download counts can be seen in table  [ tbl : dl ] .",
+    "there are a number of browsers with high numbers of downloads but limited capabilities , e.g. , specialised search engine browsers or email - based browsers .",
+    "since these browsers do not support features such as multi - tab browsing , they are excluded from our study .",
+    "the ios app store does not report the number of downloads , hence we used a combination of user ratings , itunes charts , and checking the availability of the listed android browsers on ios to discover and select a list of popular browsers on ios . on both platforms",
+    ", we only considered browsers that are available free of charge from the official app stores .",
+    "our javascript code , used in different parts of the paper , sends the orientation and motion sensor data of the mobile device , if accessible through the testing browser , to our nosql database on mongolab.com .",
+    "when the event listener fires , it establishes a socket ( by using socket.io ) between the client and the server and continuously transmits the sensor data to the database .",
+    ".... function socketinit ( ) { //initial settings socket= io.connect ( ) ; socket.on('connected ' , function ( ) { if ( window.deviceorientationevent ) { window.addeventlistener('deviceorientation ' , function(event ) { var gamma= event.gamma ;   var beta= event.beta ;   var alpha= event.alpha ;   socket.emit('ox ' , gamma ) ;   socket.emit('oy ' , beta ) ;   socket.emit('oz ' , alpha ) ; } ) ; } if ( window.devicemotionevent ) { window.addeventlistener('devicemotion ' , function(event ) { var acceleration= event.acceleration ; var gacc= event.accelerationincludinggravity ; var rotationrate= event.rotationrate ; var interval= event.interval ; var ax= acceleration.x ;   var ay= acceleration.y ;    var az= acceleration.z ;           var ralpha= rotationrate.alpha ; var rbeta= rotationrate.beta ; var rgama= rotationrate.gamma ; var gx= gacc.x ;   var gy= gacc.y ;   var gz= gacc.z ;                 socket.emit('mx ' , ax ) ;   socket.emit('my ' , ay ) ;   socket.emit('mz ' , az ) ; socket.emit('ralpha ' , ralpha ) ;   socket.emit('rbeta ' , rbeta ) ;   socket.emit('rgama ' , rgama ) ; socket.emit('mgx ' , gx ) ;   socket.emit('mgy ' , gy ) ;   socket.emit('mgz ' , gz ) ; socket.emit('interval ' , interval ) ; } ) ; } socket.on('disconnect ' , function ( ) {       alert(\"disconnected ! \" ) ; } ) ; } ...."
+  ],
+  "abstract_text": [
+    "<S> conforming to w3c specifications , mobile web browsers allow javascript code in a web page to access _ motion and orientation _ sensor data without the user s permission . </S>",
+    "<S> the associated risks to user security and privacy are however not considered in w3c specifications . in this work , for the first time </S>",
+    "<S> , we show how user security can be compromised using these sensor data via browser , despite that the data rate is 3 to 5 times slower than what is available in app . </S>",
+    "<S> we examine multiple popular browsers on android and ios platforms and study their policies in granting permissions to javascript code with respect to access to motion and orientation sensor data . based on our observations , </S>",
+    "<S> we identify multiple vulnerabilities , and propose _ touchsignatures _ which implements an attack where malicious javascript code on an attack tab listens to such sensor data measurements . based on these streams , _ touchsignatures _ is able to distinguish the user s touch actions ( i.e. , tap , scroll , hold , and zoom ) and her pins , allowing a remote website to learn the client - side user activities . </S>",
+    "<S> we demonstrate the practicality of this attack by collecting data from real users and reporting high success rates using our proof - of - concept implementations . </S>",
+    "<S> we also present a set of potential solutions to address the vulnerabilities . </S>",
+    "<S> the w3c community and major mobile browser vendors including mozilla , google , apple and opera have acknowledge our work and are implementing some of our proposed countermeasures </S>",
+    "<S> .    * keywords . * mobile sensors , javascript attack , mobile browsers , user security , user privacy , machine learning , touch actions , pins </S>"
+  ]
+}

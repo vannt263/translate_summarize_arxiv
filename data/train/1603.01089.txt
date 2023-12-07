@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "controlling the dynamical state of a complex network is a fundamental problem in science [ 1 - 5 ] with many potential applications , including neuronal disorders in brain networks [ 6 ] and evaluation of risks in financial markets [ 7 ] . while most of these works consider networks of linear systems [ 1,2,5 ] , only recently has the general and richer case of networks of nonlinear systems [ 4 ] started to be investigated .",
+    "here we are interested in controlling networks in the sense of driving the network from a subset of particular chaotic initial states to a subset of final ( stable ) regular states with the view of not merely identifying driver nodes but also their relative effectiveness as well as obtaining estimates of the regions in parameter space where suitable control signals are effective .",
+    "regarding the control ( suppression and enhancement ) of chaotic states , which is of fundamental interest partly because of the ubiquity of chaos in nature , including man - made systems , and partly because of its practical relevance [ 8 - 10 ] , it has been shown that the application of judiciously chosen periodic external excitations is a reliable procedure for taming chaos in diverse coupled systems such as arrays of electrochemical oscillators [ 11 ] , frenkel - kontorova chains [ 12 ] , and recurrent neural networks [ 13 ] , just to cite a few instances .",
+    "most studies of coupled nonlinear systems subjected to external excitations have focused on either global ( all - to - all ) or local ( homogeneous ) diffusive - type coupling , while little attention has been paid to the possible influences of a heterogeneous connectivity on the regularization of a network s dynamics .",
+    "many diverse real - world networks exhibit heterogeneous connectivity in the form of a scale - free topology [ 14 ] which means that just a small set of nodes are highly connected @xmath0the so - called hubs@xmath0 while the rest of the nodes have few connections .",
+    "since starlike structures are the main motifs of scale - free networks , here we study the control of chaos in starlike networks of dissipative driven nonlinear oscillators , expecting that the main features of such an impulse control scenario may be extensible to the case of scale - free networks .",
+    "this is a major motivation for the present work .",
+    "chaos control and synchronization are deeply related phenomena [ 9 ] , and there have been recent studies of diverse synchronization phenomena in oscillator networks with starlike couplings [ 15 - 18 ] .    [ cols=\"^ \" , ]",
+    "to summarize , we have demonstrated theoretically and numerically that the impulse transmitted by periodic pulses is a fundamental quantity for the reliable control of the chaotic behavior of starlike networks of damped kicked rotators .",
+    "we have shown how the effectiveness of pulse reshaping , when it is applied to a single node , strongly depends upon the degree of the target node : applying impulse - decreasing pulses to the highest - degree node is by far the best suppressory strategy , while applying them to low - degree nodes is the poorest choice . in the case of applying pulse control to several nodes",
+    ", we found rather counterintuitive results : more is not only different but often means poorer regularization .",
+    "we have shown that this is due to desynchronization phenomena which result from the competition between two comparable populations of rotators subjected to pulses transmitting comparable but different impulses . when the pulses impulse is sufficiently small , the rotator subjected to control behaves as an energy sink for the remaining rotators , and this is ultimately the basic physical mechanism leading to the network s regularization .",
+    "clearly , the effectiveness of this localized dissipation of energy strongly depends upon the target node s degree , which explains why controlling the central node is a much better choice than controlling a peripheral node .",
+    "the decreasing - impulse - induced chaos - control scenario discussed could find applications in diverse biological coupled systems [ 31 ] , including neuronal networks [ 32 ] .",
+    "it may also be useful to optimally control chaos in scale - free networks of dissipative periodically - kicked oscillators since a highly connected node in such a network can be thought of as a hub of a locally starlike part of the network , with a degree of connectivity that belongs to the complete network s degree - of - connectivity distribution .",
+    "useful discussions with pedro j. martnez and ngel martnez garca - hoz are gratefully acknowledged .",
+    "r.c . gratefully acknowledges financial support from the ministerio de economa y competitividad ( mineco , spain ) through project no .",
+    "fis2012 - 34902 cofinanced by feder funds , and from the junta de extremadura ( jex , spain ) through project no . gr15146 ."
+  ],
+  "abstract_text": [
+    "<S> locally decreasing the impulse transmitted by periodic pulses is shown to be a reliable method of taming chaos in starlike networks of dissipative nonlinear oscillators , leading to both synchronous periodic states and equilibria ( oscillation death ) . </S>",
+    "<S> specifically , the paradigmatic model of damped kicked rotators is studied in which it is assumed that when the rotators are driven synchronously , i.e. , all driving pulses transmit the same impulse , the networks display chaotic dynamics . </S>",
+    "<S> it is found that the taming effect of decreasing the impulse transmitted by the pulses acting on particular nodes strongly depends on their number and degree of connectivity . </S>",
+    "<S> a theoretical analysis is given explaining the basic physical mechanism as well as the main features of the chaos - control scenario .    </S>",
+    "<S> = 1 </S>"
+  ]
+}

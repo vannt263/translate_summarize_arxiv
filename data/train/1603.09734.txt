@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "the aim of this paper is to give a canonical extension of the classical elliptic integrals to the hilbert modular case for @xmath0 .",
+    "the arrangement of @xmath4 points on the projective line @xmath5 is deeply related to the elliptic modular functions for the principal congruence subgroup @xmath6 .",
+    "the double covering of @xmath5 branched at @xmath4 points gives an elliptic curve .",
+    "the coordinate of the configuration space of @xmath4 branch points on @xmath5 gives a modular function for @xmath6 via the period mapping of the family of the corresponding elliptic curves .",
+    "one of the most successful extensions of the above classical story to several variables is given by k. matsumoto , t. sasaki and m. yoshida @xcite .",
+    "they showed an interesting relation between the arrangement of @xmath7 lines on the projective plane @xmath8 and the modular functions on a @xmath4 dimensional bounded symmetric space of type @xmath9 via the period mapping of the family of @xmath10 surfaces coming from the arrangement of @xmath7 lines .",
+    "we shall give another natural extension of the classical elliptic integrals to a case of several variables .",
+    "the hilbert modular functions for real quadratic fields are very popular among modular functions of several variables . however , to the best of the author s knowledge , to obtain simple and geometric extensions of the classical elliptic integrals to the hilbert modular cases is a highly non - trivial problem .",
+    "although the hilbert modular functions with level @xmath11 structure can be obtained from the moduli of hyperelliptic curves of genus @xmath11 , they are characterized by a complicated modular equations ( see remark [ humbertremark ] ) .    in this paper , we focus on the hilbert modular functions for @xmath0 . since the real quadratic field @xmath0 gives the smallest discriminant , several researchers ( for example , k. b. gundlach @xcite , f. hirzebruch @xcite , r. mller @xcite ) studied this case in detail .",
+    "we shall give a simple and geometric interpretation of the hilbert modular functions in this case .",
+    "we consider the double integrals of the algebraic function @xmath12 in ( [ alg.f ] ) of @xmath11 variables on chambers surrounded by the parabola @xmath13 in ( [ p ] ) and the quintic curve @xmath14 in ( [ q ] ) with the @xmath15-cusp .",
+    "these double integrals are equal to the period integrals of the kummer surface @xmath16 in ( [ k(x , y ) ] ) .",
+    "the equation ( [ k(x , y ) ] ) gives a double covering of the weighted projective plane @xmath2 branched along @xmath13 and @xmath14 and the complex parameters @xmath17 determine the arrangement of the branch loci .",
+    "the parameters @xmath17 are regarded as a pair of the hilbert modular functions for @xmath0 via the explicit double integrals ( see remark [ stok ] and theorem [ doubleintegralthm ] ) .",
+    "our results are coherent with the story of the classical elliptic integrals ( see table 1 ) .",
+    "the results in this paper are used in the paper @xcite .",
+    "[ w - table ]    .the classical elliptic integrals and the result of this paper . [ cols=\"^,^,^\",options=\"header \" , ]     [ doubleintegralthm ] a branch of the period mapping @xmath18 in ( [ kummerperiod ] ) on @xmath19 is given by the following double integrals on the chambers @xmath20 and @xmath21 : @xmath22    form proposition ( [ deltathm ] ) , table 6 and table 7 , we have @xmath23 similarly , we have @xmath24    by the analytic continuation of the single - valued branch on @xmath19 given by the integrals in ( [ algintegral ] ) , we have the multivalued period mapping @xmath18 for the family @xmath25 . hence , the hilbert modular functions for @xmath0 is deeply concerned with the arrangement of the divisors @xmath13 in ( [ p ] ) and @xmath14 in ( [ q ] ) .",
+    "the above theorem gives a canonical extension of the classical elliptic integrals to the hilbert modular case with the smallest discriminant .",
+    "the author would like to thank professor hironori shiga for helpful advises and valuable suggestions .",
+    "he is also grateful to professor kimio ueno and the members of his laboratory for kind encouragements .",
+    "he is grateful to the referee for careful reading and valuable comments .",
+    "this work is supported by waseda university grant for special research project 2013a - 870 and 2014b -169 ."
+  ],
+  "abstract_text": [
+    "<S> the aim of this paper is to give an explicit extension of the classical elliptic integrals to the hilbert modular case for @xmath0 . </S>",
+    "<S> we study a family of kummer surfaces corresponding to the humbert surface of invariant @xmath1 with two complex parameters . </S>",
+    "<S> our kummer surface is given by a double covering of the weighted projective space @xmath2 branched along a parabola and a quintic curve . </S>",
+    "<S> the period mapping for our family is given by double integrals of an algebraic function on chambers coming from an arrangement of a parabola and a quintic curve in @xmath3 . </S>"
+  ]
+}

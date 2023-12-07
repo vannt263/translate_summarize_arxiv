@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "12    rovelli c 2004 _ quantum gravity _ ( cambridge : cambridge university press ) rovelli c and vidotto f 2014 _ covariant loop quantum gravity _ ( cambridge : cambridge university press ) mikovi ' c a and vojinovi ' c m 2012 _ class .",
+    "* 29 * 165003 mikovi ' c a 2013 _ rev .",
+    "phys . _ * 25 * 1343008 hartle j b and hawking s w 1983 _ phys .",
+    "* 28 * 2960 nielsen m",
+    "a and chuang i l 2000 _ quantum computation and quantum information _ ( cambridge : cambridge university press ) penrose r 1996 _ gen .",
+    "_ * 28 * 581"
+  ],
+  "abstract_text": [
+    "<S> we argue that hartle  hawking states in the regge quantum gravity model generically contain non - trivial entanglement between gravity and matter fields . generic impossibility to talk about `` matter in a point of space '' is in line with the idea of an emergent spacetime , and as such could be taken as a possible candidate for a criterion for a plausible theory of quantum gravity . </S>",
+    "<S> finally , this new entanglement could be seen as an additional `` effective interaction '' , which could possibly bring corrections to the weak equivalence principle .    * introduction . * </S>",
+    "<S> the unsolved problems of interpreting quantum mechanics ( qm ) and formulating quantum theory of gravity ( qg ) are arguably the two most prominent ones of the twentieth century theoretical physics . up to date </S>",
+    "<S> , most of the efforts to solve the two were taken independently . </S>",
+    "<S> indeed , the majority of the interpretations of qm do not involve explicit dynamical effects ( with notable exceptions of the spontaneous collapse and the de broglie  </S>",
+    "<S> bohm theories ) , while the researchers from the qg community often adopt the many - world interpretation of qm . nevertheless , the two problems share a number of similar unsolved questions and counter - intuitive features , such as nonlocality : entanglement - based quantum nonlocality , as well as the anticipated explicit dynamical nonlocality in qg ( a consequence of quantum superpositions of different gravitational fields , i.e. , different spacetimes and their respective causal orders ) . </S>",
+    "<S> we analyse the generic entanglement between gravitational and matter fields in the regge model of quantum gravity , and its possible impact to the fundamental questions regarding qm and qg .    * regge quantum gravity model . * </S>",
+    "<S> a simple toy model of quantum gravity with matter fields is the regge quantum gravity with one real scalar field , whose construction can be motivated by the loop quantum gravity research program @xcite . </S>",
+    "<S> the path integral of the model is @xmath0\\,,\\ ] ] where @xmath1 are the lengths of the edges of the triangulation @xmath2 of a @xmath3-manifold @xmath4 , and @xmath5 are the values of the scalar field in @xmath3-simplices of @xmath2 . </S>",
+    "<S> the measure terms @xmath6 and @xmath7 are defined via discretization induced by @xmath2 . </S>",
+    "<S> the actions @xmath8 and @xmath9 represent lattice discretizations of the einstein  </S>",
+    "<S> hilbert action for gravity and an action of the scalar field coupled to gravity , respectively . </S>",
+    "<S> see  @xcite for details .    </S>",
+    "<S> a generic state of the system , belonging to the kinematical hilbert space @xmath10 , is @xmath11 however , since gravity is a theory with constraints , not every kinematical state is allowed , so we must choose the coefficients @xmath12 such that @xmath13 is an element of the physical hilbert space @xmath14 . </S>",
+    "<S> one such class of states are the hartle  hawking ( hh ) states @xcite , defined by the following choice of the coefficients , for a given triangulation @xmath2 : @xmath15\\,.\\ ] ] this expression differs from ( [ reggestatesuma ] ) in that the triangulation @xmath2 is now assumed to have a nontrivial @xmath16-dimensional boundary @xmath17 , and that the variables @xmath18 living on the boundary are not integrated over , in contrast to the bulk variables @xmath1 and @xmath5 .    using ( [ talasnafunkcija ] ) and ( [ hartlehawkingstanje ] ) , one can calculate the reduced density matrix of the hartle  hawking state , @xmath19 \\;\\ ; { { \\vert{\\phi}\\rangle } } { { \\langle{\\phi'}\\vert}}\\,,\\ ] ] where the integral in the brackets can be denoted as @xmath20 . </S>",
+    "<S> the resulting density matrix can then be tested for entanglement by checking if the trace of its square equals one  @xcite . in the regge quantum gravity model </S>",
+    "<S> the path integrals reduce to a finite number of ordinary integrals , which can then in principle be evaluated . for a generic triangulation </S>",
+    "<S> , we obtain @xmath21 i.e. , the gravitational and scalar degrees of freedom in the generic hh state are entangled .    * discussion . * in  @xcite penrose argues that gravity - matter entanglement is at odds with ( classical ) spacetime , seen as a ( four - dimensional ) differentiable manifold . in light of this , our result could be seen as a quantitative indicator that in quantum gravity one can not talk of `` matter in a point of space '' , i.e. , this result could be seen as a confirmation of a `` spacetime as an emergent phenomenon '' . </S>",
+    "<S> thus , generic gravity - matter entanglement could be seen as a possible candidate for a criterion for a plausible theory of quantum gravity . </S>",
+    "<S> entanglement is in standard quantum mechanics a generic consequence of the interaction . </S>",
+    "<S> this new entanglement can be regarded as a consequence of an effective interaction ( such as the `` exchange interactions '' , which are a consequence of quantum statistics ) . </S>",
+    "<S> this additional `` effective interaction '' can potentially lead to corrections to the weak equivalence principle .    </S>",
+    "<S> np was partially supported , under the cv - quantum internal project at it , by fct pest - oe / eei / la0008/2013 and uid / eea/50008/2013 . </S>",
+    "<S> mv was supported by the fct grant sfrh / bpd/46376/2008 , the fct project pest - oe / mat / ui0208/2013 , and partially by the project on171031 of the ministry of education , science and technological development , serbia . </S>"
+  ]
+}

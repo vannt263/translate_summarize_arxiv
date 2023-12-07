@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "the wind mass transfer in symbiotic binaries is connected with the long - standing problem of a large luminosity of their hot components and an inefficient wind mass transfer from their red giants in the canonical bondi - hoyle accretion mechanism .",
+    "investigation of the giant wind properties can aid us in a better understanding of the wind mass - transfer mode in these widest interacting binaries .",
+    "we investigated a distribution of the neutral hydrogen ( h@xmath0 ) from the wind of giants in eclipsing s - type symbiotic stars eg and and sy mus . for this purpose",
+    ", we used far - uv spectra measured by the iue and hst satellites , available from their archives . by modelling the rayleigh attenuation of the continuum around the ly-@xmath1 line ( fig . 1 , left ) , we obtained h@xmath0 column densities , @xmath2 , at different orbital phases ( fig .",
+    "1 , right ) .",
+    "some values were supplemented from the literature .",
+    "further , we modelled @xmath2 values taking into account ionization of the giant s wind ( seaquist  1984 ) and used the inversion method for the column density function according to knill  ( @xcite ) to derive the wind velocity profile ( wvp ) .",
+    "right : @xmath4 values ( circles ) and our models ( solid and dashed line ) . , title=\"fig:\",width=170 ] @xmath3 .",
+    "right : @xmath4 values ( circles ) and our models ( solid and dashed line ) . , title=\"fig:\",width=166 ]    in this way we derived a relation for the total h@xmath0 column density , @xmath5 , as a function of the orbital phase ( or the impact parameter @xmath6 ) , and the wvp , @xmath7 , in the form , @xmath8 where @xmath9 , @xmath10 and @xmath11 are fitting parameters , @xmath12 is the terminal velocity of the wind , @xmath13 , @xmath14 and @xmath15 are the eigenvalues of the abel operator ( see knill  @xcite ) .",
+    "example of a model and its parameters for eg and are in fig . 1 and table 1",
+    ". corresponding values of the spherical equivalent of the mass - loss rates , @xmath16@xmath17 , are a factor of @xmath18 larger than total rates measured by independent methods ( @xmath19@xmath17 , e.g. seaquist  @xcite ) .",
+    "this findings suggests that the wind from giants in s - type symbiotic stars is focused towards the binary orbital plane , because both systems are eclipsing , and thus our @xmath2 values are given by densities at the near - orbital - plane region .",
+    "according to the model of nagae  ( 2004 ) , our wvps correspond to the mass - accretion ratio @xmath20 .    [ cols=\"<,^,^,^,^,^,^\",options=\"header \" , ]",
+    "by modelling the h@xmath0 column densities around giants in eclipsing s - type symbiotic stars eg and and sy mus , we determined the wvp and the corresponding @xmath21 from their giants .",
+    "our analysis revealed that @xmath21 are a factor of @xmath18 higher than observed total @xmath22 .",
+    "this suggests that the giant s wind is significantly enhanced at the orbital plane , where can be effectively accreated onto the hot component . in this way",
+    ", we indicated a high mass - transfer ratio in s - type symbiotic binaries .",
+    "99 knill , o. , dgani , r. & vogel , m. 1993 , a&a , 274 , 1002 nagae , t. , oka , k. , matsuda , t. , fujiwara , h. , hachisu , i. & boffin , h. m. j. 2004 , a&a , 419 , 335 seaquist , e. r. , taylor , a. r. & button , s. 1984 , apj , 284 , 202 seaquist , e. r. , krogulec , m. , & taylor , a. r. 1993 , apj , 410 , 260"
+  ],
+  "abstract_text": [
+    "<S> by modelling h@xmath0 column densities in eclipsing s - type symbiotic stars eg and and sy mus , we derived the wind velocity profile and the corresponding mass - loss rate from their giants . </S>",
+    "<S> our analysis revealed a strong enhancement of the wind at the orbital plane . </S>"
+  ]
+}

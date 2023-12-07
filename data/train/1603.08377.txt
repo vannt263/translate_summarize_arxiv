@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "this paper reports multiband study of ngc 708 a radio loud elliptical galaxy selected from b2 @xmath2[3]}$ ] for which observational data in radio , nir , uv and x - ray band are already available through various data archives .",
+    "the main goal of this multi wavelength study is to investigate possible inter - correlation among different constituents of ism and coexistence of multiphase ism in extra - galactic environment .",
+    "this work adresses a wide variety of issues related to different physical properties of dust in early type galaxies . in particular",
+    ", the data is used to ( 1 ) perform multi - band surface photometry and generate composite and multicolor profiles for the galaxies .",
+    "( 2 ) use color profiles to study morphology of molecular gas , dust and other faint features .",
+    "( 3 ) obtain dust properties from wavelength - dependent dust extinction and compare it with the properties of dust in the milky - way .",
+    "( 4 ) compare the spatial distribution of the gas and dust revealed in diffirent wavelength bands . ( 5 )",
+    "study morphology and properties of ionized gas and star forming regions detected in the h@xmath0 narrow band images .",
+    "+ the photometric observations were carried out during june 14 - 17 , 2012 using igo two meter optical telescope at iucaa , pune ( india ) .",
+    "the integrated exposure time in b , v , r and h@xmath0 bands were 3600s , 2700s , 1800s , 5400s respectively .",
+    "typical values of seeing during our observations were in range of @xmath11.5 .",
+    "standard techniques were applied to process the data as described in [ 4][6 ] .",
+    ".basic information , dust extinction and other properties . [ cols=\"<,<\",options=\"header \" , ]        * @xmath3*@xmath4*@xmath5 * & * @xmath6 * @xmath4*@xmath7 * & * @xmath8 * @xmath4*@xmath9 *   + milky way & @xmath10 & @xmath11 & @xmath12 +   + ngc 708 & 7.0@xmath4 1.2 & 6.0@xmath41.2 & 7.3@xmath4 1.2 + molecular gas & @xmath13 @xmath4 @xmath14 & & + mass @xmath15 & ( @xmath16 ) & & + @xmath17 & @xmath18(@xmath16/yr ) & & +    the radial profiles of surface brightness ( @xmath19 ) , position angle ( pa ) , ellipticity ( e ) and @xmath20 ( boxiness/ diskyness ) parameters were generated in images of all the wavebands using the ` ellipse ' task available in @xmath21}$ ] .",
+    "\\(1 ) radial profiles of surface brightness ( @xmath19 ) , position angle ( pa ) , ellipticity ( e ) and @xmath20 , indicates peculiar feature within its central 10 arcsec region with bump in the surface brightness profile near at 2 - 4 arcsec .",
+    "( 2 ) the optical colors ( i.e. b - v , v - r , b - r ) in conjunction with the infrared color maps , indicates existence of cool gas surrounding the nuclear dust lane in the central region of the galaxy . ( 3 ) the derived extinction curve for ngc 708 shows significant difference at the r band , as compared to the extinction curve of the milky - way . ( 4 ) the estimated value of @xmath6 for ngc 708 is 6.0@xmath4 1.2 , which is considerbly higher than the canonical value of @xmath6 ( 3.1 ) for milky - way . ( 5 ) we identified three optical knots ( two are located in the east and one is in the west from the center , extended within central 3 kpc region of the galaxy ) in hst images and it looks a jet like feature in igo v - band image .",
+    "( 6 ) distribution of ionized gas in ngc 708 revealed by h@xmath0 emission map is interesting , namely , an angular v shaped morphology having spiral arm like feature within its central 3 kpc region .",
+    "( 7 ) the multi - band imaging analysis of ngc 708 reveals a qualitative spatial correspondence among the morphologies of the dust , h@xmath0 , ir , and radio emissions as well as diffuse x - ray emission . this in turn implies co - existence of multiphase ism and their physical association in the sample @xmath22[5]}$ ] .",
+    "( 8) the diffuse x - ray emission and residual maps confirm the detection of x - ray cavity @xmath23}$ ] as has been found in previous studies .",
+    "showing correlation among dust with radio jet(blue ) , optical knots ( green circles ) and ir ( spitzer[3.6@xmath19 ] ) emmision ( white ) . _",
+    "middle : _ residual x - ray ( 0.3 - 7.0kev 3@xmath253 _ chandra _ ) image , reveal substructures in the central region .",
+    "_ right : _ radial profiles of surface brightness ( @xmath19 ) , position angle ( pa ) , ellipticity ( e ) and @xmath20 , in v band ( igo ) within 10 arcsec with bumpy region.,title=\"fig:\",width=151,height=143 ]   showing correlation among dust with radio jet(blue ) , optical knots ( green circles ) and ir ( spitzer[3.6@xmath19 ] ) emmision ( white ) .",
+    "_ middle : _ residual x - ray ( 0.3 - 7.0kev 3@xmath253 _ chandra _ ) image , reveal substructures in the central region . _",
+    "right : _ radial profiles of surface brightness ( @xmath19 ) , position angle ( pa ) , ellipticity ( e ) and @xmath20 , in v band ( igo ) within 10 arcsec with bumpy region.,title=\"fig:\",width=151,height=143 ]   showing correlation among dust with radio jet(blue ) , optical knots ( green circles ) and ir ( spitzer[3.6@xmath19 ] ) emmision ( white ) .",
+    "_ middle : _ residual x - ray ( 0.3 - 7.0kev 3@xmath253 _ chandra _ ) image , reveal substructures in the central region .",
+    "_ right : _ radial profiles of surface brightness ( @xmath19 ) , position angle ( pa ) , ellipticity ( e ) and @xmath20 , in v band ( igo ) within 10 arcsec with bumpy region.,title=\"fig:\",width=207,height=207 ]",
+    "[ 1 ] cappetti a , et al , 2000 , a@xmath26a , 362 , 871c . [ 2 ] finkelman i. , et al , 2010 , mnras , 409 , 727f .",
+    "[ 3 ] gonzalez - serrano j.i . , et al . , 2000 , a@xmath26as , 461 , 103 . [ 4 ] jedrzejewski r.i . , 1987 , mnras , 226 , 747 . [ 5 ] patil m. k. , pandey s.k . , et al , 2007,a@xmath26a , 461,103 .",
+    "[ 6 ] sahu , d. k. , pandey s. k.,et al 1998 , a@xmath26a , 333 , 803 .",
+    "[ 7 ] pandge m b et al .",
+    "2013 , a@xmath26ss , 345 , 183 - 193 ."
+  ],
+  "abstract_text": [
+    "<S> we present a multi - wavelength study of a nearby radio loud elliptical galaxy ngc 708 , selected from the bologna b2 sample of radio galaxies . </S>",
+    "<S> we obtained optical broad band and narrow images from igo 2 m telescope ( pune , india ) . </S>",
+    "<S> we supplement the multi - wavelength coverage of the observation by using x - ray data from chandra , infrared data from 2mass , spitzer and wise and optical image from dss and hst . in order to investigate properties of interstellar medium </S>",
+    "<S> , we have generated unsharp - masked , color , residual , quotient , dust extinction , h@xmath0 emission maps . from the derived maps </S>",
+    "<S> it is evident that cool gas , dust , warm ionized h@xmath0 and hot x - ray gas are spatially associated with each other . </S>",
+    "<S> we investigate the inner and outer photometric and kinematic properties of the galaxy using surface brightness profiles . from x - ray 2d beta model , unsharp </S>",
+    "<S> masking , surface brightness profiles techniques , it is evident that pair of x - ray cavities are present in this system and which are @xmath15.6 kpc away from the central x - ray source . + _ * keywords : * galaxies : early type , surface photometry , ism , cooling flows , agn feedback . </S>"
+  ]
+}

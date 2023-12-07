@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "a new bosonic state with a mass around @xmath1 , which was discovered at the lhc a few years ago , can provide a window into new physics beyond the standard model ( sm ) .",
+    "the signal strengths associated with this particle are currently consistent with the sm higgs boson .",
+    "however further exploration of this resonance can lead to new exciting discoveries .",
+    "physics beyond the sm may change the higgs decay rates to sm particles and give rise to new decay modes . here",
+    "we consider the decays of the sm - like higgs boson into a pair of pseudoscalar states within @xmath2 extensions of the minimal supersymmetric standard model ( mssm ) .",
+    "in particular we focus on the @xmath3 inspired susy models which are based on the low  energy sm gauge group together with an extra @xmath4 gauge symmetry defined by : @xmath5 gauge @xmath6and @xmath7 symmetries can originate from the breakings @xmath8 @xmath9 , @xmath10 .",
+    "different aspects of the phenomenology of these @xmath3 inspired supersymmetric ( susy ) models have been extensively studied in @xcite .",
+    "these susy models imply that just below the scale @xmath11 the gauge symmetry in the @xmath3 grand unified theory ( gut ) is broken down to @xmath12 , where @xmath13 is a matter parity . to ensure anomaly cancellation , gauge coupling unification and the appropriate breakdown of the gauge symmetry at low energies the matter content of the susy models under consideration involves three @xmath14 representations of the @xmath3 , two @xmath15 doublets @xmath16 and @xmath17 from extra @xmath18 and @xmath19 , two sm singlets @xmath20 and @xmath21 that carry non ",
+    "zero @xmath0 charges and stem from another pair of @xmath22 and @xmath23 as well as a sm singlet @xmath24 that does not participate in gauge interactions . thus these models involve extra matter beyond the mssm . in particular , they include three pairs of @xmath15doublets ( @xmath25 and @xmath26 ) that have the quantum numbers of higgs doublets , and three pairs of colour triplets of exotic quarks",
+    "@xmath27 and @xmath28 with electric charges @xmath29 and @xmath30 respectively . to suppress flavour changing neutral currents as well as the most dangerous baryon and lepton number violating operators one can impose a discrete @xmath31 symmetry , under which all superfields except one pair of @xmath32 and @xmath33 ( say @xmath34 and @xmath35 ) , @xmath16 , @xmath17 , @xmath20 , @xmath21 and @xmath24 are odd .",
+    "the conservation of @xmath36 and @xmath31 symmetries implies that these models contain at least two states which are absolutely stable and can contribute to the dark matter density .",
+    "one of these states is a lightest susy particle ( lsp ) whereas another one is the lightest ordinary neutralino . using the method proposed in @xcite",
+    "it was argued that there is a theoretical upper bound on the mass of the lsp @xcite . in the simplest phenomenologically viable scenarios",
+    "the lsp has a mass around @xmath37 or even smaller forming hot dark matter in the universe .",
+    "the presence of such very light neutral fermions in the particle spectrum may have interesting implications for neutrino physics ( see , for example @xcite ) . in these scenarios",
+    "the lightest ordinary neutralino can account for all or some of the observed dark matter density .",
+    "the higgs sector of the susy models under consideration contains two higgs doublets @xmath38 and @xmath39 as well as @xmath20 , @xmath21 and @xmath24 .",
+    "the scalar components of the superfields @xmath20 and @xmath21 acquire large vacuum expectation values ( vevs ) that break the @xmath0 gauge symmetry inducing the masses of exotic particles and the @xmath40 boson .",
+    "the interaction of @xmath20 , @xmath21 and @xmath24 is determined by the following terms in the superpotential that can be written as @xmath41 when   the   couplings   @xmath42 ,   @xmath43 and @xmath44 are rather small these models possess   an   approximate global @xmath2 symmetry .",
+    "this symmetry is spontaneously broken by the vevs of @xmath20 , @xmath21 and @xmath24 leading to the presence of a light pseudoscalar state in the particle spectrum .",
+    "our analysis indicates that the couplings of this state to the sm particles are always small .",
+    "therefore even if this pseudoscalar is substantially lighter than @xmath45 it could escape detection at former and present collider experiments .",
+    "moreover this state can be so light that it gives rise to the decays of the sm - like higgs boson into a pair of these pseudoscalar states .",
+    "the branching ratio of such decays depends rather strongly on the values of the couplings that explicitly violate the global @xmath2 symmetry .    to simplify our analysis we set @xmath46 as well as @xmath47 and examine the dependence of the branching ratio of the exotic higgs decays on @xmath42 . for @xmath48 the pseudoscalar higgs boson with a mass of @xmath49",
+    "can be obtained without fine - tuning but the branching ratio of the sm - like higgs decays into a pair of such particles is smaller than @xmath50 @xcite .",
+    "thus it will be rather difficult to observe such decays at the lhc . if @xmath51 a fine tuning of at least @xmath52 is required to get the lightest cp - odd higgs state with mass of @xmath49",
+    ". however the branching ratio of the corresponding exotic higgs decays can be larger than @xmath52 in this case @xcite .",
+    "after being produced from such decays the lightest pseudoscalars decay into a pair of @xmath53-quarks or @xmath54-leptons resulting in four fermion final states .",
+    "this work was supported by the university of adelaide and the australian research council through the arc center of excellence in particle physics at the terascale ."
+  ],
+  "abstract_text": [
+    "<S> we study the decays of the lightest cp  even higgs boson into a pair of pseudoscalar higgs states within @xmath0 extensions of the mssm . </S>"
+  ]
+}

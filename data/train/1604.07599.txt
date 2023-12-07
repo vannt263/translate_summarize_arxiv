@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the first level muon trigger of the atlas experiment  @xcite is based on resistive plate chambers ( rpc ) in the barrel region and thin gap chambers ( tgc ) in the end - cap regions of the muon spectrometer ( ms ) .",
+    "they provide high timing resolution for precise bunch crossing identification , but have a limited spatial resolution of a few centimetres resulting in a limited muon momentum resolution .",
+    "hence , at most half of the muons with transverse momentum between 10  gev and 20  gev are selected with a nominal trigger threshold of 20  gev . at hl - lhc luminosities , this leads to unacceptably high trigger rates .    in order to reduce the trigger rate ,",
+    "the momentum resolution of the first level trigger system has to be increased to the level of the current level-2 trigger resolution based on the monitored drift tubes ( mdt ) tracking chambers  @xcite .",
+    "the most efficient solution with the best resolution is to use the mdt chambers at the first trigger level  @xcite .",
+    "in order to include the mdt hit information in the first level trigger , a fast mdt read - out has to be implemented . furthermore , a fast track reconstruction algorithm with latency below 6  @xmath0s seeded by the region - of - interest information of the trigger chambers has to be developed .",
+    "the track reconstruction has to be performed with high efficiency at high background occupancies of up to 14% expected in the mdt chambers at hl - lhc  @xcite .",
+    "figure  [ fig::technical ] shows the proposed fast mdt read - out scheme .",
+    "the digitized drift time measurement of the mdt front - end electronics is sent via the on - chamber data concentrator and a fast read - out path to the trigger logic where fast processors ( socs-``system - on - a - chip '' , fpga - cpu combinations ) are used for hit buffering and track reconstruction .",
+    "when the trigger chambers detect a muon candidate , this coarse position information is used for fast track reconstruction within the mdt chambers .",
+    "a histogram - based pattern recognition algorithm has been developed for fast track reconstruction  @xcite ( see fig .  [ fig::histogram ] ) .",
+    "based on the angle of incidence of the muons known with sufficient precision from the trigger chambers ( seed angle ) , the algorithm resolves the ambiguity in the hit positions from the drift radius measurements in the drift tubes and projects the hit coordinates perpendicular to the expected track direction filling a one - dimensional histogram which is scanned for peaks corresponding to track candidates .",
+    "a linear track fit is applied to the associated hits and the @xmath1 per degree of freedom of the fit is used as a measure of the fit quality ( @xmath2 ) .",
+    "the @xmath3-cut leads only to 1.9% efficiency loss , but reduces the fraction of badly reconstructed tracks3  mrad with @xmath4 ( @xmath5 ) the reconstructed ( true ) track angles . ] by 23% .    in order not to wrongly reject energetic muons , events without a track fulfilling the requirements ( less than 10% )",
+    "are always accepted and the transverse momentum is determined and selected at a higher trigger level  @xcite .",
+    "0.45     0.45     in order to test the trigger concept and to study the fast track reconstruction algorithm , a hardware demonstrator has been constructed and used for fast reconstruction of cosmic muon tracks in an mdt chamber under @xmath6 irradiation at the cern gamma irradiation facility ( gif ) .",
+    "the trigger demonstrator comprises two parallel read - out chains for data with high and with reduced time resolution ( see fig .",
+    "[ fig::technical ] ) .    the residual distribution of the incidence angle @xmath4 of the fast reconstructed tracks with respect to the offline reconstructed angle @xmath7 is shown in fig .",
+    "[ fig::results ] and is in agreement with the geant4  @xcite simulation of the demonstrator test set - up . due to the preliminary long dead time",
+    "( 1500  ns ) of the fast read - out , the fraction of tracks with a small number of hits is enhanced leading to a higher uncertainty in the track fit .",
+    "therefore , the fraction of wrongly reconstructed tracks with @xmath83  mrad is 10.2% at the maximum expected background rate at hl - lhc . for the implementation in atlas , a dead time of 200  ns is envisaged to reduce the fraction to 1% .",
+    "the fast tracking algorithm has been implemented in assembler language on an arm cortex - m4f cpu , commonly used in socs .",
+    "the processing times of the reconstruction algorithm for the data taken at the gif are shown in fig .",
+    "[ fig::timing ] . with the highest clock frequency ( 200  mhz )",
+    ", the track can be reconstructed within 11  @xmath0s . the use of a more advanced cpu architecture ( e.g. arm cortex - a9 implemented on xilinx zynq soc ) allowing a reduction of the maximum processing time below the expected first - level trigger latency of 6  @xmath0s at hl - lhc .",
+    "in order to improve the transverse momentum resolution and the acceptance of the atlas muon trigger at hl - lhc , the mdt precision tracking chambers will be included in the first level muon trigger with a foreseen latency of 6  @xmath0s .",
+    "performance studies with a hardware implementation of the required new fast read - out of the mdt chambers and of the fast tracking algorithm demonstrate the feasibility of the concept ."
+  ],
+  "abstract_text": [
+    "<S> highly selective triggers are essential for the physics programme of the atlas experiment at hl - lhc where the instantaneous luminosity will be about an order of magnitude larger than the lhc instantaneous luminosity in run 1 . </S>",
+    "<S> the first level muon trigger rate is dominated by low momentum muons below the nominal trigger threshold due to the moderate momentum resolution of the resistive plate and thin gap trigger chambers . </S>",
+    "<S> the resulting high trigger rates at hl - lhc can be sufficiently reduced by using the data of the precision muon drift tube chambers for the trigger decision . </S>",
+    "<S> this requires the implementation of a fast mdt read - out chain and of a fast mdt track reconstruction algorithm with a latency of at most 6  @xmath0s . </S>",
+    "<S> a hardware demonstrator of the fast read - out chain has been successfully tested at the hl - lhc operating conditions at the cern gamma irradiation facility . </S>",
+    "<S> the fast track reconstruction algorithm has been implemented on a fast trigger processor .    </S>",
+    "<S> atlas , hl - lhc , level-1 muon trigger , fast track reconstruction </S>"
+  ]
+}

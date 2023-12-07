@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "very long baseline interferometry ( vlbi ) measures the differential arrival times of signals from extragalactic radio sources .",
+    "it is currently the most powerful technique for measuring absolute positions of thousands of radio sources , the orientation and rotation speed of the earth and ground - based station coordinates , with an accuracy of about 1  cm ( or 0.1  mas ) .",
+    "vlbi has been extensively used for astrometry and geodesy for about 30 years and , since 1998 , is operated by the international vlbi service ( ivs , schuh & behrend 2012 ) .",
+    "vlbi allows an astrometric precision of @xmath0  @xmath1as ( fey et al .",
+    "2015 ) .",
+    "a dipole systematic caused by the galactocentric acceleration of the solar system barycentre was detected for the first time in vlbi data by titov et al .",
+    "( 2011 , 2013 ) .",
+    "the measured amplitude of the aberration drift is in good agreement with the value predicted by galactic models ( e.g. , reid et al .",
+    "the quadrupole component presents some systematics that have to be clarified .",
+    "a major interest of this component is that it can constrain hubble constant anisotropy or the amplitude of primordial gravitational waves ( kristian & sachs 1966 ; gwinn et al 1997 ) .",
+    "the galactic aberration , or secular aberration drift , is a small proper motion of a few microarc seconds affecting distant bodies induced by the rotation of the solar system about the galactic center , which takes about 250  myr ( kovalevsky 2003 ) .",
+    "this systematic effect appears as a dipolar deformation of the proper motion field towards the galactic center ( @xmath2 , @xmath3 ) with a magnitude about 6 @xmath1as / yr , corresponding to a solar system acceleration of @xmath4  km/@xmath5 in accordance with the equation as follows @xmath6 where the @xmath7 are the components of the acceleration vector in units of the proper motion , and which corresponds to the degree 1 spheroidal ( or electric ) development of ( e.g. , mignard & morando 1990 ) @xmath8 where @xmath9 , @xmath10 , and @xmath11 , and @xmath12 and @xmath13 the vector spherical harmonics of electric and magnetic types of degree @xmath14 and order  @xmath15 .",
+    "in addition to the aberration distortion , there may also be a small global rotation which can be described by the toroidal ( or magnetic ) harmonics of degree  1 : @xmath16 where the @xmath17 can be expressed in terms of vector spherical harmonics coefficients as @xmath18 , @xmath19 , and @xmath20 .    along with the aberration and rotation , more advanced cosmological effects may be detected using the proper motion of distant quasars .",
+    "in particular , the anisotropic expansion of the universe would result in the degree 2 vector spherical harmonics of electric type , and the primordial gravitation waves would be an origin of the degree 2 harmonics of electric and magnetic types . to investigate a possible quadrupolar anisotropy of the velocity field ,",
+    "let us give the development of the degree 2 vector spherical harmonics ( i.e. , @xmath21 in eq .",
+    "( [ gen ] ) ) : @xmath22        lccc & dipole only & dipole + rotation & 16 parameters +   + amplitude ( @xmath1as / yr ) & @xmath23 & @xmath24 & @xmath25 + @xmath26 ( @xmath27 ) & @xmath28 & @xmath29 & @xmath30 + @xmath31 ( @xmath27 ) & @xmath32 & @xmath33 & @xmath34 + rotation ( @xmath1as / yr ) & & @xmath35 & @xmath36 + second harmonics ( @xmath1as / yr ) & & & @xmath37 +   + amplitude ( @xmath1as / yr ) & @xmath38 & @xmath39 & @xmath40 + @xmath26 ( @xmath27 ) & @xmath41 & @xmath42 & @xmath43 + @xmath31 ( @xmath27 ) & @xmath44 & @xmath45 & @xmath46 + rotation ( @xmath1as / yr ) & & @xmath47 & @xmath48 + second harmonics ( @xmath1as / yr ) & & & @xmath49 +   + amplitude ( @xmath1as / yr ) & @xmath50 & @xmath51 & @xmath52 + @xmath26 ( @xmath27 ) & @xmath53 & @xmath54 & @xmath55 + @xmath31 ( @xmath27 ) & @xmath56 & @xmath57 & @xmath58 + rotation ( @xmath1as / yr ) & & @xmath59 & @xmath60 + second harmonics ( @xmath1as / yr ) & & & @xmath61 +   + amplitude ( @xmath1as / yr ) & @xmath62 & @xmath63 & @xmath64 + @xmath26 ( @xmath27 ) & @xmath65 & @xmath66 & @xmath67 + @xmath31 ( @xmath27 ) & @xmath68 & @xmath69 & @xmath70 + rotation ( @xmath1as / yr ) & & @xmath71 & @xmath72 + second harmonics ( @xmath1as / yr ) & & & @xmath73 +",
+    "about 10 million vlbi observations since 1979 were analyzed with the geodetic vlbi analysis software calc / solve to generate astrometric coordinate time series of about 3800 radio sources .",
+    "amplitudes and direction of dipole , rotation and second order harmonics are displayed in table 1 ( below ) for various subsets of radio sources .",
+    "the figures show the proper motion in right ascension and dipole systematics for the most observed sources , as well as the electric part of the quadrupole systematics for closest sources .    )",
+    ".,width=377 ]    table 1 displays the magnitude of the dipole , rotation and second order harmonics for different sets of reference radio sources . as the magnitude estimates of the second order harmonics exceed the 3-@xmath74 formal errors in some cases , they vary from one solution to another .",
+    "more vlbi data needs to be collected to obtain more reliable results .",
+    "the paper is published with the permission of the ceo , geoscience australia .",
+    "99 fey , a , et al ( 2015 ) aj 150 , 58 gwinn , c et al ( 1997 ) apj 485 , 87 kovalevsky , j ( 2003 ) a&a 404 , 7439 kristian , j & sachs r. ( 1966 ) apj 143 , 37 mignard , f. , & morando , b. 1990 , in proc .",
+    "journes 1990 systmes de rfrence spatio - temporels , observatoire de paris , ed .",
+    "n. capitaine & s. dbarbat , 151 reid , m , et al ( 2009 ) apj 700 , 137 schuh , h & behrend , d ( 2012 ) j geodyn 61 , 68 titov , o et al ( 2011 ) a&a 529 , 91 titov , o & lambert , s ( 2013 ) a&a 559 , 95"
+  ],
+  "abstract_text": [
+    "<S> some models of the expanding universe predict that the astrometric proper motion of distant radio sources embedded in space - time are non - zero as the radial distance from observer to the source grows . </S>",
+    "<S> systematic proper motion effects would produce a predictable quadrupole pattern on the sky that could be detected using very long baseline interferometry ( vlbi ) technique . </S>",
+    "<S> this quadrupole pattern can be interpreted either as an anisotropic hubble expansion , or as a signature of the primordial gravitational waves in the early universe . </S>",
+    "<S> we present our analysis of a large set of geodetic vlbi data spanning 19792015 to estimate the dipole and quadrupole harmonics in the expansion of the vector field of the proper motions of quasars in the sky . </S>",
+    "<S> the analysis is repeated for different redshift zones . </S>"
+  ]
+}

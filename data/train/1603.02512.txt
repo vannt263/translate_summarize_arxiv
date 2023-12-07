@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "the original @xmath0 mission has been highly succesful in providing unprecedented details of the light variation of rr lyrae stars , as well as in discovering new dynamical phenomena in their pulsation .",
+    "almost each object shows unique and novel characteristics , therefore the total number of rr lyrae stars in the @xmath0 and @xmath1 fields is of particular interest .    to estimate the expected number of rrl stars we used the trilegal @xcite and besanon models @xcite . to get a sense of the uncertainties of the simulated number of rrls in the instability strip we shifted the original @xmath0 and @xmath1 fovs by @xmath2 degrees in r.a . and dec directions .",
+    "we used these standard deviations to check the changes of the simulated numbers of rrls in slightly different fields .    in order to understand the completeness of the observed @xmath0 and @xmath1 rrl samples",
+    ", we moved the original @xmath0 field along the same galactic lattitude where the catalina sky survey ( css ) made observations down to @xmath3 @xcite .    since css covered some of the @xmath1 fields ( and discovered a large number of rrl stars )",
+    ", we could use these measurements to compare the simulations with much deeper observational results in the @xmath1 fields .",
+    "in fig .  [ fig : fig1 ] .",
+    "we plot the apparent magnitude distribution of the previously known rrls and the simulated rrls from trilegal and besanon simulations for the original @xmath0 fov and @xmath1 campaign 5 , respectively .",
+    "\\(1 ) we found good agreement between the simulated and observed rrl star numbers in a control field covered by css , which makes us confident that this method robustly estimates the number of rrl stars .",
+    "\\(2 ) we found 150 rrl in the @xmath0 field in total and approximately the same amount in the @xmath1 fields from trilegal simulations .",
+    "\\(3 ) we found good agreement between the trilegal sample and the observed rrl stars by css between @xmath4 and @xmath5 in the @xmath1 fields .",
+    "\\(4 ) by accepting this calibration and using the predicted trilegal and besanon numbers as a proxy , we predict that approximately three times more rrl stars should lurk in the @xmath0 and @xmath1 fields , than presently known .",
+    "fov ( left panel ) and in @xmath1 @xmath6 @xmath7 ( right panel ) .",
+    "the red and green boxes show simulated stars from trilegal and besanon , respectively .",
+    "the black boxes show the 51 and 44 known rrls in the @xmath0 , and in @xmath1 @xmath6 @xmath7 , respectively.,scaledwidth=100.0% ]    these results will help us to better understand the rrl samples of the @xmath0 fields , and motivates us to find the missing faint halo rrl population that could be used for galactic structure studies .",
+    "this project has been supported by the nkfih k-115709 , the lendlet-2009 and lp2014 - 17 young researchers programs of the hungarian academy of sciences , the esa pecs contract no .",
+    "4000110889/14/nl / nde , the european community s seventh framework programme ( fp7/2007 - 2013 ) under grant agreements no . 269194 ( irses / ask ) and no .",
+    "312844 ( spaceinn ) .",
+    "drake , a. j. , catelan , m. , djorgovski , s. g. et al .",
+    "2013 . , 763 ,",
+    "32 girardi , l. , groenewegen , m. a. t. , hatziminaoglou , e. et al .",
+    "2005 , , 436 , 895 robin , a. c. , reyl , c. , derrire , s. et al .",
+    "2003 , , 409 , 523"
+  ],
+  "abstract_text": [
+    "<S> it is interesting to ask what fraction of the total available rr lyrae ( rrl ) sample that falls in the @xmath0 and @xmath1 fields of view ( fov ) is known or discovered . in order assess the completeness of our sample we compared the known rrl sample in the @xmath0 and @xmath1 fields with synthetic galactic models . </S>",
+    "<S> the catalina sky survey rrl sample was used to calibrate our method . </S>",
+    "<S> we found that a large number of faint rrl stars is missing from @xmath0 and @xmath1 fields . </S>"
+  ]
+}

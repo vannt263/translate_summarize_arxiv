@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "frbs have been a mystery to astronomers since their discovery in 2007  @xcite . since then , the number of confirmed detections has gone up to @xmath015  @xcite .",
+    "the origin of these bursts are still unknown .",
+    "the dearth of discovery of these bursts has resulted in development of instruments at different radio telescopes capable of detecting short , sporadic radio pulses .",
+    "recent efforts in time - domain radio astronomy have focused on real - time frb detection with the promise of rapid follow - up of new events . here",
+    "we present the results from the recent commissioning phase of one such instrument , alfaburst which has been developed for the arecibo radio telescope to monitor the sky for frbs in real time .",
+    "during the commissioning phase of the instrument , a number of validation tests were performed .",
+    "one of them included an on - sky test to collect data using the instrument and generate a bandpass .",
+    "the alfaburst hardware acquired the data from which the bandpass was obtained .",
+    "the bandpass was also scrutinized to identify known sources of radio frequency interference ( rfi ) .",
+    "the peaks in the bandpass matched with the known rfi sources confirming that we obtained the correct band from the instrument ( see figure  [ fig : band ] ) .",
+    "after the initial tests were successful , we carried out observations with the instrument with dedicated time on the telescope .",
+    "a few candidates ( pulsars which emit bright pulses ) were selected for the observation .",
+    "alfaburst looks for bright pulses in real - time using the artemis software pipeline  @xcite .",
+    "we observed psr  b0611 + 22 and psr  b0531 + 21 ( crab pulsar ) in each of the beams of the alfa receiver for a span of @xmath1  minutes .",
+    "[ fig:0611 ] shows the detection of bright pulses for pulsar psr b0611 + 22 in all the seven beams of alfa .",
+    "the pulses are detected at the dispersion measure ( dm ) of psr  b0611 + 22 ( @xmath2 ) .",
+    "these observations were also beneficial for testing the beam to backend mapping of the instrument to make sure that we are detecting the pulsar in the expected data stream .",
+    "we also tested the system in commensal mode to make sure that we re able to start the pipeline when alfa is enabled and stop it when it s disabled .",
+    "after successfully testing the instrument , alfaburst is online to detect frbs in real - time at arecibo .",
+    "future work includes doing more observations to verify if the whole pipeline is working smoothly over a wider bandwidth .",
+    "currently , we are able to process data in real - time over a bandwidth of 56 mhz with a dm limit of 2560  @xmath3",
+    ". eventually , we plan on operating alfaburst at the full bandwidth of 300 mhz over a maximum dm of @xmath010,000  @xmath3 ."
+  ],
+  "abstract_text": [
+    "<S> fast radio bursts ( frbs ) are apparently one - time , relatively bright radio pulses that have been observed in recent years . </S>",
+    "<S> the origin of frbs is currently unknown and many instruments are being built to detect more of these bursts to better characterize their physical properties and identify the source population . </S>",
+    "<S> alfaburst is one such instrument . </S>",
+    "<S> alfaburst takes advantage of the 7-beam arecibo l - band feed array ( alfa ) receiver on the 305-m arecibo radio telescope in puerto rico , to detect frbs in real - time at l - band ( 1.4 ghz ) . </S>",
+    "<S> we present the results of recent on - sky tests and observations undertaken during the commissioning phase of the instrument . </S>",
+    "<S> alfaburst is now available for commensal observations with other alfa projects . </S>"
+  ]
+}

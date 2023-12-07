@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "a purely hydrodynamic route to turbulence has important implications for the evolution of cold protoplanetary disks and solids within them .",
+    "one such candidate is the vertical shear instability ( vsi ) operating in disks where the orbital frequency @xmath0 depends on the height @xmath1 away from the disk midplane .",
+    "while astrophysical disks generally possess vertical shear , vsi also requires short thermal timescales .",
+    "we determine a quantitative thermodynamic requirement for the vsi , and apply our results to realistic disk conditions .",
+    "we find the vsi can operate effectively at @xmath2@xmath3au in a typical protoplanetary disk , with characteristic growth times of @xmath4 orbits .",
+    "astrophysical disks generally have vertical shear , @xmath5 .",
+    "this is a source of free energy , and may thus lead to instability ( ( * ? ? ?",
+    "* goldreich & schubert 1967 ) ; ( * ? ? ?",
+    "* urpin 2003 ) ; ( * ? ? ?",
+    "* barker & latter 2015 ) ) , provided the disturbance vertical lengthscale is much larger than its radial lengthscale .",
+    "however , if the disk is stably stratified , as is typical for irradiated protoplanetary disks , the vsi also requires rapid cooling to overcome the stabilizing influence of vertical buoyancy ( ( * ? ? ?",
+    "* nelson et al . 2013 ) ) .    more specifically ,",
+    "for a vertically isothermal disk with radial temperature dependence @xmath6 , the cooling or thermal relaxation timescale @xmath7 must be sufficiently small for the vsi to operate effectively : @xmath8 where @xmath9 is the keplerian frequency , @xmath10 is the disk aspect ratio , and @xmath11 is the adiabatic index ( ( * ? ? ? * lin & youdin 2015 ) ) . since protoplanetary disks are typically thin , @xmath12 , eq .",
+    "[ crit ] implies that @xmath13 is required for the vsi .",
+    "that is , the thermal timescale must be significantly shorter than the dynamical timescale , which reflects the fact that vertical shear is weakly destabilizing , while vertical buoyancy is strongly stabilizing .",
+    "we solve the linear stability problem for axisymmetric disturbances in a model of the solar nebula described in ( * ? ? ?",
+    "* chiang & youdin ( 2010 ) ) .",
+    "we include in the energy equation a realistic cooling function , based on dust opacity , which depends on @xmath1 as well as the disturbance lengthscale .    in fig .",
+    "[ mmsn ] we plot characteristic vsi growth times for a range of radial perturbation wavenumbers .",
+    "growth times increase rapidly at @xmath14au and @xmath15au as the cooling times violate eq .",
+    "[ crit ] in these regions .",
+    "thus , the vsi is most effective at intermediate radii .",
+    "notice also the growth times are strongly dependent on lengthscale toward the optically - thick inner disk , with smaller - scale disturbances being able to operate further inwards . in the optically - thin outer disk , cooling times are independent of scale and all scales",
+    "are stabilized beyond approximate the same radius .",
+    "is the wavenumber of the disturbance and @xmath16 is the disk scale - height .",
+    "vertical shear is ubiquitous in astrophysical disks .",
+    "such configurations are unstable if the cooling timescales are significantly shorter than the dynamical timescale ( eq . [ crit ] )",
+    ". this can be satisfied for small - scale disturbances at few 10s of au in typical protoplanetary disk models with realistic cooling .",
+    "the vsi is thus dynamically important in the outer disk , with potentially significantly implications for transport and dust evolution ."
+  ],
+  "abstract_text": [
+    "<S> we quantify the thermodynamic requirement for the vertical shear instability and evaluate its relevance to realistic protoplanetary disks as a potential route to hydrodynamic turbulence . </S>"
+  ]
+}

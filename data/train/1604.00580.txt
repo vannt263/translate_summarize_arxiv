@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "we iterate the geometric process of rectification , or maximal truncation , on a seed polyhedron to obtain metric information regarding operations of polyhedra .",
+    "we introduce the notion of rectification for polygons and polyhedra ; rectifications of convex @xmath1-polytopes for dimensions @xmath2 will be presented in future work .",
+    "this topic leads off of the classical polyhedral geometry seen in the works of h.s.m .",
+    "coxeter @xcite,@xcite , norman johnson @xcite,@xcite , and others such as cromwell @xcite , conway @xcite , and tth @xcite .",
+    "intuitively known since antiquity , define :    let @xmath3 be a convex polygon with @xmath4 vertices and @xmath4 edges .",
+    "then , @xmath5 = { \\text{conv}}\\left\\{\\frac{x_{i } + x_{i+1}}{2 } \\ ; | \\ ; ( x_{i},x_{i+1 } ) \\in e(g_{p_{n } } ) , 1 \\leq i \\leq",
+    "n , x_{n+1}=x_{1}.\\right\\},\\ ] ] where @xmath6 is the edge set of the graph @xmath7 ; the combinatorial structure of @xmath8 .    [ polygonrectifications ]    , @xmath9 , and @xmath10 . ]    [ areathm ] let @xmath8 denote a regular @xmath4-gon with @xmath11 .",
+    "then , @xmath12 and @xmath13 where @xmath14 is the interior angle of @xmath15 , @xmath16 is the @xmath17 rectification of @xmath8 and @xmath18    let @xmath8 be a regular @xmath4-gon with @xmath11 . then by @xmath19 , where @xmath20 is the side length of @xmath8 , @xmath21 by the law of cosines , @xmath22 where @xmath14 is the interior angle of @xmath8 and @xmath23 is the side length of @xmath24 .",
+    "we can then compute the area of the first rectification of @xmath8 as follows , @xmath25 now , let @xmath26 be arbitrary and let @xmath27 be the side length of @xmath16",
+    ". for induction , assume that @xmath28 by the law of cosines , @xmath29 then , @xmath30 implies that @xmath31 therefore the formula for @xmath32 holds for all @xmath33 by induction .",
+    "we now compute the area of the infinite family of polygon rectifications @xmath34 .",
+    "@xmath35 by the convergence of the geometric series since @xmath36 for all @xmath8 with @xmath37 .    while the perimeter of the infinite rectification @xmath34 follows trivially from the proof of theorem [ areathm ] , it is in general a difficult problem to determine to determine the surface area of @xmath38 when @xmath39 with @xmath40 .",
+    "[ perimcor ] let @xmath8 be a regular @xmath4-gon with @xmath11 . then",
+    "@xmath41    we have by the proof of theorem [ areathm ] that @xmath42 thus , @xmath43 by the convergence of the geometric series since @xmath44 for all @xmath8 with @xmath37 .",
+    "since @xmath45 we have by the definition of @xmath46 that @xmath41    we thus have a complete classification of regular polygons rectification sequences and their area and perimeter .",
+    "we now want to generalize this problem to classifying rectification sequences of polyhedra in @xmath47 and computing their geometric measures .",
+    "let @xmath48 be a convex polyhedron with @xmath49 edges and @xmath50 faces . then , @xmath51 = { \\text{conv}}\\left\\{\\frac{x_{i } + x_{j}}{2 } \\ ; | \\ ; ( x_{i},x_{j } ) \\in e(g_p)\\right\\},\\ ] ] where @xmath52 is the edge set of the graph @xmath53 ; the combinatorial structure of @xmath54 .",
+    "rectifications can be thought of as the maximal truncation of a polyhedron which sends a vertex to a face .",
+    "if we consider the truncation of each vertex of a polyhedron by a plane with a normal vector coinciding with the centroid ray of the polyhedron then we obtain the rectification of the polyhedron when each new edge created by the truncation touches another newly created edge .",
+    "[ rectifiedtet ]        rectifications of convex polyhedra can be easily understood combinatorially due to @xmath55 , as the rectification of a polyhedron can be thought of as a map between @xmath50-vectors @xmath56 there are two distinct infinite sequences of polytope rectifications which include the platonic solids ; the first , denoted by @xmath57 includes the tetrahedron , octahedron , and cube and has an @xmath50-vector sequence given by @xmath58 and the second , denoted by @xmath59 includes the icosahedron and dodecahedron , which have the property that they have equal rectifications , and has an @xmath50-vector sequence given by @xmath60    the polytope rectification sequences @xmath57 and @xmath59 are disjoint .    by the combinatorial characterization of rectification as an @xmath50-vector map @xmath61",
+    ", an equivalent question is whether there exists a polytope in the sequence @xmath57 which also exists in @xmath59 , which implies that the existence of a pair @xmath62 which satisfies @xmath63 but this is never satisfied for @xmath64 as @xmath65 .",
+    "[ prism1 ]        we now calculate the volume of the first rectification of a prism generated from a regular polygon in the plane .",
+    "let @xmath8 be a regular polygon of area 1 in the plane .",
+    "then , @xmath66 where @xmath20 is the side length of @xmath8 and @xmath14 is the internal angle of a regular @xmath4-gon .",
+    "a pure rectification sequence of length @xmath67 is a sequence @xmath68 \\rightarrow \\cdot\\cdot\\cdot \\rightarrow r_{k-1}[p]\\ ] ] so that every element of the sequence is semiregular",
+    ".    let @xmath68 \\rightarrow \\cdot\\cdot\\cdot \\rightarrow r_{k-1}[p]\\ ] ] be a semiregular rectification sequence .",
+    "then the f - vector and volume of @xmath69 $ ] are @xmath70),f_{1}(r_{k}[p]),f_{2}(r_{k}[p]))=(2^{k-1}f_{1}(p),2^{k}f_{1}(p),2 + 2^{k-1}f_{1}(p))\\ ] ] and @xmath71\\right ) = { \\text{vol}}(p ) - \\sum_{i=1}^{f_{0}(p)}{\\text{vol}}({\\text{conv}}\\{p\\slash v_{i}^{0 } \\cup \\{v_{i}^{0}\\}\\ } ) - \\sum_{n=1}^{k } \\sum_{j=1}^{2^{n-1}f_{1}(p ) } { \\text{vol}}({\\text{conv}}\\{r_{n}[p]\\slash v_{j}^{n } \\cup \\{v_{j}^{n}\\}\\})\\ ] ] where @xmath72 denotes the vertex figure of @xmath54 at @xmath73 truncated to half the edge length of @xmath54 and @xmath74\\slash v_{j}^{n}$ ] denotes the vertex figure of @xmath74 $ ] at the vertex @xmath75)$ ] truncated to half the edge length of @xmath74 $ ] .      let @xmath54 be a convex polyhedron so that @xmath76=\\lambda r_{1}[p^{\\circ } ] , \\exists \\lambda > 0 $ ] . if @xmath77 ) \\geq",
+    "\\sqrt{\\frac{32 \\lambda}{3}}\\ ] ] then the mahler conjecture holds for @xmath76 $ ] and @xmath76 \\times r_{1}[p]^{\\circ}$ ] ."
+  ],
+  "abstract_text": [
+    "<S> a convex polyhedron , that is , a compact subset of @xmath0 which is the intersection of finitely many closed half - spaces , can be rectified by taking the convex hull of the midpoints of the edges of the polyhedron . </S>",
+    "<S> we derive expressions for the side lengths and areas of rectifications of regular polygons in plane , and use these results to compute surface areas and volumes of various convex polyhedra . </S>",
+    "<S> we introduce rectification sequences , show that there are exactly two disjoint pure rectification sequences generated by the platonic solids , and formulate new results related to the mahler conjecture . </S>"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the monitored drift tube ( mdt ) chambers of the atlas muon spectrometer  @xcite have demonstrated that they provide very precise and robust tracking over large areas .",
+    "goals of atlas muon detector upgrades are to increase the acceptance for triggering ande precise muon momentum measurement and to improve the rate capability of the muon chambers in the high - background regions at increasing lhc luminosity .",
+    "small - diameter muon drift tube ( smdt ) chambers have been developed for these purposes .",
+    "with half the drift - tube diameter of the mdt chambers ( 15 instead of 30 mm ) and otherwise unchanged operating parameters , including a gas gain of 20000 in ar : co@xmath1 ( 93:7 ) gas mixture at 3 bar , smdt chambers share the advantages of the mdts , but have an order of magnitude higher rate capability  @xcite and can be installed in detector regions where mdt chambers do not fit in .",
+    "the construction of twelve smdt chambers to be installed in the feet of the atlas detector in the middle layer of the barrel muon spectrometer in the lhc winter shutdown 2016/17 is in progress since october 2014 .",
+    "they consist of 356 drift tubes of 1120  mm length in two quadruple layers ( multilayers ) which are separated by an aluminum spacer and support frame .",
+    "half of the chambers has already been constructed .",
+    "the purpose of this upgrade is to increase the acceptance for the three - point measurement of muon tracks which will result in an substantial improvement of the muon momentum resolution .",
+    "two similar chambers with 624 tubes of 2150 mm length have already been installed in 2014 in the middle layer of the bottom barrel sector of the spectrometer for the same purpose .",
+    "for operation at hl - lhc , replacement of the mdt chambers in the barrel inner layer by smdt chambers with integrated thin - gap rpc chambers is foreseen in order to increase the muon trigger acceptance and robustness as well as the rate capability of the precision tracking chambers . at the same time the drift distance information from the mdt and smdt chambers",
+    "will be included in the first - level muon trigger . in the lhc",
+    "shutdown 2019/20 , 16 such smdt and rpc chamber packages will already be installed at the ends of the barrel inner layer for lhc run 3 .",
+    "the chamber design and construction procedures have been optimized for mass production while providing highest mechanical accuracy in the sense wire positioning .",
+    "the smdt drift tubes are standard industrial aluminium tubes with 15  mm diameter and a wall thickness of 0.4  mm , chromatised for cleaning and reliable electrical ground contact .",
+    "first , the drift tubes are assembled using a semi - automated wiring machine in a temperature - controlled clean room .",
+    "the sense wires are fed through the tubes and the endplugs ( see fig .  [ fig::endplug ] ) without manual contact by means of air flow and fixed in copper crimp tubelets after tensioning to @xmath2  g corresponding to a gravitational sag of only @xmath3 m ( absolute tolerances ) .",
+    "the wires are positioned at each tube end with few micron precision with respect to a cylindrical external reference surface on the central brass insert of the endplug which also holds the spiral shaped wire locator on the inside of the tube .",
+    "the drift tubes are sealed with the endplugs via two o - rings each using mechanical swaging of the tube walls . for the injection",
+    "molded endplug insulators and gas connectors for the individual tubes , plastic materials with minimum outgassing have been selected which also are immune against cracking .",
+    "no aging has been observed in irradiation tests of the smdt drift tubes up to 9 c / cm charge accumulated on the wire .",
+    "the 4300 drift tubes of the twelve new chambers have been produced at a typical rate of 100 tubes per day and a failure rate of less than @xmath4 due to intermittent failures of the wire tensioning and crimping tools detected by visual inspection during drift tube assembly .",
+    "the critical performance parameters , wire tension , gas leak rate ( @xmath5  bar  l / s ) and leakage current ( @xmath6  na / m ) at nominal operating voltage ( 2730  v ) are measured for every tube before assembly in a chamber .",
+    "the overall failure rate of these tests was only @xmath7 .",
+    "the drift tubes are assembled into chambers in a climatised clean room by inserting the endplug reference surfaces into a grid of fitting bores in the assembly jigs at each chamber end which define the wire positions with an accuracy of better than 5 micron and glueing them together and to the spacer and support frame using an automated glue dispenser .",
+    "a complete chamber can be assembled within one working day .",
+    "the precise mounting of the platforms for the optical alignment sensors with respect to the wires requires an additional day . before the installation of the parallel gas distribution system ( which fulfills the stringent leak rate requirement of less than 0.2 mbar / h ) and of the specially designed electronics boards with 6 x 4 readout channels matching the transverse cross section of the tube multilayers , the positions of the individual sense wires are measured at the two chamber ends via the endplug reference surfaces with an automated coordinate measuring machine with a precision of about 2  @xmath0 m ( rms ) . at the same time , the relative angle between the wire grids at the two chamber ends ( chamber torsion ) and the positions and orientations of the optical alignment sensor mounting platforms are measured .",
+    "sense wire positioning accuracies of better than 10  @xmath0 m ( rms ) are routinely achieved , surpassing the requirement for the atlas mdt chambers of 20  @xmath0 m ( rms ) and allowing for a spatial resolution of a chamber with 2 x 4 tube layers of better than 35  @xmath0 m . in the best cases , the ultimate wire positioning accuracy of 5  @xmath0 m ( rms ) as given by the precision of the assembly jigs",
+    "has been reached ( see fig .  [ fig::residuals ] ) .",
+    "after the measurement , the wire positions are known with 2  @xmath0 m accuracy ."
+  ],
+  "abstract_text": [
+    "<S> atlas muon detector upgrades aim for increased acceptance for muon triggering and precision tracking and for improved rate capability of the muon chambers in the high - background regions of the detector with increasing lhc luminosity . </S>",
+    "<S> the small - diameter muon drift tube ( smdt ) chambers have been developed for these purposes . with </S>",
+    "<S> half of the drift - tube diameter of the mdt chambers and otherwise unchanged operating parameters , smdt chambers share the advantages of the mdts , but have an order of magnitude higher rate capability and can be installed in detector regions where mdt chambers do not fit in . </S>",
+    "<S> the chamber assembly methods have been optimized for mass production , minimizing construction time and personnel . </S>",
+    "<S> sense wire positioning accuracies of 5  @xmath0 m have been achieved in serial production for large - size chambers comprising several hundred drift tubes . </S>",
+    "<S> the construction of new smdt chambers for installation in the 2016/17 winter shutdown of the lhc and the design of smdt chambers in combination with new rpc trigger chambers for replacement of the inner layer of the barrel muon spectrometer are in progress . </S>"
+  ]
+}

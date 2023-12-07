@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "10              gnter g , anappara a a , hees j , sell a , biasiol g , sorba l , de liberato s , ciuti c , tredicucci a , leitenstorfer a and huber r 2009 sub - cycle switch - on of ultrastrong light - matter interaction _ nature _ * 458 * 178      niemczyk t , deppe f , huebl h , menzel e p , hocke f , schwarz m j , garca - ripoll j j , d. zueco , hmmer t , solano e , marx a and gross r 2010 circuit quantum electrodynamics in the ultrastrong - coupling regime _ nature physics _ * 6 * 772    forn - daz p , lisenfeld j , marcos d , garca - ripoll j j , solano e , harmans c j p m and mooij j e 2010 observation of the bloch - siegert shift in a qubit - oscillator system in the ultrastrong coupling regime _ phys",
+    "lett . _ * 105 * 237001"
+  ],
+  "abstract_text": [
+    "<S> this is an introduction to the special issue collection of articles on _ semi - classical and quantum rabi models _ to be published in j.  phys .  </S>",
+    "<S> a to mark the 80th anniversary of the rabi model .    in the springtime of quantum mechanics , in 1936 , i.i . </S>",
+    "<S> rabi investigated the semi - classical version of a model which now bears his name  @xcite . </S>",
+    "<S> the rabi model describes the simplest interaction between a two - level atom and a classical light field . </S>",
+    "<S> the fully quantized version was considered by e.t . </S>",
+    "<S> jaynes and f.w . </S>",
+    "<S> cummings in 1963 for the case where the rotating - wave approximation can be applied  @xcite .    </S>",
+    "<S> the quantum rabi model has hamiltonian    @xmath0    here @xmath1 and @xmath2 are pauli matrices with @xmath3 and @xmath4 the creation and destruction operators for the single bosonic mode . </S>",
+    "<S> the light - matter interaction is controlled by the coupling parameter @xmath5 , with @xmath6 the mode frequency and @xmath7 the qubit frequency . </S>",
+    "<S> distinct dynamics for different regimes are defined by the relation among these three parameters ( see figure 1 ) .    </S>",
+    "<S> the restricted model , known as the jaynes - cummings model , has always shadowed the more general aspects of the quantum rabi model . </S>",
+    "<S> this is because the conditions for applying the rotating - wave approximation to the quantum rabi model , which leads to the jaynes - cummings model , are directly relevant to most experimental regimes , where @xmath8 is small .    </S>",
+    "<S> moreover , the jaynes - cummings model is easy to solve , allowing the physical properties of the model to be readily obtained and compared with a large number of experiments . </S>",
+    "<S> the basic physics explored in the jaynes - cummings model alone has many remarkable facets , including rabi oscillations , collapses and revivals of quantum state populations , quadrature squeezing , entanglement , schrdinger cat states and photon anti - bunching  @xcite .    ) . </S>",
+    "<S> regions 4 and 5 define the ultrastrong and deep strong coupling regimes , respectively , in which the jaynes - cummings model is not applicable . </S>",
+    "<S> reproduced with permission from @xcite . ]    however , the situation has recently changed with the quantum rabi model stepping into the spotlight . </S>",
+    "<S> there are three basic reasons : ( i ) experiments have now been able to push into the ultrastrong ( @xmath9 )  @xcite and deep strong ( @xmath10 ) @xcite coupling regimes in which the rotating - wave approximation and thus the jaynes - cummings model are not applicable ; ( ii ) there are exciting prospects for novel regimes of light - matter interactions  @xcite and potential applications in quantum information technologies  @xcite ; ( iii ) an analytic solution was obtained for the full quantum rabi model @xcite , followed by further progress on solving various extensions of it . </S>",
+    "<S> it is noteworthy to mention that the conceptual and experimental advances call for deeper mathematical analysis , with no restrictions on the possible values of any model parameter .    </S>",
+    "<S> circuit quantum electrodynamics , two - dimensional electron gases , and trapped ions , supported by the concepts of quantum metamaterials and quantum simulations @xcite , have emerged as platforms for faithful representations of abstract models , quite analogous to the possibilities established by the advent of cold atom physics . </S>",
+    "<S> the impact on practical applications is even greater , because the two - level system appearing in the semi - classical and quantum rabi models is a qubit , the building block of quantum information technologies with the ultimate goal to realize quantum simulations and quantum computations . </S>",
+    "<S> these rabi models thus form the connecting link in this interplay of mathematics , physics , and technology . </S>",
+    "<S> the novel applications of certain branches of classical mathematics to quantum physics may even inspire efforts to attack hitherto unsolved problems within pure mathematics itself @xcite , whereas other relevant developments , e.g. , the theory of quasi - exact eigenstates @xcite , may have direct implications for quantum information theory .        this special collection of articles is dedicated to the semi - classical and quantum rabi models , with all their variants and possible extensions , including nontrivial multi - qubit and multi - photon scenarios . </S>",
+    "<S> in addition to marking the 80th anniversary of the ( semi - classical ) rabi model , we anticipate that this collection of articles will inspire further developments in this important area of cross - disciplinary research . </S>"
+  ]
+}

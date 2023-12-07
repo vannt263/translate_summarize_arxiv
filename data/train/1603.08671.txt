@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the _ kepler  k2 _ mission observed 79 fundamental and 1 first overtone rr  lyrae variables in field 3 for 69.2 days .",
+    "our goals are to investigate the blazhko periods and examine the properties and occurrences of the various additional modes .",
+    "the large number of stars in this sample gives us the opportunity to describe the abundance of each pulsation mode .",
+    "to do this we need to investigate the reliability of the field 3 data sets , especially the light curves of faint stars and stars close to the edge of the field of view .",
+    "we summarize the first results in this paper .    at the release of _",
+    "k2 _ field 3 data ,",
+    "nasa published two kinds of automatically generated light curves for long cadence targets .",
+    "the first type was created with single aperture photometry .",
+    "the second type used the same aperture , but the light curves underwent an optimizing and noise reducing method ( pdcsap ) . in the first part of the investigation we used these latter data .    within field 3",
+    "there are many pdcsap light curves which frequently contain large and sudden jumps .",
+    "the most determinative parameter is the distance of the star from the center of the field of view .",
+    "the movement of the star s photocenter position is only 0.2 - 0.3 pixel near the center , but this could be more than 2 pixels at the edge . therefore in many cases the simple pixel photometry was impractical , because the psf can move out from the mask or another star could contaminate it ( especially in dense fields ) .",
+    "this was the reason why we did our own photometry on the stars in many cases , occasionally using more than one aperture . because of the large number of stars in this sample we hoped for finding some peculiar targets as well . here",
+    "we present one such case .",
+    "the fourier spectrum of the pdcsap light curve shows one peak slightly above @xmath0 .",
+    "the original light curve does not show blazhko modulation .",
+    "we created our own tailor - made pixel photometry for the star with pyke , which suggests that this star is in fact a blazhko star with a low - amplitude and long - period modulation .",
+    "the frequency spectrum of the light curve confirms the peak at @xmath0 and clearly shows peaks on @xmath1 and @xmath2 , the signs of period doubling .",
+    "the most important discovery is the low - amplitude first overtone signal ( @xmath3 ; @xmath4  day , @xmath5  day ) and its linear combinations with the fundamental mode .",
+    "the frequency spectrum of epic 206280713 closely resembles that of rr lyr itself , and provides another opportunity for comparison with triple - mode non - linear hydrodynamic model calculations @xcite .",
+    "these periods put the star in the same region in the petersen diagram where the modulated double - mode stars are also located @xcite .    ,",
+    "@xmath0 , @xmath2 .",
+    "blue arrows : the linear combinations of @xmath6 and @xmath7.,scaledwidth=100.0% ]",
+    "this work has used _ k2 _ data selected and proposed by the rr lyrae and cepheid working group of the kepler asteroseismic science consortium ( proposal go3040 ) .",
+    "this project has been supported by the lendlet-2009 and lp2014 - 17 programs of the hungarian academy of sciences , and by the nkfih k-115709 and pd-116175 grants of the hungarian national research , development and innovation office .",
+    "jurcsik , j. , smitola , p. , hajdu , g. , et al .",
+    "2015 , apjs , 219:25 molnr , l. , kollth , z. , szab , r. , et al .",
+    "2012 , apj , 757:l13 smolec , r. , soszyski , i. , udalski , a. , et al .",
+    "2015 , mnras , 447 , 3756 still , m. , barclay , t. 2012 , astrophysics source code library , ascl:1208.004"
+  ],
+  "abstract_text": [
+    "<S> we have started a comprehensive analysis of the _ kepler _ _ k2 _ field 3 data set . </S>",
+    "<S> our goals are to assess the statistics of the sample , and to search for peculiar stars . </S>",
+    "<S> we found a candidate triple - mode rrab star , where the first and ninth overtones also seem to be excited . </S>"
+  ]
+}

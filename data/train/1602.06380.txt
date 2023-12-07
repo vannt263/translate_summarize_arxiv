@@ -1,0 +1,20 @@
+{
+  "article_text": [
+    "we thank nathann cohen for his help ."
+  ],
+  "abstract_text": [
+    "<S> @xmath0-diregular circulant digraph on @xmath1 vertices is a counterexample of jackson s conjecture about hamiltonicity of diregular digraphs    every @xmath2-diregular oriented graph on at most @xmath3 vertices where @xmath4 contains a directed hamiltonian circuit .    </S>",
+    "<S> jackson s bound is best possible because of the disjoint union of two @xmath2-diregular tournaments on @xmath5 vertices .    </S>",
+    "<S> counterexample    computer search for non - hamiltonian circulant digraphs found the following counterexample .    </S>",
+    "<S> let @xmath6 be the circulant digraph on @xmath1 veritces @xmath7 and edges @xmath8 is adjacent to @xmath9 .    by construction and inspection </S>",
+    "<S> it is @xmath0-diregular and oriented .    </S>",
+    "<S> non - hamiltonicity was noted by results of the cas sage @xcite and since the digraph is small exhaustive search with @xcite confirmed it is non - hamiltonian .    from discussion </S>",
+    "<S> we learned @xmath6 appears in @xcite as @xmath10 on p. 2 . </S>",
+    "<S> non - hamiltonicity is proved in @xcite p. 6 </S>",
+    "<S> theorem 4.6 . </S>",
+    "<S> the second non - hamiltonian circulant digraph on @xmath1 vertices in @xcite is not oriented .    </S>",
+    "<S> @xmath6 is on @xmath1 vertices , less than the bound @xmath11 so satisfies the hypotheses for jackson s conjecture , and not the conclusion . </S>",
+    "<S> @xmath6 is counterexample to a weaker conjecture with @xmath12 replaced by @xmath13 .    </S>",
+    "<S> computer search for circulant counterexamples did nt find others on less than @xmath14 vertices .    by coincidence @xmath10 is a counterexample to adam s conjecture as shown in @xcite .    ] </S>"
+  ]
+}
