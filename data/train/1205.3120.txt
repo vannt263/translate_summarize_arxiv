@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "the simulations presented in this paper were performed at the intrepid supercomputer ( anl ) and at the jgene supercomputer ( jlich , germany ) ."
+  ],
+  "abstract_text": [
+    "<S> three - dimensional ( 3d ) particle - in - cell ( pic ) simulations are used to investigate the interaction of ultrahigh intensity lasers ( @xmath0 w/@xmath1 ) with matter at overcritical densities . </S>",
+    "<S> intense laser pulses are shown to penetrate up to relativistic critical density levels and to be strongly self - focused during this process . </S>",
+    "<S> the heat flux of the accelerated electrons is observed to have an annular structure when the laser is tightly focused , showing that a large fraction of fast electrons is accelerated at an angle . </S>",
+    "<S> these results shed light into the multi - dimensional effects present in laser - plasma interactions of relevance to fast ignition of fusion targets and laser - driven ion acceleration in plasmas .    </S>",
+    "<S> intense lasers , fast ignition , plasma - based accelerators , three - dimensional particle - in - cell simulations .    </S>",
+    "<S> interaction of ultraintense laser pulses with matter has opened the way to the exploration of highly nonlinear physical regimes of interest for many applications such as fast ignition of fusion targets @xcite or compact plasma based accelerators @xcite . in many of these scenarios , </S>",
+    "<S> the laser frequency is lower than the plasma frequency of the ionized target ( overcritical target ) and therefore the laser can not penetrate deep into the plasma , being reflected and/or absorbed .    </S>",
+    "<S> the detailed study of laser absorption is crucial in order to understand the generation of fast electrons in these regimes . </S>",
+    "<S> however , overcritical targets are difficult to probe experimentally and therefore many experimental results rely on particle - in - cell ( pic ) simulations in order to better understand laser absorption and fast electron acceleration . </S>",
+    "<S> most of the simulation studies are limited to one - dimensional ( 1d ) @xcite and two - dimensional ( 2d ) @xcite simulations , due to the need to resolve the fine temporal and spacial scales of plasmas at very high densities .    in this paper </S>",
+    "<S> we present 3d osiris @xcite simulations of the interaction of ultraintense laser pulses with overcritical targets in order to study some of the multi - dimensional features of particle acceleration / laser absorption in these regimes . </S>",
+    "<S> we use a laser pulse with an intensity of @xmath2 w/@xmath1 ( normalized vector potential @xmath3 ) , central wavelength @xmath4 m , focused to a spot size of 5 @xmath5 m at the target front . </S>",
+    "<S> the pulse has a gaussian transverse profile and a flat - top temporal profile with 60 fs gaussian rise time . </S>",
+    "<S> the target consists of a deuterium plasma with a density gradient going from the critical density , @xmath6 , to 50 @xmath6 , scale length @xmath7 m , followed by a 30 @xmath5 m region at @xmath8 . </S>",
+    "<S> the simulation box has a size of @xmath9 @xmath5m@xmath10 , which is resolved with @xmath11 cells , and is run up to 500 fs . </S>",
+    "<S> each cell has 8 electrons and 8 ions for a total of @xmath12 15 billion particles .    </S>",
+    "<S> fig . </S>",
+    "<S> [ fig : fig_3d ] illustrates the interaction of the laser pulse with the overcritical target after 400 fs of propagation as well as the main features of the fast electron population that is generated during the interaction . </S>",
+    "<S> the laser pulse is observed to penetrate the target up to @xmath13 due to relativistic effects and to be continuously self - focused during this process down to a spot size of @xmath14 m . </S>",
+    "<S> this penetration density is consistent with the relativistic critical density , @xmath15 , which is @xmath16 for the initial pulse intensity . </S>",
+    "<S> the plasma electron density is highly distorted during the interaction . </S>",
+    "<S> close to the critical layer , the density is highly modulated at the laser wavelength , and at higher densities it is expelled forming a channel . the electron heat flux in the forward direction is shown to exhibit an annular structure , indicating that , due to the tight focus of the laser , most of fast electrons are accelerated at an angle , which is consistent with experimental observations of annular patterns at the back of a solid target after being hit by an ultraintense laser pulse @xcite . </S>",
+    "<S> the plasma electron kinetic energy is maximum at the tip of the laser pulse where considerable electron acceleration occurs .    in conclusion , we have presented 3d simulations of the interaction of ultrahigh intensity laser pulses with overcritical targets . </S>",
+    "<S> our results illustrate the importance of a detailed multi - dimensional analysis in order to understand laser absorption and the dynamics of fast electrons , which can be relevant in several scenarios , such as fast ignition of fusion targets and ion acceleration in laser - solid interactions . </S>"
+  ]
+}

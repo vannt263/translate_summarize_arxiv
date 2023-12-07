@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "for a convex polygon in the plane , its _ diameter _ is the maximum distance between two of its vertices ; its _ width _ is the minimal distance between a pair of parallel lines that enclose it .",
+    "a number of natural problems for polygons arise by fixing the number of sides @xmath0 , and fixing one of the four quantities diameter , width , perimeter , or area , and then maximizing or minimizing another one of these attributes .",
+    "six different nontrivial optimization problems for polygons arise in this way , including for example the well - known isoperimetric problem , where the perimeter of a convex @xmath0-gon is fixed , and one wishes to maximize the area . in that case , the regular @xmath0-gon is the unique optimal solution for all @xmath0 , but this is not the case in the other five nontrivial extremal problems in this family .      1 .   [ proba ] the isodiametric problem for the perimeter ( maximize the perimeter , for a fixed diameter ) .",
+    "[ probb ] the isodiametric problem for the width ( maximize the width , for a fixed diameter ) .",
+    "3 .   [ probc ] the isoperimetric problem for the width ( maximize the width , for a fixed perimeter ) .    problem  [ proba ] was first studied by reinhardt in 1922 @xcite , and later by others @xcite .",
+    "problem  [ probb ] was investigated by bezdek and fodor @xcite in 2000 , and problem  [ probc ] was considered by audet , hansen , and messine @xcite in 2009 .    before describing the family of polygons that is optimal in these three problems",
+    "when @xmath6 , we recall that a _ reuleaux polygon _ is a closed , convex region in the plane whose boundary consists of a finite number of circular arcs , each with the same curvature , with the property that every pair of parallel lines that sandwiches the region is the same distance apart ( that is , reuleaux polygons have _ constant width _ ) .",
+    "we say a point on the boundary of a reuleaux polygon @xmath7 is a _ vertex _ of @xmath7 if it lies at the intersection of two adjacent circular arcs on its boundary .",
+    "we briefly recall a number of facts concerning reuleaux polygons ( see @xcite for more details ) .",
+    "first , every reuleaux polygon @xmath7 has an odd number of vertices , and each vertex of @xmath7 is equidistant from all of the points on one of the circular arcs that form the boundary of @xmath7 .",
+    "second , connecting all pairs of vertices at maximal distance from one another in a reuleaux polygon forms a _",
+    "star polygon_a closed path in the plane consisting of an odd number of line segments , each of which intersects all of the others .",
+    "the sum of the measures of the angles at the vertices of a star polygon is @xmath8 , and each line segment comprising the star polygon associated with a reuleaux polygon has the same length , equal to the diameter of the reuleaux polygon .",
+    "third , we can recover the reuleaux polygon @xmath7 from its associated star polygon @xmath9 by visiting each vertex @xmath10 of @xmath9 and drawing a circular arc between the two vertices adjacent to @xmath10 in @xmath9 , with radius equal to the length of each line segment in @xmath9 .",
+    "last , an ordinary polygon can always be inscribed in a reuleaux polygon with the same diameter .    a polygon with @xmath6 sides that is optimal in the three problems described above",
+    "is called a _ reinhardt polygon _ , which we define as as an equilateral convex polygon @xmath11 that can be inscribed in a reuleaux polygon @xmath7 having the same diameter as @xmath11 in such a way that every vertex of @xmath7 is a vertex of @xmath11 @xcite .",
+    "if @xmath0 is odd , then the regular @xmath0-gon is a reinhardt polygon , but this is not the case when @xmath0 is even .",
+    "in addition , for almost all @xmath12 there is more than one reinhardt polygon with @xmath0 sides  this is the case for all @xmath0 except those of the form @xmath2 , @xmath13 , or @xmath14 , where @xmath2 is prime @xcite .",
+    "for example , figure  [ figall21 ] exhibits the ten different reinhardt polygons having @xmath15 sides .",
+    "these polygons are all distinct , in that one can not be obtained from another by some combination of rotations and flips .                    d.  g. larman and n.  k. tamvakis , _ the decomposition of the @xmath0-sphere and the boundaries of plane convex domains _ , convexity and graph theory ( jerusalem , 1981 ) , north - holland math .",
+    "87 , north - holland , amsterdam , 1984 , pp ."
+  ],
+  "abstract_text": [
+    "<S> let @xmath0 be a positive integer , not a power of two . </S>",
+    "<S> a _ </S>",
+    "<S> reinhardt polygon _ is a convex @xmath0-gon that is optimal in three different geometric optimization problems : it has maximal perimeter relative to its diameter , maximal width relative to its diameter , and maximal width relative to its perimeter . for almost all @xmath0 , there are many reinhardt polygons with @xmath0 sides , and many of them exhibit a particular periodic structure . </S>",
+    "<S> while these periodic polygons are well understood , for certain values of @xmath0 , additional reinhardt polygons exist that do not possess this structured form . </S>",
+    "<S> we call these polygons _ </S>",
+    "<S> sporadic_. we completely characterize the integers @xmath0 for which sporadic reinhardt polygons exist , showing that these polygons occur precisely when @xmath1 with @xmath2 and @xmath3 distinct odd primes and @xmath4 . </S>",
+    "<S> we also prove that a positive proportion of the reinhardt polygons with @xmath0 sides are sporadic for almost all integers @xmath0 , and we investigate the precise number of sporadic reinhardt polygons that are produced for several values of @xmath0 by a construction that we introduce . </S>"
+  ]
+}

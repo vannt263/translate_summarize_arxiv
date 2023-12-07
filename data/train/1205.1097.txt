@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "o uso da transformada de laplace na equao de schrdinger remonta ao prprio erwin schrdinger @xcite ao lidar com o tomo de hidrognio ( veja tambm @xcite ) .",
+    "mais recentemente , os estados ligados em um potencial de morse tambm foram obtidos por meio da tcnica da transformada de laplace @xcite .",
+    "a ideia subjacente ao mtodo da transformada de laplace para resolver uma equao diferencial  a converso em uma equao transformada que possa ser resolvida com maior simplicidade .",
+    "em seguida deve - se executar a inverso da transformada de laplace para obter a funo original do problema .",
+    "eis uma tarefa que pode ser rdua e at mesmo infactvel .",
+    "a equao de schrdinger com um potencial constitudo de uma soma de duas funes delta de dirac , doravante denominado potencial delta duplo , tem sido usada para modelar as foras de troca entre os dois ncleos no on de hidrognio molecular @xcite tanto quanto na descrio da transferncia de um nucleon de valncia durante uma coliso nuclear @xcite . a bem da verdade , os estados estacionrios de uma partcula em um potencial delta duplo  ocupa as pginas de muitos livros - texto @xcite-@xcite .",
+    "os possveis estados ligados so encontrados pela localizao dos polos complexos da amplitude de espalhamento ou por meio de uma soluo direta da equao de schrdinger baseada na descontinuidade da derivada primeira da autofuno , mais a continuidade da autofuno e seu bom comportamento assinttico .",
+    "neste trabalho apresenta - se uma abordagem alternativa para busca de estados ligados do potencial delta duplo baseada na transformada de laplace .",
+    "com este procedimento a equao de schrdinger independente do tempo transmuta - se numa equao algbrica de primeira ordem para a transformada de laplace da autofuno .",
+    "o processo da inverso da transformada de laplace inversa  amigvel e a soluo do problema de estados ligados no requer qualquer conhecimento sobre a descontinuidade da derivada primeira da autofuno .",
+    "a abordagem do potencial delta duplo via transformada de laplace , alm de estender a aplicabilidade do mtodo de laplace  mecnica quntica , fornece uma nova ponte entre o material que os estudantes tipicamente aprendem em um curso de fsica matemtica e um problema fsico interessante .",
+    "a transformada de laplace    @xmath0    de uma funo de ordem exponencial , i.e. @xmath1com @xmath2 e @xmath3 , converge se @xmath4  @xcite . a transformada de laplace  uma operao linear e o mesmo se d com a transformada inversa . a propriedade de deslocamento@xmath5@xmath6onde@xmath7 a funo degrau de heaviside , segue diretamente da definio da transformada de laplace .",
+    "tambm segue de ( [ l1 ] )  que @xmath8@xmath9    usando as definies@xmath10a equao de schrdinger independente do tempo para uma partcula de massa @xmath11 sujeita a um potencial delta duplo simtrico@xmath12   \\label{pot}\\]]pode ser escrita na forma@xmath13 \\phi \\left ( x\\right ) + k^{2}\\phi \\left ( x\\right ) = 0 ,   \\label{eq2}\\]]onde a plica ( @xmath14 ) denota a derivada em relao a @xmath15 , @xmath16  uma constante real e @xmath17 . multiplicando esta equao por @xmath18 e integrando em relao a @xmath15 de @xmath19 a @xmath20:@xmath21@xmath22 ,   \\label{par}\\]]onde@xmath23e @xmath24  a transformada de laplace de @xmath25 .",
+    "haja vista que @xmath25 e @xmath26 so limitadas no infinito , temos a garantia da existncia de @xmath27 tanto quanto a anulabilidade da ltima parcela de ( [ par ] ) .",
+    "resulta da que temos uma equao algbrica para @xmath28 cuja soluo @xmath29a reconstruo da autofuno @xmath25 para @xmath30 , realizada pela inverso da transformada de laplace , pode ser obtida prontamente usando ( [ l4])-([l3]):@xmath31 .\\end{aligned}\\]]obviamente @xmath25 no  quadraticamente integrvel se @xmath32 .",
+    "entanto , com uso das identidades@xmath33pode - se verificar que se @xmath34 com @xmath35 ( @xmath36 ) e @xmath37assevera - se que @xmath38 .",
+    "deste modo podemos escrever a autofuno para estados ligados , definida no semieixo positivo @xmath39 , na forma@xmath40 .",
+    "\\label{funco}\\end{aligned}\\]]no obstante a singularidade do potencial em @xmath41 , a autofuno  uma funo contnua .",
+    "se no fosse assim a equao de schrdinger envolveria derivadas da funo delta de dirac .",
+    "a continuidade de @xmath25 em @xmath41 implica que @xmath42esta ltima relao combinada com ( [ qua1 ] ) resulta em@xmath43@xmath44    haja vista  que o potencial  par sob a troca de @xmath15 por @xmath45 ( a funo delta de dirac  invariante sob inverso espacial ) , a extenso da autofuno ( [ funco ] ) para todo o eixo @xmath39 pode ser expressa como uma funo de paridade definida pela imposio de condies de contorno apropriadas sobre @xmath46 e @xmath26 na origem .",
+    "por causa da continuidade da autofuno e sua derivada em @xmath47 ( para @xmath48 , estas condies podem ser cominadas de duas formas distintas : a funo par obedece  condio de neumann homognea @xmath49 , enquanto a funo mpar obedece  condio de dirichlet homognea @xmath50 .",
+    "deste modo a equao ( [ phipil ] ) torna - se uma equao para a varivel @xmath51 .",
+    "portanto , para @xmath52 temos@xmath53com a condio de quantizao@xmath54por outro lado , para @xmath55 temos@xmath56onde @xmath57 ( @xmath58 )  a funo sinal , e a condio de quantizao manifesta - se agora na forma@xmath59j que a funo @xmath60  limitada entre os valores @xmath19 e @xmath61 ao passo que @xmath62 no se inclui dentro destes limites quando @xmath63 , podemos inferir que no h possibilidade de soluo para estados ligados se @xmath63 ( potencial repulsivo ) .",
+    "para um potencial atrativo ( @xmath64 ) , a natureza do espectro resultante das solues das equaes transcendentais ( [ quap ] ) e ( [ quai ] ) podem ser visualizadas na figura [ fig1 ] , onde constam esboos dos membros direito e esquerdo de ( [ quap ] ) e ( [ quai ] ) . as abscissas das intersees de @xmath60 e @xmath62 fornecem as solues desejadas .",
+    "da@xmath65pode - se depreender da figura [ fig1 ] que sempre h uma e somente uma soluo para o caso de uma autofuno simtrica mas a existncia de uma soluo para o caso de uma autofuno antissimtrica sucede to somente quando @xmath66 .",
+    "isto se d porque @xmath67 oscula @xmath60 em @xmath68 .",
+    "seja l como for , o estado fundamental corresponde a uma autofuno par .",
+    "os leitores podem verificar que a metodologia aqui apresentada pode ser estendida com facilidade para um potencial constitudo de uma soma de um nmero arbitrrio de funes delta de dirac dispostas simetricamente em relao  origem .",
+    "contudo , o caso de um potencial delta de dirac localizado na origem requer uma modificao na definio da transformada de laplace que inclua a origem no domnio de integrao .",
+    "de fato,@xmath69tem sido usada por alguns autores @xcite-@xcite para incorporar as condies sobre @xmath70 em @xmath71 .",
+    "entretanto , o uso de @xmath72 no caso de um potencial delta de dirac localizado na origem demanda o conhecimento da descontinuidade da derivada primeira da autofuno ."
+  ],
+  "abstract_text": [
+    "<S> o problema de estados ligados em um potencial delta duplo  revisto com o uso do mtodo da transformada de laplace . </S>",
+    "<S> bem diferentemente de mtodos diretos , nenhum conhecimento acerca da descontinuidade de salto da derivada primeira da autofuno  requerida para se determinar a soluo.*palavras - chave : * duplo delta , estado ligado , transformada de laplace .    the problem of bound states in a double delta potential is revisited by means of laplace transform method . </S>",
+    "<S> quite differently from direct methods , no knowledge about the jump discontinuity of the first derivative of the eigenfunction is required to determine the solution .    </S>",
+    "<S> keywords :  double delta , bound state , laplace transform . </S>"
+  ]
+}

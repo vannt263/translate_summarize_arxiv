@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "within the penn state - toru planet search ( ptps , ( * ? ? ?",
+    "* niedzielski & wolszczan 2008 ) ) , which is a radial velocity project to search for and characterize planets around stars more massive than the sun , the stellar integral properties ( @xmath0 , @xmath1 and @xmath2 ) are currently determined from a combination of atmospheric parameters ( surface gravity , @xmath3 and [ fe / h ] ) together with the evolutionary tracks ( ( * ? ? ?",
+    "* girardi  2000 ) ) .",
+    "unfortunately this method is uncertain due to difficulties in accurate placement of individual stars on the h - r diagram .",
+    "[ fig1 ] presents the comparison between the determinations of stellar radii from our spectroscopic analysis ( ( * ? ? ?",
+    "* zieliski  2011 ) ) and the empirical calibration by ( * ? ? ?",
+    "* alonso  ( 2000 ) ) .",
+    "both results are in general agreement , nevertheless , large discrepancies for individual objects are visible .",
+    "the uncertainties of our radii determinations based on stellar @xmath3 and @xmath2 was found to be 0.8  @xmath4 on average but due to missing parallaxes the results are strongly dependent on adopted stellar evolutionary models as well as on photometric data quality .",
+    "we plan to improve this by using the chara array ( ( * ? ?",
+    "* ten  brummelaar  2005 ) ) for direct measurements of stellar radii and , in turn , using the relation @xmath5 , constrain better the stellar mass . on the other hand , the luminosity can be calculated with high accuracy when using the stefan - boltzmann law directly .",
+    "two stars from ptps survey were already observed with the chara array : hd  17092 ( ( * ? ? ?",
+    "* baines  2009 ) ) and hd  214868 ( ( * ? ? ?",
+    "* baines  2010 ) ) .",
+    "the results obtained from direct measurements agree well with the spectroscopic values estimated by us ( see ( * ? ? ?",
+    "* niedzielski  2007 ) , ( * ? ? ?",
+    "* zieliski  2011 ) ) .",
+    "however , the accuracy of interferometry - based measurements is significantly better .",
+    "our observing list was derived from the ptps survey of evolved stars with rv planet candidates and comprises 212 stars suitable for chara observations .",
+    "these stars have already been observed spectroscopically using the hobby - eberly telescope ( ( * ? ? ?",
+    "* ramsey  1998 ) ) , so high - resolution spectra are available .",
+    "the targets are sufficiently bright ( v @xmath6  mag and k @xmath7  mag ) and nearby ( @xmath8  mas ) giants with large radii that can be easily directly measured interferometrically .",
+    "using new chara measurements we will be able to obtain high - precision radii measurements and in turn better estimates of the stellar masses . with the angular diameter of a precision of 2 % , the stellar radius can be determined with a precision better than 5 % .",
+    "the largest contributor to the error budget is the parallax , therefore , after taking into account 10 % parallax uncertainty , the final mass will then be precise within 0.1  @xmath9 .",
+    "this is significantly better compared to our current estimates based on moderate quality photometry and evolutionary models . for ptps targets studied in detail , we estimated masses between 1 and 3  @xmath9 and even after critical assessment an uncertainty of 30",
+    "% remains .",
+    "hence , the chara data will improve the precision in mass sufficiently for the subsequent analysis .",
+    "the research leading to these results has received funding from the european community s seventh framework programme under grant agreement 226604 .",
+    "pz and an acknowledge the financial support from the polish ministry of science and higher education through grant n n203 510938 . mv is supported by vega 2/0094/11 .",
+    "aw acknowledges support from nasa grant nnx09ab36 g .",
+    "the center for exoplanets and habitable worlds is supported by the pennsylvania state university , the eberly college of science , and the pennsylvania space grant consortium ."
+  ],
+  "abstract_text": [
+    "<S> we propose to measure the radii of the penn state - toru planet search ( ptps ) exoplanet host star candidates using the chara array . </S>",
+    "<S> stellar radii estimated from spectroscopic analysis are usually inaccurate due to indirect nature of the method and strong evolutionary model dependency . </S>",
+    "<S> also the so - called degeneracy of stellar evolutionary tracks due to convergence of many tracks in the giant branch decreases the precision of such estimates . however , the radius of a star is a critical parameter for the calculation of stellar luminosity and mass , which are often not well known especially for giants . with </S>",
+    "<S> well determined effective temperature ( from spectroscopy ) and radius the luminosity may be calculated precisely . in turn also stellar mass </S>",
+    "<S> may be estimated much more precisely . </S>",
+    "<S> therefore , direct radii measurements increase precision in the determination of planetary candidates masses and the surface temperatures of the planets . </S>"
+  ]
+}

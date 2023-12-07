@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "for @xmath0 , let @xmath1 denote the character @xmath2 for any function @xmath3 , we can then define its fourier transform @xmath4 as @xmath5 for characters of hamming weight @xmath6 , we will abuse notation by writing @xmath7 instead of @xmath8 .",
+    "chang s lemma  @xcite places an upper bound on the total fourier weight , i.e. , the sum of @xmath9 , of the characteristic function of a small set on the characters with hamming weight one .",
+    "[ lem : chang ] let @xmath10 such that @xmath11 , and let @xmath12 be its characteristic function",
+    ". then @xmath13    suppose that we sample @xmath14 according to the uniform distribution on @xmath15 .",
+    "since the mutual information is nonnegative , the entropy @xmath16 is at most the sum of the entropies of the individual bits , @xmath17 this gives @xmath18 where @xmath19 denotes the probability that @xmath20 , @xmath21 and where @xmath22 denotes the entropy function @xmath23 the taylor series around @xmath24 gives @xmath25 so   becomes @xmath26 rearranging completes the proof .",
+    "the lemma ( and our proof ) apply equally well to the fourier weight @xmath27 of any basis @xmath28 of @xmath29 , since the set of parities @xmath30 determines @xmath14 .",
+    "this gives the following commonly - quoted form of chang s lemma .",
+    "let @xmath10 such that @xmath11 , and let @xmath12 be its characteristic function .",
+    "fix @xmath31 and let @xmath32 be the set @xmath33 .",
+    "then @xmath34 spans a space of dimension less than @xmath35 .",
+    "if @xmath34 spans a space of dimension @xmath36 or greater , there is a set of @xmath36 linearly independent vectors in @xmath34 .",
+    "completing to form a basis @xmath28 gives @xmath37 , violating lemma  [ lem : chang ] .",
+    "for any integer @xmath38 , there are bases consisting entirely of vectors of hamming weight @xmath39 . fixing @xmath39 and averaging over all such bases gives @xmath40 this also follows immediately from shearer s lemma .",
+    "however , this is noticeably weaker than the `` weight @xmath39 bound '' @xmath41    finally , we note that if some bits are highly biased , i.e. , if @xmath42 is close to @xmath6 , we can replace   with the bound @xmath43 which is tight when @xmath44 is small . combining this with",
+    "the corresponding bound for @xmath44 close to @xmath6 gives @xmath45 we compare this bound with   in figure  [ fig : entropy - bounds ] .",
+    "this gives another version of lemma  [ lem : chang ] :    [ lem : chang - tight ] let @xmath10 , let @xmath12 be its characteristic function , and let @xmath46 then @xmath47    this is nearly tight , for instance , if @xmath15 is the set of vectors with hamming weight @xmath6",
+    ". then @xmath48 , @xmath49 , and   reads @xmath50 .     where @xmath51 and @xmath52 , with the upper bounds   ( which is tight when @xmath53 is small ) and   ( which is tight when @xmath53 is close to 1).,width=384 ]",
+    "we thank ryan odonnell for a wonderful set of lectures on the analysis of boolean functions at the bellairs research institute , and ran raz for helpful communications . c.m . and",
+    "a.r . are supported by nsf grant ccf-1117426 and aro contract w911nf-04-r-0009 ."
+  ],
+  "abstract_text": [
+    "<S> chang s lemma is a useful tool in additive combinatorics and the analysis of boolean functions . here </S>",
+    "<S> we give an elementary proof using entropy . </S>",
+    "<S> the constant we obtain is tight , and we give a slight improvement in the case where the variables are highly biased . </S>"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "magnetic hyperfine fields at cu impurities in fe were recently obtained  @xcite combining resonance frequencies from experiments involving @xmath1-nmr on oriented nuclei on @xmath2cu , @xmath3cu , and @xmath4cu with magnetic moment values from collinear laser spectroscopy measurements at low temperature .",
+    "the formation of local magnetic moments in impurities embedded in metallic systems has been the concern of condensed matter theorists since the pioneer work of friedel in the sixties .",
+    "motivated by the mentioned experimental work , a microscopic model to explain the experimental results for the magnetic hyperfine field is proposed .",
+    "the diluted cu impurities in the ferromagnetic transition metal fe are described by an extension of the daniel - friedel model  @xcite , including the next neighbor perturbation  @xcite . in order to study the different cu isotopes with @xmath0 = 59 , 67 , 69 and 71 as impurity",
+    ", we had to incorporate the cu anomaly volume  @xcite in the effective charge to be screened ( see below ) . with a hamiltonian to be presented in the next section and self - consistent procedures",
+    ", we were able to account for the available experimental data .",
+    "the magnetic moment formation at a cu impurity diluted in fe arises from the following effects : i ) the charge difference between fe and the impurity produces an electrostatic potential which the fe conduction electron gas will shield ; ii ) a magnetic field produced by the _",
+    "d _ fe band that acts in the impurity through its fe neighbors  @xcite and also in the whole host .",
+    "both contributions act differently on the impurity density of up and down spins thus producing a polarized conduction band and a magnetization @xmath5 both in the impurity and in the host as well .",
+    "the hamiltonian that systematizes these effects and allows the calculation of the magnetic moment of the impurity is the following @xmath6 where @xmath7 defines a pure fe _",
+    "s - p _ host which consists of a conduction band polarized by the magnetized _ d _ host band . in eq .",
+    "( [ eq : hm ] ) @xmath8 is the center of the _ s - p _ energy band , now depending on the spin @xmath9 orientation ( @xmath10 or @xmath11 ) , @xmath12 ( @xmath13 ) is the creation ( annihilation ) operator of conduction electrons at site @xmath14 with spin @xmath9 and @xmath15 is the electron hopping energy between neighboring @xmath14 and @xmath16 sites .    the second term of eq .",
+    "( [ eq : ham1 ] ) is the potential due to the presence of the impurity at site @xmath17 , @xmath18 @xmath19 is a spin dependent local term , @xmath20 being the _ s - p _ impurity state energy level . also included in @xmath21 is the change of the nearest - neighbor hopping due to the breaking of translational invariance by the impurity .",
+    "the parameter @xmath22 takes into account the change in the hopping energy associated with the presence of the impurity  @xcite , @xmath23 meaning no disorder in the hopping .",
+    "using the dyson equation @xmath24 the local green s function @xmath25 due the charge perturbation at the origin , is @xmath26 where @xmath27 , @xmath28 is the local green function for the pure fe host and @xmath29    assuming that the screening of the charge difference is made by the _ s - p _ band , the potentials @xmath30 are self - consistently determined in such a way that @xmath31 gives the total charge difference @xmath32 between host and impurity @xmath33 where @xmath31 is obtained integrating the change in the density of states @xmath34 , @xmath35 from the origin up to the fermi level @xmath36 .",
+    "so , @xmath37 .",
+    "\\label{eq : rsoma}\\ ] ]    once the potential @xmath30 is self - consistently found , the local _ s - p _ density of states per spin direction at the impurity site are calculated by @xmath38 the local _ s - p _ electron occupation number , @xmath39 , is obtained by integrating the corresponding local density of states up to the fermi level @xmath40 .    the total magnetic moment ( @xmath41 ) at a _",
+    "s - p _ impurity , given by @xmath42 i.e. , @xmath43    the total magnetic hyperfine field at the impurity site is @xmath44 where @xmath45 is the fermi - segr contact coupling parameter .",
+    "in order to calculate the local moments and the magnetic hyperfine fields at a cu impurity diluted in fe we have to fix some parameters . here",
+    ", we adopt a standard paramagnetic _ s - p _ density of states extracted from first - principles calculations  @xcite .    the parameter @xmath46 which renormalizes the hopping energy ,",
+    "was chosen @xmath47 given the ratio between the extension of the host and impurity _ s - p _ wave functions . keeping fixed these parameters , we self - consistently  through eq .",
+    "( [ eq : rsoma ] )  determine the magnetic moment at the cu impurity site and its corresponding magnetic hyperfine field .",
+    "once the cu isotopes have the same charge , the local hyperfine field should be the same .",
+    "but the experimental results show this is not the case .",
+    "in fact the charges are the same but the charge densities are not , because of their different volumes .",
+    "we have followed the procedure of daniel and friedel  @xcite and incorporated the respective volume of each cu isotope in an effective charge @xmath48 to be screened , @xmath49 where @xmath50 ; @xmath51 and @xmath52 are fe volume and cu volume respectively .",
+    "the values of @xmath53 are shown in table  [ tab : deltav ] .",
+    ".relative volume variation for each isotopes . [ cols=\"^,^,^,^,^\",options=\"header \" , ]     [ tab : deltav ]    now the potentials @xmath30 are self - consistently determined in such away to give the effective total charge difference @xmath54 .    the results for the calculated magnetic hyperfine fields ( eq .  ( [ chf])-([eq : dv ] ) ) , shown in fig .",
+    "[ fig : bhf_cufe ] , are in a very good agreement with the experimental results .    ) ) .",
+    "the squares represent the experimental data.,width=302 ]    using a very simple microscopic model hamiltonian , we were able to bring out the isotopic dependence of the hyperfine field at the impurity in cu therefore extending previous approaches by taking into account the volume of the impurity in the self - consistency procedure . rather than considering nuclear probes as being punctiform , nuclear experimentalists have now new windows to explore the contribution of the nuclear volume in the interaction between nuclear probes and screening host electrons .",
+    "we acknowledge the support from the brazilian agencies cnpq and faperj .",
+    "acker91b , oliveira95 , oliveira2003"
+  ],
+  "abstract_text": [
+    "<S> magnetic hyperfine field at cu isotopes as impurities in fe were recently measured at low temperature . a model to explain these experimental results </S>",
+    "<S> is proposed . </S>",
+    "<S> the diluted cu impurities in the ferromagnetic fe host are described by an extension of the daniel - friedel model , including the next neighbor perturbation . in order to account for the available experimental data in cu isotopes with atomic masses @xmath0 = 59 , 67 , 69 and 71 as impurity </S>",
+    "<S> , we needed to incorporate the cu anomaly volume in the effective charge to be screened and self - consistent procedures . </S>"
+  ]
+}

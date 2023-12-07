@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "v405and is an x - ray emitting active binary detected by the rosat satellite @xcite .",
+    "the first detailed study of the system was done by @xcite , who detected an orbital period of @xmath1 days , and a small , near grazing eclipse .",
+    "the authors found that the primary and the secondary have spectral types of m0v and m5v , and both of them are active , as both show h@xmath2 emission .",
+    "@xcite presented photometric @xmath3 data , analysed optical spectroscopic measurements , and found , that the light curve modulation is caused by the combined effect of spottedness and binarity . using an iterative modelling method to separately describe these two effects",
+    ", the authors determined the physical properties of this binary system .",
+    "the primary and the secondary component was found to have masses of @xmath4 and @xmath5 respectively , thus the primary is supposed to consist of a radiative core , and a convective envelope , while the secondary is probably fully convective .",
+    "the radii of the two components are @xmath6 and @xmath7 . plotting these values on the theoretical mass - radius diagram of @xcite together with other binaries , we find that the secondary fits well to this relation , but the primary has a significantly larger radius than the theoretically predicted value .",
+    "we have obtained new @xmath3 photometry with the 1 m rcc telescope at piszkstet between jds 2455148 and 2455531 ( 2009 november2010 november , about 700 days after the light curves modelled in @xcite ) .",
+    "previously we found the light curve to be stable @xcite , but during the time of the new observations the surface seemed to evolve significantly .",
+    "the main spotted area moved from phase @xmath8 to phase @xmath9 in the first two new seasons , and in the last season two active nests were observed : around phases 0.1 and 0.5 .    using the same modelling method described in @xcite , we modelled the new observations using phoebe @xcite and spotmodel @xcite .",
+    "the light curves and the fits are plotted in fig .",
+    "the models fitted to the new observations left the system parameters unchanged .",
+    "this indicates , that the radius of the primary is indeed much larger than expected .",
+    "the two known similar binaries with similar structure , gsc 2314 - 0530 @xcite and the one from @xcite does not show this behaviour , although the primary of 2mass 04463285 + 1901432 @xcite has somewhat larger radius .",
+    "this indicates that v405and is a currently unique system , definitely worth for further studies .",
+    "baraffe , i. , chabrier , g. , allard , f. , & hauschildt , p.  h.  1998 , _ a&a _ , 337 , 403 blake , c.  h. , torres , g. , bloom , j.  s. , & gaudi , b.  s.  2008 , _ apj _ , 684 , 635 chevalier , c. , & ilovaisky , s.  a.  1997 , _ a&a _ , 326 , 228 devor , j. , et al",
+    ".  2008 , _ apj _ , 687 , 1253 dimitrov , d.  p. , & kjurkchieva , d.  p.  2010",
+    ", _ mnras _ , 406 , 2559 hebb , l. , wyse , r.  f.  g. , gilmore , g. , & holtzman , j.  2006 , _ aj _ , 131 , 555    lpez - morales , m.  2007 , _ apj _ , 660 , 732 lpez - morales , m. , orosz , j. a. , shaw j. s. , havelka l. , arevalo , m. j. , mcintyre t. , lazaro , c. 2006 , _ arxiv astrophysics e - prints _ , 0610225 mullan , d.  j. , & macdonald , j.  2001 , _ apj _ , 559 , 353 pra , a. , & zwitter , t.  2005 , _ apj _ , 628 , 426 ribrik , g. , olh , k. , & strassmeier , k.  g.  2003 , _ astronomische nachrichten _ , 324 , 202 vida , k. , olh , k. , kvri , zs . , korhonen , h. , bartus , j. , hurta , zs . , & posztobnyi , k.  2009 , _ a&a _ , 504 , 1021 voges , w. , gruber , r. , haberl , f. , kuerster , m. , pietsch , w. , & zimmermann , u.  1996 , _ vizier online data catalog _ , 9011 , 0"
+  ],
+  "abstract_text": [
+    "<S> v405and is an ultrafast - rotating ( @xmath0 days ) eclipsing binary . </S>",
+    "<S> the system consists of a primary star with radiative core and convective envelope , and a fully convective secondary . </S>",
+    "<S> theories have shown , that stellar structure can depend on magnetic activity , i.e. , magnetically active m - dwarfs should have larger radii . </S>",
+    "<S> earlier light curve modelling of v405and indeed showed this behaviour : we found that the radius of the primary is significantly larger than the theoretically predicted value for inactive main sequence stars ( the discrepancy is the largest of all known objects ) , while the secondary fits well to the mass - radius relation . by modelling </S>",
+    "<S> our recently obtained light curves , which show significant changes of the spotted surface of the primary , we can find further proof for this phenomenon . </S>"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "`` the nobel prize in physics 2011 was divided , one half awarded to saul perlmutter , the other half jointly to brian p. schmidt and adam g. riess for the discovery of the accelerating expansion of the universe through observations of distant supernovae . '' the nobelprize.org wrote .",
+    "two research teams , supernova cosmology project ( scp ) lead by saul perlmutter and high - z supernova search team ( hzt ) headed by brian schmidt , raced to map the universe by locating the most distant supernovae .",
+    "the two research teams found over 50 distant supernovae which were dimmer than expected - this was a sign that the expansion of the universe was accelerating [ 1 ] , [ 2 ] .    theoretically , this was not new idea since albert einstein came out the idea of cosmological constant ( often marked lambda ) .",
+    "einstein did that because he was guided by the paradigm of the day that the universe was static . when he heard the edwin hubble discovery that the universe was actually expanding he declared that the inclusion of the cosmological constant was his `` biggest blunder '' .",
+    "since there was no observation for cosmological constant after that most scientists assumed that lambda is zero .",
+    "a series of papers were published in astrophysics and space science in the early 90 s years before the supernova publications calculated @xmath0 from observed data .",
+    "pal et al . [ 3 ] used the so called pencil beam survey [ 4 ] to find out whether the regularity found in the galaxy distribution is quasiperiodical or not .",
+    "it was found that @xmath1 was preferably negative [ 3 ] .",
+    "therefore a nonzero lambda term was needed .",
+    "the preferred value was @xmath0 equal 2/3 .",
+    "this is very close to the value that later was observed by the nobel prize winners .        in the second paper [ 5 ]",
+    "a two parameter fit was made .",
+    "the positive cosmological constant ( negative @xmath1 ) found to be still needed . in the third paper [ 6 ] optical and radio quasars",
+    "were also used to find the preferred cosmological parameters .",
+    "figure 8 . in that paper [ 6 ] showed the results ( see figure ) .",
+    "as it was written the contour meant 80% confidence level .",
+    "the preferred region is similar that the supernovae analisys later suggested . for comparison",
+    "please see this www page http://vizion.galileowebcast.hu/hoi/comparation.jpg therefore those earlier suggestions also support the nobel prize winning results .",
+    "the author thanks for his supervisors , b. lukcs and g. pal , to being part of these researches .",
+    "unfortunately , g. pal died in 1992 .",
+    "this was surely affected the fact that these results were almost unrecognized ."
+  ],
+  "abstract_text": [
+    "<S> in 2011 the nobel prize in physics was awarded for the 1998 discovery of the nonzero cosmological constant . </S>",
+    "<S> this discovery is very important and surely worth to receive the nobel prize . </S>",
+    "<S> however , years earlier several papers had been published ( pal , horvth , & lukcs 1992 ; holba et al . </S>",
+    "<S> 1992 , holba et al . </S>",
+    "<S> 1994 ) about a very similar discovery from observational data . </S>"
+  ]
+}

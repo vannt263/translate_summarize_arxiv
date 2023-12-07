@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "the hard x - ray imaging of the galactic plane by the _ international gamma - ray astrophysics laboratory ( integral ) _ satellite continues to find new `` igr '' sources at energies @xmath020kev .",
+    "while _ integral _ excels at discovering new sources in the 2040kev band , especially due to its large field - of - view , it only localizes them to @xmath5@xmath6 , which is not nearly adequate for finding optical / ir counterparts . short _",
+    "chandra _ exposures of igr sources allow for a major advance in understanding the nature of these sources by providing sub - arcsecond positions , leading to unique optical / ir counterparts , as well as 0.310kev spectra that can be used to measure column densities and continuum shapes .",
+    "after observations between 2003 and 2008 , _ integral _ had detected more than 700 hard x - ray sources @xcite .",
+    "while that catalog includes nearly 400 igr sources , the most up - to - date list includes more than 500 igr entries .",
+    "the largest group of identified sources are the active galactic nuclei with @xmath0250 confirmed agn detected @xcite .",
+    "the largest galactic source types include high - mass x - ray binaries ( hmxbs ) , low - mass x - ray binaries ( lmxbs ) , and cataclysmic variables ( cvs ) .",
+    "a subset of these binaries are symbiotics with a white dwarf or neutron star accreting from a giant ( i.e. , luminosity class iii ) star .",
+    "it has been somewhat surprising that the symbiotics with white dwarf accretors can produce hard x - ray emission @xcite .",
+    "in addition , _ integral _ has detected new as well as known supernova remnants ( snrs ) and pulsar wind nebulae ( pwne ) .",
+    "unidentified igr sources is also still a large group , and the most critical piece of information for determining the nature of these sources is to obtain a sub - arcsecond x - ray position ."
+  ],
+  "abstract_text": [
+    "<S> we report on _ chandra _ observations of 18 hard x - ray ( @xmath020kev ) sources discovered with the _ integral _ satellite near the galactic plane . for 14 of the _ </S>",
+    "<S> integral _ sources , we have uncovered one or two potential _ chandra _ counterparts per source . these provide soft x - ray ( 0.310kev ) spectra and sub - arcsecond localizations , which we use to identify counterparts at other wavelengths , providing information about the nature of each source . despite the fact that all of the sources are within 5@xmath1 of the plane , four of the igr sources are agn ( igr  j01545 + 6437 , igr  j153915307 , igr  j154155029 , and igr  j21565 + 5948 ) and four others are likely agn ( igr  j03103 + 5706 , igr  j091894418 , igr  j164134046 , and igr  j165604958 ) based on each of them having a strong ir excess and/or extended optical or near - ir emission . </S>",
+    "<S> we compare the x - ray and near - ir fluxes of this group of sources to those of agn selected by their 210kev emission in previous studies and find that these igr agn are in the range of typical values . </S>",
+    "<S> there is evidence in favor of four of the sources being galactic ( igr  j124896243 , igr  j152935609 , igr  j161735023 , and igr  j162065253 ) , but only igr  j152935609 is confirmed as a galactic source as it has a unique _ chandra _ counterpart and a parallax measurement from previous optical observations that puts its distance at @xmath2kpc . </S>",
+    "<S> the 0.310kev luminosity for this source is @xmath3ergs@xmath4 , and its optical / ir spectral energy distribution is well described by a blackbody with a temperature of 42007000k and a radius of 12.016.4 . </S>",
+    "<S> these values suggest that igr  j152935609 is a symbiotic binary with an early k - type giant and a white dwarf accretor . </S>",
+    "<S> we also obtained likely _ </S>",
+    "<S> chandra _ </S>",
+    "<S> identifications for igr  j134026428 and igr  j153685102 , but follow - up observations are required to constrain their source types . </S>"
+  ]
+}

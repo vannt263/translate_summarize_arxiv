@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "ne lattice . ]",
+    "the high energy tagger ( het ) detector now installed in kloe-2 @xcite is a position detector used for measuring the deviation of leptons from their main orbit in da@xmath2ne . by means of this measurement and of its timing ,",
+    "we are able to disentangle , and therefore to _ tag _ @xmath4 physics @xcite events .",
+    "two het detectors are placed at the exit of the dipole magnets ( see fig .",
+    "[ fig : taggers ] ) , 11 m away from the ip , both on positron and electron arm .",
+    "the sensitive area of the het detector is made up of a set of 28 plastic scintillators .",
+    "the dimensions of each of them are @xmath5 .",
+    "one additional scintillator , of dimensions : @xmath6 is used for coincidence purposes . the light emitted by each of the 28 scintillators is read out through a plastic light guide by a photomultiplier .",
+    "the 28 scintillators are placed at different distances from the beam - line , in such a way that the measurement of the distance , between the hitting particle and the beam , can be performed simply knowing which scintillator has been fired .    on the vertical plane ( see fig .",
+    "[ fig : profilo ] ) , the scintillators are aligned , with the exception of a slight curvature at big distance from the beam , this is due to maximize the het efficiency due to the kloe magnetic axial field and da@xmath2ne compensator .",
+    "they show their @xmath7 face to the impinging particles that go through them along the thickness of 3 mm . the scintillators are not placed side by side , on the contrary",
+    "there is an overlap of 0.5 mm on the 5 mm side .",
+    "the plastic scintillator used is the ej-228 premium plastic scintillator produced by eljen technology .",
+    "it is intended for use in ultra - fast timing and ultra - fast counting applications and it is recommended for use in small sizes ( any dimension less than 100 mm ) .",
+    "the ej-228 scintillator is composed of polyvinyltoluene and has a density of 1.023 g/@xmath8 and a refractive index of 1.58 and a light output 67 @xmath9 of anthracene , the emission spectra is peaked around 391 nm .",
+    "because of the small dimensions of the scintillator in use , the total light yield , due to a crossing electron or positron , is quite small .",
+    "for this reason , we chose a high quantum efficiency photomultiplier to minimize the probability of a particle , which crosses the scintillator , to go undetected .",
+    "the photomultipliers used are compact size and high quantum efficiency ones , model r9880u-110 sel produced by hamamatsu photonics .",
+    "the quantum efficiency is about 35% for a wavelength going in the range from 300  nm to 400  nm , well matching the ej-228 emission .",
+    "the het acquisition system is composed of a set of three electronic boards , and one slow control board ( see the scheme in fig . [",
+    "fig : elscheme ] ) .",
+    "the first part of the chain , handling pmt analogue signals , is called the front - end electronics and is composed of the het front - end board and the discrimination and shaping board . the second part , which performs the measurements and interact with signals from kloe and da@xmath2ne ,",
+    "is called het acquisition system and is composed of the het data acquisition board .",
+    "the het main acquisition is a vme 6u board .",
+    "the tasks handled by this board are to measure the timing of the signals coming from discriminators with respect to da@xmath2ne fiducial signal , store them only if kloe trigger are asserted , and transmit data to the kloe acquisition system through the vme bus .",
+    "to this end , this board is equipped with :    * xilinx virtex 5 fpga , in which the tdc , the het daq system and the vme interface are implemented ; * 6 inputs and outputs to handle da@xmath2ne fiducial signal and the kloe trigger signals ; * 32 lvds input channels for the tdc ; * fast vme transceivers;.    the virtex 5 xc5vfx70 t is the main component of the board , handling all the on - board devices ( see fig . [",
+    "fig : v5_acq_sch ] and [ fig : v5_acq_pic ] ) .",
+    "both electron and positron arms detectors are now installed and in the commission phase . since the bunch crossing occurs in da@xmath2ne each @xmath10  2.7 ns , in order to properly disentangle leptons coming from two consecutive bunch crossings , the tdc time resolution must be less than @xmath11 as it is shown in fig .",
+    "( [ fig : tdc ] ) ."
+  ],
+  "abstract_text": [
+    "<S> in order to fully reconstruct to the reaction @xmath0 in the energy region of the @xmath1 meson production , new detectors along the ( da@xmath2ne ) beam line have to be installed in order to detect the scattered @xmath3 . the high energy tagger ( het ) detector measures the deviation of leptons from their main orbit by determining their position and timing so to tag @xmath4 physics events and disentangle them from background . </S>",
+    "<S> the het detectors are placed at the exit of the da@xmath2ne dipole magnets , 11 m away from the ip , both on positron and electron lines . </S>",
+    "<S> the het sensitive area is made up of a set of 28 plastic scintillators . </S>",
+    "<S> a dedicated daq electronics board based on a xilinx virtex-5 fpga have been developed for this detector . </S>",
+    "<S> it provides a multihit tdc with a time resolution of the order of 500 ps and the possibility to acquire data any 2.5 ns , thus allowing to clearly identify the correct bunch crossing . </S>",
+    "<S> first results of the commissioning run are presented .    tracking detectors </S>"
+  ]
+}
