@@ -2,3 +2,4 @@ json
 numpy
 pandas
 translators
+sentencepiece
