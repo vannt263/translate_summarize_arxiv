@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "against @xmath1 and @xmath2 . the quantity @xmath3",
+    "is found to equal @xmath4 ( equation  [ eq_18 ] ) . ]",
+    "barway & kembhavi ( 2007 ) have made the interesting claim that a combination of two photometric parameters , namely the effective radius @xmath5 and the mean effective surface brightness @xmath6 , can be used to predict supermassive black hole masses with a greater degree of accuracy than single quantities such as velocity dispersion ( ferrarese & merritt 2000 ; gebhardt et al .",
+    "2000 ) , luminosity ( graham 2007 and references therein ) or major - axis srsic index ( graham & driver 2007 ) .",
+    "these latter relations have a total scatter in the @xmath0 direction of 0.310.34 dex .    here",
+    "we check barway & kembhavi s ( 2007 ) claim that the total scatter in the @xmath0 direction , when using @xmath6 and @xmath1 as predictor quantities , is 0.25 dex ( and 0.19 dex when excluding the outlier ngc  4742 ) .",
+    "a simple ordinary least squares regression analysis of @xmath7@xmath8@xmath9 has been performed , in which @xmath10 and @xmath11 .",
+    "the data for @xmath0 , @xmath1 and @xmath6 have been taken from table  1 in barway & kembhavi ( 2007 ) .",
+    "in addition to solving for the parameter @xmath3 in the above inset equation , we also solve for @xmath12 and @xmath13 to give the expression @xmath14 given the absence of reported errors on the quantities @xmath1 and @xmath2 in barway & kembhavi ( 2007 ) , no attempt has been made to include such measurement errors in the regression , and subsequently no attempt to quantify the intrinsic scatter has been made .      upon the exclusion of ngc  4742 ,",
+    "the optimal relation is @xmath16 and the scatter is reduced to 0.25 dex  which is the same level of scatter in the @xmath17@xmath18 relation upon the removal of two outliers ( graham & driver 2007 ) .",
+    "this level of scatter is also equal to the value reported by marconi & hunt ( 2003 ) who also used a combination of two parameters ( @xmath5 and @xmath19 ) to predict @xmath17 .",
+    "the low value of 0.19 dex reported by barway & kembhavi appears to have arisen by dividing the scatter in the @xmath1 direction ( 0.061 ) by the coefficient in front of the @xmath0 term in their equation  3 ( which is their fitted plane ) .",
+    "this overlooks the three - dimensional nature of the plane and consequently results in the over - estimation of the plane s ability to predict black hole masses .",
+    "an easy check is to compute the offset between the black hole masses listed in table  1 of barway & kembhavi and the values predicted from their plane ( their equation  3 ) , which can be re - written as @xmath20 doing so ( and excluding ngc  4742 ) the total rms scatter in the @xmath0 direction is 0.27 dex ( not 0.19 dex , and greater than the value of 0.25 dex obtained using the optimal plane constructed here ) .    in passing it",
+    "is noted that three of the galaxies used by barway & kembhavi are known to be disc galaxies , or at least are not regular elliptical galaxies .",
+    "m32 may likely be a stripped s0 galaxy ( e.g.  graham 2002 ) , while ngc 2778 is a disc galaxy ( e.g. rix , carollo & freeman 1999 ) , as is ngc 4564 ( trujillo et al .",
+    "2004 ; see also figure  6 in graham & driver 2007 ) .",
+    "consequently , the effective radii and mean surface brightnesses which have been used for these galaxies do not pertain to the bulge .",
+    "curiously , excluding these three galaxies ( while including ngc  4742 ) , the rms scatter is 0.33 dex .",
+    "barway , s. , kembhavi , a.  2007 , apj , accepted ( arxiv:0705.1508 ) ferrarese , l. , merritt , d.  2000 , apj , 539 , l9 gebhardt , k. , et al .",
+    "2000 , aj , 119 , 1157 graham , a.w .",
+    "2002 , apj , 568 , l13 graham , a.w .",
+    "2007 , mnras , in press ( arxiv:0705.0618 ) graham , a.w . , driver , s.p .",
+    "2007 , apj , 655 , 77 marconi , a. , hunt , l.k .",
+    "2003 , apj , 589 , l21 rix , h .- w .",
+    ", carollo , c.m . ,",
+    "freeman , k.  1999 , apj , 513 , l25 trujillo , i. , erwin , p. , asensio ramos , a. , graham , a.w .",
+    "2004 , aj , 127 , 1917"
+  ],
+  "abstract_text": [
+    "<S> a simple regression analysis designed for predicting the supermassive black hole mass from the effective radius and mean effective surface brightness of the host bulge has been performed using the data from barway & kembhavi ( arxiv:0705.1508 ) . </S>",
+    "<S> the scatter in the @xmath0 direction is found to be 0.32 dex , comparable with values obtained using a single predictor quantity such as luminosity , velocity dispersion or srsic index . </S>"
+  ]
+}

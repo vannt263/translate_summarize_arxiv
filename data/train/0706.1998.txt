@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "part of this work was supported by the swiss national science foundation within the manep federal initiative .",
+    "a. schiller , f. b. anders , and d. l. cox , phys .",
+    "* 81 * ( 1998 ) 3235 .",
+    "+ m. koga and d. l. cox , phys .",
+    "* 82 * ( 1999 ) 2575 .",
+    "+ h. johannesson , n. andrei , and c. j. bolech , phys .",
+    "b * 68 * ( 2003 ) 075112 . + f. b. anders , phys .",
+    "b * 71 * ( 2005 ) 121101(r ) .",
+    "+ h. johannesson , c. j. bolech , and n. andrei , phys .",
+    "b * 71 * ( 2005 ) 195107 ."
+  ],
+  "abstract_text": [
+    "<S> we have made a detailed proposal for a two - channel quantum dot set - up . </S>",
+    "<S> the energy scales in the problem are such that we are able to make connection with the two - channel anderson model , which , in spite of being well - known in the context of heavy - fermion systems remained theoretically elusive until recently and lacked a mesoscopic realization . </S>",
+    "<S> verification of our precise and robust predictions for the differential capacitance lineshape of the dot will provide an experimental signature of the two - channel behavior .    ,    quantum dots , two - channel kondo effect , heavy fermions 73.23.hk 71.27.+a 72.15.qm 81.07.ta    the physics of quantum impurities continues to be one of the central themes in the study of electronic systems exhibiting strong correlations . in the subject s long history , one of the recent developments taking place during the last decade was the realization of the kondo effect in artificially fabricated nanostructures @xcite . </S>",
+    "<S> the appeal of this new type of quantum impurities resides in the high degree of experimental control over the parameters of the system and the possibilities to carry out new more direct types of measurements . </S>",
+    "<S> because of this unique characteristics , artificial structures like quantum dots are very promising for the experimental realization of the elusive two - channel kondo effect @xcite .    in a recent work @xcite , </S>",
+    "<S> we have proposed a new set - up that realizes two - channel kondo physics . </S>",
+    "<S> even more , the set - up is described precisely by the two - channel anderson model , which is a well known model in the context of heavy fermion physics @xcite . </S>",
+    "<S> a lot of progress was made during recent years in unraveling the physics of two - channel anderson impurities @xcite , what allows us to make precise predictions for the quantum - dot set - up that we propose . </S>",
+    "<S> the set - up , illustrated in figure [ fig1 ] , consists of a small quantum dot sided by two large coulomb - blockaded mesoscopic islands that we shall call _ </S>",
+    "<S> grains_.     and @xmath0 , can be independently adjusted tuning the voltages @xmath1 and @xmath2 . </S>",
+    "<S> the occupancy of the dot and the grains are controlled by the respective gate voltages : @xmath3 , @xmath4 , and @xmath5 . </S>",
+    "<S> the dot - grains system is isolated from the two - dimensional electron gas surrounding it , so that the total charge is conserved . </S>",
+    "<S> the plunger gates , @xmath6 and @xmath7 , are completely closed once the system is tuned to the triple charge - degeneracy point of dot and grains.,scaledwidth=45.0% ]    a study of coulomb energy of the different electronic configurations shows that the medium and low temperature physics of the dot - grains system is captured by the two - channel anderson model @xcite @xmath8\\end{aligned}\\ ] ] the notation is as follows : @xmath9 are the electron operators for the two grains ( labeled with @xmath10 ) and @xmath11 and @xmath12 are , respectively , boson and fermion fields describing the different low - energy coulomb - blockade configurations . </S>",
+    "<S> the charge fluctuations between dot and grains are described by the term @xmath13 . </S>",
+    "<S> the last two terms in the hamiltonian together with the constraint @xmath14 encode the physics of the coulomb blockade . </S>",
+    "<S> the different parameters in the hamiltonian are directly related to the corresponding gate voltages shown in figure [ fig1 ] , and can be tuned externally in order to explore the different regimes of the system .    </S>",
+    "<S> the nature of the set - up we propose precludes the possibility of transport measurements as it stands . on the other hand , a feasible and very interesting experiment would be to measure the capacitance lineshape of the central dot . </S>",
+    "<S> we have recently explained in detail how that can be achieved using a system of two symmetric single electron transistors attached one to each grain . </S>",
+    "<S> the differential capacitance probes directly the charge susceptibility of the system , which one can compute from the two - channel anderson hamiltonian using a thermodynamic bethe ansatz analysis @xcite . </S>",
+    "<S> namely , @xmath15 and in the low temperature limit , the dot excess charge @xmath16 is @xmath17   } \\frac{\\left ( x-\\varepsilon\\right )   ~dx}{\\left [   \\left ( x-\\varepsilon\\right )   ^{2}+4\\delta^{2}\\right ]   ^{2}}%\\ ] ]    figure [ fig2 ] plots the vanishing - temperature @xmath18 and the overlay shows @xmath19 , both as a function of @xmath20 . </S>",
+    "<S> we have argued @xcite that this lineshape is different from the one expected in other proposals for two - channel kondo behavior and different as well from what one would expect for a one - channel system . </S>",
+    "<S> the functional form of the lineshape is also robust to changes in temperature provided @xmath21 , as well as to the presence of magnetic field or grain asymmetries bounded also by @xmath22 . </S>",
+    "<S> notice that this prediction has no free fitting parameters once the value of @xmath22 is determined . </S>",
+    "<S> we expect that the detailed information available for the system from the theoretical point of view might act as an encouragement for the experimental groups able to test our predictions .    </S>",
+    "<S> [ t ]    shah-301-f2.eps </S>"
+  ]
+}

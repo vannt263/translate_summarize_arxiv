@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "unparticle physics offers promising prospects in the search for new physics beyond the standard model ( sm ) at very high energies above the tev scale.the broken scale invariance at low energies is restored at very high energies by the non - trivial ir fixed ponit called banks - zaks ( bz ) fields @xcite.below the very high energy scale @xmath2,the renormalizable coupling of the bz fields introduce the scale invariant `` unparticles''.these unparticles are massless and have a non -trivial scaling dimension @xmath3@xcite.the unparticle scaling dimension @xmath3 is a fractional number rather than an integer.recently the effects of unparticle physics on the hadronic sector have been explored @xcite,@xcite.in this work , we illustrate the dependence of @xmath0 annihilation cross - section fig.1 on unparticle physics .",
+    "we start with the effective interactions for the unparticle operators coupling to the fermions@xcite          the @xmath0 annihilation is described in fig.1.in this process the electron and positron annihilate into an unparticle u which then converts into an outgoing back - to - back light quark and anti - quark pair which leads to the production of two light pseudo - scalar mesons @xmath8 and @xmath9.the propagator of the vector unparticle is given by @xcite @xmath10 to obtain eq.(2),the vector operator @xmath5 is assumed to satisfy the transverse condition @xmath11,where      the matrix element for the @xmath0 annihilation can be writen as @xmath13 where @xmath14 and the current @xmath15 the factor 1/3 is introduced for normalization purposes of the different colors of quark .",
+    "the vacuum to two pseudo - scalar amplitude is usullay expressed in terms of a form factor @xmath16 @xcite @xmath17 where @xmath18.the axial part of this amplitude is zero . for a massless electron and positron the matix element square",
+    "is reduced to @xmath19 where @xmath20,@xmath21,@xmath22 and @xmath23 in the centre of mass ( cm ) frame the momenta of particles are @xmath24 where the center of mass enegy @xmath25.finally the @xmath0 annihilation cross - section @xmath26 is obtained in terms of the scaling dimension , coupling constants and the form factor , @xmath27      as an illustration , at @xmath31 the variation of @xmath32 annihilation cross - section as a function of @xmath3 is presented in fig.2 in unit of @xmath33 $ ] for @xmath29.we can see from fig.2 , the variation of this annihilation cross - section is sensitive to the scaling dimension @xmath1 and rapidly reaches zero above @xmath3=1.4 .",
+    "similar range for the scaling dimension @xmath3 has been obtained from the direct cp asymmetry @xmath34 @xcite . in this work , we have extended the scaling invariance based unparticle physics into the @xmath0 annihilation .",
+    "similar analysis can be done for @xmath35 annihilation .",
+    "1 h.georgi,arxiv:hep-ph/0703260 .",
+    "g.j.ding and m.l.yan arxiv:0705.0794[hep - ph ] .",
+    "t.m.aliev,a.s.cornell and naveen gaur arxiv:0705.1326[hep - ph ] .",
+    "m.luo and g.zhu arxiv:0704.3532[hep - ph ] .",
+    "c.h.chen and c.q .",
+    "geng arxiv:0705.0689[hep - ph ] .",
+    "li and z - t wei arxiv:0705.1821[hep - ph ] .",
+    "a.ali and c.greub phys.rev.d 57,2996(1998 ) ."
+  ],
+  "abstract_text": [
+    "<S> in the recent past , unparticle physics effects have been explored in detail in both the fermionic and bosonic sectors . </S>",
+    "<S> we have used fermionic unparticles to study the cross - section of electron - positron annihilation to light pseudo - scalar meson pairs @xmath0 . </S>",
+    "<S> we show that this cross - section is sensitive to the scaling dimesion @xmath1 . </S>"
+  ]
+}

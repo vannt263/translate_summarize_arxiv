@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "there is clear evidence that clusters of galaxies are young structures , as predicted by the hierarchical scenario of @xmath0cdm cosmology ( e.g. kauffmann & white , 1993 ; west et al . , 1995 ) .",
+    "the study of cluster formation is paramount to our understanding of structure formation in the universe and clusters can effectively be used as cosmological probes ( e.g. , to measure the dark energy equation of state ) .",
+    "xmm - newton now allows us to map with unprecedented sensitivity several physical parameters of the x - ray gas in clusters of galaxies .",
+    "temperature maps have revealed that even when the x - ray emission appears smooth , evidence for past or present merging events can be found ; they are therefore precious tools to trace the individual histories of cluster formation and evolution .",
+    "we have analyzed xmm - newton mos1 , mos2 and pn data for a sample of five medium redshift ( @xmath10.313 , corresponding to a mean lookback time of @xmath2  gyr ) clusters covering a range of merging histories , derived temperature maps for the x - ray gas and discuss merging scenarios for these clusters .",
+    "[ cols= \" < , > , > , > , > , > , > \" , ]     [ table : data ]    the data obtained with xmm - newton ( epic mos1 , mos2 and pn ) are summarized in table  [ table : data ] .",
+    "they were all retrieved from the xmm - newton archive .",
+    "the data were reduced in a standard way , and temperature maps were computed following the procedure described by durret et al .",
+    "( 2005 ) , with a main improvement which is the inclusion of pn data to mos1 and mos2 data .",
+    "the event files are rebinned with a pixel size of @xmath3 arcsec@xmath4 and for each pixel in the grid we compute the rmf and arf matrixes and fit a mekal plasma model using xspec version 11.2 .",
+    "we set a minimum count number of 900 counts per pixel after background subtraction .",
+    "the hydrogen column density was always left free to vary ( except for abell  1763 ) .",
+    "the corresponding temperature maps are shown in figs .",
+    "[ fig : fig1 ] and [ fig : fig2 ] .",
+    "typical relative errors , @xmath5 , for each pixel are 1015% at @xmath6 significance level .",
+    "the temperature map of abell  68 appears quite constant throughout the cluster , with a mean temperature and metallicity of the x - ray gas of @xmath7  kev and @xmath8 z@xmath9 for a hydrogen absorption @xmath10 .",
+    "a hotter region observed towards the east edge of the map could possibly indicate a merger coming in from this direction .",
+    "little is known about this cluster , so we can not reach firm conclusions on what is happening .",
+    "abell  2390 has a mean temperature and metallicity of @xmath11  kev and @xmath12 z@xmath9 for @xmath13 .",
+    "the x - ray temperature of abell  2390 is notably cooler in the center , with a large and somewhat hotter zone in the north region and a much hotter and more concentrated zone in the south , suggesting the previous existence of one or two mergers in the north south direction ( possibly one coming from the north and one from the south ) .",
+    "abell  1763 has a mean temperature and metallicity of @xmath14  kev and @xmath15 z@xmath9 for @xmath16 ( the absorption had to be fixed to its galactic value , otherwise the x - ray spectra were impossible to fit ) .",
+    "the x - ray temperature map is quite uniform , with a hotter region ( @xmath17 kev ) towards the north west , suggesting a merger along the south east to north west direction .",
+    "abell  2744 is a complicated cluster undergoing several mergers , as derived from xmm - newton ( zhang et al .",
+    "2004 , finoguenov et al . 2005 ) and optical ( boschin et al .",
+    "2006 ) data .",
+    "its x - ray gas has a mean temperature and metallicity of @xmath18  kev and @xmath19 z@xmath9 for @xmath20 .",
+    "the temperature map reveals a hot elongated region crossing the cluster from north to south , and of a second hot region towards the south east , and the gas is rather hotter in the central region , in agreement with finoguenov et al .",
+    "the two hotter regions can be interpreted in a scenario of two successive major mergers , both coming from the south east , the central one being observed after the core passage , as suggested by boschin et al .",
+    "this agrees with the general picture proposed by kempner & david ( 2004 ) but implies a more advanced merging phase than that derived by these authors .",
+    "finally , cl  2137 - 2353 , has a mean temperature and metallicity of the x - ray gas of @xmath21  kev and @xmath22 z@xmath9 ( solar ) for @xmath23 .",
+    "the temperature map reveals a very homogeneous temperature throughout the cluster , except for a somewhat hotter region towards the north west .",
+    "therefore there is no clear evidence for any type of merging in this object .",
+    "even clusters with a relatively relaxed appearance can be undergoing , or have undergone recently , one or several merging events , as revealed by x - ray temperature maps .",
+    "metallicity maps as well as optical ( imaging and spectroscopy ) and radio data , together with the comparison with numerical simulations , are now needed to disentangle the effects of mergers and characterize better the history of formation of these clusters ."
+  ],
+  "abstract_text": [
+    "<S> we have analyzed xmm - newton archive data for five clusters of galaxies ( redshifts 0.223 to 0.313 ) covering a wide range of dynamical states , from relaxed objects to clusters undergoing several mergers . </S>",
+    "<S> we present here temperature maps of the x - ray gas together with a preliminary interpretation of the formation history of these clusters .    </S>",
+    "<S> clusters of galaxies , x - rays </S>"
+  ]
+}

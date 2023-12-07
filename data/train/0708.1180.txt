@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "over the course of the last six years , we have made radio observations of five recent supernovae ( sne ) , sn  2001gd ( type iib ; ngc  5033 ) , sn  2001em ( type iin ; ugc  11794 ) , sn  2002hh ( type ii ; ngc  6946 ) , sn  2004dj ( type iip ; ngc  2403 ) , and sn  2004et ( type iip ; ngc  6946 ) . in this paper",
+    ", we present the radio light curves of these sne .",
+    "the parameterized model fits of the data using the model presented by sramek et al .",
+    "( 2005 ) and a discussion of these results can be found in the proceedings of stockdale et al .",
+    "our models indicate that the type iib sne thicker and denser circumstellar medium ( csm ) than the type iip sne in our sample .",
+    "this is illustrated by the light curves peaking at later times .",
+    "this supports the idea that type iib sne are a transitional class to type ib / c sne which are thought to be binary massive star systems .",
+    "our light curves also indicate a more complex interaction with the csm and the sn blastwave for the type iib sne , possibly resulting from a large , rapid mass loss of the progenitor star .",
+    "the light curve of sn  2001em indicates that it is encountering a dense , thick csm which is in stark contrast to typical ib / c sne which are not usually strong radio emitters .",
+    "further vla and vlbi studies may provide useful insight into this unusual sn .",
+    "mtk was supported by the nasa wisconsin space grant consortium .",
+    "cjs is a cottrell scholar , supported by research corporation .",
+    "kww thanks the office of naval research for the 6.1 funding which supports his research .",
+    "9 stockdale , c.j . ; kelley , m.t . ; weiler , k.w . ; panagia , n. ; sramek , r.a . ;",
+    "marcaide , j.m . ; williams , c.l.m . ; van dyk , s.d .",
+    "; `` recent type ii radio supernovae '' in _ sn  1987a : 20 years after - supernovae and gamma - ray bursters _ ed . by weiler , k. w. , and immler , s. , american institute of physics , u.s.a . , 2007 .",
+    "sramek r.a .",
+    "; weiler k.w . ; panagia n. ; `` radio supernovae '' in _ cosmic explosions on the 10th anniversary of sn 1993j _ , ed . by marcaide , j.m . , and weiler , k.w . , springer - varlag berlin heidleberg , germany , 2005"
+  ],
+  "abstract_text": [
+    "<S> we present the results from the on - going radio monitoring of recent type ii supernovae ( sne ) , including sne 2004et , 2004dj , 2002hh , 2001em , and 2001gd . using the very large array to monitor these supernovae , we present their radio light - curves . from these data </S>",
+    "<S> we are able to discuss parameterizations and modeling and make predictions of the nature of the progenitors based on previous research . derived mass loss rates assume wind - established circumstellar medium , shock velocity @xmath0 km s@xmath1 , wind velocity @xmath2 km s@xmath1 , and csm temperature @xmath0 k.     address = physics dept . </S>",
+    "<S> , marquette university , po box 1881 , milwaukee , wi 53201 , email=mattew.kelley@mu.edu ,     address = physics dept . </S>",
+    "<S> , marquette university , po box 1881 , milwaukee , wi 53201     address = naval research laboratory     address = massachusetts institute of technology     address = space telescope science institute     address = national radio astronomy observatory     address = university of valencia     address = spitzer science center , california institute of technology </S>"
+  ]
+}

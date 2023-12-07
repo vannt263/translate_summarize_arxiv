@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the ginzburg - landau ( gl ) equation is one of the most - studied nonlinear partial differential equations ( pde ) @xcite .",
+    "spiral waves are important patterns in many systems , such as physics , chemistry , materials , biology , etc .",
+    "exploring exact solutions of nonlinear pde is a hot and difficult topic in mathematical physics .",
+    "many methods were developed for studying exact solutions of nonlinear pdes .",
+    "recently , a new method named extended f - expansion was proposed @xcite@xcite .",
+    "it s useful to obtain more jacobi elliptic function solutions . in this paper",
+    "it is used to study the one - dimensional gl equation .",
+    "we obtain a spiral wave solution , which is exactly same with hagan s solution @xcite .",
+    "the ginzburg - landau equation is given by @xmath0 where @xmath1 is a complex function of time @xmath2 and space @xmath3 ; @xmath4 and @xmath5 are real parameters describing linear and nonlinear dispersion , respectively .",
+    "it s useful to represent the complex function @xmath1 in the following way @xmath6 then the eq .",
+    "(  [ glequ ] ) becomes @xmath7r - b(2\\bigtriangledown\\theta\\cdot\\bigtriangledown r   + r\\bigtriangleup\\theta ) + ( 1 - r^2)r,\\\\ & r\\partial_{t}\\theta = b[\\bigtriangleup - ( \\bigtriangledown\\theta)^2]r   + 2\\bigtriangledown\\theta\\cdot\\bigtriangledown r + r\\bigtriangleup\\theta -cr^3 . \\end{split}\\ ] ] if @xmath8 , then it becomes a class of reaction - diffusion equations called @xmath9 systems which have the following general form @xmath7r   + r\\lambda(r),\\\\ & r\\partial_{t}\\theta= 2\\bigtriangledown\\theta\\cdot\\bigtriangledown r + r\\bigtriangleup\\theta + qr\\omega(r).\\label{rw } \\end{split}\\ ] ] for one - dimensional systems , let us assume the analogues of spiral wave solutions have the form @xmath10 where @xmath11 is an arbitrary constant and @xmath12 is a long - time scale @xcite .",
+    "substitution into eq .",
+    "(  [ rw ] ) yields  @xcite @xmath13 let us assume , @xmath14 where @xmath15 and @xmath16 ( @xmath17 ) are constants to be determined later .",
+    "@xmath18 is a solution of the first - oder nonlinear ode @xmath19 according to the homogeneous balance method  @xcite , we know @xmath20 , hence @xmath21 so we get the equations , @xmath22 by requiring the coefficients of each term @xmath23 in the third equation of eqs .",
+    "( [ gl1 ] ) are zero , we obtain , @xmath24 from the above equations we obtain @xmath25 , @xmath26 , @xmath27 . then from the first two equations of eqs .",
+    "(  [ gl1 ] ) we have @xmath28 finally , we obtain @xmath29    .[tab : paraf ] relations between the parameter@xmath30 and @xmath31 , where @xmath31 is satisfied with ode @xmath32 .",
+    "[ cols=\"^,^,^,^,^\",options=\"header \" , ]     according to the table [ tab : paraf ] , the only possible jacobi elliptic function which is satisfied with the eqs .",
+    "( [ s0s2s4 ] ) is @xmath33 with @xmath34 , i.e. @xmath35  @xcite .",
+    "so we obtain , @xmath36 so the spiral wave solution for the one - dimensional gl equation is @xmath37 so we finally get the one - dimensional gl equation s solution @xmath38}.\\ ] ] this is the same as hagan s solution  @xcite .",
+    "based on balance mechanism in nonlinear pdes , the extended f - expansion method is widely used to obtain single and combined non - degenerative jacobi elliptic function solutions , as well as their corresponding degenerative solutions , for many kinds of pdes .",
+    "as example , we give a spiral wave solution for the one - dimensional gl equation in this paper .",
+    "from this example we can see that the extended f - expansion method is a powerful tool in the nonlinear pde field .",
+    "we can expect that solutions of the higher dimensional gl equations also will be obtained in this way .",
+    "99 i. aranson , l. kramer , rev .",
+    "phys . , * 74 * ( 2002 ) , 99 j. liu , k. yang , chaos , solitons and fractals * 22 * ( 2004 ) 111 j. zhang , m. wang , y. wang , z. fang , phys .",
+    "lett . a * 350 * ( 2006 ) 103 hagan , p. s. , siam ( soc .",
+    "appl . math . )",
+    "42 ( 1982 ) , 762"
+  ],
+  "abstract_text": [
+    "<S> the one - dimensional ginzburg - landau ( gl ) equation is considered . we use the recently developed extended f - expansion method to obtain spiral wave solution of one - dimensional gl equation . </S>"
+  ]
+}

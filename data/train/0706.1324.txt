@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "grb030329 displayed one of the brightest afterglows ever , enabling the study of its evolution for a long time and in detail over a broad range of frequencies , from x - ray to centimetre wavelengths .",
+    "the afterglow was still visible in radio waves 1100 days after the burst trigger .",
+    "the optical afterglow was visible for only a couple of weeks until it was obscured by the emerging supernova associated with the grb ; the x - ray afterglow was detected for eight months . thus using our radio observations we can uniquely determine the physical parameters of the blast wave .",
+    "the broadband afterglow can be modeled by the standard relativistic blast wave model assuming that the jet has two components : one component with a small opening angle that explains the early - time optical and x - ray light curves , and a wider component that carries the bulk of the energy and produces the later - time light curves . because the peak and self - absorption frequency of the broadband spectrum of the second jet are situated in the centimetre regime , this component is naturally best studied at these wave bands .",
+    "the afterglow of grb030329 was observed with the wsrt and the gmrt from 325  mhz to 8.4  ghz @xcite .",
+    "we have modeled the light curves we obtained together with earlier reported fluxes from wsrt @xcite , gmrt @xcite , and vla & atca @xcite@xcite .",
+    "the afterglow was clearly detected at all frequencies except for 325  mhz , where we could only obtain upper limits .",
+    "grb030329 is the first afterglow to be detected at frequencies below 1  ghz : at 840  mhz with wsrt and even as low as 610  mhz with gmrt .",
+    "the light curves show the peak of the broadband synchrotron spectrum moving to lower frequencies in time .",
+    "after 80 days the observed light curves decrease less steeply than expected , which can be explained by a transition into the non - relativistic phase of the blast wave @xcite@xcite@xcite .",
+    "it was suggested in @xcite that this late - time behaviour could also be explained by a third jet - component with an even wider opening angle than the first two .",
+    "however , the latter model is excluded by the observations below 1  ghz , which leaves the model with the non - relativistic phase after 80 days as the preferred model for the late - time behaviour of the blast wave @xcite .",
+    "the low frequency array will be a major new multi - element , interferometric , imaging telescope designed for the 30 - 240  mhz frequency range .",
+    "lofar will use an array of simple omni - directional antennas .",
+    "the electronic signals from the antennas are digitised , transported to a central digital processor , and combined in software to emulate a conventional antenna .",
+    "lofar will have unprecedented sensitivity and resolution at metre wavelengths . this will give the grb community the opportunity to study bright afterglows on even longer timescales than with observations at centimetre wavelengths .",
+    "we have extrapolated the modeling results of the radio afterglow of grb030329 to the lofar observing range @xcite .",
+    "the predicted light curves show that grb030329 will be observable in the high band of lofar ( 120 - 240  mhz ) , but not in the low band ( 30 - 80  mhz ) .",
+    "we also calculated light curves for grb030329 if it were situated at a redshift of 1 instead of 0.16 .",
+    "the resulting fainter afterglow can also be detected in the high band , although with longer integration times ( on the order of a day instead of an hour ) ."
+  ],
+  "abstract_text": [
+    "<S> radio observations of gamma - ray burst ( grb ) afterglows are essential for our understanding of the physics of relativistic blast waves , as they enable us to follow the evolution of grb explosions much longer than the afterglows in any other wave band . we have performed a three - year monitoring campaign of grb030329 with the westerbork synthesis radio telescopes ( wsrt ) and the giant metrewave radio telescope ( gmrt ) . our observations , combined with observations at other wavelengths , have allowed us to determine the grb blast wave physical parameters , such as the total burst energy and the ambient medium density , as well as investigate the jet nature of the relativistic outflow . </S>",
+    "<S> further , by modeling the late - time radio light curve of grb030329 , we predict that the low frequency array ( lofar , 30 - 240  mhz ) will be able to observe afterglows of similar grbs , and constrain the physics of the blast wave during its non - relativistic phase .    </S>",
+    "<S> [ 1999/12/01 v1.4c il nuovo cimento ] </S>"
+  ]
+}

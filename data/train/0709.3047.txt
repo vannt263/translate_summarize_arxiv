@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "in a `` classical '' way , extraction of stellar population parameters and internal kinematics from absorption - line spectra of galaxies , integrated along a line of sight go independently .",
+    "internal kinematics is determined by deconvolving the observed spectrum with a single spectrum of a star ( `` template spectrum '' ) , observed with the same setup ( see e.g. sargent et al .",
+    "1977 ) , or with a linear combination of template spectra ( optimal template fitting ) ( van der marel & franx , 1993 ) .",
+    "stellar population parameters are normally estimated using absorption line strength indices : low - resolution ( @xmath110 ) lick indices ( worthey et al .",
+    "1994 ) , or intermediate - resolution indicators ( e.g. vazdekis & arimoto , 1999 ) .",
+    "caveats of the classical approaches are : ( 1 ) the template mismatch , putting limitations on the precision of kinematics , ( 2 ) non - optimal usage of information , contained in the spectrum , when measuring absorption line strength indices .",
+    "one of the modern approaches , steckmap ( ocvirk et al .",
+    "2006 ) performs analysis of the complete spectral energy distribution to extract simultaneously sfh and losvd in a non - parametric way .",
+    "we propose a new approach for determination of parametrized losvd and sfh .",
+    "our method is the generalization of the penalized pixel fitting algorithm ( cappellari & emsellem , 2004 ) .",
+    "an optimal template is represented by the linear combination of ssp s with free ages and metallicities , determined in the same minimization loop , using interpolation of the pre - computed grid of pegase.hr ssp s ( le borgne et al .",
+    "2004 ) .",
+    "where @xmath3 is losvd ; @xmath4 and @xmath5 are observed flux and its uncertainty ; @xmath6 is the flux from an synthetic spectrum , represented by a linear combination of @xmath7 ssp s and convolved according to the line - spread function of the spectrograph ; @xmath8 and @xmath9 are multiplicative and additive legendre polynomials of orders @xmath10 and @xmath11 for correcting the continuum ; @xmath12 is age , @xmath13 is metallicity , @xmath14 , @xmath15 , @xmath16 , and @xmath17 are radial velocity , velocity dispersion and gauss - hermite coefficients respectively ( van der marel & franx , 1993 ) .",
+    "precision of the parameter estimates with our technique are discussed in details in koleva et al .",
+    "the simplest case , @xmath18 , allows to compare of with the stellar population parameters derived using lick indices . due to optimized usage of information contained in the spectra ,",
+    "our technique provides 2 to 5 time better precision compared to lick indices for the same s / n ratio for a typical spectral range and resolution of modern intermediate - resolution instruments : 4200@xmath195600 ; @xmath20 .",
+    "we used nbursts to analyse data on early type dwarf galaxies : ( 1 ) 3d spectroscopy of de galaxies in the virgo cluster and nearby groups ( mpfs ifu spectrograph at the russian 6-m telescope ) , ( 2 ) high - resolution multi - object spectroscopy of a sample of early - type galaxies in the abell 496 cluster ( flames - giraffe at eso vlt ) .",
+    "details on the results and interpretation are available in chilingarian ( 2006 , phd thesis ) .",
+    "kinematically ( chilingarian et al . 2007 ) and evolutionary ( chilingarian et al .",
+    "2006 ) decoupled structures are revealed in most of the galaxies from our 3d spectroscopic sample .",
+    "disky features and intermediate - age stellar population strengthen the connection between early and late - type dwarf galaxies    we are very grateful to the financial support , provided by the iau to ic and mk .",
+    "phd thesis of ic is supported by the intas ys grant 04 - 83 - 3618 , studies of de galaxies at sai msu are supported by the bilateral russian - flemish grant rfbr 05 - 02 - 19805mf_a ."
+  ],
+  "abstract_text": [
+    "<S> we present a novel approach for simultaneous extraction of stellar population parameters and internal kinematics from the spectra integrated along a line of sight . </S>",
+    "<S> we fit a template spectrum into an observed one in a pixel space using a non - linear @xmath0 minimization in the multidimensional parameter space , including characteristics of the line - of - sight velocity distribution ( losvd ) and parametrized star formation history ( sfh ) . </S>",
+    "<S> our technique has been applied to ifu and multi - object spectroscopy of low - luminosity early type galaxies . </S>"
+  ]
+}

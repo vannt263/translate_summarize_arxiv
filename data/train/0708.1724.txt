@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "alfa zoa will include a shallow survey that covers galactic latitudes @xmath3 and runs commensally with galactic hi observations , and a deep survey that covers galactic latitudes @xmath4 . while both components of the survey begin in summer 2007 , we have conducted precursor observations in 2005 - 2006 on two patches of sky totaling 140 @xmath0 .",
+    "the precursor observing strategy matched the observational setup of the shallow survey : each point on the sky is covered by two passes , using the `` basketweave technique '' ( where the telescope is always pointing towards the meridian , but nods back and forth in elevation ) that will be utilized in the shallow survey .",
+    "the data were reduced using software originally developed for the parkes multibeam surveys ( livedata , gridzilla ) , adapted for arecibo .",
+    "data were gridded using a median filter , taking advantage of the re - observations of sky pointings afforded by the basketweave technique .",
+    "cubes were searched by eye , and hi parameters were fit in miriad .",
+    "the parameters extracted from the spectra include sky coordinates , systemic velocity , hi flux , and hi width .",
+    "the rms sensitivity for these observations was 5 - 6 mjy .",
+    "72 galaxies were detected in the observed sky regions .",
+    "57 of those galaxies have a counterpart in ned within 3.5 , with 32 of those having previously known redshifts in the literature .",
+    "23 of the objects have hi fluxes and widths in the literature .",
+    "the literature values come from ( * ? ? ?",
+    "* pantoja  ( 1997 ) ) , ( * ? ? ?",
+    "* rosenberg & schneider 2000 ) , ( * ? ? ?",
+    "* donley  2005 ) , and ( * ? ? ?",
+    "* wong  2006 ) .",
+    "thus , even though many of our detections are previously known objects , the majority do not have previously known redshifts .",
+    "only 10 of the 72 detections are in the inner galaxy region ( which covers 40 of the total 140 @xmath0 ) , where all but one of the counterparts have been detected in the radio only , with none of them included in the two micron all sky survey ( 2mass , ( * ? ? ?",
+    "* skrutskie  2006 ) ) , whereas the bulk of the counterparts in the outer galaxy region were detected by 2mass .",
+    "we also find that the hi parameters from the literature appear to be in good agreement with our measured parameters .",
+    "this research was performed while c.m.s .",
+    "held a national research council research associateship award at the naval research laboratory .",
+    "basic research in astronomy at the naval research laboratory is supported by 6.1 base funding .",
+    "p.a.h . acknowledges support from nsf grant ast-0506676 .",
+    "the arecibo observatory is part of the national astronomy and ionosphere center , which is operated by cornell university under a cooperative agreement with the national science foundation ."
+  ],
+  "abstract_text": [
+    "<S> the arecibo l - band feed array zone of avoidance survey ( alfa zoa ) will map 1350 - 1800 @xmath0 at low galactic latitude , providing hi spectra for galaxies in regions of the sky where our knowledge of local large scale structure remains incomplete , owing to obscuration from dust and high stellar confusion near the galactic plane . because of these effects , a substantial fraction of the galaxies detected in the survey will have no optical or infrared counterparts . </S>",
+    "<S> however , near infrared follow up observations of alfa zoa sources found in regions of lowest obscuration could reveal whether some of these sources could be objects in which little or no star formation has taken place ( `` dark galaxies '' ) . </S>",
+    "<S> we present here the results of alfa zoa precursor observations on two patches of sky totaling 140 @xmath0 ( near @xmath1 , and @xmath2 ) . </S>",
+    "<S> we have measured hi parameters for detections from these observations , and cross - correlated with the nasa / ipac extragalactic database ( ned ) . a significant fraction of the objects have never been detected at any wavelength . for those galaxies that have been previously detected , a significant fraction have no previously known redshift , and no previous hi detection . </S>"
+  ]
+}

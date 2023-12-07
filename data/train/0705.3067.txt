@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "twenty years after the explosion , the blast wave from sn1987a has now reached and is plowing through the circumstellar ring .",
+    "protrusions caused by rayleigh - taylor instabilities in the ring were hit first by the blast wave , giving rise to a series of `` hotspots '' around the ring [ 2,5,6 ] .",
+    "the interaction has three different velocity components :    \\1 .",
+    "extremely broad ( @xmath215,000 to 15,000 km s@xmath3 ) emission in h@xmath1 and ly@xmath1 that traces h atoms crossing the reverse shock .",
+    "this can be seen in low - resolution spectra [ 4 ] .",
+    "one sees blueshifted emission to the north , and redshifted emission to the south , like the expansion pattern of the ring itself [ 1 ] .",
+    "broad ( few 10@xmath4 km s@xmath3 ) components emitted by gas in the ring that has been passed over by the forward shock [ 2,3 ] .",
+    "this is the emission from the `` hotspots ''",
+    "narrow ( 10 s of km s@xmath3 ) emission lines from slow - moving gas in the circumstellar ring that has not yet been reached by the shock , but is photoionized by uv emission from the shock interaction [ 3 ] .    here",
+    "we concentrate on the spatially resolved emission - line profiles of the shock - heated has in the hotspots on the north ( near ) and south ( far ) sides of the ring , seen in h@xmath1 and he  i @xmath010830 .    , and",
+    "[ n  ii ] spectra . ]",
+    "* observations : * we present high resolution ( r=60,000 ) ground - based spectra of the inner equatorial ring of sn  1987a .",
+    "we used the phoenix spectrograph on gemini south to observe he  i @xmath010830 in apr 2006 , with the 0.5  slit oriented as in fig .  1 .",
+    "these long - slit data spatially resolved the north and south sides of the ring ( fig.1a ) .",
+    "we also used the mike echelle spectrograph at the magellan observatory to obtain the optical spectrum in march 2005 .",
+    "the 2-d spectrum of h@xmath1 is shown in fig .",
+    "tracings of the north and south sides of the rings are shown in figures 1c and d , respectively , for both lines as well as [ n  ii ] @xmath06583 .",
+    "the [ n  ii ] line has stronger narrow emission from unshocked circumstellar gas , and is scaled up to show that the profile of its broad shocked component is identical to h@xmath1 .",
+    "line profiles in fig .  1 .",
+    "in the scenario depicted in figure 2 , we can understand the difference in line profile shape between he  i @xmath010830 and h@xmath1 as a consequence of ionization levels , geometry , and shock kinematics .",
+    "when the expanding blast wave encounters an obstacle like an equatorial ring , with or without a protruding `` finger '' from rayleigh - taylor instabilities , the shock will penetrate the dense material head - on and decelerate , but it will also wrap around the object , transmitting weaker and slower oblique shocks into the sides of the obstacle ( see fig .  2 ) .",
+    "the denser , cooler , slower , and lower - ionization gas in these oblique shocks probably dominates the h@xmath1 and broad [ n  ii ] emission [ 3 ] .",
+    "this will produce broad emission at both blue and redshifted velocities .",
+    "he  i @xmath010830 emission will arise in this same gas , but it is also likely to be enhanced relative to h@xmath1 in the hotter and higher ionization gas at the head of the shocked column . if true , that would in principle explain the observed line profiles , because that gas would have higher projected speeds on both the blue and red sides of the ring ( fig .",
+    "2 ) than the circumstellar gas struck by the oblique shocks in the side of the column , as observed ( fig .  1 ) .",
+    "the enhanced he  i emission at the end of the shocked column , plus the weakness of the narrow he  i emission from unshocked gas ( less than 5% of the total ) means that he  i @xmath010830 images of the hotspots [ 6 ] are among the best tracers of the strong shocks in the circumstellar gas .",
+    "a comparison of variability between h@xmath1 and he  i in high - resolution images might provide important clues about the geometry of the shock front .",
+    "if the `` fingers '' that are being illuminated by the shock at the present time to produce the hotspots really are the inner protrusions from a more massive ring , then we should expect the ring to brighten dramatically in the near future in he  i @xmath010830 as this more extended material is overtaken by the main blast wave ."
+  ],
+  "abstract_text": [
+    "<S> we present the first high - dispersion spectroscopy of he  i @xmath010830 from the hotspots in the ring around sn1987a , obtained at gemini south , spatially resolving the near and far sides of the ring . </S>",
+    "<S> we compare these line profiles to similar echelle spectra of h@xmath1 and [ n  ii ] @xmath06583 obtained at the magellan observatory . </S>",
+    "<S> we find that the he  i profiles are much broader than h@xmath1 or [ n  ii ] , but the he  i profiles also have different shapes  they have enhanced emission at high speeds , with extra blueshifted emission on the north side of the ring , and extra redshifted emission on the south side . to explain this , we invoke a simple geometric picture where the extra he  i emission traces hotter gas from faster shocks that strike the apex of the hotspots directly , while the h@xmath1 preferentially traces cooler lower - ionization gas from slower transverse shocks that penetrate into the sides of the ring .     address = astronomy department , university of california , 601 campbell hall , berkeley ca 94720     address = jila , university of colorado , 440 ucb , boulder , co 80309 </S>"
+  ]
+}

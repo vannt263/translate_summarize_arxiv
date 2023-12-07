@@ -1,0 +1,21 @@
+{
+  "article_text": [
+    "throughout this paper we work in the piecewise linear category .",
+    "we shall study knots and links in the three - dimensional euclidean space @xmath0 . for the standard definitions and results of knots and links",
+    ", we refer to @xcite , @xcite , @xcite , @xcite , @xcite , @xcite , @xcite and @xcite .    for the purpose of defining a numerical invariant of knots and links ,",
+    "we need to prepare following terms .",
+    "a link diagram is _ ordered _ if an order is given to its components .",
+    "a link diagram is _ based _ if a basepoint ( different from the crossing points ) is specified on each component .",
+    "a link diagram is _ oriented _ if an orientation is specified on each component .",
+    "let @xmath1 be a link , and let @xmath2 be a based ordered oriented link diagram of @xmath1 .",
+    "the _ descending diagram _ of @xmath2 is obtained as follows , and will be denoted by @xmath3 .",
+    "beginning at the basepoint of the first component of @xmath2 and proceeding in the direction specified by the orientation , change the crossings as necessary so that each crossing is first encountered as an over - crossing .",
+    "continue this procedure with the remaining components in the sequence determined by the ordering , proceeding from the basepoint in the direction determined by the orientation , changing crossings so that ultimately every crossing is first encountered as an over - crossing .",
+    "the result is the descending diagram @xmath3 obtained from @xmath2 .",
+    "an example is shown in figure [ example1 ] .",
+    "note that @xmath3 is a diagram of a trivial link ."
+  ],
+  "abstract_text": [
+    "<S> we introduce a new numerical invariant of knots and links from the descending diagrams . it is considered to live between the unknotting number and the bridge number . </S>"
+  ]
+}

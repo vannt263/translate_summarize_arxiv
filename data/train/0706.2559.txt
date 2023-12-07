@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "the molecular setup and grain types in the circumstellar envelopes ( cses ) of agb stars are to a large extent determined by the c / o - ratio in the photosphere of the central star .",
+    "there exists three chemical types : the carbon stars , with c / o@xmath01 , the m - stars , with c / o@xmath11 , and the s - stars , with c / o@xmath21 . the s - stars are believed to be a short transitional phase , as dredge - up of carbon from he - shell burning , changes the spectral type from m - stars to carbon stars .",
+    "the agb stars contribute to the chemical evolution of galaxies through their extensive mass loss and an understanding of their circumstellar properties is important in the study of galactic chemistry .",
+    "the mass - loss characteristics and molecular setup of m- and carbon stars are relatively well - studied .",
+    "however , comparatively little attention has been given to the s - stars . in order to improve this situation",
+    "we have started a project aimed at obtaining an extensive database of molecular line emission towards a sample of 40 s - stars from common molecules such as co , sio , hcn , cs and sis .",
+    "the properties of the gas present in the cses have been determined from co data using detailed non - lte radiative transfer modelling , which self - consistently also calculates the kinetic temperature of the gas @xcite .",
+    "the properties of the dust present in the cses were also determined and included in the co excitation analysis .",
+    "it was found that the s - stars resembles the mass - loss rate distributions of m - type agb stars and carbon stars with a median mass - loss rate of 2@xmath310@xmath4m@xmath5yr@xmath6 , possibly with a scarcity of objects with high mass - loss rates ( @xmath710@xmath8m@xmath5yr@xmath6 ) .",
+    "the expansion velocities of the envelopes are on average similar to the m - type agb stars but lower than the carbon stars .",
+    "once the physical properties of the dust and gas present in the cses are determined , accurate molecular abundances can be estimated and compared with predictions from chemical modelling , as well as with results for m - stars and carbon stars .",
+    "in addition to the already published co data we have detected sio @xmath9=2@xmath101 in 20 stars and sio @xmath9=5@xmath104 in 18 stars using the iram 30 m telescope . also , sio @xmath9=8@xmath107 has been detected in 17 of the sample stars with apex .",
+    "this will be further complimented by observations at jcmt in november 2006 .",
+    "we have also obtained interferometric sio data for @xmath11 gru and w aql using atca .",
+    "moreover , we have gathered data of radio line emission from other molecules , mainly sis and hcn .",
+    "we have started modelling the sio radio line emission ( see fig .",
+    "1 ) towards the sample , to determine accurate abundances using a detailed excitation analysis ( ramstedt et al . , in prep ) . of interest is to see if the s - stars shows the same decline of the average sio abundance in the cse with mass - loss rate as is found for m - type agb - stars @xcite and carbon stars @xcite , indicative of freeze - out on to dust grains .",
+    "also , the effect of non - equilibrium chemistry can be further tested ."
+  ],
+  "abstract_text": [
+    "<S> the s - stars have been suggested to be a brief transitional phase as stars evolve from oxygen - rich m - type stars into carbon stars , through the dredge up of carbon from he - shell burning . as possible transition objects , s - stars might help achieve a deeper understanding of the chemical evolution as a star ascends the agb , as well as shed more light on the mass - loss mechanism . </S>",
+    "<S> we have initiated a large survey of 40 s - stars to observe line emission in common molecules such as co , sio , hcn , cs and sis . </S>",
+    "<S> detailed radiative transfer modelling of multi - transition co radio line observations towards a sample of 40 s - stars shows that the mass - loss rate distribution of s - stars is consistent with those found for m - type agb stars and carbon stars . </S>",
+    "<S> initial results from modelling of the circumstellar sio emission are also presented . </S>"
+  ]
+}

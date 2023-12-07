@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the euv imaging spectrograph ( eis ) on solar - b will provide high resolution euv spectra over the wavelength ranges 170210    and 250290    where there are many strong emission lines from coronal species , particularly the iron ions .",
+    "strong transition region lines in uv are found only above 400   , however , and thus only weak lines are found in the eis wavebands .",
+    "table  [ tbl.transitions ] lists the most important of these lines together with their temperature of maximum abundance ( @xmath0 ) .",
+    "the following sections use data obtained with the coronal diagnostic spectrometer ( cds ) on soho to show that these transition region lines can become strong in certain active region features and will complement the coronal line data .    llll ion & wavelength / &transition & log@xmath0/k + & 276.58 & @xmath1 @xmath2 ",
+    "@xmath3 @xmath4 & 5.5 + & 185.12 & @xmath5 @xmath6 ",
+    "@xmath7 @xmath8 & 5.6 + & 268.99 & @xmath9 @xmath10 ",
+    "@xmath11 @xmath12 & 5.7 + & 270.40 & @xmath9 @xmath13 ",
+    "@xmath11 @xmath14 & 5.7 + & 278.39 & @xmath15 @xmath16 ",
+    "@xmath17 @xmath18 & 5.8 + & 280.75 & @xmath15 @xmath2 ",
+    "@xmath17 @xmath4 & 5.8 + & 275.35 & @xmath1 @xmath16 ",
+    "@xmath3 @xmath16 & 5.8 +    [ tbl.transitions ]",
+    "eis has excellent density diagnostic capability at coronal temperatures , with several line ratio diagnostics with strong sensitivity to density .",
+    "there is also one diagnostic below 10@xmath19  k : 280.75/278.39 formed at @xmath20 .",
+    "figure  [ fig.mg7-dens ] shows the sensitivity of the ratio as a function of density derived from v5.1 of the chianti database @xcite .",
+    "care has to be taken with the @xmath21278.39 line as it is blended with @xmath21278.44 , however this can be accounted for if the @xmath21275.35 line is observed , since the @xmath21278.44/@xmath21275.35 ratio has a value of 0.32 in all solar conditions .",
+    "the value of the ratio is illustrated in figure  [ fig.mg7-dens ] , where density measurements obtained with cds in the coronal loop discussed in sect .",
+    "3 are presented .",
+    "is used in the loop footpoint where the coronal diagnostics are not useful .",
+    "llllllll & & & & average + ion & @xmath21&intensity & & @xmath21&intensity & signal & signal + & [  ] & [ erg/@xmath22/s / sr]&&[ ] & [ erg/@xmath22/s / sr ] & [ dn / s ] & [ dn / s ] + & 353.2 & 561 &  & 276.58 & 309 & 14.7 & 1.1 + & 349.2 & 812 & & 270.40 & 487 & 29.8 & 6.6 + & 367.7 & 585 & & 278.39 & 450 & 18.3 & 3.3 + & 319.0 & 602 & & 280.75 & 331 & 10.5 & 5.9 +    [ tbl.intensities ]    coronal loops observed with cds often show bright emission in upper transition region lines at their footpoints .",
+    "they are particularly strong in lines of , and .",
+    "emission lines from these ions are also seen with eis , and we can directly estimate emission line strengths for eis based on the cds spectra .",
+    "the images in figure  [ fig.cds_images ] show one particular isolated loop , where the cds data show the footpoint to be bright in the cool mg ions .",
+    "intensities from cds are given in table  [ tbl.intensities ] , together with intensities for the eis lines predicted from the cds lines using atomic data from chianti .",
+    "the intensities are then converted to data numbers ( dn ) per second , and compared with average active region values showing the large enhancements found in the footpoints .",
+    "= 1.8 in = 3.2 in",
+    "blinkers are flashes in the transition region , first studied with cds ( harrison 1997 ) . in active regions , the intensities of blinkers can be factors 10@xmath2310@xmath24 higher than in the quiet sun and have densities up to 10@xmath25 @xmath26 @xcite .",
+    "they appear to be related to new flux emergence and have photospheric abundances @xcite , being particularly pronounced in emission lines of ne and o. an example from cds is shown in figure  [ fig.blinkers ] .    as with loop footpoints ,",
+    "the lines are strongly enhanced in these blinker events , however the blinkers are usually found in the central part of active regions where coronal lines are strong .",
+    "studies with cds were thus compromised by significant blending with coronal lines .",
+    "this will not be a problem with the higher spectral resolution of eis , while the higher spatial resolution of eis will concentrate the blinkers into 1 or 2 spatial pixels , leading to higher photons / pixel than found with cds .",
+    "weak transition region lines in the eis wavelength bands will provide extremely valuable science in studies of active regions .",
+    "the coolest ions ( , , ) will highlight coronal loop footpoints : of great benefit when combining with the photospheric / chromospheric data from sot . the density diagnostic will provide a density measurement in these footpoint regions .",
+    "active region blinkers will be seen in the transition region lines , and the high spectral resolution of eis will allow the relationship with explosive events to be understood .",
+    "again by coupling with the sot data , the precise relationship between these blinkers and the magnetic field evolution can be determined ."
+  ],
+  "abstract_text": [
+    "<S> transition region lines in active regions can become strongly enhanced in coronal footpoints and active region blinkers . </S>",
+    "<S> the weak transition region lines found in the solar - b / eis wavebands will thus become useful for diagnostic studies of these events . </S>",
+    "<S> eis count rates predicted from soho / cds spectra are presented , and a density diagnostic is highlighted . </S>"
+  ]
+}

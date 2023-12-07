@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the author is very grateful to martin davis for some help with the english ."
+  ],
+  "abstract_text": [
+    "<S> the riemann hypothesis can be reformulated as statements about the eigenvalues of certain matrices whose entries are defined in terms of the taylor coefficients of the zeta function . </S>",
+    "<S> these eigenvalues exhibit interesting visual patterns allowing one to state a number of conjectures .    </S>",
+    "<S> the hankel matrices introduced here are obtained , by rearranging of columns , from toeplitz matrices whose eigenvalues were considered in http://arxiv.org/abs/0707.1983 . the present paper is a continuation of this paper and references such as 1x , 1.x , ( 1.x.y ) , and 1.x.y refer respectively to conjectures , sections , formulas , or figures from there .    [ [ section ] ]      as it was indicated in section 1.6 , we can give an alternative representation for the numbers @xmath0 ( defined by the expansion ( 1.5.1 ) ) , in the form of determinants , by rearranging the columns of the matrices @xmath1 introduced by ( 1.6.3 ) . </S>",
+    "<S> more generally , we rearrange the columns of the matrices @xmath2 defined by ( 1.14.2 ) : @xmath3 clearly , for all @xmath4 and @xmath5 we have @xmath6 so we have the following reformulations of versions 2 and 3 of subhypothesis @xmath7 from sections 1.14 ( with @xmath8 defined by ( 1.12.10 ) ) :    . _ for @xmath9 @xmath10 with some constant @xmath11_.    . _ </S>",
+    "<S> @xmath12 _      by analogy with ( 1.15.1 ) , we have the representation @xmath13 where @xmath14 are the eigenvalues of the matrix @xmath15 . </S>",
+    "<S> respectively , we have    . </S>",
+    "<S> @xmath16    the ( multi)set @xmath17 will be called @xmath18-_spectrum _ of the function @xmath19 and will be denoted  @xmath20 .      according to , the ( geometric ) mean of @xmath21 , @xmath22 ,  , @xmath23 approaches @xmath8 when @xmath5 goes to infinity , which is similar to the behavior of the eigenvalues @xmath24 , @xmath25 ,  , @xmath26 . </S>",
+    "<S> however , there are many differences between the distribution of the eigenvalues from spectra @xmath27 and @xmath28 .    </S>",
+    "<S> the first such difference is evident : the numbers @xmath21 , @xmath22 ,  , @xmath23 , being the eigenvalues of a hankel matrix with real entries , are all real themselves .    </S>",
+    "<S> computations suggest that in contrast to the case of the @xmath29-spectra , the union @xmath30 is bounded neither from above nor from below . </S>",
+    "<S> moreover , the point @xmath31 is a limit point of this set . </S>",
+    "<S> that is why it is reasonable to consider the sets @xmath32 which will be called _ </S>",
+    "<S> logarithmic @xmath18-spectra_. when exhibiting several logarithmic @xmath18-spectra , we will shift the lines vertically , that is , an eigenvalue @xmath33 from @xmath34 will be placed at point @xmath35 .     </S>",
+    "<S> +     +     +     +     +     +    figures [ picm1][picm6 ] show spectra @xmath36 ,  , </S>",
+    "<S> @xmath37 for @xmath38 ( higher resolution version of these pictures can be downloaded from @xcite as well as some animations showing these spectra and thus revealing another kind of `` hidden life of riemann s zeta function '' ) .    </S>",
+    "<S> the pictures and the animations show that with the growth of @xmath5 some elements of @xmath39 go to @xmath40 while others go to @xmath41 ; the former will be called _ electrons _ and the latter will be called _ trains _ ( we postpone formal definition of splitting @xmath39 into _ lower part _ @xmath42 , consisting of the electrons , and _ </S>",
+    "<S> upper part _ </S>",
+    "<S> @xmath43 consisting of the trains ) .    </S>",
+    "<S> the names `` electrons '' and `` trains '' were suggested by the following visual patterns . </S>",
+    "<S> the electrons behave like charged particles , namely , they bounce . </S>",
+    "<S> the trains all go in pairs ( a surprising feature ! ) and every now and then they overtake one another .      </S>",
+    "<S> the above pictures suggest the following conjectures .    </S>",
+    "<S> _ for all @xmath4 _ </S>",
+    "<S> @xmath44    _ for all @xmath4 _ </S>",
+    "<S> @xmath45    it is impossible to see from the above pictures whether for the @xmath18-spectra there is a counterpart of conjecture 1f about the @xmath29-spectra . to make this clearer , in analogy with this conjecture , </S>",
+    "<S> let us assign to each point of @xmath39 the weight @xmath46 , and denote by @xmath47 the corresponding discrete measure on real numbers . </S>",
+    "<S> further , let @xmath48 denote the corresponding distribution function . </S>",
+    "<S> in terms of these functions we have    . @xmath49     +     +     +     +     +     +    figures [ picdist18][picdist6256 ] </S>",
+    "<S> show these functions for @xmath50 and @xmath51 . </S>",
+    "<S> these pictures suggest    _ for every @xmath4 functions @xmath48 have , as @xmath52 , the pointwise limiting continuous distribution function @xmath53 . _    </S>",
+    "<S> this is an analog of part @xmath54 of conjecture 1f for @xmath29-spectra . </S>",
+    "<S> however , it seems that part @xmath55 of this conjecture has no analog for @xmath18-spectra . according to , </S>",
+    "<S> such an analog would say that for all @xmath4 @xmath56 but theses integrals do not seem to exist :    _ for every @xmath4 _ </S>",
+    "<S> @xmath57    this implies that the validity of should be due to some fine correlation between eigenvalues from @xmath42 and @xmath43 . </S>",
+    "<S> the subtleness of this correlation follows from ( very surprising )    _ all distribution functions @xmath58 coincide ; that is , for all  @xmath4 and @xmath59 @xmath60 for some continuous distribution function @xmath61 . </S>"
+  ]
+}

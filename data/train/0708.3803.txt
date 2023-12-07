@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "the system formed in nucleus - nucles ( aa ) collisions at lhc will provide further insight into the dynamics of the deconfined state of nuclear matter .",
+    "there are also interesting effects anticipated for the initial state of the incoming nuclei related to shadowing of nuclear parton distributions and the space - time picture of the interaction .",
+    "these should be studied in the more `` clean '' environment of a proton - nucleus collision .",
+    "the initial - state effects constitute a baseline for calculation of the density of particles at all rapidities and affect therefore also high-@xmath0 particle suppression and jet quenching , as well as the total multiplicity .    both soft and relatively high-@xmath0 , @xmath1 gev / c , particle production in pa at lhc energies probe the low-@xmath2 gluon distribution of the target nucleus at moderate scales , @xmath3 , and is therefore mainly influenced by nuclear shadowing . in the glauber - gribov theory @xcite ,",
+    "shadowing at low-@xmath2 is related to diffractive structure functions of the nucleon , which are studied at hera .",
+    "the space - time picture of the interaction is altered from a longitudinally ordered rescattering at low energies , to a coherent interaction of the constituents of the incoming wave - functions at high energy .",
+    "shadowing affects both soft and hard processes .",
+    "calculation of gluon shadowing was performed in our recent paper @xcite , where gribov approach for the calculation of nuclear structure functions was used .",
+    "the schwimmer model was used to account for higher - order rescatterings .",
+    "the gluon diffractive distributions are taken from the most recent experimental parameterizations @xcite .",
+    "shadowing will lead to a suppression both at mid- and forward rapidities in p+pb collisions at @xmath4 tev as seen in fig .  [",
+    "fig : r_pa ] . we have plotted the curves for two distinct kinematical scenarios of particle production ; one - jet kinematics which may be well motivated for particle production at @xmath5 gev / c and two - jet kinematics that apply for high-@xmath0 particle producion .",
+    "the uncertainty in the curves is due to uncertainty in the parameterization of gluon diffractive distribution functions .",
+    "cronin effect is not included in the curves of fig .  [",
+    "fig : r_pa ] .",
+    "we estimate it to be a 10% effect at these energies .    in fig .",
+    "[ fig : coldnucl ] we present the suppresion due to cold - nuclear effects in pb+pb collisions at @xmath4 tev as a function of centrality ( top ) and rapidity ( bottom ) . also here",
+    "we present the results for two kinematics .",
+    "= 5.5 tev . ]",
+    "= 5.5 tev.,title=\"fig : \" ] +   = 5.5 tev.,title=\"fig : \" ]"
+  ],
+  "abstract_text": [
+    "<S> we present predictions for nuclear modification factor in proton - lead collisions at lhc energy 5.5 tev from glauber - gribov theory of nuclear shadowing . </S>",
+    "<S> we have also made predictions for baseline cold - matter nuclear effects in lead - lead collisions at the same energy . </S>"
+  ]
+}

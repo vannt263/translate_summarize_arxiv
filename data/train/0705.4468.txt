@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "10    p.  arnold , g.  d.  moore and l.  g.  yaffe , jhep * 0111 * , 057 ( 2001 ) ; jhep * 0112 * , 009 ( 2001 ) ; jhep * 0206 * , 030 ( 2002 ) .",
+    "k.  j.  eskola , h.  honkanen , h.  niemi , p.  v.  ruuskanen and s.  s.  rsnen , phys .",
+    "c * 72 * , 044904 ( 2005 ) .",
+    "k.  j.  eskola , k.  kajantie , p.  v.  ruuskanen and k.  tuominen , nucl .",
+    "b * 570 * ( 2000 ) 379 .",
+    "g.  y.  qin , j.  ruppert , s.  turbide , c.  gale , c.  nonaka and s.  a.  bass , arxiv:0705.2575 [ hep - ph ] ."
+  ],
+  "abstract_text": [
+    "<S> the nuclear modification factor @xmath0 for charged hadron production at the lhc is predicted from jet energy loss induced by gluon bremsstrahlung . </S>",
+    "<S> the arnold , moore , and yaffe @xcite formalism is used , together with an ideal hydrodynamical model @xcite .    </S>",
+    "<S> we present a calculation of the nuclear modification factor @xmath0 for charged hadron production as a function of @xmath1 in pb+pb collisions at @xmath2 in central collisions at mid - rapidity at the lhc . </S>",
+    "<S> the net - energy loss of the partonic jets is calculated by applying the arnold , moore , and yaffe ( amy ) formalism to calculate gluon bremsstrahlung @xcite . </S>",
+    "<S> the details of jet suppression relies on an understanding of the nuclear medium , namely the temperatures and flow profiles that are experienced by partonic jets while they interact with partonic matter at @xmath3 . </S>",
+    "<S> our predictions use a boost - invariant ideal hydrodynamic model with initial conditions calculated from perturbative qcd + saturation @xcite . </S>",
+    "<S> it is emphasized that the reliability of this work hinges on the validity of hydrodynamics at the lhc . </S>",
+    "<S> it has been verified that @xmath0 for @xmath4 production as a function of @xmath1 as obtained in the same boost - invariant ideal hydrodynamical model adjusted to au+au collisions at @xmath5 @xcite is in agreement with preliminary data from phenix in central collisions at rhic ( and the result is very close to the one obtained in 3d hydrodynamics presented in @xcite ) . in amy </S>",
+    "<S> the strong coupling constant @xmath6 is a direct measure of the interaction strength between the jet and the thermalized soft medium and is the only quantity not uniquely determined in the model , once the temperature and flow evolution is fixed by the initial conditions and subsequent hydrodynamical expansion . </S>",
+    "<S> we found that assuming a constant @xmath7 describes the experimental data in most central collisions at rhic . </S>",
+    "<S> it is conjectured that @xmath6 should not be changed very much at the lhc since the initial temperature is about twice larger than the one at rhic whereas @xmath6 is only logarithmically dependent on temperature . </S>",
+    "<S> we present results for @xmath8 .    </S>",
+    "<S> for details of the calculation of nuclear suppression , we refer the reader to @xcite . </S>",
+    "<S> the extension to the lhc once the medium evolution and @xmath6 are fixed is straightforward . </S>",
+    "<S> the initial jets are produced with an initial momentum distribution of jets computed from pqcd in the factorization formalism including nuclear shadowing effects . </S>",
+    "<S> the probability density @xmath9 of finding a hard jet at the transverse position @xmath10 in central a+b collisions is given by the normalized product of the nuclear thickness functions , @xmath11 and is calculated for pb+pb collisions . </S>",
+    "<S> the evolution of the jet momentum distribution @xmath12 in the medium is calculated by solving a set of coupled rate equations with the following generic form , @xmath13,\\end{aligned}\\ ] ] where @xmath14 is the transition rate for the partonic process @xmath15 which depends on the temperature and flow profiles experienced by the jets traversing the medium . </S>",
+    "<S> the hadron spectrum @xmath16 is obtained by the fragmentation of jets after their passing through the medium . </S>",
+    "<S> the nuclear modification factor @xmath0 is computed as @xmath17    in fig .  </S>",
+    "<S> [ raa ] we present a prediction for charged hadron @xmath0 as a function of @xmath1 at mid - rapidity for central collisions at the lhc . </S>",
+    "<S> we consider that these two values of @xmath6 define a sensible band of physical parameters .    </S>",
+    "<S> acknowledgments : we thank the authors of @xcite for providing their hydrodynamical evolution calculation at rhic and lhc energies , t. renk for discussions , and the natural sciences and engineering research council of canada for support . </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "ngc6611 is a young open cluster with log(age )  =  6.2 or 6.8 , depending on the authors . according to hillenbrand et al .",
+    "( 1993 ) and de winter et al .",
+    "( 1997 ) it contains a great number of emission line stars ( els ) , whereas herbig & dahm ( 2001 ) only found a small number .",
+    "it is however worth noticing that the two first studies were carried out using slit spectrographs , while herbig & dahm ( 2001 ) used a slitless instrument not sensitive to the surrounding emission originating from the eagle nebula .    in order to further investigate the occurence of emission line stars in ngc6611 and to determine the nature of objects",
+    ", we used the wide field imager ( wfi ) at eso in slitless spectroscopic mode associated to a 200  nm passband h@xmath0 filter .",
+    "we further also made use of the multi - object spectrograph giraffe at the vlt in medusa mode .",
+    "the spectra obtained in this way allowed us : 1 ) to determine the stellar parameters , 2 ) to disentangle the circumstellar and nebular emissions , and 3 ) to determine the true nature of the targets .",
+    "with wfi , we obtained @xmath115000 spectra of the sources in ngc6611 and its surrounding field . due to the fact that wfi in slitless mode is not sensitive to the ambient nebular emission",
+    ", we listed the stars with and without circumstellar ( cs ) emission .",
+    "however , this slitless mode does not allow the detection of faint cs emissions .",
+    "a small number of els was identified and preselected for the vlt - giraffe observations .",
+    "the 100 objects finally observed with giraffe are shown in fig .",
+    "[ loc6611 ] .    among them , only 9 were identified as `` true '' cs els .",
+    "the main part of the previously known els had their spectra contaminated by nebular emission , as shown in figure  [ wfi_spectra ] where the h@xmath0 regions obtained with wfi and giraffe are displayed for two cases : w483 , a true els , and w371 , misidentified as els in previous slit spectroscopy .    [ cols=\"^,^ \" , ]",
+    "to investigate the nature of the stars observed with giraffe , we determined their fundamental parameters and studied their spectral energy distributions ( sed ) .",
+    "we determined the fundamental parameters ( ,  and ) by fitting the giraffe data with synthetic spectra following a procedure described in frmat et al .",
+    "other parameters ( mass , radius , age , luminosity ) were then estimated by interpolation in theoretical evolutionary tracks computed for a solar metallicity ( schaller et al .",
+    "a part of stars in the sample ( mainly the massive stars ) are young and lie close to the zams .",
+    "however , the analysis of our results demonstrates that a group of intermediate mass stars are too old by comparison to the age of this star - formation region .",
+    "consequently , these stars must be , in fact , considered as pre - main sequence stars ( pms ) , which go to reach the zams .",
+    "we therefore re - estimated their age using the pms evolutionary tracks computed by palla & stahler ( 1993 ) and iben(1965 ) .",
+    "the intrinsic interstellar reddening e(b - v ) was measured for each star by means of the interstellar lines at 443.0 and 661.3 nm .",
+    "it was used to correct the ubvi , jhk ( 2mass survey ) , 3.6@xmath2 m , 4.5@xmath2 m , 5.7@xmath2 m and 8@xmath2 m ( spitzer ) magnitudes .",
+    "each sed is normalized to the sed of a normal b star . for certain of non els stars , as well as for 5 of the els ,",
+    "the sed show an infrared excess .",
+    "the origin of this more or less strong infrared excess could be a disk or cocoon around the central star .",
+    "such an infrared excess is compatible with herbig ae / be stars or with pms stars .",
+    "this infrared study confirms the presence of pms stars and allows to determine / confirm that the main part of the observed els are herbig ae / be stars .      from the study of the h@xmath0 emission line ,",
+    "the fundamental parameters and the infrared excess , we concluded that :    * the stars wfi[n6611]017 , w080 , w235 , w483 , w500 , w503 are herbig ae / be stars . *",
+    "the star w031 is a possible herbig ae / be star but a doubt remains .",
+    "* the star w301 is a classical be star .",
+    "slitless spectroscopy ( wfi ) as well as high resolution slit spectroscopy ( vlt - giraffe ) confirm there are only few true emission line stars in ngc6611 as shown by herbig & dahm ( 2001 ) . thanks to the investigation of age and ir excess combined with spectral information we identified 8 herbig ae / be stars and 1 possible classical be star as well as several pms stars without emission .",
+    "moreover , considering the more massive stars of the cluster which lie on the main sequence we estimated the age of ngc6611 ; we found log(age)=6.8 @xmath3 ."
+  ],
+  "abstract_text": [
+    "<S> the number and the nature of emission line stars in the young open cluster ngc6611 is still the object of debates . due to the presence of a strong and variable nebulosity in the cluster </S>",
+    "<S> , the number of emission line stars is highly depending on the technique and the resolution used for the observations . </S>",
+    "<S> thanks to observations with the eso - wfi , in slitless spectroscopic mode , and with the vlt - giraffe we have been able to disentangle the circumstellar and nebular emissions . </S>",
+    "<S> we confirm the small number of true emission line objects and we precise their nature : mainly herbig be stars . </S>"
+  ]
+}

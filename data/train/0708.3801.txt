@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "in the glauber - gribov theory @xcite nuclear shadowing at low-@xmath0 is related to diffractive structure functions of the nucleon , which are studied experimentally at hera .",
+    "the space - time picture of the interaction for production of a heavy - quark state on nuclei changes from longitudinally ordered rescatterings at energies below the critical energy , corresponding to @xmath1 of an active parton from a nucleus becoming smaller than @xmath2 , to the coherent interaction of constituents of the projectile with a target nucleus at energies higher thant the critical one @xcite . for production of @xmath3 and @xmath4 in the central rapidity region the transition happens at rhic energies . in this kinematical region",
+    "the contribution of glauber - type diagrams is small and it is necessary to calculate diagrams with interactions between pomerons , which , in our approach , are accomodated in the gluon shadowing .",
+    "a similar model for @xmath3-suppression in d+au collisions at rhic has been considered in ref .",
+    ".    calculation of gluon shadowing was performed in our recent paper @xcite , where gribov approach for the calculation of nuclear structure functions was used .",
+    "the gluon diffractive distributions were taken from the most recent experimental parameterizations of hera data @xcite .",
+    "the schwimmer model was used to account for higher - order rescatterings .",
+    "we present predictions for the rapidity and centrality dependence of the nuclear modification factor in proton - lead ( p+pb ) collisions for both @xmath3 and @xmath4 in fig .",
+    "[ fig : rapdep ] ( the data on @xmath3 suppression at @xmath5 gev is taken from @xcite , where also a definition of the nuclear modification factor can be found ) .",
+    "we predict a similar suppression for open charm , @xmath6 , and bottom , @xmath7 , as for the hidden - flavour particles .",
+    "( left ) and @xmath4 ( right ) production in p+pb ( d+au ) collisions at @xmath8 5500 ( 200 ) gev .",
+    "experimental data are from @xcite.,title=\"fig : \" ] +    ( left ) and @xmath4 ( right ) production in p+pb ( d+au ) collisions at @xmath8 5500 ( 200 ) gev .",
+    "experimental data are from @xcite.,title=\"fig : \" ]    the observed @xmath9 scaling at low energies of the parameter @xmath10 ( from @xmath11 ) for @xmath3 production , which is broken already at rhic , will go to a scaling in @xmath1 at higher energies",
+    ". this will also be the case for @xmath4 and open charm and bottom .    in fig .",
+    "[ fig : coldnucl ] we present predictions for cold - nuclear matter effects due to gluon shadowing in lead - lead ( pb+pb ) collisions at lhc energy @xmath12 tev for the production of @xmath3 and @xmath4 .",
+    "the suppression is given as a function of rapidity and centrality . .     and @xmath4 production ."
+  ],
+  "abstract_text": [
+    "<S> we present predictions for heavy - quark production for proton - lead collisions at lhc energy 5.5 tev from glauber - gribov theory of nuclear shadowing . </S>",
+    "<S> we have also made predictions for baseline cold - matter ( in other words inital - state ) nuclear effects in lead - lead collisions at the same energy that has to be taken into account to understand properly final - state effects . </S>"
+  ]
+}

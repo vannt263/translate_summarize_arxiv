@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "molecules can easily form in large abundance in the cool atmospheres of agb stars and initiate a relatively complex chemistry that is further enhanced by photodissociation in the cse . however , most of the abundance estimates are based on rather simple methods and are typically order of magnitude estimates .",
+    "the first two more detailed studies of circumstellar abundances in larger samples of sources have been performed by @xcite and @xcite for sio in 45 m - type ( c / o@xmath41 in the photosphere ) agb stars and 19 carbon stars ( c / o@xmath51 in the photosphere ) , respectively .",
+    "average sio fractional abundances were obtained from a detailed ( non - local and nlte ) radiative transfer analysis of multi - transition single - dish observations .",
+    "interestingly , for the m - type agb stars the derived abundances are generally much lower than expected from photospheric equilibrium chemistry . for the carbon stars , on the other hand , the derived abundances are on the average two orders of magnitude higher than predicted by photospheric equilibrium chemistry .",
+    "moreover , there is a clear trend that the sio fractional abundance decreases as the mass - loss rate of the star increases , as would be the case if sio is accreted onto dust grains .",
+    "recently , high - spatial - resolution interferometric sio line observations have been published of the two m - type agb stars r  dor and l@xmath6  pup by @xcite and the carbon star irc+10216 by @xcite .",
+    "in addition , new sio data have been obtained for iras 151945115 , r cas , ik tau , r  crt ( see fig .  1 ) , irc10529 , irc+10365 , gx mon , and w hya using atca and vla ( schier et al .",
+    ", in prep . ) . a detailed excitation analysis reveal the presence of an inner compact component of high fractional abundance ( see fig .  1 ; right panel ) , consistent with predictions from stellar atmosphere chemistry in the case of the m - type objects but several orders of magnitude larger than expected for the carbon stars , indicating the importance of non - lte chemical processes as suggested by recent chemical models @xcite .",
+    "in addition , an extended low - abundance component , as expected if sio is effectively depleted onto grains in the inner wind , was required in order to fit the observations in all cases .",
+    "consequently , there are strong indications that circumstellar sio line emission carries information on the properties of the region where the mass loss of agb stars is initiated . however , our knowledge of the relative importance of freeze - out onto dust grains , photodissociation , and circumstellar chemistry is still rudimentary .",
+    "higher spatial resolution observations and additional progress on chemical models , including grains , are needed for further progress ."
+  ],
+  "abstract_text": [
+    "<S> we have performed high spatial resolution observations of sio line emission for a sample of 11 agb stars using the atca , vla and sma interferometers . </S>",
+    "<S> detailed radiative transfer modelling suggests that there are steep chemical gradients of sio in their circumstellar envelopes . </S>",
+    "<S> the emerging picture is one where the radial sio abundance distribution starts at an initial high abundance , in the case of m - stars consistent with lte chemistry , that drastically decreases at a radius of @xmath01@xmath110@xmath2 cm . </S>",
+    "<S> this is consistent with a scenario where sio freezes out onto dust grains . </S>",
+    "<S> the region of the wind with low abundance is much more extended , typically @xmath01@xmath110@xmath3 cm , and limited by photodissociation . </S>",
+    "<S> the surpisingly high sio abundances found in carbon stars requires non - equilibrium chemical processes . </S>"
+  ]
+}

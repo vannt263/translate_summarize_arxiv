@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the run ii d detector consists of the following main elements @xcite : central tracker , calorimeter and muon detector .",
+    "the central tracker consists of a silicon microstrip tracker ( smt ) and a central fiber tracker ( cft ) which are both located within 2 t superconducting solenoid magnet .",
+    "the smt was designed to optimize tracking and vertexing within @xmath5 .",
+    "the system has a six barrel longitudinal structure interspersed with 16 radial disks .",
+    "the cft has eight coaxial barrels , each supporting two dublets of overlapping scintillator fibers .",
+    "one doublet serves as axial and the other , alternating by @xmath6 , serves as a stereo .",
+    "the sampling calorimeter , made of uranium with liquid argon as active media , has a central section ( cc ) covering @xmath7 and two end caps ( ec ) covering @xmath8 .",
+    "the calorimeter is surrounded by the muon system consisting of three layers of scintillators and drift tubes with one layer inside 1.8 t toroid and two layers outside .",
+    "muon identification at @xmath9 relies on proportional drift tubes while tracking at @xmath10 relies on mini - drift tubes .",
+    "luminosity is measured using plastic scintillator arrays located in front of the ec cryostats covering @xmath11 .",
+    "the trigger system at d has three levels which reduce 1.7 mhz rate of inelastic collisions to 50 hz that is written to tape .",
+    "[ cols= \" < , > , > , > , > \" , ]      preliminary measurement of the cross section for the process @xmath14 in the mass range @xmath15 gev is performed @xcite using the data sample corresponding to an integrated luminosity of @xmath16 .",
+    "a total of 14352 di - muon events are selected with an estimated background fraction @xmath17 arising from @xmath18 , @xmath19 from cosmic rays , @xmath20 from @xmath21 and @xmath22 from @xmath23 and di - boson backgrounds ( see figure 1 ) .",
+    "measured cross section is : @xmath24 correcting the number of di - muon events by a factor of @xmath25 for the contribution from the pure photon exchange and @xmath26 interference , the result @xmath27 is obtained .",
+    "a preliminary measurement of the cross section for the process @xmath29 is performed @xcite using the data sample corresponding to an integrated luminosity of @xmath30 .",
+    "a total of 62285 candidate events are observed , of which @xmath31 are attributed to background processes ( see figure 1 ) .",
+    "measured cross section is : @xmath32",
+    "a measurement of the muon charge assymetry from @xmath3 boson decays is performed using @xmath33 of run ii data @xcite .",
+    "measured distribution is compared with expectation from nlo calculation using the cteq6.1 m and the mrst02 parton distribution functions @xcite and can be used as inputs to future pdf fits .",
+    "statistical uncertainties are greater than systematic unsertainties in every bin .",
+    "this bodes well for the future of this analysis as more data , collected with the d detector , is analyzed .",
+    "measured assymetry distribution is presented on figure 2 .",
+    "preliminary measurements of the @xmath3 and @xmath34 boson production cross sections times branching fractions into electrons using the data sample corresponding to an integrated luminosity of @xmath35 have been performed @xcite .",
+    "the measured cross sections are : @xmath36 @xmath37 the ratio @xmath38 of the @xmath3 cross section times branching fraction to the @xmath34 cross section times branching fraction is @xmath39 .",
+    "the outer error bars represent total error ( combined statistical and systematic errors ) , while the inner error bars indicate the statistical error alone .",
+    "the solid line shows the nnlo prediction based on the mrst 2001 pdfs . ]    the first run ii measurement of @xmath41 inclusive differential cross section as a function of boson rapidity in the mass range 71 to 111 gev is performed using the data sample corresponding to an integrated luminosity of @xmath42@xcite . at run ii",
+    "tevatron energy @xmath34 bosons are produced with rapidities up to @xmath43 .",
+    "the cross section is measured over nearly the entire kinematic range .",
+    "the data are in good agreement with the nnlo prediction based on the mrst 2001 parton distribution functions @xcite ( figure 3 ) ."
+  ],
+  "abstract_text": [
+    "<S> preliminary measurements of the cross sections for the processes @xmath0 ; @xmath1 using @xmath2 of tevatron run ii data are presented . </S>",
+    "<S> measurement of the muon charge asymmetry from @xmath3 boson decays and @xmath4 inclusive differential cross section as a function of boson rapidity are presented as well . </S>",
+    "<S> the results are in agreement with standard model predictions @xcite .     </S>",
+    "<S> address = institute for high energy physics , protvino </S>"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "10    a.  h.  mueller , nucl .  phys .",
+    "a * 724 * ( 2003 ) 223 .",
+    "e.  iancu , k.  itakura and d.  n.  triantafyllopoulos , nucl .",
+    "a * 742 * ( 2004 ) 182 .",
+    "m.  kozlov , a.  i.  shoshi and b.  w.  xiao , arxiv : hep - ph/0612053 .",
+    "a.  h.  mueller and a.  i.  shoshi , nucl .",
+    "b * 692 * ( 2004 ) 175 .",
+    "e.  iancu , a.  h.  mueller and s.  munier , phys .",
+    "b * 606 * ( 2005 ) 342 ."
+  ],
+  "abstract_text": [
+    "<S> we discuss a new physical phenomenon for @xmath0 in the fixed coupling case , the total gluon shadowing , which arises due to the effect of gluon number fluctuations .    </S>",
+    "<S> we study the ratio of the unintegrated gluon distribution of a nucleus @xmath1 over the unintegrated gluon distribution of a proton @xmath2 scaled up by @xmath3 @xmath4 this ratio is a measure of the number of particles produced in a proton - nucleus collision versus the number of particles in proton - proton collisions times the number of collisions . </S>",
+    "<S> the transverse momentum of gluons is denoted by @xmath5 and the rapidity variable by @xmath6 .    in the geometric scaling region </S>",
+    "<S> shown in fig .  </S>",
+    "<S> [ had_wf]a the small-@xmath7 physics is reasonably described by the bk - equation which emerges in the mean field approximation . using the bk - equation one finds in the geometric scaling regime in the fixed coupling case that the shape of the unintegrated gluon distribution of the nucleus and proton as a function of @xmath5 is preserved with increasing @xmath6 , because of the geometric scaling behaviour @xmath8 , and therefore the leading contribution to the ratio @xmath0 is @xmath5 and @xmath6 independent , scaling with the atomic number @xmath9 as @xmath10 , where @xmath11  @xcite . </S>",
+    "<S> this means that gluons inside the nucleus and proton are somewhat shadowed since @xmath12 lies between total ( @xmath13 ) and zero ( @xmath14 ) gluon shadowing . </S>",
+    "<S> the _ partial gluon shadowing _ comes from the anomalous behaviour of the unintegrated gluon distributions which stems from the bfkl evolution .    </S>",
+    "<S> we have recently shown  @xcite that the behaviour of @xmath0 as a function of @xmath5 and @xmath6 in the fixed coupling case is completely changed because of the effects of gluon number fluctuations or pomeron loops at high rapidity . according to  @xcite </S>",
+    "<S> the influence of fluctuations on the unintegrated gluon distribution is as follows : starting with an intial gluon distribution of the nucleus / proton at zero rapidity , the stochastic evolution generates an ensamble of distributions at rapidity @xmath6 , where the individual distributions seen by a probe typically have different saturation momenta and correspond to different events in an experiment . to include gluon number fluctuations one has to average over all individual events , @xmath15 , with @xmath16 the distribution for a single event . </S>",
+    "<S> the main consequence of fluctuations is the replacement of the geometric scaling by a new scaling , the diffusive scaling  @xcite , @xmath17\\right)$ ] . </S>",
+    "<S> the diffusive scaling , see fig .  </S>",
+    "<S> [ had_wf]a , sets in when the dispersion of the different events is large , @xmath18 , i.e. , @xmath19 , where @xmath20 and @xmath21 is the diffusion coefficient , and is valid in the region @xmath22 . </S>",
+    "<S> the new scaling means that the shape of the unintegrated gluon distribution of the nucleus / proton becomes flatter and flatter with increasing rapidity @xmath6 , in contrast to the preserved shape in the geometric scaling regime . </S>",
+    "<S> this is the reason why the ratio in the diffusive scaling regime  @xcite @xmath23^{\\frac{\\ln        a^{1/3}}{\\sigma^{2 } } } \\   </S>",
+    "<S> \\label{eq : a_r_ds}\\ ] ] yields _ total gluon shadowing _ , @xmath24 , at asymptotic rapidity @xmath6 ( at fixed @xmath9 ) . </S>",
+    "<S> this result is universal since it does not depend on the initial conditions . moreover </S>",
+    "<S> the slope of @xmath0 as a function of @xmath5 descreases with increasing @xmath6 . </S>",
+    "<S> the qualitative behaviour of @xmath0 at fixed @xmath25 due to fluctuation effects is shown in fig .  </S>",
+    "<S> [ had_wf]b .    </S>",
+    "<S> the above effects of fluctuations on @xmath0 are valid in the fixed coupling case and at very large energy . </S>",
+    "<S> it is nt clear yet whether the energy at lhc is high enough for them to become important . </S>",
+    "<S> moreover , in the case where fluctuation effects are neglected but the coupling is allowed to run , a similar behaviour for @xmath0 is obtained  @xcite , including the total gluon shadowing . </S>",
+    "<S> it remains for the future to be clarified how important fluctuation or running coupling effects are at given energy windows , e.g. , at lhc energy . </S>"
+  ]
+}

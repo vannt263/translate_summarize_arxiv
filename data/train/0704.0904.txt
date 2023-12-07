@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "the light curves produced by many types of all - sky monitor do not have uniform errors .",
+    "for example , the pointing direction of the burst alert telescope ( bat ) on swift is determined by observations using the narrow - field instruments also onboard swift which are primarily used to study gamma - ray bursts and their afterglows .",
+    "bat observations of x - ray sources are thus generally obtained in an unpredictable fashion .",
+    "the all - sky monitor ( asm ) on board rxte also suffers from similar problems . even though the rxte asm is controlled to make observations of the sky as complete as possible",
+    ", there is still considerable non - uniformity . the quality of observations of any particular point on the sky will depend on the observation duration and the location of that point in a detector field of view if there is non - uniform response across the fov .",
+    "scargle ( 1989 ) proposed that the effect of unequally weighted data points in a power spectrum can be found by considering two points that coincide and treating this as a single point of double weight .",
+    "a `` natural '' approach to combining data points of different error bar size is to use the weighted mean .",
+    "this approach can be considered as calculating the power spectrum of @xmath1 .",
+    "although this procedure is very effective for faint sources , if the scatter in data values is large compared to the error bar sizes weighting by error bars can be inappropriate .",
+    "this is because the concept of combining `` coincident '' points must be treated carefully . in a power spectrum",
+    "it is not just points at the same time , but points at the same phase , which are combined .",
+    "if there is a strong signal then , at all frequencies except the modulation frequency , we will be combining points with discrepant values and hence the weighted mean will not be valid .",
+    "a refinement is to treat source variability as an additional `` error''@xcite , i.e. calculate the power spectrum of @xmath2 where @xmath3 is a correction to nominal error bar size and @xmath4 is the estimated variance due to source variability .",
+    "this procedure is related to the semi - weighted mean , @xcite and hence may be termed `` semi - weighting''@xcite .",
+    "semi - weighting works well for sources across a wide range of brightness , providing that the correction factor @xmath3 is applied , and gives improvements for swift bat@xcite , rxte asm and cgro batse light curves ( fig .",
+    "the glast lat@xcite is also a large field of view detector , and it will provide a sensitive survey of the @xmath0-ray sky . it is expected that glast will predominantly operate in a sky survey mode which will give much more uniform sky coverage than with the rxte asm or swift bat",
+    ". however , precession of glast s orbit will affect the exposure of each point on the sky . in order for weighting to improve period searches",
+    "two conditions must be met : the signal amplitude should not be very much larger than typical error bar size , and the sizes of the errors on data points in light curves must have considerable variation . if these conditions are not met then , although weighting may still be used , it will not have a significant benefit . to investigate whether weighting will be beneficial for glast we used simulated light curves of @xmath0-ray binaries that have been presented elsewhere@xcite with 1 day or 90 minute binning . for light curves accumulated in 1 day bins ,",
+    "sky coverage was sufficiently uniform that weighting gave no improvement .",
+    "the 90 minute time bins were not synchronized to glast s orbital period which produced large changes in exposure from bin to bin .",
+    "for these bins the number of photons was low and we calculated asymmetric error bars based on pearson s @xmath5@xcite .",
+    "we investigated several symmetrization schemes to convert error bars to a single weighting factor@xcite .",
+    "it was found that weighting gave very strong benefits for period detection . of the symmetrization methods investigated , the use of just the larger ( upper ) error bar on data points gave the strongest gain in signal detection",
+    ". however , no conversion method gave results that could be used in semi - weighting as the predicted source variability variance values were not well defined ."
+  ],
+  "abstract_text": [
+    "<S> the light curves produced by all - sky monitors , such as the rossi x - ray timing explorer all - sky monitor and the swift burst alert telescope ( bat ) , generally have non - uniform error bars . in searching for periodic modulation in this type of data using power spectra </S>",
+    "<S> it can be important to use appropriate weighting of data points to achieve the best sensitivity . </S>",
+    "<S> it was recently demonstrated that for swift bat data a simple weighting scheme can actually sometimes reduce the sensitivity of the power spectrum depending on source brightness . </S>",
+    "<S> instead , a modified weighting scheme , based on the cochran semi - weighted mean , gives improved results independent of source brightness . </S>",
+    "<S> we investigate the benefits of weighting power spectra in period searches using simulated glast lat observations of @xmath0-ray binaries .     </S>",
+    "<S> address = cresst / usra / gsfc , code 662 nasa / gsfc , greenbelt road , greenbelt md 20771     address = stanford linear accelerator center , menlo park , ca 94025 </S>"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "we have computed the x - ray and far infrared ( fir ) luminosities expected in a massive , young starburst using the cmhk ( cervio , mas - hesse & kunth ) synthesis population models @xcite . a salpeter initial mass function ( @xmath3 ) has been assumed , with masses within the range @xmath4 , 2 different star formation regimes  instantaneous burst ( ib ) or constant star formation rate ( csfr )  and solar metallicities . we have analyzed the first 30 myrs after the onset of a massive starburst episode .    the x - ray luminosity is calculated in the range @xmath5 kev .",
+    "the models compute only the emisison by the diffuse gas heated by the mechanical energy released by stellar winds and supernova remnants .",
+    "the x - ray emission is modeled by raymond - smith thermal plasmas with a range of temperatures typical of starburst galaxies ( between 0.5 and 1.0 kev ) .",
+    "the fraction of mechanical energy @xmath6 effectively heating the gas up to x - rays temperatures is left as a free parameter .",
+    "the contribution by x - ray binaries and stellar atmospheres has not been considered , since it should be negligible ( cervio et al .",
+    "2002 ) .    a thermal equilibrium of dust has been assumed , which implies all energy absorbed by dust being reemitted in the far infrared range .",
+    "the models assume that a fraction @xmath7 of lyman continuum photons are directly absorbed by the dust .",
+    "the absorption of of uv  optical continuum photons is parameterized through @xmath8 .",
+    "the values considered were @xmath9 and @xmath10 .",
+    "figure  [ fig : figu1 ] shows the evolution of the soft x  ray luminosity and the @xmath1/@xmath2 ratio , as predicted by the models assuming different star formation regimes and efficiencies .",
+    "we want to stress that this ratio is strongly dependent on the evolutionary state of the starburst , spanning around 2 orders of magnitude within few million years .",
+    "the data samples from @xcite and @xcite ( hereinafter , _ ran _ and _ tul _ respectively ) were chosen in order to compare with the predictions from the models .",
+    "as shown in the bottom panels of figure  [ fig : figu1 ] , the observational ratios can be well reproduced by the synthesis models considering efficiency values in the range @xmath11 , typical of starburst galaxies ( cervio et al .",
+    "moreover , our results show that the dispersion observed in the samples ratios can be explained as being mostly an evolutionary effect .",
+    "therefore we conclude that the empirical calibration of the soft x - ray luminosity as an sfr ( star formation rate ) tracer has to be taken with care , since it would be valid only for starbursts around a relatively short period of time .",
+    "cervio , m. , & mas - hesse , j. m. 1994 , , 284 , 749 cervio , m. , mas - hesse , j. m. , & kunth , d. 2002 , , 392 , 19 ranalli , p. , comastri , a. , & setti , g. 2003 , , 399 , 39 tllmann , r. , breitschwerdt , d. , rossa , j. , et al .",
+    "2006 , , 457 , 779"
+  ],
+  "abstract_text": [
+    "<S> the study of massive star formation needs some basic tools , among which reliable sfr tracers are crucial ones . </S>",
+    "<S> we are presently revising the calibration of sfr tracers at different wavelength ranges using last generation evolutionary population synthesis codes . </S>",
+    "<S> the fir luminosity produced by the heated dust in star forming regions is commonly used to characterize a starburst . </S>",
+    "<S> the x - ray luminosity has been found to show a narrow correlation with it , and therefore it has been proposed as an additional tracer of potential interest for high @xmath0 galaxies , whose fir emission is redshifted to the sub - mm range . in this communication </S>",
+    "<S> we analyze the evolution of the x - ray to fir luminosities ratio as predicted by the cmhk population synthesis models , both for constant stellar formation and instantaneous bursts . </S>",
+    "<S> the results are compared to some sample data taken from the literature . </S>",
+    "<S> the conclusion drawn from the comparison is that the empirical calibration of the soft x - ray luminosity seems a valid sfr tracer only for starbursts around a rather short period of time . </S>"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "the equation of state ( eos ) represents the heart of hydrodynamic simulations for ultra - relativistic heavy - ion collisions . here",
+    ", we present a realistic eos for qcd matter delivered by our quasiparticle model ( qpm ) faithfully reproducing lattice qcd results . the approach is based on  @xcite adjusted to the pressure @xmath0 and energy density @xmath1 of @xmath2 quark flavors  @xcite .",
+    "as the qpm eos does not automatically fit to the hadron resonance gas eos in the confinement region , we construct a family of eos s by an interpolation between the hadron resonance gas at @xmath3 0.45 gev/@xmath4 and the qpm at flexible @xmath5 ( cf .",
+    "@xcite for details ) . in this way",
+    ", the influence of details in the transition region on hydrodynamic flow can be studied , since for @xmath6 and @xmath7 the eos is uniquely given by the resonance gas and the qcd - based qpm , respectively . in figure 1 , we exhibit the eos family in the form @xmath8 and the corresponding speed of sound @xmath9 . for lhc ,",
+    "baryon density effects are negligible .",
+    "labelled in the following as qpm(@xmath5 ) with @xmath10 4.0 , 2.0 , 1.25 , 1.0 gev/@xmath4 ( solid curves ) combining qpm adjusted to lattice data  @xcite and hadron resonance gas at matching point @xmath5 . for comparison the bag model eos ( dashed line )",
+    "right panel : corresponding @xmath11.,title=\"fig : \" ]   labelled in the following as qpm(@xmath5 ) with @xmath10 4.0 , 2.0 , 1.25 , 1.0 gev/@xmath4 ( solid curves ) combining qpm adjusted to lattice data  @xcite and hadron resonance gas at matching point @xmath5 . for comparison the bag model eos ( dashed line ) is shown .",
+    "right panel : corresponding @xmath11.,title=\"fig : \" ]",
+    "we concentrate on two extreme eos s , qpm(4.0 ) and the bag model eos being similar to qpm(1.0 ) .",
+    "we calculate transverse momentum spectra and elliptic flow @xmath12 using the relativistic hydrodynamic program package  @xcite with initial conditions for pb@xmath13pb collisions at impact parameter @xmath14 fm . for the further initial parameters required by the program",
+    "we conservatively guess @xmath15 330 @xmath16 , @xmath17 0.4 @xmath16 and @xmath18 0.6 fm / c for initial entropy density , baryon density and time . within the qpm these translate into @xmath19 127 gev/@xmath4 , @xmath20 42 gev/@xmath4 and @xmath21 515 mev . the freeze - out temperature is set @xmath22 100 mev . in figure 2",
+    ", we exhibit our results at midrapidity for various primordial hadron species .",
+    "striking is the strong radial flow as evident from the flat @xmath23-spectra and a noticeably smaller @xmath12 than at rhic in particular at low @xmath23  @xcite .",
+    "details of the eos in the transition region as mapped out by our family are still visible .",
+    "peshier a 1994 b * 337 * 235 peshier a 1996 d * 54 * 2399 peshier a 2000 c * 61 * 045203 peshier a 2002 d * 66 * 094003 bluhm m 2007 c * 49 * 205 karsch f 2003 c * 29 * 549 karsch f 2003 b * 571 * 67 bluhm m 2007 _ preprint _ arxiv : 0705.0397 [ hep - ph ] kolb p f 1999 b * 459 * 667 kolb p f 2000 c * 62 * 054909"
+  ],
+  "abstract_text": [
+    "<S> we present a family of equations of state within a quasiparticle model adjusted to lattice qcd and study the impact on azimuthal flow anisotropies and transverse momentum spectra within hydrodynamic simulations for heavy - ion collisions at energies relevant for lhc . </S>"
+  ]
+}
