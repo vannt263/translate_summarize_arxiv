@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "evolutionary synthesis models ( esm ) have been extensively used to obtain the star formation history in galaxies by means of spectral energy distribution ( sed ) fitting techniques or the position of galaxies in theoretical diagnostic diagrams . this statement is confirmed by most of the contributions in these proceedings , and by the scientific literature .",
+    "implicit in this use of esm here is a deterministic interpretation of model results : the shape of the sed is univocally determined by evolutionary conditions ( birthrate , metallicity and age ) , and does not depend on the size of the system and the spatial resolution of the observation .",
+    "there are , however , strong evidences that nature does not obey this simple assumption .",
+    "evidences range from simple logical reasoning to observational facts , as the existence of surface brightness fluctuations in distant galaxies .",
+    "the simple logical reasoning can be formulated in the following terms . for",
+    "the sake of reasoning , let us assume a single stellar population ( ssp ) model ( i.e. the star formation rate is a dirac s delta function ) :    1 .",
+    "synthesis models can be scaled to clusters of any size , so , in principle , this model should also be applicable to any _ individual _ star . however , determining the cluster s evolutionary parameters by sed fitting will only produce a realistic solution in the wavelength range ( if any ) where the ssp model is dominated by stars with the same spectral type as the chosen individual star .",
+    "2 .   in the case of clusters ,",
+    "similarly , the realism of the parameters inferred from sed fitting in each particular stellar cluster depends on how nature has sampled the different stellar evolutionary phases .",
+    "finally , not all wavelengths / indices can be fitted with the same accuracy .",
+    "sed ranges , line profiles and indices dominated by very specific stellar types only provide information on how many stars of the given type are in the cluster , but not on the _ overall _ composition of the cluster . as an example",
+    ", infrared emission mainly provides information on stars in the giant and asymptotic giant branch : very luminous but very sparse ( certainly sparser than main sequence stars ) stellar types .",
+    "when esm are placed in a statistical framework , the previous problems do not apply : standard esm results only provide the mean value of the distribution that describes the universe of _ all _ possible values of the observable ( sed , spectral index , etc . ) taking naturally into account the size ( number of stars ) of the system ( the population luminosity distribution function , pldf ) .",
+    "additionally , high - order moments of this probability distribution and their scale relations with the size of the system can be easily obtained , c.f . @xcite .    as en example",
+    ", we show the evolution of the mean , variance , skewness and kurtosis of different photometric bands as a function of age in the left panel of figure [ fig1 ] .",
+    "it can be seen that the ir bands , having a larger variance , skewness and kurtosis ( i.e. more asymmetric pldf ) than the blue bands , are less robust than the blue bands for fitting the results of synthesis models with observed data .    in the right panel",
+    "we show a portion of the sed for a 1ga old cluster .",
+    "it can be seen that the h@xmath0 line profile ( @xmath1 ) , having a larger skewness and kurtosis , is a less robust index than the continuum or than the h and k ca ii ( plus h@xmath2 ) profiles .",
+    "the probabilistic framework provides a natural test to evaluate the quality of spectral fitting , and to avoid overfitted results . in this framework",
+    ", the fitting of observational data would produce less precise , but much more accurate ( physical ) results ."
+  ],
+  "abstract_text": [
+    "<S> evolutionary synthesis models ( esm ) have been extensively used to obtain the star formation history in galaxies by means of sed fitting . implicit in this use of esm is that ( a ) for given evolutionary parameters , the shape of the sed is fixed whatever the size of the observed cluster ( b ) all regions of the observed sed have the same weight in the fit . </S>",
+    "<S> however , nature does not follow these two assumptions , as is implied by the existence of surface brightness fluctuations in galaxies and as can be shown by simple logical arguments . </S>"
+  ]
+}

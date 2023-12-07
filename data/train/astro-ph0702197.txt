@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "a bright long - soft grb060117 was detected by _ swift",
+    "_ satellite on january 17 , 2006 , at 6:50:01.6ut .",
+    "it showed a multi - peak structure with t@xmath2=@xmath3s with maximum peak flux @xmath4 .",
+    "thus , grb060117 was  in terms of peak flux  the most intense grb detected so far by swift coordinates computed by _ swift _ were available within 19s and immediately distributed by gcn @xcite .",
+    "fram is part of the pierre auger cosmic - ray observatory @xcite , and its main purpose is to immediately monitor the atmospheric transmission .",
+    "fram works as an independent , rts2-driven , fully robotic system , and it performs a photometric calibration of the sky on various uv - to - optical wavelengths using a 0.2 m telescope and a photoelectric photomultiplier .",
+    "fram received the notice at 06:50:20.8ut , 19.2s after the trigger and immediately started the slew .",
+    "the first exposure started at 06:52:05.4 , 123.8s after the grb .",
+    "eight images with different exposures were taken before the observation was terminated . a bright , rapidly decaying object was found , and its presence was reported by @xcite soon after the discovery .",
+    "the fram lightcurve for this optical transient is in figure 1 .",
+    "our preffered interpretation ( based on the work of @xcite ) is to fit the data as a transition between the reverse and the forward shock with the passage of the typical frequency break @xmath5 through the observed passband at time @xmath6 .",
+    "corresponding decay indices are @xmath7=2.49@xmath80.05 and @xmath9=1.47@xmath80.03 ( see fig3 ) . other possible interpretations and more details about fram telescope",
+    ", data processing and other follow - up attempts can be found in @xcite .",
+    "0 gcn4538 , 2006 astron .",
+    "410 , l119 , 2006 gcn4535 , 2006 proceedings of the 29th international cosmic ray conference , pune , india , also the fermilab preprint fermilab - pub-05 - 469-a - td , 2005 astrophys .",
+    "j. 633 , p. 1027"
+  ],
+  "abstract_text": [
+    "<S> we present a discovery and observation of an extraordinarily bright prompt optical emission of the grb060117 obtained by a wide - field camera atop the robotic telescope fram of the pierre auger observatory from 2 to 10 minutes after the grb . </S>",
+    "<S> we found rapid average temporal flux decay of @xmath0 and a peak brightness @xmath1 mag . </S>",
+    "<S> we interpret the shape of the lightcurve as a transition between reverse and forward shock emission .    </S>",
+    "<S> [ 1999/12/01 v1.4c il nuovo cimento ] </S>"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "metallicity is one of the fundamental parameters to study the property of galaxy and its evolution history . the [ n  ii]/h@xmath3 strong emission - line ratio in the ionized gas in galaxies is a useful tracer to indicate the metallicities of the galaxies ( as n2=log([n  ii]/h@xmath3 ) ; pettini & pagel 2004 , pp04 ; yin et al .",
+    "2006a , y06a ; liang et al .",
+    "2006 , l06 ) .",
+    "nitrogen is mainly synthesized in intermediate- and low - mass stars .",
+    "the n2 index will therefore become stronger with ongoing star formation and galaxy evolution until reaching very high metallicities , i.e. 12+log(o / h)@xmath09.0 , where [ n ii ] starts to become weaker due to the very low electron temperature caused from strong cooling by metal ions .",
+    "the n2 index is not affected very much by dust extinction due to the close wavelength positions of the two related lines .",
+    "the near infrared spectroscopic instruments can gather these two lines for the galaxies with intermediate and high redshifts .",
+    "the n2 index has helped to provide important information on the metallicities of galaxies at high-@xmath4 ( erb et al .",
+    "however , the resulting log(o / h ) abundances from n2 ( and other methods including [ n ii ] line ) may involve the specific history of n - enrichment in the galaxies .",
+    "we check this effect in more details in this paper .",
+    "the mpa / jhu group used the photoionization models to simultaneously fit most prominent emission lines ( including [ n ii ] line ) , and then use the bayesian technique to calculate the likelihood distribution of the metallicity of each galaxy in the sdss database ( tremonti et al .",
+    "2004 , t04 ) , given as ( o / h)@xmath5 in this study .",
+    "we select 531 ( dr4 ) metal - poor and @xmath020,000 ( dr2 ) metal - rich galaxies from the sdss database for this study .",
+    "we obtain their metallicities of ( o / h)@xmath6 and ( o / h)@xmath7 for the metal - poor sample galaxies ( y06a , b ) , and ( o / h)@xmath8 and ( o / h)@xmath9 for the metal - rich galaxies by using the calibrations given by pp04 and pilyugin & thuan ( 2005 , p05 ) , respectively .",
+    "the metal - rich sample galaxies have 12+log(o / h)@xmath5@xmath108.5 and 12+log(o / h)@xmath9@xmath108.25 ( y06b ) .",
+    "figs.1a - e show clearly the dependence of these abundances on log(n / o ) .    in summary , the strong - line ratio calibrations of metallicities involved [ n  ii ] emission - line may be related to the n - enrichment history of the galaxies , which should be kept in mind when compare the resulted abundances with others .",
+    "liang , y.c .",
+    ", yin , s.y . , hammer , f. et al .",
+    "2006 , apj , 652 , 257 ( l06 ) tremonti , c.a . ,",
+    "heckman , t.m . , kauffmann , g. , et al .",
+    "2004 , apj , 613 , 898 ( t04 ) yin , s.y . ,",
+    "liang , y.c .",
+    "2006a , a&a ( in press ) , astro - ph/0610068 ( y06a ) yin , s.y . , liang , y.c .",
+    ", b. zhang , 2006b , this proceedings ( y06b ) pettini , m. , pagel , e. , 2004 , mnras , 348 , l59 ( pp04 ) pilyugin , l. s. thuan , t. x. , 2005 , apj , 631 , 231 ( p05 ) erb , d. k. , shapley , a. e. , pettini , m. et al .",
+    "2006 , apj , 644 , 813"
+  ],
+  "abstract_text": [
+    "<S> we show the dependence of the bayesian and the n2-derived oxygen abundances on the n - enrichment history of the star - forming galaxies . </S>",
+    "<S> we select 531 metal - poor and @xmath020,000 metal - rich galaxies from the sdss database for this study . </S>",
+    "<S> their  accurate \" o / h abundances are obtained from @xmath1 and @xmath2-method , respectively . </S>",
+    "<S> the discrepancies of the bayesian and n2-derived abundances from these two  accurate \" abundances show obvious correlations with log(n / o ) abundance ratios . </S>"
+  ]
+}

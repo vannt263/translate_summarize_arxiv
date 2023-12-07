@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "the hmi camera will measure the full stokes vector at 5 wavelength positions along the fe i 6173    line ( graham et al . 2002 ) .",
+    "the ccd has 4024@xmath04024 pixels ( 0.5/pixel ) .",
+    "our goal is to record the full stokes vector for the whole solar disk with a cadence of 80 - 120 seconds . at each wavelength position",
+    "two consecutive linear combinations of the solar stokes vector are measured with a time delay of 4 seconds :    @xmath1    three different modulation matrices are under consideration : mod a , mod b and mod c. the total time needed to scan the line in the four polarization states across five wavelength positions is @xmath2 seconds ( @xmath3 is the number of rows in the modulation matrix in eq .  2 - 4 ) : 80s for mod a - b and 120 s for c.    @xmath4     +     @xmath5    @xmath6    when the linear system is solved in order to obtain the solar stokes vector , observations done at different times are mixed together .",
+    "this introduces errors in the observed stokes vector :    @xmath7    for example , at @xmath8 modulation schemes measures @xmath9 and at @xmath104 seconds it measures : @xmath11 .",
+    "therefore we can obtain stokes @xmath12 by combining observations done 4 seconds apart .",
+    "note that to build stokes @xmath13 four different observations ( obtained at different times ) are mixed .",
+    "to study the errors introduced in the determination of the solar magnetic field vector as a consequence of the solar p - modes , we take them into account when computing @xmath14 .",
+    "the different profiles ( that enter into eq .  5 ) are shifted in quantities that correspond to the velocity changes associated with the solar p - modes .",
+    "they are then inverted using a stokes inversion algorithm ( skumanich & lites 1987 ) that retrieves : the magnetic field vector , line of sight velocities and a filling factor ( fractional area of the pixel covered by the magnetic atmosphere ) .",
+    "results from the inversion are displayed in fig .  1 ( top panels ) .",
+    "the noise level for a single observation using hmi will be about @xmath15 in units of the continuum intensity .",
+    "this number considers a light level of the quiet sun at disk center . for off - limb observations and/or darker regions ( sunspots )",
+    "the noise level will be different .",
+    "a realistic simulation has been performed taking into account the solar p - modes effect and photon noise simultaneously . in this case",
+    "we restrict ourselves to consider only modulation schemes a and c. results are presented in fig .  1 ( bottom panels ) .",
+    "due to the oscillatory nature of the solar p - modes , its effect on the observed profiles can be reduced if we use time averaged profiles . by doing",
+    "so we can improve the accuracy in the determination of the magnetic field vector . note that time averaging will also reduce the effect of the photon noise .",
+    "we have carried out several simulations using different averaging times .",
+    "2 displays the errors in the determination of the magnetic field vector as a function of the time used in the average .",
+    "this was done both for mod a and c. we distinguish between different solar regions by taking averages of pixels with different filling factors .",
+    "hmi will provide full disk observations of the magnetic field vector with a cadence of 80 - 120 s and a spatial resolution of 0.5 arc sec .",
+    "we have considered the main sources of error in the data and estimate how this will affect the reliability of the inferred vector .",
+    "accuracy can be improved by using time averaged observations . for a 10 minutes",
+    "average , the magnetic field in sunspots and plages can be known with a precision better than 10 gauss and 1@xmath16 in inclination and azimuth ."
+  ],
+  "abstract_text": [
+    "<S> the helioseismic and magnetic imager ( hmi ) , on board the solar dynamics observatory ( sdo ) , will begin data acquisition in 2008 . </S>",
+    "<S> it will provide the first full disk , high temporal cadence observations of the full stokes vector with a 0.5 arc sec pixel size . </S>",
+    "<S> this will allow for a continuous monitoring of the solar magnetic field vector . </S>",
+    "<S> hmi data will advance our understanding of the small and large - scale magnetic field evolution , its relation to the solar and global dynamic processes , coronal field extrapolations , flux emergence , magnetic helicity and the nature of the polar magnetic fields . </S>",
+    "<S> we summarize hmi s expected operation modes , focusing on the polarization cross - talk induced by the solar oscillations and how this affects the magnetic field vector determinations . </S>"
+  ]
+}

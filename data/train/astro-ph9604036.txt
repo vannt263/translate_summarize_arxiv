@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "there is a tremendously rich literature on the distance determination of the virgo cluster ( e.g. de vaucouleur 1993 ) .",
+    "relatively little has been worked on the fornax cluster of galaxies , although it offers several advantages with respect to the virgo cluster : it is more compact , does not show substructure , and is a spiral - poor , evolved galaxy cluster , where one can suspect that the elliptical galaxies projected near the center are indeed spatially concentrated .    in this letter , we apply the method of globular cluster luminosity functions ( gclfs ) to derive the distances of four ellipticals in the fornax cluster .",
+    "the central point of this method , namely the universality of the turnover ( to ) magnitude is still a subject of some debate ( e.g. harris in jacoby et al .",
+    "1993 , sandage & tammann 1995 , richtler 1995 ) .",
+    "we show that among our target galaxies , the turnover magnitude scatters with a dispersion of 0.23 mag in v and only 0.14 mag in i , which indeed is evidence for a universal turnover .",
+    "the full presentation of the data , together with a general presentation of the globular cluster system ( gcs ) will be given in a forthcoming paper , so here we restrict ourselves to some basic remarks .",
+    "our targets were the galaxies ngc 1399 , 1374 , 1379 , 1387 , 1427 ( table [ observations ] ) .",
+    "the observations have been performed with the 2.5 m dupont telescope at las campanas observatory , chile , in the period sept .",
+    "26 - 29 , 1994 .",
+    "the ccd was a tektronix chip with a pixel size of 0.227 , resulting in a frame with dimension @xmath0 .",
+    "deep exposures have been gained in johnson v and cousins i. only ngc 1399 was covered by four overlapping frames , the other targets are much less extended and fit each on one frame .",
+    "the seeing conditions were of medium quality , ranging from 1.0 to 1.5 .",
+    "the limiting magnitude was approximately v=24 mag .",
+    "modelling and subtraction of the target galaxies has been done with iraf routines , finding and photometry of point sources with daophot ii under iraf .",
+    "the differences between psf and aperture photometry could be determined with an accuracy of better than 0.015 mag .",
+    "the photometric calibration has also been done with iraf routines , using standard stars from landolt ( 1992 ) .",
+    "about 30 standard star measurements were made nightly under photometric conditions .",
+    "the mean residual of calibrated magnitude to standard star magnitude is about 0.02 mag for each night .",
+    "obviously , a proper knowledge of the background population is essential for deriving a gclf , since we can not distinguish between point - like background sources and globular clusters . with the exception of ngc 1399 ,",
+    "the gcss of the galaxies are considerably smaller in extent than the framesize so that the background could be determined locally .",
+    "a coarse selection of gc candidates with respect to extended objects was done by selecting sources with psf profiles .",
+    "the remaining background population consists mostly of distant galaxies , to some extend also of foreground stars . leaving details for a forthcoming full data presentation",
+    ", we show in fig .",
+    "[ background ] for v the relative contribution of the total counts , the background , and the subtracted counts in dependence on magnitude .",
+    "the dashed line shows in addition the completeness , calculated by artificial star experiments .",
+    "+                                              this research was partially supported by the daad and deutsche forschungsgemeinschaft ( ri 418/5 - 1 ) and by fondecyt grants no .",
+    "1930572 ( to hq ) and 1930570 ( to li ) .",
+    "furthermore , hq acknowledges the award of a presidential chair in science ."
+  ],
+  "abstract_text": [
+    "<S> we present globular cluster luminosity functions for four ellipticals and one s0-galaxy in the fornax cluster of galaxies , derived from ccd photometry in v and i. the averaged turnover magnitudes are and , respectively . </S>",
+    "<S> we derive a relative distance modulus using the turnover of m87 based on hst data . </S>"
+  ]
+}

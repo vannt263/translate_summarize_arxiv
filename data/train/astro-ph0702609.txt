@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "in order to recover the flux from all the angular scales and a complete velocity field , 21 cm data were obtained using the drao synthesis telescope ( landecker et al .",
+    "2000 ) , combined with the drao 26 m single dish .",
+    "details of the data reduction procedure can be found in taylor et al .",
+    "gaussian profiles were fitted to the  data - cube to extract the different moment maps .",
+    "figures  [ fig1]a and [ fig1]b present the provisional integrated intensity map of the 21 cm emission line and its corresponding velocity field .      because m31 is known to have a warped disk , a tilted ring model has to be fitted to the velocity field .",
+    "it allows to derive accurate kinematical parameters and rotation velocities as a function of radius .",
+    "we focus on the approaching half of the disk in order to compare with the rc from carignan et al .",
+    "figure  [ fig1]c shows that @xmath3 does not vary significantly as a function of radius , whereas the @xmath2 variation is more important . in other words ,",
+    "the warp of m31 does not contaminate so much the  disk kinematics at large radius , at least in its approaching half . as a consequence , the rc from carignan et al .",
+    "( 2006 ) is very similar to our new measurement ( fig  [ fig1]d ) .",
+    "future work will compare the receding and approaching sides kinematics in order to derive a global rc and a mass model for m31 ( chemin et al .",
+    "2007 , in prep . ) .",
+    "braun r. , 1991 , apj , 372 , 54 carignan c. , chemin l. , huchtmeier w. , et al . , 2006 , apj , 641 , l109 landecker t. l. , dewdney p. e. , burgess t. a. , et al . , 2000 ,",
+    "a&as , 145 , 509 taylor a. r. , gibson s. j. , peracaula m. , et al . , 2003 ,",
+    "aj , 125 , 3145"
+  ],
+  "abstract_text": [
+    "<S> carignan et al . ( 2006 ) recently presented an extended  rotation curve ( rc ) of m31 , using single dish observations from the 100 m effelsberg and green bank telescopes . </S>",
+    "<S> these observations were motivated by a comparison with previous  data from braun ( 1991 ) which presented a decreasing rotation curve as a function of radius . </S>",
+    "<S> the carignan et al . </S>",
+    "<S> ( 2006 ) data were obtained along the semi - major axis of the approaching half of the m31  disk and showed a flat rc at large radius , extending up to @xmath035 kpc ( using @xmath1 kpc ) . </S>",
+    "<S> the kinematical analysis of m31 is pursued here and new deep 21 cm observations obtained at the dominion radio astrophysical observatory ( drao ) are presented . </S>",
+    "<S> a tilted - ring model is fitted to a new  velocity field , allowing the derivation of the position angle @xmath2 and inclination @xmath3 as a function of radius . </S>",
+    "<S> we concentrate on the approaching half of the disk in order to compare our new results with those from carignan et al ( 2006 ) . </S>",
+    "<S> it is shown that the disk warping of m31 does not severely contaminate the kinematics of the neutral gas . as a consequence , </S>",
+    "<S> the rc from the single dish data is in very good agreement with the newly derived rc . </S>"
+  ]
+}

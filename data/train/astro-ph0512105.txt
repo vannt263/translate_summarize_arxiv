@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "some of the exoplanet host stars were found to be components of binary systems and first statistical differences between exoplanets around single stars and exoplanets located in binary systems were already reported by zucker & mazeh ( 2002 ) as well as eggenberger et al .",
+    "in particular , it seems that planets with orbital periods shorter than 40 days exhibit a difference in their mass - period and eccentricity - period distribution .",
+    "however , all the derived statistical differences are based only on a small number of known binary systems among the exoplanet host stars , i.e. their significance is sensitive to any changes in the sample size .",
+    "furthermore in the statistical analyses it is assumed that most of the exoplanet host stars are single star systems expect these stars known to be a component of a binary system .    in that context",
+    "it is important to mention that the whole sample of exoplanet host stars was not systematically surveyed so far for neither wide nor close companions , i.e. several more exoplanet host stars , considered today as single stars , might be members of binary systems . only search campaigns for companions of the exoplanet host stars will clarify their multiplicity status and will finally verify the significance of the reported statistical differences .",
+    "therefore , we have started an imaging search program for wide visual companions of exoplanet host stars , carried out with ufti / ukirt , sofi / ntt as well as magic / ca  2.2 m .",
+    "we can find all directly detectable stellar and substellar companions ( m@xmath140@xmath0 ) with projected separations from about 50 up to 1000au .",
+    "thereby companions are identified first with astrometry ( common proper motion ) and their companionship is confirmed with photometry and spectroscopy later on .",
+    "so far , 6 wide companions were detected , see mugrauer et al .",
+    "( 2005a ) for further details .",
+    "queloz et al . ( 2000 ) reported a long - term linear trend in the radial velocity of the exoplanet host star gl86 .",
+    "furthermore , after combining hipparcos measurements with ground - based astrometric catalogues , jahrei  ( 2001 ) showed that this star is a highly significant @xmath2 binary .",
+    "both results point out that there should be a companion of stellar mass in orbit around gl86 .",
+    "els et al .",
+    "( 2000 ) indeed detected a faint common proper motion companion , gl86b , with a separation of only @xmath3 2arcsec and concluded that it is a late l or early t brown dwarf .",
+    "with naco / sdi observations , mugrauer & neuhuser ( 2005b ) detected the orbital motion of this companion which is the final proof that it is orbiting the exoplanet host star .",
+    "furthermore they showed with ir spectroscopy data that gl86b is a white dwarf , i.e. this companion is the causer of the reported linear trends in the radial and astrometric motion of the exoplanet host star .",
+    "gl86b is the first known white dwarf detected as a close companion of an exoplanet host star . with their high contrast naco",
+    "/ sdi imaging , mugrauer & neuhuser ( 2005b ) can already exclude further stellar companions around gl86 with projected separations between 1 and 23au .",
+    "we present here further complementary observations of the gl86 binary system , carried out in our wide companion search program using sofi / ntt . with these observations",
+    ", we can clearly rule out additional wide stellar companions around gl86 with projected separations between 40 and 670au ( see fig.1 ) ."
+  ],
+  "abstract_text": [
+    "<S> we carry out a systematic search campaign for wide companions of exoplanet host stars to study their multiplicity and its influence on the long - term stability and the orbital parameters of the exoplanets . </S>",
+    "<S> we have already found 6 wide companions , raising the number of confirmed binaries among the exoplanet host stars to 20 systems . </S>",
+    "<S> we have also searched for wide companions of gl86 , the first known exoplanet host star with a white dwarf companion . </S>",
+    "<S> our sofi / ntt observations are sensitive to substellar companions with a minimum - mass of 35@xmath0 and clearly rule out further stellar companions with projected separations between 40 and 670au . </S>"
+  ]
+}

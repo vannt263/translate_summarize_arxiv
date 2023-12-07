@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "the hot ( @xmath6k ) , x - ray emitting plasma observed in the disk of our galaxy is an important factor when considering the energy balance and enrichment of the interstellar medium ( ism ) .",
+    "energised by the winds of young massive stars and supernovae , its properties relate to the supernova rate , the evolution of supernova remnants ( snrs ) and the impact of young star clusters on their environment . in normal spiral galaxies like the milky way",
+    ", hot gas produced by multiple supernova explosions may escape from the disk via galactic fountains and/or chimneys ( @xcite ; @xcite ; @xcite ) resulting in a dynamic corona that is bound to the galaxy .",
+    "this gas then cools , condenses and falls back to the disk , possibly as high - velocity clouds @xcite .",
+    "in contrast , the extremely high star - formation rates in starburst galaxies give rise to hotter ( @xmath7k ) large - scale metal - rich outflows from the starburst regions in the form of `` superwinds '' ( _ e.g. , _",
+    "such superwinds are energetic enough to fully escape the influence of the galaxy and are potentially important for the enrichment and heating of the intergalactic medium ( _ e.g. , _",
+    "@xcite ) .",
+    "unfortunately , the opacity of the galactic plane to soft x - rays greatly complicates the study of the extent , physical properties and filling factor of the x - ray emitting plasma in our own galaxy .",
+    "however , observations of nearby spiral galaxies with configurations ranging from face - on to edge - on can circumvent many of the problems inherent in studies of the milky way .",
+    "einstein  _ observatory provided the first detection of ultra - hot out - flows from the disks of edge - on starburst galaxies ( @xcite ) , although only upper limits were obtained on the diffuse emission produced in the disks of normal spiral galaxies ( @xcite ; @xcite ) .",
+    "the improved throughput and spatial resolution of subsequent _ rosat  _ pspc / hri observations revealed unambiguous evidence for truly diffuse emission in spiral galaxies ( @xcite ; @xcite ) .",
+    "more recently , diffuse structures have been observed with the _ xmm - newton  _ and _ chandra  _ observatories in samples of both edge - on ( @xcite ; @xcite ; @xcite ; @xcite ) and face - on spiral galaxies ( @xcite ; @xcite ) . in the face - on systems , diffuse x - rays were found to correlate with the nuclear regions , trace recent star formation within the spiral arms and correlate spatially with h@xmath8 and mid - infrared emission @xcite . in the survey of edge - on systems by strickland et al .",
+    "( 2004a , b ) , extra - planar diffuse emission was detected in all starburst galaxies and one normal spiral galaxy , the extent of which correlated with estimates of the rate of star formation within the disks ."
+  ],
+  "abstract_text": [
+    "<S> we present a study of the x - ray properties of the nearby face - on scd spiral galaxy m101 based on recent _ xmm - newton  _ observations . in this third and final paper in the present series , we focus on the spatial and spectral properties of the residual emission , after excluding bright x - ray sources with @xmath0 . within a central region of radius 10(21 kpc ) , the x - ray emission broadly traces the pattern of the spiral arms , establishing a strong link with recent star formation , but it also exhibits a radial scale length of @xmath1 ( 5.4 kpc ) consistent with optical data . </S>",
+    "<S> we estimate the soft x - ray luminosity within the central @xmath2 ( 10.5 kpc ) region to be @xmath3 ( 0.52 kev ) , the bulk of which appears to originate as diffuse emission . </S>",
+    "<S> we find a two - temperature thermal model best fits the spectral data with derived temperatures of 0.20@xmath4 kev and 0.68@xmath5 kev which are very typical of the diffuse components seen in other normal and starburst galaxies . </S>",
+    "<S> more detailed investigation of the x - ray morphology reveals a strong correlation with images recorded in the far - uv through to v band , with the best match being with the u band . </S>",
+    "<S> we interpret these results in terms of a clumpy thin - disk component which traces the spiral arms of m101 plus an extended lower - halo component with large filling factor .    </S>",
+    "<S> [ firstpage ]    galaxies : individual : m101  galaxies : spiral  x - rays : galaxies  x - rays : ism </S>"
+  ]
+}

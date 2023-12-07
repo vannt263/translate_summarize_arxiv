@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "the discovery of the tight correlation between black hole mass and the velocity dispersion of the bulge component of galaxies @xcite supports the scenario that the black holes have grown up in mass through the hierarchical galaxy mergers .",
+    "this scenario inevitably would lead to the formation of the supermassive binary black holes ( smbbhs ) during the course of galaxy mergers .",
+    "however , there has so far been little observational direct evidence of the smbbhs on the subparsec scale @xcite .",
+    "if there is the gas orbiting around the smbbhs on the subparsec scale , one will be able to observe a signal arising from the interaction between the binary and its surrounding gas ( i.e. a circumbinary disk ) .",
+    "therefore , we study the accretion onto the smbbhs from the circumbinary disks , performing the 3d smoothed particles hydrodynamic ( sph ) simulations .",
+    "our simulations were performed by using the same 3d sph code as @xcite . in order to investigate the accretion flows from the circumbinary disk",
+    ", we run the simulation with the shakura - sunyaev viscosity parameter @xmath0 throughout the circumbinary disk which is coplanar with the orbital plane .",
+    "the orbital period @xmath1 is about @xmath2 , the eccentricity @xmath3 is 0.5 , and the total black holes masses @xmath4 with the mass ratio @xmath5 .",
+    "the black holes are modeled by a couple of sink particles with the accretion radius @xmath6 , where @xmath7 is the semi - major axis of the binary .",
+    "the isothermal equation of state is adopted with @xmath8 , which approximately equals to the typical effective temperature of a standard disk at the @xmath6 around a single black hole with @xmath9 .",
+    "1 shows the accretion flow onto the smbbhs ( the left panel ) and the orbital phase dependence of the mass - accretion rate onto the black holes ( right panel ) , respectively . from the left panel of fig .  1",
+    ", we note that the mass can inflow via two points at the inner edge of the circumbinary disk onto the black holes , and then the accretion disks are formed around each of black holes . in the right panel of fig.1 , to reduce the fluctuation noise , the data are folded on the orbital period over @xmath10 . from the figure , we note that the mass accretion rate strongly depends on the binary orbital phase .    .",
+    "annotated in the panel are the time in units of @xmath1 and the number of sph particles @xmath11 . in the right panel ,",
+    "the right axis shows the bolometric luminosity corresponding to the mass - accretion rate with the energy conversion efficiency , @xmath12 , normalized by the eddington luminosity with total black hole mass @xmath4 .",
+    ", title=\"fig:\",width=143 ] . annotated in the panel",
+    "are the time in units of @xmath1 and the number of sph particles @xmath11 . in the right panel ,",
+    "the right axis shows the bolometric luminosity corresponding to the mass - accretion rate with the energy conversion efficiency , @xmath12 , normalized by the eddington luminosity with total black hole mass @xmath4 .",
+    ", title=\"fig:\",width=166 ]",
+    "we have carried out the sph simulations of accretion flows from circumbinary disks onto the smbbhs on the subparsec scale .",
+    "we find that the two accretion disks are formed around the smbbhs .",
+    "the mass accretion rate significantly varies with an orbital motion because of the periodic variations of the binary potential .",
+    "this could provide the observable diagnosis for the presence of the smbbhs ( e.g. oj287 ) in three - disk systems at the galactic center .",
+    "the simulations reported here were performed using the facility of the centre for astrophysics & supercomputing at swinburne university of technology , australia and of yitp in kyoto university .",
+    "this work has been supported by the grants - in - aid of the ministry of education , science , culture , and sport and technology ( mext ; 14079205 k.h .",
+    "& s.m . , 16340057 s.m . ) .",
+    ", bonnell i.a.,price n.m . , 1995 , mnras , 285 , 33 hayasaki k , mineshige s & sudou h. , 2007 , pasj , in press(astro - ph/0609144 ) sudou ,  h. , iguchi ,  s. , muratai ,  y. , & taniguchi ,  t. 2003 , science , 300 , 1263 ferrarese ,  l. , & merritt ,  d. 2000 , apjl , 539 , 9 gebhardt k et al . , 2000 , apjl , 539 , 13"
+  ],
+  "abstract_text": [
+    "<S> we investigate the accretion flows onto the supermassive binary black holes ( smbbhs ) from the circumbinary disk with the equal mass , eccentric binary on the subparsec scale , using smoothed particle hydrodynamics ( sph ) code . </S>",
+    "<S> we find that the material can be supplied from circumbinary disk , which leads to the formation of two accretion disks around the smbbhs . </S>",
+    "<S> the mass accretion rates significantly modulate with the binary orbital motion . </S>",
+    "<S> these could provide the observable diagnosis of the existence of the supermassive binary black holes ( e.g. oj287 ) on the subparsec scale in merged galactic nuclei . </S>"
+  ]
+}

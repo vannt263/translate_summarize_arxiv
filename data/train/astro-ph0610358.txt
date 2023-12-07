@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "our knowledge of the hard x - ray sky has been widened thanks to the capabilities of ibis @xcite , the gamma - ray imager on board the integral satellite @xcite . since its launch in october 2002 , integral",
+    "has surveyed a large fraction of the sky above 20 kev at a mcrab sensitivity level with a typical localization accuracy of 2 - 3 @xcite .",
+    "the number of hard x - ray sources detected in the second ibis survey has increased by 70% compared to the first one for a total of 209 objects @xcite . the main category ( @xmath050% of the sample ) is still represented by galactic accreting binaries ( hmxb and lmxb ) , although there has been a five - fold increase in agn detections over the 1st catalogue while the number of unclassified objects has doubled as a direct consequence of a wider and deeper sky coverage .",
+    "masetti and co - authors @xcite are currently executing a campaign with the goal of identifying the still unknown sources through optical spectroscopy .",
+    "their results indicate that half of the unidentified integral sources turn out to be optically classified as nearby agns .",
+    "+ the integral error box associated with the hard x - ray sources ( 2 - 3 ) is often too large ( and therefore too crowded ) to allow an optical follow - up observation",
+    ". therefore we have searched in the _ swift _ x - ray telescope ( xrt ) @xcite archive for x - ray observations of newly detected ibis sources in order to locate them with arcsec accuracy ; this us allowed their optical classification in many cases ( see @xcite ) .",
+    "+ in this work we present x - ray data ( 0.210 kev ) for a set of 8 identified with agn .    [ cols=\"<,<,^,^,^,^ \" , ]",
+    "the xrt data reduction was performed using the xrtdas v. 2.4 standard data pipeline package ( xrtpipeline v. 0.10.3 ) , in order to produce screened event files .",
+    "all data are extracted only in the photon counting ( pc ) mode @xcite , adopting the standard grade filtering ( 012 for pc ) according to the xrt nomenclature .",
+    "events for spectral analysis were extracted within a circular region of radius 20@xmath1 , which encloses about 90% of the psf at 1.5 kev @xcite centered on the source position .",
+    "the background was extracted from various source - free regions close to the x - ray object of interest using both circular and annular regions of various radii , in order to ensure an evenly sampled background . in all cases ,",
+    "the spectra were extracted from the corresponding event files using xselect software and binned using grppha in a manner so that the @xmath2 statistic could reliably be used .",
+    "we used the latest version ( v.008 ) of the response matrices and created individual ancillary response files ( arf ) using xrtmkarf .",
+    "spectral analyses were performed using xspec version 12.2.1 .",
+    "+ in figures 1 to 8 we show the xrt 0.3 - 10 kev images for the eight new agns discovered by integral together with their relative x - ray spectra . in each xrt field of view the integral error ( black circle ) is shown .",
+    "for those sources with more than one pointing ( see label star in the table ) , we performed the spectral analysis of each observation individually in order to search for spectral variability , and then we analyzed the combined spectra , sa as to improve the statistical quality of the data .",
+    "for this prelinary analysis , due to the limited spectral signal often available , we employed a simple power law absorbed by both a galactic @xcite and an intrinsic column density . due to the low statistical quality of the data , in the case of igr j14492 - 5535 , igr j20187 + 4041 and igr j20286 +",
+    "2544 we fixed the photon index to a canonical agn value ( @xmath3=1.8 ) .",
+    "this baseline model provides a quite good fit to the x - ray data for all the agns herein analyzed and the spectral parameters obtained for each source are reported in table 1 .",
+    "the use of _ swift_/xrtdata has allowed us to characterize the x - ray emission of eight sources presented here : for four objects the x - ray data confirm their optical classification as seyfert 1 galaxies since no intrinsic absorption is found and the spectra are typical of agn . for igr j20286 + 2544 the intrinsic column density is compatible with a type 2 galaxy , confirming again the optical classification .",
+    "it is likely that this is a compton thick agn ( @xcite ) , as also suggested by the presence of an excess at around 6.4 kev modelled with a narrow iron line having an equivalent width ( ew ) of about 700 ev .",
+    "two sources of this sample are still not optically classified ( igr j14492 - 3036 and igr j20187 + 4041 ) and they are both absorbed in x - rays , suggesting a type 2 classification .",
+    "igr j12415 - 5750 ia a peculiar source as it is a type 2 seyfert galaxy showing no intrinsic absorption .",
+    "this research was supported by asi under contract i / r/046/04 and i / r/023/05 .",
+    "this research has made use of data obtained from ned ( jet propulsion laboratory , california institute of technology ) , simbad ( cds , strasbourg , france ) and heasarc ( nasa s goddard space flight center ) ."
+  ],
+  "abstract_text": [
+    "<S> in five years of operation , data from integral has been used to discover a large number of gamma - ray sources , a substantial fraction of which have turned out to be active galactic nuclei ( agn ) . </S>",
+    "<S> recently bassani et al . </S>",
+    "<S> ( 2006 ) @xcite have presented a sample of around 60 agns of which some still lack optical identification or information in the x - ray band . in this work we present x - ray data for 8 objects acquired with the xrt telescope on - board swift satellite . </S>",
+    "<S> the xrt positioning has allowed us to identify the optical counterparts and to classify their types through follow - up measurements . </S>",
+    "<S> analysis of these data has also provided information on their spectra below 10 kev . </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the active region noaa 10786 was observed on july 9 , 2005 at the swedish 1-meter solar telescope , la palma @xcite during the international time program .",
+    "this complex region observed at heliocentric position @xmath2 ( figure   [ observations ] ) , shows a @xmath3-configuration ( figure  [ images ] ) . +",
+    "two simultaneous time sequences of high resolution were taken in @xmath4 nm ( g - band ) and @xmath5 nm ( g - cont ) , respectively .",
+    "the sequences span for 79 minutes , from 7:47 ut to 9:06 ut and the pixel size is @xmath6 .",
+    "the observational strategy consisted in taking g - band images and simultaneous g - cont phase diversity image - pairs required for the restoration technique ( i.e. three different channels . )    [ cols=\"^ \" , ]     [ tablevel ]    figure  [ moats ] shows the flow map ( 70 min average , fwhm=0\".78 ) for velocities ranging from 0.3 to 1 @xmath0 @xmath1 .",
+    "strong radial outflows ( moats ) are evident surrounding the sunspots .",
+    "we have found that these moats are closely associated with the existence of penumbra and are missing in the sides with no penumbral structure .",
+    "+        following @xcite ( see also @xcite ) we have calculated from the horizontal velocities , the divergence structures and subsequently the vertical velocities by using the equation ( [ eq : november ] ) .",
+    "@xmath7    where @xmath8 @xmath0 stands for the scale height of the flux of mass , and @xmath9 is the divergence of the horizontal velocity field .",
+    "+        figure  [ divergen ] shows the resulting vertical flows in the fov , ranging from -20 @xmath10 @xmath1 ( downward ) to 40 @xmath10 @xmath1 ( upward ) .",
+    "the extreme values of vertical velocities ( see the caption in figure[divergen ] ) correspond to strong exploding granules and powerful sinks , respectively .",
+    "+      the divergence structures displace in time dragged by flows at scales larger than the mesogranular ones .",
+    "we aim at determine the map of such large - scale flows . following",
+    "the procedure explained above , and averanging over 5 min windows , a sequence of 14 maps of divergence structures was obtained during a 70-min period within the series .",
+    "the application of lct techniques ( but now with a tracking window of fwhm=3 \" ) to the structures in the sequence of 14 maps of divergence , allows us to produce an average velocity map for the large - scale flows .",
+    "+        the resulting flow map for the divergence structures ( fg .  [ flowdiv ] ) looks similar , although much less noisy , to the one obtained when using granules as tracers .",
+    "now the moat reveals even more clearly outlined around the sunspots , but again only in those regions with penumbra .",
+    "time series of broad band images for a complex @xmath3-configuration sunspot spanning over 71 minutes were restored for atmospheric and instrumental degradation .",
+    "we were able to study motions of granules and mesogranules surrounding the sunspots and derived velocity ranges corresponding to the so - called moat between 0.3 and 1 @xmath0 @xmath1 .",
+    "+ the main result from our analysis is the fact that the moat , defined as strong radial outflows from the sunspots , is only found surrounding those parts of the sunspots where the penumbra exists .",
+    "this result has been found not only by computing the horizontal flows using the granules as tracers , but also when identifying the large - scale outflows surrounding the sunspots by the displacements of the centres of divergence .",
+    "these large - scale outflows in figure [ flowdiv ] are more uniform and better organized than the horizontal ones in figure [ moats ] .",
+    "+ we have also identified inside the penumbrae , the divisory lines which separate the flows goind toward the umbra in the inner penumbrae and toward the surrounding photosphere in the outer penumbra .",
+    "figure [ moats ] shows these lines as filamentary bright structures corresponding to small horizontal velocities ( @xmath11 @xmath0 @xmath1 ) .",
+    "the authors are grateful to mats lofdahl , michiel van noort and luc rouppe van der voort , for their inputs about the restoration process .",
+    "the swedish 1-m solar telescope is operated on the island of la palma by the institute of solar physics of the royal swedish academy of sciences in the spanish observatorio del roque de los muchachos of the instituto de astrofsica de canarias .",
+    "partial support by the spanish ministerio de educacin y ciencia through project esp2003 - 07735 is gratefuly .",
+    "scharmer g. b. , k. bjelks , t. k. korhonen , b. lindberg , and b. petterson .",
+    ", 2003 , in : innovative telescopes and instrumentation for solar astrophyisics , ed .",
+    "s.l . keil and s. v. avakyan , proc ."
+  ],
+  "abstract_text": [
+    "<S> time series of high - resolution images of the complex active region noaa 10786 are studied . </S>",
+    "<S> the observations were performed in g - band ( 430.5 nm ) and in the nearby continuum ( 463.3 nm ) , on july 9 , 2005 at the swedish 1-meter solar telecope ( sst ) in la palma . </S>",
+    "<S> granular proper motions in the surroundings of the sunspots have been quantified . </S>",
+    "<S> a large - scale radial outflow in the velocity range 0.3 - 1 @xmath0 @xmath1 has been measured around the sunspots by using local correlation tracking techniques . </S>",
+    "<S> however , this outflow is not found in those regions around the sunspots with no penumbral structure . </S>",
+    "<S> this result evidences an association between penumbrae and the existence of strong horizontal outflows ( the moat ) in sunspots .    </S>",
+    "<S> [ 2001/04/25 1.1 ( pwd ) ] </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the census of supermassive black holes ( sbhs ) is large enough to probe the links between mass of sbhs and the global properties of the host galaxies ( see ferrarese & ford 2005 ) .",
+    "however , accurate measurements of sbh masses ( @xmath3 ) are available for a few tens of galaxies and the addition of new determinations is highly desirable .    to this purpose",
+    "we started a project aimed at measuring upper limits on @xmath3 in the center of all the nearby galaxies ( @xmath0 mpc ) for which stis / g750 m spectra are available in the hst archive .",
+    "we retrieved data for 213 galaxies spanning over all the morphological types .",
+    "this will extend previous works by sarzi et al .",
+    "( 2002 ) and verdoes kleijn et al .",
+    "( 2006 ) . here",
+    "we analyze a subsample of 22 galaxies .",
+    "they have been selected to be s0-sb within 20 mpc and to have a measured stellar velocity dispersion ( @xmath4 ) .",
+    "all the galaxies were observed as part of the hst / sunns project ( pi : h .- w .",
+    "rix , go-7361 ) , except for ngc 4435 ( coccato et al .",
+    "the stis / g750 m spectra were obtained with the @xmath5 slit crossing either the galaxy nucleus along a random position angle ( sunns ) or along the galaxy major axis ( ngc 4435 ) .",
+    "the observed spectral region includes the [ n  ii]@xmath6 , h@xmath1 , and [ s  ii]@xmath7  emission lines .",
+    "data reduction was performed with the stis pipeline , which we implemented to clean cosmic rays and hot pixels . for each galaxy we obtained the nuclear spectrum by extracting a @xmath8-wide ( @xmath9 pc ) aperture centered on the continuum peak .",
+    "the ionized - gas velocity dispersion was measured by the fitting gaussians with the same width and velocity to the narrow component of the [ n  ii ] and [ s  ii ] emission lines .",
+    "the h@xmath1 line and broad components were fitted with additional gaussians .",
+    "we assumed that the ionized gas resides in a thin disk and moves onto circular orbits .",
+    "the local circular velocity is dictated by the gravitational influence of the putative sbh . to derive the upper limits on @xmath3 we first built the gaseous velocity field and projected it onto the sky plane according to the disk orientation .",
+    "then we observed it by simulating the actual setup of stis and effects related to the stis psf , slit width and the charge bleeding as done by coccato et al .",
+    "including the mass of the stellar component would lead to tighter upper limits on @xmath3 .",
+    "we have no information on the orientation of the gaseous disk within the central aperture . for this pilot project",
+    "we assumed that the disk is either nearly face on ( @xmath10 ) or edge on ( @xmath11 ) and the slit is placed along its major axis .",
+    "we derived the intrinsic flux radial profile of the gaseous disk by fitting a gaussian function to the narrow emission - line fluxes taking into account of disk inclination and stis psf .",
+    "the resulting upper limits are consistent with those derived by sarzi et al .",
+    "( 2002 ) for the sunns galaxy sample and by coccato et al .",
+    "( 2006 ) for ngc  4435 .",
+    "therefore , we are confident to obtain reliable estimates of the upper limit on @xmath3 for all the sample galaxies with emission lines in their spectra",
+    ". this will allow to increase the statistical significance of the relationships between @xmath3 and galaxy properties and identify peculiar objects worthy of further investigations .",
+    "this is the case of the @xmath3 of ngc  3351 , ngc  4314 , and ngc  4143 , which lie below the @xmath12 relation ( fig .",
+    "1 ) .     upper limits ( filled circles ) and the @xmath12 relation .",
+    "the edges of the arrows correspond to upper limits obtained with @xmath10 and @xmath11 , respectively .",
+    "the open circles show the galaxies with accurate measurements of @xmath3 ( ferrarese & ford 2005).,height=264 ]"
+  ],
+  "abstract_text": [
+    "<S> the growth of supermassive black holes ( sbhs ) appears to be closely linked with the formation of spheroids . </S>",
+    "<S> there is a pressing need to acquire better statistics on sbh masses , since the existing samples are preferentially weighted toward early - type galaxies with very massive sbhs . with this motivation </S>",
+    "<S> we started a project aimed at measuring upper limits on the mass of the sbhs in the center of all the nearby galaxies ( @xmath0 mpc ) for which stis / g750 m spectra are available in the hst archive . </S>",
+    "<S> these upper limits will be derived by modeling the central emission - line widths observed in the h@xmath1 region over an aperture of @xmath2 . here </S>",
+    "<S> we present our results for a subsample of 22 s0-sb galaxies within 20 mpc . </S>"
+  ]
+}

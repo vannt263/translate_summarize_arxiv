@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "observations by @xcite have shown that not all barred spiral galaxies , or even only those with strong bar , display stable structures or active star formation in their nuclei .",
+    "time delays may be important for the observations : the bar may be too young to produce some nuclear activity , or alternatively , too old and then has already faded into the galaxy s background . in both cases evidences could be present in the stellar populations morphology which would be very useful to establish an evolutionary scenario .",
+    "the star formation in the central kpc of galaxies is hardly well described and understood .",
+    "can we find various generations of stars with different metallicity following a flow of gas ?",
+    "and then , how may a stellar population present in the central region be discriminated from others ?",
+    "moreover , it has been proposed that fueling processes migth involve more localized phenomena , such as nuclear bars ( @xcite ) , warped nuclear disks ( @xcite ) , or nuclear co / stellar and hi rings ( combe et al .",
+    "2004the spatial distribution and the age of young ( @xmath0  myr ) stellar populations , we can obtain information on the most recent gas motion and structures ( nuclear ring or bars ) in the galaxy . on the other hand , the old population distribution and age will provide information about previous structures or even previous starbursts .",
+    "these are clues for possible scenarios about the history of the galaxy central region .",
+    "present data on the barred galaxy ngc  4900 were obtained with oasis at the canada - france - hawaii telescope in 2001 .",
+    "the oasis field of view covers the central kpc of the galaxy .",
+    "the data were processed using the xoasis software .",
+    "iraf was then used to extract line strengths , equivalent widths , and line ratios .",
+    "subsequent maps of extinction , ages , and metallicities were then created to study the history of the stellar populations .    from the absorption line equivalent widths for mg2 , fe5270 , fe5335 , and h@xmath1 and using the code from moll & garca - vargas ( 2000 ) , it was possible to obtain the averaged age and metallicity [ fe / h ] maps for the old stellar populations ( see fig.[maps ] ) .",
+    "the first one reveals a rather uniform population of at least @xmath2  myr ( orange color ) with a younger region of @xmath310  myr to the se .",
+    "the metallicity [ fe / h ] is near solar and rather uniform . from the equivalent width of the emission lines h@xmath4 and h@xmath1 and using the code lavalsb ( dionne & robert 2006 ) we estimate the age and the oxygen abundance for the young stellar populations , too .",
+    "the age map shows an ellongated region between 5 and 7 myr to the se and a region of 8 myr in the nw corner .",
+    "these young regions are at the end of the galactic bar on each side of a nuclear bar seen in the extinction map ( not shown here ) .",
+    "the gas abundance is oversolar ( 12+log(o / h ) @xmath5 8.8 ) with a higher value for the young se region .    in summary",
+    ", we find three episodes of star formation .",
+    "the first one occurred a few 100 myr ago involving uniformely the central region . at the nw end of the bar , a second episode of star formation took place 8 myr ago .",
+    "the third one occurred between 5 or 6 myr on the other side of the nucleus .",
+    "abundance and younger star forming regions seem to imply an inflow of high metallicity gas or recurent star formation ."
+  ],
+  "abstract_text": [
+    "<S> we characterize the stellar populations in the nuclear region of the barred spiral galaxy ngc  4900 using the integral field spectrometer oasis and the synthesis code lavalsb and the code from moll & garca - vargas ( 2000 ) for the young ( @xmath0 myr ) and the old stellar populations , respectively . </S>",
+    "<S> the high spatial resolution of the instrument allows us to find an old population uniformely distributed and younger regions located at the end of the galaxy bar and on each side of a nuclear bar . </S>"
+  ]
+}

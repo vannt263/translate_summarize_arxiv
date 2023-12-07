@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "we have obtained very high s / n spectropolarimetric observations of ngc  3783 using the vlt and the 3.6 m telescope at la silla in 2006 , with total exposure times of 3.4 and 6.2 hours , respectively .",
+    "the data were reduced following miller , robinson & goodrich ( 1988 ) and special care was taken to correct for the interstellar polarization in our galaxy along the line of sight towards ngc  3783 .",
+    "the left panel in figure 1 shows the total flux and pa of the polarized emission in the 4000 - 5000   range .",
+    "strong pa changes are coincident with the broad balmer emission lines .",
+    "this is consistent with near - field scattering , i.e. , with the scatterer being close enough to the balmer emitting region to _ resolve _ it .",
+    "these pa changes , however , are not consistent with a simple , pure rotational motion of the blr as seen by an equatorial scattering medium , which predicts a horizontal _ s - shaped _ pa swing , as already observed in several other seyfert 1 galaxies , and modeled by smith et al .",
+    "( 2005 ) . instead , a _",
+    "m - shaped _",
+    "pattern is seen in all balmer lines ( also clear in h@xmath2 , which is not shown here ) .",
+    "the balmer lines also show a narrow dip in polarized flux which is blue - shifted from the position of the emission peak seen in total flux ( central panel in figure 1 ) . in a forthcoming paper we will present detailed modeling of our data .",
+    "the heii@xmath1 line , very conspicuous in total flux , does not show the features observed in the polarized flux of the balmer lines , and essentially no pa change .",
+    "the right panel in figure 1 compares the h@xmath2 and h@xmath0 profiles in velocity space .",
+    "an excess is clearly seen extending from the blue wing of h@xmath0 , which is coincident with the position of the heii@xmath1 emission line .",
+    "we therefore interprete this excess as polarized emission from the broad heii@xmath1 line .",
+    "the lack of a pa change across the heii@xmath1 line strongly suggests a smaller solid angle subtended by the emitting region as seen by the scatterer when compared with the balmer emitting region .",
+    "we have found clear evidence that the scatterer is resolving the balmer emitting region in ngc  3783 .",
+    "the geometry and kinematics will be explored in a forthcoming paper which will model the spectropolarimetric observations .",
+    "reverberation mapping results show clear evidence for a stratified blr which is also consistent with virial motion of the blr ( onken & peterson , 2002 ) .",
+    "we have found strong evidence that the high ionization heii@xmath1 line is produced in a region much more compact than that producing the balmer lines , in good agreement with the idea of a stratified blr .",
+    "( 15,5 ) ( -0.5,0 ) and h@xmath0 emission line profiles in velocity space .",
+    "we identify the excess seen in the blue wing of h@xmath0 as emission from the heii@xmath1 line.,title=\"fig : \" ] ( 9,0 ) and h@xmath0 emission line profiles in velocity space .",
+    "we identify the excess seen in the blue wing of h@xmath0 as emission from the heii@xmath1 line.,title=\"fig : \" ]      onken , c.  a. , & peterson , b.  m. , 2002 , apj , 572 , 746 miller , j.  s. , robinson , l.  b. , & goodrich , r.  w. , 1988 , in ` the 9@xmath3 santa cruz summer workshop in astronomy and astrophysics ' , p. 157",
+    ", l.  b.  robinson ed .",
+    "smith , j.  e. , robinson , a. , young , s. , axon , d.  j. , & corbett , e.  a. , 2005 , mnras , 359 , 846"
+  ],
+  "abstract_text": [
+    "<S> we present results from very high signal - to - noise spectropolarimetric observations of the seyfert 1 galaxy ngc  3783 . </S>",
+    "<S> position angle ( pa ) changes across the balmer lines show that the scatterer is _ resolving _ the broad - emission line region ( blr ) . </S>",
+    "<S> a broad component seen in polarized light and located bluewards from the h@xmath0 line very likely corresponds to heii@xmath1 . </S>",
+    "<S> the lack of pa changes across this line suggests that the region responsible for this emission appears to the scatterer as unresolved as the continuum source , in agreement with the stratified blr structure determined from reverberation mapping . </S>"
+  ]
+}

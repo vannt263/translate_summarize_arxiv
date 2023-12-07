@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "astrophysical black holes with masses in the @xmath4@xmath1  range ( intermediate - mass black hole , imbh ) are of significant implications to black hole research and cosmology .",
+    "the search for imbhs turns out to be a difficult task , however , since imbhs are beyond the reach of direct dynamical measurement .",
+    "the most promising approach is to search for dwarf agns hosted in small galaxies .",
+    "so far , convincing evidence for the existence of imbhs has been found in only a dozen agns ( ngc4395 , filippenko & ho 2003 ; pox52 , barth et al .",
+    "2004 ; greene & ho 2006 ; sdssj1605 + 1748 , dong et al .",
+    "greene & ho ( 2004 , hereafter gh04 ) have conducted a pioneering systematic search for imbh agns from the sdss dr1 over a sky area of 1360 deg@xmath5 , yielding 19 candidates that are preferentially accreting close to the eddington limit ( mainly due to their selection method ) .",
+    "a fundamental question remains open whether imbhs are truly rare or they are just mostly quiescent .",
+    "to address this and other related questions we have conducted a thorough search for imbh agns using data from the sdss dr4 .",
+    "we performed spectral analysis for all the galaxies and qsos with redshift @xmath6 from the sdss dr4 spectroscopic database covering 4783 deg@xmath5 .",
+    "starlight and nuclear continuum were subtracted from sdss spectra using the method as described in zhou et al .",
+    "emission line spectra were fitted using the code as described in dong et al .",
+    "( 2005 ) . based on fitted line parameters , we culled broad - line agns following the criterion as described in dong et al .",
+    "black hole masses were estimated from the luminosity and width of a broad h@xmath2 component ( greene & ho 2005 ; greene & ho 2006 ) .",
+    "finally , we found 245 broad - line agn with candidate imbhs , sampling the ranges of @xmath7@xmath1 , @xmath8 and @xmath9 ( see figure 1 ) .",
+    "as noted by gh04 , for imbh agns whose spectrum are dominated by narrow emission lines or which are embedded in a much more luminous host galaxy , weak broad lines are hard to discern ; this is especially true for those in a low accretion state . for the recovery of weak broad lines , accurate decomposition of agn ",
+    "galaxy spectra is essential , as well as careful fitting of the lines .",
+    "resulting from our algorithms improved in both aspects , we found 36 candidate imbhs with @xmath3 .",
+    "figure 2 shows such an example , sdssj112628.73 + 472453.8 ( @xmath10 ) that has @xmath11@xmath1  and @xmath12 . considering the selection effects that is seriously against finding such objects",
+    ", we suggest that there might exist a large fraction of imbhs with weak or no agn activity .",
+    "this can be examined in future via deriving the @xmath13 distribution of imbh agns ( dong et al .",
+    ", in prep . )",
+    "using monte - carlo simulations to handle the various selection effects ( the sdss magnitude limit , starlight dilution , and the broad - line criterion , etc . ) ."
+  ],
+  "abstract_text": [
+    "<S> we have conducted a systematic search of agns with imbhs from the sdss dr4 . as results we found 245 candidates of broad - line agn with m@xmath0@xmath1  estimated from the luminosity and width of the broad h@xmath2 component . </S>",
+    "<S> compared to the pioneer greene & ho ( 2004 ) sample of 19 imbh agns , our sample has improved in covering a larger range of the eddington ratio , as well as black hole mass and redshift , taking the advantage of our agn - galaxy spectral decomposition algorithm . among these , </S>",
+    "<S> thirty - six have @xmath3 , hinting that a significant fraction of imbhs might exist with weak or no nuclear activity . </S>"
+  ]
+}

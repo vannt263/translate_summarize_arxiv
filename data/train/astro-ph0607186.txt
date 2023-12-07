@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "eclipsing binaries are very important in astrophysical research giving us much information not only about stars they are formed of but also about stars in general .",
+    "we can determine their dimensions and masses as well as surface temperature and other physical parameters ( wilson 1994 ) .",
+    "in particular , rate and sign of a period change give us information about physical processes that occur in these systems .",
+    "angular momentum loss ( aml ) by magnetic breaking ( vant veer 1979 ; rahunen 1981 ; vilhu 1982 and others ) may cause a period decrease , mass transfer between components in thermal relaxation oscillations ( tro ) ( flannery 1976 ; lucy 1976 ; robertson & eggleton 1977 ) may cause both increase and decrease of a period and an influence of the third component may cause periodic oscillations of its value",
+    ".    statistical analysis of period change rate can tell us more about structure and evolution of binary systems . here",
+    "we present first , preliminary results of this analysis considering short period contact and semidetached binaries from asas-3 data .",
+    "the all sky automated survey-3 is situated in the las campanas observatory and is operating since august 2000 .",
+    "the project main goal is to monitor all stars brighter than 14@xmath0 .",
+    "it consists of two wide - field 200/2.8 instruments , one narrow - field 750/3.3 telescope and one super - wide 50/4 scope , each equipped with the ccd camera .",
+    "observations are carried out with vri filters .    nowadays there are more then 2,300,000,000 photometric measurements for more then 15,000,000 stars south of declination + 28 . among these stars more than 50,000 are confirmed to be variables and most of them are new discoveries . each field",
+    "is observed once each 2 or 3 nights . the asas-3 catalog of variable stars is presented on - line on the internet with light curves updated just after exposure .",
+    "full description of the project was given by pojmanski ( 2002 ) .",
+    "this first attempt to search for changing period eclipsing binaries considered stars brighter than @xmath3 ( in v ) with period @xmath4 . to assure better reliability for the results we further restricted these stars to have at least 300 observation points .",
+    "these criteria limited the number of stars from about 8300 to 1099 contact ( ec ) and semidetached ( esd ) stars . on average",
+    "we had 420 observations per star .",
+    "we have used only v filter data presented by paczynski et al .",
+    "( 2006 ) .    for each star we have used a standard aov method ( schwarzenberg - czerny 1989 ) to simultaneously determine an angular velocity @xmath1 and its time derivative @xmath2 . in this method two dimensional power spectrum was created and then model with maximum power was selected as the best fit to the data .",
+    "light curves for two selected stars are presented in figures 1 and 2 .",
+    "it is easily seen that considering a period change improves the shape of the light curve . for these stars following parameters",
+    "were found ( @xmath5  power ) : + star 004430 - 3606.5 : + @xmath6 constant period + @xmath7 + @xmath8 + @xmath6 with period change + @xmath9 + @xmath10 + @xmath11 + star 082456 - 4833.6 : + @xmath6 constant period + @xmath12 + @xmath13 + @xmath6 with period change + @xmath14 + @xmath15 + @xmath16 +    for 745 stars we were able to find values of @xmath2 with reasonable accuracy .",
+    "distribution of this parameter is presented in figure 3 . from these stars we chose 32 stars for which @xmath2 was found with the best accuracy .",
+    "this set of stars have either high period change rate or very good signal to noise ratio .",
+    "the histogram of their @xmath2 is shown in figure 4 .",
+    "as seen in figure 3 it seems that there is no evidence that average @xmath2 for short period ec and esd binaries differs from zero .",
+    "figure 4 shows a quite distinct asymmetry : there are more stars with decreasing period than ones that have it increasing , however , this sample is very small and has a little statistical significance .",
+    "the asas data allows us to investigate a lot of very interesting eclipsing binaries using reasonable quality data .",
+    "preliminary results gave quite significant evidence that average @xmath2 is close to zero .",
+    "method for a period change determination used here was not perfect so we expect to give much better results in near future as we improve our calculations .",
+    "the observations are still carried on so the amount of data is increasing and in a few years similar calculations will give much better results .",
+    "we thank prof . marcin kubiak for his useful remarks .",
+    "flannery , b. p. 1976",
+    ", , 305 , 317 lucy , l. b , 1976 , , 205 , 208 pojmanski , g. 2002 , aca , 52 , 397 paczynski , b. , szczygiel , d. , pilecki , b. , pojmanski , g. 2006 , , 368 , 1311 rahunen , t. 1981 , , 102 , 82 robertson , j. a. , eggleton , p. p. 1977",
+    ", , 179 , 359 schwarzenberg - czerny , a. 1989 , , 241 , 153 vant veer , f. 1979 , , 220 , 128 vilhu , o. 1982 , , 109 , 17 wilson , r. e. 1994 , , 106 , 921"
+  ],
+  "abstract_text": [
+    "<S> we present a preliminary statistical analysis of a period change of eclipsing binaries from the asas catalog of variable stars . for each contact and semidetached system </S>",
+    "<S> brighter than 13.3@xmath0 ( in v ) with a period shorter than 0.4 days and at least 300 observation points we have found an angular velocity @xmath1 and its time derivative @xmath2 . according to our accuracy there is no evidence that average @xmath2 differs from 0 . </S>",
+    "<S> light curves for selected stars are presented .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

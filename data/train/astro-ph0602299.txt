@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "recent experiments@xcite have indicated that the flux of cosmic rays entering the earth s atmosphere with energy beyond the greisen - zatsepin - kuzmich ( gzk ) limit@xcite of roughly @xmath1 is much higher than expected . according to the original papers on the subject ,",
+    "such ultra - high - energy cosmic rays ( uhecr ) , presumably consisting of photons , nucleons , or heavier nuclei , must be rapidly attenuated after travelling a distance of @xmath2 mpc through intergalactic space due to interactions such as @xmath3 and @xmath4 with the cosmic microwave background radiation ( cmbr ) , and since there are no known sources of uhecr within this radius of the earth the observed flux in our atmosphere should be negligable .",
+    "if further experimentation verifies excess in uhecr flux then the simple gzk model may not be the correct theory of uhecr propagation in space .",
+    "the excess of uhecr has been known for at least a decade@xcite , but of interest lately is analysis showing significant clustering of uhecr events in the sky in directions that point to candidate sources @xmath5 mpc away@xcite .",
+    "the possibility that uhecr are able to travel such long distances through the cmbr lends strong motivation to revise the gzk bound .",
+    "the original derivation of the gzk bound for protons depends on the energy of the protons ( e ) , the energy loss per interaction ( @xmath6 ) with a cmbr photon , the number density of cmbr photons ( n ) , and the interaction cross - section ( @xmath7 ) as follows : [ lgzk ] _ gzk = ( ) ( ) for example , for @xmath8 protons incident on cmbr photons giving resonant pion - production we have @xmath9 , @xmath10 , and therefore @xmath11 ( one can derive a similar limit for photons ) .",
+    "the dilemma is that no potential uhecr sources , such as active galactic nuclei , are observed to be within that radius of the earth@xcite .",
+    "models to resolve the dilemma usually introduce additional assumptions to modify @xmath6 or @xmath7 in ( [ lgzk ] ) , resulting in a larger @xmath12 .",
+    "for example , @xmath6 can decrease in theories in which energy conservation fails at high energies @xcite ; @xmath7 decreases in models where the uhecr is initiated by an exotic particle or neutrino which interacts very weakly with the cmbr@xcite .",
+    "the current letter proposes that one can extend the gzk bound if uhecr propagate in discrete jumps through space - time , rather than in a continuous path .",
+    "it turns out that the form of the second factor in ( [ lgzk ] ) changes , and a jump size as small as a few femtometers is sufficient to resolve the dilemma .",
+    "in contrast to the above - metioned theories , this model introduces no new particles or violation of conservation principles , but rests merely on the hypothesis that space - time is discrete .",
+    "first let us recall the derivation of the second factor in parenthesis in ( [ lgzk ] ) , the mean free path length for , say , a proton .",
+    "this comes about from a pseudo - classical approximation of the proton - cmbr interaction , justified by the relative diffuseness of the cmbr . as shown in figure 1 , from the perspective of the cmbr the proton sweeps out an effective tube in 3-space of cross - sectional area @xmath7 and length @xmath13 ; the probability of interaction with a cmbr photon along this path is just the volume swept out , @xmath14 , divided by the photon number density @xmath15 .",
+    "therefore the probability of interaction per unit path length is constant , and its inverse , the mean free path of the proton , is @xmath16 .",
+    "= 1.3 pt    ( 90,50)(0,10 ) ( 30,20)(110,20 ) ( 30,40)(110,40 ) ( 30,30)(10,5)(0 ) ( 110,30)(10,5)(0 ) ( 29,30)[c]@xmath7 ( 70,10.5)[c]@xmath13    figure 1 .",
+    "_ segment of uhecr path _",
+    "now suppose the proton does nt move in a continuous line , but propagates in jumps of size @xmath13 .",
+    "working in the same pseudo - classical approximation above , in the course of one jump the proton occupies an approximate volume of @xmath17 in the cmbr , before jumping again . the mean path length ( though this path is traced out over many jumps ) is then @xmath18 .",
+    "since the fractional energy lost per interaction remains the same , the gzk bound should be replaced by [ lrgzk ] _",
+    "r = ( ) ( ) and depends on the size @xmath13 of the proton jumps .",
+    "note that as @xmath19 , @xmath20 becomes @xmath12 , and for @xmath21 @xmath12 replaces @xmath20 .",
+    "using again the example of photopion production , with @xmath22 , gives @xmath23 .",
+    "remarkably , if uhecr protons jump in intervals as small as a femtometer they can easily traverse the intergalactic space to the nearest uhecr sources @xmath24 mpc away .",
+    "supposing uhecr protons do jump in fermi - size steps through intergalactic space , an immediate concern is whether this behaviour applies to other energies and other particles : i.e. few researchers would object to discreteness at the planck - scale , but do existing observations rule out spacetime discreteness at the fermi - scale ? one expects physics of very low energies ( ev- and below ) to be insensitive to motions on the order of a fermi .",
+    "however , already in the realm of medium- to high - energies(@xmath25 ) severe constraints may arise in more sensitive environments , e.g. stellar interiors or particle detectors in accelerator - based experiments , though these are not nearly as uniform and diffuse as the cmbr and hence require a more sophistcated treatment than that appearing in this letter .    in the event",
+    ", however , in which the discretization of space is a dynamic phenomenon depending on energy ( and possibly other quantum numbers ) these phenomenological constraints may be weakened or removed , and investigations in this direction are underway@xcite ."
+  ],
+  "abstract_text": [
+    "<S> _ the maximum distance bound for ultrahigh energy cosmic rays ( uhecr ) with energies above the greisen - zatsepin - kuzmich cutoff @xmath0 relaxes significantly if there is some mechanism that forces uhecr to propagate in discrete intervals , rather than continuously , through intergalactic space . </S>",
+    "<S> in particular , intervals as small as a femtometer relax the bound for protons by an order of magnitude and potentially account for the observed excess of uhecr flux . _    scuphy - th-06001 + </S>"
+  ]
+}

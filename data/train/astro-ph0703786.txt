@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the hess cerenkov telescope alerted the astronomical community on july 27 , 2006 about an increase of activity of the blazar pks @xmath0 ( z=0.116 ) in the tev energy range @xcite .",
+    "the same night the blazar displayed flares up to 17 crab ( e > 200 gev ) on time scales of 5 minutes @xcite .",
+    "an immediate x - ray / uv / optical follow - up with the _ swift _ satellite was activated and the analysis of data is reported in @xcite . a prompt increase of the x - ray flux without large spectral changes was revealed .",
+    "interestingly , the frequency of the synchrotron peak remained at values similar to those observed in the past , with low tev activity @xcite .",
+    "further details can be found in @xcite .",
+    "however , the event was so spectacular and anomalous that it deserves further attention .",
+    "after an initial spectral fit of the x - ray data with power - law ( pl ) and broken power - law ( bpl ) models , we tried a log - parabolic model , which was already successfully applied to other blazars ( e.g. @xcite , @xcite , @xcite ) .",
+    "this model is represented by the relationship :      where @xmath5 is the energy , @xmath6 the normalization , @xmath7 is the spectral slope ( photon index ) at 1 kev , and @xmath8 is the curvature .",
+    "we applied this model to the _ swift _ observations with more than @xmath9 s of exposure on the x - ray telescope ( xrt ) , which are listed in table 1 of @xcite .",
+    "the results of the fits are reported in table 1 , while the values for @xmath7 and @xmath8 versus the normalization @xmath6 are shown in fig .",
+    "1 . the fits with the log - parabolic model are generally comparable to the values obtained by using single or broken power law models reported in @xcite . in a few cases",
+    "the log - parabolic model gives a better fit than the pl and bpl .",
+    "in other cases , the resulting curvature is consistent with 0 , i.e. the log - parabola mimics a pl .",
+    "however , the limited photon statistic does not allow us to draw firm conclusions .        in fig .",
+    "1 we display the curvature ( _ top panel _ ) and the photon index ( _ bottom panel _ ) plotted versus the normalization . the constant trend revealed by the data confirms the findings reported in @xcite : there was no significant spectral changes in the x - ray emission from pks @xmath0 during the outburst ( corresponding to increasing x - ray fluxes in fig .",
+    "1 ) .    9 benbow w. , costamante l. , giebels b. on behalf of the hess collaboration , 2006 , _ atel _ * 867 * aharonian f. , akhperjanian a.g .",
+    ", bazer - bachi a.r .",
+    "et al . , _ apj letters _ , submitted foschini l. , ghisellini g. , tavecchio f. , et al . , _ apj _ * 657 * , l81l83 ( 2007 ) .",
+    "chiappetti l. , maraschi l. , tavecchio f. , et al .",
+    ", _ apj _ * 521 * , 552560 ( 1999 ) .",
+    "giommi p. , capalbi m. , fiocchi m. , et al .",
+    ", `` a catalog of 157 x - ray spectra and 84 spectral energy distributions of blazars observed with bepposax '' in _ proceedings of blazar astrophysics with bepposax and other observatories _ , edited by p. giommi , e. massaro and g.g.c .",
+    "palumbo , asi sdc and esa - esrin , frascati , 2001 , p. 63",
+    "[ astro - ph/0209596 ] .",
+    "massaro e. , tramacere a. , perri m. , et al . ,",
+    "_ a&a _ * 448 * , 861871 ( 2006 ) .",
+    "tramacere a. , giommi p. , massaro e. , et al . , _ a&a _ , accepted for publication [ astro - ph/0611276 ] ."
+  ],
+  "abstract_text": [
+    "<S> at the end of july 2006 , the blazar pks @xmath0 ( @xmath1 ) underwent a strong outburst observed at tev energies by hess ( up to @xmath2 crab flux level at @xmath3  gev ) . </S>",
+    "<S> the _ swift _ satellite followed the evolution of the source for about one month . </S>",
+    "<S> the data analysis  reported in another paper  has shown that , despite the violent activity at tev energies , the synchrotron energy distribution increased in normalization , but only with a small shift in frequency . in the present work </S>",
+    "<S> , we fit the broad - band spectrum with a log - parabolic model , to search for indications of intrinsic curvature , which in turn is usually interpreted as a signature of energy - dependent acceleration mechanisms of electrons .     </S>",
+    "<S> address = inaf / iasf - bologna , via gobetti 101 , 40129 , bologna ( italy )     address = inaf / osservatorio astronomico di brera , via brera 28 , 20121 milano ( italy )     address = inaf / osservatorio astronomico di brera , via brera 28 , 20121 milano ( italy )     address = dipartimento di scienze , universit dellinsubria , via vallegio 11 , 22100 como ( italy )     address = inaf / osservatorio astronomico di brera , via brera 28 , 20121 milano ( italy )     address = george mason university , department of physics and astronomy , school of computational sciences , mail stop 3f3 , 4400 university drive , fairfax , va 22030 , usa     address = inaf / osservatorio astronomico di torino , via osservatorio 20 , 10025 pino torinese ( italy )     address = inaf / osservatorio astronomico di torino , via osservatorio 20 , 10025 pino torinese ( italy )     address = inaf / osservatorio astronomico di trieste , via g.b . </S>",
+    "<S> tiepolo 11 , 34131 trieste ( italy )     address = inaf / osservatorio astronomico di brera , via brera 28 , 20121 milano ( italy )     address = osservatorio astronomico , universit di perugia , via b. bonfigli , 06126 perugia ( italy )     address = nasa / goddard space flight center , code 661 , greenbelt , md 20771 , usa     address = inaf / iasf - bologna , via gobetti 101 , 40129 , bologna ( italy )     address = inaf / iasf - bologna , via gobetti 101 , 40129 , bologna ( italy )     address = asi science data centre , via g. galilei , 00044 frascati , ( italy ) </S>"
+  ]
+}

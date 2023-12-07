@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "a random birth of stellar masses , coupled with the different mass range responsible for the production of @xmath0-elements and neutron capture elements respectively , can explain the large spread in the abundances of metal poor stars for neutron capture elements and the smaller spread for @xmath0-elements .",
+    "cayrel r. , depagne e.,spite m. et al .",
+    ", 2004 , a&a , 416 , 1117 cescutti g. , franois p. , matteucci f. , cayrel r. , spite m. , 2006 , a&a , 448 , 557 chiappini c. , matteucci m.f . , gratton r.g . , 1997 , apj , 477 , 765 franois p. , matteucci f. , cayrel r. et al . , 2004 ,",
+    "a&a , 421 , 613 scalo j.m . , 1986 ,",
+    "fcph , 11 , 1"
+  ],
+  "abstract_text": [
+    "<S> the considerable scatter of the s- and r - process elements observed in low - metallicity stars , compared to the small star to star scatter observed for the alpha elements , is an open question for the chemical evolution studies . </S>",
+    "<S> we have developed a stochastic chemical evolution model , in which the main assumption is a random formation of new stars , subject to the condition that the cumulative mass distribution follows a given initial mass function . with our model we are able to reproduce the different features of @xmath0-elements and s - and r - process elements . </S>",
+    "<S> the reason for this resides in the random birth of stellar masses coupled with the different stellar mass ranges from where @xmath0-elements and s - and r - process elements originate . </S>",
+    "<S> in particular , the sites of production of the alpha elements are the whole range of the massive stars , whereas the mass range of production for the s- and r - process elements has an upper limit of 30 solar masses .      </S>",
+    "<S> we model the chemical evolution of the halo of the milky way for 1 gyr . </S>",
+    "<S> we consider the halo has formed by means of the assembly of many independent regions with a typical volume of @xmath1 . </S>",
+    "<S> each region does not interact with the others . inside each region </S>",
+    "<S> the mixing is assumed instantaneous . in each regions </S>",
+    "<S> we assume an infall episode with a timescale of 1gyr and a threshold in the gas density for the star formation .    </S>",
+    "<S> when the threshold density is reached , the mass of gas which is transformed at each timestep in stars , @xmath2 , is proportional to @xmath3 . </S>",
+    "<S> we simulate the birth of stars until the sum of the stars exceed the @xmath2 . </S>",
+    "<S> the mass of each star is assigned with a random function in the range 0.1 and 80 @xmath4 , weighted according to the imf of scalo ( 1986 ) . in this way , in each region , for each timestep , the @xmath2 is the same but the total number and the masses of the stars are different . </S>",
+    "<S> the model follows the chemical evolution of more than 20 elements in each regions . </S>",
+    "<S> the model parameters of the chemical evolution ( sfr , imf , stellar lifetime , nucleosynthesis , threshold ) , have been taken from the homogeneous model by chiappini et al.(1997 ) . </S>",
+    "<S> our model shows the spread that is produced by different nucleosynthesis sites on the chemical enrichment at low metallicity , where the number of stars is low and the random effects in the birth of stellar masses can be important .      in the figure </S>",
+    "<S> we show our simulation ( blue dots ) compared to the observational data ( red open triangles ) . </S>",
+    "<S> the data are by cayrel et al.(2004 ) and other authors . </S>",
+    "<S> the black line is the prediction of the homogeneous model . concerning neutron capture elements we show eu and for @xmath0-elements si .    the enrichment of metal poor stars is due to the massive stars . </S>",
+    "<S> the sites of production in massive stars for the @xmath0-elements and neutron capture elements are different for the nucleosynthesis prescriptions we adopted : the @xmath0 elements and fe are produced in the whole range of massive stars ( see franois et al 2004 ) ; the neutron capture are produced only up to 30 @xmath4 ( see cescutti et al . </S>",
+    "<S> 2006 ) . in regions with many stars less massive than 30 @xmath4 </S>",
+    "<S> , the ratio of neutron capture elements over fe is high . </S>",
+    "<S> the opposite happens in regions where the most of the stars are more massive than 30 @xmath4 . </S>",
+    "<S> this fact produces in our inhomogeneous model a large spread for the neutron capture elements . </S>",
+    "<S> this does not happen for @xmath0-elements which are produced in the same range of fe . </S>"
+  ]
+}

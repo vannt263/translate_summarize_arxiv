@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "in a uniformly - rotating star , the low - frequency oscillation spectrum comprises four classes of pulsation mode  poincar , kelvin , rossby and mixed rossby - poincar .",
+    "the poincar modes rely on a combination of buoyancy and the coriolis force to restore displaced fluid elements to their equilibrium positions ; they reduce to ordinary gravity ( g ) modes in the non - rotating limit .",
+    "the kelvin modes are a prograde - propagating subset of the poincar modes that exhibit geostrophic balance between polar pressure gradients and the polar component of the coriolis force . the rossby modes ,",
+    "which take the form of large - scale , retrograde - propagating horizontal circulations , arise due to conservation of vorticity ; they exist independent of buoyancy , but reduce to trivial zero - frequency toroidal modes in the non - rotating limit .",
+    "finally , the mixed rossby - poincar modes  or ` mixed modes ' for brevity  are a curious hybrid between poincar and rossby modes . in the limit of slow rotation , the prograde mixed modes ( azimuthal orders @xmath2 ) behave like poincar modes , while the retrograde mixed modes ( @xmath3 ) behave like rossby modes . however ,",
+    "toward rapid rotation both prograde and retrograde mixed modes approach one another in character , exhibiting properties that lie somewhere between pure rossby and poincar modes .    like rossby modes , non - trivial retrograde mixed modes",
+    "do not exist in the absence of stellar rotation .",
+    "however , in contrast to the rossby modes ( which are essentially solenoidal ) , these modes are able to generate significant fluid compressions and rarefactions , due to the poincar - mode character they acquire in the rapid - rotation limit .",
+    "this property renders them in principle susceptible to the classical instability mechanisms ( @xmath4 , @xmath5 , @xmath6 and @xmath0 ) that rely on a thermodynamic carnot cycle .",
+    "the present paper investigates whether such mixed - mode instability could be present in b - type stars .",
+    "i use an updated version of the boojum pulsation code @xcite to investigate the stability of retrograde @xmath7 mixed modes in a set of stellar models representative of main sequence b - type stars .",
+    "this non - adiabatic code treats the effects of the coriolis force using the traditional approximation ( see , e.g. , * ? ? ?",
+    "* ) , but departures from sphericity due to the centrifugal force are neglected .",
+    "two rotation rates are considered : @xmath8 ( where @xmath9 is the star s angular velocity , and @xmath10 the corresponding critical angular velocity ) is chosen to approximate the observed upper limit on the rotation of the slowly pulsating b - type ( spb ) stars @xcite , while @xmath11 is representative of more - moderately rotating stars .",
+    "the general finding is that the retrograde mixed modes are unstable due to an opacity peak situated at a temperature @xmath12 .",
+    "this peak is the same ` iron bump ' responsible for the pulsation of @xmath13 cep and spb stars ( e.g. , * ? ? ?",
+    "* ; * ? ? ?",
+    "* ) . as shown in fig .",
+    "[ fig : instab ] , the mixed - mode instability extends over an effective temperature range @xmath144.2 , corresponding loosely to spectral types b4 to a0 .",
+    "figure  [ fig : instab ] indicates that the mixed - mode instability is unlikely to furnish a better explanation for spb - star variability than the canonical picture of @xmath0-mechanism excitation of gravity / poincar modes .",
+    "a similar conclusion could be reached for the be stars , were it not for the fact that these stars are rapid , perhaps near - critical rotators @xcite .",
+    "although there are difficulties in performing stability analyses at such extreme rotation rates , the trends shown in fig .",
+    "[ fig : instab ] suggest that the mixed - mode instability may shift to encompass the earlier spectral types where the preponderance of be stars are situated  as @xmath9 approaches @xmath10 .",
+    "therefore , it seems plausible that the retrograde - propagating pulsation observed in variable be stars @xcite may actually be due to unstable mixed modes rather than the usually - supposed g modes .",
+    "if confirmed , the latter hypothesis may help establish what role pulsation plays in the be phenomenon .",
+    "although they propagate with a retrograde phase velocity , the unstable mixed modes show a prograde group velocity , and therefore can assist in ejecting material into orbit from the equator of a near - critical star ( see * ? ? ?",
+    "this issue is discussed further in a forthcoming paper @xcite , which also presents a more in - depth analysis of the newly - discovered mixed - mode instability .",
+    "those interested in this topic should also refer to the investigation by saio ( these proceedings ) , who examines retrograde mixed modes ( in his terminology , ` buoyant r modes ' ) using an approach that does not rely on the traditional approximation .",
+    ", w.  a. , moskalik , p. , & pamyatnykh , a.  a. 1993 , , 265 , 588 , w.  a. , & pamiatnykh , a.  a. 1993 , , 262 , 204 , u. , & saio , h. 1987 , , 224 , 513 , p. , aerts , c. , briquet , m. , de cat , p. , cuypers , j. , van winckel , h. , flanders . , &",
+    "le contel , j.  m. 2001 , , 379 , 905 , s. 2005 , in asp conf .",
+    "ser . 337 : the nature and evolution of disks around hot stars , ignace , r. , & gayley , k.  g. , eds . , 101 , t. , baade , d. , & tefl , s. 2003 , , 411 , 229 , r.  h.  d. 2005 , , 360 , 465 , r.  h.  d. 2005 , , in press , doi 10.1111/j.1365 - 2966.2005.09585.x , r.  h.  d. , owocki , s.  p. , & howarth , i.  d. 2004 , , 350 , 189"
+  ],
+  "abstract_text": [
+    "<S> the stability of retrograde mixed modes in rotating b - type stars is investigated . </S>",
+    "<S> it is found that these modes are susceptible to @xmath0-mechanism excitation , due to the iron opacity bump at @xmath1 . </S>",
+    "<S> the findings are discussed in the context of the pulsation of spb and be stars . </S>"
+  ]
+}

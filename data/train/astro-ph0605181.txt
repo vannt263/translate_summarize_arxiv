@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "as remnants of agb stars , planetary nebulae ( pne ) represent material that has undergone nuclear processing in their precursors via the @xmath0-process . the analysis of nebular emission provides essential information for stellar models",
+    "however , detection of emission lines from @xmath0-elements has been hampered by their weakness and by uncertainties in the atomic data .",
+    "a pioneer attack on the problem was made by pequignot & baluteau ( 1994 ) , who identified a number of post - fe emission lines in ngc7027 .",
+    "dinerstein and collaborators studied @xmath0-process elements in pne by searching for their ir emission ( dinerstein 2001 ; sterling & dinerstein 2004 , this volume ) and far - uv absorption ( sterling et al .",
+    "2002 , 2003 ) . as part of an on - going program to detect weak lines in pne ,",
+    "we have obtained a number of high resolution spectra of very high s / n s .",
+    "our current sample of objects consists of four pne ( ic  2501 , ic  4191 , ngc  2440 , and ngc  7027 ) .",
+    "the spectra were obtained with the kpno 4 m using the cassegrain echelle spectrograph and the lco 6.5 m with the mike echelle spectrograph at a resolving power of about 25,000 .",
+    "1 shows the quality of our spectra .",
+    "the deep spectra enable us to detect extremely faint lines with a flux of @xmath1 the intensity of h@xmath2 . for comparison , we also searched for kr and xe in two h  ii regions , the orion nebula ( baldwin et al . 2000 ) and ngc  3576 ( garc ' ia - rojas et al .",
+    "2004 ) .",
+    "we have detected krypton and xenon emission lines , [ kr  iii ] @xmath3 , [ kr  iv ] @xmath4 , [ kr  v ] @xmath5 , [ xe  iii ] @xmath6 , [ xe  iv ] @xmath7 , and [ xe  v ] @xmath8 .",
+    "however , we failed to detect br lines , [ br  iii ] @xmath9 and [ br  iv ] @xmath10 , even though the current @xmath0-process calculations indicate that br should be produced along with kr at detectable levels .",
+    "the reason remains unknown .",
+    "using the current available atomic data , we have determined kr and xe abudances .",
+    "we converted ionic ratios to elemental values by making use of the similarity in ionization potentials of the noble gases , from which it follows that @xmath11/({\\rm ar}^{+2}+{\\rm ar}^{+3})$ ] and @xmath12/ \\\\",
+    "( { \\rm ar}^{+2}+{\\rm ar}^{+3 } + { \\rm ar}^{+4})$ ] for low- and high - excitation pne , respectively .",
+    "the upper limits for the br abundances were estimated .",
+    "these results , relative to the solar values , are given in table  1 .",
+    "it is evident that kr and xe are both enhanced by similar factors of up to 10 in the five pne , but not in the two h  ii regions which represent unprocessed ism gas .",
+    "lllllllll & & & +   + abundance & ic  418 & ic  2501 & ic  4191 & ngc  2440 & ngc  7027 & & orion & ngc  3576 + [ br / ar ] & @xmath13 & @xmath14 & @xmath15 & @xmath16 & @xmath17 & & ... & ... + [ kr / ar ] & 0.76 & 0.04 & 0.38 & 0.15 & 1.04 & & @xmath18 & @xmath19 + [ xe / ar ] & 0.91 & 0.01 & 0.51 & 0.33 & 0.87 & & @xmath20 & ... +"
+  ],
+  "abstract_text": [
+    "<S> we identify emission lines of post - iron peak elements in very high signal - to - noise spectra of a sample of planetary nebulae . </S>",
+    "<S> analysis of lines from ions of kr and xe reveals enhancements in most of the pne , in agreement with the theories of @xmath0-process in agb star . </S>",
+    "<S> surprisingly , we did not detect lines from br even though @xmath0-process calculations indicate that it should be produced with kr at detectable levels . </S>"
+  ]
+}

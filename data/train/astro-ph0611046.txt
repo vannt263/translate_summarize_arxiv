@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "dark energy models with late time cosmic acceleration , such as the @xmath2-dominated cdm model , predict a blueshift in the temperature anisotropies of cmb produced by photons coming from last scattering surface that pass through matter potentials evolving with time .",
+    "it is the integrated sachs - wolfe ( isw ) effect which is important at large scales .",
+    "we can detect the isw effect through the cross - correlation of temperature fluctuations with local tracers of the gravitational potential such as galaxies . a positive cross - correlation between the 1yr wmap data ( wmap1 ) and galaxy samples from the sloan digital sky survey data release 1 ( sdss1 )",
+    "was first found by fosalba , gaztaaga & castander ( 2003 ) , fgc03 from now on , and scranton et al .",
+    "wmap1 has also been correlated with the apm galaxies ( fosalba & gaztaaga 2004 ) , infrared galaxies ( afshordi et al 2004 ) , radio galaxies ( nolta et al . 2004 ) , and the hard x - ray background ( boughn & crittenden , 2004 ) . here",
+    "we want to check if these results can be confirmed to higher significance using the sdss data release 5 ( sdss5 ) which covers @xmath3 times the volume of sdss1 . for details",
+    "see cabr et al 2006 who has done a similar analysis with dr4 .",
+    "in order to trace the changing gravitational potentials we use galaxies selected from the sdss5 ( adelman & mccarthy 2007 ) ( 16% of the sky ) . we have selected subsamples with different redshift distributions to check the reliability of the detection and to probe the evolution of the isw effect .",
+    "we use a slice with apparent magnitude @xmath4 and a selection of high redshift galaxies ( lrg ) . for the cmb temperature fluctuations we take the 3rd year wmap data ( wmap3 ) .",
+    "we define the cross - correlation function as the expectation value of galaxy density fluctuations @xmath5 and temperature anisotropies @xmath6 ( in @xmath7k ) at two positions @xmath8 and @xmath9 in the sky . to estimate the cross - correlation from the pixels maps we average over all pixels",
+    "@xmath10 separated an angle @xmath11,i.e , @xmath12 .",
+    "we use @xmath13 as given by wmap and obtain @xmath14 from the galaxy autocorrelation function .",
+    "we fit the cosmological models to the cross - correlation measurment .",
+    "results are shown in fig . 1 .",
+    "= 4.3 cm    we find that a @xmath15 model with @xmath16 successfully explains the isw effect for both samples of galaxies without need of any further modeling .",
+    "the best fit for @xmath17 for each individual sample are very close , as seen in sdss4-wmap3 .",
+    "this is significant and can be understood as a consistency test for the @xmath15 model .",
+    "this work was supported by the european commission s alfa - ii programme through its funding of the latin - american european network for astrophysics and cosmology ( lenac ) ."
+  ],
+  "abstract_text": [
+    "<S> we cross - correlate the third - year wmap data with galaxy samples extracted from the sdss dr5 ( sdss5 ) covering 16% of the sky . </S>",
+    "<S> these measurements confirm a positive cross - correlation , which is well fitted by the integrated sachs - wolfe ( isw ) effect for flat lcdm models with a cosmological constant . </S>",
+    "<S> the combined analysis of different samples gives @xmath0 ( 68% confidence level , cl ) and @xmath1 ( 95% cl ) . </S>"
+  ]
+}

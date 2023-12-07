@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "an initial rigid rotation in the zams switches in some @xmath1 yr into an internal differential rotation ( idr ) ( meynet & maeder 2000 , mm2000 ) .",
+    "nothing precludes then that idr be present since the pre - main sequence phases implying a total angular momentum higher than allowed for rigid rotation .",
+    "inspired by the internal rotation laws obtained in mm2000 , we adopt the step - like rotational law : @xmath2 @xmath3 $ ] , where @xmath4 distance to the rotation axis ; @xmath5 core angular velocity ; @xmath6 determines @xmath7 ; @xmath8 where @xmath9 distance at which @xmath10 @xmath11 ; @xmath12 determines the steepness of the drop from @xmath13 to @xmath14 . from mm2000",
+    "we adopt @xmath15 , so that the rotational law is stable against axi - symmetric perturbations [ @xmath16 ; @xmath17 for @xmath18 .",
+    "the geometrical deformation of stars is obtained by solving the 2d poisson equation ( clement 1979 ) : @xmath19 using barotropic relations @xmath20 $ ] of stellar interiors without rotation in different evolutionary stages ( zorec et al .",
+    "1989 , zorec 1992 ) .",
+    "[ f1]a shows stellar meridian cuts for @xmath21 @xmath22 , several values of @xmath6 and @xmath23 . fig .",
+    "[ f1]b shows @xmath24 ( @xmath25 stellar radius at rest ) against @xmath26 @xmath27 ( @xmath28 rotational energy ; @xmath29 gravitational potential energy ) .",
+    "we considered that the apparent polar radius @xmath30 of @xmath0 eri is well determined ( domiciano de souza et al .",
+    "2003 , vinicius et al . 2005 ) , while the equatorial radius @xmath31 is obtained by asking the equivalent circular ( determined spectrophotometrically and from visible interferometry ) and the actual elliptical areas of the apparent stellar disc be equal .",
+    "the relation between apparent and true stellar radii ratios : @xmath32 @xmath33 ^ 2\\sin^2i\\}^{1\\over2}$ ] leads to @xmath34 that can be evaluated with observed quantities and whose theoretical counterpart is ( see fig .  [",
+    "f1]c ) : @xmath35/\\left(v_{\\rm e}/v_{\\rm c , r}\\right)^2 \\label{funcf}\\ ] ] where @xmath36 equatorial velocity ; @xmath37 critical velocity at rigid rotation .",
+    "thanks to interferometric data , we can look for models that reproduce the following observables : @xmath38 , @xmath39 , @xmath40 corrected for gravity darkening effects ( frmat et al . 2005 ) and @xmath41 .",
+    "thus , we infer : @xmath42 for rigid rotation it is @xmath43 and @xmath44 .",
+    "the emitted spectrum of a differential rotator depends sensitively on the value of @xmath45 . fig .",
+    "[ f2](left ) shows spectral lines in the @xmath46    interval produced by a star [ rest @xmath47 20000 k , @xmath48 3.5 ] with a surface at rigid rotation , @xmath49 360 km  s@xmath50 , @xmath21 0.95 , @xmath51 ( @xmath52 spherical star without gravitational darkening ( gd ) ; @xmath53 rigid rotator with gd ; @xmath54 differential rotator with @xmath55 ; @xmath56 differential rotator with @xmath57 .",
+    "if we consider that the angular velocity against the co - latitude @xmath58 is : @xmath59 and use the same parameters as in fig .",
+    "[ f2](left ) but @xmath60 we obtain the line profiles shown in fig .  [ f2](right ) ( @xmath52 no gd and @xmath61 ; @xmath53 gd+@xmath61 ; @xmath54 gd+@xmath62 ; @xmath56 gd+@xmath63 ) .",
+    "we can show that for @xmath64 an apparent rigid rotation regime is recovered , but for a higher @xmath65 ratio . according to @xmath65",
+    "a given line equivalent width may imply different stellar fundamental parameters .",
+    "the sensitivity to the stellar deformation and to the related gd depends on the spectral line and the inclination @xmath66 . due to a higher change of the polar radius and consequent higher local effective temperatures than for a rigid rotation",
+    ", lines can be deepened , shallowed , or self - reversed .",
+    "the differences in the equivalent widths carry uncertainties on the chemical abundance determinations .",
+    "the surface differential rotation in gravity darkened stars carry deepening of line profiles if @xmath67 and they are shallowed if @xmath68 .",
+    "other related subjects can be found in http://www2.iap.fr / users / zorec/.    clement , m. 1979 , apj , 230 , 230 domiciano de souza , a. , kervella , p. , jankov , s. et al .",
+    "2000 , a&a , 407 , l47 frmat , y. , zorec , j. , hubert , a.m , & floquet , m. 2005 , a&a , 440 , 305 meynet , g. , & maeder , a. 2000 , a&a , 362 , 101 vinicius , m.m.f . ,",
+    "zorec , j. , leister , n.v . , & levenhagen , r.s .",
+    "2005 , a&a in press zorec , j. 1992 , hipparcos : une nouvelle donne por lastronomie , oca & sfsa , 407 zorec , j. , mochkovitch , r. , & divan , l. 1988 , c.r .",
+    "paris , 306 , 1265"
+  ],
+  "abstract_text": [
+    "<S> using 2d models of rotating stars , the interferometric measurements of @xmath0  eri and its fundamental parameters corrected for gravitational darkening effects we infer that the star might have a core rotating 2.7 times faster than the surface . </S>",
+    "<S> we explore the consequences on spectral lines produced by surface differential rotation combined with the effects due to a kind of internal differential rotation with rotational energies higher than allowed for rigid rotation which induce geometrical deformations that do not distinguish strongly from those carried by the rigid rotation . </S>"
+  ]
+}

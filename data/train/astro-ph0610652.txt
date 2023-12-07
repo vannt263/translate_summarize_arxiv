@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "in its first phase will consist of 77 _ stations _ distributed within a ring of @xmath3 km diameter . 32 stations will be clustered in a central core of @xmath42 km diameter located in the north - eastern part of the netherlands near the village of exloo .",
+    "each station has two antenna systems : the low - band and high - band antennas ( lba , hba ) .",
+    "the lba system operates primarily in the frequency range 30 - 80 mhz with a switch to observe over a 10 - 80 mhz band as well .",
+    "the hba is optimized for the range 110 - 240 mhz with a possibility to observe up to 270 mhz with lower sensitivity .",
+    "the lba field is 60 m in diameter and contains 96 inverted - v crossed dipoles oriented ne - sw and se - nw ( i.e. dual polarization ) in a randomized distribution with a slight exponential fall - off in density with radius .",
+    "the hba field consists of 96 tiles distributed in an as yet undetermined manner over roughly 50 m .",
+    "each tile consists of a 4@xmath54 array of bowtie - shaped crossed dipoles with an analog 5-bit beam former using true time delays .",
+    "radio waves are sampled with a 12-bit a / d - converter  to be able to cope with expected interference levels  operating at either 160 or 200 mhz in the first , second or third nyquist zone ( i.e. , 0 - 100 , 100 - 200 , or 200 - 300 mhz band respectively for 200 mhz sampling ) .",
+    "the data from the receptors is filtered in @xmath6 khz sub - bands ( 156 khz subbands for 160 mhz sampling ) of which a total of 32 mhz bandwidth ( 164 channels ) can be used at any time .",
+    "data from each receptor can be buffered in a transient buffer board ( tbb ) for as long as @xmath7min@xmath8khz ) .",
+    "subbands from all antennas are combined on station - level in a digital beamformer allowing 8 independently steerable beams which are sent to the central processor via a glas fibre link that handles 0.7 tbit / s data .",
+    "the beams from all stations are further filtered into 1 khz channels , cross - correlated and integrated on typical timescales of 1 - 10 seconds .",
+    "the integrated visibilities are then calibrated on 10 second intervals to remove the effects of the ionosphere and images are produced .",
+    "channels with disturbing radio frequency interference ( rfi ) are dropped . for the correlation we use four of the six racks of an ibm blue gene / l machine in groningen with a total of @xmath412000 processors .",
+    "we expect a typical input rate of @xmath9tbit / s into the computer .",
+    "unix clusters are used as input and output nodes for pre- and postprocessing .",
+    "the expected 3@xmath10 point source sensitivities of for one hour integration over 4 mhz bandwidth dual - polarization are 2 mjy , 1.3 mjy , 70 @xmath11jy , and 60 @xmath11jy at 30 , 75 , 120 , & 200 mhz respectively .",
+    "the resolution will be 25@xmath12 , 10@xmath12 , 6@xmath12 , and 3.5@xmath12 for the same frequencies .",
+    "the field of view is 3@xmath13 at 150 mhz ( hba ) and 7.5@xmath13 at 50 mhz ( lba ) .",
+    "the project is currently in discussions with consortia in germany , uk , france , italy , and",
+    "sweden to expand the baseline and increase the resolution by up to a factor of ten .    national funding of has been obtained at a level of @xmath475 meuro plus various in - kind contributions .",
+    "construction of the first station was completed in september 2006 .",
+    "further stations are expected to be rolled out in the course of 2007 , so that commissioning and start of operation is foreseen for the year 2008 .",
+    "with its new concept ( bregman 2000 ) of a broad - band aperture array and digital beamforming is expected to pave the way for a new generation of telescopes and to be an important pathfinder for the square kilometre array . will improve the resolution and sensitivity of previous telescopes for continuum observations by roughly two orders of magnitude over a wide frequency range .",
+    "it will also provide instantaneous access to a large fraction of the sky at low frequencies at once , making serious and regular all - sky radio monitoring possible for the first time . with these unusual properties",
+    "promises a wealth of new discoveries ."
+  ],
+  "abstract_text": [
+    "<S> lofar ( low frequency array ) is an innovative radio telescope optimized for the frequency range 30 - 240 mhz . the telescope is realized as a phased aperture array without any moving parts . </S>",
+    "<S> digital beam forming allows the telescope to point to any part of the sky within a second . </S>",
+    "<S> transient buffering makes retrospective imaging of explosive short - term events possible .    </S>",
+    "<S> the scientific focus of will initially be on four key science projects ( ksps ) : 1 ) detection of the formation of the very first stars and galaxies in the universe during the so - called epoch of reionization by measuring the power spectrum of the neutral hydrogen 21-cm line ( shaver et al . </S>",
+    "<S> 1999 ) on the @xmath0 scale ; 2 ) low - frequency surveys of the sky with of order @xmath1 expected new sources ; 3 ) all - sky monitoring and detection of transient radio sources such as gamma - ray bursts , x - ray binaries , and exo - planets ( farrell et al . </S>",
+    "<S> 2004 ) ; and 4 ) radio detection of ultra - high energy cosmic rays and neutrinos ( falcke & gorham 2003 ) allowing for the first time access to particles beyond @xmath2 ev ( scholten et al . </S>",
+    "<S> 2006 ) . </S>",
+    "<S> apart from the ksps open access for smaller projects is also planned . </S>",
+    "<S> here we give a brief description of the telescope . </S>"
+  ]
+}

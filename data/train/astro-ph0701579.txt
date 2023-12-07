@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the line - of - sight velocity and velocity dispersion ( @xmath2 ) are important parameters in determining the flattening of the various disc layers , the intrinsic shape of the dark matter component , and the nature and extent of disc - halo interactions .",
+    "if the gaseous layers in the disc are isothermal , the atomic and molecular gas should have similar scale - heights .",
+    "however , due to the collective effects of gravitational instabilities , dissipation , and feedback from star - forming regions , the atomic gas has been observed to have a distribution different from that of its molecular counterparts .",
+    "we have launched an extensive effort to analyse the processes that govern the ionized gas and compare them with those that control the neutral gaseous components in spiral galaxies ( see ( * ? ? ?",
+    "* fathi et al . 2007 ) ) .",
+    "we use fabry - perot interferometry with instrumentation presented in ( * ? ? ?",
+    "* hernandez et al . ( 2003 ) ) and scan the h@xmath3 emission - line .",
+    "our observations yield the distribution and kinematics of the h@xmath3-emitting gas .",
+    "quantifying the kinematic parameters , and comparing with those of the neutral gas will constrain the dynamics of the star - forming regions .",
+    "we have chosen ngc  628 for a pilot study in which we demonstrate the power of our state - of - the - art methods to study the properties of the ionized gas ( mainly h@xmath0ii regions but also diffuse ionized gas ) and their relation with the global kinematic parameters ( e.g. , ( * ? ? ?",
+    "* zurita et al . 2004 ) , ( * ? ? ?",
+    "* fathi et al . 2005 ) ) .",
+    "a key feature of the velocity field of ngc  628 is its regularity .",
+    "the global effects of any asymmetries , such as the oval distortion , are small , and in any case not very easy to detect in a face - on system .",
+    "however , our detailed kinematic analysis has revealed the presence of a disc - like component in the inner kpc around the nucleus .",
+    "the @xmath2 map shows widely distributed star - formation in the disc plane , and that the emission from unresolved h@xmath0ii regions probably dominates any emission from the diffuse component .",
+    "the radial @xmath2-profile shows a nearly constant value of @xmath4 km / s ( more than twice that for the co and h@xmath0i ) out to 12 kiloparsec .",
+    "our findings for ngc  628 are presented in fig .",
+    "[ fig : results ] , and summarized in the abstract of this brief article .     emitting gas in ngc  628 ( top ) , and",
+    "the velocity dispersion map with its galactocentric profile ( bottom ) .",
+    "the velocity field has been quantified using the harmonic decomposition technique , and the @xmath2 of the individual h@xmath0ii regions has been derived after using our h@xmath0ii region catalogue to identify them .",
+    "( see ( * ? ? ?",
+    "* fathi et al . 2007 ) ) . ]"
+  ],
+  "abstract_text": [
+    "<S> we study two dimensional fabry - perot interferometric observations of the nearby face - on late - type spiral galaxy , ngc  628 . </S>",
+    "<S> we investigate the role of the individual h@xmath0ii regions together with the large - scale gravitational mechanisms which govern star formation and overall evolution in spiral galaxies . </S>",
+    "<S> our kinematical analysis ( reinforced by literature maps in hi and co at lower angular resolution ) enables us to verify the presence of an inner rapidly rotating inner disk - like component which we attribute to long term secular evolution of the large - scale spiral arms and oval structure . </S>",
+    "<S> we find that gas is falling in from the outer parts towards the bluer central regions . </S>",
+    "<S> this could be an early phase in the formation of a pseudo - bulge . </S>",
+    "<S> we find signatures of radial motions caused by an @xmath1 perturbation , which are likely to be responsible for the inflow of material forming the circumnuclear ring and the rapidly rotating inner structure . </S>"
+  ]
+}

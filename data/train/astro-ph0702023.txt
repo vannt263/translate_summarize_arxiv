@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the star formation history inside an early - type galaxy is determinate by its formation process ( merging , accretion , monolithical collapse or other ) .",
+    "specifically , the stellar metallicity and age radial gradients are dependent on the galaxy merging history ( ( * ? ? ? * kobayashi 2004 ) ) .",
+    "moreover , the stellar population parameters like the age and metallicity might be correlated with the stellar kinematics .    in this context , we have studied two distinct ellipticals with intermediate stellar masses ( @xmath110@xmath2@xmath3 ) belonging to low density regions of the local universe : the liner prototype e4 ngc1052 ( @xmath4=0.00504 , @xmath5=-20.50 ) , which belongs to a loose group and has a stellar rotating disk ( i@xmath60@xmath7 ) , and the e1 ngc7796 ( @xmath4=0.01097 , @xmath5=-20.79 ) of the field , which shows a kinematically decoupled core ( kdc ) .",
+    "long slit spectroscopic observations along both photometric axes ( @xmath84320 - 6360 , @xmath91800 , 2.01  / pix , slit=2.08@xmath10230  ) were carried on the opd / lna 1.60 m telescope , providing good quality spectra up to quite 1 @xmath11 .",
+    "the linear spatial scales were 111pc / pix and 213 pc / pix for ngc1052 and ngc7796 , respectively ( @xmath12=0.75 ) .",
+    "the radial profiles of the line - of - sight @xmath13 and the line - of - sight rotational velocity curves were satisfactorily compared with other studies . we have confirmed the presence of a stellar rotating disk ( major axis ) and a not rotating bulge in ngc1052 .",
+    "the stellar counter rotating core of ngc7796 was detected as well .",
+    "the lick indexes of @xmath14 to @xmath15 were measured on the aperture spectra and properly calibrated on lick system .",
+    "their radial gradients along both axes were computed and the central values of some of them agree with the literature ones . for ngc1052 ,",
+    "the @xmath16 , @xmath17 and @xmath18 were corrected due to the effect of emission lines ( ( * ? ? ?",
+    "* goudfrooij & emsellem 1996 ) ) , while @xmath19 and @xmath20 were excluded from the analysis .",
+    "firstly , the analysis of lick index gradients suggests a possible radial dependency for the mg / fe abundance ratio for both galaxies ( and maybe for the c and n ) .    we have compared our lick indexes with the predictions of the single - aged stellar population models of that take the influence of abundance variations on them into account .",
+    "we have also performed a stellar population synthesis for each extracted spectrum applying the method of .",
+    "the relationship between the [ mg / fe ] and star formation time scale of was employed as well .    from the ssp comparisons",
+    ", we have obtained that the stellar populations of the bulge of ngc1052 have [ @xmath0/fe]@xmath6 + 0.2 dex and [ z / z@xmath21@xmath6 + 0.35 dex .",
+    "along its disk , there is a strong spread of the mg / fe ratio ( 0 . @xmath22 [ @xmath0/fe ] @xmath22 + 0.5 dex ) associated with a possible outwards radial decreasing of the global metallicity to the solar value . in the core of ngc7796 ,",
+    "the populations have nearly [ @xmath0/fe]=+0.45 dex , [ z / z@xmath21=+0.35 dex and 12 gyr , while there is an outwards radial decreasing of the mg / fe ratio to the solar value associated with a possible decreasing of the global metallicity and age .",
+    "the results of the population synthesis indicate that the nucleus of both ellipticals is dominate by old metal rich stars ( @xmath113 gyr , @xmath1z@xmath23 ) .",
+    "the populations are more homogeneous in the bulge of ngc1052 than along its disk , where there is an outwards radial decreasing of the older - richer components together with a respective rising contribution of the younger - metal poor ones .",
+    "the results for ngc7796 are analogous : older ages and higher metallicities in the nucleus but with similar radial behavior of age and z along both axes .",
+    "in the observed regions of both ellipticals , the @xmath0-enhancement is not homogeneous : there is a monothonic radial dependency in ngc7796 .",
+    "the global metallicity has an outwards decreasing , while the iron abundance is nearly constant or increases outwards .",
+    "the age shows a strong spatial dispersion possibly connected to the @xmath0/fe spread .",
+    "the stellar populations are associated with their kinematical properties : they are older and very @xmath0-enhanced in the not rotating bulge of ngc1052 and the kdc of ngc7796 , while there is strong dispersion of @xmath0/fe and age along the rotating disk of ngc1052 and an outwards radial decreasing of them in ngc7796 .    therefore , the bulk of the stars in the bulge of ngc1052 and kdc of ngc7796 was formed in an ancient short episode providing an efficient chemical enrichment by sn - ii , while in the ngc1052 disk and outer parts of ngc7796 the star formation occurred later with larger temporal scales , having made the enrichment by sn - ia important .",
+    "specifically , for ngc7796 an inside - out formation is plausible , while a merging episode with a drawn out star formation is more acceptable for ngc1052 ."
+  ],
+  "abstract_text": [
+    "<S> the spatial distributions of the mean luminosity - weighted stellar age , metallicity , and @xmath0/fe ratio along both photometric axes of two nearby elliptical galaxies have been obtained using lick index measurements on long slit spectra in order to reconstruct the star formation history in their kinematically distinct subsystems . </S>",
+    "<S> lick indexes were compared with those of single - aged stellar population ( ssp ) models . </S>",
+    "<S> a population synthesis method was also applied in order to help disentangling the age - metallicity degeneracy . </S>",
+    "<S> the stars characteristics are associated with their kinematics : they are older and @xmath0-enhanced in the not rotating bulge of ngc1052 and counter rotating core of ngc7796 , while they show a strong spread of @xmath0/fe and age along the rotating disk of ngc1052 and an outwards radial decreasing of them outside the core of ngc7796 . </S>"
+  ]
+}

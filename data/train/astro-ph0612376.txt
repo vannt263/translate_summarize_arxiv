@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "nls1 sources are defined as a subclass of broad line objects at the basis of the optical spectra , as sources with the full width at half maximum ( fwhm ) of h@xmath2  line , produced in broad line region , smaller than 2100 kms@xmath3 . in bls1s fwhm(h@xmath2 ) is @xmath4 2100 kms@xmath3 .",
+    "it was later found that nls1 generally have smaller black hole masses for a given luminosity , and strong soft x - ray excesses ( mathur et al .",
+    "2001 ; crummy et al , 2006 ) .",
+    "soft x - ray photon indices , @xmath1 , of nls1 sources have a mean value 3.1 , while bls1 sources are harder , with a mean of 2.1 ( e.g. boller et al .",
+    "it suggests that nls1 and bls1 differ with respect to the accretion pattern .",
+    "we have considered a sample of 21 nls1 galaxies ( e.g. mrk 110 , 335 , 478 , ark 564 , ngc 4051 , 5506 , ton s180 , i zw 1 , pg 1211 + 143 ) and a sample of bls1 galaxies ( e.g. ngc 4151 , 5548 , 7469 , 3c 120 , f9 ) studied by nikoajuk et al .",
+    "all sources were monitored both in optical and in x - ray band .",
+    "the masses of supermassive black hole for all our galaxies were taken from literature , @xmath5 .",
+    "they were obtained with the reverberation method ( e.g. peterson et al .",
+    "2004 ) or with the stellar velocity dispersion method ( e.g. woo & urry 2002 ) . those masses were used to compare with values obtained from x - ray variability .",
+    "we have determined the masses using the variance method described by nikoajuk et al .",
+    "it is based on the scaling of the normalized variance of x - ray light curves , @xmath6 , measured in range 2 - 10 kev with the @xmath7 value .",
+    "generally , values of @xmath8  require a multiplication by some factor .",
+    "mean value of this factor is 20 ( see e.g. papadakis , 2004 ) .",
+    "surprisingly , this factor for four galaxies ( mrk 42 , mrk 507 , mrk 766 , mcg -6 - 30 - 15 ) is smaller than 3 and for hb89 1557 + 272 is smaller than 4 ( fig .",
+    "[ fig : mg ] ) .",
+    "the variability of x - ray light in the 2 - 10 kev range of those 5 nls1 galaxies is thus very similar to all bls1 sources .",
+    "we find that this subset have values of soft x - ray photon index , @xmath1 , less than or equal to @xmath0 2 .",
+    "once again it is behaviour of bls1 galaxies .",
+    "spectra in the soft x - ray range of those 5 nls1 are similar to spectra of bls1 .    on the other hand when we compare accretion rates",
+    ", we can not see difference between those 5 nls1 and other nls1 galaxies .",
+    "this small subset of nls1 accrete , like other nls1 , with @xmath9 higher than 0.1 or even close to eddington limit .",
+    "this is opposite to bls1 sources , which accrete with @xmath10 ."
+  ],
+  "abstract_text": [
+    "<S> we estimate black hole masses in narrow line seyfert 1 ( nls1 ) galaxies at the basis of their x - ray excess variance . </S>",
+    "<S> we apply the standard approach appropriate for broad line seyfert 1 ( bls1 ) galaxies . in general </S>",
+    "<S> , we find that the obtained masses are by a factor @xmath0 20 too small to agree with values obtained from other methods ( reverberation , stellar dispersion ) </S>",
+    "<S> . however , a small subset of our nls1 objects does not require that multiplication , or the correction factor is less than 4 . </S>",
+    "<S> we find that this subset have a soft x - ray photon index , @xmath1 , smaller than 2 . </S>",
+    "<S> we thus postulate that this subclass of nls1 actually belongs to bls1 . </S>"
+  ]
+}

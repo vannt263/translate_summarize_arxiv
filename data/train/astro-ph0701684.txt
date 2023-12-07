@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "mrk 493 , a narrow - line seyfert 1 galaxy ( nls1 ) , has a strong fe ii emission .",
+    "it was shown by boroson & green ( 1992 ) that a strong anticorrelation between the strengths of the @xmath1}$ ] and fe ii exists in the optical spectra , with nls1 as a class showing the strongest fe ii and weakest @xmath2}$ ] emission .",
+    "the observed line widths and absence of forbidden emission suggests that fe ii is formed in the dense broad - line region ( blr ) , but photoionization models can not account for all of the fe ii emission .",
+    "the fe ii discrepancy remains unsolved , though models which consider non - radiative heating , with an overabundance of iron are promising ( see paper of joly in this proceedings ) .",
+    "we performed 3d spectroscopic observations of mrk 493 in order ( i ) to find the structure of the fe  ii emitting region and possible connection with other emitting regions and ( ii ) to map the circum - nuclear emitting gas .",
+    "mrk 493 was observe in august 2002 and may 2004 with the integral - field multipupil fiber spectrograph ( mpfs ) , mounted at the primary focus of the sao ras 6-m telescope ( afanasiev et al . , 2004 ) .",
+    "the mpfs takes simultaneous spectra from 256 spatial elements that collects an area of @xmath3 on the sky ( see full description at http://www.sao.ru/hq/lsfvo/devices.html ) .",
+    "the spectral interval was @xmath4 with resolution of 7 - 8   ( in 2002 ) and @xmath5 with resolution of 4.5 ( in 2004 ) .",
+    "by analyzing of the 3d spectroscopical observations :          we fitted the fe ii and h@xmath8 lines in nucleus region in order to compare the kinematic parameters of the balmer and fe ii line emitting regions .",
+    "we found that the broad h@xmath8 can be decomposed into two components ( broad  w@xmath9 and intermediate ",
+    "w@xmath10 ) indicating the random velocity of emitting gas around w@xmath112400 km / s and w@xmath12600 km / s . on the other hand ,",
+    "the widths of fe ii lines indicate the velocity gas in the fe ii emission region around w@xmath13800 km / s , that is closer to the intermediate region .",
+    "this indicates that fe ii lines originate in an intermediate line region as it was mentioned in popovi et al .",
+    "( 2004 )    this work was supported by the ministry of science and environment protection of serbia through the project 146002 `` astrophysical spectroscopy of extragalactic objects '' and by the russian foundation for basic research ( project nos .",
+    "06 - 02 - 16825 ) .",
+    "afanasiev , v.l . ,",
+    "dodonov , s.n . ,",
+    "moiseev , v.l . , 2001 ,",
+    "stellar dynamics : from classic to modern , ed .",
+    "l. p. osipkov & i. i. nikiforov ( st . petersburg univ .",
+    "press ) , 103 boroson , t.a . & green r.f .",
+    "1992 , apjs , 80 , 109 popovi , l.  . ,",
+    "mediavilla , e. , bon , e. & ili , d. 2004 , a&a , 423 , 909"
+  ],
+  "abstract_text": [
+    "<S> we performed 3d spectroscopic observations of mrk 493 in order to investigate the fe ii emitting region and their possible connection with the hydrogen emitting region . </S>",
+    "<S> we found that there is a strong fe ii emission in an extensive region @xmath0 around sy 1 nucleus . </S>",
+    "<S> the fe ii line width indicates that these lines are originated in an intermediate line region . </S>"
+  ]
+}

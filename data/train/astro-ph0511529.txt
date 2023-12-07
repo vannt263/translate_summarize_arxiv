@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "most of binaries , which exhibit the x - ray activity , have a circular orbit around the common center of mass , in which an accretion disk is mainly formed via the roche lobe overflow from a mass - donor star . on the other hand , in be / x - ray binaries which consist of a neutron star and a be star , an accretion disk is formed around the neutron star via the mass transfer from the circumsteller disk of the",
+    "be star ( hayasaki & okazaki 2004 ) .",
+    "little work has been so far done on the accretion flow around the neutron star with an attention to the difference between the overflow from the circumsteller disk around the be star ( model  a ) and the roche lobe overflow from the be star ( model  b ) . in this paper , we study how the material accretes onto the neutron star in both cases , performing three dimentional ( 3d ) smoothed particle hydrodynamics ( sph ) simulations .",
+    "we carried out the simulations by using the same 3d sph code as in hayasaki & okazaki ( 2004 , 2005a and 2005b ) [ see also okazaki et al .",
+    "( 2002 ) ; bate , bonnell & price ( 1995 ) ] . in order to investigate the accretion flow around the neutron star , two simulations have the same parameters as hayasaki & okazaki ( 2005b ) except for the eccentricity @xmath0 , the mass transfer rate @xmath1 and the inner boundary radius @xmath2 , where @xmath3 is the semi - major axis of the binary . in model  b , the roche lobe overflow is modelled by launching the gas particles at the inner laglange point @xmath4 , in which we add @xmath5 sph particles per orbit with an initial speed @xmath6 , in a direction @xmath7 rad prograde of the binary axis ( lubow & shu 1975 ) . in what follows ,",
+    "the units of time is @xmath8 .",
+    "fig.1 shows the orbital - phase dependence of the circularization radius ( the left panel ) and the viscous time - scale in units of @xmath9 ( the right panel ) . in each panel , the solid line and the dotted line denote the circularization radius and the viscous time - scale of model  a and model  b , respectively . as shown in fig.1 , it is likely that the disk growth of model  a is faster than that of model  b.    fig.2 gives snapshots of the accretion flow around the neutron star at @xmath10 .",
+    "each panel shows the logarithm of the surface density , where the solid curve denote the inner roche lobe .",
+    "as seen in fig.2 , we note that a persistent accretion disk is formed around the neutron star in both cases .",
+    "fig.3 shows the evolution of mass - accretion rate .",
+    "the solid line and the dotted line show the mass - accretion rate of model  a and model  b , respectively .",
+    "we note from the figure that the mass accretion rate of model  a is much higher than that of model  b.          and @xmath0 at @xmath11 in model  a ( the left panel ) and model  b ( the right panel ) , respectively .",
+    "each panel shows the surface density in a range of three orders of magnitude in the logarithmic scale .",
+    "annotated in each panel are the simulation time and the number of sph particles .",
+    "the solid curve denote the inner roche lobe in each panel .",
+    ", title=\"fig:\",height=151 ]   and @xmath0 at @xmath11 in model  a ( the left panel ) and model  b ( the right panel ) , respectively .",
+    "each panel shows the surface density in a range of three orders of magnitude in the logarithmic scale .",
+    "annotated in each panel are the simulation time and the number of sph particles .",
+    "the solid curve denote the inner roche lobe in each panel .",
+    ", title=\"fig:\",height=151 ]",
+    "we have perfomed 3d sph simulations in order to compare the accretion flow onto the neutron star induced by roche lobe overflow with that by the overflow from the be disk in a a zero eccentricity , short period binary with the same mass - transfer rate .",
+    "we have found that a persistent accretion disk is formed around the neutron star in both cases , as seen in fig.2 . the mass accretion rate in model  a is much higher than that in model  b becasue of the smaller circularization radius in model  a , as shown in fig.1 and 3 .",
+    "this indicates that the disk growth is faster as the specific angular momentum of gas particles is lower . in either case , the tiny mass - accretion rate is consistent with the observed x - ray behaviour of be / x - ray binaries with circular orbits ( e.g. xte j1543 - 568 ) .",
+    "the simulations reported here were performed using the facility of the centre for astrophysics & supercomputing at swinbune university of technology , australia . this work has been supported by grant - in - aid for the 21st century coe scientific research programme on `` topological science and technology '' from the ministry of education , culture , sport , science and technology of japan ( mecsst ) and in part by grant - in - aid for scientific reserch ( 15204010 ) of japan society for the promotion of science .",
+    ", bonnell i.a.,price n.m .",
+    ", 1995 , mnras , 285 , 33 hayasaki k & okazaki a.t . , 2004 , mnras , 350 , 971 hayasaki k & okazaki a.t .",
+    ", 2005a , mnras , 360l , 15 hayasaki k & okazaki a.t . , 2005b , another proceedings in this conference s h. lubow & h f. shu . , 1975 ,",
+    "apj , 198 , 383 okazaki a.t . ,",
+    ", ogilvie g.i & pringle j.e . , 2002 ,",
+    "mnras , 337 , 967"
+  ],
+  "abstract_text": [
+    "<S> we compare the accretion flow onto the neutron star induced by roche lobe overflow with that by the overflow from the be disk , in a zero eccentricity , short period binary with the same mass transfer rate , performing three - dimensional smoothed particle hydrodynamics simulations . we find that a persistent accretion disk is formed around the neutron star in both cases . </S>",
+    "<S> the circularization radius of the material transferred via roche lobe overflow is larger than that of the material transfered from the be disk . </S>",
+    "<S> thus , the growth of the accretion disk in the former case becomes significantly slower than in the latter case . in both cases , </S>",
+    "<S> the mass accretion rate is very small and varies little with orbital phase , which is consistent with the observed x - ray behaviour of be / x - ray binaries with circular orbits ( e.g. xte j1543 - 568 ) . </S>"
+  ]
+}

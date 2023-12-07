@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "it is possible to define spherical , ellipsoidal and bipolar morphologies in a simple way : the inner surface of the nebula is defined as the merge of 2 ellipsoids intersecting in the equatorial plane .",
+    "only 2 parameters are then needed : ellipticity _ e _ and bipolarity _ b _ ( distance between the lobe centers and the center of the nebula ) .",
+    "b_=0 , the nebula is spherical or ellipsoidal .",
+    "we run a set of models to build the catalog .",
+    "we use 5 shapes ( spherical , ellipsoidal , and 3 kind of bipolar , changing the ellipticity of the lobes ) , 2 shell sizes ( thin and thick ) and 3 laws for the angular dependence of the inner hydrogen density .",
+    "these leads to 30 3d - models .",
+    "we then use 2 laws for the velocity ( hubble flow or constant velocity with turbulence ) , leading to 60 models with dynamic .",
+    "then 3 orientations are used ( pole - on , face - on and 45deg ) , 4 slits are defined ( small square , long slit on the major and minor axis and whole nebula ) and 2 positions for the slits ( centered and slightly off - center ) .",
+    "we compute the line profiles for 5 emission lines ( hbeta , hei , heii , [ oii ] and [ oiii ] ) .",
+    "this leads to 5040 profiles once removing the degenerated ones ( rotation of spherical nebulae does nt change anything ) .",
+    "the figure shows one of the 144 pages of the current catalog , corresponding to a thick bipolar nebula seen with an angle of 45deg .",
+    "the first row from top is the description of the nebula ( electron density and temperature in the polar and equatorial directions , velocity law and numerical parameters ) .",
+    "the following 9 rows are plots for the 5 emission lines , one for each column : the second row shows the surface brightness and the slits superimposed , the third row shows the surface brightness variations among the major and minor axis , the following 4 rows show the line profiles through the slits ( bold and light for the center ands off - center apertures resp . ) , the following two rows the pv - diagrams and the last row the v=0km / s channel map .",
+    "using the catalog , we will look for all the profiles similar to a given one ( using a khi2 method ) , to see how different morphologies / expansion law / turbulence can have the same spectroscopic ",
+    "we plan to extend the present catalog to include more morphologies ( e.g. open bipolar nebulae , point - symmetric objects ) .",
+    "the catalog will be linked to the observational catalog from a. lopez and m. richer ( this conference ) .",
+    "the catalog / spectra / pv - diags will be made public in electronic form with database queries on the various parameters ."
+  ],
+  "abstract_text": [
+    "<S> using the cloudy_3d code ( morisset , this conference ) , we run a set of models to build a catalog of emission line profiles of pne . </S>",
+    "<S> the goal is to cover the main morphologies ( spherical , ellipsoidal , bipolar , thin or thick shells ) and to compute profiles changing the orientation of the nebula , the expansion velocity law ( including or not turbulence ) , the position / size of the aperture . </S>",
+    "<S> the results is a huge set of profiles and pv - diagrams that can be compared to observations as a help to derive morpho - kinematical properties of real objects . </S>"
+  ]
+}

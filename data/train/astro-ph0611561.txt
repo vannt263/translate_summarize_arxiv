@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "with a very broad redshift distribution and a mean redshift of around @xmath0@xcite , gamma - ray bursts ( grbs ) are becoming extremely useful tracers of star - forming galaxies .",
+    "long - duration grbs are known to be associated with the deaths of short - lived massive stars@xcite and thus have the essential advantage that their detection requires only a single stellar progenitor .",
+    "therefore , their detection is in principle independent of host galaxy luminosity .    the _ swift _ satellite and a suite of ground - based observatories are detecting , localizing and studying a large homogeneous sample of grbs .",
+    "to take advantage of this unique sample , we have launched a dedicated programme aimed at building up a sample of host galaxies , based on _ swift _ detections and vlt follow - up .",
+    "this is a large programme to be executed over a period of two years .",
+    "the resulting host sample will be largely unaffected by dust extinction and entirely independent of host galaxy luminosity .",
+    "a more thorough description of the survey and preliminary results are presented in hjorth et al .",
+    "( in prep ) .",
+    "the details of the sample selection are relatively straight - forward , i.e. the grbs have to be well - placed for optical follow - up observations : ( i ) detected by _ swift _ after 1 march 2005 when it was fully operational and automatically slewing .",
+    "( ii ) an x - ray position is available , obtained by the _ swift _ xrt detector .",
+    "( iii ) the galactic extinction is less than @xmath1mag .",
+    "( iv ) declination favorable for vlt and not at a polar declination , i.e. @xmath2 .",
+    "the concrete goals of the programme are to : ( i ) identify the grb hosts , reaching a limit of around @xmath3 and @xmath4 , which will allow us to detect extremely red objects . for non - detections of hosts",
+    "we will spend additional time to reach a limit of around @xmath5 .",
+    "while hosts have been detected for nearly all pre-_swift _ localized grbs , almost none have been detected in the _ swift _ era .",
+    "( ii ) measure redshifts for grbs without absorption redshifts .",
+    "( iii ) search for the ly@xmath6 emission line when possible , i.e. for bursts with a known redshift @xmath7 .",
+    "( iv ) study the effects of dust reddening within hosts .",
+    "( v ) determine the host luminosity function .",
+    "finally , we will perform detailed studies of particularly interesting targets , e.g. short - duration grb hosts and very bright hosts .",
+    "specifically , we will carry out emission line diagnostics , e.g. metallicity estimates via the @xmath8 method.@xcite",
+    "the final host sample is expected to consist of approximately 70 galaxies of which a major fraction will have redshifts .",
+    "the programme so far has consisted mostly of target build - up , observational preparation , data taking and preliminary analysis . to date , only six months after the start of the programme , we have completed roughly half of item ( i ) above ; @xmath9- and @xmath10-band imaging of three of the hosts is displayed in fig .",
+    "[ hosts.fig ] as an example .",
+    "the current average and median @xmath9-band magnitude of the sample is fainter than 25.5 .    with this programme",
+    ", we hope to detect a number of faint galaxies ( such as the grb 030323 host@xcite ) that possibly dominate@xcite the total star - formation density at @xmath7 , but are impossible to find and study by other methods than grb selection . but most importantly , we will produce a coherent sample of grb host galaxies for future follow - up with the _ hst _ , _ spitzer _ , vlt , and later with alma and _"
+  ],
+  "abstract_text": [
+    "<S> we present the motivation , aims and preliminary result from the _ swift_/vlt legacy survey on gamma - ray burst host galaxies . this survey will produce a homogeneous and well - understood host sample covering more than 95% of the lookback time to the big bang , and allow us to characterize their fundamental properties . </S>"
+  ]
+}

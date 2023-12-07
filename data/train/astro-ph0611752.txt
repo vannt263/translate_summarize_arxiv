@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "there is now increasing evidence that the soft repeater sgr 1806 - 20 hosts a magnetar , i.e. a neutron star with an anomalously high magnetic field @xmath2 gs @xcite .",
+    "the sgr 1806 - 20 is the most active among soft gamma repeaters and is characterized by the emission of short sporadic flashes of soft gamma rays with characteristic durations of 10 ms - 1 s and luminosities of @xmath3 - @xmath4 erg / s .",
+    "they are detected during sporadic periods of the object s activity lasting from days to months .",
+    "pulsations of the persistent x - ray flux of sgr 1806 - 20 with a period of 7.47 s were discovered @xcite .",
+    "the culmination of the long period of its activity that started in the end of 2003 was a giant flare of 27th december 2004 @xcite . during the main spike that lasted 0.2 - 0.5 s ,",
+    "about @xmath5 ergs above 50 kev was emitted for a distance of 15 kpc @xcite .",
+    "the long part of the flare showed a pulsation with the period of 7.57 s during about 300 s @xcite .",
+    "unfortunately , even the minimal estimation of the distance to sgr 1806 - 20 is 6 kpc ( while the most reasonable one is 15 kpc ) , and the absorption reaches @xmath6 @xmath7 @xcite , so there is not much hope of detecting its optical emission , even though its infrared counterpart seems to have been found , with a magnitude of @xmath8 @xmath7 @xcite .",
+    "however , we have carried out a set of observations of the location of sgr 1806 - 20 in the optical band with 1 @xmath9s temporal resolution to try to detect very short and strong optical spikes .",
+    "the epoch of the observations has been chosen in relation to the increase of @xmath10-ray activity of the source , according to hete data @xcite .",
+    "we have reported the preliminary results of our monitoring in earlier papers @xcite . in the present work",
+    "we describe the process of observation , the equipment , and we present a more detailed analysis of the acquired data .",
+    "the field of srg 1806 - 20 has been observed using the 6-meter telescope of the special astrophysical observatory .",
+    "observations were carried out with panoramic photometer - polarimeter ( ppp ) with high time resolution @xcite in the telescope prime focus on june 20 2001 ( 2 days after hete trigger ) , and on august 22 2001 ( 15 hours after hete trigger ) @xcite .",
+    "the main part of ppp is the positional sensitive detector ( psd ) , which consists of a vacuum tube with a standard s20 photocathode , a set of microchannel plates and a four - electrode anode .",
+    "the pixel size of the detector is @xmath11 , the fov is a circle of about @xmath12 , and the time resolution ( dead time ) is 1 @xmath9s @xcite .    for the determination of the photon arrival times and coordinates , and for the storage of the whole data set , a special `` time - code '' converter `` quantochron 4 - 48 '' connected to the pc in realtime has been used .",
+    "the information on the observations is summarized in table [ table_observations ] .",
+    "the search for variability has been performed in the region centered on the ipn localization of the source @xcite .",
+    "the statistical properties of the photon lists have been studied separately for 9 square boxes with the size of @xmath13 covering the localization region ( see fig.[fig_field ] ) .    as an indicator of the variability we used the function @xmath14 , defined as the ratio between the distributions of the photon arrival time intervals for the source and background @xcite .",
+    "it is : @xmath15 where @xmath16 is the interval between the times of arrival of successive photons , while @xmath17 and @xmath18 are the distribution functions of @xmath16 for the source and background boxes , respectively .",
+    "we used the following definitions and relations : @xmath19 - intensity variation during the flare and its mean value : @xmath20,\\ ] ] where @xmath16 is the mean interval between the arrival times of successive photons , @xmath21 - mean time between the flares and @xmath22 - persistent emission intensity ; @xmath23 - maximum intensity of the flare ; characteristic time scale of the variability : @xmath24 relative amplitude of the intensity variations @xmath25 , and relative power of the variable emission component @xmath26 where @xmath27 - the flares duty cycle .    the function @xmath14 is related to the variability parameters defined above @xcite as @xmath28 where @xmath29 - flare shape cofficient . for example , sinusoidal flares have @xmath30 , triangular ones have @xmath31 .    from the registered photon",
+    "lists it is easy to compute @xmath32 , from which @xmath33 follows : @xmath34 the absence of variability is rejected if @xmath35 , where @xmath36 and @xmath37 is the number of photons detected @xcite .",
+    "using the arrival times of @xmath38 photons , detected in each sub - box of the sgr 1806 - 20 localization , the distribution function of intervals between the following photons has been built .",
+    "the mean background intensity has been @xmath39 counts / s with nearly poissonian statistics .",
+    "fig.[fig_limits ] shows the upper limits for the relative power @xmath33 of the variable emission component derived using equations ( [ eq_y2 ] ) - ( [ eq_sigma ] ) .",
+    "the model of triangular flares with the duty cycle of @xmath40 was used .",
+    "so , the upper limits for flashes with the duration of @xmath51 s ( similar to the parameters of @xmath10-ray flashes ) will be about @xmath52 @xmath7 .",
+    "for very rare flashes with the duty cycle of @xmath53 , the upper limits will be thirty times better - we should be able to detect events of @xmath54 @xmath7 @xmath55 @xmath56 @xmath7 .    unfortunately , even having good upper limits for the variable optical component , due to huge absorption it is impossible to derive a reasonable estimate of the luminosity",
+    ". assuming @xmath57 @xmath7 and a distance of 6 to 15 kpc @xcite , we have for the upper limits of flaring optical luminosity of sgr 1806 - 20 values ranging from @xmath58 erg / s to @xmath59 erg / s .",
+    "these values are similar to the peak luminosity of the object in the @xmath10-ray band , i.e. to the values registered during the giant flare .",
+    "this means that very short and very rare `` giant optical flares '' could be detected ."
+  ],
+  "abstract_text": [
+    "<S> the region of sgr 1806 - 20 localization was observed during its gamma - ray activity in 2001 . </S>",
+    "<S> the observations have been performed on the 6-meter telescope of the special astrophysical observatory , using the panoramic photometer - polarimeter ( ppp ) . </S>",
+    "<S> the search for variability was performed on the @xmath0 - @xmath1 s time scale , and its results were compared to the properties of corresponding x - ray flares . </S>"
+  ]
+}

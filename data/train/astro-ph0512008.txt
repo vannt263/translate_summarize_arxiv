@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the two main ingredients used to predict the agn number counts and contribution to the x - ray background are : ( _ i_)the agn luminosity function and its evolution .",
+    "we used the luminosity function of @xcite , which is based on hard x - ray observations and thus relatively free of bias against obscured agn .",
+    "( _ ii _ ) the agn sed , in terms of intrinsic luminosity and neutral hydrogen column density ( @xmath5 ) along the line of sight .",
+    "we assumed an underlying power - law x - ray spectrum ( e@xmath60.5 kev ) with photon index of @xmath7 1.9 , typical of unobscured agn . in the optical ( @xmath8=0.1 - 1 microns ) , we used the sloan digital sky survey composite quasar spectrum @xcite plus milky - way - type reddening laws and a standard dust - to - gas ratio to convert @xmath5 to @xmath9 .",
+    "an l * elliptical host galaxy was then added to the resulting optical spectrum . in the infrared ( @xmath101 micron ) we used dust emission models by @xcite with the corresponding conversion from @xmath5 value to viewing angle .",
+    "agn models with the same intrinsic luminosities were normalized at 100 microns .",
+    "the standard x - ray to optical luminosity ratio was used to fix the scale of the different models .",
+    "using the simplest agn unification model we have explained the spectral shape and intensity of the x - ray background .",
+    "this is the first demonstration that a model assuming a constant ratio of obscured to unobscured agn , independent of redshift or luminosity , can simultaneously explain the observed x - ray background and the optical and x - ray counts of agn detected in deep x - ray surveys @xcite . at the same time , a model that incorporates a changing ratio with luminosity , as suggested by recently available observations ( fig .",
+    "1 ) , can also successfully explain the x - ray background properties @xcite , as shown in fig .",
+    "2 .     of 0.648 .",
+    "_ labeled solid lines _",
+    "show the contribution from sources in different x - ray luminosity bins .",
+    "the maximum contribution to the x - ray background comes from sources with log lx=43 - 44 , that is , moderate luminosity agn.,scaledwidth=45.0% ]    the integral constraint of the x - ray background clearly does not provide a sensitive probe of the fraction of the obscured agn ; other observations , in particular a high - flux x - ray sample ( @xmath11  erg  @xmath12  s@xmath13 ) with a very high spectroscopic completeness level ( @xmath690% ) , is needed to test whether the ratio depends on redshift , i.e. , whether the evolution of obscured and unobscured agn is different . as shown in fig .",
+    "3 , unification by orientation  in which obscured and unobscured agn have the same evolution  is consistent with the data . in order to obtain this highly complete sample , accurate redshifts for sources with optical magnitudes",
+    "@xmath14 are needed .",
+    "this is impossible with current state - of - the - art 8m - class telescopes .",
+    "however , good photometric redshifts using medium - band filters down to these magnitudes are possible and will allow to solve the redshift dependence problem .",
+    "the resolved fraction of the x - ray background is @xmath15 in the 7 - 10 kev band and decreases with increasing energy .",
+    "if the unification model presented here is correct , @xmath16% of agn are currently missed by deep _",
+    "chandra _ or _ xmm _ surveys .",
+    "these are very obscured agn that will be detected only by hard x - ray observatories , like the black hole finder probe , at x - ray energies where the effects of dust obscuration are negligible .",
+    "these surveys will detect a large fraction of the most obscured agn , providing for the first time an unbiased census of the black hole activity in the universe .",
+    "et would like to thank the support of fundacin andes , centro de astrofsica fondap and the sigma - xi foundation through a grant in - aid of research .",
+    "this work was supported in part by nasa grant hst - go-09425.13-a .",
+    "barger , a.  j. , cowie , l.  l. , mushotzky , r.  f. , yang , y. , wang , w .- h . , steffen , a.  t. , & capak , p.  2005",
+    ", , 129 , 578 , m. , ivezi ' c ,  . ,",
+    "& elitzur , m. 2002 , , 570 , l9 , e. et  al .",
+    "2004 , , 616 , 123 treister , e. , & urry , c.  m.  2005 , , 630 , 115 , y. , akiyama , m. , ohta , k. , & miyaji , t. 2003 , , 598 , 886 , d.  e. et  al .",
+    "2001 , , 122 , 549"
+  ],
+  "abstract_text": [
+    "<S> the great observatories origins deep survey ( goods ) combines deep hst and spitzer imaging with the deepest chandra / xmm observations to probe obscured agn at higher redshifts than previous multiwavelength surveys . </S>",
+    "<S> we present a self - consistent implementation of the agn unification paradigm , which postulates obscured agn wherever there are unobscured agn , to successfully explain the infrared , optical , and x - ray number counts of x - ray sources detected in the goods fields . assuming either a constant ratio of obscured to unobscured agn of 3:1 ( the local value ) , or a ratio that decreases with luminosity , and including compton - thick sources </S>",
+    "<S> , we can explain the spectral shape and normalization of the extragalactic x - ray `` background '' as a superposition of unresolved agn , predominantly at @xmath0@xmath10.5 - 1.5 and l@xmath2@xmath110@xmath3 - 10@xmath4 ergs / s . </S>",
+    "<S> the possible dependence of the obscured to unobscured ratio with redshift is not well constrained ; present data allow it to decrease or increase substantially beyond @xmath0@xmath11 . </S>"
+  ]
+}

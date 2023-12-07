@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "observations of the properties of distant galaxies at various cosmic epochs are a powerful tool to test the predictions of cosmological simulations in the framework of the hierarchical cold dark matter paradigm . combining high - resolution hst",
+    "/ acs imaging and deep vlt / fors spectroscopy and imaging , we have observed a sample of 202 disk galaxies at redshifts @xmath2 that represent a mean look - back time of @xmath05 gyr .",
+    "such a data set allows - via a comparison to local reference samples - to study the evolution of fundamental parameters of galaxies , like luminosity , size , mass , @xmath3 ratio etc .",
+    ", as a function of cosmic time . by applying models that fully account for observational effects like seeing and the influence of the slit width , we were able to extract spatially resolved rotation curves from the spectra and derive the galaxies maximum rotation velocities as well as the total masses for 124 galaxies in our data set .",
+    "in @xcite , we reported on an earlier stage of our survey and presented evidence for a slope change of the tully  fisher relation ( tfr ) between @xmath4 and the local universe , i.e.  a mass - dependent luminosity evolution . using the new , full sample of 124 galaxies",
+    ", we found that this differential evolution could be attributed to the magnitude limit in our target selection , but _ only _ if the scatter of the tfr at @xmath4 is more than a factor of 3 larger than in the local universe ( for details , please see * ? ? ? * ) .",
+    "the fraction between the stellar and total mass remains roughly constant between redshifts @xmath1 and @xmath5 ( see left plot of fig .  1 )",
+    ", which could be understood in terms of smooth accretion of dark and baryonic matter over this epoch . if spiral galaxies already contained all their dark and baryonic matter at @xmath1 , the conversion of gas into stars via continuous star formation would lead to an increase of the stellar mass fraction @xmath6 towards lower redshifts , which is not observed .",
+    "a similar result has been found by @xcite .",
+    "the stellar mass - to - light ratios evolve more strongly for low - luminosity spirals than for high - luminosity spirals ( fig .  1 right ) , yielding evidence for an anti - hierarchical evolution of the stellar populations ( the `` down - sizing '' scenario ) .",
+    "this interpretation gains further support from fits of single - zone models to the optical and nir colors : we find that the mean model stellar ages of the distant low - mass spirals are younger than those of the distant high - mass spirals , see @xcite .",
+    "this mass - dependency of the stellar ages has to be counter - balanced by the evolution of other galaxy parameters to explain the little evolution observed in the de - biased tfr slope .",
+    "( squares give median values in three @xmath7-bins ) , implying the accretion of dark ( and probably baryonic ) matter .",
+    "_ right : _ stellar mass - to - light ratios of our distant sample at @xmath8 ( filled circles ) and @xmath9 ( open circles ) , compared to the parameter range covered by present - day spirals ( shaded area ) from @xcite .",
+    "the data indicate a stronger evolution in @xmath3 for low - luminosity galaxies . , title=\"fig:\",width=207,height=239 ]   ( squares give median values in three @xmath7-bins ) , implying the accretion of dark ( and probably baryonic ) matter .",
+    "_ right : _ stellar mass - to - light ratios of our distant sample at @xmath8 ( filled circles ) and @xmath9 ( open circles ) , compared to the parameter range covered by present - day spirals ( shaded area ) from @xcite .",
+    "the data indicate a stronger evolution in @xmath3 for low - luminosity galaxies .",
+    ", title=\"fig:\",width=207,height=239 ]"
+  ],
+  "abstract_text": [
+    "<S> based on vlt / fors spectroscopy and hst / acs imaging , we have constructed a sample of @xmath0200 field spiral galaxies that cover redshifts up to @xmath1 . </S>",
+    "<S> such a large data set allows to study the evolution of fundamental galaxy parameters like luminosity , size , mass , mass - to - light ratio etc .  as a function of cosmic time and in various mass regimes . </S>",
+    "<S> several of our findings   like the time - independent fraction of stellar - to - total mass   are in compliance with a hierarchical structure growth </S>",
+    "<S> . however , the _ stellar population properties _ of intermediate - redshift disks favour a _ down - sizing scenario _ in the sense that the average stellar ages in high - mass spirals are older than in low - mass spirals . </S>"
+  ]
+}

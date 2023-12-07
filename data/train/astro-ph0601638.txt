@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "in recent years , there has been considerable interest in the relation of the stellar mass in galaxies and their star - formation rate ( sfr ) , since this allows to quantify the contribution of the recent star formation to the build up of stellar mass for different galaxy masses .",
+    "@xcite were the first to investigate this connection for a @xmath2-selected sample of @xmath3 galaxies at @xmath4 and noted an emerging population of massive , heavily star forming galaxies at higher redshifts , a phenomenon they termed `` down - sizing '' .",
+    "later on , the specific star - formation rate ( ssfr ) , defined as the sfr per unit stellar mass , was used to study this relation .",
+    "we have analysed the ssfr as a function of stellar mass and redshift @xmath5 out to @xmath6 @xcite using a large sample of more than 6000 @xmath7-band selected galaxies from munics @xcite",
+    ". the ssfr decreases with mass at all redshifts , although we might not detect highly obscured galaxies .",
+    "the low values of the ssfr of the most massive galaxies suggests that most of these massive systems formed the bulk of their stars at earlier epochs .",
+    "furthermore , stellar population synthesis models show that the most massive systems contain the oldest stellar populations at all redshifts .",
+    "this is in agreement with the detection of old , massive galaxies at redshifts @xmath8 @xcite and beyond @xcite . in fig .  [",
+    "feulner : fig1 ] , where we have used the fdf @xcite and goods - s samples , we show that this trend continues to even higher redshifts @xcite .",
+    "it is extremely interesting to investigate the average ssfr of galaxies with different masses as a function of redshift shown in fig .  [",
+    "feulner : fig2 ] @xcite .",
+    "while at redshifts @xmath9 the most massive galaxies are in a quiescent state , at redshifts @xmath10 the ssfr for massive galaxies increases by a factor of @xmath11 reaching the epoch of their formation at @xmath1 and beyond .",
+    "while there is evidence for dry merging ( i.e.  without interaction - induced star formation ) in the field galaxy population @xcite , this strong increase in the ssfr of the most massive galaxies suggests that at least part of this population was formed in an early period of efficient star formation in massive haloes .",
+    "$ ] ( squares ) , @xmath12 $ ] ( triangles ) and @xmath13 $ ] ( circles ) and sfrs larger than @xmath14 as a function of @xmath5 .",
+    "the error bar represents the error of the mean .",
+    "the solid line indicates the doubling line of fig .",
+    "[ feulner : fig1 ] which can be used to discriminate quiescent and heavily star forming galaxies.,scaledwidth=45.0% ]"
+  ],
+  "abstract_text": [
+    "<S> we use the optical and near - infrared galaxy samples from the munich near - infrared cluster survey ( munics ) , the fors deep field ( fdf ) and goods - s to probe the stellar mass assembly history of field galaxies out to @xmath0 . combining information on the galaxies stellar mass with their star - formation rate and the age of the stellar population </S>",
+    "<S> , we can draw important conclusions on the assembly of the most massive galaxies in the universe : these objects contain the oldest stellar populations at all redshifts probed . </S>",
+    "<S> furthermore , we show that with increasing redshift the contribution of star - formation to the mass assembly for massive galaxies increases dramatically , reaching the era of their formation at @xmath1 and beyond . </S>",
+    "<S> these findings can be interpreted as evidence for an early epoch of star formation in the most massive galaxies in the universe . </S>"
+  ]
+}

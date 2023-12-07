@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the h@xmath0 line of @xmath0  eri was observed several times from 1991 to 2002 , in particular , halfway through the epoch of the interferometric observations reported by domiciano de souza et al .",
+    "the 1999 line profile is used to represent the photospheric absorption and subtracted from all observed h@xmath0 emission lines .",
+    "the ` neat ' h@xmath0 line emission components are shown in fig .",
+    "[ f1 ] .    the source function @xmath1 of the h@xmath0 line in @xmath0",
+    "eri is dominated by radiative ionization and recombination processes of atomic levels so that its dependence with the optical depth is ( mihalas 1978 ) : @xmath2 @xmath3 for @xmath4 , @xmath5 for @xmath6 , where @xmath7 is the optical depth in the central wavelength of the line ; @xmath8 is the radiative ` sink ' term ; @xmath9 is the ` source ' factor dependent on photoionization and recombination rates . using the ring - model described in arias et al .",
+    "( 2005 , this issue ) and vinicius et al .",
+    "( 2005 ) to represent the h@xmath0 emission line formation we derive the parameters given in table  [ t1 ] : @xmath7 , @xmath10 ( ring radius ) ; @xmath11 ( semi - height of the ring ) ; @xmath12 ( average ring rotation velocity ) ; @xmath13 ( average ring expansion velocity ) ; @xmath14 form the particle density disitribution @xmath15 .",
+    "the fits of the h@xmath0 line emission component are also shown in fig .",
+    "[ f1 ] . in all cases ,",
+    "a non negligible ring / disc effective height @xmath16 is required .",
+    "the line profiles in 1991 , 1998 and 2002 require on average quite extended emitting regions @xmath17 and outward steeply decreasing density distributions : @xmath18 .",
+    "the emitting region of h@xmath0 from 1993 to 1995 is @xmath19 with nearly the same disc height @xmath20 and a quite uniform density distribution : @xmath21 .",
+    "cccccrr epoch & @xmath7 & @xmath10 & @xmath11 & @xmath12 & @xmath13 & @xmath14 + 1991 & 0.15 & 3.8 & 3.8 & 265 & 0 & 1.8 + 1993 & 1.18 & 6.0 & 3.5 & 197 & 0 & 0.2 + 1994 & 0.70 & 5.9 & 3.8 & 185 & 0 & -0.1 + 1995 & 0.25 & 5.5 & 3.5 & 190 & -10 & 0.1 + 1998 & 0.09 & 3.8 & 3.5 & 275 & 50 & 2.0 + 2000 & 0.08 & 3.8 & 2.2 & 220 & 255 & -0.4 + 2002 & 0.13 & 3.7 & 2.5 & 270 & -15 & 1.9 +",
+    "we can take advantage of observations that we obtained on the h@xmath0 line emission changes from 1991 to 2002 , to derive some information on the time scales that characterize a complete cycle of transition .",
+    "we also compare this cycle with the long - term h@xmath0 variations in @xmath0  eri observed in previous epochs .",
+    "the time scales of these cycles matter to understand the disc formation mechanisms ( porter 1999 , okazaki 2001 ) .",
+    "we collected in the literature the spectroscopic and photometric records of the h@xmath0 line variation and studied them as a function of time .",
+    "the variation of the equivalent width of the @xmath22 line emission component before 1991 is shown in fig .",
+    "[ f2]a . in this figure",
+    "we also added the qualitative estimates of the emission intensity noted in the literature before 1965 .",
+    "the changes of the @xmath22 emission observed from 1991 to 2002 is shown in fig .",
+    "[ f2]b . from both panels in fig .",
+    "[ f2 ] we conclude that there is a sort of cyclic variation of the the @xmath22 line emission .",
+    "the maxima of emission are attained each 14 years roughly , while the onsets of the increase towards the greatest emission maxima produce about each 15 years .",
+    "[ f2 ] shows that the two last b - normal like aspects lasted 4 to 5 years . from the last two cycles we learn that after the quiescent , or b - normal like phases , the star resumes its maximum emission in no more than 2 years .",
+    "we can also see that after each emission maxima there is a 4 - 5 year lasting plateau of weak emission before the star recovers the b - normal like aspect .",
+    "these time scales may have some significance to model the ce formation in this star .",
+    "if the evolution of the ce in @xmath0  eri , i.e. formation and subsequent dissipation , has to be understood in terms of a viscous decretion disc model ( porter 1999 , okazaki 2001 ) , from the expected average viscous time scales for @xmath23 days ( clark et al . 2003 ) , we would derive two quite different series of values for the viscosity coefficient @xmath0 .",
+    "the time scales implied by the ce formation , estimated from the time that takes the emission rise in the h@xmath0 line : 2 years roughly , we would obtain @xmath24 0.08 , which is of the same order as expected for ce envelopes studied by blondin & negueruela ( 2001 ) , matsumo ( 1999 ) and clark et al .",
+    "the time required by the decrease from maximum to zero is either 10 years in the 1974 - 1989 cycle or 6 years during the 1991 - 2000 cycle .",
+    "this imply @xmath25 , which is about 4 times smaller than implied in the formation process .",
+    "we may then wonder whether the bulk redistribution of material in the circumstellar disc occurs only as a consequence of a viscous redistribution of angular momentum ."
+  ],
+  "abstract_text": [
+    "<S> the h@xmath0 line emission formation region in the circumstellar disc of @xmath0  eri is : a ) extended with a steep outward matter density decline during low h@xmath0 emission phases ; b ) less extended with rather constant density distribution during the strong h@xmath0 emission . </S>",
+    "<S> the long - term variation of the h@xmath0 emission has a 14 - 15 year cyclic phase transition . </S>",
+    "<S> the disc formation time scales agree with the viscous decretion model . </S>",
+    "<S> the time required for the disc dissipation is longer than expected from the viscous disc model . </S>"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "mass loss from giants is of great importance to stellar evolution  low - mass stars lose up to 0.2 m@xmath1 on the giant branch .",
+    "metal - poor globulars giants can probe metallicity dependances of this mass loss , exposing the universe s chemical enrichment history , and revealing how low - metallicity stars can produce large quantities of dust ( _ e.g. _ @xcite",
+    "eight infrared - excessive giant branch stars in 47 tuc were observed in the mid - infrared with the eso la silla 3.6 m and timmi-2 spectrograph .",
+    "clear silicate emission is present in v1 , corresponding to a mass loss rate of 10@xmath2 m@xmath1 yr@xmath3 ( estimated using the dusty code  @xcite ) .",
+    "this work was published as @xcite .",
+    "optical vlt / uves spectra were taken of 47 giant stars in six clusters , shown in fig .  1",
+    ", in order to analyse differences between ir - excessive and normal stars at a range of metallicities . at @xmath4 100,000 , these represent some of the highest resolution data ever taken of globular cluster giants .",
+    "the h@xmath5 and mid - ir ca ii triplet lines exhibit evidence for mass loss : core shifts of several km s@xmath3 exist in many stars , as does substantial emission .",
+    "we are in the process of qualitatively analysing the h@xmath5 lines using the sei code @xcite and various other computational methods .",
+    "we will then perform an abundance analysis and attempt to model the chromospheric emission .",
+    "spitzer imaging of @xmath0 cen totalling 18.4 hours was taken in six bands from 3.670 @xmath6 m . we will produce the first multi - wavelength atlas of @xmath0 cen in the infrared .",
+    "we can then use this to find dust - enshrouded objects in the cluster , and measure their mass loss rates and other characteristics .",
+    "boyer , m.  l. , woodward , c.  e. , van loon , j.  th . ,",
+    "gordon , k. , evans , a. , gehrz , r.  d. , helton , l.  a. , polomski , e.  f.  2006 , , 132 , 1415 ivezi , z. , nenkova , m. , & elizur , m.  1999 , user manual for dusty , university of kentucky internal report lamers , h.  j.  g.  l.  m. , cerruti - sola , m. , & perinotto , m.  1987 , ap .",
+    "j. , 314 , 726 van loon , j.  th . , mcdonald , i. , oliveira , j.  m. , evans , a. , boyer , m  .l . ,",
+    "gehrz , r.  d. , polomski , e. , woodward , c.  e.  2006 , , 450 , 339"
+  ],
+  "abstract_text": [
+    "<S> we are examining mass loss from globular clusters giant stars , focussing on metallicity dependance . </S>",
+    "<S> we present three sets of observations : timmi-2 mid - ir spectra of 47 tuc , uves high - resolution optical spectra of several clusters , and an infrared atlas of @xmath0 cen using the spitzer space telescope . </S>"
+  ]
+}

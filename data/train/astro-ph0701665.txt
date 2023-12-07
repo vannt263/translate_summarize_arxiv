@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "the surface brightness fluctuation ( sbf ) magnitudes and colors are widely used as one of the most powerful distance indicators as well as useful tools for probing stellar populations . to our continued consternation ,",
+    "however , only solar - scaled sbf models have been calculated in the past .",
+    "here we report , for the first time , alpha - element enhanced sbf models and compare them with observations . for those purposes , we have employed the teramo isochrones ( pietrinferni et al .",
+    "2004 , 2006 ; cordier et al .",
+    "2007 ; http://www.te.astro.it/ basti ) in this study . in general , alpha - element",
+    "enhanced sbf magnitudes are brighter and their broad - band colors are redder where the alpha - element enhancement is defined at a fixed total metallicity ( cf .",
+    ", http:// www.astro.rug.nl/@xmath0sctrager/ftspm/ lee@xmath1alpha.pdf ) .",
+    "our results also illustrate the dramatic impact of convective core overshooting on the predicted broad - band colors for models with ages near 1 gyr ( see also http://astro.wsu.edu/hclee/ hclee@xmath1208@xmath1aas@xmath110@xmath107.pdf ) .",
+    "figure 1 shows our preliminary results ( aes : alpha - enhanced standard , sss : solar - scaled standard , where ` standard ' means no convective core overshooting ) in the v @xmath2 i vs. sbf i - band magnitude .",
+    "two observational fiducial lines ( thick straight lines ) are overlaid with our theoretical models .",
+    "the blue line is sbf i - band mag = @xmath22.13 + 2.44 @xmath3 [ ( v @xmath2 i ) @xmath2 1.00 ] from mieske , hilker , & infante ( 2006 ) for dwarf blue galaxies , while the red line is sbf i - band mag = @xmath21.68 + 4.5 @xmath3 [ ( v @xmath2 i ) @xmath2 1.15 ] from mei et al .",
+    "( 2005 , originally calibrated at blakeslee et al . 2002 ) for massive red galaxies . from the comparisons , it seems that our preliminary results indicate that alpha - enhanced models are needed to match massive red galaxies while solar - scaled models are fine for dwarf blue galaxies to reproduce their independently estimated ages and metallicities .",
+    "the full investigation will be presented at lee , worthey , & blakeslee ( 2007 ) .",
+    "i vs. sbf i - band magnitude at 0.1 , 1 , 5 , and 13 gyr ( left to right ) .",
+    "solid lines with squares are solar - scaled models while dashed lines with squares are alpha - enhanced models . at given ages ,",
+    "sbf i - band magnitudes become fainter and v @xmath2 i colors become redder , in general , with increasing metallicity .",
+    "two observational fiducial lines are compared with our theoretical models ( see text ) . ]",
+    "support for this work was provided by the nsf through grant ast-0307487 , the new standard stellar population models ( nsspm ) project .",
+    "lee also thanks the organizers for their wonderful hospitality and financial support ."
+  ],
+  "abstract_text": [
+    "<S> we present the effects due to alpha - element enhancement on surface brightness fluctuation magnitudes and broad - band colors in order to investigate the calibration zero - point . </S>",
+    "<S> we study these effects at ages covering 0.1 to 13 gyr and metallicities of z=0.0003 to 0.04 using the teramo group s isochrones , basti . </S>",
+    "<S> our preliminary results indicate that alpha - enhanced models are needed to match massive red galaxies while solar - scaled models are fine for dwarf blue galaxies to reproduce their independently estimated ages and metallicities . </S>"
+  ]
+}

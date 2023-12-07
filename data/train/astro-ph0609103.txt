@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "assume a cluster and a moving perturbing object ( gmc , spiral arm , disc , etc . ) with relative separation and velocity @xmath1 and @xmath2 , respectively .",
+    "the acceleration due to the perturber is referred to as @xmath3 .",
+    "the _ tidal _ acceleration ( @xmath4 ) on a star at a distance @xmath5 from the cluster centre can be obtained by linearising @xmath3 : @xmath6 the total velocity increase ( @xmath7 ) of the star after the perturbation can be obtained by substituting @xmath8 and integrating eq .",
+    "if the time it takes the perturber to pass the cluster is much shorter than the crossing time of stars in the cluster , @xmath5 can be assumed constant .",
+    "this is referred to as the _ impulsive approximation_. the resulting  then simply scales with @xmath5 , @xmath2 and the maximum acceleration ( @xmath9 ) as : @xmath10 .",
+    "the total kinetic energy gain per unit of cluster mass ( @xmath11 ) can then be written as @xmath12 where we used that the mean - square position of stars ( ) is @xmath13 . _ eq .",
+    "[ eq:2 ] shows that @xmath11 is large for slow perturbations on large clusters_.    for passing point masses @xmath14 , with @xmath15 the gravitational constant , @xmath16 the mass of the perturber and @xmath17 the distance of closest approach ( see @xcite for the exact definition of eq .",
+    "[ eq:2 ] , taking into account an extended density profile for a gmc ) . for a one - dimensional density perturbation , such as the perpendicular crossing of a galactic disc and , to lesser extend , the crossing of a spiral arm , @xmath18 , with @xmath19 the scale height / length and @xmath20 the central density . for more details",
+    "see @xcite and references therein .",
+    "a single tidal perturbation can accelerate stars to velocities much higher than the escape velocity .",
+    "this _ overkill _ energy can not be used to unbind more stars and is lost with the escaping stars . for this reason , the fractional mass loss ( , with @xmath21 the cluster mass ) is lower than the fractional energy gain ( , with @xmath11 from eq .",
+    "[ eq:2 ] and @xmath22 the cluster energy per unit mass ) , by a factor @xmath23 , with @xmath24 @xcite . with this and the definition of  ( @xmath25 , with  the cluster half - mass radius and @xmath26 , depending on the cluster density profile ) , we can write @xmath27 as    @xmath28    where we used eq .  [ eq:2 ] and @xmath29 , with @xmath30 , depending on the cluster density profile .",
+    "the statistical mean mass loss per unit time ( @xmath31 ) is defined as @xmath32 , where @xmath33 for gmc encounters is the time between successive encounters and depends on the gmc density ( @xmath34 ) as @xmath35 .",
+    "_ note that @xmath36 and @xmath31 due to external perturbations are independent of cluster mass .",
+    "defining the cluster disruption time ( @xmath37 ) as @xmath38 , we can write ( for gmc encounters )      from observations of clusters in different galaxies , @xcite found that @xmath40 , with @xmath41 .",
+    "the same value for @xmath42 was found in @xmath0-body simulations of clusters dissolving in a galactic tidal field @xcite , however , their  values are much longer than the observed ones .",
+    "recently found that @xmath43 , which implies @xmath44 and hence @xmath45 ( eq .  [ eq:4 ] ) .",
+    "the fact that  due to the galactic tidal field _ and",
+    "_ due to the tidal perturbations depend on  in almost the same way can explain why the values of @xmath42 derived from observations of clusters in different galaxies are so similar @xcite , while  varies by almost two orders of magnitude .    , h. & makino , j. 2003 , , 340 , 227 , s.  g. & lamers , h.  j.  g.  l.  m. 2003 , , 338 , 717 , m. , athanassoula , e. , & portegies zwart , s.  f. 2006 , mnras , submitted , m. , portegies zwart , s.  f. , baumgardt , h. , et  al .",
+    "2006 , , 371 , 793 , h.  j.  g.  l.  m. , gieles , m. , bastian , n. , et  al .",
+    "2005 , , 441 , 117 , h.  j.  g.  l.  m. , gieles , m. , & portegies zwart , s.  f. 2005 , , 429 , 173 , s.  s. 2004 , , 416 , 537 , l. 1987 , dynamical evolution of globular clusters ( princeton , nj , princeton university press , 1987 )"
+  ],
+  "abstract_text": [
+    "<S> star clusters are subject to density irregularities in their host galaxy , such as giant molecular clouds ( gmcs ) , the galactic disc and spiral arms , which are largely ignored in present day ( @xmath0-body ) simulations of cluster evolution . </S>",
+    "<S> time dependent external potentials give rise to tidal forces that accelerate stars leading to an expansion and more rapid dissolution of the cluster . </S>",
+    "<S> i explain the basic principles of this tidal heating in the _ impulse approximation _ and show how related disruption time - scales depend on properties of the cluster . </S>"
+  ]
+}

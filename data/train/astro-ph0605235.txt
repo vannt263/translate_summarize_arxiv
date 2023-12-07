@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "h  ii region and planetary nebula abundances derived from heavy element optical recombination lines ( orls ) should in principle be more accurate than those derived from collisionally excited ( forbidden ) lines ( cels ) from the same ions , due to the exponential dependence upon the adopted nebular temperature of cel abundances . however , a number of abundance surveys of pne that we have recently published ( tsamis et al .",
+    "2004 , liu et al .",
+    "2004 , wesson et al .",
+    "2005 ) show that orls yield systematically higher heavy element abundances than those obtained from classical cel forbidden line analyses , with abundance discrepancy factors ( adfs ) of 1.6 - 3.0 obtained for most nebulae . for about 5 - 10% of nebulae ,",
+    "the adfs are so large ( 5 - 80 ) that nebular temperature fluctuations ( e.g. peimbert 1967 ) can not be invoked to reconcile the differences .",
+    "it is important to resolve this problem , since standard temperature fluctuation analysis methods effectively adopt the higher orl abundances , with profound implications for the mean abundances that are derived for our own and other galaxies from h  ii regions and pne .",
+    "ngc  7009 and ngc  6153 are nebulae for which we have previously found very large enhancements in the recombination line abundances of the second - row elements carbon , nitrogen , oxygen and neon ( liu et al .",
+    "1995 , liu et al .",
+    "2000 ) , with orl / cel adfs of 5 and 10 , respectively .",
+    "nebular temperature fluctuations are unable to account for these effects .",
+    "however , models that invoke low - temperature hydrogen - deficient clumps appear viable as an explanation for the high recombination line abundances that are observed ( see liu et al .",
+    "2000 for more details ) .",
+    "if the heavy element orls originate from much cooler material than do the classical forbidden lines , then an obvious prediction is that orls should have narrower lines widths than forbidden lines from the same ion . in order to test this prediction ,",
+    "we have obtained high spectral resolution ( r=150,000 ) observations of these two high - adf nebulae using the recently commissioned bhros echelle spectrograph on the 8-m gemini south telescope .",
+    "four 30-minute exposures on ngc  7009 were obtained with bhros on july 27th 2005 , placing its 0.9@xmath1  0.9@xmath2 image - slicer on a bright edge region located 5.6@xmath2 nw of the central star , with the echellogram centred at 4267   .",
+    "1(a ) shows a velocity plot of the co - added profile of the 4089 , 4275 and 4349    o  ii lines ( solid plot ) , together with the profile ( after division by a factor of ten ) of the [ o  iii ] 4363    cel ( dashed ) .",
+    "these lines all arise from the o@xmath0 ion , yet the linewidth of the o  ii main velocity component is measured to be 1.47 times smaller than that found for the same velocity component in the [ o  iii ] line , which for pure velocity broadening would yield a t@xmath3 from the [ o  iii ] line that is 2.2 times larger than that obtained from the o  ii lines . clearly",
+    ", the o@xmath0 orls and cels can not originate from identical material .",
+    "five 30-minute exposures were obtained on ngc  6153 on march 9th 2006 ( a further five exposures were obtained on march 24th ; the results shown here are from the march 9th observations ) .",
+    "the 0.9@xmath1  0.9@xmath2 large bhros image - slicer was placed on a bright region located 7.4@xmath2 se of the central star .",
+    "the echellogram was centred at a longer wavelength ( 4650   ) than for ngc  7009 , to allow for the much higher reddening towards ngc  6153 .",
+    "1(b ) shows a velocity plot that compares the observed line profiles of the o  ii 4649    orl ( solid ) , together with those of the [ o  iii ] 5007    ( dashed ) and 4363    ( dotted ) cels .",
+    "the 5007    profile has been divided by a factor of 250 for comparison purposes .",
+    "once again , the o  ii orl line profile shows much narrower velocity components than do the [ o  iii ] 5007    and 4363  lines , indicating that the o@xmath0 ions giving the o  ii recombination emission are located in physically distinct regions from those giving the [ o  iii ] forbidden line emission . a big surprise , though , is that the two [ o  iii ] forbidden lines have very different velocity profiles . of",
+    "the three observed [ o  iii ] 5007    velocity components , the two blue - most components both have [ o  iii ] 4363  counterparts , but the gap between the middle and red - most 5007  component is infilled by emission in the case of the 4363    line , while only the blue side of the strongest 5007    velocity component has a counterpart in either the [ o  iii ] 4363    or o  ii 4649  profiles .",
+    "since the ratio of the [ o  iii ] 5007    to 4363    line intensities is a classical electron temperature diagnostic , the large variations in this ratio as a function of velocity indicate very large temperature variations within the nebula ."
+  ],
+  "abstract_text": [
+    "<S> we have acquired high spectral resolution observations ( r=150,000 ) of the planetary nebulae ngc  7009 and ngc  6153 , using bhros on gemini south . </S>",
+    "<S> observations of this type may provide a key to understanding why optical recombination lines ( orls ) yield systematically higher heavy element abundances for photoionized nebulae than do the classical forbidden collisionally excited lines ( cels ) emitted by the same ions ; ngc  7009 and ngc  6153 have notably high orl / cel abundance discrepancy factors ( adfs ) of 5 and 10 , respectively . due to the opposite temperature dependences of orls and cels , </S>",
+    "<S> orls should be preferentially emitted by colder plasma . </S>",
+    "<S> our bhros observations of ngc  7009 reveal that the [ o  iii ] 4363    cel has a fwhm linewidth that is 1.5 times larger than that shown by o  ii orls in the same spectrum , despite the fact that all of these lines are emitted by the o@xmath0 ion . </S>",
+    "<S> the bhros spectra of ngc  6153 also show that its o  ii orls have significantly narrower linewidths than do the [ o  iii ] 4363    and 5007    lines but , in addition , the [ o  iii ] 4363    and 5007    lines show very different velocity profiles , implying the presence of large temperature variations in the nebula . </S>"
+  ]
+}

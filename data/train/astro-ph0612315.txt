@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "the analysis of the epic data from a 30  ks observation of the seyfert 1 mrk  335 ( longinotti et al . 2006 ) shows that the 2 - 10  kev spectrum can be phenomenologically fitted with a power law , a broad gaussian line with e=6.22@xmath10.16 kev , @xmath2=0.66@xmath10.23 kev , ew  490 ev , and a narrow ( @xmath2 = 1ev ) absorption line with e=5.92@xmath10.04 kev and ew=50  ev .",
+    "these features are visible in the residuals of the spectrum plotted in fig.1 .",
+    "the significance of the absorption line estimated through monte carlo simulations is 99.7% .",
+    "the most obvious identification for the absorption feature is with redshifted iron k@xmath0 resonance absorption .",
+    "the identification with iron is favoured since the observed energy of the line is too high to be readily explained by k@xmath0 absorption in any of the other astrophysically abundant elements .",
+    "we present a simple model for the inflow ( centre and right panels of fig.1 ) , accounting approximately for relativistic and radiation pressure effects , and use monte carlo methods to compute synthetic spectra for qualitative comparison with the data .",
+    "this modeling was developed following sim ( 2005 ) and assuming spherically symmetric radially infalling gas .",
+    "it does show that the absorption feature can plausibly be reproduced by infalling gas providing that the feature is identified with fe xxvi .",
+    "a smooth continuous flow is ruled out by the poor agreement with the data : although the presence of a broad inverse p cygni fe xxvi k@xmath0 line profile is predicted , the absorption line is insufficiently redshifted and too broad .",
+    "an inflow over a limited range of radii ( as discrete blobs or section of infalling gas ) is more consistent with the data ( fig.1 ) .",
+    "the narrowness of the absorption line tends to argue against a purely gravitational origin for the redshift of the line , but given the current data quality we stress that such an interpretation can not be ruled out .",
+    "a longer ( 100 ks ) xmm - newton observation of mrk 335 has been performed this year .",
+    "the analysis of the integrated spectrum reveals a double - peaked fe line .",
+    "a broad accretion disc line is likely to be present but the peaks are due to narrower components at  6.4 and 7 kev ( oneill et al . in prep . ) .",
+    "a preliminary time - resolved analysis shows that the narrow peaks are variable .",
+    "2 shows the spectra from three portions of the light curve .",
+    "the narrow peak at 6.4  kev , clearly present in the first 30  ks , disappears in the central portion .",
+    "the 7  kev peak instead shows up only in the last 60  ks .",
+    "the variable narrow lines could be tentatively associated to the presence of flares in the light curve , but a much more detailed and careful analysis is necessary before speculating on their origin . as regard to the absorption line observed in the archival 30 ks observation ,",
+    "it is marginally detected only in the first portion of the longer exposure .",
+    "further investigation on these data will hopefully clarify all the issues reported here ."
+  ],
+  "abstract_text": [
+    "<S> the analysis of hard x - ray features in _ xmm - newton _ data of the bright sy 1 galaxy mrk 335 is reported here . </S>",
+    "<S> the presence of a broad , ionised iron k@xmath0 emission line in the spectrum , first found by gondoin et al.(2002 ) , is confirmed . </S>",
+    "<S> the broad line can be modeled successfully by relativistic accretion disc reflection models . </S>",
+    "<S> regardless of the underlying continuum we report , for the first time in this source , the detection of a narrow absorption feature at the rest frame energy of  5.9 kev . </S>",
+    "<S> if the feature is identified with a resonance absorption line of iron in a highly ionised medium , the redshift of the line corresponds to an inflow velocity of  0.11 - 0.15 c. preliminary results from a longer ( 100ks ) exposure are also presented . </S>"
+  ]
+}

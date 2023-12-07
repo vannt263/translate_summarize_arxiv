@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "we have started a study of the stellar populations in the large and small magellanic clouds using data ( u , b , v , i and h@xmath0 imaging ) collected as part of the wfpc2 pure parallel program ( wadadekar et al .",
+    "2006 ) . we have considered a number of fields comprising both young and old stellar populations , with ages ranging from a few myr to a few gyr and where also pre - main - sequence objects are clearly identified .",
+    "in addition to the properties of these populations , we have studied the characteristics of the dust present in these regions .    using the properties of red giant stars of the so - called `` red clump '' ( rc ) in the various colour  magnitude diagrams , we have determined the extinction law in each field ( panagia & de marchi 2005 ; de marchi & panagia 2007 ) .",
+    "the rc is populated by stars experiencing core he burning and its position in the cmd depends on : ( 1 ) the age and ( 2 ) metallicity of the population , ( 3 ) its distance and ( 4 ) the intervening absorption ( @xmath1 ) .",
+    "our high precision and high resolution photometry in four or more bands allows us to disentangle the four effects and determine or constrain their values . for fields with large and variable extinction",
+    ", the rc is particularly useful to derive the extinction value towards each individual rc star , i.e. the extinction towards old populations .",
+    "we find that not only the amount of extinction but also its wavelength dependence varies considerably from site to site , indicating that the physical properties of the absorbing dust are not uniform across the clouds .",
+    "for instance , we have determined the extinction law towards a region located @xmath2 sw of 30  dor and derived the absolute value of @xmath1 for all rc stars .",
+    "the extinction law compares well with that obtained spectroscopically in a region containing sn 1987a ( scuderi et al .",
+    "1996 ) , but it is significantly shallower in the u and b bands ( see figure1 ) , thus implying the presence of relatively large dust grains .",
+    "analytically , our extinction law in that specific field is equivalent to the galactic diffused ism law ( @xmath3 ) multiplied by a power law @xmath4 .",
+    "this analysis also allows us to determine the relative three - dimensional distribution of the different populations as well as their location with respect to the absorbing dust clouds .",
+    "for instance , in the field near 30  dor mentioned above we find that all young stars lie behind a layer of dust with @xmath5 and very few of them extend past @xmath6 , whereas the reddening towards rc stars spans the full range @xmath7 , indicating that the latter stars are evenly distributed along the line of sight .",
+    "furthermore , although the reddening distribution that we derive for all rc stars is compatible with that of zaritsky et al . (",
+    "2004 ) for the same field , it spans a considerably wider range of reddening .    correcting for the appropriate extinction for each field",
+    "_ individually _ , and following the procedures developed by panagia et al .",
+    "( 2000 ) , romaniello et al .",
+    "( 2002 ) , and romaniello , robberto & panagia ( 2004 ) , we determine the physical parameters , namely effective temperature and luminosity , of all stars present in the field ( de marchi et al .",
+    "we find that , among young stars , those less massive than 2m@xmath8 are spatially more spread over each field than massive b type stars , whereas old stars are quite uniformly distributed .",
+    "all young stars appear to be spatially associated with the nebular emission .",
+    "an important corollary of our investigation is that unaccounted patchy absorption or a variable extinction law are likely to contribute significantly to the present discrepancies between various distance indicators for the magellanic clouds ."
+  ],
+  "abstract_text": [
+    "<S> we present the first results of our study of stellar populations in the large and small magellanic clouds based on multi - band wfpc2 observations of `` random '' fields taken as part of the `` pure parallel '' programme carried out with the hst as a service to the community . </S>"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "we present preliminary results from a 200 ks observation of the quasar 4c 19.44 ( = pks 1354 + 135 ) , using _",
+    "chandra _ observation identifications ( obsid s ) 6903 , 6904 , 7302 , 7303 .",
+    "we analyze the jet assuming x - ray production by inverse compton scattering on the cosmic microwave background .",
+    "this is motivated in the middle panel of figure  [ fig : regions ] since the optical flux for two knots ( from @xcite ) do not allow an extrapolation of the synchrotron radio spectrum to the x - ray region .",
+    "we follow tavecchio et al .",
+    "( 2000 ) , and celotti et al .",
+    "( 2001 ) to calculate the rest frame magnetic field b and the doppler factor @xmath3^{-1}$ ] .",
+    "the formalism requires many assumptions on the physics and on unknown values of parameters .",
+    "consistent with our previous work ( schwartz et al . 2006 ) we assume a minimum total energy in magnetic field and relativistic particles , filling factor = 1 , an electron spectral index m=2.4 with cutoffs at low and high energies tuned to give radio emission from 10@xmath4 hz to 10@xmath5 hz , equal energy in electrons and protons , and that the bulk lorentz factor @xmath6 so that the angle to the line of sight takes on the maximum value , @xmath7 , for a given @xmath8 .",
+    "we take the volume of regions 4 through 14 to be cylinders of the ( resolved ) lengths shown in the left panel of figure  [ fig : regions ] , and ( unresolved ) radii assumed to be 05 = 3.62 kpc at the redshift z=0.72 of this quasar .",
+    "the results for b and @xmath8 are presented in the rightmost panel of the figure . with the above assumptions the jet shows similar structure along its length .",
+    "we give the deprojected distance on the top axis by assuming @xmath9 .",
+    "we note that if the radii were all 1 kpc , the values for b and @xmath8 would be a factor of 1.44 higher .",
+    "the systematic effects of our assumptions allow alternate profiles , but the numerical values are constrained within a factor roughly 2 . in particular , the increase in @xmath8 at the end of the jet would be peculiar in the ic / cmb scenario . for the baseline values of b and @xmath8 , we can derive the kinetic power , the minimum electron lorentz factor , and the relativistic electron density as a function of distance along the jet . for deprojected distances 200 to 600 kpc from the quasar , regions 13 to 6 , we require a cutoff to the electron spectrum at energies below @xmath10 and we estimate a kinetic power of approximately ( 12 ) @xmath11 10@xmath12 erg s@xmath13 , and a total relativistic electron density of roughly ( 23 ) @xmath11 10@xmath14 @xmath15 ."
+  ],
+  "abstract_text": [
+    "<S> we investigate the variations of the magnetic field , doppler factor , and relativistic particle density along the jet of a quasar at z=0.72 . </S>",
+    "<S> we chose 4c 19.44 for this study because of its length and straight morphology . </S>",
+    "<S> the 18 arcsec length of the jet provides many independent resolution elements in the chandra x - ray image . </S>",
+    "<S> the straightness suggests that geometry factors , although uncertain , are almost constant along the jet . </S>",
+    "<S> we assume the x - ray emission is from inverse compton scattering of the cosmic microwave background . with the aid of assumptions about jet alignment , equipartition between magnetic - field and relativistic - particle energy , and filling factors , we find that the jet is in bulk relativistic motion with a doppler factor @xmath0 6 at an angle no more than 10@xmath1 to the line of sight over deprojected distances </S>",
+    "<S> @xmath0 150600 kpc from the quasar , and with a magnetic field @xmath010 @xmath2gauss . </S>"
+  ]
+}

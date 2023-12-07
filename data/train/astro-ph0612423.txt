@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the light and stellar mass in clusters of galaxies is dominated by bright , massive ellipticals , which form a tight colour - magnitude relation ( cmr : * ? ? ?",
+    "* ; * ? ? ?",
+    "the cmr is classically interpreted as a mass  metallicity relation @xcite , its slope being mainly driven by the latter : brighter galaxies are redder because more metal enriched . as for groups of galaxies , they are by far less studied both observationally and theoretically than clusters .",
+    "our aim is to study , by means of cosmological and hydrodynamical simulations , the cmr in a wider range of both mass and redshift , including groups , cluster cores and cluster outskirts from @xmath1=2 to @xmath1=0 ( for simulations or semi - analytical models of cluster galaxies see * ? ? ?",
+    "* ; * ? ? ?",
+    "this approach allows to investigate how the relation evolves with time and can shed light on possible sistematic differences due to intermediate density environment ( see also * ? ? ?",
+    "the groups were drawn from a tree - sph simulation , within a standard flat @xmath0cdm cosmological model , which consistently includes star formation , chemical evolution with non - instantaneous recycling , metal dependent radiative cooling , strong starbursts and galactic super winds : full details on the code and the simulations are given in @xcite .",
+    "in particular we selected 12 groups ( all of @xmath2 kev ) , four of which turned out to be fossil ( fgs : see * ? ? ? * ) .",
+    "the main quantitative information about the cmr are given by its slope , zero - point and slope .",
+    "the zero - point constrains the epoch of the bulk of star formation , which is at around @xmath33 for most of the cluster ellipticals @xcite .",
+    "the scatter of the cmr is observed to be small in the local universe ( @xmath40.04 in clusters , @xmath40.1 in fields : * ? ? ?",
+    "* ; * ? ? ?",
+    "* ) and does not increase up to @xmath31 @xcite . such persisting tightness of the cmr suggests that the bulk of stellar population have formed across a relatively short period , after which galaxies have evolved mostly driven by passive reddening @xcite , in concordance with `` down - sizing '' models of galaxy formation ( see * ? ? ?",
+    "* ; * ? ? ?",
+    "in a hierarchical scenario , on the contrary , the slope of the cmr is predicted to flatten with @xmath1 , as a result of a merger - driven evolution of the largest ellipticals .",
+    "@xcite found a deficit of red , faint galaxies populating the cmr at @xmath1=0.8 , indicating that star - forming galaxies shifted towards the red sequence when their activity came to an end at around that redshift .",
+    "we are able to follow the evolution up to farther redshifts , to determine at which epoch , possibly , the scatter becomes larger and the slope changes , which is precisely the point when the red sequence is built up . in figs . 1 and 2 the colour ( _ u - v_)magnitude ( _ v _ ) relation of galaxies in the groups , respectively normal and fossil , is shown .",
+    "galaxies are classified according to their specific star - formation rate ( ssfr ) over the last previous gyr .",
+    "the linear best - fits are calculated on a sub - sample of galaxies , namely those laying within a region of the colour  internal velocity dispersion space , which can be consistent with early - type objects .    by comparing figs . 1 and 2",
+    ", one can follow the assembly process of the brightest central galaxies ( bcg ) with respect to the ` fossilness ' of the group : star formation activity lasts longer and the number of star forming galaxies remains higher in normal groups than in fossil ones , supporting the picture of the latters being rather  quiescent \" , earlier assembled systems : in fgs the gap between the bcg and the 2nd brightest galaxy opens already since @xmath31.5 and then widens out .    in fig .",
+    "3 the slope and the scatter of the cmr from the galaxies more massive than @xmath5 are shown , along with the same for the other two classes of environments considered , that is the core ( within 1/3 @xmath6 ) and the outskirts ( from 1/3 @xmath6 to @xmath6 ) of two clusters . the tightness of the cmr spreads up from @xmath31 onwards for clusters , @xmath40.5 for groups : at lower redshifts the scatter keeps a slightly increasing trend , for all the classes considered and especially in groups , staying within 0.2 mag .",
+    "this is mirrored by the slope s behaviour : in groups the cmr remains almost flat at low @xmath1 , becomes positive at later @xmath1 with respect to cluster cores ( where @xmath30.7 ) and keeps on steeper at higher @xmath1 , following an evolution rather analogous to cluster outskirt regions than cluster cores . in conclusion , whereas the main difference in buiding the red sequence between normal and fossil groups stems from the different timescales of star formation activity and in the mass assembly of the central galaxy , with respect to clusters the cmr seems to evolve with a slowed down pace : galaxies in groups are still in the phase of moving towards the red sequence at epochs when the latter is already in place for galaxies in clusters ; the most marked difference is found between normal groups and cluster cores .",
+    "blakeslee j.p . , et al . , 2003 , apj 596 , l143 bower r.g . , lucey j.r .",
+    ", ellis r.s . , 1992 ,",
+    "mnras 254 , pag .",
+    "589 and pag .",
+    "601 cimatti a. , daddi e. , renzini a. , 2006 , a&a 453 , l29 de lucia g. , et al . , 2004 , apj 610 , l77",
+    "donghia e. , sommer - larsen j. , romeo a.d . , burkert a. , pedersen k. , portinari l. , rasmussen j. , 2005 , apj 630 , l109 ellis s.c . ,",
+    "jones l.r . , donovan d. , ebeling h. , khosroshahi h.g . , 2006 , mnras 368 , 769 gladders m.d",
+    ", lopez - cruz o. , yee h.k.c . , kodama t. , 1998 , apj 501 , 571 kaviraj s. , devriendt j.e.g . , ferreras i. , yi s.k .",
+    ", 2005 , mnras 360 , 60 kodama t. , arimoto n. , barger , aragn - salamanca , 1998 , a&a 334 , 99 kodama t. , et al . , 2004 , mnras 350 , 1005 kodama t. , arimoto n. , 1997 , a&a 320 , 41 romeo a.d . , portinari l. , sommer - larsen j. , 2005 , mnras 361 , 983 romeo a.d . , sommer - larsen j. , portinari l. , antonuccio v. , 2006 , mnras 371 , 548 saro a. , borgani s. , tornatore l. , dolag k. , murante g. , biviano a. , calura f. , charlot s. , 2006 , mnras 373 , 397 tanaka m. , kodama t. , arimoto n. , et al . , 2005 , mnras 362 , 268 terlevich a.i . , caldwell n. , bower r.g . , 2001 , mnras 326 , 1547"
+  ],
+  "abstract_text": [
+    "<S> n  body + hydrodynamical simulations of formation and evolution of galaxy groups in a @xmath0cdm cosmology have been performed . </S>",
+    "<S> the properties of the galaxy populations in 12 groups are here discussed , with focus on the colour - magnitude relation in both normal and fossil groups . </S>"
+  ]
+}

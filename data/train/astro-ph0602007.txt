@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "while it is widely agreed upon that galaxy - galaxy interactions and , in particular , mergers play a crucial role for the growth of supermassive black holes in quasars and also for providing the fuel for quasar activity , there is still dispute whether these black holes are of primordial nature or not .",
+    "n - body simulations ( e.g. by @xcite ) show that the tidal forces in interacting galaxies can trigger strong gas inflows towards the center of the merger .",
+    "the mass of this gas is sufficient to build a supermassive bh of @xmath0 and provide enough fuel for quasar activity . on the basis of the @xmath1-viscosity model by @xcite calculations by @xcite show that it takes less than @xmath2a from the merger to form a fully developed quasar even if no primordial supermassive bh was originally present .",
+    "this model can be tested by comparing the resulting co - moving space density of quasars to those derived from observations ( e.g. @xcite ) .",
+    "based on results by @xcite we assume an average time delay of @xmath3a between the merger and the peak quasar activity .",
+    "the individual values of this delay depend , of course , on details like the size ( @xmath4 ) and initial mass ( @xmath5 ) of the disk .",
+    "estimates of the relevant ( viscous ) timescale show its dependence @xmath6 .",
+    "this leads to the  at first glance surprising  finding of the faster formation of the more massive black holes . for our present purpose",
+    ", however , an average value of this delay serves its purpose . for more details of this model ,",
+    "we refer the reader to the contribution by duschl and strittmatter in this volume and in @xcite .    for our purpose",
+    "it is sufficient to use a  test universe \" comprised of 50 000 galaxies .",
+    "this test universe is expanding according to an einstein - de sitter - cosmology with a hubble constant of @xmath7 .",
+    "our galaxies are treated as particles with a finite cross section and a thermal velocity dispersion of @xmath8 . in this framework",
+    "we compute the merger rate for each simulated time bin ( @xmath9a ) by taking into account two different processes : direct geometrical hits and gravitationally driven mergers .",
+    "for the first process we assume every galaxy to have a spherical cross section with a radius of 15 kpc .",
+    "for the second process the cross section radius is @xmath10 , with @xmath11 being the mass of one galaxy and @xmath12 being the relative velocity between both .",
+    "we assume a delay between the merger and the onset of the quasar phase of @xmath13a for the geometrical hit and @xmath14a for the gravitationally driven merger .",
+    "the quasar phase in turn is assumed to last for another @xmath15a .    in our model",
+    "the universe is treated in very simple manner : as an expanding spherical box .",
+    "the size of this box is determined by deriving today s matter density from the assumed hubble constant ( @xmath16 ) and then using the friedmann - lematre - equation to calculate the according radius at any given time .",
+    "we completely neglect structure formation and start our simulation with large galaxies ( @xmath17 ) already in place @xmath18a after the big bang . to account for the formation of galaxies we increase their number over the first @xmath13a of our simulation until the final number of 50 000 is reached ( see fig .",
+    "[ horst02simul ] for the effect of this procedure ) .",
+    "a. in panel b ) a constant galaxy formation rate and in panel c ) a gaussian formation rate were used ",
+    "the resulting co - moving space density of quasars is almost exactly the same . ]",
+    "the comparison between our model results and observational data compiled by @xcite is shown in fig.[horst02obs ] .",
+    "the quasar density evolution at lower redshifts and the position of the peak at @xmath19 match very well .",
+    "please note that the x - ray selected sample contains lower luminosity agn in addition to quasars . in this respect",
+    "it is natural that our results resemble the 2df curve ( from @xcite ) better than the data from @xcite . at higher redshifts the deviation between simulated and observed co - moving spatial density is increasing . in our model",
+    "we clearly miss the earliest quasars which arise from exceptionally fast evolving mergers . despite this shortcoming of our results",
+    "their overall agreement with observational data is remarkable ."
+  ],
+  "abstract_text": [
+    "<S> it is widely agreed upon that agn and quasars are driven by gas accretion onto a supermassive black hole . </S>",
+    "<S> the origin of the latter however still remains an open question . in this work we present the results of an extremely simple cosmological model combined with an evolutionary scenario in which both the formation of the black hole as well as the gas accretion onto it are triggered by major mergers of gas - rich galaxies . despite its very generous approximations </S>",
+    "<S> our model reproduces the quasar density evolution in remarkable agreement with observations . </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "for the general population of vvds galaxies we find @xmath5 roughly constant with a low value of @xmath7 @xmath8 mpc for @xmath9 $ ] , to @xmath10 @xmath8 mpc for @xmath11 $ ] .",
+    "this - seemingly surprising - lack of evolution may be understood when we take into account that we are dealing with a mixture of galaxies of different types and luminosities at different redshifts . at low z",
+    "we observe mainly a low - luminosity , weakly clustered population . at high z , where we theoretically expect to observe galaxies",
+    "to be less clustered than today , we probe only the most luminous , most massive and most clustered objects .",
+    "luminosity - dependence of galaxy clustering at @xmath12 is clearly different with what is observed in the nearby universe .",
+    "the clustering strength is rising around the characteristic schechter luminosity @xmath13 , with a sharper turn than observed at low redshifts .",
+    "additionally , the slope of the correlation function steepens from @xmath14 to @xmath15 .",
+    "this is caused by a significant change in the shape of @xmath4 , increasingly deviating from a power - law for the most luminous samples , with a strong upturn at small ( @xmath16 @xmath8 mpc ) scales ( see left panel of figure [ pol1:fig1 ] ) .",
+    "this trend , not observed locally , results also in a visible scale - dependence of the relative bias , @xmath17 ( shown in the right panel of figure [ pol1:fig1 ] ) and seems to imply a significant change in the way luminous galaxies trace dark - matter halos at @xmath18 with respect to the present - day universe .",
+    "as shown in the left panel of figure [ pol1:fig2 ] , the clustering of galaxies of early spectral types is stronger than that of late - type galaxies at all redshifts up to @xmath19 . at @xmath20",
+    ", early - type galaxies display a correlation length @xmath210.9  h@xmath22mpc , while late types have @xmath230.4  h@xmath22mpc .",
+    "the relative bias between early- and late - type galaxies remains approximately constant with @xmath24 from @xmath25 to @xmath26 .",
+    "similarly , as shown in the right panel of figure [ pol1:fig2 ] , red - sequence galaxies exhibit a larger clustering length than the blue ones with little dependence on redshift .",
+    "these results @xcite are consistent with a scenario where the assembly of the most luminous early - type galaxies is practically completed at @xmath12 , with however luminous star - forming objects being nearly as clustered as red galaxies for @xmath27 larger than @xmath28 .",
+    "all the above - mentioned measurements are pieces of a puzzle which still have to be fit into the theoretical scheme of gravitational instability scenario , where dark matter halos assemble under the effect of gravity and galaxies form and evolve inside them .",
+    "our observations represent an important constraint for models trying to reproduce galaxy clustering , especially at small , non - linear scales .",
+    "this research has been developed within the framework of the vvds consortium .",
+    "this work has been partially supported by the cnrs - insu and its programme national de cosmologie ( france ) , and by italian ministry ( miur ) grants cofin2000 ( mm02037133 ) and cofin2003 ( num.2003020150 ) .",
+    "the vlt - vimos observations have been carried out on guaranteed time ( gto ) allocated by the european southern observatory ( eso ) to the virmos consortium , under a contractual agreement between the centre national de la recherche scientifique of france , heading a consortium of french and italian institutes , and eso , to design , manufacture and test the vimos instrument .",
+    "le fvre , o. vettolani , g. , garilli , b. et al . , 2005 , a&a , 439 , 845 le fvre , guzzo , l. , meneux , b. et al . , 2005 ,",
+    "a&a , 439 , 877 meneux , b. , guzzo , l. , le fvre et al . , 2006 , a&a , 452 , 387 norberg , p. , baugh , c.m . ,",
+    "haekins , e. et al . , 2002 , , 332 , 827 pollo , a. , meneux , a. guzzo , l. , et al . , 2005 , a&a , 439 , 887 pollo , a. , guzzo , l. , le fvre , o. , et al . , 2006 ,",
+    "a&a , 451 , 409 white , s.d.m . & rees , m.j . , 1978 , mnras , 183 , 341 zehavi , i. , zheng , z. , weinberg , d.h .",
+    "et al . , 2005 ,",
+    "apj , 630 ,"
+  ],
+  "abstract_text": [
+    "<S> we discuss the evolution of clustering of galaxies in the universe from the present epoch back to @xmath0 , using the first - epoch data from the vimos - vlt deep survey ( vvds ) . </S>",
+    "<S> we present the evolution of the projected two - point correlation function of galaxies for the global galaxy population , as well as its dependence on galaxy intrinsic luminosities and spectral types . while we do not find strong variations of the correlation function parameters with redshift for the global galaxy population , the clustering of objects with different intrinsic luminosities evolved significantly during last 8 - 10 billion years . </S>",
+    "<S> our findings indicate that bright galaxies in the past traced higher density peaks than they do now and that the shape of the correlation function of most luminous galaxies is different from observed for their local counterparts , which is a supporting evidence of a non - trivial evolution of the galaxy vs. dark matter bias .    according to the current paradigm </S>",
+    "<S> , galaxies formed and evolved inside dark matter halos , which merged and grew under the effect of gravity @xcite . </S>",
+    "<S> understanding the galaxy clustering may be the key to understand the evolution of the universe itself . </S>",
+    "<S> it is therefore an important issue of contemporary cosmology to follow the evolution of galaxy clustering in the past and to understand the bias between the galaxy distribution and the underlying dark matter density field , and how it depends on galaxy types , luminosities and local environment .    </S>",
+    "<S> we explored these issuees using the unique set of data from the vimos - vlt deep survey , which is strictly selected in magnitude in the range @xmath1 , from a complete deep photometric survey , without any color selection @xcite . </S>",
+    "<S> the first - epoch vvds data contain in total 11564 galaxies with measured spectroscopic redshifts up to @xmath2 , making it an ideal tool to investigate the galaxy clustering in a broad range of time . </S>",
+    "<S> here we describe briefly our results on the evolution of the clustering properties of the general vvds galaxy population and the dependence of clustering on galaxy luminosities , types and colors . </S>",
+    "<S> we measure the galaxy 2-point spatial correlation function @xmath3 and project it along the line of sight to obtainthe function @xmath4 . </S>",
+    "<S> the best power - law fit to @xmath4 gives us the correlation length @xmath5 and the slope of a correlation function , @xmath6 ( details in * ? ? ? </S>",
+    "<S> * ) . </S>"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "article_text": [
+    "in schramm & kayser ( 1995 ) we introduced the complex * beltrami equation * as an appropriate framework for the analysis of arclets in cluster lensing .",
+    "corresponding real formalisms have been developed by kaiser and schneider & seitz ( this volume , compare also the references in schramm & kayser 1995 ) . here , we show how the solutions of the beltrami _ differential _ equation can be used to identify multiply imaged arclets .",
+    "the beltrami equation @xmath0 states that a small ellipse in the deflector ( @xmath1 ) plane given by @xmath2 is mapped locally by @xmath3 onto a circle in the source ( @xmath4 ) plane .",
+    "the axial ratio @xmath5 of the ellipse and the direction angle @xmath6 are given by @xmath7 and @xmath8 , respectively .",
+    "the * jacobian * is also easily found @xmath9 trivially , the mass density @xmath10 is uniquely determined if the jacobian and the beltrami parameter can be measured at the location of an arclet . since @xmath11 we can solve the beltrami equation and the jacobian for the mass density : @xmath12",
+    "normally we are not so lucky to have the jacobian but we assume to be able to measure the @xmath2-field with some accuracy",
+    ". however , the formulation as * differential equation * yields some insights . for the measurable beltrami parameter we find for ( one - plane ) lens mappings @xmath13 which results in two decoupled linear , homogeneous partial differential equations @xmath14 the * characteristics * of these equations are given by : @xmath15 where the solutions of these equations are the curves @xmath16=const .",
+    "the lens equation is therefore uniquely determined if the values are known at curves ( not identical to characteristics ) . even without this knowledge characteristics",
+    "are of interest : each two ( possibly ) multiply-*intersecting * characteristics of @xmath17 and @xmath18 map onto a cross - hair in the source plane so that * multiply imaged arclets * can be identified ( see example below ) ."
+  ],
+  "abstract_text": [
+    "<S> arclets in clusters of galaxies can be used to determine the lens mapping and not only to constrain the mass density of the cluster . </S>",
+    "<S> multiply imaged arclets are therefore easily identified without further modelling .    </S>",
+    "<S> # 1#2#1>#1 </S>"
+  ]
+}

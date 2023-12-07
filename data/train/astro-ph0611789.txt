@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "in recent times evidence has accumulated indicating that the galactic halo formed at least in part by accretion of material from smaller extragalactic systems .",
+    "this view is in accordance with the hierarchical theory of structure formation in the universe , in which the first objects to form are small galaxies , which then merge into the larger structures observed today .",
+    "a consequence of this theory is that substructures should still be present within the old stars of the galactic halo and disk .",
+    "thus , the merger history of our galaxy should show up in the distribution of old stars , as coherent tidal streams , tails , moving clusters , etc .",
+    "( majewski 2004 , 2005 and references therein ) .",
+    "but quite apart from the merger history of our galaxy , the stellar halo we now observe is also the result of the dynamical disruption of many globular clusters .",
+    "such disrupted clusters should also leave their signatures in the motions of the halo stars and should show up as dynamically coherent groupings in phase space .",
+    "poveda  ( 1992 ) searched for such groupings among the nearby halo stars of the first schuster  catalogues ( schuster and nissen 1988 , 1989a , 1989b , henceforth sn1 ) and they were able to identify seven moving groups , characterized by the similarity of their integrals of motion ( the energy @xmath0 and the @xmath1-component of the angular momentum @xmath2 ) as well as by their similar metallicities [ fe / h ] .",
+    "in particular , the kapteyn and the groombridge 1830 moving groups were re - discovered .    on the other hand",
+    ", there exists a small number of old and extremely wide binaries ( @xmath3 au ) that are very difficult to understand dynamically ( allen  2000b , carney  1997 ) . in table 1",
+    "we provide a few examples .",
+    "the first six rows list parameters of the galactic orbits of these binaries .",
+    "the metallicity , [ fe / h ] , is given in row 7 .",
+    "the last two rows list the observed ( projected ) separations of the binaries and the expected major semiaxes , calculated according to the theoretical formula given by couteau ( 1960 ) .",
+    "the values for the major semiaxes are quite large , and since these binaries are old , they should have been already dissociated .",
+    "one possibility is that they have survived because they spend only a small fraction of their lives in the galactic disk , and they cross it at high speeds ( allen  2000a ) .",
+    "but perhaps there is another way in which they can survive to the present day as binaries .",
+    "they may , in fact , have been part of bound moving halo clusters , now dissolving or already dissolved .",
+    ".properties of some extremely wide , old binaries [ cols=\"<,^,^,^,^,^ \" , ]",
+    "old wide binaries may have survived either because they spend little time in the galactic disk , crossing it at high speeds , or else because they were once members of bound clusters or still belong to moving groups . a search for `` phase space clumps '' among the stars of schuster  ( 2006 ) yielded about a dozen groups of similar metallicities and galactic orbits .",
+    "previously known wide binaries turned out to be present in six of the identified moving groups .",
+    "we may turn to detailed chemical composition analyses to distinguish whether a grouping had a galactic origin or else if it is an accreted structure .",
+    "chemical peculiarities , like low [ o / fe ] or especially , low [ @xmath4/fe ] are characteristic of enrichment by type ia supernovae , and thus of a chemical history different from that of our galaxy . along with high eccentricities of the galactic orbits , or retrograde motions ,",
+    "these chemical peculiarities are thought to be signatures of accreted structures ( dwarf galaxies ) .",
+    "at least 5 of our old wide binaries have such peculiarities , and 3 are members of moving groups , which thus may be the remains of dwarf galaxies accreted onto the galactic halo ."
+  ],
+  "abstract_text": [
+    "<S> wide or fragile pairs are sensitive probes of the galactic potential , and they have been used to provide information about the galactic tidal field , the density of gmc and the masses of dark matter perturbers present in both the disk and the halo . </S>",
+    "<S> halo wide binaries and moving clusters , since they are likely to be the remains of past mergers or of dissolved clusters , can provide information on the dynamical and merger history of our galaxy . </S>",
+    "<S> such remnants should continue to show similar motions over times of the order of their ages . </S>",
+    "<S> we have looked for phase space groupings among the low - metallicity stars of schuster ( 2006 ) and have identified a number of candidate moving clusters . in several of the moving clusters we found </S>",
+    "<S> a wide cpm binary already identified in our catalogue of wide binaries among high - velocity and metal - poor stars ( allen  2000a ) . </S>",
+    "<S> spectroscopic follow - up studies of these stars would confirm the physical reality of the groups , as well as allow us to distinguish whether their progenitors are dissolved clusters or accreted extragalactic systems . </S>"
+  ]
+}

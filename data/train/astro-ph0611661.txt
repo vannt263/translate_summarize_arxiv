@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "a deep , wide - field survey for transiting giant planets has been performed in the lupus galactic plane . using the anu 1 m telescope , a 52@xmath452@xmath5 field",
+    "was observed for 53 nights in 2005 and 2006 .",
+    "a total of 2200 images were obtained with a wide passband v+r filter . via an application of differential photometry",
+    ", light curves have been constructed for a total of 120,000 stars ( 14.0@xmath6v@xmath621.0 ) , of which @xmath126,000 ( 14.0@xmath6v@xmath618.0 ) have @xmath62.5@xmath7 photometry suitable for the transit search .",
+    "all candidates are subjected to a vigorous screening process to identify the very best candidates for further follow - up .",
+    "the aims of the project are two - fold , firstly to provide a control field for our previous globular cluster transit surveys , both of which produced null results @xcite , and secondly to perform a feasibility study for a future wide - field transit survey with the 5.7 deg@xmath8 anu skymapper telescope @xcite .    , width=294 ]",
+    "analysis of the 2005 dataset identified three transiting systems .",
+    "the phase - wrapped photometry for the first two can be seen in fig.[tr12 ] . both have periods shorter than 2 days , and multiple transits in our data .",
+    "low resolution spectra have been taken with the anu 2.3 m telescope and both are consistent with g dwarf stars . the light curve of lupus - tr-1 has a 8 mmag transit with a shape typical of a moderately grazing configuration .",
+    "however , it displays a longer than expected duration and a possible secondary eclipse of @xmath11mmag depth .",
+    "lupus - tr-1 was observed in service mode with the 4 m aat and ucles to derive radial velocities .",
+    "the results show no discernable velocity variations to our detection limit ( 230 m/s ) , ruling out a physical binary star .",
+    "this , coupled with the possible secondary eclipse and unusually long transit duration for a g dwarf star ; indicate that this may be a blended system .",
+    "lupus - tr-2 displays a short period and moderately v - shaped transits , possibly indicating a grazing configuration .",
+    "the ucles radial velocities for this system are currently being analyzed .    ,",
+    "the third candidate , lupus - tr-3 , ( p=3.914d , v@xmath116.5 ) displays a well - sampled flat - bottomed transit , with four fully observed transits and two egresses in our combined 2005 and 2006 data .",
+    "the phase - wrapped photometry can be seen in fig.[tr3 ] .",
+    "the best fitting transit model ( over plotted ) was produced via the routines of @xcite and assumes hd209458 non - linear limb darkening coefficients .",
+    "this model has a central depth of 16 mmag and a total transit duration of 2.2 hours . from an application of the @xcite exoplanet diagnostic ( which determines the relative likelihood of transit candidates ) lupus - tr-3 has parameters wholly consistent with a hot jupiter planet with @xmath9 .    from the best - fitting model ,",
+    "the light curve is consistent with a 1.2r@xmath3 companion orbiting a 0.98r@xmath10 star , if the companion crosses the average chord length across the stellar disk .",
+    "if the transit crosses centrally , the solution indicates a 1.0r@xmath3 companion to a star of 0.78r@xmath10 .",
+    "we take these values as the upper and lower limits to the companion radius .",
+    "a transit of more grazing configuration ( hence a larger primary star ) would produce a more v - shaped transit .",
+    "no secondary eclipse or out - of - transit ellipsoidal variations are seen , indicating a companion of negligible luminosity compared to the primary star if the system is not blended .",
+    "the location of the star on the color magnitude diagram of the field as well the stellar proper motion from online usno and nomad1 catalogs are all consistent with a slightly reddened solar - like dwarf star , strengthening the results of the photometric fitting .",
+    "this system thus appears to harbor a transiting object with radius and period consistent with those of nearby known hot jupiters .",
+    "multi - band photometry , and low and high resolution spectroscopy are planned to determine conclusively the type of the star and the nature of this promising system .",
+    "bayliss , d.  d.  r. , & sackett , p.  d.  2007 , these proceedings mandel , k. , & agol , e.  2002 , , 580 , l171 tingley , b. , & sackett , p.  d.  2005 , , 627 , 1011 weldrake , d.  t.  f. , sackett , p.  d. , bridges , t.  j.  2006 , apj submitted weldrake , d. , sackett , p. , bridges , t. , & freeman , k.  2005 , , 620 , 1043"
+  ],
+  "abstract_text": [
+    "<S> a @xmath0 field in the lupus galactic plane was observed with the anu 1 m telescope for 53 nights during 2005 and 2006 in a search for transiting hot jupiter planets . </S>",
+    "<S> a total of 2200 images were obtained . </S>",
+    "<S> we have sampled 120,000 stars via differential photometry , of which @xmath126,000 have sufficient photometric accuracy ( @xmath2 ) with which to perform a search for transiting planets . </S>",
+    "<S> ongoing analysis has led to the identification of three candidates . </S>",
+    "<S> we present an overview of the project , including the results of radial velocity analysis performed on the first candidate ( lupus - tr-1 ) with the 4 m aat telescope . </S>",
+    "<S> the third candidate , lupus - tr-3 ( p=3.914d , v@xmath116.5 ) , is a particularly strong case for a giant planet of 1.0 - 1.2r@xmath3 orbiting a solar - like primary star with a near central transit . </S>",
+    "<S> further observations are planned to determine its nature . </S>"
+  ]
+}

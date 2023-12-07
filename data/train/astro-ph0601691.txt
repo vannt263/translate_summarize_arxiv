@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "here we present here several new methods which allow us to involve the data from existing huge stellar catalogues into search and analysis of star clusters .",
+    "we also show some preliminary but very promising results of these methods .    currently there are several compiled catalogues of star clusters , but they all have several significant disadvantages :    * tens of percents of their clusters do not have reasonable cmd measurements , so they are only unverified groups of stars * some of them do not even have precise celestial coordinates measurements . *",
+    "even some rich clusters do not have important physical parameters measured ( age , distance , color excess ) * in general , all existing catalogues of open clusters are very heterogeneous and are just the compilations of data from different sources .",
+    "nobody has ever performed fully automatic homogeneous search of clusters in full - sky regime .",
+    "now uniform data from huge stellar catalogues allow to apply homogeneous approach to the search of new and investigation of all known open clusters .",
+    "our method consists of two main procedures :    * search for open clusters based on stellar density analysis * verification if given peak of density is a real cluster but not an occasional group of field stars * estimation of main parameters of clusters    first procedure is not as trivial as simple analysis of surface density of objects from catalogue because of strongly variable mean ( `` background '' ) stellar density from place to place .",
+    "so one can not apply a constant threshold filter to get a list of density peaks that would be the open cluster candidates .",
+    "it is necessary to use a special convolution function to distinct peaks from such a complex background .",
+    "but still we can not be sure that density peaks detected are not occasional groups of stars .",
+    "we need to prove that stars in these groups are physically related with , so that they should lie on the same isochrone .",
+    "our algorithm is based on the fact that real cluster members lie near the isochrone and show the density peak , whereas field stars must demonstrate flat distribution ( fig .",
+    "[ kse18_density ] ) .",
+    "it allows us to find the position of the isochrone of the cluster even when cmd is `` polluted '' by field stars .",
+    "such a fitting by isochrone yields cluster s distance , age and color excess ( fig .",
+    "[ kse18_isochrone ] ) .",
+    "these two algorithms are developed using c language and tested on several fields from 2mass catalogue which is the primary catalogue of our interest . from the very preliminary analysis of the 150 sq .",
+    "degrees in the galaxy anticenter region we have found several dozens of new clusters , and determined parameters for 10 of them . in addition we have determined parameters for several previously known open clusters for which parameters have not been determined before .    also , a set of new clusters was found when we looked in the region of perseus arm ( fig .",
+    "[ perseus ] ) .",
+    "it should be noticed , that the clusters which we have found are not infrared clusters , most of them are clearly visible in the optical wavelength range .",
+    "so finally , we can find clusters , confirm their reality , and reliably determine their main parameters ( age , distance and color excess ) .",
+    "our main goal is to process all - sky selection from 2mass stellar catalogue and make up first homogeneous catalogue of open clusters which will include newly discovered open clusters and already known ones with their parameters determined by our uniform approach .",
+    "also it would be promising to include catalogues from other surveys , such as denis and sdss , into open clusters search ."
+  ],
+  "abstract_text": [
+    "<S> current catalogues of open clusters are rather heterogeneous and incomplete list of clusters than true catalogues . before there has been no attempts of automatic search for open clusters in huge photometric catalogues using homogeneous all - sky approach .    </S>",
+    "<S> we have developed such a method based on extraction from catalogue and successive analysis of stellar densities using the colour - magnitude diagrams . </S>",
+    "<S> our algorithm finds density peaks and then verifies the significance of these peaks exploiting the fact that in real clusters only stars lying on the isochrone must show density peaks , in contrast with stars lying far from the isochrone on the cmd . </S>",
+    "<S> in addition such procedure allows to determine the physical parameters : age , distance and color excess of open clusters .    preliminary study of 150 sq . </S>",
+    "<S> degrees in galaxy anticenter region yielded several dozens of new clusters . </S>",
+    "<S> the software developed will allow to build first homogeneous all - sky open cluster catalogue ( it will include essentially refined data for known clusters as well ) based on 2mass data . </S>",
+    "<S> it will be possible to apply automated pipeline on any multicolor catalogue , where the vo - compliant way of access ( e.g. adql + skynode ) is provided ( sdss , etc . ) . </S>"
+  ]
+}

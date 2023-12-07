@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "6 odrzywolek a , misiaszek m , kutschera m 2004 _ astropart . phys .",
+    "_ * 21 * 303 - 313 weaver t a , zimmerman g b , woosley s e , 1978 , _ apj _ * 225 * 1021 woosley s e , heger a , weaver t a 2002 _ rev .",
+    "phys . _ * 74 * 1015 beacom j f , vagins m r 2004 _ prl _ * 93 * 171101"
+  ],
+  "abstract_text": [
+    "<S> we would like to discuss prospects for neutrino observations of the core - collapse supernova progenitor during neutrino - cooled stage . </S>",
+    "<S> we will present new theoretical results on thermal neutrino and antineutrino spectra produced deep inside the pre - supernova core . </S>",
+    "<S> three competing processes : pair- , photo and plasma - neutrino production , are taken into account . the results will be used to estimate signal in existing and future neutrino detectors . </S>",
+    "<S> chance for supernova prediction is estimated , with possible aid to core - collapse neutrino and gravitational wave detectors in the form of early warning .    in our short contribution we would like to answer some comments and questions asked during poster session @xcite . </S>",
+    "<S> two days of the silicon burning with @xmath0 erg / s quoted in @xcite was randomly chosen typical example model @xcite . </S>",
+    "<S> duration of the si burning depends on evolutionary track of the massive star , particularly mass of the si core at the onset of the ignition . </S>",
+    "<S> total average neutrino luminosity @xmath1 depends on ( 1 ) the burning time @xmath2 and ( 2 ) amount of fuel ( si core mass @xmath3 ): </S>",
+    "<S> @xmath4 @xmath5 is the nuclear binding energy difference between fuel ( `` si '' ) and ash ( `` fe '' ) . from evolutionary calculations of @xcite we get core mass in the range 1.2  1.65 m@xmath6 and @xmath2 from 18 days to 17 hours , respectively . </S>",
+    "<S> therefore @xmath1 vary from @xmath7 to @xmath8 erg / s .    </S>",
+    "<S> electron antineutrinos from pair - annihilation are of particular interest @xcite . </S>",
+    "<S> one can quickly estimate fraction of given flavor from the following : ( 1 ) reaction rate is proportional to squared matrix element @xmath9 , where mass term was dropped ( 2 ) number of emitted neutrinos and antineutrinos is equal . </S>",
+    "<S> therefore , rate of the reaction rates is @xmath10 . </S>",
+    "<S> total neutrino flux is : @xmath11 . </S>",
+    "<S> finally @xmath12 , i.e. about one third is emitted as electron antineutrinos . </S>",
+    "<S> this statement may be altered by the neutrino oscillations .    </S>",
+    "<S> supported by grant of polish ministry of science and higher education no . 1  p03d  005  28 . </S>"
+  ]
+}

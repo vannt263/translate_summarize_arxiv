@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "batse spectroscopy detector ( sd ) observations of the cyclotron line in the spectrum of the accretion - powered pulsar hercules x-1 provides an opportunity to assess the capability of the sds to detect such lines in the spectra of grbs .",
+    "observations of her x-1 have been performed by many groups @xcite . in particular , analysis of data from the _ heao 1 _",
+    "a4 instrument@xcite , which is a nai detector ( like the sds ) and has an effective area and resolution that are similar to a single sd , yields a line center energy @xmath5 = 36 kev and equivalent width @xmath6 = 8 kev . however , preliminary analysis@xcite of an initial sd pulsar mode observation of her x-1 indicated a line at @xmath0 44 kev , rather than at the expected energy of 36 kev .",
+    "we confirm this result by applying rigorous statistical methods developed for analysis of grb spectra@xcite to the analysis of four batse sd observations of her x-1 .",
+    "a companion paper@xcite describes studies that have been performed which confirm that the sds are functioning as expected .",
+    ".analyzed batse sd observations of her x-1 [ cols=\"^,^,^,^ \" , ]     [ tabj ]    in fits to the peak - op difference spectra , we detect a line at @xmath0 44 kev with modest significance in the data from the first observation ( table  [ tabsing ] ) , but not in the data from any other observation .",
+    "joint fits indicate that this line becomes more significant as we add the data from more observations ( table  [ tabj ] ) .",
+    "however , the addition of data from the third observation reduces the significance of the line .",
+    "this behavior may reflect the fact that each of the four observations covers a slightly different phase of the her x-1 35 d cycle .",
+    "if we exclude the first observation from the joint fits , we find that we can not detect the line .",
+    "we estimate the statistical error for each model parameter using monte carlo simulations of the best - fit models .",
+    "the typical 1@xmath7 uncertainties for both @xmath5 and @xmath8 are @xmath0 1.0 - 1.5 kev .",
+    "joint fits to four sd observations of her x-1 show strong evidence for a cyclotron scattering line at @xmath0 44 kev , rather than at the expected energy of 36 kev .",
+    "a cyclotron line energy shift is unprecedented in observations of accretion - powered pulsars .",
+    "a companion paper @xcite describes studies that have been conducted which confirm that the sds are functioning as expected .",
+    "j. trmper , w. pietsch , c. reppin , w. voges , r. staubert , and e. kendizorra , ap . j. * 219 * , l105 ( 1978 ) .",
+    "d. e. gruber , et al .",
+    ", ap . j. * 240 * , l127 ( 1982 ) .",
+    "w. voges , w. pietsch , c. reppin , j. trmper , e. kendizorra , and r. staubert , ap . j. * 263 * , 803 ( 1982 ) . y. soong , et al . ,",
+    "j. * 348 * , 641 ( 1990 ) .",
+    "t. mihara , k. makashima , t. ohashi , t. sakao , and m. tashiro , nature * 335 * , 234 ( 1990 ) .",
+    "d. m. palmer , et al .",
+    ", gamma - ray bursts , eds . g. j. fishman , j. j. brainerd , and k. hurley ( new york : aip , 1994 ) , p. 247 .",
+    "p. e. freeman , et al .",
+    "j. , _ submitted_. w. s. paciesas , et al . , these proceedings .",
+    "d. band , et al .",
+    "* 2 * , 307 ( 1992 ) .",
+    "w. t. eadie , d. drijard , f. e. james , m. roos , and b. sadoulet , statistical methods in experimental physics ( amsterdam : north holland , 1971 ) ."
+  ],
+  "abstract_text": [
+    "<S> the cyclotron line in the spectrum of the accretion - powered pulsar her x-1 offers an opportunity to assess the ability of the batse spectroscopy detectors ( sds ) to detect lines like those seen in some grbs . </S>",
+    "<S> preliminary analysis of an initial sd pulsar mode observation of her x-1 indicated a cyclotron line at an energy of @xmath0 44 kev , rather than at the expected energy of @xmath0 36 kev . </S>",
+    "<S> our analysis of four sd pulsar mode observations of her x-1 made during high - states of its 35 day cycle confirms this result . </S>",
+    "<S> we consider a number of phenomenological models for the continuum spectrum and the cyclotron line . </S>",
+    "<S> this ensures that we use the simplest models that adequately describe the data , and that our results are robust . </S>",
+    "<S> we find modest evidence ( significance @xmath1-@xmath2 ) for a line at @xmath0 44 kev in the data of the first observation . </S>",
+    "<S> joint fits to the four observations provide stronger evidence ( @xmath3-@xmath4 ) for the line . </S>",
+    "<S> such a shift in the cyclotron line energy of an accretion - powered pulsar is unprecedented . </S>"
+  ]
+}

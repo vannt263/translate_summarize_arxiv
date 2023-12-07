@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "we are at the end of the paper era . for the past two centuries libraries",
+    "have been primarily devoted to building and maintaining vast collections of paper , documenting the myriad intellectual activities of mankind .",
+    "these activities are nearing the end of their useful lives .",
+    "many existing libraries will not be able to meet the challenges , and they will close .",
+    "others will provide the intellectual leadership necessary to support the new information seeking and storing paradigm , and will thrive .",
+    "technical libraries , unlike more general purpose libraries , are not supposed to be fun .",
+    "typical users are professionals who are engaged in a work function . in astronomy",
+    "the major use has been to read journal articles , with catalogs , atlases , conference proceedings , and monographs secondary uses .    today",
+    "nearly all these sources are original electronic ; and nearly all of the historical journal material , and much of the older rest has already been transformed into electronic form .",
+    "the convenience of finding and using these materials at one s desk is so great that the physical use of the physical technical library has virtually collapsed .",
+    "many small departmental libraries have already closed .",
+    "while many libraries maintain responsibility for what to buy , this is also rapidly ending .",
+    "economic trends in the publishing industry are driving libraries to band together to form large buying consortia to negotiate with large publishers ( or consortia of small publishers ) for comprehensive packages of journals and other publications .",
+    "this effectively removes the responsibility for collection development from individual libraries .",
+    "the adoption of open access would also have this effect .",
+    "finally new search technologies , such as provided by simbad , ned , ads , datascope , google , amazon , and others now provide a very sophisticated reference desk function at the desktop .",
+    "it is clear that major changes will be required for libraries to meet these challenges .",
+    "the future is now !    astronomy is a leader in developing the new technical libraries .",
+    "astronomers have built several new , large libraries in the last 20 years , essentially defining the new paradigm .",
+    "obviously ads , cds , and ned are all basically libraries , but heasarc , mast , the eso archive , the chandra archive , etc are also , fundamentally , digital libraries . the same technological changes which are making paper obsolete are also now blurring the distinction between a library and an archive . library based information systems , such as d - space and fedora make this trend even more clear .    the new library structure in astronomy is based on the existence of deep interlinking between the various groups .",
+    "this is enabled by rich sets of meta - data .",
+    "an example of this interlinking is the connection between ads and the mast based on a research article indexed in ads having used data from the hst and stored in the mast . the descriptive meta - data which allows this link was first developed by sarah stevens - rayburn .",
+    "many archives now create meta - data of this sort ; ads provides thousands of these links .    in the future",
+    "the creation and curation of meta - data will be of even greater importance .",
+    "already international efforts , via the virtual observatory efforts in many countries , and the international virtual observatory alliance , are creating new , complex meta - data standards for astronomical data of various types . there will need to be organizations to implement and maintain the large meta - data sets which will come out of the vo work",
+    ". libraries are those organizations .",
+    "the word library comes from a word for a kind of early paper . as we move inexorably away from paper as the medium for the transmission of ideas the nature of libraries _ per force _ will change .",
+    "new talents will be required to manage the new situations .",
+    "librarians will no longer need to bind paper volumes , but they will need to write parsers",
+    ".    the library of the future will be even more important to the practice of research than is true currently .",
+    "far from being quaint backwaters of aging paper our libraries will be those organizations which index , organize , and make sense of our massive , highly heterogeneous digital data flows ."
+  ],
+  "abstract_text": [
+    "<S> technical libraries are currently experiencing very rapid change . in the near future </S>",
+    "<S> their mission will change , their physical nature will change , and the skills of their employees will change . while some will not be able to make these changes , and will fail , others will lead us into a new era . </S>"
+  ]
+}

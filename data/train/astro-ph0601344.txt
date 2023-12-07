@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "there is a wide consensus that spiral galaxies must be embedded within dark matter halos , as there have been no other good explanations of the observed flat rotation curves of spiral galaxies , unless one resorts to modifying physics ( e.g. mond , see mcgaugh in these proceedings ) .",
+    "moreover , dissipationless cosmological @xmath0-body simulations lead to structures , whose halos represent most spiral galaxies ( hayashi et el . 2005 ; stoehr 2005 ) .",
+    "if elliptical galaxies originate from major mergers of spiral galaxies ( toomre 1977 ; mamon 1992 ; baugh , cole & frenk 1995 ; springel et al .",
+    "2001a ) , then they too should possess dark matter halos .",
+    "using planetary nebulae ( pne ) as tracers of the dark matter at large radii , romanowsky et al .",
+    "( 2003 ) found low velocity dispersions for their outermost pne , which after some simple jeans modeling and more sophisticated orbit modeling led them to conclude to a dearth of dark matter in ordinary elliptical galaxies .",
+    "this result is not expected in the standard model of structure and galaxy formation .",
+    "this has led us ( dekel et al . 2005 ) to analyze the final outputs of @xmath0-body simulations of spiral galaxies merging into ellipticals .",
+    "the merger simulations we have analyzed were run by cox ( 2004 , see also cox et al .",
+    "2004 ) . in these simulations , the initial spiral galaxies had an exponential spherical bulge and a thin exponential disk , as well as a thin gaseous exponential disk and a spherical nfw ( navarro et al .",
+    "1996 ) dark matter halo .",
+    "the particles were advanced with the gadget tree - sph code ( springel et al .",
+    "2001b ) until 23 gyr after the final merger .",
+    "the galaxies were thrown at one another on a variety of near parabolic orbits ( see fig .  [ snapshots ] ) .",
+    "the left hand plot of figure  [ 2dplots ] shows the surface density of the different components of the simulated galaxies , and the surface brightness profiles of galaxies ngc  3379 and ngc  821 .",
+    "the match is excellent , except perhaps in the very inner regions , where the simulations predict too much mass .",
+    "the @xmath1 and @xmath2 axes are normalized to the values at the half - projected light ( mass ) radius , i.e. effective radius , @xmath3 . , title=\"fig:\",width=207 ]",
+    "the @xmath1 and @xmath2 axes are normalized to the values at the half - projected light ( mass ) radius , i.e. effective radius , @xmath3 . , title=\"fig:\",width=253 ]",
+    "more important , the right - hand plot of figure  [ 2dplots ] shows that the simulated and observed velocity dispersion profiles are very similar . in other words ,",
+    "_ our simulations , which include normal amounts of dark matter , reproduce very well the observed velocity dispersion profiles_. hence , we conclude that _ the low outer velocity dispersions do not imply a lack of dark matter in elliptical galaxies_.",
+    "what causes this discrepancy between the _ kinematic _ modeling of romanowsky et al . , which concludes to no or little dark matter in ellipticals , and the _ dynamical _ modeling , which concludes to a normal content of dark matter in ellipticals ?        figure  [ beta ] shows that for @xmath4 , while the dark matter particles travel along very slightly radial orbits , as found in cosmological simulations ( see mamon & okas 2005 , and references therein ) , _ the outer stellar particles travel along very elongated orbits_.    why do the stars at a few @xmath3 travel on much more elongated orbits than do the dark matter particles at the same distances from the elliptical galaxy center ?",
+    "since the stars in the initial spiral galaxies lie at small radii ( while the dark matter particles lie in a wide range of radii ) , they will usually end up at small radii in the merging pair , since the most bound particles usually remain the most bound ( barnes 1992 ) .",
+    "so the outermost stars must have traveled along elongated orbits to reach their large present radial distances : i.e. , not only they have low binding energies , but they must have low angular momentum given their binding energy .",
+    "a more detailed analysis indicates that these stars are driven outwards on nearly radial orbits in the tidal tails ( see fig .",
+    "[ snapshots ] ) that are formed after the first passage of the two spirals .    in a companion contribution ( mamon , in these proceedings )",
+    ", we analyze in further detail what quantity of dark matter can be derived from kinematical modeling and what we can learn from the detailed structure and internal kinematics of the simulated merger remnants .",
+    "barnes , j. e. 1992 , apj 393 , 484 baugh , c. m. , cole , s. & frenk , c. s. 1996 , mnras 283 , 1361 cox , t. j. 2004 , phd thesis , univ . of california at santa cruz cox ,",
+    "t. j. , primack , j. , jonsson , p. & somerville , r. s. 2004 , apjl 607 , l87 dekel , a. , stoehr , f. , mamon , g. a. , cox , t. j. et al .",
+    "2005 , nat 437 , 707 hayashi , e. , navarro , j. f. , jenkins , a. et al .",
+    "2005 , arxiv : astro - ph/0408132 mamon , g. a. 1992 , apjl 401 , l3 mamon , g. a. & okas , e. l. 2005 , mnras 363 , 705 navarro , j. f. , frenk , c. s. & white , s. d. m. 1996 , apj 464 , 563 romanowsky , a. , douglas , n. , arnaboldi , m. et al . 2003 , sci 301 , 1696 springel , v. , white , s. d. m. , tormen , g. & kauffmann , g. 2001a , mnras 328 , 726 springel , v. , yoshida , n. & white , s. d. m. 2001b , newa 6 , 79 stoehr , f. 2006 , mnras , 365 , 147 toomre , a. 1977 , in evolution of galaxies and stellar populations , ed . b. m. tinsley & r. b. larson ( new haven : yale univ .",
+    "press ) , p. 401"
+  ],
+  "abstract_text": [
+    "<S> the kinematical properties of elliptical galaxies formed during the mergers of equal mass , stars+gas+dark matter spiral galaxies are compared to the observed low velocity dispersions found for planetary nebulae on the outskirts of ellipticals , which have been interpreted as pointing to a lack of dark matter in ellipticals ( which poses a problem for the standard model of galaxy formation ) . </S>",
+    "<S> we find that the velocity dispersion profiles of the stars in the simulated ellipticals match well the observed ones . </S>",
+    "<S> the low outer stellar velocity dispersions are mainly caused by the radial orbits of the outermost stars , which , for a given binding energy must have low angular momentum to reach their large radial distances , usually driven out along tidal tails . </S>"
+  ]
+}
