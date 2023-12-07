@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "typical stellar systems , globular clusters and elliptical galaxies , possess dense cores which have to influence the dynamical properties of the systems . at the same time , the gravitating n - body systems as non - linear many dimensional systems , possess chaotic properties @xcite . in the present paper",
+    "we study the role of the core in the chaotic properties of the spherical collisionless gravitating systems .",
+    "namely , the question is , whether the core is increasing or decreasing the relative chaos in the system . for comparison ,",
+    "it is known , that a massive center is increasing the chaotic properties of the system @xcite with respect to a homogeneous spherical system .",
+    "we use the ricci curvature criterion @xcite of relative instability and perform numerical simulations for static n - body configurations with given total energy , as a parameter characterizing the system .",
+    "it is shown , that in contrast to the role of the central massive body , the core can increase , as well as , decrease the chaos in the system , depending on the ratio of the core and system s radii .",
+    "the numerical experiments enable to obtain the corresponding critical value of the core .",
+    "the ricci curvature criterion is defined as follows . among two systems ,",
+    "the system with smaller negative values of the ricci curvature in a certain interval @xmath0 $ ] of the affine parameter @xcite @xmath1 is unstable with higher probability . the curvature @xmath2 is defined by the ricci tensor @xmath3 and then is averaged over the directions of the deviation of the close geodesics ; @xmath4 is the velocity on the geodesics , for details see @xcite .    for n - body systems when the direct impacts of two particles are neglected , which is a fair approximation for real stellar systems",
+    ", @xmath5 has the form @xcite @xmath6 where @xmath7 with the derivatives @xmath8 when @xmath9 @xmath10,\\ ] ] when @xmath11 @xmath12}.\\ ] ] thus , eq.(1 ) defines a measure of relative instability between several systems .",
+    "the created software was generating spherical 3d systems of point particles with random distribution of velocities and coordinates .",
+    "equal mass particle systems were considered only , typically with negative total energy i.e. @xmath13 or @xmath14 . for given @xmath15 , @xmath16 and @xmath17 ,",
+    "the kinetic energy is normalized to    @xmath18    a sample of @xmath19 stars is then selected , to generate a subsystem ( core ) , by means of multiplication of the coordinates of its particles by a factor @xmath16 ; cf .",
+    "e.g. with the estimations of ricci curvature in @xcite . to enable the comparison of the sequence of the modified systems with different sizes and masses of the core , the total energy is initially normalized by means of the variation of the total kinetic energy .",
+    "this is reached by multiplication of the velocities of all stars by a factor @xmath20 where @xmath21 and @xmath22 are the kinetic energy values before and after the normalization , respectively .",
+    "this procedure was repeated for different values of n , starting from @xmath23 up to @xmath24 .",
+    "the studied systems revealed similar behavior : they are more unstable at @xmath16 close to both @xmath25 and @xmath26 , and for @xmath27 , but not for @xmath28 .",
+    "the typical behavior of @xmath29 vs @xmath16 has an extremum , while the dependence on @xmath17 has a plateau for @xmath28 , as shown in figure 1 .",
+    "the ricci curvature is a local , in time , measure of relative instability , i.e. concerns two or more systems immediately after an initial time moment .",
+    "the numerical experiments enabled us to study the systems with core radius parameter @xmath16 from @xmath30 to @xmath26 , and mass parameter @xmath17 from @xmath25 to @xmath26 , and total energy parameter @xmath15 from @xmath31 to @xmath32 .",
+    "note , the first two parameters are not mutually independent .",
+    "the typical behavior of the ricci curvature shows that the core is able both , to increase and decrease the instability of the system , however , its representation via the core parameters @xmath16 and @xmath17 is not equivalent .",
+    "namely , when the ricci curvature is decreasing both at smaller and larger core radii , with maximum value reached at certain critical @xmath33 , the dependence on @xmath17 is increasing monotonically upon the increase of the latter up to 1",
+    ".        99 a&a , * 160 * , 203 , 1986 ; ( eds . ) , springer , berlin , 1994 . , vol.13 , p.366 , 2004 . , cambridge sci .",
+    "publ . , 2005 .",
+    "ap&ss , * 135 * , 307 , 1987 ; sov .",
+    "physics - doklady , * 301 * , 323 , 1988 . new astronomy , * 1 * , 149 , 1996 a&a , * 326 * , 113 , 1997 . , springer , berlin , 1989 ."
+  ],
+  "abstract_text": [
+    "<S> we study the dynamical instability in spherical gravitating systems with core using the ricci curvature criterion . by means of numerical estimations of the ricci curvature for static n - body systems </S>",
+    "<S> , it is shown that the core can both , increase and decrease the degree of instability in the system . </S>",
+    "<S> this behavior is determined by the radius of the core and differs from the role of a central mass . </S>"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "the large hadron collider ( lhc ) will enable production of the standard model higgs boson in the entire range of its allowed mass ; from the lower experimental exclusion limit of 114.4  @xcite to the theoretical limit of @xmath01 .",
+    "an early discovery of the higgs boson is the primary objective of the two general purpose detector experiment , atlas and cms .",
+    "the search requires a good understanding of both the data and the physics of the background processes , and extensive studies based on mc simulation are being carried out by both experiments to prepare for the analysis of the lhc data . over the past years",
+    ", the analyses have constantly been improved .",
+    "new event generators and more precise description of the detector in the simulation are employed , and more sophisticated analysis techniques and tools are being developed .    in this paper , an overview of the activities within the atlas and cms collaborations towards the discovery of the higgs boson at the lhc is presented .",
+    "this includes basic ideas and the particular challenges , as well as some of the new developments and recently updated results for the main channels studied .",
+    "many of the analyses are targeted towards the first year to 3 years of physics runs where a low luminosity ( l = ) environment is assumed . both experiments are currently undertaking a major update of the analysis results , many of which are unavailable at present , however , new results are expected to be made public in the near future before the arrival of the lhc physics data .",
+    "the prospects for the higgs searches in the early years of lhc operation including all the channels introduced here are summarised at the end .",
+    "the most dominant mechanism for the production of the higgs boson at the lhc is the gluon fusion , followed by the vector boson fusion ( vbf ) which is approximately an order of magnitude smaller in cross section ( fig .",
+    "[ fig : higgs ] ( a ) ) .",
+    "while inclusive searches have the advantage of having a large cross section , the vbf or other production mode specific studies are also carried out by the atlas and cms experiments to improve the sensitivity of the search by exploiting the additional signatures in the final state . if the higgs boson mass is below @xmath0130  , the main decay modes are bb and   ( fig .",
+    "[ fig : higgs ] ( b ) ) .",
+    "these are also the challenging channels due to the presence of hadronic decay and the relatively small  involved in the final state particles .",
+    "the h  decay mode , on the other hand , provides a clean signature of high  photons which can be well reconstructed , hence plays an important role in the higgs searches at the lhc . for the higher higgs mass region ,",
+    "the decays to the vector bosons , w and z , are the dominant channels .",
+    "both atlas and cms detectors were designed to deliver the optimal performance for the observation of these benchmark channels .    [ cols=\"^,^ \" , ]",
+    "the prospects for the standard model higgs boson search at the lhc have been presented .",
+    "a wide range of higgs production and decay channels are studied by the two general purpose detector experiments , atlas and cms , and the results show that the discovery would be possible for all the mass range already in the first year or two of physics data .",
+    "there are continuing efforts to improve the analyses and to be ready for the first physics data at the lhc expected in the coming year .",
+    "9 the lep working group for higgs boson searches ( aleph , delphi , l3 and opal collaborations ) , `` search for the standard model higgs boson at lep '' , phys .",
+    "b 565 ( 2003 ) 61 , hep - ex/0306033 , cern - ep/2003 - 011        cms collaboration , `` towards the search for the standard model higgs boson produced in vector boson fusion and decaying into a tau pair in cms with 1  : tau identification studies '' , cms pas hig-08 - 001 ."
+  ],
+  "abstract_text": [
+    "<S> an overview of the searches for the standard model higgs boson at the lhc is presented . </S>",
+    "<S> the main higgs production and decay modes that have been studied are introduced , and the analysis techniques and the recent developments done by the atlas and cms experiments are described . </S>",
+    "<S> some preliminary results from current studies are included . </S>",
+    "<S> the discovery potential within the first few years of physics running is evaluated . </S>"
+  ]
+}

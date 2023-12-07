@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "recent progress in calculating pulsar magnetospheres ( spitkovsky 2006 and references therein ) is based on force - free electrodynamics ( ffe ) .",
+    "ffe describes electromagnetic fields of special geometry  at each event , the electric field is smaller than and perpendicular to the magnetic field . when applied to pulsars",
+    ", ffe predicts a singular current layer along the magnetic separatrix surface . within the light cylinder ,",
+    "the singularity is of an admissible type  although the current is singular , the electric field remains smaller than and perpendicular to the magnetic field . outside the light cylinder",
+    ", the singularity actually violates the ffe equations . for this reason , and also to understand dissipation processes leading to the observed radiation , one wants to use a dissipative generalization of ffe . such a theory ",
+    "strong - field electrodynamics ( sfe )  has recently been proposed ( gruzinov 2008 ) .",
+    "sfe describes electromagnetic fields of arbitrary geometry .",
+    "sfe is maxwell theory with the semi - dissipative lorentz - covariant ohm s law @xmath0 where @xmath1 is the charge density , @xmath2 , @xmath3 , @xmath4 represent the field invariants , and @xmath5 .",
+    "the conductivity scalar @xmath6 is an arbitrary function of the field invariants .",
+    "sfe comes from the following simple postulate : at each event , in the frame where the electric field is parallel to the magnetic field and the charge density vanishes , the current @xmath7 flows along the fields .. covariant formulation of sfe is @xmath8 , @xmath9 ( compare to ffe : @xmath10 , @xmath11 ) .",
+    "we simulated time - dependent axisymmetric maxwell equations with the sfe ohm s law .",
+    "we used the regularization described in ( gruzinov 2008 ) , and checked that the results are independent of the regularization to the specified accuracy .",
+    "the initial field was vacuum around the rotating magnetized neutron star .",
+    "in spherical coordinates , in pulsar units ( @xmath12 ) , the vacuum field is given by the magnetic stream function @xmath13 and the electrostatic potential @xmath14 , where @xmath15 is the radius of the star .",
+    "we then evolved the three components of the electric field @xmath16 , the magnetic stream function @xmath17 , and the toroidal magnetic field @xmath18 .",
+    "the boundary conditions on the surface of the star are @xmath19 and @xmath20 .",
+    "we show the magnetosphere at @xmath21 , when the field configuration within @xmath22 ( two light cylinders ) saturates .",
+    "the outer boundary was at @xmath23  out of causal contact with the @xmath24 zone .",
+    "the saturated electric field is potential .",
+    "the saturated toroidal field is given by the poloidal current @xmath25 .",
+    "we show two cases .",
+    "the @xmath26 , @xmath27 results ( for the poynting power ) are accurate to about 2% .",
+    ". shows the field lines , fig.2 . ",
+    "the field invariants , fig.3 . ",
+    "the integrated poloidal current as a function of the latitude and the poynting luminosity ( in pulsar units ) as a function of radius .",
+    "the luminosity decreases due to dissipation .",
+    "4 - 6 show the @xmath28 , @xmath29 results ; these are accurate to about 10% .",
+    "our code is amateurish  a straightforward discretization with diffusive stabilization .",
+    "a professional numerical scheme might be of interest for two reasons :      \\(ii ) with a good 3d code , it should be possible to calculate the pulsar bolometric lightcurves for a given surface field and conductivity .",
+    "is an arbitrary function of the field invariants . in the real world",
+    ", the star breaks lorentz invariance . ] to calculate emission , one assumes efficient heat to light conversion and strong beaming along the field lines ( in the frame where the fields are parallel ) ."
+  ],
+  "abstract_text": [
+    "<S> dissipative axisymmetric pulsar magnetosphere is calculated by a direct numerical simulation of the strong - field electrodynamics equations . </S>",
+    "<S> the magnetic separatrix disappears , it is replaced by a region of enhanced dissipation . with a better numerical scheme , one should be able to calculate the bolometric lightcurves for a given conductivity . </S>"
+  ]
+}

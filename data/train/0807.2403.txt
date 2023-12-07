@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "collisions at lhc will hopefully answer many so far unanswered questions about standard model and beyond . here",
+    "we focus on details of jet production at lhc due to valence quark - gluon interaction .",
+    "this process is of interest since it may shed light on so called phenomenon of saturation and it may test different factorisation schemes .",
+    "this process will be measured at central and forward calorimeters ( castor in cms ) .    in first step",
+    "we calculate hard matrix element for for @xmath1 , then we calculate the total cross section and show the differential cross sections as functions of @xmath2 and @xmath3 distribution of produced jets . to calculate jet production we use cascade monte carlo event generator @xcite",
+    "we begin our study by calculating matrix element for @xmath1 ( this has been calculated in @xcite but in a different contest ) . in our studies",
+    "we assume regge kinematics which means that we are going to work in regime where the total center of mass energy squared of proton - proton collision is much larger than any other scale involved in the collision .",
+    "this practically means : @xmath4 where : @xmath5 ( see figure 1 ) . to calculate the amplitude we have to sum expressions for diagrams in figure 1 .",
+    "we proceed by using sudakov decomposition of four momenta : @xmath6 + @xmath7 + @xmath8 + @xmath9 + where @xmath10 is longitudinal momentum fraction of incoming quark , @xmath11 is a longitudinal momentum fraction of incoming gluon ( @xmath12 ) , @xmath0 is its transverse momentum .",
+    "@xmath13 is a longitudinal momentum fraction of outgoing quark , @xmath14 is its transverse momentum .",
+    "@xmath15 is a longitudinal momentum fraction of outgoing gluon , @xmath16 is its transverse momentum . in calculations of matrix element",
+    "the interesting kinematical regime is where the incoming gluon carries low longitudinal momentum fraction ( @xmath12 ) and we can make the eikonal approximation to the current . on the other hand",
+    "since the incoming quark carries high momentum fraction ( @xmath17 ) we take the exact expression for the current . the resulting formula for the matrix element squared for @xmath18 for unpolarized quarks and gluons , after summing and averaging over colors of final and initial state particles , reads :    ( 490,170 ) ( 10 , -160 )    @xmath19    from the expression for the matrix element squared we can see that in addition to term formally equal to the collinear result we get a term proportional to @xmath20 .",
+    "this matrix element has interesting structure of singularities .",
+    "singularities appear in 4 different points in the phase space when one of the final state partons four - momentum is collinear with a four - momentum of a quark in the initial state ( taking also the quark with the momentum @xmath21 into account ) .",
+    "the cross section in @xmath0 factorisation approach can be schematically written as : @xmath22 where @xmath23 stands for integration over longitudinal , angular and transversal degrees of freedom , @xmath24 , @xmath25 are the factorisation scales . in the formula above @xmath26 is the unintegrated , gluon density    obtained by solving the ccfm evolution equation and @xmath27 is the unintegrated valence quark density obtained from ccfm - like equation which is needed for technical reasons in monte carlo simulation .",
+    "the initial valence quark distribution is provided by cteq 6.1 set . in our calculations we use running coupling constant and",
+    "we make a @xmath28 cut on transverse momenta of out going jets .",
+    "this cut is motivated by the experimental setup where jets at lower momenta are hardly measurable .",
+    "this cut removes the collinear configuration singularities of the matrix element . as a first observable we calculated total cross section for two jet production in considered kinematical region and we obtained @xmath29 .",
+    "as other observable we investigate the rapidity distributions of the produced jets .",
+    "the results of the calculation of the rapidity distributions of outgoing partons is presented in figure 2 . as expected , the quark initiated jet is in the forward rapidity region while the gluon initiated jet is in the central rapidity region .",
+    "we make here a comparison to pythia monte carlo prediction .",
+    "the difference between distributions is due to missing sea quark contribution in cascade .",
+    "the other interesting observable is the transverse energy @xmath2 ( figure 4 ) and @xmath3 distributions ( figure 5 ) of produced jets .",
+    "the first of this distributions is of particular importance because it shows visible difference due to different assumptions about underlying physics .",
+    "for example one sees that cascade including the off shell matrix element favors a harder spectrum than pythia which is based on collinear factorisation .",
+    "the @xmath3 distributions generated by cascade and pythia differ because missing sea quarks in our approach .",
+    "however , this difference is small in region of our interest ( large @xmath2 ) .",
+    "99 h. jung , comput.phys.commun . 143 ( 2002 ) 100 - 111 + m. ciafaloni , phys . lett . *",
+    "b429 * 363 ( 1998 ) ; + slides : + ` http://indico.cern.ch/contributiondisplay.py?contribid=42&sessionid=8&confid=24657 `"
+  ],
+  "abstract_text": [
+    "<S> we study in the @xmath0 factorisation framework jet production at lhc energies . </S>",
+    "<S> in particular we are interested in valence quark and gluon initiated jets . the calculation of the relevant hard matrix element is presented . </S>",
+    "<S> a ccfm like evolution equation for valence quark distribution is solved and the cross section for valence quark and gluon initiated process is calculated using monte carlo event generator cascade . </S>"
+  ]
+}

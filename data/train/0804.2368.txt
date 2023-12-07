@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "the discovery of the wave - property of light was probably made by @xcite , who managed to produce light interferences by letting it go through 2 close holes . soon after this discovery , @xcite proposed and @xcite tried unsuccessfully to use this wave - property of light to measure the apparent diameter of stars at the _ observatoire de marseille _ with a 80 cm telescope .",
+    "then , @xcite managed to measure the diameter of a star , betelgeuse , equal to 0,047  with a relative accuracy of 10% using a larger interferometer ( see fig .",
+    "[ fig : interferometre_michelson ] , left ) this experiment was very hard to carry out , the first results @xcite were so encouraging that a larger and more sensitive stellar interferometer @xcite was built .",
+    "however , technical drawbacks and mechanical instabilities were the major problems of these interferometers .",
+    "then , the project was abandonned during the second world war .    when the very first radio - telescopes put into operation , @xcite , the idea to coherently combine together several antennas was used to build radio - interferometers @xcite .",
+    "this enabled an increase in the spatial resolution of radio - collectors @xcite .",
+    "an easy access to the measures allowed a swift progress of the instruments .",
+    "this led to the vla ( very large array , * ? ? ? * ) and to the vlba ( very long baselines array , * ? ? ? * ) .    [ cols=\"^,^ \" , ]     [ tab : visibilities ]",
+    "i have reported the main things to know about astronomical optical interferometry : a short history , the main principles , and the main properties of the measurements one gets from optical long baseline interferometry . using this information , and by doing the practical exercises associated with this article , a future observer should be able to prepare observations knowing the real limitations but also the true possibilities of today s interferometers .",
+    "the author thank the max - planck institut for radioastronomy for support and funding through a stipend for the years 2007 and 2008 . thanks also to gerhard hdepohl who allowed use of one of his aerial photos in the amber data reduction software .",
+    "part of this work and figures were made with the yorick scientific software and amdlib amber data reduction software .",
+    "butler , b.j .",
+    "; mckinnon , m.m . ; perley , r.a . & dewdney , p.e . the expanded very large array ( evla ) astronomical facilities of the next decade , 26th meeting of the iau , special session 1 , 16 - 17 august , 2006 in prague , czech republic , sps1 , 18 , 2006 , 1"
+  ],
+  "abstract_text": [
+    "<S> i try to present a small view of the properties and issues related to astronomical interferometry observations . </S>",
+    "<S> i recall a bit of history of the technique , give some basic assessments to the principle of interferometry , and finally , describe physical processes and limitations that affect optical long baseline interferometry and which are , in general , very useful for everyday work . </S>",
+    "<S> therefore , this text is not intended to perform strong demonstrations and show accurate results , but rather to transmit the general `` feeling '' one needs to have to not be destabilised by the first contact to real world interferometry .    </S>",
+    "<S> optical long baseline interferometry , visibility , phase , uv coverage , vlti , keck - i </S>"
+  ]
+}

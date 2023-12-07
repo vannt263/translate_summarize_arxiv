@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "this period can be considered a sort of `` renaissance '' for charm physics . recently",
+    ", a great number of new states have been discovered in both the open and the hidden charm sector . among these",
+    "there are @xmath1 , @xmath2 , @xmath0 , @xmath3 , @xmath4 , @xmath5 , @xmath6 , @xmath7 , @xmath8 , @xmath9 , @xmath10 , @xmath11 , @xmath12 , the mysterious @xmath13  part of the renewed interest growing around this branch of particle physics is due to the fact that some of the above states fail to fit into standard classification .",
+    "this fact has lead people to propose many interpretations , like molecular charmonium , hybrids , orbital and radial excitations , tetraquarks , and so on . in this paper",
+    "i discuss the case of the @xmath14 meson @xmath0 , giving hints on how to classify it . for",
+    "a more comprehensive discussion on charm physics the reader can refer to @xcite .",
+    "@xmath0 has been observed by belle collaboration in the dalitz plot analyses of the process @xmath15 as accumulation of events at @xmath16 gev@xmath17 in the invariant mass distribution @xmath18 @xcite .",
+    "the branching fractions @xmath19 have been measured .",
+    "measured mass and width are respectively @xmath20  mev , @xmath21  mev . moreover , from the distribution in the helicity angle @xmath22 , the angle between the @xmath23 momentum and the opposite of the kaon momentum in the @xmath24 rest frame , it was possible to assign spin - parity @xmath25 to @xmath0 .",
+    "the classification of the @xmath14 states is easier in the heavy - quark limit @xmath26 . in this limit",
+    "the spin @xmath27 of the heavy quark and the total angular momentum @xmath28 of the meson light degrees of freedom : @xmath29 ( @xmath30 light antiquark spin , @xmath31 orbital angular momentum of the light degrees of freedom relative to the heavy quark ) are decoupled , and the spin - parity @xmath32 is conserved in processes involving strong interactions @xcite . this allows to classify mesons into doublets labeled by @xmath32 , each containing a pair of mesons with @xmath33 and degenerate in mass .",
+    "the standard classification of known @xmath14 states in this scheme is given in table  [ organiz ] @xcite .",
+    "p.  colangelo _ et al .",
+    "_ arxiv : hep - ph/0609240 ; p.  colangelo _ et al .",
+    "_ arxiv:0706.0053 [ hep - ph ] ; p.  colangelo _ et al .",
+    "a * 19 * ( 2004 ) 2083 ; j.  l.  rosner , j.  phys .",
+    "* 69 * ( 2007 ) 012002 ; e.  s.  swanson , phys .",
+    "* 429 * ( 2006 ) 243 .",
+    "k.  abe _ et al .",
+    "_ [ belle collaboration ] , arxiv : hep - ex/0608031 ; j.  brodzicka _ et al . _ [ belle collaboration ] , phys .",
+    "* 100 * ( 2008 ) 092001 . for review",
+    "see : m.  neubert , phys .",
+    "* 245 * ( 1994 ) 259 ; a.  v.  manohar and m.  b.  wise , `` heavy quark physics , '' camb .",
+    "monogr .  part .",
+    ".  nucl .",
+    "cosmol .",
+    "* 10 * ( 2000 ) 1 ; f.  de fazio , in `` at the frontier of particle physics / handbook of qcd '' , edited by m. a. shifman , world scientific , singapore , 2001 , p.1671 ( arxiv : hep - ph/0010007 ) ."
+  ],
+  "abstract_text": [
+    "<S> i briefly introduce the status of charm physics and i discuss the case of the meson with open charm @xmath0 .    </S>",
+    "<S> [ 1999/12/01 v1.4c il nuovo cimento ] </S>"
+  ]
+}

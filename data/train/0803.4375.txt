@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the @xmath2 has been considered as a quasi - bound state of anti - kaon and nucleon ( @xmath3 ) system for a long time.@xcite recent theoretical investigations have also suggested that the @xmath2 is well described as a dynamically generated resonance of the meson - baryon scattering based on chiral dynamics in coupled channel approach,@xcite which is called chiral unitary model ( chum ) . in chum , the scattering amplitude is obtained by an algebraic equation : t_ij ( ) = v_ij ( ) + _ k v_ik ( ) g_k ( ) t_kj ( ) , [ eq : bseq ] with an @xmath6-wave interaction kernel @xmath7 given by the lowest order chiral perturbation theory , that is the weinberg - tomozawa interaction , and the meson - baryon loop function @xmath8 , which are functions of the center - of - mass energy of the meson - baryon system , @xmath9 , in matrix forms of the meson - baryon channels of strangeness @xmath10 and charge @xmath11 .",
+    "chum has reproduced well the scattering cross sections of @xmath12 to various channels and the mass spectrum of the @xmath2 resonance below the @xmath3 threshold , giving two states for the @xmath2 as poles of the scattering amplitudes in the complex energy plane , ( @xmath13 ) and ( @xmath14).@xcite the @xmath2 plays an important role for the system of kaons and nucleons , such as kanoic nuclei.@xcite    since the @xmath2 is sitting below the @xmath3 threshold and it is difficult to obtain precise and clean information of the @xmath2 in the present experiments , any theoretical investigations are welcome .",
+    "if the @xmath2 is described by the quasi - bound state of the meson - baryon system with small binding energy , one expects that the @xmath2 has a larger size than typical ground state baryons dominated by a genuine quark state .",
+    "if this is the case , the form factor of the @xmath2 falls off more rapidly than that of the nucleon and the production cross section of the @xmath2 has large energy dependence . in this work",
+    ", we estimate the electric mean squared radii of the @xmath2 based on the chiral unitary model .",
+    "in this section , we discuss the formulation to evaluate the electric form factors and the charge radii of the @xmath2 .",
+    "first of all , let us define the electric form factor of an excited baryon @xmath15 , as a matrix element of zeroth component of the electromagnetic current @xmath16 in the breit frame:@xcite h^ | j_^0 | h^ ( q^2 ) , with the virtual photon momentum @xmath17 and @xmath18 . using this definition , the form factor of the excited baryon can be expressed as a residue of the second rank pole of the @xmath19 amplitude @xmath20 with @xmath21 : @xmath22 \\frac{i}{\\sqrt{s } - z_{\\trm{h } } } ( - i g_{j } ) ,   \\label{eq : tgamma}\\end{aligned}\\ ] ] where @xmath23 is the pole position and @xmath24 is the coupling strength of the excited baryon to the meson - baryon state .",
+    "when an excited baryon is dynamically generated in chum , the scattering amplitude close to the pole of the excited baryon can be expressed by , - i t_ij ( ) ( - i g_i ) ( - i g_j ) .",
+    "[ eq : t ] combining eqs .",
+    "( [ eq : tgamma ] ) and ( [ eq : t ] ) , the form factor can be evaluated as a residue of the pole at @xmath25 as discussed in ref .  : ( q^2 ) = =",
+    ". then we can define electric mean squared radii @xmath0 as the usual form ; - 6 .",
+    "q^2=0 .    in our approach , the amplitude @xmath26 is calculated under the assumption that the photon couples to the @xmath2 through the photon couplings to the constituent meson and baryon of the @xmath2",
+    ". the calculation of the photon coupling should be performed in a gauge invariant way , since the gauge invariance guarantees to give the correct electric charge to the excited baryons , @xmath27 . following the method of the gauge invariant calculation proposed by ref .",
+    ", we find the relevant diagrams for our purpose , which have the second rank poles , as shown in fig .",
+    "[ diagram ] .",
+    "the shaded ellipses represent the meson - baryon scattering amplitude @xmath28 obtained by eq .",
+    "( [ eq : bseq ] ) and the photon couplings to the mesons and baryons are given by gauging the kinetic terms and the effective interaction .",
+    "calculating these three diagrams and summing up them , we obtain , t_ij^ t_1 ij^ +",
+    "t_2 ij^ + t_3 ij^ .",
+    "the detailed calculation is given in ref .  .",
+    "[ cols=\"^,^,^ \" , ]",
+    "we show our result for the electric mean squared radii of the @xmath2 in table  [ result ] . as mentioned before , we have two @xmath2 states ; the lower state @xmath29 strongly couples to the @xmath30 state , while the higher state @xmath31 dominantly couples to the @xmath3 state.@xcite since the @xmath32 and @xmath33 contribute to the isospin @xmath11 state almost equally , the electric mean squared radius of the lower @xmath1 state @xmath29 is suppressed . since we have evaluated the electric radii of the @xmath2 at the resonant point , they are free from the non - resonant meson - baryon background and are pure resonance properties . but the values get complex numbers , because we calculate @xmath0 of baryon resonant states with complex energies",
+    ". experimentally observables may be the ratio of the amplitudes @xmath34 in the real energies , which however includes the contributions from the non - resonant meson - baryon scattering states.@xcite    for the resonant states with small decay widths , it is possible to interpret the electric mean squared radii as the sizes , since the radii are close to real numbers .",
+    "for this purpose , we analyze a bound state obtained by switching off the other channels than @xmath3.@xcite this bound state is considered to be the origin of the higher state of the physical @xmath2 , @xmath31 .",
+    "we thus estimate the size of a meson - baryon resonance by analyzing this `` @xmath2 '' described as a @xmath35 bound state .",
+    "when we solve eq .   with @xmath36 and @xmath37 channels , a bound state is found at 1429 mev , and the result of the @xmath0 is shown in table  [ result ] .",
+    "the obtained @xmath0 has a negative sign , which is reflected by the charge distribution that the @xmath4 is surrounding around the @xmath5 .",
+    "the absolute value of our result , @xmath38 , suggests that the @xmath2 has a larger size than that of the ordinary baryons such as proton . in the end",
+    ", we note that the mean squared radii of @xmath1 decrease as the binding energies increase in our model , as seen in table  [ result ] .",
+    "the detailed discussions are given in ref .  .",
+    "we have calculated the electric mean squared radii of @xmath1 based on the meson - baryon picture of the @xmath2 in the chiral unitary model .",
+    "the evaluation of the electric mean squared radii have been performed in two ways : in the first approach , with full coupled channels for the @xmath2 , the mean squared radii in complex numbers are obtained at the poles for the physical resonance . in the second , we describe `` @xmath2 '' as a bound state of @xmath3 by neglecting all the coupling of @xmath3 to the other channels , in order to estimate the size of the resonance .",
+    "our result suggests that the @xmath1 have structure of widely spread @xmath4 around @xmath5 and the size of the @xmath2 is larger than that of the ordinary baryons ."
+  ],
+  "abstract_text": [
+    "<S> the electric mean squared radii @xmath0 of @xmath1 are calculated in the chiral unitary model . </S>",
+    "<S> we describe the @xmath2 as a dynamically generated resonance fully in the octet meson and octet baryon scattering . </S>",
+    "<S> we also consider `` @xmath2 '' as a bound state of @xmath3 . </S>",
+    "<S> for the later `` @xmath1 , '' we obtain negative and larger absolute value of electric mean squared radius than that of ordinary baryons , which implies that @xmath1 have structure of widely spread @xmath4 around @xmath5 . </S>"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "the first point raised by melott concerns our approach .",
+    "he states that we perform simulations with truncated power spectra to investigate the effect of initial small - scale power , and that this approach was introduced by him and collaborators .",
+    "the scope of our paper is much wider than that , and we cite splinter et al .",
+    "( 1998 ) among others ( cf .",
+    "sect .  1 ) .",
+    "we even quote melott ( 2007 ) , a non - refereed astro - ph note submitted as a comment / review .",
+    "and we do that in the central part of the introduction , where we motivate our paper and point out what is new : ( 1 ) we assess the actual significance of discreteness effects against statistical scatter ; ( 2 ) we offer a deeper and wider view of such effects through a thorough wavelet - statistical analysis ; ( 3 ) we probe particular aspects of the problem , such as the range of scales affected by discreteness and a variety of statistical effects arising from the initial conditions .",
+    "thus , when commenting on our approach , melott compresses the scope of our paper into a subitem of point ( 3 ) and our 80 simulations into one of the eight subsets !",
+    "melott then comments on our conclusions , which he compresses into a single sentence : `` they conclude that discreteness effects are visible in the simulations on all scales @xmath1 where @xmath2 is the force resolution ( sometimes called ` softening ' ) , and @xmath3 is the mean interparticle separation '' .",
+    "he states that our conclusions are essentially the same as those previously discussed by him and collaborators .",
+    "our first conclusion is that dynamical evolution does not propagate discreteness noise up from the small scales at which it is introduced ( cf .",
+    "abstract ) .",
+    "this is one important aspect of the robustness of cosmological @xmath0-body simulations , which we can prove rigorously thanks to new and powerful wavelet statistics .",
+    "the point is that the final power spectra , correlation functions and mass variances only show marginal differences , if any , once their scatter is taken into account ( see sects 3.1 and 3.2 ) .",
+    "this is also true for diagnostics that are sensitive to the phase of the density fluctuations ( see sects 3.3 and 4.2 ) .",
+    "one needs minimum - scatter phase - sensitive statistics , such as our wavelet set , to show that discreteness noise is not propagated upwards ( see sects 4.2 , 4.3 and 6.1 ) .",
+    "our second conclusion is that one should aim to satisfy the condition @xmath4 , where @xmath2 is the force resolution and @xmath3 is the interparticle distance ( cf .",
+    "abstract ) .",
+    "this condition involves several aspects of discreteness , which appear if there is unbalance between force and mass resolution : initial non - gaussianity from gaussian initial conditions , departure from lognormality and rise of further complexity at low redshifts ( cf .",
+    "sect .  7 ) .",
+    "this is a fresh view of the problem , which we discuss together with its implications .",
+    "concerning the range of scales affected by discreteness , @xmath5 , this is a result that again we can prove rigorously thanks to our wavelet statistics .",
+    "previous attempts to quantify this point ( e.g. , splinter et al .",
+    "1998 ) neglected the statistical scatter of the diagnostics , which generally dominates over the systematic effects of discreteness , as pointed out above ( cf.first conclusion ) .",
+    "let us finally remark that the implications of our work are _ not _ those expressed by melott , when commenting on cosmological codes .",
+    "_ we _ conclude that discreteness effects can be kept under control by implementing our condition @xmath4 adaptively , not only in amr codes but also in tree - based codes , and clarify how ( cf.sect ."
+  ],
+  "abstract_text": [
+    "<S> melott has made pioneering studies of the effects of particle discreteness in @xmath0-body simulations , a fundamental point that needs careful thought and analysis since all such simulations suffer from numerical noise arising from the use of finite - mass particles . </S>",
+    "<S> melott ( arxiv:0804.0589 ) claims that the conclusions of our paper ( arxiv:0804.0294 ) are essentially equivalent to those of his earlier work . </S>",
+    "<S> melott is wrong : he has jumped onto one of our conclusions and interpreted that in his own way . </S>",
+    "<S> here we point out the why s and the wherefores . </S>"
+  ]
+}

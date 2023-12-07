@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "adaptive mesh refinement ( amr ) and smooth particle hydrodynamics methods indicate that primordial stars form in the first cosmological dark matter halos to reach masses of a few 10@xmath0 @xmath1 at @xmath2 20 - 30 , and that due to inefficient h@xmath3 cooling they are likely very massive , 30 - 500 @xmath1 ( ( * ? ? ?",
+    "* abel et al . 2002 ) , ( * ? ? ?",
+    "* bromm et al . 2001 ) , ( * ? ? ?",
+    "* nakamura & umemura 2001 ) ) .",
+    "with surface temperatures of @xmath4 10@xmath0 k and ionizing emissivity rates of 10@xmath5 s@xmath6 , these stars profoundly alter the halos that give birth to them , creating h ii regions 2.5 - 5 kpc in radius and sweeping half of the baryons in the halo into a dense shell that grows to the virial radius of the halo by the end of the life of the star , as first pointed out by ( * ? ? ?",
+    "* whalen et al . ( 2004 ) ) and ( * ? ? ?",
+    "* kitayama et al . (",
+    "recent work shows that a second lower - mass star can form in the relic h ii region of its predecessor in the absence of a supernova ( ( * ? ? ?",
+    "* yoshida et al . 2007 ) ) .",
+    "while single stars form consecutively in halos , gravitational mergers consolidate them into larger structures .",
+    "numerical attempts to follow this process find that primordial supernovae expel their heavy elements into low - density voids , where star formation is not possible .",
+    "the metals return to their halos of origin on timescales of 50 - 100 myr by accretion infall and mergers and , having been diluted by their expulsion into the igm , are taken up into later generations of stars relatively slowly . however , the large computational boxes required to follow the formation of halos from cosmological initial conditions prevents them from fully resolving the explosions .",
+    "furthermore , the blasts themselves are not properly initialized , being set up as static bubbles of thermal energy rather than the free expansions that actually erupt through the atmosphere of the star .",
+    "if the explosion is initialized in an h ii region and one is not concerned with the transport of metals or fine structure cooling , thermal bombs yield an acceptable approximation to gas motion on kiloparsec scales . however , this approach can not capture the mixture of heavy elements with ambient gas or the subsequent formation of dense enriched clumps due to metal line cooling for two reasons . first , the thermal bubble does create large pressure gradients that accelerate gas outward into the surrounding medium , but because the ejecta has no initial momentum and dynamically couples to surrounding gas at low density ( @xmath7 1 cm@xmath6 ) , not all the metals are launched out into the halo .",
+    "our numerical experiments demonstrate that unphysically large amounts of heavy elements remain at the origin of the coordinate grid when the explosion is implemented in this manner .",
+    "second , the early evolution of the thermal pulse is different from that of a free expansion , which exhibits the formation of reverse shocks and contact discontinuities that would destabilize in 3d and cause mixing at fairly small radii . since dynamical instabilities in the blast that are mediated by line cooling",
+    "are highly nonlinear , it is crucial to follow them from their earliest stages , something that can not be accomplished with thermal bubbles .    if instead the progenitor fails to ionize the halo , densities at the center remain high , in excess of 10@xmath9 @xmath10 .",
+    "when the supernova is initialized with thermal energy in this environment , all the energy of the blast is radiated away before any of the surrounding gas can be driven outward .",
+    "since the energy of the explosion is deposited as heat at the center of the grid , the temperature skyrockets to billions of degrees , instantly ionizing the gas collisionally .",
+    "bremsstrahlung and inverse compton cooling time scales at these densities and temperatures are extremely short , leading earlier studies to erroneously conclude that such blasts fizzle. in reality , even though 90% of the energy of the explosion may be lost in the first 2 - 3 years , the momentum of the free expansion can not be radiated away , guaranteeing some propagation of ejecta out into the halo",
+    ". we present a new series of population iii supernova models in both neutral and ionized cosmological minihalos to address these difficulties .",
+    "[ cols=\"^,^ \" , ]",
+    "our 1d survey of primordial supernova remnant energetics in cosmological halos strongly suggest that when metals and metal line cooling are included in the next generation of 3d models , dynamical instabilities will strongly mix the surrounding gas with heavy elements .",
+    "this may lead to a second , prompt generation of stars forming in either the enriched dense shell of the relic h ii region or deeper inside a neutral halo .",
+    "if so , the first protogalaxies may have had far more stars than in current models .",
+    "large infall rates in trapped explosions may also be efficient at fueling the growth of the compact remnant of less massive progenitors , possibly providing the seeds of the supermassive black holes found in most large galaxies today .",
+    "abel , t. , bryan , g.  l. , & norman , m.  l.  2002 , science , 295 , 93 abel , t. , wise , j.  h. , & bryan , g.  l.  2007 , _ apjl _ , 659 , l87 alvarez , m.  a. , bromm , v. , & shapiro , p.  r.  2006 , bromm , v. , ferrara , a. , coppi , p.  s. , & larson , r.  b.  2001 , _ mnras _ , 328 , 969 kitayama , t. , yoshida , n. , susa , h. , & umemura , m.  2004 , _ apj _ , 613 , 631 nakamura , f. , & umemura , m.  2001 , _ apj _ , 548 , 19 truelove , j.  k. , & mckee , c.  f.  1999 , _ apjs _ , 120 , 299 yoshida , n. , oh , s.  p. , kitayama , t. , & hernquist , l.  2007 , _ apj _ , 663 , 687 whalen , d. , abel , t. , & norman , m.  l.   2004 , _ apj _ , 610 , 14 whalen , d. , & norman , m.  l.  2006 , _ apjs _ , 162 , 281 whalen , d. , van veelen , b. , oshea , b.  w. , & norman , m.  l.  2008 , arxiv e - prints , 801 , arxiv:0801.3698"
+  ],
+  "abstract_text": [
+    "<S> current numerical studies suggest that the first protogalaxies formed a few stars at a time and were enriched only gradually by the first heavy elements . </S>",
+    "<S> however , these models do not resolve primordial supernova ( sn ) explosions or the mixing of their heavy elements with ambient gas , which could result in intervening , prompt generations of low - mass stars . </S>",
+    "<S> we present multiscale 1d models of population iii supernovae in cosmological minihalos that evolve the blast from its earliest stages as a free expansion . </S>",
+    "<S> we find that if the star ionizes the halo , the ejecta strongly interacts with the dense shell swept up by the h ii region , potentially cooling and fragmenting it into clumps that are gravitationally unstable to collapse . if the star fails to ionize the halo , the explosion propagates metals out to 20 - 40 pc and then collapses , heavily enriching tens of thousands of solar masses of primordial gas , in contrast to previous models that suggest that such explosions fizzle. rapid formation of low - mass stars trapped in the gravitational potential well of the halo is unavoidable in these circumstances . </S>",
+    "<S> consequently , it is possible that far more stars were swept up into the first galaxies , at earlier times and with distinct chemical signatures , than in present models . </S>",
+    "<S> upcoming measurements by the _ james webb space telescope _ ( _ jwst _ ) and _ atacama large millimeter array _ ( _ alma _ ) may discriminate between these two paradigms . </S>"
+  ]
+}

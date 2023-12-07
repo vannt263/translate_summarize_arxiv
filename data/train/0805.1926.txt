@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "in the paradigm of hierarchical structure formation , dark matter ( dm ) haloes provide the potential well in which galaxies subsequently form . as a consequence the structural parameters of disk galaxies ( size and rotation velocity ) are tightly coupled with those of their hosting dm halo , such as concentration and spin ( e.g. mo , mao & white 1998 ; dutton 2007 ) .",
+    "it has been shown by several studies that the structural properties of dark matter haloes are dependent on halo mass : for example higher mass halos are less concentrated ( navarro , frank & white 1997 , hereafter nfw ; bullock 2001a , hereafter b01 ; eke navarro & steinmetz 2001 ; kuhlen 2005 ; neto 2007 ; macci 2007 , hereafter m07 ) , and are more prolate ( jing & suto 2002 ; allgood 2006 ; m07 ) on average . in the case of the spin parameter , however , there seems to be no mass dependence .",
+    "in m07 we used a set of numerical simulations of structure formation in a @xmath7cdm cosmology , with cosmological parameters that were motivated by the first year results of the wilkinson microwave anisotropy probe ( wmap ) mission ( spergel 2003 ; hereafter wmap1 ) , to study how concentrations , shapes and spin parameters of dark matter haloes scale with halo mass . in this paper",
+    "we extent the m07 study by investigating how these scaling relations depend on the adopted cosmology .",
+    "in particular , we present a large suite of numerical simulations for @xmath7cdm cosmologies whose parameters are motivated by the three and five year data releases of the wmap mission ( spergel 2007 ; komatsu 2008 ) . in what follows",
+    "we refer to these cosmologies as the wmap3 and wmap5 cosmologies , respectively .",
+    "the parameters of the wmap1 , wmap3 and wmap5 cosmologies are listed in table [ tab : params ] .",
+    "note that the wmap3 and wmap5 cosmologies both have a lower matter density , @xmath8 , and a lower power spectrum normalization , @xmath9 ( defined as the rms of the matter field , linearly extrapolated to the present , on a scale of @xmath10 ) than the wmap1 cosmology .",
+    "this implies that dark matter haloes of a given mass assemble later ( e.g. , van den bosch 2001 ) . since the concentration of a dark matter halo is related to its assembly redshift ( e.g. , wechsler 2002 ; zhao 2003a , b ; li 2007 )",
+    ", dark matter haloes are expected to be less concentrated in the wmap3 and wmap5 cosmologies .",
+    "this may help to reconcile the conflict between the concentration parameters inferred from the rotation curves of dwarf and low surface brightness ( lsb ) galaxies ( de blok , mcgaugh & rubin 2001 ; swaters 2003 ) and those predicted from the scenario .",
+    "in addition , a lower amplitude of the power spectrum results in haloes being more prolate ( allgood 2006 ) , which may have observational implications for the rotation curves of dark matter dominated galaxies .    as in m07",
+    "we use a large suite of n - body simulations for the wmap1 , wmap3 and wmap5 cosmologies with different box sizes to cover the entire halo mass range from @xmath11 ( haloes that host dwarf galaxies ) to @xmath12 ( massive clusters ) .",
+    "we use these simulations to investigate the concentrations , spin parameters of shapes of dark matter haloes .",
+    "we also present a critical comparison of the simulation results with two toy models for the concentration - mass relation .",
+    "in particular , we show that the b01 model is only able to reproduce the simulation results in the galaxy mass range , but underpredicts the concentrations of massive haloes . on the contrary",
+    ", the nfw model yields a reasonable fit at the massive end , but dramatically underestimates the concentrations for haloes with @xmath13 .",
+    "we present a new model , based on a simple modification of the b01 model , that that is able to reproduce the concentration - mass relation over the entire mass range probed by our numerical simulations ."
+  ],
+  "abstract_text": [
+    "<S> we investigate the effects of changes in the cosmological parameters between the wmap 1st , 3rd , and 5th year results on the structure of dark matter haloes . </S>",
+    "<S> we use a set of simulations that cover 5 decades in halo mass ranging from the scales of dwarf galaxies ( @xmath0 km / s ) to clusters of galaxies ( @xmath1 km / s ) . </S>",
+    "<S> we find that the concentration mass relation is a power law in all three cosmologies . </S>",
+    "<S> however the slope is shallower and the zero point is lower moving from wmap1 to wmap5 to wmap3 . for haloes of mass @xmath2 $ ] = 10 , 12 , and 14 the differences in the concentration parameter between wmap1 and wmap3 are a factor of 1.55 , 1.41 , and 1.29 , respectively . </S>",
+    "<S> as we show , this brings the central densities of dark matter haloes in good agreement with the central densities of dwarf and low surface brightness galaxies inferred from their rotation curves , for both the wmap3 and wmap5 cosmologies . </S>",
+    "<S> we also show that none of the existing toy models for the concentration - mass relation can reproduce our simulation results over the entire range of masses probed . in particular , the model of bullock ( 2001a ; </S>",
+    "<S> hereafter b01 ) fails at the higher mass end @xmath3 ) , while the nfw model of navarro , frenk & white ( 1997 ) fails dramatically at the low mass end ( @xmath4 ) . </S>",
+    "<S> we present a new model , based on a simple modification of that of b01 , which reproduces the concentration - mass relations in our simulations over the entire range of masses probed ( @xmath5 ) . </S>",
+    "<S> haloes in the wmap3 cosmology ( at a fixed mass ) are more flatted compared to the wmap1 cosmology , with a medium to long axis ration reduced by @xmath6 . </S>",
+    "<S> finally , we show that the distribution of halo spin parameters is the same for all three cosmologies .    </S>",
+    "<S> [ firstpage ]    galaxies : haloes  cosmology : theory , dark matter , gravitation  methods : numerical , n - body simulation </S>"
+  ]
+}

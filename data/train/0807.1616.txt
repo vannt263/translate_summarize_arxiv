@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "long - term `` super - orbital '' periodic variability has been observed in soft x - rays from over 30 x - ray binaries with the all sky monitor ( asm ) on the _ rxte _ satellite ( e.g. * ? ? ?",
+    "also known as ` long ' or ` third ' periods , these modulations are defined simply as any periodic variability greater than the orbital period .",
+    "the precession of a warped accretion disc modulating the x - ray flux from the compact object is currently the favoured model ( e.g * ? ? ?",
+    "@xcite showed that while radiation driven warping gives a coherent picture of super - orbital periods in some systems , this model can not explain the observed phenomena in all cases .",
+    "the limited spectral coverage of the _ rxte _ asm has so far precluded long - term studies of super - orbital variability at high energies .",
+    "the launch of _ swift _ in 2004 saw the arrival of a wide field monitoring instrument capable of complementing the _ rxte _ asm in hard x - rays  the burst alert telescope ( bat ; * ? ? ? * ) . in this paper",
+    "we present the results of a search for the previously reported super - orbital modulation of 5 low mass x - ray binaries in the bat 14  195 kev light curves .",
+    "the bat 14  24 kev ( a ) , 24  50 kev ( b ) , 50  100 kev ( c ) and 100  195 kev ( d ) light curves were used for these analyses , after correction for the off - axis position and earth occultations . for comparison , the _ rxte _ asm 1.5  12 kev 1 d average light curves for the same time span were analysed to cover the low energy range of the spectrum .    the modified weighting scheme developed by @xcite was used . in this method ,",
+    "individual data points are given weights based on both the non - uniform measurement uncertainties and the intrinsic source variability .",
+    "power spectra were generated for each of the weighted light curves using the fast periodogram fasper subroutine of the lomb - scargle periodogram ( see * ? ? ?",
+    "* and references therein ) , with the 99@xmath1 white noise significance levels estimated using monte carlo simulations ( e.g. * ? ? ?",
+    "no evidence for the reported super - orbital periods in 4u 1916 - 053 ( 199 d ; * ? ? ? * ) , cyg x-2 ( 77 d ; * ? ? ? * ) or sco x-1 ( 37 d/62 d ; * ? ? ? * ; * ? ? ?",
+    "* ) was found in the asm or any of the bat light curves .",
+    "the power spectra were instead dominated by significant low - frequency noise , with no peaks appearing to indicate the presence of real long - term periodic modulation .",
+    "the super - orbital periods in 4u 1916 - 053 and cyg x-2 were originally detected using _",
+    "vela 5b _ data , while the detection of super - orbital modulation in sco x-1 was made using only the first 9 months of asm data .",
+    "it is thus apparent that either the reported detections were spurious or the mechanisms behind the super - orbital variability in each of these three systems has since ceased . in comparison ,",
+    "the @xmath046 d and @xmath0170 d variability previously reported for 4u 1636 - 536 @xcite and 4u 1820 - 303 @xcite respectively were detected in both the asm and bat light curves ( figure [ fig1 ] ) .",
+    "the @xmath0170 d period in 4u 1820 - 303 has been attributed to variable accretion linked to the presence of a third body in this system , whereby the eccentricity of the inner orbit is modulated by tidal effects produced by the outer body @xcite .",
+    "transitions between the high / soft and low / hard states over this timescale are linked to variability in the accretion rate @xcite and the movement in and out of the inner region of the accretion disc ( see for example * ? ? ?",
+    "* ) , thus modulating the thermal comptonisation region of the spectrum .",
+    "this thermal comptonisation component has been seen to dominate the spectrum up to @xmath050 kev , above which a high energy non - thermal tail is dominant @xcite .",
+    "the non - detection of the modulation above 24 kev is therefore due to a lack of sensitivity of the bat ( as the modulation should be present in the 24  50 kev band ) , precluding us from testing the idea that the modulation also affects the non - thermal tail and thus extends to higher energies .",
+    "the detection of the @xmath046 d period in 4u 1636 - 536 up to 100 kev is clearly inconsistent with variable photoelectric absorption by a warped precessing disc , as absorption should effect only the low energy ( asm ) data .",
+    "@xcite linked the recent reduction in x - ray flux and the appearance of a high energy tail detected by _",
+    "integral _ in the spectrum of 4u 1636 - 536 to the onset of jet formation .",
+    "the detection of the modulation at energies where the high energy tail is dominant ( i.e. @xmath2 30 kev ) indicates that both the thermal comptonisation and high energy tail components are varying over this timescale .",
+    "coincidentally , the @xmath046 d modulation first appears in the asm data around the same time as this transition to the low / hard state .",
+    "the appearance of a high energy power law tail in the spectrum in conjunction with the first detection of the @xmath046 d period and the reduction in flux is intriguing , implying a link between the three phenomena .",
+    "if the assertion made by @xcite is correct  that the high energy tail is produced in compact jets  then the @xmath046 d modulation is likely also associated in some way with the jets .",
+    "the modulation could thus be tied to either transient jet formation or the precession of the jets ( linked in turn to the precession of a warped disc ) in a similar fashion as seen in ss 433 @xcite .",
+    "further observations at radio wavelengths are being sought in order to confirm this hypothesis ."
+  ],
+  "abstract_text": [
+    "<S> we present the results of a study with the _ swift _ burst alert telescope in the 14  195 kev range of the long - term variability of 5 low mass x - ray binaries with reported or suspected super - orbital periods  4u 1636 - 536 , 4u 1820 - 303 , 4u 1916 - 053 , cyg x-2 and sco x-1 . </S>",
+    "<S> no significant periodic modulation was detected around the previously reported values in the 4u 1916 - 053 , cyg x-2 or sco x-1 light curves . </S>",
+    "<S> the @xmath0170 d period of 4u 1820 - 303 was detected up to 24 kev , consistent with the proposed triple system model . </S>",
+    "<S> the @xmath046 d period in 4u 1636 - 536 was detected up to 100 kev , clearly inconsistent with variable photoelectric absorption via a warped precessing disc . </S>",
+    "<S> we speculate that the appearance of this modulation after 4u 1636 - 536 entered the low / hard state indicates that this variability could be linked to jet precession such as observed in ss 433 . </S>"
+  ]
+}

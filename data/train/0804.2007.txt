@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "how the galactic magnetic field can operate in early hubble - type galaxies and in the presence of strong orbital resonances is as yet unexplored . using the vla we investigated this problem and observed ngc4736 ( m94 )  the nearest and largest galaxy showing a ringed morphology ( buta & combes @xcite ) .",
+    "its inner and outer rings are believed to coincide with lindblad resonances of a triaxial bulge , the inner disk ( oval distortion ) and/or the nuclear minibar .",
+    "the giant inner ring located at a distance of about 47 \" ( 1.1 kpc ) from the ( liner ) nucleus , is a region of intense star formation which dominates the uv , h@xmath0 , infrared and co images ( wong & blitz @xcite ) .",
+    "we observed ngc4736 with the vla in its d array at 8.4 and 4.6ghz .",
+    "the observed total radio intensity covers smoothly the whole galaxy bulge and reveals a distinct ring of radio emission ( fig .",
+    "[ f : tp ] ) .",
+    "the radio ring is closely related to the ring morphology visible in other spectral ranges , but the radio polarized emission at 8.4ghz seems to be not clearly associated with h@xmath0 emitting gas , or other ism phases .",
+    "instead , it reveals a very coherent spiral pattern of the regular magnetic field ( fig .",
+    "[ f : tp ] ) .",
+    "image ( from knapen et al .",
+    "contours are at ( 3 , 8 , 32 , 50 , 80 , 128 , 256)@xmath1g / b.a",
+    ". vectors of length of 10 \" correspond to polarized intensity of @xmath2g / b.a .",
+    ", width=518 ]    surprisingly , the prominent inner ring does not tune the magnetic field vectors .",
+    "two magnetic spiral arms of constant pitch angle of about @xmath3 emerge from the centre of ngc4736 and cross the inner ring .",
+    "this is opposite to what is observed in grand - design spiral galaxies where the regular magnetic field typically follows the shape of nearby gaseous spiral arms , even if a galaxy is perturbed ( chyy et al .",
+    "@xcite ) .    between the arms , and inside the ring , the regular field of ngc4736 has a smaller pitch angle .",
+    "this seems to be related to a central minibar extending along the galaxy s minor axis .",
+    "the magnetic field vectors also cross the nw long and strong dust lane , visible in optical images . a spiral network of dust armlets in the central part of the galaxy ( probably of acoustic origin )",
+    "seems also to be not associated with the magnetic spiral  the magnetic vectors have typically larger pitch angles , by at least @xmath4 .",
+    "nevertheless , the magnetic field may still help in channelling the surrounding gas and dust into an active liner nucleus .",
+    "the discovered spiral structure of the magnetic field in ngc4736 seems to contradict the galaxy s ringed morphology .",
+    "if the magnetic field is totally frozen into the interstellar plasma then the observed magnetic vectors may reveal the pattern of the galactic gas motions and shocks which is not yet discerned in other spectral ranges . on the other hand , and more likely , the spiral magnetic field can be of pure dynamo origin . in this case the magnetic field and the interstellar turbulence must be strong enough to resist the local gas flows and cross the star - forming ring imperceptibly . in each case",
+    "ngc4736 seems to be a key object to study the resonant dynamics and a dynamo process of the magnetic field generation without spiral geometry of density waves .",
+    "chyy , k.t . ,",
+    "ehle , m. & beck , r. 2007 , aa , in press , astro - ph 0708.1533 buta , r. & combes , f. 1996 , fund .",
+    "cosmic phys .",
+    "17 , 95 wong , t. & blitz , l. 2001 , apj 540 , 771 knapen , j. h. , de jong , r. s. , stedman , s. and bramich , d. m. , 2003 , mnras , 344 , 527"
+  ],
+  "abstract_text": [
+    "<S> we present high sensitivity radio polarimetric ( vla ) observations of a galaxy with strong orbital resonances  </S>",
+    "<S> ngc4736 . the total radio intensity at 8.4ghz covers smoothly the whole galaxy bulge and reveals a distinct ring of radio emission closely related to the ring morphology visible in infrared , co and h@xmath0 emission </S>",
+    "<S> however , the magnetic field reveals a very coherent spiral pattern . the magnetic field vectors are crossing the inner starbursting ring , the dust lanes within the ring and other rather circularly shaped features visible in other gas traces . </S>",
+    "<S> either the magnetic field uncovers the pattern of gas motions not seen in other spectral ranges , or the spiral magnetic field is of a pure dynamo origin , ignoring the ringed morphology of the galaxy . </S>"
+  ]
+}

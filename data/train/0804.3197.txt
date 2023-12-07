@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "0.2 cm _ ultra - relativistic solution_0.3 cm in analytical approach @xcite , the ultra - relativistic approximation is adopted for @xmath37 , the term @xmath38 in eqs .",
+    "( [ ppeq],[en1],[ppeqp],[en1p ] ) is neglected .",
+    "it turns out that approximated thomas - fermi equations are the same for both cases of neutral and charged cores , and solution @xmath39 , @xmath40^{-1 } , &   { \\rm for}\\quad x<0 ,",
+    "\\\\ \\frac { \\sqrt{2}}{(x+1.89 ) } , & { \\rm for}\\quad x>0 , \\end{array}\\right\\ } , \\label{popovs2}\\ ] ] where @xmath41 and the pion compton length @xmath42 . at the core center @xmath43 , @xmath44 . on core surface @xmath45 , @xmath46 , indicating that the ultra - relativistic approximation is applicable for @xmath47",
+    "this approximation breaks down at @xmath48 . clearly , it is impossible to determine the value @xmath30 out of ultra - relativistically approximated equation , and full thomas - fermi equation ( [ eposs ] ) with source terms eq .",
+    "( [ en1 ] ) for the neutral case , and eq .",
+    "( [ en1p ] ) for the charged case have to be solved .    for @xmath49 where @xmath50 , we treat the term @xmath38 in eqs .",
+    "( [ en1],[en1p ] ) as a small correction term , and find the following inequality is always true @xmath51 where @xmath52 and @xmath53 stand for electron densities of neutral and super charged cores . for the range @xmath34 , @xmath54 in the case of super charged core , while @xmath55 in the case of neutral core , which should be calculated in non - relativistic approximation : the term @xmath56 in eq .",
+    "( [ en1 ] ) is neglected .    in conclusion ,",
+    "the physical scenarios and thomas - fermi equations of neutral and super charged cores are slightly different .",
+    "when the proton density @xmath7 of cores is about nuclear density , ultra - relativistic approximation applies for the coulomb potential energy @xmath57 in @xmath58 and @xmath59 , and approximate equations and solutions for electron distributions inside and around cores are the same . as relativistic regime @xmath60 and non - relativistic regime @xmath61 ( only applied to neutral case ) are approached , solutions in two cases are somewhat different , and need direct integrations .     and",
+    "electron mass - gap @xmath62 in the unit of @xmath63 are plotted as a function of @xmath64 .",
+    "the potential depth inside core ( @xmath65 ) is about pion mass @xmath66 and potential energy - gap and electron mass - gap are indicated .",
+    "the radius @xmath30 where electron distribution @xmath67 vanishes in super charged core case is indicated as @xmath68 , since it is out of plotting range.,width=377,height=226 ]"
+  ],
+  "abstract_text": [
+    "<S> based on the thomas - fermi approach , we describe and distinguish the electron distributions around extended nuclear cores : ( i ) in the case that cores are neutral for electrons bound by protons inside cores and proton and electron numbers are the same ; ( ii ) in the case that super charged cores are bare , electrons ( positrons ) produced by vacuum polarization are bound by ( fly into ) cores ( infinity ) .    </S>",
+    "<S> 0.2 cm _ equilibrium of electron distribution in neutral cores._0.3 cm in refs .  </S>",
+    "<S> @xcite , the thomas - fermi approach was used to study the electrostatic equilibrium of electron distributions @xmath0 around extended nuclear cores , where total proton and electron numbers are the same @xmath1 . </S>",
+    "<S> proton s </S>",
+    "<S> density @xmath2 is constant inside core @xmath3 and vanishes outside the core @xmath4 , @xmath5 where @xmath6 is the core radius and @xmath7 proton density . </S>",
+    "<S> degenerate electron density , @xmath8 where electron fermi momentum @xmath9 , fermi - energy @xmath10 and coulomb potential energy @xmath11 are related by , @xmath12^{1/2}-m_ec^2 - v_{\\rm coul}(r ) .    </S>",
+    "<S> \\label{eeq0}\\end{aligned}\\ ] ] the electrostatic equilibrium of electron distributions is determined by @xmath13 which means the balance of electron s kinetic and potential energies in eq .  </S>",
+    "<S> ( [ eeq0 ] ) and degenerate electrons occupy energy - levels up to @xmath14 . eqs .  </S>",
+    "<S> ( [ en],[eeq0],[eeq ] ) give the relationships : @xmath15^{1/2 } ;    \\label{ppeq}\\\\ n_e(r ) & = & \\frac { 1}{3\\pi^2(c\\hbar)^3}\\left[v^2_{\\rm coul}(r)+2m_ec^2v_{\\rm coul}(r)\\right]^{3/2}.    \\label{en1}\\end{aligned}\\ ] ] the gauss law leads the following poisson equation and boundary conditions , @xmath16;\\quad v_{\\rm coul}(\\infty)=0,\\quad v_{\\rm coul}(0)={\\rm finite}. \\label{eposs}\\end{aligned}\\ ] ] these equations describe a thomas - fermi model for neutral nuclear cores , and have numerically solved together with the empirical formula @xcite and @xmath17-equilibrium equation @xcite for the proton number @xmath18 and mass number @xmath19 , where @xmath20 is the neutron number . </S>"
+  ]
+}

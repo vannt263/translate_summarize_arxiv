@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "we acknowledge asi financial and programmatic support via contracts i/008/07/0 and i/088/06/0 .",
+    "optical data used are partially based on observations performed with loiano astronomical observatory ( bologna , italy ) .",
+    "we thank antonio de blasi for the night assistance at the telescope .",
+    "bird , a. j. , malizia , a. , bazzano , a. , et al .",
+    "2007 , apjs , 170 , 175 boroson , t. a. , & green , r. f. 1992 , apjs , 80 , 109 boller , th , brandt , w. n. , fabian , a. c. 1997 , mnras , 289 , 293 brandt , w. n. , mathur , s. , elvis , m. 1997 , mnras , 285 , l25 comastri , a. , stirpe , g.m . , vignali , c. , et al .",
+    "2001 , a&a , 365 , 400 condon , j. j. , cotton , w. d. , greisen , e. w. , yin , q. f. , perley , r. a. , et al .",
+    "1998 , aj , 115 , 1693 crummy , j. , fabian , a.c . ,",
+    "gallo , l. , ross , r. r. 2006 , mnras , 365 , 1067 dadina , m. 2007 , a&a , 461 , 1209 dickey , j.m . &",
+    "lockman f. j. 1990 , ara&a , 28 , 215 fabian , a. c. , ballantyne , d. , merloni , a. , vaughan , s. , iawasawa , k.,boller , th .",
+    "2002 , mnras , 335 , 1064 gallo , l. 2006 , mnras , 368 , 479 gallo , l. , brandt , w.  n. , constantini , e. , fabian , a.  c. 2007 , mnras , 377 , 1375 goldworm , a. , et al .",
+    "2003 , a&a , 411 , l223 halpern , j. p. 2006 ,",
+    "atel , 847 jones , d. h. , saunders , w. , colless , m. , et al .",
+    "2004 , mnras , 355 , 747 kaspi , s. , smith , p. s. , netzer , h. , et al .",
+    "2000 , apj , 533 , 631 komossa , s. 2007 , aspc , 373 , 719 landi , r. , masetti , n. , morelli , l. , et al",
+    ". 2007a , apj , 669 , 109 landi , r. , de rosa , a. , dean , a.j . , bassani , l. , ubertini , p. , bird , a.j .",
+    "2007b , mnras , 380 , 926l leighly , k. m. , 1999 , apjs , 125 , 297 magdziarz , p. & zdziarski , a. a. 1995 , mnras , 273 , 837 malizia , a. , bassani , l. , stephen , j.b . , di cocco , g. , fiore , f. , dean , a. j. 2003 , apj , 589 , l17 malizia , a. , landi , r. , bassani , l. , et al . 2007 , apj , 668 , 81 mathur , s. 2000 , mnras , 314 , l17 miniutti , g. & fabian , a. c. 2004 , mnras , 349 , 1435 masetti , n. , palazzi , e. , bassani , l. , malizia , a. , stephen , j. b. 2004 , a&a , 426 , l41 masetti , n. , morelli , l. , palazzi , e. , et al .",
+    "2006a , a&a , 459 , 21 masetti , n. , malizia , a. , dean , a. j. , bazzano , a. , walter , r. 2006b , atel , 957 masetti , n. , et al .",
+    "2008 , a&a , 482 , 113 nagao , t. , murayama , t. , taniguchi , y. 2001 , apj , 546 , 744 nandra , k. , george , i. m. , mushotzky , r. f. , turner , t. j. , yaqoob , t. 1997 , apj , 477 , 602 osterbrock , d. e. , & pogge , r. w. 1985 , apj , 297 , 166 panessa , f. , bassani , l. , bird , et al .",
+    "2008 , a&a , 483 , 749 peterson , b. m and wandel , a. 2000 , apj , 540 , l13 petrucci , p. o. , haardt , f. , maraschi , l. , et al .",
+    "2001 , apj , 556 , 716 pounds , k. a. , done , c. & osborne , j. p. 1995 , mnras , 277 , l5 risaliti , g. & elvis , m. 2004 , assl , 308 , 187 rogriguez - ardila , a. , pastoriza , m. g. , donzelli , c. j. 2000 , apjs , 126 , 63 rodriguez , j. , tomsick , j. a. , chaty , s. 2007 , a&a research notes submitted , atro - ph arxiv:0712.1005 sulentic , j. w. , zwitter , t. , marziani , p. , dultzin - hacyan , d. 2000 , apj , 536 , l5 sulentic , j. w. , zamfir , s. , marziani , p. , dultzin , d. 2008 , rmxac , 32 , 51 tanaka , y. , boller , th . , gallo , l. , keil , r , ueda , y. , 2004 , pasj , 56 , 9 tueller , j. , mushotzky , r. f.,barthelmy , s.,cannizzo , j. k. , gehrels , n. , markwardt , c .",
+    "b. , skinner , g .",
+    "k. , winter , l. m. , 2007 , arxiv:0711.4130 turner , t. j. , george , i. m. , & netzer , h. 1999 , apj , 526 , 52 veron - cetty , m .-",
+    "p . , veron , p. , goncalves , a. c. 2001 , a&a , 372 , 730 wu , x .- b . ,",
+    "wang , r. , kong , m. z. , liu , f. k. , han , j. l. 2004 , a&a , 424 , 793 wandel a. 1997 , apj , 490 , l131"
+  ],
+  "abstract_text": [
+    "<S> narrow line seyfert 1 galaxies ( nls1 ) are very interesting objects which display peculiar properties when compared to their broad line analogues ( bls1 ) . </S>",
+    "<S> although well studied in many wavebands , their behaviour at @xmath010 kev is poorly studied and yet important to discriminate between models invoked to explain the complexity observed in the x - ray band . here </S>",
+    "<S> we present for the first time high energy observations ( 17 - 100 kev ) of five nls1 galaxies ( 3 bona fide and 2 candidates ) detected by _ </S>",
+    "<S> integral_/ibis and provide for all of them a broad band spectral analysis using data obtained by _ </S>",
+    "<S> swift_/xrt below 10 kev . </S>",
+    "<S> the combined _ integral _ spectrum is found to be steeper ( @xmath1=2.6@xmath20.3 ) than those of classical seyfert 1 objects . </S>",
+    "<S> this is due to a high energy cutoff , which is required in some individual fits as in the average broad band spectrum . </S>",
+    "<S> the location of this high energy cutoff is at lower energies ( e@xmath360 kev ) than typically seen in classical type 1 agns ; a reflection component may also be present but its value ( r@xmath40.8 ) is compatible with those seen in standard seyfert 1s . </S>",
+    "<S> we do not detect a soft excess in individual objects but only in their cumulative spectrum . </S>",
+    "<S> our results suggest a lower plasma temperature for the accreting plasma which combined to the high accretion rates ( close to the eddington rate ) point to different nuclear conditions in broad and narrow line seyfert 1 galaxies , likely related to different evolutionary stages .    </S>",
+    "<S> [ firstpage ]    galaxies  agn  narrow line seyfert 1s .    </S>",
+    "<S> table 1 : integral / isgri and swift - xrt data    [ table:1 ]    [ cols=\"<,^,^,<,<,^,^,^\",options=\"header \" , ]     @xmath5 in units of 10 @xmath6 10@xmath7 @xmath8 + ` po ` : power law ` bb po ` : blackbody + power law + ` bb cutoffpl ` : blackbody + cut - off power law + ` bb bknpo ` : blackbody + broken powe law </S>"
+  ]
+}

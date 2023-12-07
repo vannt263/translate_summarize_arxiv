@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "in high energy physics assessing the uncertainty of a function ( _ i.  e. _ , a probability measure on a space of functions ) from a finite set of experimental data points has become a subject of great interest in the last years .",
+    "the case of structure functions in polarized deep inelastic scattering ( dis ) is interesting in this respect , because it provides a good testing ground for the fitting technique on a relatively small set of data .    in our analysis",
+    "we have used the data for the virtual - photon scattering asymmetry @xmath0 , since in this case the theoretical assumptions are minimized , and then different settings for the reconstruction of @xmath1 can be tested separately .",
+    "indeed , the extraction of the polarized structure function @xmath1 from the experimental measured asymmetries @xmath2 and @xmath3 is not so trivial : assumptions have to be made ( say , the choice of a parametrization for the unpolarized structure function ) and different experimental collaborations sometimes quote different results .",
+    "once a fit of @xmath0 is provided , such a parametrization might be an ideal input for a fit based on factorization scheme - invariant evolution equations aiming to a precise determination of @xmath4 , as proposed in @xcite .",
+    "in @xcite we have adopted the technique presented in @xcite to the available data for polarized dis . here",
+    "we present some details of our analysis not included in @xcite , as an example of application of our results .",
+    "the first step is the propagation of experimental information from the finite set of data points to the parametrization .",
+    "since experimental data are occurrences of a probability distribution , we use a monte carlo technique to sample such a distribution .",
+    "this sampling is performed by generating @xmath5 artificial replicas of data following a multi - gaussian distribution centered on each data point with the variance given by the experimental error @xmath6 where @xmath7 are gaussian distributed random numbers , @xmath8 is is the total uncorrelated error , obtained by summing in quadrature the statistical and uncorrelated systematic errors , @xmath9 is the normalization multiplicative error . at this stage of the analysis",
+    "we neglect correlated systematic errors since they are not available for all the experiments considered .",
+    "moreover the measurement of polarized structure functions is dominated by statistical errors .",
+    "the number of monte carlo replicas of the data is determined by the requirement that the average over the replicas reproduces the features ( central values and errors ) of the original experimental data with a given accuracy . in practice here",
+    "we use @xmath10 .",
+    "the second step is to build a representation of the probability measure in the space of asymmetry functions .",
+    "this construction can be done by taking a given functional form , and determining its parameters by fitting each of the generated replicas . in order to minimize the bias due to the assumptions made on the shape of the fitted functions we make use of a redundant parametrization , that is a parametrization with a sufficiently large number of parameters so that not only the underlying physical law , but also the statistical fluctuations of the data could be reproduced .",
+    "of course within this framework over - fitting is allowed and the minimization becomes crucial .",
+    "in practise we use a neural network which has 20 tunable parameters to perform a fit to 100 data points and we stop the minimization , when we start fitting statistical noise ( see @xcite for details ) .    at the end of this procedure",
+    "any observable can be computed from the fit by averaging over the sample .",
+    "as an example , if we neglect the contribution of @xmath11 , we have @xmath12",
+    "as an application and a test of our result , we compare our extraction of @xmath1 to clas data @xcite , which have not been used in the fit . in figure",
+    "[ fig : kinematics ] we show the kinematic range spanned by the data used in the fit ( see also table [ tab : data ] ) together with the bin of clas data against which we want to check our parametrisation .",
+    "as it can be easily seen most of the clas data are in a region where our fit is asked to extrapolate , both in @xmath13 and in @xmath14 .    comparing our extraction of @xmath0 with data ( see figure [ fig : g1 ] left pad ) , we notice that our description and clas data are compatible within 2-@xmath15 error band , and that resonances are naturally averaged by the fit .",
+    ".general features of experimental data used in the fit [ cols=\"<,<,<,^\",options=\"header \" , ]     in order to obtain the polarized structure function @xmath1 , we have to supplement our parametrization with some assumptions , whose impact can be tested easily once a parametrization of @xmath0 is given .",
+    "in the present analysis we take @xmath16 , and @xmath17 where @xmath18 , @xmath19 is given from the slac parametrization @xcite , and @xmath20 from @xcite .",
+    "we have @xmath21\\ , , \\label{eq : g1}\\end{aligned}\\ ] ] with @xmath22 equations ( [ eq : g1 ] ) and ( [ eq : g2ww ] ) explicitly show how to evaluate any quantity depending on the asymmetry , together with its associated error , in a straightforward way .",
+    "the result shown in the right pad of figure [ fig : g1 ] is consistent with the one given in @xcite .         and reconstruction of @xmath23 compared to clas data not used in the fit , title=\"fig : \" ]   and",
+    "reconstruction of @xmath23 compared to clas data not used in the fit , title=\"fig : \" ]    we have presented a fit based on a large fraction of the available experimental data for the asymmetry @xmath0 , and we have applied this result to predict some of the remaining data that were not included in the fit and lie in a region where our asymmetry needs to be extrapolated .",
+    "we find the result of this comparison to be satisfactory .",
+    "we conclude that our parametrization provides an interesting tool to study quark - hadron duality since no qcd evolution is used and averages of the structure function over resonances are naturally guaranteed by the smoothness of the fit ( see @xcite and references therein for further details on a usual approach to quark - hadron duality ) .",
+    "ldd is supported by an stfc advanced fellowship ."
+  ],
+  "abstract_text": [
+    "<S> we present a fit of the virtual - photon scattering asymmetry of polarized deep inelastic scattering which combines a monte carlo technique with the use of a redundant parametrization based on neural networks . </S>",
+    "<S> we apply the result to the analysis of clas data on a polarized proton target . </S>"
+  ]
+}

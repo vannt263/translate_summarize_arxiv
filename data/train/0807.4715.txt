@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "let @xmath3 be a piecewise linear function on the unit interval @xmath4 $ ] with two increasing branches , one of which has slope greater than one and the other less than one . in this paper we will show that @xmath3 is piecewise expanding under certain conditions ( first branch onto , and second branch touching the @xmath5-axis ) . in his paper @xcite ,",
+    "shafiqul islam proved similar results for functions that are linearly conjugate to @xmath3 where the first branch is not necessarily onto , but has slope @xmath6 , and the second branch does not necessarily hit the @xmath5-axis and has slope @xmath7 ; also , the point of discontinuity is fixed at @xmath8 .",
+    "a piecewise linear function @xmath3 is said to be piecewise expanding if all of its branches have slope @xmath9 .",
+    "if this is true for some iterate @xmath10 of @xmath3 , then we say @xmath3 is eventually piecewise expanding .",
+    "let @xmath11 be a normalized measure space and let @xmath12 be a measure preserving map such that @xmath13 for every @xmath14 .",
+    "@xmath3 is said to be exact if for every @xmath14 with @xmath15 we have , @xmath16    denote by @xmath17 the class of functions @xmath18 \\to [ 0,1]}$ ] defined by @xmath19}(x)+(sx+b)\\chi_{(d,1]}(x ) \\text{,}\\ ] ] where @xmath1 , @xmath2 , and @xmath20,@xmath21 , and @xmath22(the point of discontinuity of @xmath3 ) are such that @xmath23)\\subset[0,1]$ ] . in the next section",
+    "we prove results about piecewise expansion and exactness of functions that belong to @xmath17 .",
+    "in this section we will consider the case where @xmath24 , @xmath25 , @xmath26 and @xmath27 .",
+    "that is , @xmath28}(x)+(sx - s / p)\\chi_{(1/p,1]}(x ) \\text{.}\\ ] ] see figure below :        suppose bwoc that for every @xmath29 there exists an interval @xmath30 $ ] such that @xmath10 is not expanding on @xmath31 .",
+    "then there exists an interval @xmath32 such that @xmath10 is contracting(having slop @xmath33 1 ) on @xmath34 .",
+    "wlog assume @xmath10 has a constant slope on @xmath34 .",
+    "let @xmath35 @xmath36 note that @xmath37 and @xmath38 .",
+    "the minimum value of @xmath43 ( minimum number of consecutive contractions ) is achieved when @xmath44 and it is : @xmath45 since @xmath46 , @xmath47 so this gives us a lower bound on the number of contractions of @xmath34 .    on the other hand , we can find an upper bound for the number of consecutive contractions of @xmath34 by looking at the forward orbit of @xmath48 since intervals close to @xmath48 can have the most number of consecutive contractions .                          by theorem [ main theorem ] ,",
+    "there exist @xmath60 such that @xmath61 is piecewise expanding .",
+    "it is known that the composition of two piecewise linear maps whose branches touch zero has the same property . therefore , the branches of @xmath62 touch zero for any @xmath63 .",
+    "now , if @xmath64 is any interval in @xmath4 $ ] , since @xmath61 is piecewise expanding and all branches of @xmath61 touch @xmath65 , @xmath64 will eventually contain an interval @xmath66 containing @xmath65 . since the first branch of @xmath3 is onto and expanding and includes the fixed point @xmath65 , this interval @xmath66 eventually covers @xmath4 $ ] .",
+    "@xmath67 is piecewise expanding , and by theorem @xmath68 @xcite , all of its ergodic components are exact . by theorem @xmath69",
+    "@xcite each exact component contains a neighborhood of an inner partition point and images of these neighborhoods touch @xmath65 .",
+    "therefore , since any interval eventually covers @xmath4 $ ] under @xmath3 , @xmath67 has only one exact component .",
+    "since @xmath67 is exact , @xmath3 is exact .",
+    "boyarsky , abraham ; gra , pawe , _ laws of chaos .",
+    "invariant measures and dynamical systems in one dimension _ , probability and its applications , birkhuser boston , inc . ,",
+    "boston , ma , 1997 , mr1461536 ( 99a:58102 ) ."
+  ],
+  "abstract_text": [
+    "<S> in this paper we show that the piecewise linear map @xmath0}(x)+(sx - s / p)\\chi_{(1/p,1]}(x)$ ] , @xmath1 , @xmath2 which has an expanding , onto branch and a contracting branch is eventually piecewise expanding and exact . </S>"
+  ]
+}

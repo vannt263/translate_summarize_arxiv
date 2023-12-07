@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "the loop quantum gravity formulation ( for a review see @xcite ) is based on fixing , before quantizing , the so - called time - gauge condition , which corresponds to set the 4-bein vectors such that the time - like one @xmath0 is normal to spatial hypersurfaces .",
+    "if this hypothesis is neglected , a deep complication occurs in a first order formulation , since second - class constraints arise .",
+    "barros and sa @xcite demonstrated that these second - class constraints can be solved , such that only first class ones remain .",
+    "he concluded that this feature demonstrate that boosts can be safely fixed before the quantization    however , alexandrov @xcite provided a covariant formulation in which second - class constraints are solved by replacing poisson brackets with dirac ones .",
+    "this way he was able to recognize a gauss constraint for the lorentz group , but the discrete structure is lost .",
+    "therefore , the development of a formulation , in which the lorentz frame is not fixed , can provide a deep insight towards the understanding of gravitational quantum features .",
+    "we are going to provide the proof that in a second order formulation of general relativity , the time - gauge condition does not provide any boost symmetry violation on a quantum level @xcite .",
+    "this result has been obtained by fixing the lorentz frame before the quantization and recognizing a unitary operator connecting the quantum description in different frames .",
+    "let us consider an hyperbolic space - time manifold @xmath1 endowed with a metric @xmath2 and a @xmath3 representation    @xmath4",
+    "@xmath5 being spatial 3-hypersurfaces with coordinates @xmath6 , while @xmath7 denotes the real ( time - like ) coordinate .",
+    "the vector field @xmath8 normal to @xmath5 can be written in terms of the lapse function @xmath9 and the shift vector @xmath10 as follows    @xmath11    if 4-bein vectors @xmath12 are introduced , they can be expressed as    @xmath13    where the links between their components and the lapse function , the shift vector and the 3-metric @xmath14 are given by the following relations    @xmath15    3-bein vectors corresponding to @xmath14 read @xmath16 with @xmath17 .",
+    "the time - gauge condition means setting @xmath18 on @xmath5 and it can be obtained by a boost @xmath19 with @xmath20 .    therefore if @xmath21 the @xmath12 frame is not at rest with respect to @xmath5 , but moves with velocity components @xmath22 .",
+    "we expect that some device ( classical matter field ) allows to give a gauge invariant character to the statement `` at rest with respect to @xmath5 '' .",
+    "let us now consider a lagrangian formulation taking as configuration variables @xmath23 ; by evaluating conjugate momenta ( @xmath24 , @xmath25 , @xmath26 and @xmath27 ) , one recognizes that there are some constraints @xcite .",
+    "hence , once lagrangian multipliers @xmath28 are considered , together with @xmath29 , the hamiltonian density can be written as    @xmath30    where @xmath31 and @xmath32 are the super - hamiltonian and the super - momentum , respectively , whose expressions are given by    @xmath33    it is well - known that conditions @xmath34 arise as secondary constraints from primary ones @xmath35 .",
+    "as far as @xmath36 and @xmath37 are concerned , their expressions are as follows @xmath38 and , from their action on the phase space , @xmath39 and @xmath40 ensure the invariance under boosts and rotations of the 4-bein , respectively .",
+    "a lorentz frame can be chosen by fixing @xmath41 equal to some space - time functions @xmath42 and solving boost , so finding @xmath43                                  which does not coincide with the rotation constraint in the new sector . however , by multiplying the expression ( [ urot ] ) times @xmath62 and retaining the leading orders in @xmath63 , it can be shown @xcite that the conditions @xmath64 and @xmath65 are equivalent .",
+    "this result completes the proof that @xmath54 maps physical states between @xmath66 and @xmath67 sectors .",
+    "hence , even though the lorentz frame is fixed before the quantization , nevertheless _ the boost symmetry can be realized on a quantum level_."
+  ],
+  "abstract_text": [
+    "<S> we perform a canonical quantization of gravity in a second - order formulation , taking as configuration variables those describing a 4-bein , not adapted to the space - time splitting . </S>",
+    "<S> we outline how , neither if we fix the lorentz frame before quantizing , nor if we perform no gauge fixing at all , is invariance under boost transformations affected by the quantization . </S>"
+  ]
+}

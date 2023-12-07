@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "recent observations show the gradual increase of the stellar mass density of the universe with time ( e.g. , * ? ? ?",
+    "* ) . however , the studies on the stellar mass of galaxies at @xmath7 are restricted because the lack of sufficiently deep mid - infrared data . with the advent of spitzer",
+    ", we can access the rest - frame optical wavelength , and thus , the stellar mass of galaxies at @xmath0 . in this work ,",
+    "we explore the stellar mass of lyman break galaxies ( lbgs ) at @xmath0 using the subaru / s - cam imaging data and the spitzer / irac data .",
+    "we use the lbgs selected by @xcite . among them , we selected objects which appear to be isolated and not contaminated by neighboring objects in irac images with eye inspection . with the archival irac images for the goods - n and irac images we observed in the flanking fields , we construct observed seds for the large sample .",
+    "we use the sed fitting algorithms based on @xcite .",
+    "the observed seds are compared to the bruzual & charlot 2003 stellar population synthesis models with @xmath8 and the salpeter imf assuming the continuous star formation history .",
+    "we use the calzetti s extinction law .",
+    "we also consider an effect of h@xmath9 emission line .",
+    "the median values of the resulting stellar masses , ages , color excesses , and star formation rates are @xmath4 , 25 myr , 0.23 mag , and @xmath10 , respectively .",
+    "the detailed results are presented by ohta et al .",
+    "( 2008 this volume ) .",
+    "the large sample of lbgs allows us to derive the stellar mass function ( smf ) .",
+    "we construct a fiducial smf after applying incompleteness corrections .",
+    "the smf of lbgs at @xmath0 is shown in the left panel of figure [ figure ] .",
+    "the smf of our sample is compared with other observations and theoretical predictions .",
+    "although our result disagrees with the result by @xcite , who only use up to @xmath11-band data in the sed fitting , our resulting smf broadly agree with @xcite , who incorporate irac data .",
+    "@xcite reported that stellar masses tend to be overestimated without including irac data in the sed fitting , especially for @xmath7 galaxies .",
+    "the number densities of our smf are generally smaller than those of the predictions of semi - analytic models .",
+    "our result shows a downsizing phenomenon from @xmath0 to @xmath12 : the number densities in massive end are comparable to some @xmath12 results but the number densities in less massive part are smaller than the @xmath12 results . by integrating the fiducial smf down to @xmath5 , the cosmic stellar mass density at @xmath0",
+    "is calculated to be @xmath6 .",
+    "the stellar mass estimation depends largely on the assumed star formation history .",
+    "taking into account the uncertainties , we estimate a possible upper limit to be @xmath13 .",
+    "the right panel of figure [ figure ] shows that our result broadly agrees with the overall trend of the increase of the stellar mass density with time .",
+    "the possible upper limit of our result is almost comparable to predictions by semi - analytic models .",
+    "however , the models globally tend to overproduce the stellar mass at most redshift .",
+    "drory , n. et al .",
+    "2005 , , 619 , l131 elsner , f. , feulner , g. , & hopp , u. 2008 , , 477 , 503 iwata , i. et al .",
+    "2007 , , 376 , 1557 sawicki , m. & yee , h. k. c. 1998 , , 115 , 1329 wilkins , s. m. , trentham , n. & hopkins , a. m. 2008 , , 385 , 687"
+  ],
+  "abstract_text": [
+    "<S> we present the results of spectral energy distribution ( sed ) fitting analysis for lyman break galaxies ( lbgs ) at @xmath0 in the goods - n and its flanking fields . from the sed fitting for @xmath1 objects </S>",
+    "<S> , we found that the stellar masses range from @xmath2 to @xmath3 with a median value of @xmath4 . by using the large sample of galaxies at @xmath0 </S>",
+    "<S> , we construct the stellar mass function ( smf ) with incompleteness corrections . by integrating down to @xmath5 , the cosmic stellar mass density at @xmath0 is calculated to be @xmath6 . </S>"
+  ]
+}

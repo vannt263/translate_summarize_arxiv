@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the h1 and zeus experiments at hera ( desy , hamburg ) allowed the study of electron - proton and positron - proton collisions at center of mass energies of up to 920 gev . during the so called hera",
+    "i running phase ( 1994 - 2000 ) about 100 @xmath2 of data were collected per experiment , mainly coming from @xmath3 collisions .",
+    "after the collider upgrade in 2000 - 2001 , resulting in a significant increase of luminosity , about 400 @xmath2 of data per experiment were collected in the so called hera  ii phase ( 2002 - 2007 ) .",
+    "moreover , spin rotators installed at the h1 and zeus interaction regions provided longitudinal electron and positron polarization . with average lepton beam polarization of about 30 - 40% and significant increase of integrated data luminosity ( especially of collected @xmath4 sample ) hera  ii",
+    "has significantly increased the sensitivity of the experiments to physics beyond the sm .",
+    "new interactions between electrons and quarks involving mass scales above the center - of - mass energy can modify the deep inelastic @xmath5 scattering cross sections at high @xmath0 via virtual effects , resulting in observable deviations from the standard model predictions .",
+    "four - fermion contact interactions are an effective theory , which allows us to describe such effects in the most general way .",
+    "vector @xmath1 contact interactions considered at hera can be represented as an additional terms in the standard model lagrangian : @xmath6 where the sum runs over electron and quark helicities , and a set of couplings @xmath7 describe the helicity and flavor structure of contact interactions .",
+    "various scenarios , with different chiral structures , were considered by h1 and zeus .",
+    "limits on the model parameters were derived from the analysis of neutral current deep inelastic scattering ( nc dis ) events .",
+    "details of the analyses are described in  @xcite .",
+    "in the general case ( also referred to as compositeness models ) , limits on the effective `` new physics '' mass scale @xmath8 ( compositeness scale ) are extracted assuming the relation @xmath9 .",
+    "figure  [ fig : ci ] shows the results obtained by the zeus for different compositeness models , based on the analysis of 1994 - 2006 data . limits on the effective mass scale @xmath8 range form 2 up to 8 tev .",
+    "corresponding limits obtained by the h1 collaboration , based on the hera i data only , range from 1.6 to 5.5 tev  @xcite .     and @xmath10 data from zeus ( 1994 - 2006 ) .",
+    "horizontal bars indicate the 95% cl limits on @xmath11 ; values outside these regions are excluded .",
+    "@xmath12 are the 95% cl limits on the compositeness scale for @xmath13 . ]    for the model with large extra dimensions  @xcite both collaboration set limits on the effective planck mass scale @xmath14 . for negative coupling sign scales below 0.90  tev ( zeus 1994 - 2006 ) and 0.78  tev ( h1 1994 - 2000  @xcite ) are excluded on 95% cl . for positive couplings the limits are 0.88  tev and 0.82  tev respectively .",
+    "possible effects of graviton exchange on the @xmath15 distribution of nc dis events , as measured by zeus , are shown in figure  [ fig : led ] .    ) and negative ( @xmath16 ) couplings .",
+    "results of the experiments are normalized to the standard model expectations using cteq5d parton distributions . ]         and @xmath17 leptoquarks  @xcite . the indirect limits from zeus and l3 and the direct d0 limits are shown for comparison . ,",
+    "title=\"fig : \" ]   and @xmath17 leptoquarks  @xcite .",
+    "the indirect limits from zeus and l3 and the direct d0 limits are shown for comparison .",
+    ", title=\"fig : \" ]    also , searches for possible quark substructure can be made by measuring the spatial distribution of the quark charge . by using the `` classical '' form factor approximation , and assuming that both electron and exchanged bosons are point - like , limits on the mean - square radius of the electroweak charge of the quark can be set . from the analysis of combined hera",
+    "i and hera ii data quark radii bigger than @xmath18  cm ( h1 ) and @xmath19  cm ( zeus ) have been excluded at 95% cl .",
+    "figure  [ fig : rq ] shows the h1 data together with 95% c.l .",
+    "exclusion limits for the effective radius of the quark  @xcite .",
+    "contact interactions can also be used to describe the effects of virtual leptoquark production or exchange at hera , in the limit of large leptoquark mass @xmath20 .",
+    "the zeus collaboration have used data taken between 1994 and 2006 to constrain the leptoquark yukawa coupling for different leptoquark types and masses .",
+    "limits on the ratio between mass and yukawa coupling range from 0.29 to 2.08  tev . in figure",
+    "[ fig : lq ] indirect limits from zeus are compared to the h1 exclusion limits at 95% c.l . on the yukawa coupling of @xmath21 and @xmath17 leptoquarks , as a function of their mass  @xcite .",
+    "limits from lep and the tevatron are also indicated .",
+    "lepton beam polarization and high luminosity delivered at hera ii opened a new window for precise ew studies and searches for physics beyond sm .",
+    "measured nc dis cross sections at high @xmath0 are in very good agreement with sm , so only limits on deviations from sm could be set within different models .",
+    "hera running has finished , but analyses of large samples of data are still ongoing and more interesting results can be expected ."
+  ],
+  "abstract_text": [
+    "<S> the h1 and zeus collaborations at hera have searched for signatures of physics beyond the standard model with high @xmath0 neutral current deep inelastic electron - proton and positron - proton scattering events . </S>",
+    "<S> no significant deviations from standard model predictions were observed . </S>",
+    "<S> various @xmath1 contact interaction models have been considered . </S>",
+    "<S> limits on the compositeness scale in general @xmath1 contact interaction models , mass to the yukawa coupling ratio for heavy leptoquarks , the effective planck mass scale in models with large extra dimensions and the effective quark charge radius are presented . </S>"
+  ]
+}

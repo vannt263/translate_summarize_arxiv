@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "i am grateful to yu.p.stepanovsky for helpful discussions and constant interest on my work ."
+  ],
+  "abstract_text": [
+    "<S> we obtain bargmann - michel - telegdi equations of motion of classical spinning particle using lagrangian variational principle with grassmann variables .    </S>",
+    "<S> the famous bargmann - michel - telegdi ( bmt ) equations  @xcite describe the motion of classical spinning particle with anomalous magnetic moment in the constant and homogeneous electromagnetic field ( see also  @xcite for textbook treatment ) . </S>",
+    "<S> however , their validity in the inhomogeneous field is unclear and the corresponding variational principle is unknown . to resolve these difficulties , in the present note we use appropriate generalization of a method proposed by ravndal  @xcite to describe the motion of classical spinning particle with no anomalous magnetic moment using four - dimensional grassmann variables . unlike the usual approach ( see  @xcite and references therein ) , the ravndal s one avoids any use of fifth coordinate which considerably simplifies the theory . </S>",
+    "<S> later the motion in schwarzschild  @xcite , taub - nut  @xcite , coulomb  @xcite , and in the combined gravimagnetic  @xcite backgrounds as well as in the torsion field  @xcite were considered within the ravndal s approach .    </S>",
+    "<S> working in the same approach , in the present letter we formulate an appropriate variational principle for classical spinning particle with anomalous magnetic momentum and show that the corresponding equations of motion coincide with bmt ones at the lowest orders of grassmann analytic expansion . </S>",
+    "<S> see also  @xcite for the description of anomalous magnetic moment within the usual five - dimensional approach .    </S>",
+    "<S> let @xmath0 be the supercommutative superalgebra with infinite number of generators and @xmath1 , then @xmath2 , where @xmath3 and @xmath4 are even and odd parts of @xmath5 respectively ( see  @xcite for basic definitions of superspaces and superalgebras ) . </S>",
+    "<S> let @xmath6 and @xmath7 for each @xmath8 , so we deal with superspace @xmath9 , where @xmath10 are coordinates of configuration space and @xmath11 are grassmann variables which describe the spin degrees of freedom .    </S>",
+    "<S> let @xmath12 be a `` super - electromagnetic field '' , i.e. for each @xmath13 it is a function @xmath14 which obeys the second pair of `` super - maxwell equations '' @xmath15 where @xmath16 is the so - called even derivative  @xcite .    </S>",
+    "<S> consider the lagrangian ( cf .  </S>",
+    "<S> @xcite for the case @xmath17 ) @xmath18 where @xmath19 is the magnetic moment of a particle , @xmath20 is the spin tensor and overdots mean the derivatives wrt proper time @xmath21 of the particle . impose the constraint ( cf .  </S>",
+    "<S> @xcite ) @xmath22 and let @xmath23 be the corresponding lagrange multiplier . observe that the chain rule holds for superdifferentiable functions ( theorem 4.4.2 of  @xcite ) . </S>",
+    "<S> then varying the action @xmath24 wrt @xmath25 and @xmath26 we obtain equations of motion ( cf .  </S>",
+    "<S> @xcite for the case @xmath27 , then @xmath28 ) @xmath29 the above equations should preserve the constraint  ( [ eq2 ] ) , so using  ( [ smaxw ] ) we obtain @xmath30    for @xmath31 let @xmath32 be the nonzero term of lowest degree wrt the generators of @xmath0 . </S>",
+    "<S> then @xmath33 is of 0th degree , @xmath34 is of 1th degree , @xmath35 is of 0th degree and it is easily seen that it obeys the second pair of usual maxwell equations since @xmath36 , so it may be interpreted as usual electromagnetic field . </S>",
+    "<S> suppose @xmath37 , then using  ( [ eq3]),([eq4 ] ) we obtain the closed system of equations of motion @xmath38 } + ( \\mu'-e ) \\underline{f}\\vphantom{f}^{\\rho\\sigma } \\underline{\\dot{x}}\\vphantom{x}_{\\ : \\rho }   \\underline{s}\\vphantom{s}_{\\ : \\sigma}^{\\ : \\ [ \\mu } \\underline{\\dot{x}}\\vphantom{x}^{\\nu ] } \\label{eq8}\\end{aligned}\\ ] ] which are equivalent to bmt ones . </S>"
+  ]
+}

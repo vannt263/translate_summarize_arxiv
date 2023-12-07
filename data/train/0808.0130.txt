@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "series of test - beam measurements have been performed on the calorimetric system of cms over the last few years in order to optimize its design and study its performance .",
+    "detailed monte - carlo simulations of the test - beam configuration have been made and the results compared with these test - beam measurements , leading to a number of improvements in the simulation code .",
+    "presented here is a comparison between the results from the 2006 test - beam and the geant4-based monte - carlo simulations of this setup .",
+    "the compact muon solenoid detector ( cms)@xcite is one of the general purpose detectors for the large hadron collider ( lhc ) at cern , to start operations in 2008 . it s calorimetric system consists of electromagnetic calorimeter ( ecal ) and hadronic calorimeter ( hcal ) positioned inside the superconducting solenoid , and a pair of very - forward calorimeters positioned outside of the return yoke of the magnet ( fig.[cms_calorimeters]a ) . for the purpose of this study only one super - module of ecal crystals , without the preshower in front , and a pair of hcal barrel wedges were used , as shown in fig.[cms_calorimeters]b .",
+    "the outer calorimeter ( ho ) was present in both the test - beam environment and in the simulation geometry , but was intentionally left out of the comparisons , as its inclusion introduces additional uncertainties which were not well understood at the time of this study .",
+    "the forward calorimeter ( vf ) was not included in the study .    [ cols=\"^,^ \" , ]      fig.[long_shower ] shows the comparison of the longitudinal shower profiles measured in hb2 wedge and simulated with three different physics lists .",
+    "the qgsp - bert physics list , using the bertini - cascade for low - energy interactions , shows best agreement with the measured profiles .",
+    "fig.[ecal_profile ] compares the transverse shower profiles measured in ecal , and the transverse shower containment .",
+    "agreement is good for both physics lists shown .    ]",
+    "an important measurement for the calibration of hcal is the fraction of events which leave mip - like signal in ecal . as fig.[mip_fraction ] shows , the bertini physics list has a major discrepancy at low energies , which is attributed to the inadequate description of the quasi - elastic processes .",
+    "this is one of the major issues which the geant4 team is addressing in the next releases of the software .",
+    "geant4 simulated response is in overall agreement with the measured data .",
+    "we still observe small discrepancies in the following quantities :    * simulated resolution is much better than the measured one , which is due to the smaller variation in signal distribution in hcal at high energies . * some discontinuities in the response curve at intermediate energies . *",
+    "fraction of mip - like events in ecal has peculiarities due to quasi - elastic processes in bertini models .      9 , technical proposal , cern / lhcc 94 - 38 , 1994 , geant4 collaboration , geant4 : a simulation toolkit , nucl .",
+    "instrum . meth . , a506 , 2003 , 250 - 303 , geant4 collaboration , geant4 developments and applications , ieee trans .",
+    ", 53 , 2006 , 270"
+  ],
+  "abstract_text": [
+    "<S> cms experiment is using geant4 for monte - carlo simulation of the detector setup . </S>",
+    "<S> validation of physics processes describing hadronic showers is a major concern in view of getting a proper description of jets and missing energy for signal and background events . </S>",
+    "<S> this is done by carrying out an extensive studies with test beam using the prototypes or real detector modules of the cms calorimeter . </S>",
+    "<S> these data are matched with geant4 predictions . </S>",
+    "<S> tuning of the geant4 models is carried out and steps to be used in reproducing detector signals are defined in view of measurements of energy response , energy resolution , transverse and longitudinal shower profiles for a variety of hadron beams over a broad energy spectrum between 2 to 300 gev / c . </S>"
+  ]
+}

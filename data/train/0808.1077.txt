@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "the mass of a hadron having @xmath1 number of quarks in erhm can be obtained as@xcite , m_n ( q_1q_2 ..... )  =  _ i=1^p_n(q_i , p)_conf  + _ i < j=1^p_n ( q_iq_j)_coul + _",
+    "i < j=1^p _ n^j(q_i , q_j)_sd [ eq : hadronmass]where the first sum is the total confined energies of the constituting quarks of the hadron , the second sum corresponds to the residual colour coulomb interaction energy between the confined quarks and the third sum is due to spin dependent interaction .",
+    "the intrinsic energy of the quarks in a mesonic system is given by _",
+    "n ( q_i,2)_conf  = [ eq : epsilon ] here @xmath2 represent the masses of the quark and the antiquark constituting the meson .",
+    "the coulombic part of the energy is computed using the residual coulomb potential given by@xcite , @xmath3 , where @xmath4 represents the state dependent colour dielectric `` coefficient''@xcite .",
+    "we construct the wave functions for bottomonium by retaining the nature of single particle wave function but with a two particle size parameter @xmath5 instead of @xmath6@xcite .",
+    "coulomb energy is computed perturbatively using the confinement basis with two particle size parameter defined above for different states as @xmath7 .",
+    "the fitted parameters to obtain experimental ground state mass are @xmath8 = 4637 mev , @xmath9 and the confinement parameter @xmath10 mev@xmath11 .    from the center of weight masses ,",
+    "the pseudoscalar and vector mesonic masses are computed by incorporating the residual two body chromomagnetic interaction through the spin - dependent term of the confined one gluon exchange propagator perturbatively as @xmath12 .",
+    "we consider the two body spin - hyperfine interaction of the residual ( effective ) confined one gluon exchange potential ( cogep)@xcite . the computed masses in comparison with experimental and other theoretical model results are given in table [ tab : bbmasses ] .",
+    "we employ radial wave functions to compute the hadronic as well as radiative decay widths of the vector and pseudoscalar mesons of @xmath13 system based on the treatment of perturbative qcd as@xcite .",
+    "the standard van - royen - weisskopf formula has been used without radiative correction term for computing leptonic decay widths@xcite .",
+    "the computed leptonic decay widths are tabulated in table [ tab : leptdcaywdth ] alongwith other theoretical as well as experimental values .",
+    "the van royen - weisskopf formula used for the meson decay constants is obtained in the two - component spinor limit@xcite . @xmath14 and @xmath15 are related to the ground state radial wave function @xmath16 at the origin , by the vr - w formula modified for the colour as , @xmath17 , where @xmath18 is the ground state mass of the pseudoscalar / vector meson . in the present computations , @xmath14 = 711 mev which is closer to the experimental value of 710 @xmath19 15 mev , while the other results are 660 @xcite , 772 @xcite and 812 @xcite .",
+    "the scalar charge radii and m1 transitions of the bottomonia in a given eigenstate are obtained using @xmath20^{1/2 } $ ] , @xmath21 where @xmath22 is the energy of the emitted photon .",
+    "the computed values of m1 transitions are shown in table [ tab : m1trans ] .",
+    "the scalar charge radii ( in fm ) of @xmath0-wave bottomonia are 0.1854 ( 2.2338 ) , 0.3997 ( 1.6325 ) , 0.7070 ( 1.0890 ) and 1.1649 ( 0.9623 ) respectively from 1s through 4s states , where the values in the brackets are wave functions ( in gev@xmath11 ) .",
+    "99 p c vinodkumar _ et al _ ; eur .",
+    ". jnl . * a4 * , 83 ( 1999 ) k gottfried , v f weisskopf , concepts of particle physics ; 397 ( 1986 ) j n pandya , p c vinodkumar , pramana j. phys * 57 * , 821 ( 2001 ) p c vinodkumar _ et al _ ; pramana jnl . of phys . *",
+    "39 * , 47 ( 1992 ) close f e , quarks and partons ( 1979 ) c quigg , j l rosner , phys .",
+    "reports * 56 * , 222 ( 1979 ) r van royen , v f weisskopf , _",
+    "nuovo cimento _ * a50 * , 617 ( 1967 ) cvetic _ et al _ , phys . lett . *",
+    "b596 * , 84 ( 2004 ) y m yao _ et al _ [ particle data group ] ; j. phys . * g33*,1 ( 2006 ) z wang et al , phys . lett .",
+    "* b 615 * , 79 ( 2005 ) r a coimbra , o oliveira ; hep - ph/0610142 ( 2006 ) s f radford , w w repko ; phys . rev .",
+    "* d75 * , 074031 ( 2007 ) d ebert , r n faustov , v o galkin ; phys . rev . * d 67 * , 014027 ( 2003 ) a v shoulgin , g m vereshkov , o v lutchenko ; j. phys . * g29 * , 1245 ( 2003 ) s m ikhdair , r sever ; int . j. mod",
+    ". phys . * a 21 * , 3989 ( 2006 ) v v anisovich _",
+    "et al _ ; phys .",
+    "70 * , 63 ( 2007 ) t a lhde ; nucl.phys .",
+    "* a714 * , 183 ( 2003 ) world average , n brambilla et al ; hep - ph/0412158v2"
+  ],
+  "abstract_text": [
+    "<S> the masses of bottomonium @xmath0 and @xmath1-states , decay constants , leptonic as well as radiative decay widths are computed in the framework of extended harmonic confinement model without any additional parameters .    </S>",
+    "<S> = 11.6pt </S>"
+  ]
+}

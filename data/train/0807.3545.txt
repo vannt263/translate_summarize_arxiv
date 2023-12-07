@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "stellar population gradients offer a valuable probe of the star formation and chemical evolution of early - type galaxies .",
+    "simple models of classic monolithic collapse @xcite can be ruled out by the relative weakness of the observed metallicity gradients ( e.g. * ? ? ?",
+    "generally , age gradients are expected to be small for the short collapse times required for @xmath1-enhancement ( e.g. * ? ? ?",
+    "* ) , while the @xmath1-enhancement itself could show positive or negative gradients @xcite . within the hierarchical @xmath6cdm models ( e.g. *",
+    "* ; * ? ? ?",
+    "* ; * ? ? ?",
+    "* ) , merger gas content and feedback prescriptions can be investigated @xcite ; mergers would tend to dilute or erase z / h gradients ( e.g. * ? ? ?",
+    "* ) , although dissipation could trigger star formation at the core , creating age gradients @xcite .    traditionally , observational studies of radial trends in early - type galaxies have employed long - slit spectroscopy in local cluster and field environments ( e.g. @xcite ; @xcite ; @xcite ; @xcite ) . in general , most studies find flat age gradients , small @xmath1-abundance gradients ( either positive or negative ) , and large negative radial trends in metallicity .",
+    "long - slit spectrographs generally have a good optical throughput .",
+    "however , the spatial data is immediately reduced to one - dimension and is dependent on the slit orientation , with most of the light from the galaxy undetected .",
+    "the use of an integral field unit ( ifu ) , which enables both spectral and spatial coverage , allows the analysis of the entire galaxy . with careful treatment , light from the entire circumference",
+    "can be binned to give radial trends unbiased by a slit orientation .",
+    "one notable use of an ifu in this field is the spectrographic areal unit for research on optical nebulae ( sauron ) project @xcite .",
+    "the instrument has good spatial resolution allowing the creation of maps for each measured parameter , particularly in kinematics .",
+    "however , the spectral range of sauron is limited to four useful line indices ( h@xmath7 , fe5015 , mgb5177 , fe5270@xmath8 ) . from spatial maps of the iron lines , @xcite",
+    "deduce that the metallicity gradients are generally negative and are roughly aligned with the light profiles .",
+    "the h@xmath7 maps are typically flat , with a strong central peak in a few galaxies , interpreted as recent star formation activity in the core .",
+    "stellar population maps for the sauron early - type spiral sample are analysed in @xcite ."
+  ],
+  "abstract_text": [
+    "<S> we present results from a pilot study of radial stellar population trends in early - type galaxies using the vlt vimos integral field unit ( ifu ) . </S>",
+    "<S> we observe twelve galaxies in the cluster abell 3389 ( z @xmath0 0.027 ) . </S>",
+    "<S> for each galaxy , we measure 22 line - strength indices in multiple radial bins out to at least the effective radius . </S>",
+    "<S> we derive stellar population parameters using a grid inversion technique , and calculate the radial gradients in age , metallcity and @xmath1-abundance . </S>",
+    "<S> generally , the galaxies in our sample have flat radial trends in age and [ @xmath1/fe ] , but negative gradients in [ z / h ] ( 0.20 @xmath2 0.05 dex ) . combining our targets with two similar , long - slit studies to increase sample size , we find that the gradients are not correlated with the central velocity dispersion or @xmath3-band luminosity ( both proxies for galaxy mass ) . however , we find that the age and metallicity gradients are both anti - correlated with their respective central values ( to @xmath4 4@xmath5 ) , such that galaxies with young cores have steeper positive age gradients , and those with metal - rich centres have strong negative [ z / h ] gradients .    </S>",
+    "<S> [ firstpage ]    galaxies : elliptical and lenticular , cd  galaxies : stellar content </S>"
+  ]
+}

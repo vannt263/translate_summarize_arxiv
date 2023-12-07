@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "we have searched the spitzer space telescope archive ( with _ leopard _ ) for observations covering the positions of all low mass x - ray binaries with known optical counterparts listed in liu et al .",
+    "table 1 details the data available for each source as of march 21 , 2008 .",
+    "note that not all of the data listed in the table are public at the time of this writing . accepted cycle 5 programs are listed , but not yet observed . in table 2 we provide results as to whether a particular source is detected or not , together with published spitzer measurements of lmxbs . in this context , ( f ) denotes faint , in a most subjective fashion .",
+    "( s ) indicates that some pixels of the source psf are saturated .",
+    "we have found 17 newly detected sources in addition to the eight published spitzer detections of lmxbs .",
+    "photometry of these sources is still ongoing and will be published at a later date .",
+    "the research described in this poster was carried out , in part , at the jet propulsion laboratory , california institute of technology , and was sponsored by the national aeronautics and space administration through a grant to the pi .",
+    "we made use of data products from the 2 micron all sky survey , which is a joint project of the university of massachusetts and the infrared processing and analysis center / california institute of technology , funded by the national aeronautics and space administration and the national science foundation .",
+    "it also utilized nasa s astrophysics data system abstract service and the simbad database operated by cds , strasbourg , france .",
+    "gallo , e. et al .",
+    "2007 , apj , 670 , 600 liu , q.z . , van paradijs , j. , & van den heuvel , e.p.j . 2007 ,",
+    "a&a , 469 , 807 migliari , s. et al .",
+    "2006 , apj , 643 , l41 migliari , s. et al .",
+    "2007 , apj , 670 , 610 muno , m. , & mauerhan , j. 2006 , apj , 648 , l135 tomsick , j.a .",
+    "2004 , baas , 36 , 1516 wachter , s. , bandyopadhyay , r.m . ,",
+    "markoff , s. , & smale , a.p .",
+    "2006 , baas , 38 , 334"
+  ],
+  "abstract_text": [
+    "<S> we present preliminary results from our archival spitzer space telescope program aimed at characterizing the mid - ir properties of compact objects , both isolated and in binary systems , i.e. white dwarfs , x - ray binaries , cataclysmic variables , and magnetars . </S>",
+    "<S> most of these sources are too faint at mid - ir wavelengths to be observable from the ground , so this study provides the very first comprehensive look at the mid - ir emission of these objects . here </S>",
+    "<S> we present our results for the low mass x - ray binaries ( lmxbs ) . </S>",
+    "<S> we considered all of the systems listed in the most recent catalog of liu et al . </S>",
+    "<S> ( 2007 ) that have known optical counterparts . </S>",
+    "<S> the particular goals of our projects encompass : to establish the mid - ir spectral energy distribution , to search for the signatures of jets , circumbinary disks , low mass or planetary companions and debris disks , and to study the local environment of these sources . </S>"
+  ]
+}

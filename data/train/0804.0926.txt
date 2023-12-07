@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "fermionic and bosonic fields are assigned as table1 and table2 respectively .",
+    ".the @xmath6 assignment for the leptons .",
+    "the subscript @xmath7 indicates a @xmath1 singlet , and the subscript @xmath8 running from @xmath9 to @xmath10 stands for a @xmath1 doublet .",
+    "@xmath11 s denote the @xmath12-doublet leptons , while @xmath13 and @xmath14 are the @xmath12-singlet leptons . [ cols=\"^,^,^,^,^,^,^\",options=\"header \" , ]     under @xmath0 ( which plays the role of @xmath15 parity in the mssm ) , only the right - handed neutrinos @xmath16 and the extra higgs @xmath17 are odd .",
+    "the quarks are assumed to belong to @xmath18 of @xmath1 with @xmath19 of @xmath20 so that the quark sector is basically the same as the sm , where the @xmath1 singlet higgs @xmath21 with @xmath19 of @xmath20 plays the role of the sm higgs in this sector .",
+    "no other higgs can couple to the quark sector at the tree - level . in this way we can avoid tree - level fcncs in the quark sector .",
+    "so , @xmath22 is introduced to forbid tree - level couplings of the @xmath1 singlet higgs @xmath21 with the leptons and simultaneously to forbid tree - level couplings of @xmath23 and @xmath24 with the quarks .",
+    "the most general renormalizable @xmath25 invariant yukawa interactions in the leptonic sector can be gained . by the higgs mechanism ,",
+    "the charged lepton and the neutrino masses are generated from the @xmath26 invariant vevs @xcite , and the mass matrix becomes @xmath27 all the mass parameters appearing in ( [ mlepton ] ) can be assumed to be real .",
+    "now we can lead some predictions for the lepton secotor .",
+    "* acknowledgement *    i thank organizers of si2007 , especially prof .",
+    "the summer institute 2007 is sponsored by jsps grant - in aid for scientific research ( b ) no .",
+    "16340071 and also partly by the asia pacific center for theoretical physics , apctp .",
+    "e.  ma , phys . rev .",
+    "* d73 , * 077301 ( 2006 ) ; a.  zee , phys . lett . * b93 , * 389 ( 1980 ) [ erratum - ibid .",
+    "* b95 , * 461 ( 1980 ) ] ; nucl . phys .",
+    "* b264 , * 99 ( 1986 ) ; k.s .",
+    "babu , phys .",
+    "lett . * b203 , * 132 ( 1988 ) ; e.  ma , phys .",
+    "* 81 , * 1171 ( 1998 ) ;    y.  kajiyama , jisuke  kubo , hiroshi  okada , phys.rev .",
+    "d75 ( 2007 ) 033001 jisuke kubo , hiroshi okada , fumiaki sakamaki , phys.rev . d70 ( 2004 ) 036007 k.  griest , phys . rev .",
+    "* d38 , * 2357 ( 1988 ) .",
+    "k.  griest , m.   kamionkowski and m.s .",
+    "turner , phys . rev .",
+    "* d41 , * 3565 ( 1990 ) ."
+  ],
+  "abstract_text": [
+    "<S> it is now clear that the masses of the neutrino sector are much lighter than those of the other three sectors.there are many attempts to explain the neutrino masses radiatively by means of inert higgses , which do nt have vacuum expectation values . </S>",
+    "<S> then one can discuss cold dark matter candidates , because of no needing so heavy particles and having a @xmath0 parity symmetry corresponding to the r - parity symmetry of the mssm . the most famous work would be the zee model@xcite .    </S>",
+    "<S> recently a new type model@xcite along this line of thought was proposed by e. ma . </S>",
+    "<S> we introduce a flavor symmetry based on a dihedral group @xmath1 to constrain the yukawa sector . for the neutrino sector , we find that the maximal mixing of atmospheric neutrinos is realized , it can also be shown that only an inverted mass spectrum , the value of @xmath2 is 0.0034 and so on . for the fermionic cdm candidates , </S>",
+    "<S> we find that the mass of the cdm and the inert higgs should be larger than about @xmath3 and @xmath4 gev , respectively . if we restrict ourselves to a perturbative regime , they should be lighter than about @xmath5 gev@xcite .    </S>",
+    "<S> # 1*#1 *    * summer insitute 2007 + model bulding for the neutrino sector and cold dark matter *    hiroshi okada + _ centre for theoretical physics at the british university in egypt and kanazawa university + hokada@bue.edu.eg_ </S>"
+  ]
+}

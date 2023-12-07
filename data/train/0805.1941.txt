@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "we have presented the ( non simultaneous ) broadband spectral analysis of the powerful quasar c at z=0.965 observed by  and . archival data from ned allowed us to build the spectral energy distribution and to study possible emitting scenarios in the framework of the ssc+ec models .",
+    "our main results are :    * the 2200 kev spectrum is best reproduced by a power - law model , with photon index @xmath4 1.2 , i.e. flatter than observed in radio loud qsos . * the spectrum below 2 kev ( observer frame ) clearly shows evidence for a steepening , and the broadband data can be described either with a power ",
+    "law plus a thermal component with kt@xmath5=0.2 kev or by a broken power ",
+    "law with e@xmath2=2 kev and @xmath3=0.4 .",
+    "both models are equally statistically acceptable . *",
+    "the doubled peaked sed built with non simultaneous data from radio up to gamma - ray , has been interpreted within a scenario that invokes a blob of relativistic electrons emitting synchrotron radiation moving in a magnetic field of a few gauss , plus ic radiation in the photon field of the blr . * the excess found in the soft x - ray , as well as the flat spectral shape in hard x - ray , strongly suggests the presence of a population of cold electrons able to produce a bulk compton feature at @xmath4 1 kev through ic with the photon field of the blr .",
+    "* the ratio l@xmath6/p@xmath70.1 between the disk luminosity and the power carried by the jet , implies that a large fraction of the accretion power is converted in bulk kinetic energy of the jet .",
+    "99 bassani , l. , landi , r , malizia , a. , et al .",
+    "2007 , apj , 669 , l1 bird , a. , malizia , a. , bazzano , a. , et al .",
+    "2007 , apjs , 170 , 175 bloemen , h. , et al .",
+    "1995 , a&a , 293 , l1 celotti , a. , ghisellini , g. , fabian , a.c .",
+    "2007 , mnras , 375 , celotti , a. & ghisellini , g. 2008 , mnras , 385 , 283 de rosa , a. , piro , l. , tramacere , a. , et al . 2005 , a&a , 438 , 121 dermer , c. d. , & schlickeiser , r. 1993 , apj , 416 , 458 done , c. & nayakshin , s. 2007 , mnras , 377 , l59 elvis , m. , wilkes , b. j. , mcdowell , j. c. , et al .",
+    "1994 , apjs , 95 , 1 fabian , a. c. ; iwasawa , k. ; mcmahon , r. g. ; et al .",
+    "1998 , mnras , 295l , 25 fabian , a. c. , celotti , a. , iwasawa , k. , et al .",
+    "2001 , mnras , 323 , 373 ferland g. j. , korista k. t. , verner d. a. , et al .",
+    "1998 , pasp , 110 , 761 fiore , f. , elvis , m. , giommi , p. , padovani , p. 1998 , apj , 492 , 79 fossati , g. , maraschi , l. , celotti , a. , comastri , a. , ghisellini , g. 1998 , mnras , 299 , 433 ghisellini , g. , celotti , a. , fossati , g. , maraschi , l. , comastri , a. 1998 , mnras , 301 , 451 giommi , p. , massaro , e. , padovani , p. , et al .",
+    "2007 , a&a , 468 , 97 magdziarz & zdziarski 1995 , mnras , 273 , 837 maraschi , l. & tavecchio , f. 2003 , apj , 593 , 667 maraschi , l. , ghisellini , g , celotti , a. 1992 , apj , 397 , l5 masaro , e. , tramacere , a. , perri , et al . , 2006 , a&a , 448 , 861 kataoka , j. , madejski , g. , sikora , m. , et al .",
+    "2008 , apj , 672 , 787 kaspi , s. ; maos , d ; netzer , h. , et al . 2005 , apj , 629 , 61 kellermann , k. i. , sramek , r. , schmidt , et al .",
+    "1989 , aj , 98.1195 kirsch , m. g. , briel , u. g. , burrows , d. , et al .",
+    "2005 , spie , 5898 , 22 padovani , p. , perlman , e.s . , landt , h. , giommi , p. , perri , m. 2005 apj , 588 , 128 page , k. l. ; reeves , j. n. ; obrien , p. t. ; turner , m. j. l. 2005 , mnras , 364 , 195 piconcelli , e. , jimenez - bailn , e. , guainazzi , m. , et al .",
+    "2005 , a&a , 432 , 15 reeves , j. n. , & turner , m. j. l. 2000 , mnras , 316 , 234 sambruna , r.m , gliozzi , m. , tavecchio , f. , maraschi , l. , foschini , l. 2006 , apj , 2006 , 652 , 146 sambruna , r. m. , reeves , j. n. , braito , v. 2007 , apj , 665 , 1030 tavecchio , f. ; maraschi , l. ; ghisellini , g. ; et al . , 2000 , apj , 543 , 535 t tavecchio f. & ghisellini g. 2008 , mnras , 386 , 945 ubertini p. , lebrun f. , di cocco g. et al .",
+    "2003 , a&a 411 , 131 yuan w. , fabian a.c .",
+    ", worsley m.a .",
+    ", mcmahon r. , 2006 , mn- ras , 368 , 985 wagner , s. j. et al .",
+    "1995 , a&a , 298 , 688"
+  ],
+  "abstract_text": [
+    "<S> we present the broadband analysis of the powerful quasar c ( z=0.965 ) observed by and . the 0.2200 kev spectrum </S>",
+    "<S> is well reproduced with a hard power - law component ( @xmath01.2 ) , augmented by a soft component below 2 kev ( observer frame ) , which is described by a thermal blackbody with temperature kt@xmath1 0.15 kev . </S>",
+    "<S> alternatively , a broken power - law with e@xmath2=2 kev and @xmath3=0.4 can equally well describe the data . using archival data </S>",
+    "<S> we compile the not - simultaneous spectral energy distribution of the source from radio to gamma - ray frequencies . </S>",
+    "<S> the sed shows two main components : the low frequency one produced by synchrotron radiation from the electrons moving in the jet and the high energy one produced through external compton scattering of the electrons with the photon field of the broad line region . within this scenario </S>",
+    "<S> the excess emission in the soft - x ray band can be interpreted as due to bulk compton radiation of cold electrons . </S>",
+    "<S> however , some other processes , briefly discussed in the text , can also reproduce the observed bump .    </S>",
+    "<S> [ firstpage ]    galaxies : active - galaxies : individual : 4c04.42 - quasars : general - x - rays : galaxies    [ cols=\"<,^,^,^,^ \" , ]     [ sample ] </S>"
+  ]
+}

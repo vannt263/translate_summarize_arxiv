@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "the consensus has been reached that the afterglow emission originates from a relativistic thin shell of baryonic matter propagating in the circumburst medium ( cbm ) and that its description can be obtained from the relativistic conservation laws of energy and momentum . in both our approach and in the other ones in the current literature ( see e.g. refs .  )",
+    "such conservations laws are used .",
+    "the main difference is that in the current literature an ultra - relativistic approximation , following the blandford & mckee self - similar solution,@xcite is widely adopted , leading to a simple constant - index power - law relations between the lorentz @xmath0 factor of the optically thin `` fireshell '' and its radius : @xmath1 with @xmath2 in the fully radiative case and @xmath3 in the adiabatic case.@xcite on the contrary , we use the exact solutions of the equations of motion of the fireshell.@xcite",
+    "a detailed comparison between the equations used in the two approaches has been presented in refs .  .",
+    "in particular , in ref .   it is shown that the regime represented in eq.([gr0 ] ) is reached only asymptotically when @xmath4 in the fully radiative regime and @xmath5 in the adiabatic regime , where @xmath6 the initial lorentz gamma factor of the optically thin fireshell .",
+    "factor during the afterglow era is plotted versus the radial coordinate of the expanding optically thin fireshell in the fully radiative case ( solid line ) and in the adiabatic case ( dotted line ) starting from @xmath7 and the same initial conditions as grb 991216@xcite . in the lower panel",
+    "are plotted the corresponding values of the `` effective '' power - law index @xmath8 ( see eq.([eff_a ] ) ) , which is clearly not constant , is highly varying and systematically lower than the constant values @xmath9 and @xmath10 purported in the current literature ( horizontal thin dotted lines ) . ]    in fig .",
+    "[ gdir_a_comp_rad - ad_mg11 ] we show the differences between the two approaches . in the upper panel",
+    "there are plotted the exact solutions for the fireshell dynamics in the fully radiative and adiabatic cases . in the lower panel",
+    "we plot the corresponding `` effective '' power - law index @xmath8 , defined as the index of the power - law tangent to the exact solution:@xcite @xmath11 such an `` effective '' power - law index of the exact solution smoothly varies from @xmath12 to a maximum value which is always smaller than @xmath9 or @xmath10 , in the fully radiative and adiabatic cases respectively , and finally decreases back to @xmath12 ( see fig .",
+    "[ gdir_a_comp_rad - ad_mg11 ] ) .",
+    "thanks to the _ swift _",
+    "satellite@xcite , we have now for many grbs almost gapless multi - wavelength light curves from the beginning of the prompt emission ( which in our model coincides with the peak of the afterglow , see refs .  ) all the way to the latest afterglow phases . in the interpretation of such gapless data",
+    "it is therefore crucial to use the exact solution for the fireshell dynamics ."
+  ],
+  "abstract_text": [
+    "<S> we here re - examine the validity of the constant - index power - law relation between the fireshell lorentz gamma factor and its radial coordinate , usually adopted in the current gamma - ray burst ( grb ) literature on the grounds of an `` ultrarelativistic '' approximation . </S>",
+    "<S> such expressions are found to be mathematically correct but only approximately valid in a very limited range of the physical and astrophysical parameters and in an asymptotic regime which is reached only for a very short time , if any . </S>"
+  ]
+}

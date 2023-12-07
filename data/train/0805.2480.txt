@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the definition of quantum fields on a curved background is an hard task , because of the impossibility to define a unique ( up to unitary equivalence ) hilbert space structure @xcite .",
+    "nevertheless , equations of motion for such fields can be extended to the curved case and semi - classical tools can be applied at least formally .",
+    "this way , the interaction of the gravitation field with quantum degrees of freedom is inferred , in a regime where quantum gravity effects are not yet relevant and a particle - like description is recovered . this coupling may be tested experimentally by studying the trajectories of elementary particles .    here",
+    "we address the point whether the interaction between quantum spin and the geometry reflects that of classical spin tensors .",
+    "in fact , from the semi - classical limit of spinor fields , we expect a non - trivial coupling between their internal degrees of freedom and the curvature , so that a non - geodesics dynamics is expected .",
+    "these deviations with respect to the structure - less case are going to be compared with those ones coming from the papapetrou formulation for spinning particles @xcite .",
+    "the work is organized as follows : at first the papapetrou formulation for classical spinning particles is presented , and then the semi - classical limit of the dirac equation is performed .",
+    "papapetrou @xcite performed the classical analysis on the motion of a body in general relativity on a fixed background .    in his formulation ,",
+    "the body is described in the space - time as a thin tube inside which there is a non - vanishing energy momentum tensor .",
+    "as soon as a curve @xmath0 is identified as the center - of - mass world - line , the multi - pole expansion consists in neglecting all moments of the energy - momentum distribution with respect to @xmath1 from a certain one .    at the lowest order a geodesics dynamics",
+    "is found and this is consistent with basic principles of general relativity . at the next order ,",
+    "the pole - dipole approximation , a characterization of the body internal structure is given by the spin tensor @xmath2 , whose expression is the following one @xmath3    @xmath4 being the deviation with respect to @xmath1 .",
+    "the system of equations describing the dynamics is @xmath5    and it outlines that for rotating bodies    a generalized momentum @xmath6 arises and , in general , it is not aligned with the 4-velocity ;    the spin tensor is subjected to a precession around the generalized momentum ;    the trajectory deviates with respect to a geodesics motion , as a consequence of the interaction between the spin tensor and the gravitational field .",
+    "however , in the system ( [ pap ] ) there are thirteen unknown quantities and ten equations only .",
+    "hence , to provide a solution three conditions must be added . in literature one",
+    "finds the following three possible choices , @xmath7 the corinaldesi - papapetrou @xcite , the pirani @xcite and the tulczyjew @xcite consistency conditions , respectively .",
+    "all of them expresses the spatial nature of the spin .",
+    "the investigation on the coupling between quantum degrees of freedom and gravity requires the extension of the quantum fields formulation to a curved space - time .    as far as spin-@xmath8 particles are concerned",
+    ", the dirac algebra must be extended to non - minkowskian spaces .",
+    "this can be done by introducing vier - bein vectors @xmath9 and defining dirac matrix as @xmath10 , @xmath11 being those ones of the flat case .",
+    "furthermore , generalized derivatives must be defined @xcite , such that the dirac equation in curved space - time reads as @xmath12 @xmath13 $ ] being generators of the lorentz group , while @xmath14 .      the notion of a classical trajectory",
+    "is recovered for @xmath18 by a localization along the world - line @xmath19 , which is the integral curve of @xmath20 .",
+    "the localization is obtained by assuming a gaussian dependence of the following kind      even though the spread @xmath22 grows during the notion , nevertheless it can be shown that for a reasonable set of initial conditions there exists a macroscopic region where a classical trajectory can be defined @xcite .      in order to make this formulation closer to the papapetrou one",
+    ", we are going to perform a spacial integration , taking as space - like coordinates @xmath24 , _",
+    "i.e. _ those ones of the space orthogonal to @xmath25 .",
+    "the localization here works by allowing us to neglect any term containing first and second derivatives of the gaussian .",
+    "furthermore , in agreement with the assumption that any dependence on spatial coordinates has been included into the gaussian , we take for the spinor @xmath26 @xmath27                          we stress that a papapetrou - like interaction between the spin tensor and the riemann tensor comes out . furthermore , being the generalized momentum aligned with the 4-velocity , the conservation of the spin tensor is consistent with a papapetrou - like dynamics ."
+  ],
+  "abstract_text": [
+    "<S> the notion of a classical particle is inferred from dirac quantum fields on a curved space - time , by an eikonal approximation and a localization hypothesis for amplitudes . </S>",
+    "<S> this procedure allows to define a semi - classical version of the spin - tensor from internal quantum degrees of freedom , which has a papapetrou - like coupling with the curvature . </S>"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "events containing a high @xmath6 isolated electron or muon and associated with missing transverse momentum have been observed at hera @xcite .",
+    "an excess of hera  i data events ( 19942000 , mostly in @xmath7 collisions ) compared to the sm prediction at large hadronic transverse momentum @xmath8 was reported by the h1 collaboration @xcite .",
+    "r0.5        the main sm contribution is the production of real @xmath0 bosons via photoproduction with subsequent leptonic decay @xmath9(@xmath10)@xmath11 , where the hadronic system @xmath11 is typically of low @xmath6 .",
+    "the event selection employed by the h1 @xcite analysis may be summarised as follows : the identified lepton should have high transverse momentum @xmath12  10  gev , be observed in the central region of the detector and be isolated with respect to jets and other tracks in the event .",
+    "the event should also contain a large transverse momentum imbalance , @xmath13  12  gev .",
+    "further cuts are then applied , which are designed to reduce sm background , whilst preserving a high level of signal purity .",
+    "the analysis has recently been performed on the electron and muon channels using the complete hera i+ii data sets , which corresponds to 478  pb@xmath1 @xcite .",
+    "a total of 59 events are observed in the data , compared to a sm prediction of 58.9  @xmath14  8.2 . for @xmath15 25",
+    "gev , a total of 24 events are observed compared to a sm prediction of 15.8  @xmath14  2.5 , of which 21 events are observed in the @xmath7 data compared to a sm prediction of 8.9  @xmath14  1.5 .",
+    "the observed data excess in the hera  i @xmath7 data thus remains at the 3.0@xmath16 level for the complete h1 @xmath7 dataset .",
+    "the results of the analysis are summarised in table  @xmath17 .",
+    "figure  [ fig : isolep1 ] shows the @xmath8 distribution of the @xmath18 data for the combined electron and muon channels .",
+    "the signal contribution , dominated by real @xmath0 production , is seen to dominate the total sm expectation in all data samples .",
+    "overall there is good agreement with the sm expectation .",
+    "a possible contribution from anomalous single top production would be expected to contribute at high @xmath8",
+    "the selection results described in section [ sec : sep ] are used to calculate production cross sections for events with an energetic isolated lepton and missing transverse momentum ( @xmath19 ) and for single @xmath0 boson production ( @xmath20 , for which the branching ratio for leptonic @xmath0 decay is taken into account @xcite .",
+    "the results are shown below with statistical ( stat ) and systematic ( sys ) uncertainties compared to the sm prediction , quoted with a theoretical systematic error ( th.sys ) of 15% .        ) and longitudinal ( @xmath21 ) @xmath0 boson polarisation fractions ( point ) at 1 and 2@xmath16 cl ( contours ) .",
+    "also shown are the values for the sm prediction ( triangle ) and anomalous single top production via fcnc ( square ) .",
+    "right : exclusion limits at the 95% cl in the search for single top production on the anomalous @xmath22 and @xmath23 couplings obtained at lep ( l3 experiment @xcite ) , the tevatron ( cdf experiment @xcite , the result shown is from  @xcite ) , and hera ( h1 @xcite and zeus @xcite experiments ) .",
+    "anomalous couplings of the charm quark are neglected @xmath24 .",
+    "limits are shown assuming a top mass @xmath25  gev.,title=\"fig : \" ] ) and longitudinal ( @xmath21 ) @xmath0 boson polarisation fractions ( point ) at 1 and 2@xmath16 cl ( contours ) .",
+    "also shown are the values for the sm prediction ( triangle ) and anomalous single top production via fcnc ( square ) .",
+    "right : exclusion limits at the 95% cl in the search for single top production on the anomalous @xmath22 and @xmath23 couplings obtained at lep ( l3 experiment @xcite ) , the tevatron ( cdf experiment @xcite , the result shown is from  @xcite ) , and hera ( h1 @xcite and zeus @xcite experiments ) .",
+    "anomalous couplings of the charm quark are neglected @xmath24 .",
+    "limits are shown assuming a top mass @xmath25  gev.,title=\"fig : \" ]"
+  ],
+  "abstract_text": [
+    "<S> the analysis of @xmath0 production and the search for anomalous single top production is performed with the h1 detector at hera with an integrated luminosity of 0.5  fb@xmath1 , consisting of the complete high energy data from the hera programme . </S>",
+    "<S> production cross section measurements of single @xmath0 production , as well as @xmath0 polarisation fractions in events containing isolated leptons and missing transverse momentum are also presented . in the context of a search for single top production </S>",
+    "<S> an upper limit on the top production cross section @xmath2  pb is established at the @xmath3 confidence level , corresponding to an upper bound on the anomalous magnetic coupling @xmath4 . </S>"
+  ]
+}

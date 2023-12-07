@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "work on extending stochastic processes characterized by a single index to corresponding processes with two indices or processes with variable index has attracted considerable interest lately .",
+    "for example , fractional brownian motion parametrized by a constant hurst index @xmath0 has recently been generalized to the bifractional brownian motion @xcite characterized by two indices , with fractional brownian motion as a special case .",
+    "a process with two indices provides a more flexible model as far as applications are concerned .",
+    "fractional brownian motion has also been extended to multifractional brownian motion with a variable index @xmath1 @xcite .",
+    "multifractional brownian motion allows one to model phenomena with variable memory and fractal dimension that changes with time or position .",
+    "another example is the process of cauchy class @xcite , which has been extended to the process with two - indices known as generalized cauchy process @xcite .",
+    "in contrast to many other single - index processes ( for example , fractional brownian motion ) , generalized cauchy process has the advantage that its two indices separately characterize the fractal dimension or self - similar property and the long range dependence .",
+    "the aim of this paper is to introduce a new type of fractional gaussian process indexed by two parameters so that its short range dependence property and fractal dimension can be separately characterized .",
+    "such a process can be regarded as a generalization of fractional oscillator process or fractional ornstein - uhlenbeck process with single index @xcite .",
+    "this paper is organized as follows .",
+    "section 2 introduces the generalized fractional oscillator process as solution of a stochastic differential equation with two fractional orders . despite the covariance of this process",
+    "does not have a closed analytic form , its basic properties can be studied by considering the asymptotic properties of its covariance . in particular ,",
+    "the fractal dimension and short range dependence are studied . the fluctuation ",
+    "dissipation relation are discussed in section 4 . in section 5",
+    ", we consider the fractional oscillator process as one - dimensional euclidean fractional scalar field .",
+    "stochastic quantization of the field at zero and finite temperature is carried out .",
+    "we proceed to calculate the casimir energy associated with the fractional field at finite temperature by employing the zeta function regularization technique . in the last section ,",
+    "we briefly discuss possible generalizations of the results obtained .",
+    "in this section we define the fractional oscillator process with two indices .",
+    "recall that an ordinary oscillator process @xmath2 can be obtained as a solution to the langevin equation @xmath3where @xmath4 is the standard white noise with @xmath5@xmath6 is the standard brownian motion , and @xmath7 is a positive constant . using fourier transform ,",
+    "the solution of can be written as @xmath8 where @xmath9 is the fourier transform of the standard white noise @xmath10 : @xmath11 in the literature , @xmath2 is known as the oscillator process or the ornstein  uhlenbeck process .",
+    "it is a centered stationary gaussian process with covariance function @xmath12 one can also regard the oscillator process @xmath2 as one - dimensional euclidean scalar klein ",
+    "gordon field with mass @xmath7 , and propagator given by the spectral density @xmath13    since fractal dynamics @xcite have increasingly played an important role in various transport phenomena in complex media , it would be interesting to investigate various possible generalizations of @xmath2 to its fractional counterpart .",
+    "one direct way is to replace the differential operator @xmath14 in by the fractional differential operator @xmath15 to obtain the following type i fractional langevin equation @xcite : @xmath16where the fractional derivative @xmath15 is defined as @xcite : @xmath17 when @xmath18 , @xmath19 is known as the riemann  liouville fractional derivative ; and for @xmath20 , @xmath21 is called the weyl fractional derivative .",
+    "another possible generalization is to fractionalize the operator @xmath22 to obtain the following type ii fractional langevin equation @xcite:@xmath23recently we have combined the investigation on these two type of processes and study the more general case @xcite : @xmath24 if weyl fractional derivative is used in , then for @xmath25 , @xmath26 turns out to be a centered stationary gaussian process with a representation @xmath27and covariance function latexmath:[\\]]where @xmath435and follows .",
+    "r. metzler and j. klafter , _ the restaurant at the end of the random walk : recent developments in the description of anomalous transport by fractional dynamics _ , j. phys .",
+    "a. : math . gen . * 37 * , r161208 ( 2004 ) ."
+  ],
+  "abstract_text": [
+    "<S> we introduce a new fractional oscillator process which can be obtained as solution of a stochastic differential equation with two fractional orders . </S>",
+    "<S> basic properties such as fractal dimension and short range dependence of the process are studied by considering the asymptotic properties of its covariance function . the fluctuation  </S>",
+    "<S> dissipation relation of the process is investigated . </S>",
+    "<S> the fractional oscillator process can be regarded as one - dimensional fractional euclidean klein - gordon field , which can be obtained by applying the parisi - wu stochastic quantization method to a nonlocal euclidean action . </S>",
+    "<S> the casimir energy associated with the fractional field at positive temperature is calculated by using the zeta function regularization technique . </S>"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "interesting @xmath1 gauge theories can be obtained as low - energy limits of type ii string theories compactified on calabi  yau manifolds with internal boundary conditions on holomorphic submanifolds .",
+    "the tree level superpotential of such theories corresponds to the disk amplitudes of the topological b - model , and , in principle , can be computed in various ways , e.g. by using worldsheet techniques , by reducing the holomorphic chern ",
+    "simons theory to the brane world - volume , by using an appropriate locally - free resolution , by considering the landau - ginzburg phase of the model , or by various combinations of those methods , see refs .  and the references therein .",
+    "the method that we present here exploits the relation between the superpotential , in the large radius limit and when the ambient calabi  yau manifold corresponds to the local space , and the deformation theory of the submanifold , along the lines of ref .  .",
+    "it has the advantage of being reasonably pratical for explicit computations and steems from the remark that the deformation theory of a submanifold @xmath2 with given normal bundle @xmath3 is intrinsic to the couple @xmath4 .",
+    "we start by reviewing some properties of compact complex submanifolds .",
+    "let @xmath2 be a compact complex submanifold of a complex manifold @xmath5 , with normal bundle @xmath3 .",
+    "then , for any @xmath6 , there exists a tubular neighborhood @xmath7 of @xmath2 in @xmath5 and an open covering @xmath8 of @xmath2 such that @xmath7 can be covered by an atlas @xmath9 ( @xmath10 ) , with transition functions @xmath11 where @xmath12 are the transition functions for @xmath2 , @xmath13 and @xmath14 those for the normal bundle @xmath3 and its tangent space @xmath15 respectively . if we ignore convergence issues and treat the deformation terms @xmath16 as polynomials in the @xmath17 then@xcite the deformation terms are cocycles representing elements in the ech cohomology group @xmath18 , up to terms of order @xmath19 .",
+    "in particular , the space @xmath20 parametrizes the tubular neighborhoods that admit a projection to the base @xmath2 .",
+    "the tubular neighborhoods of complex submanifolds of calabi  yau manifolds are those with @xmath21 and are parametrized by the kernel of a map induced in cohomology by the _ divergence map _ acting on the sections of the tangent bundle .",
+    "now , given a compact submanifold @xmath2 of a complex manifold @xmath5 , there exists@xcite a map , @xmath22 , where @xmath23 is a neighborhood of @xmath24 , with @xmath25 , @xmath26 and such that @xmath27 parametrizes the local deformations of @xmath2 in @xmath5 .",
+    "the map @xmath28 only depends on the local proprierties of the embedding , i.e. only on a tubular neighborhood of @xmath2 in @xmath5 . up to convergence issues , depend on the the convergence properties of the deformation terms . ]",
+    "the map @xmath28 can be seen as an element of @xmath29 where in the last line we used serre duality , and @xmath30 .",
+    "summarizing , to a given embedding @xmath31 , we can associate an element @xmath32 and a map @xmath28 as in ( [ eq : elementk ] ) , and we would like to determine the relation between the two . in the case",
+    "in which there exists a projection to the base , it is very natural to guess that the map associating @xmath33 $ ] to @xmath34 is given by the dual of the multiplication of the sections morphism @xmath35",
+    "let now @xmath36 be a curve in a calabi  yau threefold @xmath5 with normal bundle @xmath3 and let us consider a _",
+    "simple _ brane wrapped around @xmath36 , i.e. a vector bundle on @xmath37 such that @xmath38 . from a geometric viewpoint ,",
+    "the superpotential is a map @xmath39",
+    "whose differential @xmath40 gives the map @xmath28 . as we did for the map @xmath28 , we can consider @xmath41 as an element of @xmath42 . by using the calabi ",
+    "yau condition , one finds that a tubular neighborhood of @xmath36 in @xmath5 , when a projection to the base does exist , is parametrized by an element in @xmath43 .",
+    "then , the expression ( [ proposal1 ] ) implies that the superpotential is given by the map @xmath44 that is dual to the multiplication of the sections map .",
+    "the formula ( [ superpotential ] ) seems to be the simplest closed expression for the superpotential in this generality , and reduces to the previously known expressions@xcite for the laufer rational curve .",
+    "it is suitable for explicit computations when the multiplication morphism is known , for example in the case of a rational curve @xmath45 or of an elliptic curve @xmath46 . in the case in which the brane is given by a general bundle @xmath47",
+    ", the superpotential gives the coupled deformations of the curve @xmath36 and of the vector bundle @xmath47 , and should be obtained by generalizing ( [ superpotential ] ) , although the correct guess is not completely trivial .",
+    "part of the present work was done with support from fondazione angelo della riccia , firenze .",
+    "the author would also like to thank impa , instituto nacional de matemtica pura e aplicada , in rio de janeiro , for hospitality .",
+    "0 m.  baumgartl , i.  brunner and m.  r.  gaberdiel , `` d - brane superpotentials and rg flows on the quintic , '' jhep * 0707 * ( 2007 ) 061 [ arxiv:0704.2666 [ hep - th ] ] . j.  knapp , `` d - branes in topological string theory , '' ph.d .",
+    "thesis , [ arxiv:0709.2045v1 [ hep - th ] ] .",
+    "g.  bonelli , l.  bonora and a.  ricco , `` conifold geometries , topological strings and multi - matrix models , '' [ hep - th/0507224 ] .",
+    "p.  s.  aspinwall and s.  katz , `` computation of superpotentials for d - branes , '' [ hep - th/0412209 ] .",
+    "g.  todorov , `` d - branes , obstructed curves , and minimal model superpotentials , '' [ arxiv:0709.4673v1 [ hep - th ] ] .    s.  katz , `` versal deformations and superpotentials for rational curves in smooth threefolds '' , [ math.ag/0010289 ] . f.  ferrari , `` planar diagrams and calabi - yau spaces , '' adv .  theor .",
+    "* 7 * ( 2004 ) 619 [ hep - th/0309151 ] .",
+    "a.  ricco , `` linearly foliated calabi - yau",
+    "n - folds i. first - order deformations , '' [ arxiv:0712.0474v1 ] ."
+  ],
+  "abstract_text": [
+    "<S> we briefly report on some recent progress in the computation of b - brane superpotentials for type ii strings compactified on calabi  yau manifolds , obtained by using a parametrization of tubular neighborhoods of complex submanifolds , also known as local spaces . in particular , we propose a closed expression for the superpotential of a brane on a genus-@xmath0 curve in a calabi  </S>",
+    "<S> yau threefold in the case in which there exists a holomorphic projection from the local space around the curve to the curve itself . </S>"
+  ]
+}

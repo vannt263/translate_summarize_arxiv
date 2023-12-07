@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "elements heavier than the iron group are mostly synthesized by neutron - capture processes , which are distinguished into the rapid ( r- ) and slow ( s- ) processes by the reaction time scale ( e.g. burbidge et al . 1957 ) .",
+    "the s - process fraction in solar - system material is estimated by the classical or stellar s - process models calibrated for the nuclei that are yielded only by the s - process ( e.g. kppeler et al . 1989 , arlandini et al .",
+    "the r - process component is derived by subtracting the s - process one from the solar - system isotopic abundances .",
+    "the contributions of the s- and r - processes to galactic objects are estimated from the abundance ratios of elements that represent the two processes ( e.g. ba / eu , la / eu ; truran et al .",
+    "1981 ; mcwilliam et al . 1998 ; burris et al . 2000 ) .",
+    "@xcite investigated the la / eu ratio for a large sample of metal - poor stars , and concluded that the contribution of the s - process , with respect to the r - process , increases with increasing metallicity , but large scatter of [ la / eu ] exists among stars having similar metallicity = @xmath4 , and @xmath5 for elements a and b. ] .",
+    "another good probe of the s - process at low metallicity is pb , one of the heaviest elements including the isotope with magic numbers for proton and neutron ( @xmath6pb ) .",
+    "the pb abundances have been measured for many carbon - enhanced objects , which are believed to be affected by mass transfer across binary systems from asymptotic giant branch ( agb ) stars , and have been providing a useful constraint on the s - process in low metallicity agb stars .",
+    "in contrast , measurements of pb abundances for normal ( non - carbon - enhanced ) stars are quite limited .",
+    "@xcite argued enrichment of pb in the galactic halo , thick and thin disks , reporting the pb abundances for several stars .",
+    "their sample , however , includes a star possibly classified as a ch star , and the results for some objects are quite uncertain .",
+    "@xcite studied the heavy elements , including pb , for hd  221170 ( [ fe / h]@xmath7 ) in detail .",
+    "pb abundances of stars in globular clusters were recently determined by @xcite and @xcite .",
+    "this letter reports our abundance measurements of pb and other elements for bright metal - poor red giants , which would belong to the galactic halo .",
+    "the results are compared with the solar - system s- and r - process abundance ratios as well as that of r - process - enhanced , extremely metal - poor stars .",
+    "the sample of this study is selected from the list of @xcite , who determined abundances of neutron - capture elements like la and eu , and that of @xcite , who studied metallicity and kinematics of metal - poor stars .",
+    "bright stars ( @xmath8 ) were selected for our purpose .",
+    "lccccc object & ref .",
+    "& [ pb / fe ] & [ pb / la ] & [ pb / eu ] & [ la / eu ] + field stars ( 12 objects ) & 1 & @xmath90.27 ( 0.12 ) & @xmath90.18 ( 0.15 ) & @xmath90.59 ( 0.20 ) & @xmath90.41 ( 0.09 ) + m  4 stars ( 12 objects ) & 2 & 0.30 ( 0.07 ) & @xmath90.18 ( 0.06 ) & @xmath90.09 ( 0.09 ) & 0.08 ( 0.06 ) + s - process ( solar - system ) & 3 & & 0.022 & 1.471 & 1.449 +",
+    "r - process ( solar - system ) & 3 & & @xmath90.057 & @xmath90.650 & @xmath90.593 + cs  31082001 & 4 & 0.35 & @xmath90.76 & @xmath91.28 & @xmath90.52 +   +"
+  ],
+  "abstract_text": [
+    "<S> we have determined lead ( pb ) abundances for twelve red giants having [ fe / h ] between @xmath0 and @xmath1 , and its upper - limits for two lower metallicity objects , as well as the abundances of lanthanum ( la ) and europium ( eu ) . </S>",
+    "<S> the averages of [ pb / fe ] and [ pb / eu ] are @xmath2 and @xmath3 , respectively , and no clear increase of these ratios with increasing metallicity is found . </S>",
+    "<S> the [ la / eu ] values are only slightly higher than that of the r - process component in solar - system material . combining the previous studies for globular clusters , these results suggest little contribution of the s - process to pb of the field stars studied here , supporting the estimate of pb production by the r - process from the solar - system abundances . </S>"
+  ]
+}

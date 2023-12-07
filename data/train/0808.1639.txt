@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "am her stars or polars - is a subtype of cataclysmic variables , where binary stellar system contains highly magnetic white dwarf . the strength of magnetic field allows to control accretion in such system ( mass is transferring directly on the white dwarf pole , without formation of accretion disc ) . as a distinct from intermediate polars ,",
+    "am her stars orbital period is synchronized with white dwarf spin period .",
+    "last study of @xmath0 distribution were made by shahbaz & wood ( 1996 ) in 1996 ( just 43 systems were known by that time ) .",
+    "they have noted that discovery of one more am her - type star with the orbital period outside of the spike will decrease its significance below 99% level . since that time the number of known systems has",
+    "more then doubled .",
+    "this incentivised us to compile a new updated catalogue of cataclysmic variables with highly magnetic white dwarfs and to study distribution of their orbital periods and to re - calculate significance of spike in the similar way , as it was done in previous work .",
+    "our catalogue was compiled based on recently published papers on newly discovered polars and previous catalogues by katysheva & voloshina ( 2007)and ritter & kolb ( 2003 ) .",
+    "it contains an information about 91 polars ( designation , coordinates , @xmath0 , masses of components ( if known ) , strength of white dwarf magnetic field ) .",
+    "they have orbital periods ranging from 77 minutes to 286 minutes .",
+    "we set period range for `` spike '' as 113 - 117 minutes .",
+    "we obtained a grater statistic ( 91 systems in total ) and were impelled to make the spike ranges some broader : @xmath1 = 4 min ( @xmath2 = 2 min in ritter & kolb ( 1992 ) , @xmath1 = 3 min in shahbaz & wood ( 1996 ) ) .",
+    "totaly , 11 am her - type stars have orbital periods `` in spike ''",
+    ".    values of significances were obtained in the same way as in shahbaz & wood ( 1996 ) .",
+    "spike still appears to be a significant feature in @xmath0 distribution of polars , although its significance now is equal to @xmath3 ( @xmath4 in previous work ) .",
+    "figure 1 represents newly obtained distribution of orbital periods of highly magnetic cataclysmic variable stars .",
+    "it could be concluded that about 55% of polars are concentrated below `` period gap ''",
+    ". future study of polars with orbital periods in spike are critically important , since they might have very similar masses of components .",
+    "ritter & kolb ( 1992 ) have shown , that dispersion of the secondary masses in the period spike must be @xmath5 .",
+    "masses of white dwarf considered to be @xmath6 with mass dispersion of @xmath7    the full version of the catalogue and detailed paper on our analysis will be published elsewhere .",
+    "* most of known polars have orbital periods below `` period gap '' ( 50 of 91 known polars ) .",
+    "* we obtained a grater statistic ( 91 systems in total ) and were impelled to make the spike ranges some broader : @xmath1 = 4 min ( @xmath1 = 2 min in ritter & kolb ( 1992 ) - 17 polars in total were known , @xmath1 = 3 min in shahbaz & wood ( 1996 ) - 43 polars were known ) . *",
+    "though spike remains to be significant feature , its significance has decreased and now its value is about @xmath3 , instead of the 99.9% , as it was in the work of t.shahbaz & janet h.wood ( 1996 ) . *",
+    "the observed number of systems in the gap is inconsistent with the period distribution being uniform at the 96.3% level .",
+    "so we have a lowering of this value , just like as for the spike significance .",
+    "katysheva , n.  a. , & voloshina , i.  b.  2007 , proceedings of `` 15th european workshop on white dwarfs '' , held 7 - 11 august , 2006 in leicester , united kingdom . edited by ralf napiwotzki and matthew r. burleigh . , asp conference series , vol . 372 , 527"
+  ],
+  "abstract_text": [
+    "<S> orbital periods in am her stars ( _ polars _ ) are synchronized with spin periods of white dwarf by its high magnetic field . since the last study of @xmath0 distribution of these systems , the number of known objects of such type has more than doubled . </S>",
+    "<S> this challenged us to compile a new updated catalogue of cataclysmic variables with highly magnetic white dwarfs ( polars ) and to study their @xmath0 distribution . in this paper </S>",
+    "<S> we also discus if `` spike '' is reliable feature in the distribution . </S>",
+    "<S> ( `` spike '' is a concentration of polars in the distribution of their orbital periods near @xmath0 = 114 min and was previously discussed by ritter & kolb ( 1992 ) and shahbaz & wood ( 1996 ) . ) </S>"
+  ]
+}
