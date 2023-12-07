@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "an ag - groupoid is a generalization of commutative semigroup , in which the left invertive law : @xmath1 holds @xcite .",
+    "a groupoid @xmath2 is called left ( resp .",
+    "right ) abelian distributive groupoids if it satisfies @xmath3 @xcite .",
+    "here we extend these concepts to left ( right ) abelian distributive ag - groupoids .",
+    "we prove their existence by providing non - associative examples of various finite orders .",
+    "we also prove their relations with some of the already known subclasses@xcite of ag - groupoid and with other algebraic structures .",
+    "ag - groupoids are enumerated up to order @xmath4 in @xcite using gap  @xcite by one of our author .",
+    "we also use the same technique to enumerate our new subclasses of ag - groupoids .",
+    "table 1 , contains the counting of these new subclasses of ag - groupoids .",
+    "an ag - groupoid s is called monoid if it contains a unique left identiy .",
+    "every monoid satisfies the paramedial property .",
+    "it is also interesting to note that if s possesses the right identity element then it becomes a semigroup .",
+    "@xmath2 is called medial if it satisfies the identity , @xmath5 .",
+    "it is is easy to prove that every ag - groupoid is medial .",
+    "ag - groupoids have a variety of applications in flocks and geometry@xcite . in the following",
+    "we give some defintions of ag - groupoids with their identies that will be used in the rest of this article .",
+    "an abel - grassmann groupoid @xmath2 @xcite , abbreviated as an ag - groupoid , is a groupoid that satisfies the left invertive law , @xmath6 an ag - groupoid @xmath2 is called     a.    right commutative ag - groupoid , if @xmath7 @xcite . b.    self - dual ag - groupoid , if @xmath8 @xcite . c.",
+    " left distributive ( ld ) ag - groupoid , if @xmath9 @xcite .",
+    "d.    right distributive ( rd ) ag - groupoid , if @xmath10 @xcite .",
+    "e.    an ag@xmath11-groupoid if it satisfies the identity @xmath12 @xcite . f.    flexible ag - groupoid if it satisfies the identity @xmath13@xcite .",
+    "g.    paramedial ag - groupoid if it satisfies the identity @xmath14 @xcite .",
+    "h.    medial ag - groupoid if it satisfies the identity @xmath15 @xcite .",
+    "i.    right commute ag - groupoid if it satisfies the identity@xmath7 .",
+    ".enumeration of rad & lad ag - groupoids up to order @xmath4 . [ cols=\"<,^,^,^,^\",options=\"header \" , ]",
+    "an ag - groupoid @xmath2 is called abelian distributive ag - groupoid denoted by ad - ag - groupoid if it is both rad and lad ag - groupoids ."
+  ],
+  "abstract_text": [
+    "<S> a groupoid that satisfies the left invertive law : @xmath0 is called an ag - groupoid . </S>",
+    "<S> we extend the concept of left abelian distributive groupoid ( lad ) and right abelian distributive groupoid ( rad ) to introduce new subclasses of ag - groupoid , left abelian distributive ag - groupoid and right abelian distributive ag - groupoid . </S>",
+    "<S> we give their enumeration up to order 6 and find some basic relations of these new classes with other known subclasses of ag - groupoids and other relevant algebraic structures . </S>",
+    "<S> we establish a method to test an arbitrary ag - groupoid for these classes .    </S>",
+    "<S> 2010 mathematics subject classification : * 20n02 * </S>"
+  ]
+}

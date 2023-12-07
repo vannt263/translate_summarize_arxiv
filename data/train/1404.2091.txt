@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "the quark model predicts heavy baryons containing single , doubly or triply heavy charm or bottom quarks having either spin1/2 or spin3/2 .",
+    "so far , all heavy baryons with single charm quark have been discovered in the experiments .",
+    "some of the heavy baryons with single bottom quark like @xmath1 , @xmath2 , @xmath3 and @xmath4 baryons with spin1/2 as well as @xmath5 baryon with spin3/2 have been observed in the experiments ( for a review see for instance @xcite ) . in 2012 ,",
+    "the cms collaboration reported the observation of the @xmath6 state with spin3/2 @xcite . at present , among all possible doubly heavy baryon states only the spin1/2 @xmath7 charmed baryon have experimentally been observed by the selex collaboration @xcite .",
+    "the experimental attempts , especially at lhcb , have still been continuing to complete the remaining members of the heavy baryons with one , two or three heavy quarks predicted by the quark model .    from the theoretical side",
+    ", there are a lot of works in the literature devoted to the spectroscopy and decay properties of the heavy baryons containing single heavy quark .",
+    "there are also dozens of works dedicated to the study of the properties of the doubly heavy baryons . however , there are limited numbers of works devoted to the investigation of the properties of the triply heavy baryons .",
+    "the masses of the triply heavy baryons have been studied in framework of the various approaches such as effective field theory , lattice qcd , bag model , various quark models , variational approach , hyper central model , potential model and regge trajectory ansatz @xcite .",
+    "the masses and residues of the triply heavy spin1/2 baryons for the ioffe current , as well as the masses of the triply heavy spin3/2 baryons , are also calculated in @xcite in framework of the qcd sum rule approach . in the present work ,",
+    "we extend our previous work on the spectroscopy of the triply heavy spin1/2 baryons for the general form of the interpolating current @xcite to calculate the masses and residues of both positive and negative parity triply heavy spin3/2 baryons in framework of the qcd sum rules .",
+    "we compare our results on the masses and residues of these baryons with the predictions of the existing approaches in literature @xcite .",
+    "information on the masses of the triply heavy baryons can play essential role in understanding the heavy quark dynamics .",
+    "the paper is organized as follows . in the following section , we derive qcd sum rules for the masses and residues of both negative and positive parity triply heavy spin3/2 baryons .",
+    "section 3 is devoted to the analysis of the sum rules for the masses and residues of the triple heavy baryons .",
+    "this section contains also a comparison of the obtained results with the predictions of other approaches existing in literature .",
+    "in order to calculate the masses and residues of the triply heavy spin3/2 baryons we start by the following two  point correlation function as the main object of the method : [ edhbtt01 ] _ ( q ) = i d^4x e^iqx 0 \\ { _ ( x ) |_(0 ) } 0  , where @xmath8 is the time ordering operator , @xmath9 is the four  momentum of the corresponding triply heavy baryon and @xmath10 stands for its interpolating current , whose general form can written as [ edhbtt02 ] _ = 1 ^abc \\{2 ( q^at c _ q^b ) q^c + ( q^at c _ q^b ) q^c }  , where @xmath11 and @xmath12 are heavy quarks .",
+    "the quark contents for all members of the triply heavy spin3/2 baryons are given in table 1 ."
+  ],
+  "abstract_text": [
+    "<S> the masses and residues of the triply heavy spin3/2 baryons are calculated in framework of the qcd sum rule approach . </S>",
+    "<S> the obtained results are compared with the existing theoretical predictions in the literature .    </S>",
+    "<S> # 1#2#3    @xmath0        # 1#2#3    @xmath0        0^*0 5_5    o _ ^0 _    pacs number(s ) : 11.55.hx , 14.20.-c , 14.20.mr , 14.20.lq </S>"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "models of giant planet formation in self - gravitating protoplanetary disks may involve gap - opening in massive disks .",
+    "however , gaps or edges in self - gravitating disks are potentially unstable to a gravitational edge instability ( gei ) associated with local potential vorticity maxima @xcite .",
+    "we confirm the gei for planet - induced gaps with global disk - planet simulations .",
+    "we consider a locally isothermal disk with constant aspect - ratio @xmath0 and keplerian toomre parameter @xmath1 at the outer disk boundary @xmath2 , where @xmath3 is the fixed orbital radius of a planet with mass @xmath4 and @xmath5 is the central star mass .",
+    "we simulated this self - gravitating disk - planet system in 3d using the zeus - mp code @xcite and pluto code @xcite ; and in 2d using the fargo code @xcite .",
+    "the 3d simulations are performed in spherical polar co - ordinates covering two vertical scale - heights .",
+    "[ gei_demo ] shows the outer gap edge develops a spiral instability with azimuthal wavenumber @xmath6 ( for 3d runs one of the spiral coincides with the planet wake in the snapshot ) .",
+    "the spirals extend close to @xmath3 .",
+    "in fact , the gei co - rotation radius is just inside a giant planet s co - orbital region @xcite .",
+    "so the gei supplies fluid onto horseshoe orbits ahead of the planet , which provides a positive disk - on - planet torque @xcite .",
+    "we also performed 2d fargo simulations with different @xmath7 where the planet is allowed to migrate , so that @xmath8 . fig .",
+    "[ migrate ] shows that for @xmath9 orbits , outward migration proceeds at a faster rate with increasing @xmath7 , because the gei becomes stronger .",
+    "eventually , a gei spiral - planet scattering event triggers rapid outward type iii migration . in the context of the disk fragmentation model for wide - orbit giant planet formation",
+    "@xcite , this suggests that gap - opening may not be sufficient to maintain giant planets on a fixed orbital radius beyond a few tens of orbits .      _",
+    "acknowledgments . _",
+    "several computations were performed on the gpc supercomputer at the scinet hpc consortium .",
+    "scinet is funded by : the canada foundation for innovation under the auspices of compute canada ; the government of ontario ; ontario research fund - research excellence ; and the university of toronto ."
+  ],
+  "abstract_text": [
+    "<S> gap formation by giant planets in self - gravitating disks may lead to a _ gravitational edge instability _ ( gei ) . </S>",
+    "<S> we demonstrate this gei with global 3d and 2d self - gravitating disk - planet simulations using the zeus , pluto and fargo hydrodynamic codes . </S>",
+    "<S> high resolution 2d simulations show that an unstable outer gap edge can lead to outward migration . </S>",
+    "<S> our results have important implications for theories of giant planet formation in massive disks . </S>"
+  ]
+}

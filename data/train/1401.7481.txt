@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the fundamental properties of the strong interactions in the non - perturbative range are closely related to the excitation spectrum of nucleons , which is not fully understood yet and therefore represents an intensively discussed topic .",
+    "the apparently poor match @xcite between the experimental database for excited nucleon states and model predictions based on quantum chromodynamics ` inspired ' quark models has motivated huge efforts in experimental and theoretical development . to overcome the limitations in the available database , which was dominated by the results from pion scattering on nucleons and thus biased against nucleon resonances with small couplings to @xmath7 , was the primery target .",
+    "huge advances in accelerator and detector technology allow for photoproduction of mesons , which thus has become a prime tool in this research .",
+    "sequential decays involving intermediate excited states are playing an essential role in these processes and are especially important for resonances from the third resonance region and above , where the cross sections from many single - meson channels are decreasing .",
+    "these types of reactions have attracted much interest in recent years and thus the photoproduction of pseudoscalar meson pairs , mostly @xmath8 but also @xmath9 , has been studied in detail experimentally ( see refs .",
+    "@xcite@xmath10@xcite for recent results ) .",
+    "the measurement of pion pairs with different charge combinations and also measurements of their production off both nucleons is mandatory for an isospin decomposition of the reaction , helping to identify contributions from @xmath11 and @xmath12 resonances .",
+    "at least 23 independent variables would have to be measured in order to fix amplitudes and phases in the description of photoproduction of pseudo - scalar meson pairs @xcite and thus a complete measurement appears unrealistic .",
+    "but already the measurement of at least some polarization observables can provide valuable constraints for the reaction models , since these observables are often very sensitive to small details in the reaction mechanisms .",
+    "the experiments were performed at the tagged photon facility at the mainz microtron accelerator mami@xcite .",
+    "detailed information about the different components of the detector setup and analysis techniques can be found in refs .",
+    "@xcite@xmath13@xcite@xmath10@xcite .",
+    "the charged pions and the photons from the @xmath14 decay were detected in coincidence with the recoil nucleons .",
+    "standard analysis steps , like cuts on the invariant mass m(@xmath15 ) , missing mass @xmath16 and coplanarity @xmath17 ( azimuthal angular difference between the three - momenta of the two - pion system and the recoil nucleon ) , led to a very clean signal extraction , see fig .",
+    "[ fig : ana ] .",
+    "the beam - helicity asymmetry is defined as in refs .",
+    "@xcite : @xmath18 where @xmath19 are the differential cross sections for each of the two photon helicity states .",
+    "a comparison of our free proton data to previously measured beam - helicity asymmetries @xcite showed a good agreement . in order to eliminate effects from the nuclear fermi motion in the quasi - free data",
+    "an analysis was performed that used the invariant mass @xmath20 of the final state extracted from the four - momenta of the mesons and the recoil nucleons ( rather than being approximated from the incident photon energy neglecting the fermi momenta ) .",
+    "the quasi - free proton results obtained this way are in good agreement with the free proton results .",
+    "the agreement between the free and quasi - free proton data demonstrates that the kinematic reconstruction of the final state eliminates effects from nuclear fermi motion and that no other nuclear effects like final state interactions are important .",
+    "due to its symmetry properties , @xmath21 can be expanded in a sine series ( @xmath22 ) which can be fitted to the data .",
+    "this allows for a more compact presentation of the results . in fig .",
+    "[ fig : i ] the energy dependence of the parameters @xmath23 for @xmath244 ( higher orders were not significant ) are shown for free and quasi - free data and all four channels .",
+    "the model calculations show a good agreement for @xmath25 of the neutral channel , whereas the agreement is less good for @xmath26 . for the mixed - charge asymmetries",
+    "the agreement is rather poor and it seems that the reaction mechanisms are still not understood very well .",
+    "the present data will certainly constrain future model analyses of this reactions ."
+  ],
+  "abstract_text": [
+    "<S> beam - helicity asymmetries and mass - differential cross sections have been measured at the mami accelerator in mainz for the photoproduction of neutral and mixed - charge pion pairs in the reactions @xmath0 and @xmath1 off free protons and @xmath2 , @xmath3 and @xmath4 , @xmath5 off quasi - free nucleons bound in the deuteron for incident photon energies up to 1.4 gev . </S>",
+    "<S> circularly polarized photons were produced in bremsstrahlung processes of longitudinally polarized electrons and tagged with the glasgow - mainz magnetic spectrometer . </S>",
+    "<S> the decay products ( photons , protons , neutrons , and charged pions ) were detected in the @xmath6 electromagnetic calorimeter composed of the crystal ball and taps detectors . </S>",
+    "<S> using a full kinematic reconstruction of the final state , excellent agreement was found between the results for free and quasi - free protons , indicating that the quasi - free neutron results are also a close approximation of the free - neutron results . </S>",
+    "<S> comparisons of the results to predictions from model calculations suggest that especially the reaction mechanisms in the production of the mixed - charge final states are still not well understood , in particular at low incident photon energies in the second nucleon resonance region . </S>"
+  ]
+}

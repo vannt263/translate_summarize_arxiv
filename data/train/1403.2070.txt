@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the reciprocity relation relates the distances between two events ( say the source @xmath1 and the observer @xmath2 ) , which are connected by null geodesics .",
+    "this relation is of fundamental importance in observational cosmology especially measurements such as distant type ia supernovae ( sne ia ) , cosmic microwave background ( cmb ) , galaxy observations and gravitational lensing @xcite .",
+    "bassett @xmath3 kunz @xcite explored whether this relation can shed some light on the presence of exotic physics and they ruled out non - accelerating models of universe ( replenishing dust model ) by more than @xmath4 level .",
+    "if the geodesic deviation equation holds and photon travel on null geodesics , it can be shown that ( see figure [ new ] ) , @xmath5 and @xmath6 are related as @xcite @xmath7 this is known as the reciprocity relation . note that this relation holds regardless of the metric or the matter content of the space - time . using the reciprocity relation and assuming that the total number of photons are conserved on the cosmic scales ( above mentioned observational methods are all based on this fundamental assumption )",
+    ", one can derive a relation between the angular diameter distance and the luminosity distance @xcite : @xmath8    this equation is known as the @xmath9 relation ( dd ) and it is testable by astronomical observations if @xmath10 and @xmath11 are known for a source . to study the validity of this relation , we analyse",
+    "the following red - shift dependence of dd @xmath12    uzan et al.@xcite , used the combined measurements of sunyaev - zeldovich effect and x - ray emission data of galaxy clusters and showed that if dd relation does not hold then the angular diameter distance measured from the clusters is @xmath13 , and hence the dd relation ( [ ddrelation ] ) gets modified to @xmath14    in this work our aim is to reanalyze the validity of dd relation in a comprehensive manner by using different data samples and parameterizations @xcite .",
+    "our parameterizations are inspired by model independent parameterizations for the dark energy equation of state @xcite .",
+    "we are parameterizing @xmath16 whose value stays one when photon number is conserved , gravity is described by a metric theory and photons travel on null geodesics .",
+    "any significant violation from the dd relation will hint at the breakdown of one or more of these assumptions . to model any departure from unity we parameterize @xmath15 with four parametric representations :    @xmath17 + @xmath18 + @xmath19 + @xmath20 +      for the luminosity distances , we use latest union2 sne ia data @xcite .",
+    "we consider that pair of galaxy cluster / radio galaxy and sne for which @xmath21 @xcite .",
+    "because of this condition , the number of data points are limited to 24 , 222 and 12 for the data set i , ii and iii respectively .",
+    "* data set i : this sample consists of 25 galaxy clusters ( isothermal elliptical @xmath0 model , with concordance model for the cosmological distance - redshift relationship ) @xcite .",
+    "the redshift interval for clusters in this sample is @xmath22 . *",
+    "data set ii : this data set contains 578 angular diameter distances of mock clusters .",
+    "the redshift distribution of this sample is from @xmath23 . for more details",
+    "see the ref.s @xcite .",
+    "* data set iii : in this sample the calculation of angular diameter distance is obtained by using the physical size of extended radio galaxies @xcite .",
+    "this data set contains 20 radio galaxies up to redshift z = 1.8 .",
+    "we perform the @xmath24 analysis to fit the parameters of the assumed parameterizations .",
+    "@xmath25 where @xmath26 is the assumed form of parameterizations and @xmath27 is the observed value of @xmath15 , which is calculated by using @xmath10 and @xmath11 at a particular value of redshift .",
+    "the unknown parameters are denoted by the variable @xmath28 .",
+    "the @xmath27 for the radio galaxies are obtained by assuming @xmath29 ( r. a. daly , private communication ) in eq .",
+    "( [ ddrelation ] ) . the angular diameter distance for radio galaxies",
+    "is given in terms of the dimensionless coordinate distance , @xmath30 , as @xmath31 where @xmath32 , and @xmath33 is the coordinate distance @xcite .",
+    "treating hubble constant , @xmath34 , as a nuisance parameter we marginalize over it by assuming gaussian prior . in this analysis distances",
+    "are obtained by assuming the flat @xmath35-cdm universe .",
+    "we have studied the validity of dd relation using different data sets , assuming four general parameterizations of @xmath16 , completely in analogy with the varying equation of state of dark energy , @xmath36 .",
+    "our results are summarized as follows :    * table [ tab : dataseti ] , [ tab : datasetii ] and [ tab : datasetiii ] show the best fit values of the parameters for the four parameterizations for the first , second and third data set respectively .",
+    "+ [ tab : dataseti ] + .best fit values for all parameterizations - data set i [ cols=\"^,^,^\",options=\"header \" , ]    +    +    + [ tab : datasetiii ] + c c c & parameters & parameters + 0.944 & @xmath37 & @xmath38 + 0.971 & @xmath39 & @xmath40 + 1.021 & @xmath41 & @xmath42 + 0.958 & @xmath43 & @xmath44 + * all the parameterizations show degenerate behaviour with the given data sets .",
+    "the parameterizations are in complete concordance with dd relation within 1@xmath45 level for data set i and within 2@xmath46 level for data set iii .",
+    "as expected , the bigger data set of mock galaxy clusters ( data set ii ) , which is generated by assuming the spherical isothermal @xmath0 model for clusters gives tighter constraints on various parameterizations , but most of the parameterizations show significant deviation from dd relation ( see figure [ allfig ] ) . but the real galaxy cluster data ( data set i ) which is obtained by assuming isothermal elliptical @xmath0 model for clusters is in good agreement with dd relation ."
+  ],
+  "abstract_text": [
+    "<S> we study the validity of cosmic distance duality relation between angular diameter and luminosity distances . </S>",
+    "<S> to test this duality relation we use the latest union2 supernovae type ia ( sne ia ) data for estimating the luminosity distance . </S>",
+    "<S> the estimation of angular diameter distance comes from the samples of galaxy clusters ( real and mock ) and friib radio galaxies . </S>",
+    "<S> we parameterize the distance duality relation as a function of redshift in four different ways and we find that the mock data set , which assumes a spherical isothermal @xmath0 model for the galaxy clusters does not accommodate the distance duality relation while the real data set which assumes elliptical @xmath0 model does . </S>"
+  ]
+}

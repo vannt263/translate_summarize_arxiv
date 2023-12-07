@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "first discovered during late 1960 s , gamma ray burst ( grb ) soon became one of the greatest puzzles in astrophysics in terms of its location , size and energetics .",
+    "many satellites have been flown since then to understand this puzzling phenomenon  _ hete-2 _ ,",
+    "_ batse _ , _ swift _ , _ fermi _ , to name a few . though we have a clear idea about their cosmic origin ( the highest spectroscopic redshift being 8.2 for grb 090423 ) and a rough idea about their energy budget ( highest among all astrophysical phenomena  @xmath2 erg ) , the emission mechanism is still unsettled .",
+    "hence , in spite of a great hope that grb could be used as luminosity indicator in extension to the currently used ones , e.g. , supernova ia , one has to standardize the grb energetics first .",
+    "this , of course , serves two purposes  solving the grb physics , which is not settled till now , and using grb as luminosity indicator .",
+    "there exist certain empirical correlations of the peak energy ( @xmath3 ) of grb spectrum with the energetics of grb .",
+    "these correlations are important as they can be used to independently measure a physical parameter , namely energy , using only prompt emission spectral data .",
+    "amati et al .",
+    "( 2002 ) showed that @xmath3 correlates with the isotropic equivalent energy ( @xmath4 ) .",
+    "it is very important that this correlation should hold within a grb , as that can prove the reality of such correlation and strongly refutes selection bias .",
+    "but , basak & rao ( 2012b ) , using 9 grbs with known redshift detected by _",
+    "fermi_/gamma ray burst monitor ( gbm ) , have shown that this correlation breaks down if one uses the time - resolved data . the pearson correlation , 0.80 drops to 0.37 .",
+    "they concluded that amati correlation has no meaning in a time - resolved study .",
+    "the situation is saved if one uses the constituent broad pulses ( total 22 pulses ) , rather than intensity guided time cuts .",
+    "pulse - wise analysis not only restores the correlation , it improves that ( 0.89 ) .",
+    "they used the pulse description of basak & rao ( 2012a ) and found that replacement of @xmath3 with a new quantity of their model , namely the peak energy at zero fluence ( @xmath5 ) improves the correlation even further ( 0.96 ) .    in this study , we have enlarged our sample to 19 grbs ( 43 pulses ) having measured redshifts ( z ) from gbm catalog .",
+    "we consider only pulse - wise amati correlation here .",
+    "the spearman rank correlation coefficient is 0.86 ( see figure 1 ) .",
+    "as we have a larger sample , we are able to divide the set of grbs into various redshift ( z ) bins and study evolution of the correlation .",
+    "a detailed analysis will be published later .",
+    "the prompt emission spectrum of a grb is generally fitted with band model ( band et al .",
+    "the empirical correlations , we have discussed , relies on the fact that the overall and instantaneous spectrum is band like .",
+    "band model describes a non - thermal model .",
+    "there are alternative models , e.g. , black body with a powerlaw ( ryde 2004 ) .",
+    "recently , we have analyzed the brightest grbs , having separable pulses , namely grb 081221 and grb 090618 , and found that the band model is adequate in the falling part of a pulse .",
+    "but , a different model is preferred in the rising part ( basak & rao 2013 ) .",
+    "hence , one should take into account these findings while describing the emission mechanism of grb and thereby using the pulses for cosmological purpose ."
+  ],
+  "abstract_text": [
+    "<S> gamma ray bursts ( grbs ) are found at much higher redshifts ( z@xmath06 ) than supernova ia ( z@xmath11 ) , and hence , they can be used to probe very primitive universe . </S>",
+    "<S> however , radiation mechanism of grb remains a puzzle , unlike supernova ia . through comprehensive description , both empirical and physical , we shall discuss the most likely way to use the constituent pulses of a grb to find the radiation mechanism as well as using the pulses as luminosity indicators . </S>"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "[ cols= \" < , < , < , < , < , < \" , ]",
+    "we used about nine years of publicly available  observations to study in a systematic way all known sfxts and three classical hmxbs .",
+    "we have built the cumulative luminosity distributions and , for the first time for sfxts , we have quantitatively characterized them .",
+    "we derived duty cycles , dynamic ranges , slow versus fast variability properties and typical luminosities during bright flaring activity .",
+    "we characterized the cumulative luminosity distributions with a power - law model .",
+    "we found that the x  ray luminosity range where the model is a plausible representation of the data is larger for sfxts than for persistent hmxbs ( where a power - law is able to reproduce only the very high luminosity tail ) .",
+    "furthermore , sfxts show a significantly flatter power - law slope than hmxbs .",
+    "we suggest that this power - law like behaviour is a possible indication of self - organized criticality and that sfxts flares could be associated with avalanching resulting in a soc system when an instability threshold is reached .    among the several different explanations suggested for sfxts , the @xcite model for quasi - spherical accretion seems , to date , to better explain sfxts and their link with persistent systems ( see",
+    "* for the application to sfxts ) .",
+    "it predicts the complete collapse of a hot shell of gravitationally captured wind material accumulated above the ns magnetosphere , when it cools below the critical temperature , allowing the onset of rayleigh - taylor instability .",
+    "while persistent accreting pulsars spend most of their life in an efficient compton cooling regime which allows ( and is permitted by ) high x  ray luminosities ( 10@xmath3 ) , sfxts spend most of the time at much lower luminosities ( 10@xmath410@xmath5 ; @xcite ) where gravitationally captured matter accumulates above the ns magnetosphere and remains too hot to accrete at high rates . at these low x  ray luminosities ,",
+    "the matter is subject only to inefficient radiative cooling which allows a low accretion rate through the ns magnetosphere . at some point , the x ",
+    "ray luminosity produced by this inefficient accretion can reach the critical x ",
+    "ray luminosity which is able to trigger efficient compton cooling of the matter below the critical temperature .",
+    "this produces the onset of rayleigh - taylor instabilities and the complete collapse of the accumulated hot shell , giving rise to a sfxt outburst .    to conclude",
+    ", we suggest that sfxts power - law like cumulative luminosity distributions are possibly the consequence of a threshold - nature instability , supporting the @xcite model for quasi - spherical settling accretion regime .",
+    "based on observations with _ integral _ , an esa project with instruments and science data centre funded by esa member states ( especially the pi countries : denmark , france , germany , italy , spain , and switzerland ) , czech republic and poland , and with the participation of russia and the usa .",
+    "this work has made use of the  archive developed at inaf - iasf milano , http://www.iasf-milano.inaf.it/@xmath0ada/golia.html .",
+    "we acknowledge the italian space agency financial support _ integral _",
+    "asi / inaf agreement n. 2013 - 025.r.0 .",
+    "ap and ls thank tony bird , massimo cocchi , mariateresa fiocchi , aleksandra gros , sandro mereghetti , lorenzo natalucci and jerome rodriguez for useful discussions .",
+    "j. , negueruela i. , norton a.  j. , 2010 , in astronomical society of the pacific conference series , vol .",
+    "422 , high energy phenomena in massive stars , mart j. , luque - escamilla p.  l. , combi j.  a. , eds ."
+  ],
+  "abstract_text": [
+    "<S> we have analyzed in a systematic way about nine years of  data ( 17100kev ) focusing on supergiant fast x - ray transients ( sfxts ) and three classical high mass x - ray binaries ( hmxbs ) . </S>",
+    "<S> our approach has been twofold : image based analysis , sampled over a @xmath0ks time frame to investigate the long - term properties of the sources , and lightcurve based analysis , sampled over a 100s time frame to seize the fast variability of each source during its @xmath0ks activity . </S>",
+    "<S> + we find that while the prototypical sfxts ( igrj175442619 , xtej1739302 and saxj1818.61703 ) are among the sources with the lowest @xmath0ks  based duty cycle ( @xmath11% activity over nine years of data ) , when studied at the 100s level , they are the ones with the highest detection percentage , meaning that , when active , they tend to have many bright short - term flares with respect to the other sfxts . + to investigate in a coherent and self consistent way all the available results within a physical scenario , we have extracted cumulative luminosity distributions for all the sources of the sample . </S>",
+    "<S> the characterization of such distributions in hard x - rays , presented for the first time in this work for the sfxts , shows that a power - law model is a plausible representation for sfxts , while it can only reproduce the very high luminosity tail of the classical hmxbs , and even then , with a significantly steeper power - law slope with respect to sfxts . </S>",
+    "<S> the physical implications of these results within the frame of accretion in wind - fed systems are discussed .    </S>",
+    "<S> [ firstpage ]    accretion - stars : neutron - x  rays : binaries - x  rays : individual ( igrj175442619 , igrj164184532 , igrj164794514 , igrj164654507 , saxj1818.61703 , igrj184830311 , xtej1739302 , igr  j084084503 , igr  j184500435 , igr  j184100535 , igr  j112155952 , , , h1907@xmath2097 , ) </S>"
+  ]
+}

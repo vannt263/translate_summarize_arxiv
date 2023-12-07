@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "experimental techniques for determining the partial specific volume and partial specific adiabatic compressibility of proteins in solution have provided key insight into structural and catalytic events .",
+    "the application of these methods has resulted in a broad base of knowledge about solvation effects , ligand binding and dissociation , the influence of protein domains on catalytic events , and protein folding pathways.@xcite    theoretical methods offer the potential to link specific events to the thermodynamic observables that experimentalists measure in the course of their research . in particular , molecular dynamics ( md )",
+    "can provide a powerful approach to correlating the molecular trajectories of proteins that may give rise to an experimentally measured molecular volume or change thereof .",
+    "the state - of - the - art method to date for determining the apparent volume of a protein is the method of `` accessible surface area'',@xcite a method that employs a spherically - accessible surface integration of the protein s crystal structure .",
+    "this method is attractive in that it is not computationally demanding ( and is thus accessible to the typical computational equipment of an experimental lab ) , however it calculates volumes that can be significantly different from those measured in solution",
+    ".    prior research on the volume of small molecules has been performed by our group@xcite and the methodology presented here is an application of those techniques to protein systems .",
+    "this work demonstrates the validity of the md approach toward determining the apparent molecular volume of globular proteins .",
+    "the apparent molecular volume of a protein is calculated as :    @xmath0    the namd@xcite molecular dynamics package uses a langevin - hoover hybrid method where a piston is coupled to the equations of motion for a particle in the isothermal - isobaric ( npt)ensemble .",
+    "a simulated annealing algorithm was implemented to perform a global energy minimization after making single amino - acid substitutions .",
+    "the protein and water system is brought to a higher energy state and allowed to randomly walk through phase space as the system is cooled over a specific temperature schedule .",
+    "post - simulation analysis consisted of calculating the correlation time of the volume signal using a block - averaging method in order to calculate an unbiased error in the volume , as well as structural analysis of the equilibrium structures ( rmsd , ramachandran plots ) versus their crystal structures .",
+    "preparatory simulation stages ( namd@xcite ) consisted of constructing the solvated protein system and local energy minimization , followed by heating and equilibration steps .",
+    "initial myoglobin structural coordinates were obtained from the rcsb protein data bank ( crystal structure entry 1dwr4 ) , solvated with 10,796 tip3p water molecules and then minimized by the method of conjugate gradients .",
+    "the protein was not mutated in any way .",
+    "the system was then heated to 300 k over a period of 1.2 ns , followed by equilibration in the npt ensemble for 0.2 ns .",
+    "a production npt ( 300 k/1 atm/2.0 fs timestep ) run of 10.0 ns resulted in an average volume for the protein - water system of 341,875 @xmath1 ; simulating the bulk water alone over a trajectory of equal time duration yielded an average system volume of 319,775 @xmath1 .",
+    "the difference of these values gives an apparent molecular volume of wild - type myoglobin corresponding to 22,100 @xmath1 0.747 @xmath2 / g. the correlation times of both volume signals were determined by block - averaging and the signals were then uncorrelated to provide an unbiased volume error of @xmath3 0.001 @xmath2 / g. this computationally determined apparent volume of 0.747 @xmath3 0.001 @xmath2 / g agrees precisely with experimentally reported sound velocity measurements@xcite and is within the experimental error of that study .",
+    "the equilibrium protein structure in solution was aligned and compared with the crystal structure of myoglobin and while the overall rmsd was minimal , a local region of amino acids near gly80 was found to be displaced by 6.0 @xmath4 due to solvation .",
+    "/ g.,width=3 ]      the halozyme of e. coli aspartate aminotransferase ( rcsb entry 1asm)@xcite a large dimer consisting of identical 404 amino acid subunits complete with lys258-bound pyridoxal-5-phosphate cofactors , was simulated in the npt ensemble with 58,361 water molecules .",
+    "both native aspat and it s val39 mutant were simulated in order to compare molar volumes .",
+    "an average apparent volume of 0.733 @xmath2 / g was calculated at the end of a 0.5 ns run , a result that is in good agreement with the experimentally measured value of 0.731 @xmath2 / g. work is in progress to obtain a longer timescale trajectory and calculate the associated volumetric error .    a series of single - point mutations at val39 have been investigated experimentally to determine their effect on compressibility and volume .",
+    "val39 was chosen due to its proximity to the binding site and was theorized to serve as a gating amino acid influencing substrate specificity .",
+    "a positive linear correlation between adiabatic compressibility and apparent volume when bulky side chains were introduced suggested that these effects were due to the increased flexibility of the protein and an increase in cavity size caused by these mutations .",
+    "the largest effect on protein volume was observed for the v39 g variant causing a shift from 0.731 @xmath2 / g to 0.696 @xmath2 / g. this single - point mutation induced a large conformational change in the dimer@xcite and an associated change in the apparent volume by -0.035 @xmath2 / g , one of the largest molecular volume changes observed due to a single residue mutation relative to the native protein . since the crystallographic structure of the v39 g mutant has not yet been elucidated ,",
+    "manual alteration of the val39 side chain of the 1asm crystal structure was performed to give the v39 g initial configuration .",
+    "a simulated annealing algorithm was developed and performed on the mutant to help facilitate the adoption of its new equilibrium conformation prior to performing production npt runs .",
+    "the application of molecular dynamics for studying the volume of globular proteins can accurately model experimental data . the methods presented can offer insight into structural protein studies since conformational changes can be examined and correlated with experimentally observed volume changes in solution .",
+    "the volumetric contribution of various regions of a protein ( including the more difficult case of a single - point mutation ) can be elucidated through use of this practical and consistent methodology .",
+    "work is currently in progress to resolve the separate coulombic and van der waals contributions to the apparent volume .",
+    "hybrid monte carlo ( hmc ) methods are also being developed to more efficiently explore the phase space of folding intermediates and to allow the use of additional potential energy terms .",
+    "computations were performed at the usf research computing center where nsf - funded computational resources ( under grant no . che-0722887 ) were greatly appreciated .",
+    "the authors acknowledge funding from the national science foundation ( grant no .",
+    "che-0312834 ) .",
+    "the authors also thank the space foundation ( basic and applied research ) for partial support ."
+  ],
+  "abstract_text": [
+    "<S> molecular dynamics simulations of myoglobin and aspartate aminotransferase , with explicit solvent , are shown to accurately reproduce the experimentally measured molar volumes . single amino - acid substitution at val39 of aspartate aminotransferase </S>",
+    "<S> is known to produce large volumetric changes in the enzyme , and this effect is demonstrated in simulation as well . </S>",
+    "<S> this molecular dynamics approach , while more computationally expensive that extant computational methods of determining the apparent volume of biological systems , is quite feasible with modern computer hardware and is shown to yield accurate volumetric data with as little as several nanoseconds of dynamics . </S>"
+  ]
+}

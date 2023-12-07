@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "in this note , we show that the main result proposed in @xcite , i.e. a sufficient condition for excluding the presence of homoclinic and heteroclinic orbits , is not correct .",
+    "hence this can not lead to their conjecture of a fourth kind of chaos in 3d polynomial ode systems characterized by the non - existence of homoclinic and heteroclinic orbits .",
+    "moreover , we remark that the conjecture can not be correct , as explained below in detail .",
+    "the main result of @xcite is stated in their theorem 1 , which leads to exclude the existence of a bounded trajectory for @xmath0 in any dynamical system characterized by a vector field with at least one lower bounded component , and from their proof it follows that this occurs independently of the existence of one or more equilibria in the system .",
+    "we notice that the proof they give also implies the _ non existence of any closed orbit , i.e. limit cycle_. moreover , @xcite gives an example , in eq .",
+    "( 3 ) , satisfying the assumption of the theorem 1 and showing a chaotic attractor illustrated in fig .",
+    "1 . from this finding , they conjecture the existence of a new type of chaos . however , given a system with a chaotic attractor ( and let us assume that this is the case shown in their example , indeed form fig .",
+    "[ fig1 ] of this note it can be assumed that the first return map on a suitable two - dimensional surface as qualitatively shown by the red line , leads to a two - dimensional map in chaotic regime ) then we have , by any definition of chaotic system ( see , e.g. , @xcite , @xcite , @xcite , @xcite and @xcite ) , _ the existence of infinitely many unstable limit cycles which densely cover the observed chaotic set . moreover , infinitely many homoclinic and heteroclinic orbits exist connecting these unstable limit cycles , which also are dense in the chaotic attractor_. it follows that it is not possible to identify a chaotic system characterized by the non - existence of homoclinic and heteroclinic orbits .",
+    "-plane of attractor obtained from system ( 3 ) in @xcite for @xmath1 , @xmath2 and @xmath3 .",
+    "the red line indicates a suitable plane for the return map . ]",
+    "the paper @xcite suggests that the presence of chaos is subordinated to the existence of either homoclinic orbits _ of equilibria _ or heteroclinic orbits _ of equilibria_. which is not correct .",
+    "indeed , the target of identifying a chaotic system characterized by the non - existence of homoclinic and heteroclinic orbits _ to one or more equilibria _ may be correct .",
+    "however , in our opinion this is not interesting , as it is well known that chaotic attractors may exist also when neither homoclinic nor heteroclinic orbits _ to equilibria _ are present , as it is the case in the classical lorenz system , see , e.g. @xcite .",
+    "we should emphasize that the existence of a homoclinic orbit of an equilibrium ( or heteroclinic connections between two equilibria ) , under other suitable assumptions , is relevant from a theoretical point of view , as it allows to rigorously prove the existence of chaos and also its persistence under perturbations when the homoclinic ( heteroclinic ) orbit no longer exists .    in the following",
+    ", we underline the presence of an inaccuracy in the proof of theorem 1 in @xcite .",
+    "regarding the proof of theorem 1 in @xcite , an incorrect part is related to the unboundedness of the trajectories .",
+    "consider a vector field @xmath4 belonging to class @xmath5 , @xmath6 the state variable of the system , and @xmath7 the time . assuming the existence of an @xmath8 , such that for at least one @xmath9 we have that @xmath10 , @xmath11 , then ( as pointed out by the authors in eq .",
+    "( 2 ) of their paper ) we have to consider the inequality@xmath12*for * @xmath13 which implies that , given a homoclinic or heteroclinic orbit @xmath14 , we have @xmath15 which is compatible with the existence of the orbits itself .",
+    "then the authors state that the same result in holds also * for * @xmath16 getting divergence for any orbit for @xmath17 .",
+    "however this is not correct , as for @xmath0 we have ] by a simple integration from @xmath18 to @xmath19 , we have @xmath20 assuming @xmath21 @xmath22 , by basic properties of definite integrals we have that for @xmath23 @xmath24 from which inequality follows , and for @xmath0 @xmath25 from which we obtain inequality .]@xmath26 in place of .",
+    "inequality implies that @xmath27 , which does not exclude the existence of homoclinic ( or heteroclinic ) orbits .",
+    "in this note we provide some arguments showing that the statement of theorem 1 in @xcite is not correct .",
+    "moreover , we show the presence of a mistake related to the backward integration in the proof of the same theorem .",
+    "the authors are grateful to g.  i.  bischi and l.  cerboni  baiardi for helpful comments on this note .",
+    "the usual caveats apply ."
+  ],
+  "abstract_text": [
+    "<S> the present note refers to a result proposed in @xcite , and shows that the theorem therein is not correct . </S>",
+    "<S> we explain that a proof of that theorem can not be given , as the statement is not correct , and we underline a mistake occurring in their proof .    </S>",
+    "<S> since this note is supplementary to @xcite , the reader should consult this paper for further explanations of the matter and the symbols used .    </S>",
+    "<S> * keywords * : homoclinic orbit , heteroclinic orbit , chaos .    * </S>",
+    "<S> chinese library classification *    * 2010 mathematics subject classification * </S>"
+  ]
+}

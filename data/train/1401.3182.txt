@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "in recent helioseismology studies , photospheric dopplergrams ( i.e. , maps of the line - of - sight velocity of the photosphere ) obtained by the helioseismic and magnetic imager ( hmi ; * ? ? ?",
+    "* ) on board the solar dynamics observatory ( sdo ; * ? ? ?",
+    "* ) have been used to investigate the solar interior .",
+    "multi - height velocity information from observations would be very useful not only for helioseismology analyses ( e.g. , * ? ? ?",
+    "* ) , but also for other purposes , in particular for studies of the energy transport by waves in the solar atmosphere .",
+    "hmi takes filtergrams at 6 wavelengths ( + 172.0 m  ( @xmath0 ) , + 103.2 m   ( @xmath1 ) , + 34.4 m  ( @xmath2 ) , -34.4 m   ( @xmath3 ) , -103.2 m   ( @xmath4 ) , and -172.0 m   ( @xmath5 ) ) around the fe i absorption line at 6173  .",
+    "standard dopplergrams provided by the hmi pipeline @xcite are derived from these six filtergrams .",
+    "the formation height of the hmi doppler signal is estimated to be about 100 km above the @xmath6 surface @xcite . in this study , instead , we try to create multi - height dopplergrams from the hmi filtergrams .",
+    "the observed fe i line profile shifts in wavelength because of the sdo orbital motion .",
+    "since sdo is in a geosynchronous orbit , the sdo orbital velocity toward the sun is not constant and the absolute value of its line - of - sight ( los ) velocity towards the sun reaches up to @xmath7 @xcite .",
+    "figure [ fig : obs_lineprof ] shows some sample observed line profiles . to create these line profiles we averaged the intensity value at each wavelength over a field of view of @xmath8 square , and hence",
+    ", the line shift is basically caused by the observer motion .",
+    "the vertical dotted line indicates the line shift calculated from the observer los velocity in the data headers .",
+    "we use this observer motion to calibrate the multi - height dopplergrams .",
+    "we calculate three doppler signals using the set of six filtergrams : @xmath9 , @xmath10 , and @xmath11 , and convert them into the doppler velocity , @xmath12 , @xmath13 , @xmath14 . to get the conversion formula , we use the spatial average doppler signal over a 30-degree - square area near the disc center and the los component of sdo observer motion . the functions @xmath15 are defined by 3rd - order polynomial fitting and the fitting parameters are calculated from three - day observation datasets as shown in figure [ fig : obs_fitting ] . here",
+    "we use six non - overlapping nine - hour datasets obtained between january 22 0ut and january 24 15ut , 2011 , except that we exclude the period from january 22 18ut to january 23 3ut because it has a long data gap .",
+    "we track 30-degree - square quiet - sun regions at the carrington rate for nine hours each using mtrack @xcite . for each run ,",
+    "the central point of the field of view passes the disc center at the mid - point of the run .",
+    "this method to convert the doppler signal @xmath16 into the doppler velocity @xmath17 is limited within a certain velocity range for two reasons : 1 ) if the velocity is too large , the doppler shift of the line is too big and the line center is outside of the blue and red pairs . for",
+    "the core ( @xmath2 and @xmath3 ) this limitation is severe ; if the velocity exceeds 1.7 km  s@xmath18 the line center is outside the blue and red pair ( @xmath19 m ) .",
+    "2 ) since the sdo motion is less than @xmath20 km  s @xmath18 , the fitting is limited within the range .",
+    "correlation coefficients between the doppler velocities of one snapshot at the time of minimum sdo motion speed on january 23 , 2011 , are 0.95 ( @xmath21 and @xmath22 ) , 0.83 ( @xmath23 and @xmath22 ) , and 0.76 ( @xmath23 and @xmath21 ) . the phase differences between pairs of the dopplergrams , however , show that @xmath21 , @xmath22 , and @xmath23 have promise as multi - height dopplergrams .",
+    "figure [ fig : phasedif ] shows the phase differences among the three doppler velocities .",
+    "figure [ fig : phasedif](c ) shows clear phase differences between the wing and core in the frequency range above the photospheric acoustic cutoff frequency ( @xmath24 mhz ) .",
+    "the phases referred to the far - wing are noisier ( panels ( a ) and ( b ) ) ; this might be because the far - wing intensity level is very close to the continuum level , and small fluctuations of the intensity ( @xmath0 or @xmath5 ) might cause large velocity differences . in the g - mode area ( with low frequency and large wavenumber ) , the sign of the phase difference is opposite to what we have in the higher frequency range ; this might be a signature of atmospheric gravity waves , which is consistent with e.g , @xcite .",
+    "this phase difference also indicates that the two velocities are formed in different heights in the atmosphere .    used photospheric and chromospheric intensity datasets , instead of dopplergrams , obtained by the solar optical telescope on board the hinode satellite .",
+    "the weak phase shifts above the acoustic cutoff frequency and strong phase shifts in the g - mode area shown in their figure 1 are consistent with ours , while the strong phase difference along the p - mode ridges which they reported is not seen in our results .",
+    "the interpretation of the intensity datasets , however , might not be straightforward because of radiation effects .",
+    "phase differences between two velocity datasets provide much clearer diagnostics , as they simply measure actual travel times between the two layers .",
+    "the hmi data used are courtesy of nasa / sdo and the hmi science team .",
+    "the german data center for sdo , funded by the german aerospace center ( dlr ) , provided the it infrastructure .",
+    "this work was carried out using the data from the sdo hmi / aia joint science operations center data record management system and storage unit management system ( jsoc drms / sums ) ."
+  ],
+  "abstract_text": [
+    "<S> we study doppler velocity measurements at multiple heights in the solar atmosphere using a set of six filtergrams obtained by the helioseismic magnetic imager on board the solar dynamics observatory . </S>",
+    "<S> there are clear and significant phase differences between core and wing dopplergrams in the frequency range above the photospheric acoustic cutoff frequency , which indicates that these are really  multi - height \" datasets . </S>"
+  ]
+}

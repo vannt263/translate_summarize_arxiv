@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "some galaxies , despite of their simple morphologies , can reveal to be very complex sistems from a kinematic point of view .",
+    "clear examples are objects with stars and/or gas in orthogonal rotation with respect the rest of the galaxy ( e.g. , @xcite ) , or with a warped inner structure ( e.g. , @xcite ) . among these galaxies with multi - spin components ,",
+    "_ counter - rotating galaxies _ are those that host two components that rotate in opposite directions from each other .",
+    "these peculiar objects have been observed from in all morphological types .",
+    "they are classed by the nature ( stars vs. stars , stars vs. gas , gas vs. gas ) and size ( counter - rotating cores , rings , and disks ) of the counter - rotating components ( see @xcite , for a review ) .",
+    "the subject of this work is the peculiar case of galaxies hosting two counter - rotating stellar disks of comparable size .",
+    "the prototype of this class of objects is the famous e7/s0 galaxy ngc  4550 , whose counter - rotating nature was first discovered by @xcite .",
+    "the study of the kinematics and the stellar population of the two counter - rotating components are the key to understand the formation mechanisms of these objects .",
+    "this task is complicated by the fact that the two components are co - spatial , and therefore we observe their combined contribution at each position on the sky .",
+    "thus , it is necessary to separate their contribution to the total observed galaxy spectrum and measure the properties and kinematics of their stellar populations separately . to this aim",
+    "we developed a spectroscopic decomposition technique and successfully applied to three spiral galaxies with counter - rotating stellar disks @xcite .",
+    "we observed with the visible multi object spectrograph ( vimos ) integral - field unit at the very large telescope ( vlt ) three spiral galaxies , which are known to host counter - rotating stellar disks : ngc  3593 @xcite , ngc  4550 @xcite , and ngc  5197 @xcite .",
+    "our spectroscopic decomposition technique exploits the differences in kinematics and stellar populations of the two components to separate their contribution from the combined observed spectrum . at each position on the galaxy , the code builds two synthetic templates ( one for each stellar component ) as linear combination of spectra from an input stellar library , and convolves them with two gaussian line - of - sight velocity distributions with different kinematics .",
+    "gaussian functions are also added to the convolved synthetic templates to account for ionized - gas emission lines ( h@xmath0 , h@xmath1 , [ o iii ] , and [ n i ] ) .",
+    "the spectroscopic decomposition code returns the spectra of two best - fit stellar templates ( that represent the two stellar disks ) and ionized - gas emissions , along with the best - fitting parameters of luminosity of each component , velocity , and velocity dispersion .",
+    "the line strength of the lick indices of the two counter - rotating components are measured on the two best - fit stellar templates .",
+    "the line strength of the absorption line indices are then used to infer the age , metallicity , abundance ratios , stellar mass - to - light ratio , and the stellar mass of the two stellar components .",
+    "we successfully separated the contribution of the ionized gas and the two stellar components from the observed spectrum , and confirm the presence of two counter - rotating stellar disks in ngc  3593 .",
+    "more details on this galaxy and other galaxies in our sample are in @xcite .    fig .",
+    "[ fig:003_1 ] shows the observed field of view , the 2-dimensional velocity fields of the stellar and ionized gas components , and the line strength of the absorption line indices ( h@xmath1 , mg  _ b _ , [ mgfe ] , and @xmath2fe@xmath3 ) . fig .",
+    "[ fig:003_2 ] shows the 2-dimensional maps of the age , metallicity and @xmath4-enhancement , and their radial profiles .",
+    "[ fig:003_3 ] shows the radial profiles of the stellar mass - to - light ratio and the mass of the two components .",
+    "the secondary disk is on average less luminous and less massive than the main stellar disk , and it rotates along the same direction as the ionized gas component .",
+    "the two counter - rotating stellar components have different stellar populations .",
+    "the secondary stellar disk is younger , more metal poor , and more @xmath4-enhanced than the main galaxy stellar disk .",
+    "the age difference between the two components is higher within 500 pc : the main component is @xmath5 gyr old , whereas the secondary component is @xmath6 gyr old . from the difference in age of the two components , we are able to date the formation of the counter - rotating stellar disk to @xmath72 gyr ago , i.e. @xmath71.6 gyr after the formation of the main galaxy disk .",
+    "both components have high metallicity in the central 150 pc followed by a declining profile .",
+    "the main component is on average more metal rich ( @xmath8_1=-0.04\\pm0.03 $ ] ) than the secondary component ( @xmath9_2=-0.15 \\pm0.07 $ ] ) .",
+    "our results rule out internal processes , such as bar dissolution , since they would lead to the formation of two counter - rotating disks with the same properties .",
+    "external acquisition of gas followed by star formation , or mergers of two galaxies with similar mass are both viable mechanisms .",
+    "the accretion scenario predicts that the secondary component is the younger , and that the two components have different metallicity , as they are formed from different gas clouds . in the second scenario ,",
+    "the properties of the two stellar component depend on the properties of the merging systems and star formation episodes triggered by the merger ."
+  ],
+  "abstract_text": [
+    "<S> we present a spectral decomposition technique and its applications to a sample of galaxies hosting large - scale counter - rotating stellar disks . our spectral decomposition technique allows to separate and measure the kinematics and the properties of the stellar populations of both the two counter - rotating disks in the observed galaxies at the same time . </S>",
+    "<S> our results provide new insights on the epoch and mechanism of formation of these galaxies . </S>"
+  ]
+}

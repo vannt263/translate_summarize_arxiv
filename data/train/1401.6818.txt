@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "medium - resolution echelle spectroscopy that is capable of @xmath0 radial velocity precision was first introduced to hungarian observatories in early 2012 .",
+    "the instrument , the commercially available eshel echelle spectrograph of the french shelyak instruments ( thizy & cochard , 2011 ) offers an exceptional light throughput that allows better than @xmath1 radial velocities for 911th magnitude stars with typical integrations of 2060 minutes . with this precision a range of ground - based spectroscopic support work",
+    "has become possible .",
+    "the main light gathering instrument for the spectrograph is the 0.5 m rc telescope of the gothard astrophysical observatory ( gao ) , but thanks to its transportability it has regularly been used on the 1 m rcc telescope at piszkstet mountain station of the konkoly observatory ( po ) .",
+    "the fiber injection and guiding unit of the spectrograph is attached to the cassegrain focus of the telescopes , while the spectrograph is located in a thermally isolated room .",
+    "the light from the object and thar fibers is collimated and projected to an r2 echelle grating , which is typically used between orders # 29 and # 56 separated by a prism .",
+    "the entire process of data acquisition is fully computer controlled .",
+    "the system is surprisingly compact and lightweight and it is easy to carry and install on different telescopes . over the last 1.5 years more than @xmath2 scientific frames including about @xmath3 stellar spectra of about 180 stars",
+    "have been recorded .",
+    "doppler observations of exoplanet systems have been a very expensive technique , mainly due to the high costs of high - resolution stable spectrographs",
+    ". however , recent advances in instrumentation enable affordable doppler planet detections with surprisingly small optical telescopes that have traditionally been neglected for this kind of studies .",
+    "our target list includes well - known bright exoplanet host stars , as well as somewhat fainter objects from wasp and hatnet projects , e.g. hat - p-2 ( bakos , 2007 ) .    , which clearly shows the applicability of our technique for detection exoplanets with a relatively small rv amplitude.,scaledwidth=60.0% ]",
+    "photometry of pulsating variables is a traditionally successful research field of the hungarian astronomy , but over the last century no spectroscopic observations were carried out in our observatories . with the acquisition and installation of a medium - resolution",
+    "mobile echelle spectrograph our aim was to change this situation , especially in the case of cepheids .",
+    "classical cepheid variables are well - known primary distance indicators owing to the @xmath4-@xmath5 relationship . companions to cepheids , however , complicate its applicability for distance determination ( szabados _ et al . _ , 2013 ) . binaries among cepheids",
+    "are not rare at all : their frequency exceeds 50% for the brightest cepheids , while among the fainter cepheids an observational selection effect encumbers revealing binarity ( szabados , 2003 ) . in the case of pulsating variables , spectroscopic binarity ( sb ) manifests itself in a periodic variation of the @xmath6-velocity . in practice , the orbital radial velocity variation of the cepheid component",
+    "is superimposed on the rv variations of pulsational origin .    the very first result of this work is pointing out the sb nature of the bright galactic cepheid v1344 aql by analysing old and our new radial velocity measurements ( szabados _ et al .",
+    "_ , 2014 ) . two earlier data sets ( balona , 1981 and arenalloferro , 1984 ) already imply a slight shift between the annual mean velocities . supplemented with our new data , the merged phase diagram of all rv observations clearly shows a vertical shift between the mean values valid for the early 1980s and 2012 . though the difference is small , quality of the data and the identical treatment is a guarantee that the shift is real .",
+    "regular monitoring of the rvs of a large number of cepheids will be instrumental in finding more long - period sbs among them .",
+    "data to be obtained within the gaia astrometric space mission will certainly result in revealing many new sbs among cepheids brighter than 1314th magnitude . as to v1344 aql , we keep this cepheid among our targets .",
+    "the authors would like to thank the konkoly observatory for using its 1 m rcc telescope and its infrastructure .",
+    "the project has been supported by the city of szombathely under agreement no .",
+    "s-11 - 1027 .",
+    "l.  szabados thanks also estec for supporting his work under contract no .",
+    "4000106398/12/nl / kml .",
+    "arellano ferro , a.  1984 , mnras , 209 , 481 bakos , g.  et  al .",
+    "2007 , apj , 670 , 826 balona , l.a .  1981 , the observatory , 101 , 205 szabados , l.  2003 , inf . bull .",
+    "stars , 5394 szabados , l.  et  al .",
+    "2013 , mnras , 434 , 870 szabados , l.  et  al .",
+    "2014 , in preparation thizy , o. & cochard , f.  2011 , iaus , 272 , 282"
+  ],
+  "abstract_text": [
+    "<S> here we present two of our interesting results obtained over the last 18 months from spectroscopic monitoring of binary pulsating stars and exoplanet host stars . </S>",
+    "<S> our investigations are very promising by demonstrating that modern fiber - fed spectrographs open a whole new chapter in the life of small national and university observatories . </S>"
+  ]
+}

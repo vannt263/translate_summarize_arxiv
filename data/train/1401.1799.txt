@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "at the @xmath1  meeting for discrete geometry in oberwolfach , h.  harborth posed the following problem : is it possible to put a finite set of match - sticks in the plane such that in each endpoint a constant number @xmath2 of matches meet , and no two match - sticks overlap ? also if possible , what is the minimum number of match - sticks in such a configuration .",
+    "he proceeded to give minimal examples for @xmath3 , @xmath4 , see figure  [ fig_min_ex_2_3 ] , and a possibly non - minimal example for @xmath5 , see figure  [ fig_min_ex_4 ] .",
+    "for @xmath6 there exist no finite regular map of valency @xmath2 by a consequence of euler s theorem : @xmath7 , where @xmath8 denotes the set of vertices , @xmath9 the set of edges , and @xmath10 the set of faces .",
+    "for @xmath11 there do exist finite regular maps , the smallest one is the graph of the icosahedron , see figure  [ fig_icosahedron ] , but it is not possible to draw it in such a way that all edges have the same length .",
+    "let @xmath8 denote the set of vertices , @xmath9 the set of edges , and @xmath10 the set of faces of a planar map .",
+    "we then have euler s relation : @xmath12 if , furthermore each point is on @xmath0  edges then @xmath13 write @xmath14 for the set of faces with @xmath15  sides , then @xmath16 and @xmath17 we may combine ( [ eq_2 ] ) , ( [ eq_3 ] ) and ( [ eq_4 ] ) to get @xmath18 for any vertex @xmath19 we define @xmath20 from ( [ eq_5 ] ) , ( [ eq_6 ] ) and @xmath21 we obtain @xmath22 from now on , we assume that the edges in the map all have the same length .",
+    "a point is then surrounded by at most @xmath23  triangles , and the only possibilities for a point @xmath19 , making a positive contribution to @xmath24 are configurations of either four triangles plus a tetragon , or four triangles plus a pentagon , see figure  [ fig_positive_contribution ] .        in the first case we have @xmath25 and in the second case we have @xmath26 .",
+    "we will show that the positive contribution is killed by the surrounding points , yielding @xmath27 , which is clearly a contradiction .",
+    "the effect upon @xmath24 is as follows : @xmath28 and @xmath29 are increased by @xmath30 , @xmath31 and @xmath32 are increased by @xmath33 ; therefore each added diagonal produces an increment of  @xmath23 : @xmath34 after the addition of extra diagonals some points now may have valency  @xmath35 or @xmath36 .",
+    "( at most two of the five faces at a point can be diamonds . )",
+    "let us denote the number of points of valency  @xmath35 by @xmath37 and the number of points of valency  @xmath36 by @xmath38 .",
+    "with this we have the relation @xmath39 together with  ( [ eq_8 ] ) this gives : @xmath40 the contribution of points with valency  @xmath35 or  @xmath36 to the left hand side of this relation is non - positive , which shows that we may limit our considerations to points that are part of a pentagon , since all other points do not make a positive contribution . as defined before @xmath41 denotes the set of pentagonal faces .",
+    "let us denote by @xmath42 the set of points contained in a pentagonal face .",
+    "let @xmath43 , i.  e. @xmath44 for vertices of valency  @xmath0 , @xmath45 for vertices of valency  @xmath35 , and @xmath46 for vertices of valency  @xmath36 , where @xmath47 is the degree of vertex  @xmath48 . with this",
+    "we can rewrite relation  ( [ eq_10 ] ) as @xmath49 or , separating pentagonal points and non - pentagonal points : @xmath50 since @xmath51 for all @xmath52 we will now investigate @xmath53 we will finish the proof by showing that @xmath54 for all pentagons @xmath55 .    now let us classify the situations where @xmath56 .",
+    "if @xmath57 then we have @xmath58 thus it remains to consider the case @xmath59 , where we have @xmath60 since @xmath61 vertices with @xmath62 fulfill @xmath63 . for @xmath64 , @xmath65",
+    "we have @xmath66 and for @xmath64 , @xmath67 we have @xmath68 .    thus the only configuration with positive @xmath69 consists of four triangles and a pentagon .",
+    "now suppose that at least three vertices @xmath48 of @xmath70 are of this type .",
+    "in this case two of them have to be neighbored , let us call them @xmath71 and @xmath72 , and the pentagon  @xmath70 has to be in the shape of a chain of three equilateral triangles , see figure  [ fig_pentagon ] .",
+    "we would like to remark that the proof can be slightly modified to prove that there does nt exist a finite planar map with minimum degree  @xmath0 and all edges having the same length . instead of equation  ( [ eq_5 ] )",
+    "we then obtain @xmath74 with this we define @xmath75 for each vertex @xmath19 and obtain @xmath76 .",
+    "since we may add edges without violating either the degree condition or the condition on the edge lengths , we can assume that the planar map does not contain any diamonds .",
+    "as in the proof above @xmath77 is only possible if @xmath78 .",
+    "the proof is finished by showing that @xmath79 holds for all pentagons @xmath55 ."
+  ],
+  "abstract_text": [
+    "<S> there does nt exists a finite planar map with all edges having the same length , and each vertex on exactly @xmath0  edges .    ' '' ''    ' '' '' </S>"
+  ]
+}

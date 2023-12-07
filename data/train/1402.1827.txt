@@ -1,0 +1,11 @@
+{
+  "article_text": [
+    "the genocchi numbers @xmath2 and the median genocchi numbers @xmath3 are the entries @xmath4 and @xmath5 respectively in the seider triangle @xmath6 ( see figure [ seidertriangle ] ) defined by @xmath7 with @xmath8 and @xmath9 whenever @xmath10 or @xmath11 ( see @xcite ) ."
+  ],
+  "abstract_text": [
+    "<S> in two recent papers ( _ mathematical research letters,18(6):11631178,2011 _ and _ </S>",
+    "<S> european j. combin.,33(8):19131918,2012 _ ) , feigin proved that the poincar polynomials of the degenerate flag varieties have a combinatorial interpretation through the dellac configurations , and related them to the @xmath0-extended normalized median genocchi numbers @xmath1 introduced by han and zeng , mainly by geometric considerations . in this paper </S>",
+    "<S> , we give combinatorial proofs of these results by constructing statistic - preserving bijections between the dellac configurations and two other combinatorial models of @xmath1 .    </S>",
+    "<S> * keywords : * genocchi numbers ; dumont permutations ; dellac configurations ; dellac histories </S>"
+  ]
+}

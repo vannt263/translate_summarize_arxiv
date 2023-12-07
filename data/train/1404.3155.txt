@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "_ treewidth _ and _ pathwidth _ are one of the basic parameters in graph algorithms and they play an important role in structural graph theory .",
+    "numerous problems which are np - hard on general graphs , have been shown to be solvable in polynomial time on graphs of bounded treewidth  @xcite .",
+    "courcelle  @xcite provided a celebrated algorithmic meta - theorem which states that every graph property expressible in monadic second - order logic formulas ( @xmath3 ) can be decided in linear time on graphs of bounded treewidth .    in this paper , we discuss a relatively new notion of _ special treewidth _ , introduced by courcelle  @xcite .",
+    "a special tree decomposition is a tree decomposition where for each vertex of a given graph , the bags containing this vertex form a rooted path in the tree .",
+    "courcelle developed this parameter to reduce the difficulty in representing tree decompositions algebraically .",
+    "the monadic second - order logic ( @xmath3 ) checking algorithm for treewidth in the meta - theorem is based on the constructions of finite automata , and he observed that these constructions become much simpler when working with special tree decompositions compared to standard tree decompositions .",
+    "courcelle asked several questions on properties of special treewidth .",
+    "one of the questions was how to characterize the class of graphs of special treewidth at most @xmath2 by forbidden configurations . in this context",
+    ", he showed that the graphs of special treewidth one are exactly the forests , but if @xmath4 , then the class of graphs of special treewidth at most @xmath2 is not closed under taking minors .    in this paper , we prove that the class of graphs of special treewidth at most two is closed under taking minors , and provide the minor obstruction set .",
+    "we also sharpen coucelle s bound , and show that for @xmath5 , the class of graphs of special treewidth at most @xmath2 is not closed under taking minors .",
+    "the graph @xmath6 denotes the complete graph on four vertices , and the other five graphs are depicted in figure  [ fig : pw2 ] and figure  [ figure : forbidden ] .      to show this",
+    ", we first prove that every block of special treewidth at most two must have pathwidth at most two .",
+    "but it is not a sufficient condition for having special treewidth two , and we establish a precise condition how those blocks can be attached to obtain a graph of special treewidth two .",
+    "we expect that similar characterizations are hard or impossible to obtain for values larger than two .",
+    "for instance , we see in section  [ section : width3 ] that the classes of graphs of special treewidth , spaghetti treewidth , directed spaghetti treewidth , or strongly chordal treewidth at most @xmath2 , for @xmath1 are not closed under taking minors",
+    ".    it may be interesting to pursue a similar investigation for parameters that are defined in a similar way by other subclasses of chordal graphs .",
+    "bodlaender , kratsch and kreuzen  @xcite showed that special treewidth and spaghetti treewidth are fixed parameter tractable ; an adaptation of the algorithms by bodlaender and kloks @xcite or lagergren and arnborg @xcite gives linear time decision algorithms for each fixed bound on the width .",
+    "we conjecture that in a similar way , it can be shown that directed spaghetti treewidth is fixed parameter tractable .",
+    "whether strongly chordal treewidth is fixed parameter tractable , we leave as an open problem .",
+    "h.  l. bodlaender , s.  kratsch , and v.  j.  c. kreuzen .",
+    "fixed - parameter tractability and characterizations of small special treewidth . in a.",
+    "brandstdt , k.  jansen , and r.  reischuk , editors , _ proceedings of the 39th international workshop on graph - theoretic concepts in computer science , wg 2013 _ , volume 8165 of _ lecture notes in computer science _ , pages 8899 .",
+    "springer verlag , 2013 .",
+    "j.  lagergren and s.  arnborg .",
+    "finding minimal forbidden minors using a finite congruence . in j.",
+    "l. albert , b.  monien , and m.  rodrguez - artalejo , editors , _ proceedings of the 18th international colloquium on automata , languages and programming , icalp91 _ , pages 532543 .",
+    "springer verlag , lecture notes in computer science , vol .  510 , 1991 ."
+  ],
+  "abstract_text": [
+    "<S> in this paper , we consider the notion of _ special treewidth _ </S>",
+    "<S> , recently introduced by courcelle  @xcite . in a special tree decomposition , for each vertex @xmath0 in a given graph , the bags containing @xmath0 form a rooted path . </S>",
+    "<S> we show that the class of graphs of special treewidth at most two is closed under taking minors , and give the complete list of the six minor obstructions . as an intermediate result </S>",
+    "<S> , we prove that every connected graph of special treewidth at most two can be constructed by arranging blocks of special treewidth at most two in a specific tree - like fashion .    </S>",
+    "<S> inspired from the notion of special treewidth , we introduce three natural variants of treewidth , namely _ spaghetti treewidth _ , _ strongly chordal treewidth _ and _ directed spaghetti treewidth_. all these parameters lie between pathwidth and treewidth , and we provide common structural properties on these parameters . for each parameter </S>",
+    "<S> , we prove that the class of graphs having the parameter at most two is minor closed , and we characterize those classes in terms of a _ tree of cycles _ with additional conditions . </S>",
+    "<S> finally , we show that for each @xmath1 , the class of graphs with special treewidth , spaghetti treewidth , directed spaghetti treewidth , or strongly chordal treewidth , respectively at most @xmath2 , is not closed under taking minors . </S>"
+  ]
+}

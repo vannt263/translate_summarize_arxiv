@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "_ swift _  has monitored the inner @xmath2 of the milky way with the onboard x - ray telescope since 2006 , using @xmath01  ks exposures performed every 14  days .",
+    "this has amounted to nearly 1000 observations and @xmath01.1  ms of exposure time between 2006 and 2013 .",
+    "this campaign provides a perfect setup to study the long - term x - ray behavior of the supermassive black hole sgr a@xmath3 , as well as 15 known transient low - mass x - ray binaries ( e.g. , * ? ? ?",
+    "* ; * ? ? ?",
+    "* ; * ? ? ?",
+    "ax j1745.62901  and grs 17412853  are two neutron star low - mass x - ray binaries that are frequently active ; both exhibited two main outbursts in the period 20062009 ( * ? ? ? * ; * ? ? ?",
+    "* see also figure  [ fig : longlc ] ) .    ) and short ( @xmath01 week ) outburst in 2006 @xcite .",
+    ", title=\"fig:\",scaledwidth=49.0% ] ) and short ( @xmath01 week ) outburst in 2006 @xcite .",
+    ", title=\"fig:\",scaledwidth=49.0% ]",
+    "figure  [ fig : longlc ] displays the updated x - ray light curves of ax j1745.62901  and grs 17412853 , including new _ swift_/xrt data obtained in 20102013 . both sources exhibited two new accretion outbursts .",
+    "we fitted the average spectra of each outburst to an absorbed power - law model .",
+    "we calculated the 210 kev fluxes and fluences , and determined the outburst peak intensity .",
+    "the results are summarized in table  [ tab : spec ] .",
+    "no x - ray bursts were detected from the two sources in the 20102013 _ swift _  data .",
+    "ax j1745.62901  entered an outburst between 2010 june 11 and 15 and remained active till october 31 , after which the galactic center became sun constrained .",
+    "when the observations resumed on 2011 february 4 , the source had faded to the background level , implying an outburst duration of @xmath02034 weeks .",
+    "renewed activity was detected on 2013 july 18 and continued until the observations ended on 2013 november 5 , implying an outburst duration of @xmath416  weeks .",
+    "grs 17412853  was seen in outburst starting on 2010 july 18 and remained active for @xmath013 weeks .",
+    "the source was again active for @xmath06 weeks from 2013 august 1 till september 14 .",
+    "p2.3pc p3.6pc p3.2pc p3.2pc p3.5pc p3.5pc p2.5pc p2.2pc p3.5pc year & @xmath5 & @xmath6 & @xmath7/dof & @xmath8 & @xmath9 & @xmath10 & @xmath11 & @xmath12 +   + 2010 & @xmath13 & @xmath14 & @xmath15 & @xmath16 & @xmath17 & @xmath18 & 2034 & @xmath19 + 2013 & @xmath20 & @xmath21 & @xmath22 & @xmath23 & @xmath24 & @xmath25 & @xmath26 & @xmath27 +   + 2010 & @xmath28 & @xmath29 & @xmath30 & @xmath31 & @xmath32 & @xmath33 & @xmath34 & @xmath35 + 2013 & @xmath36 & @xmath37 & @xmath38 & @xmath39 & @xmath40 & @xmath41 & @xmath42 & @xmath43 +    [ tab : spec ]    note. quoted errors refer to @xmath44 confidence levels .",
+    "the hydrogen column density ( @xmath5 ) is in units of @xmath45 .",
+    "unabsorbed fluxes ( @xmath8 ) are in units of @xmath46 and for the 210 kev energy range .",
+    "fluences ( @xmath12 , in units of @xmath47 ) were estimated by multiplying the average 210 kev flux with the outburst duration ( @xmath11 , given in weeks ) .",
+    "average ( @xmath9 ) and peak ( @xmath10 ) luminosities are in units of @xmath48 and were calculated by assuming a distance of @xmath49  kpc for ax j1745.62901  and @xmath50  kpc for grs 17412853 .",
+    "in the past seven years , ax j1745.62901  and grs 17412853  have each displayed four distinct outbursts captured by the _ swift_/xrt ( figure  [ fig : longlc ] )",
+    ". the main outbursts of grs 17412853  ( i.e. , neglecting the mini - outburst observed in 2006 ; figure  [ fig : longlc ] ) have varying peak intensities and lengths , yet comparable fluencies ( table  [ tab : spec ] , see also * ? ? ?",
+    "j1745.62901  displays two types of outbursts : those in 2006 and 2010 were relatively faint ( @xmath51 ) and short ( months ) , whereas the 20072008 outburst was much brighter ( @xmath52 ) and longer ( 1.5 yr ) .",
+    "the peak luminosity detected in 2013 was similar to that of the 20072008 outburst .",
+    "if the duration is also similar , the source might still be active when the galactic center becomes observable again in 2014 february .",
+    "however , it was argued by @xcite that long and bright outbursts can only recur on a time scale of a decade ."
+  ],
+  "abstract_text": [
+    "<S> ax j1745.62901  and grs 17412853  are two transient neutron star low - mass x - ray binaries that are located within @xmath010@xmath1 from the galactic center . </S>",
+    "<S> multi - year monitoring observations with the _ swift_/xrt has exposed several accretion outbursts from these objects . </S>",
+    "<S> we report on their updated x - ray light curves and renewed activity that occurred in 20102013 . </S>"
+  ]
+}

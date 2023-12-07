@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "in recent years a huge effort has been devoted to the investigation of all the physical aspects of iron pnictides .",
+    "these materials show very interesting properties such as the high superconducting transition temperature  @xcite , the proximity of the magnetic and the superconducting states and the presence of complex band structures resulting in multi - band fermi surfaces  @xcite . the electronic structure in general consists of hole pockets centered at the @xmath6 point and electron pockets at the corner of the brillouin zone .",
+    "in particular , it has been proved that for the so - called  122 \" compounds of general formula aefe@xmath2as@xmath2 [ ae : alkali earth elements ] the size and even the dimension of these pockets drastically change with doping  @xcite .    due to",
+    "the variety and complexity of these compounds many questions about the symmetry of the order parameters , the coupling mechanism and the effects of the impurities are still open  @xcite .",
+    "the situation becomes even more complex when a thin film is considered . in this case many differences with respect to the single crystals can appear also in the fundamental properties of the materials .",
+    "therefore a deeper investigation in this direction is indispensable  @xcite .",
+    "nowadays very high - quality thin films are available and this allows using them for fundamental studies as well as for more technological applications  @xcite .",
+    "in particular , co - doped bafe@xmath2as@xmath2 films of high quality can be readily fabricated by pulsed laser deposition ( pld ) and are thus one of the most suitable materials for these purposes .",
+    "the investigation of the effects of the substrate in thin films is thus a hot topic and a particular attention has been paid to the strain - dependent critical temperature  @xcite .    in this article",
+    "we present the study of the resistivity measured on ba(fe@xmath0co@xmath1)@xmath2as@xmath2 thin films grown on caf@xmath2 substrates and with different nominal cobalt content ( namely 8% , 10% and 15% ) in comparison with analogous measurements on single crystals taken from literature  @xcite .",
+    "we use a model containing two different kinds of carriers ( holes and electrons ) as suggested by the presence of several sheets in the fermi surface and by the tendency of the @xmath5 curves to saturate at high temperature , as already observed in other iron - based compounds  @xcite . on the basis of experimental evidences , we assume that the temperature dependence of the resistivity is dominated by the coupling between electrons and spin fluctuations ( sf ) .",
+    "this simple model allows us to fit very well the resistivity of single crystals by adjusting the free parameters ( in particular the characteristic boson frequency @xmath7 ) in agreement with the results obtained by inelastic neutron scattering and optical measurements  @xcite . in the case of thin films ,",
+    "the @xmath5 curves can be fitted with a set of parameters that agree with the experimental data available in literature only if the electron - sf spectrum is depleted at low energy , resulting in a transfer of spectral weight to higher energies .",
+    "thanks to the interaction between phonons and spin fluctuations , this effect can be ascribed to the phonon hardening induced by the reduction of the unit - cell volume  @xcite caused by the presence of the caf@xmath2 substrate  @xcite .",
+    "the ba(fe@xmath0co@xmath1)@xmath2as@xmath2 ( @xmath8 ) epitaxial thin films with a thickness of the order of 50 nm were deposited on ( 001)caf@xmath2 substrates by pulsed laser deposition ( pld )  @xcite using a polycrystalline target with high phase purity  @xcite .",
+    "the surface smoothness was confirmed by in - situ reflection high energy electron diffraction ( rheed ) during the deposition ; only streaky pattern were observed for all films , indicative of a smooth surface .",
+    "the details of the structural characterization and of the microstructure of these high - quality epitaxial thin films can be found in ref .",
+    "standard four - probe resistance measurements in van der pauw configuration were performed in a @xmath9he cryostat to determine the @xmath5 curve as well as the transport critical temperature and the width of the superconducting transition @xcite ( both reported in table  [ tab : exp ] ) .",
+    ".critical temperatures of thin films ( tf )  @xcite and single crystals ( sc )  @xcite determined from electric transport measurements . @xmath10 and @xmath11 are the temperatures at which the resistance ( the resistivity ) is respectively 10% and 90% of the normal - state value immediately before the transition .",
+    "@xmath12 is defined here as @xmath13 . [",
+    "cols=\"^,^,^,^\",options=\"header \" , ]",
+    "it is already known that , in thin films of iron - based compounds , the transport critical temperature is affected by the strain due to the substrate @xcite .",
+    "here we have shown that this effect may also explain the different shape of the @xmath5 curve in crystals and thin films of co - doped ba-122 , even when the co content is the same . by using a simple effective two - band model for the transport",
+    ", we have shown that the @xmath5 curves of thin films can be fitted with the same characteristic boson energy @xmath7 used for single crystals only if some spectral weight is transferred from below @xmath7 to above @xmath7 in the transport electron - boson spectral function @xmath14 .",
+    "in other words , @xmath14 behaves like @xmath15 in a wider energy range than in single crystals .",
+    "this effect is possibly induced by the indirect coupling between spin fluctuations and phonons @xcite , whose frequencies are increased by the compressive strain @xcite . finally , we have shown that the decrease ( increase ) in the electron - boson coupling constant ( characteristic boson energy ) between the superconducting and the normal state ( @xmath16 , @xmath17 ) observed in crystals of various fe - based compounds also holds in thin films of co - doped ba-122 .",
+    "this behavior is also common to htsc @xcite and may thus be a unifying principle at the root of superconductivity in iron - based materials and cuprates .",
+    "the authors would like to thank f. galanti for his cooperation in resistivity measurements .",
+    "this work was done under the collaborative eu - japan project `` iron - sea '' ( nmp3-sl-2011 - 283141 ) ."
+  ],
+  "abstract_text": [
+    "<S> the temperature dependence of the resistivity of epitaxial ba(fe@xmath0co@xmath1)@xmath2as@xmath2 thin films ( with nominal doping @xmath3 and @xmath4 ) has been analyzed and compared with analogous measurements on single crystals taken from literature . </S>",
+    "<S> the @xmath5 of thin films looks different from that of single crystals , even when the cobalt content is the same . </S>",
+    "<S> all @xmath5 curves can be fitted by considering an effective two - band model ( with holes and electrons bands ) in which the electrons are more strongly coupled with the bosons ( spin fluctuations ) than holes , while the effect of impurities is mainly concentrated in the hole band . within this model </S>",
+    "<S> the mediating boson has the same characteristic energy in single crystals and thin films , but the shape of the transport spectral function at low energy has to be very different , leading to a `` hardening '' of the electron - boson spectral function in thin films , associated with the strain induced by the substrate . </S>"
+  ]
+}
