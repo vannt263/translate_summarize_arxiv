@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "planetary migration is essential in the theory of planet formation in order to understand the observed mass - period relation ( ( * ? ? ? * udry & santos 2007 ) ) .",
+    "there are actually two types of migration , distinguished by planetary mass ( e.g. , ( * ? ? ?",
+    "* ward 1997 ) ) .",
+    "low - mass planets ( @xmath0 several @xmath1 ) undergo the so - called type i migration wherein angular momentum is transferred between planets and the surrounding gaseous disks only at the lindbald and corotation resonances . in standard disk models ,",
+    "the planets efficiently lose their angular momentum , and hence plunge towards the central star within the disk lifetime ( @xmath2 years ) . on the other hand , massive planets ( @xmath3 ) , known as type ii migrators , can open up a gap in the disk due to strong , non - linear resonant torques , and migrate on the viscous evolution timescale of the disk .    the long standing problem of migration is to identify what physical process(es ) and/or condition(s ) makes type i migration much slower .",
+    "considerable effort has been focused on disk properties such as density and temperature gradients to which the tidal torque is sensitive ( ( * ? ? ?",
+    "* hasegawa & pudritz 2010a ) ) .",
+    "dust settling is observationally confirmed in disks around a variety of young stars ( e.g. , ( * ? ? ? *",
+    "hasegawa & pudritz 2010b ) ) .",
+    "* hasegawa & pudritz 2010c ) first included the effects of this inescapable aspect of disk evolution on migration , by self - consistently computing the thermal structure of disks . in the computations ,",
+    "the full wavelength dependent , radiative transfer equation is solved by means of a monte carlo method , including dust settling and the gravitational force of a planet .",
+    "we show that dust settling results in even more rapid type i migration , by up to a factor of about 2 .",
+    "this arises due to the geometrically flatter shape of the disk which is a consequence of dust settling .",
+    "on the other hand , dust settling both lowers the gap - opening mass and slows the type ii migration rate by about a factor of 2 .",
+    "this can be also understood as a consequence of flatter disk structures .",
+    "it is obvious that some sort of more robust slowing mechanism is required for even more rapid type i migration .",
+    "dead zones change the structure of disks ( ( * ? ? ?",
+    "* hasegawa & pudritz 2010a ) ) .",
+    "they are the high density , low ionized regions , so that turbulence induced by the magnetorotational instability ( mri ) is strongly suppressed ( e.g. , ( * ? ? ? * gammie 1996 ) ) . in a dead zone ,",
+    "dust settling is highly enhanced , so that a dusty wall is left at its outer boundary .",
+    "the wall becomes thermally hot by stellar irradiation , and produces a positive temperature gradient due to its back - heating of the dead zone .",
+    "we demonstrate that this temperature behavior results in outward migration ( fig .",
+    "1 ) . we will address the role of this barrier in the mass - period relation by developing our population synthesis models ."
+  ],
+  "abstract_text": [
+    "<S> planetary migration provides a theoretical basis for the observed diversity of exoplanetary systems . we demonstrate that dust settling - an inescapable feature of disk evolution - gives even more rapid type i migration by up to a factor of about 2 than occurs in disks with fully mixed dust . on the other hand , </S>",
+    "<S> type ii migration becomes slower by a factor of 2 due to dust settling . </S>",
+    "<S> this even more problematic type i migration can be resolved by the presence of a dead zone ; the inner , high density region of a disk which features a low level of turbulence . </S>",
+    "<S> we show that enhanced dust settling in the dead zone leaves a dusty wall at its outer edge . </S>",
+    "<S> back - heating of the dead zone by this wall produces a positive radial gradient for the disk temperature , which acts as a barrier for type i migration . </S>"
+  ]
+}

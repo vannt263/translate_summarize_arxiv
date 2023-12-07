@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the experimental investigation of the @xmath0-decay of @xmath1xe has been started more then 20 years ago . but",
+    "both two neutrino and neutrinoless modes of this process for @xmath1xe was not observed .",
+    "the results of last experiments are presented in table [ tab1 ] .",
+    "the theoretical estimations of half lifetime for @xmath3-decay are presented in table [ tab2 ] .",
+    "it is necessary to mention that in @xcite only one spectrum ( measured with enriched @xmath1xe ) was obtained . to calculate their limit",
+    "it was assumed that at any effect / background ratio in the energy range under investigation the effect did not exceed the actually measured background increased by a systematic error given in @xmath5 units ( @xmath5 is a standart deviation ) . in our work",
+    "the measurements were performed with both enriched xenon and natural xenon simultaneously .         to evaluate the @xmath6-effect the energy spectra in region 2312@xmath72646 kev were analyzed .",
+    "the data for the analysis @xmath8-mode have been taken for 17280 hours of measurements .",
+    "this energy region is determined from calculated energy resolution for 2479 kev electrons ( r=7.0@xmath9 , @xmath10 kev ) and systematic error in definition of peak position ( @xmath11 kev ) .",
+    "number of events in the energy region @xmath12 kev registered by cpc _ _ n__1 and cpc _ _ n__2 in each run of measurements are presented in table [ tab4 ] . using recommendation given in @xcite and assuming that mean background is 10 events and measured one is 8 events , we obtain : @xmath13 where @xmath14 h @xmath15 yr and @xmath16 .",
+    "r.  bernabei et al . , phys . lett . *",
+    "b 546 * , 23 ( 2002 ) .",
+    "r.  luescher et al .",
+    "* b 434 * , 407 ( 1998 ) .",
+    "gavriljuk at al .",
+    "phys . of atomic nucl . v.*69 * , 12 , 2129 ( 2006 ) .",
+    "r.  bernabei et al . , phys . lett .",
+    "* b 546 * , 23 ( 2002 ) e.  caurier , f.  nowacki , a.  poves , j.  retamosa , nucl . phys . * a 654 * , 973c ( 1999 ) .",
+    "rumyantsev , m.g .",
+    "urin , jetp lett * 61 * , 361 ( 1995 ) .",
+    "a.  staudt , k.  muto , h.  klapdor - kleingrothaus , europhys . lett . * 13 * , 31 ( 1990 ) .",
+    "p.  vogel and m.r .",
+    "zirnbauer , phys .",
+    "lett . * 57 * , 3148 ( 1986 ) v.n .",
+    "gavrin et al , `` intensivnost muonov kosmicheskikh luchei v laboratorii glubokogo zalozheniya ggnt '' , preprint inr ras , * p-698 * ( 1991 ) moskva .",
+    "gavriljuk et al . phys . of atomic nucl .",
+    "v.*67 * , 11 , 2039 ( 2004 ) .",
+    "feldman and r.d .",
+    "cousins , phys.rev.*d 57 * , 7 , 3873 ( 1998 ) ."
+  ],
+  "abstract_text": [
+    "<S> search for @xmath0-decay of @xmath1xe with two high pressure proportional counters is carried out in baksan neutrino observatory . </S>",
+    "<S> the experiment is based on comparison of spectra measured with natural and enriched xenon . </S>",
+    "<S> the measured half life is equal to t@xmath2 yr ( 67% c.l . ) for @xmath3 decay mode . </S>",
+    "<S> no evidence has been found for neutrinoless @xmath0-decay . </S>",
+    "<S> the decay half life limit based on data measured during 17280 h is t@xmath4 yr ( 90% c.l . ) . </S>"
+  ]
+}

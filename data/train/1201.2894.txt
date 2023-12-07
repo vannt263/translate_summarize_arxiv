@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "after the upgrade of the hera machine longitudinally polarised lepton beams were available to the hermes , the h1 and the zeus experiment .",
+    "the degree of polarisation was measured for nearly all available data with two independent polarimeters , the transverse polarimeter tpol , located close to the hera - west interaction point , and the longitudinal polarimeter lpol , located close to the hera - east interaction point . throughout the hera ii running period from fall 2003 to mid 2007 typically @xmath2 of the integrated luminosity used in polarisation dependent analyses of the experiments",
+    "is covered by at least one polarimeter @xcite .",
+    "in addition , for some part of data in 2006 and 2007 , a new polarimeter was used in place of the longitudinal polarimeter , the cavity polarimeter .",
+    "the analysis of data from this instrument is covered in @xcite , and is not included in this note .    in this report the analyses of the transverse and",
+    "the longitudinal polarimeters are presented . for the transverse polarimeter",
+    ", a completely new analysis method has been developed and is presented , while for the lpol an in - depth evaluation of the systematic errors has been performed .",
+    "this is followed by a recommendation on how to treat the errors of the polarimeters and how to combine the data from the two devices to obtain one hera ii polarisation measurement .",
+    "the main method of the analysis of the lpol has been unchanged for a number of years . the main focus of the work presented in this note",
+    "has been a careful re - evaluation of the systematic errors as published in @xcite .",
+    "studies were undertaken to understand the behaviour of key parameters in more detail .",
+    "extensive searches have been conducted to look for correlations between variables in the lpol and the lpol/ tpol ratio , to understand potential sources of discrepancy between the two devices . to this end",
+    "the data of the lpol have been restructured for easier access , and additional variables have been included in the database  @xcite .",
+    "the values of systematic uncertainties are given in tab .",
+    "[ tab : lpol ] .",
+    "._[tab : lpol ] systematic ( relative ) uncertainties of the lpol measurements .",
+    "the so - called hera i contributions are described in @xcite .",
+    "the extra contribution to the error is estimated from the studies in @xcite , and should be applied to the lpol values measured from july @xmath3 2004 onwards , after the replacement of the cracked calorimeter crystals .",
+    "the table is adapted from @xcite .",
+    "the third column indicates the estimated class of systematic error and possible period dependence , see sect .",
+    "[ sec : class ] for details . _ [ cols=\"<,^,^\",options=\"header \" , ]     when applying the suggested averaging procedure to the complete set of hera ii polarimeter data using equal contributing integrated luminosity values @xmath4 for every 5 minute bucket as described in sect .",
+    "[ sect : avgproc ] , enumeration point 2 , the contributions of systematic uncertainty for the four running periods with either electrons or positrons and left or right handed polarisation can be estimated .",
+    "the results are shown in tab .",
+    "[ tab : avgresults ] . following this estimation",
+    "the total systematic uncertainty , calculated by adding the three systematic contributions in quadrature , is for all four periods @xmath5 and for the positron run periods even @xmath6 .",
+    "these estimated results are for illustration only .",
+    "it is expected that the precise results will vary somewhat for the experiments as their integrated luminosities and data selection cuts need to be taken into account properly .",
+    "we are grateful to p.  schler and v.  gharibyan as well as all members of the pol2000 group for their support and discussions . the support of the h1 , hermes and zeus experiments is warmly acknowledged .",
+    "we thank the hera machine group whose outstanding efforts have made this experiment possible and the desy directorate for its support .",
+    "we thank also m.  voigt and d.  p.  barber for discussions and j.  list for technical help ."
+  ],
+  "abstract_text": [
+    "<S> in this technical note we briefly present the analysis of the hera polarimeters ( transversal and longitudinal ) as of summer 2011 . </S>",
+    "<S> we present the final reanalysis of the tpol data , and discuss the systematic uncertainties . a procedure to combine and average lpol and tpol data </S>",
+    "<S> is presented .    </S>",
+    "<S> @xmath0_deutsches elektronensynchrotron desy + notkestrasse 85 , d-22607 hamburg , germany _ + @xmath1now at : _ forschungszentrum jlich fzj + wilhelm - johnen - strasse , d-52425 jlich , germany _ </S>"
+  ]
+}

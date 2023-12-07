@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "accurate distances to planetary nebulae ( pne ) are crucial in unraveling the connection between the physical properties of the nebulae with those of their central stars ( css ) .",
+    "reliable distances facilitate the accurate estimation of fundamental parameters such as the cs mass and luminosity , and the nebular mass and age .",
+    "we have begun a program of using photoionization modeling to refine the distances to a sample of nearby pne ( see also ( * ? ? ? * danehkar 2011 ) ) . in this work ,",
+    "we study two very different pne as a proof of concept : abell39 , a simple spherical shell with no microstructures , and ngc7027 , a well - known , young , luminous bipolar pn with a massive molecular envelope . using the 3-d photoionization code ( mocassin ; ( * ? ? ?",
+    "* ercolano et al . 2003 ) ) , our ultimate aim is to constrain the distance to individual pne , utilizing the physical pn radius we have calculated and the angular size .",
+    "our procedure allows us refine the nebular parameters iteratively to provide the best match against the observations , though owing to degeneracies in these parameters , there may be more than one unique solution .",
+    "since a black body is not a perfect model for the cs continuum flux , we used various nlte model atmosphere fluxes from the grid of ( * ? ? ? * rauch ( 2003 ) ) . for the initial model inputs for a  39",
+    ", we adopt the line intensities and abundances from ( * ? ? ?",
+    "* jacoby ( 2001 ) ) , and derived the nebular @xmath0 from the [ oiii ] lines because the density of a  39 is very low , we initially determined @xmath1 from the pn diameter and integrated h@xmath2 flux .",
+    "our preliminary distance estimate is @xmath3 = 1.5  kpc , and the cs parameters are @xmath4kk and @xmath5 , which disagrees with the estimate of @xmath6 = 117kk from ziegler ( 2011 , these proceedings ) .",
+    "the higher temperature is needed to explain the observed heii and [ nev ] line intensities in the nebular shell .    for ngc7027 ,",
+    "a starting value of @xmath0 = 11kk is adopted , the line intensities and abundances being taken from ( * ? ? ?",
+    "* bernard salas  ( 2001 ) ) and ( * ? ? ?",
+    "* zhang ( 2005 ) ) , and refined as necessary .",
+    "in addition , a bipolar morphology with a mean density ( @xmath7 ; figure [ fig_1 ] ) is needed to model ngc7027 , since a simple assumption of spherical geometry conflicts with the observed ionization structure and nebular line intensities .",
+    "our photoionization model outputs generally agree with the observations , except for some uncertain lines .",
+    "our photoionization model of ngc7027 gives @xmath3 = 900pc , with the cspn having @xmath8kk and @xmath9 , which reproduces most observations .",
+    "our distance agrees with previous determinations ( ( * ? ? ?",
+    "* masson 1989 ) ; ( * ? ? ?",
+    "* volk & kwok 1997 ) ; ( * ? ? ?",
+    "* zijlstra  2008 ) ) .",
+    ".best - fit parameters ( left ) and observations versus model outputs ( right ) . [ cols=\"<,^,^\",options=\"header \" , ]     4686 line compared with the _ hst _ image.,width=489 ]",
+    "ad acknowledges receipt of an mqres phd scholarship and an iau travel grant ."
+  ],
+  "abstract_text": [
+    "<S> we estimate distances to the spherical planetary nebula abell39 and the bipolar planetary nebula ngc7027 by interpolating from a wide grid of photoionization models using the 3-d code , mocassin . </S>",
+    "<S> we find preliminary distances of 1.5kpc and 0.9kpc respectively , with uncertainties of about 30% . </S>"
+  ]
+}

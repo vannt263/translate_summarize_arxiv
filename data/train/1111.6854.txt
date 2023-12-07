@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the most general stationary black hole in electrovacuum is the kerr - newman one . in boyer - lindquist coordinates its line element reads : @xmath3 \\sin^2 \\theta d\\phi^2 + \\frac{\\sigma}{\\delta } dr^2 + \\sigma   d\\theta^2 , \\end{aligned}\\ ] ] where @xmath4 and @xmath5 .",
+    "the parameters @xmath6 , @xmath7 and @xmath8 correspond to the mass , the angular momentum per unit mass and the electric charge respectively .",
+    "depending on the nature of the roots of the function @xmath9 , the above solution represents a black hole or a naked singularity .",
+    "the stability against gravitational perturbations of spacetimes presenting naked singularities were studied : for negative mass schwarzschild , @xcite for super charged reissner - nordstrm @xcite and for super extreme kerr .",
+    "@xcite the results obtained in these works shed some light into penrose s cosmic censorship conjeture ( ccc ) showing systematically the existence of unstable modes . both the reissner - nordstrm and",
+    "the kerr black holes have a two horizon structure through which spacetime can be extendend , in this process new regions isometric to @xmath10 , @xmath11 and @xmath12 arise ad infinitum .",
+    "the inner and outer horizons are located at @xmath13 and @xmath14 .    in this work",
+    "we will focus in kerr s spacetime because it is the most relevant from an astrophysical point of view .",
+    "the main result of this work is the generalization of the results on gravitational perturbations in @xcite to scalar , spinor and maxwell fields , shown to be unstable in the kerr naked singularity and black hole interior .",
+    "teukolsky s equation uses a master variable @xmath15 to describe scalar , spinor , maxwell and linear gravitational fields , for which @xmath16 and @xmath17 respectively .",
+    "solutions are separable , @xmath18 and the equations reduce to a coupled system for @xmath19 and @xmath20 , @xcite @xmath21    this formalism was used to establish the modal stability under gravitational perturbation of region i of a kerr black hole .",
+    "@xcite in what follows we will prove that region iii of an @xmath22 kerr spacetime , as well as the nakedly singular @xmath23 kerr spacetimes , are unstable under gravitational perturbations and all kinds of linear fields , as described above for different @xmath24 values , generalizing our previous work .",
+    "@xcite      in this section we gather important aspects of the _ swsh _ s eigenvalues , these hold for every @xmath7 and @xmath6 . in the axial case @xmath25 the @xmath26 eigenvalue for large purely imaginary @xmath27 behaves as @xmath28 : @xcite @xmath29 and in the @xmath30 limit , independently of the value of @xmath24 as : @xmath31      as was shown for the gravitational case,@xcite equation ( [ tr ] ) can generally be cast into a schrdinger - like form , so ( [ tr ] ) can be written as : @xmath32 with primes denoting derivatives with respect to the radial variable @xmath33 defined in @xcite .",
+    "the form of the @xmath26 independent potential @xmath34 for axial perturbations ( @xmath25 ) with purely imaginary frequencies ( @xmath35 ) , those relevant to unstable modes , is : @xmath36    understanding the behaviour of the potential for different values of @xmath37 is important when describing the nature of the eigenvalues of @xmath38 .",
+    "@xmath39 is independent of the value of the spin weight @xmath24 , so for large values of @xmath37 the potential behaves like @xmath39 and so would the eigenvalues of @xmath38 .",
+    "particulary different is the situation for small values of @xmath37 : for @xmath40 , @xmath34 is bounded from below , but its minimum is not a continuous function of @xmath37 at @xmath41 .",
+    "this fact is a consequence of the appearence of a second minimum ( for @xmath42 ) in the function @xmath43 that moves towards @xmath44 as @xmath45 that is not present in the simpler @xmath46 function .",
+    "so we have that : @xmath47",
+    "the operator @xmath38 in ( [ scho ] ) is self - adjoint in the hilbert space of square integrable functions of @xmath33 with hermitian product @xmath48 .",
+    "@xcite given that @xmath34 is smooth , bounded from below , and @xmath49 the spectrum of the self - adjoint operator @xmath38 is fully discrete and has a lower bound .",
+    "a careful analysis indicates that the square integrable eigenfunctions of @xmath38 behave as @xmath50 to obtain information about the fundamental energy of the radial hamiltonian ( [ scho ] ) , we need to analyze its potential ( [ v ] ) .",
+    "one can show that there is an interval @xmath51 where @xmath52 is negative . using a smooth test function supported in this interval we",
+    "can then show that if @xmath53 is the lowest eigenvalue of @xmath38 then @xmath54 from ( [ arrivaberti ] ) , ( [ abajoberti ] ) and ( [ radiale ] ) it is clear that , for any @xmath55 ( @xmath56 a function of @xmath24 ) , the curves @xmath57 and @xmath58 intersect at some @xmath59 .",
+    "this implies that there is a common eigenvalue @xmath60 for the radial and angular teukolsky equations and ( infinitely many ! ) unstable perturbations @xmath61 with @xmath62 behaving as in ( [ ae ] ) .",
+    "the calculations above can be adapted to deal with perturbations in the _ interior _ region @xmath63 of a kerr black hole .",
+    "the extreme and sub - extreme cases require separate treatments , we present the results for the extreme case ( the subtleties in the subextreme case can be seen in @xcite ) . using a similar approach to that used in the superextreme case",
+    "we get that : @xmath64 then the spectrum of the self - adjoint operator @xmath38 is again fully discrete and has a lower bound . the eigenfunctions behave as @xmath65   \\left ( 1 + { \\cal o } ( \\frac{m - r}{r } ) \\right )   & , r \\to m^- \\\\",
+    "\\left ( \\frac{m}{r}\\right)^{\\frac{1}{2}-2k - s } \\ ; \\exp \\left [ \\frac{rk}{m } \\right ]   \\left ( 1 + { \\cal o } ( m / r ) \\right ) & , r \\to -\\infty   \\end{cases}\\ ] ] the argument of instability in the super extreme case goes through without modifications and thus can be used again to obtain the bound ( [ radiale ] ) .",
+    "this work was supported in part by grants form conicet , unc and unlp . gd and rjg are supported by conicet .",
+    "ifrs is a fellow of conicet .",
+    "ifrs wish to acknowledge some useful discussions with professor h. vucetich ."
+  ],
+  "abstract_text": [
+    "<S> we present a generalization of previous results regarding the stability under gravitational perturbations of nakedly singular super extreme kerr spacetime and kerr black hole interior beyond the cauchy horizon . </S>",
+    "<S> to do so we study solutions to the radial and angular teukolsky s equations with different spin weights , particulary @xmath0 representing electromagnetic perturbations , @xmath1 representing a perturbation by a dirac field and @xmath2 representing perturbations by a scalar field . by analizing the properties of radial and angular eigenvalues we prove the existence of an infinite family of unstable modes </S>"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "article_text": [
+    "the experimental setup ( fig . [ fig1 ] ) consisted of a brass container filled with solid carbon dioxide ( dry ice ) .",
+    "a clean glass slide was placed over the brass container , where a drop ( @xmath2 ) of deionized and degassed water was deposited using a syringe pump . to increase contrast and observe the freezing front",
+    ", red food dye was added to the water .",
+    "the process was recorded from the side using a long distance microscope ( vzm1000 edmund optics ) mounted on a color camera , at a frame rate of 50 frames per second .",
+    "we used both backlight and bottom light illumination provided by optic fiber lamps .",
+    "the resolution obtained was @xmath3 pixels with approximately @xmath4 .",
+    "we measured the plate temperature near the droplet using a standard thermocouple ."
+  ],
+  "abstract_text": [
+    "<S> in this fluid dynamics video we show how a drop of water ( @xmath0 ) freezes into a singular shape when deposited on a cold surface ( @xmath1 ) . </S>",
+    "<S> the process of solidification can be observed very clearly due to the change in refraction when water turns into ice . </S>",
+    "<S> the drop remains approximately spherical during most of the process , with a freezing front moving upwards and smoothly following the interface . </S>",
+    "<S> however , at the final stage of freezing , when the last cap of liquid turns into ice , a singular tip develops spontaneously . </S>",
+    "<S> interestingly , the sharp tip of the ice drop acts as a preferential site for deposition of water vapour , and a beautiful `` tree '' of ice crystals develops right at the tip . </S>",
+    "<S> the tip singularity attracts the vapour in analogy to a sharp lightning rod attracting lightning . </S>"
+  ]
+}

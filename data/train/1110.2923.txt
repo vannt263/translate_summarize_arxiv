@@ -1,0 +1,13 @@
+{
+  "article_text": [
+    "drop deposition on a substrate gives rise to the motion of a contact line where the three phases of drop / substrate / gas meet .",
+    "although the motion of the three - phase contact line on a solid substrate has been extensively studied thus far , the understanding of the dynamics of the contact line of liquid / liquid / gas phases is far from complete . here",
+    "we deposit a drop of isopropyl alcohol ( ipa ) on water whose free surface is exposed to air to observe the flow field around the contact line . by combining the shadowgraph and high - speed imaging techniques , we find that vortices are spontaneously generated at the contact line , which grow in size with time .",
+    "the flow is attributed to the marangoni stress that pulls a liquid of lower - surface tension ( ipa ) toward water surface having a higher surface tension .",
+    "however , it is not still clear why the entrained lower - surface - tension liquid should whirl rapidly beneath the contact line .",
+    "we also visualize the flow by the particle image velocimetry ( piv ) to find out that the rotational velocity reaches the maximum of 5 cm / s near the free surface ."
+  ],
+  "abstract_text": [
+    "<S> this article describes the fluid dynamics video for `` spontaneous vortex generation at 3-phase contact line '' presented at the 64th annual meeting of the aps division of fluid dynamics in baltimore , maryland , november 20 - 22 , 2011 . </S>"
+  ]
+}

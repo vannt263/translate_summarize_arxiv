@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "the video ( entry # v011 , aps 64@xmath0 annual dfd meeting 2011 ) demonstrates the patterns exhibited by gravity - driven , particle - laden thin films flowing down a solid substrate .",
+    "the results from three experiments are shown in the video .",
+    "a finite volume of fluid mixed with particles is allowed to flow down the solid plane ; visualization is achieved from the front view and the videos have been recorded with a digital slr camera ( canon eos rebel t2i ) .",
+    "the substrate angle of inclination is fixed at @xmath1 while the dimensionless particle concentration , @xmath2 ( scaled on a characteristic concentration associated with maximum packing ) increases from left ( blue particles , @xmath3 ) to middle ( red particles , @xmath4 ) to right ( yellow particles , @xmath5 ) .",
+    "the runtime associated with the individual videos has been fast - forwarded in order to demonstrate concurrently the onset of flow instabilities as well as the development of fingering patterns . from left to right , the runtime speed has been increased by 2 , 4 and 20 times , respectively .",
+    "the choice of parameters allows the presentation of three , distinct regimes . in this video , we attribute solely the difference in interfacial characteristics between the three regimes , to variations in particle concentration . for small concentrations ( left video , blue particles ) , the particles settle rapidly allowing the clear fluid to flow over them which results in fingering . for relatively large concentrations ( right video , yellow particles ) , the particles aggregate at the contact line , forming a particle - rich ridge which appears to suppress the fingering . for intermediate concentrations ( middle video , red particles )",
+    ", we observe a well - mixed regime characterized by finger formation .",
+    "+   + * references *   + 1 .",
+    "t. ward , c. wey , r. glidden , a. e. hosoi , and a. l. bertozzi .",
+    "experimental study of gravitation effects in the flow of a particle - laden thin film on an inclined plane , _ phys .",
+    "fluids _ , * 21 * , 083305 ( 2009 ) .",
+    "b. cook , o. alexandrov and a. l. bertozzi .",
+    "linear stability of particle - laden thin films , _ the european physical journal - special topics _ , * 166 * , 1 , 77 - 81 ( 2009 ) .",
+    "n. murisic , j. hob , v. huc , p. latterman , t. koche , k. linf , m. mata , a.l .",
+    "particle - laden viscous thin - film flows on an incline : experiments compared with a theory based on shear - induced migration and particle settling , _ physica d : nonlinear phenomena _ * 240 * , 20 , 1661 - 1673 ( 2011 ) .",
+    "+   + * acknowledgements *   + the authors would like to thank dr .",
+    "sungyon lee and mr .",
+    "gilberto urdaneta for their invaluable help and useful insight they have provided in the laboratory and in the making of this video ."
+  ],
+  "abstract_text": [
+    "<S> this arxiv article describes the fluid dynamics video on ` gravity - driven thin - film flow with negatively buoyant particles ' , presented at the 64th annual meeting of the aps division of fluid dynamics in baltimore , md in november 2011 . </S>",
+    "<S> the video shows three different experiments where a thin film of silicone oil laden with particles , is allowed to flow down an incline under the action of gravity . </S>",
+    "<S> the videos were recorded at the ucla applied math laboratory . </S>"
+  ]
+}

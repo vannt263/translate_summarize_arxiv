@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "modern humans presumably originated about 200,000 years ago in east africa .",
+    "they emigrated to 150 km north of gaza about 100,000 years ago ( skhul near haifa ) but died out there again .",
+    "then about 50,000 years ago they again emigrated from africa , this time more successfully , but presumably again via gaza and haifa .",
+    "+ according to [ 1 ] , demographic factors can explain geographic variation in the timing of the first appearance of modern behaviour without invoking increased cognitive capacity .",
+    "+ now we try to reproduce this demographic effect by applying standard percolation theory [ 2 ] . only for densities",
+    "p above the percolation threshold @xmath2 on infinite square lattices ) can information travel from one side of the lattice , via random jumps to occupied nearest - neighbour sites , up to the opposite side of the lattice .",
+    "this type of random walk on random square lattices was discussed a lot about three decades ago , but mostly for large systems and long times close to the percolation threshold .",
+    "we will show that for times below 10,000 jump attempts even for quite small lattices , one needs occupation probabilities far above the percolation threshold ( @xmath3 ) in order to transfer information from one side of the lattice to the opposite site .",
+    "first we have occupy a square lattice of size @xmath4 randomly with probabilities @xmath0 for occupied and @xmath1 for empty , clusters are groups of occupied neighbouring sites .",
+    "then we put @xmath5 diffusing particles randomly onto occupied sites",
+    ". then we let each particle at each time step try to move into one of the four possible directions ; if that neighbour is occupied the particle ( which may represent a teacher of new techniques ) moves there , if it is empty the particle stays at its old place .",
+    "+ in this way , @xmath5 particles diffuse on a randomly occupied lattice , using only the occupied lattice sites . the occupied sites can be settlements of humans , and the diffusing particles can be visitors spreading information on new techniques .",
+    "+ we start our simulations with for different @xmath6 . with @xmath7 , with different probability@xmath8 .",
+    "we check after which time , i.e. after how many jump attempts , the particle diffuses across the lattice in x - direction . + and we have nine samples @xmath9 ( @xmath5 diffusing particles on the same lattice ) , from which the median is defined such that four times are larger and four times are smaller than the median time , shown in fig . 1 .",
+    "then we complete our simulations for three probabilities @xmath10 and take the median time , @xmath11 with random seed number iseed=1 , so we get figure ( 2 ) :    figure ( 3 ) change the random number as iseed=1,2,3 for one sample of probability = 0.70 , and then we take the average median for each iseed number to get figure ( 3 ) :",
+    "if we identify one time unit with one day , times above 10,000 are unrealistic for a single messenger of new techniques .",
+    "thus only rather large occupation probabilities closer to unity than to @xmath12 allow the random spread over dozens of distances between human bands .",
+    "future simulations might facilitate information spread by allowing these bands to move randomly on the lattice ( annealed instead of quenched disorder ) , as was appropriate before the neolithicum with agriculture .",
+    "the authors would like to thank prof .",
+    "stauffer for many valuable suggestions , fruitful discussions and constructive advice during the development of this work .",
+    "[ 1 ] adam powell , stephen shennan , and mark g. thomas , science 324 , 1298 ( 2009 ) .",
+    "[ 2]dietrich stauffer and amnon aharony , introduction to percolation theory , taylor and francis , london 1994 ( 2nd printing of 2nd edition )"
+  ],
+  "abstract_text": [
+    "<S> about 45,000 years ago , symbolic and technological complexity of human artefacts increased drastically . </S>",
+    "<S> computer simulations of powell , shennan and thomas ( 2009 ) explained it through an increase of the population density , facilitating the spread of information about useful innovations . </S>",
+    "<S> we simplify this demographic model and make it more similar to standard physics models . </S>",
+    "<S> for this purpose , we assume that bands ( extended families ) of stone - age humans were distributed randomly on a square lattice such that each lattice site is randomly occupied with probability @xmath0 and empty with probability @xmath1 . </S>",
+    "<S> information spreads randomly from an occupied site to one of its occupied neighbours . </S>",
+    "<S> + if we wait long enough , information spreads from one side of the lattice to the opposite site if and only if @xmath0 is larger than the percolation threshold ; this process was called `` ant in the labyrinth '' by de gennes 1976 . </S>",
+    "<S> we modify it by giving the diffusing information a finite lifetime , which shifts the threshold upwards </S>"
+  ]
+}

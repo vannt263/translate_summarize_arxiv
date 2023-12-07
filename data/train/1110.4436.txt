@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "in order to understand to what extent non - spherical planetary nebulae ( pne ) are shaped by binary interactions , a fundamental test is the determination of the pn binary fraction .",
+    "this is a notoriously difficult quantity to determine .",
+    "the short period binary fraction is estimated to be 15 - 20% ( @xcite , @xcite ) .",
+    "this is biased to binaries with periods shorter than about @xmath1 days .",
+    "the field of view of of the kepler satellite of 14  x  14 square degrees , 4 pne are known so far and 2 additional possible objects .",
+    "we seek to detect periodic light variability due to binarity ( irradiation effects , eclipses or ellipsoidal variablity ) with an amplitude smaller than detectable by ground observations in order to quantify the extent of the bias .",
+    "if the currently known short period binary fraction of 15 - 20% is accurate , we should see 1 - 2 binary pn in our kepler sample .",
+    "there are four confirmed pne in the kepler field , including one ( pa 5 ) discovered by d.  patchick in the framework of the deep sky hunters ( dsh ) project ( @xcite ) .",
+    "one additional pn candidate , kn 61 was discovered in the kepler field by m. kronberger using dss false color images also in the context of the dsh search ( @xcite ) , and then imaged by us in march 2011 with a 10 min exposure at the 2.1 m noao kitt peak observatory .",
+    "a gemini observatory image of the object is presented in fig .",
+    "[ kn61 ] . from its structure , that is similar to pn a 43 , it is classified as a probable pn , although a spectrum of the nebula is required before considering kn 61 as a confirmed pn .",
+    "the sixth object , pate 1 , is classified as possible pn due to its unusual morphology .",
+    ".preliminary results on the variability properties of the pne in the kepler field .",
+    "the numbers followed by : are to be confirmed .",
+    "out of 5 possible or confirmed pne , 4 show periodic light variations that could be attributed to binarity . [ cols=\"<,^,^,^,^\",options=\"header \" , ]     [ chart ]",
+    "while the smallest detectable amplitude for flux variability is 0.1 mag for ground - based observations , kepler can detect light variability of about 1 mmag . in table 1",
+    "we show that 4 of the 5 confirmed and possible pne that have already been observed by kepler have periodic light variations consistent with binarity ( though a proper analysis is required to confirm that the perodic variability of these objects is due to binarity ) with amplitudes less than the ground - based detection limit .",
+    "we will take thirty minute exposures of these six potential pne in the kepler field regularly throughout the year to detect potential long period flux variations .",
+    "wind and pulsations effects will be assessed with 1 minute sampling for each object over a single quarter .",
+    "the advantages of this monitoring with respect to ground - based observations are a higher photometric precision ( up to @xmath2mag for bright stars and well monitored objects ) and a longer time baseline with no day , bad weather nor lunar interruptions insuring a constant coverage and a better time sampling .",
+    "when the full data set is available , we will be able to impose some limits on how many short binaries may have avoided detection .",
+    "even with a small sample of pne , we can put constraints on the actual short period binary fraction amongst the central stars of pne ."
+  ],
+  "abstract_text": [
+    "<S> the kepler observatory offers unprecedented photometric precision ( @xmath01 mmag ) and cadence for monitoring the central stars of planetary nebulae , allowing the detection of tiny periodic light curve variations , a possible signature of binarity . with this precision free from the observational gaps dictated by weather and lunar cycles , </S>",
+    "<S> we are able to detect companions at much larger separations and with much smaller radii than ever before . </S>",
+    "<S> we have been awarded observing time to obtain light - curves of the central stars of the six confirmed and possible planetary nebulae in the kepler field , including the newly discovered object kn 61 , at cadences of both 30 min and 1 min . </S>",
+    "<S> of these six objects , we could confirm for three a periodic variability consistent with binarity . </S>",
+    "<S> two others are variables , but the initial data set presents only weak periodicities . for the central star of kn 61 </S>",
+    "<S> , kepler data will be available in the near future . </S>"
+  ]
+}

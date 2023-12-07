@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "the post - agb objects gathered in our catalogue are stars that left the agb but are still not hot enough to ionize the surrounding matter .",
+    "this definition does not imply that the objects will become planetary nebulae ( pn ) , since stellar ejecta prior to this stage may have dispersed in the interstellar medium well before the remnant star is hot enough to ionize them .",
+    "the second release of the catalogue ( http://www.ncac.torun.pl/postagb2 - szczerba et al .",
+    "2011 , a&a in revision ) gives on - line access to about 480 likely and possible post - agb objects , including about 110 rv tau stars & 70 helium stars .",
+    "there are also about 70 unlikely post - agb objects , which sometimes are counted in the literature as proto - pne or post - agbs .",
+    "the main tool to classify a post - agb candidate is its position in the iras color - color diagram ( ccd ) and its iras variability , supplemented by some additional criteria , if necessary .",
+    "we count an object as a likely post - agb if it lies below the dotted line in the ccd ( fig.[fig1 ] ) , has iras variability index smaller than 40 and is not a pn ( ccdpos ) . for objects located above the line we used additional criteria , like",
+    ": double peaked 1612 mhz oh maser emission , luminosity class i , etc ",
+    "( ccdoth ) . a detailed description of the adopted criteria can be found in szczerba et al .",
+    "we have also distinguished a group of m - type post - agb ( ? ) stars ( m - ccdpos ; m - ccdoth ) , which are discussed in sect .",
+    "the second release of the catalogue is enriched in : a ) photometry from gsc 2.3 , b ) optical spectra from ( * ? ? ?",
+    "* surez  ( 2006 ) ) and ( * ? ? ?",
+    "* pereira & miranda ( 2007 ) ) for @xmath0 sources , c ) hst images for @xmath1 sources , d ) classification of spectral energy distribution ( sed ) according to the ( * ? ? ?",
+    "* van der veen  ( 1989 ) ) scheme ( additionally , we introduced class 0 for objects with almost no ir excess ) , e ) v & r long - term photometric variability from ( * ? ? ?",
+    "* hrivnak  ( 2010 ) ) for 12 sources , f ) iras variability index , g ) dominant chemistry -",
+    "photospheric and/or circumstellar .",
+    "there are several objects in our catalogue with double - peaked seds and spectral type m implying an effective temperature around 3000k and yet called in the literature post - agb objects .",
+    "while double - peaked sed suggests the end of agb phase , the m - type contradicts this conclusion .",
+    "however , the only m - type object ( iras 18420 - 0512 ) resolved by hst shows circumstellar arcs ( ( * ? ? ?",
+    "* sahai ( 2007 ) ) ) .",
+    "therefore , we postulate that m - type objects are at the end of their  puffing  phase during agb and are just entering the post - agb stage of stellar evolution , so they could be called the  transition post - agb objects  ."
+  ],
+  "abstract_text": [
+    "<S> the investigation of post - agb objects ( proto - planetary nebulae ) is very important from the standpoint of physical and chemical changes occurring during the late stages of stellar evolution . </S>",
+    "<S> the _ toru catalogue of galactic post - agb and related objects _ is an evolutive catalogue containing astrometric , photometric and spectroscopic data as well as hst images for all known post - agb objects and candidates in our galaxy . </S>",
+    "<S> this free - access catalogue can serve as an ideal tool to study different groups of post - agb objects , especially due to the fact that all information is gathered in one place . </S>",
+    "<S> the second release of our catalogue introduces a simple classification scheme of post - agb objects and includes a significant number of new objects , photometric data , spectra and images . here , using objects from the catalogue we consider the problem of the termination of the agb phase . </S>"
+  ]
+}

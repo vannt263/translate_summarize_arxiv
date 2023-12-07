@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "consider the the beta distribution @xmath4 , with the density function , @xmath5 the mean of @xmath0 is readily obtained by the formula @xmath6 , but there is no general closed formula for the median .",
+    "the median function , here denoted by @xmath7 , is the function that satisfies , @xmath8    the relationship @xmath9 holds . only for the special cases @xmath10 or @xmath11 we may obtain an exact formula : @xmath12 and @xmath13 .",
+    "moreover , when @xmath14 , the median is exactly @xmath15 .",
+    "there has been much literature about the incomplete beta function and its inverse ( see e.g. @xcite for a review ) .",
+    "the focus in literature has been on finding accurate numerical results , but a simple and practical approximation that is easy to compute has not been found .",
+    "trivial bounds for the median can be derived @xcite , which are a consequence of the more general mode - median - mean inequality @xcite . in the case of the beta distribution with @xmath16 , the median is bounded by the mode @xmath17 and the mean @xmath6 : @xmath18 for @xmath19 the formula for the mode does not hold as there is no mode . if @xmath20 , the order of the inequality is reversed .",
+    "equality holds if and only if @xmath14 ; in this case the mean , median , and mode are all equal to @xmath15 .",
+    "this inequality shows that if the mean is kept fixed at some @xmath21 , and one of the shape parameters is increased , say @xmath22 , then the median is sandwiched between @xmath23 and @xmath21 , hence the median tends to @xmath21 .    from the formulas for",
+    "the mode and mean , it can be conjectured that the median @xmath7 could be approximated by @xmath24 for some @xmath25 , as this form would satisfy the above inequality while agreeing with the symmetry requirement , that is , @xmath26 .",
+    "since a @xmath4 variate can be expressed as the ratio @xmath27 where @xmath28 and @xmath29 ( both with unit scale ) , it is useful to have a look at the median of the gamma distribution .",
+    "@xcite studied the median function of the unit - scale gamma distribution median function , denoted here by @xmath30 , for any shape parameter @xmath31 , and obtained @xmath32 , rapidly approaching @xmath33 as @xmath22 increases .",
+    "it can therefore be conjectured that the distribution median may be approximated by , @xmath34    figure ( [ fig - betaerrors ] ) shows that this approximation indeed appears to approach the numerically computed median asymptotically for all distribution means @xmath35 as the ( smaller ) shape parameter @xmath36 . for @xmath37 ,",
+    "the relative error is less than 4% , and for @xmath38 this is already less than 1% .",
+    "figure ( [ fig - betaerrp ] ) shows the relative error over all possible distribution means @xmath35 , as the smallest of the two shape parameters varies from @xmath3 to @xmath39 .",
+    "this illustrates how the relative error tends uniformly to zero over all @xmath21 as the shape parameters increase .",
+    "the figure also shows that the formula consistently either underestimates or overestimates the median depending on whether @xmath40 or @xmath41 .",
+    "however , the function @xmath42 approximates the median fairly accurately if some other @xmath43 close to @xmath44 ( say @xmath45 ) is chosen .",
+    "figure ( [ fig - betadisterr ] ) displays curves of the logarithm of the absolute difference from the numerically computed median for a fixed @xmath46 , as the shape parameter @xmath22 increases .",
+    "the absolute difference has been scaled by @xmath21 before taking the logarithm : due to this scaling , the error stays approximately constant as @xmath21 decreases so the picture and its scale will not essentially change even if the error is computed for other values of @xmath40 .",
+    "the figure shows that although some approximations such as @xmath45 has a lower absolute error for some @xmath22 , the error of @xmath47 tends to be lower in the long run , and moreover performs more consistently by decreasing at the same rate on the logarithmic scale . in practical applications",
+    ", @xmath48 should be a sufficiently good approximation of @xmath49 .",
+    "another measure of the accuracy is the tail probability @xmath50 of a @xmath0 variate @xmath51 : good approximators of the median should yield probabilities close to @xmath15 .",
+    "figure ( [ fig - betatail ] ) shows that as long as the smallest of the shape parameters is at least 1 , the tail probability is bound between @xmath52 and @xmath53 .",
+    "as the shape parameters increase , the probability tends rapidly and uniformly to @xmath54 .",
+    "finally , let us have a look at a well - known paper that provides further support for the uniqueness of @xmath55 .",
+    "@xcite and @xcite provide approximations for the probability function @xmath56 of a @xmath4 variate @xmath51 . although they do not provide a formula for the inverse , it is the probability function at the approximate median . according to @xcite , @xmath56",
+    "is well approximated by @xmath57 where @xmath58 is the standard normal probability function , and @xmath59 is a function of the shape parameters and the quantile @xmath60 .",
+    "consider @xmath61 : @xmath62 should be close to zero and at least tend to zero fast as @xmath22 and @xmath63 increase .",
+    "now assume that @xmath21 is fixed , @xmath22 varies and @xmath64 .",
+    "the function @xmath65 equals , rewritten with the notation in this paper , @xmath66     \\right )     \\left(\\frac{1+f(a , p;d)}{m(1-m)}\\right)^{1/2},\\ ] ] where the function @xmath67 tends to zero as @xmath22 increases , being exactly zero only when @xmath68 or @xmath69 .",
+    "it is evident that for the fastest convergence rate to zero , one should choose @xmath49 .",
+    "this is of the order @xmath70 ; if @xmath71 , for example if we choose the mean @xmath21 as the approximation of the median ( @xmath72 ) , the rate is at most @xmath73 ."
+  ],
+  "abstract_text": [
+    "<S> a simple closed - form approximation for the median of the beta distribution @xmath0 is introduced : @xmath1 for @xmath2 both larger than @xmath3 has a relative error of less than 4% , rapidly decreasing to zero as both shape parameters increase .    </S>",
+    "<S> keywords : beta distribution , distribution median </S>"
+  ]
+}

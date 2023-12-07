@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the universe appears to consist of approximately 25@xmath3 dark matter , which clusters and drives the formation of large - scale structure in the universe , and 70@xmath3 dark energy , which drives the late - time acceleration of the universe .",
+    "since the nature of neither component is known with certainty , it is reasonable to ask whether a simpler model is possible , in which a single component acts as both dark matter and dark energy . in this work",
+    ", we stick to this stream that considers dm and de as different manifestations of the same component .",
+    "inspired in inflation models @xcite , recently it has been proposed to model dark energy with nonlinear scalar fields .",
+    "in particular , we address the model proposed in @xcite that describe the current acceleration with a dirac - born - infeld ( dbi ) action : @xmath4 , characterized by two functions , the warp factor which should be positive , @xmath5 and the inflation potential @xmath6 .",
+    "it has been shown in @xcite that this model produces an expansionary cosmology mimicking a dark matter dominated background at early times and a dark energy dominated one at late times , therefore it is worth to update and extend the analysis presented in @xcite .",
+    "we probe the model with the calibrated sample of grbs @xcite . in the next section we introduced the main aspects of the model .",
+    "next we carry on the analysis with the observational data including sne ia , bao for clusters with redshifts up approximately 2 , as well as cmb5-year and cmb7-year from wmap .",
+    "final remarks are draft in the last section",
+    "the model considers a spatially flat robertson - walker geometry with a nonlinear scalar field of dbi type .",
+    "it is assumed the customary perfect fluid interpretation with a barotropic eos @xmath7 , then @xmath8 and @xmath9 with @xmath10 where @xmath11 and @xmath12 are in general arbitrary functions .",
+    "we shall consider the simplest case in which both @xmath13 and @xmath14 are constant . the goal is to obtain a purely kinetic model so that the field @xmath15 depends solely on the scale factor and as a consequence the same holds for the effective pressure and energy density .",
+    "using the conservation equation , @xmath16 it can be derived the scaling between the scalar field and the expansion factor @xmath17 : @xmath18 . with this last expression it is possible to write @xmath19 with @xmath20",
+    "an arbitrary integration constant and @xmath21 the value of the scale factor today , which we fix as @xmath22 . from previous equation",
+    ", it can be seen that at very late times , @xmath23 , @xmath24 @xmath25 @xmath26 , whereas at early epochs , @xmath27 , @xmath28 @xmath25 @xmath29 .",
+    "thus , the solution interpolates between a dust and a de sitter model , with @xmath30 acting as a cosmological constant and no trace left of the genuinely dbi degree of freedom @xmath31 .    on the other hand ,",
+    "the friedmann equation turns out to be @xmath32 where @xmath33 is the radiation energy density ; in terms of the fractional energy densities and the redshift @xmath34    where @xmath35 , @xmath36 , @xmath37 , @xmath38 .",
+    "in addition , it is possible investigate the redshift dependence of the parameter of the eos @xmath39 , and the deceleration parameter which can be expressed as @xmath40 . to obtain the transition redshift we just compute @xmath41 .",
+    "since the earliest evidence of tight correlations in gamma - ray bursts spectral properties , the possibility arose of using grbs as standard candles .",
+    "being so grbs may open a window in redshift as far as @xmath42 , extending then the attainable range provided by sne ia observations .",
+    "the updated distance moduli of the 59 grbs at @xmath43 are obtained through the amati relation that connects @xmath44 with the isotropic equivalent energy @xmath45 , where @xmath46 is the bolometric fluence of gamma rays in the grb at redshift @xmath47 and @xmath48 is the luminosity distance of the grb ( of the hosting galaxy ) @xcite .",
+    "the amati relation is calibrated from 50 grbs at @xmath49 following the cosmology - independent calibration method proposed by liang ( 2008 ) @xcite using the union2 set of 557 sne ia . for details of the calibration",
+    "see @xcite .",
+    "we also consider the shift parameter set @xmath50 from 5-year wmap and 7-year wmap @xcite and the bao parameter set @xmath51 @xcite .",
+    "these combination of test allows to take into account the early , mid and late time behavior of the model .",
+    "we calculate the _ best estimated values _ for the parameters @xmath52 and @xmath53 and the _ goodness - of - fit _ of the model to the data by @xmath54-minimization and then compute the confidence intervals for ( @xmath52 , @xmath53 ) to constrain their possible values .",
+    "the best - fit value for the dbi model parameters ( @xmath53 , @xmath52 ) , with 1-@xmath55 uncertainties , @xmath56 , as well as @xmath57 , @xmath2 and @xmath1 using sne ia + grbs , sne ia + cmb7 + bao and sne ia + grbs + cmb7 + bao are summarized in table [ tabla1 ] .",
+    "the results with sne ia + cmb5 + bao and sne ia + grbs + cmb5 + bao are very similar to those obtained with cmb7-year from wmap .",
+    "[ cols=\"<,^,^,^\",options=\"header \" , ]",
+    "in this work we use the updated sample of 109 calibrated grbs , avoiding the well known circularity problem , in order to test a cosmological model . in particular",
+    ", we studied a model based on a nonlinear scalar field dbi action proposed by chimento - lazkoz - sendra ( 2010 ) for the unification of dark matter and dark energy . probing with 557 sne ia , 59 grbs ( at high redshifts ) , cmb7-year data from wmap and bao we obtained as best - fit model parameters ( @xmath58 , @xmath59 ) .",
+    "our results are in good agreement with previous conclusions in @xcite , namely , the model is better suited to the observations than the chaplygin gas .",
+    "including grbs the obtained @xmath60 points to a phantom behaviour in a stronger way than the previous analysis in @xcite ; however at the present precision @xmath61cdm can not be ruled out . on the other hand , from the analysis of the deceleration parameter we obtained an accelerated epoch with a transition from decelerated - accelerated epoch at @xmath62 ; as for the deceleration parameter the obtained value when including grbs , @xmath63 , is closer to the accepted value ."
+  ],
+  "abstract_text": [
+    "<S> we study the range of consistency of a model based on a nonlinear scalar field dirac - born - infeld action for the unification of dark matter and dark energy using gamma - ray bursts at high - redshifts . </S>",
+    "<S> we use the sample of 59 high - redshift grbs reported by wei ( 2010 ) , calibrated at low redshifts with the union 2 sample of sne ia , thus avoiding the circularity problem . in this analysis </S>",
+    "<S> , we also include the cmb7-year data and the baryonic acoustic peak bao . </S>",
+    "<S> besides , it is calculated the parameter of the equation of state @xmath0 , the deceleration parameter @xmath1 and the redshift of the transition to the decelerate - accelerated phase @xmath2 . </S>"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "for a two dimensional closed surface @xmath1 and an immersion @xmath2 the willmore functional is defined by @xmath3 where @xmath4 is the induced metric , @xmath5 is the mean curvature of @xmath1 and @xmath6 is the area element .",
+    "critical points of @xmath7 are called willmore surfaces and they are solutions of the euler - lagrangian equation @xmath8 where @xmath9 is the laplace - beltrami operator of the induced metric and @xmath10 is the gauss curvature of @xmath1 .",
+    "moreover we denote by @xmath11 the second fundamental form of the immersion @xmath12 .",
+    "it is obviously that every minimal surfaces in @xmath0 is a willmore surface .",
+    "the classic bernstein theorem says that every entire minimal graph in @xmath0 is a plane .",
+    "it is nature to ask whether there are such type results for entire willmore graphs .",
+    "recently , chen - lamm ( @xcite ) started the study of this direction and proved that :    ( chen - lamm)[chen - lamm ] every smooth , entire graphical solution of ( [ e - l equation ] ) with finite @xmath13 norm of the second fundamental form is a plane .",
+    "in the same paper , chen - lamm ( @xcite ) proposed a question that whether we can weaken the assumption @xmath14 to be @xmath15 . in this note",
+    ", we will answer this question in @xcite :    [ luo - sun ] every smooth , entire graphical solution of ( [ e - l equation ] ) with finite @xmath13 norm of the mean curvature is a plane .",
+    "this is also a generalization of the classic bernstein theorem since minimal entire graphs obviously satisfy the assumptions of the above theorem .",
+    "actually we will prove that the total gauss curvature of a smooth entire graph in @xmath0 with square integrable mean curvature is zero :    [ total curvature ] let @xmath16 , where @xmath17 , be a smooth graph with square integrable mean curvature .",
+    "then @xmath18    note that @xmath19 .",
+    "hence for an entire graph in @xmath0 with square integral mean curvature , we have @xmath20 then theorem [ luo - sun ] follows directly from theorem [ chen - lamm ] .",
+    "* acknowledgment * the first author would like to thank his advisor , professor guofang wang , for bringing his attention to the paper @xcite and discussions .",
+    "* proof of proposition [ total curvature ] : * for the convenience we assume that @xmath21 . at first we will show that every entire graph in @xmath0 with square integral mean curvature has quadratic area growth by following the ideas of @xcite :    let @xmath21 , where @xmath17 , be a smooth entire graph with square integrable mean curvature .",
+    "then @xmath1 has quadratic area growth .",
+    "recall that in the proof of proposition 2.1 of @xcite , using a calibration argument ( see @xcite ) chen and lamm proved the following inequality which holds for almost every @xmath22 : @xmath23 is a 3-dimensional subset of @xmath24 .    in order to show the quadratic area growth of @xmath1 , we only need to control the second term of the right hand side .",
+    "it is easy to see that ( see page 1 of @xcite ) the induced area element on @xmath1 is given by @xmath25 , where @xmath26 . then by hlder inequality , @xmath27 where the last inequality used our assumption . by ( [ e2.1 ] ) and ( [ e2.3 ] ) , we know that @xmath28 since both sides of this estimate are continuous in @xmath29 , we actually get this estimate for all @xmath22 .",
+    "this proves that @xmath1 has quadratic area growth .",
+    "next we prove that the total gauss curvature vanishes .",
+    "we fix an orientation for @xmath1 and we denote by @xmath30 the gauss map of the surface @xmath1 . furthermore let @xmath31 be the area 2-form on the unit sphere @xmath32 . as @xmath1 is a graph , @xmath33 lies in the upper hemisphere @xmath34 which is contractible , thus @xmath35 for some smooth 1-form @xmath36 on @xmath34 .",
+    "the gauss curvature @xmath10 of @xmath1 measures the area distortion under the gauss map : @xmath37 for the smooth 1-form @xmath36 there is a constant @xmath38 depending on @xmath36 such that @xmath39 then let @xmath40 be a smooth function with compact support and we calculate latexmath:[\\[\\begin{aligned } \\label{es }    now by the gauss equation , we have@xmath19 , thus @xmath42 solving this inequality yields @xmath43 putting the above inequality to ( [ es ] ) we get @xmath44    now it is standard to prove that the total gauss curvature vanishes . for the convenience of the reader we provide the proof in the sequel .    for every @xmath45",
+    "we define a radially symmetric function @xmath46 on @xmath0 as follows : @xmath47 for @xmath48 , we have @xmath49 hence for @xmath50 large enough , we have @xmath51 where in the second inequality we have used ( [ e2.4 ] ) .",
+    "let @xmath52 we get @xmath53 which completes the proof of proposition [ total curvature ] .",
+    "let @xmath16 be a willmore graph in @xmath0 where @xmath17 .",
+    "standard calculations then yield that @xmath54 where @xmath55 . from the calculations in @xcite",
+    "we then get that the willmore equation ( [ e - l equation ] ) can be rewritten as follows : @xmath56    * notes : * in the paper of @xcite , the graph condition is used to derive the fact that the image of gauss map is contained in the upper hemi - sphere , which is contractible , and to exclude the case that the density of the entire willmore graph at infinity is 2 .",
+    "if the graph function depends only on one variable , they(@xcite , appendix ) proved the theorem without the finiteness condition on the integral of the square of the second fundamental form , by a simple calculation toward the above graphical equation , but in the general case , the graphical equation is not used .",
+    "hence we are nature to guess that there should be another different proof of this theorem by using the graphical equation essentially , possibly with weaker conditions ."
+  ],
+  "abstract_text": [
+    "<S> in this note we prove that every two - dimensional entire willmore graph in @xmath0 with square integrable mean curvature is a plane . </S>"
+  ]
+}

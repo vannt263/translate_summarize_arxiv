@@ -1,0 +1,16 @@
+{
+  "article_text": [
+    "to isolate the effect of bubble deformability we have carried out several simulations of many buoyant bubbles rising in a turbulent upflow in a vertical channel , where the only aspect that we change between the different runs is the surface tension .",
+    "the computational domain is a rectangular channel bounded by two flat vertical walls .",
+    "the channel is periodic in the spanwise and the streamwise direction .",
+    "the flow is driven upward by a specified pressure gradient .",
+    "the dimensionless numbers in the problem are reynolds number , @xmath0 , eotvos number , @xmath1 , and density and viscosity ratios .",
+    "the pressure gradient and eotvos number are specifies _ a priori _ and the reynolds number is calculated from the average velocity _ a posteriori_. eotvos number is decreased from 4.5 to 0.9 .",
+    "the decrease in the deformability of bubbles reduces the flow rate and causes the reynolds number to drop from 3750 to 1700 ."
+  ],
+  "abstract_text": [
+    "<S> this article describes the fluid dynamics video : `` turbulent bubbly channel flow : role of bubble deformability . '' </S>",
+    "<S> the effect of bubble deformability of the flow rate of bubbly upflow in a turbulent vertical channel is examined using direct numerical simulations . </S>",
+    "<S> a series of simulations with bubbles of decreasing deformability shows a transition from flow where deformable bubbles remain in the middle of the channel to a situation where nearly spherical bubbles slide along the walls . </S>"
+  ]
+}

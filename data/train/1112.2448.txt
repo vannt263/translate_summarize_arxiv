@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "for more than 40 years the yakutsk array continuously records ultra - high energy cosmic rays ( uhecr ) by measuring electromagnetic , muonic and cherenkov components of extensive air showers ( eas )  @xcite . through these measurements a lateral distribution of charged particles and muons with @xmath0  gev  @xcite",
+    "was studied and longitudinal development of air showers was reconstructed by measuring the lateral distribution of cherenkov light emitted in eas  @xcite .",
+    "estimation of the depth of maximum shower development ( @xmath1 ) in individual showers with energy @xmath2  ev at the yakutsk array was performed using readings from integral and differential ( tracking ) cherenkov light detectors .",
+    "integral detectors provide observation of cherenkov photons lateral distribution in wide distance range , while differential detectors record time - base of the cherenkov light pulse at different core distances .",
+    "it follows from model calculations that characteristics such as @xmath3 ( a relation between the density of cherenkov light fluxes at @xmath4 and @xmath5  m from shower axis ) and @xmath6 ( the width of the cherenkov pulse at the half - height ) are sensitive to the depth of maximum shower development .",
+    "besides , the @xmath7 parameter depends weakly on conditions of cherenkov light distribution in the atmosphere ( @xmath8% ) , but depends strongly on the accuracy of shower geometry reconstruction ( @xmath9% ) .",
+    "the @xmath6 is measured by equipment that provides high precision of the cherenkov pulse shape reproduction and thus assures better accuracy in @xmath1 measurement ( @xmath10  g/@xmath11 ) .",
+    "the methodology of cherenkov light measurement and analysis is presented in a greater detail in papers  @xcite .",
+    "to extract information about the parameters of interaction between the primary particle and air nuclei it is necessary to measure those characteristics of eas which are morphologically connected to the start of nuclear cascade in air .",
+    "one can test the sensitivity of eas characteristics to cross - section of inelastic interaction with monte - carlo method to simulate artificial showers using some model of hadronic interactions .",
+    "such calculations were performed in multiple works .",
+    "further we will consider the methodology and algorithm for estimation of inelastic interaction cross - section involving the data on the depth of maximum eas development ( @xmath1 ) .",
+    "total cross - section of secondary particles production in eas is one of fundamental values that characterize hadronic interactions . for showers initiated by primary protons of some energy it is possible to obtain the distribution of the depth of initial interaction ( @xmath12 ) : @xmath13 where @xmath14 is a mean free path of a proton before interaction in air .",
+    "mean depth of first interaction with respect to its fluctuations is directly connected to the cross - section of inelastic interaction between proton and air nucleus : @xmath15 here , @xmath16 is mean air `` mass '' , which is @xmath17  mb / g@xmath18  @xcite . the relations ( [ eq1 ] ) and ( [ eq2 ] ) were used to estimate the inelastic interaction cross - section by experimental data obtained at the yakutsk array . during the measurement of the @xmath14 value , a mass composition of primary cosmic rays ( pcr ) was taken into account ( contribution to generation of @xmath1 distribution at fixed energy of other nuclei ) by utilizing the points shifted by one @xmath19 from the maximum of histogram ( see fig.[fig1a ] ) .     at fixed energy and the technique of @xmath20 measurement by cherenkov light data adopted at the yakutsk array .",
+    "@xmath21  events , @xmath22  ev , @xmath23  g/@xmath11 , @xmath24  g/@xmath11 , @xmath25  g/@xmath11.,scaledwidth=75.0% ]",
+    "in present work we employ measured @xmath1 distribution at fixed energy values @xmath26  ev , @xmath27  ev and @xmath28  ev which were obtained from cherenkov light data recorded by the small cherenkov setup during more than ten years of continuous observation ( see fig.[fig1b ] ) .",
+    "final results of the analysis are presented in table  [ tab1 ] and fig.[fig2 ] .",
+    "distributions , from which the @xmath29 was derived.,scaledwidth=75.0% ]    .cross - sections of p - air inelastic interaction [ cols=\"<,<,<,<,<,<\",options=\"header \" , ]     fig.[fig2 ] shows a compilation of the @xmath30 data obtained in different experiments including the yakutsk array in the energy range @xmath31  ev ( see  tien shan data for 1  pev  @xcite ) . in this work , using similar algorithm and performing the simulation of @xmath1 measuring process with monte carlo method ( with respect to hardware uncertainties ) , we obtained the @xmath32 for energies @xmath33  ev .",
+    "new results are shown on fig.[fig2 ] .",
+    "on the same figure results of calculations with various hadron interaction models are shown  @xcite .",
+    "extrapolation of accelerator data leads to a large uncertainty at energy above @xmath34  ev . to a greater extent this is tied to some discrepancy between models in description of more precise accelerator data and different approaches in description of generation of secondary particles in eas . as it is seen on fig .",
+    "[ fig2 ] , cosmic ray data together with accelerator data allow to introduce some limitations on applicability of particular hadron interaction model for description of ultra - high energy air shower development .",
+    "the yakutsk eas array is a medium sized array compared to compact and large arrays .",
+    "it effectively controls the energy range from @xmath35  ev to @xmath36  ev . in several decades of continuous observations a large amount of experimental data was accumulated .",
+    "both irregularities in cosmic ray energy spectrum are manifested in these data and the mass composition of primary particles initiating ultra - high energy air showers has been estimated using one technique .",
+    "such simultaneous analysis of the spectrum and mass composition allows one to test various hypotheses on cosmic rays origin and their propagation in the universe . to increase the precision of this analysis",
+    "it would take a choice of a single hadron interaction model from the group of models presented today .",
+    "studying the energy dependence of inelastic interaction cross - section just helps make such a choice .",
+    "for example , the choice of the model for eas development would allow experimenters to improve the precision in energy estimation and obtain the model - independent estimation of cosmic ray mass composition in ultra - high energy domain , more reliable than those adopted nowadays .",
+    "the work is supported in part by sb ras ( integral project `` modernization of the yakutsk array '' ) , rfbr ( grant # 110200158 ) and the russian ministry of education and science ( contract # 02.740.11.0248 ) ."
+  ],
+  "abstract_text": [
+    "<S> we present estimation of proton - air inelastic interaction cross - section obtained for different energy values are . </S>",
+    "<S> results are compared with different hadron interaction models . </S>"
+  ]
+}

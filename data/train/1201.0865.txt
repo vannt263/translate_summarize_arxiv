@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "developing baseline disk wind models analogous to the spherically symmetric parker model ( parker , 1958 ) has proven to be a difficult task .",
+    "a major roadblock has been the uncertainty in the streamline geometry .",
+    "another obvious and related difficulty is posed by the fact that accretion disks span many more orders of magnitude in physical size than do stars , and they can host radically different , spatially and temporally variable , thermodynamic environments .",
+    "it should come as no surprise then , that despite clear observational evidence of outflows from many systems , identifying the actual driving mechanisms , as well as determining the wind geometry , remains a challenge .",
+    "studies of disk winds therefore rely heavily on kinematic models in order to quickly explore the parameter space without assuming a particular driving mechanism",
+    ". a popular choice of geometry , one that has been used in conjunction with sophisticated radiative transfer simulations to model accretion disk spectra from many systems , including agn ( sim et al .",
+    "2008 ) , is the converging model  geometry ( i ) in figure  1 .",
+    "recent multi - dimensional , time - dependent simulations of a thermally driven wind carried out by luketic et al .",
+    "( 2010 ) suggest that the converging model may not be well - suited for sampling the entire wind , but rather only the inner portions of it .",
+    "the outer portion is better approximated by a model in which streamlines emerge at a constant inclination angle @xmath0 to the midplane ( hence the name , the cia model  geometry ( ii ) . )    we have generalized the isothermal and polytropic parker wind solutions so that they apply to geometries ( i ) and ( ii ) .",
+    "our solutions amount to a simple _ dynamical _ disk wind model ( see waters & proga 2012 ) . rather than positing a velocity law as is done for kinematic models ,",
+    "the purpose of a dynamical model is to impose the physical conditions and solve for the wind velocity as a function of distance along a streamline .",
+    "here we summarize our findings for how the streamline geometry alone can result in winds with substantially different flow properties , limiting our attention to the isothermal case .",
+    "the long - dashed and solid curves in the plot in figure  1 depict the steady - state flow properties of a parker - like disk wind traversing geometries ( i ) and ( ii ) , respectively .",
+    "specifically , we plot the equivalent nozzle function ( denoted @xmath1 ) along a streamline , in units of the gravitational radius . also shown",
+    "are @xmath1 for the spherically symmetric ( bottom dotted curve ) and keplerian ( a radial parker wind with a keplerian azimuthal velocity component ; topmost dashed - dotted curve ) parker winds .",
+    "revolving @xmath1 about the horizontal axis sweeps out the shape of a de laval nozzle that yields steady - state flow properties identical to that of the wind ; this shape is exponentially dependent on the effective potential and the squared ratio of the local escape velocity to the sound speed ( the hep ) . comparing the throat locations and corresponding magnitudes of @xmath1 for geometries ( i ) and ( ii )",
+    ", it is clear that the cia model has a sonic point distance about twice that of the converging model ( implying a smaller acceleration ) and an initial mach number @xmath2 that is smaller by nearly an order of magnitude . since @xmath3 is a direct gauge of the mass flux density , the total mass loss rate for a cia wind will be smaller in general .",
+    "these differences all result from the confined expansion area of the cia model , due to its lack of adjacent streamline divergence .",
+    "both winds experience a reduced centrifugal force at @xmath4 compared to a keplerian parker wind , explaining why the latter has a significantly higher initial mach number .",
+    "we can therefore arrive at the result that the mass flux densities of our disk wind models are always bounded from below by that of the spherically symmetric parker wind and above by that of the keplerian parker wind .    in summary ,",
+    "the different properties of the cia and converging models are solely due to geometric effects . if , for a given hep and @xmath0 , the resulting velocity profiles were approximated by a beta - law , the parameters @xmath5 and @xmath6 ( the slope ) might differ by an order of magnitude .",
+    "kinematic models that make use of a beta - law are therefore sensitive to the type of wind geometry .",
+    "the implication is that employing the converging model may lead to significant overestimates of the flow acceleration if the true streamline geometry more closely resembles the cia model .",
+    "the synthetic line profiles will be affected , especially if the ionization balance of the wind is assumed to depend upon the density or temperature profiles , which significantly differ for these geometries ."
+  ],
+  "abstract_text": [
+    "<S> a simple , one - dimensional dynamical model of thermally driven disk winds , one in the spirit of the original parker ( 1958 ) model , is presented . </S>",
+    "<S> we consider two different axi - symmetric streamline geometries : geometry ( i ) is commonly used in kinematic models to compute synthetic spectra , while geometry ( ii ) , which exhibits self - similarity and more closely resembles the geometry found by many numerical simulations of disk winds , is likely unused for this purpose  although it easily can be with existing kinematic models . </S>",
+    "<S> we make the case that it should be , i.e. that geometry ( ii ) leads to transonic wind solutions with substantially different properties . </S>"
+  ]
+}

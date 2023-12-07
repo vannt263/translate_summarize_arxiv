@@ -1,0 +1,19 @@
+{
+  "article_text": [
+    "we simulate cassiopea ( upside - down ) jellyfish in channel flow using a classical immersed boundary method as developed by charles peskin and using datatank ( visual datatools , inc . ) for post processing of images .",
+    "we performed laboratory dye visualization using a flow tank constructed by dr .",
+    "steve vogel ( duke university dept . of biology ) and fluorescein dye ( flinn scientific .",
+    "lot number : 118372 . )",
+    "a full pulse of the simulated jellyfish consists of a cycle of a contraction ( 0.6 s ) , a short pause ( 0.13 s ) , a relaxation ( 0.7 s ) and a longer pause ( 2.0 s. ) oscillating and periodic one - directional flows have a frequency of 0.21 hz .",
+    "channel flow speeds were simulated at 0.0 cm / s , 1.0 cm / s and 2.0 cm / s as indicated in the videos .",
+    "+ each numerical simulation shows a vorticity plot for the fluid around the bell of the model jellyfish .",
+    "the simulations show the speed and direction of the current influence the formation and shedding of vortices around the tips of the bell .",
+    "the simulations also indicate the prominent oral arms structures play a role in vorticity trapping and shedding .",
+    "dye visualization experiments qualitatively reveal similar results ."
+  ],
+  "abstract_text": [
+    "<S> we present several dye visualization and numerical simulation fluid dynamics videos of a sessile jellyfish subjected to channel flow . </S>",
+    "<S> the file:////anc / hamletv038lowres.mp4[low resolution video ] and the file:////anc / hamletv038highres.mp4[high resolution video ] display the vortex patterns in different channel flows . </S>",
+    "<S> this description accompanies the video submission v038 to the 2011 aps dfd gallery of fluid motion . </S>"
+  ]
+}

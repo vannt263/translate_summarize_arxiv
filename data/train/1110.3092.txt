@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "low resolution movie : http://www.dam.brown.edu/people/lgrinb/presentations/apspackage/anc/video_entry_v013_small.mpg[video 1 ]        1 .",
+    "* dissipative particle dynamics ( dpd ) simulation of healthy ( red ) and malaria - infected ( blue ) red blood cells ( rbc)*. the membrane of each rbc is represented by 500 dpd particles [ 1 ] .",
+    "the blood plasma is also represented by dpd particles , shown as spheres colored by the local velocity magnitude .",
+    "the ensemble average velocity is computed using window proper orthogonal decomposition , and is presented at several slices along the computational domain .",
+    "* patient - specific domain of major brain arteries including circle of willis , internal carotid , vertebral and communicating arteries ; as well as large aneurysm*. at the four inlets patient - specific inflow boundary conditions have been imposed . at the multiple outlets",
+    "the pressure is regulated by the rc boundary conditions [ 2 ] .",
+    "the main flow characteristics are @xmath0 and @xmath1 .",
+    "computational domain is subdivided into four overlapping patches composed of about @xmath2 spectral elements . in each element",
+    "the solution is approximated with six - order polynomial expansion .",
+    "instantaneous velocity field is represented by streamlines , which also highlight the presense of an unsteady vortex inside the aneurysm .",
+    "* platelet aggregation at the wall of the aneurysm*. simulation is performed using a coupled continuum - atomistic solver .",
+    "the continuum solution in the macroscopic domain is obtained by nektar , while the atomistic solution inside 4 @xmath3 microscopic subdomain is computed by dpd - lammps .",
+    "the velocity boundary conditions for the microscopic domain are updated every 200 time - steps using data simultaneousely computed by nektar .",
+    "platelet aggregation simulations have been performed on up to 190,740 processors of cray xt5 at ornl and on up to 131,072 processors of bluegene / p at anl .",
+    "platelet aggregation modeled is described in [ 3 ] .",
+    "more information on the coupled continuum - atomistic solver will be provided in the sc11 gordon bell prize finalist paper [ 4 ] .        [ 3 ] i. v. pivkin , p. d. richardson and g. e. karniadakis .",
+    "_ blood flow velocity effects and role of activation delay time on growth and form of platelet thrombi_. proceedings of the national academy of sciences usa , 103(46):1716417169 , 2006 .    [ 4 ] l. grinberg , v. morozov , d. a. fedosov , j. a. insley , m. e. papka , k. kumaran and g. em karniadakis . _ a new computational paradigm in multiscale simulations : application to brain blood flow_. in proceedings of the 2011 acm / ieee international conference for high performance computing , networking , storage and analysis , sc11 ."
+  ],
+  "abstract_text": [
+    "<S> interfacing atomistic - based with continuum - based simulation codes is now required in many multiscale physical and biological systems . </S>",
+    "<S> we present the first results from coupled atomistic - continuum simulations on 190,000 processors . </S>",
+    "<S> platelet aggregation in the patient - specific model of an aneurysm has been modeled using a high - order spectral / hp element navier - stokes solver with a stochastic ( coarse - grained ) molecular dynamics solver based on dissipative particle dynamics ( dpd ) . </S>"
+  ]
+}

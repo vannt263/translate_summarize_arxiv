@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "the ipn presently comprises agile , fermi , rhessi , suzaku , and swift , in low earth orbit ; integral , in eccentric earth orbit with apogee 0.5 light - seconds ; wind , up to 7 light - seconds from earth ; messenger , in orbit around mercury , up to @xmath0700 light - seconds from earth , and mars odyssey , in orbit around mars , up to @xmath01200 light - seconds from earth .",
+    "it operates as a full - time , all - sky monitor for transients down to a threshold of about @xmath1 , or @xmath2 , and detects about 325 cosmic gamma - ray bursts per year . due to the all - sky field of view and lesser sensitivity of the ipn ,",
+    "these bursts are generally not the same ones detected by more sensitive imaging instruments such as swift bat , integral ibis , superagile , and maxi .",
+    "the ipn localization accuracy is in the several arcminute and above range .",
+    "the current burst detection rate of @xmath0325/year does not include magnetar bursts , to which the ipn is also sensitive .",
+    "we have now completed a preliminary analysis of the first two years of fermi gbm data ( july 14 2008 - july 14 2010 ) . in this period ,",
+    "the gbm reported approximately 500 grbs .",
+    "of them , 158 , or about 32% , could be triangulated using ipn data from one or more distant spacecraft , often in conjunction with konus - wind , to provide either a narrow error annulus or an error box .",
+    "a few examples are shown in figures 1 , 2 , and 3 .",
+    "10 of the 158 were observed by the lat ; the ipn annuli have widths which are comparable to or less than the lat error circle diameters ( see figure 3 ) .",
+    "30 of the 158 were independently localized by the swift bat or by super - agile ; these events are useful as end - to - end calibrations of the ipn .",
+    "if the triangulation is coarse ( several degrees ) it can be used in conjunction with the gbm localization to produce a joint error box whose area is smaller than that of either one by itself . when it is more accurate , it can also be used to refine the gbm systematic errors . since the ipn detects and localizes the stronger bursts , for which the gbm systematic uncertainties tend to dominate the statistical ones , ipn events are particularly useful for understanding these effects .",
+    "this is analogous to the role which the ipn played in the batse era .    ipn grbs are being used to study polarization , to search for neutrinos  @xcite ,  @xcite ,  @xcite ,  @xcite , gravitational radiation  @xcite ,  @xcite , and vhe gamma - ray emission , to search for associations with supernovae  @xcite ,  @xcite ,  @xcite ,  @xcite ,  @xcite , and to determine whether high - b radio pulsars emit sgr - like bursts , among other projects .",
+    "studies such as these do not require rapid localizations , or the identification of optical or x - ray counterparts , and constitute an alternative approach to the use of grbs as astrophysical tools .",
+    "they benefit from using the large ipn database , which contains localizations of bursts which in general are more intense than those observed by imaging instruments , and therefore , on the average , closer ( the redshifts ipn bursts range from 0.7 to 4.5 , with an average of 1.6 and a median of 1.1 ) ."
+  ],
+  "abstract_text": [
+    "<S> in the first two years of operation of the fermi gbm , the 9-spacecraft interplanetary network ( ipn ) detected 158 gbm bursts with one or two distant spacecraft , and triangulated them to annuli or error boxes . combining the ipn and gbm localizations leads to error boxes which are up to 4 orders of magnitude smaller than those of the gbm alone . </S>",
+    "<S> these localizations comprise the ipn supplement to the gbm catalog , and they support a wide range of scientific investigations . </S>"
+  ]
+}

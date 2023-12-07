@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "nearly all galaxy bulges contain supermassive black holes ( smbhs ) , so galaxy assembly by hierarchical merging should produce wide pairs of slowly inspiraling smbhs that either `` stall '' as tight binaries with 1  pc separation or merge and are kicked away from the galaxy nucleus by anisotropic gravitational radiation . we have begun a systematic vlba search for off - nuclear inspiraling or recoiling smbhs and for tight smbh pairs in a complete sample of 923 nearby ( d @xmath0 mpc ) 2mass galaxies containing nvss radio sources stronger than 100  mjy .",
+    "this survey simultaneously addresses three scientific problems : ( 1 )  smbh / galaxy co - evolution implied by the smbh / bulge mass correlation , ( 2 )  the `` merger tree '' theory of smbh evolution , and ( 3 )  the expected contribution of merging smbh binaries to the gravitational - wave background sought by lisa and the nanograv pulsar timing experiment .",
+    "we search for offset or multiple smbhs in a large complete sample by observing radio sources with the vlba at 8  ghz ( x band ) to ( 1 )  filter out extended emission from kiloparsec - scale radio jets and compact starbursts whose brightness temperatures never exceed @xmath1  k @xcite ; ( 2 ) resolve stalled smbh binaries ; and ( 3 )  favor compact flat - spectrum cores located very close to the smbhs over extended steep - spectrum emission .",
+    "our complete sample of nearby stellar bulges begins with all 2mass galaxies brighter than @xmath2 at @xmath3 m , the wavelength at which luminosity is a good tracer of total stellar mass .",
+    "the typical distance to these galaxies is 200 mpc .    for our smbh tracer ,",
+    "we use the compact cores of the 923 nvss sources stronger than 100  mjy at 1.4  ghz identified with these 2mass galaxies . among them , 89 were observed in prior experiments .",
+    "the luminosity of a 100  mjy source at @xmath4  mpc is only @xmath5  w hz@xmath6 , but 90% of these galaxies are radio - loud compared with the fir / radio correlation of star - forming galaxies , so they almost certainly contain agns .",
+    "each target source is observed in two scans at 8 intermediate frequencies spread over 7.908.89  ghz .",
+    "observations are made with phase calibrators in the c ",
+    "t  c mode with @xmath7  s on a calibrator and 320  s on a target in each scan . observing sessions are scheduled by the vlba array operator using an automatic algorithm at the lowest priority during periods of time when no other experiments can run due to various constraints .",
+    "observations of individual calibrator / target pairs are scheduled in the so - called absolute astrometry mode with a set of four different atmosphere calibrator sources observed every 1.5  hours .",
+    "this hybrid observing mode allows us to process the data both as absolute astrometry experiments using wide - band group delays determined with the wide - band baseline fringe fitting algorithm  @xcite and as differential astrometry experiments .    by october 2011 ,",
+    "328  hours of observing time were allotted . in total , 733 of the 834 sources were observed , and among them 401 were detected in the baseline mode .",
+    "the baseline detection limit is 69  mjy , depending on the weather .",
+    "the distribution of the correlated flux densities is shown in figure  [ f : flux ] .",
+    "_ left : _ the distribution of correlated flux densities of unresolved radio components in our sample of galaxies .",
+    "the units for flux densities are jansky .",
+    "the straight fitting line has slope @xmath8 .",
+    "_ right : _ the offsets of the radio cores from the ir positions .",
+    "the circle with radius @xmath9 corresponds to the 99.9% confidence level of a source offset due to random errors of the 2mass catalogue.,scaledwidth=61.0% ]    the median accuracy of vlbi positions is 0.6 mas .",
+    "the differences between the 2mass and vlbi positions have rms scatter @xmath10  mas consistent with the 2mass position accuracy , and the systematic right ascension and declination offsets are less than 10  mas .",
+    "of 490 detected sources , 12 have offsets exceeding 500  mas ( not shown in the plot ) . among them , 5 sources are considered as good candidates for offset black holes to be investigated in depth in follow - up multi - frequency observations .",
+    "the results of anaysis of processed vlba experiments are accessible from the project web page ."
+  ],
+  "abstract_text": [
+    "<S> we are using the vlba at 8  ghz to observe a sample of 834 nearby 2mass galaxies that are stronger than 100  mjy in the nvss . </S>",
+    "<S> the goals of the project are to detect ( 1 ) supermassive black holes significantly offset from the ir positions of the host galaxy bulges and ( 2 ) binary black holes . </S>"
+  ]
+}

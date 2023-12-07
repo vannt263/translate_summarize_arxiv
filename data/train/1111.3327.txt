@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "the spacetimes which asymptote to anti de sitter have attracted much attention in the context of the conjectured ads / cft correspondence .",
+    "one ( of the many ) non - trivial test(s ) of the correspondence is provided by an exact matching of the anomalies calculated on the gravity side on one hand and the gauge theory side on the other .",
+    "traditionally , the anomalies in the gravity side are calculated by regularizing the gravitational action by subtracting some counterterms constructed out of the boundary - covariant quantities @xcite .",
+    "this regularization depends upon the representative of the conformal class of the metric on the boundary and hence breaks conformal invariance thus leading to the conformal anomaly in the odd dimensional spacetimes @xcite .",
+    "however , if one constructs the conserved quantities using only the conformal structure of the boundary , working directly with the equations of motion instead of the action , one does nt find any anomalies in any dimensions greater than three @xcite .",
+    "now , we know from the work of brown and henneaux that in three dimensions the poisson bracket algebra of the canonical generators of the asymptotic symmetries is the central extension of the lie algebra of the asymptotic symmetries @xcite .",
+    "the anomaly shows up as the central charge .",
+    "the purpose of this article is to investigate if we can reproduce this anomaly using the conformal completion techniques of ref .   in three dimensions .",
+    "a 2 + 1 dimensional spacetime @xmath0 will be called asymptotically ads if there exists a manifold @xmath1 with boundary @xmath2 and a diffeomorphism from @xmath3 onto @xmath4 such that the following conditions hold :    @xmath5 a function @xmath6 on @xmath7 such that on @xmath3 @xmath8    @xmath2 is topologically @xmath9 , @xmath6 vanishes on @xmath2 while @xmath10 is nowhere vanishing on @xmath2 .    on @xmath3",
+    ", @xmath11 satisfies @xmath12    @xmath13 admits a smooth limit on @xmath2 .    by choosing a different conformal factor @xmath14 , we can show that @xmath15 where , @xmath16 , @xmath17 is the covariant derivative with respect to the metric rescaled by @xmath18 and the equality holds on @xmath2 .",
+    "therefore , we can choose the conformal factor such that @xmath19 vanishes on @xmath2 .",
+    "we suppose that we have made this choice . in particular , the extrinsic curvature of @xmath2 vanishes .",
+    "notice that @xmath20 itself is unrestricted on @xmath2 .",
+    "writing the einstein equation in terms of the unphysical geometrical quantities but the physical matter we get , @xmath21 where , @xmath22 mutliplying eq .",
+    "( [ einsteineqn ] ) by @xmath23 and taking the limit @xmath24 we get , @xmath25 hence , the boundary @xmath2 is time - like . taking the antisymmetrized derivative of eq .",
+    "( [ einsteineqn ] ) we get , @xmath26b } = \\omega^{-1 } \\left ( \\nabla_{[c}(\\omega l_{a]b})-g_{b[c}l_{a]d}n^d \\right ) .\\end{aligned}\\ ] ]    finally , taking the limit @xmath24 and the appropriate projections on @xmath2 we get a differential conservationlaw , @xmath27 where , @xmath28 is @xmath29 with the indices projected on the boundary , @xmath2 .",
+    "we interpret @xmath30 as the brown - york boundary stress - energy tensor @xcite . given a vector field @xmath31 on the boundary",
+    ", we integrate @xmath32 over a portion of the boundary @xmath33 enclosed between the cross - sections @xmath34 and @xmath35 to get the integrated version of the conservationlaw : @xmath36 where , @xmath37 is the trace anomaly , @xmath38 comparing @xmath37 with the trace anomaly in the two dimensional conformal field theory , @xmath39 , we get the brown - henneaux central charge @xcite , @xmath40 the global charge corresponding to @xmath41 is defined as @xmath42 from eq .",
+    "( [ integralconservationlaw ] ) we see that @xmath43 is conserved for the killing vector(kv ) field of @xmath2 but is not conserved for the conformal killing vector ( ckv ) field of @xmath2 .",
+    "although , ckv fields of @xmath2 are the generators of the asymptotic symmetry group because they keep the boundary conditions invariant , we see that the conserved quantities correspond only to the kv fields of @xmath2 . even in the absence of the matter",
+    ", the non - conservation of global charges corresponding to the ckv fields is attributed solely to the anomaly .",
+    "@xmath44 we have therefore , reproduced the anomaly in three dimensions using the conformal completion technique of ref .  .",
+    "it will be interesting to see why in this approach the anomaly does nt show up in higher dimensions and also how the anomaly is reflected in the covariant phase space hamiltonian formalism .",
+    "am would like to express his deepest gratitude to prof .",
+    "enric verdaguer for his kind hospitality at the department de fsica fonamental de la universitat de barcelona where this work was completed ."
+  ],
+  "abstract_text": [
+    "<S> we revisit the asymptotically anti de sitter spacetimes in three dimensions . using the conformal - completion technique , </S>",
+    "<S> we formulate the boundary conditions in a covariant fashion and construct the global charges associated with the asymptotic symmetries . </S>",
+    "<S> the charges so constructed are conserved for the asymptotic killing vectors fields but are not conserved for the asymptotic conformal killing vector fields . </S>",
+    "<S> the quantity integrated to obtain the global charge is interpreted as the brown - york boundary stress - energy tensor and it is found not to be traceless . </S>",
+    "<S> the trace is interpreted as the trace anomaly and it turns out to be the same as the brown - henneaux central charge . </S>"
+  ]
+}

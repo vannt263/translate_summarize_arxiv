@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "-.35 cm the faraday rotation effect is observed against the polarised radio emission of extragalactic radio sources traveling through the icm , revealing magnetic fields of @xmath0100kpc  scale threading this media .",
+    "rm maps indicate that cluster magnetic fields ( cmfs ) have a random structure with more power on larger scales , their strength seems to be of order @xmath1 g and proportional to both the icm density distribution and the cluster cooling flow related accretion rates ( carilli & taylor  @xcite ) .",
+    "the origin , evolution and role of cmfs on the icm stability are open questions .",
+    "also , since agn jets have strong effects on the icm , it is not clear to what extent , and how , they affect both the cmfs and their rm characterisation . we investigate this in huarte - espinosa , krause & alexander  @xcite .",
+    "-.35 cm using flash  3.1 ( fryxell et al .",
+    "@xcite ) we solve the equations of mhd with a constrained transport scheme ( lee & deaane  @xcite ) in a cubic cartesian domain with .",
+    "the icm is implemented as a monoatomic ideal gas ( @xmath2 ) with a density profile of @xmath3 in magnetohydrostatic equilibrium with central gravity .",
+    "magnetic fields in the grid are set up with a kolmogorov - like structure ( following murgia et al .",
+    "@xcite ) , and the thermal over magnetic pressure ratio is of order unity everywhere",
+    ". the plasma relaxes for one crossing time and then we inject mass and @xmath4-momentum into a central control cylinder , in a back - to - back fashion .",
+    "we experiment with the jets power using velocities of 40 , 80  and 130  mach , and densities of 0.02@xmath5 and 0.004@xmath5 .",
+    "-.35 cm we calculate rm@xmath6 812 @xmath7 radm@xmath8 from the jets cavity contact discontinuity to the end of the domain , along different viewing angles .",
+    "we do this at different times , with and without the jets to assess their effects on the cmfs .",
+    "the fields in the region between the cocoon and the bow shock are compressed , stretched and amplified . in figure  1",
+    "we show the case of jets velocity and density of 130  mach and 0.004@xmath5 , respectively , at a viewing angle of 45@xmath9 .",
+    "we see that the jets with mach@xmath10\\{80 , 130 } are able to to increase the icm magnetic energy energy in proportion to the jet velocity . though the rm structure functions show and preserve the cmfs initial condition , they are flattened by the jets at scales of order tens of kpc .",
+    "this scale is larger for sources with fat cocoons ,    r0.63    i.e. light densities .",
+    "we calculate the mean rm for the approaching and the receding radio lobes vs. the viewing angle .",
+    "intrinsically , the depolarisation is always higher for the receding lobe ; i.e. the laing - garrington effect ( laing  @xcite )",
+    ". this however is only moderately affected by the radio source expansion , in such a way that the associated trends tend to be amplified .",
+    "-.35 cm the jets distort and amplify the cmfs , especially near the edges of the lobes and the jets heads . @xmath11rm@xmath12 and",
+    "@xmath13 increase in proportion to the jets power .",
+    "the effect may lead to overestimations of the cmfs strength by about 70% .",
+    "a flattening of the rm structure functions is produced by the jets , at scales comparable to the source size .",
+    "jet - produced rm enhancements are more apparent in quasars than in radio galaxies .",
+    "carilli c.  l. , taylor g.  b. , 2002 , ara&a , 40 , 319 huarte - espinosa , krause & alexander , 2011 , accepted in the mnras , arxiv:1108.0430 fryxell b. et al . , 2000 , apjs , 131 , 273 lee d. , deaane a.  e. , 2008 , journal of computational physics , doi:10.1016/j.jcp.2008.08.026 murgia et al .",
+    "2004 , aap , 424 , 429 laing , r.  a. , 1988 , nature , 331 , 149"
+  ],
+  "abstract_text": [
+    "<S> we present 3-d mhd and synthetic numerical simulations to follow the evolution of randomly magnetized intra - cluster medium plasma under the effects of powerful , light , hypersonic and bipolar jets . </S>",
+    "<S> we prescribe the cluster magnetic field ( cmf ) as a gaussian random field with power law energy spectrum tuned to the expectation for kolmogorov turbulence . </S>",
+    "<S> we investigate the power of jets and the viewing angle used for the synthetic rotation measure ( rm ) observations . </S>",
+    "<S> we find the model radio sources introduce and amplify fluctuations on the rm statistical properties ; the average rm and the rm standard deviation are increased by the action of the jets . </S>",
+    "<S> this may lead to overestimations of the cmfs strength up to 70% . </S>",
+    "<S> the effect correlates with the jet power . </S>",
+    "<S> jets distort and amplify cmfs especially near the edges of the lobes and the jets heads . </S>",
+    "<S> thus the rm structure functions are flattened at scales comparable to the source size . </S>",
+    "<S> jet - produced rm enhancements depend on the orientation of the jet axis to the line of sight and are thus more apparent in quasars than in radio galaxies . </S>"
+  ]
+}

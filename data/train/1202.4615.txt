@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "the light variability of the short - period contact binary sw lac ( p   0.@xmath032 , v@xmath1=8.@xmath291 ) is very well known and studied by several investigators since its discovery by ( * ? ? ?",
+    "* miss ashall ( 1918 ) ) .",
+    "the first photoelectric ubv light curves of the system were obtained by ( * ? ? ?",
+    "* brownlee ( 1956 ) ) , who also pointed out the light curve asymmetries from cycle to cycle .",
+    "these asymmetries were confirmed and attributed to the existence of cool spot regions by several authors ( see ( * ? ? ? * albayrak et al .",
+    "2004 ) , ( * ? ? ?",
+    "* alton & terrell 2006 ) and references there in ) .",
+    "the spectral studies of the system including spectral classification , mass ratio determination and uv / x - ray region spectral analysis were carried out by several investigators , who revealed that the system is a w - type contact binary showing chromospheric and coronal activity ( see ( * ? ? ?",
+    "* enavci et al . 2011 ) and references there in , for details ) .",
+    "the aim of this study is to perform the light curve analysis with the spot modeling , using the 2009 and 2010 light curves of the system with the help of the information coming from the doppler maps obtained by ( * ? ? ?",
+    "* enavci et al . ( 2011 ) ) .",
+    "the 2009 and 2010 bv band light curves of the contact binary sw lac were obtained at the ankara university observatory , using an apogee alta u47 ccd camera attached to a 40 cm schmidt - cassegrain telescope .",
+    "bd+37@xmath3 4715 and bd+37@xmath3 4711 were chosen as comparison and check stars , respectively .",
+    "the nightly extinction coefficients for each passband were determined by using the observations of the comparison star .",
+    "a total of 700 and 995 data points were obtained in each passband , while the probable error of a single observation point was estimated to be @xmath4 and @xmath5 for 2009 and 2010 bv bands , respectively .",
+    "the 2009 and 2010 bv light curves were analysed simultaneously with the radial velocity curves of the system obtained by ( * ? ? ?",
+    "* rucinski et al .",
+    "( 2005 ) ) using the interface version of the wilson - devinney code ( ( * ? ? ?",
+    "* wilson & devinney 1971 ) ) , phoebe ( ( * ? ? ?",
+    "* prsa & zwitter 2005 ) ) .",
+    "since the surface reconstructions of the system were performed using the time series spectra obtained in 2009 , we first adopted the spot modeling , as three main circular spot regions , to 2009 light curves and carried out the lc modeling ( see fig.[fig1 ] ) .",
+    "the results from the lc and spot modeling were represented in fig.[fig2 ] .",
+    "the analysis showed that the theoretical light curves are compatible with the observed ones , though the circular spot modeling was performed .",
+    "however , in order to perform more reliable spot modeling , a code with a none circular shaped spot approximation is needed as the doppler maps clearly show us the spots are not circular ."
+  ],
+  "abstract_text": [
+    "<S> in this study , we present the preliminary light curve analysis of the contact binary sw lac , using b , v light curves of the system spanning 2 years ( 2009 - 2010 ) . during the spot modeling process , we used the information coming from the doppler maps of the system , which was performed using the high resolution and phase dependent spectra obtained at the 2.1 m otto struve telescope of the mcdonald observatory , in 2009 . </S>",
+    "<S> the results showed that the spot modeling from the light curve analysis are in accordance with the doppler maps , while the non - circular spot modeling technique is needed in order to obtain much better and reliable spot models . </S>"
+  ]
+}

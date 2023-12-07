@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the first radio astronomy undertaken in new zealand was in the very early pioneering days in 1948 .",
+    "john bolton and gordon stanley , from csiro in australia , initially set up a cliff - top interferometer using the sea as a mirror , first near pakiri , @xmath0 north of auckland on the east coast of north island , and then later at a world war ii radar station near piha , to the west of auckland .",
+    "the interferometer operated at 100mhz , and bolton and stanley were able to locate for the first time the sources of radio waves from three sources , taurusa , centaurusa and virgoa , which were now seen to be outside the solar system .",
+    "this was probably the opening of a new window on the universe , but it was not until 2005 that further significant radio astronomy was conducted in new zealand .",
+    "brent addis , a radio ` ham ' , had built a 6-m radio telescope at karaka ( figure  [ x6m](a ) ) , to the south of auckland , and this was used at 1.6ghz with the australia telescope compact array at narrabri ( atca ) for the first vlbi observations across the tasman sea by the newly formed group at auckland university of technology ( aut ) and scientists at the australia telescope national facility ( atnf ) .",
+    "figure  [ x6m](b ) shows the first fringe from the radio telescope at 1.6 ghz .",
+    "since then , aut has acquired a 12.1-m cassegrain radio telescope manufactured by patriot ( see figure  [ pat-12 m ] for its parameters and associated equipment ) , which has been sited in a radio - quiet zone ( shown to be radio quiet by actual measurements ) @xmath1 to the north of auckland and a few kilometres to the south of warkworth .",
+    "it was officially opened on 8october2008 .",
+    "more recently , a former satellite - communications 30.5-mradio telescope on the same warkworth site , and @xmath2200 m from the 12-m antenna , has been taken over by aut .",
+    "this telescope , currently being upgraded , is capable of operations up to 40ghz .",
+    "so the warkworth observatory has come into being ( figure [ warkobs ] ) .",
+    "the introduction of the kiwi advanced research and education network ( karen ) in 2005 and the linking into it of the warkworth observatory somewhat later has enabled data to be transferred between the warkworth observatory and australia and the u.s.a , and onwards further to europe and japan at data rates of 1gbps .",
+    "initial vlbi test observations between the 12-m telescope and australian long baseline array ( lba ) telescopes in australia have shown that new zealand can contribute on a regular basis to lba observations and a formal joining with the lba was signed in 2010 .",
+    "the introduction of the australian square kilometre array ( ska ) pathfinder telescopes ( askap ) at the murchison radio observatory in western australia and also the inclusion of the warkworth 12-m telescope , has meant that the maximum baseline of the lba has been extended to @xmath3 with a consequential improvement in both resolution and uv@xmath4coverage .",
+    "figures [ sources](a ) and ( b ) show the results of observations of the gigahertz peaked spectrum radio galaxy , pks 1934 - 638 , at 1.4 ghz with and without the askap and warkworth telescopes .",
+    "it is interesting to note that were there to be a telescope in northern thailand , the maximum length of baseline from an askap antenna in western australia to this would be @xmath5 , but in a much more ns direction .",
+    "the uv - coverage of such an enhanced lba array would improve significantly , not only from the point of view of the intermediate baseline lengths that would be generated , but also because of the considerably improved ns baselines .        for the above vlbi observations , data have been recorded on disc and correlated at a later time . for the successful operation of the ska , ` real - time ' correlation is essential , and this was achieved including the warkworth 12-m telescope on 1stfebruary 2011 , when a real - time e - vlbi fringe at 1.4ghz between it and the 22-m mopra telescope in australia was obtained .",
+    "somewhat later ( june 2011 ) , the first ` real - time ' observations of the quasar , pks 0637 - 752 , using all of the lba telescopes , including the askap and warkworth dishes were successfully made",
+    ". figure [ sources](c ) shows the resulting image .",
+    "it has been long established that vlbi observations can contribute considerably to the study of the earth s crust and its movements , and a network of telescopes across the world has been established for these observations .",
+    "the inclusion of a telescope in new zealand , which is located in a very active region of the earth s surface , should be able to provide a significant contribution to the network .",
+    "following successful test vlbi observations at both s - band and x - band frequencies using the warkworth 12-m telescope and a 32-m telescope at tsukuba in japan , the warkworth 12-mtelescope has now taken part on a regular basis in several observing sessions of this network since february 2011 .",
+    "it is also participating in the auscope project , an australian geodetic research programme .",
+    "the observations showing the development of radio astronomy in new zealand have clearly shown that:- + new zealand has a strong observational basis for vlbi + new zealand is capable of electronically transferring large amounts of data + new zealand has excellent radio - quiet zones .",
+    "this research was supported by grants from the new zealand ministry for economic development .",
+    "warkworth connectivity via karen was made possible by the remote site connectivity fund provided by the ministry of research science and technology ( morst ) on behalf of the new zealand government .",
+    "we are grateful to ibm for providing the irasr with the ibm blade centre .",
+    "thanks also for their support and assistance go to staff from karen and aut s ict department .",
+    "our special thanks go to our vlbi colleagues in australia at atnf , the international centre of radio astronomy research ( in western australia ) and at the university of tasmania ."
+  ],
+  "abstract_text": [
+    "<S> over the past 3 years , auckland university of technology has established the first radio astronomical observatory in new zealand , which , because of its remote geographic location , has quickly become a member of a number of international vlbi networks , in particular the ivs and the lba . not only has this added significantly to the observational power in the pacific and oceania , but by utilising new fibre connections within new zealand , and across the pacific and the tasman sea , the new zealand radio telescopes have now been linked to many in australia , asia and the pacific . </S>",
+    "<S> recent astronomical results are presented and plans for widening new zealand participation in australasian , asia - pacific and global vlbi research and development are outlined . </S>",
+    "<S> real - time e - vlbi is a vital part of new zealand s capability development towards the ska . </S>",
+    "<S> the rapid and challenging establishment of new zealand radio astronomy can serve as a model for the engagement in mega - science and e - science by resource - limited institutions and nations . </S>",
+    "<S> perspectives for collaboration between new zealand and thailand in the field of radio astronomy are included . </S>"
+  ]
+}

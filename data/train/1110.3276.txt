@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "offshore wind energy has become an important frontier of sustainable energy research . in this study ,",
+    "large - eddy simulation ( les ) of wind turbulence coupled with potential - flow simulation of ocean waves is performed for floating wind farms for the first time .",
+    "the les of marine atmospheric boundary layer is performed on boundary - fitted grid that follows the wave motion .",
+    "the nonlinear evolution of wavefield is simulated using a high - order spectral method .",
+    "the wind and wave motions are coupled in the simulation by matching the kinematic and dynamic boundary conditions at the sea surface .",
+    "large wind farm is modeled as periodic wind turbine array , with the six - degrees - of - freedom motion of floating turbines solved subject to the wind and wave loads , and the effect of turbines on wind modeled using an actuator disc method .",
+    "details of the numerical methods and their validations are provided in refs .",
+    "[ 1 - 3 ] .",
+    "the first and second animations show respectively the perspective and top views of the simulated ocean waves . the wavefield satisfies a jonswap spectrum , with peak wavelength of @xmath0 and significant wave height of @xmath1 . in the videos , the peak wave propagates from left to right with a phase speed of @xmath2 .",
+    "the third animation shows the coupled motions of wind turbulence and ocean waves .",
+    "sea surface and wind speed on two vertical planes are shown .",
+    "the wind speed is normalized by its mean value at @xmath3 above the sea surface , which equals to @xmath4 in this case .",
+    "the last two animations show two cases of les of floating wind farms .",
+    "in addition to sea surface and wind speed , turbine wakes are illustrated with vorticity .",
+    "the periodic wind turbine array consists of @xmath5 turbines to represent part of a large wind farm . in the first case ,",
+    "the sea surface is covered by jonswap waves with parameters given above . in the second case ,",
+    "the jonswap waves are mixed with a swell with wave amplitude of @xmath6 and wavelength of @xmath7 . in the first and second cases , because the waves are respectively small and large , the turbine motions are weak and strong , respectively .",
+    "analysis of the wind and wave statistics and turbine performance shows that : ( i ) for large floating wind farms , the energy extracted by the wind turbines is provided mainly by turbulence - mediated downward flux of kinetic energy from the atmosphere above , consistent with previous studies on land - based wind farms.@xmath8}$ ] ( ii ) the wind field is substantially influenced by the waves due to the effect on sea surface roughness and wave - induced form drag . as a result ,",
+    "the energy extraction rate of the wind turbines is a function of wave conditions .",
+    "( iii ) the motion of floating turbines also affects the turbine performance . for future development of offshore wind farms ,",
+    "it is important to study the interaction among wind , waves , and turbine motions ."
+  ],
+  "abstract_text": [
+    "<S> the fluid dynamics video no.v058 is introduced , with brief descriptions of the numerical method used to generate the animation data , explanation of what is shown in the movies , and the main scientific findings obtained from this study . </S>"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "a flat rotating stellar disc and a slowly rotating spheroidal bulge in spiral and lenticular galaxies usually possess very different stellar population properties . consequently",
+    ", the resulting stellar line - of - sight velocity distribution ( losvd ) can be strongly asymmetric in regions where the light contributions of both disc and bulge are comparable . at the first approximation , this can be accounted by the gauss - hermite parametrization of the losvd ( ( * ? ? ?",
+    "* van der marel & franx , 1993 ) ) , however , different absorption features ( e.g. sensitive to age and metallicity ) will have different effective losvds .",
+    "the first attempt to recover parametrically the multi - component dynamics connected to multi - component stellar populations was done by ( * ? ? ?",
+    "* de bryuine et al . 2004 ) where the authors used stellar spectra to model different stellar populations . here",
+    "we present a more realistic approach based on the full spectral fitting , where multiple dynamical components are represented by multiple simple stellar population ( ssp ) models .",
+    "more sophisticated stellar population models can be used instead of ssps .",
+    "as an example , here we present a two - component model having two pure gaussian losvd components with different stellar populations characterised by their ages and metallicities .",
+    "an optimal template is represented by the linear combination of two ssps each convolved with its own losvd , hence the @xmath0 value is computed as follows :    @xmath1 ^ 2}{\\delta f_i^2},\\ ] ]    where @xmath2 - pure gaussian losvd ; @xmath3 and @xmath4 are observed flux and its uncertainty ; @xmath5 is the flux from the @xmath6-th synthetic spectrum of ssp with given age @xmath7 and metallicity @xmath8 ; @xmath9 is multiplicative legendre polynomials of order @xmath10 for correcting the continuum which determined at each step of minimization loop by solving the linear least - square problem ; @xmath11 is the j - th component weight ( normally found by the linear minimization ) . the important point in this study",
+    "is that we fixed the relative ssp contributions @xmath11 to the values derived from the photometric light profile decomposition .",
+    "this approach was implemented on top of the nbursts full spectral fitting technique ( @xcite ) .",
+    "our new approach was applied to the real spectra of luminous early - type galaxy ngc  524 ( see ( * ? ? ?",
+    "* katkov et al . ( 2011 ) ) ) .",
+    "it was shown that losvd of ngc  524 exhibits strong asymmetry and a stellar component of galaxy can be described as a bulge , inner disc and a conterrotating outer disc .",
+    "in order to explore the parameter space , we constructed and analysed using our technique a sample of 8000 realizations of synthetical spectra created as a linear combination of two components ( see table  [ tabl_parameters ] ) adding the random noise corresponding to the signal - noise ratio ( snr ) 100 .",
+    "the relative contributions @xmath12 were fixed .",
+    "the degeneracies between all the parameters are shown in fig .",
+    "[ fig_mc ] as a covariance matrix . here and after red and blue points correspond to the bulge and disc components respectively .",
+    "we can see that the most degenerated pairs of parameters are @xmath13 and @xmath14 .           in order to demonstrate how the parameters are recovered depending on the snr we fitted a sample of 8000 models varying a snr between 30 and 250 .",
+    "[ fig_snr](top line ) shows how the output parameter uncertainty decreases when increasing snr .",
+    "the dashed lines show the input parameters of synthetic spectrum .",
+    "we used the same approach to demonstrate how important is the knowledge of relative contributions @xmath11 .",
+    "[ fig_snr](bottom line ) presents 4000 mc realizations where we varied the relative ssp contribution of bulge component @xmath15 in range between 0.5 and 0.9 while the real value was equal to 0.7 .",
+    "snr=150 was adopted in these realisations .",
+    "it is obvious that even little offset in @xmath11 can lead to important biases in the recovered parameters ."
+  ],
+  "abstract_text": [
+    "<S> the stellar line - of - sight velocity distribution ( losvd ) can be strongly asymmetric in regions where the light contributions of both disc and bulge in spiral and lenticular galaxies are comparable . </S>",
+    "<S> existing techniques for the stellar kinematics analysis do not take into account the difference of disc and bulge stellar populations . here </S>",
+    "<S> we present a novel approach to the analysis of stellar kinematics and stellar populations . </S>",
+    "<S> we use a two - component model of spectra where different stellar population components are convolved with pure gaussian losvds . for this model we present monte - carlo simulations demonstrating degeneracies between the parameters . </S>"
+  ]
+}

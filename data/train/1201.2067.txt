@@ -1,0 +1,19 @@
+{
+  "article_text": [
+    "quarks and leptons are believed to be the fundamental particles of matter yet their nature is still far from being understood .",
+    "one of the exciting puzzles is a formula involving the masses of the three leptons , discovered by yoshio koide @xcite : @xmath0 see table 1 for the corresponding numerical values ( from @xcite ) .",
+    "[ tbl:1 ]    .lepton masses .",
+    "[ cols= \" < , < , < , < , < \" , ]     * 4 . coda . * whether this intriguing connection with geometry will contribute to an understanding of the masses of leptons remains an interesting question and requires further investigation .",
+    "the analogy described above may turn out to be merely superficial , but given the current state of understanding about the matter , any interesting structural parallels are worthy of our consideration in the effort of reconstructing deeper patterns .",
+    "i am grateful to philip feinsilver for his encouraging interest and priceless comments .",
+    "j. kocik , a matrix theorem on circle configuration ( _ arxiv:0706.0372v2)_. y. koide , fermion - boson two body model of quarks and leptons and cabibbo mixing , _ lett .",
+    "nuovo cimento _ * 34 * ( 1982 ) 201 .",
+    "y. koide , _ mod .",
+    "_ a5 ( 1990 ) 2319",
+    ". y. koide , challenge to the mystery of the charged lepton mass formula ( 2005 ) , hep - ph/0506247 . _  _"
+  ],
+  "abstract_text": [
+    "<S> a remarkable formal similarity between koide s lepton mass formula and a generalized descartes circle formula is reported . + </S>",
+    "<S> * keywords : * lepton mass , koide formula , descartes circle theorem , geometry . </S>"
+  ]
+}

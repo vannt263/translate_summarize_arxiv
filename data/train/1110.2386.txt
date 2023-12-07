@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "100    mathisson m 1937 _ acta phys . pol . _ * 6 * 163 ; papapetrou a 1951 _ proc . r. soc . _ a * 209 * 248 semerk o 1999 _ mon . not .",
+    "r. astron .",
+    "soc . _ * 308 * 863 plyatsko r , stefanyshyn o and fenyk m 2010 _ phys . rev .",
+    "_ d * 82 * 044015 [ arxiv : 1110.1310 [ gr - qc ] ] plyatsko r m , stefanyshyn o b and fenyk m t 2011 _ class .",
+    "quantum grav . _",
+    "* 28 * 195025[arxiv : 1110.1967 [ gr - qc ] ] fock v and ivanenko d 1929 _ z. phys . _ * 54 * 798 ; fock v 1929 _ z. phys . _ * 57 * 261 ; weyl h 1929 _ proc .",
+    "usa _ * 15 * 323 wong s 1972 _ int .",
+    "phys . _ * 5 * 221                  obukhov yu silenko a and teryaev o 2009 _ phys . rev .",
+    "_ d * 80 * 064044 fock v and ivanenko d 1929 _ z. phys . _ * 54 * 798 ; fock v 1929 _ z. phys . _ * 57 * 261 ; weyl h 1929 _ proc .",
+    "usa _ * 15 * 323 plyatsko r [ gr - qc/0601111 ] plyatsko r and bilaniuk o 2001 _ class .",
+    "quantum grav . _ * 18 * 5187 [ gr - qc/0507025 ] plyatsko r 2005 _ class . quantum grav . _",
+    "* 22 * 1545 [ gr - qc/0507023 ]"
+  ],
+  "abstract_text": [
+    "<S> first , we stress that for correct description of highly relativistic fermions in a gravitational field it is necessary to have an equation which in the limiting transition to the classical ( non - quantum ) case corresponds to the exact mathisson - papapetrou equations . </S>",
+    "<S> according to these equations the spin in general relativity is fermi - transported , and the parallel transport of spin is realized only in some approximation . the traditional general - relativistic dirac equation ( 1929 ) is based on the parallel transported spinors and does not ensure the correspondent transition . </S>",
+    "<S> second , because in the range of very high velocity ( close to the speed of light ) of a spinning particle relative to the schwarzschild or kerr sources the mathisson - papapetrou equations have the solutions which reveal that the spin - gravity interaction acts as a strong antigravity force , we suppose that this fact can be useful for explanation some astrophysical phenomena . </S>",
+    "<S> some association with the opera results is possible .    </S>",
+    "<S> the mathisson - papapetrou equations are known from 1937 as the equations which describe motions of a spinning test particle ( rotating test body ) in a gravitational field in the framework of general relativity [ 1 ] . </S>",
+    "<S> these equations can be written as @xmath0 @xmath1 where @xmath2 is the particle s 4-velocity , @xmath3 is the tensor of spin , @xmath4 and @xmath5 are , respectively , the mass and the covariant derivative with respect to the particle s proper time @xmath6 ; @xmath7 is the riemann curvature tensor ( units @xmath8 are used ) ; here and in the following , latin indices run 1 , 2 , 3 and greek indices 1 , 2 , 3 , 4 ; the signature of the metric ( ,,,+ ) is chosen .    </S>",
+    "<S> while investigating the solutions of equations ( 1 ) , ( 2 ) , it is necessary to add a supplementary condition in order to choose an appropriate trajectory of the particle s center of mass . </S>",
+    "<S> most often conditions @xmath9 or @xmath10 are used , where @xmath11 is the 4-momentum . the condition for a spinning test particle @xmath12 </S>",
+    "<S> must be taken into account as well , where @xmath13 is the absolute value of spin , @xmath14 is the characteristic length scale of the background space - time ( in particular , for the kerr metric @xmath14 is the radial coordinate ) , and @xmath15 is determined by the relationship @xmath16 instead of exact mpd equations ( 1 ) their linear spin approximation @xmath17 is often considered . </S>",
+    "<S> the long list of publications devoted to the mathisson - papapetrou equations is presented , for example , in [ 24 ] .    </S>",
+    "<S> our purpose is to draw attention to the two points concerning the strict mathisson - papapetrou equations . </S>",
+    "<S> the first is connected with the general - relativistic dirac equation , which was obtained in 1929 [ 5 ] , i.e. , eight years before the mathisson - papapetrou equations . </S>",
+    "<S> later it was shown in many papers that the mathisson - papapetrou equations are , in certain sense , the classical approximation of the dirac equation [ 6 ] . the main step in obtaining the general - relativistic dirac equation in the curved spacetime </S>",
+    "<S> consists in introduction the notion of the parallel transport for spinors as a generalization of this notion for tensors . </S>",
+    "<S> however , if one want to satisfy the principle of correspondence between the general - relativistic dirac equation and the mathisson - papapetrou equations , it is necessary to take into account the known fact that according to the mathisson - papapetrou equations the spin of a test particle is transported by fermi , nor parallel transported ( we underline that this fact was unknown in 19290 . </S>",
+    "<S> the fermi transport coincides with the parallel transport only in some approximation , when a world line of a spinning particle practically coincides with the corresponding geodesic line , for example , in the post - newtonian approximation . in general , by the principle of correspondence , it is necessary to know how to write the dirac equation in the curved spacetime with the fermi transport in the limiting transition to the classical ( nonquantum ) description . </S>",
+    "<S> one can suppose that for this aim it is sufficiently to introduce the fermi transport for spinors , instead of their parallel transport ( in this sense an attempt was discussed in [ 7 ] ) . </S>",
+    "<S> however , in common sense , the notation `` fermi - transported spinor '' can not be introduced without violation of the lorentz invariance . by the way , in this context </S>",
+    "<S> it is interesting that for last years the possibility of the lorentz invariance violation is discussed in the literature from different points of view .    in any case </S>",
+    "<S> ( with violation of the lorentz invariance or not ) , it is necessary to propose a more exact equation for fermions in gravitational field than the usual general - relativistic dirac equation ( probably , this equation must be nonlinear in the @xmath18- function [ 7 ] ) .    the second point of importance connected with the mathisson - papapetrou equations is the properties of their solutions which describe highly relativistic motions of a spinning particle in the schwarzschild or kerr backgrounds . </S>",
+    "<S> namely , if the velocity of a particle relative to the schwarzschild or kerr mass corresponds to the relativistic lorentz @xmath19  factor of order @xmath20 , where @xmath21 is determined by ( 6 ) , the trajectory of this particle can significantly differ from the corresponding trajectory of a spinless particle , i.e , from the geodesic line [ 3 , 4 ] ( in these papers same cases are calculated when @xmath14 is not much grater than the horizon radius ) . </S>",
+    "<S> that is , the mathisson - papapetrou equations predict an interesting phenomenon : for highly relativistic spinning particles gravity becomes antigravity , at some correlation of signs of the spin and the particle s orbital velocity ( for another correlation of these signs the spin - gravity interaction acts as an strong attractive force ) .    </S>",
+    "<S> the necessary value of the lorentz factor is less for the particles with higher ratio spin / mass , if @xmath14 in ( 6 ) is fixed . </S>",
+    "<S> for example , this value is less for neutrino than for electron or proton ( some numerical estimates are presented in [ 3 , 8 , 9 ] ) . by the way , for neutrino near the earth surface the value @xmath20 is of order @xmath22 . </S>",
+    "<S> that is , the lorentz factor for neutrinos in the opera experiments is much higher . </S>"
+  ]
+}

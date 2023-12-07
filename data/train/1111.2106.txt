@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "using multi - band light curve of the rxte - asm , we had reported a significant change in the x - ray spectrum of cen x-3 in the period december 2000 to april 2004 .",
+    "this was interpreted as a change in the accretion mode in this period ( paul , raichur & mukherjee , 2005 ) .",
+    "recently , mller et al . ( 2011 ) reported non detection of this feature in the rxte - asm light curve of the same time span and also in some additional data from rxte - asm , maxi , integral and swift .",
+    "we fully agree with the findings of mller et al .",
+    "( 2011 )    here we report that the earlier finding was not due to any error in analysis of the light curves used in paul , raichur & mukherjee ( 2005 ) but due to a discrepancy in the asm light curve for the same period that was made available in 2005 and what is available now .",
+    "we would like to note here that the files used by us for the report of 2005 were all for observations from 4th or 5th january 1996 to 7th november 2004 and all the fits files were created on 9th november 2004 .    below",
+    "we show a plot of the light curves in the three energy bands that was available in 2005 ( with no further analysis done on the original lightcurves ) and the light curves now available from the nasa s high energy astrophysics science archive center ( heasarc ) .",
+    "all these light curves are the dwell - by - dwell data as used in the mller et al ( 2011 ) research note .",
+    "the time bin used to plot the light curves is 2.08702 d. the red points are from the older light curves and the black points are from the current light curves .",
+    "only data points upto tjd",
+    "13600 are ploted for clarity . while small differences are seen between the two sets for the 1.5 - 3 kev and 3 - 5 kev bands , the two light curves in the 5 - 12 kev band are significantly different in the second half of the plot .",
+    "we have also verified that this difference is present only for the light curves of cen x-3 and not in a significant way for the other sources namely vela x-1 , her x-1 and smc x-1 for which we have the older version of light curves to compare .",
+    "the older version of the light curves for cen x-3 , her x-1 , vela x-1 and smc x-1 are available with the authors and can be shared on request .",
+    "the multiband rxte - asm light curves of cen x-3 that were available at heasarc in 2005 are different from the light curves that are now available at the same site .",
+    "we would also like to note here that before publishing the results in 2005 , we had discussed with the rxte - asm team members about any possible artifacts .",
+    "the difference in the light curves was noticed in 2010 and the same was communicated to the rxte - asm team . as",
+    "yet , no clarification is available .",
+    "this information about possible artifacts will be useful for users of asm light curves ."
+  ],
+  "abstract_text": [
+    "<S> in paul , raichur and mukherjee ( 2005 ) we had reported a spectral mode change in the x - ray binary pulsar cen x-3 using the then available asm light curves of cen x-3 . </S>",
+    "<S> being mindful of the fact that instrument calibration or other issues like gain changes , software issues etc . might give rise to some of the artifacts , we had used the asm light curves of three other x - ray binary pulsars namely her x-1 , smc x-1 and vela x-1 for comparison for the same observation times . in light of the recent </S>",
+    "<S> finding of mller et al . </S>",
+    "<S> ( 2011 ) ; which reports the non - detection of such features in the current asm light curves available on the heasarc website and with other instruments like maxi , swift and integral , we would like to point out the inconsistency between the asm ligthcurves available in 2005 and now . </S>",
+    "<S> this information will be very useful for other users of asm light curves . </S>"
+  ]
+}

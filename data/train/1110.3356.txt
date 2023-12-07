@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "this work was sponsored by the us army research office under the multi - university research initiative ( muri ) under contract number w911nf-08 - 1 - 0124 . the support and encouragement provided by dr .",
+    "ralph anthenien is greatly acknowledged .",
+    "the authors are also thankful to dr .",
+    "stephane popinet for allowing them to use his vof and amr algorithms .",
+    "[ 1 ] s. popinet . an accurate adaptive solver for surface - tension - driven interfacial flows",
+    ". journal of computational physics , vol . 228 , no . 16 , 2009 , pp .",
+    "5838 - 5866 .",
+    "d. ma , x. chen , p. khare , and v. yang .",
+    "atomization and breakup characteristics of liquid sheets formed by two impinging jets .",
+    "49th aiaa aerospace sciences meeting , january 2011 , orlando , florida .",
+    "x. chen , d. ma , p. khare , and v. yang .",
+    "detailed physics of binary droplet collision .",
+    "7th us national technical meeting of the combustion institute , march 2011 , atlanta , georgia .",
+    "two videos are contained in this submission for the american physical society - 64th dfd meeting , gallery of fluid motion .    1 .",
+    "impingingjetsdropletdynamics_hr.mpg - high resolution video approprite for dfd 2011 gallery of fluid motion .",
+    "2 .   impingingjetsdropletdynamics_lr.mpg - low resolution video appropriate for web viewing ."
+  ],
+  "abstract_text": [
+    "<S> in this fluid dynamics video , results from high fidelity numerical simulations are presented , which have been carried out to study the flow and droplet dynamics of liquid sheets formed by two impinging jets . </S>",
+    "<S> a three - dimensional volume - of - fluid ( vof ) method with adaptive mesh refinement ( amr ) based on octree meshes [ 1 ] is used to simulate the various flow patterns associated with impinging jets , secondary breakup and binary collision of droplets . </S>",
+    "<S> in addition to amr , a thickness based refinement algorithm is also developed and implemented to efficiently resolve the various scales of surface tension driven interfacial flows .    </S>",
+    "<S> oblique collision of two cylindrical , laminar jets causes the liquid to flow outward from the impact point , creating a thin sheet which lies in a plane perpendicular to the plane containing the two jets . </S>",
+    "<S> this sheet eventually disintegrates into ligaments and/or droplets . </S>",
+    "<S> breakup of the liquid sheet is dominated by viscosity and surface tension effects ( reynolds and weber number ) . in this video , </S>",
+    "<S> impinging water jets are investigated , and different flow patterns , such as closed rim , open rim , rimless and ligament , are identified and studied . depending on the operating conditions , </S>",
+    "<S> droplets are shed circumferentially from the periphery of the sheet in some cases , whereas in others , ligaments are fragmented from the leading edge of the sheet , which further breaks down into droplets following the rayleigh mechanism . </S>",
+    "<S> the periodic waves from the point of impingement are clearly seen on the surface of the sheet . </S>",
+    "<S> the impact waves cause the early breakdown of the sheet downstream of the impingement point , whereas waves amplified by aerodynamic stresses control the breakdown of the rest of the sheet and the ligaments .    detailed understanding of droplet dynamics , which includes equal and unequal sized droplet collision , bouncing , coalescence , separation , mixing , secondary breakup and mass transfer , </S>",
+    "<S> is also obtained systematically at a wide range of operating conditions . </S>",
+    "<S> underlying processes governing droplet dynamics are investigated by analyzing the overall energy budget . </S>",
+    "<S> in addition , an advanced visualization technique using the ray - tracing methodology is implemented to gain direct insight into the detailed physics of droplet interaction . </S>",
+    "<S> theories are also established to predict the droplet behavior after collision , which shows good agreement with existing literature . </S>",
+    "<S> a detailed account of the above mentioned phenomena can be found in [ 2 ] and [ 3 ] . </S>"
+  ]
+}

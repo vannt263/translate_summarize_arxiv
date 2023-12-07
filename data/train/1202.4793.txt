@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "since the discovery of magnetic field expulsion from superconductors , commonly known as meissner effect , by meissner and ochsenfeld in 1933 @xcite , the solutions of maxwell equations for a superconductor in the presence of external fields have been analyzed in numerous occasions for different geometries @xcite . while most of these studies are focused on static external magnetic fields , the interaction between superconductors and time - dependent electromagnetic fields remains unexplored in depth in the scientific literature .",
+    "in this paper we try to change this situation by solving the problem of a standing wave scattered by an infinite cylindrical superconductor .",
+    "the problem is addressed by starting from the time - dependent maxwell equation for the source - free case ( wave equation ) outside the superconducting region . for a standing wave ,",
+    "the space and time components of the wave equation solution are independent , reducing it to the helmholtz and simple harmonic motion equations .",
+    "finally , a linear combination of cylindrical bessel functions ( general solutions of the helmholtz equation ) is presented as the final solution of the problem respecting the boundary conditions at infinity and at the superconductor surface .",
+    "the main difficulties in problems like this may arise from the symmetries of the system and boundary condition problem .",
+    "unlike the cylindrical case where the cylindrical symmetry simplifies the problem , in other geometries such as the spherical , the problem becomes non - trivial .    to the best of our knowledge , the only extensive study related to the subject in the linear domain was performed by nye in 2003 @xcite where a detailed analysis of the scattering of plane electromagnetic waves by perfectly conducting regions is presented .",
+    "the results are consistent with ours",
+    ". other works addressing the interaction between electromagnetic waves and nonlinear superconducting materials have been presented mainly within the microwave community .",
+    "a complete study with numerical computations can be found in @xcite .",
+    "consider an infinite cylindrical superconductor with radius @xmath1 in the presence of a plane standing electromagnetic wave and that the cylinder axis coincides with the z - axis ( see figure [ cylinder ] ) .",
+    "the maxwell equation : @xmath2 in the source - free case and assuming the relations @xmath3 and @xmath4 , becomes : @xmath5 which can be simplified by taking the lorentz gauge ( @xmath6 ) : @xmath7 the wave equation .",
+    "if the electromagnetic wave propagates from infinity in the x - axis direction with the electric field pointing in the direction of the cylinder axis , the z - axis component of the vector potential @xmath8 is the only relevant component needed to compute the electromagnetic field : @xmath9 as the superconducting cylinder is in the presence of a plane standing electromagnetic wave , the component @xmath10 in cylindrical coordinates ( since the cylinder is infinite there are no dependence on the z - coordinate ) can be separated into : @xmath11 , a space - like function @xmath12 and a time - like function @xmath13 .",
+    "this separation of variables gives rise to two equations : @xmath14 and @xmath15 the helmholtz equation [ helmholtz ] and the simple harmonic motion equation [ shm ] .",
+    "therefore , the most general solution for @xmath16 is : @xmath17 \\nonumber \\\\                            & \\times                       & [ c_mj_m(kr)+d_my_m(kr ) ] \\nonumber \\\\                            & \\times                       & [ e\\cos(\\omega t ) + f\\sin(\\omega t ) ] .",
+    "\\label{general}\\end{aligned}\\ ] ] @xmath18 and @xmath19 are the cylindrical bessel functions and @xmath20 , where @xmath21 is the wavelength . the next step is to find the particular solution that satisfies the boundary conditions of a plane standing wave coming from infinity towards the superconducting cylinder .",
+    "the superconducting cylinder is considered to be of type i with zero penetration length , a reasonable approximation if the cylinder radius is much larger than the penetration length .",
+    "the magnetic field is expelled from the superconducting region by the surface current @xmath22 defined in the coupling equation between the superconductor and the magnetic field : @xmath23 where @xmath24 is the unitary vector orthogonal to the superconductor surface and @xmath25 is the magnetic field in the outer region of the superconductor surface . as the magnetic field and",
+    "currents are zero inside the superconducting cylinder , the component @xmath10 must be constant inside ( set to zero for convenience ) . as there can not be any angular dependencies on the surface of the cylinder , then @xmath26 and : @xmath17 \\nonumber \\\\                            & \\times                       & [ c_mj_m(kr)-c_m\\frac{j_m(kr)}{y_m(kr)}y_m(kr ) ] \\nonumber \\\\                            & \\times                       & [ e\\cos(\\omega t)+f\\sin(\\omega t ) ] .",
+    "\\label{generalr}\\end{aligned}\\ ] ]    at infinity ( @xmath27 ) , the solution must take the form of the plane standing wave assumed to be : @xmath28 where @xmath29 is the amplitude of the wave and @xmath30 . according to jacobi - anger expansion @xcite ,    @xmath31    and",
+    "therefore the final solution reads for @xmath16 : @xmath32 ,   \\label{final}\\end{aligned}\\ ] ] and @xmath33 for @xmath34 .",
+    "such a mathematical result is hard to interpret and visualize but possible to represent with enough accuracy through numerical computations up to @xmath35 .",
+    "the spatial representation and analysis of @xmath10 for different wavelengths are presented in the following section .",
+    "the numerical computations that simulate the scattering were performed in a 2d array representing the cross - section of the superconducting cylinder ( centered at the origin ) in the x - y plane ranging from minus 40 to 40 in steps of 0.1 radius units for both @xmath36 and @xmath37 directions at the instant @xmath38 .",
+    "the simulation of the plane standing wave scattering by the superconducting cylinder is shown in figure [ planewave ] in arbitrary units for @xmath39 ( top ) and @xmath40 ( bottom ) .",
+    "for @xmath39 the scattering presents a diffraction pattern of nodes and anti - nodes around the superconducting cylinder while converging to the plane wave at large distances .",
+    "the scattering effects are perhaps more visible for @xmath40 , the nodes and anti - nodes around the cylinder are clearly amplified and separated by roughly the wavelength .",
+    "the nodes and anti - nodes are maximal near the superconductor and decrease gradually with distance .",
+    "( top ) and @xmath40 ( bottom).,title=\"fig : \" ] +   ( top ) and @xmath40 ( bottom).,title=\"fig : \" ]",
+    "according to maxwell equations , the interaction between a plane wave and a superconductor gives rise to a diffraction pattern .",
+    "we would like to challenge experimental groups to test the result obtained in this paper even though we are aware of some technical limitations that may constrain the observations .",
+    "for example , a difficulty may come from generating a large enough controlled plane standing wave with a wavelength of the same order of magnitude as the superconductor radius to enhance the scattering .",
+    "also , it is important to stress that the wave period must be much larger than the superconductor relaxation time so that it can respond instantly to field variations ."
+  ],
+  "abstract_text": [
+    "<S> the interaction between radiation and superconductors is explored in this paper . in particular , the calculation of a plane standing wave scattered by an infinite cylindrical superconductor is performed by solving the helmholtz equation in cylindrical coordinates . </S>",
+    "<S> numerical results computed up to @xmath0 of bessel functions are presented for different wavelengths showing the appearance of a diffraction pattern .    </S>",
+    "<S> the following article is published in europhysics letters : http://iopscience.iop.org/0295 - 5075/97/4/44006/. </S>"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "crd acknowledges a scholarship from the portuguese fct ( ref .",
+    "sfrh / bpd/41091/2007 ) .",
+    "the authors are partially supported by fct through cern / fp/116328/2010 and cftp - fct unit 777 which are partially funded through pocti ( feder ) .",
+    "j.  pulido and c.  r.  das , phys .",
+    "d * 83 * , 053009 ( 2011 ) .",
+    "j.  p.  cravens _ et al .",
+    "_ ( super - kamiokande collab . ) , phys .  rev .",
+    "d * 78 * , 032002 ( 2008 ) .",
+    "b.  aharmim _ et al . _",
+    "( sno collaboration ) , phys .",
+    "c * 81 * , 055504 ( 2010 ) ."
+  ],
+  "abstract_text": [
+    "<S> neutrino non - standard interactions ( nsi ) , previously introduced for the sun , are studied in the supernova context . for normal hierarchy the probability for electron neutrinos and antineutrinos at low energy ( @xmath0 ) is substantially increased with respect to the non - nsi case and joins its value for inverse hierarchy which is constant with energy . also for inverse hierarchy </S>",
+    "<S> the nsi and non - nsi probabilities are the same for each neutrino and antineutrino species . </S>",
+    "<S> these are the possible visible effects of nsi in the supernova . </S>",
+    "<S> the decay into antineutrinos , which has been previously shown to be implied by dense matter , can not be seen experimentally , owing to the smallness of the antineutrino production probability .    </S>",
+    "<S> = 0.1 in = -0.3 in    * possible trace of neutrino nonstandard interactions in the supernova *   +    c. r. das , joo pulido +    it was shown some time ago @xcite that neutrino nonstandard interactions ( nsi ) provide a solution to the discrepancy between the observed flatness of the super - kamiokande electron spectrum @xcite and the large mixing angle ( lma ) prediction while keeping all others @xcite accurate and in particular improving the chlorine one @xcite . </S>",
+    "<S> as neutrinos propagate through matter they interact with electrons and quarks and their standard interaction potential is well known @xmath1 with @xmath2 ( cc contribution from electrons ) , @xmath3 ( contribution from neutrons , nc only ) . </S>",
+    "<S> our approach to nsi assumes extra contributions to the vertices @xmath4 and @xmath5 . denoting by @xmath6 the nsi factor that multiplies each diagram associated to neutrino propagation in matter we have @xmath7 \\label{vnsi}\\end{aligned}\\ ] ] where @xmath8 are neutrino flavour indeces . </S>",
+    "<S> the full matter potential is therefore @xmath9 and the matter hamiltonian in the flavour basis is @xmath10 in ref.@xcite it was found that only imaginary diagonal couplings @xmath11 provide the change in the lma survival probability in order to make it flat . to this </S>",
+    "<S> end the necessary and sufficient order of magnitude is found to be @xmath12 this indicates that the eigenstates described by the hamiltonian ( [ hnsi ] ) are unstable , this instability obviously being induced by dense matter and interpreted as associated to the neutrino decay into an antineutrino and a majoron@xcite . in mass eigenstates </S>",
+    "<S> @xmath13 the processes involved in the propagation of neutrinos in the sun are shown in fig.[fig1 ] .    </S>",
+    "<S> [ htb ] .__,title=\"fig:\",height=302 ]    the imaginary parts of the complex hamiltonian eigenvalues give the decay rates of the neutrino mass eigenstates which are quite small : the average lifetime in the initial @xmath14 solar radius fraction is approximately @xmath15 and rises very rapidly afterwards ( see fig.[fig2 ] ) .    the decay rate for the process @xmath16 satisfies @xmath17 are the initial neutrino and final antineutrino energies and @xmath18 are the interaction potentials in the mass basis . </S>",
+    "<S> however for the neutrino - majoron couplings only upper bounds exist @xcite @xmath19 the appearance probabilities for @xmath20 with and without nsi are shown in fig.[fig3 ] for normal ( panel ( a ) ) and inverse hierarchy ( panel ( b ) ) . for @xmath21 and @xmath22 which have charged currents and are therefore easier to detect </S>",
+    "<S> , these probabilities are rather small in the absence of nsi and in normal hierarchy ( fig.[fig3]a ) . </S>",
+    "<S> their actual detection will crucially depend on the detector size and supernova distance . </S>",
+    "<S> with nsi , they may become clearer through @xmath23 , @xmath24 or an increased @xmath25 or @xmath26 scattering event rate , however at low energy ( @xmath27 ) , which is still an experimental challenge . for inverse hierarchy , as also pointed above </S>",
+    "<S> , the situation is much different : the @xmath21 , @xmath22 signal appears louder and clearer ( fig.[fig3]b ) .    </S>",
+    "<S> finally the possibility of detection and measurement of the @xmath28 , @xmath29 , @xmath30 , @xmath31 energy spectra , which can only be traced via neutral currents , may in future be made through @xmath32 scattering in scintillator detectors ( e.g. borexino , sno+ ) as proposed in @xcite and recently revived in @xcite . for the nsi scenario expound in the present paper this technique will be particularly useful , since it appears to be possible to clearly distinguish between normal and inverse hierarchies ( see fig.[fig3 ] ) . </S>",
+    "<S> in fact it suffices to note that for normal hierarchy the above mentioned neutrinos arrive copiously on earth in comparison with the more rare @xmath21@xmath33s and @xmath22@xmath33s whereas for inverse hierarchy all species arrive in comparable numbers .     with and without nsi ( ( a ) normal hierarchy , ( b ) inverse hierarchy ) . </S>",
+    "<S> for normal hierarchy and energy below 0.9 mev the nsi probability merges with its non - nsi value.__,height=680 ] </S>"
+  ]
+}

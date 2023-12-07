@@ -1,0 +1,16 @@
+{
+  "article_text": [
+    "we thank n. menon and c. d. santangelo for support and discussions , and acknowledge funding from national science foundation grants dmr 0907245 and dmr 0846582 ."
+  ],
+  "abstract_text": [
+    "<S> we briefly discuss an arch - like structure that forms and grows during the rapid straightening of a chain lying on a table . </S>",
+    "<S> this short note accompanies a fluid dynamics video submission ( v029 ) to the aps dfd gallery of fluid motion 2011 .    </S>",
+    "<S> the accompanying video shows fifty feet of chain ( silver - plated base metal , @xmath02 mm links , ) arranged on about two feet of table top ; off camera , a power drill pulls one end at a velocity @xmath1 8 m / s .    the relevant forces are those due to the chain s inertia , and a line tension whose role is identical to that of pressure in a one - dimensional incompressible fluid . </S>",
+    "<S> gradients in this tension amplify and advect small of out - of - plane disturbances , presumably with some upward rectification by the table . </S>",
+    "<S> the advection velocity drops to zero as the chain approaches its terminal velocity @xmath2 . </S>",
+    "<S> there , the tension is uniform , structures are nearly `` frozen '' in the laboratory frame , and the vertical slack accumulates behind and within a slowly growing arch .    by the end of the video , this arch has grown to about ten centimeters high . </S>",
+    "<S> however , an analysis that takes gravity into account suggests that such a structure may remain stable when grown to a height on the order of a meter , the natural length scale of the system with gravity included ( @xmath3 ) . </S>",
+    "<S> structures of such a size are difficult to access experimentally , as they do not evolve within the corresponding natural time scale of about one second ( @xmath4 ) . </S>",
+    "<S> this is because the system is oblivious to gravity during the observation period of the experiment ; in a region with local curvature @xmath5 on the order of a few tens of inverse meters , an element of chain sees a large ratio of inertial to gravitational accelerations @xmath6 . </S>"
+  ]
+}

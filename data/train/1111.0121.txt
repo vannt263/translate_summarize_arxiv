@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "veritas @xcite@xcite , located at the fred lawrence whipple observatory ( flwo ) in southern arizona , usa , is an array of four 12 meter diameter imaging atmospheric cherenkov telescopes ( iact ) .",
+    "veritas can detect gamma - rays with energies from 100 gev to 30 tev with a flux of one percent of the crab nebula in approximately 25 hours .",
+    "veritas has an energy resolution of 15 - 25% , an angular resolution of 0.1 degrees ( 68% containment radius ) , and a pointing accuracy within 50 arc - seconds .",
+    "veritas observations are normally taken in wobble mode@xcite . during an observation using wobble mode , the center of the camera",
+    "is held at a fixed position in right ascension and declination offset from the intended targeted source [ see figure [ wobble_fig ] ] .         in orbit mode",
+    "the center of the camera circumscribes the source in right ascension and declination with an angular velocity and radial offset dependent on the type of source ( point - like , extended , or a grb ) .",
+    "typical values for a point - like source are one revolution per 20 to 80 minutes and a 0.5 degree radial offset [ see figure [ orbit_fig ] ]",
+    ".         using orbit mode , prior to rotation corrections to the field of view , the source appears as a ring [ see figure [ crab_raw ] ] .         for each event",
+    "there is an elevation and azimuth angle recorded . with this information and the elevation and azimuth of the telescopes ,",
+    "the reconstructed direction can be found [ see figure [ crab_raw ] ] .",
+    "figure [ sine ]         shows the pointed position ( in right ascension and declination as a function of time ) of each telescope followed a smooth sine and cosine curve . during testing",
+    "it has been shown that the angular velocity and radial offset are fairly constant [ see figure [ angular_vel ] ] .",
+    "the orbit mode technique was developed to help eliminate dead - time during transitions between wobble directions for data runs sets , to slightly increase the area of the field of view by maintaining azimuthal symmetry of the exposure around the source , and to produce an uniform background estimate . in order to minimize the dead - time between runs",
+    ", we had to test whether the veritas data network could transfer file sizes of twenty to thirty gigabytes .",
+    "this was successfully done with a run during the daytime with the charge injection system of the telescopes , and later on single eighty minute data run of mrk 421 [ see figure [ mrk421 ] ] .        the typical time between data runs for slewing of the telescopes can last one to two minutes . if implemented for regular data operations , orbit mode would add additional thirty to sixty minutes of observation time per night .",
+    "orbit mode has been developed to test whether the background estimation using the reflected regions method@xcite or ring background method@xcite would be more uniform and therefore increasing the sensitivity of the analysis .",
+    "preliminary results of the orbit mode analysis on the crab nebula produced @xmath0 gamma - rays a minute .",
+    "a wobble mode analysis was also performed on the crab nebula with data taken the same night at a similar zenith angle produced @xmath1 gamma - rays per minute .",
+    "stars in the field of view can cause higher trigger rates in individual pixels , and therefore cause a higher background level in small regions of the sky . with the stars more rapidly rotating in the field of view during orbit mode observations than during wobble mode observations",
+    ", this may eliminate some of the background noise in the small regions of the sky effected by the stars .",
+    "grb alerts have a large error associated with the position . a grb alert from the fermi@xcite lat or fermi gbm@xcite",
+    "has an error of approximately @xmath2 or @xmath3 ( radius , one sigma ) respectively .",
+    "orbit mode allows a rapid scan of a larger area ( with a larger radial offset ) of the sky than wobble mode . for a fermi lat alert ,",
+    "the entire one sigma containment radius can be observed in orbit mode with veritas in one orbit . for a fermi gbm alert , approximately twenty - five percent of the one sigma containment radius can be observed with veritas in one orbit using orbit mode .",
+    "orbit mode observations have been successfully tested on the veritas telescopes .",
+    "the telescopes have performed exceptionally well with the orbit observation mode .",
+    "preliminary results of the crab nebula have already qualitatively demonstrated that orbit mode observations have a similar or better gamma - ray detection rate to wobble mode observations for the crab nebula , a point source .",
+    "further observations and simulations are underway to quantify the comparison between the two observation modes , as well as determine the sensitivity of orbit mode for extended , diffuse gamma - ray sources .",
+    "this research is supported by grants from the us department of energy , the us national science foundation , and the smithsonian institution , by nserc in canada , by science foundation ireland , and by stfc in the uk .",
+    "we acknowledge the excellent work of the technical support staff at the flwo and the collaborating institutions in the construction and operation of the instrument ."
+  ],
+  "abstract_text": [
+    "<S> the canonical observation mode for iact gamma - ray observations employs four discrete pointings in the cardinal directions ( the `` wobble '' mode ) . for the veritas observatory , </S>",
+    "<S> the target source is offset by 0.5 - 0.7 degrees from the camera center , and the observation lasts 20 minutes . during january / february of 2011 , </S>",
+    "<S> the veritas observatory tested a new `` orbit '' observation mode , where the target source is continuously rotated around the camera center at a fixed radial offset and constant angular velocity . </S>",
+    "<S> this mode of observation may help better estimate the cosmic ray background across the field of view , and will also reduce detector dead - time between the discrete 20 minute runs . in winter 2011 , </S>",
+    "<S> orbit mode observations where taken on the crab nebula and mrk 421 . </S>",
+    "<S> in this paper we present the analysis of these observations , and describe the potential applications of orbit mode observations for diffuse ( extended ) sources as well as grbs . </S>"
+  ]
+}

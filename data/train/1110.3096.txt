@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "the video shows isocontours of the turbulent kinetic energy ( left ) and the concentration of inertial particles ( right ) in a shearless turbulent mixing layer with a step change in turbulent kinetic energy .",
+    "the data is from a direct numerical simulation in a periodic cube using @xmath0 grid points .",
+    "one quarter of the cube is initialized with high turbulence levels , and the remainder of the cube is initialized with low turbulence levels .",
+    "the ratio of the turbulent kinetic energy between the two regions is approximately 30 .",
+    "the initial taylor microscale reynolds number in the high turbulence region is 111 .",
+    "approximately 8 million inertial particles are placed uniformly in the central , high - turbulence region of the cube , with the same stokes number distribution as in the experiments of [ 1 ] .",
+    "the flow evolves for a total of 7000 time steps , or approximately 2.5 large - eddy turnover times , with frames recorded every 10 time steps .",
+    "the particle concentration isocontours are calculated by binning the particles into @xmath1 boxes and computing the density of particles in each box .",
+    "the concentration levels are scaled by the particle density in the seeded region , and the colorbar represents concentrations ranging linearly from 0 ( blue ) to 1 ( red ) .",
+    "the turbulent kinetic energy is scaled by the average turbulent kinetic energy in the high energy region at initialization , and the colorbar ranges linearly from 0 ( blue ) to 1 ( red ) .",
+    "as the flow evolves , large , energetic eddies mix particles from the seeded region to the non - seeded regions . as a result , the particles in the non - seeded regions are strongly clustered near the large eddies .",
+    "the low turbulence in the non - seeded regions is not very effective at mixing these particle clusters , and we see that this clustering persists throughout much of the video . near the initial interface between high and low turbulence , pockets of high turbulence",
+    "penetrate what was originally a low turbulence region .",
+    "this mixing region is therefore marked by high levels of intermittency .",
+    "this mixing process is analagous to that which occurs in cumulus clouds , where highly turbulent clouds laden with water droplets ( i.e. , inertial particles ) mix with the droplet - free ambient environment which is marked by much lower turbulence levels . a detailed examination of the physical processes involved is given in [ 2 ] .",
+    "this work was supported by the national science foundation through cbet grants 0756510 and 0967349 and through a graduate research fellowship to peter ireland . the simulations and visualizations",
+    "were performed on teragrid resources provided by the texas advanced computing center ( tacc ranger and tacc spur ) under grants tg - cts100052 and tg - cts100062 .",
+    "[ 1 ] gerashchenko , s. , good , g. & warhaft , z. 2011 entrainment and mixing of water droplets across a shearless turbulent interface with and without gravitational effects .",
+    "_ j. fluid mech . _ * 668 * , 293303 .",
+    "+   [ 2 ] ireland , p. j. and collins , l. r. 2011 direct numerical simulation of inertial particle entrainment in a shearless mixing layer .",
+    "_ j. fluid mech .",
+    "_ , in preparation ."
+  ],
+  "abstract_text": [
+    "<S> this article accompanies the submission of a fluid dynamics video ( entry v032 ) of inertial particle entrainment in a shearless mixing layer for the gallery of fluid motion of the 64th annual meeting of the american physical society , division of fluid dynamics . </S>"
+  ]
+}

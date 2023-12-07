@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "inferring the nature of dust and dust heating requires knowledge about the dust emissivity , and its power law index .",
+    "there is some evidence supporting variation of dust emissivity with environmental conditions ( e.g. lisenfeld et al .",
+    "2000 , paradis et al .",
+    "the dust spectral index could change depending on grain properties , e.g. geometry , size distribution , and chemical composition .",
+    "dust grains might be affected by different physical processes like shattering , sputtering , grain - grain collision , condensation and coagulation .",
+    "hence , depending on recent star formation activities , dust / gas content and metallicity changes across galaxies , variations in the dust spectral index in inner / outer disks or arm / inter - arm regions may occur .",
+    "herschel observations of the nearest scd galaxy m33 , ( herm33es , kramer et al .",
+    "2010 , boquien et al .",
+    "2010 ) ideally enable us to derive distribution of @xmath0 across m33 .",
+    "we use the herschel pacs & spire data at 160 , 250 , 350 , and 500@xmath2 m together with the spitzer mips data at 70@xmath2 m to investigate the physical properties of a standard dust model ( big grains+vsg+pah , krgel 2003 and references therein ) .",
+    "these wavelengths spread over a range where the dust emission mainly emerges from the big grains , which are believed to be in thermal equilibrium with the interstellar radiation field .",
+    "we use the newton - raphson iteration method to derive @xmath3 , @xmath0 and column density , pixel by pixel , in two different approaches : + 1 ) we assume that dust emitting at the spire bands is mainly heated by the interstellar radiation field ( isrf ) and obeys single - component gray body radiation . in this case",
+    "we use the data at longer wavelengths ( 250 , 350 and 500@xmath2 m ) .",
+    "+ 2 ) we consider another dust component heated by young massive stars with higher temperature ( warm dust ) besides the dust heated by the isrf ( cold dust ) , hence , dust emits as a two - component gray body . here",
+    ", we use the data from 70@xmath2 m to 500@xmath2 m wavelengths .",
+    "+ using a monte - carlo simulation , we further investigate the reliability of each approach and estimate the errors and uncertainties .",
+    "we derive the following results : +   + as shown in fig .  1 , in the central disk ( @xmath4 kpc ) , the dust spectral index is higher in the central disk ( @xmath51.4 ) than in the outer disk .",
+    "similarly , both t and column density are higher in the central disk .",
+    "the flocculent spiral structure of m33 is evident in the column density map .",
+    "the average t and @xmath0 for the entire galaxy are 22@xmath69 k and 1.3@xmath60.5 , respectively .",
+    "+ the cold and warm dust components are separated assuming a variable @xmath0 for the dominant colder component .",
+    "although we have to use a fixed value of @xmath7 for the warm dust , we repeat the analysis for different possibilities of @xmath7=1 , 1.5 , and 2 .",
+    "interestingly , we find that @xmath0 is again higher in the central disk and even shows the arm / inter - arm contrast , irrespective of @xmath7 assumed . also in all three cases , the cold dust follows spiral arms and dust lanes and is denser where the temperature is lower .",
+    "the warm dust ( both temperature and column density ) follows the distribution of h@xmath1 and star forming regions . for the entire galaxy ,",
+    "we derive t@xmath8=16 @xmath63k , t@xmath9=40@xmath613k , and @xmath0=1.7@xmath60.4 assuming @xmath7=2 .",
+    "our simulations show that the two - component approach , generally , constrains the parameters better than the single - component approach , particularly the temperature .",
+    "the m33 s outer / inner disk and even the spiral arms are visible in the @xmath0-maps . having similar distribution as of the molecular gas and radiation field traced by h@xmath1 , @xmath0 seems to have a meaningful change across the galaxy .",
+    "figure 2 shows correlations between @xmath0 and h@xmath1 , co(2 - 1 ) and hi integrated intensities ( gratier et al . 2010 ) as tracers of the ionized , molecular , and atomic phases of the ism , respectively . in both approaches , @xmath0 is found to be better correlated with both h@xmath1 and co than with hi .",
+    "this could indicate that @xmath0 is not the same in star forming and non - starforming regions in a galaxy .",
+    "star formation could in principle influence the grain composition ( via a change in metallicity ) and size distribution ( via shattering of dust grains due to strong shocks ) , which could modify the dust emissivity index i.e. @xmath0 ."
+  ],
+  "abstract_text": [
+    "<S> using the herschel pacs and spire fir / submm data , we investigate variations in the dust spectral index @xmath0 in the nearby spiral galaxy m33 at a linear resolution of 160pc . </S>",
+    "<S> we use an iteration method in two different approaches , single and two - component modified black body models . in both approaches </S>",
+    "<S> , @xmath0 is higher in the central disk than in the outer disk similar to the dust temperature . </S>",
+    "<S> there is a positive correlation between @xmath0 and h@xmath1 as well as with the molecular gas traced by co(2 - 1 ) . </S>",
+    "<S> a monte - carlo simulation shows that the physical parameters are better constrained when using the two - component model . </S>"
+  ]
+}

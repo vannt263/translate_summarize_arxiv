@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "the nanoaquarium is a custom - made microfabricated nanofluidic device that enables transmission electron microscope ( tem ) imaging of dynamical processes taking place in liquid media @xcite . the nanoaquarium ( figure  [ fig : nanoaquarium ] ) consists of a shallow conduit ( @xmath0 100 nm ) sandwiched between two thin silicon nitride membranes ( each 50 nm thick ) .",
+    "the liquid in the device is hermetically sealed and isolated from the high vacuum environment of the microscope chamber to prevent evaporation .",
+    "the conduit height and membrane thickness are among the thinnest of any liquid cell tem device , enabling the nanoaquarium to yield high resolution , high contrast images with minimal electron scattering by the suspending medium .",
+    "electrodes are integrated into the imaging chamber for _ in situ _ actuation and sensing .",
+    "the nanoaquarium was filled with an aqueous suspension of gold nanorods ( 20 nm in diameter , 40 nm in length ) stabilized with surfactant cetrimonium bromide ( ctab ) , a gift from xingchen ye and professor christopher b. murray ( chemistry , penn ) .",
+    "imaging was performed in a fei quanta 600 feg mark ii with a stem ( scanning tem ) detector , operated at 30 kv .",
+    "electrical potential of @xmath0 15 v was applied across the electrodes to generate a bubble that displaced liquid ( and nanorods ) to the perimeter of the observations chamber .",
+    "we focused our observations at the interface between the bubble and the ` bulk ' liquid around the perimeter of the imaging window , which we refer to as the contact line ( figure  [ fig : bubble ] ) .",
+    "the term contact line is used here to denote a narrow region in which the thickness of the liquid film increases rapidly @xcite . when the electron beam of the microscope was zoomed in on the interface , movement of the contact line resulted .",
+    "sometimes the contact line receded , sometimes it advanced , and sometimes it oscillated back and forth .",
+    "fluid dynamics videos were recorded of the interactions between nanorods and the moving contact line .    when the contact line receded ( see the _ in situ _ stem video ) , nanorods were propelled from the ` bulk ' liquid into the thin liquid film in the gas / vapor region ( opposite from the direction of contact line movement ) .",
+    "interestingly , initially stationary particles did not move significantly until the contact line had passed by the particles . in most cases it was not until the contact line receded past the particle by 10s of nm that the particle shot forward ( figure  [ fig : particles ] ) .",
+    "the _ in situ _ stem video shows the effect of an advancing contact line on nanorod alignment and aggregation .",
+    "surprisingly , the initially stationary nanorods are not engulfed by the advancing contact line but are instead pushed ahead .",
+    "the nanorods align themselves to form a line that is parallel to the moving interface .",
+    "the _ in situ _ stem video also shows nanorod motion and aggregation induced by an oscillating contact line that is moving back and forth .",
+    "the experimental observations are consistent with a mathematical model that determines the fluid velocity in the thin film by considering the surface tension force and disjoining pressure in the thin liquid film @xcite .    _",
+    "conclusion : _ a liquid cell that enables electron microscope imaging of processes in liquid media was designed , constructed , and tested .",
+    "the liquid cell was used , for the first time , to image the motion and aggregation of nanorods induced by moving contact lines .",
+    "j. m. grogan and h. h. bau , `` the nanoaquarium : a platform for in situ transmission electron microscopy in liquid media , '' _ journal of microelectromechanical systems _",
+    "885 - 894 , 2010 ."
+  ],
+  "abstract_text": [
+    "<S> real time fluid dynamics videos showing the motion and aggregation of nanorods induced by moving contact lines were obtained by liquid cell _ in situ _ scanning transmission electron microscopy . </S>"
+  ]
+}

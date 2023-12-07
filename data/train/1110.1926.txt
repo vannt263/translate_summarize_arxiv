@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "classical novae are a subgroup of cataclysmic variables that went through a thermonuclear runaway explosion on the white dwarf .",
+    "these white dwarfs are considered possible candidates for type ia supernovae .",
+    "especially recurrent novae are known to exhibit massive white dwarfs close to the chandrasekhar limit and at the same time have high accretion rates , both ingredients to make a future sn explosion likely .",
+    "classical novae with only one observed nova outburst are more frequent but their binary parameters like e.g. the white dwarf mass are less well studied . to do this",
+    ", one has to wait a few decades after the nova eruption until the characteristics of the underlying cv become dominant in the post - nova ( see e.g. the detailed studies of rrpic by ( * ? ? ?",
+    "* schmidtobreick et al .",
+    "2003a ) and @xcite ) .",
+    "generally , the long - term behaviour of pre- and postnovae is an open question ( ( * ? ? ?",
+    "* vogt 1990 ) ; ( * ? ? ? * duerbeck 1992 ) ) but important  for instance in context with the hibernation scenario ( ( * ? ? ?",
+    "* shara et al . 1986 ) ) . on the other hand ,",
+    "our actual knowledge of post - novae is largely incomplete : almost 3/4 of the 199 nova candidates that erupted before 1980 still lack spectroscopic observations or even an unambiguous identification of the post - nova .",
+    "a few years ago , we have started a program to re - discover old novae but concentrating on the ones which exhibited large outburst amplitude .",
+    "we recovered and confirmed several of these systems ( see e.g. ( * ? ? ? * schmidtobreick et al .",
+    "2003b ) , @xcite ) .",
+    "we now use a similar approach to find general old novae  not necessarily high outburst amplitude ones .",
+    "and we go one step further in the sense that we do not only want to recover the systems , but we also intend to derive the basic properties of the binaries which includes at the very least the determination of the orbital period of the recovered systems .",
+    "the observations are done in three steps : + ( 1 ) to select possible candidates for the old novae , we make use of the fact that the light from a cataclysmic variable is provided by at least three different physical components : the white dwarf , the secondary star , and the accretion disc or stream .",
+    "due to its size and high temperature , the latter is generally the dominant source in the optical range . while the white dwarf contribution affects mainly the uv range of the spectrum , the secondary late ",
+    "type star contributes on the red and infrared side . the compound of these light sources results in characteristic colour terms that are distinct from normal field stars .",
+    "cataclysmic variables appear as generally very blue objects with a shift towards the red at longer wavelengths . in a colour  colour diagram , they are thus found on the blue side but slightly above the main sequence . as an example , see the left diagram of figure[ilnor ] .",
+    "+ ( 2 ) to confirm the candidates of step ( 1 ) , we take low resolution spectra and identify the cataclysmic variable via the typical emission lines ( see right diagram of figure[ilnor ] ) .",
+    "+ ( 3 ) the last step is to take medium resolution time series spectroscopy of the confirmed old nova .",
+    "we use the radial velocity variation of strong emission lines like h@xmath0 to determine at least the orbital period . in case of good s /",
+    "n and coverage , also a further study of the line profile variation and a corresponding analysis of the accretion process is possible .",
+    "in total , we have observations for 21 novae so far .",
+    "17 systems have been confirmed spectroscopically , for the remaining four , several possible candidates were identified and await the spectroscopic confirmation .",
+    "we have determined the orbital period for three systems and have constraints for two more . for more details on the results and a thorough analysis",
+    ", we refer to ( * ? ? ?",
+    "* tappert et al .",
+    "( 2011 ) ) .",
+    "we conclude that our method works very well and the efficiency to recover the old novae is high .",
+    "further observations are planned to obtain a sufficiently high number of systems for population studies ."
+  ],
+  "abstract_text": [
+    "<S> we here present our on - going project to unveil the post - nova population by re - discovering old novae that have been lost after the initial outburst and of which the binary itself is unobserved . </S>",
+    "<S> we take ubvr photometry for the candidate selection , long - slit spectroscopy to confirm these candidates , and time - resolved spectroscopy to measure the orbital period of the newly confirmed post - novae . </S>",
+    "<S> some preliminary results are shown as examples . </S>"
+  ]
+}

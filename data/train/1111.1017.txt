@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "he and ma ( @xcite ) have shown that it is possible to consider black holes as quantized objects .",
+    "our approach here is to apply this idea to the universe .",
+    "this is in line with the previous work that considers the universe to be a black hole ( @xcite @xcite ) .",
+    "we find here the equivalent quantum number for the universe and present the bit as the quantum of the gravitational potential , as already noted in @xcitea .",
+    "this number is close to @xmath0 .",
+    "we note that this big number is close to , if not the same , the worrying discrepancy that one has between the cosmological constant value , from cosmological observations , and the value obtained from the standard theory of particles ( @xcite @xcite ) .",
+    "a likely explanation for this discrepancy has also been advanced by santos ( @xcitea , @xciteb and @xcite ) .",
+    "this strongly suggests that our universe can be considered to be an excited state of planck s quantum black hole .",
+    "again , this is reinforced by the fact that the natural units , planck s units , when multiplied by the big number @xmath1 , give the well known physical properties of the universe , mass , length and time .",
+    "also the entropy of the universe , as a black hole , is linked to this quantum number being of the order of the square of it , nearly the same as the estimation made by eagan and lineweaver ( @xcite ) .",
+    "finally we refer to the consideration made by lloyd ( @xcite ) in the sense of the universe as being similar to a quantum computer , where the big number @xmath2 plays the role of the maximum number of elementary operations made by the universe on @xmath3 bits ( @xcite @xcite ) .",
+    "our estimate has gone further , the number of bits is found to be @xmath0 ( @xcite @xciteb ) .",
+    "we reinforce the statement of he and ma ( @xcite ) : _ we anticipate that these ideas will lead to new understanding and perspective on gravity_.    the schwarzschild radius @xmath4 of a black hole may be combined with the compton wavelength @xmath5 to give ( @xcite @xcite ) :    @xmath6    where @xmath7 is the planck s length @xmath8 , @xmath9 the gravitational constant , @xmath10 the planck s constant and @xmath11 the speed of light .",
+    "relation ( 1 ) states that the geometric mean between @xmath12 and @xmath13 is of the order of planck s length . for a black hole ,",
+    "mass and length are proportional .",
+    "since the planck s units correspond to a quantum black hole ; the generalization of the relation ( 1 ) gives as a result that all properties of a black hole , length @xmath12 , mass @xmath14 and characteristic time @xmath15 , are related in this way .",
+    "it means that any black hole @xmath16 has a _ conjugate _ black hole given by the relation ( 1 ) , with properties of mass @xmath17 and schwarzschild radius @xmath13 such that ( 1 ) is satisfied .",
+    "we have presented , and analyzed elsewhere ( @xcite @xcite ) , the universe as a black hole .",
+    "there have also been arguments in favor of considering the universe , as a whole , to be a quantum object ( @xcite @xcite ) .",
+    "the combination of these two ideas gives us a result that is related to expression ( 1 ) : the universe behaves as a quantum black hole ( @xcite @xcite ) .",
+    "all that is needed is to generalize planck s constant . applying ( 1 ) to the universe , with @xmath18 , mass @xmath19 and characteristic time @xmath20",
+    ", we get the conjugate black hole :    @xmath21 @xmath22 @xmath23    where @xmath24 is planck s mass and @xmath25 is planck s time .",
+    "the mass @xmath26 of the conjugate black hole of the universe has been identified with the quantum of the gravitational potential field ( @xcite @xcitea ) and the bit ( @xcite @xciteb ) .",
+    "this is in line with the suggestion that this is a possible way to unify gravity with quantum theory . besides , the information - entropy relation , based on the bit , the padmanabhan ( @xcitea , @xciteb and references therein ) proposal that gravity has an entropic or thermodynamic origin , and the verlinde interpretation of gravity as an emerging entropic force ( @xcite @xcite ) , gives us a hope in this direction .",
+    "the physical properties of the bit in ( 2 ) clearly imply a number of bits for the universe of @xmath27 . on the other hand",
+    "the hawking entropy for a black hole ( @xcite @xcite ) , ( the bekenstein limit , see @xcite @xcite ) is for the universe :    @xmath28    here we see that the entropy of the bit is just @xmath29 , the boltzmann s constant , and the information of the universe , as a black hole , is @xmath30 bits , its quantum number .",
+    "all these results are in line with the results in @xcite that we have applied here to the universe .",
+    "in particular the energy difference between two nearby states for the universe is    @xmath31    which is the energy of one bit , the quantum black hole in ( 2 ) .",
+    "this means that each jump in the excitation of the universe implies precisely this energy .",
+    "the excitation of the universe is given by the increase in its number of bits , one by one .",
+    "our approach shows that the expansion of the universe implies the increase of entropy , and consequently the increase in its information content given by its quantum number .",
+    "this increase can be explained as a process of sequential growing : this gives the chain of elements formed by a causal set of the initial black holes ( @xcite@xcite ) .",
+    "this picture reinforces the idea of the universe as being a quantum computer , advanced by lloyd ( @xcite ) ."
+  ],
+  "abstract_text": [
+    "<S> it has been shown that black holes can be quantized by using bohr s idea of quantizing the motion of an electron inside the atom . </S>",
+    "<S> we apply these ideas to the universe as a whole . </S>",
+    "<S> this approach reinforces the suggestion that it may be a way to unify gravity with quantum theory . </S>"
+  ]
+}
