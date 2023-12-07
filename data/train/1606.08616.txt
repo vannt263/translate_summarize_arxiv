@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "the purpose of this article is to combine techniques from analytic number theory with computation to furnish explicit short interval results for primes in arithmetic progressions .",
+    "this is done on the assumption of the generalised riemann hypothesis ( grh ) , and builds on the earlier work of the authors @xcite , where the problem was considered without reference to residue classes .    throughout this paper ,",
+    "unless it is mentioned , we will be assuming grh to be true .",
+    "let @xmath0 and @xmath1 with @xmath2 .",
+    "unconditionally , both mccurley  @xcite and later kadiri  @xcite proved that , for every positive @xmath3 and @xmath4 , there exists @xmath5 such that if @xmath6 and @xmath7 , then @xmath8 $ ] contains a prime @xmath9 congruent to @xmath10 modulo @xmath11 .",
+    "they provide pairs of explicit values for @xmath12 and @xmath4 dependent on the choice of @xmath3 ; kadiri s work improves on that of mccurley by providing smaller values of @xmath12 .",
+    "clearly , on the assumption of grh , the result should improve significantly ; dusart proved in his ph.d",
+    ". thesis  ( * ? ? ?",
+    "3.7 , p.  114 ) that when @xmath13 one has @xmath14 this implies that there is a prime in @xmath15 $ ] which is congruent to @xmath10 modulo @xmath11 provided that @xmath16 and @xmath17 for every @xmath18 .",
+    "+ recently , in joint work with the second and third authors , perelli  ( * ? ? ?",
+    ".  1 ) proved that there exist absolute ( i.e. , independent of @xmath19 and @xmath11 ) positive constants @xmath20 , @xmath21 and @xmath22 such that for @xmath23 and @xmath24 one has @xmath25 this is in some sense the best result we can hope to prove , but the constants are not explicit . + in the present paper we prove the following result .",
+    "[ th : a1 ] assume grh , @xmath26 and @xmath2 . let @xmath12 , @xmath27 , @xmath28 , @xmath29 and @xmath30 be as in table  [ tab : a1 ] and assume that @xmath31 then it follows that if @xmath32 then there is a prime @xmath9 which is congruent to @xmath10 modulo @xmath11 with @xmath33 . furthermore , if we assume that @xmath34 and @xmath35 , then there are at least @xmath36 such primes .",
+    "l.  greni and g.  molteni , _ explicit smoothed prime ideals theorems under grh _ , math .",
+    "* 85 * ( 2016 ) , no .  300 , 18751899 , electronically published on october 6 , 2015 , doi : http://dx.doi.org/10.1090/mcom3039 .",
+    "l.  greni and g.  molteni , _ explicit versions of the prime ideal theorem for dedekind zeta functions under grh _",
+    ", math . comp .",
+    "* 85 * ( 2016 ) , no .  298 , 889906 , electronically published on october 7 , 2015 , doi : http://dx.doi.org/10.1090/mcom3031 .",
+    "d.  j. platt and t.  s. trudgian , _ on the first sign change of @xmath37 _ , math . comp . *",
+    "85 * ( 2016 ) , no .",
+    "299 , 15391547 , electronically published on augusty 21 , 2015 , doi : http://dx.doi.org/10.1090/mcom/3021 ."
+  ],
+  "abstract_text": [
+    "<S> we prove explicit versions of cramr s theorem for primes in arithmetic progressions , on the assumption of the generalised riemann hypothesis . </S>"
+  ]
+}

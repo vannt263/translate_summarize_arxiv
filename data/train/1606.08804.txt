@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "in @xcite , detemple showed that the isosceles triangle of smallest perimeter which circumscribes a semicircle is made up of two congruent right triangles which have sides proportional to @xmath2 , and the right triangle is known as the kepler triangle@xcite@xcite . here , we ll consider another interesting problem that determine a triangle of smallest area which circumscribes a semicircle .        in figure",
+    "[ fig : fg1a ] , let a triangle @xmath3 circumscribe a semicircle of radius @xmath4 , with the diameter of the semicircle contained in the base @xmath5 , let @xmath6 denote the center of the semicircle , @xmath7 and @xmath8 are both the radii , then let @xmath9 and @xmath10 , now , our problem is :    [ pm ] if the radius @xmath11 and the two sides @xmath12 and @xmath13 of @xmath3 can not be three edges of a triangle , determine @xmath3 of smallest area .",
+    "[ prop1 ] if @xmath11 , @xmath12 and @xmath13 can not be three edges of a triangle , then the of smallest area @xmath3 is a right triangle similar to the ( @xmath14 , @xmath15,@xmath16 ) triangle which forms half of a golden rectangle@xcite@xcite@xcite .",
+    "if @xmath11 , @xmath12 and @xmath13 can not be three edges of a triangle , then first , we suppose the radius @xmath4 is the longest segment , thus , we have @xmath17 , where @xmath18 , then in @xmath3 , we have the area equation ( [ 1 ] ) @xmath19 and @xmath20 @xmath21 then we get @xmath22 hence , we conclude that the radius @xmath11 can not be the longest segment among the three segments .",
+    "next , we suppose @xmath13 is the longest segment , then we have @xmath23 , using the similar method , we can get @xmath24 since @xmath25 , we have @xmath26 and with @xmath27 , we conclude that @xmath28 , where @xmath29 , hence @xmath30 the equality in ( [ 1d ] ) holds if and only if @xmath31 .",
+    "then we get @xmath32 , @xmath33 , and in ( [ 1b ] ) , we have @xmath34 , which means @xmath3 is a right triangle having sides proportional to ( @xmath14 , @xmath15,@xmath16 ) .",
+    ", scaledwidth=100.0% ]    there is an identity ( [ 2 ] ) of the golden ratio@xcite and fibonacci numbers ( see , e.g. , @xcite ) .",
+    "@xmath35 if we rewrite ( [ 2 ] ) in the form of ( [ 2a ] ) , @xmath36 we will obtain a right triangles sequence @xmath0 with sides ( @xmath14 , @xmath37 , @xmath38 ) , see figure [ fig : fg2 ] .",
+    "it s easy to see that , the first right triangle @xmath39 with sides ( @xmath14 , @xmath40 , @xmath15 ) is the kepler triangle whose side lengths are in geometric progression , the second right triangle @xmath1 is a ( @xmath14 , @xmath41 , @xmath42 ) triangle , and furthermore , let @xmath43 , we find that the limiting right triangle of @xmath0 is just a ( @xmath14 , @xmath15 , @xmath16 ) triangle which forms half of a golden rectangle .",
+    "since there are only two golden ( see @xcite ) right triangles ( one is the kepler triangle with sides ( @xmath14 , @xmath40 , @xmath15 ) , the other is the ( @xmath14 , @xmath15 , @xmath16 ) triangle ) , and they are both special cases of @xmath0 , then , we can call @xmath0 a generalized golden right triangles sequence .",
+    "in addition , we have the following simple area inequality ( [ 2b ] ) for @xmath0 , @xmath44 where @xmath45 denoted as the area of @xmath0 , and @xmath46 in the inequality ( [ 2b ] ) , we also notice that the second triangle @xmath1 with sides ( @xmath14 , @xmath41 , @xmath42 ) is just the maximum area triangle in @xmath0 , therefore , we can call @xmath1 the maximum generalized golden right triangle .",
+    "interestingly enough , similar to the construction of the kepler triangle @xmath39 by first creating a golden rectangle shown in @xcite , we can also construct the maximum generalized golden right triangle @xmath1 by first constructing a golden rectangle , see figure [ fig : fg2a ] .        1 .",
+    "construct a golden rectangle @xmath47 with @xmath48 , @xmath49 ( see , e.g. , @xcite ) 2 .",
+    "construct @xmath6 dividing @xmath5 in the golden ratio and @xmath50 3 .",
+    "draw an arc with the center at @xmath6 and the radius of length @xmath13 , cutting the extension of @xmath51 at @xmath52 , and join @xmath52 to @xmath53          [ pmlst ] if the radius @xmath11 and the two sides @xmath12 and @xmath13 of @xmath3 can not be three edges of a triangle , determine @xmath3 of smallest perimeter . and if @xmath3 can not be an acute - angled triangle , determine @xmath3 of smallest perimeter .",
+    "d. w. detemple , the triangle of smallest perimeter which circumscribes a semicircle , _ the fibonacci quarterly _ , * 30.3 * ( 1992 ) 274 .",
+    "l. mario , _ the golden ratio : the story of phi , the world s most astonishing number _ , broadway books , new york , 2002 .",
+    "kepler triangle , _",
+    "wikipedia , the free encyclopedia _ , https://en.wikipedia.org/wiki/kepler_triangle .",
+    "t. koshy , _ fibonacci and lucas numbers with applications _ , a wiley - interscience publication , 2001 .",
+    "m. bicknell and v. e. hoggatt , golden triangles , rectangles , and cuboids , _ the fibonacci quarterly _ , * 7.1 * ( 1969 ) 7391 .",
+    "a. s. posamentier and i. lehmann , _ the fabulous fibonacci numbers _ ,",
+    "prometheus books , 2007 ."
+  ],
+  "abstract_text": [
+    "<S> an interesting problem that determine a triangle of smallest area which circumscribes a semicircle is solved . then a generalized golden right triangles sequence @xmath0 is obtained , and an interesting construction of the maximum generalized golden right triangle @xmath1 is also shown . </S>"
+  ]
+}

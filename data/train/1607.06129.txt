@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "pulsars are normally modelled as rapidly rotating , highly magnetized stars composed mainly of neutrons .",
+    "it has been observed that their rotation frequencies are decaying , this spin - down being quantified by the braking index ( bi ) , @xmath0 , defined by : @xmath1 where @xmath2 is the pulsar s angular velocity and the dot denotes a time derivative . in such model , which we will refer to as canonical , the main time - varying field responsible for the loss of rotational energy in a pulsar is a magnetic dipole field @xcite . also , the canonical model predicts n=3 for all existing pulsars .",
+    "there are not many pulsars for which the bi was obtained observationally ( see table [ tab : pulsars ] ) .",
+    "most of their bi values lie within the range @xmath3 ( see table [ tab : bcomplete ] ) .",
+    "the only pulsar with index greater than three is j1640 - 4631 , whose value , @xmath4 , was recently measured@xcite .",
+    "since the canonical model fails to yield the observed bi , improvements on this model have been tried involving different theoretical approaches @xcite .    [ cols=\"^,^,^,^,^,^ \" , ]     our predicted bi values for j1418 - 6058 and 1e 1547.0 - 5408 ( also known as j1550 - 5418 ) are in agreement with the predictions by @xcite .    in table",
+    "[ tab : morepulsars ] the numbers for pulsar j1124 - 5916 are close to those for j1640 - 4631 , including our predicted bi .",
+    "the value @xmath5 is the largest that our model can provide . since the latter pulsar has @xmath6 ,",
+    "we wonder if the former would have @xmath7 as well . as a generalization , perhaps pulsars that have bi close to 2.95 in our model might have @xmath8.this suggests that our model may be able to indicate pulsars with bi larger than three even though it was developed for pulsars with indices less than three .    , versus the effective force proportionality constant , @xmath9 , for the pulsars listed in table [",
+    "tab : bcomplete ] .",
+    "the symbols are located at the values of @xmath9 obtained from the model trough equation ( [ eq : bcomplete ] ) using the observational values of @xmath0 presented in table [ tab : bcomplete ] .",
+    "that equation also provides the lines for each pulsar .",
+    "the line made of small diamonds corresponds to the fitted function in equation ( [ eq : nbfit ] ) .",
+    "the intersecion between this line and that of each individual pulsar is close to the respective symbol . ]",
+    "we analysed a modification of the canonical model for pulsars spin - down that introduces an effective force that is tangential to the star s rotation motion .",
+    "our goal was to provide more precise predictions of pulsars bi .",
+    "the effective force involves all yet unknown physical contributions that make pulsars bi less than three .",
+    "our results were possible assuming that the pulsars have the same ( typical ) values for some physical characteristics , like mass and radius .",
+    "we used eight pulsars with observed bi to calibrate the model . also , we discovered an extra relation between the bi , the ratio @xmath10 and the tangential force constant of a pulsar which enabled us to make predictions of bi of other pulsars .    the results that we found are applicable to pulsars with @xmath11 larger than 10@xmath12 rad s@xmath13 and with @xmath10 near the range 1 - 25 @xmath14 10@xmath15 s@xmath16 . in order to improve the model , it is important to find physical details about the effective force .",
+    "its mathematical structure is simple and general , allowing different physical possibilities for its origin .",
+    "@xmath17 n.s.m .",
+    ", a.s.o . and c.f .",
+    "acknowledge the brazilian federal funding agency cnpq for financial support ( grants 309295/2009 - 2 , 149107/2010 - 2 and 312906/2013 - 7 , respectively ) as well as the national institute of science and technology in astrophysics ( inct - a , brazil ) and fapesp ( thematic project , grant 13/26258 - 4 ) ."
+  ],
+  "abstract_text": [
+    "<S> braking indices of pulsars present a scientific challenge as their theoretical calculation is still an open problem . in this paper </S>",
+    "<S> we report results of a study regarding such calculation which adapts the canonical model ( which admits that pulsars are rotating magnetic dipoles ) basically by introducing a compensating component in the energy conservation equation of the system . </S>",
+    "<S> this component would correspond to an effective force that varies with the first power of the tangential velocity of the pulsar s crust . </S>",
+    "<S> we test the proposed model using data available and predict braking indices values for different stars . </S>",
+    "<S> we comment on the high braking index recently measured of the pulsar j1640 - 4631 .    </S>",
+    "<S> [ firstpage ]    stars : fundamental parameters  stars : magnetic field  stars : massive  pulsars : general  pulsars : individual : psr b0531 + 21 , psr b1509 - 58 , psr b0540 - 69 , psr b0833 - 45 , psr j1119 - 6127 , psr j1846 - 0258 , psr j1640 - 4631 . </S>"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "within the sme in minkowski spacetime , lorentz violation is controlled by a set of tensor coefficients that do not vary with spacetime position.@xcite in curved spacetime , however , lorentz - violation coefficients that vary with spacetime position must be considered.@xcite in this work , we describe some of the consequences of the variation of these coefficients , particularly at a nonrelativistic scale.@xcite",
+    "our framework is the minimal sme in weakly - curved spacetime with nonzero @xmath0 and @xmath1 coefficient fields , which is described by an action that is a combination of conventional , lorentz - symmetric terms and a set of terms @xmath2 that includes the effects of nonzero and spacetime - varying sme coefficients @xmath0 and @xmath1 : @xmath3    to extract nonrelativistic effects , we apply the following procedure : ( 1 ) perform a field redefinition to ensure a hermitian hamiltonian , and therefore unitary time evolution .",
+    "( 2 ) apply the euler - lagrange equations to the resulting action , then solve for @xmath4 to extract the relativistic @xmath5 hamiltonian @xmath6 .",
+    "( 3 ) perform a foldy - wouthuysen transformation , resulting in a nonrelativistic @xmath5 hamiltonian @xmath7 .",
+    "the full result of these calculations is too long to include in this work , but typical behavior appears in the term @xmath8}}{4 m } { { \\varepsilon}_p}^{mj }     \\left({\\delta}^{kp } - \\hbar^{kp}\\right )    \\right ] \\frac{p_m}{m }    \\right\\ } \\quad .",
+    "\\label{exampleterm}\\ ] ] this term acts on nonrelativistic matter like certain terms in the sme nonrelativistic hamiltonian for minkowski spacetime : @xmath9\\frac{p_m}{m } \\right\\ }    \\quad .\\ ] ] we may exploit this similarity to interpret the weakly - curved - spacetime factors as effective versions of the minkowski - spacetime coefficients : @xmath10}}{4 m } { { \\varepsilon}_p}^{mj } \\left (     { \\delta}^{kp } - \\hbar^{kp }     \\right)\\ ] ] we can then use the results of studies of the minkowski - spacetime sme to interpret the effects of spacetime - varying coefficients . when the full calculation is done , we find that all terms that result from spacetime - varying @xmath0 and @xmath1 may be interpreted as effective values of minkowski - spacetime coefficients @xmath0 , @xmath1 , @xmath11 , and @xmath12 .    many derivatives @xmath13 and @xmath14 contribute to multiple effective coefficients . in table",
+    "[ dominant ] , the largest contribution of each derivative to the nonrelativistic hamiltonian is displayed .",
+    "[ dominant ]",
+    "the foldy - wouthuysen transformation is unitary , and therefore a hermitian relativistic hamiltonian @xmath6 is guaranteed to yield a hermitian nonrelativistic hamiltonian @xmath7 .",
+    "however , many individual terms are nonhermitian , including terms that are hermitian in the minkowski spacetime limit .",
+    "the key mathematical idea is that the product @xmath15 of hermitian operators @xmath16 and @xmath17 is hermitian if and only if @xmath16 and @xmath17 commute with each other . for example , fermion momentum operators @xmath18 commute with the sme coefficient @xmath19 in minkowski spacetime since @xmath19 does not vary with spacetime position .",
+    "however , in curved spacetime , @xmath20 , and therefore @xmath21\\ne 0 $ ] . as a result ,",
+    "the term @xmath22 is hermitian in minkowski spacetime but nonhermitian in curved spacetime .",
+    "however , the combination @xmath23 , which appears in the nonrelativistic hamiltonian , is hermitian in both minkowski and curved spacetimes .",
+    "all terms that appear in the minkowski hamiltonian also appear in the curved - spacetime hamiltonian as part of a combination like this , confirming the hermiticity of the nonrelativistic hamiltonian .",
+    "we may exploit the correspondence between derivatives of sme coefficients in curved spacetime and effective values of coefficients in minkowski coefficients to extract bounds on the former from published analysis of the latter .",
+    "for example , the neutron - associated coefficient @xmath24 has the bound@xcite @xmath25 gev . in minkowski spacetime , @xmath24 receives a contribution from @xmath26 . in curved spacetime ,",
+    "the effective value of @xmath26 receives a contribution from the curl of @xmath27 : @xmath28 .",
+    "therefore , we find that the @xmath29 component of the curl of @xmath27 has the bound @xmath30 gev@xmath31 for neutrons .",
+    "similar analysis yields the bounds from completed experiments that are summarized in table [ boundtable ] .",
+    "bounds expressed in parentheses require somewhat stronger assumptions than those expressed without parentheses .",
+    "[ boundtable ]",
+    "this work was supported in part by berry college and the indiana university center for spacetime symmetries ( iucss ) .",
+    "kosteleck and r.  potting , phys .",
+    "d * 51 * , 3923 ( 1995 ) ; d.  colladay and v.a .",
+    "kosteleck , phys .",
+    "d * 55 * , 6760 ( 1997 ) ; phys .",
+    "d * 58 * , 116002 ( 1998 ) ; j.d .",
+    "tasson , rept .",
+    "phys .  * 77 * , 062901 ( 2014 ) ; _ data tables for lorentz and cpt violation , _ v.a .  kosteleck and n.  russell ,",
+    "2016 edition , arxiv:0801.0287v9 ."
+  ],
+  "abstract_text": [
+    "<S> when the standard - model extension ( sme ) is applied in curved spacetime , the lorentz - violation coefficients must depend on spacetime position . </S>",
+    "<S> this work describes some of the consequences of this spacetime variation . </S>",
+    "<S> we focus on effects that appear at a nonrelativistic scale and extract sensitivity of completed experiments to derivatives of sme coefficient fields . </S>"
+  ]
+}

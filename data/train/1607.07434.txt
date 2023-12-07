@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "we thank the smithsonian astrophysical observatory for donation of two tfgs as well as the physics department , college of science , bsmp , and ipro programs at iit .",
+    "use of the center for nanoscale materials , an office of science user facility , was supported by the doe under contract de - ac02 - 06ch11357 .",
+    "the development of a suitable muonium beam is supported by the swiss national science foundation , grant no ."
+  ],
+  "abstract_text": [
+    "<S> the gravitational acceleration of antimatter , , has yet to be directly measured but could change our understanding of gravity , the universe , and the possibility of a fifth force . </S>",
+    "<S> three avenues are apparent for such a measurement : antihydrogen , positronium , and muonium , the last requiring a precision atom interferometer and benefiting from a novel muonium beam under development . </S>",
+    "<S> the interferometer and its few - picometer alignment and calibration systems appear to be feasible . with 100 nm grating pitch , </S>",
+    "<S> measurements of  to 10% , 1% , or better can be envisioned . </S>",
+    "<S> this could constitute the first gravitational measurement of leptonic matter , of second - generation matter and , possibly , the first measurement of the gravitational acceleration of antimatter .    </S>",
+    "<S> despite many years of effort , experiments on antimatter gravity have yet to yield a statistically significant direct measurement . </S>",
+    "<S> such studies using antihydrogen and positronium are ongoing . </S>",
+    "<S> we report here on progress towards a measurement using muonium .    </S>",
+    "<S> _ indirect _ tests , based on the expected amounts of virtual antimatter in the nuclei of various elements , imply stringent limits on the gravitational acceleration , , of antimatter on earth : @xmath0.@xcite a _ direct _ test of the gravitational interaction of antimatter with matter seems desirable on quite general grounds@xcite and is of interest whether viewed as a test of general relativity or as a search for a fifth force . </S>",
+    "<S> candidate quantum gravity theories include the possibility of differing matter  </S>",
+    "<S> antimatter and matter  </S>",
+    "<S> matter forces;@xcite recent work@xcite on gravity in the sme framework emphasizes the importance of second - generation measurements . </S>",
+    "<S> the short lifetimes of second- and third - generation particles may make muons the only experimentally accessible avenue to gravity beyond the first generation .    </S>",
+    "<S> although most physicists expect the equivalence principle to hold for antimatter as well as for matter , theories in which this symmetry is _ maximally _ violated ( i.e. , in which antimatter `` falls up '' ) are attracting increasing interest@xcite as potentially solving six great mysteries of cosmology ( why is the cosmic - ray background radiation so isothermal ? </S>",
+    "<S> why is the universe so flat ? </S>",
+    "<S> why are galactic rotation curves flat ? what happened to the antimatter ? why does @xmath1 cosmology give the age of the universe as younger than the oldest stars , and type ia supernovae dimmer than predicted ? ) , all without the need for cosmic inflation , dark matter , or dark energy .    </S>",
+    "<S> we are developing a precision three - grating atom - beam interferometer for the measurement of  using a slow muonium beam at switzerland s paul scherrer institute ( psi).@xcite the interferometer can measure the atoms gravitational deflection to a fraction of a nanometer , determining  to a precision of 10% of @xmath2 in a month of beam time ( assuming a typical 30% overall efficiency ) . </S>",
+    "<S> additional time , intensity , or efficiency could permit a measurement to 1% or better . </S>",
+    "<S> the rms statistical precision is estimated as@xcite @xmath3 where @xmath4 is the fringe contrast , @xmath5 the number of events detected , and @xmath6 the muonium transit time through the interferometer . </S>",
+    "<S> a finer grating pitch @xmath7 is helpful ; we have chosen @xmath8 nm as a compromise between sensitivity and systematic error due to geometry variations over the @xmath9@xmath10 grating area . at the anticipated rate of @xmath11 muonium atoms </S>",
+    "<S> / s incident on the interferometer , the statistical measurement precision is about @xmath12 per @xmath13 , where @xmath14 is the exposure time in days .    </S>",
+    "<S> the monoenergetic muonium beam is under development at psi;@xcite a first test using an existing , thermal - muonium beam is also of interest and could potentially provide the first determination of the sign of . </S>",
+    "<S> interferometer development , including si@xmath15n@xmath16 grids nanofabricated using @xmath17-beam lithography and reactive - ion etching at the anl center for nanoscale materials , is underway using teams of iit undergraduates and donated equipment and facility time.@xcite a key challenge is the need to translate one grating vertically with at least 10 pm precision in order to scan the interference pattern . </S>",
+    "<S> most recently , using two semiconductor - laser tracking frequency gauges@xcite ( tfgs ) we have demonstrated position measurement to @xmath183 pm , with work ongoing to reduce residual noise . the 10 pm requirement is seen ( fig .  1 ) to imply a need for geometric stability over at least 0.3s and calibration with x - rays at least every 1000s .    3 pm precision with one- to several - second averaging time . </S>",
+    "<S> the bar at 10 pm ( red online ) shows the range of time scales over which the tfg measurement is useful . ] </S>"
+  ]
+}

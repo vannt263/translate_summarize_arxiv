@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "we thank prof .",
+    "scott mathews for making available to us his pre - publication results for @xmath47c ."
+  ],
+  "abstract_text": [
+    "<S> measurements of the beta decay rates of nuclei have revealed annual periodicities with approximately the same relative amplitude even though the half lives range over nine orders of magnitude . </S>",
+    "<S> here we show that this can be explained if the emitted neutrinos behave as if they propagate in a medium with a refractive index which varies as the earth orbits the sun . this refractive index may be due to fundamental lorentz noninvariance , or apparent lorentz noninvariance arising from interactions with solar or relic neutrinos , or dark matter . </S>",
+    "<S> additionally , this medium could have consequences for experiments attempting to measure the neutrino mass .    </S>",
+    "<S> recent studies of the decay rates @xmath0 of radioactive nuclides have reported evidence for periodic variations superimposed on the familiar exponential decay laws.@xcite although the most typical frequencies in @xmath0 are @xmath1/yr and 1113/yr , other periodicities have also been reported . at this stage </S>",
+    "<S> we can not exclude the possibility that some of the annual signals may arise from seasonal variations in the response of various detectors to fluctuations in `` environmental '' factors such as temperature , humidity , and pressure . however , similar considerations would have much less impact on other observed periodicities , and hence will we will assume in this treatment that all the observed periodicities may be evidence of interesting new physics . </S>",
+    "<S> in what follows we suggest that a common feature seen in most of the periodic variations may be a hint to the presence of an effective lorentz noninvariance ( lni ) .    </S>",
+    "<S> [ data table ]    table  [ data table ] presents a summary of recent data ordered in terms of increasing half lives @xmath2 , along with the corresponding @xmath3 values for the decays , and the fractional change @xmath4 for the corresponding annual variation . </S>",
+    "<S> we see that even though values of @xmath5 range over a factor of @xmath6 , the fractional periodic variations of @xmath4 agree within roughly an order of magnitude . more specifically , the data are well characterized by @xmath7 where @xmath8  year and @xmath9 . </S>",
+    "<S> this is surprising given that the data come from different experiments using a variety of detection systems,@xcite which presumably have different levels of sensitivity to environmental influences . </S>",
+    "<S> as but one example , we see from table  [ data table ] ( and fig .  3 of ref .  ) , that @xmath10 for @xmath11ra ( in equilibrium with its daughters ) obtained at ptb using a @xmath12 @xmath13-detector is very nearly the same as @xmath10 for the si / cl ratio obtained at bnl at the same time using a gas proportional counter . </S>",
+    "<S> this apparent consistency of @xmath10 is the basis for our proposed connection between radioactive decays and lni .    </S>",
+    "<S> we now show that the apparent universality of @xmath10 could be explained if the neutrinos involved act as if they propagate in a medium with a refractive index @xmath14 that depends on the earth s motion around the sun . </S>",
+    "<S> a number of circumstances in which neutrinos behave as if they are in a medium have been treated in recent years . </S>",
+    "<S> such a description has been used to describe neutrino oscillations in matter , relic neutrinos , and lni . here </S>",
+    "<S> we will assume the simplest possibility , that the neutrinos experience a dispersion - free ( i.e. , energy - independent ) refractive index @xmath15 , where @xmath16 , such that the wave number characterizing a neutrino matter wave is given by @xmath17 , where @xmath18 is the wave number in vacuum . </S>",
+    "<S> since the angular frequency @xmath19 , the neutrino energy and momentum relations @xmath20 and @xmath21 then give @xmath22 where we assume that the neutrino mass @xmath23 .    </S>",
+    "<S> one can show that the lorentz violating dispersion relation given by eq .  </S>",
+    "<S> ( [ e nu ] ) modifies the rates of beta decay and electron capture such that the fractional change @xmath24 , a constant , which is independent of the nucleus . a simple way to see </S>",
+    "<S> this is to note that the phase space for beta decays is proportional to @xmath25 , which implies that the decay rate in the medium is @xmath26 . </S>",
+    "<S> ( here we assume that the medium does not affect the matrix elements for the decay process . )    </S>",
+    "<S> let us now assume that the neutrino index of refraction depends on the position of the earth . </S>",
+    "<S> if we write the earth - sun distance @xmath27 as @xmath28 , $ ] where @xmath29 is the average separation , @xmath30 is the orbital eccentricity , @xmath31  1 yr , and @xmath32 is a phase , one can show that the beta decay rates will vary as @xmath33 where @xmath10 is a constant which incorporates @xmath34 and the properties of the medium . </S>",
+    "<S> thus , this model would describe an annual variation of beta decay rates with a constant amplitude for all nuclei , which is consistent with the observations which have @xmath9 as given in table  [ data table ] .    </S>",
+    "<S> of course , this is the simplest possible model , which does nt include dispersion or address the nature and origin of the neutrino refractive index needed to explain these results . </S>",
+    "<S> if such an effective medium exists , it might be due to dark matter , relic neutrinos , solar neutrinos , or intrinsic lni . </S>",
+    "<S> the model suggests the need for more observations to search for annual variations in beta decays over a wider range of nuclei since it predicts that the variations of the relative magnitude should be of order @xmath35 .    </S>",
+    "<S> finally , we note that the model described above could have significant consequences for experiments attempting to determine the neutrino mass @xmath36 , such as katrin , which uses @xmath37h , a nucleus exhibiting annual periodicity.@xcite as shown in ref .  </S>",
+    "<S> , most recent experimental determinations of @xmath38 lead to negative values . </S>",
+    "<S> these results can be accounted for using the refractive index model , which would modify the dispersion relation for massive neutrinos to be @xmath39 thus , the effective neutrino mass @xmath40 when @xmath41 . combining this with the lower bound on the neutrino mass , @xmath42  ev/@xmath43 , obtained from calculations of the stability of neutron stars in the presence of virtual neutrino - antineutrino exchange forces,@xcite </S>",
+    "<S> one finds that @xmath44 when @xmath45  ev . </S>",
+    "<S> thus , the neutrino refractive index model shows that @xmath46 measured can be positive , negative , or even zero , while the true neutrino mass squared @xmath38 is positive . </S>",
+    "<S> if this is true , it may be quite difficult to extract the true neutrino mass from measurements of the tritium decay spectrum . </S>"
+  ]
+}

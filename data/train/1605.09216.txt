@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "for an arbitrary field @xmath0 , novakovi stated the following as a conjecture in  @xcite :    [ novikov ] let @xmath1 be a @xmath2-dimensional brauer - severi variety .",
+    "then @xmath3 does not admit a full strongly exceptional collection .",
+    "he proves the conjecture in dimension @xmath4  @xcite by exploiting the transitivity of the braid group action on full exceptional collections for @xmath5 to reduce to an equivalence @xmath6 . if @xmath7 , for @xmath8 a division algebra over @xmath0 , these are just the categories of @xmath9-graded vector spaces over @xmath8 , respectively @xmath0 , so there is an equivalence only if @xmath8 is isomorphic to @xmath0 . since the transitivity of the braid group action ( which is only established for @xmath4 ) is only used to be able to reduce to a single semi - orthogonal component , this suggests that noncommutative motives might provide the right framework for this conjecture .",
+    "using some results from  @xcite on noncommutative motives of separable algebras , we prove a slightly stronger version of conjecture  [ novikov ] , showing that non - split brauer - severi varieties do not admit full tale exceptional collections .",
+    "to any small dg - category @xmath10 , one can associate ( functorially ) its noncommutative motive @xmath11 , which takes values in a category @xmath12 .",
+    "this category has as objects small dg - categories , and for two such categories @xmath10 and @xmath13 , @xmath14 where @xmath15 is the full triangulated subcategory of @xmath16 consisting of those @xmath10-@xmath13-bimodules @xmath17 such that for every @xmath18 , the right @xmath13-module @xmath19 is a compact object in @xmath20 .",
+    "the composition is induced by the derived tensor product of bimodules .",
+    "more details on the construction of @xmath21 can be found in  @xcite , but for the purposes of this note , we will only need that @xmath21 is a `` universal additive invariant '' .",
+    "an additive invariant is any functor @xmath22 taking values in an additive category @xmath8 such that :    1 .",
+    "it sends dg - morita equivalences to isomorphisms , 2 .   for any pre - triangulated dg - category @xmath10 , with full pre - triangulated dg - subcategories @xmath13 and @xmath23 giving rise to a semi - orthogonal decomposition @xmath24 the morphism @xmath25 induced by the inclusions is an isomorphism .",
+    "we now review some results from  @xcite .",
+    "remember that the category of noncommutative chow motives @xmath26 is defined as the idempotent completion of the full subcategory of @xmath12 containing the smooth and proper dg - categories .",
+    "now let @xmath27 ( respectively @xmath28 ) denote the full subcategory of @xmath26 consisting of the @xmath29 , for @xmath30 a separable ( respectively commutative separable ) @xmath0-algebra . also let @xmath31 denote the closure under finite direct sums of the full subcategory of @xmath26 consisting of the @xmath29 , for @xmath30 a central simple @xmath0-algebras .",
+    "note that the @xmath32 is there since central simple @xmath0-algebras are not closed under products , whereas ( commutative ) separable algebras are . in this way @xmath33 and @xmath31",
+    "are additive symmetric monoidal categories .",
+    "* corollary 2.13 ) [ tabvdb2 ] there is an equivalence of categories @xmath34 i.e. @xmath35 is a @xmath36-pullback of categories with respect to the obvious inclusion morphisms .    for a central simple algebra @xmath30 over @xmath0 , denote by @xmath37 and @xmath38 the index ( respectively degree ) of @xmath30 .",
+    "then by  ( * ? ? ?",
+    "* proposition 4.5.16 ) , @xmath30 admits a @xmath39-primary decomposition @xmath40 where @xmath41 is uniquely characterised by the property @xmath42 if @xmath43 is the primary decomposition .",
+    "* theorem 2.19 ) [ tabvdb ] given central simple @xmath0-algebras @xmath44 and @xmath45 , the following two conditions are equivalent :    1 .   there is an isomorphism of noncommutative motives : @xmath46 2 .",
+    "the equality @xmath47 holds , and for all @xmath48 and all @xmath39 @xmath49=[a_{\\sigma_p(j)}^p]\\ ] ] holds in @xmath50 , for some permutations @xmath51 depending on @xmath39 .",
+    "though the isomorphism classes of objects in @xmath31 are in some sense understood by theorem  [ tabvdb ] , this is not true for @xmath28 .",
+    "in fact , using the ( additive ) equivalence @xmath52 , where @xmath53 , and @xmath54 is the category of permutation @xmath55-modules , interesting examples can be obtained from integral representation theory , see  ( * ? ? ? * remark 2.5 , 2.6 ) .",
+    "denote by @xmath56 the brauer - severi variety associated to a central simple @xmath0-algebra @xmath30 .",
+    "we will say ( see also  @xcite ) that an object @xmath57 satisfying @xmath58)=0 $ ] for all @xmath59 is            suppose @xmath30 is non - split and @xmath63 .",
+    "then if @xmath56 has a full tale exceptional collection , we deduce from   and additivity of @xmath64 with respect to semi - orthogonal decompositions that there is an isomorphism @xmath65 where the @xmath66 are tale @xmath0-algebras . using theorem",
+    "[ tabvdb2 ] and the universal property of fibre products , this isomorphism gives rise to an isomorphism @xmath67 now by theorem  [ tabvdb ] , for all @xmath68=[k]$ ] in @xmath50 , so @xmath69=[k]$ ] or in other words @xmath30 should split ."
+  ],
+  "abstract_text": [
+    "<S> recently , novakovi conjectured that non - split brauer - severi varieties do not admit full strong exceptional collections . in this short note </S>",
+    "<S> , we explain how a stronger version of this conjecture follows easily from known results on noncommutative motives . </S>"
+  ]
+}

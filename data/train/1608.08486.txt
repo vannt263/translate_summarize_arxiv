@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "we present studies of baryon acoustic oscillations ( bao ) with sloan digital sky survey ( sdss ) data release dr12 @xcite .",
+    "part i of this ongoing study is ref .",
+    "we refer the reader to part i for the notation and methods .",
+    "this is an outline of the study :    \\(i ) we define and measure bao observables @xmath0 , @xmath1 , and @xmath2 that do not depend on any cosmological parameter , see part i @xcite . from each of these observables",
+    "we obtain the bao correlation distance @xmath3 with its respective dependence on the cosmological parameters .",
+    "we present many redundant measurements with different galaxy selections , i.e. different background fluctuations , to gain confidence in the results .",
+    "\\(ii ) we use the measured bao distances , and the correlation angle @xmath5 of the cosmic microwave background ( cmb ) , as an uncalibrated standard ruler to constrain the correlated parameters @xmath6 and @xmath7 .",
+    "the cosmological parameters @xmath9 , @xmath10 and @xmath11 drop out of this analysis .",
+    "\\(iii ) finally we use the measured bao distances and @xmath5 as a calibrated standard ruler to further constrain @xmath6 with external measurements of @xmath9 and @xmath10 .    the results of this analysis are compared with the final consensus results corresponding to the dr12 data @xcite .    [",
+    "cols=\"^,^,^,^,^,^,^,^,^\",options=\"header \" , ]",
+    "the results of these studies are :    \\(i ) we define and measure bao observables @xmath0 , @xmath1 , and @xmath2 that do not depend on any cosmological parameter . from each of these observables",
+    "we obtain the bao correlation distance @xmath3 in units of @xmath12 with its respective dependence on the cosmological parameters .",
+    "it is difficult to distinguish the bao signal from the background fluctuations due to the clustering of galaxies . to gain confidence in the results we repeat the measurements many times with different galaxy selections to obtain different background fluctuations .",
+    "the measured bao observables in tables iii and iv of part i @xcite and table [ cs ] are the main result of these studies . these measurements in combination with independent observations",
+    "constrain cosmological parameters .",
+    "\\(ii ) from the bao measurements alone we obtain the constraint @xmath13 for constant @xmath7 , or @xmath14 when @xmath7 is allowed to depend on @xmath8 as in scenario 4 .",
+    "see table [ bao_fit ] for fits in several scenarios .",
+    "\\(iii ) from the bao measurements plus @xmath15 from the cmb we obtain the constraints @xmath16 and @xmath17 when @xmath7 is allowed to vary as in scenario 4 . see tables [ bao_thetamc_fit_18 ] and [ bao_thetamc_fit_17 ] for fits in several scenarios .",
+    "the cosmological parameters @xmath9 , @xmath10 and @xmath11 drop out of this analysis .",
+    "\\(iv ) from the bao measurements plus @xmath15 from the cmb plus external measurements of @xmath18 defined in eq . (",
+    "[ a ] ) we obtain @xmath19 for @xmath20 , and @xmath21 for @xmath22 , when @xmath7 is allowed to vary as in scenario 4 . for more details",
+    "see table [ calibrated_bao ] .",
+    "note that the external constraint from @xmath18 reduces the uncertainty of @xmath6 .",
+    "\\(v ) the data is consistent with the constraint @xmath23 or the constraint @xmath7 constant , but there is some tension when both constraints are required .",
+    "these tensions are presented in table [ tension ] and in fig .",
+    "[ o_de_z_all ] . the measured excess of @xmath7 for @xmath24 is not understood .",
+    "\\(vi ) we note that the final consensus results of dr12 data @xcite also show this tension , see last column in table [ dr12 ] which is in agreement with fig .",
+    "[ o_de_z_all ] .",
+    "finally we note that the bao measurements in this study are in agreement with @xcite : compare table [ dr12 ] with tables iii or iv of part i @xcite or table [ cs ] .",
+    "the two studies are complementary .",
+    "funding for sdss - iii has been provided by the alfred p. sloan foundation , the participating institutions , the national science foundation , and the u.s .",
+    "department of energy office of science .",
+    "the sdss - iii web site is http://www.sdss3.org/.    sdss - iii is managed by the astrophysical research consortium for the participating institutions of the sdss - iii collaboration including the university of arizona , the brazilian participation group , brookhaven national laboratory , carnegie mellon university , university of florida , the french participation group , the german participation group , harvard university , the instituto de astrofisica de canarias , the michigan state / notre dame / jina participation group , johns hopkins university , lawrence berkeley national laboratory , max planck institute for astrophysics , max planck institute for extraterrestrial physics , new mexico state university , new york university , ohio state university , pennsylvania state university , university of portsmouth , princeton university , the spanish participation group , university of tokyo , university of utah , vanderbilt university , university of virginia , university of washington , and yale university ."
+  ],
+  "abstract_text": [
+    "<S> we define baryon acoustic oscillation ( bao ) observables @xmath0 , @xmath1 , and @xmath2 that do not depend on any cosmological parameter . from each of these observables </S>",
+    "<S> we recover the bao correlation length @xmath3 with its respective dependence on cosmological parameters . </S>",
+    "<S> these bao observables are measured as a function of redshift @xmath4 with the sloan digital sky survey ( sdss ) data release dr12 . from the bao measurements alone , or together with the correlation angle @xmath5 of the cosmic microwave background ( cmb ) , we constrain the curvature parameter @xmath6 and the dark energy density @xmath7 as a function of the expansion parameter @xmath8 in several scenarios . these observables are further constrained with external measurements of @xmath9 and @xmath10 . </S>",
+    "<S> we find some tension between the data and a cosmology with flat space and constant dark energy density @xmath7 . </S>"
+  ]
+}

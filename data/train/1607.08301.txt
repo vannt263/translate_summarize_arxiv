@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "studying violations of local lorentz invariance in the spacetime theory of gravity is a way to probe general relativity . to search for lorentz violation in pure gravity ,",
+    "some short - range experiments@xcite such as testing the gravitational inverse - square law using a torsion pendulum were performed and the data analyzed for a lorentz - violation signal . in this work , we mainly present a special design for a pendulum experiment to enhance the sensitivity to the violation signal , which has not yet been detected .",
+    "lorentz - invariance violation in the pure - gravity sector with quadratic couplings of the riemann curvature has been described quantitatively by the standard - model extension ( sme).@xcite using the effective field technique , the coupling introduces a correction for the newton gravity , which depends on time and orientation . corresponding to the gravitational potential",
+    ", the correction can be written as : @xmath0 with @xmath1 here , @xmath2 and @xmath3 represent two point masses , and @xmath4 is the separation between them .",
+    "the quantity @xmath5 is the projection of the unit vector @xmath4 along the @xmath6th direction .",
+    "the coefficient @xmath7 for lorentz violation has 15 independent components , as it is totally symmetric with indices @xmath6 , @xmath8 , @xmath9 , @xmath10 ranging over the three spatial directions .    as discussed in ref .",
+    ", shape and edge effects play an important role in determining the sensitivity of the experiment to the coefficients for lorentz - invariance violation : @xmath11 where @xmath12 represents the edge effect , which is related to the geometrical parameters of the test and source masses . to derive an amplified experimental sensitivity to the lorentz - violation signal",
+    ", @xmath12 should be designed as large as possible . however , for our pendulum experiment , we have to work within the maximum capability of the fiber .",
+    "according to eq .",
+    "( [ eq2 ] ) , the violation coefficients @xmath7 are different in different frames .",
+    "thus , the sun - centered frame is usually adopted as the canonical frame to report the results from experiments searching for a lorentz - violation signal , since the coefficients can be regarded as constant on the scale of the solar system .",
+    "the violation coefficients @xmath13 in the sun - centered frame can be connected with the coefficients @xmath7 in the laboratory frame by the rotation matrix @xmath14 : @xmath15 where @xmath14 involves @xmath16 .",
+    "thus , eq .  ( [ eq2 ] ) can be expressed as a fourier series in the sidereal time @xmath17 as : @xmath18\\ ] ] through eqs .",
+    "( [ eq2 ] ) and ( [ eq4 ] ) .",
+    "the nine fourier amplitudes ( @xmath19 , @xmath20 , @xmath21 ) are functions of @xmath22 .     and",
+    "@xmath23 represent the test mass and source mass , respectively .",
+    "the masses are in the striped geometry ( a ) and in the checkered geometry ( b ) .",
+    ", width=326 ]    we reassemble the @xmath22 ( 15 dimensions ) , and redefine the violation coefficients as @xmath24 ( 15 dimensions ) . by introducing @xmath24 ,",
+    "the space @xmath22 is decomposed into 5 subspaces , in which different harmonics of @xmath25 for the lorentz - violation signal are linked to different subspaces , such as : @xmath26 we find @xmath27 is linked to @xmath28 , @xmath29 , @xmath30 , and the other four harmonics of @xmath25 correspond to the other four subspaces , respectively .",
+    "thus , for the lorentz - violation torque , @xmath31 here , the transfer coefficient @xmath32 is related to @xmath33 and the geometrical parameters of the test mass and source mass , and it includes edge effects as described by @xmath12 in eq .",
+    "( [ eq3 ] ) . according to eqs .",
+    "( [ eq5])-([eq7 ] ) , one can seek a special design for the experiment to satisfy the particular research requirements .",
+    "for example , to probe the lorentz - violation coefficients @xmath34 , @xmath35 and @xmath36 better , one can design the test mass and source mass to make @xmath37 , @xmath38 and @xmath39 larger .",
+    "the experimental schematic is similar to that in testing the inverse - square law for hust-2011 ( see fig .  2 in ref .  ) , but the geometrical parameters here are designed differently to amplify the violation signal .",
+    "we analyzed two upgraded designs ( see fig .",
+    "1 ) for the torsion pendulum . in one ,",
+    "the shape of the masses involves a striped geometry ( see fig .",
+    "1(a ) ) , and in the other it involves a checkered geometry ( see fig .",
+    "1(b ) ) . for the test mass @xmath40 and the source mass @xmath23 in the two designs ,",
+    "the gray part and white part represent tungsten and glass , respectively . comparing the results of numerical simulation",
+    ", we find the first design ( striped geometry ) is the better option to increase the lorentz - violation signal .",
+    "theoretically , we decomposed the 15 lorentz - violation coefficients into five parts , with different harmonics of the violation signal corresponding to different parts , which helps to perform the special experimental design required to study a certain violation coefficient .",
+    "in addition , we proposed a design to search for lorentz violation at higher sensitivity , in which the masses are in a striped pattern .",
+    "this work was supported by the national natural science foundation of china ( 11275075 ) ."
+  ],
+  "abstract_text": [
+    "<S> this work mainly presents a preliminary design for a pendulum experiment with both the source mass and the test mass in a striped pattern to amplify the lorentz - violation signal , since the signal is sensitive to edge effects . </S>"
+  ]
+}

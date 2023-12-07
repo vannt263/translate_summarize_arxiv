@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "lorentz and cpt invariance are cornerstones of the foundation of modern physics and essential as fundamental hypothesis of the standard model ( sm ) of particle physics . the standard - model extension including lorentz- and cpt - violating terms has been presented in ref .  .",
+    "an anisotropic cosmic background field coupled to spin-1/2 particles would violate lorentz invariance  ( li ) , which can be tested using spin precession of ultracold neutrons  ( ucn ) .",
+    "going beyond the sm , searches for dark matter ( dm ) are motivated by cosmological observations.@xcite a possible dm candidate is a mirror matter,@xcite which is an sm copy .",
+    "it interacts with sm particles via gravity and presents a viable explanation to dm .",
+    "another class of dm candidates are axion - like particles arising from the peccei - quinn theory,@xcite which are possible mediators of short - range spin - dependent forces .",
+    "spectrometers dedicated to searches for a neutron electric dipole moment ( nedm ) using ucn also lend themselves in an excellent way to searches for signals indicating li , cpt violation and other beyond - sm interactions . here",
+    "we report on results obtained using nedm setup to set a limit on mirror neutron oscillations,@xcite ucn coupling to li violating cosmic background,@xcite and short - range spin - dependent forces.@xcite",
+    "the measurements were performed with the apparatus which was previously used to obtain the current upper limit on the nedm , @xmath0 , at the institute laue - langevin@xcite and is now located at the ucn source of the paul scherrer institute.@xcite the ucns of energies below 160nev are confined in a chamber in vacuum exposed to a homogenous magnetic field of @xmath1 @xmath2 t . after filling the chamber with @xmath3 ucns , the remaining ucn number after a storage time @xmath4 is given by : @xmath5    where the decay time constant @xmath6 includes the neutron lifetime @xmath7 and @xmath8 takes into account all other neutron - loss mechanisms .",
+    "for simplicity , here , we neglect energy dependencies of the losses .",
+    "an exotic interaction would introduce an additional channel @xmath9 of ucn loss .",
+    "the spectrometer was designed to measure tiny changes of the larmor precession frequency @xmath10 using ramsey s method of separated oscillatory fields .",
+    "possible exotic interaction coupling the spin of ucn to a pseudomagnetic field will shift the larmor precession @xmath11 .",
+    "the measurement of the larmor precession @xmath12 of polarized @xmath13hg atoms in the same volume allows to correct for magnetic field fluctuations . a statistical sensitivity and an excellent control over systematic effects",
+    "was reported in ref .  .",
+    "we searched for neutron  mirror - neutron ( nn@xmath14 ) oscillations by comparing the ucn storage in the presence and the absence of a magnetic field.@xcite the transitions into mirror neutrons would add a neutron - loss channel and the storage time constant measured with magnetic field would be longer than without magnetic field . measuring neutron - loss rates in different magnetic fields , we set a limit on the nn@xmath14 oscillation time @xmath15 .",
+    "later , a more stringent limit@xcite of @xmath16 was reported .",
+    "further studies take into account mirror - magnetic fields@xcite and the latest analysis@xcite suggests more experiments to be performed .    in order to test li , we searched for a sidereal modulation of the neutron larmor frequency induced by @xmath17 , the component of * b * orthogonal to the earth s rotation axis .",
+    "while the earth is rotating , the local magnetic field rotates with the earth , and the interaction appears in a harmonic change of @xmath18 .",
+    "no daily variations of @xmath19 were found and an upper limit on the li violating cosmic background @xmath20 ev ( 95% c.l . )",
+    "was deduced .",
+    "further , the nedm magnitude modulation in periods of 12 and 24  hours was constrained@xcite to @xmath21 cm and @xmath22 cm .    in a search for spin - dependent interactions ,",
+    "the coupling between polarized ucn and unpolarized nucleons of the chamber s surface was studied.@xcite the interaction strength can be described by a pseudomagnetic field and is proportional to the cp violating product of scalar and pseudoscalar coupling constants , @xmath23 .",
+    "no change in the larmor precession frequency induced by a pseudomagnetic interaction was found , which results in the most stringent upper limit for neutrons of @xmath24 m@xmath25 for a range of 1 @xmath2 m @xmath26 5 mm .",
+    "an improved limit@xcite of @xmath27  m@xmath25 was set with @xmath28he .",
+    "the sensitivity of the spectrometer to spin - dependent forces can be increased by replacing one of the surfaces with a material of higher nucleon density .",
+    "a recently developed spin - echo technique will allow to take into account systematic effects from the interplay of a vertical magnetic - field gradient and the gravitational ucn density striation.@xcite    in conclusion , a significantly improved sensitivity is expected in the near future with the the same experimental installation due to increase of ucn number detected after storage and better control over systematic effects .",
+    "i would like to thank greatly the organizers of the cpt16 meeting , the ucn group at psi , and colleagues from the nedm collaboration ."
+  ],
+  "abstract_text": [
+    "<S> ultracold neutrons were used to search for signals indicating the violation of lorentz and cpt invariance or the existence of dark matter using the spectrometer to search for an electric dipole moment of the neutron . </S>"
+  ]
+}

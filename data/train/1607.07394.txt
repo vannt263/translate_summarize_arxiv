@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the solar system remains the most precise laboratory to test the theory of gravity , that is to say general relativity ( gr ) .",
+    "constraints on deviations from gr can only be obtained in an extended theoretical framework that parametrizes such deviations .",
+    "the parametrized post - newtonian formalism is one of them and has been widely used for decades .",
+    "more recently , other phenomenological frameworks have been developed like the standard - model extension ( sme ) , which is an extensive formalism that allows a systematic description of lorentz symmetry violations in all sectors of physics , including gravity .",
+    "we present here new constraints on pure - gravity sector coefficients of the minimal sme obtained with very long baseline interferometry ( vlbi ) , lunar laser ranging ( llr ) and planetary motions .",
+    "we also assess the possibility to constrain them using future asteroids observations by gaia .",
+    "vlbi is a geometric technique which measures the time difference in the arrival of a radio wavefront emitted by a distant radio source ( typically a quasar ) between at least two earth - based radio telescopes , with a precision of a few picoseconds .",
+    "although this technique is initially dedicated to tracking the earth s rotation and enabling the realization of global reference frames , it allows also performing fundamental physics tests by measuring the relativistic bending of light rays due to the sun and the planets .",
+    "recently , the vlbi gravitational group delay has been derived in the sme formalism ( see eqs .",
+    "( 7 ) and  ( 10 ) from ref .  ) . using observations between august 1979 and mid-2015 consisting of almost 6000 vlbi 24-hr sessions ( corresponding to 10 million delays )",
+    ", we turned to a global solution in which we estimated @xmath0 as a global parameter together with radio source coordinates .",
+    "we obtained@xcite @xmath1 with a global postfit rms of 28  ps and a @xmath2 per degree of freedom of 1.15 .",
+    "correlations between radio source coordinates and @xmath0 are lower than 0.02 , the global estimate being consistent with the mean value obtained with the session - wise solution with a slightly lower error .",
+    "some years ago , a first estimate of sme coefficients with llr data has been obtained.@xcite however it was a fit of theoretical sme signatures in residuals of llr measurements analyzed previously in pure gr .",
+    "this kind of approach is not fully satisfactory and provides order of magnitude upper limits on sme coefficients but not real estimates or constraints on them ( see the discussion in ref .  ) .",
+    "therefore , we built a new numerical lunar ephemeris called the _ ephmride lunaire parisienne numrique _",
+    "( elpn ) computed in the sme framework , taking into account effects of the sme on the orbital dynamics and on the propagation of light.@xcite a global adjustment to llr observations allows us to estimate properly some linear combinations of sme coefficients , as illustrated in table  [ tab1 ] ( see also ref .  ) .",
+    "those constraints take into account correlations between sme coefficients and other parameters ( such as positions , velocities , masses ,  ) and are more reliable than the first analysis from ref .  .",
+    "launched in december 2013 , the esa gaia mission is scanning the whole celestial sphere once every 6 months providing high precision astrometric data for a huge number ( @xmath3 1 billion ) of celestial bodies .",
+    "in addition to stars , it is also observing solar system objects .",
+    "in particular , about 360,000 asteroids will regularly be observed at the sub - mas level .",
+    "we simulated the trajectories of 10,000 asteroids within the sme framework and performed a realistic covariance analysis taking into account the gaia trajectory and scanning law ( see ref .   for more details about the strategy ) .",
+    "the covariance analysis leads to the estimated uncertainties presented in table  [ tab : sme ] ( see ref .  ) .",
+    "these uncertainties are better than the current best estimations of the sme parameters available in the literature.@xcite in particular , they are better than ones obtained with planetary ephemerides.@xcite this is due to the variety of asteroid orbital parameters while planetary ephemerides use only 8 planets with similar orbital parameters ( same orbital planes and nearly circular orbits ) . therefore , the estimation of the sme coefficients with planetary ephemerides are highly correlated , which degrades the marginalized sme estimates ( see the discussion in ref .  ) .",
+    "using our set of asteroids , the correlation matrix for the sme coefficients is very reasonable : the three most important correlation coefficients are 0.71 , @xmath4 , and 0.46 .",
+    "all the other correlations are below 0.3 .",
+    "therefore , gaia offers a unique opportunity to constrain lorentz violation through the sme formalism .",
+    "c c sme coefficients & sensitivity + @xmath5 & @xmath6 + @xmath7 & @xmath8 + @xmath9 & @xmath10 + @xmath11 & @xmath12 + @xmath13 & @xmath10 + @xmath14 & @xmath15 + @xmath16 & @xmath17 + @xmath18 & @xmath19 +    [ tab : sme ]",
+    "we presented our latest constraints on gravity - sector sme coefficients obtained with llr and vlbi observations .",
+    "we highlighted also the improvement that we can expect from gaia observations of asteroids in the future .",
+    "a combined analysis with planetary ephemerides analysis,@xcite lunar laser ranging,@xcite atom interferometry,@xcite and binary pulsars@xcite would also be very interesting in order to decorrelate almost all gravity - sector sme coefficients and produce the most stringent estimate on the sme coefficients .",
+    "our analysis needs to be extended to include gravity - matter lorentz violation in the sme framework .",
+    "q.g.b .  acknowledges financial support from the nsf grant no .",
+    "phy-1402890 and from sorbonne universits through an `` emergence '' grant ."
+  ],
+  "abstract_text": [
+    "<S> lorentz symmetry violations can be parametrized by an effective field theory framework that contains both general relativity and the standard model of particle physics , called the standard - model extension or sme . </S>",
+    "<S> we consider in this work only the pure gravitational sector of the minimal sme . </S>",
+    "<S> we present new constraints on the sme coefficients obtained from lunar laser ranging , very long baseline interferometry , and planetary motions . </S>"
+  ]
+}

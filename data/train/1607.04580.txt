@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "h.a . thanks the department of physics , astronomy and geosciences and fisher college of science and math , towson university , for travel support ."
+  ],
+  "abstract_text": [
+    "<S> we use experimental limits on lorentz violation to obtain new constraints on kaluza - klein - type theories in which the extra dimensions may be large but do not necessarily have units of length . the associated variation in fundamental quantities such as rest mass must occur slowly , on cosmological scales .    current approaches to unification of fundamental interactions based on extra dimensions generally assume that those dimensions are compact ( as in string theories ) or mere mathematical contrivances ( as in projective theories ) , or that they are large but `` off limits '' to standard - model fields ( as in brane theories ) . here </S>",
+    "<S> we explore the alternative idea that extra dimensions may be large but may not share the lengthlike character of the three macroscopic spatial dimensions ( as in space - time - matter theory).@xcite    any fifth coordinate @xmath0 will introduce an additional term in the lorentz factor of special relativity , as follows : @xmath1 where @xmath2 and we maintain an open mind with regard to signature . </S>",
+    "<S> consider the idea that @xmath0 might be proportional to rest mass @xmath3 ( fig .  </S>",
+    "<S> [ fig1]).@xcite    -direction is measured in light years , the orbital radius is only eight light minutes and this trajectory is almost perfectly straight  a geodesic in very nearly flat spacetime . </S>",
+    "<S> far right , a possible fourth dimension proportional to mass . </S>",
+    "<S> `` motion '' in this direction might manifest itself as a slow change in the rest masses of elementary particles ( angle with respect to the @xmath4-axis greatly exaggerated ) . ]    on dimensional grounds , @xmath5 where @xmath6 . </S>",
+    "<S> experiment tells us that the new term must be small , so we can taylor expand : @xmath7 \\ ; . \\label{tayloreq}\\ ] ] lorentz - violating terms of this kind occur in a comprehensive dynamical generalization of all known interactions termed the standard - model extension or sme.@xcite it has been shown@xcite that the sme fully incorporates an earlier kinematical generalization of special relativity ( sr ) known as robertson - mansouri - sexl ( rms ) theory.@xcite in rms theory , a preferred frame modifies the standard lorentz transforms such that @xmath8 , where @xmath9 are coordinates in the preferred frame , and the functions @xmath10 describe time dilation , length contraction , transverse length contraction and clock synchronization respectively . </S>",
+    "<S> @xmath11 is a generalization of the lorentz factor @xmath12 in eq .  </S>",
+    "<S> ( [ gammadefn ] ) . </S>",
+    "<S> mansouri and sexl showed on general grounds that @xmath13 where @xmath14 are constants whose values go over to @xmath15 in the sr limit and 0,0 in the limit of galilean relativity . </S>",
+    "<S> constraints on the rms parameters @xmath14 come from tests of the relativistic doppler effect , known as the ives - stilwell ( is ) experiment ; and from the kennedy - thorndike ( kt ) experiment , a modified form of the original michelson - morley experiment with arms of different length . </S>",
+    "<S> recent limits are @xmath16 ( is)@xcite and @xmath17 ( kt).@xcite combining these expressions , and comparing eq .  </S>",
+    "<S> ( [ tayloreq ] ) for @xmath12 with eq .  </S>",
+    "<S> ( [ rmseq ] ) for @xmath11 , we arrive at @xmath18 from which it follows that @xmath19  kg / s ( assuming that @xmath20 ) . </S>",
+    "<S> the weakness of this constraint follows from the tiny value of the dimension - transposing constant @xmath21 in everyday units .    </S>",
+    "<S> a possible interpretation of the constraint  ( [ betaconstraint ] ) is that there is a slow variation in the masses of elementary particles on cosmological timescales . indeed , dividing by the mass of the observable universe , @xmath22 ( where @xmath23 , @xmath24 is the hubble expansion rate , @xmath25 the age of the universe , and @xmath26 from observation ) , we find that @xmath27 . on this interpretation </S>",
+    "<S> , the origin of mass might be attributed dynamically to a fifth dimension . </S>",
+    "<S> this could perhaps be regarded as a geometrical counterpart to the higgs mechanism , with the degree of freedom inherent in a scalar field being associated instead with a new coordinate . </S>",
+    "<S> related ideas have been explored by others.@xcite    there is a satisfying symmetry in placing mass on the same footing as space and time , since these are the three base dimensions of fundamental physics . </S>",
+    "<S> other possibilities exist as well . </S>",
+    "<S> the fundamental constants give us three possible dimension - transposing factors @xmath28 , which we might guess involve gravity , relativity and particle physics respectively . </S>",
+    "<S> ( alternatively , it is suggestive that black holes are characterized by precisely three properties : mass , charge and spin . ) </S>",
+    "<S> we have carried out analogous calculations for extra dimensions related to mass @xmath3 by @xmath29 to charge @xmath30 via @xmath31 and to spin @xmath32 by @xmath33 , with similar conclusions in each case . in future work </S>",
+    "<S> , we hope to report more fully on these possibilities , and to express our results in terms of sme parameters.@xcite </S>"
+  ]
+}

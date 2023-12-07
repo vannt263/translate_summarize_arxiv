@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "to date no violation of the symmetry of cpt has been observed .",
+    "the cpt theorem predicts that particles and antiparticles have identical ( or sign - opposite ) properties and therefore , in case of atoms , the same characteristic spectrum .",
+    "nevertheless the matter and antimatter asymmetry in the universe is quantitatively unexplained .",
+    "the asacusa collaboration aims to investigate this issue by measuring the ground state hyperfine transitions in antihydrogen , the simplest antiatom .",
+    "the first ingredients of antihydrogen atoms , the antiprotons , are extracted from the cern antiproton decelerator ( ad ) facility , and are accumulated in a penning trap .",
+    "the trapped antiprotons are then combined with positrons inside a so - called cusp trap and antihydrogen will be formed in a  mixing ",
+    "process.@xcite the neutral antihydrogen atoms escape the trapping field and enter the spectroscopy apparatus .",
+    "the rabi - like spectrometer line@xcite consists of a microwave cavity for inducing spin flips , a superconducting sextupole magnet for analyzing the spin state and a detector for counting antihydrogen atoms composed of a central detector , where the annihilation takes place , and a two layer hodoscope for tracking the charged annihilation products .",
+    "the central detector is a 10  cm diameter bismuth germanate ( bgo ) disc with a thickness of 5  mm .",
+    "the bgo crystal is read by multi anode photomultipliers providing energy and position information of the events.@xcite",
+    "@xmath0{kolbinger - fig1.eps }       \\includegraphics[width=0.6\\hsize]{kolbinger - fig2.eps } \\end{array}$ ]    @xmath1{kolbinger - fig3.eps }       \\includegraphics[width=3.5cm]{kolbinger - fig4.eps }       \\includegraphics[width=4.8cm]{kolbinger - fig5.eps } \\end{array}$ ]    the tracking detector is composed of two layers of segmented hodoscopes , each made of 32 plastic scintillating bars .",
+    "the hodoscope covers 50@xmath2 of the solid angle and its dimensions are shown in fig .",
+    "[ fig : hodor ] .",
+    "light guides are attachd on both sides of the bars to match the detecting area of the silicon photomultipliers .",
+    "these are read using self developed front - end electronics,@xcite and caen v1742 waveform digitisers .",
+    "the recorded data is then analyzed using a self developed modular waveform analysis library.@xcite the angular track resolution is defined by the geometry of the bars and via the two sided read - out of the bars . the hit position in beam direction",
+    "can be determined by combining the information of timing and amplitude of the recorded waveforms . for the outer hodoscope bars the resolution was determined to be 73@xmath33  mm fwhm and for the inner bars 59@xmath34  mm fwhm.@xcite this allows rudimentary traking in 3d in order to discriminate between straight tracks created by cosmics and tracks with a kink due to antiproton annihilations .",
+    "a relativistic particle with a velocity close to the speed of light needs approximately 1  ns to travel a distance of 30  cm . with a time of flight resolution of @xmath4 600 ps",
+    "it is therefore possible to separate events stemming from inside due to antiproton annihilations from those passing the detector from outside .",
+    "see fig .",
+    "[ fig : events ] .",
+    "the time of flight resolution was measured with cosmic particles in the laboratory by calculating the mean time difference of two bars resulting in 551@xmath35  ps fwhm for outer bars and 497@xmath33  ps for inner bars.@xcite this was remeasured in the complete setup at the ad during beam time this year .",
+    "see the right plot of fig .",
+    "[ fig : events ] which displays the preliminary distribution of the mean time difference histogram of the outer hodoscope for cosmic events .",
+    "the results show a slightly higher fwhm of about 900  ps which is under investigation and can most likely be explained by the longer signal cables in the full setup and differences in the data acquisition system .",
+    "this work was funded by the european research council under european union s seventh framework programme ( fp7/2007 - 2013)/erc grant agreement ( 291242 ) and the austrian ministry of science and research , austrian science fund ( fwf ) : dk pi ( w 1252 ) . hardware development and manufacturing",
+    "was performed by the smi workshop ."
+  ],
+  "abstract_text": [
+    "<S> the asacusa ( atomic spectroscopy and collisions using slow antiprotons ) collaboration at the antiproton decelerator at cern aims to measure the ground state hyperfine structure of antihydrogen . </S>",
+    "<S> a rabi - like spectrometer line has been built for this purpose . </S>",
+    "<S> a detector for counting antihydrogen is located at the end of the beam line . </S>",
+    "<S> this contribution will focus on the tracking detector , whose challenging task it is to discriminate between background events and antiproton annihilations originating from antihydrogen atoms which are produced only in small amounts . </S>"
+  ]
+}

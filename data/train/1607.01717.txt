@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "in recent experiments of relativistic heavy ion collisions realized at the brookhaven rhic and at the cern lhc , the production of a deconfined and strongly coupled quark - gluon plasma ( qgp ) has been detected .",
+    "the qgp expands anisotropically and cools , reaching the hydrodinamic regime after a time of order 1 fm / c .",
+    "the relaxation towards equilibrium can be studied in the holographic approach , a framework inspired by the gauge / gravity correspondence .",
+    "this conjecture relates a strongly coupled super - yang mills gauge theory defined in a @xmath0-dimensional minkowski space ( boundary ) with a dual classical gravity theory living in a @xmath1-dimensional anti - de sitter space ( bulk ) times a compact manifold  @xcite .",
+    "the evolution of the qgp initial state , anisotropic and far from equilibrium , can be examined by introducing an impulsive perturbation ( quench ) to the metric on the boundary , and then solving the einstein equations in the bulk  @xcite . in our analysis ,",
+    "the external sources that distort the boundary metric are chosen to mimic processes in which a small number of collisions occur .",
+    "as the quench becomes static , the system starts to relax towards the hydrodinamic regime .",
+    "the boundary coordinates are denoted as @xmath2 , with @xmath3 the collision direction .",
+    "we assume that the geometry is invariant under boost transformations along this axis and under translations and rotations in the transverse plane @xmath4 .",
+    "the minkowski line element @xmath5 , with @xmath6 the proper time and @xmath7 the spacetime rapidity @xmath8 and @xmath9 , is perturbed through the quench @xmath10 as follows : @xmath11 the stress - energy tensor on the boundary yields a local probe of the relaxation process and a measure of the residual anisotropy in the plasma .",
+    "its components , the energy density and the pressures longitudinal and transverse with respect to the collisional axis , have been computed for different quench profiles and compared to the viscous hydrodinamics behaviour .",
+    "regardless of the considered distortion , hydrodinamization of the stress energy - tensor is a two - step process : the energy density acquires the viscous form as soon as the quench is switched off , while pressure isotropy is restored with a time delay of order of @xmath12 fm / c , for an effective temperature at the end of the quench of about @xmath13 mev  @xcite .",
+    "such description can be compared to the one deduced from the time evolution of non - local observables  @xcite , as presented in the next section for a particular distortion profile  @xcite .",
+    "the relaxation process can be monitored through non - local probes , such as the two - point correlation function of boundary theory operators , and expectation values of wilson loops defined on the boundary  @xcite .",
+    "the system under investigation is driven out - of - equilibrium by boundary sourcing using a sequence of two nearly - overlapping pulses , as shown in fig .",
+    "[ fig ] ( top left ) .    .",
+    "upper right : geodesics length @xmath14 for different vales of the size @xmath15 .",
+    "lower left : difference @xmath16 between the geodesics lengths of size @xmath15 in the quenched and in the hydrodynamic geometries .",
+    "lower right : non - local probes @xmath16 , @xmath17 and @xmath18 at the isotropization time @xmath19.,scaledwidth=90.0% ]    we consider the correlation function of a boundary scalar operator @xmath20 with large conformal dimension @xmath21 , between two equal - time points having a spatial separation @xmath15 in the transverse plane : @xmath22 and @xmath23 . in the holographic picture , this observable can be approximated as @xmath24 , where @xmath25 is the length of the geodesic that connects the boundary points and extends in the bulk at fixed @xmath26 .",
+    "figure  [ fig ] ( top right ) shows the evolution of @xmath14 for several values of the distance @xmath15 between the points in the correlation function : the curves follow the distortion profile , with a time delay that increases with the size of the probe . in order to evaluate the degree of thermalization of the system , it is interesting to examine the difference @xmath16 between the length @xmath14 in the geometry under investigation and the same observable computed in a bulk metric reproducing the viscous hydrodynamic time dependence of the stress - energy tensor  @xcite . the evolution of @xmath16 after the end of the quench is shown in fig .  [ fig ] ( bottom left ) for different values of @xmath15 . each curve is plotted starting from the value of the physical time @xmath27 , at which it is no longer affected by the quench .",
+    "an analogous approximation can be used to compute the expectation value of the wilson loop along a closed contour @xmath28 of linear size @xmath15 and fixed time @xmath29 on the boundary : @xmath30 , with @xmath31 the area of the extremal surface bounded by @xmath28 and plunging in the bulk at fixed @xmath7 .",
+    "two shapes for @xmath28 have been considered : a rectangular strip of finite width @xmath15 along the @xmath32 axis and infinite length along @xmath33 , and a circular path of diameter @xmath15 in the transverse plane @xmath4 .",
+    "the areas of the extremal surfaces bounded by these contours , @xmath34 and @xmath35 respectively , and the differences @xmath17 and @xmath36 between the observables in the quenched and in the hydrodynamic geometries , have been worked out in  @xcite .",
+    "the behaviour of such quantities resembles the one in fig .",
+    "[ fig ] ( top right and bottom left ) for the geodesics case .",
+    "the time at which each non - local probe reaches the viscous hydrodynamic regime depends on its size : for larger boundary separation between the geodesics extremes or among the contour points , the quantities @xmath14 , @xmath34 and @xmath35 take longer to equilibrate .",
+    "the thermalization time can be identified with the half - life @xmath37 , defined as the value of @xmath29 at which @xmath16 , @xmath17 and @xmath36 are reduced by a half with respect to their values at time @xmath27 .",
+    "the analysis reveals that @xmath37 exceeds the thermalization time obtained from the stress - energy tensor for boundary separations @xmath38 , and increases linearly with @xmath15 for larger probes .",
+    "a hierarchy among the relaxation times of the energy density , pressures and large probes emerges , indicating that thermalization is faster at uv scales .",
+    "although the three non - local observables have the same qualitative behaviour with @xmath29 and @xmath15 , their half - lives and thermalization length scales are quantitatively different . for a comparison ,",
+    "we show in fig .",
+    "[ fig ] ( bottom right ) the @xmath15-dependence of the quantities @xmath16 , @xmath17 and @xmath18 at the physical time @xmath19 at which pressure isotropy is restored in the plasma  @xcite . it is possible to identify for each function a transition to a linear regime .",
+    "the inflection point of the first derivative can be used to characterize the onset of the linear behaviour , and defines the length scale above which the probe is not thermalized at the chosen time  @xcite .",
+    "the rectangular wilson loop thermalizes slower than the other non - local probes ."
+  ],
+  "abstract_text": [
+    "<S> the thermalization of a strongly coupled plasma is examined in the holographic framework through non - local observables : the equal - time two - point correlation function of a large dimension boundary operator , and wilson loops of different shapes . </S>",
+    "<S> the evolution of the probes from an initial far - from - equilibrium state to a hydrodynamic regime is found to depend on their size . </S>",
+    "<S> a hierarchy among the thermalization times of the energy density , the pressures and the large size probes , is identified : the relaxation process is faster at short distances . </S>"
+  ]
+}

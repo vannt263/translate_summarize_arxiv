@@ -1,0 +1,18 @@
+{
+  "article_text": [
+    "since first cosmological evidences , the the dark matter ( dm ) direct detection continues to remain an open issue .",
+    "this puzzle can be solved hypothesizing that the dm does not directly interact with the standard model ( sm ) gauge fields , but only by means of `` portals '' that connect our world with this dark sector .",
+    "the simplest model adds a u(1 ) symmetry and its corresponding vector boson @xmath2 @xcite : sm particles are neutral under this symmetry , while the new field couple to sm with an effective charge @xmath3 and for this reason is often called dark photon ( dp ) .    recently has been noted that an @xmath2 with mass in the range @xmath4 to @xmath5 and constant @xmath6 can explain the discrepancy between theory and experiment on the muon anomalous magnetic moment @xmath7 @xcite .",
+    "approved by the infn at the end of 2015 , padme will search for dp that decays into invisible channels ( dm or long lived @xmath2 independently of the decay products nature ) @xcite .",
+    "the experiment is designed to detect as missing energy the @xmath2 produced in the reaction @xmath8 , where @xmath9 , provided by the lnf linac , inping on a fixed target .",
+    "since the initial state kinematic is known ( @xmath10 and @xmath11 for the @xmath12 and the @xmath9 , respectively ) , the @xmath2 invariant mass can be determined measuring the photon in the final state ( @xmath13 ) :          figure [ fig : detector ] shows the experiment layout .",
+    "the detector consists in an active target ( diamond with graphitic strips to determine the beam position ) , a mbp - s dipole , that deflects the exaust beam and direct the @xmath9 that lost energy ( the majority for bremsstrahlung ) towards the vetoes , an electromagnetic calorimeter ( @xmath21 @xmath22 bgo with energetic resolution @xmath23 ) , that measures the energy and the angle of produced @xmath24 , with a central opening to let bremsstrahlung radiation to pass , which is then identified by the small angle calorimeter ( @xmath25 @xmath26 sf57 leaded glasses ) .",
+    "main backgrounds to be reduced with the detector geometry are the @xmath27 annihilation into @xmath28 or @xmath29 @xmath24 and the bremsstrahlung , while the pile - up , being connected to the bunch density , will be the most important limiting factor to the padme sensitivity .",
+    "the collaboration aims to build the detector by the end of 2017 and to collect @xmath30 @xmath16 positrons on target by the end of 2018 , reaching a sensitivity on the dp coupling constant to the sm charge @xmath31 of @xmath32 and a dp mass up to @xmath0 ( see fig .",
+    "[ fig : sensitivity ] ) ."
+  ],
+  "abstract_text": [
+    "<S> the padme experiment , hosted at the laboratori nazionali di frascati , will search for a dark photon that decays in invisible channels with a mass up to @xmath0 and coupling constant down to @xmath1 .    </S>",
+    "<S> = 1 </S>"
+  ]
+}

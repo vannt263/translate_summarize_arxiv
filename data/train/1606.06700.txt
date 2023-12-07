@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "the launch of space photometric missions , such as corot , most , or _ kepler _ , has revolutionized many branches of stellar astrophysics . extremely precise and nearly continuous photometric observations led to many discoveries and improvements in studies of various kinds of variable stars .",
+    "one of the fields that benefited the most are detached eclipsing binaries ( debs ) .",
+    "these are one of the most important objects for the astrophysics , as they allow to directly determine a number of fundamental stellar parameters , that are difficult or sometimes impossible to obtain otherwise .",
+    "the unprecedented photometric quality of _ kepler _ data has opened new possibilities in studies of debs , as it allows for better than before precision in derivation of light - curve - based parameters , like fractional radii or orbital inclination , and observations of various other phenomena , for example : differential rotation , activity cycles , pulsations , including tidally induced , solar - like oscillations , etc .",
+    "the _ kepler _ mission has revealed a zoo of objects , showing variety of characteristics .",
+    "the photometry alone , however , is not enough to accurately characterize a given deb .",
+    "one has to combine it with information obtained from spectra , optimally taken with high resolution .",
+    "this information includes for example : precise radial velocities ( rvs ) , monitored in time in order to observe their variability , or atmospheric parameters obtained from spectral analysis .",
+    "only such a complete set of data is useful for the purposes of modern stellar astrophysics .",
+    "studies of debs are important not only because of the information one can obtain for a particular object .",
+    "characterisation of a large number of targets is beneficial for statistical studies , from which one can draw conclusions about , e.g. , the amount of binaries and higher - order multiples , or mechanisms of their formation and evolution .    for this reason , we have started a spectroscopic monitoring of the brightest _ kepler _ debs with the 1.88-m telescope of the okayama astrophysical observatory . for the purpose of precise characterization of stellar components , one should target those debs that are also double - lined spectroscopic binaries ( sb2s ) .",
+    "however , it is also possible derive many important information from single - lined ( sb1 ) objects . in this study",
+    "we present a sample of such systems , showing the variety they represent  from primary components of exotic binaries , to multiples of different orders .",
+    "this work is organized as follows . in section [ sec_targets ]",
+    "we briefly present the target selection criteria for our whole program , and basic information about the systems presented here .",
+    "section [ sec_data ] presents the data used for this study .",
+    "section [ sec_analysis ] presents all the methods used for this work , including spectra reduction , derivation of rvs and eclipse timing measurements , modelling rv and light curves , and comparison with isochrones .",
+    "the results , are presented in section [ sec_results ] , and the last section contains a short summary .",
+    "[ cols=\"<,<,<,<,<,<,^,<,<\",options=\"header \" , ]"
+  ],
+  "abstract_text": [
+    "<S> we present results of our spectroscopic observations of nine detached eclipsing binaries ( debs ) , selected from the _ kepler _ eclipsing binary catalog , that only show one set of spectral lines . </S>",
+    "<S> radial velocities ( rvs ) were calculated from the high resolution spectra obtained with the hides instrument , attached to the 1.88-m telescope at the okayama astrophysical observatory , and from the public apogee archive .    </S>",
+    "<S> in our sample we found five single - lined binaries , with one component dominating the spectrum . </S>",
+    "<S> the orbital and light curve solutions were found for four of them , and compared with isochrones , in order to estimate absolute physical parameters and evolutionary status of the components . </S>",
+    "<S> for the fifth case we only update the orbital parameters , and estimate the properties of the unseen star . </S>",
+    "<S> two other systems show orbital motion with a period known from the eclipse timing variations ( etvs ) . for these we obtained parameters of outer orbits , by translating the etvs to rvs of the centre of mass of the eclipsing binary , and combining with the rvs of the outer star . </S>",
+    "<S> of the two remaining ones , one is most likely a blend of a faint background deb with a bright foreground star , which lines we see in the spectra , and the last case is possibly a quadruple bearing a sub - stellar mass object .    where possible , we compare our results with literature , especially with results from asteroseismology . </S>",
+    "<S> we also report possible detections of solar - like oscillations in our rvs .    </S>",
+    "<S> [ firstpage ]    binaries : spectroscopic  binaries : eclipsing  stars : evolution  stars : fundamental parameters  stars : late - type  stars : individual : kic  03120320 , kic  04758368 , kic  05598639 , kic  08430105 , kic  08718273 , kic  10001167 , kic  10015516 , kic  10614012 , kic  10991989 </S>"
+  ]
+}

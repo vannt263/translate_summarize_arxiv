@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "assuming that cosmic ray ( cr ) protons are injected at the shock front of a nova explosion at a constant rate with an energy spectrum @xmath9 , such that the total energy stored in cr protons over the source lifetime of the ejecta , @xmath10 , is : @xmath11 we define the cr proton production efficiency factor : @xmath12 where @xmath13 is the total kinetic energy of the ejecta , hence : @xmath14    cr protons injected at the shock front are advected downstream , where they interact with the ambient plasma through proton - proton ( @xmath15 ) interactions , and may eventually escape diffusively .",
+    "the characteristic timescales for these processes are @xmath16 and @xmath17 , respectively .",
+    "therefore , the cr proton energy spectrum , @xmath18 , evolves accordingly to : @xmath19 where @xmath20 .",
+    "note here @xmath15 interactions are modelled as `` catastrophic '' energy losses , and cr proton diffusion in the downstream is approximated by a simple `` escape '' term .",
+    "the solution to the above equation at a given moment of time @xmath21 reads then as : @xmath22 assuming that @xmath23 is independent of time .",
+    "the @xmath15 interactions lead to the production of @xmath3-ray photons with energies @xmath24 ( see * ? ? ?",
+    "* ) , with a monochromatic luminosity at a given moment @xmath21 approximately : @xmath25 \\simeq \\eta_{\\gamma } \\,\\ , \\frac{e^2 n(e,\\tau_{\\rm ej})}{\\tau_{\\rm pp } }",
+    "] where the numerical factor @xmath26 is of the order of @xmath27 ( @xmath28 because , in addition to @xmath3 rays , secondary @xmath29 pairs and neutrinos are also produced in @xmath15 interactions ) .",
+    "hence , around the peak photon energies for which @xmath30 \\simeq l_{\\gamma}$ ] , with corresponding @xmath31 , one has : @xmath32 ( equations b3 , b5 , and b6 ) .",
+    "* @xmath33 , where the source lifetime is much shorter than either the @xmath15 interaction timescale or the cr proton escape timescale . under such conditions , @xmath34 ,",
+    "thus : @xmath35 this case describes a young system where cr protons injected downstream have yet to escape , and only _ some _ fraction ( @xmath36 ) of the total energy stored in cr protons at the shock front could be transferred to the @xmath3-ray emission ( depending on @xmath16 and regardless of @xmath17 ) . *",
+    "@xmath37 and @xmath38 , where the @xmath15 interaction timescale is much shorter than both the cr proton escape timescale and the source lifetime . under such conditions , @xmath39 and @xmath40 ,",
+    "thus : @xmath41 here , cr protons injected downstream produce @xmath3-rays so efficiently that all the energy stored in cr protons at the shock front is transferred immediately to @xmath3-ray emission . * @xmath42 and @xmath43 , where the escape timescale is much shorter than both the @xmath15 interaction timescale and the source lifetime . under such conditions , @xmath44 and @xmath45 ,",
+    "thus : @xmath46 here , cr protons injected downstream escape so efficiently , that only a very small fraction ( @xmath47 ) of the total energy stored in cr protons at the shock front is transferred to the @xmath3-ray emission over the source lifetime ."
+  ],
+  "abstract_text": [
+    "<S> we report the  large area telescope ( lat ) detections of high - energy ( @xmath0100mev )  emission from two recent optically bright classical novae , v1369 centauri 2013 and v5668 sagittarii 2015 . at early times ,  </S>",
+    "<S> target - of - opportunity observations prompted by their optical discoveries provided enhanced lat exposure that enabled the detections of  onsets beginning @xmath12days after their first optical peaks . </S>",
+    "<S> significant  emission was found extending to 39@xmath255days after their initial lat detections , with systematically fainter and longer duration emission compared to previous  detected classical novae . </S>",
+    "<S> these novae were distinguished by multiple bright optical peaks that encompassed the timespans of the observed @xmath3 rays . </S>",
+    "<S> the  light curves and spectra of the two novae are presented along with representative hadronic and leptonic models , and comparisons to other novae detected by the lat are discussed .    </S>",
+    "<S> [ cols=\"<,^,^\",options=\"header \" , ]     days indicated are the centers of the 1-day bins relative to the defined start times ( ) . </S>",
+    "<S> ts values and @xmath0100mev fluxes , @xmath4 , in units of @xmath5  ( @xmath6 upper limits when ts @xmath7 ) are presented . </S>",
+    "<S> the gap in observations of  from @xmath850.0 to @xmath862.0days is due to a lat too on sn2014j in m82 . </S>",
+    "<S> [ table - lc ] </S>"
+  ]
+}

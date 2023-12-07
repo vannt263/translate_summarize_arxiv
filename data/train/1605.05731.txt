@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "while massive black holes ( bhs ; here defined as @xmath7  @xmath3 ) are ubiquitous in the centers of galaxies of milky way mass and larger @xcite , little is known about the occurrence rate and properties of bhs in dwarf galaxies ( i.e. , galaxies with @xmath8  @xmath3 ) . studying",
+    "the population of bhs in dwarf galaxies is useful for understanding bh formation and growth in the early universe .",
+    "having had relatively quiet merger histories , their bhs may have masses similar to their  birth \" mass ( e.g. , @xcite ) .",
+    "clues to the formation of bh seeds may reside in the well studied relation between bh mass and stellar velocity dispersion ( see e.g. , @xcite ) . using semi - analytic modeling , @xcite find that , while the relationship between bh mass and velocity dispersion ( or the @xmath9 relation ) is in place by @xmath10 for massive halos , systems with lower mass bhs ( @xmath11 ) evolve onto it at later times .",
+    "if bh seeds form  light \" ( @xmath12 ; the remnants of population iii stars , see e.g. , @xcite ) , then bhs begin as undermassive with respect to the local @xmath6 relation , and will evolve towards it from below . alternatively , if bh seeds form  heavy \" ( @xmath13 ; through direct collapse of gas clouds , e.g. , @xcite ) , then bhs are initially overmassive and systems evolve rightwards onto the relation ( i.e. , towards higher velocity dispersions ) as the host galaxies grow through mergers . the smallest @xmath14 halos ( @xmath15 ) have not yet undergone major mergers , and thus may be present - day outliers on the local @xmath6 relation .",
+    "finding and weighing relatively low - mass bhs is difficult due to the small gravitational sphere of influence of the bh , which is typically @xmath16 parsec for @xmath17  @xmath3 .",
+    "thus , in order to identify bhs in dwarf galaxies outside the local group , it is necessary to look for signs of bh activity ( i.e. , active galactic nuclei , or agn ) .",
+    "large - scale surveys such as the sloan digital sky survey ( sdss ) have made it possible to search for signatures of agn in samples comprised of tens of thousands of galaxies .",
+    "early work by @xcite ( see also @xcite ) , identified galaxies in the sdss with low - mass agn by searching for broad h@xmath0 emission , which can be produced by virialized gas near the central bh .",
+    "these studies identified @xmath18 low - mass agn candidates with a median bh mass of @xmath19  @xmath3 .",
+    "more recent studies have pushed the search for low - mass agn into the dwarf galaxy regime .",
+    "x - ray and radio observations led to the discovery of agn in the dwarf starburst galaxy henize 2 - 10 @xcite , and in the dwarf galaxy pair mrk 709 @xcite .",
+    "optical spectroscopic observations revealed the well - studied agn in ngc 4395 @xcite and pox 52 @xcite , and more recently led to the discovery of a bh with a mass in the range of @xmath20  @xmath3  in the dwarf galaxy rgg 118 @xcite .",
+    "additionally , multiwavelength studies using large samples of _ bona fide _ dwarf galaxies have produced a collective sample of hundreds of agn candidates in dwarf galaxies ( @xcite ) .",
+    "@xcite ( hereafter r13 ) searched for dwarf galaxies with spectroscopic signatures of agn activity based on their narrow and/or broad emission lines . out of @xmath21 nearby ( @xmath22 ; d @xmath23 mpc ) dwarf galaxies in the sdss , they identified 136 galaxies with narrow - line ratios indicating photoionization at least partly due to an agn based on the bpt ( baldwin , phillips & terlevich 1981 ) diagram , i.e. , they were classified as either agn or agn / star - forming composites ( see also @xcite ; @xcite ; @xcite ) .",
+    "a fraction of these also had broad h@xmath0 emission .",
+    "additionally , r13 identified 15 galaxies with broad h@xmath0 emission in their sdss spectroscopy ( fwhm ranging from @xmath24 ) , but with narrow - line ratios that placed them in the star forming region of the bpt diagram .",
+    "we are particularly concerned with the origin of the broad emission in these systems .",
+    "broad balmer emission with fwhm up to several thousand kilometers per second can be produced by stellar processes such as type ii supernovae , luminous blue variables @xcite , or wolf - rayet stars .",
+    "follow - up spectroscopy , taken over a sufficiently long baseline , can help distinguish between an agn and one of the aforementioned transient stellar phenomena .    here , we present follow - up optical spectroscopic observations of 14 of the 15 bpt star forming galaxies with broad h@xmath0 presented in r13 , as well as observations of ten bpt agn ( one with broad h@xmath0 ) and three bpt composites ( one with broad h@xmath0 ) .",
+    "follow - up observations for rgg 118  the current record holder for the lowest - mass bh in a galaxy nucleus  were presented separately in @xcite .",
+    "the goals of this work are two - fold .",
+    "first , for our targets which were identified by r13 to have broad h@xmath0 emission ( broader than narrow lines such as [ sii]@xmath256713,6731 ) with fwhm @xmath26 , we analyze their spectra and determine whether the broad h@xmath0 emission is still present and consistent with previous observations .",
+    "second , for galaxies with sufficiently high - resolution follow - up spectroscopy , we measure stellar velocity dispersions .    in section 2 ,",
+    "we describe our observations and data reduction procedures . in section 3",
+    ", we discuss our emission line fitting analysis and report stellar velocity dispersion measurements for objects with sufficiently high spectral resolution data . in section 4 , we present results from the follow - up spectroscopy for the broad line objects .",
+    "[ cols=\"^,^,^,^,^,^,^,^,^,^\",options=\"header \" , ]     [ sptypes ] +    * table  [ sptypes]*. stars used in our spectral library for stellar velocity dispersion measurements ( see main text section 3.2 ) . spectra were taken from the elodie spectral database and spectral types are taken from the simbad database ."
+  ],
+  "abstract_text": [
+    "<S> we use time - domain optical spectroscopy to distinguish between broad emission lines powered by accreting black holes ( bhs ) or stellar processes ( i.e. , supernovae ) for 16 galaxies identified as agn candidates by reines et al .  </S>",
+    "<S> ( 2013 ) . </S>",
+    "<S> our study is primarily focused on those objects with narrow emission - line ratios dominated by star formation . </S>",
+    "<S> based on follow - up spectra taken with the magellan echellette spectrograph ( mage ) , the dual imaging spectrograph , and the ohio state multi - object spectrograph , we find that the broad h@xmath0 emission has faded or was ambiguous for all of the star - forming objects ( 14/16 ) over baselines ranging from 5 to 14 years . </S>",
+    "<S> for the two objects in our follow - up sample with narrow - line agn signatures ( rgg 9 and rgg 119 ) , we find persistent broad h@xmath0 emission consistent with an agn origin . </S>",
+    "<S> additionally , we use our mage observations to measure stellar velocity dispersions for 15 objects in the reines et al . </S>",
+    "<S> ( 2013 ) sample , all with narrow - line ratios indicating the presence of an agn . </S>",
+    "<S> stellar masses range from @xmath1 to @xmath2  @xmath3 , and we measure @xmath4 ranging from @xmath5 . </S>",
+    "<S> these @xmath4 correspond to some of the lowest - mass galaxies with optical signatures of agn activity . </S>",
+    "<S> we show that rgg 119 , the one object which has both a measured @xmath4 and persistent broad h@xmath0 emission , falls near the extrapolation of the @xmath6 relation to the low - mass end . </S>"
+  ]
+}

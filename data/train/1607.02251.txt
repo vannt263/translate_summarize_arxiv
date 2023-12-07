@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "with an extensive coastline and close proximity of the kuroshio current , japan is an ideal candidate for wave and ocean current energy extraction .",
+    "supported by new energy and industrial technology development organization ( nedo ) , the university of tokyo and jamstec have conducted state - of - the - art wave and current resource assessments to assist with generator site identification and construction in japan .",
+    "these marine renewable energy assessments are now publicly - available and accessible via a web gis service designed by webbrain and maintained by the university of tokyo .",
+    "an english interface of the web gis dataset is located at http://www.todaiww3.k.u-tokyo.ac.jp/nedo_p/en .",
+    "the resource assessments are located within the ` webgis ' subdirectory , which can be accessed via the ` marine energy web gis ' menu button on the left side ( http://www.todaiww3.k.u-tokyo.ac.jp/nedo_p/en/webgis/ ) .",
+    "useful information and references can also be found within the menu button categories ` manual ' , ` faq ' , and ` papers ' .",
+    "for full details of the resource assessments , please see @xcite and @xcite , and other references listed under the ` papers ' category ( http://www.todaiww3.k.u-tokyo.ac.jp/nedo_p/en/papers/ ) . to facilitate easy reference ,",
+    "relevant variables and definitions from the assessments are tabulated in table  [ tab : terminology ] .",
+    ".list of relevant variables and definitions . [ cols= \" <",
+    ", < , < \" , ]     p0.1 p0.02p0.02p0.02p0.02p0.02 p0.02 * variable & & + & & + & & & & & & + @xmath0 & & & & & & + @xmath1 & & & & & & + @xmath2 & & & & & & + @xmath3 & & & & & & + @xmath4 & & & & & & + @xmath5 & & & & & & + @xmath6 & & & & & & + @xmath7 & & & & & & + @xmath8 & & & & & & + @xmath9 & & & & & & + *",
+    "marine renewable resource assessments conducted by the university of tokyo and jamstec are now publicly - available online at http://www.todaiww3.k.u-tokyo.ac.jp/nedo_p/en .",
+    "the data is distributed by a web gis service that utilizes tds and geoserver software with leaflet libraries .",
+    "the web gis dataset contains statistical analyses of wave power ( 21 years ) , ocean and tidal current power ( 10 years ) , and ocean temperature power ( 10 years ) that are accessed through interactive browser sessions and downloadable files .",
+    "this work was supported by the nedo project titled , `` research on the framework and infrastructure of marine renewable energy ; an energy potential assessment . ''",
+    "all sample screenshots utilize geographical survey institute ( gsi ) english tile maps ( http://www.gsi.go.jp/ ) .",
+    "12 y.  kidoura , r.  wada , and t.  waseda , `` on the aleatory and epistemic uncertainty of the wave resource assessment in the northwest pacific , '' in _",
+    "asme 2014 33rd int .",
+    "conference , american society of mechanical engineers _ , 2014 .",
+    "t.  waseda , a.  webb , k.  kiyomatsu , w.  fujimoto , y.  miyazawa , s.  varlamov , k.  horiuchi , t.  fujiwara , t.  taniguchi , k.  matsuda , and j.  yoshikawa , `` marine energy resource assessment at reconnaissance to feasibility study stages ; wave power , ocean and tidal current power , and ocean thermal power '' ( in japanese ) , _ journal of the japan society of naval architects and ocean engineers _ , in press , 2016 .",
+    "a.  webb , t.  waseda , and k.  kiyomatsu , `` a 21-year high - resolution wave resource assessment of japan : model setup and validation '' , _ ocean dynamics _ , in preparation , 2016 ."
+  ],
+  "abstract_text": [
+    "<S> the university of tokyo and jamstec have conducted state - of - the - art wave and current resource assessments to assist with generator site identification and construction in japan . </S>",
+    "<S> these assessments are publicly - available and accessible via a web gis service designed by webbrain that utilizes tds and geoserver software with leaflet libraries . </S>",
+    "<S> the web gis dataset contains statistical analyses of wave power , ocean and tidal current power , ocean temperature power , and other basic physical variables . the data ( 2d maps , time charts , depth profiles , etc . ) </S>",
+    "<S> is accessed through interactive browser sessions and downloadable files .    </S>",
+    "<S> wave resource assessment , ocean and tidal current resource assessment , ocean temperature resource assessment , web gis , noaa wavewatch  iii , </S>"
+  ]
+}

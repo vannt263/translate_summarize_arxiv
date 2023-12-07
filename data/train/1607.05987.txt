@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "studies of lorentz violation ( lv ) and cpt violation ( cptv ) arguably are best performed in the context of the general effective - field - theory ( eft ) approach called the standard - model extension ( sme).@xcite the sme lagrangian contains all lv and cptv operators that one can construct from the conventional standard - model fields , coupled to fixed - valued lorentz tensors which parametrize the symmetry breaking and whose values presumably arise from a more fundamental theory .",
+    "one of the great merits of the sme is that it provides a concrete and general way for experiments to constrain lv and cptv.@xcite in this respect , clock - comparison , maser , and magnetometer experiments have been particularly successful . as a result",
+    "very stringent bounds have been placed on a number of effective neutron and proton coefficients.@xcite however , the connection between these effective coefficients and the quark and gluon coefficients from which they must arise is obscured by the fact that qcd is nonperturbative at the relevant ( low ) energies .    in the usual lorentz - symmetric case ,",
+    "the low - energy effects of qcd are addressed successfully by the eft of qcd , called chiral perturbation theory ( @xmath0pt ) ( for reviews see , e.g. , ref .  ) .",
+    "it thus seems natural to extend this approach to the qcd sector of the sme .",
+    "the conceptual basis of this extension has been established in our recent paper@xcite in which we treated three cptv and lv quark and gluon operators of mass - dimension five , given by @xmath1 + h_{\\mu\\nu\\rho}\\,{\\rm tr}\\left(g^{\\mu\\lambda}d^\\nu\\tilde{g}^{\\rho}_{\\;\\;\\;\\lambda}\\right)\\ . \\label{lagr1gevq}\\ ] ] here , the lv coefficient @xmath2 is fully symmetric on its lorentz indices and @xmath3 , with @xmath4 .",
+    "these operators were first written down in ref .   and are relevant below the electroweak scale @xmath5  gev , but above the qcd chiral - symmetry breaking scale @xmath6  gev , where @xmath7  mev is the pion decay constant .",
+    "the natural expected size of the lv coefficients is @xmath8 , where @xmath9 is the scale at which the lv occurs and is commonly identified with the planck scale @xmath10  gev . because we are interested in observables for non - strange baryons , we have restricted attention to up and down quarks .    in the following we outline the approach described in ref .",
+    "to ensure that observables that follow from an eft correspond to the ones that arise from the underlying theory , one has to write the most general lagrangian in terms of the relevant low - energy degrees of freedom that is consistent with all the symmetries of the underlying theory.@xcite in the resulting infinite tower of operators , operators of higher mass dimensionality are suppressed by higher powers of a large mass scale , such that for a given required accuracy the set of terms can be truncated .",
+    "the suppressing mass scale determines the range of validity for the eft .    in the case of @xmath0pt ,",
+    "this mass scale is given by @xmath11 and the relevant degrees of freedom at energies below @xmath11 are the pions , nucleons , and photons . particularly important in formulating the effective lagrangian",
+    "is the approximate global @xmath12 chiral symmetry of qcd .",
+    "this symmetry is explicitly broken by the small quark masses while inspection of the hadron spectrum reveals that it is also spontaneously broken down to its @xmath13 isospin subgroup .",
+    "the pions are subsequently identified as the pseudo - goldstone bosons . in the chiral limit ( vanishing quark masses )",
+    "the pions only interact through spacetime derivatives .",
+    "this allows for a perturbative expansion of hadronic observables in terms of the small parameter @xmath14 , where @xmath15 is the typical momentum of the process under consideration .    in ref .",
+    "we constructed the effective lagrangian in the @xmath16 formalism of @xmath0pt .",
+    "the form of the effective operators is severely constrained by the transformation properties of the operators in eq .   under the chiral @xmath16 group as well as under discrete c , p , and t transformations .",
+    "the resulting set of non - redundant leading - order nucleon and pion - nucleon operators is given by @xmath17\\right)\\sigma^{\\nu\\rho}\\mathcal{d}^\\mu n \\notag \\\\ & & + \\frac{1}{m_n^2}\\tilde{h}_{\\mu\\nu\\rho}\\bar{n}\\gamma^\\mu \\gamma^5 \\mathcal{d}^\\nu \\mathcal{d}^\\rho n + \\frac{i}{m_n f_\\pi d } \\tilde{d}^-_{\\mu\\nu\\rho}\\bar{n}(\\boldsymbol{\\tau}\\times\\boldsymbol{\\pi})_3\\sigma^{\\nu\\rho}\\mathcal{d}^\\mu",
+    "n \\notag \\\\ & & + \\mathrm{h.c.}\\ , \\label{efflagr}\\ ] ] where @xmath18 is the nucleon doublet , @xmath19 is the nucleon mass , @xmath20 is the pion triplet , @xmath21 are the pauli matrices , @xmath22 , and @xmath23 is the chiral- and gauge - covariant nucleon derivative , whose explicit form can be found in ref .  .",
+    "the lv coefficients are given by @xmath24 , @xmath25 , and @xmath26 , with @xmath27 , @xmath28 , and @xmath29 being low - energy constants whose size can not be determined by symmetry considerations , although chiral symmetry gives @xmath30 .",
+    "using naive dimensional analysis,@xcite an order - of - magnitude estimation for the low - energy constants can be obtained : @xmath31 and @xmath32 .",
+    "the strongest bounds can be set on kinetic nucleon terms , using magnetometer experiments .",
+    "these kinetic terms induce a shift in the energy levels of an atom with total angular momentum @xmath33 and projection number @xmath34 . in ref .",
+    "we determined that the dominant part of this shift is given by @xmath35\\left\\langle [ \\sigma_3]_{w , n}\\right\\rangle\\ , \\ ] ] where @xmath36 labels the particle species ( neutron or proton ) and @xmath18 runs over all particles of that species that are present in the atom .",
+    "the unknown matrix elements @xmath37_{w , n}\\right\\rangle$ ] are defined in the ` stretched ' state @xmath38 and one has to adopt some nuclear - structure model to determine their value . using the results of a @xmath39he/@xmath40xe comagnetometer experiment,@xcite we were able to put the current best bounds on components of @xmath41 and @xmath42 , on the order of @xmath43  gev@xmath44 .",
+    "subleading effects of @xmath41 and @xmath42 on atomic energy levels , as well as their effect on spin - precession , can be found in ref .  .",
+    "the lv @xmath45 coefficient does not show up in these calculations , because it has no kinetic nucleon terms in eq .  .",
+    "such terms are forbidden by the symmetries . in ref .  , we calculated the contribution of @xmath45 to the electromagnetic form factor of the nucleon , through pion loops .",
+    "experimental effects of this are suppressed with a factor of @xmath46 with respect to effects of @xmath41 and @xmath42 , due to small electromagnetic fields .",
+    "this leads to a best bound on some components of @xmath45 in the order of @xmath47  gev@xmath44 , which does not probe the expected size of @xmath48 . however , despite the lack of kinetic nucleon terms , the @xmath45 coefficient does contribute to one - pion exchange between nucleons.@xcite in future work it might therefore be possible to improve the bounds on @xmath45 by considering the lv nucleon - nucleon ( nn ) potential",
+    ". studies of the nn potential and its applications to deuterons and other light nuclei have been performed successfully in the context of chiral eft with discrete - symmetry violations other than cptv ( see ref .   for a review ) .",
+    "an analogous treatment in the present case is expected to lead to new bounds from atomic experiments or storage - ring experiments for the deuteron or other light nuclei .",
+    "the author acknowledges financial support from the portuguese foundation for science and technology ( fct ) under grant sfrh / bpd/101403/2014 and program poph / fse ."
+  ],
+  "abstract_text": [
+    "<S> we consider the low - energy effects of a selected set of lorentz- and cpt - violating quark and gluon operators by deriving the corresponding chiral effective lagrangian . using this effective lagrangian , low - energy hadronic observables can be calculated . </S>",
+    "<S> we apply this to magnetometer experiments and derive the best bounds on some of the lorentz - violating coefficients . </S>",
+    "<S> we point out that progress can be made by studying the nucleon - nucleon potential , and by considering storage - ring experiments for deuterons and other light nuclei . </S>"
+  ]
+}

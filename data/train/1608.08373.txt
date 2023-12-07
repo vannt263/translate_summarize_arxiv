@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the study of energetic particles bombarding earth from distant astrophysical sources has led to the development of a new discipline : astroparticle physics .",
+    "the high energy and the long propagation distance of these astroparticles can serve as a sensitive tools to search for new physics , as minute unconventional effects can get enhanced by the energy and the path length .",
+    "a simple modification of quantum electrodynamics ( qed ) is obtained by incorporating a lorentz - violating operator that preserves cpt , coordinate , and gauge invariance in the form@xcite @xmath0\\psi -\\frac{1}{4}(k_f)_{\\mu\\nu\\rho\\sigma } f^{\\mu\\nu}f^{\\rho\\sigma},\\ ] ] where the first two terms correspond to conventional qed , while the last term is a dimension - four operator for lorentz violation in the standard - model extension ( sme).@xcite the nine independent components of the tensor @xmath1 that produce nonbirefringent effects have been constrained using the observation of high - energy cosmic rays.@xcite in particular , the isotropic limit is controlled by a single parameter @xmath2 , whose upper limit has been constrained by the observation of high - energy cosmic rays , whereas a lower limit has been obtained from energetic gamma rays.@xcite    for @xmath3 , an effective refractive index is produced , which allows the production of cherenkov radiation in vacuum .",
+    "this is an efficient energy - loss mechanism for electrically charged fermions above a threshold energy @xmath4 .",
+    "cosmic - ray primaries would rapidly lose energy and fall below the threshold , so that the emission of cherenkov photons would rapidly stop . hence , cosmic rays reaching earth will always have energies below the threshold @xmath5 , which allows constraining the positive range of values of @xmath2 .",
+    "the most stringent limit is @xmath6 ( 98% c.l.).@xcite treating cosmic - ray primaries as point particles described in qed is a restrictive approximation because hadronic cosmic - ray primaries are composite particles . in order to perform a more realistic description of proton primaries",
+    ", we considered the cherenkov photon to be emitted by the charged constituents of the proton instead.@xcite the calculation involves the determination of the power radiated by the quarks in the proton , which is performed in the conventional way and then folded with the corresponding parton distribution functions .",
+    "a decrease in the power radiated is expected compared to the description of the full proton as a dirac fermion because of the smaller electric charge of quarks and also due to the fact that charged partons carry only about half of the proton energy ( the other half is carried by gluons ) .",
+    "our results agree with these expected features ; nonetheless , the total power radiated decreases only by one order of magnitude .",
+    "given the astronomical distances traveled by cosmic rays , the limits on @xmath2 remain unaffected even in a realistic treatment of proton primaries.@xcite    for @xmath7 , a photon becomes unstable and rapidly decays into an electron - positron pair .",
+    "this process corresponds to an efficient extinction mechanism for photons above a threshold energy @xmath8 because astrophysical gamma rays with energies above the threshold would rapidly decay into lepton pairs .",
+    "hence , gamma rays reaching earth will always have energies below the threshold @xmath9 , which allows constraining the negative range of values of @xmath2 .",
+    "the most stringent limit is @xmath10 ( 98% c.l.).@xcite prospects for potential improvement on this lower limit could make use of cosmic rays by dedicated studies of the development of extensive air showers in the atmosphere , whose maximum is very sensitive to the value of @xmath2.@xcite",
+    "lorentz - violating neutrinos and antineutrinos in the sme are effectively described by a @xmath11 hamiltonian of the form@xcite @xmath12 where each block is a @xmath13 matrix in flavor space .",
+    "the first two terms appear in the lorentz - invariant description of massive neutrinos of momentum @xmath14 characterized by a mass - squared matrix @xmath15 .",
+    "the last term includes all the modifications introduced by lorentz violation .",
+    "each matrix component depends in general on the neutrino momentum , direction of propagation , and the relevant coefficients controlling lorentz violation.@xcite in particular , coefficients arising from a dimension - three operator lead to cpt violation that can mimic nonstandard interactions@xcite and even the cosmic neutrino background.@xcite    the effective hamiltonian has been used for the formulation of novel models describing global neutrino - oscillation data.@xcite this hamiltonian also has served for implementing generic searches of the key signatures of lorentz violation in experiments@xcite using neutrino oscillations,@xcite beta decay,@xcite and double beta decay.@xcite    astrophysical neutrinos of very high energy have been observed by icecube,@xcite which can be used to determine stringent limits on coefficients for lorentz violation that modify the kinematics of neutrinos but are unobservable in oscillation experiments .",
+    "these oscillation - free coefficients can be constrained using an approach similar to the one presented in the previous section for cosmic rays and gamma rays . for isotropic operators of arbitrary dimension @xmath16",
+    ", the relevant coefficients are denoted by @xmath17.@xcite for @xmath18 , an effective refractive index is produced for neutrinos .",
+    "this allows the cherenkov production of @xmath19 bosons , which rapidly decay into electron - positron pairs .",
+    "this is an efficient energy - loss mechanism for neutrinos above a threshold energy @xmath4 .",
+    "astrophysical neutrinos would rapidly lose energy and fall below the threshold , so that the cherenkov emission would rapidly stop .",
+    "hence , high - energy astrophysical neutrinos reaching earth will always have energies below the threshold @xmath5 , which allows constraining the negative range of values of @xmath17.@xcite the observation of multiple events distributed in the sky allows also the study of anisotropic operators.@xcite furthermore , flavor - mixing operators could be studied by sensitive measurements of the flavor ratios of astrophysical neutrinos.@xcite    at low energies , antineutrinos from the supernova sn1987a have been used to constrain dispersion effects produced by oscillation - free operators of dimension @xmath20.@xcite regarding the sensitive interferometric measurements of neutrino oscillations , the absence of an antineutrino component in the flux of solar neutrinos can be used to determine the most stringent limits on majorana couplings for cpt violation in the neutrino sector of the sme that would produce neutrino - antineutrino oscillations.@xcite",
+    "this work was supported in part by the german research foundation ( dfg ) under grant no .",
+    "kl 1103/4 - 1",
+    ".                          v.a .",
+    "kosteleck and m.  mewes , phys .",
+    "d * 70 * , 031902 ( 2004 ) ; t.  katori , phys .",
+    "d * 74 * , 105009 ( 2006 ) ; v.  barger , phys .",
+    "b * 653 * , 267 ( 2007 ) ; j.s .",
+    "daz and v.a .",
+    "kosteleck , phys .  lett .",
+    "b * 700 * , 25 ( 2011 ) ; phys .",
+    "d * 85 * , 016013 ( 2012 ) ."
+  ],
+  "abstract_text": [
+    "<S> searches for violations of lorentz invariance using cosmic rays , gamma rays , and astrophysical neutrinos and the prospects for future tests using cosmic - ray showers are presented . </S>"
+  ]
+}
