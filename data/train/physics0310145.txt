@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "at the durham statistics in physics conference ( 2002 ) , s. towers@xcite noted some of the problems that occur when one uses many , correlated variables in a multivariate analysis and proposed a heuristic method to shrink the number . in this note a semi - automatic method is suggested help with this problem .",
+    "the miniboone experiment is faced with just such a problem , distinguishing @xmath0 events from background events given a large number of variables obtained from the event reconstructions .",
+    "the fisher discriminant method is a standard method for obtaining a single variable to distinguish hypotheses starting from a large number of variables . if the initial variables come from a multi - normal distribution , the fisher variable encapsulates all of the discrimination information .",
+    "however , in many problems the variables are not of this form and the fisher variable , although useful , is not sufficient .    the fisher discriminant method @xcite finds the linear combination @xmath1 of the initial variables @xmath2 which maximizes @xmath3,\\ ] ] where @xmath4 is the mean value of the variable and var is the variance .",
+    "if @xmath5 is the correlation matrix for the original variables corresponding to the denominator , then the inverse of @xmath5 dotted into @xmath6 , gives the combination which maximizes the preceding expression .",
+    "if the distribution is not multi - normal , there is information still to be obtained after finding the fisher variable .",
+    "it is then useful to apply this method successively , firstly to the original variables and , afterwards , to several non - linear transformations of the variables .",
+    "presently , three transformations are chosen : the logarithms of the original variables , the exponentials of the original variables and the cube of the original variables . together with the original variables , this is then four choices .",
+    "the present note describes a work in progress .",
+    "it is highly likely that these are not optimum and that better choices can and will be found .",
+    "indeed , it is likely that the optimum choice depends on the problem .",
+    "the method is also used with the original denominator , @xmath7 $ ] and then with each individual variance in turn .",
+    "this is done since some of the variables may be quite narrow for signal and wide for background or vice versa .",
+    "( see figure 1 ) there are then @xmath8 variables obtained with this method .",
+    "start with equal monte carlo samples of signal and background events * \\2 .",
+    "multiply and translate each variable to have an overall mean of zero and unit variance .",
+    "it is useful to fold variables if necessary to maximize the difference in means .",
+    "a few events , very far out on the tails of the distribution are clipped ( @xmath9 ) . *",
+    "order the variables according to @xmath10 divided by the smallest of the signal and background variances . at present , the ordering of variables is done only once . *",
+    "apply this extended fisher method to the appropriate transformation of the variables .",
+    "use the gram - schmidt procedure to make the other variables have zero correlation coefficient with the chosen linear combination . *",
+    "the new variable is a linear combination of the original @xmath11 variables .",
+    "one variable must be discrded to have an independent set .",
+    "discard the least significant ( by the criterion of step 3 ) of the original variables . using the @xmath12",
+    "non - fisher variables , go back to step 2 to get the next variable .    for miniboone",
+    "the roefitter reconstruction started with 49 particle identification variables . using the steps outlined , these were reduced to 12 variables . when @xmath0 quasi - elastic events were compared with background neutral current @xmath13 events , the use of this procedure with a neural net kept 46% of the @xmath0 and reduced the @xmath14 ratio to 1.1% of its original value .",
+    "the neural net was not hard to tune .",
+    "the reconstruction ",
+    "particle identification package is still being improved , so these numbers will improve further .",
+    "the results obtained here are similar to those obtained using a more elaborate neural net on a subsample of 26 of the original 49 variables .        99 s. tower , _ benefits of minimizing the number of discriminators used in a multivariate analysis _ , durham conference on statistics ( 2002 ) .",
+    "glen cowan _",
+    "statistical data analysis _ , clarendon press , oxford ( 1998 ) ."
+  ],
+  "abstract_text": [
+    "<S> this note discusses the problem of choosing between hypotheses in a situation with many , correlated non - normal variables . </S>",
+    "<S> a new method is introduced to shrink the many variables into a smaller subset of variables with zero mean , unit variance , and zero correlation coefficient between variables . </S>",
+    "<S> these new variables are well suited to use in a neural net . </S>"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "it is known that lepton - hadron collisions have been playing a crucial role in exploration of deep inside of matter . today , thera",
+    "( tesla on hera ) and linac*lhc can be considered as realistic candidates for future lepton - hadron and photon hadron colliders .",
+    "we discuss the main parameters and physics search potential of the lepton - hadron colliders and draw the attention of the high energy and nuclear physics communities to future @xmath1 and fel @xmath2 collider facilities .",
+    "it is known that the tesla collider will be a powerful tool for exploraiton of the multi - hundred gev scale @xcite .",
+    "taking into account the possible polarized proton and nucleus options for hera will provide a number of additional opportunities to investigate lepton - hadron and photon hadron interactions at tev scale .",
+    "recently , the work on tesla tdr has been finished , and tesla@xmath3hera based @xmath4 and @xmath2 colliders are included into tesla  project .",
+    "main parameters of tesla@xmath5hera based @xmath6 collider are given in @xcite .",
+    "it is seen that one has @xmath7 @xmath8  with @xmath9 gev and @xmath10 @xmath11 . also two additional versions (",
+    "@xmath12 @xmath13 with @xmath14 @xmath8 and @xmath15 @xmath16 @xmath13 with @xmath17 @xmath8 ) have been mentioned in tesla tdr . in principle , tesla@xmath3 hera based ep collider will extend the hera kinematics region by an order in both q@xmath18 and @xmath19 and , therefore , the parton saturation regime can be achieved .",
+    "main parameters and physics search potential of thera based @xmath20 * *  * * collider are given in ciftci95 , brinkmann97 .",
+    "main limitations for @xmath21 option comes from fast emittance growth of nucleus beam due to intra - beam scattering . in our opinion @xmath2 option",
+    "is the most promising option of tesla@xmath3hera complex , because it will give unique opportunity to investigate small @xmath22 region in nuclear medium .",
+    "colliding of tesla fel beam with nucleus bunches from hera may give a unique possibility to investigate old  nuclear phenomena in rather unusual conditions .",
+    "the main idea is very simple @xcite : ultra - relativistic ions will see laser photons with energy @xmath23  as a beam of photons with energy 2@xmath24  , where @xmath25  is the lorentz factor of the ion beam .",
+    "the region 0.1@xmath2610 mev , which is matter of interest for nuclear spectroscopy , corresponds to 0.1@xmath2710 kev lasers , which coincide with the energy region of tesla fel .",
+    "the center - of - mass energies which will be achieved at different options of this machine @xcite are an order larger than those at hera are and @xmath283 times larger than the energy region of tesla@xmath3hera .",
+    "center - of - mass energy and luminosity for this option are @xmath29 tev and @xmath30 @xmath31s@xmath32 this machine , which will extend both the @xmath33-range and @xmath34-range by more than two order of magnitude comparing to those explored by hera , has a strong potential for both standard model and new physics research . using @xmath20 * *  * * option * *  * * of * *",
+    "* * this collider thousands di - jets with @xmath35  gev and hundreds thousands single w bosons will be produced , hundred millions of  @xmath36- and  @xmath37- pairs will give opportunity to explore the region of extremely small x@xmath38 etc .",
+    "details on main parameters and physics search potential of linac*lhc based @xmath39 , @xmath2 and fel @xmath2  coliders can be found in brinkmann97,yavas00 .",
+    "the clic , an electron - positron collider with @xmath40 @xmath11 and @xmath41 @xmath42 is considered as one of the future options for post - lhc era at cern .",
+    "the work on clic*lhc based @xmath43 and fel @xmath2 options is under progress .",
+    "it seems that neither hera nor lhc@xmath3lep will be the end points for lepton - hadron colliders .",
+    "we see that tev scale linac - ring type @xmath6 machines will give an opportunity to go far in this direction ( see table 1 ) .",
+    "in addition , more knowledge on the subject can be found in @xcite ."
+  ],
+  "abstract_text": [
+    "<S> main parameters of future lepton - hadron colliders are estimated . </S>",
+    "<S> namely , thera and linac*lhc based ep , @xmath0p , ea , @xmath0a and fel@xmath0a colliders are considered . </S>",
+    "<S> the physics search potential of these machines are considered .    </S>",
+    "<S> = 14.5pt </S>"
+  ]
+}

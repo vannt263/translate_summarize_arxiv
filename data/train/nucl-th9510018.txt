@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "models have been widely used to study the properties of the hadron spectrum due to the impossibility to solve quantum chromodynamics ( qcd ) at the current moment . in particular , the quark potential models incorporate the perturbative one - gluon exchange quark - quark ( @xmath1 ) potential ( @xmath2 ) derived from qcd as well as a parametrization of some nonperturbative effects through a @xmath1 confining potential ( @xmath3 ) @xcite . such an _ effective theory _",
+    "[ the quark - gluon coupling constant is taken as an effective one and the constituent quark masses ( @xmath4 ) are parameters fitted from the baryon magnetic moments ] provides a reasonable understanding of the baryon spectrum and the hadron static properties @xcite .    the idea of an interquark potential has been also used to study baryon - baryon interactions .",
+    "more explicitly , the repulsive core of the nucleon - nucleon ( nn ) force has been shown to arise from the color - spin structure of the @xmath2 @xcite .",
+    "nevertheless , the same scheme has been proven incapable of describing the long range part of the nn interaction unless pion exchange between quarks is introduced . from the basic theory ,",
+    "the origin of the one - pion exchange potential ( @xmath5 ) is associated with the spontaneous chiral symmetry breaking of qcd . moreover",
+    ", the inclusion of the @xmath1 sigma potential ( @xmath6 ) consistently with its chiral partner ( the pion ) allows to reproduce the intermediate range @xmath7 interaction as well as the deuteron properties @xcite .    in this paper",
+    "we examine the consistency of the two scenarios .",
+    "we determine a @xmath1 interaction by studying two nucleon properties and charge exchange reactions and proceed to analyze the baryon spectrum for this interaction .",
+    "as we shall discuss the predictions for the baryon masses and the baryon wave functions , it is not only a stringent test of the potential but also a consistency test of the formalism used to generate the nn interaction [ resonating group method ( rgm ) ] .",
+    "the starting point of our description is a quark - quark interaction of the following form :    @xmath8    where @xmath9 is the interquark distance .",
+    "the confinement is chosen to be linear as suggested by the meson spectrum and lattice calculations :    @xmath10    where @xmath11 are the su(3 ) color matrices .",
+    "@xmath2 , @xmath5 and @xmath6 have been derived in detail elsewhere @xcite and we shall limit here to write the final expressions :    @xmath12 \\,\\ , { { e^{-r_{ij}/r_0 } } \\over { r_0 ^ 2 \\,\\,r_{ij } } } - { 1 \\over { 4 m^2_q \\ , r^3_{ij } } } \\ , s_{ij } \\biggr \\rbrace \\ , , \\ ] ]    where @xmath13 is the effective quark - quark - gluon coupling constant , @xmath14 is the range of a smeared @xmath15 function in order to avoid and unbound spectrum @xcite , the @xmath16 stand for the spin pauli matrices and @xmath17 is the quark tensor operator @xmath18 .",
+    "@xmath19 { \\vec \\sigma}_i \\cdot { \\vec \\sigma}_j + \\nonumber",
+    "\\\\   & & \\left [ h ( m_\\pi \\ , r_{ij } ) - { \\lambda^3 \\over m_\\pi^3 } \\ , h ( \\lambda \\ , r_{ij } ) \\right ] s_{ij } \\biggr\\ } \\ , { \\vec \\tau}_i \\cdot { \\vec \\tau}_j \\ , , \\end{aligned}\\ ] ]    @xmath20 \\ , , \\ ] ]    where @xmath21 ( @xmath22 ) is the pion ( sigma ) mass , @xmath23 is the chiral coupling constant ( related to the @xmath24 coupling constant ) , @xmath25 is a cutoff parameter and y(x ) , h(x ) are the yukawa functions defined as :    @xmath26    with this interaction , the two baryon system has been studied in the rgm framework assuming for the spatial part of the wave function of the quarks a harmonic oscillator ground state ,    @xmath27    where the parameter @xmath28 determines the position of the baryon and @xmath29 is the harmonic oscillator constant .",
+    ".value of the potential parameters [ cols=\"^,^,^,^,^,^,^,^ \" , ]     using the same set of parameters given in table [ param ] , the @xmath7 scattering phase shifts , the static and electromagnetic properties of the deuteron @xcite and reactions that take place with the excitation of the @xmath0 resonance @xcite are reasonably reproduced .",
+    "to study the baryonic spectrum with the potential just described ( parameters as in table [ param ] ) we solve the schrdinger equation in the hyperspherical harmonic approach @xcite .",
+    "the low energy @xmath30 and @xmath0 spectrum obtained , a part of which is shown in fig . [ espe ] , is quite reasonable though some small discrepancy remains concerning the relative energy position of the roper resonance [ @xmath31 and the first negative parity state excitation [ @xmath32 , as it is common in two body potential models .",
+    "regarding the wave function and in order to check the internal rgm consistency , it makes sense to compare the @xmath7 potential one obtains from the wave function solution of the schrdinger equation , with the potential obtained from the ansatz rgm wave function for different values of the parameter @xmath29 . for the sake of technical simplicity",
+    "we do this in the born - oppeheimer approximation .",
+    "the results appear in fig .",
+    "[ pot ] , where we can see that it is precisely the value of @xmath29 that gives the best overall fit to the @xmath7 data with rgm , the one which provides a better approximation .",
+    "this confers to @xmath29 a self - consistent character and solves the controversy about its possible values .",
+    "certainly , more work and further refinements are needed along this direction . meanwhile , the proposed model points out the plausibility of a unified description of the baryon structure and the baryon - baryon interaction ."
+  ],
+  "abstract_text": [
+    "<S> we study the low energy part of the nucleon and @xmath0 spectra by solving the schrdinger equation for the three - quark system in the hyperspherical harmonic approach . </S>",
+    "<S> the quark - quark hamiltonian considered includes , besides the usual one - gluon exchange , pion and sigma exchanges generated by the chiral symmetry breaking . </S>",
+    "<S> this quark - quark potential reproduces , in a resonating group method calculation , the nucleon - nucleon scattering phase shifts and the deuteron properties . </S>",
+    "<S> the baryonic spectrum obtained is quite reasonable and the resulting wave function is consistent with the ansatz used in the two baryon system . </S>"
+  ]
+}

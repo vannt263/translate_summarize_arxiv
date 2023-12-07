@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "over the last decade , the performance of positron emission tomography ( pet ) scanners have considerably improved .",
+    "for instance , commercial cameras dedicated to small animals now feature a space resolution below 2  mm along with a sensitivity better than 1%  @xcite .",
+    "no matter how beneficial this performance gain has been to users , for instrument designers , it has somehow hardened the challenge of finding new solutions which would go beyond the present instrumental limits at an affordable cost .",
+    "this is why the complete simulation of new tep configurations under study has now become even more justified than in the past , and calls for the development of a dedicated simulation framework , sufficiently versatile to allow fast and very detailed approaches with the best - existing emulation of all the underlying physical processes .",
+    "since its first public release in 1998 , the stability , the validity and hence the popularity of geant4  @xcite- the object - oriented particle tracking and transport simulation framework developed by the high energy physics community - have noticeably progressed . in our opinion , it has become the best toolkit from which any common and public tep simulation framework should be developed .",
+    "gepetos : * ge*ant4 * p*ositron * e*mission * to*mography * s*imulation , is a first attempt that we have made over the last few years to reach this goal .",
+    "as we aimed at providing the possibility to fully simulate all the processes taking place during the short life of a positron and then in the transport and interaction of its two 511  kev annihilation photons , efforts were made to check the validity of geant4 and if needed corrections or modifications were done .",
+    "hence , we have added as part of gepetos the possibility to generate positrons according to their respective @xmath1 spectra for @xmath2f , @xmath3o , @xmath4c ( figure  [ enerf18 ] for @xmath2f ) .",
+    "table [ tab : ener ] shows the good agreement between our simulation and experimental data for the maximum and the most probable energies for each spectrum . after this step ,",
+    "the positrons are fully tracked down until they annihilate .",
+    ".__@xmath1 spectra comparisons between simulation and experimental data  @xcite . _",
+    "_ [ cols=\"^,^,^,^,^ \" , ]      as geant4 presents the capability to transport and track charged particles in strong magnetic fields , we used gepetos to evaluate the potential image resolution gain of a p4 concorde @xmath0pet camera  @xcite which would be operated in the strong axial field of a mri scanner .",
+    "we found no improvement for @xmath2f and a marginal gain for @xmath4c .",
+    "however for @xmath3o and providing the device is operated in a 15  t solenoidal field , figures  [ fig : imagebfield1 ] and  [ fig : imagebfield2 ] show that the magnetic field allows to resolve two point - like sources separated by 4  mm .",
+    "the physical explanation of this effect is very comparable to what happens in a tpc ( time projection chamber ) operated in a magnetic field .",
+    "the axial magnetic field blocks the transaxial diffusion of electrons and confines them within a spiral around their creation points .",
+    "our results are in good agreement with what was found in previous studies  @xcite .",
+    "15  t mri scanners are now becoming available for small animals , but the operation of photo - sensors in such a strong magnetic field remains a very difficult challenge for the future .",
+    "o sources placed in the z=0 transaxial plane of a 4  cm diameter water cylinder imaged by a concorde p4 @xmath0pet .",
+    "there is no magnetic field and the sources are not separated.,width=259 ]    o sources placed in the z=0 transaxial plane of a 4  cm diameter water cylinder imaged by a concorde p4 @xmath0pet .",
+    "sources are 4  mm apart.,width=259 ]",
+    "we have established the basis of a pet simulation package ( gepetos ) based on geant4 as a transport and tracking engine .",
+    "gepetos has been validated against the available data of a siemens ecat exact hr+ pet scanner .",
+    "we used gepetos to guide our development effort toward a lxe pet camera dedicated to the small animal imaging .",
+    "the sources of gepetos can be freely downloaded from this site  @xcite .",
+    "this work was made possible thanks to the financial grants allocated by the rhne - alpes region through its `` emergence '' science program and by cnrs / inserm via its ipa program dedicated to the small animal imaging .",
+    "we are also indebted to jean - franois le bas and daniel fagret of the medical department of the joseph fourier university of grenoble for the support and motivation they brought to this project .",
+    "national electrical manufacturers association._nema standards publication nu 2 - 1994 : performance measurements of positron emission tomographs . _",
+    "washington , dc : national electric manufacturers association ; 1994 .",
+    "r. raylnan _ et al .",
+    "_ , `` combined mri - pet scanner : a monte carlo evaluation of the improvements in pet resolution due to the effects of a static homogeneous magnetic field , '' _ ieee transactions on nuclear science _ , vol .",
+    "43 , p.2406 - 2412 , 1996 ."
+  ],
+  "abstract_text": [
+    "<S> gepetos is a simulation framework developed over the last few years for assessing the instrumental performance of future pet scanners . </S>",
+    "<S> it is based on geant4 , written in object - oriented c++ and runs on linux platforms . </S>",
+    "<S> the validity of gepetos has been tested on the well - known siemens ecat exact hr+ camera . </S>",
+    "<S> the results of two application examples are presented : the design optimization of a liquid xe @xmath0pet camera dedicated to small animal imaging as well as the evaluation of the effect of a strong axial magnetic field on the image resolution of a concorde p4 @xmath0pet camera .    </S>",
+    "<S> positron emission tomography , monte carlo simulation , geant 4 . </S>"
+  ]
+}

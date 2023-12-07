@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "the belle experiment  @xcite , located on the kekb  @xcite asymmetric - energy @xmath1 collider , is primarily devoted to the study of cp violation in the @xmath2  meson system .",
+    "kekb has shown a very stable operation with increasing luminosity over the years .",
+    "it has turned to so - called `` continuous injection mode '' last january , thus allowing a gain in the integrated luminosity of about 30% . in this mode , the beam particle losses are compensated by continuously injecting beam from the linear accelerator , without interruption of data taking .    kekb has reached a world record peak luminosity of @xmath3  @xmath4s@xmath0 and an integrated luminosity of about 1  fb@xmath0  per day . in the meanwhile ,",
+    "belle has accumulated a total integrated luminosity of 290  fb@xmath0  ( about 275  million @xmath2  meson pairs ) , among which 127  fb@xmath0  was collected between october  2003 and july  2004 ( svd2 run ) .",
+    ".belle data acquisition and processing figures .",
+    "numbers in parentheses correspond to data accumulated during svd2 run . [",
+    "cols=\"<,<,<\",options=\"header \" , ]     [ failure - tab ]    in addition , a number of limitations to the processing speed have been observed :    database access is one of the main issues , since processing makes heavy use of the database , in particular at the start of a job .",
+    "using more dedicated servers will solve this issue .",
+    "the limited cpu power of tape servers which distribute the data the dbasf clusters was identified as the present bottleneck .",
+    "faster tape servers will be used in the future .",
+    "the network bandwidth between the input server and basf nodes may eventually limit the processing power .",
+    "this does not seem to be a major issue in the near future .",
+    "none of these limitations , however , seriously hampered the processing speed .",
+    "the new offline processing scheme started running on may 18 , 2004 . in 39 days of stable",
+    "running , it successfully processed the 3 billion events collected by kekb with a maximum rate of 5/fb / day , 5 times faster than the data acquisition and the previous scheme . with the expected increase of the kekb luminosity , however , the dst processing will face further challenges  room for improvement of this scheme still remains ."
+  ],
+  "abstract_text": [
+    "<S> the offline processing of the data collected by the belle detector has been recently upgraded to cope with the excellent performance of the kekb accelerator . </S>",
+    "<S> the 127  fb@xmath0 of data ( 120  tb on tape ) collected between autumn 2003 and summer 2004 has been processed in 2 months , thanks to the high speed and stability of the new , distributed processing scheme . </S>",
+    "<S> we present here this new processing scheme and its performance . </S>"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "in this study we have dated two human fossil remains found in romania , by the method of radiocarbon dating using the accelerator mass spectrometry ( ams ) technique , performed at the pelletron accelerator in lund university , sweden .",
+    "these are the most ancient dated human fossil remains from romania , attributed by some archaeologists to the upper paleolithic , the aurignacian period .",
+    "the first skull , and scapulum and tibia remains were found in 1952 in baia de fier , in the woman s cave , in hateg , gorj county in the province oltenia , by constantin nicolaescu - plopsor .",
+    "another skull was found in cioclovina cave , near commune bosorod , hunedoara county in transylvania , found by a worker at the exploitation of phosphate deposits , in the year 1941 .",
+    "the skull arrived at francisc rainer , anthropologist , and ioan simionescu , geologist , who published a study of this skull.@xcite the absence of stratigraphical observation information made the cultural and chronological attribution of these skulls very difficult , and a number of archaeologists questioned the paleolithic character of these fossil remains . for this reason ,",
+    "the dating of the two skulls by a physical analysis is decisive .",
+    "samples of bone were taken from the scapulum and tibia remains from the woman s cave , from baia de fier , and from the skull from the cioclovina cave .",
+    "the @xmath1c content was determined in the two samples by using the ams system at lund university .",
+    "normally , sufficient collagen for ams measurements can be extracted from bone fragments with masses of 1 g , or more provided that at least 5 to 10% of the original collagen content is present .",
+    "but for the presently studied bone remains , because of the small available quantity of very old bone samples , the determination of the radiocarbon content in the bones was difficult .",
+    "we have essentially applied the longin method @xcite for the extraction of _ collagen _ from the bone structure .",
+    "we use the _ collagen _ to refer to collagen that has undergone a degree of diagenesis .",
+    "the next step is the transformation of the _ collagen _ into pure carbon in an experimental set - up for the preparation of samples for ams technique @xcite .",
+    "the pure carbon , placed in a copper holder , is arranged in a wheel , together with two standards of oxalic acid and one anthracite background sample .",
+    "the wheel with the samples and standards is put into the ion source of the accelerator .",
+    "the central part of the lund ams system is a pelletron tandem accelerator .",
+    "the accelerator is run at a terminal voltage of 2.4 mv during ams experiments .",
+    "the particle identification and measuring system consists of a silicon surface barrier detector of diameter of 25 mm .",
+    "the computer system alternately analyses the data of the @xmath2c current received from a current integrator and the @xmath1c counts arriving from the particle detector , to obtain , finally , the ratio @xmath1c/@xmath2c for each sample .",
+    "each sample is measured 7 times .",
+    "the precision of the measurements for samples close to modern @xcite is around 1 % @xcite .",
+    "dating of the two sampes by the ams - technique gave the following results : +"
+  ],
+  "abstract_text": [
+    "<S> in this study we have dated two human fossil remains found in romania , by the method of radiocarbon using the technique of the accelerator mass spectrometry . </S>",
+    "<S> the human fossil remains from woman s cave , baia defier , have been dated to the age 30150 @xmath0 800 years bp , and the skull from the cioclovina cave has been dated to the age 29000 @xmath0 700 years bp . </S>",
+    "<S> these are the most ancient dated till now human fossil remains from romania , possibly belonging to the upper paleolithic , the aurignacian period . </S>"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "this work is motivated by emerging experiments with cold divalent atoms mg , ca , sr and yb  @xcite .",
+    "for example , the recently attained bose - einstein condensate of the ground - state yb @xcite may offer new insights into the physics of degenerate quantum gases due to a vast number of available isotopes and relative simplicity of molecular potentials .",
+    "as to the @xmath8 metastable states ( see fig .  [",
+    "fig : levels ] ) , it was realized that the non - scalar nature of the @xmath8 states may be used to overcome the unfeasibility of magnetic trapping of the spherically - symmetric @xmath9 ground states  @xcite .",
+    "knowing radiative lifetimes of the other , @xmath10 , metastable states is required in developing the next generation of ultraprecise optical atomic clocks  @xcite . here",
+    "the clockwork is based on cold atoms confined to sites of an engineered optical lattice .",
+    "the lifetime determines the natural width of the clock transition between the ground and the @xmath10 state .",
+    "= 3 ) , ca ( @xmath11=4 ) , sr ( @xmath11=5 ) , and yb ( @xmath11=6 ) , relevant to the radiative decay of the @xmath12 states .",
+    "the hyperfine quenching predominantly is caused by the admixture of the @xmath13 and @xmath14 states . ]    for all _ bosonic _ isotopes of mg , ca , sr , and yb , the nuclear spin @xmath15 vanishes and these isotopes lack hyperfine structure . for bosonic isotopes",
+    "the @xmath10 state may decay only via very weak multi - photon ( e.g. , e1-m1 ) transitions .",
+    "however , for _ fermionic _ isotopes ( table  [ tab : nucparams ] ) , @xmath16 , a new radiative decay channel becomes available due to the hyperfine interaction ( hfi ) .",
+    "the hfi , although small , admixes atomic levels of the total angular momentum @xmath17 thus opening an electric - dipole branch to the ground state .",
+    "the resulting hfi - induced e1 decays do determine the lifetimes of the @xmath10 states .",
+    "as to the @xmath8 states , here the single - photon decays are allowed , but being of non - e1 character , are very weak .",
+    "the lifetimes are long and range from 15 seconds for yb to 2 hours for ca  @xcite . as we demonstrate here",
+    ", depending on an isotope , the hyperfine quenching of the @xmath8 states is either comparable to or is much faster than the small non - e1 rates .    .",
+    "nuclear parameters of the stable fermionic isotopes of mg , ca , sr , and yb .",
+    "here @xmath15 are the nuclear spins and @xmath18 are the nuclear magnetic moments expressed in units of the nuclear magneton @xmath19 . [ cols=\"^,^,^\",options=\"header \" , ]     to summarize , here we employed the relativistic many - body methods to evaluate the hyperfine quenching rates for the metastable @xmath0 and @xmath1 states of mg , ca , sr , and yb",
+    ". the tabulated rates may be useful for designing novel ultra - precise optical clocks and trapping experiments with fermionic isotopes of metastable alkaline - earth atoms and yb .",
+    "the resulting natural widths of the @xmath2 clock transition are 0.44 mhz for @xmath3 mg , 2.2 mhz for @xmath4ca , 7.6 mhz for @xmath5sr , 43.5 mhz for @xmath6yb , and 38.5 mhz for @xmath7yb . compared to the bosonic isotopes ,",
+    "the lifetime of the @xmath1 states in fermionic isotopes is noticeably shortened by the hyperfine quenching but still remains long enough for trapping experiments .",
+    "we would like to thank norval fortson for bringing this problem to our attention .",
+    "this work was supported in part by the national science foundation grant and by the nist precision measurement grant .",
+    "the work of s.g.p . was additionally supported by the russian foundation for basic research under grant no .",
+    "02 - 02 - 16837-a ."
+  ],
+  "abstract_text": [
+    "<S> hyperfine quenching rates of the lowest - energy metastable @xmath0 and @xmath1 states of mg , ca , sr , and yb atoms are computed . </S>",
+    "<S> the calculations are carried out using _ ab initio _ </S>",
+    "<S> relativistic many - body methods . </S>",
+    "<S> the computed lifetimes may be useful for designing novel ultra - precise optical clocks and trapping experiments with the @xmath1 fermionic isotopes . </S>",
+    "<S> the resulting natural widths of the @xmath2 clock transition are 0.44 mhz for @xmath3 mg , 2.2 mhz for @xmath4ca , 7.6 mhz for @xmath5sr , 43.5 mhz for @xmath6yb , and 38.5 mhz for @xmath7yb . compared to the bosonic isotopes , </S>",
+    "<S> the lifetime of the @xmath1 states in fermionic isotopes is noticeably shortened by the hyperfine quenching but still remains long enough for trapping experiments . </S>"
+  ]
+}

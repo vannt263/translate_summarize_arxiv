@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "at low energies up to few tenth of mev very few partial waves are sufficient to describe nn scattering . however , at intermediate ( a few hundred mev ) and higher energies many partial waves are needed .",
+    "besides in this energy region the scattering amplitude for a high partial wave oscillates strongly in angle .",
+    "this suggests t - matrix calculations using directly the momentum vectors .",
+    "one - boson - exchange nn potentials are derived in momentum space . instead of using spin operators with a fixed quantisation axis",
+    "often these potentials are formulated in helicity representation . moreover , in high energy region taking relativity into account is unavoidable .",
+    "thereby , using spin components along a fixed direction is more complicated than using helicities [ 1 ] .",
+    "there are some works [ 2 - 4 ] preceding ours , which address formulations without partial waves and one of them [ 3 ] even using helicities .",
+    "we propose a modified form of equations in comparison to [ 3 ] .",
+    "we present here the formalism for the two nucleon system avoiding partial waves and using helicities .    in sect .",
+    "2 we describe the lippmann - schwinger equations as well as the basis states and the physical t - matrix . in sect .",
+    "3 we show the operators to express nn potentials . in sect .",
+    "4 we show the relation between the partial wave t - matrix and the helicity t - matrix . we conclude in sect . 5 .",
+    "to calculate observables we need t - matrix elements .",
+    "firstly we define basis states based on which t - matrix elements are calculated by solving the lippmann - schwinger equation .",
+    "the basis states are @xmath0 which are antisymmetric choosing @xmath1 and @xmath2 . here",
+    "@xmath3 , @xmath4 , @xmath5 , @xmath6 and @xmath7 are relative momenta , total spin , total helicity , parity operator and parity eigenvalue , respectively .    based on these basis states the t - matrix element is defined as @xmath8 for @xmath9 one can show @xmath10 where @xmath11 obeys a set of coupled lippmann - schwinger equations : @xmath12 with @xmath13 for @xmath14 it is a single equation but for @xmath15 it is a set of two coupled equations .",
+    "we need to solve it only for helicities @xmath16 and @xmath17 .",
+    "figure 1 shows a three dimensional plot of the real part of the half - shell t - matrix for s = 1 , parity = even , @xmath18 , @xmath19 at @xmath20 = 100 mev .",
+    "the physical t - matrix for spin - magnetic and isospin quantum numbers @xmath21 , @xmath22 is calculated using the following relation : @xmath23",
+    "we need potentials given in operator form . for the example of obepr",
+    "there are five types of operators , called @xmath24 operators in [ 3 ] , which can not be applied directly to our basis states .",
+    "we take the six @xmath25 operators from [ 3 ] for which this application is possible , but we redefined @xmath26 so that @xmath27 .",
+    "the relation between the @xmath24 and the @xmath25 operators is then @xmath28",
+    "from the helicity t - matrix we can calculate the partial wave t - matrix .",
+    "@xmath29 where @xmath30 .",
+    "we calculated phase shifts from the t - matrix ( [ one ] ) using the bonn obepr potential [ 5 ] .",
+    "they are shown in table 1 together with those calculated using partial wave decomposition .",
+    "we have formulated a method to carry out scattering process calculations of the two nucleon system without partial wave decomposition in helicity representation . with this method we can reduce the algebraic and numerical work drastically .",
+    "we need to solve only one set of lippmann - schwinger equations instead of solving many for all partial waves .",
+    "the results of phase shift calculation shows that this method works well .",
+    "we would like to thank charlotte elster from ohio university , athens , ohio for fruitfull discussions and assistance .",
+    "the first author also would like to thank dem deutschen akademischen austauschdienst for its financial support ."
+  ],
+  "abstract_text": [
+    "<S> at intermediate energies it appears advantageous to work without partial wave decomposition and use directly the momentum vectors . </S>",
+    "<S> we derived a finite set of coupled lippmann - schwinger equations using helicities . </S>",
+    "<S> they can be used for any type of realistic nn forces , which are given in operator form . as an example we have chosen the bonn obepr nn potential . </S>"
+  ]
+}

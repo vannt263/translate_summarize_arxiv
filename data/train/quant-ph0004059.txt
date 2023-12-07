@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "studying the role of phase in quantum mechanics has a long history ( for a review on the phase concepts , see , e.g. , @xcite ) .",
+    "its importance in today s problems is also apparent .",
+    "for example , phase in atomic systems has recently been used for storing quantum information @xcite , and phase and photon number measurements have been considered as a basis in some quantum teleportation schemes @xcite . notwithstanding the various phase - dependent effects in quantum physics , phase itself has not been uniquely measured and its very definition as physical quantity has been subject to many disputes . whereas for highly excited ( quasi - classical ) states different approaches give similar results , the various concepts differ in the phase properties of quantum states close to vacuum .",
+    "therefore the question has been arisen of what are the differences between these approaches and how relevant are they experimentally . in this paper",
+    "we concentrate on the canonical phase and its relation to @xmath0-parametrized phase - space functions , with special emphasis on the measurability of its exponential moments by `` weighted '' averaging of measured phase space functions .",
+    "the canonical phase distribution @xmath5 of a radiation field mode ( harmonic oscillator ) prepared in a quantum state described by a density operator @xmath6 is defined by @xmath7 where the fock state expansion of the ( unnormalizable ) phase states @xmath8 reads latexmath:[\\ ] ] for small @xmath43 , the dominant contribution to this integral comes from large @xmath90 .",
+    "we can replace @xmath153 by the asymptotic formula ( [ omegaas ] ) and absorb the prefactors into @xmath198 , @xmath199 .",
+    "\\label{kasint}\\ ] ] change of the variable according to @xmath200 yields @xmath201 the integration region of ( [ b9 ] ) can be divided in two parts , @xmath202 @xmath203 and @xmath202 @xmath204 , with @xmath205 @xmath184 @xmath206 . for small @xmath43 ,",
+    "the dominant contribution stems from the latter part where the approximation @xmath207 can be used , and we find that @xmath208 the integral is finite for @xmath43 @xmath46 @xmath23 , and thus @xmath209 the logarithm singularity in the denominator is very weak in comparison to the polynomial one in the numerator .",
+    "only the polynomial divergence is relevant in eq .",
+    "( [ psi ] ) , because it determines whether the integral is convergent or not .",
+    "thus we need not consider the logarithmic part , so that eq .",
+    "( [ kfulldiver ] ) simplifies to @xmath210    a. luk and v. peinov , quantum opt . * 6 * , 125 ( 1994 ) ; r. lynch , phys .",
+    "rep . * 256 * , 367 ( 1995 ) ; a. royer , phys .",
+    "a * 53 * , 70 ( 1996 ) ; r. tana , a. miranowicz , and ts .",
+    "gantsog , in : progress in optics , vol .",
+    "xxxv , ed .",
+    ": e. wolf , ( elsevier , amsterdam , 1996 ) , p. 355 ; d.t .",
+    "pegg and s.m .",
+    "barnett , j. mod .",
+    "optics * 44 * , 225 ( 1997 ) ; v. peinov , a. luk , and j. peina , _ phase in optics , _ world scientific , singapore 1998 .",
+    "m. freyberger and w. schleich , phys .",
+    "a * 47 * , r30 ( 1993 ) ; for determining the @xmath4-function by balanced six - port homodyning , see a. zucchetti , w. vogel , and d.g .",
+    "welsch , phys .",
+    "a * 54 * , 856 ( 1996 ) , m. paris , a. chizhov , and o. steuernagel , opt . commun . * 134 * , 117 ( 1997 ) .",
+    "alternatively , @xmath121 with a fixed @xmath99 can be treated as a generalized phase space function based on scalar product of the signal state with a displaced fock state .",
+    "such a function is another representation of the signal state ."
+  ],
+  "abstract_text": [
+    "<S> we discuss the possibility of sampling exponential moments of the canonical phase from the @xmath0-parametrized phase space functions . </S>",
+    "<S> we show that the sampling kernels exist and are well - behaved for any @xmath0 @xmath1 @xmath2 , whereas for @xmath0 @xmath3 @xmath2 the kernels diverge in the origin . in spite of </S>",
+    "<S> that we show that the phase space moments can be sampled with any predefined accuracy from the @xmath4-function measured in the double - homodyne scheme with perfect detectors . </S>",
+    "<S> we discuss the effect of imperfect detection and address sampling schemes using other measurable phase - space functions . </S>",
+    "<S> finally , we discuss the problem of sampling the canonical phase distribution itself . </S>"
+  ]
+}

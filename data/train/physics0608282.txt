@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "the hirsch index @xmath0 @xcite provides a rough but robust measure on the total citation impact of an individual , until the time of observation . more exactly it means having @xmath0 papers , each cited at least @xmath0 times .",
+    "in addition to persons , it also can be defined for universities , journals etc .",
+    "the values are very different for different fields and the question is , how to compare the values between fields ?",
+    "we had available a small data set of the @xmath0 values in chemistry , physics , and chemical engineering for finnish scientists .",
+    "a statistical study reveals an interesting power - law distribution and gives a hint on the relative weighting factors that may apply between different fields .",
+    "the data were determined from the isi web of knowledge using the data set in general search from 1945 onwards .",
+    "this database only contains references in journals to papers in journals .",
+    "most data points were obtained in november 2005 .",
+    "the most - quoted one - third of the points inside each area , @xmath5 , was fitted using gnuplot to @xmath6 where @xmath7 is the @xmath0 of the @xmath2:th - most quoted scientist , @xmath3 is a precoefficient and @xmath4 is an exponent , found to be surprisingly constant between different fields . the obtained values are shown in table [ tab : res ] and the quality of the fits is demonstrated in fig .",
+    "[ fig:1 ] .",
+    "the figures in parentheses give the asymptotic standard error .    in this data",
+    "set , for the given country at the given time , the workers in different areas mostly share the same background and general working conditions , like the typical research - group size and budget . assuming that they also are equally gifted and hard - working",
+    ", we then suggest that the ratios of @xmath3 between different fields would form a possible basis for comparing scientific merit between fields .",
+    "podlubny@xcite recently compared the total numbers of citations in various fields in united states .",
+    "he found them to be fairly constant from 1992 to 2001 and suggested that they would form a useful normalization factor for comparing individual scientific performance between fields .",
+    ".the fits for certain areas .",
+    "@xmath5 is the number of points included in the fit .",
+    "all data refer to finland . [",
+    "cols=\"<,>,<,<,<\",options=\"header \" , ]     [ tab : pod ]",
+    "a list of the @xmath0 values for 40 dutch chemists was published by faas@xcite .",
+    "both people of dutch origin anywhere in the world , and people from anywhere , working in the netherlands were included . as seen from fig.[faasfig ] ,",
+    "all points fit well the values @xmath3",
+    "= 105.5(2.4 ) , @xmath4 = -0.212(11 ) .",
+    "in economic theory , v. pareto found in 1896 @xcite the number of holders of income @xmath8 in a country to scale for high incomes as @xmath9 , with @xmath10 about -2 ( @xcite , see ref .",
+    "the same law was found by zipf to hold for word frequencies in linguistics and by lotka for numbers of papers among authors@xcite .",
+    "it is known in many other fields , like size distributions of cities in a country , earthquakes , wars etc . @xcite .    from eq .",
+    "( [ eq : fit ] ) , @xmath11 introducing the density of individuals per unit of @xmath0 , @xmath12 , @xmath13 we can interprete @xmath12 as the derivative @xmath14 then , using eq.[eq : inv ] , @xmath15 for the finnish @xmath4 for physics and chemistry , the corresponding pareto exponent @xmath10 would become -6.9 and -6.8 , respectively ."
+  ],
+  "abstract_text": [
+    "<S> a data set of hirsch indices , @xmath0 , for finnish scientists in certain fields is statistically analyzed and fitted to @xmath1 for the @xmath2-th most - quoted scientist . </S>",
+    "<S> the precoefficient @xmath3 is characteristic for the field and the exponent @xmath4 is about -0.2 for all data sets considered . for physics , </S>",
+    "<S> chemistry and chemical engineering , the @xmath3 are 49.7(8 ) , 41.3(6 ) , and 21.4(6 ) , respectively . </S>",
+    "<S> these @xmath4 values correspond to pareto exponents of about -7 for the distribution of hirsch indices @xmath0 . </S>"
+  ]
+}

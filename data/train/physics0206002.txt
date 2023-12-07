@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "intrabeam scattering ( ibs ) , an effect that tends to increase the beam emittance , is important in hadronic@xcite and heavy ion@xcite circular machines , as well as in low emittance electron storage rings@xcite . in the former type of machines it results in emittances that continually increase with time ; in the latter type , in steady - state emittances that are larger than those given by quantum excitation / synchrotron radiation alone .    the theory of intrabeam scattering for accelerators was first developed by piwinski@xcite , a result that was extended by martini@xcite , to give a formulation that we call here the standard piwinski  ( p ) method@xcite ; this was followed by the equally detailed bjorken and mtingwa ( b - m ) result@xcite . both approaches",
+    "solve the local , two - particle coulomb scattering problem for ( six - dimensional ) gaussian , uncoupled beams , but the two results appear to be different ; of the two , the b - m result is thought to be the more general@xcite .    for both the p and the b - m methods solving for the ibs growth rates is time consuming , involving , at each time ( or iteration ) step , a numerical integration at every lattice element .",
+    "therefore , simpler , more approximate formulations of ibs have been developed over the years : there are approximate solutions of parzen@xcite , le duff@xcite , raubenheimer@xcite , and wei@xcite . in the present report",
+    "we derive  starting with the general b - m formalism  another approximation , one valid for high energy beams and more accurate than raubenheimer s approximation .",
+    "we , in addition , demonstrate that under these same conditions a modified version of piwinski s ibs formulation asymptotically becomes equal to this result .",
+    "let us consider bunched beams that are uncoupled , and include vertical dispersion due to _ e.g. _ orbit errors .",
+    "let the intrabeam scattering growth rates be @xmath2 with @xmath3 the relative energy spread , @xmath4 the horizontal emittance , and @xmath5 the vertical emittance .",
+    "the growth rates according to bjorken - mtingwa ( including a @xmath6 correction factor@xcite , and including vertical dispersion ) are @xmath7^{1/2}}\\bigg\\ { \\nonumber\\\\ & & \\hspace{-8pt }   trl^{(i)}tr\\left({1\\over l+\\lambda i}\\right )   -\\ 3trl^{(i ) } \\left({1\\over l+\\lambda i}\\right)\\bigg\\}\\bigg>\\quad\\ \\ \\label{bm_eq}\\end{aligned}\\ ] ] where @xmath8 represents @xmath9 , @xmath10 , or @xmath11 ; @xmath12 with @xmath13 the classical particle radius , @xmath14 the speed of light , @xmath15 the bunch population , @xmath16 the velocity over @xmath14 , @xmath17 the lorentz energy factor , and @xmath18 the bunch length ; @xmath19 represents the coulomb log factor , @xmath20 means that the enclosed quantities , combinations of beam parameters and lattice properties , are averaged around the entire ring ; @xmath21 and @xmath22 signify , respectively , the determinant and the trace of a matrix , and @xmath23 is the unit matrix .",
+    "auxiliary matrices are defined as @xmath24 @xmath25 @xmath26 @xmath27 the dispersion invariant is @xmath28/\\beta$ ] , and @xmath29 , where @xmath30 and @xmath31 are the beta and dispersion lattice functions .",
+    "let us first consider @xmath32 as given by eq .",
+    "[ bm_eq ] .",
+    "note that if we change the integration variable to @xmath33 then @xmath34 with @xmath35 @xmath36 note that , other than a multiplicative factor , there are only 4 parameters in this matrix : @xmath37 , @xmath38 , @xmath39 , @xmath39 .",
+    "note that , since @xmath40 , the parameters @xmath41 ; and that if @xmath42 then @xmath43 is small .",
+    "we give , in table  1 , average values of @xmath37 , @xmath38 , @xmath39 , in selected electron rings .",
+    "the author thanks a.  piwinski , k. kubo and other coauthors of ref .",
+    "@xcite for help in understanding ibs theory ; k.  kubo , a.  wolski , c.  steier , for supplying the lattices of the atf , nlc , als rings , respectively ."
+  ],
+  "abstract_text": [
+    "<S> beginning with the general bjorken - mtingwa solution , we derive a simplified model of intrabeam scattering ( ibs ) , one valid for high energy beams in normal storage rings ; our result is similar , though more accurate than a model due to raubenheimer . in addition , we show that a modified version of piwinski s ibs formulation ( where @xmath0 has been replaced by @xmath1 ) at high energies asymptotically approaches the same result .    </S>",
+    "<S> slac - pub-9226 + arxiv : physics/0206002 + june 2002    * a simplified model of intrabeam scattering *     k.l.f . </S>",
+    "<S> bane + _ stanford linear accelerator center , stanford university , _ + _ stanford , ca 94309 usa _    _ presented at the _ _ eighth european particle accelerator conference ( epac02 ) , _ + _ paris , france _ + _ june 3 - 7 , 2002 _ </S>"
+  ]
+}

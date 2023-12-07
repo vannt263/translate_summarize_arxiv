@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "_ gustaw mie _ in 1908 had considered a problem of the light scattering by the macroscopic dielectric spheres .",
+    "_ mie _ find an exact solution of the problem of diffraction the plane wave on the homogenous sphere with constant density .",
+    "similar solution was published by _",
+    "the mie solution satisfies also the scattering on many spheres with the same structure and diameter  like scattering on the drops .",
+    "the _ mie _ solutions in widely used in various situations up to nowadays .",
+    "many scientists ( @xcite , @xcite , @xcite , @xcite and others ) show a lot of simply models , more simply than _ _",
+    "mie__s to application .",
+    "unfortunately , all of this approximations , works only in strictly defined area ( sometimes with great error ) . for precisely calculation done in all the spectrum of measure we must used the main theory , now is only one such theory  _",
+    "mie _ theory .    on the long distances ,",
+    "the process of light scattering is described by amplitude * a * of electric field * e * :    @xmath0    the dependencies of angle give us angle distribution like :    @xmath1    after integration over all angles it takes us total cross section .",
+    "amplitude can be write also in such form :    @xmath2    this form is more useful for calculation of physically dependencies . for example ,",
+    "amplitude of radiation , with parallel polarisation , is equal to :    @xmath3    and for perpendicular    @xmath4    for non - polarised wave the intensity of reflected light is equal :    @xmath5    these components give us total intensity @xmath6 :    @xmath7    polarisation @xmath8 is given as :    @xmath9    if @xmath10 , then we get the known _ rayleigh _ s results for amplitude    @xmath11    intensity is expressed by :    @xmath12    and polarisation as :    @xmath13",
+    "we consider electrical field satisfied the maxwell equations @xcite , @xcite , @xcite , @xcite . if @xmath14 , then :    @xmath15    using an operator notation @xcite we can write : @xmath16 both @xmath17 and @xmath18 have a well - known structure :    @xmath19    @xmath20    where @xmath21 are the _ legendre _ polynomials .",
+    "now , @xmath17 and @xmath18 can be written as    @xmath22    @xmath23    where @xmath24 are cylindrical functions of bessel and hankel ( first kind functions ) .",
+    "we can write now the electric part    @xmath25    and magnetic one    @xmath26",
+    "for small @xmath27 , the scattering cross - section was written by lord _ rayleigh _",
+    "@xcite , @xcite , @xcite :    @xmath28    for water , this approximation work for @xmath29 with error smaller than @xmath30 . in range of @xmath31@xmath32 ,",
+    "good approximation take us the formula of van de hulst @xcite :    @xmath33 , \\delta = 2\\alpha ( n-1)\\text { } .\\ ] ]    scattering cross - section is defined as :    @xmath34    after normalisation by @xmath35 is equal :    @xmath36    so , we obtained total cross section .",
+    "our program calculated eq.@xmath37 .",
+    "this program is written in turbo pascal language .",
+    "the structure of algorithm is very simple so the translation to another language can take no more like some minutes .    in program we used recursion , so the time of calculation is minimized to some seconds for thousand of dates .",
+    "recursion used main properties of calculated functions and is most efficient for great alpha .",
+    "program generates the data file with location c : .",
+    "@xmath38@xmath39    @xmath40    @xmath38@xmath41@xmath39    @xmath42    @xmath38@xmath39    @xmath38@xmath39    @xmath42    @xmath38@xmath39                @xmath38@xmath39          @xmath42    @xmath38@xmath39    * for wave:=2 to wave_k do *    * begin *    @xmath43@xmath39    @xmath43@xmath39    * end ; *    @xmath44",
+    "now , we can show some results as plots for @xmath45 equal to 4/3 , 1.1 .",
+    "on all these plots we can see very interesting structure with resonances fig 3,4 and 5 ."
+  ],
+  "abstract_text": [
+    "<S> the main topics of this paper is to shown a fast mie algorithm fma as the best way to use the mie scattering theory for cross section calculation . </S>",
+    "<S> this fast algorithm used recursion for summing a long timed sum of cylindrical functions .    </S>",
+    "<S> the light scattering and fast mie algorithm    pawel gliwa _ _ sigma poland + warsaw + _ _ e - mail : ` pawel.gliwa@sigmapl.pl ` </S>"
+  ]
+}

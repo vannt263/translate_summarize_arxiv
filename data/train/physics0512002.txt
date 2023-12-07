@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "integral field spectroscopy ( ifs ) provides a spectrum simultaneously for each spatial sample of an extended , two - dimensional field .",
+    "basically , an ifs is located in the focal plane of a telescope and is composed by an integral field unit ( ifu ) and a spectrograph . the ifu acts as a coupler between the telescope and the spectrograph by reformatting optically a rectangular field into a quasi - continuous pseudo - slit located at the entrance focal plane of the spectrograph .",
+    "therefore , the light from each pseudo - slit is dispersed to form spectra on the detector and a spectrum can be obtained simultaneously for each spatial sample within the ifu field .",
+    "the ifu contains two main optical sub - systems : the fore - optics and the image slicer .",
+    "the fore - optics introduces an anamorphic magnification of the field with an aspect ratio of 1@xmath02 onto the set of slicer mirrors optical surfaces . in such way",
+    "each spatial element of resolution forms a 1@xmath02  pixels image on the detector ( i.e. the width of each slice corresponds to 2 pixels ) , which ensures correct sampling in the dispersion direction ( perpendicular to the slices ) and prevents under - sampling the spectra .",
+    "this anamorphism can be avoided if under - sampling spectra is acceptable by science ( for example , the snap  @xcite project ) or if a spectral dithering mechanism is included in the spectrograph in order to recover for the under - sampling .",
+    "the image slicer optically divides the anamorphic ( or not ) two - dimensional field into a large number of contiguous narrow sub - images which are re - arranged along a one - dimensional slit at the entrance focal plane of the spectrograph .",
+    "an image slicer is usually composed of a slicer mirror array located at the image plane of the telescope and associated with a row of pupil mirrors and a row of slit mirrors .",
+    "the slicer mirror array is constituted of a stack of several thin spherical mirrors ( called `` slices '' ) which `` slice '' the anamorphic field and form real images of the telescope pupil on the pupil mirrors .",
+    "the pupil mirrors are disposed along a row parallel to the spatial direction .",
+    "each pupil mirror then re - images its corresponding slice of the anamorphic field on its corresponding slit mirror located at the spectrograph s focal plane ( slit plane ) .",
+    "the slit mirrors are also diposed along a row parallel to the spatial direction . finally , each slit mirror which acts as a field lenses , re - images the telescope pupil ( pupil mirrors ) onto the entrance pupil of the spectrograph .",
+    "the principle of an image slicer is presented in fig .",
+    "[ fig : principle ] .    [ cols=\"^ \" , ]     as an example in fig .",
+    "[ fig : wfe ] , we consider the distribution of the theoretical wfe ( t - wfe ) of both fan - shaped and classical image slicers",
+    ". the t - wfe of the fan - shaped image slicer is about 45.5@xmath1  nm and the t - wfe of the classical image slicer is about 76.1@xmath2  nm . it is interesting to note that the fore - optics ( see section  [ sect : design ] ) provides a mean t - wfe of about 45.7  nm over the whole fov ( marked by a dashed line in fig .",
+    "[ fig : wfe ] ) .",
+    "thus , the fan - shaped image slicer preserves the image quality of the fore - optics over the whole fov ( all channels ) while the classical image slicer degrades the t - wfe by a factor two in certain channels .",
+    "furthermore , the distribution of the t - wfe of the fan - shaped image slicer is sharp since the range of values is about  8  nm over all channels allowing to guaranty a negligible level of differential aberration in the field .",
+    "this article presents an original concept of image slicer called `` fan - shaped '' .",
+    "its design delivers good and homogeneous image quality over all ifu elements .",
+    "we successfully apply its design to jwst / nirspec .",
+    "here we did nt discuss about manufacturing aspects since the performance aspects were preponderant however further investigations are under studying to drastically reduce costs and manufacturing aspects in such a design by preserving performances . furthermore , a prototyping of the ifs ( ifu and spectrograph ) for the snap application is undergoing at lam  @xcite ."
+  ],
+  "abstract_text": [
+    "<S> integral field spectroscopy ( ifs ) provides a spectrum simultaneously for each spatial sample of an extended , two - dimensional field . </S>",
+    "<S> it consists of an integral field unit ( ifu ) which slices and re - arranges the initial field along the entrance slit of a spectrograph . </S>",
+    "<S> this article presents an original design of ifu based on the advanced image slicer concept  @xcite . to reduce optical aberrations , </S>",
+    "<S> pupil and slit mirrors are disposed in a fan - shaped configuration that means that angles between incident and reflected beams on each elements are minimized . </S>",
+    "<S> the fan - shaped image slicer improves image quality in terms of wavefront error by a factor  2 comparing with classical image slicer and , furthermore it guaranties a negligible level of differential aberration in the field . as an exemple , we are presenting the design lam used for its proposal at the nirspec / ifu invitation of tender . </S>"
+  ]
+}

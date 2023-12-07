@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "resistive plate chamber ( rpc @xcite ) will be used as the muon trigger detector , in the barrel region of the atlas experiment at lhc @xcite .",
+    "good high @xmath0 muon trigger performance is crucial in order to address the broad physics program of lhc . + in order to cover the barrel region a total number of 1116 rpc units will be installed , for a total surface area of about 3800 @xmath1 . the extreme difficulty in accessing the atlas detectors , after installation is complete , imposes a high standard quality assurance for these units . for this purpose three",
+    "cosmic ray teststands have been built at infn napoli@xcite , lecce , and roma 2 , each one allowing to certify a tower of eight rpc units at once .",
+    "the lecce site uses a standalone cosmic ray trigger and tracking system built with 4 pre - tested atlas units ( figure [ fig1.eps ] ) .",
+    "the advantages of this setup is a complete coverage of the chambers under test , avoiding time consuming position scans , allowing only one readout system , and to monitor rpc behaviors in the long term for the trigger chambers .",
+    "our apparatus consists of several subsystems : gas distribution , high voltage distribution , low voltage distribution , trigger logic , vme readout , and data acquisition .",
+    "a large number of independent gas lines ( one for each gas volume layer ) , high voltage and low voltage channels ( one for each readout panel ) are present , in order to easily isolated defective detectors .",
+    "+ the cosmic rays are selected with a loose trigger request and further refined on - line requiring a minimum number of hits in the trigger rpc , resulting in an acquisition rate of about 50 hz .",
+    "events are than analized looking for straight tracks ( 85% of the events contain good track candidates ) .",
+    "those tracks are then used for efficiency computation of the rpcs under test and monitoring purposes .",
+    "+ the monitor , control , and readout sofware is based on labview , while , the analysis software is written in object oriented c++ language .",
+    "in addition , configurations , runs and results are managed by mysql databases and presented via web interface .",
+    "finally , the data are displayed by paw and root macro s .",
+    "the certification of the chambers is accomplished by a sequence of several measurements : a gas volume leak test , a hv ramp - up and ramp - down current curves , efficiency versus high voltage ( at different front - end voltage threshold values ) , single rate counts versus front - end voltage thresholds ( at different high voltage values ) , and finally , chamber tomography .",
+    "the whole procedure ( both for on - line and off - line daq processing ) is almost automatic , takes about 24 hours , and starts after 2-days of gas flowing ( 94.7%c@xmath2h@xmath2f@xmath3 - 5%c@xmath3h@xmath4 - 0.3%sf@xmath5 ) .",
+    "+    during the gas volume leak test the differential pressure is monitored for two hours after imposing about 3 mbar of over - pressure and closing the gas inlet and oulet .",
+    "the runs with cosmic ray triggers ( plateau curves and tomography plot ) and with random trigger ( noise rates ) allow a complete characterization of the chambers . up to now we tested about 100 units .",
+    "accepted chambers should have high gap efficiency ( @xmath6 97% where about 2% loss can be accounted due to the spacers ) and relatively low single rate counts ( about 1 @xmath7 , much less than the expected atlas cavern background ) .",
+    "figure [ fig2.eps ] shows a gas volume rpc tomography obtained with our system , proving the good 3d tracking capability of atlas rpc s ( about 7 mm projected track spatial resolution in both projections ) .",
+    "in fact , localized dead regions , due to the 1 cm diameter spacers , are clearly visible .",
+    "moreover , the current versus high voltage allows to detect defective gap , looking for large leakage current .",
+    "the cosmic ray teststand at infn lecce is now capable of routinely testing atlas rpc detector units .",
+    "its complexity is such that the system is a good test bench for operating with a large number of rpc s .",
+    "3 r.  santonico and r.  cardarelli , nucl .",
+    "instrum . and meth .",
+    "* 187 * , 377 ( 1981 ) .",
+    "atlas detector and physics performance .",
+    "technical design report ( may 1999 ) .",
+    "m.  alviggi _ et al _ , nucl .",
+    "instrum . and meth .",
+    "* a518 * , 79 ( 2004 ) ."
+  ],
+  "abstract_text": [
+    "<S> we describe the design and functionality of the cosmic ray teststand built at infn lecce for atlas rpc quality control assurance . </S>",
+    "<S> +    = 14.5pt </S>"
+  ]
+}

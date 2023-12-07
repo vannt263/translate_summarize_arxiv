@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "a recent proposal @xcite for quantum computation utilizes the ground hyperfine states of a neutral atom as qubits , and realizes two - qubit quantum gates by conditional excitations to rydberg states .",
+    "the atoms are confined to the sites of an optical lattice , and the optical potential seen by the atom depends on the dynamic polarizability of the atom .",
+    "therefore , the atom will generally move in a different lattice potential when it is excited to the rydberg state during the gate operation , which may cause motional heating and lead to decoherence . in a recent paper @xcite , we proposed two solutions to this problem by matching the ac polarizabilities of the atom in the ground and rydberg states . in the first scheme ,",
+    "the polarizabilities are matched for the specific values of the lattice photon frequency between the resonances . in the second scheme , some accidental matches between transition energies are used to match the ground state polarizability with the polarizability of the selected rydberg states ( @xmath8 and @xmath9 in the case of rb ) .",
+    "the elimination of motional decoherence is important in helping to design a high - fidelity two - qubit gate capable of meeting the error threshold for scalable quantum computation .    despite the existence of high - precision measurements of the primary transition electric - dipole matrix elements in alkali - metal atoms , accurate experimental data for other transitions",
+    "are lacking with the exception of a very few transitions in cs owing to the study of parity nonconservation . in light of the importance of the atomic calculations for the quantum logic gate scheme with conditional excitations to rydberg levels , we have calculated the electric - dipole matrix elements for subsequent evaluation of lifetimes and polarizabilities for a number of rb levels .",
+    "we note that the interest in this particular logic gate scheme with neutral atoms results from its potential for fast ( sub - microsecond ) gate operations .",
+    "we have performed all - order calculations of the @xmath10 , @xmath11 , @xmath12 , @xmath13 , and @xmath14 electric - dipole matrix elements with @xmath15 and @xmath16 , and of the @xmath2 matrix elements .",
+    "these results are combined with previous all - order calculations of the @xmath17 and @xmath18 matrix elements @xcite to obtain values of the lifetimes of the @xmath19 , @xmath20 , @xmath21 , @xmath22 , @xmath23 , @xmath24 , @xmath25 , @xmath26 , and @xmath27 levels .",
+    "the lifetime of the @xmath28 level is of special interest owing to the large discrepancies between existing experiments @xcite .",
+    "the third - order matrix - element calculation has also been carried out to evaluate the importance of the higher - order contributions .",
+    "the dynamic polarizabilities of the rb @xmath3 states are also calculated for both low - lying and rydberg levels .",
+    "the evaluation of the accuracy of the polarizability calculations is conducted including a comparison between our data and other theory and experiment .",
+    "the electric - dipole matrix elements for the @xmath29 transitions were measured to high accuracy in @xcite and matrix elements for @xmath0 transitions with @xmath30 and @xmath31 were calculated using a single - double ( sd ) all - order method in refs .",
+    "@xcite . in the present work ,",
+    "we have calculated matrix elements for @xmath10 , @xmath11 , @xmath12 , @xmath13 , and @xmath14 transitions with @xmath15 and @xmath16 as well as @xmath32 transitions using sd all - order method @xcite . very briefly , the wave function is represented as an expansion @xmath33|",
+    "\\phi_v\\rangle   , \\label{eq1}\\end{aligned}\\ ] ] where @xmath34 is the lowest - order atomic state function , which is taken to be the _ frozen - core _ dirac - hartree - fock ( dhf ) wave function of a state @xmath35 ; @xmath36 and @xmath37 are creation and annihilation operators , respectively .    [ cols=\"<,^,^,^,^,^,^,^,^ \" , ]     [ ht ]   dynamic polarizability @xmath38 for the @xmath3 states of rb in @xmath39 . , title=\"fig : \" ]    we plot the frequency - dependent polarizabilities of @xmath21 , @xmath40 , and @xmath41 states in fig .",
+    "as expected , the polarizabilities depend weakly on @xmath42 for the frequencies considered here .",
+    "the polarizabilities of the ground and rydberg states can be matched at the point between two resonances where the ground state polarizability is small and negative .",
+    "the exact matching point for the @xmath40 state is @xmath43  nm @xcite .",
+    "the matching of the polarizabilities allows to minimize motional heating in the quantum computation scheme with neutral atoms .",
+    "we have conducted a systematic study of the @xmath44 and @xmath45 electric - dipole matrix elements in rubidium using relativistic all - order method .",
+    "an investigation of the accuracy of these matrix elements was performed .",
+    "the resulting matrix elements were used to calculate lifetimes of the @xmath3 and @xmath4 levels with @xmath46 and @xmath6 levels with @xmath47 .",
+    "the lifetime values were found to be in good agreement with experiment .",
+    "the dynamic polarizabilities of the @xmath3 rb states , which are of interest for the optimization of quantum computation scheme with neutral atoms mediated by the conditional excitations to rydberg states , were also calculated ."
+  ],
+  "abstract_text": [
+    "<S> electric - dipole matrix elements for @xmath0 , @xmath1 , and @xmath2 transitions in rb are calculated using a relativistic all - order method . </S>",
+    "<S> a third - order calculation is also carried out for these matrix elements to evaluate the importance of the high - order many - body perturbation theory contributions . </S>",
+    "<S> the all - order matrix elements are used to evaluate lifetimes of @xmath3 and @xmath4 levels with @xmath5 and @xmath6 levels with @xmath7 for comparison with experiment and to provide benchmark values for these lifetimes . </S>",
+    "<S> the dynamic polarizabilities are calculated for @xmath3 states of rubidium . </S>",
+    "<S> the resulting lifetime and polarizability values are compared with available theory and experiment . </S>"
+  ]
+}

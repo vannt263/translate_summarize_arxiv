@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the btev experiment [ 1 ] uses straw tubes glued in modules and embedded in a structure mechanically untensioned [ 2 ] , where straw and microstrip detector are integrated , allowing a minimum amount of materials .",
+    "a check of the eccentricity of the straw tubes and their position is accomplished using x - ray tomography of the module sections .",
+    "experiment straw section is scanned orthogonal to the vertical axis of the tomograph with 27 @xmath0 m resolution .",
+    "data are initially reduced in a numerical 8-bit matrix of 1024x1024 points , then converted to an imaq image of labview .",
+    "+ figure 1 show the raw tomographic image of a straw tube section ( section@xmath4 , 1024x1024 pixels , 27 @xmath0m / pixel , 256 values of greys ) .",
+    "not all the tubes of the module are contained in the field of view .",
+    "figure 1 also shows evident traces of glue , deposited on the external surfaces of the straw tubes , especially in the points of contact of adjacent tubes .",
+    "only the internal surfaces are well defined in the images and , in order to detect and to measure possible mechanical deformations of the tubes , this forces to study the geometry of the these surfaces .",
+    "figure 2 shows the distribution of the greys values of the previous figure .",
+    "+ an improvement of the signal - to - noise con be obtained just setting an upper threshold of the intensity , as it is shown in fig.3 , reporting the effect of a threshold of 210 of the image of fig.1 . as an example , an arbitrary straight of the pixels along this line is shown if fig.4 , where the two peaks point out the positions of the crossing points ( edges ) of the line with the internal surfaces of the two adjacent tubes .",
+    "the transformation of the edges coordinates from the line reference to the image reference is easily obtained from the coordinates of the line end points in the image reference . on this base , an automatic procedure is defined in order to obtain the edges of 14 tubes of a section of the module .",
+    "+ the procedure is as follows .",
+    "first an image containing a region of interest is built , then the patterns recognising such a region are extracted from the tomography . at the edge",
+    "pointed out on the base of contrast figures , three orthogonal coordinates x , y , z , defined in the tomograph system ( tomo reference ) , are attributed , where the z is common to all the edges of the same section .",
+    "this allows the reconstruction of the 2 and 3-dimensional images of single tubes and of the entire module .",
+    "+ we do not expect a perfect positioning of the module on the tomograph reference plane , and even in the case of perfect positioning we would not expect a perfect parallelism between the tubes of the module .",
+    "therefore , the section edges of each straw tube are fitted to an ellipse .",
+    "the centres of the ellispes of all sections are in turn fitted to a straight line : the axis of the straw tube .",
+    "+ projecting the edges of a section on the plane orthogonal to the axis of its straw tube the contribution to an elliptical configuration due to a not perfect vertically of the tube is eliminated .",
+    "we fit the data points to an ellipse , and define as ellipse parameter the quantity @xmath5 where p is a point on the ellipse , @xmath6 are the ellipse foci , and @xmath7 their distances . + in order to evaluated the amount of the mechanical deformation of the straw tubes cross section from the expected circular shape , we then fit the data to a circle .",
+    "figure 5 shows the standard deviation of the histograms of the edge radius , and the width of gaussian fit to the ellipse parameter of the projected edges for the 14 straw tubes analyzed . in the worst case the mechanical deformation respect to the circular cross section have a distribution with a standard deviation of about 1.5 pixel , corresponding to about 40@xmath0 m , largely contained in the @xmath8 m specification in order not to spoil the electric field inside the straw tube .",
+    "the precision of our technique in determining the variation of the straw cross - section from circularity cam be estimated by the difference in quadrature of the two variances in fig.7 , which is about 1.2 pixels at most , corresponding to about @xmath9 m .",
+    "the three - dimensional rendering of slices reconstructed is shown in figure 8 .    /pixel),title=\"fig:\",width=188",
+    "] +     +     +     +     of the module .",
+    "each edge is chosen as the first met in the arrow direction , from the inside to the outside of the region of interest , pointing out to the internal surface of the straw tube .",
+    "circles fitting the edges , their centers and order number are also shown , title=\"fig:\",width=188 ] +     of the straw tube@xmath10 in tomo reference .",
+    "the straw axis is at 9 degree respect to the tomograph vertical axis ( the figure axis is not in scale respect the horizontal ones),title=\"fig:\",width=188 ] +     +     +",
+    "we have developed a new technique to visualize lw - mass surface of cylindrical shapes widely used in hep detectors , such as straw tubes .",
+    "the technique uses x - ray computed tomography , implemented with an original optical recognition , pattern recognition and analysis code , labview - based .",
+    "preliminary results show how the precision of our technique in determining deviation from circular shapes are better than @xmath9 m ."
+  ],
+  "abstract_text": [
+    "<S> a check of the eccentricity of the aluminised kapton straw tubes used in the btev experiment is accomplished using x - ray tomography of the section of tubes modules . 2 and 3-dimensional images of the single tubes and of the modules are reconstructed and analysed . </S>",
+    "<S> preliminary results show that a precision better than 40 @xmath0 m can be reached on the measurement of the straw radii .    </S>",
+    "<S> l l + @xmath1 & + @xmath2 & + @xmath3 & +    this work was supported by the italian istituto nazionale di fisica nucleare and ministero dellistruzione , delluniversit e della ricerca . </S>",
+    "<S> this work was partially funded by contract eu rii3-ct-2004 - 506078 .    2 </S>"
+  ]
+}

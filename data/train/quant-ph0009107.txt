@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "non - local quantum correlations or entanglement between space - separated parties is one of the most fertile and thought - generating properties of quantum mechanics .",
+    "recently it has become a very useful resource for many of the applications in quantum information theory and this has led to a lot of work devoted to understanding how it can be quantified and manipulated .",
+    "bipartite pure state entanglement is almost completely understood , while many questions are still open for the mixed state case . for pure states ,",
+    "the schmidt decomposition @xcite has proven to be a very useful tool , since it allows to write any pure state shared by two parties a and b in a canonical form , where all the information about the non - local properties of the state is contained in the positive schmidt coefficients .",
+    "the non - local properties of quantum states can be also specified by means of other quantities invariant under the action of local unitary transformations .",
+    "an interesting type of these invariants are given by polynomial combination of the coordinates of the state in a product basis , and the relation between these invariants and the schmidt coefficients is well known .",
+    "some novel aspects , compared to the bipartite case , appear for entangled systems of more than two parties . in this work we study the canonical forms of three - qubit pure states , extending the results of bipartite systems .",
+    "first we analyze the forms proposed for generalizing the schmidt decomposition for three - qubit pure states .",
+    "then , we relate one of these decompositions to the polynomial invariants studied in @xcite .",
+    "we give a one - to - one correspondence between a canonical form for a three - qubit pure state and a complete set of polynomial invariants describing its entanglement properties .",
+    "we also classify the different types of canonical forms by means of the minimal number of local bases product states ( lbps ) , i.e. the minimal number of non - local parameters , needed for the specification of a state . for any three - qubit pure state we give its decomposition with the minimal number of lbps and the procedure that has to be applied in order to build it .",
+    "finally we indicate how to generalize the results to systems of @xmath0-qubits , where many difficulties arise .",
+    "the schmidt decomposition has been a very useful tool for the study of entanglement properties of bipartite systems . for a generic bipartite pure state @xmath1 it reads [ bischmidt ]",
+    "|=_i=1^l _ i|ii , _ i0 , where @xmath2 , @xmath3 , being @xmath4 orthonormal vectors in each subsystem , and @xmath5 are the schmidt coefficients",
+    ". it would be very interesting to find for three - qubit pure states a canonical decomposition generalizing the features of the schmidt decomposition .",
+    "however , the trivial generalization is not possible @xcite and it is not evident how to extend the schmidt decomposition to the case of @xmath0-party systems ( @xmath6 ) .",
+    "indeed several forms have been proposed ( see for instance @xcite ) .    in recent work",
+    "@xcite we gave a generalization of the schmidt decomposition for three - qubit pure states , in the sense that the coefficients of this decomposition carry all the information about the non - local properties of the state , and do so minimally and unambiguously , i.e. the decomposition is not superflous . starting from a generic state shared by three parties , a , b and c , [ state ]"
+  ],
+  "abstract_text": [
+    "<S> in this paper we analyze the canonical forms into which any pure three - qubit state can be cast . </S>",
+    "<S> the minimal forms , i.e. the ones with the minimal number of product states built from local bases , are also presented and lead to a complete classification of pure three - qubit states . this classification is related to the values of the polynomial invariants under local unitary transformations by a one - to - one correspondence . </S>"
+  ]
+}

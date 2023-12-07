@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "in cologne , we teach a course on theoretical physics ii ( electrodynamics ) to students of physics in their fourth semester . for several years",
+    ", we have been using for that purpose the calculus of exterior differential forms , see @xcite , because we believe that this is the appropriate formalism : it is based on objects which possess a clear operational interpretation , it elucidates the fundamental structure of maxwell s equations and their mutual interrelationship , and it invites a 4-dimensional representation appropriate for special _ and _ general relativity theory ( i.e. , including gravity , see @xcite ) .",
+    "our experimental colleagues are somewhat skeptical ; and not only them .",
+    "therefore we were invited to give , within 90 minutes , a sort of popular survey of electrodynamics in exterior calculus to the members of one of our experimental institutes ( group of h. micklitz ) .",
+    "the present article is a worked - out version of this talk .",
+    "we believe that it could also be useful for other universities .",
+    "subsequent to the talk we had given , we found the highly interesting and historically oriented article of roche @xcite on  @xmath0 and @xmath1 , the intensity vectors of magnetism  \" . therein , the corresponding work of bamberg and sternberg @xcite , bopp @xcite , ingarden and jamiokowski @xcite , kovetz @xcite , post @xcite , sommerfeld @xcite , and truesdell and toupin @xcite , to drop just a few names , was neglected yielding a picture of @xmath1 and @xmath0 which looks to us as being not up of date ; one should also compare in this context the letter of chambers @xcite and the book of roche @xcite , in particular its chapter 9 .",
+    "below we will suggest answers to some of roche s questions .",
+    "moreover , `` ... any system that gives @xmath2 and @xmath0 different units , when they are related through a relativistic transformation , is on the far side of sanity '' is an apodictic statement of fitch @xcite . in the sequel , we will prove that we _ are _ on the far side of sanity : the _ absolute _ dimension of @xmath2 turns out to be _ magnetic flux / time _ and that of @xmath0 _ magnetic flux , _ see sec .",
+    "[ strengths ] .    according to the audience we want to address",
+    ", we will skip all mathematical details and take recourse to plausibility considerations . in order to make the paper self - contained , we present though a brief summary of exterior calculus in the appendix . a good reference to the mathematics underlying our presentation is the book of frankel @xcite , see also @xcite and @xcite . for the experimental side of our subject we refer to bergmann - schaefer @xcite .",
+    "complementary to @xmath3 , one can define an operation which decreases the rank of a form by 1 .",
+    "this is the _ interior product _ of a vector with a @xmath4-form .",
+    "given the vector @xmath5 with the components @xmath6 , the interior product with the coframe 1-form yields @xmath7 , which is a sort of a projection along @xmath5 .",
+    "by linearity , the interior product of @xmath5 with a @xmath4-form is defined as described in table iii .    the _ hodge dual operator _",
+    "@xmath8 maps @xmath4-forms into @xmath9-forms .",
+    "its introduction necessarily requires the _ metric _ which assigns a real number @xmath10 to every two vectors @xmath11 and @xmath5 . in local coordinates ,",
+    "the components of the metric tensor are determined as the values of the scalar product of the basis vectors , @xmath12 .",
+    "this matrix is _ positive definite_. the metric introduces a natural volume 3-form @xmath13 which underlies the definition of the hodge operator @xmath8 .",
+    "the general expression is displayed in table iii .",
+    "explicitly the hodge dual of the coframe 1-form reads , for example : @xmath14 , where @xmath15 is inverse to @xmath16 .",
+    "the notions of the _ odd _ and _ even _ exterior forms are closely related to the orientation of the manifold . in simple terms , these two types of forms are distinguished by their different behavior with respect to a reflection ( i.e. , a change of orientation ) : an even ( odd ) form does not change ( changes ) sign under a reflection transformation .",
+    "these properties of odd and even forms are crucial in the integration theory , see , e.g. , @xcite .    for a @xmath4-form an _ integral _ over a @xmath4-dimensional subspace is defined .",
+    "for example , a @xmath17-form can be integrated over a curve , a @xmath18-form over a 2-surface , and a volume 3-form over the whole 3-dimensional space .",
+    "we will not enter into the details here , limiting ourselves to the formulation of stokes s theorem which occupies a central place in integration theory : @xmath19 here @xmath20 is an arbitrary @xmath4-form , and @xmath21 is an arbitrary @xmath22-dimensional ( hyper)surface with the boundary @xmath23 .",
+    "obukhov and f.w .",
+    "hehl , _ space - time metric from linear electrodynamics _ , _ phys .",
+    "lett . _ * b458 * ( 1999 ) 466 - 470 .",
+    "hehl and yu.n .",
+    "obukhov , _ how does the electromagnetic field couple to gravity , in particular to metric , nonmetricity , torsion , and curvature ?",
+    "_ preprint iassns - hep-99 - 116 , institute for advanced study , princeton , see also http://arxiv.org/ abs / gr - qc/0001010 ."
+  ],
+  "abstract_text": [
+    "<S> the axiomatic structure of the electromagnetic theory is outlined . </S>",
+    "<S> we will base classical electrodynamics on ( 1 ) electric charge conservation , ( 2 ) the lorentz force , ( 3 ) magnetic flux conservation , and ( 4 ) on the maxwell - lorentz spacetime relations . </S>",
+    "<S> this yields the maxwell equations . </S>",
+    "<S> the consequences will be drawn , inter alia , for the interpretation and the dimension of the electric and magnetic fields . </S>"
+  ]
+}

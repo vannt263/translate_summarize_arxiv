@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the resistive plate chamber ( rpc ) has become an integral part of modern high energy experinments owing to its simple design and construction , good time resolution , high efficiency and low cost production .",
+    "several problems like inherent rate limitation and much debated space charge effect have induced various studies on detailed simulation of rpc signals considering different physics and electronics aspects .",
+    "the induction of signal in the electrodes of a chamber can be treated by ramo s theorem following which the electrostatic and weighting fields turn out to be two fundamental quantities . in general , instead of carrying out detailed computation for realistic rpc geometries of severl layers of dielectrics , the weighting potential and field of a rpc",
+    "is determined for a simpler geometry of three layers for which 2d analytic solutions can be derived @xcite . a thorough study on the 3d field distribution",
+    "is required for realistic configuration of a rpc in order to achieve a true estimation of the induced signal .",
+    "the field computation is usually carried out using commercial finite element method ( fem ) packages , although , it is known to yield poor accuracy despite of rigorous computation .",
+    "a precise computation of 3d field distribution has been carried out using a nearly exact boundary element method ( nebem ) . in this formulation ,",
+    "many of the drawbacks of the standard bem like singularities and near - field inaccuracies could be removed due to use of analytic solutions of potential and field .",
+    "a simple calculation of induced signal due to the motion of an electron in the chamber volume has been carried out with precise computation of 3d weighting and actual field for actual geometry of an rpc to be used in ino calorimeter .",
+    "according to ramo s theorem , the current @xmath1 induced due to a charge cluster @xmath2 moving with a drift velocity @xmath3 can be evaluated as follows : @xmath4 where @xmath5 is the weighting field at @xmath6 associated with the electrode under study .",
+    "it may be mentioned here that the weighting field can be obtained when readout electrode is set to @xmath7v keeping all other electrodes grounded .",
+    "the results obtained for three layer ino rpc following analytic solutions and nebem calculations have been illustrated in fig .",
+    "[ fig : weightanal](a ) for three different positions along the axis of the geometry .",
+    "the analytic expressions have been found to be valid up to two more resistive layers .",
+    "however , inclusion of further layers has brought in a significant change ( see fig.[fig : weightanal](b ) ) indicating that the naive use of analytic expressions may lead to non - negligible errors .",
+    "the solver has been validated by computing the electrical properties of a configuration containing two layers of dielectrics with a thin layer of graphite on each outer side to provide high voltage .",
+    ".comparison for r = 10 [ cols=\"<,^,^,^\",options=\"header \" , ]     [ table : t1 ]    the potentials at different locations within the dielectrics following standard formulations @xcite and nebem have been tabulated in table [ table : t1 ] , r being the ratio of dielectric constants of upper to lower plate .      a glass rpc with glass and gas thickness of @xmath8 mm has been considered . a thin graphite coating of thickness @xmath9 m has been provided with a high voltage of @xmath10kv .",
+    "the readout strips are separated from the graphite layers by a pet film , @xmath11 m thick .",
+    "five readout strips in x - direction have been considered with thickness @xmath12 m , width @xmath13 cm and pitch @xmath7 mm while the y - readout has been considered to be an uniform plate of same thickness .",
+    "the length of the chamber in z - direction has been made @xmath14 cm .",
+    "however the inclusion of pet film above the graphite layer has been found to generate some numerical instability and excluded afterwards .",
+    "the dielectric constants of glass , graphite and gas layers have taken to be @xmath15 ( float glass ) , @xmath16 and @xmath17 ( argon ) respectively .",
+    "the results of the weighting and real field distributions have been shown in fig.[fig:3dfield](a ) and ( b ) .",
+    "the induced current has been calculated at intervals of @xmath18ps during the passage of the electron in the gas gap .",
+    "the electron has been assumed to pass perpendicularly across the detector plane at its center with a velocity @xmath9m / ns @xcite starting from an initial position @xmath19 m above the lower glass layer .",
+    "the weighting field has been evaluated at each position of the electron due to the central readout strip while the velocity has been determined from the real field using nebem .",
+    "the result is plotted in fig.[fig : inducecurrent ] which has shown the growth of the signal while electron has moved in the gas gap and a subsequent fall as the electron has left the gap .",
+    "r0.5        a rough estimate of the intrinsic timing resolution @xcite with the values of townsend and attachment coefficients following the detector simulation package garfield @xcite for the electric field as estimated by the nebem has turned out to be about @xmath20ns .",
+    "using the nebem solver , the three dimensional weighting potential and field can be calculated precisely even for a very detailed geometry of a rpc .",
+    "this allows us to simulate the induced current on any electrode of a rpc due to the passage of an ionizing particle .",
+    "the drift velocity of the particle can be calculated using garfield .",
+    "however , the inclusion of several very thin layer of dielectrics has been found to generate numerical instabilities for which the solver would have to be optimized ."
+  ],
+  "abstract_text": [
+    "<S> the signal induced by an electron on a pickup strip has been calculated in a rpc used in ino calorimeter @xcite following ramo s theorem @xcite . </S>",
+    "<S> an accurate estimation of weighting field has been obtained using a nearly exact boundary element method ( nebem ) solver @xcite while the electron velocity from the real field values . </S>",
+    "<S> the calculation has shown a growth and subsequent fall of pickup signal with duration about @xmath0ps . </S>"
+  ]
+}
