@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "observations of occultations of compact radio sources by solar system planets may be interesting for several astronomical and physical applications , such as testing gr",
+    "@xcite , improvement of planet orbits and their tie to icrf  @xcite , and planetary researches  @xcite .",
+    "our previous computations of occultations of astrometric radio sources by planets and their close approaches were published in  @xcite . in this paper",
+    "we present the updated list of the forthcoming occultations that may be interesting for radio astronomy observations .",
+    "the main differences with the previous work are the use of an extended astrometric source list , and computation of event maps to help better planning of observations .",
+    "most computations of the circumstances of occultations of geodetic radio sources by planets were performed using the codes approach and occult , which utilize the ephemeride package for objects of the solar system ( epos ) data and environment .",
+    "source coordinates were taken from the catalog of astrometric radio source positions of leonid petrov , version 2009c    the list of occultations is presented in table  [ tab : occulttaions ] with their basic circumstances .",
+    "one can see that most of the events are visible in regions with radio astronomy observatories , and several of them can be observed on many antennas .",
+    "the nearest most interesting event is the occultation of the source 1946200 by mars in february 2011 visible in north america with vlba , vla , gbt and other radio astronomy facilities .",
+    "figure  [ fig : maps ] and table  [ tab : details1 ] present the detailed circumstances of the several nearest events that can be observed in regions with several geodetic vlbi antennas .",
+    "the maps of shadow path are shown in fig .",
+    "[ fig : maps ] .",
+    "table  [ tab : details1 ] presents the detailed circumstances of the several nearest events , such as the elevation , azimuth , and position angle on the planetary limb at the beginning and the end of the occultation .",
+    "the circumstances for other events are available on request ."
+  ],
+  "abstract_text": [
+    "<S> astrometric observations of the radio source occultations by solar system bodies may be of large interest for testing gravity theories , dynamical astronomy , and planetary physics . in this paper , we present an updated list of the occultations of astrometric radio sources by planets expected in the nearest years . such events , like the solar eclipses , generally speaking , can be only observed in a limited region . </S>",
+    "<S> the map of the shadow path is provided for the events occurred in regions with several vlbi stations and hence the most interesting for radio astronomy experiments . </S>"
+  ]
+}

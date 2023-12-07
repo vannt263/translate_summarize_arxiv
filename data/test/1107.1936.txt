@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "55 cancri (= hd  75732 ) is a late g / early k dwarf / subgiant currently known to host five extrasolar planets with periods between around 0.7 days and 14 years and minimum masses between 0.026 and 3.84 @xmath5 .",
+    "the super - earth 55  cnc e was recently discovered to transit ( winn et al .",
+    "2011 , demory et al . 2011 ) , prompting a number of studies of the properties of this system ( e.g. , kane et al . 2011 , von braun et al .",
+    "we used the chara interferometric array to directly measure the stellar angular diameter , which , when combined with hipparcos parallax measurement and calculation of bolometric flux based on spectral templates and literature broad - band photometry , yields the physical @xmath6 and @xmath7 ( von braun et al .",
+    "details of our observations and calculations of stellar properties are described in von braun et al .",
+    "( 2011b ) .",
+    "we give our results in table 1 . of particular interest",
+    "are the location and extent of the circumstellar habitable zone ( hz ) , based on the equations of jones & sleep ( 2010 ) , and the physical radius of the transiting super - earth , based on simply the measured flux decrement during transit and our calculated stellar radius value .",
+    "1 illustrates that planet f , with its elliptical orbit ( @xmath8 ) , spends about 74% of its year inside the hz , while its equilibrium temperature varies between 221k ( apastron ) and 302k ( periastron ) for the assumption of perfect efficiency in the redistribution of energy received from the star ( von braun et al .",
+    "2011b ) .",
+    "coupled with the recent literature values of assumed planetary mass and measured flux decrement during transit , our measured stellar radius implies @xmath9 and @xmath10 ( for @xmath11 = @xmath12 ; winn et al .",
+    "2011 ) , and @xmath13 and @xmath14 ( for @xmath11 = @xmath15 ; demory et al .",
+    "2011 ) .",
+    ".stellar properties of the 55  cancri system .",
+    "@xmath16 and @xmath17 correspond to the uniform disk and limb - darkening corrected angular stellar diameters , respectively .",
+    "@xmath17 corresponds to the angular diameter of the rosseland , or mean , radiating surface of the star . [",
+    "cols=\">,^ \" , ]"
+  ],
+  "abstract_text": [
+    "<S> the bright star 55  cancri is known to host five planets , including a transiting super - earth . </S>",
+    "<S> we use the chara array to directly determine the following of 55  cnc s stellar astrophysical parameters : @xmath0 , @xmath1 k. planet 55  cnc f ( @xmath2 ) spends the majority of the duration of its elliptical orbit in the circumstellar habitable zone ( 0.671.32 au ) where , with moderate greenhouse heating , it could harbor liquid water . </S>",
+    "<S> our determination of 55  cancri s stellar radius allows for a model - independent calculation of the physical diameter of the transiting super - earth 55  cnc e ( @xmath3 ) , which , depending on the assumed literature value of planetary mass , implies a bulk density of 0.76 @xmath4 or 1.07 @xmath4 . </S>"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "article_text": [
+    "ship bow waves exhibit both large and small scale features .",
+    "the most prominent small scale feature is the bow wave crest formation of thin overturning sheets which break up into spray . re and we scale",
+    "effects are large such that replication of full scale phenomena of the small scale features of ship bow waves is difficult even with large models . however , experimental studies for wedge flows display and document the small scale structures of bow waves . herein , flows around a wedge - shaped bow are numerically simulated with the aim of investigating the wave breaking mechanism and small scale features of ship bow waves .",
+    "the side length of the wedge is l = 0.75 m , and the height of the wedge is h = 1.0 m. the half wedge angle is @xmath0 = @xmath1 and the flare angle @xmath2 = @xmath3 . the water depth is d = 0.0745 m and the upstream velocity is u = 2.5 m / s , the corresponding reynolds number , re = @xmath4 , and the froude number , fr = 2.93 ."
+  ],
+  "abstract_text": [
+    "<S> flows around a wedge - shaped bow are simulated with the aim of investigating the wave breaking mechanism and small scale features of ship bow waves . </S>",
+    "<S> this fluid dynamics video shows the plunging wave breaking process around the wedge including the thin water sheet formation , overturning sheet with surface disturbance , fingering and breaking up into spray , plunging and splashing , and air entrainment . </S>"
+  ]
+}

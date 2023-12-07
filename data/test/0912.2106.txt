@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "we come up with the formalism in several stages . first , we write down the standard propagation equations of stokes parameters @xmath2 @xmath3 @xmath4 @xmath5 in the uniform thermal plasma @xcite in a locally flat co - moving reference frame with synchrotron emissivities / absorptivities from @xcite .",
+    "we take faraday rotation / conversion coefficients from @xcite , as the other published derivation of faraday conversion coefficients @xcite is a very crude approximation .",
+    "second , we parallel propagate the basis vectors along the null geodesic from the observer s plane to account for gr rotation of the basis .",
+    "third , with proper gauges on wave vector potential we write down the covariant equations of polarized radiative transfer .",
+    "following @xcite , we assume that the matrix of absorptivities and propagation coefficients generalizes in the polarized transfer analogously to the unpolarized case .",
+    "the dynamical model used in the transfer starts with adiabatic 3d grmhd simulations of thick accretion flow onto the kerr black hole ( bh ) with spins @xmath6 @xmath7 @xmath8",
+    "@xmath9 we average the flow velocity , magnetic field , rms magnetic field , gas density and pressure for the quasi - steady period of the developed accretion and separate the electron temperature @xmath10 from the proton temperature @xmath11 by applying the heating prescription from @xcite .",
+    "the dynamical model is smoothly extended to large radii @xmath12 to take into account the faraday rotation effect at large distances from the bh .",
+    "we perform the gr polarized radiative transfer for each spin for a set of inclination angles @xmath13 and compare the specific fluxes , linear polarization fractions ( lp ) , and circular polarization fractions ( cp ) to observations .",
+    "we find , that the extreme spins @xmath14 @xmath15 do not fit all the observations well .",
+    "they require lower density @xmath16  @xmath17 near bh to fit the flux at @xmath18  ghz , but faraday depolarization fails at these densities leading to high lp at @xmath19  ghz compared to the observed value @xcite .",
+    "the preferred value of the inclination angle @xmath1 is coincident with that in @xcite .",
+    "the spin value @xmath0 gives the best fit ( see fig .",
+    "[ fig ] ) , though spin @xmath20 produces good fits as well .",
+    "imaging produces some unexpected results .",
+    "as our simulation appears to be substantially sub - keplerian and have significant thermal support , the innermost stable circular orbit ( isco ) loses its importance and the black hole shadow is not always seen .",
+    "huang , l. , liu , s. , shen , z .- q . , yuan , y .- f . , cai , m. j. , li , h. , & fryer , c. l. 2009 , apj , 703 , 557 macquart , j .-",
+    "bower , g. c. , wright , m. c. h. , backer , donald c. , falcke , h. 2006 , , 646 , l111 marrone , d. p. , moran , j. m. , zhao , j. , & rao r. , 2007 , , 654l , 57 melrose , d. b. 1971 , 12 , 172 melrose , d. b. , mcphedran , r. c. 1991 , `` electromagnetic processes in dispersive media '' , ( cambridge university press : cambridge ) sharma , p. , quataert , e. , hammett , g. w. , & stone , j. m. 2007 , , 667 , 714 shcherbakov , r. v. 2008 , apj , 688 , 695 yuan , f. , quataert , e. , narayan , r. 2004 , , 606 , 894"
+  ],
+  "abstract_text": [
+    "<S> we present the combination of dynamical accretion model based on 3d grmhd simulations and general relativistic ( gr ) polarized radiative transfer . </S>",
+    "<S> we write down the formalism of and perform the gr ray - tracing of cyclo - synchrotron radiation through the model of accretion flow in sagittarius a*. gr polarimetric imaging is presented as well as the results for spectrum for a probable set of spins and orientations . </S>",
+    "<S> precise fitting formulae for faraday rotation and faraday conversion coefficients are employed for thermal plasma . </S>",
+    "<S> the axisymmetic flow pattern and the magnetic field geometry correspond to averaged 3d grmhd simulations near the black hole , whereas the analytic model was used far from the black hole . </S>",
+    "<S> the density scaling is found by fitting the sub - mm flux . </S>",
+    "<S> spin @xmath0 and inclination angle @xmath1 produce the best fit to sub - mm flux and linear polarization fraction . </S>"
+  ]
+}

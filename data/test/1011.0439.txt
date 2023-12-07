@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "monitoring known radial velocity ( rv ) planets at predicted transit times , particularly those planets in relatively eccentric orbits , presents an avenue through which to investigate the mass - radius relationship of exoplanets into unexplored regions of period / periastron space beyond ( kane & von braun 2008 , 2009 ) .",
+    "here we describe techniques for refining ephemerides and performing follow - up observations ( kane et al .",
+    "these methods are used by the transit ephemeris refinement and monitoring survey ( terms ) .",
+    "the transit window as described here is defined as a specific time period during which a complete transit ( including ingress and egress ) could occur for a specified planet .",
+    "the size of a transit window will increase with time due to the uncertainties in the fit parameters , and thus follow - up of the transit window as soon as possible after discovery is optimal .",
+    "figure 1 ( left panel ) shows the size of the transit window for a sample of 245 exoplanets .",
+    "the transit windows of the short - period planets tend to be significantly smaller than those of long - period planets since , at the time of discovery , many more orbits have been monitored to provide a robust estimate of the orbital period .",
+    "terms chooses targets that have small transit windows , medium - long periods , and a relatively high probability of transiting the host star .    [ cols=\"^,^ \" , ]",
+    "the transit ephemeris for a particular planet can often be significantly improved with the addition of a handful of high - precision rv data .",
+    "for example , the planet orbiting the star hd  231701 ( fischer et al",
+    ". 2007 ) has a current transit window of @xmath082 days based upon the discovery data .",
+    "the addition of four subsequent measurements as shown in figure 1 ( right panel ) would improve both the precision of the period and time of periastron passage , resulting in a reduction of the transit window to 3.7 days - a factor of almost 25 ! through selective observations at optimal times , we produce viable targets for photometric follow - up .",
+    "a considerable number of high transit probability targets are difficult to monitor adequately during their transit windows because the uncertainties in the predicted transit mid - points are too high .",
+    "the acquisition of a handful of new rv measurements at carefully optimised times can reduce the size of a transit window by an order of magnitude .",
+    "this is described in more detail by kane et al .",
+    "( 2009 ) .",
+    "figure 2 presents data acquired with the t10 0.8 m automated photoelectric telescope ( apt ) during a predicted transit time of hd  114762b .",
+    "the transit window was refined to less than a day using lick rv data , and the transit of this planet was subsequently ruled out .",
+    "the observations from this survey will lead to improved exoplanet orbital parameters and ephemerides even without an eventual transit detection .",
+    "the results from terms will provide a complementary dataset to the fainter magnitude range of the _ kepler _ mission , expected to discover many intermediate to long - period transiting planets ."
+  ],
+  "abstract_text": [
+    "<S> transiting planet discoveries have largely been restricted to the short - period or low - periastron distance regimes due to the bias inherent in the geometric transit probability . through the refinement of planetary orbital parameters , and hence reducing the size of transit windows , long - period planets become feasible targets for photometric follow - up . here </S>",
+    "<S> we describe the terms project that is monitoring these host stars at predicted transit times . </S>"
+  ]
+}
