@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "99 m.  burkardt , advances nucl .",
+    "phys . * 23 * , 1 ( 1996 ) .",
+    "w.  a.bardeen et al . , phys .",
+    "d * 21 * , 1037 ( 1980 ) .",
+    "m.  burkardt and b.  klindworth , hep - ph/9601289 .",
+    "m.  burkardt , elfe meeting 1995 , hep - ph/9510264 .",
+    "m.  burkardt , lf - workshop , zakopane , aug 1994 , hep - ph/9410219 ."
+  ],
+  "abstract_text": [
+    "<S> numerical results for the calculation of the ( rest - frame ) @xmath0 potential , for light - front quantized @xmath1 on a @xmath2 lattice are presented . both in the longitudinal as well as the @xmath2 spatial directions one obtains linear confinement . </S>",
+    "<S> the resulting potential is almost rotational symmetric .    </S>",
+    "<S> # 1#2#3#4#1 * # 2 * , # 3 ( # 4 )    light - front ( lf ) quantization is the most physical approach to calculating parton distributions on the basis of qcd  @xcite . in the transverse lattice formulation of qcd  @xcite , </S>",
+    "<S> one keeps the time direction and one spatial direction continuous and discretizes the transverse spatial directions . </S>",
+    "<S> the space time geometry is thus an array of @xmath3 dimensional sheets . </S>",
+    "<S> one the one hand , this provide both uv and iv cutoffs in the transverse directions and on the other hand one can still perform lf quantization since the longitudinal directions are continuous . </S>",
+    "<S> furthermore , in the compact formulation , it is straightforward to implement gauss law as a constraint on the states , which helps avoid troublesome divergences for @xmath4 , which plague many other formulations of lf qcd .    </S>",
+    "<S> another advantage of the transverse lattice is that confinement is manifest in the limit of large @xmath2 lattice spacing @xmath5 . </S>",
+    "<S> the mechanism differs for the longitudinal and the @xmath2 directions : if one separates a @xmath0 pair longitudinally then , since @xmath5 is large , the fields in different sheets couple only weakly and the quarks interact only with fields in the same sheet , i.e. effectively the theory reduces to @xmath3 dimensional qcd , where confinement is known to be linear . in contrast , when one separates the @xmath0 pair transversely , gauge invariance demands that they are connected by a chain of ( gluon ) link fields . for large @xmath5 , where there are only little fluctuations </S>",
+    "<S> , this implies that the energy of such a configuration is given by the energy for creating one link quantum times the number of link quanta , i.e. linear confinement also in the @xmath2 direction . </S>",
+    "<S> since the confinement mechanisms are very different for these two cases , one might ask whether a rotationally invariant @xmath0 potential results in the continuum limit . </S>",
+    "<S> in fact , in the limit of large @xmath5 one finds in @xmath6 dimensions@xcite : @xmath7 where @xmath8 is the string tension , which is clearly not rotationally invariant . in order to investigate this issue , i used dlcq and a lanczos algorithm to calculate the rest frame @xmath0 potential from the lf hamiltonian for @xmath1 on a @xmath2 lattice . </S>",
+    "<S> the procedure for computing the rest frame potential in this formalism follows ref.@xcite . </S>",
+    "<S> an approximation , where one allows at most one link field quantum per link , was used . within this approximation , </S>",
+    "<S> one obtains only a first order phase transition at the critical point , i.e. the lattice spacing always remains finite in physical units . </S>",
+    "<S> the calculations were done at the critical point , where @xmath9 . </S>",
+    "<S> the resulting @xmath0 potential is shown in the figure as a function of @xmath10 . </S>",
+    "<S> 1.cm    ( 15,9)(0,1 )    </S>",
+    "<S> one free dimensionless parameter was adjusted in the calculation to get equal string tensions in the longitudinal and transverse directions . for large @xmath5 </S>",
+    "<S> , @xmath11 fills the area between the dotted lines . </S>",
+    "<S> the symbols are numerical results at the critical point for various directions . </S>",
+    "<S> the small residual anisotropy is probably due to the truncation to one quantum per link and due to the simplified ansatz ( quadratic ) for the effective link - field potential . </S>"
+  ]
+}

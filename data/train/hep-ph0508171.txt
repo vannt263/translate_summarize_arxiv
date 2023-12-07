@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "so far no clear experimental evidence of new physical phenomena beyond the standard model ( sm ) has been observed .",
+    "the existence of the new massive neutrino at high energy colliders would be strong evidence of new physics .",
+    "therefore , searching for a new massive neutrino has high priority at collider experiments .",
+    "these neutrinos play also the basic role in cosmology for solving the dark matter puzzle .",
+    "heavy neutrino searches at lepton - hadron colliders has some advantages , larger masses , for instance , are accessible compared to current @xmath4 colliders @xcite .    the purpose of this paper is to investigate the possible single production of a heavy neutrino ( @xmath5 ) in @xmath1 collisions in the context of new @xmath6 anomalous magnetic dipole moment type interaction and analyze the background using optimal cuts .",
+    "the thera ( @xmath2=1 tev ) and lc@xmath3lhc ( @xmath2=3.74 tev ) are two proposed @xmath1 machine options @xcite for which we present the numerical results of these study .",
+    "bounds on the possible heavy neutrino masses are obtained either from experiments at accelerators or cosmological arguments . among the several arguments , the experimental data of lep and slac",
+    "rule out the possibility of @xmath5 with mass smaller than 45 gev @xcite while the cosmological limit for the upper bound is 3 tev @xcite .",
+    "we assumed arrange of 200 gev - 3 tev for the single heavy lepton masses .",
+    "the single production of heavy leptons @xmath5 can occur via the t - channel @xmath7 exchange reaction @xmath8 , by proposing the following new charged current @xmath9 interaction    @xmath10p_l\\,\\nu_4\\,w^{\\mu }    + h.c.,\\end{aligned}\\ ] ]    which parallels the coupling structure for @xmath11 vertex @xcite . in eq .",
+    "1 @xmath12 is the anomalous magnetic dipole moment factor , @xmath13 is the momentum carried by exchanged charged @xmath7 boson , @xmath14 denotes the gauge coupling relative to su(2 ) symmetries and @xmath15 is the field of @xmath7 .",
+    "the differential cross section can be written as    @xmath16}{256\\pi \\hat s^2m_{\\nu_4}^2[(\\hat    t - m^2_w)^2+\\gamma_w^2m_w^2]}\\end{aligned}\\ ] ]    where @xmath17 and @xmath18 are the decay width and mass of mediator @xmath7 .",
+    "the total production cross section is obtained by the integration over the parton distributions in the proton : @xmath19 where @xmath20 , @xmath21 and @xmath22 . for the parton distribution functions",
+    "@xmath23 we have used the mrst @xcite and taken @xmath12=0.1 for illustrative purposes .",
+    "the results for the cross sections are displayed in fig .",
+    "[ fig1 ] for the mass range from 100 to 900 gev at thera , and in fig .",
+    "[ fig2 ] from 100 gev to 3 tev at lc@xmath3lhc . for the mass values larger than 200 gev , the cross sections are not sensitive to the @xmath12 values at all .",
+    "when the fourth generation neutrino is produced , it will decay via charged current interaction @xmath24 where @xmath25 and we concentrate only on @xmath26 decay channel in this work .",
+    "we consider the relevant background from the semileptonic reaction @xmath27 .",
+    "we present background and signal cross section with respect to invariant mass of @xmath28 satisfying @xmath2910 gev for the mass range @xmath30=100 - 500 gev and @xmath2920 gev for the mass range 500 - 1000 gev at thera in table  [ tab1 ] . in table",
+    "[ tab2 ] , we display background and signal cross section with similar parameters except @xmath2950 gev for the mass range 1 - 3.4 tev for lc@xmath3lhc .",
+    "all calculations for the background were done using the high energy package comphep @xcite with cteq6l @xcite distribution function .",
+    "we present the distribution of invariant mass @xmath31 with cuts @xmath32 gev for the background process @xmath33 for thera in fig .",
+    "[ fig3 ] and for lc@xmath3lhc in fig .",
+    "[ fig4 ] . finally , in fig .  [ fig5 ] and fig .  [ fig6 ]",
+    "we show the @xmath34 distributions due to the @xmath5 production at thera and lc@xmath3lhc , respectively .",
+    ".total cross sections of signal and background at thera for @xmath12=0.1 . [ cols=\"<,^,^,^,^,^,^,^,^,^\",options=\"header \" , ]",
+    "we have shown that , if we take the limit values @xmath35 , without being depended on anomalous coupling for masses greater than 200 gev , calculated cross sections provide new 700 gev neutrinos at the @xmath36=1 tev thera @xmath1 collider , while this limit could be as high as 2.8 tev at the @xmath36=3.74 tev lc@xmath3lhc option .",
+    "the number of events corresponding to these limits are about 35 and 40 respectively ."
+  ],
+  "abstract_text": [
+    "<S> we investigate the production of fourth generation neutrino in the context of new @xmath0 magnetic dipole moment type interaction in @xmath1 collisions at the future lepton - hadron colliders . </S>",
+    "<S> we have obtained the mass limits of 700 gev for thera ( @xmath2=1 tev ) and 2.8 tev for lc@xmath3 lhc ( @xmath2=3.74 tev ) . </S>"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "we thank n.v.prikhodko for useful discussions . this work was supported by rfbr grant rfbr-03 - 02 - 16157a and grant of ministry for educations e02 - 3.1 - 282 .",
+    "dmitriev a.v .",
+    "was supported by s .-",
+    "petersburg grant for young scientists and specialists m04 - 2.4k-364 ."
+  ],
+  "abstract_text": [
+    "<S> in this paper we applicate eikonalization procedure to the processes of elastic scattering at high energies . </S>",
+    "<S> we have shown , that elastic data is consistent with relatively low values of eikonal parameter @xmath0 only . </S>",
+    "<S> it is in contrast with theoretical considerations .    </S>",
+    "<S> lets consider processes of elastic scattering in the framework of the eikonalization procedure .    </S>",
+    "<S> there is two view on the eikonalization procedure . at first , eikonalization was considered as a natural way to come from regge behaviour @xmath1 to froussoir - like behaviour @xmath2 . both pure regge model and black - disk model well describe total cross - section data . from the other hand , data on elastic cross - sections @xmath3 </S>",
+    "<S> can be described assuming only one regge pole ( pomeron ) at low and moderate @xmath4 . here </S>",
+    "<S> we will investigate possibility of eikonalization model to describe elastic scattering data at non - zero transferred momenta .    </S>",
+    "<S> it is convenient to write up eikonalized amplitude as @xmath5 here @xmath6 is eikonal profile function and @xmath7 is generic amplitude .    in the regge model eikonal profile @xmath6 can be calculated as @xmath8 to estimate eikonalization parameters , we will try to describe experimental data on total and elastic cross sections @xmath9 at the domain of @xmath10 and @xmath11 , there we have no non - vacuum reggeons and no perturbative @xmath12 behaviour .    </S>",
+    "<S> at first stage we will start from conventional regge picture , and will vary all parameters in ( [ chir ] ) at given @xmath13 . </S>",
+    "<S> we take only @xmath14 data here to concentrate on the @xmath15 dependence of @xmath16 and to avoid problems with phase of @xmath16 . as the result </S>",
+    "<S> , we get function of likely - hood @xmath17 , depending on @xmath13 , see fig.[fig : chi_c ] .        dependence of @xmath14 at some critical values of @xmath13 is given at fig.[fig : el_0 ] and fig.[fig : el_04 ] .     </S>",
+    "<S> at @xmath18 ( pure pomeron ) and at optimal value @xmath19 . </S>",
+    "<S> difference between graphics is not viewable , so we give one figure . ]     at @xmath20 ( region of hardly divergence of experimental data and eikonal model ) ]    it is clear , that this eikonal model with exponential pomeron vertex can describe experimental data only at low region @xmath21 . </S>",
+    "<S> including of total cross - section does not change this situation , function @xmath17 rises even more quickly and has no minimum at non - zero @xmath13 . </S>",
+    "<S> theory predict , that @xmath13 is high , @xmath22 and there is strong limit @xmath23 , so we have serious problem . </S>",
+    "<S> we can try to reject exponential form of pomeron vertex , but we have no other assumptions about functional form of the vertexes .    </S>",
+    "<S> it is natural to extract eikonal profile function @xmath6 from experimental data and test it regge - like behaviour . to make it , we approximate observed amplitude @xmath16 by regge - like form : @xmath24 there @xmath25 is logarithmic slope of @xmath14 at given @xmath26 . </S>",
+    "<S> reliable of this parametrisation is clear from fig.[fig : el_04 ] . </S>",
+    "<S> we have only to test stability of our results on the changes of unobservable imaginary part of @xmath27 .    </S>",
+    "<S> calculations is trivial enough , and we have for the generic amplitude @xmath28 imaginary part of logarithm we define to be small at high @xmath29 and to be continuous at all @xmath29 .    </S>",
+    "<S> dependence of the reconstructed generic amplitude on @xmath15 is shown at figs.[gener0]-[gener1.2 ] .    , divided on @xmath26 , </S>",
+    "<S> reconstructed for c=0 at energies @xmath30 ( dotted line ) , @xmath31 ( dashed line ) , @xmath32 ( solid line ) ]    , divided on @xmath26 , reconstructed for c=0.125 at energies @xmath30 ( dotted line ) , @xmath31 ( dashed line ) , @xmath32 ( solid line ) ]    , divideded on @xmath26 , reconstructed for c=0.75 at energies @xmath30 ( dotted line ) , @xmath31 ( dashed line ) , @xmath32 ( solide line ) ]    , divideded on @xmath26 , reconstructed for c=0.75 at energies @xmath30 ( dotted line ) , @xmath31 ( dashed line ) , @xmath32 ( solide line ) ]    from the canonical regge theory , we expect for @xmath33 to be @xmath34 there residue @xmath35 is real . </S>",
+    "<S> we see , that our reconstructed amplitudes does not satisfy to equation ( [ regge ] ) at high @xmath13 , because we have @xmath26-depended phases and ( it is more serious ) , zeroes moving with @xmath26 . </S>",
+    "<S> moreover , it is clear from analyse of @xmath26-dependence of @xmath33 ( see fig.[gen_s ] ) , that @xmath33 does not scale as @xmath36 at high @xmath13 .     </S>",
+    "<S> on @xmath37 at @xmath38 ( solid line ) and @xmath39 ( dashed line ) ]    this results is stable under our assumptions about the phase of @xmath16 , at @xmath40 we can choose any small imaginary part of @xmath41 in equations ( [ param ] ) without any influence on the reconstructed amplitude @xmath33 . </S>",
+    "<S> it is possible , that @xmath26-dependence phase of @xmath33 is arisen from wrong assumptions about phase of the @xmath16 , but moving zeroes is stable at high @xmath13 ( @xmath42 ) .    </S>",
+    "<S> we can consider most general properties of the pomeron cuts . </S>",
+    "<S> many theoretical models ( see @xcite for review ) leads us to the next form for the two - pomeron cut @xmath43 amplitude @xmath44 is mostly imaginary , so cut @xmath45 have opposite sign to pole @xmath44 . </S>",
+    "<S> so , at high enough @xmath46 cuts will lead to changing of the exponential generic form of the pole ( log - plot became non - linear with up - to convexity ) and to existence of zeroes , which is moving with @xmath26 . </S>",
+    "<S> no of this phenomena is observed .    </S>",
+    "<S> so , we can state , that eikonalization parameter @xmath13 is limited by @xmath47 , if we assume exponential form of the generic pomeron and by @xmath48 if we make no assumptions about form of the pomeron residue . anyway , this results is in contrast with the theory expectations and strongly limit eikonalization models , such as restoring of unitarity and renormalization of the pomeron flux in the single diffraction . </S>"
+  ]
+}

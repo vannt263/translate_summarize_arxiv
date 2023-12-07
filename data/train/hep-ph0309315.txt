@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the muon lifetime is one of the key observables of today s particle physics . not only is it measured very precisely , since the current experimental error is 18 ppm , but can be described to competing accuracy within the standard model , giving rise to a strong correlation between the masses of the heavy gauge bosons . as a low energy process",
+    ", the decay is expected to be governed by an effective interaction involving only the electron , muon and their respective neutrinos .",
+    "the dynamics of the system should be corrected mostly by qed , whereas the electroweak interactions determine solely the size of the coupling constant .",
+    "the calculation at the two loop level has been completed recently with the evaluation of the electroweak bosonic corrections @xcite .",
+    "subsequently , the fermionic part , which was first obtained in @xcite has been recalculated @xcite . a difference between the two results has been found and the original result @xcite corrected .",
+    "there is now agreement on all parts of the two loop contributions .    _ , width=264",
+    "the main complication in the calculation of the bosonic contributions is connected with the separation of the qed corrections to the fermi model .",
+    "this problem has been solved with the use of the effective theory language , where the full lagrangian @xmath2 has been replaced with the fermi lagrangian @xmath3 and the amputated renormalized green functions in both theories have been required to be equal up to higher order terms in an expansion in the @xmath0 boson mass @xmath4 the above _ matching equation _ has the advantage that one can take any suitable masses and momenta of the light particles and subsequently expand in them . for the calculation ,",
+    "all of these parameters were put to zero and no expansion was necessary .",
+    "this lead to problems with the dirac gamma matrix structure in the four - fermion operators , which were solved by a suitable projection operator .",
+    "however , the procedure has also been tested with fermion masses as infrared regulators and agreement was found .",
+    "the result for the pure bosonic contributions is given in fig .",
+    "[ result ] . the impact of this class on the prediction of the @xmath0 boson mass as well as that of the fermionic part is summarized in fig .",
+    "[ impact ] .",
+    "boson mass .",
+    "the second column gives the result from @xcite .",
+    "[ impact]_,width=415 ]",
+    "this work was supported in part by desy zeuthen and the kbn grant 2p03b01025 .",
+    "99 m.  awramik and m.  czakon , phys .  rev .",
+    "* 89 * ( 2002 ) 241801 ; _ see also _ nucl .",
+    "* 116 * ( 2003 ) 238 ; a.  onishchenko and o.  veretin , phys .",
+    "b * 551 * ( 2003 ) 111 ; m.  awramik , m.  czakon , a.  onishchenko and o.  veretin , phys .",
+    "d * 68 * ( 2003 ) 053004 .",
+    "a.  freitas , w.  hollik , w.  walter and g.  weiglein , phys .",
+    "b * 495 * ( 2000 ) 338 [ erratum - ibid .",
+    "b * 570 * ( 2003 ) 260 ] ; a.  freitas , w.  hollik , w.  walter and g.  weiglein , nucl .",
+    "b * 632 * ( 2002 ) 189 [ erratum - ibid .",
+    "b * 666 * ( 2003 ) 305 ] .",
+    "m.  awramik and m.  czakon , phys .",
+    "b * 568 * ( 2003 ) 48"
+  ],
+  "abstract_text": [
+    "<S> the progress in the evaluation of the muon decay lifetime is reviewed . </S>",
+    "<S> the electroweak bosonic corrections are given together with the respective shift of the @xmath0 boson mass . </S>",
+    "<S> after inclusion of the recently corrected fermionic contributions , this requires an updated fitting formula for the prediction of @xmath1 .    </S>",
+    "<S> = 14.5pt </S>"
+  ]
+}

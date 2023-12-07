@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the standard cosmological scenario assumes that before big bang nucleosynthesis ( bbn ) , the universe was dominated by radiation with the hubble parameter evolving like @xmath0 , where @xmath1 is the energy density of radiation and @xmath2 is the scale factor of the universe .",
+    "however , if we imagine to add a significant fraction of scalar energy density @xmath3 to the background radiation at some time in the past , and if @xmath4 , then @xmath3 would decay more rapidly than @xmath1 , but temporarily increase the global expansion rate .",
+    "a measurable effect of this modification to the standard scenario is the anticipation of the freeze - out time of neutralinos and the consequent enhancement of their relic abundance , as explicitly calculated in @xcite .    in a flat universe , a scalar field with potential",
+    "@xmath5 obeys the equations @xmath6 for any given time during the cosmological evolution , the relative importance of the scalar energy density w.r.t .  to matter and radiation in the total energy density",
+    "@xmath7 depends on the initial conditions , and is constrained by the available cosmological data on the expansion rate and large scale structure .",
+    "if the potential @xmath5 is of the runaway type , the initial stage of the scalar evolution is typically characterized by a period of so  called ` kination ' @xcite during which the scalar energy density @xmath8 is dominated by the kinetic contribution @xmath9 , giving @xmath10 .",
+    "after this initial phase , the field comes to a stop and remains nearly constant for some time ( ` freezing ' phase ) , until it eventually reaches an attractor solution @xcite .",
+    "then , if we modify the standard picture according to which only radiation plays a role in the post - inflationary era and suppose that at some time @xmath11 the scalar contribution was small but non negligible w.r.t .",
+    "radiation , then at that time the expansion rate @xmath12 should be correspondingly modified . during the kination phase the scalar to radiation energy density ratio evolves like @xmath13 , and so the scalar contribution would rapidly fall off and leave room to radiation . in this way , we can respect the bbn bounds and at the same time keep a significant scalar contribution to the total energy density just few red - shifts before at bbn ( @xmath14 ) would imply @xmath15 at @xmath16 and @xmath17 at @xmath18 , if the scalar field is undergoing a kination phase . ] .",
+    "the increase in the expansion rate @xmath19 due to the additional scalar contribution would anticipate the decoupling of particle species and result in a net increase of the corresponding relic densities .",
+    "as shown in @xcite , a scalar to radiation energy density ratio @xmath20 at bbn would give an enhancement of the neutralino codensity of roughly three orders of magnitude .",
+    "the enhancement of the relic density of neutralinos requires that at some early time the scalar energy density was dominating the universe .",
+    "this fact raises a problem if we want to identify the scalar contribution responsible for this phenomenon with the quintessence field @xcite .",
+    "indeed , the initial conditions must be such that the scalar energy density is sub - dominant at the beginning , if we want the quintessence field to reach the cosmological attractor in time to be responsible for the presently observed acceleration of the expansion @xcite . for initial conditions",
+    "@xmath21 we obtain instead an ` overshooting ' behaviour : the scalar field rapidly rolls down the potential and after the kination stage remains frozen at an energy density much smaller than the critical one .",
+    "however , as shown in @xcite , more complicated dynamics are possible if we relax the hypothesis of considering a single uncoupled scalar .",
+    "the presence of several scalars and/or of a small coupling with the dark matter fields could modify the dynamics in such a way that the attractor is reached in time even if we started , for example , in the overshooting region",
+    ".    * more fields . *",
+    "consider a potential of the form @xmath22 , with m a constant of dimension mass . in this case , as discussed first in @xcite , the two fields dynamics enlarges the range of possible initial conditions for obtaining a quintessential behaviour today .",
+    "this is due to the fact that the presence of more scalars allows to play with the initial conditions in the fields values , while maintaining the total initial scalar energy density fixed .",
+    "doing so , it is possible to obtain a situation in which for a fixed @xmath23 in the overshooting region , if we keep initially @xmath24 we actually produce an overshooting behaviour , while if we choose to start with @xmath25 ( and _ the same _ @xmath23 ) it is possible to reach the attractor in time .",
+    "this different behaviour emerges from the fact that , if at the beginning @xmath26 then , in the example at hand , @xmath27 and so @xmath28 ( the smaller field ) will run away more rapidly and tend to overshoot the attractor , while @xmath29 ( the larger field ) will move more slowly , join the attractor trajectory well before the present epoch and drive the total scalar energy density towards the required value",
+    ".    * interaction . *",
+    "suppose now that the quintessence scalar is not completely decoupled from the rest of the universe . among the possible interactions ,",
+    "two interesting cases are the following : @xmath30 if we add @xmath31 or @xmath32 to @xmath33 , the potential will acquire a ( time - dependent ) minimum and the scalar field will be prevented from running freely to infinity . in this way , the long freezing phase that characterises the evolution of a scalar field with initial conditions in the overshooting region can be avoided .",
+    "effective interaction terms like @xmath31 in eq .",
+    "( [ inter ] ) are discussed in refs .",
+    "@xcite , where it is shown that supersymmetry breaking effects in the early universe can induce mass corrections to the scalar lagrangian of order @xmath34 . the second type of interaction ( @xmath32 in eq .",
+    "( [ inter ] ) ) can emerge in the context of scalar - tensor theories of gravity ( see , for example ref .",
+    "@xcite ) , in which a metric coupling exists between matter fields and massless scalars .",
+    "the scalar field equation in this context is modified by the presence of an additional source term @xmath35 where @xmath36 is a generic function of @xmath37 and @xmath38 is the trace of the matter energy - momentum tensor @xmath39 .",
+    "the case @xmath40 corresponds to a scalar field decoupled from the rest of the world .",
+    "p.  j.  steinhardt , l.  m.  wang and i.  zlatev , 1999 , phys .",
+    "d * 59 * , 123504 ; s.  c.  ng , n.  j.  nunes and f.  rosati , 2001 , phys .",
+    "d * 64 * , 083510 ; a. de la macorra and g. piccinelli , 2000 , phys .",
+    "d * 61 * , 123503 ."
+  ],
+  "abstract_text": [
+    "<S> results of a recent study @xcite on how the quintessence scalar could affect the relic abundance of dark matter particles are presented . </S>"
+  ]
+}

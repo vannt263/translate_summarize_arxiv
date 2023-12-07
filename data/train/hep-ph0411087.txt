@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "helicity formalism has been used very successfully for a full computation and numerical simulations of the channels @xmath3 with @xmath4 .",
+    "naive factorization is very useful for weak hadronic b decays despite its theoretical uncertainties .",
+    "furthermore , interesting results have been obtained like  : ( i ) the important role of the _ form factor models _ , ( ii ) the longitudinal polarization is largely dominant , whatever the form factor model .",
+    "( iii ) the @xmath5 mixing is the main ingredient in the _ enhancement _ of the direct @xmath2 violation .",
+    "( iv ) a new way to look for direct @xmath2 violation is found and it can help to develop new methods for measuring the angles * @xmath6*. + what remains to be done is to cross - check these predictions with experimental data coming soon from the lhc exoeriments .",
+    "+  : z.j.a . is very indebted to the organizers of the qfthep04 conference which was held in this historical and marvellous city of sant - petersburg .      -violating asymmetry parameter , @xmath9 , as a function of the @xmath10 invariant mass in the vicinity of the @xmath11 mass region for the channel @xmath12 for two different form factor models.,height=377 ]    99 i. dunietz _",
+    "et al _ , phys . rev .",
+    "* d43 * ( 1991 ) 2193 .",
+    ". ajaltouni _",
+    "et al _ , eur.phys.j .",
+    "* c 29 * , 215 - 233 ( 2003 ) .",
+    "h. quinn , _ `` hadronic effects in two - body b decays''_. lectures at slac summer institute ( 1999 ) .",
+    "buras , lect .",
+    "notes phys .",
+    "* 558 * ( 2000 ) 65 , also in ` recent developments in quantum field theory ' , springer verlag , edited by p. breitenlohner , d. maison and j. wess ( springer - verleg , berlin , in press ) , hep - ph/9901409 ; r. fleischer , int . j. mod",
+    "a12 * ( 1997 ) 2459 , z. phys .",
+    "* c62 * ( 1994 ) 81 , z. phys . * c58 * ( 1993 ) 483 .",
+    "m. bauer , b. stech and m. wirbel , z. phys .",
+    "* c34 * ( 1987 ) 103 ; m. wirbel , b. stech and m. bauer , z. phys . * c29 * ( 1985 ) 637 . c. rimbault , phd thesis , du1492  _ etude de la violation directe de @xmath2 dans la dsintegration du mson @xmath13 en deux msons vecteurs non charms .",
+    "analyse du canal @xmath14 dans le cadre de lexperience lhcb . _",
+    " universit blaise pascal - clermont ii ( fvrier 2004 ) + o. leitner , phd thesis , ",
+    "_ direct @xmath2 violation in @xmath13 decays including @xmath15 mixing and covariant light - front dynamics _  .",
+    "m.bander , d.silverman , a.soni , phys.rev.let .",
+    "* 43 * ( 1979 ) 242 b. aubert _",
+    "et al _ ( babar collaboration ) , `` rates , polarizations and asymmetries in charmless vector - vector b meson decays '' , phys.rev.let .",
+    "* 91 * ( 2003 ) , 171802 and phys.rev . * d69 * , 031102(r ) ( 2004 ) . j. zhang _",
+    "et al _ ( belle collaboration ) , `` observation of @xmath16 '' + phys.rev.let .",
+    "* 91 * ( 2003 ) , 221801 o. leitner , x .- h .",
+    "guo , a.w.thomas , phys . rev .",
+    "* d63 * ( 2001 ) 056012 .",
+    "o.leitner , x.guo , a.w.thomas , phys.rev . *",
+    "d66 * ( 2002 ) , 096008"
+  ],
+  "abstract_text": [
+    "<S> a complete study of the processes @xmath0 is performed both in the framework of the helicity formalism and the effective lagrangian approach . </S>",
+    "<S> emphasis is put on the factorization hypothesis and the importance of the @xmath1 mixing in enhancing the direct @xmath2 violation . </S>",
+    "<S> new results involving some branching ratios and the ratio of the penguin / tree amplitude are given in details .    </S>",
+    "<S> [ cols= \" < \" , ] </S>"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "the atmospheric and solar sector of the pmns leptonic mixing matrix have been measured with quite good resolution by sk , sno and kamland .",
+    "these experiments measure two angles , @xmath4 and @xmath2 , and two mass differences , @xmath5 and @xmath3 .",
+    "on the other hand , only an upper bound exists on the other angle , @xmath0 , and the cp - violating phase @xmath1 is completely unknown @xcite .",
+    "two additional discrete unknowns are the sign of the atmospheric mass difference and the @xmath2-octant ( if @xmath6 ) .",
+    "the strong correlations between @xmath0 and @xmath1 and the presence of parametric degeneracies in the ( @xmath7 ) parameter space @xcite ( the so - called _ clones _ ) , make the simultaneous measurement of the two variables extremely difficult . in the literature , this has been normally studied considering the solar and atmospheric mixing parameters as external quantities fixed to their best fit values ( see for example ref .",
+    "@xcite and refs .",
+    "therein ) .",
+    "however , the experimental uncertainties on these parameters can in principle affect the measurement of the unknowns , and it seems important to perform an analysis that goes beyond the two - parameters fits presented in the literature .",
+    "in this talk we therefore present the impact that `` solar '' ( i.e. @xmath4 and @xmath5 ) and `` atmospheric '' ( i.e. @xmath2 and @xmath3 ) parameters uncertainties have on the measurement of @xmath0 and @xmath1 , studying their effects at three of the many proposed setups : the 4 mwatt spl super - beam  @xcite , a @xmath8 @xmath9-beam  @xcite and the cern - based 50 gev neutrino factory ( considering both the `` golden '' @xcite and `` silver '' @xcite channels ) .",
+    "with the aim of understanding how any single parameter affects the measurements of @xmath0 and @xmath1 , we performe a series of three - parameters fits ( taking @xmath10=@xmath11 and @xmath3 in turn as the third fitting variable ) to be compared with standard two - parameters fits in @xmath0 and @xmath1 . for each transition channel @xmath12 ,",
+    "sign of @xmath3 ( @xmath13 for positive and negative values respectively ) and octant of @xmath2 ( @xmath14 for @xmath15or@xmath16 respectively ) , we build a @xmath17 function : @xmath18_{\\alpha\\beta } =   \\sum_\\pm \\left[\\frac { n^\\pm_{\\alpha\\beta } ( \\vec{g})- n^\\pm_{\\alpha\\beta } ( \\vec{t } ) } { \\delta n^\\pm_{\\alpha\\beta}}\\right]^2 \\ , , \\label{chi2}\\end{aligned}\\ ] ] where @xmath19 and @xmath20 are vectors of _ guessed _ and _ true _ ( that is , chosen by nature ) parameters .",
+    "@xmath21 refers to neutrinos or antineutrinos and @xmath22 is the number of charged leptons @xmath23 observed in the detector for a @xmath24 beam .",
+    "the error @xmath25 on the sample takes into account the statistical error on @xmath22 as well as the sum of beam and detector backgrounds and the total systematic error ( see @xcite for details ) .",
+    "the three - parameters @xmath17 function defines a three - dimensional 90% cl contour that is eventually projected onto the ( @xmath7 ) plane to perform a direct comparison with the standard two - parameters 90% cl contours for the considered setups@xcite .",
+    "by comparing the results at the three , very different , facilities , we deduce that the impact of the current atmospheric parameters uncertainties is a common problem that future experiments looking for @xmath0 and @xmath1 will have to face .    especially for larger values of @xmath26 ( and almost every value of @xmath27 ) , the present uncertainties on the atmospheric parameters are large enough to modify in a significant way the results of two - parameters fits , resulting in a lost of precision on @xmath0 and @xmath1 . we have noticed that this is mainly due to the wide displacements of the clones , which are free to move in the multi - dimensional manifold to arrange for a lower @xmath17 .",
+    "an example at the @xmath9-beam facility is shown in plot ( a ) of fig.[fig : bb ] in which the output of our statistical approach ( for @xmath28 and the _ true _ solution only , @xmath29 and @xmath30 ) is compared with a usual two - parameters fit .",
+    "the situation is quite different if the precision on the atmospheric parameters is improved .",
+    "this could be achieved by t2k - i experiment @xcite and by the spl super - beam itself . using their expected errors on @xmath2 and @xmath3 ,",
+    "we have observed that in much of the ( @xmath0 , @xmath1 ) parameter space there is a general improvement on the precision of these parameters ( see plot ( b ) in fig.[fig : bb ] ) but some extra clones are still present in three - parameters fits that were absent in the two - parameters analysis .",
+    "this is a clear indication of the fact that the problem we are addressing must be seriously taken into account when envisaging future facilities to look for @xmath0 and @xmath1 , even in the case of reduced uncertainties on @xmath2 and @xmath3 .    as a final remark",
+    ", we stress that the impact of solar parameters uncertainties on the measurement of ( @xmath7 ) is negligible , at least above the verge of the @xmath0-sensitivity for the considered facilities ."
+  ],
+  "abstract_text": [
+    "<S> in this talk we show how the errors on solar and atmospheric parameters affect the measurement of the unknown pmns parameters @xmath0 and @xmath1 at future lbl facilities . performing three parameters </S>",
+    "<S> fits in @xmath0 , @xmath1 and , in turn , one of the atmospheric or solar parameters , we show that present uncertainties on @xmath2 and @xmath3 worsen significantly the precision on ( @xmath0,@xmath1 ) whereas the solar sector does not introduce further uncertainties . </S>",
+    "<S> a precision on the atmospheric parameters similar to what expected at t2k - i is necessary to improve the sensitivities to @xmath0 and @xmath1 . </S>"
+  ]
+}

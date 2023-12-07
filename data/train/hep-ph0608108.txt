@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "the aim of this paper is to present some details about the performance of the neutrino monte carlo generator of events developed at the wrocaw university .",
+    "it differs from other generators ( e.g. neugen , nuance , neut ) @xcite in the treatment of the resonance region .",
+    "our generator contains an explicit @xmath0 resonance excitation model but contributions from more massive resonances are absent .",
+    "it is assumed that an average description of the cross section coming from those resonances is sufficient .",
+    "in fact , in the low energy bnl data only the @xmath0 peak is clearly seen in all single pion production ( spp ) channels on free nucleon targets @xcite . in neutrino interactions with nucleus",
+    "targets the fermi motion is supposed to average the cross section contributions from other then the @xmath0 resonance peaks .",
+    "the performance of the wrocaw generator in the spp channels has been discussed elsewhere @xcite .",
+    "the agreement with available data is satisfactory . in order to cover the entire allowed kinematical region",
+    "it is necessary to apply the dis formalism to produce the events also for values of invariant hadronic mass @xmath1  gev .",
+    "two problems arise then : ( i ) how to model the structure functions in order to reproduce the correct value of the inclusive cross section and ( ii ) how to produce the final states .",
+    "the generally accepted way to describe the structure functions is to use bodek - yang low @xmath2 modifications , which have been introduced on the basis of the electron scattering data @xcite .",
+    "recently the neutrino scattering data from the chorus and nutev experiments on nuclear targets ( iron and lead ) have become available @xcite and further progress and cross checks will be possible . in order to produce final hadronic states several strategies can be adopted . in our approach",
+    "we assume that interactions take place on separate constituent of the nucleon .",
+    "the first step of fragmentation is performed by our generator and of remaining quark - diquark system by means of pythia6 routines based on the lund model @xcite .",
+    "several parameters of pythia6 were fine - tuned to get a good agreement with data @xcite . in effect",
+    "it is possible to produce dis events for small values of the invariant hadronic mass down to the threshold for the single pion production @xmath3 .",
+    "the low @xmath4 dis events are used in order to model the non - resonant background @xcite .    [ cols=\"^,^ \" , ]     finally , in the fig .",
+    "[ strange2 ] we show the cross section for neutral strange particles @xmath5 and @xmath6 .",
+    "data points are taken from @xcite .",
+    "we notice the good agreement of the generator s predictions with the data .",
+    "the predictions of the wrocaw mc generator of events are in satisfactory agreement with the data .",
+    "nevertheless additional effort is necessary to fine tune some of the free parameters of the generator in order to improve it s performance .",
+    "the work on the nuclear effects module of the generator is in progress .",
+    "the authors would like to thank c. juszczak for many conversations and for participating in this project at various stages .",
+    "the authors were supported by kbn grant 105/e-344/spb / icarus / p-03/dz211/2003 - 2005 and by wrocaw university grant 2595/w / ift ."
+  ],
+  "abstract_text": [
+    "<S> results from the wrocaw monte carlo neutrino generator of events are reported . </S>",
+    "<S> predictions for charged hadron multiplicities , neutral pion and strange particle production are presented and compared with available data .    </S>",
+    "<S> = by -1 </S>"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the w - pair production in @xmath0 annihilation is described in the standard model by three lowest order diagrams : two @xmath4 channel diagrams containing the triple gauge boson couplings and one @xmath5 channel diagram with @xmath6 exchange , that contributes to left - handed electrons only .",
+    "these diagrams are presented in figure [ fig : wwgroup : diag ] .",
+    "+    in the context of this study we have compared the total cross - sections obtained from different monte carlo generators in the born approximation @xcite .",
+    "the standard model parameters for the cross - section calculations as used in the different monte carlo generators are summarized in table [ wwgroup : tab : param ] . +    .",
+    "input parameters and obtained cross - section at 500 gev for w - pair production in @xmath7 annihilation [ cols=\"^,^,^,^,^,^\",options=\"header \" , ]     the obtained values are in good agreement with the results of reference @xcite . +",
+    "* the proposed detector is well suited for w physics . *",
+    "better equipped forward - backward regions will improve the ww results significantly . *",
+    "a conservative estimate of the reachable error of the w mass measurement is 20 mev . *",
+    "a conservative estimate of the errors of the triple gauge boson couplings shows that they are in the order of @xmath8 .",
+    "* this will improve over the results expected from lep2 assuming an integrated luminosity of 500 @xmath9 , by a factor of 5 for the w mass and by an order of magnitude for the anomalous couplings .",
+    "e.boos , et al . , _ new computing techniques in physics research ii _ , world scientific , singapure , 1992 , p.665 .",
+    "+ c.g.papadopoulos , _ comp.phys.comm.101_,(1997)183 .",
+    "+ h. anlauf et.al , manual of wopper version 1.5 , hep - ph/9605457 .",
+    "+ m.s.skrypzek et.al.,_comp .",
+    "phys . comm .",
+    "94 _ , ( 1996 ) 216 .",
+    "+ f.a.berends , r.pittau , r.kleiss , _",
+    "nucl.phys.b424_ , ( 1994 ) 308",
+    "berends , r. kleiss,_nucl.phys.b260 _ , ( 1985 ) 32 .",
+    "+ t.ohl , ikda 96/13 , hep - ph/9607454 , july 1996 .",
+    "+ t. sjstrand,_comp .",
+    "82 _ , ( 1994)74 .",
+    "+ j.schreiber , private communication + z.kunszt , _ phys .",
+    "99b_,(1981 ) 429 .",
+    "+ c. g.papadopoulos,_phys.lett.b352_,(1995)144 .",
+    "+ m. bilenky et.al . , _",
+    "nucl.phys.b409_ , ( 1993 ) 22 .",
+    "+ g.j.gounaris and c. g.papadopoulos , hep - ph/9612378 ."
+  ],
+  "abstract_text": [
+    "<S> w - pair production in @xmath0 annihilation at 500 gev is studied using different monte carlo generators and the proposed detector for the linear collider in its tesla version . </S>",
+    "<S> semileptonic w decays are used to give hints for the detector optimization and to determine the expected accuracy of the w mass determination and the measurement of the anomalous triple gauge boson couplings . with an expected luminosity of 50  @xmath1 </S>",
+    "<S> a w mass measurement with an accuracy of 15 mev should be possible . </S>",
+    "<S> the triple gauge boson couplings can be determined with an accuracy in the order of 10  @xmath2 . </S>",
+    "<S> +     + _ contribution to the proceedings of the `` joint ecfa / desy study : physics and detectors for a linear collider '' , february to november 1996 , desy 97 - 123e , hamburg 1997 _    </S>",
+    "<S> = 0 # 1by 1 # 1 # 1@xmath3    = 11.2pt = 10000 = 5000 = 162truemm * george daskalakisaristoteles kyriakischristos markouhannelies nowakimma riuerrietta simopoulourevaz shanidze  *    ' '' ''    a plus 0pt minus 0pt plus 0pt minus 0pt plus 0pt minus 0pt    national center for scientific reseach `` democritos '' , aghia paraskevi , attikis , greece    institut de fisica daltes energies , universitat autonoma de barcelona , e-08193 bellaterra ( barcelona ) , spain    desy - institut fr hochenergiephysik , d-15738 zeuthen , germany </S>"
+  ]
+}

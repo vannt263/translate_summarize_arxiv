@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "with the recent experimental results for several expected states ( @xmath2 and @xmath3 ) in the charmonium spectrum , and the discovery of a state ( @xmath4 ) , which could be a @xmath5 charmonium level , it seems an appropriate time to revisit the potential model interpretation of the @xmath0 spectrum . for such models ,",
+    "the challenges seem to be :    * are potential models capable of describing the spin splitting in a quantitatively satisfactory way ? * including the additional data , is it possible to determine the lorentz properties of the phenomenological confining potential ? *",
+    "how well are the leptonic and radiative decays predicted ? * under what circumstances can the state at 3872 mev be interpreted as a charmonium level ?    here , we will attempt to answer these questions using a potential model which includes the @xmath1 and all one - loop corrections to the short distance potential supplemented with a linear phenomenological confining potential and its @xmath1 corrections .",
+    "potential models range from non - relativistic forms such as the cornell model @xcite @xmath6 recently used to identify new charmonium states observable in @xmath7 decays @xcite , to those including all @xmath1 spin - dependent corrections , @xcite @xmath8 , which can be used to analyze the spectrum and decays of charmonium @xcite .",
+    "one - loop qcd corrections can then be added to complete the non - relativistic treatment.@xcite    in our analysis , we utilize a semi - relativistic hamiltonian of the form @xmath9 explicit forms of the short distance potential @xmath10 , the long distance potential @xmath11 and @xmath12 , the one - loop qcd correction to @xmath13 , can be found in ref .. the @xmath0 mass spectrum and the corresponding wave functions were obtained using a variational approach .",
+    "the wave functions were expanded as @xmath14 and the @xmath15 s were determined by minimizing @xmath16 .",
+    "this procedure results in a linear eigenvalue equation for the @xmath15 s and the energies .",
+    "the wave functions corresponding to different eigenvalues are orthogonal and the @xmath17 eigenvalue @xmath18 is an upper bound on the exact energy @xmath19 . for @xmath20 ,",
+    "the lowest four eigenvalues are stable to a part in @xmath21 .",
+    "the energies and wave functions were obtained by treating @xmath10+@xmath11 as a perturbation to @xmath22 and by treating @xmath23 nonperturbatively .",
+    "we fit the spectrum to ten well established and @xmath24 . ]",
+    "@xmath0 states by adjusting the parameters @xmath25 and the vector fraction @xmath26 to minimize @xmath27 .",
+    "our nonperturbative fit gives : @xmath28 and @xmath29 .",
+    "interestingly , the perturbative fit yields similar results for @xmath30 and @xmath31 , but prefers @xmath32 and @xmath33 .",
+    "the results for the levels are given in table [ spectra ] and the predicted @xmath34 transitions widths are given in table [ e1 ] .",
+    "the semi - relativistic model provides a quantitatively good description of the charmonium spectrum .",
+    "of the states included in the fit , only the @xmath35 is poorly described .",
+    "the @xmath34 widths agree reasonably well with experiment@xcite .",
+    "however , based on the model considered here , the @xmath4 can not be explained solely in terms of a charmonium @xmath5 state described by a potential .",
+    "spin effects alone can only separate the @xmath5 from the @xmath36 by 40 mev or so , which suggests that the inclusion of open channel effects is essential if this identification is to be established .",
+    "[ spectra ]    [ e1 ]",
+    "this research was supported in part by the national science foundation under grant phy-0244789 .",
+    "0 e. eichten , k. gottfried , t. kinoshita , k. d. lane , and t. m. yan , phys .",
+    "d * 17 * , 3090 ( 1978 ) ; ( erratum d * 21 * , 313 ( 1980 ) ) .",
+    "e. eichten , k. lane and c. quigg , phys .",
+    "lett . * 89 * , 162002 ( 2002 ) .",
+    "j. pumplin , w. w. repko and a. sato , phys . rev",
+    ". lett . * 35 * , 1538 ( 1975 ) . h.",
+    "j. schnitzer , phys .",
+    "lett . * 35 * , 1540 ( 1975 ) .",
+    "t. barnes , arxiv : hep - ph/0406327 . s. n. gupta , s. f. radford and w. w. repko , phys . rev .",
+    "d * 26 * , 3305 ( 1982 ) .",
+    "s. n. gupta , j. m. johnson , w. w. repko and c. j. suchya iii , phys .",
+    "d * 49 * , 1551 ( 1994 ) . results for leptonic and m1 widths can be found at : http://www.dpf2004.ucr.edu ."
+  ],
+  "abstract_text": [
+    "<S> we examine to what extent several recently discovered narrow resonances can be interpreted as conventional @xmath0 bound states describable using a potential model . in doing so , we use a semirelativistic approach , which includes both the @xmath1 and qcd one - loop corrections to the short distance potential and a long range linear potential together with its scalar and vector @xmath1 spin - dependent terms . </S>"
+  ]
+}

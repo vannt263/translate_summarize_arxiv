@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "one of the central issues in the study of confinement is quark - hadron duality , the manner in which partial widths for exclusive hadronic processes sum to the corresponding inclusive total at the partonic level . in this talk i present a brief summary of recent advances@xcite in the study of this issue , obtained in collaboration with benjamn grinstein .",
+    "it is widely believed that the weak decay of a meson ( `` @xmath0 '' ) containing a very heavy quark ( `` @xmath1 '' ) should be well approximated by the partonic decay of a free @xmath1 . from the physical point of view , the heavy @xmath1 quark is indifferent to the dynamics of the light spectator antiquark , and this reasoning is built into nonrelativistic quark models , as well as heavy quark effective theory and the `` practical version''@xcite of the operator product expansion ( ope ) , which expands in powers of @xmath2 .",
+    "exactly how this `` duality limit '' is achieved , or how closely it is satisfied , are open questions .",
+    "we address these issues in terms of a soluble toy theory chosen to resemble real qcd as closely as possible .",
+    "the calculations are performed in the context of the t  hooft model@xcite , which is the soluble theory of qcd in one space and one time dimension with an infinite number @xmath3 of color charges . here",
+    "`` soluble '' means that each hadronic green function ( for example , meson wavefunctions and transition amplitudes ) may be calculated exactly ( albeit numerically ) in terms of quark masses . in particular ,",
+    "the @xmath4th meson eigenfunction @xmath5 of mass eigenvalue @xmath6 for quarks of masses @xmath7 and @xmath8 is found to satisfy @xmath9 where masses are written in units of the gauge coupling constant @xmath10 , since in 1 + 1 dimensions @xmath11 has dimensions of mass , while in the large @xmath3 limit@xcite it scales as @xmath12 .",
+    "the renormalized quark mass is then @xmath13 , while @xmath14 , the sole remaining kinematic invariant , represents the fraction of the meson momentum carried by the quark in light - cone coordinates .",
+    "meson transition amplitudes , which are needed for decay widths , may be written in terms of integral double and triple overlaps of t  hooft wavefunctions.@xcite the nonleptonic decays represented in these calculations are of the type @xmath15 , where , _",
+    "e.g. _ , @xmath16 represents the @xmath17th radial excitation of the pion .    the partonic width , on the other hand , may be obtained through a straightforward calculation leading to a closed - form expression in terms of elliptic integrals with arguments that are functions of the quark masses .",
+    "results@xcite of the hadronic and partonic calculations are compared in fig .",
+    "1@xmath18 .",
+    "physics in 1 + 1 dimensions possesses a number of peculiar features , most notably the lack of spin ( since spatial rotations are absent ) , as well as singularities in two - body phase space at threshold .",
+    "these singularities appear as spikes in fig .  1@xmath18 , but remarkably do not affect the speed at which approximate duality is achieved .    that the exceptional agreement between hadronic and partonic calculations is not accidental may be verified by studying the partial width arising from each exclusive channel .",
+    "in particular , in fig.1@xmath1 we exhibit the partial width for the decay of @xmath19 into two ground - state @xmath20 channels , which clearly does not saturate the result of fig .  1@xmath18 .",
+    "[ fig1 ]    # 1#20.38#2    the small discrepancy between the two curves at large @xmath7 has received attention in the literature .",
+    "numerically , it is well - fit by a relative correction of order @xmath21 , which should not be present in expansions of the ref .",
+    "@xcite type .",
+    "recent work@xcite claims that such a correction is not present , partly on the basis of rigorous analytic studies of t  hooft model solutions , but also partly on estimates of scaling behavior in hadronic threshold regions .",
+    "the issue , for the moment , appears to be unresolved ; however , even if ref.@xcite proves to be absolutely correct , the presence of a numerical effect _ simulating _ a forbidden correction may provide valuable insight into processes in 3 + 1 dimensions that appear to violate duality at @xmath22 , such as the lifetime difference between @xmath23 and @xmath19 .",
+    "in the decays studied in the previous section , the light spectator quark of the @xmath19 is unaffected by the decay ( except for binding effects ) . it is natural to consider also how well duality holds for decays in which it weakly annihilates with the @xmath1 quark.@xcite    in this case",
+    ", one finds a new complication in that powers of @xmath24 no longer appear homogeneously in the amplitude .",
+    "the reason for this behavior is clear : there are special values of quark masses for which the @xmath19 can annihilate resonantly into a single , highly excited @xmath20 meson . since the presence of each additional meson in large @xmath3 costs an extra factor of @xmath25 in the amplitude , one - meson decay widths should dominate the expected two - meson widths by a factor of @xmath3",
+    ". however , this enhancement appears only very near the special values of @xmath1 quark mass for which such resonances are allowed , since large @xmath3 mesons have widths @xmath26 .    in a physically meaningful picture",
+    ", these resonances must be `` integrated out '' into the two - meson channel , where they appear as intermediate mesons with breit - wigner widths in the form @xmath27 the propagator , like meson masses , is @xmath28 except in the immediate vicinity of @xmath29 , where it is promoted to @xmath30 .",
+    "it turns out that this is exactly the factor needed for large @xmath3 counting consistency . on the other hand",
+    ", one finds that different powers of @xmath3 are necessarily mixed up in obtaining a physically reasonable picture of these decays , and a particular value of @xmath3 must be chosen in order to exhibit numerical results . since the t  hooft model is exact for @xmath31 , @xmath3 is chosen as large as numerically practical .",
+    "[ fig2 ]    # 1#20.38#2    the results for @xmath32 are shown in fig .  2 , where the prominent cusps in @xmath33 appear at values of @xmath7 for which single - resonance decays can occur .",
+    "in order to compare to the corresponding partonic rate , obviously some form of averaging , or `` smearing , '' process is required .",
+    "this is achieved here by weighting the exact result by a series of gaussian functions whose widths are chosen as small as possible , but that still produce a smooth result . since larger @xmath3 means sharper spikes , while the range in @xmath7 over which to smear is finite , numerically allowed choices of @xmath3 are bounded above .",
+    "one then finds reasonable agreement between the two curves , to about 20% , but it is not nearly so startling as that presented in fig .",
+    "also , the partonic and smeared hadronic curves do not yet even appear to have achieved the same asymptotic power law behavior .",
+    "the t  hooft model provides a unique simplified environment in which to study many of the currently intractable issues of the strong interaction .",
+    "even the issue of quark - hadron duality raises a number of interesting subtleties , whose resolution may help in fathoming the complexities of the 3 + 1 dimensional problem ."
+  ],
+  "abstract_text": [
+    "<S> explicit quark - hadron duality in the limit of heavy quark mass is studied using the t  hooft model , where both partonic and hadronic amplitudes may be computed exactly . </S>",
+    "<S> results for weak decays of heavy mesons are presented for both standard spectator decays , where the duality limit is convincingly approached , and annihilation decays of the valence quark - antiquark pair , where the approach to asymptotic duality is much less precise .    </S>"
+  ]
+}

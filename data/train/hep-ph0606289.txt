@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "if low scale supersymmetry exists in nature , it will likely be discovered in the next few years at the large hadron collider ( lhc ) , or perhaps even earlier at the tevatron . in many supersymmetric scenarios ,",
+    "the lhc can identity the presence of the lightest neutralino in the form of missing energy in the cascade decays of squarks and/or gluinos . at approximately the same time , direct and indirect searches for dark matter will be reaching the level of sensitivity needed to discover neutralinos in a wide range of supersymmetric models .    collider and astrophysical experiments tell us very different things about the nature of supersymmetry .",
+    "the lhc is likely to reveal the approximate masses of a number of superpartners , including squarks , gluinos , the lightest neutralino , and in some cases sleptons and heavier neutralinos .",
+    "other properties of the supersymmetric model will remain unconstrained by the lhc , however .",
+    "in particular , the composition of the lightest neutralino ( the mixture of bino , wino , and higgsino components ) , and therefore its couplings , will be very difficult to deduce at a hadron collider .",
+    "in contrast , the cross sections relevant to astrophysical dark matter experiments depend critically on the composition of the lightest neutralino .    in fig .",
+    "[ directneutrino ] , we show how the rates in astrophysical dark matter experiments depend on the composition of the lightest neutralino . in the left frame , we compare the scalar neutralino - nucleon elastic scattering cross section ( which determines the rate in direct dark matter experiments ) to the quantity : @xmath4 . here , @xmath1 is the mass of the cp - odd higgs boson in the mssm .",
+    "the @xmath5 s are defined by the following : @xmath6 . the correlation shown in the left frame of fig .",
+    "[ directneutrino ] is quite tight for models with large cross sections , which are produced through diagrams which exchange a heavy higgs boson coupling to @xmath7 and @xmath8 quarks ( @xcite ) .",
+    "neutralinos scattering with the sun can become gravitationally bound and accumulate in the sun s core , eventually annihilating to produce high - energy neutrinos .",
+    "the rate of those neutrinos being observed at a kilometer - scale neutrino telescope such as icecube or km3 is shown in the right frame of fig .",
+    "[ directneutrino ] as a function of the quantity @xmath9 .",
+    "this correlation comes from the @xmath10-@xmath10-@xmath11 coupling which largely determines the capture rate in the sun in nearly all observable models ( @xcite ) .",
+    "we will next consider a benchmark model in order to study how direct and indirect detection information can aid in determining the composition of the lightest neutralino , and therefore the parameter @xmath0 .",
+    "we will adopt the following benchmark : @xmath12 gev , @xmath13 gev , @xmath14 , @xmath15 gev , and a common sfermion mass scale of 2130 gev .",
+    "this model generates a thermal relic abundance of @xmath160.098 , which is consistent with the measurements of wmap .",
+    "the lightest neutralino in this model is 99.1% bino , with a small higgsino admixture .",
+    "although icecube / km3 will not be sensitive to this model , the elastic scattering cross section of @xmath17 pb will be within the reach of next generation direct detection experiments",
+    ".    a number of supersymmetric particles will be within the reach of the lhc in this model .",
+    "in addition to quarks , gluinos , and the lightest neutralino , @xmath18 is large enough , and @xmath1 small enough , to be determined though the channel @xmath19 at the lhc . in the upper curve of fig .",
+    "[ mu ] , we plot the distribution of susy models found with our scan that match the following constraints from lhc measurements : @xmath20 gev @xmath21 , @xmath22 gev @xmath23 , @xmath24 gev , and @xmath25 , in addition to the relic density constraint .",
+    "the lower curve on this figure , in addition to the lhc measurements , is constrained by direct and indirect detection measurements .",
+    "whereas the lhc alone can only constrain @xmath26 gev , the inclusion of astrophysical measurements can be used to tighten the upper bound considerably : @xmath27 gev .",
+    "in models with low to moderate @xmath28 or somewhat heavy @xmath1 , heavy higgs bosons will be beyond the reach of the lhc . in models in which neutralinos annihilate primarily through @xmath2-exchange , however , known as the @xmath2-funnel region , the value of @xmath1 can potentially be determined through dark matter observables .    adopting a second benchmark model ( @xmath29 gev , @xmath30 gev , @xmath31 , @xmath32 gev , and a common sfermion mass scale of 2239 gev ) , we plot in fig .",
+    "[ ma ] the ability of astrophysical measurements to determine the value of @xmath1 . in this case",
+    ", we find a determination of @xmath33 gev . since the sfermions are all heavy in this model , to avoid being overproduced in the early universe , either the neutralino must contain a substantial higgsino component , or be annihilating near the @xmath2-resonance .",
+    "direct detection experiments will find in this model @xmath34 pb , constraining @xmath35 to be less than @xmath360.1 . through this constraint",
+    ", @xmath37 can be determined ."
+  ],
+  "abstract_text": [
+    "<S> a wide range of techniques have been developed to search for particle dark matter , including direct detection , indirect detection , and collider searches . </S>",
+    "<S> the prospects for the detection of neutralino dark matter is quite promising for each of these three very different methods . </S>",
+    "<S> looking ahead to a time in which these techniques have successfully detected neutralino dark matter , we explore the ability of these observations to determine the parameters of supersymmetry . </S>",
+    "<S> in particular , we focus on the ability of direct and indirect detection techniques to measure the parameters @xmath0 and @xmath1 . </S>",
+    "<S> we find that @xmath0 can be much more tightly constrained if astrophysical measurements are considered than by lhc data alone . in supersymmetric models within the @xmath2-funnel region of parameter space , we find that astrophysical measurements can determine @xmath1 to roughly @xmath3 gev precision </S>",
+    "<S> .    dark matter , supersymmetry    11.30.pb , 95.35.+d , 95.30.cq </S>"
+  ]
+}

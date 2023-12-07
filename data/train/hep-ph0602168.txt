@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "in this paper we address the hot topic of the possible scale at which supersymmetry could manifest itself by performing indirect analyses based on the running of gauge couplings in two ways :    * first a - by now `` traditional ''   - analysis of gauge coupling unification in a grand unification theory , using the latest experimental inputs , mainly at the z peak scale , combined with a detailed statistical approach * a novel analysis , including for the first time high precision data collected at lep2 , which can shed light on the actual running of couplings from the z peak to @xmath3  207 @xmath1 .    in the first approach in contrast to the sm the minimal supersymmetric standard model ( mssm ) leads to a single unification scale of a grand unified theory ( gut ) , if we let the couplings run accordingly .",
+    "the relevant parameters are : @xmath4 - a single generic susy scale where the spectrum of supersymmetric particles starts to play a role , and @xmath5 - the scale of grand unification where the electromagnetic , weak and strong coupling come together as an unified coupling @xmath6 .",
+    "we update the analysis  @xcite , using the same fitting procedure and experimental inputs except for the stong coupling where we incorporate new data .",
+    "different measurements and world averages typically fall in two groups which we will call `` high '' and `` low '' values : + @xmath7  @xcite + @xmath8  @xcite + @xmath9  @xcite + @xmath10  @xcite .    the results of the fits are summarized in table 1 .",
+    "@lclll@ inputs & threshold correction & @xmath4 & @xmath5 & @xmath11 + & [ % ] & [ @xmath1 ] & [ @xmath1 ] & +   + s. bethke 2004 & - 4 & @xmath13 & @xmath14 & @xmath15 + @xmath16 & - 4 & @xmath17 & @xmath18 & @xmath19 + aleph 4-jet rate & - 4 & @xmath20 & @xmath14 & @xmath21 +   + @xmath22 & - 4 & @xmath23 & @xmath24 & @xmath25 +    the strong coupling is a key for interpreting the results : the `` high '' @xmath26 values require an uncomfortably low susy scale @xmath27  10 @xmath1 - way below the experimental lower limit @xmath27  100 @xmath1 .",
+    "the `` low '' @xmath26 values favor values for the susy scale just above the present limits , e.g. for @xmath26 = 0.1182 we get @xmath28 at one - sided 95 % cl - well in the lhc or even tevatron direct discovery range .",
+    "we perform a new more `` direct '' analysis by adding more data .",
+    "lep2 has measured the @xmath29 cross section above the z pole  @xcite with combined precision from the four experiments @xmath27  1  % and theoretical uncertainty @xmath30  0.3  % .",
+    "we fit the data computing the running of the couplings from the z peak to the highest lep2 energies in the sm or in mssm with the scale as free parameter .",
+    "all three couplings change in a different way in the two cases if the susy scale is in this mass range .",
+    "as all couplings affect the theory prediction for @xmath31 , they could give measurable effects at this level of precision .",
+    "the slight `` excess '' @xmath27  2 standard deviations is `` filled '' nicely if the couplings run as predicted in mssm .",
+    "practically all high precision points are slightly above the sm prediction as could be the case if susy starts to take over - see figure  [ fig : qqfit ] .",
+    "of course a more mundane explanation , which can not be ruled out at the current level of precision and understanding , is that we have a normalization problem either on the theoretical or experimental side .",
+    "the scale is fitted to be @xmath32 precision measurements of the strong coupling @xmath33 above the z pole can provide new information .",
+    "this coupling changes the fastest in this energy range , but is also the hardest to measure .",
+    "systematic uncertainties are dominant both at lep2 ( theory and hadronization ) and cdf ( energy scale and resolution ; interplay with the gluon parton density function uncertainty at high x values ) .",
+    "as shown in figure  [ fig : alfas ] the experimental precision starts to approach the effects predicted by using our best fit value for the susy scale from @xmath31 .",
+    "if the tevatron experiments benefit fully from the increased statistics in run 2 to control the systematics better and probe higher energy scales , they could possibly provide new independent evidence for the scale of supersymmetry ."
+  ],
+  "abstract_text": [
+    "<S> the apparent unification of gauge couplings around 10@xmath0  @xmath1 is one of the strong arguments in favor of supersymmetric extensions of the standard model ( sm ) . in this contribution </S>",
+    "<S> two new analyses of the gauge coupling running , the latter using in contrast to previous studies not data at the z peak but at lep2 energies , are presented . </S>",
+    "<S> the generic susy scale in the more precise novel approach is @xmath2 , easily within lhc , and possibly even within tevatron reach .     </S>",
+    "<S> address = physics department , university of florida , p.o . </S>",
+    "<S> box 118440 , gainesville , fl 32611 , usa </S>"
+  ]
+}

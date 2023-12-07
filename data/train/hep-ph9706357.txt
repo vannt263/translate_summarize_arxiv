@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "i would like to thank v.  barger , kingman cheung and k.  hagiwara for the enjoyable collaboration which lead to the results presented in this talk .",
+    "this research was supported in part by the u.s .",
+    "department of energy under grant no .",
+    "de - fg02 - 95er40896 and in part by the university of wisconsin research committee with funds granted by the wisconsin alumni research foundation .",
+    "g.  altarelli et al . , report cern - th/97 - 40 [ hep - ph/9703276 ] ; k.  s.  babu et al . , preprint iassns - hep-97 - 04 [ hep - ph/9703299 ] ; n.  bartolomeo and m.  fabbrichesi , report sissa-34 - 97-ep [ hep - ph/9703375 ] ; a.  nelson , report uw - pt-97 - 07 [ hep - ph/9703379 ] ; w.  buchmller and d.  wyler , report desy 97 - 066 [ hep - ph/9704317 ] ; n.  g.  deshpande et al . , report oits-625 [ hep - ph/9705236 ] ."
+  ],
+  "abstract_text": [
+    "<S> effective @xmath0 contact interactions can enhance event rates in @xmath1 scattering at hera at high @xmath2 . </S>",
+    "<S> present constraints from atomic parity violation measurements and from drell yan events at the tevatron are discussed .    </S>",
+    "<S> both the h1@xcite and zeus@xcite experiments at hera have observed an excess above sm expectations in @xmath3 events at @xmath4 . only the h1 data , however , are suggestive of an @xmath5-channel ( leptoquark ) resonance  @xcite , and other possible sources of rate enhancements in high @xmath2 dis events need to be investigated </S>",
+    "<S> .    a fairly model independent parameterization of possible new physics effects is provided by an effective lagrangian of @xmath0 contact interactions  @xcite : any exchange , in the @xmath5- , @xmath6- or @xmath7-channel , can be cast into this form provided the exchanged quanta are heavy compared to the center of mass energy of the scattering process . following ref .  </S>",
+    "<S> @xcite the contact terms are parameterized as @xmath8 \\ </S>",
+    "<S> , , \\label{effl}\\end{aligned}\\ ] ] where the coefficients have dimension ( tev)@xmath9 and are conventionally expressed as @xmath10 , with an effective mass scale of new physics , @xmath11 . </S>",
+    "<S> the contact terms ( [ effl ] ) give additional contributions to the reduced amplitudes for @xmath12 , @xmath13 , and @xmath14 subprocesses , beyond the sm photon- and @xmath15-exchange terms : @xmath16 here @xmath17 and @xmath18 are charges and weak isospins , respectively , of the external fermions @xmath19 , @xmath20 , and @xmath21 . </S>",
+    "<S> the mandelstam invariant @xmath22 is given by @xmath23 for @xmath24 , by @xmath25 for @xmath26 and by @xmath27 for @xmath28 collisions . </S>",
+    "<S> thus the presence of a contact interaction has interconnected implications for @xmath29 , @xmath30 , and @xmath31 and also for atomic physics parity violation experiments .    in @xmath26 scattering at high @xmath2 valence quark contributions </S>",
+    "<S> dominate and the cross sections are related to the amplitudes ( [ amps ] ) and parton distribution functions @xmath32 as @xmath33 \\ , .   </S>",
+    "<S> \\label{bar - ep}\\ ] ] from ( [ bar - ep ] ) we see that a high-@xmath34 anomaly in @xmath1 requires an @xmath35 or @xmath36 amplitude . </S>",
+    "<S> @xmath37 or @xmath38 amplitudes are suppressed by the @xmath39 factor in @xmath1 collisions but they would be enhanced compared to @xmath40 or @xmath41 terms in @xmath42 scattering . </S>",
+    "<S> because the @xmath43-parton density is severely suppressed in the large @xmath44 region relative to the @xmath7-parton density , the @xmath45 contact interaction is needed to achieve an @xmath1 cross section enhancement .    as an illustration </S>",
+    "<S> consider two scenarios , @xmath46 and @xmath47 , corresponding to scales @xmath48  tev and @xmath49  tev , respectively . </S>",
+    "<S> the resulting dis cross sections , above a minimum @xmath2 , are shown in fig .  1 . </S>",
+    "<S> both scenarios provide for a better description of the hera data than the sm . </S>",
+    "<S> however , their consistency with other data must be investigated .    </S>",
+    "<S> the choice @xmath50 is parity violating and modifies the sm prediction for the atomic physics parity violating parameter @xmath51 , given by @xmath52 \\,.\\ ] ] here @xmath53 is the number of neutrons , @xmath15 is the number of protons , and @xmath54 is the coefficient of the @xmath55 combination of fermion currents which is probed . </S>",
+    "<S> the @xmath56cs measurements find @xmath57  @xcite compared to a sm prediction of @xmath58  @xcite which yields @xmath59 the @xmath50 scenario above is thus ruled out unless one introduces additional , cancelling terms such as @xmath60 .    </S>",
+    "<S> such additional terms would only marginally affect the hera observables , but they would give rise to even larger deviations from the sm in @xmath61 at the tevatron , in particular at large @xmath62 invariant mass , where contact interactions dominate the amplitudes and interference effects can be neglected . recently , </S>",
+    "<S> the cdf collaboration has determined new preliminary limits on @xmath37 contact terms corresponding to @xmath63  ( 2.4 )  tev for @xmath64 ( @xmath65 )  @xcite . </S>",
+    "<S> comparison of the measured @xmath62 invariant mass spectrum with predictions in the presence of contact terms indicate that the scenario @xmath46 above is still ( marginally ) compatible with the present tevatron data while scenarios such as @xmath66 are clearly ruled out . </S>",
+    "<S> present tevatron drell - yan data probe contact terms at the same scale @xmath11 as hera dis data , but the two machines are complementary in their sensitivity to particular combinations of couplings . </S>"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the gauge sector of electroweak interactions has been checked to coincide with the standard model ( sm ) prediction to the per - mil level , at lep and slc . on the contrary , there is no direct experimental evidence for the higgs mechanism , supposed to be responsible for electroweak symmetry breaking and the generation of masses .",
+    "direct search of the higgs boson at lep yields the lower limit @xcite : @xmath2 gev / c@xmath1 at @xmath3 cl .",
+    "precision measurements on the other hand give @xcite : @xmath4 gev / c@xmath1 at @xmath5 cl . once a higgs particle is found , if ever , all its properties should be measured precisely to completely characterise the higgs mechanism . among those ,",
+    "the coupling of the higgs boson to fermions ( the yukawa coupling ) , which is supposed to scale with the fermion mass :    @xmath6    where @xmath7 is the yukawa coupling of a fermion f of mass @xmath8 and @xmath9 is the vacuum expectation value of the higgs field , @xmath10 gev .",
+    "the top quark is the heaviest fermion , thus the top - higgs yukawa coupling should be the easiest to measure . if @xmath11 , this parameter can be measured through the branching ratio of the higgs boson decay into a pair of top quarks .",
+    "otherwise , i.e. for lower values of the higgs boson mass , the process @xmath0 allows in principle a direct measurement of this coupling .",
+    "feasibility studies of the measurement of the top - higgs yukawa coupling via the process @xmath0 at a linear collider have already been performed  @xcite  @xcite for a higgs boson mass of 120 - 130 gev / c@xmath1 .",
+    "this is the most favourable case ( taking into account the lower mass bound ) as the cross - section of this process decreases with increasing higgs boson mass and as a higgs boson of such a mass decays predominantly to a pair of b quarks , allowing a very effective signal and background separation using b - tagging algorithms .",
+    "one of the studies ( @xcite ) showed that a neural network analysis was essential to get a precise result .",
+    "we repeated this work and extended it up to @xmath12 150 gev / c@xmath1 .",
+    "when @xmath13 135 gev / c@xmath1 , the @xmath14 decay mode dominates .",
+    "this channel was also studied , for masses up to 200 gev / c@xmath1 .",
+    "the lowest order feynman diagrams contributing to the @xmath0 process are shown in figure  [ diagrammetth ] . the amplitude of the diagram where the higgs boson is radiated from the z boson is not expressing the top - higgs yukawa coupling .",
+    "however , since it modifies only slightly the cross - section of the process , it can safely be neglected . the cross - section and",
+    "the top - higgs yukawa coupling thus verify to a good approximation : @xmath15 .    for this work ,",
+    "the following assumptions were made : @xmath16 gev / c@xmath1 and @xmath17 .",
+    "the higgs branching ratios were calculated with the hdecay  @xcite program .",
+    "the values obtained for the @xmath18 and @xmath14 modes , which are the main decays within the higgs mass range considered in this paper , are shown in table  [ brhiggs ] and figure  [ crosssectiontth ] .    .__higgs branching ratios for the @xmath18 and @xmath14 modes ( as given by hdecay ) and cross - section at lowest order of the process @xmath0 ( as given by comphep ) , for various higgs mass values and for @xmath19 800 gev . in the calculation of the cross - section ,",
+    "initial state radiation and beamstrahlung were taken into account . _ _ [ cols=\"^,^,^,^ \" , ]",
+    "i thank marc winter and iouri gornouchkine for valuable discussions .",
+    "s. dittmaier , m. kramer , y. liao , m. spira and p. zerwas , phys . lett .",
+    "* b441 * ( 1998 ) 383 .",
+    "+ s. dawson and l. reina , phys",
+    "* d59 * ( 1999 ) 054012 .",
+    "+ g. blanger _",
+    "et al . _ , hep - ph/0307029 .",
+    "+ c. farrell , a. hoang , phys . rev .",
+    "* d72 * ( 2005 ) 014007 .                               via the process @xmath0 for various channels and their combination , for various higgs boson masses and for two values of the relative uncertainty on the residual background normalisation.__,width=566,height=793 ]"
+  ],
+  "abstract_text": [
+    "<S> understanding the mechanism of electroweak symmetry breaking and the origin of boson and fermion masses is among the most pressing questions raised in contemporary particle physics . </S>",
+    "<S> if these issues involve one ( several ) higgs boson(s ) , a precise measurement of all its ( their ) properties will be of prime importance . among those , the higgs coupling to matter fermions ( the yukawa coupling ) . at a linear collider , </S>",
+    "<S> the process @xmath0 will allow in principle a direct measurement of the top - higgs yukawa coupling . </S>",
+    "<S> we present a realistic feasibility study of the measurement in the context of the tesla collider . </S>",
+    "<S> four channels are studied and the analysis is repeated for several higgs mass values within the range 120 gev / c@xmath1 - 200 gev / c@xmath1 .    </S>",
+    "<S> addtoresetequationsection    = 20 cm = 15 cm </S>"
+  ]
+}

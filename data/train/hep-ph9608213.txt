@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "using the perturbative initial conditions ( [ dqq],[dgq],[dqq ] ) and the non - perturbative parametrization ( [ nonpert ] ) with the parameters summarized in table [ table1 ] , we have a nlo evaluation of the parton ff in @xmath4 mesons at a scale @xmath5 .",
+    "then using the dglap evolution equations to nlo accuracy one can evaluate the fragmentation functions set at any desired factorization scale @xmath6 . by convoluting this set with the nlo kernel cross sections for massless parton scattering @xcite one",
+    "gets a prediction for @xmath0 and @xmath1 production at large @xmath3 at a hadron collider .",
+    "figures [ fig2]a , b show the @xmath3 and rapidity spectra for the tevatron .",
+    "also shown ( solid line ) is the pure charm quark nlo cross section , as predicted by the perturbative fragmentation function approach .",
+    "these results have been obtained with the mrs - a structure functions set @xcite and with a @xmath7 value of 100 mev .",
+    "the sudakov form factor @xcite has also been included : we notice here once more that its effects are numerically small , below 10% , in the @xmath3-rapidity range we have considered .",
+    "as expected the @xmath0 mesons cross sections lie below the charm quark one .",
+    "it can however be checked that summing them up and introducing an additional factor of two to allow for @xmath8 and @xmath9 state ( which are assumed to fragment like the neutral ones ) the charm cross section is almost reproduced ( wide - dotted line ) .",
+    "the small residual gap is given by the mesons ff being softer and therefore producing a smaller cross section .",
+    "many uncertainties do of course affect this result , though not shown in the plots .",
+    "first of all , the mesons fragmentation functions will share all the uncertainties related to the heavy quark pffs on which they are built on .",
+    "factorization scale and initial scale dependencies , of the kind studied in @xcite , will also appear here with a similar behaviour , leading to an uncertainty of order 20 - 30% .",
+    "these fragmentation functions will also share the same shortcomings of the pffs .",
+    "this means that their description is not accurate at low @xmath3 and at the edges of phase space ( see also @xcite for a discussion of this point ) , where unresummed higher order corrections and non - perturbative effects play an important role .",
+    "this leads to the impossibility of performing a meaningful comparison with the @xmath1 photoproduction data collected at hera , since the minimum @xmath3 , of the order of 2 - 3 gev , is too low and the edges of phase space in rapidity are probed .",
+    "a second kind of uncertainty is related to the determination of the non - perturbative parameters @xmath10 , @xmath11 and @xmath12 .",
+    "the set we have chosen was fitted to argus data , and has been picked mainly for illustrative purposes , although , as stated above , it reproduces fairly well the actual opal data from lep .",
+    "an analysis of all lep data , when available , will certainly lead to a more precise determination of these parameters . of course also",
+    "a detailed measurement of the @xmath0 , @xmath1 inclusive cross sections at the tevatron would be very helpful and give complementary information on the ff , particularly for the gluon terms .    to conclude , we have presented a model for the @xmath0 and @xmath1 fragmentation functions based on pff for heavy quarks complemented by a factorized non - perturbative term describing the quark - meson transition .",
+    "predictions have been given for large @xmath3 charmed mesons production at the tevatron .",
+    "m.greco , s.rolli , z.  phys .",
+    "* c60 * ( 1993 ) 169 ; phys .",
+    "* d52 * ( 1995 ) 3853 ; p. chiappetta , m. greco , j .- ph .",
+    "guillet , s. rolli , m. werlen , nucl .",
+    "phys .  * b412 * ( 1994 ) 3 ; m. greco , s. rolli , a. vicini , z.  phys .",
+    "* c65 * ( 1995 ) 277"
+  ],
+  "abstract_text": [
+    "<S> fragmentation functions for heavy - light mesons , like the charmed @xmath0 , @xmath1 mesons , are proposed . </S>",
+    "<S> they rest on next - to - leading qcd perturbative fragmentation functions for heavy quarks , with the addition of a non - perturbative term describing phenomenologically the quark @xmath2 meson transition . </S>",
+    "<S> the cross section for production of large @xmath3 @xmath0 , @xmath1 mesons at the tevatron is evaluated in this framework . </S>",
+    "<S> + pacs numbers : 13.87.fh , 13.60.le , 12.38.-t    [ cols= \" < \" , ] </S>"
+  ]
+}

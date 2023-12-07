@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "one of the most pressing issues at current and future hadron collider experiments is the discovery of one ( or more ) higgs bosons . the standard model ( sm ) predicts a single higgs boson whose couplings to fermions are proportional to the mass of the fermion , hence the production of the higgs boson with light quarks ( e.g. bottom quarks ) is suppressed compared to other production channels involving top quarks or heavy gauge bosons .",
+    "however , in some extensions of the sm ( such as the minimal supersymmetric standard model , or mssm ) , the yukawa couplings for @xmath1 quarks can become strongly enhanced . in this scenario , the production of a higgs boson with @xmath0 can dominate over other production channels and could provide a unique opportunity to directly probe the @xmath1 quark yukawa coupling .",
+    "the theoretical prediction of @xmath2 production at hadron colliders involves several subtle issues and depends on the number of @xmath1 quarks identified , or @xmath3 , in the final state .",
+    "potentially large logarithms arise from the integration over the phase space of the final state @xmath1 quarks .",
+    "these large logarithms appear at all orders in perturbation theory and could spoil the convergence of the perturbative expansion of total and differential cross sections . currently , there are two approaches to calculating the theoretical prediction of @xmath4 production .",
+    "working under certain kinematic approximations , and adopting the so - called @xmath5 ( 5fns ) , the logarithms can be resummed by using a bottom quark parton distribution function @xcite @xmath6 @xcite . alternatively ,",
+    "working with no kinematic approximations , and adopting the so - called @xmath7 ( 4fns ) , one can compute the cross section for @xmath8 at fixed order in qcd without resumming higher order collinear logaritms @xcite @xmath6 @xcite .    in this talk , we present the results of the total cross section calculation for @xmath8 at next - to - leading order ( nlo ) in qcd for two different scenarios : two high-@xmath9 @xmath1 jets and one high-@xmath9 @xmath1 jet corresponding to two or one @xmath1 jet(s ) identified in the final state .",
+    "results for the case of no high-@xmath9 @xmath1 jets have been reviewed in a previous study @xcite . for the case of one high-@xmath9 @xmath1 jet in the final state",
+    ", we compare our fixed - order result ( 4fns ) with the prediction obtained by using @xmath10 ( 5fns ) , when nlo qcd corrections have been included in both cases @xcite .",
+    "in order to select the events with high-@xmath9 @xmath1 jets , we place kinematic cuts on the transverse momentum , @xmath11 20 gev , and pseudorapidity , @xmath12 2 ( 2.5 ) at the tevatron ( lhc ) , of the final state @xmath1 quarks .",
+    "results from the case of two high-@xmath9 @xmath1 jets are shown in fig",
+    ". 1 @xcite .",
+    "the two sets of curves correspond to different renormalization schemes for the bottom quark mass in the bottom quark yukawa coupling . in both cases ,",
+    "the dependence on the renormalization and factorization schemes is greatly reduced by the inclusion of nlo qcd corrections .",
+    "it is interesting to note that the @xmath13 scheme exhibits better behavior at small scales and also seems to improve the convergence of the perturbative series .",
+    ",    the calculation of the nlo cross section for @xmath2 for the case of ( at least ) one high-@xmath9 @xmath1 jet has been performed in both the 4fns @xcite@xmath14 @xcite and the 5fns @xcite(where the leading order process becomes @xmath15 ) . in a previous study @xcite ,",
+    "the two cross section calculations were found to be in agreement ( within error ) , but the 5fns calculation seemed to predict a slightly larger value for most of the higgs mass range . in a subsequent paper @xcite , we have investigated the inclusion of diagrams containing top quark loops , that were previously neglected in the 5fns , by implementing them into mcfm@xcite . the contribution from the top loop diagram(s ) to the total cross section in the sm calculation can become numerically important .",
+    "in fact , inclusion of these diagrams was found to reduce the 5fns cross section by 15%(10% ) at the tevatron(lhc ) over most of the higgs mass range @xcite .",
+    "results are shown in fig.2 for the comparison between the 4fns and 5fns schemes after the inclusion of the top loop diagram in the latter calculation .",
+    "clearly , within the theoretical uncertainties , the sm calculations in the 4fns and 5fns are in very good agreement .",
+    "the agreement is preserved in the mssm with large @xmath16 , since the top loop diagrams become negligible .    ,",
+    "the work of s.d .",
+    ", c.b.j . ) and d.w . is supported in part by the u.s .",
+    "department of energy under grant de - ac02 - 76ch00016 ( de - fg02 - 97er41022 ) and by the national science foundation under grant nsf - phy-0244875 , respectively ."
+  ],
+  "abstract_text": [
+    "<S> we present results for the production cross section of a higgs boson with a pair of @xmath0 quarks , including next - to - leading order ( nlo ) qcd corrections . </S>"
+  ]
+}

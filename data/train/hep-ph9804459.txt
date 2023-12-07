@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the lightest neutralino is one of the most promising candidates for the dark matter in the universe . a linear combination of the superpartners of the neutral gauge and higgs bosons , it is believed to be the lightest stable supersymmetric particle in the minimal supersymmetric extension of the standard model ( mssm ) .",
+    "in the near future , high precision measurements of the dark matter density may become possible from high resolution maps of the cosmic microwave background , and this may lead to constraints on supersymmetry .",
+    "it is therefore of great interest to calculate the relic density of the lightest neutralino as accurately as possible .    as a major step towards a complete and precise calculation valid for all neutralino masses and compositions",
+    ", we include all concomitant annihilations ( coannihilations ) between neutralinos and charginos , properly treating thermal averaging in presence of thresholds and resonances in the annihilation cross sections ( for details see @xcite ) .",
+    "consider coannihilation of @xmath4 supersymmetric particles with masses @xmath5 and statistical weights @xmath6 ( first studied in ref .",
+    "@xcite ) . normally , all heavy particles have time to decay into the lightest one , which we assume stable .",
+    "its final abundance is then simply described by the sum of the densities @xmath7 when the scattering rate of supersymmetric particles off the thermal background is much faster than their annihilation rate , @xmath8 obeys the evolution equation @xcite @xmath9 with effective annihilation cross section @xmath10 .",
+    "the numerator @xmath11 is the total annihilation rate per unit volume at temperature @xmath12 , and @xmath13 is the total equilibrium density . we find  @xcite @xmath14 and @xmath15 here @xmath16 is the modified bessel function of the second kind of order @xmath17 , and @xmath18 with @xmath19 .",
+    "@xmath20 is a lorentz invariant annihilation rate per unit volume in which coannihilations appear as thresholds at @xmath21 equal to the sum of the masses of the coannihilating particles .",
+    "the independence of @xmath20 on temperature is a remarkable calculational advantage in presence of coannihilations : in fact it can be tabulated in advance , before taking the thermal average and solving the density evolution equation .",
+    "the previous equations generalize the result of gondolo and gelmini  @xcite to coannihilations .",
+    "to explore a significant fraction of the mssm parameter space @xcite , we keep the number of theoretical relations among the parameters to a minimum .",
+    "we assume gut relations for gaugino masses , keep only the top and bottom trilinear soft supersymmetry - breaking parameters , and use a single mass parameter for the diagonal entries in the sfermion mass matrices at the weak scale .",
+    "we perform many different scans in parameter space , some general and some specialized to interesting regions .",
+    "we keep only models that satisfy the experimental constraints on the @xmath22 width , on the @xmath23 branching ratio , and on superpartner and higgs boson masses . here",
+    "we show results for @xmath2485,000 supersymmetric models that satisfy accelerator constraints as of march 1998 ( we include the aleph bounds at @xmath25  gev  @xcite ) .",
+    "we obtain analytic expressions for the many feynman diagrams contributing to the two - body cross sections at tree level for neutralino - neutralino , neutralino - chargino and chargino - chargino annihilation",
+    ". then for each set of model parameters , we sum over particle polarizations and over initial and final states numerically and tabulate the annihilation rate @xmath20 .",
+    "thermal averaging and integration of the density equation finally give the neutralino relic density @xmath26 in units of the critical density @xmath27 .",
+    "we find that coannihilation processes are important not only for light higgsino - like neutralinos , as pointed out before in approximate calculations  @xcite , but also for heavy higgsinos and for mixed and gaugino - like neutralinos .",
+    "indeed , coannihilations should be included whenever @xmath28 , independently of the neutralino composition .",
+    "when @xmath29 , coannihilations can increase or decrease the relic density in and out of the cosmologically interesting region .",
+    "[ fig : oh2vsmx ] shows the neutralino relic density @xmath30 versus the neutralino mass @xmath31 . to avoid artificial bands and holes in the point distribution ,",
+    "we have divided the plotted region into cells and marked those in which we find at least one model allowed by present accelerator constraints .",
+    "the horizontal lines limit the cosmologically interesting region where the neutralino can constitute most of the dark matter in galaxies without violating the constraint on the age of the universe .",
+    "we take it to be @xmath32 .",
+    "[ fig : cosmregion ] shows the cosmologically interesting region in the neutralino mass  composition plane ( @xmath33 is the gaugino fraction ) .",
+    "this region is limited to the left by accelerator constraints , to the right by @xmath34 , and below and above by incompleteness in our survey of parameter space , except for the hole at 85450 gev where @xmath35 .",
+    "the main effect of coannihilations is to shift the higgsino region to higher masses .",
+    "in particular the cosmological upper bound on the neutralino mass becomes 10 tev .",
+    "differently from previous approximate results  @xcite , we find a cosmologically interesting window of light higgsino - like neutralinos with masses around 75 gev ."
+  ],
+  "abstract_text": [
+    "<S> we enlarge our set of supersymmetric models and update accelerator constraints in our precise calculation of the relic density of the lightest neutralino , which includes relativistic boltzmann averaging , subthreshold and resonant annihilations , and coannihilation processes among charginos and neutralinos .    * accurate neutralino relic density *    p. gondolo@xmath0 and j. edsj@xmath1    @xmath2 _ max planck institute for physics , fhringer ring 6 , 80805 munich , germany _    </S>",
+    "<S> @xmath3 _ </S>",
+    "<S> center for particle astrophysics , university of california , + 301 le conte hall , berkeley , ca 94720 - 7304 , u.s.a . </S>",
+    "<S> _    _ presented by p. gondolo at dark matter 98 , marina del rey , california , february 1998 . _ </S>"
+  ]
+}

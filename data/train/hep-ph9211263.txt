@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "lattice gauge calculations of heavy - light meson structure are of both theoretical and phenomenological interest.@xcite one immediate goal of these calculations is to obtain precise quantitative results for masses , decay constants , and form factors in the static approximation , where the heavy quark propagator is replaced by a timelike wilson line .",
+    "one difficulty which plagued early , exploratory calculations of the pseudoscalar decay constant @xmath0 was the problem of isolating the ground state contribution to the propagator of the local weak current .",
+    "because of the proximity of excited states and their sizeable overlap with the local current , a large separation in time was required , with an accompanying loss of statistics .",
+    "recent attempts to overcome this problem have employed nonlocal @xmath5 operators ( in a fixed gauge@xcite ) smeared over a cube@xcite or wall source@xcite . by measuring the asymptotic behavior of both the smeared - smeared ( @xmath6 ) and smeared - local ( @xmath7 ) propagators",
+    ", one can reduce the systematic error associated with excited state contributions .",
+    "however , it is likely that such smearing functions are too crude to obtain accurate values of the parameters of the low - lying heavy - light states.@xcite this is illustrated in table  1 .",
+    ".the overlap amplitudes between various cube smearing functions and the approximate wavefunctions for the ground state @xmath8 and first three excited states ( @xmath9 , @xmath10 , and @xmath11 ) for @xmath12 and @xmath13 on a @xmath14 lattice . [ cols=\"^,^,^,^,^ \" , ]     the typical variation between results at @xmath15 and @xmath14 are 10% or more , while the variation between @xmath14 and @xmath16 have dropped to a few percent .",
+    "the validity of these model results is presently being checked by a complete analysis of heavy - light mesons on the @xmath17 and @xmath18 lattices .",
+    "by using good approximate wave functions in a multistate smearing calculation , it is possible to control the systematic errors associated with extracting the decay constant from nonasymptotic time .",
+    "our results are very encouraging , not only for the present calculations , but for the determination of other b - meson decay parameters and form factors .",
+    "all such calculations require the external meson to be in a pure eigenstate ( i.e. on shell ) . by using the optimized smearing functions discussed here",
+    ", this requirement can be met with a minimum separation between the b - meson source and the electroweak vertex , greatly improving the precision of the results .",
+    "we find that at @xmath12 and @xmath19 @xmath20 the efficacy of our smearing method is even greater at @xmath21 as can be seen by comparing figs .  1 and  2 with figs .  3 and  4 with the same physical volume .",
+    "in addition to ground state properties , this method allows extraction of the properties of the lowest radially and orbitally excited states .",
+    "our results for these quantities are preliminary , and we expect more precise estimates to be obtained by further analysis .    further numerical studies are required to check the finite volume effects , determine the effect of using an improved action for the light quarks , and include additional light quark mass values at @xmath22 which will allow a better determination of the scaling behaviour of these properties of low - lying heavy - light states .",
+    "we thank george hockney , andreas kronfeld , and paul mackenzie for joint lattice efforts without which this analysis would not have been possible .",
+    "jmf thanks the nuffield foundation for support under the scheme of awards for newly appointed science lecturers .",
+    "the numerical calculations were performed on the fermilab acpmaps computer system developed by the cr&d department in collaboration with the theory group .",
+    "this work is supported in part by the department of energy under contract nos .  de  at0388er 40383 mod a006task c and de - as05 - 89er40518 , and the national science foundation under grant",
+    "phy-90 - 24764 ."
+  ],
+  "abstract_text": [
+    "<S> we present preliminary results for @xmath0 and masses of low - lying heavy - light mesons in the static limit . </S>",
+    "<S> calculations were performed in the quenched approximation using multistate smearing functions generated from a hamiltonian for a spinless relativistic quark . </S>",
+    "<S> the @xmath1@xmath2 and @xmath3@xmath2 mass splittings are measured . </S>",
+    "<S> using the @xmath3@xmath2 charmonium splitting to set the overall scale , the ground state decay constant  @xmath0 , is @xmath4(stat ) mev .    </S>"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "top quark pair production at the tevatron and the lhc are processes that will establish fundamental properties of the top quark , including the mass and the cross section . the top quark is now actively studied in run ii at the tevatron @xcite .",
+    "top quark production at the tevatron receives large corrections from soft gluons in the near threshold region @xcite .",
+    "the best estimates of the cross section include these corrections beyond next - to - leading order .",
+    "the calculation has been performed in both single - particle - inclusive ( 1pi ) and pair - invariant - mass ( pim ) kinematics @xcite . in 1pi kinematics ,",
+    "@xmath2(p_2)$ ] with @xmath3 or @xmath4 .",
+    "we define @xmath5 , @xmath6 , @xmath7 and @xmath8 . at threshold , @xmath9 and the soft corrections",
+    "take the form @xmath10_+$ ] . in pim kinematics , @xmath11 . at threshold , @xmath12 and",
+    "the soft corrections are @xmath13_+$ ] .",
+    "we denote the soft - gluon corrections by @xmath14_+$ ] where @xmath15 is defined as @xmath16 or @xmath17 , depending on the kinematics . for the order @xmath18 corrections , @xmath19 . at nlo",
+    ", we have @xmath20 and @xmath21 terms . at nnlo",
+    ", we have leading @xmath22 , next - to - leading @xmath23 , next - to - next - to - leading @xmath20 , and next - to - next - to - next - to - leading logarithms ( nnnll ) @xmath21 . at present , all nnlo soft logarithms can be fully calculated except for some nnnll two - loop @xcite process - dependent terms which are expected to be numerically small .",
+    "we can formally resum the soft logarithms to all orders in @xmath24 , but a resummed result is prescription dependent .",
+    "if we expand to fixed order , however , we can derive prescription - independent results . a unified approach and a master formula for calculating these logarithms to nnlo in the fixed - order expansion for any process",
+    "was presented in ref .",
+    "it was applied to top pair production in ref .",
+    "@xcite where logarithms through nnnll at nnlo were calculated along with some virtual terms .",
+    "we call this a nnlo - nnnll+@xmath25 calculation",
+    ". similar studies of related heavy quark and electroweak processes , including bottom and charm production @xcite , fcnc top quark production @xcite , charged higgs production with a top quark @xcite , and electroweak - boson production @xcite , have also recently been completed .",
+    "we now present our results for @xmath26 production at the tevatron . in fig .",
+    "1 we plot the pair cross section as a function of top mass at 1.8 tev ( left ) and 1.96 tev ( right ) . for @xmath27 gev , we find @xcite @xmath28 tev@xmath29 pb and @xmath30 tev@xmath31 pb .",
+    "the uncertainty is the kinematics ambiguity .    the scale dependence at the tevatron run ii energy is shown on the left - hand side of fig .",
+    "it is clear that the nnlo result is much more stable than the nlo .",
+    "the top quark tranverse momentum , @xmath32 , distribution at @xmath33 tev , calculated in 1pi kinematics , is shown on the right - hand side of fig .",
+    "e. shabalina , eur .",
+    "j. * c33 * , s472 ( 2004 ) ; p. azzi , int .",
+    "phys . * a19 * , 785 ( 2004 ) ; d. gerdes , fermilab - conf-04 - 011-e ; j. nielsen , fermilab - conf-04 - 068-e ; j. thom , fermilab - conf-04 - 089-e ; cdf coll . , hep - ex/0404036 ; j. ellison , hep - ex/0405077 ; i. iashvili , hep - ex/0407056 ; a. hocker , hep - ex/0408151 ; p. movilla fernandez , hep - ex/0409001 ; l. sonnenschein , hep - ex/0410036 .",
+    "n. kidonakis , _ phys .",
+    "* d64 * , 014009 ( 2001 ) ; _ int .",
+    "_ * a16 * suppl . 1a , 363 ( 2001 ) ; n. kidonakis , e. laenen , s. moch , and r. vogt , _ phys .",
+    "_ * d64 * , 114001 ( 2001 ) ; _ phys .",
+    "rev . _ * d67 * , 074037 ( 2003 ) ; _ nucl .",
+    "phys . _ * a715 * , 549c ( 2003 ) ."
+  ],
+  "abstract_text": [
+    "<S> we discuss the most recent calculations of the top quark total cross section and transverse momentum distributions at the tevatron and the lhc . </S>",
+    "<S> these calculations include the soft - gluon corrections at next - to - next - to - leading order ( nnlo ) . </S>",
+    "<S> the soft nnlo corrections stabilize the scale dependence of the cross section .    </S>",
+    "<S> * theoretical status of the top quark cross section *    nikolaos kidonakis@xmath0 and ramona vogt@xmath1 + </S>"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "in order to make realistic predictions for @xmath10 at the linear collider ( lc ) , one needs to understand the role played by qcd in the energy dependence of total cross - sections .",
+    "this will allow to reduce the large errors coming from the present large uncertainties in the @xmath11 and which affect present predictions at the lc .",
+    "it must be noticed that presently all total cross - sections exhibit the same general features , namely an initial decrease followed by a more or less gentle rise@xcite , as shown in fig.([fig : allfig1 ] ) .",
+    "we however lack a complete theoretical model and while we might be able to do a good parametrization of the proton - proton data , we do not know how to gauge the inherent theoretical uncertainties .",
+    "this results in further uncertainties in the photoproduction cross - section and in an even larger uncertainty in predictions at lc .",
+    "thus we should study in detail the cross - talk between future measurements of total proton - proton cross - section at the lhc and a similar hera measurement , to develop and fully understand what to expect at lc in terms of the hadronic background .",
+    "the curve shown in fig.([fig : allfig1 ] ) is obtained by embedding the qcd mini - jet cross - section in an eikonal formulation @xcite @xmath12 \\label{stot}\\ ] ] where we put @xmath13 , and @xmath14 in this eikonal minijet model ( emm ) , the rise is driven by the jet cross - section , which is calculated using current parton densities down to a minimum jet transverse momentum , @xmath15 .",
+    "the impact parameter distribution is the ( normalized to unity ) fourier transform of the initial transverse momentum of the colliding partons , in leading order the valence quarks , obtained through the bloch nordsieck soft gluon summation@xcite .",
+    "this model can also be applied to the photo - production and @xmath16 data .",
+    "the results , for a set of @xmath17 values , are shown in fig .",
+    "( [ fig : gggpfig2 ] ) , with cjkl @xcite parton densities .",
+    "the emm model with soft gluons has the virtue of reproducing the gentle rise with energy which characterizes the proton - proton data and is also compatible with the photon data .",
+    "this is not true for other models , as we show in fig.([fig : gggpfig3 ] ) , where a fit @xcite of the @xmath18 data with a regge - pomeron type parametrization , indicates a harder rise with energy than what is present in the proton - proton data .",
+    "we also show the photoproduction data and compare it with the ( i ) emm model without soft gluons @xcite and with the ( ii ) aspen model  @xcite .",
+    "present tevatron data for total cross - section lead to uncertainties when extrapolated to the lhc energies .",
+    "such uncertainties are also found in predictions for lc hadronic cross - sections which suffer from uncertainties in the @xmath19 cross - sections .",
+    "we have emphasized that to obtain realistic estimates for the hadronic background at lc , we need combined model predictions for lhc as well as the hera data . an example has been provided through our soft gluon formula for the purely hadronic as well as the @xmath19 data .",
+    "this work was supported in part by eu contract hprn - ct2002 - 00311 .",
+    "rg wishes to acknowledge the partial support of the department of science and technology , india , under project number sp / s2/k-01/2000-ii .",
+    "ag acknowledges support from mcyt under project number fpa2003 - 09298-c02 - 01 .",
+    "99 +   +   +   +   +"
+  ],
+  "abstract_text": [
+    "<S> we discuss the need to compare total cross - section measurements at lhc and hera with each other and with available models in order to obtain a more precise prediction of the total hadronic cross - section at the future linear collider , thus leading to a better estimate of the hadronic background .    </S>",
+    "<S> # 1#2#3#4#1 * # 2 * , # 3 ( # 4 )    hep - ph/0412189 +    * total cross - sections : + cross - talk between hera , lhc and lc * +    g. pancheri@xmath0 , a. de roeck@xmath1 r.m . </S>",
+    "<S> godbole@xmath2 a. grau@xmath3 and y. n. srivastava @xmath4 + @xmath5infn , frascati national laboratories , i00044 , frascati , italy + @xmath6cern , ep - division , geneva , switzerland . </S>",
+    "<S> + @xmath7centre for high energy physics , indian institute of science , bangalore , 560012 , india . </S>",
+    "<S> + @xmath8departamento de fsica terica y del cosmos , universidad de granada , spain . </S>",
+    "<S> + @xmath9dipartimento di fisica & infn , university of perugia , perugia , italy . </S>"
+  ]
+}

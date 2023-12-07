@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "if r - parity conserving supersymmetry exists below the tev - scale , new particles will be produced and decay in cascades at the lhc .",
+    "the lightest supersymmetric particle will escape the detectors , thereby complicating the full reconstruction of the decay chains .",
+    "however , the masses of the particles in a cascade like @xmath0 can be determined from endpoints of kinematical distributions @xcite . here , @xmath1 denotes a ( left - handed ) squark , @xmath2 a ( right - handed ) slepton , whereas @xmath3 and @xmath4 denote the lightest neutralinos , the latter being stable .",
+    "the observed leptons and quark ( jet ) are denoted @xmath5 , @xmath6 and @xmath7 , where the subscripts `` n '' and `` f '' denote `` near '' and `` far '' .",
+    "attention is focused on the msugra benchmark point sps  1a ( line ) @xcite @xmath8 and in particular two points on the line , sps  1a  ( @xmath9 ) with @xmath10 and @xmath11 , and sps  1a  ( @xmath12 ) with @xmath13 and @xmath14 .",
+    "the resulting low - energy masses entering in the cascade ( [ eq : cascade ] ) are given in table  [ sps1a - masses ] @xcite .",
+    "a second effect , not discussed above , is very clear by comparison of the errors on the masses obtained with and without the lc measurement : fixing the lsp mass strongly reduces the errors on all the masses .",
+    "this comes from the fact that the endpoint method determines mass _ differences _ much better than the actual masses themselves , a feature due to the way masses enter the endpoint expressions ; in terms of differences of masses ( squared ) .",
+    "actually , the errors on the masses obtained when the lhc and the lc are combined , tables  [ table : lhc+lc alpha][table : lhc+lc beta ] , are very close to the errors on the mass differences as obtained by the lhc alone .",
+    "the removal of ambiguities , and the higher precision are crucial for an extrapolation to the gut scale @xcite , a major goal of studying the spectroscopy of supersymmetric particles at future accelerators .",
+    "9 h.  baer , c.  h.  chen , f.  paige and x.  tata , phys .",
+    "d * 53 * ( 1996 ) 6241 [ arxiv : hep - ph/9512383 ] ; i.  hinchliffe , f.  e.  paige , m.  d.  shapiro , j.  soderqvist and w.  yao , phys .",
+    "d * 55 * ( 1997 ) 5520 [ arxiv : hep - ph/9610544 ] ; i.  hinchliffe , f.  e.  paige , e.  nagy , m.  d.  shapiro , j.  soderqvist and w.  yao , lbnl-40954 ; h.  bachacou , i.  hinchliffe and f.  e.  paige , phys .",
+    "d * 62 * ( 2000 ) 015009 [ arxiv : hep - ph/9907518 ] ; g. polesello , _ precision susy measurements with atlas for sugra point 5 _ , atlas internal note , phys - no-111 , october 1997 .",
+    "b.  c.  allanach , c.  g.  lester , m.  a.  parker and b.  r.  webber , jhep * 0009 * ( 2000 ) 004 [ arxiv : hep - ph/0007009 ] .",
+    "b.  k.  gjelsten , d.  j.  miller and p.  osland , jhep * 0412 * ( 2004 ) 003 [ arxiv : hep - ph/0410303 ] .",
+    "b.  c.  allanach _ et al .",
+    "_ , in _ proc .",
+    "of the aps / dpf / dpb summer study on the future of particle physics ( snowmass 2001 ) _ ed .",
+    "n.  graf , eur .",
+    "j.  c * 25 * ( 2002 ) 113 [ econf * c010630 * ( 2001 ) p125 ] [ arxiv : hep - ph/0202233 ] . b.  k.  gjelsten , d.  j.  miller and p.  osland , jhep * 0506 * ( 2005 ) 015 [ arxiv : hep - ph/0501033 ] .",
+    "j.  a.  aguilar - saavedra _ et al . _",
+    "[ ecfa / desy lc physics working group ] , arxiv : hep - ph/0106315 . b.  c.  allanach , g.  a.  blair , s.  kraml , h.  u.  martyn , g.  polesello , w.  porod and p.  m.  zerwas , arxiv : hep - ph/0403133 ."
+  ],
+  "abstract_text": [
+    "<S> the measurements of kinematical endpoints , in cascade decays of supersymmetric particles , in principle allow for a determination of the masses of the unstable particles . however , in this procedure ambiguities often arise . </S>",
+    "<S> we here illustrate how such ambiguities arise . </S>",
+    "<S> they can be resolved by a precise determination of the lsp mass , provided by the linear collider . </S>"
+  ]
+}

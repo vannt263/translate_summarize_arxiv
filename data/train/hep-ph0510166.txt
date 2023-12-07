@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "in the neutrino sector , we still do not know the value of @xmath0 , the sign of @xmath1 , which is positive ( negative ) if the mass hierarchy is normal ( inverted ) , and the value of the cp violating phase @xmath2 .",
+    "it is well known that the determination of these parameters by accelerator - based neutrino oscillation experiments suffer from the ambiguities coming from so called the parameter degeneracy  @xcite . in this work ,",
+    "we discuss possible way of determining the type of the neutrino mass hierarchy as well as the cp violating phase simultaneously by resolving the degeneracy using two identical detectors with different baselines .",
+    "we start from the original proposal of phase ii of the j - parc neutrino project  @xcite in which an off axis neutrino beam with 4 mw beam power and a megaton ( mton ) water cherenkov detector , hyper - kamiokande ( hk ) , whose fiducial volume is 0.54 mton will be used to measure appearance events in @xmath3 and @xmath4 channels .",
+    "we then propose a `` minor '' modification ; instead of placing a 1 mton hk at kamioka with the baseline @xmath5 km , we propose to divide the detector into two identical half mton detectors with fiducial volume 0.27 mton , and place one of them in kamioka and the other somewhere in korea with the baseline @xmath6 km .",
+    "assuming the same performance for the two identical detectors , most of the systematic errors cancel between the detectors .",
+    "furthermore , we expect that the neutrino energy spectra are the same at the two sites without oscillation because of the same off axis angle of 2.5@xmath7 both at kamioka and korean detectors with peak energy of 650 mev .",
+    "it is possible under the current design of the j - parac neutrino beam line .",
+    "the overall normalization simply scales as @xmath8 .",
+    "such an experimental set up implies that one can perform clean detection of the distortion of neutrino energy spectrum caused purely by the oscillation effect , if the difference in background due to different conditions at the two sites is tolerable .",
+    "namely , any differences of the @xmath9 energy spectra among the front and the two half mton detectors are due to vacuum oscillation which is sensitive to @xmath2 at such low energy , and to the matter effect which is crucial to determine the hierarchy , the sign of @xmath1 .",
+    "in order to quantify the determination power of the mass hierarchy as well as the cp violating phase , we performed a detailed @xmath10 analysis .",
+    "we present in fig.[fig : sensitivity_mass ] the parameter region in the @xmath11 plane in which the mass hierarchy can be determined at 2@xmath12 and 3@xmath12 cl .",
+    "one can establish the type of the mass hierarchy in any region above these curves .",
+    "in fact , we have also examined the cases of various volume ratios of the two detectors keeping the total volume equals to 0.54 mton , as reported in fig.[fig : sensitivity_mass ] .",
+    "-0.5 cm   = [ 1:0 ] ( dashed lines , blue ) , [ 1:1 ] ( solid lines , black ) , [ 3:7 ] ( dash - dot lines , yellow ) , [ 1:9 ] ( dash - dot - dot lines , green ) , and [ 0:1 ] ( dotted lines , red ) , keeping the total volume equals to 0.54 mton .",
+    "4 years running with neutrino beam and another 4 years with anti - neutrino beam are assumed .",
+    "the other mixing parameters are fixed to the current best fit values as described in @xcite .",
+    ", title=\"fig:\",scaledwidth=44.0% ] -1.0 cm    -0.5 cm [ fig : sensitivity_mass ]    in fig.[fig : sensitivity_cp ] we show the similar curves but for the cp violation",
+    ". we can establish the cp violation ( if @xmath2 is different from 0 or @xmath13 ) in any region above these curves . from figs.[fig : sensitivity_mass ] and [ fig : sensitivity_cp ] we conclude that the option of the two detectors with fiducial volume of 0.27 mton each at kamioka and korea seem to be close to the optimal .",
+    "-0.5 cm   but for the cp violation ( see the text ) .",
+    ", title=\"fig:\",scaledwidth=44.0% ] -1.0 cm    -0.9 cm [ fig : sensitivity_cp ]",
+    "we have demonstrated that the two - detector complex can determine neutrino mass hierarchy down to @xmath14 ( 0.055 ) for any value of @xmath2 at 2@xmath12 ( 3@xmath12 ) cl , as indicated in fig.[fig : sensitivity_mass ] .",
+    "it should be noted that the sensitivity to the cp violation of the current design of j - parc phase ii project is essentially kept or even enhanced at @xmath15 .",
+    "see ref .",
+    "@xcite for more details of this work .",
+    "m.  ishitsuka , t.  kajita , h.  minakata and h.  nunokawa , phys .",
+    "d * 72 * , 033003 ( 2005 ) [ arxiv : hep - ph/0504026 ] .",
+    "see t.  schwetz , n.  okamura , s.  palomares - ruiz , t.  ota , a.  donini , and d.  meloni , in these proceedings ."
+  ],
+  "abstract_text": [
+    "<S> we discuss how and to what extent one can determine the neutrino mass hierarchy , normal or inverted , and at the same time uncover cp violation in the lepton sector by using two identical detectors with different baselines in neutrino oscillation experiments using low energy superbeam from the j - parc facility . </S>"
+  ]
+}
