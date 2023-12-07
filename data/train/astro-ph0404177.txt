@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "our model , which will be described in detail elsewhere ( @xcite ) , combines the output of the stellar spectral synthesis code starburst 99 as input to the nebular modelling code mappings iiiq , including a 1-d dynamical evolution model of hii regions around massive clusters of young stars .",
+    "this model includes all relevant dust and gas physics to provide the nebular line , continuum and dust re - emission spectrum .",
+    "this allows us produce purely theoretical synthetic spectral energy distributions ( seds ) in the @xmath0 m wavelength range .",
+    "we have applied this code to make models of solar metallicity starbursts lasting some @xmath1  years .",
+    "we find that the expansion of the hii region  stalls \" when the internal pressure matches the pressure of the ambient ism , c.f .",
+    "@xcite . dust in high pressure environments is closer to the exciting stars , and hotter , so that the far - ir sed peaks at shorter wavelengths .",
+    "in addition , the covering factor of the molecular clouds with respect to the central stars largely determines the strength of the pah emission features in the @xmath2 m band , since the pahs are destroyed in the diffuse and ionized phases .",
+    "molecular clouds around hii regions are destroyed and dispersed over time . as a result , the starburst sed shape is largely controlled by this molecular cloud dissipation timescale which determines the visibility of the central cluster at uv wavelengths and the strength of the pah emission bands in the ir . by contrast , the ambient ism pressure determines the sed mainly by controlling the dust temperature , which affects the peak of the fir dust re - emission feature .",
+    "our models use a solar abundance set ( as modified by the latest abundance determinations of @xcite , and references therein ) depletion factors given by @xcite . to reproduce the pah emission features , we require that @xmath3% of the c is locked up in pahs . as a consequence , when pahs are destroyed by photodisscociation , the 2200  absorption feature becomes very weak , and the resulting theoretical attenuation curve looks almost identical to the @xcite curve determined empirically for starbursts .    here",
+    ", we have also added an agn contribution , assumed to be synchrotron self - compton emission from a trapped jet , becoming synchrotron self - absorbed in the @xmath4 m wavelength band . for a  pure \" agn ,",
+    "this model reproduces the @xcite mean seyfert i colors , derived from the @xcite iras dataset .",
+    "figure 1 shows iras color : color diagrams for various agn contributions , expressed as a percentage of the bolometric flux of the starburst ."
+  ],
+  "abstract_text": [
+    "<S> we present results of a self - consistent model of the spectral energy distribution ( sed ) of starburst galaxies . </S>",
+    "<S> two parameters control the ir sed , the mean pressure in the ism and the destruction timescale of molecular clouds . adding a simplified agn spectrum </S>",
+    "<S> provides mixing lines on iras color : color diagrams . </S>",
+    "<S> this reproduces the observed colors of both agns and starbursts . </S>"
+  ]
+}

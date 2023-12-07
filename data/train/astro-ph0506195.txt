@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "the ly-@xmath6 forest absorbers detected at @xmath9 in high resolution qso spectra outnumber any other population of objects observable from the ground at those redshifts .",
+    "they originate , as shown by hydro - simulations ( e.g. ( * ? ? ?",
+    "* cen  1994 ) ) , in density fluctuations of the intergalactic medium ( igm ) , i.e. in the web of filamentary structures connecting the densest peaks , and are reliable tracers of the baryon density field as well as of the underlying dark matter distribution .    from the study of absorption spectra along single lines of sight ( loss )",
+    "to distant qsos it has been possible to determine the shape and amplitude of the power spectrum of the spatial distribution of dark matter ( e.g. , ( * ? ? ?",
+    "* kim  2004 ) , viel , this conference ) or gain important information on the baryon density of the universe ( ( * ? ? ?",
+    "* rauch 1997 ) ) and on the physical state of the igm ( ( * ? ? ?",
+    "* schaye  2000 ) ) .",
+    "our present analysis introduces the use of adjacent loss to probe the actual 3-d distribution of matter in the universe and provide estimates of the size / correlation of the absorbing structures .",
+    "hydrodynamical ( ( * ? ? ?",
+    "* charlton  1997 ) ) and analytical ( ( * ? ? ?",
+    "* viel  2002 ) ) simulations have shown the advantages in using multiple loss with respect to single ones , in particular , to decrease the effects of inaccuracies in the continuum fitting .",
+    "two major breakthroughs have dramatically improved the exploitation of the potential offered by qso multiple loss : the 2df qso redshift survey ( 2qz , ( * ? ? ?",
+    "* croom  2004 ) ) , whose complete spectroscopic catalog contains more than @xmath10 qsos , approximately 50 times more than the previous largest qso survey to a similar depth ( @xmath11 ) and the uves spectrograph at the eso vlt telescope which has a remarkable efficiency especially in the extreme uv .",
+    "we have searched the 2df and other qso databases for the best groups with apparent magnitude @xmath12 and @xmath13 and carried on a great observational effort to collect uves spectra of the selected qsos . at the moment , we have observed one qso pair , one triplet and one sextet of qsos with a resolution @xmath1 and signal - to - noise ratio in the lyman-@xmath6 forest larger than 3 . with the addition of two more uves",
+    "qso pairs from our archive , we total 20 different baselines with proper spatial separations between @xmath2 and 7 mpc , a unique sample both for the number density and the variety of los separations investigated .",
+    "we select in each normalized spectrum the region between the lyman-@xmath14 emission ( or the minimum observed wavelength , when the lyman-@xmath14 falls outside the spectrum ) and 5000 km s@xmath15 from the lyman-@xmath6 emission ( to avoid proximity effect ) and compute the cross - correlation function of the transmitted flux between adjacent loss .",
+    "the following generalization of the formula for the density field ( e.g. ( * ? ? ?",
+    "* peebles 1980 ) ) has been adopted :      where @xmath17 and @xmath18 are the transmitted fluxes in two adjacent loss and @xmath19 is the proper spatial separation between two pixels in different loss .",
+    "the cross - correlation function is estimated over all the considered pixels of all the qso pairs in the sample . to check for the effects of systematics",
+    "we also computed the same cross - correlation function on a control sample , obtained substituting in turn one of the qso spectra in each baseline with an uncorrelated one , roughly at the same redshift , but far away on the sky , picked up in our database of high - resolution , high - s / n qso spectra . the result is shown in fig .  [ fig : spcf ] .",
+    "a correlation signal is present up to proper separations of @xmath7 mpc indicating a large coherence length of the absorbers .",
+    "this length is consistent with the size of lyman-@xmath6 absorbers we found in ( * ? ? ?",
+    "* dodorico  ( 1998 ) ) with the line analysis of coincidences and anti - coincidences .    in order to verify the relative contribution of the stronger and weaker absorption lines to the clustering signal we have selected the pixels with @xmath20 corresponding to @xmath21 and recomputed @xmath22 .",
+    "although significantly decreased ( of a factor @xmath23 ) a clustering signal is still clearly present . this is an indication that also far from the most over - dense regions , in the true igm , matter is still clustered ."
+  ],
+  "abstract_text": [
+    "<S> we investigate the 3-d matter distribution at @xmath0 with high resolution ( @xmath1 ) spectra of qso pairs and groups obtained with the uves spectrograph at eso vlt . </S>",
+    "<S> our sample is unique for the number density of objects and the variety of separations , between @xmath2 and 7 proper mpccdm cosmology with @xmath3 , @xmath4 and @xmath5 . </S>",
+    "<S> we compute the real space cross - correlation function of the lyman-@xmath6 forest transmitted fluxes . </S>",
+    "<S> there is a significant clustering signal up to @xmath7 proper mpc , which is still present when absorption lines with high column density ( @xmath8 ) are excluded . </S>"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "following the approach presented in @xcite , we solve the steady - state transport equation for the cosmic ray distribution function @xmath0 at a plane shock wave : @xmath1 -   u   \\frac{\\partial f ( x , p)}{\\partial x } +   \\frac{1}{3 } \\frac{d u}{d x}~p~\\frac{\\partial f(x , p)}{\\partial p } + q_0(p ) \\delta(x ) = 0 \\label{eq : trans}\\ ] ] coupled with the continuity and euler equations describing the dynamics of the flow : @xmath2 all the symbols have their usual meanings , and the subscript 0 refers to quantities measured upstream infinity . @xmath3 and @xmath4 represent the contributions to the total pressure of thermal gas and cosmic rays .",
+    "we introduce the quantity @xmath5 defined as : @xmath6 whose physical meaning is instrumental to understand the nonlinear reaction of particles .",
+    "the function @xmath5 is the average fluid velocity experienced by particles with momentum @xmath7 while diffusing upstream away from the shock surface . in other words ,",
+    "the effect of the average is that , instead of a constant speed @xmath8 upstream , a particle with momentum @xmath7 experiences a spatially variable speed , due to the pressure of the accelerated particles . since the diffusion coefficient is in general @xmath7-dependent , particles with different energies _ feel _ a different compression coefficient , higher at higher energies if , as expected , the diffusion coefficient is an increasing function of momentum .",
+    "it can be shown that equations [ eq : trans ] and [ eq : fluid ] can be reduced to an integral - differential equation for the quantity @xmath9 , that when solved with the boundary condition @xmath10 provides us with the functions @xmath5 and @xmath11 describing the flow profile and the particle distribution function at the shock @xcite .",
+    "[ fig : sol ]   as a function of the total compression factor , title=\"fig : \" ]   as a function of the total compression factor , title=\"fig : \" ]    in the problem described above there are several independent parameters . while the mach number of the shock and the maximum momentum of the particles are fixed by the physical conditions in the environment , the injection momentum @xmath12 and the acceleration efficiency @xmath13 are free parameters .",
+    "the procedure to be followed to determine the solution was defined in @xcite . in fig .",
+    "2 we plot @xmath14 as a function of the total compression factor of the shock @xmath15 , for @xmath16 , @xmath17 and @xmath18 in the left panel and @xmath19 in the right panel ( @xmath20 here is the mass of protons ) .",
+    "the parameter @xmath13 is @xmath21 in the left panel and @xmath22 in the right panel .",
+    "the different curves refer to different choices of the mach number at upstream infinity .",
+    "the physical solutions are those corresponding to the intersection points with the horizontal line @xmath10 , so that multiple solutions occur for those values of the parameters for which there is more than one intersection with @xmath10 .",
+    "these solutions are all physically acceptable , as far as the conservation of mass , momentum and energy are concerned .",
+    "fig.[fig : sol ] shows that multiple solutions are a very common phenomena , since they are found if very different values of the parameters are adopted . in the next section",
+    "we show how the situation changes if a better description of injection is implemented in the model .",
+    "the injection of particles into the cosmic ray population at a shock can be understood only considering the complex non - linear interactions between suprathermal particles , mhd waves and background thermal plasma . due to its intrinsic complexity , the injection process is often parametrized by means of an injection momentum @xmath12 , representing the minimum momentum of the particles that can be accelerated , and an efficiency @xmath23 , which fixes the fraction of the thermal particles that are injected in the accelerator .",
+    "another possibility is to adopt the _",
+    "thermal leakage _ model to describe the injection @xcite . in this model ,",
+    "the post shock gas is assumed to be thermalized at a temperature @xmath24 .",
+    "protons in the tail of the maxwellian distribution can recross the shock and go back upstream if their velocity is high enough to allow them to avoid trapping by waves .",
+    "those protons are injected in the accelerator .",
+    "usually , in this model , the injection momentum is set to a few times the thermal momentum : @xmath25 with @xmath26 tuned in order to fit numerical @xcite studies of diffusive shock acceleration .",
+    "it is important to stress that the parameter @xmath26 fixes both the values of injection momentum and efficiency , which are no longer free parameters but are now connected in a physically motivated way .",
+    "it is easy to implement such a recipe in the calculations @xcite .",
+    "the appearance of multiple solutions can be investigated in the whole parameter space , in order to define the regions where the phenomenon appears , when it does . in fig .",
+    "8 we highlight the regions where there are multiple solutions ( dark regions ) in a plane @xmath27 , for different values of the mach number of the shock .",
+    "the multiple solutions disappear in most of the parameter space , and when they appear they look as narrow strips in the parameter space , at the boundary between regions describing unmodified and modified shocks respectively @xcite .",
+    "this result may suggest that the narrow regions indicate the transition between two stable solutions , although this needs further confirmation through detailed analyses of the stability of the solutions ."
+  ],
+  "abstract_text": [
+    "<S> the dynamical reaction of the particles accelerated at a shock front by the first order fermi process can be determined within kinetic models that account for both the hydrodynamics of the shocked fluid and the transport of the accelerated particles . </S>",
+    "<S> these models predict the appearance of multiple solutions , all physically allowed . </S>",
+    "<S> we discuss here the role of injection in selecting the _ real _ solution , in the framework of a simple phenomenological recipe , which is a variation of what is sometimes referred to as _ thermal leakage_. in this context we show that multiple solutions basically disappear and when they are present they are limited to rather peculiar values of the parameters .     address = max  plank  institut fr kernphysik , saupfercheckweg 1 , 69117 heidelberg , germany     address = inaf / osservatorio astrofisico di arcetri , largo e. fermi 5 , 50125 firenze , italy     address = max  plank  institut fr kernphysik , saupfercheckweg 1 , 69117 heidelberg , germany    diffusive shock acceleration is thought to be responsible for acceleration of cosmic rays in several astrophysical environments . despite the success of this theory , </S>",
+    "<S> some issues are still subjects of much debate , for the theoretical and phenomenological implications that they may have . </S>",
+    "<S> one of the most important of these is the reaction of the accelerated particles on the shock : the violation of the _ test particle approximation _ occurs when the acceleration process becomes sufficiently efficient that the pressure of the accelerated particles is comparable with the incoming gas kinetic pressure . </S>",
+    "<S> both the spectrum of the particles and the structure of the shock are changed by this phenomenon , which is therefore intrinsically nonlinear ( ellison , these proceedings ) . </S>",
+    "<S> nonlinear effects in shock acceleration of thermal particles result in the appearance of multiple solutions in certain regions of the parameter space . </S>",
+    "<S> this phenomenon is very general and was found in both the two - fluid @xcite and kinetic models @xcite . </S>",
+    "<S> here we investigate the phenomenon of multiple solutions and show that the appearance of these solutions is dramatically reduced if a self consistent model for injection is adopted . </S>"
+  ]
+}

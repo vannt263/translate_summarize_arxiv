@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the variability of the central object in the planetary nebula sh  2 - 71 was discovered by kohoutek @xcite .",
+    "jurcsik @xcite revealed a 68.064-day period in the nearly parallel _ _ ubv__@xmath0 light variations of the central star .",
+    "mikulek et al .",
+    "@xcite enlarged photometric data by their _ _ v__@xmath0 observations from 19992002 and using all _ v _ data improved the period to 68.132 days .",
+    "they noticed differences between lcs of various colours and a scatter in the ( o - c)-diagram .",
+    "this study presents first results of pca analysis of light behaviour of the object based on all available photometric data obtained during the time interval of 29 years .",
+    "we have processed a large set of 4268 observations from three sources :    [ cols=\"<,>,>,>,>,>,>,>\",options=\"header \" , ]     \\1 . partly unpublished _",
+    "observations made by kohoutek at wise observatory at mitzpe ramon , israel , in 197779 , at eso at la silla , chile and at the hamburg - bergedorf observatory , germany , in 1979 .",
+    "unpublished _ _ ubv__@xmath0 observations made by jurcsik @xcite at konkoly observatory in 199093 .",
+    "unpublished _ _ v__@xmath0 ccd photometry made by m. zejda , p. hjek , o. pejcha , j. af , p. sobotka , d. motl and others at brno ( 19992005 ) and vykov ( 20012005 ) observatories .",
+    "analysis of photometric data confirmed the basic 68-day periodic variation of the object in all passbands .",
+    "application of own robust ( mikulek et al . 2003 ) pca code perish to all 4268 individual photometric observations allowed us to derive the linear ephemeris for timings of the light maxima as    @xmath2    the profile of the _ u_-lc differs from those observed in other passbands .",
+    "photometric monitoring of sh  2 - 71 during the last 15 years ( 19902005 ) revealed long - term variations in its light .",
+    "residuals resulting from the linear ephemeris ( 1 ) suggest a non - periodic shifts of lc as whole ( fig .",
+    "further we selected the _",
+    "v_-lc during three periods ( 199093 , 19992002 , 200405 ) well covered by observations ( fig .",
+    "1b ) . during the 199902 period",
+    "the minimum became flat from the phase 0.3 to 0.75 .",
+    "in addition , a different average _ v_-magnitudes were measured during 1990 - 93 , 1999 - 2002 and 2004 - 05 .",
+    "it was 13.48 , 13.59 and 13.50 , respectively .",
+    "according to the binary model of the core of sh 2 - 71 ( cuesta & phillips , 1993 ) we interpret the periodic variation in the lc as due to the orbital motion of the binary components .",
+    "the variability could be caused by different projection of an optically thick inner nebula due to the orbital motion .",
+    "the long - term changes may be attributed to a variable mass transfer between the components .",
+    "our two low - resolution spectra of the central object of sh  2 - 71 carried out at the loiano observatory with the bfosc spectrograph on 20/07/04 ( phase 0.12 ) and 07/09/04 ( phase 0.84 ) support this interpretation .",
+    "they indicate strong change in the ionization conditions at these phases ( fig .  2 ) .",
+    "the ratio @xmath3 suggests a superdense inner [ o iii ] nebula likewise in symbiotic binaries @xcite .",
+    "we refined the average linear ephemeris of the periodic variation in all _ _ ubv__@xmath0 lcs . revealed long - term variations manifest themselves in found changes of ( i )  timing the light maxima as suggested by the o - c residuals , ( ii )  the profile of the _ v_-lc , which occasionally becomes flat for a large phase interval , and ( iii )  the variable average brightness of the nucleus .",
+    "cuesta , l. & phillips , j. p. 1993",
+    ", , 270 , 379 jurcsik , j. 1993 in _ planetary nebulae : proceedings of the 155 symposium of the iau , innsbruck , austria ; 1992 _ , kluwer academic publishers ; dordrecht , 399 jurcsik , j. 2003 , _ priv .",
+    "_ kohoutek , l. 1979 , ibvs , 1672 mikulek , z. , iovsk , j. , zverko , j. , polosukhina , n.s .",
+    "2003 , contr .",
+    "skalnat pleso , 33 , 29 mikulek , z. , kohoutek , l. , zejda , m. , pejcha , o. 2005 , , 299 , 465 skopal , a. , teodorani , m. , errico , l. , et al .",
+    "2001 , a&a , 367 , 199"
+  ],
+  "abstract_text": [
+    "<S> we present an analysis of light variations in _ _ ubv__@xmath0 of the anomalous object in the center of planetary nebula sh  2 - 71 . </S>",
+    "<S> we refined the linear ephemeris of the light maxima to @xmath1 , but also identified long - term , obviously non - periodic variations . </S>",
+    "<S> the latter manifest themselves in large o - c shifts , a variable profile of light curves ( hereafter lc ) and changes in the mean brightness of the object . </S>",
+    "<S> our spectroscopic observations suggested the presence of a superdense nebula in the center of sh  2 - 71 . </S>"
+  ]
+}

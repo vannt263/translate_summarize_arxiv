@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "0.55truecmdwarf novae show recurrent outbursts ( of 2 - 5 mags on timescales from weeks to months ) powered by a sudden increase in mass inflow in the accretion disc around the white dwarf . currently , there are two competing models to explain the cause of the sudden increase in mass accretion . in the mass transfer instability model ( mtim ) ,",
+    "the outburst is the time dependent response of a viscous accretion disc to a burst of matter transferred from the secondary star . in the disc instability model ( dim )",
+    ", matter is transferred at a constante rate to a low viscosity disc and accumulates in an annulus until a critical configuration switches the disc to a high viscosity regime and the gas diffuses rapidly inwards and onto the white dwarf .",
+    "tracking the evolution of a dwarf novae accretion disc along an outburst cycle with eclipse mapping techniques ( emt ) provides a valuable opportunity to test these models againt observations .",
+    "v2051 oph is a short period dwarf nova ( @xmath0 ) with deep eclipses ( @xmath1 ) .",
+    "it went in outburst between the nights of 2000 july 30 and 31 .",
+    "b band light curves of v2051 oph were obtained with the 1.60 m telescope of laboratorio nacional de astrofisica ( lna / brazil ) on 2000 july 28/august 02 covering the nights before the onset of the outburst , the short ( @xmath2day ) outburst maximum and 2 days along the decline from maximum .",
+    "the disc radius shrinks from @xmath3 in quiescence to @xmath4 at the night before maximum , in agreement with the expectation of the mtim ( @xmath5 is the distance from the disc centre to the inner lagrangian point ) .",
+    "0.55truecm emt were used to solve for a map of the disc brightness distribuition and for the flux of an addional uneclipsed component ( baptista&steiner1993 ) .",
+    "the sequence of eclipse maps reveal that the outburst starts with a decrease in the brightness of the disc and confirms that the disc shrinks at the night before maximum .",
+    "the map of this night is dominated by emission along the gas stream with no evidence of an increase in the brightness of the bright spot .",
+    "the brightness of the inner disc regions remains constant during outburst maximum and along decline , while the brightness of the outer disc regions progressively decreases with the inward propagation of a cooling wave .",
+    "the disc becomes fainter through the decline phase , leaving the bright spot progressively more perceptible at the outer edge of the disc .",
+    "the maximum fractional contribution of the uneclipsed component ( 9% of the total flux in the b band ) occurs on the night before outburst maximum .",
+    "this suggests the development of a vertically - extended disc wind _ before _",
+    "outburst maximum .",
+    "we quantify the changes in disc size during outburst by analyzing the radial intensity distribution of the total map .",
+    "we define the outer disc radius in each map as the radial position at which the intensity distribution falls below a reference level corresponding to the intensity of the bright spot in the eclipse map in quiescence .",
+    "the disc expands from @xmath4 at the night before maximum to @xmath6 at outburst maximum .",
+    "two days after maximum , the disc radius reduces to @xmath7 .",
+    "the radial intensity distribution of the symmetric disc component shows an outward moving heating wave at the rise to outburst maximum with a speed of @xmath8@xmath9 .",
+    "the speed of the inward moving cooling wave are @xmath10 and @xmath11 , respectively 1 and 2 days after maximum .",
+    "we observe an _ acceleration _ of the cooling wave as it travels across the disc , in contradiction with the prediction of the dim .",
+    "from @xmath8 we derive a viscosity parameter @xmath120.14 , comparable to the derived viscosity in quiescence @xmath130.16 ( baptista&bortoletto2004 ) .    the radial brightness temperature distribution is flatter than the @xmath14 law expected for steady - state discs both in quiescence and in outburst , leading to larger mass accretion rates in the outer disc(@xmath15 ) than in the inner disc regions(@xmath16 ) .",
+    "if we assume a distance of 146pc to the binary ( vrielmann , stiening&offutt2002 ) , the brightness temperatures in quiescence range from 5800k in the outer disc to 9200k in the inner disc ; at outburst maximum the temperatures range from 9600k at @xmath17 to 12200k in the inner disc .",
+    "the inferred temperatures of the outbursting disc are higher than the critical temperature @xmath18 above which the disc gas should remain while in the high viscosity branch of the thermal - viscous limit cycle of the dim . however , if the distance is 100pc(see baptista&bortoletto2004 ) , the inferred disc temperature are lower and do not exceed @xmath18 even at outburst maximum ."
+  ],
+  "abstract_text": [
+    "<S> we present the results of the analysis of light curves of v2051 oph through an outburst with eclipse mapping techniques . </S>"
+  ]
+}

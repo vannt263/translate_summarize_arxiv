@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "elliptical galaxies and bulges divide into two groups with fundamental differences in their morphological , dynamic and core profile properties @xcite .",
+    "luminous systems rotate slowly , have boxy isophotes and cores , whereas faint early - type galaxies show rapid rotation , discy isophotes and a cuspy central luminosity profile .",
+    "these differences can be interpreted as differences in the formation of both classes which may be reflected in their stellar populations .",
+    "studies of stellar populations have revealed signs of secondary star formation in some lenticular galaxies @xcite .",
+    "many early - type galaxies show kinematic peculiarities such as nuclear stellar and gaseous discs , kinematically decoupled components ( kdc ) or minor axis rotation @xcite .",
+    "a combination of 2-dimensional kinematics and stellar population analysis provides information about the formation history of early - type galaxies .",
+    "the fornax cluster galaxies ngc1427 , ngc1380 , ngc1381 were observed with the gmos ifu , and a second sample of ngc1339 , ngc1375 , ngc1419 and eso358-g25 and additionally ngc3379 were observed with the vimos ifu . the vimos ifu has a large field of view of @xmath2 at a spatial resolution of @xmath3 , whereas gmos has a smaller field of view of @xmath4 but offers a spatial resolution of @xmath5 .",
+    "this approach allows a study of the larger kinematic scales and to detect possible line strength gradients in the vimos sample , while on the other hand the very centres of the galaxies observed with gmos can be studied in great detail .",
+    "relations between the internal kinematics and stellar populations are indicative of the star formation history of the host galaxy .",
+    "the wavelength range of the combined sample , approximately 4200  to 5500 , includes h@xmath6 and higher order balmer lines , allowing an age measurement largely insensitive to metallicity effects .",
+    "several fe indices and mg line strengths are measured to determine the metallicity and [ mg / fe ] ratio of the stellar populations .",
+    "[ fig : vmaps ] shows the stellar velocity maps of ngc1427 ( left panel ) and ngc1419 ( right panel ) .",
+    "the known decoupled core of ngc1427 is clearly visible .",
+    "for the first time , a kinematically decoupled core is also detected in ngc1419 .",
+    "line strength maps for the same galaxies are shown in fig .",
+    "[ fig : linemaps ] .",
+    "the top panels show the h@xmath6 ( left ) and mg@xmath7 ( right ) distribution in ngc1427 , while the bottom panels show the same for ngc1419 . in the h@xmath6 distribution",
+    ", there is an increase towards the centre visible in ngc1419 , whereas the distribution is almost flat in ngc1427 .",
+    "both galaxies show an mg@xmath7 gradient with increasing line strengths towards the centre , which is more pronounced in ngc1419 .",
+    "a comparison between the velocity and line strength maps implies that the stellar populations in the decoupled components do not differ significantly from the main body of the galaxies ."
+  ],
+  "abstract_text": [
+    "<S> we present a study of the internal kinematics and stellar populations of early - type galaxies in the fornax cluster based on integral - field spectroscopic observations with gemini south gmos and vlt - vimos . </S>",
+    "<S> seven galaxies in a luminosity range of -21.3@xmath0m@xmath1@xmath0 - 17.7 have been observed with these integral field units ( ifu ) . as first results , velocity and line strength maps </S>",
+    "<S> are presented for ngc1427 and ngc1419 . </S>"
+  ]
+}

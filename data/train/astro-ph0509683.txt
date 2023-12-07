@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "are the dark matter halos of lsb galaxies `` cuspy '' nfw halos , or are they `` cored '' isothermal halos ?",
+    "nfw halos can be fit to the observations , but the cosmological parameters implied by the fits are inconsistent with the standard lcdm picture .",
+    "isothermal halos provide much better fits , but they have no cosmological dependence or theoretical basis .",
+    "we address this question with new data that is both high resolution and two - dimensional .",
+    "we observed 12 lsb galaxies using the densepak integrated field unit on the wiyn telescope at kitt peak .",
+    "densepak is comprised of 3  diameter fibers arranged in a 43  @xmath1 28  rectangle .",
+    "velocities of the h@xmath2 , [ ] @xmath36584 , [ ] @xmath36717 , and [ ] @xmath36731  emission lines were measured in each fiber .",
+    "rotation curves were derived from the two - dimensional velocity fields using the nemo program rotcur .",
+    "we combined the densepak rotation curves with previous longslit and hi   curves .",
+    "we fit the combined data with isothermal and nfw@xmath4 halos .",
+    "we also fit an nfw@xmath5 halo which was required to match the velocities at the outer radii of each galaxy , in effect , constraining the concentrations to agree with cosmology .",
+    "image of ugc 5750 ; observed velocity field ( km s@xmath6 ) ; minimum disk halo fits to combined data ; combined rotation curves.,title=\"fig : \" ]   image of ugc 5750 ; observed velocity field ( km s@xmath6 ) ; minimum disk halo fits to combined data ; combined rotation curves.,title=\"fig : \" ] +   image of ugc 5750 ; observed velocity field ( km s@xmath6 ) ; minimum disk halo fits to combined data ; combined rotation curves.,title=\"fig:\",width=181 ]   image of ugc 5750 ; observed velocity field ( km s@xmath6 ) ; minimum disk halo fits to combined data ; combined rotation curves.,title=\"fig:\",width=181 ]",
+    "we found only one galaxy to be well fit by the nfw halo .",
+    "this shows that we would have detected cusps in the other cases had they been present .",
+    "future work will include mass modeling and an assessment of systematic effects .",
+    "* acknowledgments .",
+    "* this research was supported by nsf grant ast 0206078 ."
+  ],
+  "abstract_text": [
+    "<S> we present high resolution two dimensional velocity fields from integral field spectroscopy along with derived rotation curves for nine low surface brightness galaxies . </S>",
+    "<S> this is a positive step forward in terms of both data quality and number of objects studied . </S>",
+    "<S> we fit nfw and pseudo - isothermal halo models to the observations . </S>",
+    "<S> we find that the pseudo - isothermal halo better represents the data in most cases than the nfw halo , as the resulting concentrations are lower than would be expected for @xmath0cdm . </S>"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "a key ingredient of the unified model for agn is an axially symmetric dusty structure ( a.k.a .",
+    ", the torus ) that absorbs uv photons from the central source and re - emits them anisotropically as thermal radiation at near and mid - ir wavelengths .",
+    "this wavelength range is , therefore , crucial to determine the properties of the obscuring material .",
+    "here we present 1 - 10@xmath0 m  nuclear seds and n - band spectroscopy for a small sample of seyfert galaxies .",
+    "this is part of a much larger study of seyfert galaxies drawn from the 12@xmath0 m  extended galaxy sample ( rush , malkan & spinoglio , 1993 ) for which we are collecting jhklmn - band imaging in order to produce nuclear seds .",
+    "the results will be compared with theoretical models of the dusty torus ( nenkova , ivezi ' c & elitzur , 2002 ) , observations of the n@xmath1 column obtained from x - ray observations ( bassani et  al . , 1999 ) , and spectropolarimetry ( tran , 2003 ) .",
+    "we expect to put statistically significant constraints on the physical and geometrical characteristics of the obscuring material around agn .",
+    "starburst emission in order to estimate the contribution to the data from star - forming regions ( thick continuous line).,title=\"fig : \" ] starburst emission in order to estimate the contribution to the data from star - forming regions ( thick continuous line).,title=\"fig : \" ]    we have obtained ukirt / michelle n - band spectroscopy for 4 seyfert 2s ( s2s : mk509 , mk1066 , ngc1068 , ngc7674 ) and 2 seyfert 1 galaxies ( s1s : mcg+8 - 11 - 11 , ngc7469 ) . using a pah dominated template from starburst emission ( kindly provided by e.",
+    "le floch ) we have estimated the contribution to the observed spectra from circumnuclear star - forming regions .",
+    "we find that only for mk1066 the starburst contribution is significant ( @xmath2 ) , being typically @xmath3 for all other nuclei ( fig .  1 ) .",
+    "isolating the agn continuum is crucial when trying to determine the profile of the 9.7@xmath0 m  dust feature , which can be very useful as a diagnistic for dust conditions ( nenkova , ivezi ' c & elitzur , 2002 ) , since the starburst related pahs can mimic a dip at smimilar wavelengths .",
+    "we find that the 9.7@xmath0 m  feature is probably present in all spectra .",
+    "we then compared the n - band spectra and nuclear 1 - 10@xmath0 m  seds determined for our targets ( alonso - herrero et  al . , 2003 ) , to derive constraints on the obscuring material around the central engine . in the examples shown in fig .",
+    "2 we find that the models provide a good description of the ir data for mk573 and a satisfactory fit for ngc7674 , where the photometric data is well matched by the model , but the 9.7@xmath0 m  dust feature is not well reproduced .",
+    "the high inclination angle of the torus in ngc7674 is in good agreement with the compton - thick column obseved in x - rays ( bassani et  al . , 1999 ) .",
+    "these preliminary results will be greatly improved once the larger data - base has been fully analysed . the observations and modelling will be used to : ( a ) test whether the same overall torus geometry and physical conditions can explain the observed properties of all objects ; ( b ) constrain model parameters such as optical depth , geometry and extent of the torus ; compare dust and x - ray columns for galaxies in common with bassani et  al.(1999 ) ; ( c ) look for possible correlations between torus characteristics and other traits of the central source , such as luminosity , intermediate ( ie , type s1.8 and s1.9 ) classification , the presence of polarised blr or broad wings seen in the ir ; ( d ) study the circumnuclear emission to test a ` non - strict ' unified model ( alonso - herrero et  al . , 2003 ; matt , 2000 ) which suggests that the obscuration in some s2s might be due to extended material , as well as the possible connection between the lack of hidden blrs in cool s2s and the presence of enhanced starburst emission ( alexander , 2001 ) ."
+  ],
+  "abstract_text": [
+    "<S> we present results from an imaging and spectroscopic study of the dust properties of seyfert galaxies in the 1 - 10@xmath0 m  range . </S>",
+    "<S> the data are compared to state of the art models of torus emission to constrain geometrical and physical properties of the obscuring medium . </S>"
+  ]
+}

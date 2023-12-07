@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the recent substantial evolution in the ellipticity of rich galaxy clusters was noted by mellot , chambers & miller ( 2001 ) . this result has been supported by plionis ( 2002 ) .",
+    "in particular , he argues that the ellipticity of aco clusters is correlated with their redshifts . using , among others , 309 aco clusters taken from apm , for which about 180 have determined redshifts , he claimed the existence of a significant ellipticity - redshift dependence .",
+    "our sample consists of 246 aco clusters .",
+    "all data come from 48  schmidt telescopes .",
+    "original plates were scanned at the rome and edinburgh astronomical observatories .",
+    "the majority of galaxy catalogues were obtained from dss using focas packages . for this",
+    "sample , visual verification of object classification was made .",
+    "it is well known that ellipticity depends also on the distance from cluster centre ( e.g. carter & metcalfe 1980 , flin 1984 , trevese et al .",
+    "1992 , struble & ftaclas 1994 ) .",
+    "therefore , we decided to check the investigated relation for various distances from cluster centres .",
+    "the radius changes from 0.5 to 1.5 mpc ( @xmath0 ) with a step of 0.25 mpc from the cluster centre .",
+    "thus , we have measured ellipticities at 5 distances from the cluster centre for each of the 246 clusters .",
+    "the ellipticities have been determined in a standard way , this is from the covariance matrix .",
+    "the redshifts are taken from literature .",
+    "for each cluster we have two parameters , the calculated ellipticity of the cluster and cluster redshift .",
+    "a straight line was fitted to each set of data .",
+    "the results of the fitting procedure for line @xmath1 are given in table 1 .",
+    "r _ in mpc is the radius of the area in which the ellipse has been calculated , _ a _ and _ b _ are fit parameters and _ r _ is the correlation coefficient .",
+    "we also calculated the mean value of the five ellipticities for various _",
+    "r _ radii .",
+    "the dependence of such mean ellipticities on redshift is given in fig.1 .",
+    "the last line of table 1 gives the relevant parameters .",
+    "it is clear that we do not observe any relation between ellipticities and redshifts .",
+    "this differs greatly from the plionis ( 2002 ) result .",
+    "however , the claimed dependence of ellipticity on redshift reported by him is very weak .",
+    "our result is affected by such factors as e.g. the adopted cluster centre , the way of smoothing the distribution and the applied method of ellipticity determination .",
+    "these factors are being carefully studied now .",
+    "the current result is consistent with mulchaey & zabludoff ( 1998 ) and zabludoff & mulchaey ( 1998 ) observation reporting the lack of recent significant dynamical evolution for poor groups and cd clusters .",
+    "moreover , the lack of the eccentricity evolution is in agreement with the latest hydrodynamic simulations of clusters ( floor et al .",
+    "2003a , 2003b ) .",
+    "1980 mnras , 191 , 325 1984 in clusters and groups of galaxies , eds .",
+    "mardirossian , f. , et al . ,",
+    "dordrecht , p. 163 2003a , apj , 591 , 741 2003b , astro - ph/0307539 2001 , apj , 559 , l75 1998 , apj , 496 , 73 2002 , apjl , 572 , 67 1994 , aj , 108 , 1 1992 , a&as , 94 , 237 1998 , apj , 496 , 39"
+  ],
+  "abstract_text": [
+    "<S> we analysed 246 scanned aco clusters and we do not find any dependence of galaxy cluster ellipticity on redshift . </S>"
+  ]
+}

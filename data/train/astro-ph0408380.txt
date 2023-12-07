@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "in recent studies of the most metal - poor stars known , an interesting trend has been discovered regarding the abundance of carbon .",
+    "several authors have noted that roughly 25% of the most metal - poor stars studied exhibit strong enhancements of carbon , as reflected in the unusual strength of their ch g - band features .",
+    "these carbon - enhanced metal - poor ( cemp ) stars occur with such a large frequency that one is forced to consider the implications on the nature of possible production mechanisms of carbon in the early universe .",
+    "over the metallicity range @xmath5 [ fe / h ] @xmath6 , there exists an upper limit to the level of carbon enhancement amongst cemp stars at [ c / h ] @xmath2 @xcite .",
+    "this immediately suggests that at some early time in the universe a significant amount of carbon was produced , in all likelihood by one of the following sources : ( 1 ) a _ primordial _ mechanism from massive stellar progenitors , ( 2 ) _ intrinsic _ internal production by low - mass stars of extremely low [ fe / h ] , or ( 3 ) _ extrinsic _ production of carbon by stars of intermediate mass , which can be prodigious manufacturers of carbon during their agb stages , followed by mass transfer to a surviving lower - mass companion .",
+    "indeed , it remains possible that all three sources might play a role .",
+    "the first alternative , in which the observed levels of carbon in at least some of the cemp stars is primordial , or close to primordial , and was produced in the first generations of ( presumably quite massive ) stars , receives some support from models of element production in zero metal abundance stars in the mass range 18  30 @xmath7 @xcite . in this scenario a large amount of carbon was produced early on , and then not as prodigiously after that .",
+    "the second possibility is that , early in the universe , when there were few heavy elements present , unusually effective mixing episodes triggered at the time of helium core flash dredges up internally produced carbon and deposits it on the surfaces of low - mass stars @xcite .",
+    "the final alternative is that intermediate - mass stars ( e.g. , @xmath8 ) in binary pairs with lower - mass companions , quickly evolved , producing large amounts of carbon during their agb evolution .",
+    "then , a significant amount of this carbon - rich material was transferred to the long - lived companion , via roche - lobe overflow or a wind .",
+    "the lower - mass companion is presently observed to be carbon - rich , while the higher - mass carbon - producing star is now a faint white dwarf ( see , e.g. , @xcite ) . in this scenario",
+    ", one would expect to be able to detect the presence of the binary system , either directly through high - angular - resolution observations , or indirectly by detecting the tell - tale wobble in the orbit of the visible companion .",
+    "in order to investigate these different scenarios , new medium - resolution spectroscopic data has been gathered , with a variety of 2m-4 m class telescopes , for over 350 stars in the large sample of carbon - rich stars reported by christlieb et al .",
+    "it should be kept in mind that this sample of stars was selected based , not on metallicity , but rather , on the apparent level of carbon enhancement revealed in low - resolution objective - prism specta . as a result ,",
+    "only those metal - poor stars which exhibited enhancement of carbon were selected , resulting in a determination of the upper limit of carbon enhancement , without restricting the metallicity range .",
+    "these data allow for the determination of reasonably accurate estimates of carbon abundances ( and [ fe / h ] ) for the christlieb et al .",
+    "carbon - rich stars , using techniques described by rossi et al . @xcite .",
+    "the calibration of rossi et al .",
+    ", based on the kp and gp indices described by beers et al .",
+    "@xcite , in combination with de - reddened @xmath9 colors obtained from the 2mass survey @xcite , achieves accuracies of @xmath10 dex for [ fe / h ] and @xmath11 dex for [ c / fe ] , respectively .",
+    "figure 1 shows the derived abundances that have been obtained to date for a subset of the christlieb et al .",
+    "carbon - rich stars .",
+    "roughly 50% of the carbon - enhanced candidates proved to be very metal - deficient stars with [ fe / h ] @xmath12 , in other words , they are cemp stars .",
+    "the remainder appear to be stars of higher metallicity , up to and including solar .",
+    "these latter stars may be examples of intermediate - mass intrinsic agb stars , whose presence in the halo of the galaxy might well be accounted for by stripping from dwarf galaxies such as sagittarius @xcite .     with declining [ fe / h ] .",
+    "these stars were selected as carbon - enhanced , independent of metallicity .",
+    "the upper envelope of abundances correspond to [ c / h ] = @xmath13 .",
+    "note that abundances have not yet been determined for stars more metal - rich that [ fe / h ] = @xmath13.,width=377,height=226 ]    in addition to elemental abundances , radial velocities have been obtained for most of these candidates .",
+    "around half of these stars have velocites consistent with membership of the general halo population .",
+    "the remainders are a mix of high- and low - velocity stars , some of which are likely members of the metal - weak thick disk @xcite , while others are possibly associated with the sagittarius stream ."
+  ],
+  "abstract_text": [
+    "<S> very metal - deficient stars that exhibit enhancements of their carbon abundances are of crucial importance for understanding a number of issues  the nature of stellar evolution among the first generations of stars , the shape of the initial mass function , and the relationship between carbon enhancement and neutron - capture processes , in particular the astrophysical s - process . </S>",
+    "<S> one recent discovery from objective - prism surveys dedicated to the discovery of metal - deficient stars is that the frequency of carbon - enhanced metal - poor ( cemp ) stars increases with declining metallicity , reaching roughly 25% for [ fe / h ] @xmath0 .    in order to explore this phenomenon in greater detail </S>",
+    "<S> we have obtained medium - resolution ( 2  ) spectroscopy for about 350 of the 413 objects in the christlieb et al . </S>",
+    "<S> catalog of carbon - rich stars , selected from the hamburg / eso objective prism survey on the basis of their carbon - enhancement , rather than metal deficiency . based on these spectra , and near - ir @xmath1 photometry from the 2mass point source catalog , </S>",
+    "<S> we obtain estimates of [ fe / h ] and [ c / fe ] for most of the stars in this sample , along with reasonably accurate determinations of their radial velocities . </S>",
+    "<S> of particular importance , we find that the upper envelope of carbon enhancement observed for these stars is nearly constant , at [ c / h ] @xmath2 , over the metallicity range @xmath3 [ fe / h ] @xmath4 ; this same level of [ c / h ] applies to the most iron - deficent star yet discovered , he 0107 - 5240 , at [ fe / h ] = -5.3 . </S>"
+  ]
+}

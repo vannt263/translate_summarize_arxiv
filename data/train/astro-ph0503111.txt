@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "our photometric and spectroscopic sample is composed of all da stars in the trigonometric parallax sample of bergeron , leggett , & ruiz ( 2001 ; blr hereafter ) .",
+    "we restrict , however , our analysis to objects above 6500 k ( 52 stars ) , for which the spectroscopic method of determining atmospheric parameters remains reliable .",
+    "the sample is first analyzed by fitting the optical @xmath0 and infrared @xmath1 photometry using the method described in blr and references therein . only @xmath2 and the solid angle @xmath3 are considered free parameters , where @xmath4 is the ratio of the radius of the star to its distance from earth .",
+    "the distances are obtained from the trigonometric parallax measurements , and the resulting radii are converted into masses using the evolutionary models of fontaine , et al .",
+    "( 2001 ) with thick hydrogen layers .",
+    "spectroscopic observations have been secured for the da stars in our sample using the steward 2.3-m telescope equipped with the boller & chivens spectrograph .",
+    "the high balmer line spectra are fitted with a grid of model atmospheres following the procedure described in bergeron , et al .",
+    "the resulting @xmath2 and log _ g _ values are then converted into masses using the same evolutionary models as above .",
+    "we compare in figure 1 ( left panel ) the spectroscopic and photometric temperatures for all 52 stars in our sample .",
+    "the agreement between the spectroscopic and photometric temperatures for our sample is excellent , with the exception of wd 2329 + 267 , a magnetic white dwarf whose line profiles exhibit strong zeeman splitting , wd 1606 + 422 , a suspected double degenerate ( blr ) , and wd 1824 + 040 , a confirmed double degenerate ( maxted & marsh ; 1999 ) .",
+    "the comparison of spectroscopic and photometric masses for our 52 objects is displayed in figure 1 ( right panel ) .",
+    "the vector shown in the figure indicates how the masses would be affected if thin hydrogen layer models were used instead of thick hydrogen models to derive masses . for most objects the mass determinations yield significantly different results , as can be seen by the size of the uncertainties ( cross in upper left corner ) . in general ,",
+    "the spectroscopic masses are larger than those inferred from photometry and trigonometric parallaxes .",
+    "one obvious exception is lhs 4033 near 1.35 @xmath5 , for which both estimates agree perfectly ( see also dahn _ et al . _ ; 2004 ) .",
+    "interestingly enough , there appears to be a large number of low mass ( @xmath6 @xmath7 0.5 @xmath5 ) stars in the photometric mass distribution that is not observed in the spectroscopic distribution .",
+    "this suggests that the low mass component may be contaminated by unresolved double degenerates , which would appear as overluminous , and thus interpreted as low mass white dwarfs when analyzed with the photometric technique .",
+    "if we redo our analysis for the 13 objects below @xmath8 @xmath9 0.48 @xmath5 in figure 1 by assuming that two white dwarfs of equal temperatures and radii contribute to the total luminosity , we obtain the results shown in figure 2 .",
+    "of course , the spectroscopic mass determinations are not affected since both stars are assumed to be identical .",
+    "we see that in most cases , but not all , it is possible to reconcile the spectroscopic and photometric masses .",
+    "one of the objects in figure 2 is l870 - 2 , a well - known double degenerate with almost identical atmospheric parameters .",
+    "the mass discrepancy for the da stars in our sample can also be explained in terms of the presence of helium in the atmospheres of cool da stars , brought to the surface by the hydrogen convection zone , and spectroscopically invisible at these low temperatures .",
+    "indeed , as demonstrated by bergeron et al .",
+    "( 1990 ) , the presence of helium tends to increase the atmospheric pressure , which would be interpreted as resulting from a high surface gravity ( or high mass ) when analyzed with pure hydrogen models .    to illustrate more quantitatively the effect , we compare in figure 3 the spectroscopic and photometric masses obtained under the assumption of pure hydrogen atmospheres , as well as with a mixed composition of @xmath10(he)@xmath11@xmath10(h ) @xmath9 1 .",
+    "while the photometric masses remain relatively unchanged , the spectroscopic masses are significantly reduced .",
+    "clearly , for all objects , with the exception of some of the low mass stars , it is possible to reconcile the spectroscopic and photometric masses by adjusting the individual helium abundance of each star .    in the top panels of figure 4",
+    ", we compare the photometric and spectroscopic solutions for lhs 3254 ( wd 1655 + 215 ) under the assumption of a pure hydrogen atmospheric composition . in the bottom panels ,",
+    "the helium abundance has been adjusted to ensure that the photometric and spectroscopic log _",
+    "_ values ( or masses ) agree .",
+    "we see that in this star , a helium abundance of @xmath10(he)@xmath11@xmath10(h ) @xmath9 0.63 is required to match the log _ g _ ( or mass ) determinations . also , the photometric and spectroscopic temperatures agree even better when helium is included . finally , the spectroscopic mass of 0.50 @xmath5 inferred from the mixed he / h composition is in much better agreement with those of hotter sibblings , in contrast with the pure hydrogen spectroscopic solution of 0.72 @xmath5 .",
+    "helium abundances for individual objects will be presented elsewhere .",
+    "we thus conclude that the existence of double degenerates , or the presence of helium in the atmosphere of cool da stars , or both , are responsible for the spectroscopic and photometric mass discrepancies observed in figure 1 . the presence of helium in cool da stars will reduce the inferred spectroscopic masses and may help resolve part of the problem with larger - than - average masses observed in spectroscopic analyses of da stars at low temperatures .",
+    "bergeron , p. , leggett , s. k. , & ruiz , m. t. 2001 , apjs , 133 , 413 bergeron , p. , saffer , r. a. , & liebert , j. 1992 , apj , 394 , 228 bergeron , p. , wesemael , f. , fontaine , g. , & liebert , j. 1990 , apj , 351 , 21 dahn , c. c. , bergeron , p. , liebert , j. , harris , h. c. , canzian , b. , leggett , s. k. , & boudreault , s. 2004 , apj , 605 , 400 fontaine , g. , brassard , p. , & bergeron ,",
+    "p. 2001 , pasp , 113 , 409 maxted , p. f. l. , & marsh , t. r. 1999 , mnras , 307 , 122"
+  ],
+  "abstract_text": [
+    "<S> white dwarf masses can be determined in several ways . </S>",
+    "<S> here we compare masses obtained from balmer line spectroscopy with those derived from trigonometric parallax measurements for an ensemble of cool hydrogen - atmosphere white dwarfs . </S>"
+  ]
+}

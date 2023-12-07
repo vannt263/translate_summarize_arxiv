@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "quantitative spectral analyses of hot hydrogen - deficient post - agb stars performed by our groups during the last decade have revealed two distinct evolutionary sequences . besides the well - known `` usual '' hydrogen - rich sequence which is established by central stars of planetary nebulae from early post - agb until the hot white dwarf stages , a hydrogen - deficient sequence has been discovered .",
+    "it is composed of wolf - rayet type central stars which evolve into pg1159-stars and finally might evolve into non - da white dwarfs .",
+    "our analyses reveal that the atmospheres of the hydrogen - deficient stars are dominated by carbon , helium , and oxygen ( see reviews by werner 2001 , and koesterke 2001 ) .",
+    "a typical abundance pattern is he : c : o = 33:50:17 ( by mass ) , which is for example found for the prototype pg1159 - 035 .",
+    "it has long been argued that these stars are the result of a late helium - shell flash ( late thermal pulse , ltp ) .",
+    "the occurrence of such a flash ( the re - ignition of helium - shell burning in a post - agb star or white dwarf ) , has been predicted in earlier investigations by iben et al .",
+    "but only recently we were able to quantitatively explain the observed surface chemistry with evolutionary models ( herwig et al .",
+    "flash induced envelope mixing causes ingestion and burning of hydrogen . at the same time",
+    ", the star evolves back onto the agb ( `` born - again agb star '' ) and retraces post - agb evolution for a second time , but now as a hydrogen - deficient star .",
+    "prominent examples for ongoing `` born - again '' events are fg  sge and sakurai s object .",
+    "during the course of our studies of hydrogen - deficient post - agb stars we have identified a small group of four extremely hot objects which have almost pure helium line spectra in the optical .",
+    "these are classified as o(he ) stars following mndez ( 1991 ) .",
+    "our analyses indeed find helium dominated atmospheres with trace amounts of cno elements , if detectable at all ( tab.1 ) . while our evolutionary models can explain the rich diversity of different he / c / o patterns in wolf - rayet and pg1159-stars , they never result in such helium - dominated surface abundances .",
+    "it is therefore natural to speculate on the existence of a third post - agb evolutionary sequence and its origin .",
+    "our extremely hot helium - rich stars could be the long - searched progeny of the rcrb stars , which are relatively cool ( @xmath0 around 10000k ) stars with helium - dominated atmospheres , too .",
+    "[ php ]    lcr@.lr@.lr@.lr@.lr@.l & & & & & & + & & & + k1 - 27 & 105 &  6&5 & 0&2 & 0&005 & 0&005 & + lotr4 & 120 & 5&5 & 0&5 & 0&004 & 0&001 & 0&008 + hs1522 + 6615 & 140 & 5&5 & 0&1 & 0&003 & + hs2209 + 8229 & 100 & 6&0 & 0&2 & + majority rcrb & & & 0&0001 & 0&010 & 0&004 & 0&005 + v854 cen & & & 0&5 & 0&030 & 0&0003 & 0&003 +    for rcrb stars two origins for their hydrogen - deficiency are discussed in the literature since many years .",
+    "either they are the result of a late thermal pulse or of a merging process of two white dwarfs ( double degenerate scenario ) .",
+    "since we now can rule out the ltp scenario for helium - dominated post - agb stars , it seems inevitable that both , the four hot helium - rich stars and the rcrb stars are mergers and form another evolutionary post - agb sequence .",
+    "we therefore expect similar heavy element abundances . in order to investigate this possible evolutionary link",
+    "it is necessary to compare cno abundances of both groups , because detailed theoretical predictions for abundances resulting from a merger event are not available .",
+    "the element abundances in rcrb stars are well studied ( tab.1 ) .",
+    "fuse spectra of all o(he ) stars have been taken during cycle 2 .",
+    "these have been analyzed using wind models .",
+    "no significant wind features are detected neither in the observation nor in the model spectra ( fig.1 ) .",
+    "thus , the mass - loss rates of o(he ) stars are not higher than predicted by radiative - driven wind theory and a change of the surface composition due to the stellar wind is unlikely .",
+    "unfortunately , the fuse spectra do not show isolated metal lines and thus , allow to determine upper limits for abundances only ( ongoing study ) ."
+  ],
+  "abstract_text": [
+    "<S> 95% of all stars end their lives as white dwarfs . about 20% of the hot post - agb stars are hydrogen deficient . </S>",
+    "<S> most of these are the result of a late helium - shell flash , but the evolutionary status of a fraction of about 1020% of the hottest hydrogen - deficient stars , namely four o(he ) stars , is as yet unexplained </S>",
+    "<S> . they could be the long - searched hot successors of rcrb stars , which have not been identified up to now . </S>",
+    "<S> if this turns out to be true , then a third post - agb evolutionary sequence is revealed , which is probably the result of a double degenerate merging process . </S>",
+    "<S> more generally , understanding details of merging double degenerate stars is of interest in the context of snia events and hence cosmology . </S>"
+  ]
+}

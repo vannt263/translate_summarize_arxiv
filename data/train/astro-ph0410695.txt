@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "the treatment of the large data volumes that can be obtained with large telescopes and multi - objects spectrographs , such as flames at the eso vlt , requires a major upgrade of the methods commonly used to reduce and analyze high and medium resolution spectra .",
+    "we are therefore developing a set of routines for an automatic or semi - automatic abundance analysis of stellar spectra based on equivalent widths ( ew ) .",
+    "the first product is daospec , a code developed by p. b. stetson for automatic ew measurement ( http://cadcwww.hia.nrc .",
+    "ca / stetson / daospec/ ) .",
+    "the preliminary abundance analysis presented here is the first step of an iteractive and automatic procedure under development at the bologna observatory .",
+    "part of the ital - flames guranteed time has been devoted to the study of @xmath1  cen , within the framework of the bologna project on @xmath1  cen @xcite .",
+    "700 giants have been observed with the eso - vlt giraffe spectrograph in may 2003 , with a resolution of r@xmath020,000 and a s / n@xmath350150 per pixel , spanning more than 4 magnitudes and covering all known sub - populations in the cluster .",
+    "the spectral ranges observed ( setups hr09 , hr13 , hr11 and hr15 ) allow the determination of iron peak , @xmath2 , @xmath4-process elements and of eu .",
+    "the spectra have been reduced with the giraffe bldrs pipeline developed at the geneva observatory .",
+    "ew have been measured with daospec @xcite , based on a linelist produced with the vienna atomic line database ( vald ) @xcite .",
+    "preliminary estimates of the stellar parameters",
+    "@xmath5 , @xmath6 , @xmath7 and [ m / h ] have been obtained from the wfi photometry published by @xcite and the color - temperature calibration by @xcite .",
+    "marcs model stellar atmospheres @xcite have been employed together with the abundance analysis code by @xcite to produce a first guess abundance of fe and ca , strictly based on the photometric parameter estimates .",
+    "the resulting [ ca / fe ] versus [ fe / h ] plot is shown in fig .",
+    "[ pancino : cafe ] , where except for a few outliers that will have to be manually inspected , a clear trend appears : [ ca / fe ] slowly rises with [ fe / h ] until it reaches a maximum and then declines again for the most metal - rich stars ( rgb - a according to @xcite ) .",
+    "this nicely confirms a previous finding by @xcite and @xcite .",
+    "if the metal - rich stars have evolved within the cluster in a process of self - enrichment , the only way to lower their @xmath2-enhancement would be sne type ia intervention .",
+    "no simple explanation is provided for the rise of [ ca / fe ] at low [ fe / h ] , although a series of star formation bursts should be the likely cause ."
+  ],
+  "abstract_text": [
+    "<S> i present preliminary results for a sample of @xmath0700 red giants in @xmath1  cen , observed during the ital - flames consortium gto time in may 2003 , for the bologna project on @xmath1  cen . </S>",
+    "<S> preliminary fe and ca abundances confirm previous results : while the metal - poor and intermediate populations show a normal halo @xmath2-enhancement of [ @xmath2/fe]@xmath3 + 0.3 , the most metal - rich stars show a significantly lower [ @xmath2/fe]@xmath3 + 0.1 . </S>",
+    "<S> if the metal - rich stars have evolved within the cluster in a process of self - enrichment , the only way to lower their @xmath2-enhancement would be sne type ia intervention . </S>"
+  ]
+}

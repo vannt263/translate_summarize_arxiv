@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "lyman break galaxies ( lbgs ) at redshifts @xmath0 are the current gold standard for star - forming galaxies in the early universe , at least rest - uv and -optically selected ones .",
+    "many of their properties are revealed by deep multi - wavelength imaging and spectroscopic surveys ( e.g. , presentations at this conference by bremmer , erb , huang , mehlert , papovich , sawicki , and others ) .",
+    "these include small sizes @xmath3 kpc , high luminosities @xmath4 , significant clustering , and diverse morphologies .",
+    "lbgs are also copiously star - forming , easily qualifying as starbursts according to the star formation intensity ( sfr per unit mass or gas mass ) definition advocated by tim heckman at this conference ( e.g. , meurer et al .",
+    "1997 ) .",
+    "significant questions remaining about the nature of lbgs include their masses , their mass assembly histories , their fate , and their environments , including any dark matter .",
+    "comparison to local galaxies with similar properties may help illuminate some or all of those issues , since nearby systems can generally be studied in much greater detail .",
+    "we face two problems in attempting to draw parallels between distant lbgs and nearby starbursts : ( 1 ) lbgs are best seen in the optical , corresponding at @xmath6 to the rest - uv ; and ( 2 ) it is not obvious which kind or kinds of local systems are the best proxies .",
+    "two classes of galaxy at @xmath5 seem especially promising as nearby cousins of lbgs : galaxies at @xmath7 and luminous compact blue galaxies ( lcbgs ) at @xmath8 .",
+    "both classes show , in the optical , the small sizes , high luminosities , diverse morphologies , and copious star formation that also characterize lbgs . to push the comparison",
+    "further , we have obtained rest - uv images with the space telescope imaging spectrograph onboard _ hubble space telescope _ ( hst / stis ) of 12  galaxies and 14 lcbgs .",
+    "the samples are drawn from the ucm survey ( perez - gonzalez et al .",
+    "2001 ) and the kitt peak galaxy redshift survey ( munn 1997 ) , respectively .",
+    "many have also been imaged with hst / wfpc2 and/or nicmos and/or studied spectroscopically at keck and arecibo ( e.g. pisano et al . 2001 ) .",
+    "the hst / stis uv images of the 26 low- and intermediate - redshift starburst galaxies in our sample are shown in fig .",
+    "[ mosaic ] .",
+    "it is immediately obvious that the rest - uv morphologies represent a diverse panoply , rather than a uniform class .",
+    "multiple knots , tails , and extended emission ",
+    "almost all invisible at ground - based resolution in the optical  are the rule rather than the exception .",
+    "we attempted to quantify the uv morphologies of our nearby and intermediate compact starbursts using the cas ( compactness , asymmetry , and clumpiness ) methodology of conselice et al .",
+    "the measured asymmetry is very sensitive to the exact radius at which it is measured ; we tried both half - light radii and petrosian radii .",
+    "[ asym ] shows the distribution of asymmetries @xmath9 .",
+    "we find that the mean @xmath9 of our two samples is roughly consistent with that of lbgs measured in the hdf by conselice et al .",
+    "( 2003 ) , although the formal measurement uncertainties are very large .",
+    "what would the  galaxies and lcbgs look like if placed at redshift @xmath6 ?",
+    "we simulated that view by resampling our hst / stis images and adding noise to reproduce the hubble deep field sensitivity .",
+    "the  galaxies are too faint to detect , but the lcbgs , which are more luminous , are all easily detected ( fig .  [ noisemosaic ] ) . despite the loss of low - surface brightness features , the similarities to the appearances of real lbgs",
+    "are striking .",
+    "we conclude that  galaxy and lcbg morphologies , like their sizes , colors , and star - formation rates and intensities , are qualitatively and quantitatively similar to those of lbgs .",
+    "they are therefore reasonable local testbeds for further comparative study of lbgs , including constraints on mass .",
+    "our future plans include applying other morphological measures such as the gini coefficient ( lotz et al .",
+    "2004 ) and combining these stis uv images with wfpc2 and nicmos images in hand to constrain stellar populations , dust content , and merger scenarios ."
+  ],
+  "abstract_text": [
+    "<S> to make direct comparisons in the rest - far - ultraviolet between lbgs at @xmath0 and more local star - forming galaxies , we use hst / stis to image a set of 12 nearby ( @xmath1 )  galaxies in the fuv and a set of 14 luminous compact blue galaxies ( lcbgs ) at moderate redshift ( @xmath2 ) in the nuv , corresponding to the rest - fuv . </S>",
+    "<S> we then subject both sets of galaxy images and those of lbgs at @xmath0 to the same morphological and structural analysis . </S>",
+    "<S> we find many qualitative and quantitative similarities between the rest - fuv characteristics of distant lbgs and of the more nearby starburst samples , including general morphologies , sizes , asymmetries , and concentrations . </S>",
+    "<S> along with some kinematic similarities , this implies that nearby  galaxies and lcbgs may be reasonable local analogs of distant lyman break galaxies . </S>"
+  ]
+}

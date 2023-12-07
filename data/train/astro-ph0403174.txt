@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "it is evident from reverberation mapping studies that high- and low - ionization emission lines in agns show different time - lag responses to continuum variability .",
+    "presumably , they are generated at different distances from the central engine ( korista et al ; 1995 , santos - lle et al . ; 1997 , among others ) .",
+    "however , it is still a matter of debate whether the kinematics of the high- and low - ionization regions are fundamentally different ; e.g. , is the high - ionization gas associated with a wind and the low - ionization gas with a disk ? in this study we look for evidence of virialized motion from the emission lines of both high- and low - ionization gas of agns .",
+    "we do this by looking at line ratios as a function of projected velocity across the emission line profiles .",
+    "for this study , we measured emission line ratios as a function of projected velocity for eight agns with high signal - to - noise optical and uv spectra .",
+    "the sample is listed in table 1 .",
+    "the optical spectra , provided by giovanna stirpe , include the h@xmath0 and h@xmath1 lines .",
+    "[ sii ] @xmath2 , [ nii ] @xmath3 , [ oi ] @xmath4 + [ fex ] @xmath5 , [ oiii ] @xmath6 were deblended from the balmer lines , the narrow - line components were removed , and a power law continuum was subtracted , all as described in stirpe , 1991 .",
+    "the @xmath7 @xmath8 uv spectra were deblended of nv @xmath9 , aliii ] @xmath10 , siiii ] @xmath11 , and a local power law continuum was subtracted from the ly@xmath0 to ciii ] region .",
+    "next , we integrated all emission line fluxes over a high - velocity component centered at @xmath12 , an intermediate - velocity component centered at @xmath13 and a low - velocity component centered at @xmath14 . the ratios ly@xmath0/h@xmath0 , h@xmath1/h@xmath0 , ly@xmath0/civ and ciii]/civ for each velocity component were then calculated .",
+    "we used @xmath15 v90.04 ( ferland et al . ; 1998 ) to generate grids of emission line ratios as a function of hydrogen density , @xmath16 , and surface photon flux capable of ionizing hydrogen , @xmath17 .",
+    "the measured emission line ratios were compared to the predicted values to determine @xmath16 and @xmath17 as a function of velocity for the objects in our sample .",
+    "figures 1 and 2 show @xmath16 and @xmath17 averaged over the objects in our sample , normalized to the value for the low velocity gas .",
+    "figure 1 shows the predicted physical conditions as a function of velocity for the low - ionization gas , as deduced from the hydrogen lines .",
+    "note that the normalized surface photon flux is plotted to the one - fourth power .",
+    "if the photon flux ratio is linear with respect to the absolute value of the velocity in this plot , it implies the line - emitting gas obeys the inverse - square law .",
+    "figure 2 shows the same for the high - ionization gas , as deduced from the carbon lines and ly@xmath0 .",
+    "however , for this case , the normalized surface photon flux is @xmath18 raised to the one - fourth power , since @xmath17 is constant with respect to velocity for the high - ionization gas . in all figures",
+    "the errorbars show cumulative errors , including scatter in the average ratios across the sample as well as uncertainty in the physical conditions as deduced by matching observed line ratios to the photoionization models . the latter error results from uncertainties in deblending and continuum subtraction .",
+    "l + object +   + b2 2201 + 31a + fairall 9 + ngc 3783 + ngc",
+    "5548 + pg 1116 + 215 + pg 1211 + 143 + pg 1351 + 640 + pks 2251 + 113 +",
+    "a comparison of figures 1 and 2 shows a fundamental difference in the photoionization model predictions of physical conditions of the low- and high - ionization gas .",
+    "the low - ionization balmer - line - emitting gas ( figure 1 ) , shows a clear change in both @xmath16 and @xmath17 as a function of velocity .",
+    "the higher velocity gas is denser than low velocity gas .",
+    "there is also a trend toward higher @xmath17 as projected velocity increases , and the trend fits the inverse - square law within the errors . the high - ionization gas , however , shows no such trend ( figure 2 ) .",
+    "both @xmath16 and @xmath17 are constant as a function of projected velocity .",
+    "the results shown in figure 1 are consistent with the balmer line emitting gas being virialized .",
+    "the lower velocity low - ionization gas sees a smaller @xmath17 in accord with the inverse - square law .",
+    "figure 2 , however , is evidence of fundamentally different kinematics for the high - ionization gas that produces civ . in this case , the independence of physical conditions with respect to projected velocity , averaged over the sample , is consistent with gas motion that is not virialized ."
+  ],
+  "abstract_text": [
+    "<S> we present results from a study of high- and low - ionization emission line ratios as a function of projected velocity for a sample of eight active galactic nuclei ( agns ) . </S>",
+    "<S> our results are based on analysis of high signal - to - noise optical and _ hubble space telescope ( hst ) _ uv spectra . comparing the emission line ratios to those predicted by photoionization models </S>",
+    "<S> indicates that the physical conditions responsible for the high - ionization emission lines are consistent with a wind , whereas those of the low - ionization lines are consistent with a virialized disk . </S>"
+  ]
+}

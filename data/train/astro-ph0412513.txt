@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "several models are considered in the literature to explain the origin of the soft excess below 1  kev in agn , which can not be explained by either of the two emission components usually considered in accreting black holes , namely the accretion disk and the high energy power law comptonized emission .",
+    "spectra with a strong soft excess also often show a strong deficit at @xmath1  kev which again has no obvious identification .",
+    "* partial covering models * allow for a spatially non - uniform cold absorber attenuating only a fraction of intrinsic radiation .",
+    "they can explain the sharp features around 7  kev .",
+    "however , they require an enormous overabundance of iron ( 5 - 30 times the solar value @xcite ; 5 times the solar value @xcite ) , and they can not simultaneously explain the soft x - ray emission .",
+    "thus , we do not consider partial covering models in our analysis as they only provide a method to explain the sharp feature around 7  kev .",
+    "the soft excess may originate in a distinct unknown physical process which manifests itself as * a separate spectral component * ( model  1 ) .",
+    "it can be modeled e.g. with low temperature comptonization models @xcite ) .",
+    "the apparent temperature of this component is rather similar ( @xmath2  kev ) across a diverse selection of agn ( e.g. @xcite ) .    an obvious way to produce",
+    "a fixed soft excess energy is to relate it to atomic processes rather than continuum emission . in reflection models ,",
+    "the dramatic strength of the soft excess requires that the source is * reflection dominated * ( model  2 ) .",
+    "this might happen if the disc fragments at high accretion rates , hiding the hard x - ray source among many clumps .",
+    "such models can successfully fit the spectra , but need a large range in ionization states of the reflecting material , and supersolar abundances ( @xcite ) .",
+    "alternatively , the strong jump in opacity for partially ionized material could result in a soft excess from * absorption * ( model  3 , @xcite ) .",
+    "the underlying continuum may be modeled by only one component .",
+    "the soft excess and hardening of the spectrum at high energies would be only artifacts of absorption acting at 1 - 2  kev , while the h - like iron k alpha resonance absorption from the same material could produce the deficit at @xmath3  kev .",
+    "the best fit models ( and their components ) together with the data to model ratios are shown in figure  1 .",
+    "the models are additionally modified by galactic absorption , cold absorption at the redshift of the source , and one ( in 1h  0707 - 495 ) or two ( in pg  1211 + 143 ) warm absorbers modeling the narrow absorption features .",
+    "thus , the only thing that differentiates the three models is the description of the origin of the soft excess .",
+    ".results of spectral fits to the pg 1211 + 143 and 1h 0707 - 495 data [ cols=\"<,^,^,^ \" , ]     in pg  1211 + 143 the three models give virtually the same quality fits in terms of the reduced @xmath41.06 . in 1h  0707 - 495 the model of complex absorption results in a fit comparable to that of the model with a distinct spectral component ( with reduced @xmath0 of 1.10 and 1.08 ,",
+    "respectively ) . the best fit is obtained with the model of complex reflection ( with iron abundance set to 2 times the solar abundance ) with reduced @xmath0 of 1.03 .",
+    "the values of @xmath0 and number of degrees of freedom in fits are presented in table  1 .",
+    "based only on the @xmath0 criterion it is not possible to uniquely distinguish between the three kinds of models as each of them provides an adequate description .",
+    "moreover , many * model * uncertainties can contribute to @xmath0 , e.g. in both the reflection and absorption scenarios we expect an ( unknown ! ) range of ionization states to be present .",
+    "hence direct comparison of @xmath0 can be misleading when the models are known to be incomplete .",
+    "instead , we should be guided as well by physical plausibility .",
+    "the model with a distinct component involves an emission from an unknown physical process , with unknown process fixing its typical energy , which does not seem to have an analogue in the spectra of galactic black holes ( gbhs ) @xcite , and can not simultaneously explain the 7  kev feature .",
+    "by contrast , both reflection and absorption are much more plausible , as they give a physical reason fixed energy for the soft excess and can reproduce the structure around iron k. however , the reflection models require quite strong supersolar abundances , and there is no evidence for reflection dominated spectra in the gbh systems .    the absorption model seems to reproduce the strong soft excesses well with moderate column densities ( @xmath5  @xmath6 ) of solar abundance material .",
+    "such material would not be seen in the gbhs because it would be completely ionized by the much higher accretion disc temperatures seen in the stellar mass black hole systems .",
+    "thus the complex absorption model provides an interesting alternative because ( 1 ) it does not require a separate soft component in the spectra , ( 2 ) the hard radiation slope resulting from the fits is similar to that of gbhs in the high / soft state , ( 3 ) it describes the spectra of agns in terms of atomic processes , explaining the universal shape of the soft excess ."
+  ],
+  "abstract_text": [
+    "<S> we investigate the nature of the soft excess below 1  kev observed in agn . </S>",
+    "<S> we use the xmm - newton data of the low redshift , optically bright quasar , pg  1211 + 143 , and we compare it with the narrow line seyfert 1 galaxy , 1h  0707 - 495 , which has one of the strongest soft excesses seen . </S>",
+    "<S> we test various ideas for the origin of the soft x - ray excess , including a separate spectral component ( for example a low temperature comptonized component ) , a reflection - dominated model , or a complex absorption model . </S>",
+    "<S> all three can give good fits to the data , and @xmath0 fitting criteria are not sufficient to discriminate among them . </S>",
+    "<S> instead , we favor the complex absorption model on the grounds that it is the most physically plausible .     </S>",
+    "<S> address = copernicus astronomical center , warsaw , poland     address = university of durham , durham , uk </S>"
+  ]
+}

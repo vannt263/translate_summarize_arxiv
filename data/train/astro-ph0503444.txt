@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "since one can not study directly how a galaxy forms and evolves ( how the mass and luminosity of a galaxy change with time ) , it becomes necessary to analyse the statistics of a large number of galaxies at different epochs . using the swire ( lonsdale et al .",
+    "2004 ) 24 m mips - band , one is able observe the fir emission from dust , tracing star - formation ( sf ) regions and sf - galaxies . by studying these galaxies at different epochs one can gain an estimate of the star formation history of the universe . as a follow up to swire , a spectroscopic redshift survey covering a 0.55 deg@xmath3 region , centred in the lockman validation field was undertaken .",
+    "the sample was observed using the hydra spectrometer on the 4-m wiyn telescope at kpno and included 24 m sources down to a vega r - band magnitude of @xmath0 .",
+    "a total of 286 24 m sources were observed and redshifts for the resultant spectra were determined .",
+    "redshifts for 170 sources with 24 m fluxes down to a flux limit of 260jy were determined , giving a spectroscopic completeness for the sample of 82.5% .",
+    "in order to determine each object s 24 m luminosity ( l@xmath4 ) an appropriate sed and k - correction for that galaxy must be chosen .",
+    "here 6 seds were chosen , 2 agn , 2 spiral and 2 starburst ( xu et al . , 2001 ) .",
+    "the fitting was performed using a minimum @xmath5 technique that incorporated an error weighting ( including a dispersion factor , previously unseen in the literature ) .",
+    "this dispersion factor accounts for the scatter within a particular population of galaxies in colour - colour space .",
+    "each sed was then convolved through the 24 m filter .",
+    "the lf@xmath4 was estimated by implementing the 1/vmax estimator technique ( schmidt 1968 ) and took into account both the r - band and 24 m flux limits .",
+    "a redshift split at @xmath2 was imposed , allowing evolution in the sample to be investigated , see fig.1 . the high - z sample ( pale line )",
+    "is composed of 38% of the total z - sample with v / vmax=0.72@xmath60.04 , showing strong evidence for luminosity evolution . the low - z sample ( dark line )",
+    "is composed of 62% of the total z - sample with v / vmax=0.46@xmath60.03 .",
+    "note : incompleteness corrections need to be applied to the faintest luminosity bins of the high - z sample .",
+    "parameterization of the swire lf was performed and a comparison with low - z from iras was made . using mcmc ( kashyap 1998 ) & mle ( sandage , et al .",
+    "1979 ) techniques to fit saunders et al .",
+    "1990 parametric form of the lf , the best fitting mcmc and mle model fits to the swire lf@xmath4 are shown in fig.2 . a direct comparison to shupe et al .",
+    "1998 lf@xmath7 is also shown in fig.2 . since this is an apriori model and not a fit it provides a fairly good description of our data .",
+    "kashyap et al .",
+    "1998 , aspc , 154 , 844 ................... schmidt.m 1968 , apj , 151 , 393 lonsdale et al .",
+    "2004 , apj , 1 , 54 .......................... shupe et al .",
+    "1998 , apj , 501 , 597 sandage , et al .",
+    "1979 , apj , 232 , 352 ......................... xu et al .",
+    "2001 , apj , 562 , 179 saunders et al .",
+    "1990 , mnras , 242 , 318"
+  ],
+  "abstract_text": [
+    "<S> a spectroscopic follow - up of swire sources from the lockman validation field has allowed the determination of the swire / wiyn 24 m luminosity function ( lf ) . </S>",
+    "<S> the spectroscopic sample was chosen above a 24 m flux limit at 260jy and an r - band optical limit of @xmath0 . </S>",
+    "<S> a spectroscopic completeness of 82.5% was achieved . </S>",
+    "<S> we found the median redshift for the sample to be @xmath1 . </S>",
+    "<S> markov - chain monte - carlo ( mcmc ) and maximum likelihood estimator ( mle ) techniques were employed to fit a parametric lf . </S>",
+    "<S> our result of the local lf ( llf ) is consistent with the local 25 m determination from shupe et al .(1998 ) . </S>",
+    "<S> we split the sample at a redshift of @xmath2 and find strong evidence for galaxy evolution . </S>"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "broad emission lines in agn spectra respond to variation of the central source continuum luminosity with a delay due to light - travel time effects .",
+    "this allows to derive the geometry of the broad line region ( blr ) through the `` echo mapping '' process , based on cross - correlation analysis of continuum and line variations .",
+    "studies of seyfert galaxies provided sizes @xmath4 of the blr from light - days to light - weeks , an order of magnitude smaller than originally predicted by photoionization models , providing new insight into the physics of blr gas ( peterson 1993 ; netzer & peterson 1997 ) . adding to the geometrical information an estimate of cloud velocity , derived from the width of @xmath5 emission line @xmath6 , it is possible to derive the mass @xmath7 of the central black hole as @xmath8",
+    "the analysis of a sample of 34 agns with @xmath9 and @xmath10 , observed partly at the 2.3 m telescope of the steward observatory and partly at the 1 m telescope of the wise observatory , allowed the extension of the sample up to 100 times brighter objects and the definition of a size - luminosity relation of the type @xmath11 , resulting in a mass - luminosity relation : @xmath12 ( kaspi et al . 2000 ) .",
+    "the latter relation can be used to derive `` single epoch '' mass estimates based on measurements of @xmath13 and @xmath14 , allowing , in principle , to study the evolution of agn masses in cosmic time .",
+    "however this requires an extrapolation of the above relation to high - redshift and high - luminosities objects .",
+    "the reliability of the extrapolation depends on the possibility of a calibration with masses and luminosities directly derived from echo - mapping measurements of high-@xmath15 and high-@xmath16 objects , which are observed at shorter rest - frame waveleghts where different emission lines are seen ( e.g c iv 1540   instead of hydrogen balmer lines ) .    for this purpose",
+    "we have started a spectrophotometric monitoring campaign of a sample of bright , intermediate redshift objects , using the 1.5 m and the 1.8 m telescopes , respectively of the loiano ( bologna ) and asiago ( padua ) observatories .",
+    "selection from the veron - cetty & veron ( 2003 ) catalog of all agns brighter than @xmath17 , @xmath18 and @xmath19 yields 12 objects with redshifts in the range 1.083 to 3.911 .",
+    "we started repeated observations of 5 of them , listed in table 1 together with their positions , redshifts , apparent @xmath20 magnitudes .",
+    "both loiano and asiago telescopes are equipped with identical faint object spectrograph & camera , bfosc and afosc respectively , designed to allow a quick switching between spectroscopic and imaging mode .",
+    "bfosc uses a back illuminated 1300x1340 ccd array eev d129915 with 20x20 micron pixels corresponding to a scale of 0.58 arcsec pixel@xmath21 .",
+    "we adopted a 5\"-wide slit and a grism with a dispersion of 3.97    pixel@xmath21 corresponding to a spectral resolution of @xmath22   and a spectral range 3800 - 8500  .    afosc uses a 1100x1100 ccd array tek1024 thinned with 22x22 micron pixels corresponding to 0.473 arcsec .",
+    "we adopted a 8\".4-wide slit and a grism with a dispersion of 4.99   pixel@xmath21 , corresponding to a resolution @xmath23   and a spectral range 3500 - 8450  .",
+    "for each qso we selected a comparison star of comparable magnitude included in a field of about 15x15 arcmin ( see maoz et al .",
+    "1994 ) , and spectroscopic observations were performed rotating the slit to include the comparison star . this allows the normalize the data at one reference epoch , as described below .",
+    "typical observations consist of two consecutive exposures of 1800 s. the qso to reference star ratio , as a function of wavelength is computed for each frame .",
+    "this quantity must be independent of extinction changes during the night .",
+    "this allows a check of consistency between the frames and the rejection of the data if inconsistencies occur .",
+    "kaspi , s. , et al .",
+    "2000 , apj 533 , 649 maoz , d. , et al .",
+    "1994 , apj 421 , 34 netzer , h. 2003 , apj 583 , l5 netzer , h. , & peterson , b. 1997 , astronomical time series , eds .",
+    "d. maoz et al . , p.85 peterson , b. 1993 , pasp 105 , 247 veron - cetty , p. & veron ,",
+    ", a catalogue of quasars and active nuclei ( 11th edition )"
+  ],
+  "abstract_text": [
+    "<S> agn masses can be estimated by `` single epoch '' spectral measurements through a mass - luminosity- linewidth relation calibrated by echo mapping measurements of a reference sample of low redshift ( @xmath0 ) and low luminosity ( @xmath1 ) agns . to analyze the possible dependence of this relation on luminosity we selected a sample of bright , intermediate redhift ( @xmath2 ) objects and we started a spectrophotometric monitoring campaign with a typical sampling time of about one month . </S>",
+    "<S> variability observations of lines with shorter wavelength than h@xmath3 will also provide new information on the structure of the broad line region . </S>",
+    "<S> cross - correlation analysis of continuum and line variations will require years of monitoring . </S>",
+    "<S> we present a preliminary analysis of the data collected during the first year of observations and we discuss the adequacy of the spectrophotometric accuracy attained and future prospects of this project . </S>"
+  ]
+}

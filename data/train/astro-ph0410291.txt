@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "synchrotron aging can provide wealth of information related to plasma conditions in young supernovae .",
+    "we discuss two supernovae in this context - an eleven years old type - iib supernova sn 1993j and a one year old type - ic sn 2003bg .",
+    "we observed sn 1993j around day 3200 with the gmrt in 610 , 235 and 1420 mhz bands combined this dataset with the high frequency vla observations provided by c. stockdale & collaboration ( see @xcite ) .",
+    "the spectrum suggests a break in the spectral index ( @xmath0 ) in the optically thin part of the spectrum at 4 ghz ( fig .",
+    "this variation is consistent with that predicted from the synchrotron cooling effect with continuous injection @xcite . including the effect of acceleration and adiabatic loss processes , and using size of the sn @xmath1 cm on day 3200 from vlbi @xcite",
+    ", we obtain magnetic field @xmath2 g @xcite . from the best fit in ssa ,",
+    "the magnetic field under equipartition assumption is @xmath3 mg .",
+    "comparison of the two magnetic field determines the the ratio of relativistic energy of particles to magnetic field energy , which is @xmath4 .",
+    "sn 2003bg is type ic supernova in mcg -05 - 10 - 015 ( 19 mpc ) .",
+    "it was discovered on 2003 feb 25 , most likely two weeks after the explosion .",
+    "we observed sn 2003bg with gmrt in 1280 , 610 and 325 mhz bands between 2003 feb 2- feb 8 and it was observed at high vla frequencies on 2003 feb 8 by a. soderberg and s. kulkarni , thus obtaining the radio spectrum covering @xmath5 ghz .",
+    "we fit homogeneous free - free absorption ( ffa ) and synchrotron self absorption ( ssa ) models to the spectrum ( see fig .",
+    "1 ) . the 610 mhz data point clearly eliminates the ffa model and favors the ssa model .",
+    "we find the following parameters from our fits : spectral index ( @xmath6 ) , size of sn 2003bg ( @xmath7 cm ) , expansion speed ( @xmath8 ) , and magnetic field ( @xmath9 g ) .",
+    "there seems to be hint of a break around 30 ghz , although this could be due to calibration problems at high frequencies .",
+    "we need the radio spectrum extended beyond 40 ghz to determine if the break is real .",
+    "we are planning simultaneous observations of sn 2003bg with gmrt along with vla and atca .",
+    "this will provide us the spectrum from 0.2 ghz to 80 ghz and will establish whether the spectral break is real or due to data artefact .",
+    "the relativistic particle energy density is far below than the magnetic energy density ( by a factor of 1/10000 ) .",
+    "this is quite unlike the expectation of efficient shock acceleration of relativistic particles in sne .",
+    "the expected fraction of post - shock pressure in relativistic particles is @xmath10 as 10% of the energy ejected by the sne is needed to power the cosmic rays in the galaxy @xcite .",
+    "it indicates that perhaps the efficiency of acceleration is either highly variable in sne , or it will evolve with time in sn 1993j .",
+    "bartel , n. , bietenholz , m.f . ,",
+    "rupen , m.p . ,",
+    "et al 2002 apj , 581 , 404 chandra , p. , ray , a. , bhatnagar , s. 2004 , , 612 , 974 chevalier , r. 1998 apj , 499 , 810 kardashev , n.s . , 1962 , sov .",
+    "astr . , 6 , 317 mckee , c. f. 1987 , spectroscopy of astrophysical plasmas , p. 226"
+  ],
+  "abstract_text": [
+    "<S> we present here the combined radio spectrum from the giant metrewave radio telescope ( gmrt ) and very large array ( vla ) of type - iib sn 1993j ( age 11 years ) and a type - ic sn 2003bg ( age 1 year ) . in sn 1993j </S>",
+    "<S> , we find a break in the spectrum at 4 ghz and associate it with synchrotron cooling break . </S>",
+    "<S> hence , we determine the magnetic field independent of equipartition assumption between relativistic electrons and magnetic energy . </S>",
+    "<S> we also see a hint of break in the spectrum of sn 2003bg between 22 - 40 ghz . </S>",
+    "<S> the spectrum of sn 2003bg is well described by the synchrotron self absorption model . </S>"
+  ]
+}

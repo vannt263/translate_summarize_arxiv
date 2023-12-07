@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "white dwarf envelope models with steady hydrogen burning have been calculated for realistic compositions of white dwarf envelopes in classical novae , and their evolution has been approximated as a sequence of steady states .",
+    "three chemical compositions for one novae have been considered , corresponding to models from @xcite with 25% , 50% and 75% mixing between the solar accreted matter and the degenerate core .",
+    "results show that , for a given white dwarf mass and composition , the envelope evolves in the hr diagram increasing its effective temperature along a plateau of quasi - constant luminosity , while its mass slowly decreases due to hydrogen burning .",
+    "when the envelope mass is reduced to the minimum value for steady hydrogen burning , the source turns - off .",
+    "this occurs just when the maximum effective temperature is reached .",
+    "both the luminosity and the envelope mass during the plateau depend on the white dwarf mass and hydrogen mass fraction .",
+    "the behaviors of luminosity and envelope mass as a function of white dwarf mass and hydrogen mass fraction can be approximated by the expressions    @xmath0    @xmath1",
+    "we have compared @xcite results on the soft component of v1974 cyg ( nova cygni 1992 ) during the plateau phase with our steady hydrogen burning white dwarf envelope models . in fig .",
+    "[ figures ] , the @xmath2 contours of the spectral parameters found by balman , krautter , & gelman ( 1998 ) are plotted over the photospheric radius - effective temperature results from our envelope models with 25% and 50% mixing . for each model , the lower panels show the corresponding envelope mass with the time intervals ( in days ) for quasi - static evolution .",
+    "it is clear that the large error bars on the photospheric radius , due to the uncertainty on the distance , prevent any clear comparison with the value predicted by the models .",
+    "nevertheless , the comparison of the observed evolution of the effective temperature alone with the models indicates that the soft x - ray emission of v1974 cyg is compatible with the evolution of an envelope with steady hydrogen burning , on either a 0.9 m@xmath3 white dwarf with 50% mixing , or 1.0 m@xmath3 with 25% mixing .",
+    "note that this comparison based on the effective temperature is independent from the distance determination .    in any case",
+    ", the envelope mass for stable hydrogen burning ( @xmath4 m@xmath3 ) is much smaller than the mass needed to trigger the nova outburst for these masses and compositions ( @xmath5 m@xmath3 , jos & hernanz 1998 ) . as the ejected fraction , according to hydrodynamical models , is not sufficient to reduce the envelope mass down to the values for stable hydrogen burning , it is clear that some extra mass loss mechanism must be present after the outburst ."
+  ],
+  "abstract_text": [
+    "<S> detection of x - ray emission from classical novae in their post - outburst stages provides crucial information about the nova phenomenon . </S>",
+    "<S> the soft x - ray emission gives a direct insight into the remaining hot nuclear burning shell . </S>",
+    "<S> a numerical model for steady h - burning white dwarf envelopes has been developed to study the post - outburst phases of classical novae . </S>",
+    "<S> properties of the x - ray emission of the post - nova white dwarf are obtained , and the results are compared to rosat observations of v1974 cyg . </S>"
+  ]
+}

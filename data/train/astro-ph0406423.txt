@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "following @xcite , we adopt for @xmath0 tauri a luminosity class of iv and a spectral type of @xmath1 .",
+    "this corresponds to an effective temperature of @xmath2 and a stellar radius of @xmath3 .",
+    "we use spectroscopic and spectropolarimetric data from the half - wave plate spectropolarimeter ( hpol ) on the universty of wisconsin s pbo . for details on data",
+    "acquisition and reduction see @xcite .",
+    "in addition to the optical data we use archival iras fluxes at 12 , 25 and 60 @xmath4 .",
+    "we adopt a viscous decretion alpha disk composed of pure hydrogen , which rotates with keplerian velocity and has a steady - state power - law surface density .",
+    "the vertical density structure of the disk is obtained from the solution of the hydrostatic equilibrium ( hseq ) equations , and is self - consistently determined in conjunction with the disk temperature structure and level populations .",
+    "it is interesting to note that the only free parameter ( aside from the stellar parameters and the outer radius of the disk ) is the disk density scale .",
+    "our best fit model corresponds to a density at the base of the star of @xmath5 and an inclination angle of @xmath6 . in figure 1",
+    "we display the disk temperature structure .",
+    "it is interesting to note the drop of the temperature in the equator and the fact that the disk becomes nearly isothermal for large radii . in figure 2",
+    "we show our results for the optical sed , ir sed and polarization .",
+    "using our keplerian disk model we were able to obtain a very reasonable fit for both the flux and polarization .",
+    "considering that our model is essentially a one - parameter model , we believe it represents a strong evidence in support for the existence of keplerian or near keplerian disks around classical be stars ."
+  ],
+  "abstract_text": [
+    "<S> we present a model for the disk of the classical be star @xmath0 tauri . </S>",
+    "<S> the model consists of a keplerian rotating disk with a power - law surface density and a vertical density distribution that follows from the balance between the thermal gas pressure and the z - component of the stellar gravitation . </S>",
+    "<S> the opening angle of such a disk is not a fixed value but increases with the distance to the star ( flared disk ) . </S>",
+    "<S> we use a monte carlo code that solves simultaneously the thermal equilibrium , the statistical equilibrium and the hydrostatic equilibrium equations . </S>",
+    "<S> the result is a self - consistent solution for the electron temperature , level populations and gas density distribution . </S>",
+    "<S> it follows from this model that the only free parameter is the disk density . </S>",
+    "<S> all other parameters ( e.g. shape of the disk surface ) are self - consistently calculated given the disk density . </S>",
+    "<S> in this paper we present a successful fit for @xmath0 tauri data using this model . </S>"
+  ]
+}

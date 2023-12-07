@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "this study combines the results of theoretical and observational studies to the life time of stellar clusters .",
+    "it is of vital importance to understand how disruption processes influence a cluster population in order to get better understanding of the observed luminosity and mass distribution .",
+    "a key question in studying cluster mass functions is whether the power law mass distribution of young clusters , as observed in interacting / merging and starburst galaxies , will evolve into a log - normal mass distribution as observed for old globular cluster populations .",
+    "if so , a preferential depletion of low mass clusters is necessary .",
+    "the two most important dynamical processes influencing the cluster mass function are 1 ) evaporation , which is due to internal relaxation of the cluster and 2 ) tidal shocking .",
+    "the first is a result of two body interactions within the cluster which drive the low mass stars through interaction with higher mass stars to the edge of the cluster until they reach a velocity greater than the escape velocity and leave the cluster .",
+    "tidal shocks can be caused by passing giant molecular clouds ( gmcs ) or when the cluster travels through a disk , bulge or spiral arm .",
+    "the stars in the cluster gain kinetic energy which causes the cluster to expand and become less gravitationally bound .",
+    "the time scales involved for relaxation and shocks depend on the mass and the half - mass radius of the cluster : @xmath6 and @xmath7 .",
+    "boutloukos & lamers ( 2003 ) ( bl03 ) and zepf et al .",
+    "( 1999 ) have proposed that if a general dependence between the disruption time and the mass exists of the form @xmath8 , that there should be a relation between the mass and the radius of the cluster : @xmath5 in order to reduce both time scales to the simple expression @xmath9 .",
+    "this shallow relation between radius and mass has been observed for clusters in ngc3256 ( zepf et al .",
+    "1999 ) and several spiral galaxies ( larsen , these proceedings )",
+    "bl03 propose a scaling law for the disruption time of a star cluster :    @xmath10    with @xmath2 the typical disruption time of a 10@xmath11 cluster and @xmath12 a dimensionless index .",
+    "@xmath2 and @xmath12 can be derived from the age and mass distributions of a cluster sample .",
+    "bl03 did this for different galaxies and found that @xmath13 is varying per galaxy but that @xmath12 is remarkably constant with @xmath14 .",
+    "disruption according to eq .",
+    "1 is needed to explain the observed mass and age distribution of clusters in m51 ( see also gieles et al . , these proceedings )",
+    "baumgardt & makino ( 2003 ) have studied disruption of clusters of different mass and in different orbits in an external tidal field by means of @xmath0-body simulations .",
+    "a clear power - law relation between the disruption time and the initial mass is found .",
+    "the mean predicted slope , corresponding to the @xmath12 value , is @xmath15 which agrees very well with the empirical value .",
+    "the scaling value @xmath2 found in these simulations depends strongly on the distance to the galactic center and ranges between 2 gyr and 10 gyr for clusters in a spherical symmetric potential .",
+    "this is much larger then the values found by bl03 ( @xmath161 gyr for the solar neighborhood ) .",
+    "this can be explained by the different definitions of the empirical disruption time and the calculated life time and by the fact that the simulations did not include a disk , spiral arms and gmcs which all decrease the life time of the cluster in the disk of our galaxy ."
+  ],
+  "abstract_text": [
+    "<S> observations and @xmath0-body simulations both support a simple relation for the disruption time of a cluster as a function of its mass of the form : @xmath1 . </S>",
+    "<S> the scaling factor @xmath2 seems to depend strongly on the environment . </S>",
+    "<S> predictions and observations show that @xmath3 . </S>",
+    "<S> assuming that @xmath4 is caused by evaporation and shocking implies a relation between the radius and the mass of a cluster of the form : @xmath5 , which has been observed in a few galaxies . </S>",
+    "<S> the suggested relation for the disruption time implies that the lower mass end of the cluster initial mass function will be disrupted faster than the higher mass end , which is needed to evolve a young power law shaped mass function into the log - normal mass function of old ( globular ) clusters .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

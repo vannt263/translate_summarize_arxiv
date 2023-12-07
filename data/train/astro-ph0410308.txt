@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "we present here an overall view of the 30 velocity fields in the virgo cluster ( fig .",
+    "[ figposvf ] ) . the whole data mining procedure and fp - h@xmath0   catalog will be fully described in chemin et al .",
+    "( 2004 , to be submitted ) .",
+    "previous results for a sub - sample of 9 galaxies were presented in chemin ( 2003 ) and for the strongly perturbed spiral galaxy ngc 4438 in chemin et al .",
+    "( 2004 , submitted ) .",
+    "forthcoming papers will detail the analyses and results for the whole sample or for individual galaxies : comparison with the  and co ( cayatte et al .",
+    "1990 , sofue et al . 2003 ) and long - slit ( rubin et al . 1999 ) virgo catalogs , tilted - ring models of velocity fields , rotation curves , residual velocity fields , determination of bar pattern - speeds for barred galaxies , dark matter distribution and also comparison with isolated galaxies ( garrido et al . 2002 ) .",
+    "the high - resolution data should also be used to compare with results from numerical simulations of ram - pressure stripping and/or tidal interactions ( vollmer et al .",
+    "+     w.r.t . the real scale .",
+    "the locations of the 3 large ellipticals m49 , m86 and m87 are shown using broad - band optical images .",
+    "the colour scale is blue - darker shades ( red - lighter shades ) for the approaching ( receding respectively ) side of galaxies .",
+    "the velocity range of each galaxy will be presented in chemin et al .",
+    "( in prep.).,width=453 ]    cayatte , v. , van gorkom , j. , balkowski , c. , et al . 1990 ,",
+    "aj , 100 , 604 chemin , l. , 2003 , phd thesis , universit paris 6 garrido , o. , marcelin , m. , amram , p. , et al 2002 , a&a , 387 , 821 rubin , v. , waterman , a. h. , & kenney , j. d. p. 1999",
+    ", aj , 118 , 236 sofue , y. , koda , j. , nakanishi , h. , et al .",
+    "2003 , pasj , 55 , 17 vollmer , b. , cayatte , v. , balkowski , c. , et al .",
+    "2001 , apj , 561 , 708"
+  ],
+  "abstract_text": [
+    "<S> we have completed a survey of 30 virgo cluster galaxies in the h@xmath0  emission - line using fabry - perot interferometry . </S>",
+    "<S> the goal of the survey is to obtain a high angular resolution sample of velocity fields of spirals and to study the environmental effects on their kinematics and dynamics . </S>"
+  ]
+}

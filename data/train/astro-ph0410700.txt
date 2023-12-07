@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "classical novae occur in close binary systems ( main - sequence star + white dwarf ) .",
+    "v4743sgr has been discovered as a nova on sep 20 , 2002 ( haseda et al .",
+    "2002 ) . a first chandra observation , taken with acis - s in dec 2002 ( ness et al . 2003 ) , shows a x - ray spectrum which is consistent with a view on the optically thick atmosphere of an extremely hot white dwarf with strong cv , nvi , and nvii absorption features ( indicating @xmath0 of 1  2 mk , ness et al .",
+    "2003 ) which are blue shifted ( km / sec )  most likely expanding gas which consists out of cno - processed material .",
+    "v4743sgr was a very fast nova , with a steep decline in the optical light curve and large ejection velocity .",
+    "the time to decay by 3 mag in the visual ( @xmath1 ) , was 15 days and the full width at half maximum ( fwhm ) of the h@xmath2 line reached 2400 km / sec ( kato et al . 2002 ) .",
+    "v4743sgr was observed with the xmm - newton satellite on apr 4 , 2003 for about 10h .",
+    "the epic - pn count rate in timing mode was 1348 cts / sec ( orio et al .",
+    "the spectrum appears to be extremely soft with absorption features ( fig .",
+    "[ xmm ] ) , which are attributed to the white dwarf s atmosphere .",
+    "because of the high s / n achieved , we have used the xmm - newton rgs spectra obtained during this observation to start fitting the stellar atmosphere , although we are also working at fitting the previous spectrum , and later ones , obtained with chandra letg .",
+    "rlrrrrlrrr & ion & nlte & lte & rbb & & ion & nlte & lte & rbb + h & i & 5 & 11 & 10 & ne & vii & 10 & 50 & 12 + & ii & 1 & - & - & & viii & 8 & 18 & 15 + he & i & 1 & 21 & 0 & & ix & 5 & 6 & 3 + & ii & 10 & 22 & 45 & & x & 1 & 0 & 0 + & iii & 1 & - & - & mg & viii & 1 & 19 & 0 + c & v & 29 & 21 & 60 & & ix & 3 & 23 & 1 + & vi & 15 & 21 & 26 & & x & 2 & 3 & 1 + & vii & 1 & 0 & - & & xi & 5 & 6 & 1 + n & v & 5 & 15 & 6 & & xii & 1 & 0 & 0 + & vi & 17 & 7 & 33 & s & x & 1 & 7 & 0 + & vii & 15 & 21 & 30 & & xi & 5 & 29 & 1 + & viii & 1 & 0 & - & & xii & 10 & 12 & 15 + o & vi & 1 & 34 & 0 & & xiii & 9 & 21 & 10 + & vii & 19 & 7 & 21 & & xiv & 9 & 1 & 15 + & viii & 15 & 30 & 30 & & xv & 1 & 0 & 0 + & ix & 1 & 0 & - & & & & & + & & & & & & 208 & 409 & 332 +",
+    "the plane - parallel , static models are calculated with tmap , the tbingen nlte model atmosphere package ( werner et al .",
+    "2003 , rauch & deetjen 2003 ) .",
+    "the first set of models is composed out of h+he+c+n+o , then ne+mg+s are added subsequently in a line - formation calculation . however",
+    ", in general tmap can treat all elements from hydrogen to the iron group simultaneously ( rauch 1997 , 2003 ) .",
+    "a small grid of model atmospheres was calculated in order to match the relevant temperature range ( fig .",
+    "[ synflux ] ) .",
+    "the statistics of the model atoms which were used in the calculations are summarized in table [ stat ] .",
+    "the comparison of our preliminary model atmosphere fluxes with the apr 2003 xmm - newton rgs spectrum of v4743sgr ( fig .",
+    "[ xmm ] ) with the help of xspec has shown that at solar abundance ratios , we can not fit the overall flux distribution because the flux at wavelength smaller than 26  is too low ( figs.[comflux ] , [ xmm ] ) .",
+    "although the fit is not perfect yet , it is obvious that the c / n abundance ratio is much smaller ( about a hundred times ) than the solar value , typical for cno processed material .",
+    "the fit to the observation ( fig .",
+    "[ xmm ] ) , based on our first test models ( fig .",
+    "[ synflux ] ) , is best at a @xmath0 of about 610kk and @xmath3 .",
+    "haseda , k. , west , d. , yamaoka , h. , & masi , g. 2002 , iau circ .",
+    "7975 kato , t. , hishikura , t. , west , j.d .",
+    ", et al . 2002 , iau circ .",
+    "7976 ness , j .- u . , starrfield , s. , burwitz , v. , et al .",
+    "2003 , apj , 594 , l127 orio , m. , leibowitz , e. , rodriguez , p. , et al .",
+    "2003 , iau circ .",
+    "8131 rauch , t. 1997 , , 320 , 237 rauch , t. 2003 , , 403 , 709 rauch , t. , & deetjen , j.l .",
+    "2003 , in : workshop on stellar atmosphere modeling , eds .",
+    "i. hubeny , d. mihalas , k. werner , the asp conference series , 288 , 103 werner , k. , dreizler , s. , deetjen , j.l . , nagel , t. , rauch , t. , & schuh , s.l . 2003 , in : workshop on stellar atmosphere modeling , eds .",
+    "i. hubeny , d. mihalas , k. werner , the asp conference series , 288 , 31"
+  ],
+  "abstract_text": [
+    "<S> half a year after its outburst , the nova v4743sgr evolved into the brightest super - soft x - ray source in the sky with a flux maximum around 30 , exhibiting resonance lines of cv , cvi , nvi , nvii , and ovii . </S>",
+    "<S> we present preliminary results of an analysis of the xmm - newton rgs spectra by means of nlte model - atmosphere techniques . </S>"
+  ]
+}

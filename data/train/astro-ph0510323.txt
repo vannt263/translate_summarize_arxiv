@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "in the process of understanding the internal mechanism of the gamma ray bursts it is of great importance , to classify the events , to find important and less important variables among the observed parameters . searching for groups and subgroups is still one of the main goals of the grb research .",
+    "the batse grb database produced interesting results ( e.g. @xcite and the references therein ) .",
+    "batse cont data are available on the internet via anonymous ftp from the cgro science support center site @xcite .",
+    "the cont data type is trigger independent , has a spectral resolution of @xmath0 channel and a temporal resolution of @xmath1 s. data are organized into 8x16 matrices for each time bin , 8 being the number of detectors and 16 the number of energy channels .",
+    "these channels are used to approximate the burst s spectrum which is quite variable during the burst ( e.g. @xcite ) .",
+    "we estimated using principal component analysis ( pca ) how many parameters are necessary to characterize cont data .",
+    "in the cont database there are @xmath2 bursts ranging from batse trigger number @xmath3 to @xmath4 .",
+    "the data are background - subtracted and continuous .",
+    "there is no clear indication where the burst starts or where it ends , so we defined the following criteria : if the count rate exceeds the @xmath5 level for a given energy channel , the entire bin is included in the summation , where @xmath6 is the variation of counts in the given channel .",
+    "the background variation of a channel ( @xmath6 ) is the average count rate over selected `` burst - free '' intervals calculated from 200 time bins when no burst has occurred .",
+    "after the summation every burst was represented by a @xmath0-element vector . at some bursts none of the channels had a greater count rate than @xmath7 and obviously these bursts were excluded from the sample .",
+    "summing up the selected time bins ( for the triggered detectors only ) we got a 16-element vector for each burst . excluding the bursts with no counts above the @xmath5 level meant to exclude @xmath9 grbs .",
+    "further @xmath10 were excluded because they had more than four negative elements .",
+    "therefore @xmath11 bursts remained in this analysis . to proceed further in processing the data we took the logarithm of the count values and divided them with the sum of the 16 elements .",
+    "( if we keep only the bursts with 16 positive values only 104 bursts remain , therefore if the burst has less than five negative values these values are replaced with 1 , which should not cause significant changes in our analysis . )    [ 0.8 ]",
+    "the pca @xcite method has a growing importance in astronomy @xcite .",
+    "it is used to distinguish between relevant and non - relevant variables .",
+    "one can imagine the method as a rotation in a multi - dimensional space ( with normalized variables ) which finds the direction of the greatest standard deviation .",
+    "based on our sample of @xmath11 bursts we have performed a principal component analysis .",
+    "since we divided with the sum of the 16 elements of the vector , the most obvious principal component , the intensity of the burst has not been taken into account .",
+    "table [ table : pca ] . shows the eigenvalues of the pca .",
+    "if the eigenvalue is less than 0.7 ( joliffe level @xcite ) the pc is not important .",
+    "if the eigenvalue is bigger than 1 the pc is very important .",
+    "therefore the five biggest pcs are enough to describe the mer spectra of the bursts .",
+    "these five pcs contain the 78.1% of the whole mer spectral information .",
+    "* figure 1 .",
+    "* shows the first vs. second pcs distribution .",
+    "the 401 positions of the bursts lay in an area that can be delimited by an arc . as * figure 2 .",
+    "* shows the spectra change continuously along the arc .",
+    "to position @xmath12 .",
+    ", scaledwidth=90.0% ]",
+    "we performed pca on the 16x401 element matrix and we concluded that the information specific for the spectra ( not considering the intensity ) can basically be given by the first five principal components .",
+    "furthermore , we recognized the distribution of grbs in the scatter plot of the first two pcs can be delimited roughly by an arc ."
+  ],
+  "abstract_text": [
+    "<S> the cgro / batse database includes many types of data such as the 16-channel continuous background or medium energy resolution burst data ( cont and mer data types ) . </S>",
+    "<S> we have calculated some four hundred burst s medium energy resolution spectra and principal component analysis has been applied . </S>",
+    "<S> we found five components can describe grbs spectra .    </S>",
+    "<S> [ 1999/12/01 v1.4c il nuovo cimento ] </S>"
+  ]
+}

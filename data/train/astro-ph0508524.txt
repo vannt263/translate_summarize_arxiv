@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "approximately 10  per  cent of all active galactic nuclei ( agn ) are classified as being radio - loud ; that is , the logarithm of the ratio of the radio ( 5  ghz ) to optical ( @xmath8-band , 4400 ) fluxes , r@xmath9 , is @xmath10  1 ( wilkes & elvis 1987 ; kellerman 1989 ) . in general , for a given optical luminosity , the x - ray emission from radio - loud quasars ( rlqs ) is about three times greater than that from their radio - quiet counterparts ( rqqs ; zamorani 1981 ; worrall 1987 ) , which allows them to be studied out to higher redshifts .",
+    "the high effective area of the epic ( european photon imaging camera ; turner 2001 ; str \" uder 2001 ) instruments on - board _ xmm - newton _ is enabling the detection of an ever - increasing number of high - z quasi - stellar objects ( qsos ) , both radio - quiet and radio - loud .    in page",
+    "( 2004a ) , the authors investigated the x - ray spectra of a sample of high - luminosity rqqs , finding that the continuum shape is essentially the same as for lower - luminosity ( and , presumably , lower black - hole mass ) radio - quiet agn , i.e. seyfert galaxies .",
+    "the broad - band x - ray spectra could be well modelled either by a power - law ( @xmath11  @xmath1  1.9 ) together with one or two blackbody components to parametrize the soft excess , or by a double comptonisation model ( one component modelling the high - energy power - law ; the other , the soft excess ) .",
+    "some of the rqqs showed evidence for neutral iron emission , although it has previously been found that the strength of the narrow fe k@xmath12 line diminishes as the x - ray luminosity increases ( iwasawa & taniguchi 1993 ; nandra 1997b ; page 2004b ) ; this is the so - called x - ray baldwin effect . in rlqs",
+    ", these spectral features may be somewhat diluted , since some of the harder x - ray emission is thought to be synchrotron or inverse compton emission from the relativistic radio jet , rather than from the accretion disc .",
+    "this also leads to rlqs tending to have flatter spectra over the 210  kev rest - frame ( e.g. , williams 1992 ; lawson 1997 ; reeves 1997 ; reeves & turner 2000 ) .",
+    "this paper aims to analyse the x - ray spectra of a sample of high - redshift qsos , both radio - quiet and radio - loud , investigating , in particular , the continuum shape , iron emission , compton reflection and absorption .",
+    "the results of such a comparison should help to determine just how fundamentally different rlqs and rqqs are : are the central engines , themselves , different , or are the differences solely due to the radio jet ?",
+    "a further major aim of the paper is to investigate how the x - ray spectral and continuum properties of high - redshift quasars ( z  =  26 ) compares to those at lower redshifts .",
+    "for instance , is there any evolution of the x - ray spectra with either luminosity or redshift , which might suggest that properties of quasar central engines evolve with time ? does the continuum photon index , or amount of intrinsic absorption , vary , suggesting a changing environment ?",
+    "section  [ obs ] explains how the data were processed and the spectra obtained , while section  [ specan ] details the spectral analysis .",
+    "the results are discussed in section  [ disc ] .",
+    "the sample in this paper constitutes all available _ xmm - newton _ observations ( until the end of 2004 ) of z@xmath02 qsos , with sufficient counts to allow spectral fitting ( approximately 500 counts in the combined mos+pn results ) .",
+    "table  [ xmm ] lists the qsos , their right ascensions and declinations , redshifts , galactic absorbing columns ( determined from the ftool * nh * ; dickey & lockman 1990 ) and radio data , as well as information about the actual _ xmm - newton _ observations . where the nrao / vla sky survey ( nvss ) did not detect the object at 1.4  ghz , the survey limit of 2.5  mjy is given , except for four cases ( q  0000@xmath13263 , sdss  1030 + 0524 , sbs  1107 + 487 and apm  08279 + 5255 ) where more stringent limits were found in the literature .",
+    "figure  [ histogram ] plots the redshift distribution for the objects .",
+    "the qsos are a combination of proprietary data and public observations obtained from the _ xmm - newton _ science archive ."
+  ],
+  "abstract_text": [
+    "<S> _ xmm - newton _ observations of 29 high redshift ( z@xmath02 ) quasars , including seven radio - quiet , 16 radio - loud and six broad absorption line ( bal ) objects , are presented ; due to the high redshifts , the rest - frame energy bands extend up to @xmath1  3070  kev . over 210  </S>",
+    "<S> kev , the quasars can be well fitted in each case by a simple power - law , with no strong evidence for iron emission lines . </S>",
+    "<S> the lack of iron lines is in agreement both with dilution by the radio jet emission ( for the radio - loud quasars ) and the x - ray baldwin effect . </S>",
+    "<S> no compton reflection humps at higher energies ( i.e. , above 10  kev in the rest frame ) are detected either . over the broad - band ( 0.310  kev ) , </S>",
+    "<S> approximately half ( nine out of 16 ) of the radio - loud quasars are intrinsically absorbed , with the values of n@xmath2 generally being 12  @xmath3  10@xmath4 @xmath5 in the rest frames of the objects . </S>",
+    "<S> none of the seven radio - quiet objects shows excess absorption , while four of the six bal quasars are absorbed . </S>",
+    "<S> the radio - loud quasars have flatter continuum slopes than their radio - quiet counterparts ( @xmath6  @xmath1  1.55 ; @xmath7  @xmath1  1.98 over 210  kev ) , while , after modelling the absorption , the underlying photon index for the six bal quasars is formally consistent with the non - bal radio - quiet objects .    [ firstpage ]    galaxies : active  x - rays : galaxies  quasars : general </S>"
+  ]
+}

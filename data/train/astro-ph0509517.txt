@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "bright low - mass x - ray binaries ( lmxbs ) in globular clusters ( gcs ) of our galaxy and of m31 preferentially reside in metal - rich gcs ( grindlay 1993 , belazzini et al .",
+    "recent extragalactic observations revealed the same tendency : in ngc 4472 ( kundu et al .",
+    "2002 , maccarone et al . 2004 ) and in m87 ( jord ' an et al . , 2004 ) metal - rich gcs are @xmath2 times as likely to contain bright lmxbs as metal - poor gcs .    in detail , from observations of galactic gcs , two currently known gc - residing persistent lmxbs with a possibly non - degenerate ( but also not a subgiant ) companion are contained only in metal - rich clusters ( verbunt & lewin 2005 ) , as well as two known gc - contained luminous transient lmxbs with a possibly non - degenerate companion .",
+    "five persistent bright lmxbs are observed in relatively metal - poor clusters .",
+    "four of them show indications of being ultracompact and one is likely to be a subgiant according to its orbital period .",
+    "one luminous transient lmxb in a metal - poor cluster is identified as an ultracompact , and for the bright lmxb in terzan 1 ( metal - poor ) , no information on whether it is ultracompact or not .",
+    "this data set hints that possibly bright lmxbs consisting of a ns and a main sequence ( ms ) star can preferably be formed in metal - rich clusters .",
+    "ns - ms binaries could form via exchange encounters or via tidal captures . in the first case ,",
+    "the minimum period of the post - exchange binary is limited both by the period at contact for a given eccentricity and by the period determined by the binary energy conservation during the encounter . due to the energy conservation , when ns replaces a less massive star , the binary separation in the formed post - exchange binary is larger than the binary separation in the pre - exchange binary .",
+    "the binary periods of tidally captured binaries are limited at the upper limit by the closest approach at which tidal interactions are still strong enough to make a bound system .",
+    "the lower limit is determined by the closest approach at which a ms star will pass and still will not be destroyed .",
+    "the parameter space for tidally captured binaries where ms star does not overfill its roche lobe at the closest approach is very restricted .",
+    "ns - ms binaries are evolved under the influence of gravitational radiation , magnetic braking and tides . in metal - poor clusters ,",
+    "only stars @xmath3 have the developed outer convective zone  only there magnetic braking and effective convective tides operate .",
+    "this determines the maximum initial binary period , for different eccentricities , such that the binary will start the mt before the ms star leaves the ms or another dynamical encounter occurs .    in the result ,",
+    "the parameter - space available for post - exchange binaries that can successfully start mt in metal - rich clusters is substantially larger than in metal - poor clusters .",
+    "also , in metal - poor clusters , the efficiency of tidal captures is significantly reduced for ms stars with radiative envelopes ( @xmath4 ) and only ms stars with masses less than @xmath5 can be formed via tidal capture without overfilling their roche lobe during the event .",
+    "in metal - poor clusters , all mt ns - ms binaries with a ms star @xmath4 will evolve on the time - scale predicted by gravitational radiation until the donor will decrease its mass enough to develop the deep outer convective zone . before this moment",
+    ", mt binary appears as a transient x - ray source .",
+    "when the deep outer convective zone is developed , mt rates jumps and an lmxb can become persistent only for a very short period of time .    in metal - rich clusters ,",
+    "an lmxb appears first as a persistent lmxb .",
+    "when donor decreases its mass to @xmath6 , the mt rate becomes very close to critical and remains close for a long time .",
+    "even slight discrepancy in the value of @xmath7 leads to large differences in how much time an lmxb spend as persistent @xmath8 or as a transient system @xmath9 .",
+    "this affects how many qlmxbs and how many bright lmxbs can be present in metal - rich clusters ."
+  ],
+  "abstract_text": [
+    "<S> we propose that the observed difference in the formation rates of bright low - mass x - ray binaries in metal - rich and metal - poor globular clusters can be explained by taking into account the difference in the stellar structure of main sequence donors with masses between @xmath0 and @xmath1 at different metallicities . </S>",
+    "<S> this difference is caused by the absence of an outer convective zone in metal - poor main sequence stars in this mass range . in the result , </S>",
+    "<S> magnetic braking , a powerful mechanism of orbital shrinkage , does not operate and dynamically formed main sequence - neutron star binaries fail to start mass transfer or appear as bright low - mass x - ray binaries . </S>"
+  ]
+}

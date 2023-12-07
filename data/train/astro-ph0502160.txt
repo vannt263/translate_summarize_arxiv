@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    ".inss identification status . the columns",
+    "give the name , the year of the proposed identification , the used telescope and its aperture , the magnitude ( @xmath0-band when available ) , the distance , the interstellar absorption @xmath1 and the identification evidence . [",
+    "cols=\"<,<,<,<,<,<,<,<\",options=\"header \" , ]     caraveo , p.a .",
+    "et al . , 2000 ,",
+    "proc . of a decade of hst science , eds .",
+    "m. livio , k. noll , and m. stiavelli , p.9 gull , t. et al .",
+    "2004 , proc .",
+    "iau symposium 218 `` young neutron stars and their environments '' , eds f. camilo and b. m. gaensler kern , b. et al . , 2003 apj 597 , 1049 hester , j. j. et al .",
+    "2002 , apj , 577 , l49 mignani , r.p .",
+    "2004 , proc .",
+    "218 `` young neutron stars and their environments '' , eds f. camilo and b. m. gaensler ( astro - ph/0311468 ) mignani , r.p . , et al .",
+    "2004a , submitted to a&a gelman , h. b , koch - miramond , l. , auriere , m. 1989 , apj , 342 , 83 shearer , a. et al .",
+    "1997 , a&a , 487 , l181 shearer , a. et al .",
+    "1998 , apj 335 , l21 wagner , s.j .",
+    "& seifert , w. , 2000 , proc . of iau coll .",
+    "177 `` pulsar astronomy : 2000 and beyond'',asp conference series , vol .",
+    "202 , p. 315",
+    "m. kramer , n. wex , and n. wielebinski"
+  ],
+  "abstract_text": [
+    "<S> the results of optical studies of isolated neutron stars ( inss ) , their pulsar - wind nebulae ( pwne ) and pulsar bow shocks are reviewed and discussed .    </S>",
+    "<S> pulsars , isolated neutron stars , optical </S>"
+  ]
+}

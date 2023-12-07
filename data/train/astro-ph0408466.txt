@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "relatively little is known about the sub - mm properties of `` normal '' galaxies in the local universe  prior to scuba there existed only a handful of sub - mm flux measurements or maps .",
+    "slugs is the first , large , systematic survey of the local sub - mm universe .",
+    "it consists of a sample selected from the _ iras _ bright galaxy sample ( dunne et al . , 2000 ) , and a sample selected from the cfa optical redshift survey ( vlahakis et al .",
+    ", in prep . , fig .",
+    "2 ) . with the optically - selected sample",
+    "we seek to understand for the first time key questions such as how the amount of cold dust varies with hubble type .",
+    "using the _ iras_-selected sample dunne et al .",
+    "produced the first direct estimate of the sub - mm luminosity function ( lf ) .",
+    "however , since the _ iras _ sample is biased toward galaxies with larger amounts of warmer dust its lf may also be subject to bias .",
+    "conversely , the optically - selected sample should , by definition , be free from temperature selection effects .    here , we derive a direct @xmath2 m lf for the optically - selected sample .",
+    "however , in order to better constrain the lf at the lower luminosity end we need more data points , spanning a greater range of luminosities .",
+    "we do this by determining an @xmath2 m lf using @xmath3 galaxies from the _ iras _ pscz survey .",
+    "we predict their @xmath2 m luminosities by extrapolating their _ iras _ fluxes using the colour - colour relation from slugs ( serjeant and harrison , 2003 ) . in fig .",
+    "1 we compare the extrapolated ( pscz ) and direct lfs and find excellent agreement between all 3 lfs .",
+    "it was once thought that ellipticals were entirely devoid of dust and gas , but optical absorption studies now show that dust is usually present .",
+    "dust masses for the @xmath4 of ellipticals detected by _ iras _ have been found to be as much as a factor of 10100 higher when estimated from their fir emission compared to estimates from optical absorption , suggesting a diffuse cold dust component ( goudfrooij and de jong , 1995 and refs .",
+    "therein , bregman et al . , 1998 ) . at @xmath2 m",
+    "we detect 6 ellipticals , from a total of 11 ellipticals in the optically - selected sample , and find them to have dust masses in excess of @xmath0 @xmath1 .",
+    "we will investigate this further with scuba observations of a larger sample of ellipticals ."
+  ],
+  "abstract_text": [
+    "<S> we discuss the progress of the scuba local universe galaxy survey ( slugs ) , the first large , statistical sub - mm survey of the local universe . since our original survey of a sample of 104 _ iras_-selected galaxies we have recently completed a sample of 78 optically - selected galaxies . since scuba is sensitive to the large proportion of dust too cold to be detected by _ iras _ </S>",
+    "<S> the addition of this optically - selected sample allows us for the first time to determine the amount of cold dust in galaxies of different hubble types . </S>",
+    "<S> we detect 6 ellipticals in the sample and find them to have dust masses in excess of @xmath0 @xmath1 . </S>",
+    "<S> we derive local sub - mm luminosity functions , both directly for the two samples , and by extrapolation from the _ iras _ pscz , and find excellent agreement . </S>"
+  ]
+}

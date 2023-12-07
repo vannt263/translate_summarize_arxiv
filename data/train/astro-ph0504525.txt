@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "we present a comparative study of transition region ( tr ) wind dynamics in @xmath3 aqr ( g2 ib ) , sw uma ( cv ) , @xmath4 dor ( f - g ia - iab ) and the sun , to develop semi - empiric radiative transfer models of the thermal structure of the stellar chromosphere and tr , and to determine the velocity and electron density structures .",
+    "_ fuse _ spectra of the hybrid supergiant @xmath3 aqr have been observed for science team program p218 ( dupree et al .",
+    "the classical @xmath16-cepheid variable @xmath4 dor was observed in aug . and oct .",
+    "2003 for gi - d107 ( pi a. lobel ) , while the dwarf nova sw uma was observed in nov .",
+    "2001 for gi - b074 .",
+    "the left - hand panel of fig .",
+    "1 shows non - lte radiative transfer fits to c  iii @xmath0977 through a semi - empiric model of the chromosphere and lower tr of @xmath3 aqr .",
+    "the outward decrease of @xmath7 ( _ panels right _ ) produces a scattering core in the computed emission profile ( lobel & dupree 2000 ; 2001 ) , which assumes an asymmetric shape due to opacity in a fast accelerating wind .",
+    "best multi - level atom model fits are obtained for @xmath17@xmath18140  @xmath6 in the lower tr ( @xmath19@xmath865 kk ) , which strongly scatters the blue emission line wing .",
+    "the model signals a supersonic optically thick warm wind in the outer atmosphere of this hybrid supergiant ( lobel & dupree 2002 ) .",
+    "the left - hand panels of fig . 2 show o  vi lines in the cataclysmic variable sw uma .",
+    "the lines are remarkably far red - shifted with respect to heliocentric rest .",
+    "we suggest that the double - peaked narrow profiles result from self - absorbed emission line formation in an infalling region near the white dwarf that is sufficiently optically thick at @xmath20 between 100 kk and 300 kk ( _ panels right _ ) .",
+    "the depth of the o  vi @xmath01032 central absorption line core can only be computed with electron densities @xmath21 at least 1100 times larger compared to the solar tr values .",
+    "the downflow velocity ( _ @xmath22 _ ) in the model is computed from the conservation of total mass in spherical geometry with @xmath23 , using a mass accretion rate @xmath24 of 1 @xmath14 @xmath15 , and @xmath25=0.01 @xmath26 .",
+    "this @xmath24-value provides the best fit to the wavelength position of the central self - absorption core where @xmath22=@xmath2770 to @xmath2765 @xmath6 in the o  vi lines formation region .",
+    "the upper left - hand panel of fig .",
+    "3 compares the o  vi lines we compute with an atmospheric model of the average quiet sun with soho - sumer observations ( _ solid dots _ ) .",
+    "the lines form over a rather small region of @xmath510 model layers with 100 kk @xmath11 @xmath20 @xmath11 300 kk , or @xmath5200 km into the solar tr above the upper chromosphere ( _ panels right _ ) .",
+    "a best fit to the fwhm and equivalent width of the lines is obtained with projected microturbulence velocities ( @xmath28 ) increasing from at least @xmath530 @xmath6 to @xmath539 @xmath6 over this thermal range ( warren et al .",
+    "a best fit to the core position of the o  vi @xmath01032 line is computed with a mean downflow velocity of @xmath275 @xmath6 .",
+    "preliminary atmosphere models for @xmath4 dor ( _ lower left panel _ ) require @xmath28 exceeding 40 @xmath6 in the o  vi lines formation region to match the large line widths we also observe in @xmath3 aqr .",
+    "dupree , a. k. , lobel , a. , young , p. r. , ake , t. b. , linsky , j. l. , & redfield s. , 2005 , apj , submitted lobel , a. , & dupree , a. k. 2000 , apj , 545 , 454 lobel , a. , & dupree , a. k. 2001 , apj , 558 , 815 lobel , a. , & dupree , a. k. 2002 , _ fuse _ science and data workshop , march 2002 , abstract poster talk , p. 60",
+    ", full poster text at cfa-www.harvard.edu/@xmath5alobel/fuseposter.pdf warren , h. p. , mariska , t. j. , wilhelm , k. , & lemaire , p. 1997 , apj , 484 , l91"
+  ],
+  "abstract_text": [
+    "<S> we present an overview of radiative transfer modeling efforts to interpret spectra of a variety of stellar objects observed with _ </S>",
+    "<S> detailed radiative transfer modeling of high ion emission line profiles of ciii and ovi observed in the far - uv spectrum , provides a powerful means to probe the thermal and dynamic properties of high - temperature plasmas in the atmospheres of stars . </S>",
+    "<S> we model asymmetric emission lines of ciii @xmath0977 ( and mgii @xmath1 & @xmath2 ) observed in spectra of luminous cool stars such as @xmath3 aqr , to infer the wind- and microturbulence velocity structures of the upper chromosphere . </S>",
+    "<S> semi - empiric radiative transfer models that include transition region temperature conditions , are further developed based on detailed fits to ovi resonance emission lines in the supergiant @xmath3 aqr , the classical cepheid variable @xmath4 dor , and to self - absorbed ovi emission lines in the cataclysmic variable sw uma .    </S>",
+    "<S> we observe that the ciii resonance line profile of @xmath3 aqr assumes a remarkable asymmetric shape , reminiscent of p cygni type profiles observed in hot luminous supergiants . </S>",
+    "<S> the model calculations indicate outflow velocities above @xmath5140 @xmath6 at kinetic temperatures of 65 kk and higher . </S>",
+    "<S> based on detailed model fits to the narrow red - shifted and self - absorbed ovi emission lines of sw uma we compute that the gas- and electron density exceed the density conditions of the upper solar transition region by about three orders of magnitude . </S>",
+    "<S> we propose that the large gas density of @xmath7@xmath81.4 @xmath9 @xmath10 favors a region of warm dense plasma of 100 kk @xmath11@xmath12@xmath11 300 kk that collapses onto the white dwarf with a mass accretion rate of 1@xmath132 @xmath14 @xmath15 above or between the accretion disk . </S>",
+    "<S> we discuss how detailed semi - empiric fits to emission lines observed with the high spectral resolution of _ fuse _ can provide reliable constraints on the mass loss or mass accretion rates in these objects . </S>",
+    "<S> the complete text of this conference presentation is available at cfa-www.harvard.edu/@xmath5alobel/conference.html </S>"
+  ]
+}

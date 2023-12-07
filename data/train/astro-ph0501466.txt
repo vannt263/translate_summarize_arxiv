@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "standard local bubble ( lb ) models fail to reproduce the observed low absorption column density ( shelton & cox 1994 ; for a recent discussion see breitschwerdt & cox 2004 ) .",
+    "heliospheric in situ measurements are sensitive to the boundary conditions imposed by the local bubble and the column density in absorption is a crucial test for modelling of the local ism ( cox 2004 ) .",
+    "it seems most plausible that the lb is theresult of 20 successive explosions , originating from stars with masses between 11 and 20 @xmath1 from the moving subgroup b1 of the pleiades in the last 14.5 myrs ( berghfer & breitschwerdt 2002 ) .",
+    "we have simulated the lb evolution by means of a 3d amr hydrocode and calculated the observed column density in absorption ( along lines of sight crossing loop i ) .",
+    "we use the 3d model of avillez ( 2000 ) , where the ism is disturbed by supernova ( sn ) explosions at the galactic rate , and took data cubes of previous runs with a finest adaptive mesh refinement resolution of 1.25 pc ( avillez & breitschwerdt 2004 ) .",
+    "we then picked up a site with enough mass to form the 81 stars , with masses , @xmath2 , between 7 and 31 @xmath1 , that compose the sco cen cluster ; 39 massive stars with @xmath3 have already gone off , generating the loop i cavity .",
+    "jpeg image lb.jpg    [ fig1 ]    presently the sco cen cluster ( here located at @xmath4 pc ) has 42 stars to explode in the next 13 myrs ) .",
+    "we followed the trajectory of the moving subgroup b1 of pleaides , whose sne in the lb went off along a path crossing the solar neighbourhood ( fig .  1 ) .",
+    "periodic boundary conditions are applied along the four vertical boundary faces , while outflow boundary conditions are imposed at the top ( @xmath5 kpc ) and bottom ( @xmath6 kpc ) boundaries .",
+    "the simulation time of this run was 30 myr .",
+    "* morphology : * the locally enhanced sn rates produce coherent lb and loop i structures ( due to ongoing star formation ) within a highly disturbed background medium . the successive explosions heat and pressurize the lb , which at first looks smooth , but develops internal temperature and density structure at later stages .",
+    "after 14 myr the lb cavity , bounded by an outer shell , which will start to fragment due to rayleigh - taylor instabilities in @xmath7 myr from now , fills a volume roughly corresponding to the present day size ( fig .  1 ) .     and maximum column density ( right panel ) as a function of los path length at @xmath8 myr of local and loop i bubbles evolution.,title=\"fig : \" ]   and maximum column density ( right panel ) as a function of los path length at @xmath8 myr of local and loop i bubbles evolution.,title=\"fig : \" ]    * oxygen vi : * the average and maximum column densities of , i.e. , @xmath9 and",
+    "@xmath10 are calculated along 91 lines of sight ( los ) extending from the sun and crossing loop i from an angle of @xmath11 to @xmath12 ( s.  fig .  1 ) .",
+    "within the lb ( i.e. , for a los length @xmath13 pc ) @xmath14 and @xmath10 decrease steeply from @xmath15 to @xmath16 @xmath17 and from @xmath18 to @xmath19 @xmath17 , respectively , for @xmath8 myr ( fig .",
+    "2 ) , because no further sn explosions occur and recombination is taking place . for los sampling gas from outside the lb ( i.e. , @xmath20 pc ) @xmath21 and @xmath22 @xmath17 .",
+    "the histograms of column densities obtained in the 91 los for @xmath23 and 14.6 myr ( fig .",
+    "3 ) show that for @xmath24 myr all the los have column densities smaller than @xmath25 @xmath17 , while for @xmath23 myr 67% of the lines have column densities smaller than @xmath26 @xmath17 and in particular 49% of the lines have @xmath27 @xmath17 .",
+    "l[0pt]6.0 cm        [ fig2 ]    noting that in the present model for @xmath28 myr the column densities are smaller than @xmath29 @xmath17 and @xmath30 @xmath17 ( blue line in both panels of fig .  2 ) and that a mean column density of @xmath31 @xmath17 is inferred from analysis of fuse absorption line data in the local ism ( oegerle et al .",
+    "2004 ) we estimate that the present lb time is @xmath32 myr .",
+    "the column density is a sensitive tracer of the age of an _ evolved _ superbubble , and can thus give a constraint on the timescale of the last explosion , which occurred in the present simulations @xmath33 myr ago , whereas the nearest explosions to the sun happened @xmath34 myr ago , in good agreement with the most recent dating inferred from @xmath35 isotope analysis in the ferromanganese crust of deep ocean layers ( knie et al .",
+    "2004 ) .",
+    "avillez , m. a.  2000 , mnras , 315 , 479 .",
+    "avillez , m. a. , & breitschwerdt ,  d.  2004 , a&a , 425 , 899 berghfer , t. , & breitschwerdt , d.  2002 , a&a , 390 , 299 .",
+    "breitschwerdt , d. , & cox , d. p.  2004 , in `` how does the galaxy work ? '' , eds .",
+    "e. alfaro , e. perez , & j. franco , kluwer ( dordrecht ) , p. 391",
+    "cox , d. p.  2004 , ap&ss , 289 , 469 knie , k. , et al .",
+    "2004 , phys .",
+    "lett . , 93 , 17 oegerle , w. r. , et al .",
+    "2004 , apj , submitted [ astro - ph/0411065 ] shelton , r. , & cox , d. p.  1994 , apj , 434 , 599"
+  ],
+  "abstract_text": [
+    "<S> the local bubble ( lb ) is an x - ray emitting region extending 100 pc in radius in the galactic plane and 300 pc perpendicular to it , and it is embedded in a somewhat larger hi deficient cavity . its origin and spectral properties in uv , euv and x - rays are still poorly understood . </S>",
+    "<S> we have performed 3d high resolution ( down to 1.25 pc ) hydrodynamic superbubble simulations of the lb and loop i superbubble in a realistic _ inhomogeneous _ background ism , disturbed by supernova ( sn ) explosions at the galactic rate . </S>",
+    "<S> we can reproduce ( i ) the size of the bubbles ( in contrast to similarity solutions ) , ( ii ) the interaction shell with loop i , discovered with rosat , ( iii ) predict the merging of the two bubbles in about 3 myr , when the interaction shell starts to fragment , and , ( iv ) the generation of blobs like the local cloud as a consequence of a dynamical instability . </S>",
+    "<S> the column densities are monitored and found to be in excellent agreement with copernicus and fuse absorption line data , showing lb column densities @xmath0 , in contrast to other existing models . </S>"
+  ]
+}

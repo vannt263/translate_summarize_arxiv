@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "it has been known long that old stellar populations exist in the dwarf irregular galaxies and dwarf elliptical galaxies and the @xmath0-band magnitude of the tip of these old populations ( red giant branch ) has been often used to estimate their distances ( lee et al .",
+    "however , little is known about the size and morphological structure of the halos of these old stellar populations in the dwarf galaxies .",
+    "a study of the morphological structure of the halos in dwarf galaxies may provide some clues to understanding the origin of the dwarf irregular galaxies and the dwarf elliptical galaxies .",
+    "we have carried out a project to investigate the halos in dwarf irregular galaxies using the megaprime camera at the cfht . here",
+    "we present a case study of ngc 6822 which is a famous dwarf irregular galaxy in the local group .",
+    "ngc 6822 is known to have a huge rotation hi disk ( de blok & walter 2000 ) and a wide distribution of carbon stars ( letarte et al .",
+    "it is an well isolated galaxy belonging neither to our galaxy nor to m31 .",
+    "ngc 6822 is located at the distance of 500 kpc , and one arcmin at this distance corresponds to 145.4 pc .",
+    "we display in figure  1 the @xmath1 color - magnitude diagram of three regions at @xmath2 , @xmath3 , and @xmath4 where @xmath5 is the angular distance from the center of ngc 6822 .",
+    "this is part of the data covering a 1 deg @xmath6 1 deg field including ngc 6822 ( corresponding to a field of 8.7 kpc @xmath6 8.7 kpc ) .",
+    "figure  1 shows several distinguishable stellar populations in ngc 6822 as marked by the boxes : blue main sequence stars and blue supergiants ( ms ) , red supergiants ( rsg ) , old red giant branch stars ( rgb ) , asymptotic giant stars ( agb ) , and young red giants ( rg ) .",
+    "a broad vertical structure seen at @xmath7 represent foreground stars .",
+    "young stars are mostly seen at @xmath8 , while the old rgb stars are abundant even at @xmath9 .",
+    "this old population may belong to the halo of ngc 6822 .",
+    "we have used the stars inside each box for the following analysis to investigate the morphological structure of each population .",
+    "( top panel ) , @xmath3 ( middle panel ) , and @xmath4 ( bottom panel ) where @xmath5 is the angular distance from the center of ngc 6822 .",
+    "thick solid line boxes represent the regions selected for the analysis of the different stellar populations . ]",
+    "we have derived the surface number density maps for the ms , young rg and old rgb in the field of 1 deg @xmath6 1 deg to investigate their spatial distribution , displaying them in figure  2 in comparison with the greyscale map of the digitized poss map of ngc 6822 .",
+    "figure  2 shows several striking features .",
+    "first , the structure of the old rgb ( halo ) is dramatically different from the main body ( @xmath10 ) of ngc 6822 seen in the poss map .",
+    "it is surprisingly much larger than the poss image , exceeding one squaredegree field .",
+    "its inner region is elongated horizontally , while its outer region is elongated along the ne - sw direction .",
+    "its inner region looks elliptical , very similar to the structure of dwarf elliptical galaxies .",
+    "however , its outer part shows some distorted structure in the ne - sw end indicating some tidal interaction .",
+    "the existence of this tidal feature is intriguing , because ngc 6822 has no known companion galaxies in the nearby distance .",
+    "second , the spatial distribution of the young ms in the central region is similar to the shape of the main body of ngc 6822 seen in the poss map , but it is much more extended and elongated along the nw - se direction .",
+    "this structure is consistent with the hi structure ( de blok & walter 2000 ) .",
+    "third , the spatial distribution of the young rg looks round and similar to that of the central part of the old rgb distribution , but its center is offset from the center of the rgb distribution .",
+    "in addition , it shows stronger central concentration than that of the old rgb .",
+    "we have also investigated the radial variation of the surface number density for the rgb , rg , ms , agb and carbon stars ( letarte et al . 2002 ) as plotted in figure  3 .",
+    "figure  3 shows that the young populations ( ms and rg ) are more centrally concentrated than the older populations ( rgb , agb and carbon stars ) .",
+    "through the deep wide - field imaging we have found that ngc 6822 has a giant halo made of old red giants , extending much farther than the optical body and hi disk of this galaxy .",
+    "the structure of this stellar halo looks similar to those of dwarf elliptical galaxies so that we conclude that the halos of dwarf irregular galaxies may share the same origin with those of the dwarf elliptical galaxies . ngc 6822 also is known to have an old globular cluster at as far as 13 kpc from the center , supporting that its halo is really huge ( hwang et al .",
+    ". the existence of the giant halos may be common among dwarf irregular galaxies , waiting to be discovered ."
+  ],
+  "abstract_text": [
+    "<S> we present a discovery of a giant stellar halo in ngc 6822 , a dwarf irregular galaxy in the local group . </S>",
+    "<S> this halo is mostly made of old red giants , showing striking features : 1 ) it is several times larger than the main body of the galaxy seen in the optical images , and 2 ) it is elongated in the direction almost perpendicular to the hi disk of ngc 6822 . </S>",
+    "<S> the structure of this stellar halo looks similar to the shape of dwarf elliptical galaxies , indicating that the halos of dwarf irregular galaxies share the same origin with those of the dwarf elliptical galaxies . </S>"
+  ]
+}

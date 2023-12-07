@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "our results allow the testing of the prediction of @xcite on the alignment of the spin axes of pulsars with their proper motion vector .",
+    "the spin axis can be derived from the high resolution images from chandra .",
+    "these allow the symmetry , and thus presumably the spin , axes to be directly discerned .",
+    "only two cases have been accurately tested so far , the crab ( @xcite ) and vela . the extra accuracy we can provide refines the conclusion reached by pavlov et al ( 2000 ) and helfand et al ( 2001 ) for the vela alignment .",
+    "if the model of @xcite is correct any misalignment of the axes allows the us to estimate the timescale of the impulse in terms of the initial rotation period , a value of great importance to understanding the core collapse .",
+    "the rotations of the pulsar average out the off - axis acceleration of the pulsar , bringing the proper motion and the spin axis into alignment .",
+    "the data , and its reduction are full described in dodson et al ( 2003 ) we find a pulsar position of @xmath1 , @xmath2 for a reference epoch of 2000.0 .",
+    "the proper motion is @xmath3 @xmath4  and a parallax of @xmath5 mas , or @xmath6 pc .",
+    "two corrections need to be applied to our results to calculate the motion of the vela pulsar in its local environment .",
+    "our observations are directly tied to the icrf , therefore the solar peculiar motion and the galactic rotation contribute to the observed proper motion , and need to be removed .",
+    "the dominant source of error is from the uncertainties in the solar peculiar motion parameters .",
+    "we have used the measured uncertainties in our observations and combined those with the models .",
+    "this gives us an angular motion , at vela s local standard of rest , of @xmath7 @xmath4 , @xmath8 @xmath4  or @xmath9",
+    "@xmath4  at a position angle of @xmath10 .",
+    "the pulsars transverse space velocity is therefore @xmath11 @xmath12 .",
+    "the pa does not lie exactly along the spin axis ( e.g. @xmath13 ( helfand et al 2001 ) , or @xmath14 ( pavlov et al 2001 ) ) , which implies that the impulse timescale was not quite long enough to average the off - axis component to zero .",
+    "recent communications with caraveo _",
+    "et al _ has found that the published hst position angle ( caraveo etal 2001 ) has an arithmetic error and is in fact @xmath15 , in excellent agreement with our own result .",
+    "thus we consider the implications of this offset .",
+    "firstly if the impulse is equal along and across the spin axis , i.e. at @xmath16 , after only two rotations it is no longer possible to achieve an offset of @xmath0 . if the acceleration vector was at @xmath17 to the spin axis it is still possible to generate such an offset until the seventh rotation .",
+    "this limits either the initial rotation period , or the timescale of the sn event .",
+    "we have measured the proper motion and parallax of the vela pulsar to an unprecedented accuracy ( @xmath18 @xmath4  , @xmath19 mas ) , and have been able to convert these back to the space velocity and position angle of the pulsar in its local environment with greater precision that previously possible ( @xmath11 @xmath12at @xmath20 ) , because of the unambiguity in the radio reference frame .",
+    "this allows the precise comparison of the vela x - ray nebula symmetry axis and the proper motion of the vela pulsar , opening insights into the timescale of the core collapse processes .",
+    "we estimate that the collapse must have taken less than seven rotations to occur ."
+  ],
+  "abstract_text": [
+    "<S> the first accurate measurements of vela s proper motion were produced using the parkes - tidbinbilla interferometer ( pti ) ( bailes et al 1989 ) . </S>",
+    "<S> this 275 km baseline at 1.6  ghz gave a resolution of 140 mas and detected the proper motion and thus , by extrapolation , the birth site . </S>",
+    "<S> we have extended this work to allow the third dimension to be derived via the parallax . </S>",
+    "<S> we find the offset between the spin axis and the proper motion vector to be @xmath0 , which limits acceleration time from the sn blast .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

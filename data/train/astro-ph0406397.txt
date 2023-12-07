@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the @xmath8-relation of cepheids is of fundamental importance in establishing the cosmic distance scale . determining whether or not the slope of the galactic relation is different from that for the lmc and/or smc cepheids relations is of prime importance , as this could imply a metallicity dependence of the slope of the relation , with important consequences for the application of the @xmath8-relation to other galaxies .",
+    "the apparent zero point and slope of the fundamental ( fu ) and first - overtone ( fo ) @xmath8-relations in the lmc and smc have now been well determined in @xmath9 ( the reddening free , so - called wesenheit - index based on @xmath2 and @xmath10 ) , and @xmath11 and @xmath6 ( udalski et al . 1999 , groenewegen 2000 , nikolaev et al .",
+    "2004 , sandage et al .",
+    "2004 ) .",
+    "the situation is less clear for our galaxy .",
+    "the accuracy of the hipparcos  parallax data was not high enough to determine slope _ and _ zero point . instead , the data had to be analysed in a statistical way , such that for an _ assumed _ slope , a zero point could be derived ( e.g. , feast & catchpole 1997 ; groenewegen & oudmaijer 2000 )    there are basically two alternatives to obtain direct distance estimates to galactic cepheids , namely , using cepheids in open clusters ( e.g. feast 1999 , tammann et al .",
+    "2003 ) where the distance to the cluster has been obtained in another way ( basically main - sequence fitting ) , or , in combining linear diameter determinations ( as determined from integration of the radial velocity curve and assuming a projection factor ) , with angular diameter determinations coming from direct measurements using an interferometer ( e.g. kervella et al . 2003 ) or coming from a surface - brightness ( sb ) relation and a reddening - corrected magnitude ( e.g. fouqu et al .",
+    "2003 , storm et al .",
+    "2004 ) .    for the latter method to work one has therefore to determine and calibrate accurate sb relations .",
+    "there is a whole body of work on this subject ( e.g. , barnes et al .",
+    "1978 ; di benedetto 1993 [ db93 ] ) , and more recently , with direct application to cepheids , the works by fouqu & gieren ( 1997 ; herafter fg97 ) , and nordgren et al .",
+    "( 2002 ; hereafter nord02 ) .",
+    "the latter calibration is used by fouqu et al .",
+    "( 2003 ) to establish the most recent slopes and zero points of the galactic @xmath8-relation for fu cepheids in @xmath12 colours .",
+    "in addition , sb - relations are important in estimating angular diameters for planning interferometric observations ( either to check if a potential science target would be resolved , or to check if a calibrator is indeed unresolved , for a given baseline ) , and for distance estimates in eclipsing binaries ( salaris & groenewegen 2002 ) .    the calibration by nord02 is based on 57 giants observed with the navy prototype optical interferometer ( npoi ) by this group ( nordgren et al . 1999 ; nordgren et al . 2001 ) . on the other hand there have been other recent papers presenting new diameter determinations ( e.g. , 69 stars in van belle et al . 1999 ) , and there exist older data of high quality ; recently , richichi & percheron ( 2002 ) conveniently presented a catalog of high angular resolution measurements .",
+    "the aim of the present paper is to present updated sb relations based on the largest set of accurate angular diameter determinations .",
+    "section  2 presents the angular diameter data and the search for apparent magnitudes",
+    ". section  3 briefly recalls the relevant equations , and section  4 presents the results .",
+    "the discussion in section  5 ends this paper .",
+    "this research has made use of the simbad database , operated at cds , strasbourg , france .",
+    "i thank ren oudmaijer and pascal fouqu for reading a preliminary version of this paper , and maurizio salaris for discussion ."
+  ],
+  "abstract_text": [
+    "<S> recent , and older accurate , data on ( limb - darkened ) angular diameters is compiled for 221 stars , as well as @xmath0[25]$ ] magnitudes for those objects , when available . </S>",
+    "<S> nine stars ( all m - giants or supergiants ) showing excess in the @xmath1 $ ] colour are excluded in the analysis as this may indicate the present of dust influencing the optical and near - infrared colours as well . </S>",
+    "<S> based on this large sample , baade - wesselink surface - brightness ( sb ) relations are presented for dwarfs , giants , supergiants and dwarfs in the optical and near - infrared . </S>",
+    "<S> m - giants are found to follow different sb - relations from non - m giants , in particular in @xmath2-@xmath3 . </S>",
+    "<S> the preferred relation for non - m giants are compared to earlier relation by fouqu & gieren ( 1997 , based on 10 stars ) and nordgren et al . </S>",
+    "<S> ( 2002 , based on 57 stars ) . </S>",
+    "<S> increasing the sample size does not lead to a lower rms value . </S>",
+    "<S> it is shown that the residuals do not correlate with metallicity at a significant level . </S>",
+    "<S> the finally adopted observed angular diameters are compared to those predicted by cohen et al . </S>",
+    "<S> ( 1999 ) for 45 stars in common , and there is reasonable overall , to good agreement when @xmath46 mas . </S>",
+    "<S> finally , i comment on the common practice in the literature to average , and then fix , the zero point of the @xmath2-@xmath5 , @xmath2-@xmath3 and @xmath6-@xmath7 relations , and then re - derive the slopes . </S>",
+    "<S> such a common zero point at zero colour is not expected from model atmospheres for the @xmath3 colour and depends on gravity . </S>",
+    "<S> relations derived in this way may be biased .    </S>",
+    "<S> stars : distances - stars : fundamental parameters - cepheids - magellanic clouds - distance scale </S>"
+  ]
+}

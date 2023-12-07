@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "smc x-1 is a luminous accretion - powered high - mass x - ray binary ( hmxrb ) with a b0 i primary and a rapid spinning pulsar ( 0.71 sec ) in a 3.89-day period ( wojdowski et al .",
+    "fuse observed smc x-1 for almost an entire 3.89 day orbital period in 2003 july .",
+    "a total of 71 exposures ( 148 ksec ) were obtained over 3.4 days , covering phase 0.20 , through x - ray source conjunction ( @xmath0 ) , and primary eclipse ( @xmath1 ) .",
+    "the exposures were divided into nine phase bins , each with @xmath2 ksec and s / n@xmath3 per 0.05  .",
+    "the ovi 1032 stellar wind line profile was corrected for milky way and smc interstellar h@xmath4 and ovi 1032 absorption by simultaneously modelling the ism lines in all nine spectra .",
+    "the resulting ism model was subtracted from the observed ovi 1032 line at each phase ( see figure 1a for examples ) .",
+    "the equivalent width of the ovi line was measured after the ism correction .",
+    "figure 1b shows the strong variation of the ovi equivalent width with orbital phase .",
+    "the orbital modulation of ovi in the stellar wind , the hm effect , is a result of ionization of the wind by the x - ray source .",
+    "the large x - ray luminosity of smc x-1 ( @xmath5 erg s@xmath6 ) ionizes much of the wind and leaves a large stromgren zone .",
+    "this disrupts the resonance - line acceleration of the wind in portions of the orbit , quencing the wind and disrupting the mass flow .",
+    "the ovi wind absorption is strongly asymmetric around the orbit .",
+    "the line is at maximum strength during the eclipse of the pulsar @xmath7 0.0 .",
+    "the ovi line virtually disappears near @xmath8 .",
+    "the ovi 1032 column density during eclipse is @xmath9 @xmath10 .",
+    "the ovi terminal velocity ( @xmath11700 km / s ) drops to near zero at @xmath7 0.3 - 0.4 .",
+    "4u1700 - 37 has an o6.5 iaf primary in a 3.451 day orbital period with a neutron star or black hole secondary . the system is believed to have escaped from sco ob i about 2.5 million years ago .",
+    "most recent mass estimates by clark et al .",
+    "( 2002 ) , who found @xmath12 and @xmath13 .",
+    "no x - ray /radio pulses or other periodicities are known , however rxte asm and cgro batse data show evidence of a 13.8 day periodicity .",
+    "( hong & hailey , 2004 ) .",
+    "4u1700 - 37 has been observed by fuse at the four quadrature points of the binary orbit in 2003 april and august and the hm effect ( hatchett & mccray 1977 ) has been observed for the first time in this system , 27 years after its prediction .",
+    "the hm effect was predicted for 4u17000 - 37/hd153919 , but was not detected in nv 1240 , siiv 1400 , or civ 1550 in iue and hst data . the pv 1118 - 1128 and siv 1063 - 1073",
+    "p- cygni lines are weakest at @xmath14 ( x - ray source conjuction ) and strongest at @xmath15 for the red wing and at @xmath16 for the blue wing ( see figure 2 ) .",
+    "the ovi and svi wind lines show orbital modulation different from pv and siv and are strongest at @xmath14 and weakest at @xmath16 ( x - ray source eclipse ) , implying that ovi and svi are byproducts of the wind s ionization by the x - ray source .",
+    "such variations were not observed in nv , siiv and civ because of their high optical depth .",
+    "the pv and siv transitions , on the other hand , are excellent tracers of the ionization conditions in the o star s wind .",
+    "pv is the dominant ionization stage in the wind and has lower cosmic abundance than c , n or si . there is very little change in the terminal velocity ( @xmath17 km / sec ) of the wind with phase ."
+  ],
+  "abstract_text": [
+    "<S> the high mass x - ray binaries ( hmxrb s ) smc x-1 and 4u1700 - 37 have been observed with fuse to study the effect of the x - ray source on the stellar wind of the primary . in both systems </S>",
+    "<S> phase dependent changes in the wind lines have been observed , indicating the creation of a x - ray ionization zone in the stellar wind . </S>",
+    "<S> the high x - ray luminosity of smc x-1 ionizes much of the wind and leaves a stromgren zone . </S>",
+    "<S> this disrupts the resonance - line acceleration of the wind in portions of the orbit , quencing the wind and disrupting the mass flow . </S>",
+    "<S> a similar but less dramatic effect was found for the first time in 4u1700 - 37 . </S>",
+    "<S> this so - called hatchett - mccray ( hm ) effect had been predicted for 4u1700 - 37 , but was not previously detected . </S>"
+  ]
+}

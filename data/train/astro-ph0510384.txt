@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "since the first measurements of earth disk - averaged reflectance spectra by arnold et al .",
+    "( 2002 ) and woolf et al . (",
+    "2002 ) , several attempts have been successful in the same spectral bandwidth ( @xcite , @xcite ) . most of these spectra show signatures of earth atmosphere and ground vegetation .",
+    "we get four earthshine moon s spectra at the ntt / emmi telescope in eso / chile during the nights of the 09 - 18 - 04 , 05 - 24 - 04 and",
+    "more recently , 05 - 31 - 05 and 06 - 02 - 05 .",
+    "the spectra cover the domain from 320 to 1020 nm with a gap of 20 nm between 510 and 530 nm .",
+    "the resolution is r@xmath1450 in the blue and r@xmath1250 in the red .",
+    "we extracted the earth s integrated reflectance spectra by correcting these spectra from the moon reflectance , the sun spectra and the atmosphere transmittance .",
+    "we also take into account the changing colour of the integrated moon versus its observation phase ( @xcite ) .",
+    "we can identify on each reflectance spectrum the absorption bands of @xmath2 , @xmath3 and @xmath4 .",
+    "the rayleigh scattering is well visible , as well a the strong absorption of ozone huggins band from 320 nm to 350 nm ( fig .",
+    "[ spectre ] ) .",
+    "it is known that the vegetation has a stronger reflectivity in the near ir above 700 nm with respect to the visible . to measure it",
+    ", we correct our reflectance spectra from the atmospheric absorption lines and the rayleigh scattering to get earth s ground reflectance . by comparing the flux in two spectral domains bracketing the 700 nm rise",
+    ", we measure the vegetation red - edge ( vre ) relative to the continuum .",
+    "we measure vre@xmath5 when the earth facing the moon shows africa and europe , and vre@xmath6 with the pacific ocean and a small part of north america .",
+    "this demonstrates how earth s phase influences the detectivity of the vegetation ."
+  ],
+  "abstract_text": [
+    "<S> we discuss a series of earthshine spectra obtained with the ntt / emmi instrument between 320 nm and 1020 nm with a resolution of r@xmath0450 in the blue and r@xmath0250 in the red . these ascending and descending moon s earthshine spectra taken from chile </S>",
+    "<S> give disk - averaged spectra for two different earth s phases . </S>",
+    "<S> the spectra show the ozone ( huggins and chappuis bands ) , oxygen and water vapour absorption bands , and also the stronger rayleigh scattering in the blue . removing the known telluric absorptions reveals a spectral feature around 700 nm which is attributed to the vegetation stronger reflectivity in the near - ir , so - called vegetation red - edge . </S>"
+  ]
+}

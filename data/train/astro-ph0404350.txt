@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "below , we highlight some of the important effects of gas cooling and star formation on the properties of galaxy clusters :    * gas cooling induces condensation of gas in the cluster core region ( @xmath2kpc ) , and the baryon mass in the cluster core at @xmath3 is dominated by the stars associated with the central galaxy . *",
+    "the condensation of baryons causes contraction of dark matter and steepens the dark matter profile in the central region from @xmath4 in the adiabatic runs to @xmath5 in the simulations with cooling . * gas cooling induces inflow of high - entropy gas from the outside and raises the level of entropy and gas temperature in the cluster core region . * stellar feedback and/or additional preheating",
+    "suppress the effects described above by regulating gas cooling .",
+    "the magnitude of the effects on the distribution of dark matter , entropy and temperature of gas is , therefore , sensitive to the total fraction of baryons which cooled to form stars and cold gas clouds .",
+    "the cluster simulations with cooling and starformation revealed a significant problem : 35 - 55% of baryons within the virial radius are in the form of cold gas and stars at @xmath3 , which is significantly larger than the observed value of @xmath610 - 20% ( _ e.g. , _",
+    "balogh 2001 ; lin , mohr & stanford 2003 ) .",
+    "this problem was previously reported in the simulations using the smoothed particle hydrodynamics ( sph ) simulations ( _ e.g. , _ suginohara & ostriker 1998 ; lewis et.al . 2000 ; tornatore et.al .",
+    "we find that the same problem exists in our higher - resolution eulerian simulations that include metallicity - dependent radiative cooling .",
+    "moreover , we find that the cold and stellar mass fractions depend on the details of star formation implementation",
+    ". however , we were not able to solve the overcooling problem by varying parameters of thermal stellar feedback within reasonable limits , as shown in figure  [ fcold ] .",
+    "additional preheating can help resolve some of the discrepancies between cluster simulations and observations .",
+    "such preheating , presumably associated with the epoch of vigorous starformation , is often advocated as the solution to the overcooling problem and the discrepancies between the predicted and observed cluster scaling relations ( _ e.g. , _ bialek et.al . 2001",
+    "; muanwong et.al .",
+    "2002 , da silva et.al .",
+    "our results , however , indicate that the additional preheating results in starformation history significantly different from observations , as shown in figure  2 .",
+    "if the preheating occurs relatively early ( @xmath7 ) the gas manages to cool back by z@xmath81 , and the resulting star formation rate remains high ( @xmath9 ) at @xmath10 .",
+    "this results in incorrect star formation history : most of the cluster stars form in the last 7 - 10 billion years in stark contrast to observations , which indicate that less than 30% of cluster stars form during this epoch .",
+    "if preheating occurs late , the amount of the required energy is unrealistic and the expected effect on the intergalactic medium is in contradiction to observations of the low - redshift lyman alpha forest .",
+    "these results provide a strong argument against the simple uniform `` preheating '' scenario .",
+    "= 2.5truein = 2.5truein",
+    "the overcooling problem is a serious challenge for the cluster formation simulations .",
+    "our analysis shows that the overcooling in a cluster as a whole is really the overcooling in its core . in other words ,",
+    "the central cluster galaxies formed in simulations are too massive and bright compared to observations .",
+    "analysis of cluster evolution indicates that the problem sets in early at high redshifts , and is not limited to a single object or region .",
+    "this indicates that an additional heating mechanism is necessary for reproducing the observed cluster properties .",
+    "these results lend support to the idea that feedback from active galactic nuclei is an important missing ingredient in the current simulations of cluster formation ."
+  ],
+  "abstract_text": [
+    "<S> we study the effects of radiative cooling , star formation and stellar feedback on the properties and evolution of galaxy clusters using high - resolution adaptive mesh refinement n - body+gasdynamics simulations of clusters forming in the @xmath0cdm universe . </S>",
+    "<S> cooling leads to the condensation of gas in the inner regions of clusters , which in turn leads to steepening of the dark matter profile . </S>",
+    "<S> the cooling gas is replaced by the higher - entropy gas from the outer regions , which raises the entropy and temperature of gas in the cluster core . </S>",
+    "<S> the magnitude of these effects is likely overestimated in the current simulations because they suffer from the overcooling problem : a much larger fraction of baryons is in the form of cold gas and stars than is observed . </S>",
+    "<S> we find that the thermal stellar feedback alone does not remedy this problem . </S>",
+    "<S> additional ad - hoc preheating can lower the amount of cold gas but a simple uniform preheating results in incorrect star formation history , as it delays the bulk of star formation until @xmath1 . </S>",
+    "<S> our analysis shows that the overcooling in a cluster as a whole is really the overcooling in the central galaxy and its progenitors at high redshifts . </S>",
+    "<S> this indicates that an additional heating mechanism that can continuously heat the gas in the cluster core is required to reproduce the observed cluster properties . </S>",
+    "<S> energy injection by the active galactic nuclei , which may provide such heating , may thus be an important missing ingredient in the current theoretical models of cluster formation . </S>"
+  ]
+}

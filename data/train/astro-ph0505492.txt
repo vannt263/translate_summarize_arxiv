@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "based on the analysis of @xmath0350 iso sws spectra of sources in the agb - pn transition phase retrieved from the iso data archive we have been able to propose a novel classification scheme which takes into account the evolution of the overall shape of the infrared spectrum in combination with the gas - phase molecular bands and solid state features detected in the sws spectral range .",
+    "we identify three main chemical evolutionary branches which are interpreted as the result of the evolution of low - mass ( @xmath11.52.0 m@xmath2 ) , intermediate - mass ( 2.03.0 m@xmath2 ) and high - mass ( @xmath3 3.04.0 m@xmath2 ) agb stars , respectively .",
+    "the sequences reflect the increase of optical thickness in the circumstellar shell of agb stars followed by its cool down as a consequence of the shell expansion after the end of the strong mass loss phase .",
+    "it is also a sequence in which we can follow the process of condensation and growth of the dust grains in the envelope until the star becomes a pn .",
+    "in addition , there is a clear evolution of carbonaceous material from aliphatic to aromatic structures and of the silicates from amorphous to crystalline , which is still not very well understood .",
+    "the proposed scheme is consistent with the theoretical model predictions based on the dredge - up of processed material to the surface of agb stars which result in the transformation of the initially o - rich agb star into a c - rich agb star , after a few thermal pulses .",
+    "the number and efficiency of the thermal pulses in low - mass stars is expected to be small . as a consequence of this",
+    ", low - mass stars would stay as o - rich during the whole agb - pn evolution .",
+    "only part of them will become low - mass o - rich type ii or type iii pne .",
+    "in the most extreme cases very low - mass stars will not develop an observable pn .",
+    "intermediate - mass stars will soon become c - rich and will further evolve as such until the pn stage .",
+    "high - mass stars will develop very thick envelopes and thus strong silicate absorption bands and will activate the _ hot bottom burning _",
+    "mechanism which prevents the formation of carbon and favours the production of nitrogen , instead , evolving as o - rich stars until they become high - mass , n - rich type i pne .",
+    "the number of sources in the agb - pn evolutionary phase observed with iso is small . some of the new results derived from iso data will need to be confirmed by extending the observations to a larger number of sources .",
+    "spitzer expected lifetime of @xmath05 yr could provide a huge increase of available data to further study the many questions still left open by iso .",
+    "below the 15 jy level , the sensitivity of iso - sws was not enough to obtain spectra with enough quality to derive reliable conclusions . with the much higher sensitivity of spitzer it will be possible to observe under much better conditions these sources and extend the analysis to other sources several orders of magnitude fainter .",
+    "the study of the stars in the iso sample above described is hampered by the poor knowledge of their distances .",
+    "this problem can be overcome with spitzer if the analysis concentrates on well - defined samples located at distances which are known with a reasonable accuracy .",
+    "this includes the galacic bulge , the small and large magellanic clouds and other galaxies of the local group , which were forbidden for iso ( because of its poor sensitivity ) . as a byproduct",
+    ", we will be able to analyze also the influence of metallicity on the proposed evolutionary scheme , expected to play an important role according to the existing models .",
+    "it has been suggested that pahs may be predominantly present in the scattering lobes , while the crystalline silicates are expected to be present in the disks of bipolar sources showing a mixed chemistry . with the high spatial resolution of spitzer",
+    "it will be possible to resolve the different emitting regions in sources extended over just a few arcsec showing this dual chemistry .",
+    "the use of multi - filter photometry with spitzer ( irs + mips ) can be a powerful tool to search for new sources in the agb - pn evolutionary phase .",
+    "color - color diagrams based on large - scale maps of galaxies of the local group in the adequate filters could provide us with large datasets of new candidate sources which may have escaped from detection in classical optical surveys ."
+  ],
+  "abstract_text": [
+    "<S> we present a novel classification scheme for stars evolving in the transition phase between the asymptotic giant branch ( agb ) to the planetary nebula ( pn ) stage based on the results obtained with iso - sws . with the better sensitivity and higher spatial resolution of spitzer this analysis </S>",
+    "<S> can now be extended to a larger number of sources located in the galactic bulge , in the magellanic clouds and in other galaxies of the local group , offering an excellent opportunity to study the validity of the proposed scheme in environments which are free of the distance scale bias that hinder the observations made with iso on galactic sources located at uncertain distances . </S>",
+    "<S> the new observations will be used to test the current evolutionary models which predict the dredge - up of processed material to the surface of low- and intermediate - mass stars as a function of the progenitor mass and of the metallicity . </S>"
+  ]
+}

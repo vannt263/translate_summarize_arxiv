@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "the nature of galactic sources of high and ultrahigh energy cosmic rays is not clear , despite of essential progress in the theory of their acceleration and propagation . to understand the nature of sources , reliable experimental data about energy spectrum and mass composition in the range of 10@xmath1 - 10@xmath2 would be essential .",
+    "this range includes as well the `` classical '' knee [ 1 ] at energy @xmath3 ev , as also the range of energies @xmath4 ev , considered now as maximum reachable by cosmic rays accelerated in galactic supernova remnants [ 2 ] .",
+    "it is known , that the most reliable method of cosmic rays energy measurement in the specified energy range is the method of eas cherenkov light observation .",
+    "a series of such experiments are carried out in tunka valley ( 50 km from lake baikal ) since more than 10 years : tunka-4 [ 3 ] , tunka-13 [ 4 ] and tunka-25 [ 5 ] .",
+    "the latter array consists of 25 detectors on the basis of pmt quasar-370 and 4 detectors with pulse shape recording on the basis of pmt torn - emi d669 .",
+    "to study charged particles at surface , water cherenkov detectors with an area of 10 m@xmath0 are planned to be added to the array .",
+    "the detectors cover an area of @xmath5 km@xmath0 .",
+    "the construction of the tunka-133 array will allow us to expand the sensitive area by almost 10 times .",
+    "for one season of data taking ( 400 hours ) we plan to collect @xmath6 events with energies above 3@xmath7 ev , @xmath8 events with energies higher than @xmath9 ev , and a handful events with energies higher than @xmath10 ev .",
+    "the new array will consist of 133 optical detectors on the basis of pmt emi 9350 ( diameter of photocathode of 20 cm ) .",
+    "the plan of the array is shown in fig .",
+    "the 133 detectors are grouped in 19 clusters of seven detectors each .",
+    "the analog electronics is designed to provide a high dynamic range ( 10@xmath11 ) .",
+    "the functional scheme of the cluster electronics is shown in fig .",
+    "2 . the electronics will be placed inside industrial computers with isa interface .",
+    "data acquisiton and management will be carried out by a single - board industrial computer pca-6145 , connected with the control center through ethernet .",
+    "the measuring channels will be designed on the basis of 10-bit adcs ad9410 and xilinx microchip fpgas .",
+    "the continuous digitizing of signals with step widths of 5 ns allows to discard traditional tdcs and to replace analog discriminators by digital ones .",
+    "digitizing of signals at the central detector of each cluster , with steps of 2.5 ns , allows to measure the pulse form and to deduce the fwhm",
+    ".    the cluster trigger condition will be @xmath12 detectors during the resolution time of 0.5 microsec",
+    ". the rate of single - cluster triggers will be about 2 hz , and the cluster data stream about @xmath132 kb / sec .",
+    "the reconstruction of eas parameters will be carried out with methods , developed for the tunka-25 array [ 6 ] .",
+    "these methods provide an accuracy of core location of about 6 m and a primary energy resolution of about 15% .",
+    "the error in @xmath14 will be about 35 g / cm@xmath0 for the ldf - steepness method , and about 25 g / cm@xmath0 for the pulse fwhm method .",
+    "present work is supported by russian fund of basic researchs ( grants 02 - 02 - 17162 and 03 - 02 - 16660 ) .",
+    "the pmts emi 9350 ( 200 ) have been provided by infn from the former macro experiment ."
+  ],
+  "abstract_text": [
+    "<S> the project of an eas cherenkov array in the tunka valley / siberia with an area of about 1 km@xmath0 is presented . </S>",
+    "<S> the new array will have a ten times bigger area than the existing tunka-25 array and will permit a detailed study of the cosmic ray energy spectrum and the mass composition in the energy range from 10@xmath1 to 10@xmath2 ev . </S>"
+  ]
+}

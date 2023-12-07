@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "photon orbital angular momentum ( poam ) [ @xcite ] has attracted attention for astronomical applications [ @xcite ] and applications at the quantum level for quantum communication [ @xcite ] .",
+    "the generation of beams carrying poam , described by laguerre - gaussian ( l - g ) modes , proceeds thanks to the insertion in the optical path of a phase modifying device ( fork hologram ) imprinting a certain vorticity on the phase distribution of the incident beam [ @xcite ] .",
+    "the vorticity is characterized by parameters @xmath0 and @xmath1 describing the orbital and azimuthal angular momentum . here",
+    "we describe a prototype of a finger mask for binary systems using a @xmath2 fork - hologram .",
+    "the coronagraphic mask setup was tested using as source two 632 nm he - ne lasers collimated into our @xmath2 fork  hologram simulating a binary system having for each star angular diameter of 20marcsec , namely the one produced by a 8.2 m vlt - like telescope with adaptive optics .",
+    "the primary star lies on the center of the optical system , on axis and crossing the fork - hologram singularity , while the light beam representing the secondary star is off - axis . tilted and displaced beams",
+    "do not possess a single l - g mode , but show a spectrum of modes that depend on their geometrical properties [ @xcite ] , which makes possible the detection of a fainter companion .",
+    "the light of the main star is spread over the donought - shaped disk , while the fainter companion appears as a modification of the l - g mode structures of the primary star . by setting the stars at a very small distance for which the star is unresolved , we note that the l - g profile of both the contributions has its characteristic donought - symmetric shape .",
+    "when the fainter star is resolved following the rayleigh limit , we see that the first outer ring surrounding the donought becomes brighter and the level of the background in the ring region rises up the more the separated are the sources , thus revealing the presence of a fainter companion .",
+    "a fork - shaped hologram is equivalent to a set of cylindric lenses as currently used in modern coronagraphs for extrasolar planets and have the same optical properties of modifying the phase of the light .",
+    "further tests are currently being performed to improve the contrast of our finger - mask .",
+    "photon distribution of light having non null orbital angular momentum presents certain features that could give some advantages to astronomical applications , such as giving better evidence to closeby or fainter sources in a double system .",
+    "the authors would like to acknowledge the support of eso - feasibility study of owl instruments and zeilinger group , university of vienna , for the helpful discussions and support for this work ."
+  ],
+  "abstract_text": [
+    "<S> we propose to realize an optical device based on the properties of photon orbital angular momentum ( poam ) to detect the presence of closeby faint companions in double systems using laguerre - gaussian ( l - g ) modes of the light . </S>",
+    "<S> we test also the possibility of using l - g modes to build coronagraph mask . </S>",
+    "<S> we realized in the laboratory a prototype using a blazed l=1 hologram to simulate the separation between two stars , as observed with a telescope , in laguerre - gaussian modes .    </S>",
+    "<S> keywords : instrumentation : miscellaneous , methods : laboratory , techniques : miscellaneous </S>"
+  ]
+}

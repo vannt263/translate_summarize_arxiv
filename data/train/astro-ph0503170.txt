@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the _ spitzer _ wide - area infrared extragalactic legacy program ( swire ; * ? ? ?",
+    "* ) is expected to detect over two million galaxies at infrared wavelengths from 3.6 to @xmath16 over @xmath17 and to redshifts @xmath18 .",
+    "our elais - n1 sample corresponds to a completeness of @xmath19% and we used a @xmath1 central region where the completeness was uniform to within @xmath20 .",
+    "reliability of each @xmath2 detection was ensured by requiring an irac @xmath21 association with snr @xmath22 ( where @xmath23 ) and separation @xmath24 .",
+    "stars were identified and rejected using a combination of the @xmath21 stellarity index ( @xmath25 ) and cuts in @xmath26 versus @xmath27 flux ratio ( see * ? ? ? * ) .",
+    "this study is the first of its kind at this wavelength and sensitivity , reaching a factor of @xmath28 deeper in flux density than the iras @xmath29 galaxy surveys .",
+    "the method of counts - in - cells ( cics ; see * ? ? ?",
+    "* and references therein ) provides the full galaxy count distribution function within a cell of given size , and its moments are related to the classical @xmath30-point correlations . the variance in particular",
+    "is related to the cell - averaged _ two - point _ correlation function .",
+    "the advantage of cics over traditional , direct binning methods is that the data does not require binning , moments from cics have better signal - to - noise ratio properties , no random comparison sample is needed , and systematics from catalog boundaries and finite sampling are better handled .",
+    "figure [ fig ] ( left panel ) shows the angular - averaged correlation function as a function of cell diameter .",
+    "the angular range corresponds to _ comoving _ scales of @xmath31mpc at the expected median redshift of @xmath32 for the full sample , as predicted from the @xcite model and @xmath33 .",
+    "the striking feature is that redder ( mid - ir excess ) galaxies exhibit a stronger projected clustering than blue galaxies on scales @xmath15 .",
+    "this difference is difficult to explain by varying projection effects since their _ photometric _ redshift distributions ( although incomplete ) are not too dissimilar .",
+    "more work is needed to verify this .",
+    "we have estimated correlation lengths by inverting limber s equation with three different model redshift distributions and assuming a simple evolution model for 3d clustering : @xmath34 , where @xmath35 is a proper coordinate and @xmath36 implies constant ( stable ) clustering in proper coordinates .",
+    "we found spatial correlation lengths in the range @xmath37 to @xmath38mpc for the full sample assuming @xmath36 ( right panel in fig .",
+    "[ fig ] ) . for the redshift model of @xcite ,",
+    "whose predictions agree remarkably well with observed @xmath2 counts ( e.g. , * ? ? ?",
+    "* ) , we find @xmath10mpc .",
+    "we also found that red galaxies are more clustered by a factor of @xmath39 in their spatial correlation amplitude on @xmath40mpc scales at @xmath41 than blue galaxies ( not shown ) .",
+    "this may suggest that merger driven starbursts are dominating the mid - infrared excess population at @xmath42 .",
+    "we note however that our 3d clustering estimates depend strongly on the assumed redshift distribution .",
+    "this reinforces the need to establish the redshift distribution of swire galaxies .",
+    "chary , r. et al .",
+    "2004 , , 154 , 80 king , a. j. , and rowan - robinson , m. 2003 , , 339 , 260 lagache , g. et al .",
+    "2003 , , 338 , 555 lonsdale , c. j. et al .",
+    "2003 , , 115 , 897 masci , f. j. et al .",
+    "2005 , , ( in preparation ) xu , c. k. et al .",
+    "2001 , , 562 , 179"
+  ],
+  "abstract_text": [
+    "<S> we present initial results of galaxy clustering at 24@xmath0 by analyzing statistics of the projected galaxy distribution from _ counts - in - cells_. this study focuses on the elais - north1 swire field . </S>",
+    "<S> the sample covers @xmath1 and contains 24,715 sources detected at @xmath2 to a @xmath3 limit of 250@xmath4jy ( in the lowest coverage regions ) . </S>",
+    "<S> we have explored clustering as a function of 3.6 - 24@xmath0 color and 24@xmath0 flux density using angular - averaged two - point correlation functions derived from the variance of counts - in - cells on scales @xmath5 . using a power - law parameterization , @xmath6 , we find [ @xmath7 = [ @xmath8 for the full sample ( @xmath9 errors throughout ) . </S>",
+    "<S> we have inverted limber s equation and estimated a spatial correlation length of @xmath10mpc for the full sample , assuming stable clustering and a redshift model consistent with observed @xmath2 counts . </S>",
+    "<S> we also find that blue [ @xmath11 and red [ @xmath12 galaxies have the lowest and highest @xmath13 values respectively , implying that redder galaxies are more clustered ( by a factor of @xmath14 on scales @xmath15 ) . </S>",
+    "<S> overall , the clustering estimates are smaller than those derived from optical surveys , but in agreement with results from iras and iso in the mid - infrared . </S>",
+    "<S> this extends the notion to higher redshifts that infrared selected surveys show weaker clustering than optical surveys . </S>"
+  ]
+}

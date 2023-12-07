@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "stepie ( 2002 ) has shown that magnetic fields can spin up early type stars in the pms phase .",
+    "it acts through mass - accretion and magnetic - disc locking , where the efficiency of the interaction can differ according to the content of metals in the star and circumstellar environments .",
+    "be stars rotate at @xmath0 ( frmat et al .",
+    "it is then expected that the efficiency of magnetic fields at establishing high initial stellar surface rotations can be different according to the metallic content of the medium where they are formed .",
+    "we study whether there is some incidence of the metallicity on setting the be phenomenon up by analyzing the age / mass distribution of be stars situated towards the galactic center and in the anti - center direction .",
+    "the work is based on spectroscopic data obtained with feros spectrograph at eso / la silla ( chile ) and with the coud spectrograph at the 1.60 m telescope of mct / lna ( brazil ) .",
+    "the fundamental parameter determination uses models of rotating stellar interiors and atmospheres according to methods developed in levenhagen ( 2004 ) , frmat et al .",
+    "( 2005 ) and zorec et al .",
+    "figure  1a shows the distribution of fractional ages ( @xmath1 = age / time spent in the ms ) against the stellar mass .",
+    "although most of the studied stars lay in the second half of the ms strip , a non negligible number of them is still in the first half of the ms evolutionary phase .",
+    "a lack of stars below @xmath2 0.2 is noticeable .",
+    "stars with masses @xmath3 approach the tams limit .",
+    "this may be due to the fast evolution of massive stars and to the lack of massive be stars at ages @xmath4 0.5 because of their rapid loss of angular through high mass - loss rates , which convert them into low rotators and disable them to display the be phenomenon .",
+    "figure  1b shows samples of be stars divided into  galactic - center \" and  anti - center \" groups .",
+    "the  center \" group outnumbers the  anti - center \" one , which is at odds with the announced expectancy . however , the distinction done here is based on the number of be stars , while the result would be more reliable if we could obtain differences in the fractions of be / b - type objects in the studied space volumes .",
+    "frmat , y. , zorec , j. , a.m. hubert et al .",
+    "2005 , a&a , 440 , 305 levenhagen , r.s .",
+    "2004 , phd thesis , univ .",
+    "sao paulo , brazil stepien , k. 2002 , a&a , 383 , 218 zorec , j. , frmat , y. , cidale , l. 2005 , a&a in press and stro - ph/0509119"
+  ],
+  "abstract_text": [
+    "<S> fast rotation seems to be the major factor to trigger the be phenomenon . </S>",
+    "<S> surface fast rotation can be favored by initial formation conditions such as metal abundance . </S>",
+    "<S> models of fast rotating atmospheres and evolutionary tracks are used to determine the stellar fundamental parameters of 120 be stars situated in spatially well - separated regions to imply there is between them some gradient of metallicity . </S>",
+    "<S> we study the effects of the incidence of this gradient on the nature of the studied stars as fast rotators . </S>"
+  ]
+}

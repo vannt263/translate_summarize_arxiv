@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "this work is supported in part by the grants of the ur program no . 02.01.001 and rffi no . 040216724 ."
+  ],
+  "abstract_text": [
+    "<S> in this paper we discuss the problem , why the use of the direct data on primary nuclei spectra together with the modern hadronic interaction models leads to significant deficit of computed vertical muon flux at sea level for energies @xmath0  gev . </S>",
+    "<S> we suggest , that to find out the source of this inconsistency it is necessary to perform an analysis of sensitivity of emulsion chamber data to variations of hadron - nucleus interaction characteristics . such analysis will give more ground for discussion of adequacy of the up - to - date interaction models and of mutual compatibility of primary nuclei spectra , obtained in direct and eas experiments .    </S>",
+    "<S> keywords:_primary cosmic ray flux , hadronic interaction models , muons at sea level _ </S>",
+    "<S> + the accuracy , achieved in the last decade in measurements of primary cosmic ray ( pcr ) flux and in description of hadronic interactions , makes it possible to perform their consistency check . </S>",
+    "<S> it seems that the most clear and easy way to do it lies via the calculation of uncorrelated muon flux , since it contains information both on the total pcr all - nucleon flux and high - energy interaction characteristics and it is rather precisely studied up to the energy of 10 tev . </S>",
+    "<S> the majority of such calculations , performed in the last 20 years , were made with the use of pcr spectra , inconsistent with the present data of direct measurements , and applied purely phenomenological , i.e. approximating accelerator data , nuclear interaction models ( see ref .  </S>",
+    "<S> @xcite for more details ) . </S>",
+    "<S> these calculations did not find any difficulties in reproduction of the experimental data on the muon flux . </S>",
+    "<S> in contrast to them , our results , presented in ref .  </S>",
+    "<S> @xcite , clearly indicate , that the total vertical muon flux at sea level , resulting from the current balloon and satellite data on pcr spectra , is at the least 3040% deficient for the energies @xmath0  gev , regardless of interaction model applied : qgsjet@xcite or venus@xcite ( the latter one provides the largest number of muons at the sea level in comparison with other models , included in corsika@xcite ) . </S>",
+    "<S> the same conclusion can be drawn from the calculations in refs .  </S>",
+    "<S> @xcite , also relying on the up - to - date information . </S>",
+    "<S> the given discrepancy may be attributed only to the incorrectness of the interaction models , applied either for calculation of secondary particle fluxes in the atmosphere or for simulation of cascade processes in emulsion chambers ( ec ) in balloon experiments . </S>",
+    "<S> the first group models ( qgsjet , venus , dpmjet , sybill , nexus ) are widely used in eas experiments and the influence of differences between them on shower development is well understood . </S>",
+    "<S> the detailed characteristics of interaction codes , applied in the direct measurements , except runjob , are not a matter of common knowledge , and their consistency with just listed models was never investigated . </S>",
+    "<S> apparently , that these questions are of great importance , especially if to take into account , that due to high registration threshold the ec technique is sensitive to very scarcely known parameters of fragmentation particles . </S>",
+    "<S> possibly , that the mutual inconsistencies in these models may be the cause of 100% scatter of the data on the pcr nuclei spectra with @xmath1 . to find out , whether it is so or not , it is necessary to perform an analysis of sensitivity of the ec data to the variations of hadronic cross - sections with the use of thoroughly developed modern interaction models , describing events on the basis of fundamental physical principles in the whole phase space , including very forward region , unattainable for study at the existing accelerators . until such analysis is done , </S>",
+    "<S> it is impossible to say , if the muon deficit should be attributed singly to the underestimation of primary particle energy in the direct experiments or it is needed to correct interaction models with an automatically following from this recalculation of the ec data . if to consider the first possibility , then , as it is discussed in our paper@xcite , the lack of muons may be related in the large part only to the underestimation of flux of primary protons .    </S>",
+    "<S> [ c][c][0.8]@xmath2 , gev [ c][c][0.8]@xmath3 , gev/(@xmath4 ) [ r][r][0.8]@xmath5 [ r][r][0.8]@xmath6 [ r][r][0.8]@xmath7 [ r][r][0.8]@xmath8 [ r][r][0.8]@xmath9 [ r][r][0.8]@xmath10 [ r][r][0.8]@xmath11 [ r][r][0.75]bess - tev [ r][r][0.75]l3+c [ r][r][0.75]caprice   ( left ) and @xmath11 ( right ) at sea level . </S>",
+    "<S> this work calculation with corsika / qgsjet ( gheisha , @xmath12  gev ) : solid line    for pcr fluxes in anomalous diffusion model@xmath13 , dashed lines    for pcr spectra approximations , proposed in ref .  </S>",
+    "<S> 9 for low and high helium flux fits . </S>",
+    "<S> experiments : caprice    ref .  10 , bess - tev    ref .  11 , l3+c    ref .  </S>",
+    "<S> 12.,title=\"fig:\",scaledwidth=50.0% ] ( left ) and @xmath11 ( right ) at sea level . </S>",
+    "<S> this work calculation with corsika / qgsjet ( gheisha , @xmath12  gev ) : solid line    for pcr fluxes in anomalous diffusion model@xmath13 , dashed lines    for pcr spectra approximations , proposed in ref .  </S>",
+    "<S> 9 for low and high helium flux fits . </S>",
+    "<S> experiments : caprice    ref .  10 , bess - tev    ref .  11 , l3+c    ref .  12.,title=\"fig:\",scaledwidth=50.0% ]    </S>",
+    "<S> one may expect a confirmation of this conclusion from calculations of muon charge ratio , since it is sensitive to the chemical composition of pcr , but at the present state of the art such analysis is very speculative . </S>",
+    "<S> for example , our computations of @xmath10 and @xmath11 fluxes , performed with the use of qgsjet ( see fig .  1 ) , show , that the deficit of total muon flux for this interaction model is mostly due to a lack of positive muons . but </S>",
+    "<S> it can not be interpreted as a proof of underestimation of primary proton flux , since its enhancement would rise @xmath10 and @xmath11 intensities almost in equal amounts , thus leading to contradiction with the data on negative muons . in the given case </S>",
+    "<S> @xmath10 deficit must be related to the fact , that the qgsjet model predicts low , in comparison with experiments and other interaction models , value of muon charge ratio@xcite .    </S>",
+    "<S> consequently , we come to conclusion , that the systematic error in muon flux and charge ratio calculations is a sum of errors of two different interaction models , applied for simulation of cascades in ec and atmosphere , and it is impossible to separate them . </S>",
+    "<S> evidently , that to reduce error single model must be used for estimation of primary and secondary particle fluxes . for this purpose </S>",
+    "<S> it is preferable to take not phenomenological and widely applied in eas experiments interaction models . </S>",
+    "<S> it is needed not only to get a consistent picture on the cr fluxes from the top of the atmosphere to the sea level , but also would allow to check the correctness of the underlying physics for these models in the high @xmath14 region , which plays an important role both in interpretation of the ec data and in formation of muon spectrum , and to make more justified comparisons of direct and eas pcr flux measurements ( see such investigation in@xcite ) . without this , the balloon data on pcr spectra can not be considered as the normalization standard , especially near the `` knee '' , and it is impossible to understand , how the interaction models should be corrected . </S>"
+  ]
+}

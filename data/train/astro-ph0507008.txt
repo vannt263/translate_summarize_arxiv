@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "the mid - ir spectra of many sources are dominated by emission bands at 3.3 , 6.2 , 7.7 , 8.6 , and 11.2 , generally attributed to polycyclic aromatic hydrocarbons ( pahs ) .",
+    "it is now firmly established that the characteristics of the pah bands vary from source to source and spatially within sources revealing much about the carrier and the local physical conditions ( for a review see * ? ? ?",
+    "* atb ) pointed out that objects showing pah bands are expected to show emission at wavelengths longer than @xmath015 arising from their ccc out - of - plane bending vibrations .",
+    "this was confirmed by iso observations .",
+    "new features were reported at 16.4 ( @xcite @xcite ; @xcite @xcite , vhp ) and 17.4 @xcite while vhp present evidence for a variable 1521 plateau .",
+    "these authors interpreted the plateau as `` a collection of blended emission features '' . using spitzer further details about this variable plateau",
+    "were revealed ( spitzer special issue , apjs ) .",
+    "vhp showed that there are significant variations in the 15 - 21 pah emission .",
+    "[ obs ] shows their two most extreme cases : while the emission in cd  -42  11721 is dominated by bands at 16.4 and 17.4 , s  106 shows a broad , nearly flat - topped plateau between 15 to 21 with a secondary 16.4 band ( vhp ) .",
+    "in addition , there is much observational evidence of discrete emission features at 15.8 , 16.4 , 17.4 and 19.0 ( see e.g. vhp ; * ? ? ? * pmh , and references therein ) which can vary spatially as observed for ngc  7023 @xcite .",
+    "emission in this region is thus comprised of at least two classes of independent components : distinct , narrow features and broad variable plateaus . in addition ,  regions seem to show the broad variable plateau while yso s and reflection nebulae show a complex of narrow features .",
+    "[ obs ] shows spitzer - irs observations of 2 positions in the orion bar . clearly , within the orion bar , both the broad plateau and the complex of features are observed .",
+    "the broad plateau is located closer to the ionizing stars compared to the complex of features .",
+    "combined with the dependence of the emission on object type ( see above ) , this suggests that either the carrier of the broad plateau is more stable against uv photons than the carrier of the complex of features or the ionization state of the carrier of both features is different .",
+    "most spectra in the ames pah database have bands in the 1521 range arising from out - of - plane skeletal vibrations .",
+    "fig.[obs ] compares the astronomical spectra with different pah mixtures .",
+    "note that these mixtures are not unique .",
+    "the principle purpose here is to demonstrate that band blending from different pahs in a mixture can readily produce these features ( atb , moutou et al .",
+    "2000 , vhp , pmh ) .",
+    "the discrete narrow bands are likely due to gas - phase pah molecules while emission from larger pahs , pah clusters etc .",
+    "likely blend and primarily contribute to the broad , somewhat structureless underlying plateau ."
+  ],
+  "abstract_text": [
+    "<S> we present 1421 emission spectra of star forming regions and compare them with the pah spectra from the ames pah database . </S>",
+    "<S> we show that while the emission in this region can be quite variable , the bulk of these variations can be accommodated by variations in the is pah population . </S>"
+  ]
+}

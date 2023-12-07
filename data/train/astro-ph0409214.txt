@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "1 and 2 show the distribution of the 1388 stars of the library in the hr diagram and teff - [ fe / h ] plane .",
+    "stellar parameters and useful data have been searched in the literature or determined for all stars .",
+    "they are described and can be retreived from the elodie.3 website .",
+    "since the first version of the library , the reduction procedure described in prugniel & soubiran ( 2001 ) has been improved in several aspects but the general philosophy remains the same .",
+    "the basic steps in the reduction are to    * correct the different orders in the spectra for the blaze effect and connect the orders together * mask the telluric lines and spikes due to cosmic rays : in the new version , the mask of the spikes due to cosmic rays has been suppressed because it was found to alter real features . because of it , in the previous version of the library lick indices measured on our spectra presented a slope compared to measurements on jones spectra , the strongest features were found weaker than real ( thanks to g. worthey who stressed our attention on this important problem ) . *",
+    "make the flux calibration * build an interpolator which in turn is used to generate the grid that feeds the population synthesis program ( pegasehr ) .",
+    "the strengthening of the spectra have been improved : artifacts near balmer s lines were corrected .",
+    "the wavelength interval has been extended by adding 5 orders in the blue .",
+    "it was 410 - 680 nm , it is now 400 - 680 .",
+    "the correction for telluric lines has been improved .",
+    "we corrected some small bugs in the fits keywords ( in particular an unfortunate bad rounding of crval1 ) .",
+    "+ a full description of the reduction procedure can be found on the elodie.3 website .",
+    "the spectra are available as fits file .",
+    "three gzipped tarfiles , corresponding to the r=10000 , r=42000 libraries and the grid can be downloaded , as well as the table of measurements containing the stellar parameters estimated internally and the lick indices . the description of the files , calibration stes , specific keywords are described on the elodie.3 website ."
+  ],
+  "abstract_text": [
+    "<S> we present elodie.3 , an updated release of the elodie library originally published in prugniel & soubiran ( 2001 ) . </S>",
+    "<S> it is part of the spectrophotometric resources available in the hyperleda database where the spectra can be visualized or downloaded in fits format . </S>",
+    "<S> the elodie library includes 1962 spectra of 1388 stars obtained with the elodie spectrograph at the observatoire de haute - provence 193 cm telescope in the wavelength range 400 to 680 nm . </S>",
+    "<S> it provides a large coverage of atmospheric parameters : teff from 3000 k to 60000 k , log g from -0.3 to 5.9 and [ fe / h ] from -3.2 to + 1.4 . </S>",
+    "<S> the library is given at two resolutions : r=42000 , with the flux normalized to the pseudo - continuum , r=10000 calibrated in physical flux ( reduced above earth atmosphere ) with a broad - band photometric precision of 2.5% and narrow - band precision of 0.5% . </S>",
+    "<S> a grid of interpolated spectra is also given , which has been used for synthesis of stellar population with pegase - hr ( le borgne et al . </S>",
+    "<S> 2004 ) . </S>",
+    "<S> compared to the previous version we have doubled the size of the library , corrected some identification errors , improved the external stellar parameters and the reduction procedure . </S>",
+    "<S> a detailed description is available at the elodie.3 website : + http://www.obs.u-bordeaux1.fr/m2a/soubiran/elodie_library.html </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "there appears a rapid progress on the mass estimate of the supermassive black hole ( sbh ) in active galactic nuclei ( agns ) , which boosts our understanding of their central structure and their evolution ( bian 2004 ) .",
+    "there is a subclass of agns called narrow - line seyfert 1 galaxies ( nls1s ) ( boller et al .",
+    "1996 ) , which is proposed to be in the early stage of agns evolution ( mathure 2000 ) .",
+    "a popular model of nls1 is that they contain less massive black holes with super - eddington accretion , which leads to the steep x - ray slope founded in nls1s ( bian & zhao 2004a ) . to test this hypothesis we need to estimate the black hole mass of nls1s .",
+    "there are many methods to calculate the black hole masses in agns ( bian & zhao 2004b and reference therein ) : ( 1)virial mass derived from the fwhm(h@xmath0 ) ( or other broad line ) and the sizes of broad line regions ( blrs ) from the reverberation mapping technique or the empirical size - luminosity formula .",
+    "( 2)the relation between the mass and the bulge stellar velocity dispersion ( or [ o  iii ] linewidth ) ( m-@xmath1 relation ) or the bulge luminosity ( m-@xmath2 relation ) .",
+    "( 3)soft x - ray variability .",
+    "( 4)the mass from spectral energy distribution ( sed ) fit from the accretion disk model , such as the method using the soft x - ray hump luminosity for agns with super - eddington accretion rate .",
+    "( wang & netzer 2003 ) .",
+    "up to now , there are many nls1s samples ( bian & zhao 2004c ) .",
+    "we used the sample of grupe et al .",
+    "( 2004 ) for its completeness .",
+    "we calculated the masses in agns using three different methods : virial mass from h@xmath0 line ( @xmath3 ) , the mass from [ o  iii ] line ( @xmath4)$ ] ) , and the mass from the soft x - ray hump luminosity ( @xmath5 ) . in fig .",
+    "1 we plotted the mass from the x - ray luminosity versus from h@xmath0 line for the sample of grupe et al .",
+    "( 2004 ) . from fig . 1",
+    ", we found that sbh masses in nls1s can be reliably derived from soft x - ray luminosity for their super - eddington accretion .",
+    "the consistency of @xmath3 and @xmath5 showed that these two methods are available to estimate the mass in nls1s , which is consistent that most of nls1s are in the super - eddington accretion state .",
+    "@xmath3 and @xmath4)$ ] ( from [ o  iii ] line ) are not consistent in the sample of grupe et al .",
+    "( 2004 ) and the sample of nls1s in sdss ( bian & zhao 2004b ) .",
+    "therefore , compared with @xmath3 and @xmath6 , @xmath4)$ ] is not reliable in nls1s , which is consistent with the results that nls1s deviated from m-@xmath1 relation defined in non - active agns . for more detail",
+    ", please read bian & zhao ( 2004c ) .",
+    "+   + this work has been supported by the nsfc ( no . 10273007",
+    "10273011 ) and nsf from jiangsu provincial education department ( no . 03kjb160060 ) .",
+    "line versus from the soft x - ray luminosity for nls1s and bls1s in the sample of grupe et al .",
+    "nls1s are shown as circles .",
+    "bls1s are shown as solid squares .",
+    "the green open circles denote nls1s with @xmath7 .",
+    "the red solid circles denote nls1s which are satisfied with the eddington limit relation defined by wang ( 2004 ) .",
+    "for more detail , please reference bian & zhao ( 2004c ) . ]",
+    "bian w. , zhao y. , 2004a , mnras , 343 , 164 bian w. , zhao y. , 2004b , mnras , 347 , 607 bian w. , zhao y. , 2004c , mnras , accepted bian w. , 2004 , ph.d thesis boller t. , brandt w. n. , fink h. h. , 1996 , a&a , 305 , 53 grupe d. , et al .",
+    ", 2004 , aj , in press ( astro - ph/0310027 ) mathur s. , 2000 , mnras , 314 , l17 wang j. m. , netzer h. , 2003 , a&a , 398 , 927"
+  ],
+  "abstract_text": [
+    "<S> it is possible that narrow - line seyfert 1 galaxies ( nls1s ) are in the early stage of active galactic nuclei ( agns ) evolution . </S>",
+    "<S> it is important to estimate the mass of supermassive black hole ( sbh ) in nls1s . </S>",
+    "<S> here we considered the different kinds of methods to estimate the sbh masses in nls1s . </S>",
+    "<S> the virial mass from the h@xmath0 linewidth assuming random orbits of broad line regions ( blrs ) is consistent with that from the statured soft x - ray luminosity , which showed that most of nls1s are in the super - eddington accretion state . </S>",
+    "<S> the mass from the [ o  iii ] linewidth is systematically larger than that from above two methods . </S>",
+    "<S> it is necessary to measure he bulge stellar dispersion and/or bulge luminosity in nls1s . </S>"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "two spectra of bal224 ( @xmath0(2000 ) , @xmath2(2000 ) : 00h 56mn 06.45s , -72@xmath4 28 27.70 \" ) were obtained at medium resolution in setups lr02 ( 396 - 457 nm , r=6400 ) and lr06 ( 644 - 718 nm , r=8600 ) .",
+    "they are dominated by the 2-peak emission components of balmer lines which are strongly asymmetric with v@xmath5@xmath5r . due to",
+    "the resolution used it was possible , for the first time , to identify emission lines of [ feii ] , feii , [ cri ] as well as nebular lines [ sii]6717 , 6731 ( see fig  [ specl26 ] ) .",
+    "the mean radial velocity of these lines ( rv ) is 154 .",
+    "the fwhms of metallic emission lines are about 100   and correspond to the instrumental broadening .",
+    "the low s / n ratio in the continuum ( s / n@xmath320 ) did not allow to measure the radial velocity of hei lines present in the spectra of bal224 .",
+    "the rvs mean values of the shell component of h@xmath0 , h@xmath1 and h@xmath2 ( see figs  [ specl26 ] , [ vitesses ] and table  [ vitrad ] ) is 187 .    0.5 cm    [ cols=\"^,^,^,^,^,^,^,^,^,^\",options=\"header \" , ]     [ vitrad ]",
+    "according to balona ( 1992 ) , this star displayed fading of 0.2 mag and periods close to 1 day but none of these periods could fit satisfactorily the data .",
+    "thanks to the macho and ogle databases , 2 strong bursts ( fig .  [ photvar ] ) could be observed with an amplitude of 0.4 mag on a time scale of about 3100 days . between these 2 strong bursts , smaller ones which do not seen to be periodic could also be observed .",
+    "we searched for short - term variability and like in balona ( 1992 ) we find periods close to 1 day which do not give a satisfactory fit of the data . but irregular short- and long - term variabilities may also be explained by the presence of a multiple object .",
+    "from vlt - fors1 low resolution spectroscopic observations hummel et al .",
+    "( 1999 ) suggest that the absence of emission in hei lines and the strong balmer decrement can indicate that this star has a shell with a gas cooler than 5000k .",
+    "kucinskas et al ( 2000 ) thanks to their photometric study found a strong mid - ir excess compatible with a dust shell with a very low temperature : 360k .",
+    "this infrared excess is compatible with b[e ] and herbig stars but the temperature determined is not compatible with b[e ] stars .",
+    "we confirm a strong balmer decrement .",
+    "no emission components can be observed on hei lines and some lines of neutral elements such as [ cri ] are present so we can conclude that a cool dust shell is present ( table  [ vitrad ] , figs  [ specl26 ] , [ vitesses ] ) .",
+    "the presence of feii and [ feii ] and their fwhm lower than 100   are common points between b[e ] and herbig b[e ] stars .",
+    "but , we find an ew(h@xmath0 ) smaller than 1000  , which does not correspond to a b[e ] .",
+    "the h@xmath0 spectrum seen in hummel et al ( 2000 ) and in this study clearly shows a strong asymmetric double peak which may be explained by an accretion disk ( fig .",
+    "[ vitesses ] ) .",
+    "this type of disk is a main characteristic of herbig objects .",
+    "moreover , the short- and long - term irregular variabilities are characteristic of herbig objects which may be explained by an aggregate of stars .",
+    "properties of b[e ] supergiants , haebe and isolated haebe ( or hb[e ] ) are compared with properties of bal224 in table  [ nature ] . from this comparison ,",
+    "* we propose bal224 as an isolated herbig b[e ] object . *",
+    "balona , l.a .",
+    ", 1992 , mnras , 256 , 425 hummel , w. , szeifert , t. , gssler , et al , 1999 , a&a , 352 , l31 kucinskas , a. , vansevicius , v. , sauvage et al , 2000 , a&a , l21 sebo , k.m . , wood , p.r . , 1994 ,",
+    "aj , 108 macho database , http://wwmacho.mcmaster.ca/ ogle database , http://bulge.princeton.edu/  ogle/"
+  ],
+  "abstract_text": [
+    "<S> we present optical spectroscopy of the emission line star bal 224 ( v=17.3 , b - v=0.46 ) . </S>",
+    "<S> this star also named kwbbe 485 , [ ma93]906 is located at the periphery of the young smc cluster ngc 330 ; it is known as a photometric variable with a possible period around 1 day ( balona 1992 ) . </S>",
+    "<S> furthermore it was reported as the optical counterpart of the prominent mid - infrared source ( mir1 ) by kucinskas et al . </S>",
+    "<S> ( 2000 ) , indicating the presence of a dust shell . </S>",
+    "<S> the star was included in a sample of b - type stars observed using the eso vlt - flames facilities . </S>",
+    "<S> the presence of emission lines such as fe ii,[fe ii ] , [ s ii ] make this object like a b[e ] star . </S>",
+    "<S> the h@xmath0 , h@xmath1 and h@xmath2 lines show an asymmetrical double - peaked emission profile suggesting the presence of an accretion disk . </S>",
+    "<S> moreover the macho and ogle light curves were analyzed ; in addition to a long - term variability ( @xmath3 2300d ) , a short period very close to 1 day has been detected using different methods , confirming the variability previously reported by balona ( 1992 ) . finally the nature of this object is reconsidered .    </S>",
+    "<S> 0.5 cm 1.5 cm </S>"
+  ]
+}

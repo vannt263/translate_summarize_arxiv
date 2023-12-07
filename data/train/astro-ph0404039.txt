@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "x1850 - 087 is an ultracompact low mass x - ray binary ( orbital period , p@xmath0 , of 20.6 minutes , homer et al . 1996 ) located in the globular cluster ngc6712 ( at a distance of 6.8 kpc ) .",
+    "ultracompact x - ray binaries ( systems with orbital period less than 80 minutes ) are believed to contain hydrogen ",
+    "poor or degenerate companions ( e.g. verbunt & van den heuvel , 1995 ) .",
+    "recent x - ray spectral evidence indicates that these degenerate companions contain anomalously high abundance of neutral neon ( e.g. schulz et al . , 2001 ; juett et al . ,",
+    "indeed , a broad line - like feature at 0.7 kev , found in asca observations of ultracompact binaries ( including x1850 - 087 ) , is suggestive of the presence of an excess in the neutral neon absorption local to the systems ( juett et al . , 2001 ) .",
+    "high resolution spectroscopy of the ultracompact lmxrbs 2s0918 - 549 and 4u 1543 - 624 confirmed an enhanced ne / o number ratio with respect to the expected ism ratio ne / o=0.18 ( juett & chakrabarty , 2003 ) .    the aim of our xmm - newton ( jansen et al .",
+    "2001 ) observation is to deeply investigate the presence of neon excess suggested by previous asca observation , through high spectral resolution observation with rgs ( see den herder eet al .",
+    "2001 for the description of the instrument , covering the energy range 0.32 kev ) .",
+    "xmm - newton data consist of two observations , performed in 2003 , september / october , 12 days apart , for a net epic pn exposure of 8.1ks and 5.9ks , respectively .",
+    "pn operated in small window mode in order to minimize pile - up problems .",
+    "the source rates in the 2 pn observations were @xmath146  @xmath2 and 49  @xmath2 in the 0.3 - 12 kev band .",
+    "we will concentrate here only on the rgs spectra .",
+    "the analysis of mos and pn spectra is still in progress , because they are particularly complex and can not be fit with simple models , because of the presence of structures in the residuals at low energies , below 2 kev .",
+    "indeed , the epic pn xmm - newton spectrum can not be accounted for nor by the asca best - fit ( juett et al . 2001 ) nor by the bepposax model ( sidoli et al .",
+    "an accurate visual inspection of the rgs spectra does not show any evidence for the presence of bright and narrow lines , neither in emission nor in absorption ( see fig .  1 ) .",
+    "in order to search for neutral neon excess local to the source , we fit the rgs spectrum with a black - body , absorbed with a variable - absorption model ( vphabs in xspec ) and fixing to zero the neon and oxygen abundances .",
+    "then , we included the edges from neutral neon and oxygen and after fitting , we obtained the ne and o column densities .",
+    "we got the the following ne / o number ratio :    ne / o = 0.17 @xmath3    -0.5 cm to be compared with the ism value of 0.18 .",
+    "thus we can conclude that there is no evidence for a neutral neon excess local to x1850 - 087 .",
+    "a search for periodicity has been performed with epoch folding techniques around the optical period ( 1233@xmath4  s , homer et al .",
+    "our preliminary results shows that the @xmath5 distribution reveales a peak at 1258@xmath6  s , but only in the second pn observation .",
+    "the fact that the x - ray period has been detected only in one of the xmm - newton observations is puzzling and deserves further investigation .",
+    "the double - peaked shape of the folded lightcurve ( see fig .  2 ) is possibly indicative of the presence of some symmetric structure in the accretion disk ."
+  ],
+  "abstract_text": [
+    "<S> we report on preliminary results from our xmm - newton observation of the low mass x - ray binary 4u 1850 - 087 , located in the galactic globular cluster ngc 6712 . </S>",
+    "<S> it is an ultracompact binary system , with an orbital period of 20.6 min . in previous low - resolution x - ray observations 4u 1850 - 087 displayed a soft excess residual around 0.7 kev , possibly indicative of the presence of a high ne / o ratio , as already found in other three ultracompact lmxbs containing a neutron star ( 4u 0614 + 091 , 4u 0918 - 549 , and 4u 1543 - 624 ) . </S>",
+    "<S> we discuss here our preliminary analysis of high resolution x - ray spectra of 4u 1850 - 087 , and timing results .    </S>",
+    "<S> [ 2001/04/25 1.1 ( pwd ) ] </S>"
+  ]
+}

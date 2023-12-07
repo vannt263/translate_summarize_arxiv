@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "radio - optical variability correlation in qso 0957 + 561 ( first gravitationally lensed system ) , was first reported by oknyanskij and beskin ( 1993 ) , on the basis of vla ( 6 cm ) radio observations made in the years 1979 to 1990 .",
+    "then we have found that the time delay value was a linear function of time with the rate of increase being about 110 days / year while the portion of reradiate flux in the radioresponse was some decreasing function of time ( oknyanskij , 1997,1998 ) .",
+    "our results allowed predictions to be made for radio variations for the years 1995 and latter .",
+    "at the present time , new vla radio observations ( at 4 cm and 6 cm ) of qso 0957 + 561 during 1995 - 1997 have been published ( haarsma et al .",
+    "1999 ) by which we may check the predictions .",
+    "we have found that 6 cm variations followed 4 cm ones with delay about 230 days ( see fig.1 ) .",
+    "we take this fact into account as well as gravitational lensing time delay between variations in a and b to have got combined radio light curve .",
+    "as we have found the radio light curve during these 3 years have been following our predictions in limits of the estimated standard errors ( see fig.2 ) .",
+    "obtained results indicate that the optical and radio emitting regions are physically related , but have distinct size scales , locations and possibly radiation mechanisms .",
+    "we conclude that the variable radio source is ejected from the central part of the qso compact component ( oknyanskij , 1999 ) .",
+    "obtained results imply existence of the variable beamed hard radiation in the nucleus of the qso .",
+    "haarsma , d.b . , et al .",
+    "1999 , , 510 , 64 oknyanskij , v.l . , beskin , g.m .",
+    "1993 , in _ proceedings of the 31th liege international astriphys . call .",
+    "_ , p.65 oknyanskij , v.l .",
+    "1997 , , 246 , 299 oknyanskij , v.l .",
+    "1998 , , 259 , 295 oknyanskij , v.l .",
+    "1999 , astron .",
+    "nachr . , 320 , 314"
+  ],
+  "abstract_text": [
+    "<S> in our previous publications have been reported about possible time delay between optical and radio ( 6 cm ) variations in qso 0957 + 561 and noted that the result can be tested with new radio observations . </S>",
+    "<S> here we have made this test using new published ( haarasma et al . , 1999 ) radio observations of the object in 6 cm and 4 cm . </S>",
+    "<S> we have found that the new observations confirm optical - to - radio time delay . </S>",
+    "<S> additionally we have found that radio 6 cm variations followed 4 cm ones with time delay about 230 days .    obtained results </S>",
+    "<S> imply existence of the variable beamed hard radiation in the nucleus of the qso . </S>"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "magnetic chemically peculiar ( mcp ) stars exhibit periodic light variations , that used to be explained by presence of  photometric \" spots with uneven energy distribution on the surface of rotating stars .",
+    "these photometric spots are likely connected with the  spectroscopic \" spots of a peculiar abundance of various chemical elements .",
+    "the departures of energy distribution in spectra of mcp stars from normal energy distribution are explained as a consequence of line and continuum blanketing originating in the spectroscopic spots with peculiar chemical composition ( e.g. * ? ? ?",
+    "@xcite @xcite ) . to test whether the photometric spots are related to the spectroscopic ones we calculated light variations of the helium strong mcp star hd37776 , for which @xcite by means of doppler analysis derived a spot model with a helium - rich ring surrounded by two helium - poor spherical caps ( fig .",
+    "[ povrch ] ) .",
+    "for lte atmosphere modelling we opted code tlusty @xcite .",
+    "the models correspond to the helium rich / poor surface elements on hd37776  with @xmath0 and @xmath1 respectively @xcite .",
+    "the effective temperature @xmath2 and the surface gravity @xmath3 of all these models are assumed to be the same and equal to @xmath4k and @xmath5 , respectively @xcite .",
+    "the emergent radiative flux was calculated with synspec code .",
+    "the spectral energy distribution derived for individual surface elements was used to obtain corresponding fluxes in individual colours . finally , these fluxes are integrated over all visible surface and the observed magnitude difference is calculated .",
+    "the radiative fluxes calculated for atmospheres with different chemical composition are displayed on ( fig .",
+    "[ toky ] ) .",
+    "the flux calculated was convolved with a gauss function to better demonstrate possible light variations .",
+    "apparently , the he - poor surface elements with solar metallicity produce a flux that is lower in the visible region than the flux produced by the he - strong ones .",
+    "the regions with enhanced metallicity produces a flux highest in the visible region .",
+    "from the spectrum and light variability observations follows that at the maximum stellar brightness , the helium equivalent width have its minimum , whereas the si equivalent widths have their maximum .",
+    "clearly , the he - rich ring is dimmer and mostly si - poor , whereas the he - poor spots are brighter and mostly si - rich .",
+    "however , the radiative flux from the solar metallicity helium - poor surface elements in the visible region is lower than that from the helium - strong ones ( fig .",
+    "[ toky ] ) .",
+    "consequently , the observed light variability of hd37776  can not be explained merely by altering of emergent flux due to the uneven surface distribution of helium .",
+    "also surface variations of metallicity should be taken in to account .",
+    "therefore , we calculated the predicted light variability of hd37776  assuming that he - poor spots have metallicity thirty times higher relative to the solar one and that the he - strong ring consists from h and he only ( fig .",
+    "[ hvvel ] ) .",
+    "we calculated light curves of the he chemically peculiar star hd37776 .",
+    "it is possible to explain its observed light variability provided that the he - poor spots have enhanced metallicity whereas the he - strong ring has low metallicity . in such case",
+    "the observed light variations are mostly due to bound - free transitions of carbon .",
+    "although this picture roughly corresponds to the observed data , detailed spectrum observations and model improvement are necessary to test our ideas .",
+    "this work was supported by grants gar 205/03/ d020 , 205/04/1267 , vega 3014 and mvts sr - r 128/04 .",
+    "adelman , s. j. , & pyper , d. m. , 1985 , a&as , 62 , 279 groote , d. , & kaufmann , j. p. , 1981",
+    ", in : upper ms cp stars , 23d lige p. 435 hubeny , i. , & lanz , t. 1995 , apj , 439 , 875 mikulek , z. , krtika , j. , zverko , j. , iovsk , j. , & jank , j. , 2006 , these proceedings peterson , d.m .",
+    "1970 , apj , 161 , 685 townsend , r. h. d. , owocki , s. p. , & groote d. , 2005 , apj , in press vet , b. , hempelmann , a. , schneich , w. , & stahlberg , j. , 1991 , astr .",
+    "nachr . , 312 , 2"
+  ],
+  "abstract_text": [
+    "<S> we calculated spectral energy distribution of the helium strong chemically peculiar star hd 37776 using adequate model atmospheres . we show that the chemical peculiarity influences the stellar energy distribution . </S>",
+    "<S> consequently , spots of peculiar chemical composition on the surface of a rotating star may cause detectable light variations of the star . </S>",
+    "<S> however , the observed light variations are not likely caused by an uneven surface distribution of helium , but may be due to spots of metals ( mainly carbon ) . </S>"
+  ]
+}

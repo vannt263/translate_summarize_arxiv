@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "resolving the ly@xmath0 forest in he  2347 - 4342 with fuse @xcite has led to a detailed picture of the ionization if the igm . the cosmic uv background which governs the / column density ratio",
+    "was found to fluctuate by at least two orders of magnitude , with the highest values observed in the low density part ( voids ) of the ly@xmath0 forest @xcite .",
+    "we present here fuse observations of hs  1700 + 6416 ( @xmath5 ) , a second line of sight of comparable quality .",
+    "a summary of the observations is given in tab . [ observations ] .",
+    "the data reduction of the fuse spectrum was performed by g. kriss .",
+    "the wavelength range of the ly@xmath0 forest is covered by two keck / hires spectra @xcite .",
+    "we coadd these two datasets .",
+    "the simcoe spectrum reaches down to 3200 so this portion is used as well for the analysis of the metal line systems along the line of sight .",
+    "furthermore , we have stis data from the hst archive , taken with the echelle e140 m grating .",
+    "because of their low signal - to - noise ratio only the best part of the spectrum is used for consistency checks constraining the models of the metal line systems .",
+    ".summary of the observations . [ cols=\"^,<,^,^,>,^ \" , ]     datasets published in @xcite and @xcite    [ observations ]    to estimate the continuum in the fuse portion we have taken low resolution hst / stis data in may 2003 .",
+    "the covered wavelength range ( 1150  3200 ) includes an overlap with the fuse data , where the two spectra match despite the uv variability of the qso .",
+    "we extrapolate the continuum from the stis data correcting for extinction , the seven lls , and considering the intrinsic qso power law continuum .",
+    "we derive models for 18 metal line systems with redshifts in the range of @xmath6 using the photoionization code cloudy @xcite . a haardt ",
+    "madau uv background at the appropriate redshifts @xcite serves as ionizing radiation field in most of the cases .",
+    "three systems require a power law continuum .",
+    "the ionization parameter is fixed on the basis of column density ratios of two ionization stages of at least two different elements .",
+    "metallicities and relative abundances are scaled to match the observed column densities . using this procedure we describe the observed column densities and get a prediction for the distribution of metal lines in the fuse wavelength range . as can be seen from fig .",
+    "[ fig1 ] some rather strong features can be identified with metal lines .",
+    "we fit all absorbers with doppler profiles and model the corresponding features at the same redshifts assuming pure turbulent broadening . if necessary , we add lines without counterpart .",
+    "the result for the column density ratio @xmath7 , taking into account the metal line prediction , is shown in the left panel of fig .",
+    "[ fig2 ] .",
+    "the distribution resembles the result of he  2347 - 4342 .",
+    "the consideration metal absorption lines has no dramatic influence on the result in comparison to a simple model , even though 13.5% of the features would have been biased by metal lines .",
+    "the average value @xmath8 decreases by @xmath9 17% and we have to add 7% less lines without counterpart .",
+    "the average column density ratio @xmath10 corresponds to a haardt ",
+    "madau ionizing background , but individual values are in a range from @xmath11 to more than 1000 , which implies highly fluctuating ionization conditions .",
+    "furthermore , we confirm the correlation between column density and @xmath12 ( fig .",
+    "[ fig2 ] , right panel ) as found in previous studies @xcite , where weak absorbers have high @xmath7-values .",
+    "ferland , g. 1997 , a brief introduction to cloudy ( internal rep .",
+    ", lexington : univ .",
+    "kentucky ) haardt , f. & madau , p. 1996 , apj , 461 , 20 kriss , g. a. , shull , j. m. , oegerle , w. , zheng , w. , davidsen , a. f. et al .",
+    "2001 , science , 293 , 1112 simcoe , r. , sargent , w. , & rauch , m. 2002 , apj , 578 , 737 songaila , a. 1998 , aj , 115 , 2184 shull , j. m. , tumlinson , j. , giroux , m. l. , kriss g. a. , & reimers , d. 2004 , apj , 600 , 570"
+  ],
+  "abstract_text": [
+    "<S> we present fuse observations of the ly@xmath0 forest in the redshift range @xmath1 towards hs  1700 + 6416 . between october 2002 and february 2003 , the brightness of the qso increased by a factor 2 . </S>",
+    "<S> therefore , with an exposure time of 203ks during orbital night , the quality of the resulting spectrum is comparable to the he  2347 - 4342 data . </S>",
+    "<S> this second line of sight with a resolved lyman alpha forest reveals a similar variation of several orders of magnitude of the column density ratio @xmath2@xmath3@xmath4 and confirms the results of previous studies . </S>",
+    "<S> the well - known metal line spectrum of hs  1700 + 6416 permits to examine the influence of metal line absorption on the column densities . </S>"
+  ]
+}

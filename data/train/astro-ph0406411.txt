@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "measuring accurate masses for the most massive stars in our galaxy and beyond is important for constraining star formation and stellar evolution theories , which have indirect implications for many objects that are not well understood , such as supernovae , gamma - ray bursts and population iii stars . some of the most massive candidates in the milky way are lbv 1806 - 20 @xcite , the pistol star @xcite , and @xmath2 carinae @xcite , which have inferred masses up to @xmath3",
+    "however , the masses of these stars are only indirect estimates and thus have large uncertainties associated with them .",
+    "the only direct way of measuring accurate masses of distant stars is in eclipsing binaries .    until recently ,",
+    "the most massive stars ever weighed in binaries were : r136 - 38 ( o3v+o6v ) in the lmc with a primary mass of @xmath4 @xcite , wr 22 ( wn7+abs@xmath5o ) , with a minimum primary mass of @xmath6 @xcite and plaskett s star with a minimum primary mass of @xmath7 @xcite .",
+    "we present the light curve for wr  20a , the most massive binary measured accurately , and propose to measure fundamental parameters of similar massive binaries in the local group .",
+    "the current champion of the most massive star competition is wr  20a , a wolf - rayet ( wr ) binary in the compact cluster westerlund  2 , which is located at the center of the hii region rcw 49 .",
+    "@xcite obtained spectroscopy for wr  20a and measured extremely large minimum masses of @xmath8 and @xmath9 for the components .",
+    "the final masses strongly depend on both the period and inclination of the binary , which can only be measured from the light curve . in may 2004",
+    ", @xcite obtained 83 @xmath10band observations of wr  20a with the ogle team s 1.3 m warsaw telescope at las campanas observatory , chile , which is operated by the carnegie institute of washington .",
+    "the first goal of our observations was to confirm the @xmath11 day spectroscopic period of the wr  20a binary and refine its value to @xmath12 days , thus confirming the remarkable masses of its components .",
+    "next , we derived an inclination angle @xmath13 for the system from our well - sampled light curve .",
+    "we fit the curve with the wilson - devinney ( wd ) code @xcite for modeling distorted stars and derived a best fit inclination angle of @xmath14 . in figure",
+    "[ lc ] we show the result of the @xmath10band light curve model fit for wr  20a .",
+    "the uneven eclipse depths suggest slightly different effective temperatures and , thus , different spectral types for the components .",
+    "armed with the refined period and the exact value of the inclination angle , we re - analyzed the radial velocity data of @xcite .",
+    "fixing the eccentricity to @xmath15 , as the light curve confirms , and the period to @xmath12 days , we fit the radial velocity data applying equal weights and rejecting points with radial velocity measurements smaller than @xmath16 .",
+    "we derive slightly larger velocity semi - amplitudes than @xcite , which in turn yield larger minimum masses and final masses of the components of @xmath17 and @xmath18 .",
+    "the direct project ( e.g. * ? ? ? * ; * ? ? ?",
+    "* ) has found @xmath19 variables in each of the galaxies m31 and m33 , which include about 100 eclipsing binary systems .",
+    "follow up photometry was done with the 2.1 m kpno telescope in 1999 and 2001 on the best system , m33a , and the light curve is shown on the left panel of figure  [ deb ] ( a.z .",
+    "bonanos et al .",
+    "2004 , in preparation ) .",
+    "we have obtained spectra with esi on keck ii in november 2002 and september 2003 and the radial velocity curve is shown on the right panel of figure  [ deb ] .",
+    "analogs of wr  20a , possibly with even higher mass components , are bound to exist in m31 and m33 .",
+    "we have selected the brightest eclipsing binaries as massive binary candidates and plan to obtain spectroscopy to derive their radial velocity curves and , hence , masses .",
+    "in addition to measuring their fundamental parameters , we will obtain a direct distance estimate .",
+    "the advantage of studying eclipsing binaries in these galaxies would be their well known distances and low reddening ."
+  ],
+  "abstract_text": [
+    "<S> accurate masses and , in general , all fundamental parameters of distant stars can only be measured in eclipsing binaries . several massive star candidates with masses near @xmath0 exist , however they have large uncertainties associated with them . </S>",
+    "<S> the most massive binary ever measured accurately is wr  20a , for which we present the light curve . </S>",
+    "<S> measuring the period and inclination , we derive masses greater than @xmath1 for each component . </S>",
+    "<S> massive binaries are bound to exist in local group galaxies , such as m31 and m33 . </S>",
+    "<S> these can be selected from their light curves , obtained by variability studies , such as the direct project . </S>",
+    "<S> we present photometry and spectroscopy of the detached system m33a , for which we are obtaining a direct distance determination . </S>",
+    "<S> the direct project has detected several candidate massive binaries which are brighter but non - detached systems , perhaps similar to wr  20a . </S>",
+    "<S> we plan to obtain spectra for them and measure their masses . </S>"
+  ]
+}

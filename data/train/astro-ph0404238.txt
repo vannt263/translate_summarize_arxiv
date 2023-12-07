@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "simulations of tidal disruption of a star were carried out using a three - dimensional , relativistic , smooth - particle hydrodynamics code ( ( * ? ? ?",
+    "* laguna et al . 1993 ) ) , to describe the early evolution of the debris during the first fifty to ninety days .",
+    "we have used the photoionization code cloudy ( ( * ? ? ? * ferland 1996 ) ) to calculate the physical conditions and radiative processes in the debris . to obtain the observed profile from the relativistic debris , confined to a plane , in the weak field approximation we have followed the line profile calculations by (",
+    "* chen & halpern ( 1989 ) ) and ( * ? ? ?",
+    "* eracleous et al . ( 1995 ) ) .",
+    "once bound debris starts to rain down on the black hole it is expected to cause the initial rapid rise in the emitted uv / x - ray light curve and steady decay with the power low index of @xmath2 later on ( ( * ? ? ?",
+    "* rees 1988 ) ) .",
+    "the uv / x - ray flares from the central source illuminate the debris , the photons get absorbed , and some are re - emitted in the balmer series h@xmath0 line .",
+    "we have modeled the h@xmath0 light curve and emission line profiles in the period immediately after the accretion rate onto the black hole became significant .",
+    "the main features of the h@xmath0 light curve are an initial rise followed by a decline , with superposed fluctuations .",
+    "the decay rate of the h@xmath0 light curve is determined by the decay rate of uv / x - ray light curve , and the debris expansion and redistribution rate .",
+    "our model predicts prompt evolution of the profile shapes on the time scales of hours to days , as shown in figure  [ fig_1 ] .",
+    "the line profiles can take a variety of shapes for different orientations of the debris relative to the observer . due to the very diverse morphology of the debris , it is almost impossible to uniquely match the multi - peaked profile with the exact emission geometry .",
+    "nevertheless , the profile widths and shifts are strongly indicative of the velocity distribution and the location of matter emitting the bulk of the h@xmath0 light .",
+    "the profile shapes do not depend sensitively on the shape of the uv / x - ray light curve illuminating the debris .",
+    "they strongly depend on the distance of the emitting material from the central ionizing source , which is a consequence of the finite propagation time of the ionization front and the redistribution of the debris in phase space .",
+    "if x - ray flares and the predicted variable profiles could be observed from the same object they could be used to identify the tidal disruption event in its early phase .",
+    "profiles emitted from the debris region @xmath3 ( in units of @xmath4 ) over period of 6 days .",
+    "the relative time from the beginning of the accretion phase onto the black hole is marked next to each profile .",
+    "the inclination of the debris plane and the velocity shear are as marked on the figure.[fig_1 ] ]"
+  ],
+  "abstract_text": [
+    "<S> we have modeled the time - variable profiles of the h@xmath0 emission line from the non - axisymmetric disk and debris tail created in the tidal disruption of a solar - type star by a @xmath1 black hole . </S>",
+    "<S> we find that the line profiles at these very early stages of the evolution of the post - disruption debris do not resemble the double peaked profiles expected from a rotating disk since the debris has not yet settled into such a stable structure . </S>",
+    "<S> the predicted line profiles vary on fairly short time scales ( of order hours to days ) . as a result of the uneven distribution of the debris and the existence of a `` tidal tail '' ( the stream of returning debris ) , the line profiles depend sensitively on the orientation of the tail relative to the line of sight . given the illuminating uv / x - ray light curve </S>",
+    "<S> , we also model the h@xmath0 light curve from the debris . </S>"
+  ]
+}

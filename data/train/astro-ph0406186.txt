@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "exploring the nature of the physics responsible for the current acceleration of the expansion of the universe is a major scientific goal for the next decade .",
+    "the implications range over high energy physics , the theory of gravitation , and the fate of the universe .",
+    "current data , most notably type ia supernova distances , accompanied by cosmic microwave background ( cmb ) and large scale structure measurements , suggest a dark energy component comprising nearly three quarters of the total energy density , with negative pressure roughly equal to its energy density ( i.e.  pressure to energy density ratio @xmath1 ) .",
+    "but the physics possibilities behind this are manifold .",
+    "einstein s cosmological constant would have @xmath2 identically @xmath3 at all redshifts @xmath4 , while models exist with @xmath5 greater than or less than @xmath3 and generically time varying .",
+    "moreover , many models possess an averaged value of @xmath2 not too different from @xmath3 over a limited redshift range , so even a 5% measurement of @xmath6 or an assumed @xmath7 is unlikely to provide us with an important and unambiguous clue to fundamental physics .    to progress , we need a new , specially designed experiment that seeks to account for and control all reasonably possible sources of uncertainty in the astrophysics , while probing the cosmology through multiple , well understood methods .",
+    "ten years from now , we want to be in the position of having , if not the solution , then clear clues to solve the mystery of dark energy , but not to fail to obtain guidance after all that effort through lack of foresight and completeness",
+    ". the requirements of depth and sufficiency drive the design of the supernova / acceleration probe ( snap ; * ? ? ?",
+    "* ) , a space based 2-meter telescope with optical and near infrared imaging and spectroscopy .",
+    "ongoing ground based supernova surveys , necessarily limited to @xmath8 , will improve our knowledge of @xmath7 , and of supernovae themselves  both extremely useful  but do not give us directly the equation of state ratio of the dark energy .",
+    "from @xmath7 we can not extract the present value @xmath9 or a measure of its variation @xmath10 in an unbiased manner , and merely admitting our ignorance of whether there exists a variation @xmath10 blows up the uncertainties in @xmath9 @xcite .",
+    "space based surveys permit more accurate supernova photometry and the ability to extend to higher redshifts ( e.g. * ? ? ?",
+    "* ; * ? ? ?",
+    "* ) , but the time is not available to follow up and characterize substantial numbers of supernovae ( even with a dedicated program on the hubble space telescope , due to its narrow field ) .",
+    "so these advances , while solid steps of progress , are insufficient to obtain significant constraints on the dynamics of the dark energy through @xmath10 .",
+    "this lack of a dense , superbly characterized sample over the entire key redshift range of @xmath11 obscures and disables discrimination of the physics .",
+    "figure 1 illustrates this , showing the effect of a random irreducible systematic uncertainty of @xmath12 per bin of redshift width 0.1 .",
+    "this could arise from a combination of extinction and k - corrections , gravitational lensing magnification , calibration errors , etc .",
+    "only an experiment obtaining scores of supernovae per bin over the full range , with exquisite systematics control , could achieve the sensitivity and power of the innermost , light yellow contour representing snap constraints at 68% confidence level .    specifically , the requirements on the data sample are :    * full redshift range @xmath11 with dense sampling , to break parameter degeneracies and bound systematics . *",
+    "@xmath132000 supernovae with optical / near infrared imaging and spectra to 1 ) divide into subsets for like - to - like comparison ( `` anti - evolution '' ) , 2 ) obtain high signal to noise to bound systematics and prevent malmquist bias , and 3 ) many @xmath14 supernovae to prevent gravitational lensing bias .",
+    "* space telescope ( @xmath132 meter aperture ) for 1 ) infrared observations ( essential for high @xmath4 ) and high accuracy color ( dust extinction ) corrections , and 2 ) precise and stable weak gravitational lensing shear measurements . * crosschecking and complementary methods for robust characterization of the nature of dark energy .",
+    "weak lensing adds great value in deep , medium wide , and panoramic surveys . _",
+    "no need for @xmath15 prior ! _",
+    "snap plans its observing strategy to maximize the science from both the supernova and weak lensing methods . in the reference mission , the deep survey covers 15 square degrees repeatedly in 9 wavelength bands for 120 visits , discovering and following supernovae down to ab magnitude 30.3 in each filter and measuring lensing shears for @xmath16 galaxies with a number density of greater than 250 resolved galaxies per square arcminute .",
+    "this will be superb for a wide area dark matter map .",
+    "the wide survey scans 300 - 1000 square degrees once , down to ab 26.6 in each band , resolving 100 galaxies per square arcminute for a total of some 300 million galaxies .",
+    "a panoramic survey is also under consideration of up to 10000 square degrees , ab=25 , with 40 - 50 galaxies per arcmin@xmath17 for a billion galaxies .",
+    "in order to determine accurately the cosmological parameters , the dark energy density @xmath18 and present equation of state @xmath9 , and explore the crucial physics clue of the variation @xmath10 , snap will achieve :            moreover , snap will test the cosmological framework by directly mapping the expansion history @xmath20 of cosmic scales over time , from the acceleration into the deceleration epoch , probing dark energy , higher dimensions , extensions to gravity , etc .",
+    "in addition , the science resources provided by the deep , wide , and panoramic fields will fuel a plethora of astronomical investigations into galaxy evolution , the high redshift universe , dark matter , stellar populations , rare , variable , and moving objects , etc .",
+    "furthermore snap will act in synergy with the next generation james webb space telescope and carry out a guest survey program .    to observe dark energy and optimize the return on the investment of effort and funding by having the best chance for learning the essential dynamics to push the fundamental physics frontier , we need to have a comprehensive , robust experiment like snap ."
+  ],
+  "abstract_text": [
+    "<S> the nature of dark energy is of such fundamental importance  yet such a mystery  that a dedicated dark energy experiment should be as comprehensive and powerfully incisive as possible . </S>",
+    "<S> the supernova / acceleration probe robustly controls for a wide variety of systematic uncertainties , employing the type ia supernova distance method , with high signal to noise light curves and spectra over the full redshift range from @xmath0 , and the weak gravitational lensing method with an accurate and stable point spread function . </S>"
+  ]
+}

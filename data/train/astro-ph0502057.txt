@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "the energy budgets involved in coronal mass ejection ( cme ) propagation at heights @xmath0 2r@xmath1 are indicative of the manner in which the cme interacts with streamers and the solar wind and also provide constraints on the energies required during the initiation phase .",
+    "we study the evolution of potential and kinetic energies of 39 individual fr cmes between 1997 and 2001 .",
+    "this comprises a complete sample of the best examples of fr cmes observed by lasco in 1996 - 2001 ( out of about 4000 events ) .",
+    "we first generate mass images of each cme and then calculate the potential and kinetic energies using a procedure similar to that described in vourlidas et al .",
+    "( 2001 ) . for 27/39 cmes in our sample ,",
+    "the mechanical energy rises linearly with time , whereas 12/39 cmes show no such trend . for the 27/39 cmes for which mechanical energy rises linearly with time",
+    ", there is a clear external driving power .",
+    "if cmes are propelled via coupling with the solar wind , larger cmes should have larger driving powers , since they have larger areas for interacting with the solar wind and would therefore be better coupled with it . for the cmes which have a driving power , figure 1 shows a scatterplot of size versus driving power . from figure 1 ,",
+    "the correlation between the driving power and cme size is evidently poor , and we find little evidence to suggest that larger cmes have more driving power .",
+    "this casts doubt on the hypothesis that these cmes are powered by momentum coupling with the ambient solar wind .",
+    "we have computed an estimate of the rate of energy released by the magnetic field advected by each cme using two different methods .",
+    "we envisage that the propelling force is provided by some sort of @xmath2 forces ( due to misaligned magnetic fields and currents ) within the flux rope .",
+    "one method uses the magnetic flux carried by near - earth magnetic clouds ( e.g. , lepping et al .",
+    "1997 ) and assumes that this value is representative of the average magnetic flux that is frozen into a typical cme in our dataset . according to this method , the internal magnetic field of a cme can provide 0.744 @xmath3 1.352 of the required driving power on the average .",
+    "the other method uses direct estimates of the cme magnetic field from radio measurements ( bastian et al .",
+    "according to this method , the internal magnetic field of a cme can provide @xmath4 of the required driving power on the average .",
+    "the details of these calculations can be found in subramanian & vourlidas ( 2004 ) .",
+    "we find no evidence to suggest that the driven cmes in our sample derive their driving power primarily via coupling with the solar wind .",
+    "we employ two different approaches to investigate if release of the internal magnetic energy in the cme can possibly provide the driving power .",
+    "one approach suggests that , on the average , energy released by the internal magnetic field of a cme can provide upto 74% of the required driving power .",
+    "another suggests that the energy released by the internal magnetic field of a cme can be around an order of magnitude greater than what is required to drive it .",
+    "2001 , _ apj _ ( letters ) 558 , l65 1997 , in _ proc .",
+    "31st eslab symp . , ",
+    "correlated phenomena at the sun , in the heliosphere and in geospace , estec , noordwijk , the netherlands , 22 - 25 september 1997 ( esa sp-415 , december 1997 ) _ 2004 , _ apj , submitted _ 2000 , _ apj _ 534 , 456"
+  ],
+  "abstract_text": [
+    "<S> we examine the energetics of the best examples of flux - rope cmes observed by lasco in 1996 - 2001 . </S>",
+    "<S> we find that 69% of the cmes in our sample experience a driving power in the lasco field of view . </S>",
+    "<S> for these cmes which are driven , we examine if they might be deriving most of their driving energy by coupling to the solar wind . </S>",
+    "<S> we do not find conclusive evidence to support this hypothesis . </S>",
+    "<S> we adopt two different methods to estimate the energy that can possibly be released by the internal magnetic fields of the cmes . </S>",
+    "<S> we find that the internal magnetic fields are a viable source of driving power for these cmes . </S>"
+  ]
+}
