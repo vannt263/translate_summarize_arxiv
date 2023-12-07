@@ -1,0 +1,21 @@
+{
+  "article_text": [
+    "while we regard ourselves as social animals , we have a history of actions running from selfless benevolence to extreme violence at all scales of society , and we remain scientifically and philosophically unsure as to what degree any individual or group is or should be cooperative and pro - social .",
+    "traditional economic theory of human behavior , for example , assumes that people are inherently and rationally selfish  a core attribute of _ homo economicus_with the emergence of global cooperation thus rendered a profound mystery  @xcite . yet everyday experience and",
+    "many findings of psychology , behavioral economics , and neuroscience indicate people favour seemingly irrational heuristics  @xcite over strict rationality as exemplified in loss - aversion  @xcite , confirmation bias  @xcite , and altruistic punishment  @xcite .",
+    "religions and philosophies similarly run the gamut in prescribing the right way for individuals to behave , from the universal non - harming advocated by jainism , gandhi s call for non - violent collective resistance , and exhortations toward altruistic behavior in all major religions , to arguments for the necessity of a monarch  @xcite , the strongest forms of libertarianism , and the `` rational self - interest '' of ayn rand s objectivism  @xcite .    in taking the view that humans are in part",
+    "story - tellers_homo narrativus_we can look to language itself for quantifiable evidence of our social nature .",
+    "how is the structure of the emotional content rendered in our stories , fact or fiction , and social interactions reflected in the collective , evolutionary construction of human language ?",
+    "previous findings are mixed : suggestive evidence of a positive bias has been found in small samples of english words  @xcite , framed as the pollyanna hypothesis  @xcite and linguistic positivity bias  @xcite , while experimental elicitation of emotional words has instead found a strong negative bias  @xcite .    to test the overall positivity of the english language , and in contrast to previous work  @xcite , we chose words based solely on frequency of use , the simplest and most impartial gauge of word importance .",
+    "we focused on measuring happiness , or psychological valence  @xcite , as it represents the dominant emotional response  @xcite . with this approach",
+    ", we examined four large - scale text corpora ( see tab .",
+    "[ tab : wordhap.corpora ] for details ) : twitter , the google books project ( english ) , the new york times , and music lyrics .",
+    "these corpora , which we will refer to as tw , gb , nyt , and ml , cover a wide range of written expression including broadcast media , opinion , literature , songs , and public social interactions ( @xcite ) , and span the gamut in terms of grammatical and orthographic correctness ."
+  ],
+  "abstract_text": [
+    "<S> over the last million years , human language has emerged and evolved as a fundamental instrument of social communication and semiotic representation . </S>",
+    "<S> people use language in part to convey emotional information , leading to the central and contingent questions : ( 1 ) what is the emotional spectrum of natural language ? and ( 2 ) </S>",
+    "<S> are natural languages neutrally , positively , or negatively biased ? here , we report that the human - perceived positivity of over 10,000 of the most frequently used english words exhibits a clear positive bias . </S>",
+    "<S> more deeply , we characterize and quantify distributions of word positivity for four large and distinct corpora , demonstrating that their form is broadly invariant with respect to frequency of word use . </S>"
+  ]
+}

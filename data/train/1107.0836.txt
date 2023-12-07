@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "during a total eclipse of the moon , and even during a partial eclipse of magnitude something larger than 1/2 , it is possible to observe the configuration shown in figure 2 , where the shadow of the earth crosses the full moon along a diameter .",
+    "taking a photo or projecting the image of the moon with a pinhole@xcite on a white paper it is possible to draw with a pencil the earth s shadow s profile , in order to evaluate its diameter with respect to that of the moon .",
+    "the same geometry was utilized by hipparcos for evaluating the position of the centre of the earth shadow during the eclipse , studying the precession of the equinoxes.@xcite    from the distance dc expressed in term of the fraction @xmath0 of the moon radius @xmath1 , we obtain that the earth s shadow radius at the moon s distance @xmath2 is given by the equation : r_,m = r_moon at the moon s distance .    such value is to compare with the earth s diameter , already known by eratostenes,@xcite in order to evaluate the angle with which the sun is seen to appear as large as the earth , as seen from the vertex of the shadow s cone .",
+    "also the position of that vertex is calculable .",
+    "the position of the sun is somewhere in the backwards extension of shadow s cone .",
+    "it needs another constraint in order to fix its position . that is possible knowing its angular extension , a measure obtainable with a daily pinhole projection with a precision up to 30 arcseconds.@xcite",
+    "for the total eclipse of the moon of january @xmath3 , 2000 , here it is calculated as exemplum the uncertainty of the au evaluation .",
+    "i observed the eclispe in padua , italy , with a 8x21 binoculars and i could roughly evaluate that @xmath4 $ ] . by the formula ( 1 )",
+    "we obtain that @xmath5\\times r_{moon}$ ] at the moon s distance .",
+    "the moon s distance at that moment ( 5 ut ) was @xmath6 km from ephemerides.@xcite being the earth s radius @xmath7 km , the moon s radius @xmath8 km , the apparent diameter of the sun @xmath9 arcsec , resolving the geometry of figure ( 1 ) with the equations d_cone==10 ^ 6 km and = =    with @xmath10 the distance between the vertex of the cone of the earth s shadow from the earth s centre , we obtain that our evaluation of the astronomical unit @xmath11 ranges as @xmath12\\times 10 ^ 6 $ ] km .",
+    "the result of aristarchus was @xmath13 of the true value,@xcite and this method gives the same order of magnitude of that one , with an estimation from @xmath14 to @xmath15 of the true value .",
+    "a concrete improving of such evaluation can be otained working with a pinhole apparatus , or , obviously , with the photography , being critical the evaluation of @xmath10 in the denominator of the equation ( 3 ) .",
+    "that method requires the same hypothesis of the aristarchus one,@xcite and it requires instrumentations available even during classical epochs . so it can be considered equivalent to a classical method for measuring the earth - sun distance .",
+    "thanks to dr . renato klippert .",
+    "8 sigismondi , c. , _ introduction to pinhole astronomy _ , this volume , 2000 .",
+    "barbieri , c. , _ lezioni di astronomia _ ,",
+    "zanichellli , bologna , 1998 .",
+    "downey , e. c. , ephem - an interactive astronomical ephemeris program , 1992 ."
+  ],
+  "abstract_text": [
+    "<S> the classical method for measure the earth - sun distance is due to aristarchus and it is based upon the measure of the angle moon - earth - sun when the moon is exactly in quadrature . such an angle is only 9 arcminutes smaller than 90 degrees , and it is very difficult to evaluate , being necessary to look directly towards the sun . </S>",
+    "<S> the distance earth - moon and the earth s diameter are necessary ingredients in order to derive the value of the astronomical unit . </S>",
+    "<S> this method requires also the knowledge of the moon s distance and the earth s diameter , but it can permit a more precise measurement of the involved angles . </S>"
+  ]
+}

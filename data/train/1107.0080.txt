@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "anisotropic flow @xcite , described by the coefficients in the fourier expansion of the azimuthal particle distribution @xcite , is an important probe of collectivity in the system created in heavy ion collisions .",
+    "the first measurement of elliptic flow ( @xmath1 ) at the lhc shows an increase ( with respect to rhic energies ) of the integrated value by about 30% and no significant increase of the @xmath2 differential flow @xcite .",
+    "hydrodynamical models @xcite predict a rise of the radial expansion velocity from rhic to the lhc energies which might explain this behaviour .",
+    "elliptic flow of identified hadrons is sensitive to the hydrodynamical radial expansion of the medium .",
+    "since flow develops into a common velocity field a mass - dependent shift towards higher momenta occurs giving rise to mass splitting and ordering of flow for different particle species . triangular flow ( @xmath3 ) of identified particles in hydrodynamics",
+    "is expected to exhibit similar mass scaling and additionally it is expected to be a sensitive probe for the viscosity to entropy ratio @xmath4 of the created medium @xcite . the measurement of identified particle @xmath3 can therefore provide a constraint on @xmath4 after more detailed theoretical calculations become available for lhc energies .",
+    "we present the measurement of identified particle @xmath1 , compare it to the rhic measurement and test the quark number scaling in terms of transverse kinetic energy ( @xmath5 scaling ) . for identified particle @xmath3 we present the first preliminary results .",
+    "for this analysis the standard alice minimum bias event selection was used together with an additional requirement on the primary vertex position @xmath6 yielding a sample of around 4 million events .",
+    "the collision centrality was determined using the forward vzero scintillator arrays @xcite .",
+    "particle tracking was done using the time projection chamber ( tpc ) and the silicon inner tracking system with full azimuth coverage for @xmath7 .",
+    "the particle identification was done by combining the time - of - flight ( tof ) measurement with the energy loss measurement in the tpc .",
+    "the purity was estimated to be better than @xmath8 at @xmath9 for pions and kaons and at @xmath10 for protons . in order to reduce the contamination from non - primary particles the reconstructed particles were required to have a distance of closest approach to the primary vertex of less than 1 mm .",
+    "main sources of systematic uncertainty on the flow values considered in this analysis are non - flow , feed - down and centrality determination . in the following figures ,",
+    "uncertainty bands indicate systematic and statistical uncertainties added in quadrature .",
+    "elliptic flow is measured using the two - particle scalar product method @xcite with a large @xmath11 gap ( @xmath12 ) to reduce the contribution from short range non - flow correlations .",
+    "except for the anti - proton @xmath1 in the more central collisions ( 10%-20%).,title=\"fig:\",scaledwidth=50.0% ]    except for the anti - proton @xmath1 in the more central collisions ( 10%-20%).,title=\"fig:\",scaledwidth=50.0% ]    figure [ fig : figure1 ] shows elliptic flow measured for more central ( @xmath13 ) and more peripheral ( @xmath14 ) collisions overlaying a theoretical prediction from ideal hydrodynamics @xcite .",
+    "as can be seen , the theory is in agreement with the measurement for pions and kaons , but in the case of the more central events this model does not describe anti - protons .",
+    "the measured @xmath1 is compared to the published results from the phenix @xcite and star @xcite collaborations in figure [ fig : figure2 ] .",
+    "since phenix reports a combined result for pions and kaons we only compare the anti - proton results which show lower values in alice data consistent with larger radial flow at @xmath15 . in the comparison with star data",
+    "we observe a larger mass splitting in both pion and anti - proton comparisons .",
+    "we report on the results at lhc energies of @xmath5 scaling , introduced and described in @xcite and @xcite . from figure",
+    "[ fig : figure3 ] it can be seen that , within errors , the flow of pions and kaons follows the scaling while the flow of anti - protons deviates for the more central and the more peripheral events .",
+    "compared to rhic results shows a larger mass splitting than at rhic energies.,title=\"fig:\",scaledwidth=50.0% ]   compared to rhic results shows a larger mass splitting than at rhic energies.,title=\"fig:\",scaledwidth=50.0% ]     scaling ) for more central ( @xmath13 ) and more peripheral ( @xmath14 ) pb - pb collisions at @xmath16 .",
+    ", title=\"fig:\",scaledwidth=50.0% ]   scaling ) for more central ( @xmath13 ) and more peripheral ( @xmath14 ) pb - pb collisions at @xmath16 . , title=\"fig:\",scaledwidth=50.0% ]    ) and more peripheral ( @xmath14 ) pb - pb collisions at @xmath16.,title=\"fig:\",scaledwidth=50.0% ] ) and more peripheral ( @xmath14 ) pb - pb collisions at @xmath16.,title=\"fig:\",scaledwidth=50.0% ]    triangular flow , depicted in figure [ fig : figure4 ] , qualitatively exhibits the same features as elliptic flow , i.e.  the mass splitting and mass ordering as expected from hydrodynamic models and a crossing point between pion and proton flow at intermediate @xmath2 as expected from the quark coalescence picture .",
+    "similarly to elliptic flow , triangular flow shows deviations from @xmath5 scaling ( see figure [ fig : figure5 ] ) .",
+    "scaling of triangular flow for more central ( @xmath13 ) and more peripheral ( @xmath14 ) pb - pb collisions at @xmath16.,title=\"fig:\",scaledwidth=50.0% ]   scaling of triangular flow for more central ( @xmath13 ) and more peripheral ( @xmath14 ) pb - pb collisions at @xmath16.,title=\"fig:\",scaledwidth=50.0% ]",
+    "we presented the @xmath2 differential elliptic flow of identified particles for pb - pb collisions at @xmath16 measured with alice and compared it to measurements at rhic energies and a hydrodynamic model .",
+    "the model correctly describes elliptic flow of pions and kaons , but overpredicts the flow of protons for more central collisions . compared to the rhic data we observed a larger mass splitting , mostly apparent in the proton flow .",
+    "we also showed deviations of elliptic flow from @xmath5 scaling .",
+    "additionally we presented the first measurement of p@xmath17 differential triangular flow of identified particles at the lhc .",
+    "we observed that @xmath3 has features similar to @xmath1 , i.e.  mass scaling and a crossing point for pions and protons at intermediate @xmath2 ."
+  ],
+  "abstract_text": [
+    "<S> we report on the first measurements of elliptic and triangular flow for charged pions , kaons and anti - protons in lead - lead collisions at @xmath0 measured with the alice detector at the lhc . </S>",
+    "<S> we compare the observed mass splitting of differential elliptic flow at lhc energies to rhic measurements at lower energies and theory predictions . </S>",
+    "<S> we test the quark coalescence picture with the quark number scaling of elliptic and triangular flow . </S>"
+  ]
+}

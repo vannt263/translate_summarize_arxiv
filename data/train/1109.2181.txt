@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "a proposed pathway for the generation of type ia supernovae ( sn ) is via the merger of two white dwarfs ( wds ) , the so - called double - degenerate channel ( ( * ? ? ?",
+    "* webbink 1984 ) ) . until recently ,",
+    "the sample of known double degenerates was limited to older wds .",
+    "however , recent work has shown that a few planetary nebula central stars ( cspn ) are likely ( pre-)double - degenerate binaries . in this work ,",
+    "we use 1-d ( cloudy ; ( * ? ? ?",
+    "* ferland et al . 1998 ) ) and 3-d ( mocassin ; ( * ? ? ?",
+    "* ercolano et al . 2003 ) ) photoionization codes to infer the nature of the central binary stars in two planetary nebulae ( pne ) .",
+    "constraints on their component masses will show if the total mass exceeds the chandrasekhar limit .",
+    "if these systems are short - period binaries , they are potential type ia sn progenitors .",
+    "the bright eskimo nebula ( ngc 2392 ) has a conspicuous hydrogen - rich cspn with @xmath3 = 43,000 k ( ( * ? ? ?",
+    "* mndez et al . 2011 ) ) . however , the surrounding pn has emission lines of high excitation , such as he ii @xmath44686 and [ ne v ] @xmath43426 , which can not be produced by the visible star",
+    ". an additional hot ionizing source must be present . to deduce the properties of the companion , we model the pn using mocassin .",
+    "for the model inputs , we used the line intensities from ( * ? ? ? * pottasch et al .",
+    "( 2008 ) ) , and adopt a distance of 1.8kpc . following ( * ? ? ?",
+    "* odell et al . ( 1990 ) ) , the model has a heterogeneous density distribution , with @xmath5 = 3000 and 1300 @xmath6 for the inner prolate spheroid and outer spherical zone , respectively ( see fig . 1 in ( * ? ?",
+    "* danehkar et al . 2011 ) ) .",
+    "our model outputs agree well with the observations ( see table  1 ) , and we find that a hot , massive wd with @xmath7kk is a plausible source of the extra uv photons .",
+    "the wd mass from evolutionary tracks is close to 1  @xmath1 , so the total mass may exceed the chandrasekhar limit . if the system is a close binary ( ( * ? ? ?",
+    "* mndez et al . 2011 ) ) , the stars may merge within a hubble time , making it a potential sn ia progenitor .",
+    "it is interesting to note that ( * ? ? ?",
+    "* guerrero et al . ( 2011 ) ) have found the cspn to be a hard x - ray source . which may point to mass transfer between the components .",
+    "further observations of this unusual pn and its central star are urged .",
+    "similarly to the eskimo , spectra show that the excitation class of this elliptical pn is too high to be the result of photoionization by the observed cspn .",
+    "this was recently found to be a short - period binary with @xmath8 = 0.528 days ( ( * ? ? ?",
+    "* hillwig et al . 2010 ) ) . based on light - curve modeling ,",
+    "the system consists of a relatively cool o7 star ( @xmath9kk ) and an unseen companion , which is a hot wd with @xmath10kk .",
+    "the luminosity and mass of the components , the pn distance , and the nebular abundances were independently determined here by interpolating from a grid of cloudy models .",
+    "the distance is 2.0 @xmath11 0.5 kpc , and the luminosities and masses of the components are given in table  1 . despite the short orbital period , the total mass is too low for the system to produce a sn ia .",
+    "lastly , we find that the pn progenitor had sub - solar metallicity , with [ o / h ] @xmath12 dex .",
+    ".best - fit parameters ( left ) and observations versus model outputs ( right ) . [ cols=\"<,^,^\",options=\"header \" , ]",
+    "ad acknowledges receipt of an mqres phd scholarship and an iau travel grant ."
+  ],
+  "abstract_text": [
+    "<S> we use photoionization modeling to assess the binary nature of the central stars of ngc 2392 and ngc 6026 . </S>",
+    "<S> if they are close binaries , they are potential type ia supernova ( sn  ia ) progenitors if the total mass exceeds the chandrasekhar limit . we show that the nucleus of ngc 2392 likely has a hot , massive ( @xmath01@xmath1 ) white dwarf companion , and a total mass of @xmath21.6@xmath1 , making it an especially interesting system . </S>",
+    "<S> the binary mass in ngc 6026 is less , @xmath21.1@xmath1 . even though its orbital period is short , it is not considered to be a sn  ia progenitor . </S>"
+  ]
+}

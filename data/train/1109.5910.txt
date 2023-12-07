@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "planetary nebulae ( pne ) constitute an important tool to study the chemical evolution of the galaxy , comprising the disk , bulge and halo populations ( cavichia et al .",
+    "@xcite ) . due to their nature",
+    ", pne have a very short lifetime , dissipating into the interstellar medium in a timescale of @xmath0 years .",
+    "therefore , the presently available observational results are strongly biased since they were focused on brighter and younger objects .    in this work , we derived physical parameters and chemical abundances for 8 old and faint bulge pne , making use of the size and optical quality of the 4.1 m soar telescope located at chile .",
+    "these pne were observed with the goodman spectrograph using a 300 l / mm grating , which covers all the optical domain .",
+    "all observed pne have high extinction with @xmath1 and low surface brightness .",
+    "they are located in the direction of the galactic bulge , close to the galactic center . the observed sample",
+    "was selected from jacoby and van de steene ( @xcite ) and the mash catalog ( parker et al .",
+    "electron densities are obtained from @xmath2 $ ] lines ratio : @xmath3 ; and electron temperatures are calculated from the [ nii ] lines ratio : @xmath4 . due to the high extinction , in some cases the [ nii ]",
+    "line 575.5 nm is not available in the spectrum . in this case , we estimated an upper limit for the 575.5 nm line flux .",
+    "this is done using the background of the spectrum at this wavelength . in order to calculate the chemical abundances we used the empirical method described in cavichia et al .",
+    "( @xcite ) .",
+    "simulations predicted that radial gas flows are expected in barred galaxies ( athanassoula @xcite , friedli et al .",
+    "@xcite ) . in order to simulate the effects of the bar on the radial abundance gradient of the galaxy",
+    ", we updated the chemical evolution model of moll & daz ( @xcite ) , hereafter md , including radial gas outflows with velocities of @xmath5 .",
+    "figure [ logno ] shows the @xmath6 as a function of he / h abundances .",
+    "triangles and stars represent the data from this work , and filled circles the data from cavichia et al .",
+    "( @xcite ) , hereafter ccm10 .",
+    "since pne with high abundances of he and n are originated from massive stars , we expected that the pne of our sample are originated from lower mass and , hence , older stars if compared with our previous work .",
+    "the results from the chemical evolution model are shown in figure [ grad ] .",
+    "the model with radial gas outflows predict lower abundances in the inner region of the galaxy and higher abundances in the outer region , when compared with the standard model from md .",
+    "these results are in agreement with the observational data for the disk from stanghellini & haywood ( @xcite ) , hereafter sh , and with the observational data from the present work .        these results may have a significant impact on galactic evolution theories , providing a much more accurate view of the abundance distribution of bulge pne , and therefore producing more reliable constraints for the modeling of intermediate mass stars evolution as well as the chemical evolution of the galactic disk and bulge ."
+  ],
+  "abstract_text": [
+    "<S> in view of their nature , planetary nebulae have very short lifetimes , and the chemical abundances derived so far have a natural bias favoring younger objects . </S>",
+    "<S> in this work , we report physical parameters and abundances for a sample of old pne located in the galactic bulge , based on low dispersion spectroscopy secured at the soar telescope using the goodman spectrograph . </S>",
+    "<S> the new data allow us to extend our database including older , weaker objects that are at the faint end of the planetary nebula luminosity function ( pnlf ) . </S>",
+    "<S> the results show that the abundances of our sample are lower than those from our previous work . additionally , the average abundances of the galactic bulge do not follow the observed trend of the radial abundance gradient in the disk . </S>",
+    "<S> these results are in agreement with a chemical evolution model for the galaxy recently developed by our group . </S>"
+  ]
+}

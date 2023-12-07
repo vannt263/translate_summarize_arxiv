@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "there are perhaps thousands of problems where the model of stochastic homology can be applied .",
+    "we will focus on two of them - coverage problems and high - dimensional data with noise .",
+    "coverage problem is set when a region is given together with subsets in the region and the question is whether these sets cover the entire region . perhaps the cheapest way to solve",
+    "such problem is using algebraic topology methods and restate the question of whether the compactified union of subsets has the same homology as the compactified region . as an example",
+    ", you can take the covering sets to be circles and associate the centers of the circles with cell phone towers , and the circles themselves with the regions where the signal is clear .",
+    "the zeroth betti number of the union of circles gives whether the region is connected , i.e. whether each cell tower can be connected to any other via a path .",
+    "the first betti number gives the number of cycles which can not be contracted , i.e. the holes in the coverage .",
+    "nowadays applied algebraic topology methods , such as persistence homology can answer such problems .    in real life",
+    ", however , thing are not that simple .",
+    "noise usually appears on the map of cell tower coverage .",
+    "bad weather , interception and component failure are the most common factors and the maps in real time looks more like an animation of appearing and disappearing contracting and extracting regions which might not even be circles . in this complicated formulation",
+    ", we only have some statistics of the work times of the towers and of the quality of the signal between towers for some period of time .",
+    "this is enough to construct random complex and apply stochastic homology methods in order to find some estimate of whether the network had good signal coverage over time .",
+    "another problem which can be associated with stochastic homology is the homology type of high - dimensional data .",
+    "you can think of such data as the set formed by a large collection of pictures , where each picture is mapped to a point in a very high dimensional space @xmath0 , @xmath1 being the number of pixels in the picture .",
+    "other example is financial data - each point is associated with a vector with components the price of each product in the market .",
+    "the evolution in time creates a path , which might be considered to lie on a manifold or a set with variance in the normal bundle .",
+    "we can approximate the manifold locally with the best fit hyperplane , or the one which minimizes the square distances . in both case",
+    ", usual persistent homology methods can be used , but the use of voronoi cells , weak witnesses , etc . in order to create a complex",
+    "restricts us to a certain level of certainty .",
+    "the use of stochastic homology breaks these limits and allows us to use a level of uncertainty in our model .",
+    "we can either guess that a point of the manifold exists , even though there is no evidence in the data that it is true , or we can simply thin the manifold in the regions where it is not dense ."
+  ],
+  "abstract_text": [
+    "<S> given a chain complex with the only modification that each cell of the complex has a probability distribution assigned . </S>",
+    "<S> we will call this complex - a random complex and what should be understood in practice , is that we have a classical chain complex whose cells appear and disappear according to some probability distributions . in this paper </S>",
+    "<S> , we will try to find the stochastic homology of random complex , whose simplices have independent discrete distributions .    </S>",
+    "<S> the development of the computer technologies nowadays is so vast that basically almost everyone in the world relies on some sort of computational device . </S>",
+    "<S> devices such as personal computers , cell phones , global positioning systems , etc are part of our life , mostly because of their ability to perform millions of complex mathematical operations within a second . </S>",
+    "<S> even so , the human brain is still unbeatable with its property to successfully approximate solutions of complex problems . without any equivocations , here </S>",
+    "<S> is what i mean :    everybody has seen a satellite map on google earth like the one of the uptown campus of tulane university below .        </S>",
+    "<S> one very significant feature of most of the university campuses is the net of paths between the buildings like the one on tulane s campus . </S>",
+    "<S> here is another picture - this time from the area where i currently live .        </S>",
+    "<S> definitely , if one sees two pictures - one showing the net of paths on tulane s campus and one which was taken anywhere in the residential area , he can distinguish which one is from the campus and which one is not by simply observing the existence of the gray net of paths on one of them . </S>",
+    "<S> notice that we do not restrict ourselves to the angle which captures the tracks on the campus , nor the scale . </S>",
+    "<S> this uncountable set of pictures showing gray paths and green grass can be identified by a simple topological invariant namely    [ cols= \" < , < \" , ] </S>"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "@xmath2due to their large masses , heavy flavor quarks are believed to be unique probes to the strongly coupled qcd matter created in high energy @xmath0 collisions at the relativistic heavy ion collider ( rhic ) .",
+    "they are mainly produced in the initial hard scatterings , so the production can be well studied by perturbative - qcd(pqcd )  @xcite .",
+    "when heavy flavor quarks traverse the qcd medium , they are expected to lose less energy than light flavor quarks due to the dead - cone effect  @xcite , if the dominant energy loss process is gluon radiation .",
+    "however , recent experimental studies found that the productions of non - photonic electrons ( npe ) from the semi - leptonic decays of charm and bottom hadrons are strongly suppressed at high @xmath3 in central @xmath0 collisions relative to that in @xmath4 collisions scaled by the number of binary collisions  @xcite and the npe - hadron azimuthal correlations possibly show a broadening on the away side  @xcite .",
+    "these results suggest some significant contributions from other processes to heavy flavor quark energy loss , which have been simulating various theoretical reconsiderations .",
+    "@xmath2 in order to differentiate model calculations , high precision measurements of npe production in both @xmath0 and @xmath4 collisions , with disentangled charm and bottom contributions , are wanted .",
+    "in addition , model calculations with correct dynamics should be able to predict the elliptic flow of heavy flavor quarks at the same time .",
+    "simultaneous measurements of npe production suppression and elliptic flow have better discriminating power on energy loss dynamics than individual measurement alone . the star collaboration has recently measured the npe production with high precision  @xcite and has separated charm and bottom contributions  @xcite , in @xmath4 collisions . in these proceedings , we report the progresses of studying npe production and elliptic flow in @xmath0 collisions .",
+    "we also report preliminary results of npe - hadron correlation , which bear the information of the processes of heavy flavor quarks traversing the bulk qcd medium and thus shed light on heavy flavor jet - medium interactions .",
+    "@xmath2the data sets used here are @xmath0 collisions at @xmath1gev collected by the star detector during rhic run 2010 . in these proceedings , we have utilized about 40 million minimum bias triggered events and about 60 million high - tower triggered events .",
+    "the most important detectors used for npe analyses are the tpc ( time projection chamber )  @xcite and the barrel calorimeter system  @xcite including bemc ( barrel electromagnetic calorimeter ) and bsmd ( barrel shower maximum detector ) . in both data sets , electron identification procedures are applied , including , for example , analyzing the shower profiles in bsmd and the energy ( in bemc ) over momentum ( in tpc ) ratios .",
+    "the calorimeter system largely enhances our ability to identify the electrons but currently constrains the electron kinematic to be @xmath5  gev / c and @xmath6 .",
+    "the selected electron sample , inclusive electrons , is composed of mainly npes , photonic electrons and some hadron contamination .",
+    "we reconstruct the 2d invariant masses of electron pairs to estimate the contribution of photonic electrons ( pe ) , the electrons from gamma conversions and @xmath7 , @xmath8 dalitz decays , with reconstruction efficiency @xmath9 obtained from simulation tracks embedded into real events , which spans @xmath10 depending on the cuts and the electron @xmath3 (  @xcite has more details on the analysis methods ) .",
+    "then , statistically we have:@xmath11 where @xmath12 is the azimuthal correlation , but it also could be other npe variables , e.g. production or @xmath13 , and the hadron contribution is neglected if there are no more than 1% hadrons in the inclusive electron sample .",
+    "@xmath2figure  [ fig : spectra ] shows npe production studies in @xmath14 central @xmath0 collisions based on minimum bias triggered events .",
+    "the left panel demonstrates that the non - photonic electron over photonic electron ratio in run 2010 is around 1 , much higher than previous @xmath0 runs , providing a cleaner environment for npe studies .",
+    "the right panel shows the npe spectrum with @xmath3 from 2  gev / c to about 6  gev / c . for higher @xmath3 , high - tower triggered events will provide larger statistics , ensuring high precision in extended @xmath3 range . in this preliminary result ,",
+    "npe includes electrons from both open heavy flavor hadrons and heavy quarkonia . in our final results",
+    ", we will subtract the latter .",
+    "@xmath2 in figure  [ fig : v2 ] , the elliptic flow ( @xmath15 ) studies , also based on minimum bias triggered events , are shown .",
+    "we extract @xmath15 by fitting electron angular correlations with the event plane ( ep )  @xcite . as an example , the @xmath16 distribution in @xmath17 central @xmath0 collisions for npe with @xmath18  gev / c is shown in the left panel . in this middle centrality , the npe @xmath15 is finite and consistent with our previous study based on run 2007  @xcite , indicating possible coupling between heavy flavor quarks and the qcd medium .",
+    "further conclusions may be drawn only after the statistics error bars get reduced enough as we analyze more statistics .",
+    "the current systematic uncertainties mainly come from the ep resolution uncertainty due to large centrality bin size and from photonic electron reconstruction efficiency .",
+    "the differences between different @xmath15 methods are yet to be studied and included .",
+    "the right panel shows npe @xmath15 in different centrality bins .",
+    "@xmath2 in order to ensure that npe represent well the directions of the parent charm and bottom quarks , we use npe with @xmath19  gev / c from high - tower events to study the npe - hadron correlation .",
+    "when we use associated tracks with @xmath20  gev / c , the tracks that can present the bulk medium the best , the statistical uncertainties are large . with @xmath21",
+    "gev / c , we found there is a npe - hadron correlation beyond statistical uncertainties on both the near side and away side in @xmath17 central @xmath0 collisions , as shown in figure 3 in  @xcite .",
+    "if this correlation is also beyond the systematic uncertainties , mainly due to flow modulations which are still under study , then it would indicate heavy flavor tagged jets do interact with the qcd medium .",
+    "nevertheless , quantitative measurements yet to emerge and theoretical considerations , such as in  @xcite , are required to understand the physical picture .",
+    "@xmath2 in summary , different measurements are sensitive to different aspects of the heavy flavor quark - medium interactions .",
+    "the centrality dependence of these measurements will reflect properties of the qcd medium and together they provide strong constrains on dynamical models ."
+  ],
+  "abstract_text": [
+    "<S> we present preliminary results of non - photonic electron ( npe ) production , npe - hadron azimuthal correlation as well as npe elliptic flow studies at midrapidity using a data set with high statistics and low photon conversion background from @xmath0 collisions at @xmath1  gev collected at rhic in run 2010 . </S>",
+    "<S> @xmath2keywords : heavy flavor , heavy ion , energy loss , elliptic flow @xmath2classification : 1320.fc , 13.20.he , 25.75.cj     @xmath2department of physics and astronomy , university of california , los angeles , </S>",
+    "<S> california 90095 , usa @xmath2xwq1985@physics.ucla.edu </S>"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "alma ( atacama large millimeter / submillimeter array ) consists of fifty 12-m antennas and `` atacama compact array ( aca ) '' @xcite .",
+    "the aca antennas are composed of four 12-m antennas for total power observation and twelve 7-m antennas for short - baseline interferometer .",
+    "the aca correlator proforms the processing of astronomical signals from all the aca antennas .",
+    "astronomical correlator calculates correlation coefficients between the signals from antennas , and it has a function to arbitrarily change the integration time and frequency resolution to get the data to be handled easily",
+    ". it also provides information on frequency spectral profiles .",
+    "the newly developed aca correlator adopts `` fx '' architecture , in which the fourier transform is performed before a cross multiplication .",
+    "alma is a general - purpose millimeter and submillimeter telescope which can observe all kinds of astronomical objects in the range of its angular resolution .",
+    "there are many scientific goals , and sensitivity , frequency resolution , and frequency coverage are key factors to achieve the various scientific goals .    in alma , the quantization loss is required to be smaller than 12 % , which is the value of 2-bit quantization , by performing quantization with 3-bit 4gsps . to achieve this requirement",
+    ", aca correlator processes the digital signals of 3-bit 4gsps without reducing the number of bits .",
+    "in addition , the correlator is designed to achieve high spectral dynamic range of @xmath0 .",
+    "the aca correlator also supports wide variety of flexible spectral configurations ( combinations of frequency resolution and coverage ) for observations which span from wide continuum emission to high - resolution maser emissions .",
+    "major specifications of the aca correlator performance are listed in table [ tbl:1 ] .",
+    "the aca correlator was installed in the room of array operation site technical building at an altitude of approximately 5000 meters ( figure [ fig:1 ] ) .",
+    "the correlator processes 8-baseband signals from 16 antennas with 8 racks .",
+    "each two racks perform all the necessary processes for one pair of dual polarization signals , and they are composed of three kinds of box - like modules .",
+    "also , module structure can be easily replaced by a few persons at the high site from the viewpoints of operability and maintainability .",
+    "we have performed verification tests of design and implementation for the scientific function , stability , and performance of the aca correlator .",
+    "the output of calculated results from the aca correlator were checked to be bit - accurately coincident with our developed simulator using known input data , for various sets of correlator configurations .",
+    "figure [ fig:2 ] demonstrates an example of verification tests of aca correlator using known data .",
+    "we conducted long - term integration test of analog noise in order to verify the performance of aca correlator . in this test , we verified the following two items by inputting 1-bit digitized thermal noise to the correlator and integrating the cross - correlation products for 8 hours :      figure [ fig:3 ] shows this test results , which confirm the two verification items ; the left plot clearly shows there is no artificial pattern caused by digital processing , and for the right plot it can be clearly seen that the noise level decreases in proportion to @xmath1 .",
+    "we also conducted the test of receiving signals from alma antennas and data processing at array operation site ( aos ) , and verified that the aca correlator successfully received the signals and processed the digitized data without any problems ( figure [ fig:4 ] ) ."
+  ],
+  "abstract_text": [
+    "<S> we have developed a fx - architecture digital spectro - correlator , atacama compact array correlator for the atacama large millimeter / submillimeter array . </S>",
+    "<S> the aca correlator processes four pairs of dual polarization signals , whose bandwidth is 2 ghz , from up to sixteen antennas , and calculates auto- and cross - correlation spectra including cross - polarization in all combinations of sixteen antennas . </S>",
+    "<S> we report the detailed design of the correlator and the verification results of the correlator hardware . </S>"
+  ]
+}

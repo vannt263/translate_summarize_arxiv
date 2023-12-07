@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "hd 49566 has been observed for about 25 days during sra01 .",
+    "hd 169370 and hd 169751 have been observed for three months during lrc03 .",
+    "global oscillation parameters @xmath0 ( frequency of maximum oscillation power ) and @xmath1 ( frequency separation between modes of the same order and consecutive degrees ) have been computed using the methods described by hekker et al . ( 2010a ) .",
+    "also individual frequencies have been derived by fitting the oscillation modes ( hekker et al .",
+    "2010b ) .",
+    "stellar parameters of the three stars are listed in table  [ param ] . for more details about the determination of these values",
+    "we refer to morel et al .",
+    "2011 ( these proceedings ) .",
+    ".apparent magnitude ( @xmath2 ) , effective temperature ( @xmath3 ) , surface gravity ( @xmath4 ) from spectroscopy ( a ) and from asteroseismology ( b , miglio private communication ) , metallicity ( [ fe / h ] ) , parallax ( plx ) , frequency of maximum oscillation power ( @xmath0 ) and mean large frequency separation between modes of the same degree and consecutive orders ( @xmath5 ) of the three stars under detailed study . [ cols=\"<,^,^,^,^,^,^,^ \" , ]     [ param ]     - @xmath6 plane for the three corot red giants .",
+    "the red tracks show the evolution from the zero age main sequence till helium ignition in the core , while the blue tracks represent models in the core helium burning phase .",
+    "the models span the metallicity range of @xmath7 = [ 0.012,0.017 ] and the mass range of m / m@xmath8 = [ 1.8,2.4 ] .",
+    "convective core overshoot in the main sequence phase has not been included . ]",
+    "we have constructed theoretical models of red giants in both shell h - burning and core he - burning phases with the yrec code ( demarque et al .",
+    "these models use the opal equation of state ( rogers & nayfonov 2002 ) and opacities ( iglesias & rogers 1996 ) .",
+    "low temperature opacities are taken from ferguson et al .",
+    "the nuclear reaction rates from bahcall & pinnsoneault ( 1992 ) are used .",
+    "convection is described by the standard mixing length theory with @xmath9 = 1.8 h@xmath10 .",
+    "no convective overshoot or diffusive mixing is considered .",
+    "the models partially cover the range of metallicities estimated for the three corot red giants ( see figure  [ models ] ) .",
+    "the mass range is limited to m / m@xmath8 = 1.8 to 2.4 .",
+    "work is in progress to cover a wider range of mass , metallicity , mixing length and overshoot parameters .",
+    "we find that hd169751 can be in either the shell h - burning or core he - burning phase .",
+    "the error boxes of the other two stars mostly overlap shell h - burning tracks .",
+    "however , neither possibility can be ruled out before exploring the full set of model parameters .",
+    "the comparison of individual frequencies and seismic parameters like @xmath1 and @xmath0 should help to determine the evolutionary phase or the stellar parameters ( e.g. , bedding et al ."
+  ],
+  "abstract_text": [
+    "<S> three red giants ( hd 49566 ( g5iii ) , hd 169370 ( k0iii ) and hd 169751 ( k2iii ) ) have been observed in the corot seismo field and additional ground - based spectra have been acquired . </S>",
+    "<S> we present preliminary results of a detailed study of these stars using the observational constraints from the spectra and corot data , and models from the yrec stellar evolution code .    </S>",
+    "<S> = 1 </S>"
+  ]
+}

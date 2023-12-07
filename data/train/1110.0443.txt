@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "liquid argon ( lar ) time projection chambers ( tpcs ) seem to be a very promising technology for the next generation of neutrino detectors .",
+    "this next generation will require multi - kilo - ton detectors , and lar tpcs are an attractive option .",
+    "these detectors offer high detection efficiencies and excellent background rejection and they appear to be scalable .",
+    "however , the scalability has not yet been fully demonstrated .",
+    "the argoneut experiment , a @xmath0 lar tpc was a first step to a @xmath1 program in the united states .",
+    "the main goal of argoneut was to gain experience building and operating lar tpcs .",
+    "in addition , the experiment collected data in an energy range relevant to neutrino oscillation physics . these data were used to develop simulation and analysis tools and the first physics results extracted from the data were recently presented .",
+    "a review of the argoneut experiment will be given as well as a description of the data analysis and an overview of the first results on @xmath2 charged - current ( cc ) inclusive differential cross - section measurement by argoneut .",
+    "the argoneut tpc is a 90 cm @xmath3 40 cm @xmath3 48 cm rectangular volume containing @xmath0 of lar active volume .",
+    "the tpc was positioned in a vacuum jacketed cryostat .",
+    "left picture in figure [ fig1 ] shows the tpc about to enter the cryostat .",
+    "the tpc consists of three wire planes with 240 wires each , separated by 4 mm .",
+    "the innermost wire plane has vertical wire orientation and was not instrumented .",
+    "the second plane , the instrumented induction plane , has wires oriented at @xmath4 and the third plane , the collection plane , has wires oriented at @xmath5 .",
+    "the wire planes can be seen in the left panel of figure [ fig1 ] on the right of the tpc .",
+    "a 25kv voltage was applied to the cathode , creating a 500v / cm electric field .",
+    "more details on the detector , its electronics and the cryogenics can be found in @xcite .",
+    "+    [ cols=\"^,^ \" , ]",
+    "argoneut ran stably for over five months , collecting an impressive sample of neutrino and anti - neutrino data .",
+    "the two weeks of neutrino data has started to be analyzed and the simulations predictions for the @xmath2 cc - inclusive differential cross section were reported here .",
+    "more results will be presented in a paper in preparation .",
+    "future analysis will allow channel - specific cross - section measurements .",
+    "the sample of anti - neutrino data , containing about fifteen times more statistics , will also be analyzed in the near future .",
+    "+ this measurement also demonstrates that the larsoft software is operational and ready for further analyses .",
+    "the argoneut data will also be used to look in details at fsis to study nuclear effects .",
+    "+      9 m. soderberg , argoneut : a liquid argon time projection chamber test in the numi beamline , dpf-2009 , detroit , mi , july 2009 , econf c090726 .",
+    "i. ambats et al . , the minos detectors technical design report , numi - l-337 , 1998 .",
+    "josh spitz , measuring muon - neutrino charged - current differential cross sections with a liquid argon time projection chamber , phd dissertation , yale university , 2011 ."
+  ],
+  "abstract_text": [
+    "<S> the argoneut experiment features a 175 liter liquid argon ( lar ) time projection chamber ( tpc ) that was located upstream of the minos near detector in the numi neutrino beam at fermilab . </S>",
+    "<S> the project is part of the lar tpc development program in the us and has helped initiate the development of simulation and reconstruction tools for lar tpcs . </S>",
+    "<S> in addition to its development goals , argoneut will perform several cross - section measurements on ar in the few - gev energy range . </S>",
+    "<S> a total of 1.35e20 protons on target were accumulated and data analysis is ongoing . </S>",
+    "<S> i will review the experiment and its status , as well as preliminary results from the data analysis . </S>"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "vertical lines show the increase of intensity due to fluorescence excitation ( colour on line).,title=\"fig:\",width=249 ] .",
+    "vertical lines show the increase of intensity due to fluorescence excitation ( colour on line).,title=\"fig:\",width=249 ]        @xcite demonstrated that is it possible to construct consistent models of the central star atmosphere and the nebula to predict accurately the intensities of uv , optical and ir nebular and stellar emission lines in ic  418 .",
+    "we used similar models and included excitation of dipole  allowed transitions by fluorescence besides recombination to predict the intensities of 189 emission lines of c  ii , n  i , n  ii , o  i , and o  ii observed by @xcite .    the high  resolution synthetic spectrum produced by the cmfgen code ( @xcite ) gives the opportunity to notice variations in the predicted intensities of some emission lines due to the expansion of the nebular gas .",
+    "we used the cloudy nebular code ( @xcite ) to model the nearly spherical nebula with a density profile similar to the one used by @xcite .",
+    "fluorescence is important in the population of s , p , and some d states while recombination populates f and g states .",
+    "the most important effect of fluorescence is in the n  ii lines from the decay of s , p and most d states .",
+    "intense lines in planetary nebulae like @xmath0@xmath1 and @xmath2@xmath3 have fluorescence contributions of 78% and 73% respectively .",
+    "c  ii lines from most p and d states have between 20% and 69% contribution by fluorescence . o  ii lines are mostly excited by recombination , but fluorescence can contribute up to 50% of the excitation of @xmath4 states ( figs .",
+    "[ fig1 ] and  [ fig2 ] ) .",
+    "we can also predict some of the intensities of the n  i and o  i in a neutral shell around the ionized region .",
+    "most permitted o  i lines are produced by recombination , while n  i permitted and optical forbidden lines are excited by fluorescence ( fig .  [ fig2 ] ) ."
+  ],
+  "abstract_text": [
+    "<S> we predict intensities of lines of cii , ni , nii , oi and oii and compare them with a deep spectroscopic survey of ic  418 to test the effect of excitation of nebular emission lines by continuum fluorescence of starlight . </S>",
+    "<S> our calculations use a nebular model and a synthetic spectrum of its central star to take into account excitation of the lines by continuum fluorescence and recombination . </S>",
+    "<S> the nii spectrum is mostly produced by fluorescence due to the low excitation conditions of the nebula , but many cii and oii lines have more excitation by fluorescence than recombination . in the neutral envelope , </S>",
+    "<S> the ni permitted lines are excited by fluorescence , and almost all the oi lines are excited by recombination . </S>",
+    "<S> electron excitation produces the forbidden optical lines of oi , but continuum fluorescence excites most of the ni forbidden line intensities . </S>",
+    "<S> lines excited by fluorescence of light below the lyman limit thus suggest a new diagnostic to explore the photodissociation region of a nebula . </S>"
+  ]
+}

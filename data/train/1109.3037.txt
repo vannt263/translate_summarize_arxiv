@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "in paper @xcite we identified a group of intermediate - duration grbs ( here figure  [ fig:1 - 2 ] , left panel ) , significant at @xmath0 level , by the maximum likelihood ( ml ) ratio test and bivariate fitting of log - normal functions on the hardness ratio - duration plane . here",
+    "we focus on the other properties of these bursts and employ the same sample , i.e. , the data obtained from the rhessi satellite between february 14 , 2002 and april 25 , 2008 .",
+    "the number of the grbs belonging to the group of , by the highest probability , short , intermediate , and long bursts is 40 , 24 , 363 , respectively .",
+    "we evaluated spectral lags , similarly to @xcite , by fitting of the peak of the cross - correlation function ( ccf ) of the background - subtracted count light - curves at two channels @xmath1kev and @xmath2kev ( see an example in figure  [ fig:1 - 2 ] , right panel )",
+    ". then we applied kolmogorov - smirnov ( k - s ) and student t - test to find whether the group of intermediate - duration grbs is more similar to the group of short or long bursts . in some cases",
+    "the evaluation of the lag was impossible , because of the high noise level of the ccf .",
+    "therefore the sample of the lags is smaller than the overall number of the rhessi bursts .",
+    "results are shown in figure  [ fig:3 - 4 ] and summarized in table  [ tab:1 - 2 ] .",
+    "next we focused on the count peak rates .",
+    "figure  [ fig:5 - 6 ] presents the peak count rates vs. @xmath3 durations and the cumulative distributions of the all three identified groups .",
+    "the k - s and t - test probabilities were calculated and results are presented in table  [ tab:3 - 4 ] .",
+    "the k - s test applied on the spectral lag distributions of the short- and intermediate - duration bursts gives the k - s probability 20.7% and k - s distance 0.33 .",
+    "the tabular critical value of the k - s distance at the significance level @xmath4% and the given number of the elements ( 24 and 15 ) is 0.45 .",
+    "therefore the null hypothesis that the lags of the short and intermediate bursts are drawn from the same distribution can not be rejected at the 5% significance level .",
+    "on the other hand , the same test applied on the lags of the intermediate vs. long ( and short vs. long ) bursts gives the k - s probability 1.47% ( 0.01% ) and the k - s distance 0.42 ( 0.49 ) .",
+    "the tabular critical value of the k - s distance at the 5% significance level for the number of the intermediate and long bursts ( 15 and 98 ) is 0.38 .",
+    "therefore the hypothesis that the lags of the intermediate and long bursts are drawn from the same distribution can be rejected at this 5% significance level .          from the results of the k - s test applied on the peak count rates it follows that the distributions of the peak count rates are different over all three groups .",
+    "the t - test is not persuasive for both cases ; spectral lags and peak count rates .",
+    "figure  [ fig:7 ] displays the sky distribution of all localized bursts in our sample .",
+    "unfortunately there are only two well localized intermediate events , therefore any statistical analysis is meaningless .",
+    "concerning supernova observations ( sn ) , we found that all grbs with underlying or possible underlying sn have , by rhessi , long duration and there is no sn observation for any rhessi intermediate - duration burst .",
+    "this finding is similar to the fact that , in general , there is no sn - grb connection for short - duration bursts associated with the model of the merger of two compact astrophysical objects .",
+    "we also tried to find the star formation rates of the host galaxies in the published articles ( e.g. , @xcite ) of the intermediate bursts and compare them with the hosts of the short and long bursts .",
+    "however , we were unsuccessful in finding the measurements of the star formation rates for the rhessi intermediate - duration bursts .    for the redshift measurements of the bursts observed by rhessi ,",
+    "the average value for the short busts is @xmath7 and for the long ones @xmath8 .",
+    "unfortunately no redshift measurements are available for the intermediate bursts .",
+    "this study was supported by the grant agency of the czech republic , grants no .",
+    "p209/10/0734 , no .",
+    "205/08/h005 , by the research program msm0021620860 of the ministry of education of the czech republic , by the project svv 261301 of the charles university in prague , and by the otka grant no . k77795 ."
+  ],
+  "abstract_text": [
+    "<S> the intermediate - duration gamma - ray bursts ( grbs ) identified in the data of the rhessi satellite are investigated with respect to their spectral lags , peak count rates , redshifts , supernova observations , and star formation rates of their host galaxies . </S>",
+    "<S> standard statistical tests like kolmogorov - smirnov and student t - test are used . </S>",
+    "<S> it is discussed whether these bursts belong to the group of so - called short or long grbs , or if they significantly differ from both groups .    </S>",
+    "<S> address = charles university , faculty of mathematics and physics , astronomical institute , + v holeovikch 2 , 180 00 prague 8 , czech republic    address = etvs </S>",
+    "<S> lornd university , pzmny pter stny 1/a , budapest , hungary    address = charles university , faculty of mathematics and physics , astronomical institute , + v holeovikch 2 , 180 00 prague 8 , czech republic </S>"
+  ]
+}

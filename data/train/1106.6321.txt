@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "99 p. braun - munzinger , j. wambach , rev . mod",
+    "* 81 * ( 2009 ) 1031 .",
+    "p. braun - munzinger , j. stachel , arxiv:1101.3167 [ nucl - th ] .",
+    "a. andronic et al . , nucl .",
+    "phys . a * 789 * ( 2007 ) 334 ; phys .",
+    "b * 652 * ( 2007 ) 259 .",
+    "a. andronic et al . , phys .",
+    "b * 678 * ( 2009 ) 350 .",
+    "a. adare et al .",
+    "( phenix coll . ) , phys .",
+    "* 98 * ( 2007 ) 232301 ; arxiv:1103.6269 ."
+  ],
+  "abstract_text": [
+    "<S> we investigate the production of hadrons in nuclear collisions within the framework of the thermal ( or statistical hadronization ) model . </S>",
+    "<S> we discuss both the ligh - quark hadrons as well as charmonium and provide predictions for the lhc energy . </S>",
+    "<S> even as its exact magnitude is dependent on the charm production cross section , not yet measured in pb - pb collisions , we can confidently predict that at the lhc the nuclear modification factor of charmonium as a function of centrality is larger than that observed at rhic and compare the experimental results to these predictions .    </S>",
+    "<S> one of the major goals of ultrarelativistic nuclear collision studies is to obtain information on the qcd phase diagram @xcite . </S>",
+    "<S> the experimental approach is the investigation of hadron production at chemical freeze - out @xcite . </S>",
+    "<S> hadron yields measured in central heavy ion collisions from ags up to rhic energies can be described very well ( see @xcite and refs . therein ) within a hadro - chemical equilibrium model . in our approach </S>",
+    "<S> the only parameters are the chemical freeze - out temperature @xmath0 , the baryo - chemical potential @xmath1 and the fireball volume @xmath2 . </S>",
+    "<S> the main result of these investigations was that the extracted temperature values rise rather sharply from low energies on towards @xmath310 gev and reach afterwards constant values near @xmath0=160 mev , while the baryochemical potential decreases smoothly as a function of energy . </S>",
+    "<S> the limiting temperature @xcite behavior suggests a connection to the phase boundary and it was , indeed , argued @xcite that the quark - hadron phase transition drives the equilibration dynamically , at least for sps energies and above . </S>",
+    "<S> the conjecture of the tricritical point @xcite was put forward for the lower energies . </S>",
+    "<S> alternative conjectures are that the thermodynamical state is a generic fingerprint of hadronization @xcite or is a feature of the excited qcd vacuum @xcite .    [ cols= \" < , > \" , ]     the centrality dependence of the nuclear modification factor @xmath4 is shown in fig .  </S>",
+    "<S> [ fig_raa ] . </S>",
+    "<S> the model reproduces very well the decreasing trend versus centrality seen in the rhic data @xcite . </S>",
+    "<S> the larger @xmath4 value at midrapidity is in our model due to the enhanced generation of charmonium around mid - rapidity , determined by the rapidity dependence of the charm production cross section . at the much higher lhc energy </S>",
+    "<S> the larger charm production cross section could lead to a different trend as a function of centrality , depending on the magnitude of shadowing in pb - pb collisions . </S>",
+    "<S> a generic prediction of the model is that the @xmath4 value at lhc is larger than at rhic and this is confirmed by the preliminary alice data @xcite measured at forward rapidity , which demonstrate , in our view , that charmonium is produced at lhc at the phase boundary ( chemical freeze - out ) . if further confirmed by data ( importantly , also on @xmath5 production ) , this picture will consolidate the role of charmonium as a special observable to probe deconfinement of heavy quarks and to delineate the phase boundary of qcd matter with hadrons carrying heavy quarks . at the lhc , </S>",
+    "<S> first results of @xmath6 production have appeared @xcite . </S>",
+    "<S> the model predicts for @xmath6 a suppression - like pattern of a similar magnitude as that of j/@xmath7 at rhic . </S>",
+    "<S> we predict @xcite for pb - pb much smaller ratios @xmath8=0.033 and @xmath8=0.005 , compared to the values in @xmath9 collisions at tevatron @xcite , 0.32 and 0.15 , respectively . </S>",
+    "<S> this feature is indicated in the cms data @xcite . </S>"
+  ]
+}

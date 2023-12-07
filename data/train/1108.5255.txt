@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "tres-3b is one of the more massive transiting extrasolar planets .",
+    "the planetary system consists of a nearby g - type dwarf and a massive hot jupiter with an orbital period of 1.3 days .",
+    "it was discovered by ( * ? ? ?",
+    "* odonovan et al . ( 2007 ) ) and a discovery - quality light curve has also been obtained by the superwasp survey ( ( * ? ? ?",
+    "* collier cameron et al . 2007 ) ) .",
+    "follow - up transit photometry has been presented by ( * ? ? ?",
+    "* sozzetti et al .",
+    "( 2009 ) ) and ( * ? ? ?",
+    "* gibson et al . (",
+    "all observations used in this study were carried out at the several observatories : star lesn ( slovakia ) , toru center for astronomy ( poland ) , michael adrian observatory ( germany ) , university observatory jena ( germany ) and vihorlat observatory ( slovakia ) .",
+    "we used telescopes with diameters of the primary mirrors in the range of 30120  cm and optical ccd - cameras ( ri - bands ) . in order to have a homogeneous dataset we have used the composition of 560 data points from two nights obtained at one observatory in the same filter ( see fig .  1 ) .",
+    "to obtain an analytical transit lc we assumed the quadratic limb darkening law .",
+    "the limb darkening coefficients @xmath0 and @xmath1 were linearly interpolated from ( * ? ? ?",
+    "* claret ( 2000 ) ) for the following stellar parameters : @xmath2  =  5650  k , @xmath3  ( g )  =  4.4 and [ fe / h ]  =  -0.19 ( based on the results of sozzetti et al .",
+    "finally , the orbital parameters of the system were redetermined : @xmath4  =  0.1819(20 ) , @xmath5  =  0.1785(70 ) , @xmath6  =  80.9(7 ) , @xmath7  =  0.876@xmath8 @xmath9 and @xmath10  =  1.551@xmath11 @xmath12 . to estimate the uncertainties of parameters we have used the monte carlo simulation method . based on the transits obtained at other observatories we calculated following new linear ephemeris for tres-3b : @xmath13  =  2454538.5807(1 ) + e @xmath14 1.30618595(15 ) .      in this part of our work",
+    ", we investigate the gravitational influence of tres-3b on a potential second planet in the system .",
+    "* gibson et al . ( 2009 ) ) claimed , that their data are sensitive enough to probe small mass planets on circular orbits near the 2:1 mean - motion resonance ( mmr ) with tres-3b .",
+    "we performed numerical simulations for studying the stability of orbits and checking their chaotic behavior using the method of maximum eccentricity ( e.g. ( * ? ? ? * dvorak et al .",
+    "we have generated @xmath15 massless particles to represent small planets ( earth - like ) in this system .",
+    "the long - term stability plot in @xmath16 plane showing the maximum eccentricity after 500 years ( about 140 000 revolutions of tres-3b around the parent star ) is shown on fig.[f1 ] ( right plot ) .",
+    "we found that the region from @xmath17au to @xmath18au is almost completely depleted , excepted the regions near 1:1 and 3:4 mmrs .",
+    "the region near 2:1 mmr is richly populated , but the particles have relatively high eccentricities and inclinations , thus the stability and also the detection using the ttv method is questionable .",
+    "more stable regions are beyond the 1:3 mmr , where the gravitational influence of the tres-3b is weak",
+    ". more detailed study of the long - term stability in this system ( especially near 2:1 mmr ) will be presented in the future work . + * acknowledgements * this work has been supported by grant , vega no .",
+    "2/0078/10 , 2/0074/09 , 2/0094/11 .",
+    "pd received the support from apvv grant lpp-0049 - 06 and lpp-0024 - 09 .",
+    "tk thanks the grant ga r gd205/08/h005 .",
+    "gm acknowledges iuventus plus grant ip2010 023070 .",
+    "sr thanks the german national science foundation ( dfg ) for support in project ne 515 / 33 - 1 ."
+  ],
+  "abstract_text": [
+    "<S> we present new transit observations of the transiting exoplanet tres-3b obtained in the range 2009  2011 at several observatories . </S>",
+    "<S> the orbital parameters of the system were redetermined and the new linear ephemeris was calculated . </S>",
+    "<S> we performed numerical simulations for studying the long - term stability of orbits . </S>"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "the field between the ob groups in vela ( @xmath4 ) and car  ob1 ( @xmath5 ) is not known to be dominated by any prominent ob association ( see @xcite , @xcite ) .",
+    "the longitude range @xmath6-@xmath7 is thought to correspond to a tangential direction of a large segment of the carina arm in both the 3- and 4-arm models of the grand design of the milky way @xcite .",
+    "our study is based on @xmath0 photometric distances and provides new insights on the apparent groupings and layers toward @xmath8 in the galactic disk .",
+    "this field clearly stands apart from the extended hii features toward car ob1 and contains several prominent hii regions .",
+    "our sample includes a number of ob stars with very similar luminosities according to the @xmath9 $ ] vs. @xmath10 $ ] classification diagram @xcite ( fig .",
+    "[ fig1 ] , left ) . among them",
+    "5 stars belong to the poor but very compact cluster candidate lodn 112 .",
+    "two other stars are assigned to the relatively young cluster ic 2581 , and the rest are apparent field stars . according to the @xmath0",
+    "photometric distances all ob stars in this sample show a very small spread in distance , thus forming a structure at 1630@xmath1180 pc .",
+    "this new estimate is significantly smaller than the presently adopted distance of 2500 pc to lodn 112 ( webda database ) .",
+    "these ob - stars are located toward the prominent hii regions rcw 48 and rcw 49 and several smaller hii fields and could represent a new ob association at coordinates @xmath12 , @xmath13 ( fig .",
+    "[ fig1 ] , right ) , containing the compact cluster candidate lodn 112 and ic 2581 ( more details can be found in @xcite ) .     left : the classification photometric diagram for the ob stars in the sample .",
+    "right : same stars overplotted on the distribution of the hii emission in the region @xcite obtained via _ skyview _ vo interface @xcite.,title=\"fig : \" ]    left : the classification photometric diagram for the ob stars in the sample .",
+    "right : same stars overplotted on the distribution of the hii emission in the region @xcite obtained via _ skyview _ vo interface @xcite.,title=\"fig : \" ]",
+    "this work is supported by the national science foundation grant ast-0708950 .",
+    "n.k . acknowledges support from the snc endowed professorship at the university of wisconsin oshkosh . v.g .",
+    "acknowledges support by the bulgarian national science research fund grants do 02 - 85/2008 and do 02 - 362/2008 . this research has made use of the simbad database , operated at cds , strasbourg , france .",
+    "we acknowledge the use of nasa s _ skyview _ facility ( http://skyview.gsfc.nasa.gov ) ."
+  ],
+  "abstract_text": [
+    "<S> based on the available @xmath0 photometry of ob stars in the longitude range @xmath1 to @xmath2 in the galactic disk , we identify a feature of young stars at 1630@xmath3 pc , that is probably connected to the compact cluster candidate lodn 112 and the open cluster ic 2581 . </S>",
+    "<S> this feature seems to be spatially correlated to rcw 48 and rcw 49 and several other smaller hii regions . </S>"
+  ]
+}

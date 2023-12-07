@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "we assume familiarity with basic matroid concepts such as contraction matroids , dual matroids , or the flat lattice @xcite .",
+    "a famous binary matroid is the _ fano _ matroid @xmath3 on the set @xmath4 which can be defined as the column matroid of this @xmath5 matrix over @xmath6 :    @xmath7    [ cols=\"^,^,^,^,^,^,^,^\",options=\"header \" , ]     specifically mod is given as a disjoint union @xmath8 where each row @xmath9 consists of certain @xmath10-vectors @xmath11 of length 8 , corresponding to subsets of @xmath12 in the usual way .",
+    "the string of symbols ( say ) @xmath13 in @xmath14 by definition means that only vectors @xmath11 are allowed that have _ at least one _ @xmath15 in a position occupied by an @xmath16 .",
+    "similarly for @xmath17 and @xmath18 .",
+    "thus @xmath14 contains @xmath19 vectors @xmath11 , one of them say @xmath20 .",
+    "there is a systematic ( recursive ) procedure to determine the number of sets of fixed cardinality in such a _ multivalued _ row .",
+    "but here we proceed ad hoc .",
+    "namely , the sought bases of being the maximal independent sets , each base occurs as a maximal member of some row @xmath9 . here , incidentally , each row - maximal member also is a base ( since it has cardinality 5 ) .",
+    "the row - maximal members of @xmath9 are obtained by filling each @xmath21-bubble to full capacity with @xmath22 s in all possible ways .",
+    "for instance , @xmath23 in @xmath24 can be filled with four @xmath22 s in 5 ways .",
+    "it follows that @xmath24 features @xmath25 bases .",
+    "altogether there are @xmath26 bases @xmath27 .",
+    "it is plausible that for each base @xmath27 the parameters @xmath28 required in ( 2 ) can now be calculated fast .",
+    "the numbers @xmath29 can be obtained the same way ; after all they are just the numbers @xmath30 for the dual bases @xmath31 .",
+    "we mention that the bottleneck in the sketched method is getting the circuits and cocircuits ( the bases and cobases are then readily found as sketched ) .",
+    "how the circuits can be retrieved faster than by browsing the whole cycle space , and how the cocircuits arise _ from _ the circuits ( even the chordless ones ) , is work in progress .",
+    "complete lists with tables of numbers of non - isomorphic regular matroids can be found on the web :        as it was previously explained , first we determine lists of non - isomorphic binary matroids . for @xmath32 and @xmath33",
+    "there are complete lists of the representatives of the isomorphism classes of all ( a ) loopless , ( b ) simple loopless , ( c ) connected simple loopless , and ( d ) connected loopless binary matroids of rank @xmath34 and size @xmath21 . as the standard representative of a matroid we choose the lexicographic smallest representative in its isomorphism class .    by testing these matroids for regularity ,",
+    "we obtain complete lists of standard representatives of the isomorphism classes of ( a ) connected simple loopless and ( b ) connected loopless regular matroids of rank @xmath34 and size @xmath21 again for @xmath32 and @xmath33 .",
+    "the lists of matroids of rank @xmath35 were computed by changing from a matroid to its dual . if @xmath36 is a binary matroid of size @xmath21 and rank @xmath34 , then its dual",
+    ", @xmath37 is a binary matroid of size @xmath21 and rank @xmath38 .",
+    "two binary matroids are isomorphic if and only if their duals are isomorphic .",
+    "moreover , a matroid is regular if and only if its dual is regular . using this method we determined complete lists of ( in general non - standard ) representatives of the isomorphism classes of ( a ) connected simple loopless and ( b ) connected loopless regular matroids of rank @xmath39 and size @xmath40 .                      .",
+    "a program system devoted to representation theory , invariant theory and combinatorics of finite symmetric groups and related classes of groups .",
+    "copyright by  lehrstuhl ii fr mathematik , universitt bayreuth , 95440 bayreuth \" .",
+    "+ ` http://www.algorithm.uni-bayreuth.de/en/research/symmetrica/ ` ."
+  ],
+  "abstract_text": [
+    "<S> a catalogue of all non - isomorphic simple connected regular matroids @xmath0 of cardinality @xmath1 is provided on the net . </S>",
+    "<S> these matroids are given as binary matrix matroids and are sieved from the large pool of all non - isomorphic binary matrix matroids of cardinality @xmath2 . </S>",
+    "<S> for each @xmath0 its tutte polynomial is determined by an algorithm based on internal and external base activity .    * a catalogue of small regular matroids and their tutte polynomials *    harald fripertinger and marcel wild </S>"
+  ]
+}

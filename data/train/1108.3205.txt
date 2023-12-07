@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "ls  5039 , the enigmatic high - mass x - ray binary has been intensively observed at various wavelengths in the past years ( see ( * ? ? ?",
+    "* sarty et al .",
+    "2011 , hereafter s11 ) for a review ) .",
+    "? * paredes et al .",
+    "( 2000 ) ) identified relativistic radio jets and also a very high energy ( vhe ) gamma - ray source at the coordinates of the system ; therefore ls  5039 became one of a handful of known gamma - ray binaries .",
+    "there are several open issues about the system ( see s11 ) , but the major question is whether the secondary component orbiting around the o6.5v((f ) ) star is a black hole or a non - accreting young pulsar .",
+    "hereinafter we show the results of our spectroscopic and photometric analysis concerning mass and orbit constraints of ls  5039 ( see the details in s11 ) .",
+    "spectroscopic observations were carried out in 2009 with the echelle spectrograph mounted at anu 2.3 m telescope ( sso , australia ) , and in 2011 using feros ( ( * ? ? ? * kaufer et al .",
+    "1999 ) ) at mpg / eso-2.2 m telescope at la silla , chile .",
+    "covering @xmath240 hours with nearly uniform sampling of the whole orbit between 3900 - 6750   with a resolving power @xmath3/@xmath4 23,000 at h@xmath5 , it is the highest resolution , homogeneous spectral dataset ever obtained for ls  5039 .    radial velocities ( rv ) of h    i    and he    i    lines show a systematic blueshift with respect to the rvs of he    ii    lines , therefore only the latter ones were used to fit eclipsing binary models with the wilson ",
+    "devinney ( wd ) code ( ( * ? ? ?",
+    "* wilson & van hamme 2003 ) ) .",
+    "we do not see signs of non - radial pulsations in our data in contrast to the results reported by ( * ? ? ?",
+    "* casares et al .",
+    "( 2010 ) ) , see fig . 1 .",
+    "our data were analyzed as described in s11 but now with the addition of the feros data .",
+    "orbital parameters are close to previous solutions ( ( * ? ? ?",
+    "* casares et al .",
+    "2005 ) , ( * ? ? ?",
+    "* aragona et al . 2009 ) ) , but we found the orbital eccentricity ( @xmath6=0.24 @xmath7 0.08 ) being definitely lower than determined previously .",
+    "photometric data , obtained with _ most _ satellite in july of 2009 , indicates a variability at the level of 2 mmag .",
+    "our light curve ( lc ) simulations show that the amplitude of lcs decreases with increasing total mass or decreasing eccentricity .",
+    "comparison of data and models suggests that primary mass is at the higher end of estimates based on its spectral type ( @xmath226 m@xmath1 ) , from which we get a mass for the compact star of at least 1.8 m@xmath1 .",
+    "we carried out a detailed spectroscopic and photometric analysis to get mass and orbit constraints of the @xmath0-ray binary ls  5039 .",
+    "the new system parameters are close to previously determined ones , except that we found a lower eccentricity .",
+    "lc simulations support this result , and imply that the compact object may be a low mass black hole  but do not fully exclude that it may be a neutron star .",
+    "this work has been supported by the australian research council , the university of sydney , the hungarian otka grant k76816 and the `` lendlet '' young researchers program of the hungarian academy of sciences ."
+  ],
+  "abstract_text": [
+    "<S> we present the results of space - based photometric and ground - based spectroscopic observing campaigns on the @xmath0-ray binary ls  5039 . </S>",
+    "<S> the new orbital and physical parameters of the system are similar to former results , except we found a lower eccentricity . </S>",
+    "<S> our _ most_-data show that any broad - band optical photometric variability at the orbital period is below the 2 mmag level . </S>",
+    "<S> light curve simulations support the lower value of eccentricity and imply that the mass of the compact object is higher than 1.8 m@xmath1 . </S>"
+  ]
+}

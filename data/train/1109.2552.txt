@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the next generation of long baseline neutrino experiments aims to measure the third mixing angle @xmath2 , determine whether cp is violated in the lepton sector , and resolve the neutrino mass hierarchy  @xcite . the numi off - axis electron - neutrino ( @xmath3 ) appearance ( no@xmath0a )",
+    "experiment is the flagship experiment of the us domestic particle physics program which has the potential to address most of the fundamental questions in neutrino physics raised by the particle physics project prioritization panel ( p5 ) .",
+    "no@xmath0a has two detectors , a 222 ton near detector located underground at fermilab and a 14 kiloton far detector located in ash river , minnesota with a baseline of 810 km .",
+    "the detectors are composed of extruded pvc cells loaded with titanium dioxide to enhance reflectivity .",
+    "there are 16,416 and 356,352 cells for the near and far detector , respectively .",
+    "each cell has an size of 3.93 cm transverse to the beam direction and 6.12 cm along the direction .",
+    "the corresponding radiation length is 0.15 @xmath4 , ideal for the identification of electron - type neutrino events .",
+    "the `` neutrinos at the main injector '' ( numi ) beam will provide a 14 mrad off - axis neutrino beam to reduce neutral current backgrounds and which peaks at 2 gev , corresponding to the first oscillation maximum for this detector distance as shown in fig .",
+    "the accelerator and numi upgrades will double the protons per year delivered to the detector which is @xmath5 protons per year .",
+    "a detectors are located at 14 mrad.,width=302 ]    the interpretation of the oscillation results requires detailed knowledge of the neutrino spectrum , neutrino cross - sections , nuclear effects , and final state topologies .",
+    "scino@xmath0a is a proposed fine - grained detector  @xcite placed directly in front of the no@xmath0a near detector which can be used to measure neutrino - nucleus scattering . comparing with the wide band beams used by the miner@xmath0a and sciboone experiments",
+    ", the narrow band beam will provide better apriori knowledge of the incident neutrino energy , and has lower background from high energy feed - down . in the energy region around 2 gev",
+    ", the scino@xmath0a detector will record about 1 m events per year as shown in tab .",
+    "[ statistics ] .",
+    ".the event rates per year for elastic , resonant , deep - inelastic ( dis ) and coherent neutrino scattering recorded by scino@xmath0a detector calculated using the genie neutrino generator  @xcite . [ cols=\"<,^,^,^\",options=\"header \" , ]     [ ccqe-2n - error ]    , between 2 protons passing the selection criteria described in the text . the 2-nucleon signal is in dashed line , `` true '' ccqe background is in dot - dashed line , cc@xmath6 background is in dotted line , and the sum is in solid line .",
+    "a cut @xmath7 indicated as the vertical dashed line is applied .",
+    ", scaledwidth=60.0% ]      the primary goal of no@xmath0a experiment is to search for @xmath8 oscillations using the numi neutrino beam .",
+    "the primary backgrounds to this @xmath3 appearance search come from nc @xmath1 events that can be misidentified as @xmath3 signal if one of the two photons from the @xmath1 decay is not detected and the intrinsic electron - neutrino component of the neutrino beam which result from muon and kaon decays .",
+    "the electron - neutrino charged - current events selection efficiency is @xmath9 , while the acceptance probabilities of neutral - current backgrounds and muon neutrino charged - current events are 0.4% and 0.1% respectively .    the background rejection factors for the experiment must not only be large , but they must also be well known to avoid having the sensitivity of the experiment degraded by uncertainties on the backgrounds .",
+    "the fine - grained scino@xmath0a detector will not only enhance the signal efficiency and background rejection estimation , but also add a powerful cross - check of the no@xmath0a detector performance by providing an more efficient signal / background determination which can be compared to the determination made by the no@xmath0a detector , similar in concept to techniques ( `` double scan '' ) used in the analysis of bubble chamber data .",
+    "the study shows that one would expect this `` double scan '' technique to find any miscalculations of the signal and background efficiencies as large as a few percent .",
+    "this method is a powerful cross - check of the detector capabilities that uses the neutrino data itself and has very little reliance on monte carlo simulation and can protect the experiment from unexpected misestimates of background rates .",
+    "no@xmath0a expects a 10% uncertainty in the background at the far detector . with added data from scino@xmath0a",
+    "it may be possible to reduce this uncertainty to 5% and improve the no@xmath0a @xmath10 sensitivity by 8% as shown in fig .",
+    "[ theta13-imp ] . to achieve the same reduction in the background uncertainty through increasing the far detector mass would require about 2 additional kilotons detector mass which would cost roughly $ 20 m.    .",
+    "the right panel shows how this same event would appear in the no@xmath0a detector.,scaledwidth=60.0% ]    a impact on the no@xmath0a @xmath10 sensitivities .",
+    "the solid lines assume 10% uncertainty and the dashed assume 5% uncertainty in backgrounds .",
+    "picking one point off the plot , the 3@xmath11 sensitivity for normal hierarchy and @xmath12 moves from 0.0144 to 0.0133 - an 8% improvement .",
+    ", scaledwidth=90.0% ]",
+    "in summary , scino@xmath0a is a proposed experiment to deploy a fine - grained scintillator detector in front of the no@xmath0a near detector using the numi , off - axis , narrow - band neutrino beam at fermilab .",
+    "this detector can make unique contributions to the measurement of charged- and neutral - current quasi - elastic scattering ; charged- and neutral current coherent pion production ; and neutral - current @xmath1 and photon production .",
+    "these processes are important to understand for fundamental physics and as backgrounds to measurements of electron neutrino appearance oscillations ."
+  ],
+  "abstract_text": [
+    "<S> scino@xmath0a is a proposed experiment to deploy a fine - grained scintillator detector in front of the no@xmath0a near detector to collect neutrino - nucleus scattering events in the numi , off - axis , narrow - band neutrino beam at fermilab . </S>",
+    "<S> this detector can make unique contributions to the measurement of charged- and neutral - current quasi - elastic scattering ; and neutral - current @xmath1 and photon production . </S>",
+    "<S> these processes are important to understand for fundamental physics and as backgrounds to measurements of electron neutrino appearance oscillations . </S>"
+  ]
+}

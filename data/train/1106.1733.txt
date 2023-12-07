@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "suppose a continuous random variable @xmath0 has cumulative distribution function ( cdf ) @xmath1 and a probability density function ( pdf ) @xmath2 .",
+    "the differential entropy @xmath3 of the random variable @xmath0 is defined to be @xmath4 the entropy is one of the most applicable uncertainty measures in many statistical and engineering problems . in statistical literature ,",
+    "the entropy is used in calculation of the kullback - leibler ( kl ) information which is a powerful mean for performing goodness of fit tests .",
+    "the kullback - leibler ( k - l ) information of @xmath2 against @xmath5 is defined in [ 7 ] to be @xmath6 since @xmath7 has the property that @xmath8 , and the equality holds if only if @xmath9 , the estimate of the k - l information has also been considered as a goodness of fit test statistic by some authors including [ 2 ] and [ 5 ] . it has been shown in the aforementioned papers that the test statistics based on the k - l information perform very well for testing exponentiality [ 5 ] as compared , in terms of power , with some leading test statistics .    ranked set sampling ( rss ) has been developed by mcintyre ( 1952 ) .",
+    "this method is applied for situations in which measuring a variable is costly or difficult , but where ranking in small subsets is easy . in this method ,",
+    "we first subdivide a sample of size @xmath10 randomly into @xmath11 subsamples of size @xmath11 , rank each subsample visually or using any simple or cheap method and then in the @xmath12 subsample , measure and record only the unit of rank @xmath13 which is denoted by @xmath14 @xmath15 . since the subsamples are independent , @xmath14 s are independent random variables .",
+    "also the marginal distribution of @xmath14 is the same as that of @xmath16 order statistic from a sample of size @xmath11 of @xmath0 , i.e. @xmath17 . as it was proved by mcintyre , mean of this sample is an unbiased estimator of the mean of @xmath18 with an efficiency slightly less than @xmath19 , relative to the mean of a simple random sample ( srs ) of size @xmath11 .",
+    "thus  ranked set sampling should be useful when the quantification of an element is difficult but the elements of a set are easily drawn and ranked by judgment . \"",
+    "( dell and clutter 1972 ) .",
+    "this method was also extended to estimating variance ( stokes 1980a ) , correlation coefficient ( stokes 1980b ) and the situations in which the sample is subdivided into subsamples of different sizes .    in this paper",
+    ", we introduced two estimators for the entropy and compare them with each other and the estimator of the entropy in simple random sampling ( srs ) in the sense of bias and root of mean square errors ( rmse ) .",
+    "it is observed that the rss scheme would improve this estimator .",
+    "the best estimator of the entropy is used along with the estimator of the mean and two biased and unbiased estimators of variance based on rss scheme , to estimate the kl information and perform goodness of fit tests for exponentiality and normality .",
+    "the desired critical values and powers are calculated .",
+    "it is also observed that rss estimators would increase powers .",
+    "the nonparametric estimation of the entropy @xmath20 an estimate of ( [ h ] ) can be constructed by replacing the distribution function @xmath21 by the empirical distribution @xmath22 the derivative of @xmath23 is estimated by @xmath24 .",
+    "the estimate of @xmath25 is then @xmath26    .simulated minimum rmse ( mrmse ) and minimum absolute bias ( mab ) of @xmath27 and @xmath28 and optimal @xmath29 for @xmath30 and three distributions with different values of @xmath13 . [",
+    "cols=\"^,^,^,^,^,^ \" , ]",
+    "ahmad , i. a. and lin , p. e.  a nonparametric estimation of the entropy for absolutely continuous distributions , \" _ ieee trans .",
+    "theory , _ vol .",
+    "22 , 372375 , 1976 ."
+  ],
+  "abstract_text": [
+    "<S> the entropy is one of the most applicable uncertainty measures in many statistical and engineering problems . in statistical literature , </S>",
+    "<S> the entropy is used in calculation of the kullback - leibler ( kl ) information which is a powerful mean for performing goodness of fit tests . </S>",
+    "<S> ranked set sampling ( rss ) seems to provide improved estimators of many parameters of the population in the huge studied problems in the literature . </S>",
+    "<S> it is developed for situations where the variable of interest is difficult or expensive to measure , but where ranking in small sub - samples is easy . in this paper </S>",
+    "<S> , we introduced two estimators for the entropy and compare them with each other and the estimator of the entropy in simple random sampling ( srs ) in the sense of bias and root of mean square errors ( rmse ) . </S>",
+    "<S> it is observed that the rss scheme would improve this estimator . </S>",
+    "<S> the best estimator of the entropy is used along with the estimator of the mean and two biased and unbiased estimators of variance based on rss scheme , to estimate the kl information and perform goodness of fit tests for exponentiality and normality . </S>",
+    "<S> the desired critical values and powers are calculated . </S>",
+    "<S> it is also observed that rss estimators would increase powers .    </S>",
+    "<S> * keywords : * ordered ranked set sampling ; judgement ranking ; order statistic ; information theory ; exponential ; normal ; uniform </S>"
+  ]
+}
