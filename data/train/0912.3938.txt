@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "the ramaty high - energy solar spectroscopic imager ( rhessi ) is a  nasa small explorer satellite designed to study hard x - rays and gamma - rays from solar flares  @xcite .",
+    "it  consists mainly of an imaging tube and a  spectrometer .",
+    "the spectrometer consists of nine germanium detectors  @xcite .",
+    "they are only lightly shielded , thus making rhessi also very useful to detect non - solar photons from any direction .",
+    "the energy range sensitive for grb detection extends from about 50  kev up to 20  mev depending on the incoming direction .",
+    "energy and time resolutions are excellent for time resolved spectroscopy : @xmath0  =  3  kev ( at 1000 kev ) , @xmath1  =  1  @xmath2s .",
+    "the effective area for near axis direction of incoming photons reaches up to 200  @xmath3 at 200  kev . with a field of view of about half of the sky",
+    ", rhessi observes about one gamma - ray burst per week ( see also ` http://grb.web.psi.ch ` ) .",
+    "totally observed 228 gamma - ray bursts from feb .",
+    "2002 to jan .",
+    "2006 were used .",
+    "originally it was found ( results from batse , konus - wind etc .",
+    "instruments  @xcite ) that there exist at least two subclasses of grbs ; the short one with @xmath4 approximately less than 2  s and the long one with @xmath4 approximately more than 2  s , where @xmath4 is the time interval during which the cumulative counts increase from 5% to 95% above background .",
+    "as one can see , we obtained distribution with two maxima : about 0.2  s and 15  s. some articles point to existence of the three subclasses of grbs  @xcite .",
+    "we have investigated this in the rhessi database .",
+    "we fitted one- , two- and three - lognormal functions ( fig .  1 )",
+    "and then we used statistical @xmath5-test to evaluate these fits .",
+    "this procedure was successfully used on batse catalog ( see  @xcite ) . from the  statistical point of view a  single lognormal",
+    "does not fit the  observed distribution .",
+    "the  assumption that there is only one subclass is rejected on a  greater than 99.99% significance level .",
+    "for the  best fitting with the  two gaussian functions we obtained significance level  =  15.9% .",
+    "for the  best fitting with the  three gaussian functions we obtained significance level  =  16.4% .",
+    "hence , rhessi data can be interpreted by at least two grb s subgroups .",
+    "a  further result is that the short bursts give about 15% of all 228 events observed by rhessi .",
+    "the hardness ratio is defined as  the ratio of two fluences @xmath6 in two different energy bands integrated over the  time interval @xmath4 .",
+    "specifically we have three energy bands : 25  -  120  kev , 120  -  400  kev and 400  -  1500  kev , and corresponding fluences therein : @xmath7 , @xmath8 and @xmath9 . in fig .  1 we show the  hardness - ratio @xmath10 vs. @xmath4 duration for our rhessi dataset .",
+    "we confirm the  results of batse ( @xcite ) that on average short grbs are harder .",
+    "we plan to use some cluster analysis to exactly decide the  number of subgroups ."
+  ],
+  "abstract_text": [
+    "<S> the gamma - ray burst ( grb ) database based on the data by the rhessi satellite provides a unique and homogeneous database for future analyses . here </S>",
+    "<S> we present preliminary results on the duration and hardness ratio distributions for a sample of 228 grbs observed with rhessi .    </S>",
+    "<S> [ 1999/12/01 v1.4c il nuovo cimento ] </S>"
+  ]
+}

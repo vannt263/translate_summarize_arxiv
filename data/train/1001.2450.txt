@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "here we summarize our main results on our campaign on sax  j1818.61703 , obtained as a response of a _ swift _ cycle 5 gi trigger ; further details are in @xcite .",
+    "we followed the evolution of the whole may 6 outburst of sax  j1818.61703 and its declining phase with _ swift_/xrt .",
+    "the source displays a dynamical range of more than 3000 ( see fig .",
+    "[ fig1 ] , left ) and a multiple - flaring behaviour as also observed in other sfxts @xcite .",
+    "temporally resolved spectroscopy of the xrt data did not reveal variability in the spectral parameters within the uncertainties , except for the change in the blackbody radius , when fitting the soft x ",
+    "rays with a single absorbed blackbody .",
+    "we also did not find variability in the absorbing column density during the outburst .",
+    "we obtained , for the first time for this source , broad - band spectroscopy from soft to hard x  rays .",
+    "figure  [ fig1 ] ( right ) shows the _",
+    "swift_/xrt@xmath0bat joint spectrum during the outburst obtained from strictly simultaneous data ( only the blue xrt points in fig .",
+    "[ fig1 ] left were considered ) .",
+    "the broad - band spectrum can be characterized by either a very high absorption , a flat power law ( @xmath10.10.5 ) with a cut - off at about 712 kev , or by comptonized emission from a cold and optically thick corona , with an electron temperature @xmath27kev , a hot seed photon temperature , @xmath31.4kev , and an optical depth for the comptonizing plasma @xmath4 .",
+    "the inferred 1100kev luminosity is @xmath5 erg s@xmath6 ( at 2.5 kpc ; @xcite ) .",
+    "these broad - band properties are reminiscent of the x  ray spectral shape of the prototype of the sfxt class , xte j1739302 @xcite : similarly high absorption , x  ray luminosities , energy cutoff values , and hot seed photon temperatures .",
+    "these spectral parameters indicate the presence of a cold and optically thick corona .",
+    "the observed properties of the broad band spectrum as well as the outburst duration of about 5 days , are quite similar to the ones observed in other sfxts we have been monitoring in the last year and a half with _ swift _",
+    "* and references therein ) and confirm the fact that sax  j1818.61703 belongs to the class of sfxts .",
+    "upper limits is due to the source being moon constrained .",
+    "the data shown were collected through both at and gi too observations as well as regular too observations .",
+    "the blue points were fitted simultaneously with bat data . *",
+    "right : * spectroscopy of the 2009 may 6 outburst .",
+    "top : simultaneous xrt / wt ( filled circles ) and bat ( empty circles ) data fit with an absorbed comptonization emission ( bmc model in xspec ) .",
+    "bottom : the residuals of the fit ( in units of standard deviations ) . , title=\"fig:\",width=188 ]   upper limits is due to the source being moon constrained .",
+    "the data shown were collected through both at and gi too observations as well as regular too observations .",
+    "the blue points were fitted simultaneously with bat data . *",
+    "right : * spectroscopy of the 2009 may 6 outburst .",
+    "top : simultaneous xrt / wt ( filled circles ) and bat ( empty circles ) data fit with an absorbed comptonization emission ( bmc model in xspec ) . bottom : the residuals of the fit ( in units of standard deviations ) .",
+    ", title=\"fig:\",width=188 ]          p.  romano , l.  sidoli , g.  cusumano , p.  a. evans , l.  ducci , h.  a. krimm , s.  vercellone , k.  l. page , a.  p. beardmore , d.  n. burrows , j.  a. kennea , n.  gehrels , v.  la parola , and v.  mangano , _ mnras _ * 392 * , 4551 ( 2009 ) .",
+    "p.  romano , l.  sidoli , g.  cusumano , v.  la parola , s.  vercellone , c.  pagani , l.  ducci , v.  mangano , j.  cummings , h.  a. krimm , c.  guidorzi , j.  a. kennea , e.  a. hoversten , d.  n. burrows , and n.  gehrels , _ mnras _ * 399 * , 20212032 ( 2009 ) ."
+  ],
+  "abstract_text": [
+    "<S> we present the _ </S>",
+    "<S> swift _ observations of the supergiant fast x - ray transient ( sfxt ) sax  j1818.61703 collected during the most recent outburst , which occurred on may 6 2009 . in particular , we present broad - band spectroscopic and timing analysis as well as a _ swift_/xrt light curve that spans more than two weeks of observations . </S>",
+    "<S> the broad - band spectral models and length of the outburst resemble those of the prototype of the sfxt class , xte j1739302 , further confirming sax j1818.61703 as a member of this class .     </S>",
+    "<S> address = inaf - iasf palermo , via u.  la malfa 153 , i-90146 palermo , italy     address = inaf - iasf milano , via e.  bassini 15 , i-20133 milano , italy     address = inaf - iasf milano , via e.  bassini 15 , i-20133 milano , italy     address = inaf - iasf palermo , via u.  la malfa 153 , i-90146 palermo , italy     address = department of astronomy and astrophysics , psu , university park , pa 16802 , usa     address = nasa / goddard space flight center , greenbelt , md 20771 , usa , altaddress = universities space research association , columbia , md , usa     address = department of astronomy and astrophysics , psu , university park , pa 16802 , usa     address = inaf - iasf roma , via fosso del cavaliere 100 , i-00133 , roma , italy     address = department of astronomy and astrophysics , psu , university park , pa 16802 , usa     address = nasa / goddard space flight center , greenbelt , md 20771 , usa </S>"
+  ]
+}

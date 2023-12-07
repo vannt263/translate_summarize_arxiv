@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "% of the sky , with exposures ranging from just a few seconds at the slew path edges , up to close to a minute in the overlap regions near the ecliptic poles . ]",
+    "the publicly available xmm - newton slew data cover to date around 41% of the sky ( see fig.1 ) .",
+    "the soft band ( 0.2@xmath02 kev ) sensitivity limit of the slews ( 6@xmath1ergs @xmath2 s@xmath3 ) is close to that of the rosat all - sky survey ( rass ) , and in the medium ( 2@xmath012 kev ) band , the slew data goes significantly deeper ( 4@xmath4ergs @xmath2 s@xmath3 ) than all other previous large area surveys .",
+    "the current full catalogue ( the third update , released in june 2009 ) contains 19,720 detections . for details on the construction and characteristics of the xmm - newton slew survey catalogue , see saxton et al .",
+    "( 2008 ) , and for details of the initial science results from the slew survey , see read et al .",
+    "the near real - time comparison of xmm - newton slew data with rass data is giving , for the first time , the opportunity of finding all manner of high - variability x - ray objects , e.g. tidal disruption candidates ( esquej et al .",
+    "2007 , and this conference ) , agn , blazars , and also galactic sources such as novae , flare stars , cataclysmic variables , and eclipsing x - ray binaries .",
+    "it is only with a large - area survey , such as the xmm - newton slew survey , that such rare events have a chance of being caught .",
+    "two such high - variability sources we have classified as new classical novae .",
+    "xmmsl1  j070542.7 - 381442 ( read et al .",
+    "2008 ) , also known as v598 pup , was seen in the slew to be @xmath5750 times brighter than the rass upper limit .",
+    "our magellan optical spectrum identified the source as an auroral phase nova , and the x - ray data indicates that the nova was in a super - soft state ( see fig.2 ) , and at a distance of @xmath53kpc .",
+    "analysis of archival optical asas data showed an incredibly bright ( and at the time un - noticed ) source , rising from m@xmath614 to m@xmath7@xmath84.1 over three days , making it one of the very brightest novae this decade . a second source ,",
+    "xmmsl1  j060636.2 - 694933 ( read et al .",
+    "2009 ) , was seen in the slew to be @xmath9500 times brighter than in the rass , and xmm - newton , swift , magellan and asas data were able to classify it as again an auroral phase , very fast nova in the super - soft state ( fig.2 ) , though at a much further distance and likely situated in the lmc . with discoveries such as these ,",
+    "it is clear that xmm - newton slew data are continuing to offer a powerful opportunity to find new x - ray transient objects ."
+  ],
+  "abstract_text": [
+    "<S> the data collected by xmm - newton as it slews between pointings currently cover almost half the entire sky , and many familiar features and new sources are visible . </S>",
+    "<S> the soft - band sensitivity limit of the slew is close to that of the rass , and a large - area slew - rass comparison now provides the best opportunity for discovering extremely rare high - variability objects .     </S>",
+    "<S> address = university of leicester , leicester , le1 7rh , uk     address = xmm soc , esac , villanuevade la canada , madrid , spain     address = university of leicester , leicester , le1 7rh , uk     address = university of leicester , leicester , le1 7rh , uk </S>"
+  ]
+}

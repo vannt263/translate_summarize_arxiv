@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "we define two samples from the swift dataset @xcite : the sample of grbs without measured redshift @xmath0 ( 189 grbs , 182 with measured duration @xmath1 ) , and the sample with measured @xmath0 ( 97 grbs , 94 with measured @xmath1 ) .",
+    "we know the name of grb , its bat duration @xmath1 , bat fluence at range 15 - 150  kev , bat peak flux at range 15 - 150  kev , and redshift .",
+    "total number of the grb studied is 286 .",
+    "the sample covers the period november 2004 - december 2007 ; the first event is grb041227 , the last one is grb071227 .",
+    "the first sample without measured redshift contains 186 grbs with the mean value of the peak flux 2.7  ph@xmath2(@xmath3s ) and the dispersion 4.9  ph@xmath2(@xmath3s ) .",
+    "the second sample with measured redshift contains 95 grbs , with the mean value of the peak flux 3.9  ph@xmath2(@xmath3s ) and the dispersion 6.3  ph@xmath2(@xmath3s ) .",
+    "the f - test for the dispersions tells @xmath4 = 1.66 ( it belongs to the critical interval = @xmath5 ) , and thus the dispersions are not the same on the @xmath6 = 5% level of the significance , @xcite .",
+    "the student t - test for the mean values gives t  =  1.605 ( it does not belong to the critical interval = @xmath7 ) , and then the mean values of the peak fluxes are the same on average , @xcite . see fig .",
+    "the first sample without measured redshifts contains 188 grbs , with the mean fluence @xmath8  erg@xmath2@xmath3 with the dispersion @xmath9  erg@xmath2@xmath3 .",
+    "the second sample with measured redshifts contains 96 grbs , with the mean peak flux @xmath10  erg@xmath2@xmath3 with the dispersion @xmath11  erg@xmath2@xmath3",
+    ".    the f - test for the dispersions tells @xmath4 = 1.82 ( it belongs to the critical interval = @xmath5 ) , hence the dispersions are not the same on average on the @xmath6 = 5% level of the significance , @xcite .",
+    "the student t - test for the mean values tells @xmath12 = -0.453 ( it does not belong to the critical interval = @xmath13 ) and then the mean fluences are the same on average @xcite . see fig .",
+    "having dozens of grbs with measured redshifts we can compare the two swift samples with the standard f - test and student t - test @xcite , for the sample without ( 182 grbs ) measured redshifts one obtained : @xmath14 = -0.73 ( @xmath1(1 ) = 0.19s ) , @xmath15 = 0.71 , @xmath16 = 1.54 ( @xmath1(2 ) = 34.67s ) , @xmath17 = 0.56 , the rate `` short grbs : long grbs '' = 9 : 91 ( in % , also absolutely 16 : 166 ) ; for the sample with ( 94 grbs ) measured redshifts one obtained : @xmath14 = -0.46 ( @xmath1(1 ) = 0.35s ) , @xmath15 = 0.51 , @xmath16 = 1.52 ( @xmath1(2 ) = 33.11s ) , @xmath17 = 0.62 , the rate `` short grbs : long grbs '' = 6 : 94 ( in % , also absolutely 6 : 88 ) .",
+    "we have tested the rates of the long grbs in the both samples .",
+    "the t - test tells @xmath12 = -0.871",
+    "( it does not belong to the critical interval = @xmath13 ) , hence the rates of the long grbs ( and the short ones as well ) are the same on average @xcite .",
+    "we have tested the dispersions with the f - test for the short grbs . the @xmath4 = 1.938 ( it does not belong to the critical interval = @xmath18 ) , the dispersions are the same on average .",
+    "then we have tested the mean @xmath1 for the short grbs .",
+    "the t - test tells @xmath12 = -0.975 ( it does not belong to the critical interval = @xmath13 ) , hence the means are the same on average @xcite .",
+    "we have tested the dispersions with the f - test for the long grbs . the @xmath4 = 1.226 ( it does not belong to the critical interval = @xmath19 ) , and thus the dispersions are the same on average . we have tested the mean @xmath1 for the long grbs .",
+    "the t - test tells @xmath12 = 0.253 ( it does not belong to the critical interval = @xmath7 ) , and then the means are the same on average @xcite .",
+    "the swift satellite detected 189 grbs ( about 2/3 of the whole sample ) without measured redshifts and 97 grbs ( about 1/3 of the whole sample ) with measured redshifts .",
+    "we compared these two samples in the mean values of the duration , peak fluxes and fluences , respectively .",
+    "we have used the f - test @xcite for comparison of their dispersions , and the student t - test @xcite for comparison of their mean values .",
+    "we have determined that the mean values of all characteristics of the swift grbs are the same on average at the @xmath6 = 5% level of the significance .",
+    "but this is not the case for the dispersions .",
+    "hence , some differences exist in the two groups in accordance with @xcite , which can have an impact on the redshift distribution of grbs @xcite . in our opinion",
+    "the difference in the dispersions can be an instrumental effect , hence no essential difference is found between the two samples .",
+    "this study was supported by the gauk grant no .",
+    "46307 , by the grant agency of the czech republic , grants no .",
+    "205/08/h005 , and by the research program msm0021620860 of the ministry of education of the czech republic .",
+    "the author appreciates valuable discussions and help of a. mszros and j. pa ."
+  ],
+  "abstract_text": [
+    "<S> gamma - ray bursts , detected by the swift satellite , are separated into two samples : the bursts with and without determined redshifts . </S>",
+    "<S> these two samples are compared by the standard student t - test and f - test . </S>",
+    "<S> we have compared the dispersions and the mean values of the durations , peak fluxes and fluences in order to find any differences among these two samples . </S>",
+    "<S> no essential differences were found .    </S>",
+    "<S> address = astronomical institute of the charles university , v holeovikch 2 , prague , czech republic </S>"
+  ]
+}

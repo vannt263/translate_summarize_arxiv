@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the most obscured agn known are those in which the neutral hydrogen column density ( @xmath6 ) in the line of sight is higher than the inverse thomson cross section , @xmath6@xmath151.5@xmath710@xmath8  @xmath9 .",
+    "these are the so - called compton - thick ( ct ) agn .",
+    "contrary to the situation for less obscured sources , not much is known about the number density of ct agn . thanks to the deep _ chandra _ and _ xmm - newton _ surveys it is now clear that the fraction of moderately obscured , compton - thin , agn is on average @xmath53/4 of all agn , and is higher at lower luminosities @xcite and higher redshifts @xcite , but there are no comparable constraints on the number of ct agn .",
+    "one of the best ways to find ct agn is by observing at high energies , namely e@xmath210  kev .",
+    "one clear advantage of these high - energy observations is that photoelectric absorption has minimal effects , so even ct agn can be easily detected .    using the ibis coded - mask telescope , _ integral _ surveyed @xmath580% of the sky down to a flux of 5 mcrab in the 17 - 60  kev band .",
+    "the catalog of @xcite reports the properties of 130 sources detected in these all - sky observations and classified as agn .",
+    "five of the 130 agn are ct agn .",
+    "similarly , @xcite presented a catalog of 103 agn detected in an all - sky survey with the _ swift / bat _ telescope . excluding blazars , bl lac and low galactic latitude observations",
+    ", we obtained a sample of 89 sources , where only one source remains unidentified . in the @xcite catalog",
+    "there are five agn with estimated @xmath6 greater than 10@xmath8  @xmath9 .",
+    "figure  [ logn_s ] shows the cumulative number counts of agn , with ct sources shown separately , as a function of hard x - ray flux . in order to avoid the necessity of specifying a standard spectrum to convert fluxes to different energy bands",
+    ", we show the _ integral _ and _ swift _ sources separately , but note that a good agreement ( within @xmath540% ) in the normalization between the two distributions exist if a standard band conversion is assumed . at these high fluxes the slope of the @xmath16  n-@xmath16  s is euclidean , implying an uniform spatial distribution , as expected given the low redshifts of these sources .",
+    "we also compare with the distribution predicted by the agn population synthesis model with which @xcite fit the xrb , and find in general good agreement in slope and normalization .",
+    "since now the number density of ct agn can be constrained independently , we can attempt to match the observed spectrum and intensity of the x - ray background ( xrb ) . in figure  [ xrb ]",
+    ", we show our new fit , which matches the both the _ integral _ and _ swift / bat _ observations at e@xmath210  kev and the _ chandra _ measurements at lower energies ( which are @xmath530% higher than the _",
+    "heao_-1 a2 observations ) .",
+    "these new data confirmed that the original _ heao_-1 normalization should be increased by @xmath530% and @xmath510% at low and high energies respectively .",
+    "in contrast , the agn population synthesis model of @xcite assumed the original _",
+    "heao_-1 intensity at all energies , which translates into a relatively lower contribution from unobscured sources . in order to produce the necessary hard spectrum",
+    ", @xcite had to assume a relatively high number of obscured sources at high luminosities , i.e. , an unusual , inverted dependence of the obscured fraction of agn as a function of luminosity @xcite .",
+    "because most of the radiation absorbed at x - ray and uv wavelengths is then re - emitted in the mid- and far - ir , recent studies at these energies , mostly taking advantage of _ spitzer _ observations , have been very successful in finding heavily - obscured agn candidates missed by x - ray selection up to high redshifts . in particular",
+    ", @xcite presented a selection method based on the 24  @xmath17 m to r band flux ratio and @xmath3-@xmath4 color ; specifically , @xmath18/@xmath19@xmath21000 and @xmath3-@xmath4@xmath24.5 ( vega ) .",
+    "according to simulations based on stacking of the x - ray signal , they estimate the fraction of heavily - obscured agn in this sample to be greater than 80% .",
+    "we applied this selection criteria to the mips - selected sources in the ecdf - s to select ct agn candidates .",
+    "of the 7201 24@xmath17 m sources detected to a flux limit of @xmath535  @xmath17jy , 211 ( @xmath53% ) satisfy the @xmath18/@xmath1@xmath21000 and @xmath3-@xmath4@xmath24.5 cuts .",
+    "of the 651 x - ray detected sources in the @xcite catalog , 18 are found in this region , @xmath52.8% , a similar fraction as in the general population .    as can be seen in fig .",
+    "[ x_24_corr ] , the x - ray to mid - ir ratio for the ir - red excess sources is about two orders of magnitude smaller than the average value for the x - ray - detected sample and for most sources falls in the range expected for obscuration of @xmath55@xmath710@xmath8 to 10@xmath20  @xmath9 .",
+    "the observed ratio for the ir - red excess sample is significantly larger than for the sources outside our selection region , even at similar rest - frame 12  @xmath17 m luminosities .",
+    "the observed x - ray to mid - ir ratio for ir - red excess sources at @xmath21@xmath510@xmath22  erg  s@xmath23 is roughly 3 - 4 times larger than the values expected from the x - ray versus mid - ir luminosity for star - forming galaxies , thus confirming the agn nature for the vast majority of our sample .",
+    "the space density of ct agn as a function of redshift inferred from these observations is shown in fig .",
+    "[ x_24_corr ] .",
+    "support for the work of et and ks was provided by nasa through _ chandra _ postdoctoral fellowship award numbers pf8 - 90055 and pf9 - 00069 respectively issued by the _",
+    "chandra _ x - ray observatory center , which is operated by the smithsonian astrophysical observatory for and on behalf of nasa ."
+  ],
+  "abstract_text": [
+    "<S> we constrain the number density and evolution of compton - thick active galactic nuclei ( agn ) , and their contribution to the extragalactic x - ray background . in the local universe we use the wide area surveys from the _ swift _ and _ integral _ satellites , while for high redshifts we explore candidate selections based on mid - ir parameters . </S>",
+    "<S> we present the properties of a sample of 211 heavily - obscured agn candidates in the extended _ chandra _ deep field - south ( ecdf - s ) selecting objects with @xmath0/@xmath1@xmath21000 and @xmath3-@xmath4@xmath24.5.the x - ray to mid - ir ratios for these sources are significantly larger than that of star - forming galaxies and @xmath52 orders of magnitude smaller than for the general agn population , suggesting column densities of @xmath6@xmath25@xmath710@xmath8  @xmath9 . </S>",
+    "<S> the space density of ct agn at @xmath10@xmath52 derived from these observations is @xmath510@xmath11mpc@xmath12 , finding a strong evolution in the number of @xmath13@xmath210@xmath14  erg / s sources from @xmath10=1.5 to 2.5 .     </S>",
+    "<S> address = institute for astronomy , university of hawaii     address = yale university     address = yale university     address = yale university     address = yale university     address = rutgers university </S>"
+  ]
+}

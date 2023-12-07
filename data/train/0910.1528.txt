@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "maslov observed that the state complexity of the intersection of two regular languages that have state complexities @xmath1 and @xmath2 has an upper bound of @xmath3 @xcite .",
+    "one can easily verify this result using the usual cross - product construction .",
+    "this means that the shortest word in such an intersection can not be longer than @xmath0 .",
+    "it is natural to wonder if this bound is the best possible , over a fixed alphabet size , for every choice of @xmath1 and @xmath2 .",
+    "here we show that there is a matching lower bound .",
+    "first we define some notation .",
+    "a deterministic finite automaton ( dfa ) is a quintuple @xmath4 where @xmath5 is the finite set of states , @xmath6 is the finite input alphabet , @xmath7 is the transition function , @xmath8 is the initial state , and @xmath9 is the set of accepting states . for a dfa @xmath10 , @xmath11 denotes the language accepted by @xmath10 . for any @xmath12 , @xmath13 denotes the length of @xmath14 , and @xmath15 for some @xmath16 denotes the number of occurrences of @xmath17 in @xmath14 .",
+    "we also define two maps from nonempty languages to @xmath18 as follows . for a nonempty language @xmath19 ,",
+    "let @xmath20 denote the length of the shortest word in @xmath19 .",
+    "if @xmath19 is regular , then we let @xmath21 denote the state complexity of @xmath19 ( the minimal number of states in any dfa accepting @xmath19 ) .",
+    "we previously stated that the upper bound on the state complexity of the intersection of two regular languages implies an upper bound the length of the shortest word in the intersection .",
+    "more precisely , we have @xmath22 , which follows directly from the pumping lemma for regular languages .",
+    "so all that is left is to show that the upper bound of @xmath0 can actually be attained for all @xmath1 and @xmath2 .",
+    "there is an obvious construction over a unary alphabet that works when @xmath23 : namely , set    * @xmath24 , and * @xmath25 .",
+    "however , this construction fails when @xmath26 , so we provide a more general construction over a binary alphabet that works for all @xmath1 and @xmath2 .",
+    "[ prop : basic ] for all integers @xmath27 there exist dfas @xmath28 with @xmath1 and @xmath2 states , respectively , such that @xmath29 , and @xmath30 .",
+    "the proof is constructive . without loss of generality ,",
+    "assume @xmath31 , and set @xmath32 .",
+    "let @xmath33 be the dfa given by @xmath34 , where @xmath35 , @xmath36 , and for each @xmath17 , @xmath37 , and @xmath38 we set @xmath39 then @xmath40          after some number of cycles through @xmath48 , we eventually arrive at @xmath49 . letting @xmath52",
+    "denote the number of times a path of type ( b ) is chosen ( including the last path that arrives at @xmath49 ) and @xmath53 denote the number of times a path of type ( a ) is chosen , we see that the number of @xmath47 s in any accepted word must be of the form @xmath54 , with @xmath55 , @xmath56 . the number of @xmath57 s along such a path is then at least @xmath58 , with the @xmath59 in this expression arising from the fact that the last part of the path terminates at @xmath49 without taking an additional @xmath57 transition back to @xmath48 .",
+    "thus @xmath60 , there exists an @xmath61 such that @xmath62 , and @xmath63 .",
+    "this is obtained , for example , by cycling @xmath53 times from @xmath48 to @xmath64 and then back to @xmath48 via a transition on @xmath47 , then @xmath65 times from @xmath48 to @xmath49 and then back to @xmath48 via a transition on @xmath57 , and finally one more time from @xmath48 to @xmath49 .",
+    "it follows then that @xmath66 further , for every such @xmath52 and @xmath53 , there exists a corresponding element in @xmath67 .",
+    "since @xmath50 and @xmath1 are relatively prime , the shortest such word corresponds to @xmath68 , @xmath69 , and satisfies @xmath70 . in particular ,",
+    "a shortest accepted word is @xmath71 , which is of length @xmath0 .",
+    "it is natural to try to extend the construction to an arbitrary number of dfas .",
+    "however , we have found empirically that , over a two - letter alphabet , the corresponding bound @xmath72 for three dfa s does not always hold .",
+    "for example , there are no dfa s of @xmath73 and @xmath74 states for which the shortest word in the intersection is of length @xmath75 ."
+  ],
+  "abstract_text": [
+    "<S> in this note , we give a construction that provides a tight lower bound of @xmath0 for the length of the shortest word in the intersection of two regular languages with state complexities @xmath1 and @xmath2 . </S>"
+  ]
+}

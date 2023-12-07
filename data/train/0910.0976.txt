@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "variations in the long - term spectral solar irradiance , i.e. the changes in the sun s brightness at a certain wavelength , are significant for their effects on earth s atmospheric temperature and composition .",
+    "magnetic fields concentrated in small structures influence these long - term changes , with increasing relevance towards the solar limb . here",
+    ", we compare observed and simulated intensity contrasts and investigate their behaviour from disk centre to the limb in 3d mhd simulations with different average vertical magnetic fields .",
+    "in this work , we use 3d mhd simulations that have been run with non - grey radiative transfer using the muram code ( vgler et al . 2005 ) , which enables realistic simulations of solar magneto - convection in the photosphere and the upper layers of the convection zone .",
+    "the simulations considered here had an average vertical field of 0 g , 50 g , 200 g .",
+    "the simulations run on a 288 @xmath0 288 surface grid with 100 depth points , corresponding to a solar surface area of 6 @xmath0 6 mm and a depth of 1.4 mm .",
+    "the intensities are calculated using the spectral synthesis code atlas9 ( kurucz 1993 ) on the simulated model atmospheres .",
+    "we determine the root - mean - square ( rms ) contrast ( standard deviation divided by the mean value ) to characterise intensity variations between dark and bright features .",
+    "the data used in this work were recorded with the broad - band filter imager mounted on the solar optical telescope ( sot , tsuneta et al .",
+    "2008 , ichimoto et al .",
+    "2008 , suematsu etal .",
+    "2008 , shimizu et al .",
+    "2008 ) onboard hinode on 8th nov .",
+    "2006 ( during the mercury transit ) , and were also used to obtain the point - spread - function ( psf ) ( see mathew et al .",
+    "the pixel resolution is  0.05 arsec .",
+    "the dark correction and flat fielding were done with ssw - idl routines .",
+    "we have calculated intensity ( rms ) contrasts for the hinode images at different wavelengths ( 388 nm ( cn ) , 430.5 nm ( g - band ) , 450 nm ( blue continuum ) , 555 nm , 668 nm ) and compared them with contrasts for the muram / atlas images ( which were convolved with the corresponding psf ) .",
+    "figure 1 shows the comparison of simulated ( original and convolved ) and observed images and their contrast histograms for the blue continuum , where we obtain an rms contrast of @xmath1% for the convolved muram simulation as well as for the hinode observations , while the rms contrast for the original simulation is @xmath2% .",
+    "similar results are obtained for the other wavelengths .",
+    "( 250,250 ) ( -80,0 )    ( 0,0 )    ( 65,0 )    ( 0,0 )    ( 180,0 )    ( 0,0 )    ( -90,-130 )    ( 0,0 )    ( 122,-130 )    ( 0,0 )",
+    "a spatial element of the solar atmosphere radiates differently if it is located at disk centre or nearer to the solar limb , and this spatial evolution of the irradiance behaves differently for different wavelengths . in the uv magnetic features",
+    "are comparatively brighter .",
+    "these changes become even stronger near the limb and are therefore crucial for spectral solar irradiance variations . in figure 2 , we study the simulated contrasts ( i.e. the mean intensity difference between the magnetic and quiet sun simulation compared to the quiet sun ) as a function of heliocentric position in five different wavelengths ( corresponding to the hinode / sot filters ) . we find that the contrast increases towards the limb and is higher for shorter wavelengths . for the simulation with the higher average vertical field of 200 g , the contrasts are significantly larger . the flattening and turnover",
+    "( e.g. for 388 nm and 430 nm ) agree better with measurements of facular contrasts than 1d calculations ( e.g. unruh et al 1999 , ortiz et al . 2002 ) .",
+    "( 150,150 ) ( -150,-150 )    ( 0,0 )    ( 50,-150 )    ( 0,0 )",
+    "this analysis will allow us to determine the network and facular contrast as a function of magnetic flux , limb angle , and wavelength",
+    ". we will then be able to remove the single free parameter in the satire model ( e.g. krivova et al . 2003 ) and help improve irradiance reconstructions ."
+  ],
+  "abstract_text": [
+    "<S> long - term trends in the solar spectral irradiance are important to determine the impact on earth s climate . </S>",
+    "<S> these long - term changes are thought to be caused mainly by changes in the surface area covered by small - scale magnetic elements . </S>",
+    "<S> the direct measurement of the contrast to determine the impact of these small - scale magnetic elements is , however , limited to a few wavelengths , and is , even for space instruments , affected by scattered light and instrument defocus . in this work </S>",
+    "<S> we calculate emergent intensities from 3-d simulations of solar magneto - convection and validate the outcome by comparing with observations from hinode / sot . in this manner </S>",
+    "<S> we aim to construct the contrast at wavelengths ranging from the nuv to the fir . </S>"
+  ]
+}

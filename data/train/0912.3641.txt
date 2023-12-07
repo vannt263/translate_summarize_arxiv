@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the aim of this work is to study the dynamics of the gravitational instability , _ i.e. _ , the evolution of scalar density perturbations , in presence of viscous effects .",
+    "viscosity can be divided in two different kinds : _ bulk viscosity _ ( bv ) @xmath0 and _ shear viscosity _ @xmath4 . in this paper , we will concentrate on the analysis of isotropic ( or almost quasi - isotropic ) cosmological models . in this respect , we can safely neglect shear viscosity since there is no displacement of matter layers wrt each other ( in the zeroth - order motion ) and this kind of viscosity represents the energy dissipation due to this feature . indeed , in presence of small inhomogeneities , such effects should be taken into account but we focus on the study of scalar density perturbations and volume changes of a given mass scale are essentially involved .",
+    "we expect that the non - equilibrium dynamics of matter compression and rarefaction is more relevant than frictions , thus , we concentrate on bv only since it outcomes from the difficulty for a thermodynamical system to follow the equilibrium configuration .    in this paper ,",
+    "we assume bv as function of the state parameters of the fluid following the line of the fundamental analysis due to the _ landau school _ @xcite .",
+    "in particular , we implement the so - called _ hydrodynamical description _ of the fluid , _ i.e. _ , an arbitrary state is consistently characterized by the particle - flow vector and the energy momentum tensor alone and viscosity is fixed by the macroscopic fluid parameters . in the homogeneous models",
+    "@xmath0 depends only on time and we assume it as a power - law of the density of the fluid @xmath1 , _ i.e. _ , @xmath5 with @xmath3 , @xmath6",
+    "the study of the density - perturbation dynamics during the matter - dominated era can be consistently described using the newtonian picture , as soon as sub - horizon - sized scales are treated .",
+    "the fundamental result is the _ jeans mass _ @xcite ( @xmath7 ) , which is the threshold value for the fluctuation masses to condense , generating a real structure .",
+    "if masses greater than @xmath7 are addressed , the density contrast ( @xmath8 ) diverges ( in time ) giving rise to the gravitational collapse .    in the following",
+    ", we brief discuss how bv affects such a scheme .",
+    "the starting point is the eulerian set of motion equations on which a perturbative theory is developed ( the background is assumed static and uniform ) .",
+    "if we introduce bv effects in the first - order analysis , the density - contrast growth results to be dumped by viscosity , suppressing the structure formation _ without changing the threshold value of @xmath7_. in particular , the grater @xmath3 is , the slower @xmath8 diverges in time and , furthermore , viscosity generates a decreasing exponential regime and a damped oscillatory one in place of the standard pure oscillatory behavior @xcite .    in this respect",
+    ", we now analyze the _ top - down mechanism _ of sub - structure formation , _",
+    "i.e. _ , the comparison of one collapsing agglomerate with @xmath9 and an internal non - collapsing sub - structure with @xmath10 . the sub - structure mass must be compared with a decreasing @xmath7 since the latter is inversely proportional to the collapsing agglomerate background mass .",
+    "as soon as such value reaches the sub - structure mass , this begins to condense . in the standard jeans model , such mechanism",
+    "is always allowed since the amplitude for perturbations characterized by @xmath10 remains constant in time but , the presence of decreasing @xmath8 in the viscous model , requires a discussion on the effective damping and on the efficacy of the top - down scheme . as shown in figure 1 , in correspondence of a very small viscosity coefficient ( case a ) , we can show how the sub - structure survives in the oscillatory regime during the background collapse and the fragmentation occurs . on the other hand , if bv is strong enough ( case b ) , the damping becomes very strong and the sub - structure vanishes during the agglomerate evolution .",
+    "thus , the top - down mechanism results to be deeply unfavored .     a     b    moreover ,",
+    "if the static and uniform background solution is corrected for the expansion of the universe @xcite , a jeans - like relation and a considerable damping of the density contrast growth can be found .",
+    "in 1963 @xcite , e.m . lifshitz and i.m . khalatnikov firstly proposed the quasi - isotropic solution ( qis ) based on the idea that , as a function of time , the _ 3_-metric @xmath11 ( where @xmath12 , @xmath13=1 , 2 , 3 ) is expandable in powers of @xmath14 , _",
+    "i.e. _ , a taylor expansion is addressed : @xmath15 where @xmath16 ( space contraction ) and @xmath17 ( consistence of the perturbation scheme ) .",
+    "we now focus on the relevance of dealing with bv properties of the cosmological fluid approaching the big - bang singularity @xcite .",
+    "as far as we characterize the bv coefficient like @xmath18 , it is easy to realize that the choice @xmath19 prevents dominating viscous effects . on the other hand ,",
+    "simple considerations indicate that the case @xmath20 leads to negligible contributions of bv in the asymptotic regime towards the big - bang . as a consequence , in studying the singularity physics ,",
+    "the most appropriate form of the power - law is @xmath21 and our aim is to determine the conditions on the parameter @xmath3 ( _ i.e. _ , on the viscosity intensity ) which allows for the existence of a qis for the radiation dominated universe .    to this purpose , we separate zeroth- and first - order terms into the 3-metric tensor and the whole analysis of einstein equations follows this scheme of approximation . in the search for a self - consistent solution , we make use of the hydrodynamical equations in view of fixing the form of the energy density . of course , in our solution the power - law for the leading _",
+    "3_-metric term is sensitive to @xmath3 . as a result , by guaranteeing the consistence of the model , we find that the qis exists if and only if @xmath3 remains smaller than a certain critical value , _",
+    "i.e. _ , @xmath22 ( here @xmath23 ) .",
+    "in fact , for values of the viscous parameter greater than @xmath3 , the perturbative expansion towards the singularity can not be addressed , since fluctuations would grow more rapidly than zeroth - order terms .",
+    "it is worth noting that the study of the perturbation dynamics in a pure isotropic picture yields a very similar asymptotic behavior when viscous effects are taken into account @xcite .",
+    "the friedmann scheme is preserved only if we deal with limited values of the viscosity parameter , obtaining the condition @xmath24 .",
+    "this smaller constraint is physically motivated if we consider , _ as it is _ , the friedmann model a particular case of the qis .",
+    "finally , analyzing @xmath8 , we confirm and generalize the result obtained in @xcite about the damping of density perturbations by the viscous correction ."
+  ],
+  "abstract_text": [
+    "<S> * abstract : * this paper focuses on the analysis of the gravitational instability in presence of bulk viscosity both in newtonian regime and in the fully - relativistic approach . the standard jeans mechanism and the quasi - isotropic solution are treated expressing the bulk - viscosity coefficient @xmath0 as a power - law of the fluid energy density @xmath1 , _ </S>",
+    "<S> i.e. _ , @xmath2 . in the newtonian regime , </S>",
+    "<S> the perturbation evolution is founded to be damped by viscosity and the top - down mechanism of structure fragmentation is suppressed . </S>",
+    "<S> the value of the jeans mass remains unchanged also in presence of viscosity . in the relativistic approach </S>",
+    "<S> , we get a power - law solution existing only in correspondence to a restricted domain of @xmath3 .    ' '' ''    ' '' '' </S>"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "the bnc was designed as a f/1 0.5 m photographic wide field ( 5@xmath0x30@xmath0 ) telescope with a spot size smaller than 20@xmath2 m throughout the fov .    among some others ,",
+    "the bnc has been refurbished following these phases : mechanical modification of the mount into equatorial and motorization of the two axes , optical refiguring of the originally photographic curved fov to enable the use of a 4kx4k 9-@xmath2 m custom - designed fli proline ccd camera ( see fig .  [",
+    "fig : ccd ] ) and to comply the baker s original design spot size diagram , manufacture of a tip - tilt adjustable spider vanes assembly and athermal ccd focus system ( see fig .  [",
+    "fig : spider ] ) , mirror realuminization and outermost 50 cm lens repolishing to increase the throughput of the system , construction of a reinforced glass - fiber enclosure with sliding roof which will host the bnc at oadm ( see fig .",
+    "[ fig : enclosure ] ) , development of an xml - based messaging protocol and java guis software , named instrument - neutral distributed interface ( indi ) , to control every device of the observatory and schedule its operation both in remote and robotic modes  @xcite .    on 23 sep 2008 ,",
+    "the bnc successfully saw first technical light at roa testing site ( see fig .",
+    "[ fig : m31 ] ) . note this image was still taken with unpolished 50 cm lens and non - realuminizated mirror .",
+    "the definitive commissioning at oadm is expected by early spring 2010 .",
+    "the robotic nature of the bnc , its huge fov and its considerable aperture , enables the telescope to succesfully detect transits of exoplanets .",
+    "this expectation is supported by the fact that the automatic patrol telescope ( apt ) , originally a bnc twin of ours and , which after a similar refurfishment ( although with an smaller fov and less sensitive ccd ) , has succesfully compiled the unsw extrasolar planet search 2004 - 2007 catalogue of exoplanets candidates  @xcite .",
+    "this catalogue shows that bnc - based cameras can accomplish millimagnitude photometry at least up to v@xmath114 magnitude .",
+    "christiansen , j.  l. , et al .",
+    "2008 , , 385 , 1749 downey , e.  c.  2009 , clear sky institute , inc . :",
+    "indi control system architecture in http://www.clearskyinstitute.com/company/consulting/consulting.html fors , o. , et al .",
+    "2009 , fabra - roa baker - nunn at observatori astronmic del montsec in http://www.am.ub.es/bnc"
+  ],
+  "abstract_text": [
+    "<S> a number of baker - nunn camera ( bnc ) were manufactured by smithsonian institution during the 60s as optical tracking systems for artificial satellites with optimal optical and mechanical specifications . </S>",
+    "<S> one of them was installed at the real instituto y observatorio de la armada ( roa ) .    </S>",
+    "<S> we have conducted a profound refurbishment project of the telescope to be installed at observatori astronmic del montsec ( oadm )  @xcite . as a result </S>",
+    "<S> , the bnc offers the largest combination of a huge fov ( 4.4@xmath0x4.4@xmath0 ) and aperture ( leading to a limiting magnitude of v@xmath120 ) .    </S>",
+    "<S> these specifications , together with their remote and robotic natures , allows this instrument to face an observational program of exoplanets detection by means of transit technique with high signal - to - noise ratio in the appropiate magnitude range . </S>"
+  ]
+}

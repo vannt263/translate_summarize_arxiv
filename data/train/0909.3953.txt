@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "among the different galaxy environments , compact groups of galaxies ( hereafter cgs ) potentially represent the densest one involving 4 or more galaxies on small scales , denser than the cores of rich clusters of galaxies . in particular , the catalog of 100 cgs ( hereafter , hcgs ) compiled by @xcite has generated a strong interest because of its well defined selection criteria : 1 ) _ membership _ : at least 4 galaxies within 3 magnitudes from the brightest one , 2 ) _ compactness _ : mean surface brightness ( averaged over the smallest circumscribed circle containing the galaxy centers , hereafter scc ) above a threshold ; and 3 ) _ isolation _ : no galaxies within 3 magnitudes from the brightest within the annulus centered on the scc , spanning one to three scc radii .",
+    "the isolation criterion effectively rejects clusters of galaxies and makes the hcgs an environment of its own .",
+    "the fundamental question is : are hcgs as dense in 3d as they appear in projection ( e.g. @xcite ) or are they caused by chance alignments of galaxies along the line - of - sight , within larger groups @xcite or within longer filamentary structures @xcite ? with mean densities over @xmath2 times the critical density of the universe ( virialized structures are typically 100 times the critical density ) , the crossing times are less than 1 gyr , and the hcgs ought to be the ideal environment for galaxy mergers @xcite . in the updated hcg catalog with galaxy redshifts to remove obvious interlopers @xcite , there remained 69 hcgs with at least four galaxies within @xmath3 from the group median .    still , the identification of cgs in redshift space does not imply that these structures are dense in real space .",
+    "we attempt to respond to this question using state - of - the - art galaxy formation codes ( see details in @xcite ) .",
+    "we build mock cgs in redshift space by 1 ) starting with the millennium dark matter simulation @xcite , 2 ) building galaxy catalogs using three different semi - analytical galaxy formation models ( sams ) , by @xcite , @xcite , and @xcite , 3 ) extracting the mock cgs using the hcg criteria ( @xcite , see  1 ) and 4 ) applying the velocity filter ( see  1 ) of @xcite .",
+    "this yields between 3000 and 7000 mock cgs , depending on the sam .",
+    "we use a bright galaxy magnitude limit of @xmath4 , which corresponds to @xmath5 , so our faint galaxy magnitude limit is @xmath6 , equal to that of the primary sdss spectroscopic sample .",
+    "51 hcgs then fully satisfy the hcg selection criteria with at least 4 velocity concordant galaxies ( we rejected 5 non - isolated hcgs noticed by @xcite ) .",
+    "in figure  [ comp1 ] , we show the distribution of observed quantities for both the observed hcgs and the mock cgs .     ,",
+    "height=283 ]    one can see that the observed hcgs are progressively more incomplete at fainter surface magnitudes @xcite , at larger distances , and for groups with dominant galaxies ( see @xcite ) , but also for groups of small angular size . at a distance of @xmath1 , the mean space density of mock",
+    "cgs is 20 times that of observed hcgs , hence the hcg sample at that distance is only 5% complete ( and less so at greater distances ) .",
+    "even with 3-dimensional information , it is not straightforward to decide which mock cgs are physically dense and which might be caused by chance projections . for example , one can not simply separate the mock cgs according to their binding energy , because the mock cgs are defined with galaxies , while the intergalactic matter makes up much of the binding energy . even if one corrects for this",
+    ", we have too few galaxies per group for good measures of binding energy at cg masses below @xmath7 .",
+    "we use two other statistics to separate dense groups from chance alignments : the length of the group in 3d ( maximum galaxy separation , @xmath8 ) and the line - of - sight ( l.o.s . )",
+    "elongation of the group , defined as @xmath9 , where @xmath10 is the length of the group along the l.o.s . , while @xmath11 is the maximum projected separation .",
+    "both statistics are computed on the smallest quartet within the group of 5 or more galaxies ( or the group itself if there are only four members ) .    )",
+    "velocity - filtered ( v.f . ) cgs .",
+    "_ right _ : differential ( _ top _ for dlb ) and cumulative ( _ bottom _ ) distributions of 3d length of v.f .",
+    "the _ dotted _ and _ dashed histograms _ show the round ( @xmath12 ) and elongated ( @xmath13 ) subsamples .",
+    "[ sdis ] , title=\"fig:\",width=226 ] ) velocity - filtered ( v.f . ) cgs .",
+    "_ right _ : differential ( _ top _ for dlb ) and cumulative ( _ bottom _ ) distributions of 3d length of v.f .",
+    "the _ dotted _ and _ dashed histograms _ show the round ( @xmath12 ) and elongated ( @xmath13 ) subsamples . [ sdis ] , title=\"fig:\",width=226 ]    figure  [ sdis ] shows these measures of group size and l.o.s .",
+    "elongation . still , it is not clear where to make cuts in , say , @xmath8 vs @xmath9 .",
+    "we consider conservative criteria for physically dense groups : short ( @xmath14 ) , round ( @xmath12 ) , or combinations of both .",
+    ".fraction of velocity filtered mock cgs that are physically dense [ nattab ] [ cols=\"<,^,^,^ \" , ]     table  [ nattab ] indicates that regardless the criterion and the sam used , most of the mock cgs are physically dense .",
+    "similar fractions are returned using samples of mock cgs built with the same selection biases as the hcgs .",
+    "a similar work has been performed by @xcite , who defined physically dense groups as those that are found with a friends - of - friends linking length of @xmath15 .",
+    "@xcite find that 35% of their mock compact groups ( before velocity filtering ) are physically dense , while we typically find 20% with the @xcite model used by them .",
+    "we acknowledge the millennium simulation , and public galaxy formation outputs by bower et al . , croton et al . and de lucia & blaizot , on top of it .",
+    "thanks the dept . of physics at the univ . of oxford for hospitality while part of this research was performed ."
+  ],
+  "abstract_text": [
+    "<S> the nature of compact groups ( cgs ) of galaxies , apparently so dense that the galaxies often overlap , is still a subject of debate : are cgs roughly as dense in 3d as they appear in projection ? or are they caused by chance alignments of galaxies along the line - of - sight , within larger virialized groups or even longer filamentary structures ? </S>",
+    "<S> the nature of cgs is re - appraised using the @xmath0 outputs of three galaxy formation models , applied to the dissipationless millennium simulation . </S>",
+    "<S> the same selection criteria are applied to mock galaxy catalogs from these models as have been applied by hickson and co - workers in redshift space . </S>",
+    "<S> we find 20 times as many mock cgs as the ` hcgs ' found by hickson within a distance corresponding to @xmath1 . </S>",
+    "<S> this very low ( 5% ) hcg completeness is caused by hickson missing groups that were either faint , near the surface brightness threshold , of small angular size , or with a dominant brightest galaxy . </S>",
+    "<S> we find that most velocity - filtered cgs are physically dense , regardless of the precise threshold used in 3d group size and line - of - sight elongation , and of the galaxy formation model used . </S>",
+    "<S> this result also holds for mock cgs with the same selection biases as was found for the hcgs . </S>"
+  ]
+}

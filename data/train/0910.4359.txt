@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "double periodic variables ( dpvs ) is a group of binary stars with orbital period between 1 and 16  d , characterized by additional long cyclic variability in the range of 50 - 600  d , correlated with the orbital period ( mennickent et al .",
+    "2003 , mennickent & koaczkowski 2009a ) .",
+    "these stars were discovered during the search for be stars in the magellanic clouds based on the ogle variable stars catalogue . a careful survey of the ogle and macho photometry , allowed to detect this kind of variability in about a hundred stars in the magellanic clouds . the first results obtained for one lmc dpv star , ogle05155332 - 6925581 ,",
+    "were recently published ( mennickent et al .",
+    "2008 ) . investigating the asas photometric data we have found eleven galactic dpvs .",
+    "the light curves of four galactic dpvs are shown in fig.1 .",
+    "after the discovery of this new group of variable stars , we have initiated a multiwavelength observing campaign .",
+    "the photometric observations of selected dpvs were carried out with the 0.6-m rem telescope located at la silla observatory . from february 2008",
+    "we have taken above 320 frames in v and i filters and 160 frames in j and k filters for every star . in order to separate the short- and long - term variability",
+    ", we used the fourier decomposition technique .",
+    "the four - colour light curves of one dpv presented in fig.2 . show that the amplitude of long - term variability in v filter is the lowest , while in k filter is the largest .",
+    "this is a common feature of all dpvs .",
+    "the analysis of high - resolution spectroscopy allowed to detect at least three spectral components : ( 1 ) absorption lines typical for b - a type stars , ( 2 ) an optically thin h@xmath0 emitting region , ( 3 ) an optically thick region forming variable and broad helium absorption lines .",
+    "the dpv light curve are being modelled by applying the inverse - problem method and the code described in djuraevi et al .",
+    "( 2008 ) . for v393 sco",
+    "we assumed mass ratio 0.41 , temperature of the less massive star , filling its roche lobe , equal to 7900 k and the presence of two active bright regions on the disc edge .",
+    "as result we obtained the temperature of the more massive star equal to 17400 k , and masses equal to 9.9 and 4.1m@xmath1 .",
+    "the analysis of the available data , suggests that dpvs are binaries in a mass exchange evolution stage .",
+    "probably the primary is rotating at the critical velocity and matter cumulates in a circumprimary disc .",
+    "disc size increases until certain instability ejects mass outside the binary system . as a result ,",
+    "in dpvs we observe the long - term variability ( mennickent & koaczkowski 2009abc ) .",
+    "djuraevi , g. , vince , i. , atanackovi , o. , 2008 , aj 136 , 767 mennickent , r.e . , et al . , 2003 , a&a 399 , l47 mennickent , r.e . , koaczkowski , z. , michalska g. , et al.,2008 , mnras 389 , 1605 mennickent , r.e . , koaczkowski , z. , 2009a , astro - ph/0903.4819 mennickent , r.e . , koaczkowski , z. , 2009b , astro - ph/0904.1539 mennickent , r.e . , koaczkowski , z. , 2009c , this conference"
+  ],
+  "abstract_text": [
+    "<S> we present results of the investigation of the nature of double periodic variables ( dpvs ) . </S>",
+    "<S> we have selected a sample of galactic eclipsing dpvs for a multiwavelength photometric study aimed to reveal their nature . </S>",
+    "<S> the short orbital periodicity and the cyclic variability are decoupled and separately investigated . </S>",
+    "<S> shapes of orbital light curves are consistent with semi - detached binaries . </S>",
+    "<S> the amplitude of the long cycle is always larger in redder bandpasses . </S>"
+  ]
+}

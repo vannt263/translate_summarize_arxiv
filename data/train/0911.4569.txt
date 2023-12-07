@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "7  aql ( hd  174532 , sao  142696 , hip  92501 ) is a @xmath0  scuti variable discovered in a systematic search and characterization of new variables in preparation for the corot mission [ 1 ] and was selected as the main target of the stephi xii multisite campaign in 2003 . in this campaign",
+    "8  aql ( hd  174589 , sao  142706 , hip  92524 ) was used as the only comparison star because there are no other bright stars in the field - of - view ( fov ) of the 4-channel photometer used in the stephi network .",
+    "although no check comparison star was implemented in that campaign , by carefully analyzing the derived light curves , differential and non - differential , it was demonstrated that 8 aql is a new @xmath0 scuti variable .",
+    "moreover , it was shown that the amplitude spectrum of both stars are not superposed .",
+    "three and seven frequency peaks were unambiguously detected with a 99 % confidence level in 8 aql and 7 aql respectively and a possible identification of the observed modes in terms of radial order was performed [ 2 ] .",
+    "ccd photometric observations of 7 aql and 8 aql were reported in [ 3 ] .    in the present paper , preliminary result of new photoelectric photometric observations of 7 aql and 8 aql are reported .",
+    "the observations were carried out on the nights of june 21 , 22 , 23 , 28 , 30 and july 07 and 08 at the observatorio astrnomico nacional - san pedro mrtir ( oan - spm ) , baja california , mexico . the 1.5-m telescope with the six - channel strmgren spectrophotometer was implemented .",
+    "the observing routine consisted of five 10 s of integration of the star from which five 10 s of integration of the sky was subtracted .",
+    "two comparison constant stars were observed as well .",
+    "the stars were observed for about 51 hr during the whole campaign ( see table 1 ) .       this work has received financial support from the unam under grants papiit in108106 and in114309 .",
+    "special thanks are given to the technical staff and night assistant of the san pedro mrtir observatory .",
+    "this research has made use of the simbad database operated at cds , strasbourg ( france ) .",
+    "e. poretti , et al . , 2003 ,",
+    "a&a , 406 , 203 . l. fox machado , et al .",
+    ", 2007 , aj , 134 , 860 . l. fox machado , et al .",
+    ", 2008 , coast , 153 , 20 .",
+    "b. strmgren , 1966 , ara&a , 4 , 433 .",
+    "t. ponman , 1981 , mnras , 196 , 543 .",
+    "l. fox machado , et al .",
+    ", 2002 , a&a , 382 , 556 . m. breger , et al . , 2002 , a&a , 349 , 225 l. fox machado , et al .",
+    ", 2009 , new astronomy , submitted ."
+  ],
+  "abstract_text": [
+    "<S> the preliminary results of new photometric observations of the @xmath0 scuti stars 7 aql and 8 aql are reported . </S>",
+    "<S> 51 hr of @xmath1 photoelectric photometric data were obtained over the period june and july 2007 at the san pedro mrtir observatory , mexico . </S>",
+    "<S> period analyses confirm the three pulsation modes discovered in 8 aql in the framework of the stephi 2003 multisite campaign . for the star 7 aql we were able to detect only the main pulsation modes . </S>",
+    "<S> the standard magnitudes of both stars are obtained . </S>",
+    "<S> the frequency , amplitude and phases of the frequency modes in different filters are presented .     </S>",
+    "<S> address = observatorio astronmico nacional , instituto de astronoma , universidad nacional autnoma de mxico , a.p . </S>",
+    "<S> 877 , ensenada , bc 22860 , mexico     address = observatorio astronmico nacional , instituto de astronoma , universidad nacional autnoma de mxico , a.p . </S>",
+    "<S> 877 , ensenada , bc 22860 , mexico     address = instituto de astronoma , universidad nacional autnoma de mxico , ap 70 - 264 , mexico , df 04510 , mexico     address = instituto de astronoma , universidad nacional autnoma de mxico , ap 70 - 264 , mexico , df 04510 , mexico </S>"
+  ]
+}

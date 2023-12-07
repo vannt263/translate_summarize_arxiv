@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "in this paper we consider the following optimization problem @xmath8 where @xmath9 is a smooth function , and @xmath10 is convex .",
+    "the function @xmath2 , usually called the _",
+    "regularizer _ or _ regularization function _ , is finite for all @xmath11 , but possibly nonsmooth .",
+    "an important application of ( [ main ] ) , found in the signal processing literature , is the well - known @xmath12 problem ( called _ basis pursuit denoising _ in @xcite ) @xmath13 where @xmath14 ( usually @xmath15 ) , @xmath16 , @xmath17 , and @xmath18 is the @xmath19-norm .",
+    "recently , wright , nowak , and figueiredo @xcite introduced the sparse reconstruction by separable approximation algorithm ( sparsa ) for solving ( [ main ] ) .",
+    "the algorithm has been shown to work well in practice . in @xcite",
+    "the authors establish global convergence of sparsa . in this paper , we prove an estimate of the form @xmath4 for the error in the objective function when @xmath1 is convex .",
+    "if the objective function is strongly convex , then the convergence of the objective function and the iterates is at least r - linear .",
+    "a strategy is presented for improving the performance of sparsa based on a cyclic barzilai - borwein step @xcite and an adaptive choice @xcite for the reference function value in the line search .",
+    "the paper concludes with a series of numerical experiments in the areas of signal processing and image reconstruction .    throughout the paper @xmath20 denotes the gradient of @xmath1 , a row vector .",
+    "the gradient of @xmath21 , arranged as a column vector , is @xmath22 .",
+    "the subscript @xmath3 often represents the iteration number in an algorithm , and @xmath23 stands for @xmath24 .",
+    "@xmath25 denotes @xmath26 , the euclidean norm .",
+    "@xmath27 is the subdifferential at @xmath28 , a set of row vectors . if @xmath29 , then @xmath30 for all @xmath11",
+    "the sparsa algorithm , as presented in @xcite , is as follows :    l sparse reconstruction by separable approximation ( sparsa ) + given @xmath31 , @xmath32 , @xmath33 \\subset ( 0 , \\infty)$ ] , and starting guess @xmath34 .",
+    "+ set @xmath35 .",
+    "+    [ cols= \" > , < \" , ]     [ tab3 ]     phantom reconstruction , title=\"fig:\",width=219 ]   phantom reconstruction , title=\"fig:\",width=219 ]     phantom reconstruction , title=\"fig:\",width=219 ]   phantom reconstruction , title=\"fig:\",width=219 ]",
+    "the convergence properties of the sparsa algorithm ( sparse reconstruction by separable approximation ) of wright , nowak , and figueiredo @xcite are analyzed .",
+    "we establish sublinear convergence when @xmath36 is convex and the gll reference function value @xcite is employed . when @xmath36 is strongly convex , the convergence is r - linear . for a reference function value which satisfies ( r1)(r3 )",
+    ", we prove the existence of a convergent subsequence of iterates that approaches a stationary point . for a slightly stronger version of ( r3 ) ,",
+    "given in ( [ kl ] ) , we show that sublinear or linear convergence again hold when @xmath36 is convex or strongly convex respectively . in a series of numerical experiments",
+    ", it is shown that an adaptive sparsa , based on a relaxed choice of the reference function value and a cyclic bb iteration @xcite , often yields much faster convergence , especially when the error tolerance is small ."
+  ],
+  "abstract_text": [
+    "<S> the convergence rate is analyzed for the spasra algorithm ( sparse reconstruction by separable approximation ) for minimizing a sum @xmath0 where @xmath1 is smooth and @xmath2 is convex , but possibly nonsmooth . </S>",
+    "<S> it is shown that if @xmath1 is convex , then the error in the objective function at iteration @xmath3 , for @xmath3 sufficiently large , is bounded by @xmath4 for suitable choices of @xmath5 and @xmath6 . moreover , </S>",
+    "<S> if the objective function is strongly convex , then the convergence is @xmath7-linear . </S>",
+    "<S> an improved version of the algorithm based on a cycle version of the bb iteration and an adaptive line search is given . </S>",
+    "<S> the performance of the algorithm is investigated using applications in the areas of signal processing and image reconstruction .    90c06 , 90c25 , 65y20 , 94a08    sparsa , ista , sparse recovery , sublinear convergence , linear convergence , image reconstruction , denoising , compressed sensing , nonsmooth optimization , nonmonotone convergence , bb method </S>"
+  ]
+}

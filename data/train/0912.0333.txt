@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "mini - broad absorption line quasars ( mini - bal qsos ) show highly blueshifted ( up to considerable fractions of the speed of light ) ultraviolet absorption lines with fwhm usually ranging between 500 and 2000 km  s@xmath1 , i.e. narrower than those of the classical bal qsos . while these spectral features do provide evidence for the presence of outflows from the nuclear regions of such agns , the physical scenario in which these phenomena fit is still not clear .",
+    "x - ray observations can help contraining the physical mechanism responsible for the launch and acceleration of such outflows .",
+    "xmm-_newton _ observed the mini - bal qso pg  1126 - 041 ( @xmath2 , uv outflow velocity @xmath3  km  s@xmath1 ) for @xmath4  ks on 06/21/2009 .",
+    "this observation provided a very high signal - to - noise ratio spectrum .",
+    "we focus here on reporting the main results of the spectral analysis performed on the hard x - ray spectrum , i.e. in the 4 - 10  kev band .",
+    "fig.[fig ] ( left panel ) shows the epic - pn spectrum modeled with a powerlaw with photon index @xmath5 partially covered ( @xmath6 covering factor ) by a ionized absorber with a ionization parameter @xmath7  erg  cm  s@xmath1 and a column density @xmath8  @xmath9 .",
+    "the addition of two narrow gaussian absorption lines at rest frame energies @xmath10  kev and @xmath11  kev significantly improves the fit ( @xmath12 ) . in fig.[fig ] ( right panel ) we report the 68 , 90 , and 99% confidence level contours for the absorption lines centroid energies and normalizations .",
+    "the dashed lines mark the _ expected _ centroid energy of fexxv  k@xmath13 and fexxvi  k@xmath13 transitions , both blueshifted by @xmath14 .",
+    "the correspondence with the _ detected _ centroid energies is striking .",
+    "the two iron absorption lines can be reproduced by a self - consistent photoionization model using xstar @xcite .",
+    "this requires the addition of another ionized absorber , with a ionization parameter @xmath15  erg  cm  s@xmath1 and an outflow velocity @xmath16 .",
+    "the ionization parameter is tightly constrained given the presence of both fexxv  k@xmath13 and fexxvi  k@xmath13 transitions with similar equivalent widths ( ew@xmath17  ev ) .",
+    "the column density @xmath18  @xmath9 is not well constrained .",
+    "this phase of x - ray absorbing gas is outflowing at @xmath19",
+    ".    left : 4 - 10 kev epic - pn spectrum modeled with a powerlaw partially covered by an ionized absorber ; the data residuals in unit of @xmath20 are reported in the bottom panel .",
+    "right : 68 , 90 and 99% confidence level contours for the normalization and centroid energy of the two gaussian absorption lines included in the best fit model.,title=\"fig : \" ] left : 4 - 10 kev epic - pn spectrum modeled with a powerlaw partially covered by an ionized absorber ; the data residuals in unit of @xmath20 are reported in the bottom panel .",
+    "right : 68 , 90 and 99% confidence level contours for the normalization and centroid energy of the two gaussian absorption lines included in the best fit model.,title=\"fig : \" ]",
+    "the two detected phases of x - ray absorbing gas are qualitatively consistent with radiation - driven accretion disk wind models predictions @xcite , where one expects a high column density of x - ray absorbing gas shielding the uv - accelerated wind , and a x - ray component of the wind , much faster than the uv one .",
+    "an interesting future developement would be the simulation of realistic x - ray spectra expected from accretion disk wind models to check whether they can self - consistently and quantitatively reproduce the observed spectra ."
+  ],
+  "abstract_text": [
+    "<S> a long xmm-_newton _ observation of the mini - bal qso pg  1126 - 041 allowed us to detect a highly ionized phase of x - ray absorbing gas outflowing at @xmath0  km  s@xmath1 . </S>",
+    "<S> physical implications are briefly discussed .     </S>",
+    "<S> address = department of astronomy & astrophysics , penn state university , university park , pa 16802 , usa , altaddress = dipartimento di astronomia , universit di bologna , via ranzani 1 , i-40127 bologna , italy     address = inaf / istituto di astrofisica spaziale e fisica cosmica , via gobetti 101 , i-40138 bologna , italy     address = department of physics and astronomy , college of charleston , charleston , sc 29424 , usa , altaddress = department of astronomy & astrophysics , penn state university , university park , pa 16802 , usa     address = department of astronomy & astrophysics , penn state university , university park , pa 16802 , usa     address = dipartimento di astronomia , universit di bologna , via ranzani 1 , i-40127 bologna , italy     address = dipartimento di astronomia , universit di bologna , via ranzani 1 , i-40127 bologna , italy </S>"
+  ]
+}

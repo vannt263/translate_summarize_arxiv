@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "blue - sequence e / s0s represent a unique population of galaxies  morphologically classified as early types , but occupying the same blue locus as spirals in color vs. stellar mass space .",
+    "while high - mass blue - sequence e / s0s often appear to be young merger / interaction remnants likely to fade to the red sequence , blue - sequence e / s0s with lower stellar masses appear to be much less disturbed .",
+    "these galaxies typically occupy low - density field environments where fresh gas infall is possible , and may provide an evolutionary link between traditional early - type galaxies and spirals through disk regrowth @xcite .",
+    "we examine the disk growth potential of blue - sequence e / s0s by measuring cold gas reservoirs  the raw material for star formation .",
+    "our sample includes all 14 blue - sequence e / s0s with stellar masses @xmath4 ( chosen with respect to where blue - sequence e / s0s tail off , figure [ fig.samplemass]a ) from the nearby field galaxy survey ( nfgs , * ? ? ?",
+    "we also include 11 red - sequence and two mid - sequence nfgs e / s0s with comparable stellar masses for comparison .",
+    "because the nfgs was designed to be a statistically representative sample of the local universe , spanning the natural variety of galaxy morphologies , masses , and environments , these 27 galaxies should correspond to a broad range of evolutionary stages .",
+    "we have complete hi data for our sample of e / s0s with @xmath5 .",
+    "all of our blue - sequence e / s0s and both mid - sequence e / s0s are detected in hi and have atomic gas masses ranging from @xmath6 to almost @xmath7 .",
+    "in contrast , four of our 11 red - sequence e / s0s are not detected .",
+    "normalized to stellar mass , the atomic gas masses for 12 of the 14 blue - sequence e / s0s range from 0.1 to @xmath21.0 ( figure [ fig.samplemass]b ) , demonstrating that morphological transformation is likely if the detected gas can be converted into stars .",
+    "these gas - to - stellar mass ratios are comparable to those of spiral and irregular galaxies and have a similar dependence on stellar mass .",
+    "high - resolution mapping of the molecular gas distribution in blue - sequence e / s0s is underway with the combined array for research in millimeter - wave astronomy ( carma ) .",
+    "the molecular gas mass derived from the co(1 - 0 ) maps boosts some of the galaxies further into the region occupied by spirals .",
+    "these maps also reveal disk - like rotation of molecular gas in the inner regions of some of our blue - sequence e / s0s ( figure [ fig.carma ] ) , which suggests that they may have gas disks suitable for stellar disk growth .",
+    "hi profiles and resolved ionized - gas rotation curves also confirm the presence of disks in many of our blue - sequence e / s0s @xcite .",
+    "the timescale that can be directly estimated from the atomic gas mass and star formation rate of a galaxy is the gas exhaustion time  the amount of time it would take to convert all the gas into stars , assuming the current star formation rate remains constant .",
+    "we find that blue - sequence e / s0s will typically exhaust their gas reservoirs in @xmath33 gyr without fresh gas infall @xcite .",
+    "figure [ fig.starformation]a shows that over half ( 9 of 14 ) of our blue - sequence e / s0s can increase their stellar masses by @xmath8@xmath9 over 3 gyr in either of two limiting scenarios  constant star formation rate with ongoing infall , or exponentially declining star formation without infall .",
+    "this growth is comparable to the amount of fractional stellar mass growth by spiral and irregular galaxies in the same time ( grey vertical lines ) and suggests that most of our blue - sequence e / s0s are capable of significant morphological transformation .",
+    "while high - mass blue - sequence e / s0s often show signs of major mergers or interactions , blue - sequence e / s0s with @xmath10 below @xmath11 appear more settled , with a minority experiencing major disturbances .",
+    "nonetheless , the similarity of their compact morphologies and relatively hot stellar dynamics to red - sequence e / s0s suggests that many of these galaxies are products of major mergers in the past @xcite .",
+    "the long gas exhaustion timescales for blue - sequence e / s0s allow time for minor mergers / interactions with small companions to trigger episodic inflows of gas , resulting in bursts of star formation .",
+    "in addition to having bluer inner and outer disk colors than red - sequence e / s0s , half of the blue - sequence e / s0s have centers that are bluer than their outer disks .",
+    "figure [ fig.starformation]b shows that all but one of our blue - sequence e / s0s and both mid - sequence e / s0s are on the more blue - centered end of the distribution for spiral / irregular galaxies . for galaxies of all morphologies , blue - centeredness reflects central star formation enhancements and correlates strongly with morphological peculiarities and the presence of nearby companions @xcite .",
+    "most of the more blue - centered blue - sequence e / s0s also have enhanced total specific star formation rates @xcite .",
+    "these results are broadly consistent with a picture of episodic outer - disk and inner - disk ( pseudobulge ) growth , allowing e / s0s to evolve toward typical spiral galaxy morphology @xcite .",
+    "jansen , r. a. , franx , m. , fabricant , d. , & caldwell , n. 2000 , apjs , 126 , 271 kannappan , s. j. , jansen , r. a. , & barton , e. j. 2004 , aj , 127 , 1371 kannappan , s. j. , guie , j. m. , & baker , a. j. 2009 , aj , 138 , 579 wei , l. h. , kannappan , s. j. , vogel , s. n. , & baker , a. j. 2009 , submitted"
+  ],
+  "abstract_text": [
+    "<S> we examine the hi+@xmath0 content of blue - sequence e / s0s  a recently identified population of galaxies that are morphologically early type , but reside alongside spiral galaxies in color vs. stellar mass space . </S>",
+    "<S> we test the idea that the majority of low - to - intermediate mass blue - sequence e / s0s may be settled products of past mergers evolving toward later - type morphology via disk regrowth . </S>",
+    "<S> we find that blue - sequence e / s0s with stellar masses @xmath1 have atomic gas - to - stellar mass ratios of 0.1 to @xmath21.0 , comparable to those of spiral galaxies . </S>",
+    "<S> preliminary co(1 - 0 ) maps reveal disk - like rotation of molecular gas in the inner regions of several of our blue - sequence e / s0s , which suggests that they may have gas disks suitable for stellar disk regrowth . at the current rate of star formation </S>",
+    "<S> , many of our blue - sequence e / s0s will exhaust their atomic gas reservoirs in @xmath33 gyr . over the same time period , </S>",
+    "<S> most of these galaxies are capable of substantial growth in the stellar component . </S>",
+    "<S> star formation in blue - sequence e / s0s appears to be bursty , and likely involves inflow triggered by minor mergers and/or interactions . </S>"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the standard model of particle physics have been a successful theory to describe the observed experimental data till date .",
+    "however there are theoretical issues such as matter - antimatter asymmetry and experimental issues such as finiteness of electric dipole moment ( edm ) and anomalous magnetic moment which hints for beyond standard model physics in the form of cp violation .",
+    "though small in nature , as hinted by the present experimental bounds , it can be probed by proper choice of momentum dependent cp violating observables .",
+    "because of small nature of cp violating effects , it it worthwhile to consider processes which could be helpful in measuring these effects directly .",
+    "one such possibility to test such direct effects is the study of processes involving tops .",
+    "this is because of ( a ) top - pair events are highly abundant at the lhc with a rate of @xmath3 pairs per year , and also , ( b ) top are short lived with a life - time smaller by one order of the qcd scale and hence they decay much before hadronization .",
+    "in a model independent approach without having any additional non - standard particle contents , the @xmath1 violation is parametrized by anomalous top - quark couplings affecting both the production and decay vertices @xcite .",
+    "the @xmath4 production process is modified relative to the sm by the interaction    @xmath5    where @xmath6 is the strong coupling constant and @xmath7 is the usual gluon field strength tensor . for the decay process @xmath8",
+    ", the most general decay vertex takes the following form  @xcite    @xmath9   u(p_t ) .",
+    "\\label{ftilde } \\end{array}\\ ] ]    we use @xmath10 , @xmath11 , @xmath12 and @xmath13 as in the sm , and @xmath14 , with @xmath15 and @xmath16 as @xmath1 violating and cp conserving phases respectively . in a similar way @xmath17 decay vertex can also be written .    at the lhc ,",
+    "most of the top pair production events are due to gluon - fusion , which amounts to @xmath18 of the total top - pairs .",
+    "therefore throughout this talk , we consider only on the subprocess involving gluons as initial state . also since we found that final dimuonic mode is the cleanest at the lhc , we restricted our studies to the process : @xmath2 .",
+    "for the aforementioned process , the relevant correlation which does not require intermediate state reconstructions , as obtained in ref  @xcite are    @xmath19    the integrated asymmetries @xmath20 , corresponding to observables @xmath21 integrated counting asymmetries , @xmath20 , can be defined as    @xmath22    it is interesting to note that , from the experimental perspective , @xmath23 is most desirable as it does not require distinction between b and anti - b jets .",
+    "when cp - violation occurs due to top decays , the spin and color averaged matrix element squared containing the @xmath0-odd correlations can be written as  @xcite    @xmath24    in this expression , first term contains information due to one decay vertex while the other term due to other .",
+    "clearly , we can not compare top and anti - top decays with the use of observables mentioned earlier in this talk .",
+    "this means we need to define additional observables which could measure asymmetries corresponding to cp violating phases as well as cp conserving phases .",
+    "observables corresponding to cp violating phases are  @xcite    @xmath25    in the later part of this talk i will mention that we need to define a couple of more observables which carry information on strong cp violating phases .",
+    "we studied cp violating asymmetries using madgraph  @xcite .",
+    "our strategy was as follows : we first generated sm matrix - element squared for the aforementioned process and then add the contributions due to cp violating part as mentioned in ref .",
+    "/citegerman .",
+    "we noted that the major background for the process under consideration is due to @xmath26 , with minimal acceptance cuts the cross - sections at the lhc are 4.3 pb and 24 pb which after implementing the basic cuts mentioned in the ref .",
+    "/citeours and a missing energy cut @xmath27 reduce to 2.3 pb and 0 respectively .    in order to estimate asymmetries , we generated @xmath28 events for each of the four cases : @xmath29 ; @xmath30 ; @xmath31 and @xmath32 , which correspond to @xmath1 violation in the production vertex , @xmath1 violation in the decay vertex , strong phases in the decay vertex and the lowest order sm respectively .",
+    "the largest asymmetry for a @xmath33 coupling is @xmath34 but this is helpful only if we could distinguish clearly between b and anti - b jets . in figure",
+    "[ f : fig1 ] we show the differential distributions @xmath35 and @xmath36 for @xmath37 as well as @xmath38 for @xmath39 .",
+    "we found that with one year of lhc run ( which corresponds to integrated lumionosity = @xmath41 ) , 5@xmath42 sensitivity requires @xmath43 . using this ,",
+    "we obtain @xmath44 strong interaction phases ~~~~~~~~~~~~~~~~~~~~~~~~~    in order to isolate true @xmath1 violation from the @xmath0 -odd triple products , we construct two cp - even observables which is based on the most sensitive observable to phases in decay vertex .",
+    "these are      proceeding as in the previous section we found that the larger of these two asymmetries we can write @xmath46 from which we conclude that the lhc with @xmath47 will have a @xmath48 sensitivity to @xmath49 summary and conclusion ----------------------                j.  f.  donoghue and g.  valencia , phys .",
+    "lett .   * 58 * , 451 ( 1987 ) [ erratum - ibid .   *",
+    "60 * , 243 ( 1988 ) ] .",
+    "o.  antipin and g.  valencia , phys .",
+    "d * 79 * , 013013 ( 2009 ) [ arxiv:0807.1295 [ hep - ph ] ] and references therein",
+    ". s.  k.  gupta , a.  s.  mete and g.  valencia , phys .",
+    "d * 80 * , 034013 ( 2009 ) [ arxiv:0905.1074 [ hep - ph ] ] ."
+  ],
+  "abstract_text": [
+    "<S> in this talk , i review the @xmath0 odd correlations induced by @xmath1 violating anomalous top - quark couplings at both production and decay level in the process @xmath2 . </S>",
+    "<S> in addition i will also focus on experimental sensitivities corresponding to the anomalous couplings at the lhc . </S>"
+  ]
+}

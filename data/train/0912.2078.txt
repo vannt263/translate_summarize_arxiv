@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "bulge and disk may have formed in different ways such as the disk inside - out formation model ( chiappini et al .",
+    "@xcite ) , and the model of multiple infalls onto the bulge ( costa et al .",
+    "@xcite ) , so that we would expect that these differences should appear in the abundance distributions of these structures .",
+    "many authors have compared the abundance distributions of the bulge and the disk and find no clear differences ( chiappini et al .",
+    "@xcite , escudero et al .",
+    "@xcite , exter et al .",
+    "@xcite , cuisinier et al .",
+    "@xcite ) . nevertheless , in these works abundances of the solar neighborhood or the whole disk were used in order to compare the abundance distributions . until now",
+    ", few studies made an effort to investigate whether or not the radial abundance gradient of the disk extends toward the galactic center , as for example those from smartt et al .",
+    "( @xcite ) or gutenkunst et al .",
+    "( @xcite ) . in this context , the present study intends to shed light in this field by comparing the pne abundance distributions of the inner disk and the bulge using pne statistical distance scales .",
+    "spectrophotometry observations in the optical domain were made at lna observatory ( brazil ) for a sample of 56 planetary nebulae located in the direction of the the galactic bulge .",
+    "the data were reduced following standard reduction procedures with the iraf software ( see escudero et al .",
+    "@xcite for details ) .",
+    "the stanghellini et al .",
+    "( @xcite ) ( ssv08 ) statistical distance scale was used to study the distribution of chemical abundances across the disk - bulge interface .",
+    "additionally , new distances were derived for 46 objects whose distances were not available in the same paper .",
+    "the method consists in establishing a galactocentric distance that divides the sample into two groups : group i , composed by those pne with distances lower than the limit , and group ii with objects whose distances are higher than the limit settled .",
+    "then the galactocentric distance that divides the groups is varied from 0.1 to 3.6 kpc , in 0.7 kpc steps .",
+    "a kolmogorov - smirnov test was then applied to each step in order to find the distance in which the chemical properties of these regions better separates .",
+    "the kolmogorov - smirnov test results in a galactocentric distance of 2.2 kpc which better separates the two groups . figure [ fig1 ] shows the abundance distributions for the two populations using this distance .",
+    "abundance distributions for each chemical element for groups i and ii using the ssv08 distance scale and a galactocentric distance for the separation set at 2.2 kpc .",
+    "unfilled histograms represent group i objects and filled histograms are for group ii .",
+    "the number of objects in each distribution is shown at the top.,title=\"fig : \" ]   abundance distributions for each chemical element for groups i and ii using the ssv08 distance scale and a galactocentric distance for the separation set at 2.2 kpc .",
+    "unfilled histograms represent group i objects and filled histograms are for group ii .",
+    "the number of objects in each distribution is shown at the top.,title=\"fig : \" ]    the comparison between the two populations shows that , on the average , group i ( bulge ) objects have slightly lower abundances than those from the group ii ( inner - disk ) , although this difference is not larger than the errors in individual abundances .",
+    "taking into account the results derived in this work as well as other evidences from the literature , and using the ssv08 distance scale , we propose a galactocentric distance of 2.2 kpc to mark the transition between the bulge and inner - disk of the galaxy .",
+    "+ _ acknowledgements .",
+    "_ this work was partially supported by fapesp and cnpq .",
+    "chiappini , c. , matteucci , f. , & romano , d.  2001 , _ apj _ , 554 , 1044 chiappini , c. , gorny , s. , stasiska , g. , & barbuy , b.  2009 , _ a&a _ , 494 , 591 costa , r.  d.  d. , maciel , w.  j. , & escudero , a.  v.  2008 , baltic astronomy , 17 , 321 cuisinier , f. , maciel , w.  j. , kppen , j. , acker , a. , & stenholm , b.  2000 , _",
+    "a&a _ , 353 , 543 escudero , a.  v. , costa , r.  d.  d. , & maciel , w.  j.  2004 , _ a&a _ , 414 , 211 exter , k.  m. , barlow , m.  j. , & walton , n.  a.  2004 , _ mnras _ , 349 , 1291 gutenkunst , s. , bernard - salas , j. , pottasch , s.  r. , et al .",
+    "2008 , _ apj _ , 680 , 1206 smartt , s.  j. , venn , k.  a. , dufton , p.  l. , et al .",
+    "2001 , _ a&a _ , 367 , 86 stanghellini , l. , shaw , r.  a. , & villaver , e.  2008 , _ apj _ , 689 , 194 ( ssv08 )"
+  ],
+  "abstract_text": [
+    "<S> new abundances of planetary nebulae located towards the bulge of the galaxy are derived based on observations made at lna ( brazil ) . </S>",
+    "<S> we present accurate abundances of the elements he , n , s , o , ar , and ne for 56 pne located towards the galactic bulge . </S>",
+    "<S> the data shows a good agreement with other results in the literature , in the sense that the distribution of the abundances is similar to those works . from the statistical analysis </S>",
+    "<S> performed , we can suggest a bulge - disk interface at 2.2 kpc for the intermediate mass population , marking therefore the outer border of the bulge and inner border of the disk . </S>"
+  ]
+}

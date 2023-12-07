@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "a cluster of galaxies is a huge system bounded by gravitation , and is thought to be an ideal site for cosmic - ray acceleration , since cosmic - rays are confined in the system for a long time ( see , e.g.  aharonian @xcite ) .",
+    "high - energy particles , accelerated at large - scale shockes associated with accretion and merger processes , or in other processes , interact with ambient matter and radiation fields to produce non - thermal emission from radio to gamma - ray energies .",
+    "gamma - ray emission in clusters may come from several processes ( see , e.g.  review by blasi et al .",
+    "@xcite ) . collision of hign - energy protons with intra - cluster medium produce gamma - ray emission via decay of neutral pions .",
+    "high - energy electrons can upscatter ambient photons such as cosmic microwave background ( cmb ) , infrared , starlight and other soft photon fields to gamma - ray energies .",
+    "gamma - ray production from inverse compton scattering by secondary electrons generated when ultra - high - energy protons interact with cmb via @xmath0 process .",
+    "dark matter annihilation could also be a source of gamma - rays .    in the gev band , association between clusters of galaxies and egret untidentified sources",
+    "have been claimed by totani & kitayama @xcite , colafrancesco @xcite , kawasaki & totani @xcite , and scharf & mukherjee @xcite , but reimer et al .",
+    "@xcite could not confirm the association and gave upper limits for 58 clusters . at tev energies ,",
+    "there are several attempts to search for emission from nearby clusters , but so far only upper limits have been reported for the perseus and abell 2029 clusters with the whipple telescope @xcite , perseus with magic @xcite , abell 496 and abell 85 with h.e.s.s .",
+    "@xcite , coma with h.e.s.s .",
+    "@xcite , abell 3667 and abell 4038 with cangaroo - iii @xcite ( see table [ tab : tev ] ) .    [ cols=\"<,<,^,<,<\",options=\"header \" , ]     [ tab : ul ]",
+    "since no significant emission was found from any of 7 clusters of galaxies ( other than perseus ) , we discuss restrictions on some emission models . here",
+    "we take the coma cluster as an example .",
+    "figure [ fig : sed ] is a comparison of experimental limits on gamma - ray fluxes with some model predictions for the coma cluster case .",
+    "@xmath1 model curves are taken from vlk and atoyan @xcite and e@xmath2e@xmath3 ic model curves are from inoue , sugiyama and aharonian @xcite .",
+    "upper limits based on gev observations are just about to constrain @xmath1 model predictions , but do not restrict e@xmath2e@xmath3 ic models within a plausible range of parameters .",
+    "although the tev upper limit is a little more restrictive on the @xmath1 model , accumulation of _ fermi _ data over a few years may reveal hadronic emission from the coma cluster if the maximum energy of accelerated protons are lower than the assumed model or the spectrum is steeper ."
+  ],
+  "abstract_text": [
+    "<S> a cluster of galaxies is a huge system bounded by gravitation , and cosmic rays are thought to be confined in the system , thus it should contain much non - thermal components . </S>",
+    "<S> many theories predict significant gamma - ray emission that could be detectable by state - of - the - art gamma - ray telescopes . </S>",
+    "<S> some clusters have already been studied by using _ </S>",
+    "<S> fermi _ </S>",
+    "<S> gamma - ray space telescope in the gev band and cherenkov telescopes in the tev band , but most clusters are not studied in both energy bands . here </S>",
+    "<S> i present results on gev gamma - ray emission from clusters of galaxies which have been given upper limits by cherenkov telescopes using _ </S>",
+    "<S> fermi _ archival data . </S>"
+  ]
+}

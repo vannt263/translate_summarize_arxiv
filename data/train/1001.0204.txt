@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "_ cgro_-egret established the predominance of flat spectrum radio quasars ( fsrq ) as extragalactic sources of high - energy @xmath0-rays  @xcite .",
+    "these are believed to be powered by supermassive black holes ejecting large amounts of material along relativistic jets perpendicular to accretion disks and producing high energy particles in these jets .",
+    "observations at the highest photon energies shown a predominance of bl lac objects over fsrq at @xmath1 .",
+    "although these observations may be biased by the horizon limitation due to pair absorption with extragalactic background light ( ebl ) , the _ fermi _",
+    "@xmath0-ray space telescope , more sensitive and more responsive to gev photons than egret , reported a larger fraction of bl lac objects among blazars in its bright source list release ( 0fgl )  @xcite .",
+    "the wider spectral coverage of _ fermi _ is allowing detailed studies of the intrinsic properties of various types of active galactic nuclei ( agn ) , cosmic evolution and their use as ebl tracers  @xcite .",
+    "the extrapolation of fsrq to high radio frequencies makes the coincidence of foreground _ wmap _ sources with @xmath0-ray blazars expectable .",
+    "furthermore , it is clear than most of the 390 _ wmap _ sources are agns  @xcite .",
+    "these emitters are dominated in the mm - wave band by the same synchrotron component observed at lower frequencies and can be expected to emit photons of very high energy , related to the hardest part of the synchrotron emission .",
+    "_ wmap _ sources have fluxes above 0.1  jy at frequencies @xmath2 , making them suitable positional references for large millimeter telescopes .",
+    "known common _",
+    "wmap_/egret sources , found up to @xmath3 , are relatively nearby analogs of more distant blazars detectable in principle by _ fermi _ up to @xmath4 and by the large millimeter telescope ( lmt  @xcite ) at @xmath5 , if such an object could have existed at such an early phase of the universe .",
+    "the combination of _ fermi _ and lmt data promises the availability of a sample of thousands of objects up to the highest redshifts ideally suited to study radio loud agn evolution and the connection of the ebl with the star formation history of the universe ."
+  ],
+  "abstract_text": [
+    "<S> we established a sample of millimeter - wave and @xmath0-ray bright active galactic nuclei matching the _ wmap _ catalog with the egret catalog , highest energy photons and the _ fermi _ bright source list . </S>",
+    "<S> we have monitored over 80 of these objects in the near infrared , obtaining over 2000 jhks data points directly comparable with _ fermi _ data . </S>",
+    "<S> we present examples of correlated near infrared and @xmath0-ray activity of known blazars and recently identified sources . </S>"
+  ]
+}

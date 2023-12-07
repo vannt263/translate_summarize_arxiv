@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "star - forming disc galaxies like the milky way must accrete @xmath0 1 @xmath2 of fresh gas each year ( see * ? ? ? * and references therein ) and have built their discs gradually over the last 10 gyr ( e.g. * ? ? ?",
+    "a central question is the origin of the accreted gas and how this gas reaches the thin disc whitin which the process of star formation takes place .",
+    "the virial - temperature corona , in which disc galaxies are embedded , is the only reservoir of baryons capable of sustaining an accretion rate of @xmath3 for a hubble time .",
+    "we present the results of a set of grid - based hydrodynamical simulations supporting the idea that the gas needed by the disc to form stars is drawn from this corona .",
+    "coronae of disc galaxies are similar in many respects to the hot atmospheres of giant elliptical galaxies and galaxy clusters , but with lower gas temperature and density ( e.g. * ? ? ?",
+    "* ; * ? ? ?",
+    "* ) . as the hot gas of these more massive systems ,",
+    "the coronal gas is unlikely to fragment into clouds via thermal instability @xcite , but it is expected to cool monolithically and feed the central black hole rather than produce an extended cold disc in which stars can form . however ,",
+    "if the gas needed to feed star formation has to be drawn from the corona , a mechanism that makes the hot gas accrete onto the disc must be at work .",
+    "there is abundant evidence that star formation in galaxies like the milky way powers a galactic fountain : ejection of gas from the mid - plane by supernova explosions @xcite . through the fountain a significant fraction ( from 10 to 25 % ) of the whole hicontent of the galaxy",
+    "is carried into its halo ( see * ? ? ?",
+    "* and references therein ) . in this work , supported by several lines of argument , we hypothesise that the transfer of gas from the corona to the star - forming disc is effected by the hiclouds ejected by the galactic fountain @xcite .",
+    "our hydrodynamical simulations suggest that the gas accretion proceeds through the following steps : ( i ) stripping of gas from fountain clouds by the corona as a result of the kelvin - helmholtz instability , ( ii ) mixing of the ( high metallicity ) stripped gas with a comparable amount of coronal gas in the turbulent wake of the clouds ; as a consequence of the mixing , the gas cooling time of the coronal gas is reduced to a value lower than the cloud s flight time , ( iii ) formation of knots of cold gas that accrete onto the disc in a dynamical time .",
+    "the stripped gas leads to condensation of coronal gas only if the mass - loss rate exceeds a critical value @xmath4 , determined by the physical properties of the cloud and the corona .",
+    "in addition , dimensional analysis suggests that the actual mass - loss rate must lie close to @xmath4 . in view of the proposed scenario and of these considerations",
+    "the aims of the simulations are two - fold : ( i ) to provide an estimate of the actual mass - loss rate @xmath5 for comparison with @xmath4 , ( ii ) to determine the critical ambient pressure ( dependent on metallicity ) above which the mass of cool gas increases with time through condensation in the wake . in figure [ nocool ] the evolution of the mass of gas at @xmath6 k ( accreted gas ) , for a simulation with physical conditions representative of galactic coron ,",
+    "is shown ( see caption for details ) .",
+    "in particular , in the left panel of the figure , the mass loss of a cloud is displayed and the agreement between the simulation and the analytical prediction is remarkable . from the right panel of figure [ nocool ] it has been possible to derive an estimate of the global accretion rate ( @xmath7 ) which is of the same order as that required to feed star formation . by comparing the figures in the two panels",
+    "it is apparent that the cooled mass of coronal gas is comparable to the mass lost by the cloud . in other words ,",
+    "when the cooling is switched on the evaporation of some cloud mass produces an accretion of roughly the same amount of coronal mass .",
+    "we have used hydrodynamical simulations to check whether the interaction between the galactic - fountain clouds , powered by a star - forming disc , and the virial - temperature corona , in which disc galaxies are embedded , could lead the coronal gas to cool promptly in the clouds wake and accrete onto the disc to feed star formation .",
+    "the results of our analysis , described in detail in @xcite , can be summarized as follows :    * the interaction between the galactic fountain and the hot corona causes the fountain clouds to be stripped of some of their gas .",
+    "the simulations provide a reliable estimate of the mass - loss rate and confirm that its value lies close to @xmath4 , in agreement with analytical expectations ; * the condensation of coronal gas in the cloud s wake prevails over evaporation if the metallicity and/or pressure of the corona are high enough . in our simulations",
+    "this happens for likely parameters of the coron in disc galaxies , condensation is present also for densities as low as @xmath8 , provided that [ fe / h ] @xmath9 ; * the derived global accretion rate is of the same order as that required to feed star formation",
+    ". therefore the condensation of the hot corona seems a viable mechanism to sustain the star formation rate in star - forming galaxies .",
+    "we used cpu time assigned under the inaf - cineca agreement 2008 - 2010 .",
+    "f. marinacci gratefully acknowledges the support from the marco polo program by university of bologna and the hospitality of the rudolf peierls centre for theoretical physics ."
+  ],
+  "abstract_text": [
+    "<S> star - forming disc galaxies such as the milky way need to accrete @xmath0 1 @xmath1 of gas each year to sustain their star formation . </S>",
+    "<S> this gas accretion is likely to come from the cooling of the hot corona , however it is still not clear how this process can take place . </S>",
+    "<S> we present simulations supporting the idea that this cooling and the subsequent accretion are caused by the passage of cold galactic - fountain clouds through the hot corona . </S>",
+    "<S> the kelvin - helmholtz instability strips gas from these clouds and the stripped gas causes coronal gas to condense in the cloud s wake . for likely parameters of the galactic corona and of typical fountain clouds we obtain a global accretion rate of the order of that required to feed the star formation .     address = dipartimento di astronomia , universit di bologna , via ranzani 1 , 40127 bologna , italy .     </S>",
+    "<S> address = rudolf peierls centre for theoretical physics , oxford university , keble road , oxford ox1 3np , uk .     </S>",
+    "<S> address = dipartimento di astronomia , universit di bologna , via ranzani 1 , 40127 bologna , italy .     </S>",
+    "<S> address = dipartimento di astronomia , universit di bologna , via ranzani 1 , 40127 bologna , italy .     </S>",
+    "<S> address = dipartimento di astronomia , universit di bologna , via ranzani 1 , 40127 bologna , italy .     </S>",
+    "<S> address = inaf - osservatorio astronomico di bologna , via ranzani 1 , 40127 , bologna , italy . </S>"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "the @xmath0 and @xmath1 interactions at the lhc offer interesting potential for the studies of the higgs boson , quartic gauge couplings and the top quark as well as for searches of new physics @xcite .",
+    "in particular , the clean and striking experimental signatures of the exclusive processes @xmath2 ( forward regions devoid of any hadronic activity apart from presence of two forward scattered protons ) are well suited for the search of new charged massive particles beyond the standard model @xcite .",
+    "the two - photon pair production mechanism is simple and often results in simple final states ( as shown in figure[fig : prod - decay ] ) , in contrast to many other cases at the lhc with usual complex    [ cols=\"^,^ \" , ]     a narrow peak centered on @xmath3 236  gev = 2@xmath4118  gev demonstrates possibility of an event - by - event determination of the @xmath5 and @xmath6 mass with few gev resolution .",
+    "to be sensitive to the fb - level cross - sections , such studies have to be performed at the nominal lhc luminosity .",
+    "the large event rates lead then to large backgrounds due to accidental coincidences of dileptonic events in the central detector and two forward protons detected in the vfds , but not coming from the same vertex @xcite .",
+    "the effect of multiple interactions per beam collision was simulated by superimposing over dileptonic inclusive events , @xmath7 and @xmath8 production . ]",
+    "@xmath9 overlap events on average for @xmath10 and @xmath11 for @xmath12 , and by distributing the extra vertices according to a @xmath13 mm wide gaussian @xcite .",
+    "the probability to detect two diffractive accidental protons per beam collision ( one on each side of the interaction point ) is expected to be on average @xmath14 at low and @xmath15 at high luminosity .",
+    "the associated background cross - sections reach @xmath16  fb and @xmath17  fb respectively .",
+    "+ this background can be reduced using the tracks associated to the dilepton vertex , which are not present in the exclusive events .",
+    "one can therefore request no extra track with @xmath18  gev ( where @xmath19 reconstruction efficiency is assumed ) associated to the @xmath20 vertex .",
+    "it provides a background reduction of @xmath21 .",
+    "further background reduction can be made using precise time - of - flight proton detectors with a few pico - second resolution , and by reconstruction of the event vertex position from the proton timing @xcite .",
+    "j.  de favereau _ et  al .",
+    "_ , arxiv:0908.2020 [ hep - ph ] .",
+    "j.  ohnemus , t.  walsh and p.  zerwas , phys.lett.*b328 * 369 ( 1994 ) .",
+    "n.  schul and k.  piotrzkowski , nucl.phys.proc.suppl.*179-180 * 289 ( 2008 ) , arxiv:0806.1097 [ hep - ph ] .",
+    "m.  battaglia _ et  al .",
+    "j. c33 ( 2004 ) 273 .",
+    "k.  piotrzkowski , phys . rev . *",
+    "d63 * 071502 ( 2001 )",
+    ". + k.  piotrzkowski , arxiv : hep - ex/0201027 .",
+    "the fp420 collaboration , arxiv:0806.0302 [ hep - ex ] .",
+    "j.  de  favereau , x.  rouby and k.  piotrzkowski , jinst2:p09005 ( 2007 ) . b.  cox , f.  loebinger and a.  pilkington , jhep0710:090 ( 2007 ) , arxiv:0709.3035 [ hep - ph ] . s.  white , arxiv:0707.1500 [ hep - ex ] .",
+    "l.  bonnet _ et  al .",
+    "_ , actaphys .",
+    "b38:477 ( 2007 ) , arxiv : hep - ph/0703320 ."
+  ],
+  "abstract_text": [
+    "<S> the two - photon exclusive production of charged supersymmetric pairs at the lhc has a clean and unique signature - two very forward scattered protons and two opposite charged leptons produced centraly . for low - mass susy scenarios , significant cross - sections are expected and background processes are well controlled . </S>",
+    "<S> measurement of the forward proton energies would allow for mass reconstruction of right - handed sleptons and the lsp with a few gev resolution . </S>",
+    "<S> methods to reduce backgrounds at high luminosity resulting from accidental coincidences between events in the central and forward detectors are discussed .     </S>",
+    "<S> address = center for particle physics and phenomenology ( cp3 ) + universit catholique de louvain , 1348 louvain - la - neuve , belgium     address = center for particle physics and phenomenology ( cp3 ) + universit catholique de louvain , 1348 louvain - la - neuve , belgium </S>"
+  ]
+}

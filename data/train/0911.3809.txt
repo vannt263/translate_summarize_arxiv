@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "white dwarfs have masses in a narrow range centered at about 0.6 @xmath2 ( see , e.g. , @xcite ) , but a few examples of massive white dwarfs ( @xmath31.2 @xmath2 ) have been reported @xcite .",
+    "massive white dwarfs in binary systems , where mass transfer can occur , are particularly interesting since they are good candidates for the formation of type ia supernovae .    using data obtained with the  satellite , we have recently found compelling evidence @xcite for the presence of a white dwarf with mass @xmath31.2 @xmath2 in the x  ray binary system . in the next section",
+    "we describe the properties of this peculiar binary , composed of a 13 s x  ray pulsar orbiting a hot subdwarf star .",
+    "we then briefly review the new  results and discuss some of their implications .",
+    "is the only known binary system composed of an early type subdwarf star and a pulsating x - ray source .",
+    "the optical / uv emission from this system is dominated by the bright star : with a v band magnitude of 8.3 , this is the brightest known hot subdwarf .",
+    "extensive observations carried out since the time of its discovery led to classify it as a star of sdo5.5 type , and showed that  is a single - lined spectroscopic binary with orbital period p@xmath4 = 1.55 days @xcite . the optical mass function could be measured with great precision , f@xmath5 = 0.263 @xmath0 0.004 @xmath6 @xcite , but the nature of the companion star ( unseen in the optical ) remained obscure for decades .",
+    "the situation changed when the _ rosat _ satellite detected a strong flux of soft x - rays from this system and periodic x - ray pulsations at p=13.2 s were discovered @xcite .",
+    "this finding showed that the companion star is either a neutron star or a white dwarf .",
+    "however , as discussed in @xcite and confirmed by our new data @xcite , the x - ray luminosity is much smaller than that expected from a neutron star accreting in the stellar wind of  @xcite , leading to the conclusion that  is a white dwarf .",
+    "0.00004 s ) . ]",
+    "the presence of fast x - ray pulsations makes this system equivalent to a double spectroscopic binary , with the possibility to derive all the orbital parameters and , in particular , the masses of the two components . with this objective ,",
+    "we observed  for 44 ks on may 10 - 11 , 2008 with .",
+    "although four  observations were already performed in 2002 , they are not particularly useful due to their very short duration @xcite . based on the well known optical ephemeris @xcite",
+    ", the new observation was scheduled in such a way to include the orbital phase at which an x - ray eclipse could be expected ( @xmath7=0.75 ) , which previous x - ray observations did not cover .",
+    "the 0.150.4 kev light curve ( fig.1 ) , obtained with the epic instrument , clearly shows the presence of an eclipse lasting @xmath81.3 hours .",
+    "since the radius of  is known from optical observations ( r@xmath9=1.45@xmath00.25 @xmath10 @xcite ) , the system inclination can be constrained from the duration of the eclipse using the relation ( r@xmath9/a)@xmath11 = cos@xmath11i + sin@xmath11i sin@xmath11@xmath12 , where a is the orbital separation and @xmath12 is the eclipse half angle .",
+    "this gives an inclination in the range 79 - 84@xmath13 .    from a timing analysis of the 13.2 s pulsations in the epic data it was also possible to measure the delays in the times of arrival of the pulses induced by the orbital motion ( fig .",
+    "1 ) and thus obtain the projected semi - major axis a@xmath14 sin i = 9.78@xmath00.06 light - s .",
+    "this corresponds to an x - ray mass function f@xmath14 = 0.419@xmath00.008 @xmath2 that , combined with the optical mass function @xcite and with the inclination derived above , yields the masses of the two stars : m@xmath14=1.28@xmath00.05 @xmath2 for the white dwarf and m@xmath9 = 1.50 @xmath0 0.05 @xmath2 for . independently of the radius of , a firm lower limit of 1.2 @xmath2 ( 2@xmath15 c.l . ) on the white dwarf mass is obtained for i= 90@xmath13 .",
+    "the x - ray emission from  is very soft . as shown in fig.2 its spectrum",
+    "can be fitted with the sum of a blackbody with temperature kt = 39 ev , contributing most of the observed flux , and a power law with photon index @xmath82 . for the distance of 650 pc , derived from optical observations @xcite ,",
+    "the x - ray luminosity in the 0.2 - 10 kev energy range is @xmath82@xmath1610@xmath17 erg s@xmath18 .",
+    "the above findings indicate that  is one of the most massive white dwarfs currently known and the one with the shortest spin period . we note that most white dwarf masses are derived with indirect methods , such as surface gravity estimates obtained by spectral modelling , or the measurement of gravitational redshift . these methods , beside depending on models and assumptions ,",
+    "provide combined information on mass and radius , hence the resulting masses can not be used to determine independently the mass - radius relation .",
+    "our mass determination for  is directly based on a dynamical measurement , thus making this star an ideal target to better constrain the white dwarfs equation of state .",
+    "the mass lower limit , coupled with the 13 s spin period , allows us to set an upper limit of 6000 km on the white dwarf s radius , based only on simple rotational stability considerations @xcite .",
+    "the high mass and fast spin of  likely result from a previous evolutionary phase in which the accretion of mass and angular momentum took place at a much larger rate than currently observed .",
+    "the accretion of mass down to the white dwarf surface implies that the magnetic dipole is 10@xmath19 ( @xmath20 / 10@xmath21 @xmath2 yr@xmath18)@xmath22 ( 1350 km s@xmath18",
+    "/ v@xmath23)@xmath24 gauss @xmath25 , where we have normalized the wind mass loss @xmath20 and terminal velocity v@xmath23 to the values measured for  @xcite .",
+    "a stronger magnetic field would prevent accretion through the onset of the propeller effect .",
+    "thus ,  can be seen as a white dwarf analogous of low mass x - ray binaries in which weakly magnetic neutron stars are spun - up to short spin periods and shine as recycled millisecond radio pulsars when accretion onto them stops @xcite .",
+    "the future evolution of  will probably lead to a new phase of unstable mass transfer through roche - lobe overflow @xcite , during which the accretion of helium - rich material might push the already massive white dwarf above the chandrasekhar limit and trigger a type ia supernova explosion ."
+  ],
+  "abstract_text": [
+    "<S> an  observation performed in may 2008 has confirmed that the 13 seconds pulsations in the x - ray binary  are due to a rapidly rotating white dwarf . from the pulse time delays induced by the 1.55 days orbital motion , and the system s inclination , constrained by the duration of the x - ray eclipse discovered in this observation , we could derive a mass of 1.28@xmath00.05 @xmath1 for the white dwarf . </S>",
+    "<S> the future evolution of this post common envelope binary system will likely involve a new phase of mass accretion through roche - lobe overflow that could drive the already massive white dwarf above the chandrasekhar limit and produce a type ia supernova .     </S>",
+    "<S> address = inaf iasf - milano , v. e.bassini 15 , 20133 milano , italy     address = inaf iasf - milano , v. e.bassini 15 , 20133 milano , italy     address = inaf iasf - milano , v. e.bassini 15 , 20133 milano , italy altaddress = infn - pavia , v. a.bassi 6 , 27100 pavia , italy     address = inaf iasf - milano , v. e.bassini 15 , 20133 milano , italy     address = inaf osservatorio astronomico di roma , v. frascati 33 , 00040 monteporzio catone , italy     address = inaf osservatorio astronomico di roma , v. frascati 33 , 00040 monteporzio catone , italy </S>"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "sub - wavelength plasmonic crystals are a class of _ meta - material _ that possesses a microstructure consisting of a periodic array of plasmonic inclusions embedded within a dielectric host .",
+    "the term `` sub - wavelength '' refers to the regime in which the period of the crystal is smaller than the wavelength of the electromagnetic radiation traveling inside the crystal .",
+    "many recent investigations into the behavior of meta - materials focus on phenomena associated with the _ quasi - static limit _ in which the ratio of the period cell size to wavelength tends to zero .",
+    "sub - wavelength micro - structured composites are known to exhibit effective electromagnetic properties that are not available in naturally - occurring materials .",
+    "investigations over the past decade have explored a variety of meta - materials , including arrays of micro - resonators , wires , high - contrast dielectrics , and plasmonic components .",
+    "the first two , especially in combination , have been shown to give rise to unconventional bulk electromagnetic response at microwave frequencies ( smith _ et al . _ 2000 ; pendry _ et al .",
+    "_ 1999 ; pendry _ et al .",
+    "_ 1998 ) and , more recently , at optical frequencies povinelli ( 2009 ) , including negative effective dielectric permittivity and/or negative effective magnetic permittivity .",
+    "an essential ingredient in creating this response are local resonances contained within each period due to extreme properties , such as high conductivity and capacitance in split - ring resonators pendry _",
+    "( 1999 ) .    in the case of plasmonic crystals ,",
+    "the dielectric permittivity @xmath6 of the inclusions is frequency dependent and negative for frequencies below the plasma frequency  @xmath7 , @xmath8 shvets & urzhumov ( 2004 , 2005 ) have investigated plasmonic crystals in which @xmath7 is inversely proportional to the period of the crystal and for which both inclusion and host materials have unit magnetic permeability .",
+    "they have proposed that simultaneous negative values for both an effective @xmath9 and @xmath10 arise at sub - wavelength frequencies that are quite far from the quasi - static limit , that is , @xmath11 is not very small , where @xmath2 is the period of the crystal , @xmath1 is the norm of the bloch wavevector and @xmath3 is the wavelength . in this work ,",
+    "we present rigorous analysis of this type of plasmonic crystal by establishing the existence of convergent power series in @xmath4 for the electromagnetic fields and the first branch of the associated dispersion relation .",
+    "the effective permittivity and permeability defined according to pendry _",
+    "( 1999 ) are shown to be positive for all @xmath4 within the radius of convergence @xmath12 , and , in this regime , _ the extreme property of the plasma produces no resonance in the effective permittivity or permeability .",
+    "_ this regime is well distanced from the resonant regime investigated in shvets & urzhumov ( 2004 , 2005 ) .",
+    "the analysis shows that the radii of convergence of the power series is at least @xmath13 , which is not too small , as shown in table [ radiustable ] , which contains values of @xmath13 for circular inclusions of various radii @xmath14 .",
+    "mcphedran , r.c . ,",
+    "poulton , c.g .",
+    ", nicorovici , n.a . &",
+    "movchan , a. _ low frequency corrections to the static effective dielectric constant of a two dimensional composite material , _ proc .",
+    "a , 452 , 22312245 ( 1996 ) .",
+    "* unit cell with plasmonic inclusion . *",
+    "solid curve is @xmath15 and dotdash curve is @xmath16 .",
+    "* graph of @xmath17 .",
+    "this function is symmetric about the origin . *",
+    "graph of @xmath18 when @xmath19 .",
+    "this function is antisymmetric about the origin ."
+  ],
+  "abstract_text": [
+    "<S> meta - material , plasmonic crystal , dispersion relation , effective property , series solution , catalan number we obtain a convergent power series expansion for the first branch of the dispersion relation for subwavelength plasmonic crystals consisting of plasmonic rods with frequency - dependent dielectric permittivity embedded in a host medium with unit permittivity . </S>",
+    "<S> the expansion parameter is @xmath0 , where @xmath1 is the norm of a fixed wavevector , @xmath2 is the period of the crystal and @xmath3 is the wavelength , and the plasma frequency scales inversely to @xmath2 , making the dielectric permittivity in the rods large and negative . </S>",
+    "<S> the expressions for the series coefficients ( a.k.a . , dynamic correctors ) and the radius of convergence in @xmath4 </S>",
+    "<S> are explicitly related to the solutions of higher - order cell problems and the geometry of the rods . within the radius of convergence , we are able to compute the dispersion relation and the fields and define dynamic effective properties in a mathematically rigorous manner . </S>",
+    "<S> explicit error estimates show that a good approximation to the true dispersion relation is obtained using only a few terms of the expansion . the convergence proof requires the use of properties of the catalan numbers to show that the series coefficients are exponentially bounded in the @xmath5 sobolev norm .    [ firstpage ] </S>"
+  ]
+}

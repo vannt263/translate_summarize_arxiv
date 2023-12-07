@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "after the discovery of a long periodicity in the v393 sco asas light curve by , we realized that this star is a bright galactic member of the new class of interacting binaries double periodic variables ( dpvs ) , that are characterized by two closely related photometric periodicities ( , @xcite ) .",
+    "they have been interpreted as intermediate mass semi - detached binaries experiencing cyclic mass loss into the interstellar medium ( ( * ? ? ?",
+    "* mennickent et al . 2008 ) , ( * ? ? ?",
+    "* ; * ? ? ?",
+    "* ; * ? ? ?",
+    "* mennickent & koaczkowski 2009 a , b , c ) ) .",
+    "the mechanisms for cyclic mass loss still is a matter of research , and a study of v393 sco could yield important insigths on the dpv phenomenon .",
+    "= 169.7 @xmath1 0.6 km / s ( crosses and pluses ) whereas hei5875 radial velocities at different long cycle phases , 0.2 @xmath2 0.8 ( asterisks ) and 0.8 @xmath2 0.2 ( squares ) , are peculiar .",
+    "orbital ephemeris is from kreiner ( 2004 ) .",
+    "( right ) h@xmath0 emission at @xmath3= 0.94 ( @xmath4= 0.00 , above ) and @xmath3= 0.57 ( @xmath4= 0.97 , down ) .",
+    ", title=\"fig:\",width=249 ]   = 169.7 @xmath1 0.6 km / s ( crosses and pluses ) whereas hei5875 radial velocities at different long cycle phases , 0.2 @xmath2 0.8 ( asterisks ) and 0.8 @xmath2 0.2 ( squares ) , are peculiar .",
+    "orbital ephemeris is from kreiner ( 2004 ) .",
+    "( right ) h@xmath0 emission at @xmath3= 0.94 ( @xmath4= 0.00 , above ) and @xmath3= 0.57 ( @xmath4= 0.97 , down ) .",
+    ", title=\"fig:\",width=249 ]",
+    "during the last two years we have monitored v393 sco with several high resolution spectrographs ( e.g. coralie , uves , feros , crires ) covering several orbital cycles and a couple of long cycles . we have also used the published asas v - band light curve and a special code ( ( * ? ? ?",
+    "* djurasevic et al . 2008 ) , @xcite ) for modeling the system .",
+    "spectral lines of the donor are clearly visible and follow the orbital motion without interference during the long cycle , but the gainer ( primary ) is apparently ( at least partially ) hidden by a circumprimary disc and hei absorption lines follow peculiar motions during orbital / long cycles ( fig.1 ) .",
+    "the h@xmath0 double emission indicates an outer optically thin part of the circumprimary disc . a feros spectrum obtained at orbital phase 0.00 and long phase 0.94 shows h@xmath0 emission much stronger than a uves spectrum taken at orbital phase 0.97 and long phase 0.57 ( fig.1 ) .",
+    "this implies that the h@xmath0 emission ( eventually the disc ) is larger on the long cycle maximum .",
+    "the central absorption deeper than the continuum at this epoch suggests that the disc is eclipsed by the donor .",
+    "if we interpret the hei absorption lines as produced in a deeper , optically thicker disc region , their rvs indicate strong changes in the structure of this region during the long cycle .",
+    "the presence of strong line absorption wings at specific phases at the hei 1083.3 nm line indicates mass exchange / loss in the system .",
+    "the strong modulation of the fwhm for the hei5875 line during long cycle could reflect a rotational instability of the circumprimary disc ( ( * ? ? ?",
+    "* mennickent et al . 2009c ) ) .",
+    "hei6678 is strongly influenced by emission shoulders and does not show this behavior . a comparison with a grid of spectra from nlte atmosphere models provided by dr .",
+    "ewa niemczura yields @xmath5= 7900 @xmath1 100 @xmath6 and @xmath7= 3.0 @xmath1 0.1 .",
+    "it is difficult to estimate the mass ratio , since the helium lines , that could be indicators of the primary motion , do not show a consistent value for @xmath8 .",
+    "however , the best fit to the light curve of v393 sco always requires the presence of a circumprimary disc under reasonable assumptions . using @xmath9= 0.25 and @xmath9= 0.41 as trials",
+    "we obtain @xmath10= 16910 @xmath1 150 @xmath6 and @xmath10= 17400 @xmath1 300 @xmath6 , respectively .",
+    "these figures agree with the spectral type for the primary we derive from an analysis of archival iue spectra , viz .",
+    "a detailed study of v393 sco is in preparation ."
+  ],
+  "abstract_text": [
+    "<S> we give a brief report on spectroscopic properties of v393 scorpii . </S>",
+    "<S> h@xmath0 emission and shape and radial velocity of hei5875 are modulated with the long cycle . </S>",
+    "<S> the long cycle is explained as a relaxation cycle in the circumprimary disc , that cumulates the mass transferred from the donor until certain instability produces disc depletion . </S>"
+  ]
+}

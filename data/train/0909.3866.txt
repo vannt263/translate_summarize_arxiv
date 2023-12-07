@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "early - type galaxies ( etgs ) have long been considered to be inert stellar systems , essentially devoid of gas and dust . however , this view has radically changed since a number of imaging and spectroscopy studies from both the ground and space have revealed the presence of a multiphase interstellar medium ( ism ) : a hot ( @xmath3 k ) , x - ray emitting halo @xcite ; a warm ( @xmath4 k ) component ( often referred to as `` ionized gas '' ) @xcite ; and even cooler components detected in the mir @xcite and in hi and co @xcite .",
+    "ionized gas is detected in 40 - 80 % of early - type galaxies via its optical emission lines @xcite .    despite the number of studies ,",
+    "several issues remain still open .",
+    "the first question is the origin of the ism in etgs .",
+    "evidence for external acquisition comes from narrow - band imaging studies , often showing gas / star misalignment @xcite , and from kinematical studies , often showing gas / star angular momentum decoupling @xcite .",
+    "the second still open issue concerns the ionizing source of the warm gas .",
+    "optical spectroscopic studies show that etgs are typically classified as low - ionization emission - line regions ( liners ) according to their emission line ratios @xcite . however , there is still strong debate about the ionization mechanism in liners .",
+    "actually , the most viable excitation mechanisms are : low accretion - rate agn @xcite , photoionization by old post - asymptotic giant branch ( post - agb ) stars @xcite , fast shocks @xcite .",
+    "with the aim of understanding the nature of ionized gas in etgs , we acquired intermediate - resolution ( fwhm @xmath57.6    at 5550   ) optical spectra ( 3700 - 7250  ) for a sample of 65 nearby e / s0 galaxies . for a detailed description of the sample",
+    "we refer to @xcite ( paper  i ) and @xcite ( paper  ii ) . for the derivation of ages , metallicities , and [ @xmath2/fe ] ratios",
+    ", we refer to @xcite ( paper  iii ) . here",
+    "we recall that the sample was selected from a compilation of galaxies showing ism traces in at least one of the following bands : iras 100 @xmath6 m , x - ray , radio , hi and co @xcite . because of the selection criteria , the sample is biased toward the presence of emission lines .",
+    "the galaxies are mainly located in low density environments . in the present study",
+    ", we will use the spectra extracted in 4 annuli of increasing galacto - centric distance ( 0 @xmath7 r @xmath7r@xmath8/16 , r@xmath9/16 @xmath7 r @xmath7r@xmath8/8 , r@xmath9/8 @xmath7 r @xmath7r@xmath8/4 , and r@xmath9/4 @xmath7 r @xmath7r@xmath8/2 ) .",
+    "the emission line fluxes were measured on residual spectra obtained by subtracting the stellar population contribution to the observed galaxy spectra . to this purpose , we used new ssps ( bressan , unpublished ; @xcite ) .",
+    "the ssps were computed from the isochrones of @xcite , with the revision of @xcite including a new agb mass - loss treatment . in the optical domain ,",
+    "the ssps are based on the miles spectral library @xcite .",
+    "the galaxy continua were fitted with the new ssps , smoothed to match the instrumental resolution and the galaxy velocity dispersion , through a @xmath10 criterion . in the fit , we considered selected spectral regions chosen to include both features particularly sensitive to age ( the relative strength of the ca ii h + k lines , the 4000   break , the h@xmath11 and h@xmath12 lines ) , and features more sensitive to metallicity ( the fe lines at @xmath1 4383 , 4531 , 5270 , 5335 , and the mg absorption features around @xmath1 5175 ) .",
+    "the residual spectrum around each line was derived by normalizing the ssp in two continuum bands adjacent to the line of interest .",
+    "the line fluxes were determined by fitting the residual spectrum with gaussian curves of variable width and intensity . as an example , we show the stellar continuum subtraction and the line fit for ic  1459 in fig .",
+    "the emission lines were corrected for extinction through the observed @xmath13 flux ratio , assuming an intrinsic value of @xmath5 3.1 valid for agn - like objects ( osterbrock 1989 ) . some galaxies in the sample present very large reddening , up to @xmath14 or even more . since the observed continuum is incompatible with such large values , the dust must be patchy .",
+    "emission lines are detected in 58 out of 65 galaxies ( @xmath0 89 % of the sample ) .",
+    "the incidence of emission appears independent from the e and s0 morphological classes .",
+    "the nebular emission is stronger in the galaxy center , and decreases moving toward the more external annuli .",
+    "galaxies were classified through the standard [ oiii]@xmath15007/ h@xmath15 versus [ nii]@xmath16583/ h@xmath2 diagnostic diagram , first proposed by @xcite ( hereafter bpt ) . the bpt diagram for our galaxy sample , in the 4 annuli ,",
+    "is shown in fig .",
+    "the majority of galaxies are classified as liners . only ic  5063 is classified as a _ bona fide _ seyfert galaxy .",
+    "a few galaxies , namely ngc  3489 , ngc  3818 , ngc  3136 , ngc  6776 , ngc  7007 , ngc  777 , and ngc  6958 , fall in the seyfert region , but are consistent with a liner classification within the errors . some galaxies ( ngc  3258 , ngc  4552 , ngc  5193 , ngc  5328 , ngc  6721 , ngc  6876 , ic  2006 ) fall in the `` composites '' region ( see fig .  [ fig2 ] ) , and possibly contain a combined contribution from both star formation and agn .",
+    "we notice that , from the center outwards , the bulk of the galaxies move left - down in the bpt diagram .",
+    "an increasing number of galaxies pass from liners to `` composite '' objects as the emission lines are measured at larger galacto - centric distances .",
+    "this suggests that different ionization mechanisms may be at work in liners ."
+  ],
+  "abstract_text": [
+    "<S> we present a study of the ionized gas in a sample of 65 nearby early - type galaxies , for which we have acquired optical intermediate - resolution spectra . </S>",
+    "<S> emission lines are detected in @xmath0 89% of the sample . </S>",
+    "<S> the incidence of emission appears independent from the e or s0 morphological classes . according to classical diagnostic diagrams , </S>",
+    "<S> the majority of the galaxies are liners . </S>",
+    "<S> however , the galaxies tend to move toward the `` composites '' region ( at lower [ nii]@xmath16584/h@xmath2 values ) as the emission lines are measured at larger galacto - centric distances . </S>",
+    "<S> this suggests that different ionization mechanisms may be at work in liners . </S>"
+  ]
+}

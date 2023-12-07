@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "one current limitation of the ssp models that are based on empirical stellar specta is that they rely on galactic stars whose detailed chemical properties are not well known .",
+    "for example , the stars in the different components of the galaxy show distinct patterns of alpha - elements reflecting different star formation histories .",
+    "the models usually only take into account the iron abundance , but stellar spectra may change considerably if the ratios between other elements and fe are different .    accounting for well known element abundances will make an empirical spectral stellar library particularly useful for modeling stellar populations with different formations . in this work ,",
+    "we present mg / fe ratios for 758 miles ( * ? ? ?",
+    "* snchez - blzquez _ et al . _",
+    "( 2006 ) ) s stars .",
+    "the values are a combination of a literature compilation and our own measurements .",
+    "in a first step , we obtained published mg abundances from high resolution spectra of the miles s stars .",
+    "we adopted the ( * ? ? ? * borkova & marsakov ( 2005 ) ) s compilation for defining a consistent scale of [ mg / fe ] that was based on weighted averages .",
+    "calibration of the ratios from a given work to this scale relies on a statistically representative linear relation by using stars in common between two samples .",
+    "we used 219 stars from that compilation and also collected abundance ratios for another 89 stars from high resolution analyses , thus covering @xmath11/3 of the library having 248 dwarfs and 60 giants .",
+    "sixteen stars from duplicated sources helped us to evaluate the calibration process as well as estimate the final errors of [ mg / fe ] , which are around 0.06 dex .",
+    "this step was extremely useful in defining a representative reference sample for calibrating our measurements .",
+    "our mg abundance measurements were based on a spectral synthesis computed with the moog lte code ( sneden 2002 , http://verdi.as.utexas.edu/ ) applied to miles spectra through an automatic process using both pseudo equivalent widths and line profile fits of two mg features ( mgi@xmath25528.40  and the mg b triplet ) .",
+    "we adopted linearly interpolated model atmospheres over the most recent marcs grid ( * ? ? ? * ( gustafsson _ et al .",
+    "_ 2008 ) ) and accurate atomic / molecular line lists in order to compute a reliable set of synthetic spectra for five values of [ @xmath0/fe ] , for each star . our measured [ mg / fe ] values cover about 46% of the miles stars ( 152 dwarfs and 298 giants ) , with errors ranging from 0.08 to 0.15 dex ( weighted average of 0.12 dex ) .",
+    "see them as a function of [ fe / h ] in figure 1 .",
+    "we have obtained [ mg / fe ] for @xmath13/4 of miles ( 400 dwarfs and 358 giants , respectively 74% and 82% of them ) .",
+    "the results cover the miles s parameter space quite well .",
+    "specifically , we recovered at medium resolution the mg abundances for a lot of sub - giants and red giants although a lack still remains on the stars cooler than 3500  k."
+  ],
+  "abstract_text": [
+    "<S> we have obtained [ mg / fe ] for around 77% of the stars of the miles library of stellar spectra in order to include this important information into simple stellar population ( ssp ) models . </S>",
+    "<S> the abundance ratios , which were carefully calibrated to a single uniform scale , were obtained through a compilation from high spectral resolution works plus robust spectroscopic analysis at medium resolution . </S>",
+    "<S> the high resolution data provided an extensive control sample . </S>",
+    "<S> average uncertainties ( 0.06 and 0.12 dex for the high and medium resolution samples respectively ) and the good coverage of the stars with [ mg / fe ] over the miles s parameter space will permit us to semi - empirically build up new ssp models with accurate @xmath0-enhancements for ages older than 1 gyr . this will open new prospects for evolutionary stellar population synthesis . </S>"
+  ]
+}

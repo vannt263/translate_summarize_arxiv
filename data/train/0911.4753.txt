@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "one of the most important empirical scaling relations of early - type galaxies is the fundamental plane - a tight correlation in the log space of effective radius @xmath0 , central velocity dispersion @xmath1 , and mean effective surface brightness @xmath2 ( ( * ? ? ? * dressler et al .",
+    "1987 ) ) .",
+    "fundamental plane studies aim to understand what physical processes constrain early - type galaxies to this plane rather than being uniformly scattered .",
+    "however such studies raise as many questions as they answer , not least being how the fundamental plane varies with stellar population and environment , and the origin of the observed _ tilt _ of the plane with respect to virial expectations .",
+    "these questions will be addressed in our analysis of early - type galaxies from the 6df galaxy survey .",
+    "as well as determining the fundamental plane across a range of masses and environments , we will in future determine precise fundamental plane distances and peculiar velocities with which to map the local peculiar velocity field out to @xmath316,500 kms@xmath4 .",
+    "recent studies have found various correlations of the fundamental plane with age and stellar population ( ( * ? ? ?",
+    "* graves et al .",
+    "1987 ) , ( * ? ? ?",
+    "* gargiulo et al . 2009 ) ) . therefore , as part of the 6dfgs fundamental plane study we will measure lick indices to give ages , metallicities and @xmath5-enhancements and quantify the effect of stellar populations on the fundamental plane",
+    ". we will investigate age - metallically effects and observe any trends in the mass - to - light ratio along the fundamental plane .",
+    "the 6df galaxy survey ( ( * ? ? ? * jones et al . 2004 ) ) is a combined redshift and peculiar velocity survey that covers the whole southern sky with the exception of the region within 10@xmath6 of the galactic plane ( i.e. @xmath7b@xmath8 10@xmath6 ) .",
+    "the redshift survey contains measurements of more than 150,000 redshifts with a median of 0.053 ( ( * ? ? ?",
+    "* jones et al .",
+    "2009 ) ) .",
+    "the subsample of the brightest galaxies with high signal - to - noise ( required for accurate velocity dispersions ) constitutes the peculiar velocity sample .",
+    "the 6dfgs galaxies were primarily near - infrared - selected from the two micron all - sky survey ( 2mass ) extended source catalogue ( xsc ) ( ( * ? ? ?",
+    "* jarrett et al . 2000 ) ) .",
+    "near - infrared wavelengths are less sensitive to dust extinction , allowing measurements closer to the galactic plane , and also are closer to a stellar - mass selected sample .",
+    "this has the advantage of favouring early - type galaxies ( rather than the younger , star - forming galaxies ) and is therefore ideal for fundamental plane studies .",
+    "the peculiar velocity sample is expected to contain @xmath310,000 galaxies out to a redshift of @xmath316,500 kms@xmath4 .",
+    "6dfgs provides one of the largest and homogeneous fundamental plane samples due to its large volume and uniform coverage .",
+    "the accuracy with which the fundamental plane is determined , is highly dependent on how well the fitting method used accounts for the intrinsic scatter and distribution of the sample . therefore the 6dfgs fundamental plane is fit in @xmath9 space with a tri - variate gaussian distribution , and best - fit parameters are determined using the method of maximum likelihood .",
+    "we model the galaxy sample as a tri - variate gaussian , as empirically it is a better representation of the data than a uniformly populated plane with gaussian scatter .",
+    "this maximum likelihood fitting procedure also properly accounts for the observational errors ( and any correlations ) in all galaxy observables , as well as selection criteria in velocity dispersion , magnitude and others variables . using this fitting method",
+    "is crucial in obtaining an unbiased view of the fundamental plane , unlike previous studies that do not properly account for all of these effects .",
+    "the 6dfgs galaxies cover the whole southern sky and a full range of environments and are found in a uniform group / cluster catalogue ( ( * ? ? ?",
+    "* merson et al . 2009 ) ) .",
+    "using this catalogue we can therefore investigate any environment properties of the fundamental plane .",
+    "initially we divide the sample into three richness subsamples defined as high richness ( galaxies mostly in clusters ) , medium richness ( galaxies mostly in groups ) and low richness ( singleton galaxies ) . our preliminary fit ( fig.[fig1 ] ) to these subsamples suggests there is no apparent variation of the fundamental plane with environment ( ( * ? ? ?",
+    "* magoulas et al . 2009 ) ) .",
+    "although there may be variations with local density yet to be explored , this result has important ramifications for the 6dfgs peculiar velocity study as it becomes difficult to measure distances using groups and clusters if the fundamental plane in different environments has a different slope .",
+    "hence , ensuring the fundamental plane is homogeneous across environments is paramount for its use in mapping the peculiar velocity field ."
+  ],
+  "abstract_text": [
+    "<S> we have used over 10,000 early - type galaxies from the 6df galaxy survey ( 6dfgs ) to construct the fundamental plane across the optical and near - infrared passbands . </S>",
+    "<S> we demonstrate that a maximum likelihood fit to a multivariate gaussian model for the distribution of galaxies in size , surface brightness and velocity dispersion can properly account for selection effects , censoring and observational errors , leading to precise and unbiased parameters for the fundamental plane and its intrinsic scatter . </S>",
+    "<S> this method allows an accurate and robust determination of the dependencies of the fundamental plane on variations in the stellar populations and environment of early - type galaxies . </S>"
+  ]
+}

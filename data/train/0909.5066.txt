@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "low density and void environments are mainly populated by late - type galaxies .",
+    "nevertheless , the presence of isolated and quiescent early - type galaxies ( etgs ) challenges the current galaxy formation ideas .",
+    "some authors propose an environment - independent mechanism , like radio - mode agn heating , to quench the star formation in isolated galaxies ( ( * ? ? ?",
+    "* croton & farrar 2008 ) ) . as the mechanism only depends on the host halo mass , similar evolutionary histories",
+    "would be observed for galaxies in both low- and high - density environments .",
+    "contrarily , other authors propose that all bright galaxies in a very dense environment have merged into isolated ones ( e.g. ( * ? ? ?",
+    "* balogh   2004 ) ) . in this",
+    "context , fossil groups fit the bill , as they are considered the final stage of the merging of l * galaxies in groups or small clusters ( e.g. ( * ? ? ?",
+    "* ponman  1994 ) ) . in the present study",
+    ", we test these two models by comparing the star formation histories ( sfh ) of the first - ranked ellipticals in fossil groups and clusters to the sfh of their counterparts in low density environments .    -binned galaxies .",
+    "typical dispersion around the mean in the low - right corner .",
+    "( b ) average sfh for the galaxies in the two central m@xmath0 bins , displaced vertically for clarity , width=470 ]",
+    "our sample contains 9222 galaxies from the dr7-sdss database , divided into three subsamples . the fossil subsample with 35 systems , composed by a subset of the fossil groups in ( * ? ? ?",
+    "* santos  ( 2007 ) ) , a few of the well known fossils from the list of ( * ? ? ?",
+    "* mendes de oliveira  ( 2006 ) ) as well as some newly found ones .",
+    "the other two subsamples were selected to match both the fossil s r@xmath1 ( kpc ) and m@xmath0 .",
+    "the bright cluster galaxy bcg subsample with 7151 objects extracted from the maxbcg catalog ( ( * ? ? ? * koester  2007 ) ) and the isolated etg subsample from the sdss - dr7 , with further constrains to restrict the sample to etgs in low density environments .",
+    "the sfhs were obtained through spectral fitting with the starlight code ( ( * ? ? ?",
+    "* cid fernandes et al .",
+    "2005 ) ) and the ssp - miles models ( vazdekis  2009 , submitted ) .",
+    "figure 1a shows the mass - weighted mean ages , binned for the dynamical mass ( m@xmath0 ) .",
+    "the mean ages of the three subsamples coincide , except for the two central mass bins , 7.6@xmath210@xmath3 @xmath4 m@xmath0 @xmath4 1.8@xmath210@xmath5 .",
+    "the average sfhs of the subsamples in the central mass bins ( figure 1b ) show that , while bcgs and isolated etgs have a similar evolutionary history , fossil sfhs are @xmath6 1 gyr younger .",
+    "the present study agrees with previous works , which mostly found no differences between mean ages of field galaxies and either bcgs ( e.g. ( * ? ? ?",
+    "* von der linden  2007 ) ) or fossils ( ( * ? ? ?",
+    "? * la barbera  2009 ) ) .",
+    "nevertheless , fossil catalogs contain so few and heterogeneous members , that the concept of a collective behavior can be misleading .",
+    "partial results can also be relevant and our study indicates that 40 @xmath7 of the fossils are younger than their bcg and isolated counterparts , suggesting that gas - rich galaxies contributed to the fossil formation .",
+    "although , fossil groups can be precursors of the isolated etgs , the independence of ages on the environment ( figure 1a ) points to an internal mechanism driving the star formation quench ."
+  ],
+  "abstract_text": [
+    "<S> a comparison is carried out among the star formation histories of early - type galaxies in fossil groups , clusters and low density environments . </S>",
+    "<S> although they show similar evolutionary histories , a significant fraction of the fossils are younger than their counterparts , suggesting that they can be precursors of the isolated etg galaxies . </S>"
+  ]
+}

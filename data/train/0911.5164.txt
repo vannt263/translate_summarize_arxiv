@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "on the earth , particle collider experiments enable physicists to cast a brief glance at the properties of ultra - dense and hot baryonic matter ( fig . [",
+    "fig : fair ] ) . on the other hand",
+    ", it is estimated that galaxies like our milky way contain between @xmath0 and @xmath1 collapsed stars known as neutron stars , which harbor ultra - dense matter permanently in their cores .",
+    "this key feature together with the unprecedented progress in observational astrophysics , which is expected to be excelled by future observatories such as the square kilometer array ( ska ) and constellation - x , make neutron stars superb astrophysical laboratories for a wide range of physical studies .",
+    "these studies concern nuclear fusion processes on the stellar surface , pycnonuclear reactions in electron degenerate matter at sub - nuclear densities , and the possible formation of boson condensates and other novel states of baryonic matter  like color superconducting quark matter  at super - nuclear densities .",
+    "( for overviews , see , for instance @xcite . )",
+    "more than that , there is the very intriguing theoretical suggestion that strange quark matter could be more stable than atomic nuclei , known as the strange quark matter hypothesis , in which case neutron stars should be largely composed of pure strange quark matter @xcite .",
+    "if quark matter exists in neutron stars it ought to be a color superconductor @xcite .",
+    "other testable implications of the strange quark matter hypothesis concern the        possible existence of a new class of white dwarfs , known as strange white dwarfs @xcite , and the drastic alteration of heavy - ion reaction rates in the deep crustal layers of neutron stars @xcite , if strange quark matter nuggets should be present in these layers .",
+    "rotating neutron stars are called pulsars .",
+    "three distinct classes of pulsars are currently known .",
+    "these are ( 1 ) rotation powered pulsars , where the loss of rotational energy powers the emitted electromagnetic radiation , ( 2 ) accretion - powered ( x - ray ) pulsars , where the gravitational potential energy of the matter accreted from a low - mass companion is the energy source , and ( 3 ) magnetars , where the decay of a ultra - strong magnetic field powers the radiation .",
+    "depending on star mass and rotational frequency , the matter in the core regions of neutron stars may be compressed to densities that are up to an order of magnitude greater than the density of ordinary atomic nuclei .",
+    "this extreme compression provides a high - pressure environment in which numerous subatomic particle processes are likely to take place @xcite .",
+    "the most spectacular ones stretch from the generation of hyperons and baryon resonances ( @xmath2 ) , to quark ( @xmath3 ) deconfinement , to the formation of boson condensates ( @xmath4 ) @xcite .",
+    "rapid rotation can change the structure and composition of neutron stars substantially , depending on the equation of state of ultra - dense baryonic matter .",
+    "+ quark matter nuggets in the inner crusts of neutron stars can be explored . as shown in fig .",
+    "[ fig : pycno ] , the nuclear reactions rates are strongly modified if strange quark matter nuggets would be present in the crusts of neutron stars @xcite . * the thermal evolution of neutron stars undergoing episodes of intense accretion , alternated by long periods of quiescence , i.e. soft x - ray transients ( sxrts ) such as sax j1808.43658 , can be explored .",
+    "this neutron star is the first known accretion powered millisecond pulsars rotating rapidly ( at 2.5  ms , 400  hz ) . at such small spin periods certain phases of dense matter",
+    "may have been spun out of the core , altering the neutrino loss .",
+    "the quiescent emission of sax j1808.43658 , therefore , opens the possibility of using this object as a tool for probing the core compositions of neutron stars @xcite .",
+    "another , and still poorly explored , aspect of sxrts is their short time - scale thermal response to the accretion phases .",
+    "this is an aspect of the problem from which extremely important information about both the structure of the neutron star crust and the thermal state of its core can be obtained @xcite , and about which intriguing observational results were found @xcite .",
+    "* another interesting problem concerns the thermal evolution of neutron stars immediately after they went through the proto - neutron star phase .",
+    "of particular interest is the crystallization behavior of such matter and the occurrence of thermoelectric instabilities at the core  crust boundary ."
+  ],
+  "abstract_text": [
+    "<S> new astrophysical instruments such as ska ( square kilometer array ) and ixo ( formerly constellation x ) promise the discovery of tens of thousands of new isolated rotating neutron stars ( pulsars ) , neutron stars in low - mass x - ray binaries ( lmxbs ) , anomalous x - ray pulsars ( axps ) , and soft gamma repeaters ( sgrs ) . many of these neutron stars will experience dramatic density changes over their active lifetimes , driven by either stellar spin - up or spin - down , which may trigger phase transitions in their dense baryonic cores . </S>",
+    "<S> more than that , accretion of matter onto neutron stars in lmxbs is believed to cause pycno - nuclear fusion reactions in the inner crusts of neutron stars . </S>",
+    "<S> the associated reaction rates may be drastically altered if strange quark matter would be absolutely stable . </S>",
+    "<S> this paper outlines the investigative steps that need to be performed in order to explore the thermal response of neutron stars to rotationally - driven phase transitions in their cores as well as to nuclear burning scenarios in their crusts . </S>",
+    "<S> such research complements the exploration of the phase diagram of dense baryonic matter through particle collider experiments , as performed at rhic in the usa and as planned at the future facility for antiproton and ion research ( fair ) in darmstadt , germany . </S>"
+  ]
+}

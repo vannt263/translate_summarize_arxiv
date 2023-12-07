@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the existence of astrophysical non - baryonic dark matter ( dm ) has been established by its gravitational effect on galaxy rotation @xcite and the velocity dispersions of objects from dwarf galaxies @xcite through large galaxy clusters @xcite .",
+    "additional evidence of dm existence comes from cosmic microwave background measurements @xcite and gravitational lensing of galaxies by foreground galaxy clusters , for example , the evident separation of dark and baryonic matter in 1e0657 - 558 , the `` bullet cluster '' @xcite .    at present though , the existence of dark matter is solely inferred from its gravitational influence .",
+    "the particle nature of dark matter is yet to be revealed through direct detection in terrestrial dark matter searches , its production in particle accelerators , or indirect dark matter searches looking for evidence of a flux of known particles produced by annihilation of dark matter particle pairs .",
+    "here we report on an indirect dark matter search carried out using veritas located at the fred lawrence whipple observatory in southern arizona , usa , at an elevation of 1268 m @xcite .",
+    "gamma rays can be produced either directly from the pair annhilation of weakly interacting massive particles ( wimps ) or as secondary decay products from the primary particles produced in wimp annihilation .",
+    "the former would produce a monoenergetic source of gamma rays equal to the wimp mass and would constitute definitive evidence for particle dark matter .",
+    "the latter mechanism would produce a spectrum of gamma - ray energies with a cutoff at the wimp mass .    for astrophysical targets ,",
+    "the wimp annihilation rate and associated gamma - ray flux are highly uncertain due to theoretical uncertainties and limited observational constraints on the dm halo profile .",
+    "therefore , veritas has surveyed a variety of possible sources in its dark matter search .",
+    "we present here results from observations of three dwarf spheroidal galaxies ( dsph ) : draco , ursa minor , and willman 1 ; the globular cluster m5 ; and the local group galaxies m32 and m33 .",
+    "the emphasis of the program has been to target dsphs due to their relative proximity and low expected background from known astrophysical gamma - ray sources .",
+    "veritas can detect and measure gamma rays in the @xmath0100 gev - 30 tev energy range with an energy resolution of 15 - 20% , and angular resolution of @xmath1 per event .",
+    "further technical description of veritas can be found in @xcite .",
+    "dwarf spheroidal galaxies typically have stellar velocity dispersions implying a high mass - to - light ( @xmath2 ) ratio indicative of their dynamics being dominated by dark matter",
+    ". observations of the draco , ursa minor , and willman 1 dsph galaxies were performed in 2007 and 2008 in three and four telescope array configurations .",
+    "details of the observations are summarized in table  [ tbl : obs ] .",
+    "99 rubin , v.c . ,",
+    "ford , w.k . , & thonnard , n. , 1980 , aj , * 238 * , 471 walker , m.g . , 2007 , apj , * 667 * , l53 zwicky , f. , 1937 , apj * 86 * , 217 spergel , d.n . , 2007 , apjs , * 170 * , 377 clowe , d. , 2006 , apj , * 648 * , l109 weekes , t.c .",
+    "( veritas collaboration ) .",
+    "2002 , astropart .",
+    "phys . , * 17 * , 221 acciari , v.a . , ( veritas collaboration ) 2008 , apj , * 679 * , 1427 berge , d. , funk , s. , & hinton , j. a&a , * 466 * , 1219 li , t - p . and",
+    "ma , y - q , 1983 , apj , * 272 * , 317 rolke , w.a . ,",
+    "lopez , a.m. & conrad , j. 2005 , arxiv:0403059v4 wood , m. , 2008 , apj * 678 * , 594 hillas , a. m. , 1998 , apj , * 503 * , 744 navarro , j.f .",
+    ", frenk , c.s . & white , s.d.m .",
+    "1997 , apj , * 490 * , 493 strigari , l.e . , 2007 ,",
+    ", * d75 * , 083526 gondolo , p. , 2004 ,",
+    "jcap , * 0407 * , 008 see m. mccutcheon , ( these proceedings )"
+  ],
+  "abstract_text": [
+    "<S> a leading candidate for astrophysical dark matter ( dm ) is a massive particle with a mass in the range from 50 gev to greater than 10 tev and an interaction cross section on the weak scale . </S>",
+    "<S> the self - annihilation of such particles in astrophysical regions of high dm density can generate stable secondary particles including very high energy gamma rays with energies up to the dm particle mass . </S>",
+    "<S> dwarf spheroidal galaxies of the local group are attractive targets to search for the annihilation signature of dm due to their proximity and large dm content . </S>",
+    "<S> we report on gamma - ray observations taken with the very energetic radiation imaging telescope array system ( veritas ) of several dwarf galaxy targets as well as the globular cluster m5 and the local group galaxies m32 and m33 . </S>",
+    "<S> we discuss the implications of these measurements for the parameter space of dm particle models    veritas gamma - ray dark matter </S>"
+  ]
+}

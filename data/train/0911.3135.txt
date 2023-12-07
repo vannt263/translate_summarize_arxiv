@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the celestial reference frame ( crf ) , as realized by a set of coordinates for selected celestial objects , is widely used for numerous astronomy , navigation , time and other measurements .",
+    "the crf accuracy and stability are all - important for successful solutions of all these tasks .",
+    "after publishing of the first vlbi radio source catalogue ( rscs ) , attempts were made to improve the accuracy of radio - band crf by means of constructing combined catalogues , as it was customary for optical astronomy , where fundamental catalogues served as an international standard for astrometry and other measurements on the sky .",
+    "different methods were used to obtain a combined rsc , e.g. @xcite also , up to 1995 , iers ( international earth rotation service , now international earth rotation and reference systems service ) used derived combined rsc for maintenance of the iers celestial reference frame . in 2007 , a joint iers / ivs working group has been established to consider practical issues of creating the next icrf generation , icrf-2 .",
+    "the goal of the wg is to seek after ways to improve the existing icrf .",
+    "large experience accrued by optical astrometry over centuries shows that combining catalogues of the star positions leads to better random and systematic accuracy than individual catalogues . in this work ,",
+    "we present a new version of pulkovo combined catalogue of radio source positions computed using the method proposed in @xcite .",
+    "radio source catalogues that were submitted in 2007 in the framework of the wg activity were used as input for mutual comparison and combination .",
+    "four combined catalogues have been calculated :    1 .   the first two catalogues ( the one has been calculated using all input catalogues and the second one using only catalogues obtained with calc / solve software ) provide a stochastic improvement of the icrf 2 .   and",
+    "the last two of them one allow us to account also for systematic errors in the current icrf version .",
+    "all computations have been done for the set of 194 icrf defining sources included in all input catalogues .",
+    ".information about input catalogues [ cols=\"<,<,^,^,<\",options=\"header \" , ]      ( left ) and by @xmath0 ( right ) , for 194 common sources",
+    ". unit : microarcseconds , title=\"fig : \" ]   ( left ) and by @xmath0 ( right ) , for 194 common sources . unit : microarcseconds , title=\"fig : \" ]    weighted root - mean - square ( wrms ) differences of the radio source coordinates between the input catalogues and icrf are shown in fig . 1 ( unit microarcsecond ) .",
+    "one can see from fig .",
+    "1 wrms differences have the least values for catalogues computed with calc / solve software , both for intercomparison of these catalogues and their comparison with icrf .",
+    "the latter most probably is caused by the fact that the icrf was constructed using calc / solve software .",
+    "moreover it can be clearly seen that all the input catalogues demonstrate rather large differences with the icrf , which may indicate significant systematic errors in the latter .",
+    "the systematic differences between the input catalogues and the icrf found by the lf method were applied to all the input catalogues in order to transform them to the icrf system .",
+    "after that , the coordinates of all sources in transformed catalogues were averaged with weights depending on the formal errors of coordinates . in result",
+    ", the combined catalogue pul08c01a and pul08c01b ( only input catalogues constructed using calc / solve were used ) were constructed .",
+    "( left ) and by @xmath0 ( right ) , unit : mas , title=\"fig : \" ]   ( left ) and by @xmath0 ( right ) , unit : mas , title=\"fig : \" ]     ( left ) and by @xmath0 ( right ) , unit : mas , title=\"fig : \" ]   ( left ) and by @xmath0 ( right ) , unit : mas , title=\"fig : \" ]    figure 2 show the systematic differences between the combined catalogue pul08c01a and the icrf .",
+    "one can see that the catalogue pul08c01a represents the icrf system at a level of about 10 microarcseconds .",
+    "figure 3 shows the systematic differences between the combined catalogue pul08c01b and the icrf .",
+    "the catalogue pul08c01b represents the icrf system at a level of about 5 microarcsec .",
+    "four combined radio source catalogues have been constructed .",
+    "the first two of them , pul08c01a and pul08c01b can be considered as stochastic improvement of the current realization of the icrf . the final combined catalogues pul08c02a and pul08c02b , provides both stochastic and systematic improvement of the icrf ."
+  ],
+  "abstract_text": [
+    "<S> in 2007 , a joint iers / ivs working group has been established to consider practical issues of creating the next icrf generation , icrf-2 . </S>",
+    "<S> the goal of the wg is to seek after ways to improve the existing icrf . in this study </S>",
+    "<S> we investigate a possibility of icrf improvement by means of using combined icrf catalogue instead of a catalogue computed in a single analysis centre , even though using most advanced models and software . in this work , we present a new version of pulkovo combined catalogue of radio source positions computed using the method proposed in @xcite . </S>",
+    "<S> radio source catalogues that were submitted in 2007 in the framework of the wg activity were used as input for mutual comparison and combination . </S>",
+    "<S> four combined catalogues have been calculated : two first of them provide a stochastic improvement of the icrf , and last two of them allow us to account also for systematic errors in the current icrf version .    ' '' ''    width 0.4  0.2ex 5th ivs general meeting , st .  </S>",
+    "<S> petersburg , russia , 36 march 2007 </S>"
+  ]
+}

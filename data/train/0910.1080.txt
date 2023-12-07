@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "current theories  @xcite suggest that leptoquarks would come in three different generations corresponding to the three quark and lepton generations .",
+    "leptoquarks would have color , fractional electric charge , both lepton and baryon numbers , and could be scalars or vectors . at the tevatron leptoquarks could appear in pairs through @xmath2 annihilation ( dominates for @xmath3  gev ) or @xmath4 fusion ,    @xmath5    or through the associated lepton production    @xmath6    with the contribution of the last one being small .",
+    "the pair production cross section for scalar leptoquarks only depends on the strong coupling constant and on the leptoquark mass .",
+    "the vector leptoquark pair production cross section also depends on anomalous @xmath7 couplings @xmath8 and @xmath9 , and the experimental constrains are generally given for three models : `` minimal coupling '' ( @xmath10 , @xmath11 ) , `` yang mills '' ( @xmath12 , @xmath11 ) , and `` minus minus '' ( @xmath13 , @xmath14 )",
+    ". leptoquarks decay into a charged lepton and a quark with a branching fraction @xmath15 or into a neutrino and a quark with a branching fraction ( @xmath16 ) .",
+    "thus frations of a leptoquark pairs into the @xmath17 , @xmath18 and @xmath19 final states are @xmath20 , @xmath21 and @xmath22 respectively .",
+    "this report presents a summary searches for leptoquark pair production in the data sets collected with the d0 detector  @xcite during run  ii ( started march 2001 ) of the fermilab tevatron collider .",
+    "a search explored the final state where both leptoquarks decay into a neutrino and quarks assuming @xmath23 : @xmath24 .",
+    "the corresponding detector signature is two acoplnar jets accompanied by missing energy .",
+    "no selection specific for jet flavor were applied .",
+    "thus the search results applied to all three generations of leptoquarks .",
+    "the analysis used 2.5  fb@xmath25 of d0 run  ii data .",
+    "events were recorded using triggers requiring two acoplanar jets and large missing transverse energy , @xmath26 , or large @xmath27 , the vector sum of the jets transverse energy @xmath28 .",
+    "the two leading jets were required to be in the central region @xmath29 of the d0 detector and have transverse momenta greater then 35  gev .",
+    "the multijet qcd background was suppressed by requiring @xmath26 to be greater then 75  gev and with cuts on angular correlations between jets and @xmath26 directions : the azimutal angle between @xmath26 and the first jet and the minimal and maximal angles between any jets and @xmath26 . to suppress the dominant standard model ( sm ) background from @xmath30 events a veto on events containing an isolated electron or muon with @xmath31  gev",
+    "was applied , and events with an isolated track @xmath32  gev were also rejected .",
+    "the two final cuts on @xmath26 and @xmath33 were optimized for different signals by minimizing the expected upper limit on the cross section in the absence of signal    table  [ tab : lq_allgen ] shows the number of data , background and signal events after all selections for @xmath34  gev and @xmath35  gev leptoquark signals .",
+    "no significant excess of data over the predicted backround was found .",
+    "figure  [ fig : lq_allgen ] shows the observed and expected 95% c.l .",
+    "limits on scalar leptoquark pair production cross sections as a function of the lq mass .",
+    "the observed and expected lower lq mass limit of 214  gev and 222  gev respectively were obtained at the intersection of the experimental cross section limits with the nominal theoretical production cross section calculated for the factorization and renormalization scale @xmath36 .",
+    ".@xmath24 analysis .",
+    "number of data , background and signal events after all selections for different lq signals . [ cols=\"^,^,^,^,^ \" , ]     [ tab : lq3_nub ]     ( points plus solid line ) as a function of @xmath37 for the pair production of third generation leptoquarks .",
+    "the expected cross section limits are the same as the observed .",
+    "the grey shaded band shows the pdf and the renormalization scale error bounds on the nlo production cross section ( solid line ) calculated for @xmath36 .",
+    "the long dashed line shows @xmath38 for the @xmath39 = @xmath40 times the phase suppression factor for the @xmath41 channel.,width=302 ]",
+    "searches for pair production of leptoquarks of all three generations were performed in 14  fb@xmath25 d0 data samples . all presented analysis",
+    "are in good agreement with the sm predictions .",
+    "no leptoquarks signals were observed , and a set of 95% c.l .",
+    "limits on lq masses have been obtained improving previous tevatron results .",
+    "more details on the presented analyses can be found at  @xcite ."
+  ],
+  "abstract_text": [
+    "<S> we report on d0 searches for leptoquarks ( lq ) predicted in extended gauge theories and composite models to explain the symmetry between quarks and leptons . </S>",
+    "<S> data samples obtained with the d0 detector from @xmath0 collisions at a center - of - mass energy of 1.96  tev corresponding to intergrated luminosities of 14  fb@xmath1 were analyzed . </S>",
+    "<S> no evidence for the production of such particles were observed and lower limits on leptoquark masses are set . </S>"
+  ]
+}

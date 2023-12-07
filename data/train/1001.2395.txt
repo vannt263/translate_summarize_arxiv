@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "our concern here is to locate the past ( white hole ) horizon . in general dynamical situations",
+    "this might be rather nontrivial since the obvious candidate - event horizon - is a global characteristic and therefore the full spacetime evolution is necessary in order to localize it .",
+    "therefore , over the past years different quasi - local characterizations of black hole boundary were developed .",
+    "the most important ones being apparent horizon @xcite , trapping horizon @xcite and isolated or dynamical horizon @xcite .",
+    "the basic _ local _ condition in the above mentioned horizon definitions is effectively the same : these horizons are sliced by marginally trapped hypersurfaces with vanishing expansion of outgoing ( ingoing ) null congruence orthogonal to the surface .    for the vacuum four dimensional robinson ",
+    "trautman solutions without cosmological constant the location of the horizon together with its general existence and uniqueness has been studied by tod @xcite , and further by chow and lun @xcite .",
+    "these results were recently extended to nonvanishing cosmological constant @xcite .",
+    "trautman spacetimes ( containing aligned pure radiation and a cosmological constant @xmath2 ) in any dimension were obtained @xcite by requiring the existence of a twistfree , shearfree and expanding null geodesic congruence .",
+    "they have arrived at the following metric valid in higher dimensions @xmath3 where @xmath4 .",
+    "the unimodular spatial @xmath5-dimensional metric @xmath6 and the function @xmath7 must satisfy the field equation @xmath8 ( with @xmath9 being the rescaled metric and @xmath10 its ricci tensor ) , @xmath11 is a `` mass function '' ( we assume @xmath12 ) .",
+    "to localize the past horizon , we will be dealing only with the condition of vanishing expansion defining the marginally trapped hypersurfaces .",
+    "the explicit parametrization of the _ past horizon _",
+    "hypersurface is @xmath13 such that its intersection with each @xmath14 slice is an outer marginally past trapped ( @xmath15)-surface .    by straight - forward computation ( using a generalization of the tetrad formalism to arbitrary dimension ) one",
+    "easily calculates the expansion associated with the outgoing null congruence @xmath16 ( orthogonal to @xmath17 surface ) to be @xmath18 meaning that it is diverging .",
+    "this is exactly what one assumes when dealing with the past trapped surface and is the additional condition in the definition of trapping horizon @xcite .",
+    "expansion of the ingoing null congruence @xmath19 can be calculated using the formula @xmath20 , where the tensor @xmath21 corresponds to the hypersurface projector . from @xmath22",
+    "we get the marginally trapped hypersurface condition ( equivalent to penrose  tod equation in four dimensions ) @xmath23 @xmath24 it is a nonlinear second order partial differential equation , where both the laplacian and scalar product in the last term correspond to the einstein metric @xmath25 .",
+    "interesting property of this equation is that for @xmath1 its nonlinearity is much worse since the term quadratic in derivatives appears .",
+    "the uniqueness and existence results for equation are derived in ref .",
+    "( with @xmath26 and using the previous works refs .  ) and",
+    "the results are summarized in the following table :    @xmath27{\\frac{3\\mu}{2\\lambda}}\\\\ \\hline \\hline \\end{array}\\ ] ]",
+    "the methods used in @xmath0 are not applicable when the equation is of the form ( after the substitution @xmath28 in ( [ pt ] ) , assuming @xmath29 with a suitable constant @xmath30 ) @xmath31 where @xmath32 is quadratic in gradient .    to prove existence of the solution to this quasilinear equation one can proceed by combining several steps ( motivated by ref .   and using results from refs .  ) .",
+    "these steps include the use of maximum principle , fredholm alternative , truncature of functions , schauder fixed point theorem and elliptic estimates .",
+    "the main requirement one has to satisfy is the existence of sub- and super - solutions .",
+    "one can construct constant sub- and super - solutions ( assuming @xmath33 and @xmath34 ) for any @xmath35 , but for positive cosmological constant one has to demand @xmath36 interestingly , this last condition reduces in the four - dimensional case ( which can be included ) to the condition from the above table for the existence of the solution when @xmath37 ( @xmath38 asymptotically approaches @xmath39 ) .    since according to mathematical results any manifold ( including compact ones ) of dimension greater than or equal to @xmath40",
+    "can be endowed with a complete riemannian metric of constant negative scalar curvature @xcite one should also consider that @xmath41 for our @xmath15-dimensional spatial hypersurface .",
+    "however , one can construct constant sub- and super - solutions only for negative cosmological constant .",
+    "we have derived the generalization of the penrose  tod equation to higher dimensional robinson - trautman spacetimes including cosmological constant and pure radiation .",
+    "using several mathematical tools we have proved the existence of its solution for any @xmath35 and for @xmath34 .",
+    "the limitations arising for positive @xmath2 are naturally related to the more complicated horizon structure of relevant spacetimes .",
+    "this work was supported by grants gacr 202/07/p284 , gacr 202/09/0772 and the czech ministry of education project center of theoretical astrophysics lc06014 ."
+  ],
+  "abstract_text": [
+    "<S> we derive the higher dimensional generalization of penrose  tod equation describing past horizon in robinson  </S>",
+    "<S> trautman spacetimes with a cosmological constant and pure radiation . </S>",
+    "<S> results for @xmath0 dimensions are summarized . </S>",
+    "<S> existence of its solutions in @xmath1 dimensions is proved using tools for nonlinear elliptic partial differential equations . </S>"
+  ]
+}

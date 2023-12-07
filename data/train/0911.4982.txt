@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "this work was supported by grants from the natural sciences and engineering research council of canada and mitacs , and by the canada research chair program , and made possible by the facilities of the shared hierarchical academic research computing network ( ` http://www.sharcnet.ca/ ` ) .",
+    "d.  bremner , j.  bokowski , and g.  gvay .",
+    "_ symmetric matroid polytopes and their generation _ , european journal of combinatorics , * 30 * ( 2009 ) no . 8 , pp 17581777 . ` http://dx.doi.org/10.1016/j.ejc.2008.12.006 ` .",
+    "branko grnbaum , _ convex polytopes _ , 2nd ed .",
+    ", graduate texts in mathematics , vol .",
+    "221 , springer - verlag , new york , 2003 . prepared and with a preface by volker kaibel , victor klee and gnter m. ziegler , pp . 341 - 355b .",
+    "lars schewe , _ non - realizable minimal vertex triangulations of surfaces : showing non - realizability using oriented matroids and satisfiability solvers _ discrete and computational geometry ( 2009 ) . ` http://dx.doi.org/10.1007/s00454-009-9222-y ` , in press .",
+    "david bremner + faculty of computer science , university of new brunswick , canada .",
+    "+ _ email _ : bremner@unb.ca +   antoine deza , william hua + advanced optimization laboratory , department of computing and software , mcmaster university , hamilton , ontario , canada .",
+    "+ _ email _ : deza , huaw@mcmaster.ca +   lars schewe + fachbereich mathematik , technische universitt darmstadt , germany .",
+    "+ _ email _ : schewe@mathematik.tu-darmstadt.de +"
+  ],
+  "abstract_text": [
+    "<S> let @xmath0 be the maximum possible edge diameter over all @xmath1-dimensional polytopes defined by @xmath2 inequalities . </S>",
+    "<S> the hirsch conjecture , formulated in 1957 , suggests that @xmath0 is no greater than @xmath3 . </S>",
+    "<S> no polynomial bound is currently known for @xmath0 , the best one being quasi - polynomial due to kalai and kleitman in 1992 . </S>",
+    "<S> goodey showed in 1972 that @xmath4 and @xmath5 , and more recently , bremner and schewe showed @xmath6 . in this follow - up , we show that @xmath7 and present strong evidence that @xmath8 .    finding a good bound on the maximal edge diameter @xmath0 of a polytope in terms of its dimension @xmath1 and </S>",
+    "<S> the number of its facets @xmath2 is one of the basic open questions in polytope theory @xcite . </S>",
+    "<S> although some bounds are known , the behaviour of the function @xmath0 is largely unknown . </S>",
+    "<S> the hirsch conjecture , formulated in 1957 and reported in @xcite , states that @xmath0 is linear in @xmath2 and @xmath1 : @xmath9 . </S>",
+    "<S> the conjecture is known to hold in small dimensions , i.e. , for @xmath10 @xcite , along with other specific pairs of @xmath1 and @xmath2 ( table  [ before ] ) . </S>",
+    "<S> however , the asymptotic behaviour of @xmath0 is not well understood : the best upper bound  due to kalai and kleitman  is quasi - polynomial @xcite .    in this article </S>",
+    "<S> we will show that @xmath7 and present strong evidence for @xmath8 . </S>",
+    "<S> the first of these new values is of particular interest since it indicates that the hirsch bound is not sharp in dimension @xmath11 .    </S>",
+    "<S> our approach is computational and builds on the approach used by bremner and schewe @xcite . </S>",
+    "<S> section  [ sec : general ] introduces our computational framework and some related background . </S>",
+    "<S> we then discuss our results in section  [ sec : results ] .    </S>",
+    "<S> .previously known bounds on @xmath0 @xcite . </S>",
+    "<S> [ before ] [ cols=\"^,^,^,^,^,^,^ \" , ] </S>"
+  ]
+}

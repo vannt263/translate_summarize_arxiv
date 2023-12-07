@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "in this study , published recently in full by ahin & lambert ( 2009 ) , we report on an abundance analysis of the a - type m79 pagb star discovered by siegel & bond ( 2009 , in preparation ) in the globular cluster m79 and compare its composition to that of the cluster s red giants .",
+    "the initial mass of this star must have been slightly in excess of the mass of stars now at the main sequence turn - off , say , @xmath5 .",
+    "the star s composition may be referenced to that of the cluster s red giant stars for which abundance analyses have been reported .",
+    "comparison of abundances for the pagb and rgb stars may reveal changes imposed by the evolution beyond the rgb ; such changes are not necessarily attributable exclusively to internal nucleosynthesis and dredge - up .",
+    "it was in the spirit of comparing the compositions of the pagb and rgb stars that we undertook our analysis .",
+    "for the rgb stars , we use results kindly provided in advance of publication by carretta ( 2008 , private communication ) . 0.2 cm",
+    "spectra for the abundance analysis were obtained on five nights between 2008 january 15 and march 3 with the 2.7 meter harlan j. smith reflector and its @xmath6 cross - dispersed chelle spectrograph ( tull et al . 1995 ) .",
+    "full spectral coverage is provided from 3800   to 5700   with incomplete but substantial coverage beyond 5700 to 10200   ; the effective short and long wavelength limits are set by the useful s / n ratio . a thar hollow cathode lamp provided the wavelength calibration .",
+    "flat - field and bias exposures completed the calibration files .",
+    "observations were reduced using standard procedures .",
+    "a section of the final spectrum is shown in figure 1 .",
+    "the heliocentric radial velocity measured form the final spectrum is 211@xmath75 km s@xmath8 with no evidence of a variation greater than about @xmath77 km s@xmath8 over the observing runs .",
+    "this velocity is consistent with the cluster s velocity of + 207.5 km s@xmath8 given by harris ( 1996 ) .",
+    "this agreement between the pagb star s velocity and that of the cluster confirms a result given by siegel and bond ( 2009 , in preparation ) .",
+    "the abundance analysis was undertaken with models drawn from the atlas9 grid ( kurucz 1993 ) and the line analysis programme moog ( sneden 2002 ) .",
+    "the models are line - blanketed plane - parallel atmospheres in local thermodynamical equilibrium ( lte ) and hydrostatic equilibrium with flux conversation .",
+    "a model is defined by the parameter set ; effective temperature @xmath9 , surface gravity @xmath10 , chemical composition as represented by metallicity @xmath11 $ ] and all models are computed for a microturbulence @xmath12 km s@xmath8 . a model defined by the parameter set",
+    "is fed to moog except that @xmath13 is determined from the spectrum and not set to the canonical 2 km s@xmath8 assumed for the model atmosphere . in ahin & lambert ( 2009 )",
+    ", we discuss several methods in an attempt to find consistent values for the @xmath9 and @xmath14 from photometry and spectroscopy .",
+    "application of photometric and spectroscopic indicators of the atmospheric parameters for the pagb star led to the consensus choice of @xmath15 k and @xmath16=0.8 .",
+    "a model with these parameters ( and a micro - turbulence @xmath17 kms@xmath8 ) fits not only the indicators but also the locus in the @xmath9 versus @xmath18 plane provided by the constraint on the star s luminosity and mass . errors on these quantities are 300 k , 0.2 ( cgs ) , and 0.5 km s@xmath8 respectively .",
+    "synthetic spectrum fitting results for the 4481   magnesium triplet and resonance strontium lines at 4077   and 4215   are presented in figs . 2 and 3 as representative of @xmath19- and @xmath20-process elements .",
+    "table 1 summarizes the pagb star s composition not only for the consensus model but also for other three different model atmospheres and contrasts it with the mean composition of the rgb stars . the abundance relative to iron [ x / fe ] is also presented .",
+    "the standard notation is used here , i.e. @xmath21 = log(x / x_{\\rm sun } - log(fe / fe_{\\rm sun})$ ] . the pagb star",
+    "s fe abundance is @xmath22 dex lower than that of the rgb stars . for the majority of the investigated elements ,",
+    "the difference in abundance @xmath23(x ) in the sense ( ours @xmath24 carretta ) is within the range @xmath25 dex , i.e. , the differences are equal to @xmath22 dex to within measurement uncertainties.the exceptions are o , na , si , and sr . a search ( see ahin & lambert 2009 ) for an explanation of the composition difference between the pagb and rgb stars in terms of nucleosynthesis and dredge - up , dust - gas winnowing , and the first ionization potential ( fip ) effect proved negative .",
+    "many determinations of the metallicity [ fe / h ] of cluster red giants have given estimates near [ fe / h]@xmath26 ( standard notation is used for quantities [ x ] where [ x]=@xmath27(x)@xmath28(x)@xmath29 ) .",
+    "for example , zinn & west ( 1984 ) give [ fe / h]@xmath30 and kraft & ivans ( 2003 ) give [ fe / h]@xmath31 .",
+    "recently from high - resolution uves flames spectra carretta and colleagues ( 2008 , private communication ) performed an abundance analysis for 20 elements obtaining [ fe / h]@xmath32 for a sample of ten rgb stars .",
+    "the exploration through quantitative spectroscopy of the newly discovered pagb star in the globular cluster m79 has led to an unexpected and , therefore , fascinating result : the standard lte analysis of the star has resulted in a metallicity different from that of the rgb stars analyzed also by standard lte techniques by carretta .",
+    "the consensus model of ( 6300,0.8 ) provides a [ fe / h ] of @xmath33 but the rgb analysis gives a [ fe / h ] of @xmath34 .",
+    "the star does not show @xmath20-process enhancement .",
+    "oxygen and @xmath19- process elements are enhanced .",
+    "abundances relative to iron appear to be the same for the post - agb star and the red giants for the 15 common elements . it is suggested that the explanation for the lower abundances of the post - agb star may be that its atmospheric structure differs from that of a classical atmosphere ; the temperature gradient may be flatter than predicted by a classical atmosphere .",
+    "harris , w.  e. , 1996 , aj , 112 , 1487 kraft , r.  p. , ivans , i.  i. , 2003 , pasp , 115 , 143 sneden , c. , 2002 , moog an lte stellar line analysis program ahin t. , lambert d.  l. 2009 , mnras , 398 , 1730 tull , r.  g. , macqueen , p.  j. , sneden , c. , lambert , d.  l. , 1995 , pasp , 107 , 251 zinn , r. , west , m.  j. , 1984 , apjs , 55 , 45"
+  ],
+  "abstract_text": [
+    "<S> a detailed chemical composition analysis based on a high - resolution ( @xmath0 ) ccd spectrum is presented for a newly discovered post - agb star in the globular cluster m79 for the first time . the elemental abundance results of m79 post - agb star are found to be @xmath1\\simeq$]-0.7 , @xmath2=$]+1.4 , @xmath3\\simeq$]0.5 , and @xmath4\\simeq$]-0.1 . </S>",
+    "<S> the surprising result is that the iron abundance of the star is apparently about 0.6 dex less than that of the cluster s red giants as reported by published studies including a recent high - resolution spectroscopic analysis by carretta and colleagues . </S>"
+  ]
+}

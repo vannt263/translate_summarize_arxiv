@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "ngc3801 is a nearby e / s0 galaxy at a distance of @xmath147.9 mpc , with the body of the galaxy being crossed by two main dust features ( heckman et al .",
+    "1986 ; verdoes kleijn et al .",
+    "a warped dust lane lies along the optical minor axis while patchy dust filaments are seen on the eastern and western halves of the galaxy . at brightness levels",
+    "@xmath2@xmath123@xmath324 mag arcsec@xmath4 , the galaxy shows a hysteresis loop like structure while at even fainter levels , a boxy isophotal structure is seen ( heckman et al .",
+    "it hosts a small radio galaxy with an angular size of @xmath150 arcsec ( 11 kpc ) , whose jet axis is almost orthogonal to the rotation axis of the stellar component or orthogonal to the minor - axis dust lane ( heckman et al .",
+    "millimetre - wave observations have helped identify a radio core and clumps of co(1@xmath30 ) emission suggesting a r@xmath12 kpc circum - nuclear rotating gas disk orthogonal to stellar rotation and perpendicular to the radio jet ( das et al .",
+    "_ chandra _ observations reveal shock - heated shells of hot gas surrounding the radio lobes ( croston , kraft , & hardcastle 2007 ) .",
+    "hi observations with the arecibo telescope show gas in both emission and absorption , but higher resolution observations are required to determine its distribution and kinematics ( heckman et al . 1983 ) .",
+    "we present the first ever imaging study in hi , dust , uv and pa@xmath5 emission .",
+    "figure 1 shows the radio continuum image superimposed on an optical dss blue - band image in the left panel and the total intensity hi image superimposed on the 8.0 @xmath0 m dust / pah emission image from the _ spitzer _ on the right panel .",
+    "the dust emission shows a prominent linear feature nearly orthogonal to the jet in the central region ( r@xmath12 kpc ) .",
+    "we found that both the 8.0 @xmath0 m dust / pah emission and uv emission from _ galex _ show similar @xmath130 kpc wide s - shaped structure , representing young massive star formation in it .",
+    "our hi - emission study with the vla shows emission blobs on the eastern ( mostly red - shifted ) and western ( blue - shifted ) sides , roughly coinciding with the tails of the s - shaped structure ( figure 1 , right panel ) .",
+    "these hi results suggest a rotating gas disk ( v@xmath6@xmath1280 km s@xmath7 ) , with velocities nearly twice than that of the stars ( cf .",
+    "heckman et al . 1985 ) .",
+    "in addition , broad , faint , blue - shifted absorption wing and an hi absorption clump associated with the shocked shell around the eastern lobe are seen , possibly due to jet - driven outflow . due to its similarity with kinematically decoupled cores and other properties , we propose that a merger between a gas - rich spiral galaxy and an elliptical galaxy has triggered its agn activity and has shaped its stellar , gaseous and radio - jet structures .",
+    "detailed stellar population synthesis studies to understand its time evolution are in progress .",
+    "croston , j. h. , kraft , r. p. , & hardcastle , m. j. 2007 , apj , 660 , 191 das m. et al .",
+    "2005 , apj , 629 , 757 heckman , t. m. , balick , b. , van breugel , w. j. m. , & miley , g. k. 1983 , aj , 88 , 583 heckman , t. m. , illingworth , g. d. , miley , g. k. , & van breugel , w. j. m. 1985 , apj , 299 , 41 heckman , t. m. et al .",
+    "1986 , apj , 311 , 526 verdoes kleijn , g. a. , baum , s. a. , de zeeuw , p. t. , & odea , c. p. 1999 , aj , 118 , 2592"
+  ],
+  "abstract_text": [
+    "<S> we present preliminary results from a multi - wavelength study of a merger candidate , ngc3801 , hosting a young fr i radio galaxy , with a z - shaped structure . </S>",
+    "<S> analysing archival data from the vla , we find two hi emission blobs on either side of the host galaxy , suggesting a 30 kpc sized rotating gas disk aligned with stellar rotation , but rotating significantly faster than the stars . </S>",
+    "<S> broad , faint , blue - shifted absorption wing and an hi absorption clump associated with the shocked shell around the eastern lobe are also seen , possibly due to an jet - driven outflow . while 8.0 @xmath0 m dust and pah emission , from _ </S>",
+    "<S> spitzer _ and near and far uv emission from _ galex _ is seen on a large scale in an s - shape , partially coinciding with the hi emission blobs , it reveals a @xmath12 kpc radius ring - like , dusty , starforming structure in the nuclear region , orthogonal to the radio jet axis . </S>",
+    "<S> its similarities with kinematically decoupled core galaxies and other evidences have been argued for a merger origin of this young , bent jet radio galaxy . </S>"
+  ]
+}
