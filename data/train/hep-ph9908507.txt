@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "flavor asymmetry in the light quark sea of the proton has been well - established by experiment @xcite .",
+    "the violation of the gottfried sum rule found by nmc @xcite indicated that @xmath2 . in drell - yan experiments ,",
+    "@xmath3 was determined to be greater than 2 at @xmath4 by na51 @xcite , and the @xmath5-dependence of this ratio has recently been measured by e866 @xcite in the region @xmath6 . from their data and global parton distributions",
+    "@xcite e866 also determined the difference @xmath7 and @xmath8 .",
+    "flavor asymmetry consistent with these results has also been seen in the measurement of @xmath7 by hermes @xcite .",
+    "it was first suggested by thomas @xcite , and later by henley and miller @xcite that a natural explanation for this asymmetry is the meson cloud of the proton .",
+    "the net positive charge of the cloud leads to an excess of @xmath9 over @xmath10 .",
+    "other causes for the asymmetry have been invoked , such as antisymmetrization @xcite , but these have been insufficient to describe the data . for reviews , see refs .",
+    "@xcite .",
+    "we wish to emphasize that the e866 measurements provide a critical test of our understanding of the flavor - symmetric ( fs ) contributions to the light quark sea , as well as the flavor - asymmetric ( fa ) contributions .",
+    "meson cloud models @xcite provide a reasonably good description of the @xmath0 asymmetry , which depends on fa contributions alone , but fail to explain the broad maximum in the ratio @xmath11 at @xmath12 and its return to unity , or even lower values , at larger @xmath5 .",
+    "fs terms also contribute to this ratio @xmath13 and it is clear that @xmath14 falls too rapidly with @xmath5 in these models .",
+    "we have proposed @xcite that agreement with data can be improved by using harder distributions for the perturbative contributions to @xmath14 , motivated by their origin in gluon splitting .",
+    "to illustrate this argument we use a pion cloud model .",
+    "other states should be included in a full calculation , but e.g. the @xmath15 meson increases @xmath0 , whereas the intermediate @xmath16 decreases it , so these effects tend to cancel .",
+    "the wave function of the proton is written in terms of a fock state expansion @xmath17 with @xmath18 .",
+    "the factor @xmath19 is a wavefunction renormalization constant and @xmath20 is the probability amplitude for finding a physical nucleon in a state consisting of a baryon @xmath21 with longitudinal momentum fraction @xmath22 , transverse momentum @xmath23 , and a meson @xmath24 of momentum fraction @xmath25 , transverse momentum @xmath26 .",
+    "the quark distribution functions @xmath27 in the proton are given by @xmath28 with @xmath29 @xmath30 and @xmath31 the splitting function @xmath32 , with @xcite @xmath33 ^ 2},\\ ] ] in which @xmath34 is the invariant mass squared of the intermediate fock state @xmath35 we use an exponential form for the cutoff @xmath36 which insures that the identity ( [ sym ] ) is satisfied @xcite .",
+    "we use holtmann s parametrization @xcite of the bare nucleon symmetric sea ( @xmath37 ) @xmath38    since gluon splitting is the origin of this sea , we also use a harder distribution for the bare sea quarks , of the form found in a recent determination of the gluon distribution @xcite @xmath39 for the pion valence quarks @xmath40 and sea quarks @xmath41 we use @xcite @xmath42 the @xmath43-nucleon coupling constant is taken as @xmath44 the value of @xmath45 gev is chosen to reproduce the integrated asymmetry @xmath46 @xcite .",
+    "the results of our calculations for @xmath47 are shown in fig .  1 , and those for the ratio @xmath48 are shown in fig .  2 .",
+    "1 the flavor asymmetry is caused entirely by the @xmath49 , and our result is not affected by the different forms we have chosen for the bare sea fs contribution . in fig .",
+    "2 the solid curve shown is for the perturbative sea quark distribution of ( [ soft ] ) . the dashed curve is for the gluonic form of ( [ hard ] ) .",
+    "it is clear from fig .",
+    "2 that a better description of the present data is provided by using a harder distribution for the symmetric sea . of course other fs contributions could produce a similar improvement in agreement between theory and experiment .",
+    "we have recently examined the role of the @xmath50 in the meson cloud of the proton and find this to be the case @xcite .",
+    "the @xmath51 meson would also tend to suppress @xmath52 .",
+    "a complete calculation must include all the components of the meson cloud .",
+    "forthcoming analyses of new e866 data @xcite and proposed experiments @xcite will further test our models of both perturbative and non - perturbative contributions to the flavor - symmetric and flavor - asymmetric components of the proton sea .",
+    "this work has been supported in part by the u.s .",
+    "department of energy and the research in undergraduate institutions program of the u.s",
+    ". national science foundation ( grant no .",
+    "9722023 ) .",
+    "we thank the members of the e866 collaboration for helpful discussions of their data and analyses .",
+    "one of us ( emh ) thanks j. speth for a useful discussion and for his hospitality at the kfz in juelich ."
+  ],
+  "abstract_text": [
+    "<S> we use the meson cloud model to calculate @xmath0 and @xmath1 in the proton . </S>",
+    "<S> we show that a modification of the symmetric , perturbative part of the light quark sea provides better agreement with the ratio @xmath1 . </S>"
+  ]
+}

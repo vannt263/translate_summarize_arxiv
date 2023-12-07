@@ -1,0 +1,19 @@
+{
+  "article_text": [
+    "in 1982 , c. camacho and p. sad @xcite proved that any holomorphic foliation in @xmath6 has at least one invariant anaylitc curve passing through @xmath7 .",
+    "this result was searched for , at least , since xix century ( cf .",
+    "@xcite in which it was proved for what are now called _",
+    "simple _ singularities ) .",
+    "afterwards , the same camacho generalized it to vector fields in singular surfaces whose dual resolution graph is a tree @xcite . in 1993 ,",
+    "j. cano @xcite gave a constructive proof , which he simplified in 1997 @xcite .",
+    "camacho and sad s requires a detailed ( and rather cumbersome ) study of the combinatorial behaviour of what has since been called the _ camacho - sad index _ of an invariant manifold .",
+    "j. cano s , on the other hand , although being much simpler , introduces a somewhat artificial condition on that index .",
+    "our work relies on the new , as far as the author knows study of the behaviour of sequences of blowing - ups under ramification morphisms .",
+    "these maps were used successfully in @xcite regarding thom s gradient conjecture ( see @xcite ) and @xcite for studying some properties of the polar curves of a foliation . in the present paper",
+    "we show roughly speaking how a sequence of blowing - ups can be modified by a ramification to obtain a new sequence _ without combinatorial terms _ : in the same way as one can modify a ( singular ) plane curve by a ramification in order to get a union of regular curves , we `` modify '' a sequence of blowing - ups in order to get another one which is `` regular '' ."
+  ],
+  "abstract_text": [
+    "<S> we study the behaviour of sequences of blowing - ups under ramifications , and use the results to give a simple proof of camacho - sad s theorem on the existence of separatrices for singularities of plane holomorphic foliations . </S>",
+    "<S> the main result we prove is that for any finite sequence @xmath0 of blowing - ups , there is a ramification morphism @xmath1 such that the elimination of indeterminations @xmath2 of @xmath3 is a sequence of blowing - ups _ with centers at regular points of the exceptional divisors _ ; moreover , we show that if @xmath0 is the reduction of singularities of a foliation @xmath4 , then @xmath1 can be such that @xmath5 has only simple singularities . </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "99 g. marchesini et al . ,",
+    "_ comput . phys",
+    ". commun . _ * 67 * ( 1992 ) 465 .",
+    "g. corcella and m.h .",
+    "seymour , hep - ph/9908335 .",
+    "d  collaboration , b. abbott et al .",
+    "lett . _ * 80 * ( 1998 ) 5498 .",
+    "cdf collaboration , t. affolder et al .",
+    ", fermilab - pub-99/220-e ."
+  ],
+  "abstract_text": [
+    "<S> we show vector boson transverse momentum distributions at the tevatron , obtained by running the herwig monte carlo event generator with matrix - element corrections . </S>",
+    "<S> we compare our results with some recent d  and cdf data .    </S>",
+    "<S> ur1589 + er/40685/939 + hep - ph/9911536 + november 1999    vector boson production at hadron colliders is a fundamental process to test quantum chromodynamics and the standard model of the electroweak interactions . </S>",
+    "<S> the lowest order processes @xmath0 and @xmath1 are not sufficient to perform reliable phenomenological predictions , but the initial - state radiation has to be taken into account . a possible way to deal with such multiple emissions consists in running a monte carlo event generator . </S>",
+    "<S> standard monte carlo algorithms @xcite describe parton cascades in the soft / collinear approximation , with ` dead zones ' in the phase space which can be filled by the using of the exact first - order matrix element .    </S>",
+    "<S> in @xcite we implemented matrix - element corrections to the herwig simulation of drell  yan interactions : we filled the missing phase space using the exact @xmath2 matrix element ( hard corrections ) and corrected the shower in the already - populated region using the exact amplitude for every hardest - so - far emission ( soft corrections ) . for @xmath3 production at the tevatron , about 4% of the events </S>",
+    "<S> are generated in the dead zone , about half of which are @xmath4 events . </S>",
+    "<S> similar results hold for @xmath5 production as well .    an interesting observable </S>",
+    "<S> to study is the vector boson transverse momentum @xmath6 , which is the object of many theoretical and experimental analyses . </S>",
+    "<S> while in the parton shower approximation it has to be @xmath7 , after matrix - element corrections a fraction of events with larger values of @xmath6 is to be expected . in fig .  </S>",
+    "<S> [ wqt ] ( a ) , we plot the @xmath3 @xmath6 spectrum at the tevatron according to herwig 5.9 , the latest public version , and to herwig 6.1 , the new version including matrix - element corrections to drell  yan processes . </S>",
+    "<S> herwig has the option to vary the intrinsic transverse momentum @xmath8 of the incoming partons , which is set to zero , its default value , in the distributions shown in fig .  </S>",
+    "<S> [ wqt ] ( a ) . </S>",
+    "<S> we observe a remarkable impact of the corrections : after some @xmath6 the 5.9 version does not give events anymore , while herwig 6.1 still has some events generated via the exact matrix element . in fig .  </S>",
+    "<S> [ wqt ] ( b ) we compare some recent d  data @xcite on @xmath3 production at the tevatron with the herwig 6.1 results , which we corrected in order to take the detector smearing effects into account . </S>",
+    "<S> we find good agreement overall ; we also consider the option of @xmath9  gev , but do not see any relevant effect after the detector corrections .    as far as @xmath5 production is concerned , </S>",
+    "<S> we have some preliminary cdf data @xcite , already corrected for detector effects , which we compare with herwig 6.1 in fig .  </S>",
+    "<S> [ zqt ] , where the options @xmath8=0 , 1 and 2 gev are investigated . </S>",
+    "<S> the agreement is acceptable and the role of the implemented matrix - element corrections is crucial in order to succeed in fitting in with the data for @xmath10  gev . at very low @xmath6 , </S>",
+    "<S> the best fit is obtained by setting @xmath11  gev .    in fig </S>",
+    "<S> .  [ ratio ] , we plot the ratio of the @xmath3 and the @xmath5 transverse momentum spectra , both normalized to unity , for different values of @xmath8 . </S>",
+    "<S> although it can be seen from fig .  </S>",
+    "<S> [ zqt ] ( b ) that the @xmath5 @xmath6 spectrum depends strongly on @xmath8 at low @xmath6 , the ratio of the @xmath3 and @xmath5 spectra is insensitive to it . </S>",
+    "<S> this is good news for the @xmath3 mass measurement in hadron collisions , as this ratio is one of the main theory inputs that is needed . </S>",
+    "<S> a strong dependence on unknown non - perturbative parameters like @xmath8 could limit the accuracy of the @xmath3 mass measurement at the tevatron and , ultimately , at the lhc .    </S>",
+    "<S> we have added matrix - element corrections to herwig s treatment of vector boson production in hadron collisions . </S>",
+    "<S> they make an enormous difference at high transverse momentum @xmath6 , but little at low @xmath6 . </S>",
+    "<S> although the dependence of the results on the non - perturbative intrinsic @xmath6 of partons in the proton ( @xmath8 ) is quite strong at low @xmath6 , it is very similar in the @xmath3 and @xmath5 cases , so that the ratio of the two @xmath6 spectra is almost independent of @xmath8 . </S>"
+  ]
+}

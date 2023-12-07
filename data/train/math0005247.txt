@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "even in the setting of infinite dimensional dynamics many of the dynamical objects of interest are low dimensional , e.g.equilibria , periodic orbits , connecting orbits , horseshoes , etc . in this paper",
+    "we introduce techniques which , in principle , allow for the rigorous verification of such solutions for a wide variety of partial differential equations .",
+    "our approach is to combine rigorous computer calculations with topological invariants to obtain accurate existence statements . to demonstrate these techniques we have chosen to study the the kuramoto - sivashinsky equation @xcite @xmath2 subject to periodic and odd boundary conditions",
+    "@xmath3 the following theorem is a prototype for the results which can be obtained .",
+    "[ thm : proto ] let @xmath4 where the @xmath5 are given in table  [ table : coef ] .",
+    "then , for @xmath6 there exists an equilibrium @xmath7 for ( [ eq : ks ] ) such that @xmath8 . [ cols=\"^,^,^ \" , ]     what should be clear at this point is that the uncertainty contributed by the terms not in the galerkin projection are extremely small . obviously , at this point",
+    "most of the uncertainty is due to the size of @xmath9 .",
+    "having controlled the errors from the galerkin truncation , the next step is to obtain an isolating block @xmath10 which is topologically self consistent with @xmath9 and @xmath11 . in determing",
+    "@xmath10 we use the vector field ( [ eq : ksgal22 ] ) .",
+    "of course , the correct equations are given by ( [ eq : ksfodd ] ) : @xmath12 using corollary  [ cor : tailest ] one obtains the following bounds on the errors , @xmath13 , @xmath14 , @xmath15 \\quad{\\rm and}\\quad \\epsilon_2=[-1.544 \\cdot 10^{-8},0.0697171].\\ ] ]    thus , the equations for which the isolating neighborhood should be found are @xmath16 the construction of the isolating block around @xmath17 is easier if one works in coordinates determined by the eigenfunctions of the linearized equations at the fixed point .",
+    "the eigenvalues are @xmath18 with corresponding unit eigenvectors @xmath19 let @xmath20 be the affine change of variables from @xmath21 in this new basis to the original variables @xmath22 . then",
+    ", on the set @xmath23 ( [ eq : ksgal22err ] ) becomes @xmath24 where @xmath25 and @xmath26 are polynomials containing only terms of degree two and @xmath27 , @xmath28 are obtained from @xmath29 , @xmath30 by the transformation @xmath20 . in particular , @xmath31   , \\quad { \\tilde \\epsilon_2}=[-0.0764461,0.00397075]\\ ] ]    set @xmath32 ^ 2 $ ] , then @xmath33 .",
+    "thus , an isolating block @xmath34 ( which satisfies the error constraints ) will give rise to an isolating block @xmath35 such that @xmath10 , @xmath9 and @xmath11 are topologically consistent .",
+    "since for each @xmath36 , @xmath37 , @xmath38 thus , by theorem  [ thm : fixedpoint ] , there exists the desired fixed point in @xmath39.\\ ] ]    thus , all that remains is to construct @xmath40 . in the @xmath41",
+    "coordinates the error constraints become @xmath42 this implies that bounds on the derivative are given by @xmath43    observe that @xmath44 , hence the box @xmath45 \\times     \\left[-\\frac{b_y}{\\lambda_2},-\\frac{b_y}{\\lambda_2}\\right ]   \\\\ & = & { [ } -0.0623385 , 0.0701918 { ] } \\times [ -0.0132425,0.00353264 ] \\subset { \\tilde w}\\end{aligned}\\ ] ] is an isolating block .",
+    "before beginning this section we want to once again emphasize that the proofs of the theorems in this paper are in principle independent of this section . on the other hand , good initial guesses greatly improve the speed of convergence .",
+    "the estimates described in what follows apparently provide excellent initial values for the self - consistent bounds .",
+    "we will follow the arguments from @xcite to produce estimates for errors in the galerkin projection .",
+    "kuramoto - sivashinsky can be written in the form @xmath46 where @xmath47 while @xmath48 , it is still the case that @xmath49 to simplify the notation , let @xmath50      we will make use of the following inequality ( * ? ? ? *",
+    "lemma 1.4 ) @xmath52 are @xmath53 , @xmath54 and the corresponding complete family of orthonormal eigenfunctions are @xmath55 .",
+    "let @xmath56 be an orthogonal projection on first @xmath57 eigenfunctions and set @xmath58 .",
+    "* proof : * beginning with ( [ eq : qdot ] ) and taking a scalar product with @xmath60 gives @xmath64 therefore , @xmath65 observe that @xmath66 and @xmath67 thus , ( [ eq : aimgi ] ) ( [ eq : aqq ] ) and ( [ eq : asqq ] ) imply that @xmath68          theorem  [ th : gale1 ] can be used as follows . for a fixed @xmath81",
+    ", numerical experiments can suggest values for @xmath82 and @xmath83 . for @xmath84 one can use the formula @xmath85 for @xmath86",
+    ", one defines @xmath87"
+  ],
+  "abstract_text": [
+    "<S> we present a new topological method for the study of the dynamics of dissipative pde s . the method is based on the concept of the self - consistent apriori bounds , which allows to justify rigorously the galerkin projection . as a result we obtain a low - dimensional system of ode s subject to rigorously controlled small perturbation from the neglected modes . to this ode </S>",
+    "<S> s we apply the conley index to obtain information about the dynamics of the pde under consideration .    </S>",
+    "<S> we applied the method to the kuramoto - sivashinsky equation @xmath0    we obtained a computer assisted proof the existence of the large number fixed points for various values of @xmath1 .    </S>",
+    "<S> rigorous numerics for partial differential equations : the kuramoto - sivashinsky equation + by + piotr zgliczyski + jagiellonian university , institute of mathematics , + reymonta 4 , 30 - 059 krakw , poland + and + center for dynamical systems and nonlinear studies + school of mathematics + georgia institute of technology + atlanta , ga 30332 + e - mail : zgliczyn@im.uj.edu.pl , piotrz@math.gatech.edu    and    konstantin mischaikow +   + center for dynamical systems and nonlinear studies + school of mathematics + georgia institute of technology + atlanta , ga 30332 + e - mail : mischaik@math.gatech.edu    ams subject classification numbers : 37b30 , 37l65 , 65m60 , 35q35 </S>"
+  ]
+}

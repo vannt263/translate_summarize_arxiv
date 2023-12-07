@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "une immersion isomtrique dhypersurface @xmath15 de classe @xmath16 est localement rigide en dehors du lieu des points de courbure nulle et on sattend  ce que les proprits mtriques de @xmath10 dterminent de nombreuses proprits de @xmath17 .",
+    "il y a pourtant peu de rsultats quantitatifs qui estiment des caractristiques extrinsques en termes dobjets intrinsques et qui soient valables en toute dimension ( voir @xcite pour plus de rfrences ) .",
+    "le rsultat qui est  la source du prsent travail est une ingalit de burago @xcite  6.2 _ en dimension @xmath4_. si @xmath18 dsigne la courbure totale de limmersion , @xmath19 est le rayon dune boule contenant @xmath20 et @xmath21 dsigne laire de @xmath10 alors @xmath22 avec galit uniquement pour le plongement isomtrique standard de la sphre de rayon @xmath19 .",
+    "nous nous sommes poss la question sil y a un analogue de ( [ burago depart ] ) en dimension suprieure .",
+    "la rponse est _ ngative _ pour ce qui est dune ingalit globale du type @xmath23 nanmoins , nous obtenons des ingalits  caractre isoprimtrique _ semi - local _ faisant intervenir la courbure totale dun ouvert sur lequel lapplication de gauss est non - dgnre et exhibant le lieu des points de courbure nulle comme une obstruction  lexistence dingalits globales .",
+    "larticle est structur comme suit .",
+    "nous prsentons dans la section [ le contre - exemple ] un exemple explicite qui prouve la non - existence danalogues de ( [ burago depart ] ) en dimension suprieure .",
+    "la section [ ineg globales ] dveloppe des formules intgrales concernant les polynmes symtriques des courbures principales et la fonction support de limmersion .",
+    "elles gnralisent celles dj obtenues par minkowski et kubota dans le cas convexe @xcite , p.64 et par hsiung @xcite dans le cas non - convexe .",
+    "elles sont utilises dune part pour donner des conditions intrinsques suffisantes pour lingalit globale en dimension @xmath24 et dautre part pour raffiner par la suite lingalit semi - locale .",
+    "nous obtenons notamment la    [ ricci ] soit @xmath25 une immersion isomtrique de classe @xmath16 avec @xmath10 une varit riemannienne lisse compacte sans bord . on suppose que @xmath26 .",
+    "si @xmath10 vrifie @xmath27 avec @xmath28 alors @xmath29    il serait bien - sur intressant de trouver des contre - exemples  lingalit ( [ desir ] ) satisfaisant @xmath30 .",
+    "dans la section [ ineg locales ] nous obtenons des ingalits  caractre semi - local . on utilise une mthode destimation a - priori pour les quations de monge - ampre relles dveloppe par rauch et taylor @xcite et reprise par aubin @xcite .",
+    "loprateur de type monge - ampre qui apparait naturellement dans notre contexte est @xmath31 agissant sur les fonctions dfinies sur @xmath14 .",
+    "ceci suggre une relation - qui nous reste pour linstant cache - avec la thorie spectrale du laplacien sur @xmath14 .",
+    "notre rsultat principal est le    on suppose que @xmath32 .",
+    "soit @xmath33 un ouvert sur lequel lapplication de gauss est non - dgnre .",
+    "il existe une constante @xmath34 qui dpend uniquement de la dimension telle que , si @xmath35 est un compact , on ait @xmath36 et @xmath37 o @xmath38 dsigne la courbure totale de @xmath11 et @xmath39 est la distance sphrique locale entre @xmath9 et @xmath40 ( voir la dfinition [ la distance locale ] ) .    le terme @xmath39 tend vers zro lorsque @xmath11 approche @xmath9 .",
+    "cela fait que lestimation ( [ the best ] ) est dautant meilleure que le compact @xmath9 est situ  une grande distance du lieu des points de courbure nulle .",
+    "cest dans ce sens quon interprte le lieu des points de courbure nulle comme une obstruction  lingalit globale .",
+    "lobtention de ( [ the best ] )  partir de ( [ the semi best ] )  laide des formules intgrales globales de type minkowski occupe la section [ local to global ] .",
+    "loptimalit de lingalit ( [ the best ] ) est discute dans la section [ loptimalite ] et larticle clt sur une ingalit isoprimtrique inverse traite dans lappendice .    _ remerciements .",
+    "_ ce travail constitue la premire partie de ma thse .",
+    "il a t prpar sous la direction bienveillante et inspire de claude viterbo , qui saura trouver ici lexpression de ma gratitude .",
+    "jai profit de remarques , suggestions et patience dcoute de la part de jrme bertrand , charles boubel , emmanuel ferrand , paul gauduchon , taoufik hmidi , jean lannes , christophe margerin , nicolae mihalache , liviu ornea , ferit oztrk , pierre pansu , jean - marc schlenker et costin vlcu .",
+    "je leur suis reconnaissant ."
+  ],
+  "abstract_text": [
+    "<S> le thme de larticle est fourni par la conjecture empirique suivante : une hypersurface ferme @xmath0 de diamtre extrieur born et de `` grand '' volume devrait ncessairement tre `` trs '' courbe . </S>",
+    "<S> on prend comme mesure pour la courbure le volume recouvert sur la sphre unit @xmath1 par lapplication de gauss ,  savoir la courbure totale @xmath2 . </S>",
+    "<S> notre tude est motive par la preuve de burago @xcite de lingalit @xmath3 pour @xmath4 et @xmath5 . </S>",
+    "<S> nous donnons un exemple explicite qui prouve quune ingalit de la forme @xmath6 ne peut tre vraie en toute gnralit en dimension @xmath7 . </S>",
+    "<S> nous mettons toutefois en vidence une condition suffisante sur la courbure de ricci sour laquelle lingalit est vrifie en dimension @xmath8 . </S>",
+    "<S> le rsultat principal de larticle est une ingalit  caractre semi - local qui majore le volume dun compact @xmath9 de @xmath10 par la courbure totale dun ouvert @xmath11 qui le contient , sous lhypothse que la courbure de gauss - kronecker ne sannule pas sur @xmath9 et @xmath11 . </S>",
+    "<S> pour @xmath5 on prouve que @xmath12 avec @xmath13 une distance mesure _ sur la sphre @xmath14 _ via lapplication de gauss . </S>",
+    "<S> le lieu des points de courbure nulle apparait de cette faon comme une obstruction  avoir une ingalit globale comme celle de burago en dimension suprieure .    </S>",
+    "<S> nous obtenons diffrentes variantes de lingalit ayant un caractre isoprimtrique et nous montrons quelles sont optimales . </S>",
+    "<S> au passage , nous obtenons une ingalit isoprimtrique `` inverse '' valable dans les espaces  courbure constante . </S>"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "a _ square _ is a nonempty word of the form @xmath0 , as in the english word murmur .",
+    "it is easy to see that every word of length @xmath5 constructed from the symbols @xmath6 and @xmath7 contains a square , so it is impossible to avoid squares in infinite binary words .",
+    "however , in 1974 , entringer , jackson , and schatz proved the surprising fact that there exists an infinite binary word containing no squares @xmath0 with @xmath8 .",
+    "further , the bound @xmath9 is best possible .",
+    "a _ cube _ is a nonempty word of the form @xmath2 , as in the english sort - of - word shshsh . an _",
+    "overlap _ is a word of the form @xmath10 , where @xmath11 is a single letter and @xmath12 is a ( possibly empty ) word , as in the french word entente .",
+    "dekking @xcite showed that there exists an infinite binary word that contains neither squares @xmath0 with @xmath1 nor cubes @xmath2 .",
+    "furthermore , the bound @xmath4 is best possible .",
+    "he also proved that every overlap - free word contains arbitrarily large squares .",
+    "these two results suggest the following natural question : for each length @xmath13 , determine the fractional exponent @xmath14 ( if it exists ) such that    * there is no infinite binary word simultaneously avoiding squares @xmath0 with @xmath15 and fractional powers @xmath16 with @xmath17 ; * there is an infinite binary word simultaneously avoiding squares @xmath0 with @xmath15 and fractional powers @xmath16 with @xmath18 ?    here we say a word @xmath19 is an @xmath20th power ( @xmath20 rational ) if there exist words @xmath21 such that @xmath22 , and @xmath23 is a prefix of @xmath24 with @xmath25 . for example",
+    ", the english word abracadabra is an @xmath26-power .",
+    "we say a word _ avoids @xmath14 powers _ if it contains no subword of the form @xmath27 with @xmath17 .",
+    "we say a word _ avoids @xmath28 powers _ if it contains no subword of the form @xmath27 with @xmath18 .    in this paper we completely resolve this question .",
+    "it turns out there is a rather subtle hierarchy depending on @xmath29 .",
+    "the results are summarized in table 1 .    [ cols=\"^,^,^ \" , ]",
+    "i would like to thank jean - paul allouche and matthew nichols for having suggested the problem , and narad rampersad for independently verifying the properties of the morphism @xmath30 ."
+  ],
+  "abstract_text": [
+    "<S> in 1976 , dekking showed that there exists an infinite binary word that contains neither squares @xmath0 with @xmath1 nor cubes @xmath2 . </S>",
+    "<S> we show that ` cube ' can be replaced by any fractional power @xmath3 . </S>",
+    "<S> we also consider the analogous problem where ` @xmath4 ' is replaced by any integer . </S>",
+    "<S> this results in an interesting and subtle hierarchy . </S>"
+  ]
+}

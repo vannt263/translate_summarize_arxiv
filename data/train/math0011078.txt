@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the method of exhaustion was used by the ancient greeks to integrate a limited number of functions before the development of calculus [ 1 ] .",
+    "it will be shown here that this ancient method can be generalized to a simple formula to integrate functions under very general conditions , assuming that the integral exists over the interval in question .",
+    "the formula is    @xmath0    the proof is simple and geometric in nature , directly following the procedure originally used for the method of exhaustion .",
+    "an independent algebraic proof is also provided for the special case for which a = 0 .",
+    "the geometric proof is a generalization of the successive approximation method historically used to obtain the exact area under the simple curves previously integrated by this approach . consider an arbitrary function f(x ) that is piecewise continuous on [ a , b ] .",
+    "the procedure to find the area under f(x ) on [ a , b ] involves successive approximations with triangles that first intersect f(x ) at the midpoint , x = a + ( b - a)/2 , and then at the new midpoints , x = a + ( b - a)/4 , x = a + 3(b - a)/4 , and so on .",
+    "the first such approximation is shown in figure 1 .",
+    "its area is    @xmath1    the second such approximation adds two new triangles ( figure 2 ) , each sharing two vertices with the original triangle , and each bisecting one of the remaining arcs of f(x ) at its third vertex .",
+    "the two triangles have the area    @xmath2    a third such approximation ( figure 3 ) adds the area    @xmath3    each new iteration n leads to 2@xmath4 - 1 new triangles adding area a@xmath5 to further refine the area estimate .",
+    "this procedure is continued indefinitely to `` exhaust '' the remaining area , leading to the formula    @xmath6    the special case for ( 5 ) when a = 0 is as follows :    @xmath7    the method of exhaustion will converge to the value of the integral at least as fast as a geometric series , because when each new triangle is small enough so that the local curvature between intersection points on f(x ) is slowly varying , it will exhaust more than 1/2 of the remaining area left from the previous approximation .",
+    "there are an infinite number of possible variations on this procedure .",
+    "for example , each new iteration may involve a different number of triangles to exhaust the remaining area , or each new triangle could intersect the function at a location other than the midpoint .",
+    "an independent proof for ( 6 ) can be obtained starting with the identity [ 2 ]    @xmath8    this expression can be rewritten as follows : @xmath9    or    @xmath10    since @xmath11    it follows that    @xmath12 = \\frac{1}{2}\\int_{-b}^{b}\\sum_{k=0}^{\\infty } \\gamma _ { k}x^{k}e^{-iax}dx.\\ ] ]    defining @xmath13    and noting that @xmath14 & = & b\\sum_{n=1}^{\\infty } \\sum_{m=1}^{2^{n}-1}(-1)^{m+1}2^{-n}\\sum_{k=0}^{\\infty } \\gamma _ { 2k}(mb/2^{n})^{2k }   \\notag \\\\ & & \\times \\cos ( mba/2^{n } )   \\notag \\\\ & & -ib\\sum_{n=1}^{\\infty } \\sum_{m=1}^{2^{n}-1}(-1)^{m+1}2^{-n}\\sum_{k=0}^{\\infty } \\gamma _ { 2k+1}(mb/2^{n})^{2k+1 }   \\notag \\\\ & & \\times \\sin ( mba/2^{n}),\\end{aligned}\\ ] ]    it follows that    @xmath15   \\notag \\\\ & & \\times \\cos ( mba/2^{n } )   \\notag \\\\ & & -ib\\sum_{n=1}^{\\infty } \\sum_{m=1}^{2^{n}-1}(-1)^{m+1}2^{-n}\\left [ g(mb/2^{n})-g(-mb/2^{n})\\right ]   \\notag \\\\ & & \\times \\sin ( mba/2^{n}).\\end{aligned}\\ ] ]    setting @xmath16    leads to    @xmath17 .\\ ] ]    note that h(x ) can be in the form of a fourier series which sums to the following :    @xmath18    so that    @xmath7",
+    "the most immediate applications are series expressions for common functions that might otherwise be very difficult to derive .",
+    "some examples are presented below :    @xmath19    @xmath20    @xmath21    @xmath22    @xmath23    @xmath24    @xmath25 ^{p}dx=\\sum_{n=1}^{\\infty } \\sum_{m=1}^{2^{n}-1}(-1)^{m+1}2^{-n}\\left [ \\ln ( 2^{n}/m)\\right ] ^{p}. \\\\ ( 0 & \\leq & p<\\infty )   \\notag\\end{aligned}\\ ] ]    in addition to the above expressions , this method can lead to new insights into certain physical problems .",
+    "one example involves the diffraction of waves though a two - dimensional aperture in an infinite screen .",
+    "this problem has been solved exactly in integral form [ 3 - 5 ] so that the field at every point depends on the fourier transform f(k@xmath26,k@xmath27 ) of the aperture at z=0 :    @xmath28    note that ( 26 ) satisfies the helmholtz equation ,    @xmath29    everywhere ( k = @xmath30/c ) as well as the boundary conditions on the screen .    under suitable conditions , the extension of ( 5 ) to convergent improper integrals can be made as follows , i.e. ,    @xmath31    equation ( 28 ) is a result of breaking the integral into a series of definite integrals on [ pb,(p+1)b ] .",
+    "the result is valid when each integral @xmath32 exists and when    @xmath33 tends to a finite limit l as b@xmath34    with regard to ( 26 ) , however , it can be noted that propagating waves will only occur when the transverse wavenumber ( k@xmath35+k@xmath36)@xmath37 is lower than the cutoff wavenumber , so in the far field the integral can be evaluated to @xmath38k with good accuracy as follows ( assuming that f(k@xmath26,k@xmath27 ) is an even function with respect to both k@xmath26 and k@xmath27 ) :    @xmath39    it can be clearly seen from ( 30 ) that the resulting field is due to a summation of an infinite number of plane waves , each propagating at a different phase velocity ( and hence a different group velocity ) based on its value of k@xmath26 and k@xmath27 .",
+    "thus , the process of diffraction leads to a continuous distribution of group velocities , having an amplitude distribution governed by the fourier transform of the aperture .",
+    "this insight becomes particularly clear upon application of ( 5 ) to expand ( 26 ) .",
+    "such a result has an effect on doppler shifts both in acoustics and in electromagnetic wave propagation , effects that are not otherwise apparent without the use of the generalized method of exhaustion .",
+    "simmons , g. f. , `` calculus with analytic geometry '' .",
+    "new york : mcgraw - hill , 1996 , p. 190 . 2 .",
+    "ruffa , a.a . , _ a series for sinx / x_. math",
+    "( to appear october 2000 ) 3 .",
+    "brekhovskikh , l.m .",
+    ", `` waves in layered media '' .",
+    "new york : academic press , 1960 , p. 100 .",
+    "born , m. and wolf , e. , `` principles of optics ( seventh edition ) '' .",
+    "cambridge university press , 1999 , p. 640 .",
+    "gaunaurd , g.c . and uberall , h. , _ acoustics of finite beams_. j. acoust .",
+    "63 , 5 , ( 1978 ) ."
+  ],
+  "abstract_text": [
+    "<S> the method of exhaustion is generalized to a simple formula that can be used to integrate functions under very general conditions , provided that the integral exists . both a geometric proof ( following the usual procedure for the method of exhaustion ) and an independent algebraic proof are provided . </S>",
+    "<S> applications provided as examples include use of the formula to generate new series for common functions as well as computing the group velocity distribution resulting from waves diffracted from an aperture . </S>"
+  ]
+}

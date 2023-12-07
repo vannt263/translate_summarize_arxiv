@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "a well known result quoted in popular fiction is that of the  gravity elevator . \"",
+    "the result consists of the fact that an object released through a hole through the center of the earth undergoes simple harmonic motion with a period slightly under 1@xmath0 hours .",
+    "it is straightforward to show that this result holds true for any chord through the earth ; thus , one may consider a  gravity elevator \" which shuttles between any two points on the earth s surface in approximately 42 minutes .",
+    "such a path is not the path of minimum time , as can be seen by objects undergoing small oscillations at the surface of the earth .",
+    "we consider , then , the following problem : determine the path of minimum time ( brachistochrone ) between two points on the surface of a spherical , uniformly distributed mass ; i.e. the  fastest gravity elevator . \"    the outline of this paper is as follows .",
+    "we initially show a simple derivation for the gravity elevator result .",
+    "we then review the solution of the brachistochrone problem in a uniform gravitational field using the calculus of variations .",
+    "finally , we extend this approach to solve for the spherical problem . finally , we show the two solutions agree in the limit of small path length to mass radius ratio .",
+    "in this section we reproduce the gravity elevator result for an arbitrary chord .",
+    "we set the zero of the gravitational potential at the surface of the earth ( r = r ) .    ,",
+    "title=\"fig:\",width=151 ] +    referring to [ fig1 ] , we note the following relationship between the latitude , @xmath1 , and polar angle , @xmath2 : @xmath3    gauss law , when applied to a spherical mass distribution yields the radial dependent force as @xmath4 = -\\frac{gmr}{r}\\hat{\\bf{r}},\\ ] ] where g is the gravitational acceleration , @xmath5 .    letting @xmath6 , applying newton s second law along the chord , and using eq.([figreln1 ] ) , we find the following equation of motion : @xmath7 which has angular frequency @xmath8 , independent of the lattitude , @xmath1 .",
+    "in this section we outline the solution to the brachistochrone problem , commonly presented in an advanced undergraduate course in classical mechanics . we choose to present this review because it serves as a limit of the more complicated brachistochrone problem solved below .",
+    "the problem may be stated as follows : given two points in a uniform gravitational field , find the equation for the path of least time between the two points .",
+    "the kinetic energy is given by @xmath9    the potential energy is given by @xmath10,\\ ] ] where the zero of the potential is chosen at the surface , @xmath11 .",
+    "we assume the particle begins at the surface with zero velocity with initially zero total energy . in this case",
+    ", we have the following expression for velocity : @xmath12}.\\ ] ] in our subsequent analysis we define the following dimensionless quantities : @xmath13 where @xmath14 is the inverse frequency of the gravity elevator obtained in section i.    using these definitions there results a simple expression for the dimensionless velocity , @xmath15 of the particle at a given dimensionless radius , @xmath16 : @xmath17    a simplification results if the trajectory is parameterized by the independent variable r ; that is , @xmath18 , where @xmath2 is constrained to be @xmath19 ( see fig . [ fig1 ] ) .",
+    "this approach explicitly solves for the initial half of the trajectory with the final half being a symmetric extension of this solution .    using the dimensionless element for arclength , @xmath20 , and the dimensionless velocity ( [ eq : vdimless ] ) , the transit time , t",
+    ", to be minimized is @xmath21 and the brachistochrone problem reduces to finding the path @xmath22 that minimizes the transit time t in ( [ t ] ) .",
+    "this path may be found through the calculus of variations .",
+    "in this section we determine the path that minimizes the transit time , t ( [ t ] ) , by using the calculus of variations .",
+    "the integrand in ( [ t ] ) is a functional of the form @xmath23 , where @xmath24 and @xmath2 are functions of the independent variable @xmath16 .",
+    "explicitly , f is @xmath25 upon minimization , the euler - lagrange equation @xcite becomes @xmath26    inspecting eq.([f ] ) , f is independent of @xmath2 and so @xmath27 .",
+    "( [ euler ] ) reduces to @xmath28 , or    @xmath29    on simplification this results in    @xmath30    the trajectories are parameterized by a given k , @xmath31 ranges from [ @xmath32 , where @xmath33 is seen to be    @xmath34    using the substitution @xmath35 , eq.([thetap ] ) reduces to @xmath36    on integration , this expression becomes @xcite @xmath37 \\nonumber \\\\ & + & k \\sin^{-1 } \\left [ { \\sqrt{k^2 + 1}\\cos\\alpha}\\right ] .",
+    "\\;\\end{aligned}\\ ] ]    in terms of @xmath16 , this becomes @xmath38 \\nonumber \\\\",
+    "& + & k \\sin^{-1 } \\left [ { \\sqrt{k^2 + 1}\\sqrt{1-\\rho^2 } } \\right ] .",
+    "\\;\\end{aligned}\\ ] ]",
+    "we presented a variational approach to the brachistochrone problem of a particle traveling through a spherical mass distribution of uniform density .",
+    "earlier it was shown that such a problem could be solved using gauss law yielding a period of oscillation of approximately 1 @xmath0 hours .",
+    "we show how this result may be improved upon using a variational calculus approach and the euler - lagrange equations .",
+    "this research was supported in part by the national science foundation under grant no .",
+    "phy99 - 07949 as faculty research scholar at the kavli institute of theoretical physics , university of california , santa barbara ."
+  ],
+  "abstract_text": [
+    "<S> we solve the brachistochrone problem for a particle traveling through a spherical mass distribution of uniform density . </S>",
+    "<S> we examine the connection between this problem and the popular  gravity elevator \" result . </S>",
+    "<S> the solution is compared to the well known brachistochrone problem of a particle in a uniform gravitational field .    </S>"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "supersymmetric extension of the standard model is beautiful and probably needed toward a solution of the gauge hierarchy problem @xcite .",
+    "however , it introduces three outstanding problems : ( i ) the r - parity violating superpotential terms @xcite , ( ii ) the @xmath5 problem @xcite , and ( iii ) the flavor changing neutral currents @xcite .",
+    "there exist many ideas to remedy these problems .    in this paper , we concentrate on the r - parity violation and its probable effects in cosmology .",
+    "the problem in the minimal supersymmetric standard model is that it allows the trilinear superpotential terms . for decay processes ,",
+    "let us consider the trilinear r - violating couplings defined by @xmath6 where the superfields are denoted as the upper case roman letters .",
+    "there can be the bilinear r - violating couplings , @xmath7 , which can be rotated away at the superpotential level by redefining @xmath8 and @xmath9 fields .",
+    "but if these bilinear parameters are given at the electroweak scale with soft terms present , one should worry about the correct minimum for the electroweak vacuum , implying that @xmath10 are physical parameters @xcite .",
+    "but this subtle point is not of relevance in our study of the neutralino decay . if both @xmath11 and @xmath12 terms are present , the stability of proton is a function of @xmath13 . to remove one of these terms for proton stability ,",
+    "some employ discrete symmetries @xcite .",
+    "but the most widely employed discrete symmetry is the r - parity , defined as @xmath14 where b is the baryon number , l is the lepton number and s is the spin of the particle .",
+    "the fields in the standard model have r = 1 while their superpartners have r = 1 .",
+    "namely superfields in eq .",
+    "( 1 ) carries r charge 1 , and all terms in eq .",
+    "( 1 ) are forbidden by the r - parity conservation assumption .",
+    "in addition , if r - parity is conserved , there exists an absolutely stable lsp ( lowest mass supersymmetric particle ) which carries r = 1 and can not decay to ordinary particles due to the r conservation .",
+    "this stable lsp can be a candidate for the constituent of the missing mass of the universe .    the reason one considers the terms given in eq .",
+    "( 1 ) is that they are _ not _ forbidden by the gauge group and supersymmetry alone .",
+    "therefore , phenomenologically it is important to know bounds on the strengths of the coupling parameters @xmath15 and @xmath16 .",
+    "the most stringent laboratory bounds on these r - violating couplings are summarized in table 1 @xcite .",
+    "however , a more severe bound comes from the lower limit of the lifetime of proton as mentioned above .",
+    "if we take the universal strength for the couplings , then @xmath17 s must be less than @xmath18 from the proton stability condition . with this strong constraint",
+    "the search for new effects in accelerator experiments may be futile ."
+  ],
+  "abstract_text": [
+    "<S> in r parity violating theories , there does not exist the _ </S>",
+    "<S> stable _ lightest supersymmetric particle ( lsp ) . </S>",
+    "<S> the lsp , @xmath0 , of mssm decays to lighter ordinary particles with dimension 6 effective r violating interaction terms . since the lifetime of @xmath0 can be sufficiently long for small r - violating couplings </S>",
+    "<S> , it can affect the standard nucleosynthesis scenario . </S>",
+    "<S> this constraint gives an upper limit for the lifetime of @xmath0 in the small @xmath1 region ; @xmath2 s. this translates to the sum of squared r - violating couplings , for @xmath3 60 gev in the photino ( bino ) limit , @xmath4 . </S>"
+  ]
+}

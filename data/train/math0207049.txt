@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "let @xmath0 be a @xmath1-dimensional lorentzian manifold and suppose that @xmath0 can be decomposed in the form    @xmath2    where @xmath3 has finite volume and @xmath4 resp .",
+    "@xmath5 represent the critical past resp .",
+    "future cauchy developments with not necessarily a priori bounded volume .",
+    "we assume that @xmath5 is the future cauchy development of a cauchy hypersurface @xmath6 , and @xmath4 the past cauchy development of a hypersurface @xmath7 , or , more precisely , we assume the existence of a time function @xmath8 , such that    @xmath9),&\\qq m_2=\\{x^0=t_2\\ } & , \\end{aligned}\\ ] ]    and that the lorentz metric can be expressed as    @xmath10    where @xmath11 are local coordinates for the space - like hypersurface @xmath6 if @xmath5 is considered resp .",
+    "@xmath7 in case of @xmath4 .",
+    "the coordinate system @xmath12 is supposed to be future directed , i.e. the directed unit normal @xmath13 of the level sets    @xmath14    is of the form    @xmath15    if we assume the mean curvature of the slices @xmath16 with respect to the past directed normal  cf . for a more detailed explanation of our conventions  is strictly bounded away from zero , then , the following volume estimates can be proved    suppose there exists a positive constant @xmath17 such that    @xmath18    then    @xmath19    these estimates also hold locally , i.e. if @xmath20 , @xmath21 , are measurable subsets and @xmath22 the corresponding future resp .",
+    "past directed cylinders , then ,    @xmath23",
+    "in the following we shall only prove the estimate for @xmath5 , since the other case @xmath4 can easily be considered as a future development by reversing the time direction .",
+    "let @xmath24 be an embedding of a space - like hypersurface and @xmath13 be the past directed normal .",
+    "then , we have the gau formula    @xmath25    where @xmath26 is the second fundamental form , and the weingarten equation    @xmath27    we emphasize that covariant derivatives , indicated simply by indices , are always tensors .    the slices @xmath16 can be viewed as special embeddings of the form    @xmath28    where @xmath29 are coordinates of the slice @xmath30 .",
+    "hence , the slices @xmath16 can be considered as the solution of the evolution problem    @xmath31    with initial hypersurface @xmath30 , in view of .    from the equation we can immediately derive evolution equations for the geometric quantities @xmath32 , and @xmath33 of @xmath16 , cf .",
+    "e.g. , where the corresponding evolution equations are derived in riemannian space .    for our purpose , we are only interested in the evolution equation for the metric , and we deduce    @xmath34    in view of the weingarten equation .",
+    "let @xmath35 , then ,    @xmath36    and thus , the volume of @xmath37 , evolves according to    @xmath38    where we shall assume without loss of generality that @xmath39 is finite , otherwise , we replace @xmath30 by an arbitrary measurable subset of @xmath30 with finite volume",
+    ".    now , let @xmath40 be arbitrary and denote by @xmath41 the cylinder    @xmath42    then ,    @xmath43    where we omit the volume elements , and where , @xmath44 .    by assumption , the mean curvature @xmath45 of the slices is bounded from below by @xmath17 , and we conclude further , with the help of ,    @xmath46    letting @xmath47 tend to @xmath48",
+    "gives the estimate for @xmath49 .    to prove the estimate , we simply replace @xmath30 by @xmath50 .",
+    "if we relax the conditions and to include the case @xmath51 , a volume estimate is still possible .",
+    "if the assumptions of are valid with @xmath51 , and if in addition the length of any future directed curve starting from @xmath30 is bounded by a constant @xmath52 and the length of past any directed curve starting from @xmath53 is bounded by a constant @xmath54 , then , @xmath55    as before , we only consider the estimate for @xmath5 .    from we",
+    "infer that the volume element of the slices @xmath16 is decreasing in @xmath56 , and hence , @xmath57    furthermore , for fixed @xmath58 and @xmath59 @xmath60 because the left - hand side is the length of the future directed curve @xmath61    let us now look at the cylinder @xmath41 as in and .",
+    "we have @xmath62 & \\le \\ga_1\\int_{m(t_1)}\\sqrt{g(t_1,x)}=\\ga_1\\abs{m(t_1 ) } \\end{aligned}\\ ] ] by applying fubini s theorem and the estimates and .",
+    "a cosmological spacetime is a globally hyperbolic lorentzian manifold @xmath0 with compact cauchy hypersurface @xmath63 , that satisfies the timelike convergence condition , i.e.    @xmath64    if there exist crushing singularities , see or for a definition , then , we proved in that @xmath0 can be foliated by spacelike hypersurfaces @xmath65 of constant mean curvature @xmath66 , @xmath67 ,    @xmath68}m(\\tau)\\uu{\\msc c}_0,\\ ] ]    where @xmath69 consists either of a single maximal slice or of a whole continuum of maximal slices in which case the metric is stationary in @xmath70 .",
+    "but in any case @xmath69 is a compact subset of @xmath0 .    in the complement of @xmath69",
+    "the mean curvature function @xmath66 is a regular function with non - vanishing gradient that can be used as a new time function , cf . for a simple proof .",
+    "thus , the lorentz metric can be expressed in gaussian coordinates @xmath71 with @xmath72 as in .",
+    "we choose arbitrary @xmath73 and define    @xmath74    then , @xmath3 is compact , and the volumes of @xmath75 can be estimated by    @xmath76    hence , we have proved    a cosmological spacetime @xmath0 with crushing singularities has finite volume .",
+    "let @xmath0 be a spacetime with compact cauchy hypersurface and suppose that a subset @xmath77 is foliated by constant mean curvature slices @xmath65 such that    @xmath78    and suppose furthermore , that @xmath72 is a time function  which will be the case if the timelike convergence condition is satisfied  so that the metric can be represented in gaussian coordinates @xmath71 with @xmath72 .",
+    "consider the cylinder @xmath79 for some fixed @xmath66 .",
+    "then ,    @xmath80    and we obtain in view of    @xmath81    and conclude further    @xmath82\\abs{m(\\tau)}\\le \\tau_2\\abs{n_-}+\\abs{m(\\tau_2)},\\ ] ]    i.e.    @xmath82\\abs{m(\\tau)}=\\un\\im \\abs{n_-}=\\un.\\ ] ]",
+    "suppose that @xmath0 is a riemannian manifold that is decomposed as in with metric"
+  ],
+  "abstract_text": [
+    "<S> we prove new estimates for the volume of a lorentzian manifold and show especially that cosmological spacetimes with crushing singularities have finite volume . </S>"
+  ]
+}

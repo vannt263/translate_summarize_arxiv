@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "a sequence @xmath3 of positive numbers is said to be @xmath0-quasi - monotone , if @xmath4 , @xmath5 ultimately and @xmath6 , where @xmath7 is a sequence of positive numbers ( see @xcite ) .",
+    "let @xmath8 be a sequence of complex numbers and let @xmath9 be a given infinite series with partial sums @xmath10 .",
+    "we denote by @xmath11 and @xmath12 the @xmath13th ces ` aro means of order @xmath14 , with @xmath15 , of the sequences @xmath10 and @xmath16 , respectively , i.e. , @xmath17 { t_n^\\alpha}&=\\frac{1}{a_n^\\alpha } \\sum_{v=1}^{n}{a_{n - v}^{\\alpha- 1}}va_{v},\\end{aligned}\\ ] ] where @xmath18 the series @xmath9 is said to be summable @xmath19 , @xmath20 and @xmath21 , if ( see @xcite ) @xmath22 and it is said to be summable @xmath23 , @xmath20 , @xmath21 and @xmath24 , if ( see @xcite ) @xmath25 the series @xmath9 is said to be summable @xmath1 , @xmath20 and @xmath15 , if ( see @xcite ) @xmath26 in the special case when @xmath27 ( resp .",
+    "@xmath1 summability is the same as @xmath19 ( resp .",
+    "@xmath29 summability .",
+    "bor @xcite has proved the following theorem for @xmath30 summability factors of infinite series .",
+    "let @xmath31 be a positive non - decreasing sequence and let @xmath32 be a sequence such that @xmath33 @xmath34    if there exists an @xmath35 such that the sequence @xmath36 is non - increasing and @xmath37 then the series @xmath38 is summable @xmath39 , @xmath20 .",
+    "the aim of this paper is to extend theorem a , by using an almost increasing and @xmath0-quasi monotone sequence , under weaker and more general conditions for @xmath40 summability . for this",
+    "we need the concept of almost increasing sequence .",
+    "a positive sequence @xmath3 is said to be _ almost increasing _ if there exists a positive increasing sequence @xmath41 and two positive constants @xmath42 and @xmath43 such that @xmath44 ( see @xcite ) .",
+    "obviously every increasing sequence is an almost increasing sequence , but the converse need not be true , as can be seen from the example @xmath45 .",
+    "so we are weakening the hypotheses of the theorem in replacing the increasing sequence by an almost increasing sequence .",
+    "now , we shall prove the following :    _ let @xmath31 be an almost increasing sequence and the sequence @xmath32 such that condition @xmath46 of theorem a is satisfied .",
+    "suppose that there exists a sequence of numbers @xmath47 such that it is @xmath0-quasi monotone with @xmath48 convergent and @xmath49 for all n. if there exists an @xmath35 such that the sequence @xmath50 is non - increasing and if the sequence @xmath51 , defined by ( see @xcite ) @xmath52   \\max_{1 \\leq v \\leq n } \\mid\\!t_v^\\alpha\\!\\mid , & \\mbox{$0 < \\alpha < 1 $ } \\end{array } \\right.\\ ] ] satisfies the condition @xmath53 then the series @xmath38 is summable @xmath40 , @xmath20 ,  @xmath54 and @xmath55 .",
+    "_    we need the following lemma for the proof of our theorem .    @xcite . if @xmath54 and @xmath56 , then @xmath57",
+    "let @xmath58 , with @xmath54 , be the @xmath13th @xmath59 mean of the sequence @xmath60 . then",
+    ", by ( 2 ) , we have @xmath61 using abel s transformation , we get @xmath62 so that making use of lemma 1 , we have @xmath63 since @xmath64 to complete the proof of the theorem , it is sufficient to show that @xmath65 now , when @xmath66 , applying hlder s inequality with indices @xmath67 and @xmath68 , where @xmath69 , we get @xmath70 & = o(1 ) \\sum_{n=2}^{m+1 } n^{-k}n^{-\\alpha k}\\mid\\!{\\varphi_n}\\!\\mid^k \\bigg\\{\\sum_{v=1}^{n-1 } v^{\\alpha k}{({w_v^\\alpha})^{k } } \\mid\\!{a_v}\\!\\mid\\bigg\\}\\\\[.3pc ] & \\quad\\times \\bigg\\ { \\sum_{v=1}^{n-1}\\mid\\!{a_v}\\!\\mid \\bigg\\}^{k-1}\\\\[.3pc ] & = o(1)\\sum_{v=1}^{m } v^{\\alpha k}{({w_v^\\alpha})^{k } } \\mid\\!{a_v}\\!\\mid \\sum_{n = v+1}^{m+1 } \\frac{n^{-k}\\mid\\!{\\varphi_n}\\!\\mid^k}{n^{\\alpha k}}\\\\[.3pc ] & = o(1)\\sum_{v=1}^{m } v^{\\alpha k}{({w_v^\\alpha})^{k } } \\mid\\!{a_v}\\!\\mid \\sum_{n = v+1}^{m+1 } \\frac{n^{\\epsilon - k}\\mid\\!{\\varphi_n}\\!\\mid^k } { n^{\\alpha k+\\epsilon}}\\\\[.3pc ] & = o(1)\\sum_{v=1}^{m } v^{\\alpha k}{({w_v^\\alpha})^{k } } \\mid\\!{a_v}\\!\\mid v^{\\epsilon - k}\\mid\\!{\\varphi_v}\\!\\mid^k \\sum_{n = v+1}^{m+1 } \\frac{1}{n^{\\alpha k+\\epsilon}}\\end{aligned}\\ ] ]"
+  ],
+  "abstract_text": [
+    "<S> in this paper , by using an almost increasing and @xmath0-quasi - monotone sequence , a general theorem on @xmath1 summability factors , which generalizes a result of bor @xcite on @xmath2 summability factors , has been proved under weaker and more general conditions .    </S>",
+    "<S> = msam5 at 10pt    = msam5 at 9pt    = tibi at 10.4pt </S>"
+  ]
+}

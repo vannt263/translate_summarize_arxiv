@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "r. diestel , r. halin and w. volger ( * ? ? ?",
+    "* theorem 4.1 ) prove that certain class of countable graphs has no universal element as to _ weak _ embeddability .",
+    "this result is misleadingly referred to in the context of _ strong _ universality ( ( * ? ? ?",
+    "* theorem 3.3 ) , ( * ? ? ?",
+    "* theorem 1.6 ) ) .",
+    "we exhibit a parallel construction in such an interpretation .",
+    "we regard a graph @xmath0 ( undirected , without loops or multiple edges ) as the pair @xmath1 of its vertex set and adjacency relation .",
+    "we denote by `` embedding '' an isomorphism onto an induced subgraph , a strong embedding , and `` universal '' is as to such embeddings .    for an infinite cardinal @xmath2 and a graph @xmath0 , let @xmath3 and @xmath4 denote the class of graphs of size @xmath2 not containing @xmath0 as a subgraph and as an induced subgraph , respectively .",
+    "the random graph @xmath5 is a universal element among all countable graphs . modifying the proof of ( * ? ? ?",
+    "* theorem 1.7 ) , we show that no family @xmath6 with @xmath7 has a universal element , where @xmath8 is the path of length @xmath9 .",
+    "we define ( up to isomorphism ) posets @xmath10 inductively on ordinal @xmath11 such that @xmath10 is the disjoint union of each copy of @xmath12 for @xmath13 together with an element above them all .",
+    "then each chain in @xmath14 is finite .",
+    "let @xmath15 and @xmath16 be the rank functions of @xmath10 and of the reverse order @xmath17 , respectively .",
+    "let @xmath2 be an infinite cardinal , @xmath0 a countable graph and @xmath23 a graph of size @xmath2 .",
+    "if @xmath19 for every ( or , equivalently , unboundedly many ) @xmath24 embeds into @xmath23 , then so does @xmath0 .    for @xmath25 and @xmath26",
+    ", we define a function to be an @xmath27-embedding if it embeds some @xmath19 for @xmath28 into @xmath23 such that whenever @xmath29 , by identifying @xmath19 with its image , @xmath30 @xmath31",
+    "@xmath32 @xmath33 set @xmath34    since every @xmath19 for @xmath24 embeds into @xmath23 , we have @xmath35 . by the pigeonhole principle , for each @xmath36 there",
+    "exists @xmath37 such that @xmath38 .",
+    "so we can choose a sequence @xmath39 with each finite initial segment in @xmath40 .",
+    "then the mapping @xmath41 embeds @xmath0 into @xmath23 .",
+    "9 r. diestel , r. halin and w. volger , some remarks on universal graphs , combinatrica 5 ( 1985 ) 283293 .",
+    "m. kojman , representing embeddability as set inclusion , j. london math .",
+    "( 2 ) 58 ( 1998 ) 257270 .",
+    "p. komajth and j. pach , universal elements and complexity of certain classes of infinite graphs , discrete math .",
+    "95 ( 1991 ) 255270 ."
+  ],
+  "abstract_text": [
+    "<S> we consider embeddings between infinite graphs . </S>",
+    "<S> in particular , we establish that there is no universal element in the class of countable graphs into which the random graph is not embeddable .    </S>",
+    "<S> infinite graph , strong embeddability , random graph 05c99 </S>"
+  ]
+}

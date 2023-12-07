@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "a quantum integrable theory of defects involving free bosonic and free fermionic fields was first studied in ref .",
+    "@xcite following the achievements obtained in studying the quantum field theory with boundaries @xcite , @xcite .",
+    "the lagrangian formulation of a class of relativistic integrable field theories admiting certain discontinuities ( defects ) has been studied recently @xcite - @xcite . in particular , in ref .",
+    "@xcite the authors have considered a field theory in which different soliton solutions of the sine - gordon model are linked in such a way that the integrability is preserved .",
+    "the integrability of the total system imposes severe constraints specifying the possible types of defects .",
+    "these are characterized by backlund transformations which are known to connect two different soliton solutions .",
+    "the presence of the defect indicates the breakdown of space isotropy and henceforth of momentum conservation .",
+    "the key ingredient to classify integrable defects is to impose certain first order differential relations between the different solutions ( backlund transformation ) .",
+    "this introduces certain boundary functions ( bf ) which are specific of each integrable model and leads to the conservation of the total momentum .    here , we analize the structure of the possible boundary terms for various cases .",
+    "we first consider the pure bosonic case studied by corrigan et .",
+    "@xcite - @xcite and derive the border functions by imposing conservation of the total momentum .",
+    "next , we consider a pure fermionic theory and propose backlund transformation in terms of an auxiliary fermionic non local field .",
+    "such structure is then generalized to include both bosonic and fermionic fields .",
+    "in particular we construct boundary functions for the supersymmetric sinh - gordon model and show that it leads to the backlund transformation proposed by chaichian and kulish @xcite .",
+    "in this section we introduce the lagrangian approach proposed in @xcite . consider a system described by @xmath0 where @xmath1 describes a set of fields denoted by @xmath2 for @xmath3 and @xmath4 for @xmath5 . a defect placed at @xmath6 ,",
+    "is described by @xmath7 where @xmath8 is the border function .",
+    "the equations of motion are therefore given by @xmath9 and @xmath6 , @xmath10 the momentum is @xmath11 acting with time derivative and inserting eqns .",
+    "of motion ( [ 1.3 ] ) we find @xmath12 using eqns .",
+    "( [ 1.4 ] ) after integration , we find @xmath13|_{x=0 } \\label{1.7}\\end{aligned}\\ ] ] where @xmath14 .",
+    "the modified momentum @xmath15 is then conserved if the border function @xmath8 satisfies its defining condition , i.e. , @xmath16|_{x=0 } = 0 \\label{1.8}\\end{aligned}\\ ] ]    let us illustrate the above structure by first considering the free massive bosonic theory for which @xmath17 . @xmath18 the solution is easely found if we decompose @xmath19 as @xmath20 and @xmath21 denotes a free ( spectral ) parameter .    as second example ,",
+    "consider the sinh - gordon model for which @xmath22 .",
+    "the defining eqn .",
+    "( [ 1.8 ] ) indicates the natural decomposition @xmath23 yielding @xmath24 and hence we rederive the backlund transformation for the sinh - gordon model @xmath25",
+    "before discussing the super sinh - gordon model let us consider the pure fermionic prototype described by the lagrangian density @xmath26 which , for the free fermionic theory , @xmath27 . for the half line ,",
+    "@xmath3 or @xmath5 the equations of motion are given by @xmath28 according to @xmath29 or @xmath30 respectively .",
+    "let us propose the following backlund transformation @xmath31 where @xmath32 satisfies @xmath33 written in terms of a border function @xmath34 , which now , due to the grassmanian character of the fermions , depends upon the non local fermionic field @xmath32 . by considering the lagrangian system ( [ 1.1 ] ) with @xmath35 given by ( [ 2.1 ] ) and @xmath36 construct the momentum to be @xmath37 in analising its conservation , we find @xmath38|_{x=0 } \\label{2.4}\\end{aligned}\\ ] ] after using equations of motion ( [ 2.2 ] ) to eliminate time derivatives and integrating over @xmath39 . using the backlund transformation ( [ 2.3 ] ) ,",
+    "( [ 2.4 ] ) becomes @xmath40|_{x=0 } \\label{2.5}\\end{aligned}\\ ] ] if we assume the border function to decompose as @xmath41 , the modified momentum @xmath42 is conserved provided @xmath43|_{x=0 }   = 0 \\label{2.7}\\end{aligned}\\ ] ]        propose the following backlund transformation @xcite , @xmath50 assuming the decomposition @xmath51 we find that the modified momentum @xmath52 is conserved provided the border functions @xmath8 and @xmath53 satisfy @xmath54 the solution for ( [ 2.15 ] ) is given by @xmath55 the boundary functions @xmath8 and @xmath53 in ( [ 2.16 ] ) generate the backlund transformation agrees with the one proposed in @xcite for the super sinh - gordon model . in ref .",
+    "@xcite the general one soliton solution was constructed and in @xcite different solutions were analysed in the context of the backlund transformation .",
+    "the integrability of the model is verified by construction of the lax pair representation of the equations of motion .",
+    "this is achieved by splitting the space into two overlapping regions , namely , @xmath56 and @xmath57 with @xmath58 and defining a corresponding lax pair within each of them .",
+    "the integrability is ensured by the existence of a gauge transformation relating the two sets of lax pairs within the overlapping region . in ref .",
+    "@xcite we have explicitly constructed such gauge transformation for the super sinh - gordon model in terms of the @xmath59 affine lie algebra ."
+  ],
+  "abstract_text": [
+    "<S> the structure of integrable field theories in the presence of defects is discussed in terms of boundary functions under the lagrangian formalism . </S>",
+    "<S> explicit examples of bosonic and fermionic theories are considered . in particular , the boundary functions for the super sinh - gordon model is constructed and shown to generate the backlund transformations for its soliton solutions . </S>"
+  ]
+}

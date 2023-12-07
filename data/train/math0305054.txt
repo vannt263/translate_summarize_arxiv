@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "classification of knots , here and below we consider knots , links and braids in @xmath0 , is one of the basic problems of the theory of knots , starting with works of tait @xcite . to classify knots means somehow or other to order a set of all knots , for example , to divide a set of all knots on equivalence classes to any reference indication , property of knots and to build all knots ( or to specify really working algorithm of build - up of all knots ) for the given equivalence class .",
+    "it seems natural as such reference indication to take the least number of crosses of a knot ( at an identification of a knot with its diagram  a projection to some plane ) . by virtue of alexander s",
+    "known theorem ( see , for example , @xcite ) any knot can be presented as closure of some braid .",
+    "braids are organized much easier knots .",
+    "therefore , it is natural to use braids for classification of knots . before describing of proposed algorithm of construction of knots ( links ) with the given number of crosses on the diagram of a knot ( link )",
+    ", we shall make some estimates .",
+    "in computer program , implementing proposed algorithm , it is supposed to use partially `` br9z.p '' program in the language pascal , written by short and morton in 1985 .",
+    "`` br9z.p '' program is taken from the site of the liverpool mathematical group . in this program , authors used connection of group of knots @xmath1 with permutation group @xmath2 .",
+    "the permutation group of a set with @xmath3 elements consists of @xmath4 elements .",
+    "therefore , in `` br9z.p '' program for braids coding the two - dimensional array @xmath5 by a size @xmath6 of numbers from 0 up to @xmath3 was used . as",
+    "already @xmath7 is very major number , short and morton have been forced to be restricted to a maximum number of threads of braids @xmath8 ( in `` jones12.p '' program , written in 1994 , morton increased number of threads up to 12 by usage of a special representation of the braid group @xmath1 on @xmath9 dimensional space ) . using results of vogel @xcite , we shall prove , that in the problem of classification of knots ( links ) it is possible to substitute @xmath10 for @xmath4 . for comparison , we may mark , that @xmath11 is much less @xmath7 .",
+    "there is a representation of a knot ( link ) as closure of braid with @xmath3 threads and length of this braid ( i.e. an amount of generators in braid representation as product of standard generators @xmath12 of the group @xmath1 ) does not exceed @xmath10 , where @xmath3  number of crosses for the given diagram of a knot ( link ) .",
+    "the diagram of ( oriented ) knot , link as a result of the _ operation of erasure of crosses _ disintegrates on ( oriented ) closed curves , named _",
+    "seifert circles , _ - see fig .  [ operation ] ( fig .",
+    "[ operation ] is taken from @xcite ) .",
+    "each cross can break up no more than to 2 seifert circles .",
+    "therefore , after an erasure of all diagram crosses we shall have @xmath13 seifert circles , where @xmath3 number of crosses .",
+    "this estimate is strict in the sense , that there are links , for which @xmath14 : for example , @xmath3-component link , consisting of @xmath3 eight curves , represented on the top or on the bottom of fig .  [ link ] , after an erasure of all crosses , obviously , disintegrates on @xmath15 seifert circles .",
+    "-component link . ]    in @xcite , vogel s article is cited from the book @xcite , vogel proposed the algorithm of representation of link as closure of braid , and proved the estimate : obtained braid has @xmath3 threads and its length ( i.e. an amount of generators in braid representation as product of standard generators @xmath12 of the group @xmath1 ) does not exceed @xmath16 , where @xmath3  number of crosses on the diagram of knot ( link ) .",
+    "assuming in vogel s estimate @xmath13 , we can assert , that there is a representation of a knot ( link ) as closure of braid with @xmath3 threads and braid length does not exceed @xmath17 , where @xmath3  number of crosses of the given diagram of knot ( link ) .    incidentally , it is possible to mark , that proposed by vogel algorithm of representation of a link as closure of braid , from our point of view , is difficult for realization in practice for two reasons :    \\1 ) a starting point of algorithm is coding of knot ( link )  very intricate problem , actually substituting classification of knots ;    \\2 ) the _ operation of replacement of infinity _ ( see , for example , @xcite ) , used in the algorithm , is difficult for programming .",
+    "if the problem is restricted to classification only knots , then coding of representing braids becomes greatly simpler , as it is possible to be restricted to braids , which correspond to cyclical permutation of the order @xmath3  see above .",
+    "the algorithm of construction of all knots ( links ) with the given number @xmath3 of crosses on the diagram of a knot ( link ) can be formulated as follows .",
+    "\\1 . in the braids group @xmath1 , @xmath18 with standard generators",
+    "@xmath12 we select words with @xmath10 characters .",
+    "if the problem is restricted to classification only knots , we select words with @xmath10 characters , which corresponds cyclical permutation of the order @xmath3 .",
+    "\\2 . using duhornoy algorithm of reduction @xcite",
+    ", we reject superfluous braids ",
+    "we select only one representative from each equivalence class of braids ( it is necessary to pay attention , that the algorithm of reduction can increase a word length ) .",
+    "we use markov relations ( see , for example , @xcite ) for final selection of braids , giving at closure different knots ( links ) .    item 2 , apparently , without major detriment , can be omitted . leaving in items 2 - 3 braids with minimum word length ( minimum amount of crosses ) , as a result of closure of selected braids we shall receive diagrams of knots ( links ) with minimum number of crosses . as a result of work of suggested algorithm we shall build all knots and links , which diagrams have @xmath19 crosses . therefore ,",
+    "if we are interested only in knots ( links ) with the least number of crosses on the diagram @xmath20 , we should use algorithm twice : first to find a set of knots ( links ) @xmath21 with the least number of crosses on the diagram @xmath22 , then to find a set of knots ( links ) @xmath23 with the least number of crosses on the diagram @xmath19 , then the set of knots ( links ) @xmath24 with the least number of crosses on the diagram @xmath20 is equal to set difference @xmath25 .",
+    "in conclusion , it would be desirable to mark , that at preparation this article the report on third khariton school readings @xcite has been used . with necessary for understanding of problems discussed above theoretical questions on the theory of knots it is possible to familiarize , for example , in chapters 1 - 3 of the book @xcite ."
+  ],
+  "abstract_text": [
+    "<S> algorithm of construction of all knots , links with given number of crosses on diagram of knot , link is offered . </S>",
+    "<S> this algorithm is based on simple proposition , that there is a representation of knot ( link ) as closure of braid with n threads and length of this braid does not exceed n(4n-5)+2 . </S>"
+  ]
+}

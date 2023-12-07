@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "this work supported in part by a university of texas continuing fellowship ."
+  ],
+  "abstract_text": [
+    "<S> we answer a question due to a. myasnikov by proving that all expected ranks occur as the ranks of intersections of finitely generated subgroups of free groups .    * </S>",
+    "<S> mathematics subject classification ( 2000 ) : * 20e05    let @xmath0 be a free group . </S>",
+    "<S> let @xmath1 and @xmath2 be nontrivial finitely generated subgroups of @xmath0 . </S>",
+    "<S> it is a theorem of howson @xcite that @xmath3 has finite rank . </S>",
+    "<S> h. neumann proved in @xcite that @xmath4 and asked whether or not @xmath5 .    </S>",
+    "<S> a. miasnikov has asked which values between @xmath6 and @xmath7 can be achieved as @xmath8 for subgroups @xmath1 and @xmath2 of ranks @xmath9 and @xmath10this is problem aux1 of @xcite . </S>",
+    "<S> we prove that all such numbers occur by proving the following    let @xmath11 be a free group of rank two . </S>",
+    "<S> let @xmath12 and let @xmath13 , where @xmath14 and @xmath15 . then the rank of @xmath16 is @xmath17 .    </S>",
+    "<S> let @xmath0 be a free group and let @xmath18 be natural numbers . </S>",
+    "<S> let @xmath19 be a natural number such that @xmath20 . then there exist subgroups @xmath21 , of ranks @xmath9 and @xmath10 , such that the rank of @xmath3 is @xmath19 .    </S>",
+    "<S> the theorem produces the desired subgroups for all @xmath19 with @xmath22 after passing to a rank two subgroup of @xmath0 . for @xmath23 , simply let @xmath24 and let @xmath25 .    </S>",
+    "<S> let @xmath26 be a wedge of two circles and base @xmath27 at the wedge point . </S>",
+    "<S> we identify @xmath27 with @xmath28 by calling the homotopy class of one oriented circle @xmath29 and the other @xmath30 . given a finitely generated subgroup of @xmath0 , </S>",
+    "<S> there is a covering space @xmath31 corresponding to this subgroup . </S>",
+    "<S> moreover , there is a compact subgraph of @xmath31 that carries the given subgroup . given two subgroups and their associated finite graphs , one may construct the graph associated to their intersection . </S>",
+    "<S> these procedures are laid out carefully in @xcite and we assume that the reader is familiar with that paper .    in the figures , the graph associated to @xmath1 appears at the top , that of @xmath2 to the right , and that of @xmath3 in the center . </S>",
+    "<S> edges labelled with two arrowheads represent @xmath29 , those with one arrowhead represent @xmath30 . </S>",
+    "<S> our basepoint in the graph associated to @xmath3 is always the vertex in the upperlefthand corner .    for the moment , fix @xmath32 . in figure </S>",
+    "<S> [ first ] , @xmath33 and the rank of @xmath34 is visibly @xmath7 . </S>",
+    "<S> decreasing @xmath35 by one alters the intersection graph as depicted in figure [ second ] and the rank of @xmath36 is @xmath37 . </S>",
+    "<S> figure [ third ] shows the case when @xmath38 and the rank of the intersection is @xmath39 . when @xmath40 , the rank of @xmath41 is @xmath42 .    , @xmath2 , and @xmath3 when @xmath32 , @xmath43    , @xmath2 , and @xmath3 when @xmath32 , @xmath44    , @xmath2 , and @xmath3 when @xmath32 , @xmath38 ]    figure [ fourth ] depicts the case @xmath46 . </S>",
+    "<S> note that the graph associated to @xmath47 is the graph associated to @xmath48 to which a collection of trees have been attached at their roots , the graph associated to @xmath49 is the graph associated to @xmath50 to which trees have been so attached , and so on . since attaching trees in this way leaves the rank intact , we arrive at the theorem by induction on @xmath9 .    , @xmath2 , and @xmath3 when @xmath32 , @xmath46 ] </S>"
+  ]
+}

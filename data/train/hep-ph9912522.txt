@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the annual modulation effect@xcite provides a distinctive signature for the identification of a dark matter signal in the direct searches of wimps through their elastic scattering off the nuclei of a detector . due to this effect",
+    "the relative velocity between the detector and the wimp mawellian distribution ( assumed at rest in the galactic rest frame ) is given by : @xmath0\\ ] ] where @xmath1 is the sun s velocity in the galactic rest frame , @xmath2 30 km sec@xmath3 , @xmath4 0.51 ( @xmath5 is the angle between the ecliptic and the galactic plane ) , @xmath6 , t=1 year and @xmath7 june .",
+    "given a set of experimental count rates @xmath8 representing the number of events collected in the i - th day and k - th energy bin , the mean value of @xmath8 ( expressed in number of counts per unit of detector mass , time and interval of recoil energy ) is : @xmath9\\cdot w_{ik}\\end{aligned}\\ ] ] where the @xmath10 represent the average background while @xmath11 and @xmath12 are the constant and the modulated amplitude of the wimp signal respectively .",
+    "the various parameters of the wimp model are contained in @xmath11 and @xmath12 . in particular",
+    "they depend on the wimp - nucleus elastic cross sections @xmath13 and the wimp mass @xmath14 .",
+    "the @xmath15 are the corresponding exposures , where @xmath16 is the mass of the detector , @xmath17 is the amplitude of the k - th energy  bin , while @xmath18 represents the i - th time bin ( in the following we will assume all @xmath18= 1 day ) . for simplicity",
+    "@xmath19 will be omitted in the following equations .",
+    "the general procedure to compare theory with experiment is by making use of the maximum - likelihood method .",
+    "the combined - probability function of all the collected @xmath8 , assuming that they have a poissonian distribution with mean values @xmath20 , is given by : @xmath21    the most probable values of @xmath14 and @xmath13 maximize @xmath22 or , equivalently , minimize the function : @xmath23\\nonumber\\end{aligned}\\ ] ] where @xmath24 and all the parts not depending on @xmath14 and @xmath13 may be absorbed in the constant because are irrelevant for the minimization .",
+    "once a minimum of the likelihood function has been found , a positive result excludes the absence of modulation at some confidence level probability .",
+    "this can be checked by evaluating the quantity @xmath25 to test the goodness of the null hypothesis . in order to study the distribution of @xmath26 we make use of the asymptotic behaviour : @xmath27 where @xmath28 , @xmath29 and @xmath30 . in the case of absence of a modulation effect",
+    "numerical simulations show that the quantity @xmath26 belongs asymptotically to a @xmath31 distribution with two degrees of freedom .",
+    "we explain this by the fact that once the cross section @xmath13 is set to zero the likelihood function @xmath22 no longer depends on @xmath14 ( all the @xmath32 and @xmath33 functions vanish ) and this is equivalent to fixing both the parameters of the fit at the same time . in the case of presence of a modulation",
+    ", @xmath26 has the asymptotic distribution of a non central @xmath31 with one degree of freedom and with a mean value given by @xmath34 where the same days of data taking have been assumed for all the energy bins , and the approximations @xmath35 , @xmath36 have been made . in eq.([eq : magic ] ) we have also defined the factor of merit @xmath37 ( @xmath38=1 in case of a full period of data taking ) and the terms depending on the @xmath39 have been neglected .",
+    "since the degree of overlapping between the distributions of @xmath26 in the two cases of absence and presence of modulation depends on @xmath40 , equation ( [ eq : magic ] ) allows to estimate the needed exposure mt@xmath38 in order to observe a modulation effect with a given probability : for instance , @xmath40=14.9 ( 5.6 ) corresponds to a 90% ( 50% ) probability to see an effect at least at the 95% ( 90% ) c.l .",
+    "once a required @xmath40 is chosen , a sensitivity plot may be obtained by showing the curves of constant mt@xmath38 in the plane @xmath14@xmath13 .",
+    "@l@cccc & & & + & & & + ge , e@xmath41 , b=@xmath42 & @xmath43 & @xmath44 & @xmath45 + ge , e@xmath46 , b=@xmath47 & @xmath48 & @xmath44 & @xmath49 + teo@xmath50 , e@xmath51 , b=@xmath47 & @xmath52 & @xmath53 & @xmath54 + nai , e@xmath41 , b=@xmath42 & @xmath55 & @xmath56 & @xmath57 +    in figures 12 we discuss the example of a germanium detector with background b=0.01 cpd / kg / kev ( assumed constant with energy ) and energy thresholds e@xmath58=2 kev , values not unrealistic , taken into account the recent performances of some ge detectors .",
+    "parameter values used in the plots are the local halo mass density @xmath59=0.3 gev/@xmath60 , @xmath61=220 km sec@xmath3 ( @xmath61 is the measured rotational velocity of the local system at the earth s position ) , the wimp r.m.s .",
+    "velocity @xmath62 and @xmath63 km sec@xmath3 .    in figure 1",
+    "the sensitivity plots for @xmath40=5.6 is shown in the plane @xmath64 , where @xmath65 is the wimp cross section @xmath13 rescaled to the nucleon by adopting a scalar  type interaction .",
+    "the different curves correspond to values of mt@xmath38 from 10 kg@xmath66 year to 100 kg@xmath66 year in steps of 10 ( from top to bottom ) .",
+    "the closed contour and the cross indicate respectively the 2@xmath13 c.l .",
+    "region singled out by the dama modulation search experiment and the minimum of the likelihood function found by the same authors@xcite .",
+    "note that an exposure of 10 kg@xmath66year of a ge detector of the above  quoted performances would explore almost totally the dama region .    in figure 2",
+    "we show , as a function of @xmath14 , the minimal exposures required for the same germanium set  up in order for its sensitivity contour to lie below the upper limit on @xmath65 implied by the exclusion plot obtained in ref.@xcite with pulse shape discriminated spectra .",
+    "since the present uncertainty in @xmath61 can affect the results in a significant way@xcite , the different values @xmath61= 170 , 220 and 270 km sec@xmath3 are shown by the dotted , solid and dashed curves respectively . in each case",
+    "the values b=0,0.01 and 0.1 are given from bottom to top .",
+    "some examples of minimal exposures for other target materials are given in table 1 for @xmath61= 220 and 170 km sec@xmath3 .",
+    "the second column of table 1 shows the exposures necessary to explore the regions of the @xmath14@xmath65 plane below the exclusion plot or ref.@xcite .",
+    "the third and fourth columns show the lowest values of mt@xmath38 that give a sensitivity plot encompassing all the 2@xmath13 dama contour for @xmath40=5.6 and 15 respectively .",
+    "the experimental thresholds and resolutions assumed in table 1 are close to those already obtained ( or foreseeable ) in ge , nai and teo@xmath50 detectors .",
+    "a systematic study of sensitivity plots ( not shown here for lack of space@xcite ) concludes that prospects of modulation searches seem promising provided that the wimp signal is not far below present sensitivities , the lowest values of explorable @xmath65 falling in most cases in the typical range of few @xmath67 nbarn .",
+    "an important feature of all the plots is that the sensitivity to modulation is generally a decreasing function of the wimp mass , the highest sensitivities corresponding roughly to the interval @xmath68 , and depending in a sensitive way on the value of the parameter @xmath61 .",
+    "this work has been partially supported by the spanish agency of science and technology ( cicyt ) under the grant aen991033 and the european commission ( dgxii ) under contract erb - fmrx - ct-98 - 0167 .",
+    "one of us ( s.s . ) acknowledges the partial support of infn ( italy ) ."
+  ],
+  "abstract_text": [
+    "<S> prospects of wimp searches using the annual modulation signature are discussed on statistical grounds , introducing sensitivity plots for the wimp  nucleon scalar cross section . </S>"
+  ]
+}
