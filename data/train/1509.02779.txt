@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "in cluster mode , syclist has ( among others ) the following capabilities : it accounts for a salpeter imf , includes several initial distributions for the angular velocity of the stars , as well as the effect of a random distribution of the angle of view on the gravity darkening .",
+    "it can mimic in a simplified way the presence of a fraction of binary stars in the population .    the effect of fast rotation on the shape of the star is included in the roche model approximation .",
+    "the variation of the effective temperature and of the luminous flux over the surface ( the so - called gravity darkening ) is implemented using either the @xcite or @xcite relations . in this framework , the equator of a fast rotating star is cooler and dimmer than the average temperature and luminosity , and the poles are hotter and brighter .    as a consequence , an observer ignoring the orientation of the axis of rotation of a star will deduce an erroneous temperature and luminosity depending on its angle of view .",
+    "for example , an observer looking at a fast rotating star pole - on will see principally the hot and bright polar regions and thus deduce that the star is bluer and more luminous than the average surface values .",
+    "the latitudinal variation of the gravity has also observational consequences . assuming that the gravity deduced from a spectral fitting corresponds to the flux - averaged gravity of the visible hemisphere",
+    ", a random distribution of the angle of view will produce a scatter in the @xmath0 plane ( fig .",
+    "[ fig1 ] ) .     as",
+    "a function of ` observed ' @xmath1 for a cluster at 25 myr at @xmath2 .",
+    "the colour code shows the @xmath3 value .",
+    "the black line is the corresponding isochrone for a non rotating population .",
+    "no instrumental noise has been considered here . ]",
+    "extended main - sequence turn - off in the colour - magnitude diagram is a common feature of star clusters .",
+    "one explanation is that these clusters , instead of having an instantaneous burst of star formation , have a spread ( e.g. * ? ? ?",
+    "* ; * ? ? ?",
+    "recently , we have shown that rotation could be a plausible alternative explanation , providing a natural framework to the observed relation between the duration of the spread in the star formation rate and the age of the cluster @xcite . in this framework ,",
+    "the extension of the turn - off is no more produced by a spread , but by the distribution of initial rotation rates of the stars ."
+  ],
+  "abstract_text": [
+    "<S> during the last few years , the geneva stellar evolution group has released new grids of stellar models , including the effect of rotation and with updated physical inputs @xcite . to ease the comparison between the outputs of the stellar evolution computations and the observations , a dedicated tool was developed : the syclist toolbox @xcite . </S>",
+    "<S> it allows to compute interpolated stellar models , isochrones , synthetic clusters , and to simulate the time - evolution of stellar populations . </S>"
+  ]
+}

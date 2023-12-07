@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "superpixels are regions of pixels grouped in some perceptually meaningful way , usually following colour or boundary cues .",
+    "they are designed to produce a simpler and more compact representation for an image , while keeping its semantic meaning intact .",
+    "superpixel segmentation is used most often as an image preprocessing step , with a view towards reducing computational complexity for subsequent processing steps .",
+    "the term _ superpixel _ , along with the first notable superpixel algorithm , was introduced by @xcite .",
+    "many algorithms followed , using various types of image features , various optimisation strategies and various implementations techniques .",
+    "these algorithms have varying specifications and performance requirements . for example , some algorithms aim to find a fixed number of superpixels , others try to find the minimum possible number of superpixels by imposing a colour cohesion requirement , while others place emphasis on matching image boundaries .",
+    "sometimes fast processing is required , when for example , the superpixel algorithm is used as a precursor to a tracker . sometimes superpixels are designed not to under - segment the image , when used for example as a means of condensing the image information , to serve as the basis of a labelling problem .",
+    "regardless of its design , superpixel segmentation is usually among the first steps in a much longer processing pipeline .",
+    "therefore , we believe that , for any superpixel method to be useful , it must satisfy the two following requirements :    * it should not decrease the performance of the full processing pipeline ; * it should be fast .",
+    "the performance requirement is satisfied in many vision applications by superpixels that are _ compact _ , _ uniform _ and _ follow image edges_. these requirements motivated the * simple iterative clustering algorithm * ( slic ) algorithm of @xcite .",
+    "this is simple , efficient and suitable for real - time operation .",
+    "still however , the cpu - sequential implementation of slic need 300@xmath1400ms to segment a single 640x480 image . reducing the number of iterations for each clustering pass can make the algorithm faster , at the cost of a decrease in performance .    in this work ,",
+    "we propose a gpu implementation of the slic algorithm , using the nvidia cuda framework .",
+    "our implementation is up to @xmath0 faster than the original cpu implementation of @xcite , making it , to our knowledge , the fastest superpixel method to date .",
+    "our full source code with a simple example can be downloaded from https://github.com/carlren/gslicr .",
+    "the following sections describe in detail our algorithm and implementation .",
+    "[ cols=\"^,^ \" , ]          c.  ren , v.  prisacariu , d.  murray , and i.  reid , `` star3d : simultaneous tracking and reconstruction of 3d objects using rgb - d data , '' in _ computer vision ( iccv ) , 2013 ieee international conference on _ , pp .  15611568 , dec 2013 .",
+    "v.  a. prisacariu , o.  khler , m.  cheng , c.  y. ren , j.  p.  c. valentin , p.",
+    "h.  s. torr , i.  d. reid , and d.  w. murray , `` a framework for the volumetric integration of depth images , '' _ corr _ , vol .",
+    "abs/1410.0925 , 2014 ."
+  ],
+  "abstract_text": [
+    "<S> we introduce a parallel gpu implementation of the simple linear iterative clustering ( slic ) superpixel segmentation . using a single graphic card </S>",
+    "<S> , our implementation achieves speedups of up to @xmath0 from the standard sequential implementation . </S>",
+    "<S> our implementation is fully compatible with the standard sequential implementation and the software is now available online and is open source . </S>"
+  ]
+}

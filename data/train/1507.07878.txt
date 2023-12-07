@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "rban scaling laws are powerful summaries of the variations of urban attributes with city size . indeed , when considering the variation of an absolute urban quantity @xmath0 against total population @xmath1 in a city @xmath2 , there is almost always a covariation between the two @xcite , frequently in the mathematical form of a power law      where _ a _ represents a time dependent normalisation constant , and @xmath4 the scaling exponent under enquiry . + superlinear relationships ( i.e. : @xmath5 ) indicate positive returns to scale , or a relative concentration in the largest cities ; whereas sublinearity ( @xmath6 ) is associated with economies of scale , or a relative concentration in the smallest cities .",
+    "linear scaling ( @xmath7 ) means that the quantity per capita is constant across city size .",
+    "scaling exponents @xmath4 estimated from empirical data have been interpreted as static or evolutionary properties , respectively by bettencourt et al @xcite and pumain et al @xcite .",
+    "however , they are subject to variations with respect to urban delineation @xcite , which questions the validity of a universal interpretation .",
+    "+ for example , despite the existence of theoretical models to predict the value of urban scaling from local interactions @xcite , an easy way to argue against the universality of scaling exponent values is to look at their variation with city definition .",
+    "for instance , in france , there are two definitions of cities defined by the statistical office insee ( cf .",
+    "table [ table:2 ] and figure [ fig : corrdef ] in supplement ) :     +   + comparing scaling results from those two official definitions , we find not only marginal discrepancies between expected values and estimated exponents , but evidence of different scaling regimes when we compare morphological and functional city delineations ( cf . table [ table:1 ] ) , with similar goodness of fits ( i.e. quite low for manufacturing jobs and relatively high for the other attributes ) .",
+    "in one case , say employment in the manufacturing sector , the number of jobs grows more than proportionally with the population of density - defined urban units , whereas the number of such jobs per capita decreases with the size of functionally - defined metropolitan areas ."
+  ],
+  "abstract_text": [
+    "<S> scaling laws are powerful summaries of the variations of urban attributes with city size </S>",
+    "<S> . however , the validity of their universal meaning for cities is hampered by the observation that different scaling regimes can be encountered for the same territory , time and attribute , depending on the criteria used to delineate cities . </S>",
+    "<S> the aim of this paper is to present new insights concerning this variation , coupled with a sensitivity analysis of urban scaling in france , for several socio - economic and infrastructural attributes from data collected exhaustively at the local level . </S>",
+    "<S> the sensitivity analysis considers different aggregations of local units for which data are given by the population census . </S>",
+    "<S> we produce a large variety of definitions of cities ( approximatively 5000 ) by aggregating local census units corresponding to the systematic combination of three definitional criteria : density , commuting flows and population cutoffs . </S>",
+    "<S> we then measure the magnitude of scaling estimations and their sensitivity to city definitions for several urban indicators , showing for example that simple population cutoffs impact dramatically on the results obtained for a given system and attribute . </S>",
+    "<S> variations are interpreted with respect to the meaning of the attributes ( socio - economic descriptors as well as infrastructure ) and the urban definitions used ( understood as the combination of the three criteria ) . because of the modifiable areal unit problem ( maup ) and of the heterogeneous morphologies and social landscapes in the cities internal space , scaling estimations are subject to large variations , distorting many of the conclusions on which generative models are based . </S>",
+    "<S> we conclude that examining scaling variations might be an opportunity to understand better the inner composition of cities with regard to their size , i.e. to link the scales of the city - system with the system of cities . </S>",
+    "<S> +    2 </S>"
+  ]
+}

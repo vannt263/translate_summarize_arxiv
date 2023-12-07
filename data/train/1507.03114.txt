@@ -1,0 +1,9 @@
+{
+  "article_text": [
+    "this work was funded by the national science foundation under grants cns-1330308 , cns-1546033 and cns-1065134 .",
+    "swift has a significant financial interest in microsoft corp ."
+  ],
+  "abstract_text": [
+    "<S> +    = 1    = 0    = 1 </S>"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "in dust condensation the accretion rate is proportional to the surface area of the grain , i.e. , there is a difference between smooth , spherical and non - spherical grains . with rough fractal surfaces ,",
+    "the rate of accretion is obviously larger .",
+    "so , could fractal grains grow fast enough to explain , e.g. , recent results on supernova dust ? and then , how is dust formation in agb stars affected ?",
+    "the mass - growth rate of a dust particle of mass @xmath0 is @xmath1 where @xmath2 is sticking coefficient ( probability ) , @xmath3 is the thermal mean velocity of the growth species molecule x and @xmath4 , @xmath5 are its mass and number density , respectively .",
+    "smooth spherical grains have a grain - surface area @xmath6 , where @xmath7 is the radius . assuming @xmath8 ( reasonable before depletion of x ) we find @xmath9 . for a constant area - volume relation ,",
+    "i.e. , @xmath10 , we find instead @xmath11 .",
+    "these are the two limit cases .",
+    "a smooth sphere corresponds to a grain with a hurst exponent @xmath12 and the latter case corresponds to @xmath13 , where @xmath14 and the fractal dimension @xmath15 are related as @xmath16 for a self - similar surface in @xmath17-dimensional space @xcite .",
+    "thus , for @xmath18 and @xmath19 $ ] we have @xmath20 $ ] , which for ( surface fractals ) indicate a range of roughnesses from perfectly smooth to extremely rough and uneven .",
+    "real grains are likely somewhere in between the extreme cases @xmath21 and @xmath22 , though . the equations for the moments of the grain - mass distribution @xmath23 in case of smooth spherical grains ( @xmath22 , @xmath24 ) is then @xcite , @xmath25 where @xmath26 is the moment order , @xmath27 and @xmath28 is the dumber density of grains . for the opposite limit ( @xmath21 , @xmath29 )",
+    "we derive the equations ( the moments @xmath30 are still defined as above ) , @xmath31 where @xmath32 , but with a different scaling factor compared to @xmath33 which includes @xmath34 .",
+    "both sets of equations can be solved analytically up to the integral @xmath35 . in fig .",
+    "[ ratios ] we compare the solutions for the spherical ( eq . [ eqnmoment1 ] ) and the ` fractal ' case ( eq . [ eqnmoment2 ] ) for a range of @xmath34 values .",
+    "the initial grain - mass distribution is a power - law with a slope @xmath36 .",
+    "the moments ( in particular the first and second ) may initially increase slower in the ` fractal limit ' case compared to the case of smooth spherical grains .",
+    "this effect depends on the adopted ( constant ) area - volume relation @xmath34 , which is a number of the order @xmath37 , where @xmath38 is the average grain radius .",
+    "regardless of the value of @xmath34 the _ exponential _ growth in the ` fractal limit ' ( @xmath21 , @xmath29 ) will eventually be faster than in any other case .",
+    "for the range of @xmath34 considered here , ` fractal ' grains win the ` mass - growth battle ' within a growth timescale [ @xmath39 when @xmath40 and can reach a total dust mass that is up to @xmath41 times larger than for spherical grains .    in summary",
+    ": smooth spherical grains and fractal grains with constant @xmath34 represents two distinctly different regimes of dust condensation ; dust grains in agb star atmospheres with rough fractal surfaces ( aggregates are unlikely ) , may condense significantly more efficient than in models of dust and wind formation , where grains are assumed to be smooth spheres .",
+    "p . & sedlmayr e. , 1988 , , 206 , 153 gall c. , et al .",
+    "2014 , nature , 511 , 326 matsuura m. , dwek e. , meixner m. , et al . , 2011 , science , 333 , 1258 gneiting t. & schlather m. , 2004 , siam review , 46 , 269"
+  ],
+  "abstract_text": [
+    "<S> fractal grains have large surface area , which leads to more efficient condensation . the special limit case where the volume - area ratio is constant ( corresponding to , e.g. , a very rough grain surface or non - compacts aggregates ) is particularly interesting , as well as convenient , from a mathematical point of view . </S>",
+    "<S> if dust grains from agb stars have ` rough surfaces ' , it may have important implications for our understanding of dust and wind formation in agb stars . </S>"
+  ]
+}

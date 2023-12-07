@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "games on a grid have been extensively studied ( see @xcite@xcite@xcite@xcite@xcite ) with interesting dynamics and the surprising result that strictly dominated strategies , like cooperation in prisoner s dilemma , can persist in a spatial environment .",
+    "the simplest idea is that you start with and underlying @xmath0 symmetric game    22 & coop & defect + coop & @xmath1 & @xmath2 + defect & @xmath3 & @xmath4    and consider an @xmath5 grid of players . using wrap - around to make it a torus is convenient to avoid boundary effects .",
+    "dynamics proceed by repeating two steps :    step 1 ) each player is initially programmed to play either coop or defect , plays the game with each of their 8 neighbors , and sums their own payoffs .",
+    "step 2 ) each player compares their sum to each of their 8 neighbors .",
+    "if any neighbor has a higher sum using a different strategy , the player will adopt the strategy of this more successful neighbor .",
+    "for generic payoffs , there will be no ties between players using different strategies . for non - generic 2x2 games",
+    ", one can adopt the convention of preferring to keep or to change one s strategy .",
+    "introducing a stochastic element to break ties is another solution , but will not be considered here .",
+    "hexagonal grids , up - down - left - right neighborhoods , games on a regular graphs , and games with more than one strategy are easily considered with the same analysis as the following .",
+    "suppose each player has @xmath6 neighbors , has strategies numbered @xmath7 or @xmath8 , and the underlying game is :    22 & 0 & 1 + 0 & a & b + 1 & c & d    in step 1 , each player counts the number of neighbors with strategy @xmath8 , obtaining a count @xmath9 .",
+    "the player s own strategy is either @xmath8 or @xmath7 , so there are @xmath10 possible net payoffs :    @xmath11    generically , these will be @xmath10 distinct values ( i.e. if @xmath12 are real numbers selected from any continuous probability distribution , there is a zero probability that two of these expressions will be equal ) , and hence a player s payoff uniquely determines their strategy .    in step 2",
+    ", a player will compare their net payoff to that of their neighbors .",
+    "the only thing that matters is the relative ranks of the net payoffs .",
+    "for example , consider the standard rectangular grid with eight neighbors and the prisoner s dilemma :    22 & 0 ( coop ) & 1 ( defect ) + 0 ( coop ) & 1.0 & 0.1 + 1 ( defect ) & 1.9 & 0.3    the possible payoffs are :    c|c|c|c|c|c|c|c|c|c| & + & & & & & & & & & + & 8.0&7.1&6.2&5.3&4.4&3.5&2.6&1.7&0.8 + & 15.2&13.6&12.0&10.4&8.8&7.2&5.6&4.0&2.4 +    the resulting rankings create a rank matrix :    c|c|c|c|c|c|c|c|c|c| & + & & & & & & & & & + & 13 & 11 & 10 & 8 & 7 & 5 & 4 & 2 & 1 + & 18 & 17 & 16 & 15 & 14 & 12 & 9 & 6 & 3 +    the ranking determines the game dynamics ; once the ranking matrix is determined , the game matrix and net payoffs can be dispensed with .",
+    "note that the net payoff depends linearly on the count of neighbors , and hence both rows of the rank matrix are monotone .",
+    "the most well know cellular automata is conway s game of life , whose dynamics also depend on a count of neighbors . however the dependence is not monotone : too many or too few occupied neighbors leads to the demise of an occupied cell .",
+    "the core idea of nonlinear spatial games is to consider all possible rank matrices , regardless of monotonicity or even any underlying game .",
+    "that is , allow the @xmath13 rank matrix to contain any arrangement of the ranks @xmath14 .",
+    "any nonlinear spatial game can be formulated as a cellular automata , where the future of any particular cell is a function of that cell and its neighborhood . due to the two - step nature of spatial games , this involves neighbors of neighbors . for a rectangular grid this would be a @xmath15 square .",
+    "the set of all possible ranking matrices for a rectangular grid is @xmath16 , which would be a minuscule proportion of of the possible cellular automata .",
+    "since the nonlinear spatial games rely on counts , the cellular automata are already invariant under symmetry ."
+  ],
+  "abstract_text": [
+    "<S> players are arranged on a regular lattice and coded with a specific strategy for a pre - defined game . </S>",
+    "<S> each player sums their payoffs from playing the game with each of their neighbors , and then adopts the strategy of the most successful player in the neighborhood . </S>",
+    "<S> dynamics are thus determined by the relative ranks of all possible payoff sums .    </S>",
+    "<S> linear sums of payoffs , however , generate only a small proportion of all possible rankings . </S>",
+    "<S> allowing for any ranking ( motivated by conway s game of life ) creates a rich array of dynamics .    </S>",
+    "<S> = 0pt = 10pt </S>"
+  ]
+}

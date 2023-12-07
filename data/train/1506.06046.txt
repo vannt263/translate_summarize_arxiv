@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "in recent years , the requirements of an efficient face detection system triggered a handful of age - invariant face detection algorithms @xcite .",
+    "sergio verdict et .",
+    "al @xcite suggested the use of principle component analysis and least square extrapolation techniques for face prediction and presented preliminary study without any conclusion ; however , this paper set up a path for research in this direction .",
+    "the challenge of developing how to model face variations under realistic conditions such as natural aging still remains unsolved .",
+    "individual face components ( e.g. eyes , nose , mouth ) features based matching algorithms have emerged , but these approaches are still not efficient @xcite .",
+    "the proposed fpm tries to capture the inherent facial features using supervised learning algorithms .",
+    "the fpm requires the time series image data to capture the temporal and spatial correlation between the images to predict the next time series image , for example , we provide fpm 4 facial images with 3 years intervals ( when subject was 15 , 18 , 21 and 24 years old ) , it uses these facial images to train itself for the specific subject and then predicts a facial image of the same subject .",
+    "the predicted facial image is matched with the actual facial image at 27 year of the subject ; the matched images differences are provided as feedback into the model again , this whole process is part of the ann back - propagation learning algorithm .",
+    "the face images are provided as input to the fpm .",
+    "the fpm treats `` pixel values '' of the face images as `` variables '' and produces global features in the sense that predicted image is influenced by every input image .",
+    "pca is applied to short time fourier transform ( stft ) of normalised images to find the global features , which generates global feature vectors ( gfvs ) .",
+    "the ann architecture , which uses the back - propagation ( bp ) learning algorithm , is used to capture the variations in the input images by feeding the gfvs calculated by pca and it predicts the face image as an output .",
+    "the major steps of fpm are shown in figure 1 .",
+    "the time series image data for testing and validation of the fdm is collected by the author of a few known persons and also from fgnet database @xcite and fpm prototype is implemented in matlab . the predicted output image ( last image ) in figure 2 shows the fpm performance . the accuracy of the match varied for different subjects from 78 to 86% when images are taken with 2 - 3 years time intervals .",
+    "the results could be improved by improving the image preprocessing techniques using wavelet transform as it captures localized features better . the independent component analysis ( ica )",
+    "will capture more variations in the images than the current approach .",
+    "further work is needed to establish appropriate ann model for the input images separated by larger time gaps ( @xmath0 years ) .    widest entry http://www.cvmt.dk / projects / fgnet/. a. lanitis , c. j. taylor and t. f. cootes , `` toward automatic simulation of aging effects on face images , '' ieee transactions on pattern analysis and machine intelligence , vol . 24 , no .",
+    "4 , pp 442 - 455 , april 2002 .",
+    "a. lanitis , c dragonova and c. christondoulou , `` comparing different classifiers for automatic age estimation , '' ieee transactions on systems , man and cybernetics , vol .",
+    "34 , no.1 , pp 621 - 628 , february 2004 .",
+    "y. wu , n. m. thalmann and d. thalmann , `` a dynamic wrinkle model in facial animation and skin aging , '' www.miralab.unige.ch/papers/112.pdf , 04/23/04 .",
+    "sergio verdict and hanqi zhuang,``a preliminary study on human face prediction '' , technical report , university of florida atlantic university , boca raton , fl 33433 , v.v .",
+    "starovoitov , d.i samal , d.v .",
+    "briliuk , `` three approaches for face recognition , '' the international conference on pattern recognition and image analysis , pp 707 - 711 , october 21 - 26 , 2002 .",
+    "lanitis , a. , `` evaluating the performance of face - aging algorithms , '' ieee international conference on automatic face and gesture recognition , pp 1 - 6 , sept 17 - 18 , 2008 .",
+    "charles otto , hu han and anil jain,``how does aging affect facial components ?",
+    ", '' the 12th international conference on computer vision - volume 2 , pp 189 - 198 , 2012 .",
+    "kathryn bonnen and brendan klare and anil k. jain,``component - based representation in automated face recognition , '' ieee transactions on information forensics and security - volume 8 , pp 239 - 253 , 2013 ."
+  ],
+  "abstract_text": [
+    "<S> automated face recognition and identification softwares are becoming part of our daily life ; it finds its abode not only with facebook s auto photo tagging , apple s iphoto , google s picasa , microsoft s kinect , but also in homeland security department s dedicated biometric face detection systems . </S>",
+    "<S> most of these automatic face identification systems fail where the effects of aging come into the picture . </S>",
+    "<S> little work exists in the literature on the subject of face prediction that accounts for aging , which is a vital part of the computer face recognition systems . in recent years </S>",
+    "<S> , individual face components ( e.g. eyes , nose , mouth ) features based matching algorithms have emerged , but these approaches are still not efficient . </S>",
+    "<S> therefore , in this work we describe a face prediction model ( fpm ) , which predicts human face aging or growth related image variation using principle component analysis ( pca ) and artificial neural network ( ann ) learning techniques . </S>",
+    "<S> the fpm captures the facial changes , which occur with human aging and predicts the facial image with a few years of gap with an acceptable accuracy of face matching from 76 to 86% . </S>"
+  ]
+}

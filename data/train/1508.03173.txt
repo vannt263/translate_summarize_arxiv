@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "in this paper i will derive a combinatorial formula for the partition function .",
+    "i discovered this formula by investigating a tree of the partition function .",
+    "it appears that the set of all partitions is not homogeneous and different partitions belong to different levels .",
+    "the formula that will be discussed in this paper has also been discovered by andrew sills@xcite from georgia southern university . in his paper professor",
+    "sills uses durfee squares to prove the formula . in my work , as i have mentioned above , i derive the formula from the tree structure of the partition function .",
+    "i learned about work of professor sills accidentally , after my colleague francesco sica had written a letter to george andrews for the quick assessment of the formula .",
+    "professor andrews , in turn , forwarded this letter to andrew sills , who sent me his own article and suggested me to think about open questions which he posted in his article .",
+    "i believe that my approach is different from his and uses another combinatorial methods .    in the second part of the paper",
+    "i establish connection between partitions and q - binomial coefficients and give new combinatorial meaning for the q - binomial coefficients .",
+    "partition function @xmath0 is the number of ways of writing integer @xmath1 as a sum of positive integers , where the order of addends is not important .",
+    "for example , since    @xmath2    @xmath3 . by convention",
+    "@xmath4 when @xmath5 and @xmath6 when @xmath7 .",
+    "it is very hard to compute @xmath0 for big @xmath1 by simply writing down all partitions of @xmath1 .",
+    "the table below shows values of @xmath0 for different @xmath1 s .    [ cols=\"^,^,^,^\",options=\"header \" , ]     looking at the table one may notice that center simmetric partitions are conjugate to each other .",
+    "this fact can be generalized as follows : partitions corresponding to @xmath8 in @xmath9 are conjugate to the partitions corresponding to @xmath8 in @xmath10 .",
+    "remember that    @xmath11    at the same time    @xmath12    putting these two facts together we get    @xmath13    for @xmath14 .",
+    "it is well known that @xmath15 .",
+    "on the other hand ,    @xmath16    and    @xmath17    therefore ,    @xmath18",
+    "partition function plays very important role in many areas of mathematics . for example :    1 .   @xmath0 counts the number of conjugacy classes in the symmetric group @xmath19 , which is at the same time the number of irreducible representations of @xmath19 .",
+    "2 .   number of distinct abelian groups of order @xmath20 equals to @xmath0 .",
+    "9 yuriy choliy and andrew sills , a formula for the partition function that  counts \" g. h. hardy and s. ramanujan , asymptotic formulae in combinatory analysis hans rademacher , topics in analytic number theory , springer - verlag , 1973 .",
+    "ken ono and jan hendrik bruinier , algebraic formulas for the coefficients of half - integral weight harmonic weak maass forms george e. andrews , the theory of partitions , addison - wesley , 1976 ."
+  ],
+  "abstract_text": [
+    "<S> in this article we will derive a combinatorial formula for the partition function p(n ) . in the second part of the paper </S>",
+    "<S> we will establish connection between partitions and q - binomial coefficients and give new interpretation for q - binomial coefficients .    </S>",
+    "<S> * mathematics subject classification ( 2010 ) . * </S>",
+    "<S> primary 05a17 secondary 11p81 </S>",
+    "<S> .    * keywords . * integer partitions , partition function , graphs , q - binomial coefficients . </S>"
+  ]
+}

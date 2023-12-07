@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "in this paper , we have considered chaotic motions of a classical string in a near penrose limit of ads@xmath0 .",
+    "we have shown that sub - leading corrections in a penrose limit provide an unstable separatrix , so that chaotic motions are generated as a consequence of collapsed kam tori . by deriving a reduced system composed of two degrees of freedom with a winding string ansatz",
+    ", we have computed poincar sections and provided support for the existence of chaos .",
+    "in addition , we have argued that no chaos appears in a near penrose limit of ads@xmath2s@xmath3 , as expected from the classical integrability of the parent system .",
+    "there are some open problems associated with the chaos in the ads@xmath0 .",
+    "a most important issue is to clarify what kind of gauge - theory operators correspond to the chaotic string solutions .",
+    "we have studied here a near penrose limit and hence the associated operators should be almost bps .",
+    "that is , a few impurities are inserted into the bps vacuum operator .",
+    "hence it seems likely that the problem would now be much easier than the setup discussed in @xcite , because the associated composite operators are quite intricate in the case of the full geometry .",
+    "however , we have no definite answer for the operators so far .",
+    "we need to make more of an effort , for example , by following the argument for a near penrose limit of ads@xmath2s@xmath3 @xcite .",
+    "it may also be useful to try to figure out a fractal structure associated with the chaos .",
+    "probably , one may expect that the impurities would randomly be inserted in the vacuum operator .",
+    "it is a pleasure to acknowledge helpful discussions with jun - ichi sakamoto and shin - ichi sasa .",
+    "the work of d.  k.  is supported by the japan society for the promotion of science ( jsps ) .",
+    "the work of k.  y.  is supported by supporting program for interaction - based initiative team studies ( spirits ) from kyoto university and by the jsps grant - in - aid for scientific research ( c ) no .",
+    "this work is also supported in part by the jsps japan - hungary research cooperative program and the jsps japan - russia research cooperative program .",
+    "l.  a.  pando zayas and c.  a.  terrero - escalante , `` chaos in the gauge / gravity correspondence , '' jhep * 1009 * ( 2010 ) 094 [ arxiv:1007.0277 [ hep - th ] ] ; p.  basu , d.  das and a.  ghosh , `` integrability lost , '' phys",
+    ".  lett .",
+    "b * 699 * ( 2011 ) 388 [ arxiv:1103.4101 [ hep - th ] ] ; p.  basu , d.  das , a.  ghosh and l.  a.  pando zayas , `` chaos around holographic regge trajectories , '' jhep * 1205 * ( 2012 ) 077 [ arxiv:1201.5634 [ hep - th ] ] ; l.  a.  pando zayas and d.  reichmann , `` a string theory explanation for quantum chaos in the hadronic spectrum , '' jhep * 1304 * ( 2013 ) 083 [ arxiv:1209.5902 [ hep - th ] ] .",
+    "a.  stepanchuk and a.  a.  tseytlin , `` on ( non)integrability of classical strings in p - brane backgrounds , '' j.  phys .",
+    "a * 46 * ( 2013 ) 125401 [ arxiv:1211.3727 [ hep - th ] ] ; y.  chervonyi and o.  lunin , `` ( non)-integrability of geodesics in d - brane backgrounds , '' jhep * 1402 * ( 2014 ) 061 [ arxiv:1311.1521 [ hep - th ] ] .",
+    "d.  giataganas and k.  sfetsos , `` non - integrability in non - relativistic theories , '' jhep * 1406 * ( 2014 ) 018 [ arxiv:1403.2703 [ hep - th ] ] ; x.  bai , j.  chen , b.  h.  lee and t.  moon , `` chaos in lifshitz spacetimes , '' arxiv:1406.5816 [ hep - th ] .                      c.  asplund , d.  berenstein and d.  trancanelli , `` evidence for fast thermalization in the plane - wave matrix model , '' phys .",
+    "* 107 * ( 2011 ) 171602 [ arxiv:1104.5469 [ hep - th ] ] ; c.  t.  asplund , d.  berenstein and e.  dzienkowski , `` large n classical dynamics of holographic matrix models , '' phys .  rev .",
+    "d * 87 * ( 2013 ) 8 , 084044 [ arxiv:1211.3425 [ hep - th ] ] .",
+    "r.  penrose , `` any spacetime has a plane wave as a limit , '' differential geometry and relativity , reidel , dordrecht , 1976 , pp .",
+    "271 - 275 .",
+    "+ r.  gven , `` plane wave limits and t - duality , '' phys .",
+    "b * 482 * ( 2000 ) 255 [ hep - th/0005061 ] .          p.  m.  crichigno , t.  matsumoto and k.  yoshida , `` deformations of @xmath5 as yang - baxter sigma models , '' jhep * 1412 * ( 2014 ) 085 [ arxiv:1406.2249 [ hep - th ] ] ; i.  kawaguchi , t.  matsumoto and k.  yoshida , `` jordanian deformations of the ads@xmath6s@xmath3 superstring , '' jhep * 1404 * ( 2014 ) 153 [ arxiv:1401.4855 [ hep - th ] ] ."
+  ],
+  "abstract_text": [
+    "<S> we study chaotic motions of a classical string in a near penrose limit of ads@xmath0 . </S>",
+    "<S> it is known that chaotic solutions appear on @xmath1 , depending on initial conditions . </S>",
+    "<S> it may be interesting to ask whether the chaos persists even in penrose limits or not . in this paper , we show that sub - leading corrections in a penrose limit provide an unstable separatrix , so that chaotic motions are generated as a consequence of collapsed kolmogorov - arnold - moser ( kam ) tori . </S>",
+    "<S> our analysis is based on deriving a reduced system composed of two degrees of freedom by supposing a winding string ansatz . then , we provide support for the existence of chaos by computing poincar sections . in comparison to the ads@xmath0 case , </S>",
+    "<S> we argue that no chaos lives in a near penrose limit of ads@xmath2s@xmath3 , as expected from the classical integrability of the parent system .    [ cols= \" < \" , ]     this result should be related to the classical integrability of type iib string theory on ads@xmath2s@xmath3 @xcite . </S>",
+    "<S> then , at least in principle , it would be possible to show the integrability by explicitly constructing an infinite number of conserved charges or the lax pair . </S>",
+    "<S> however , because of the quartic terms of canonical momenta , it seems quite difficult and hence our numerical support would be valuable . </S>"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "article_text": [
+    "let @xmath0 denote the set of natural numbers ( including zero ) .",
+    "every number @xmath1 has a unique decimal representation of the form @xmath2 where each digit @xmath3 belongs to the digit set @xmath4 and the leading digit @xmath5 is nonzero whenever @xmath6 . in what follows , we use diagrams to illustrate the ideas ; for example ,"
+  ],
+  "abstract_text": [
+    "<S> it is shown that the set of decimal palindromes is an additive basis for the natural numbers . </S>",
+    "<S> specifically , we prove that every natural number can be expressed as the sum of forty - nine ( possibly zero ) decimal palindromes .    1.8 in </S>"
+  ]
+}

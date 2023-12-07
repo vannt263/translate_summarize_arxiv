@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "as big data approaches exascale levels , storage systems start to experiment new challenges in regards to the volume , variety and speed at which information needs to be processed ( velocity ) .",
+    "energy costs are a raising concern , as servers are not designed to be power - proportional  @xcite and modern networks eventually may not be able to cope with an already oversubscribed model beyond access routers . in particular , the power dis - proportionality of storage systems is usually due to the heterogeneous consumption of disks as well as memory instability  @xcite .    in database applications ,",
+    "@xcite explored the energy - efficiency of databases , and found they are not able to measure noticeable variations in power consumption using different workloads when varied the amount of memory accessed and the access patterns applied ( sequential vs random memory accesses ) .    on the other hand , and while shared - nothing architectures allow decoupling of the underlying hardware infrastructure from the computation , it is yet still not fully understood how to efficiently adapt distributed storage systems that sustain high throughput to mission critical application s and reduce overall energy bills .",
+    "we study hbase , a column - oriented data store which follows the architectural design of bigtable , and it is suited for random , real - time read / write access to big data .",
+    "our findings show potential for improvement in this research area . to the best of our knowledge ,",
+    "this is the first study to date which focuses on the energy footprint of random read and write workloads in a modern nosql data store ( e.g. , apache hbase ) . to this end",
+    ", we show the impact different workload types , consistency and concurrency levels have over the total energy consumption of the storage cluster as well as its data throughput .",
+    "empirical results are obtained through automated and reproducible experiments developed for running an hbase cluster of machines on the grid5000  @xcite platform .",
+    "our methodology follows a client - centric consistency model with two configurations .",
+    "deferred - updates , with a buffer of size 12 mb ( default in hbase ) , namely _ eventual _ ; or without buffer , namely _",
+    "strong_. both leverage the default hadoop packet size of 64 kb ( which in turn involves no buffer - copy ) .",
+    "naturally , hbase provides strong consistency semantics at the row level and within a data center .",
+    "therefore , for analyzing the effect of deferring or not updates under a strongly consistent architecture , we embed these semantics into the hbase client of ycsb ( _ yahoo cloud service benchmark _ ) . at the time of running the experiments we used a stable version of hbase ( hbase-0.94.8 ) in a cluster of 40 server machines of the model carri system cs-5393b with intel xeon x3440 cpu at 2.53 ghz , 16 gb memory , 320 gb / sata ii ( drive ahci ) of storage and gigabit ethernet network connectivity .",
+    "we experiment with 3 large workloads that fully stress memory and therefore exercise hard - disks .",
+    "namely , write intensive ( 80% writes ) as in e - commerce applications during peak season due to flash - crowds ( _ e.g. , black friday or cyber monday _ ) , read intensive ( 80% reads ) which is the usual pattern in hbase with the _ messages _ application at facebook , and balanced in order to see the effect of a mixed workload ( 50%-50% ) .",
+    "all of them use a uniform data distribution in order to simulate random reads / writes to hbase , meaning choosing an item uniformly at random .",
+    "energy measurements are obtained through an api connected to the _ power distribution units _ in the data center .      with energy efficiency generally described as @xmath0",
+    ", we realize the impact of deferred - updates ( as in eventually consistent systems ) as the fraction of throughput produced with a given amount of energy to be consumed by the cluster .",
+    "the hypothesis is that consistency guarantees ( latency of update propagation time ) are offered to the client in exchange of a given energy footprint on the cluster .",
+    "a simple model can introduce a good estimation of this trade - off by considering the different factors leading to a final amount of energy consumed ; conveyed as the amount of consistency offered with a given energy budget in fact , @xmath1 .    [",
+    "cols=\"^,^,^ \" , ]",
+    "in this paper we analyze and characterize the energy efficiency of three different workloads , which exhibit different behaviors in terms of energy consumption and data throughput .",
+    "while strong delivers poorer performance and often consumes same or more energy than eventual ( as in the case of a write intensive workload under high concurrency ) , there is a substantial improvement in throughput when using eventual in all cases .",
+    "the most interesting case is the write workload . _",
+    "eventual _ ( with buffer ) achieves around 3x times higher throughput under high concurrency and averages about 0,01 kilowatt - hour ( kw*h ) less than the _ strong _ approach ( without buffer ) .",
+    "those savings increase as the number of concurrent clients grow because of the steady consumption with _ strong _ , unlike the case of _ eventual_. the case of reads is more surprising , which reveals that in systems such as hbase , built on top of a memory store , reads cost more energy per unit of throughput .",
+    "the balanced workload follows the same trend as well , indicating the clear impact of reads once again .",
+    "therefore , access patterns , concurrency and consistency leads to a given energy consumption for each type of workload .",
+    "this is highlighted as the relationship among _ energy _ and _ throughput _ in a modern data store that is built to scale with random reads and writes .    in turn",
+    ", it must be possible to reach further energy savings by applying  _ write off - loading _ techniques on hbase idle region servers pointing to a distributed and common file system ( hdfs ) .",
+    "that is , changing requests patterns by caching or moving such requests from the unused disks into another location in the data center , and therefore expecting to increase energy savings substantially as in  @xcite .",
+    "experiments presented in this paper were carried out using the grid5000 experimental testbed , being developed under the inria aladdin development action with support from cnrs , renater and several universities as well as other funding bodies ( see https://www.grid5000.fr ) ."
+  ],
+  "abstract_text": [
+    "<S> the total estimated energy bill for data centers in 2010 was $ 11.5 billion , and experts estimate that the energy cost of a typical data center doubles every five years . </S>",
+    "<S> on the other hand , storage advancements have started to lag behind computational developments , therein becoming a bottleneck for the ongoing data growth which already approaches exascale levels . </S>",
+    "<S> we investigate the relationship among data throughput and energy footprint on a large storage cluster , with the goal of formalizing it as a metric that reflects the trading among consistency and energy . employing a client - centric consistency approach , and while honouring acid properties of the chosen columnar store for the case study ( apache hbase ) , we present the factors involved in the energy consumption of the system as well as lessons learned to underpin further design of energy - efficient cluster scale storage systems .    </S>",
+    "<S> [ efficiency and effectiveness ] </S>"
+  ]
+}

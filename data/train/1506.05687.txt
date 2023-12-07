@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "bismuth tellurohalide ( bitei ) has recently been attracting a great deal of interest as a potential spintronic material due to emergence of giant rashba - type spin - splittings in its band structure@xcite and of a pressure - induced topological insulating phase,@xcite albeit it has also been pointed out@xcite that the latter would probably be hindered by a structural phase transition .",
+    "prompted by the discovery@xcite of rashba splittings in the band structure of bitei , density - functional calculations have increasingly been employed@xcite to explore the electronic and crystal structure of this semiconductor .",
+    "curiously , although bitei is often described to have a layered structure where the triple bi - te - i layers are stacked along an axis perpendicular to the layers , the van der waals attractions were _ not _ explicitly included in these studies .",
+    "the lattice parameters of bitei were therefore needed to be fixed to their experimental values@xcite in most density - functional calculations . in order to provide a more complete description ,",
+    "we adopt here the dispersion - corrected density - functional ( dft - d2 ) approach,@xcite where the van der waals forces are incorporated by means of a semiempirical force field .",
+    "we employ the dft - d2 calculations for not only bitei but also autei and pdtei as far as we are aware of few experimental studies@xcite on the structure and properties of the latter , which have not been explored via first - principles methods before .    in order to reveal the effect of the dispersion correction on the crystal and electronic structure of metei ( me = bi , au , or pd ) compounds , we carried out our calculations at two levels of approximations : the density - functional calculations performed within the generalized gradient approximation ( gga ) using the functional of perdew , burke , and ernzerhof ( pbe)@xcite without and with the semiempirical dispersion correction . hence",
+    ", we compare the results of the pbe ( semilocal ) and pbe - d2 ( dispersion - corrected ) calculations to each other and to the experimental data .",
+    "the total energy calculations performed for compressed and dilated systems are used to derive equation of state for metal tellurohalides under consideration .",
+    "our results show that inclusion of van der waals interactions is necessary for an adequate physical description of these compounds . in particular , predicting the anisotropy of bitei via the pbe calculations",
+    "yields an _ unrealistic _",
+    "result whereas the results of the pbe - d2 calculations agree with the experimental compressibility data .",
+    ".[d2par ] dispersion coefficients @xmath1 ( in j nm@xmath2 mol@xmath3 ) and van der waals radii @xmath4 ( in  ) employed in the present pbe - d2 calculations .",
+    "these values are taken from the references given in the rightmost column . [",
+    "cols=\"<,^,^,^\",options=\"header \" , ]     @xmath5computed by using the lattice parameters given in tables 1 and 2 of ref .",
+    "15 since in ref .",
+    "15 the bond lengths given in table  3 are _ not _ consistent with tables 1 and 2 , as noted by bahramy _",
+    "et al . _ ( ref .  5 ) .",
+    "+ @xmath6note that in ref .",
+    "15 the bond angles given in table  3 are consistent with tables 1 and 2 ."
+  ],
+  "abstract_text": [
+    "<S> _ published version available at http://dx.doi.org/10.1103/physrevb.91.245204_    semilocal and dispersion - corrected density - functional calculations have been performed to study the crystal structure , equation of state , and electronic structure of metal tellurohalides with chemical formula metei where me = bi , au , or pd . a comparative investigation of the results of these calculations is conducted , which reveals the role of van der waals attraction . </S>",
+    "<S> it is shown that the prediction of crystal structure of metal tellurohalides is systematically improved thanks to the inclusion of van der waals dispersion . </S>",
+    "<S> it is found for bitei and autei that the energy versus volume curve is anomalously flat in the vicinity of equilibrium volume and the calculated equation of state has an excessively steep slope in the low - pressure region , which are also fixed in the dispersion - corrected calculations . </S>",
+    "<S> analysis based on the computation of the volume and axial compressibilities shows that predicting the anisotropy of bitei via the semilocal calculations yields an _ unrealistic _ </S>",
+    "<S> result whereas the results of dispersion - corrected calculations agree with the experimental compressibility data . </S>",
+    "<S> our calculations render that bitei ( autei ) is a narrow band gap semiconductor with rashba - type spin - splitting at the band edges ( with an indirect band gap ) while pdtei is a metal with relatively low density of states at the fermi level . </S>",
+    "<S> the band gaps of bitei and autei obtained via semilocal ( dispersion - corrected ) calculations are found to be _ greater _ ( _ smaller _ ) than the respective experimental values , which is against ( in line with ) the expected trend . </S>",
+    "<S> similarly , the rashba parameters of bitei are _ bracketed _ by the respective values obtained via semilocal and dispersion - corrected calculations , e.g. , a larger value for the rashba parameter @xmath0 is obtained in association with the reduction of the band gap caused by modification of the crystal structure owing to van der waals attraction . excellent agreement with the experimental rashba parameters </S>",
+    "<S> is obtained via interpolation of the calculated ( semilocal and dispersion - corrected ) values . </S>"
+  ]
+}

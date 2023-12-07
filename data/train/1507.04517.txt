@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "we thank the anonymous referee for his / her helpful comments , which improved the manuscript .",
+    "all coauthors , members of the magna project ( http://www.issibern.ch/teams/agnactivity/home.html ) , gratefully acknowledge support of the international space science institute ( issi ) in bern , switzerland . t.b . acknowledges the support from the alfred p. sloan foundation under grant no .",
+    "br2013 - 016 and the national science foundation under grant no .",
+    "nsf ast-1211677 .",
+    "99 baumgartner , w. h. ; tueller , j. ; markwardt , c. b. ; et al , 2014 , apjs , 207 , 19 bertin & arnouts , 1996 , a&a , 317 , 393 bianchi , s. & guainazzi , 2007 , aipc , 924 , 822b bianchi , s. et al .",
+    ", a&a 495 , 421430 bruzual g. , charlot s. , 2003 , mnras , 344 , 1000 da cunha , e. ; charlot , s. ; elbaz , d. , 2008 , mnras , 388 , 1595 elbaz d. ; daddi e. ; le borgne d. ; et al .",
+    "2007 , a&a , 468 , 33 ellison , s. l. ; fertig , d. ; rosenberg , j. l. ; et al , 2015 , mnras , 448 , 221 giovanelli , r. ; haynes , m. p. ; kent , b. r. ; et al . , 2005 ,",
+    "aj , 130 , 2598 gonzlez - martn , o ; masegosa , j. ; marquez , i. ; guainazzi , m. ; jimenez - bailon , e. 2009 , a&a , 506 , 1107 groves , b. a. ; heckman , t. m. ; kauffmann , g. 2006 , mnras , 371 , 1559 haggard , d. ; green , p. , j. ; anderson , s. f. et al . , 2010 , apj , 723 , 1447 hickson , p. 1994 , apj , 427 , 684 hickson , p. 1997 , araa , 35 , 357 kauffmann , g. ; heckman , t. m. ; tremonti , c. ; et al , 2003 , mnras , 346 , 1055 kewley , l. j. ; dopita , m. a. 2002 , apjs , 142 , 35 koribalski , b. ; gordon , s. & jones , k. , 2003 , mnras , 339 , 1203 lamassa , s. m. ; heckman , t. m. ; ptak , a. ; et al .",
+    "2009 , apj , 705 , 568 lang , d. ; hogg , d. w. ; mierle , k. ; blanton , m. ; roweis , s. , 2010 , aj , 139 , 1782 li , c. ; kauffmann , g. ; jing , y. p. ; et alo .",
+    "2006 , mnras , 368 , 21 liu , x. ; shen , y. ; strauss , m. a. and hao , l. 2011 , apj , 737 , 101 martnez , m. a. ; del olmo , a. ; coziol , r. ; perea , j. , 2010 , aj , 139 , 1199 martini p. , kelson d. d. , kim e. , et al .",
+    "2006 , apj , 644 , 116 ranalli , p. ; comastri , a. ; setti , g. 2003 , a & a , 399 , 39 ribeiro , a. l : b. , de carvalho , r. r. , et al .",
+    ", 1996 , apj , 463 , l5 . rose 1977 , apj , 211 , 311 rovilos e. ; comastri a. ; gilli r. ; et al .",
+    "2012 , a&a , 546 , 58 sabater , j. , leon , s. , verdes - montenegro , et al . , 2008 ,",
+    "a&a , 486 , 73 seyfert , c. k. 1951 , pasp , 63 , 371 .",
+    "silverman , j. d.;kampczyk , p. , jahnke , k. et al .",
+    "2011 , apj , 743 , 2 silverman , j. d. ; miniati , f. ; finoguenov , a. ; et al .",
+    "2014 , apj , 780 , 67 stephan , m. e. , 1877 .",
+    "mnras 37 , 334 strauss , m. a. ; weinberg , d. h. ; lupton , r h. ; et al .",
+    "2002 , aj , 124 , 1810 turner m. j. l. , reeves , j. n. , ponman j. t. , 2001 a&a , 365 , l110 tzanavaris , p. ; gallagher , s. c. ; hornschemeier , a. e. ; et al , 2014 , apjs , 212 , 9"
+  ],
+  "abstract_text": [
+    "<S> we present a multi - wavelength study of a newly discovered compact group ( cg ) , sdss j0959 + 1259 , based data from , sdss and the calar alto optical imager busca . with a maximum velocity offset of 500 km s@xmath0 , a mean redshift of 0.035 , and a mean spatial extension of 480 kpc , </S>",
+    "<S> this cg is exceptional in having the highest concentration of nuclear activity in the local universe , established with a sensitivity limit l@xmath110@xmath2 erg s@xmath0 in 210 kev band and r - band magnitude @xmath3 . </S>",
+    "<S> the group is composed of two type-2 seyferts , one type-1 seyfert , two liners and three star forming galaxies . </S>",
+    "<S> given the high x - ray luminosity of liners which reaches @xmath4 erg s@xmath0 , it is likely that they are also accretion driven , bringing the number of active nuclei in this group to to 5 out of 8 ( agn fraction of 60% ) . </S>",
+    "<S> the distorted shape of one member of the cg suggests that strong interactions are taking place among its galaxies through tidal forces . </S>",
+    "<S> therefore , this system represents a case study for physical mechanisms that trigger nuclear activity and star formation in cgs .    </S>",
+    "<S> [ firstpage ]    galaxies : active  galaxies : seyfert  galaxies : interactions  x - rays : galaxies    [ cols=\"^,^,^,^,^,^,^,^,^,^,^,^ \" , ]      + [ fit ] </S>"
+  ]
+}

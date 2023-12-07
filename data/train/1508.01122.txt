@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "compounding continuous with discrete distributions have been introduced and studied in the recent years .",
+    "these method allow us to obtain distributions with great flexibility and are useful to develop more realistic statistical models in a great variety of applications .",
+    "@xcite introduced a class of distributions which can be obtained by minimum and maximum of independent and identically distributed continuous random variables , where the sample size follows geometric distribution .",
+    "@xcite introduced a class of distributions obtained by mixing extended weibull and power series distributions and studied several of its statistical properties .",
+    "this class contains the weibull - geometric distribution @xcite and other lifetime models studied recently .",
+    "the reader is referred to @xcite for a brief literature review about some univariate distributions obtained by compounding .",
+    "the three - parameter generalized linear failure rate ( glfr ) distribution has been introduced by @xcite .",
+    "the hazard function of glfr distribution can be increasing , decreasing and bathtub shaped , and it has the following cumulative distribution function ( cdf ) and probability density function ( pdf ) , respectively , @xmath0    recently , many studies have been done on glfr distribution , and some authors have extended it : the generalized linear exponential @xcite , beta - linear failure rate @xcite , kumaraswamy - glfr @xcite , modified - glfr @xcite , mcdonald - glfr @xcite , poisson - glfr @xcite , glfr - geometric @xcite and glfr - power series @xcite are some univariate extension of glfr distribution .",
+    "@xcite have introduced a new bivariate distribution using the glfr distribution and derived several interesting properties of this new bivariate distribution .",
+    "the proposed bivariate glfr ( bglfr ) distribution is an extension of bivariate generalized exponential ( bge ) distribution @xcite and its cdf , the joint pdf and the joint survival distribution function are in closed forms .",
+    "this bivariate distribution has both an absolute continuous part and a singular part , and is extended to a multivariate distribution .",
+    "the cdf of the bglfr model is given by @xmath1    in this paper , we compound the bglfr distribution and power series class of distributions and define a new class of bivariate distributions .",
+    "this class contains the bglfr and glfr - power series ( glfrps ) distributions and is called the bivariate glfr - power series ( bglfrps ) class of distributions .",
+    "this paper is organized as follows . in section [ sec.class ]",
+    ", we introduce the bglfrps distributions and obtain some properties of this new family .",
+    "some special models are studied in detail in section [ sec.spe ] .",
+    "an em algorithm is proposed to estimate the model parameters in section [ sec.est ] .",
+    "a real data application of the bglfrps distributions is illustrated in section [ sec.exa ] .",
+    "let the random variable @xmath2 be a discrete random variable having a power series distribution ( truncated at zero ) with probability mass function ( pmf ) @xmath3 where @xmath4 depends only on @xmath5 , @xmath6 and @xmath7 ( @xmath8 can be @xmath9 ) is such that @xmath10 is finite .",
+    "table [ tab.ps ] summarizes some particular cases of the truncated ( at zero ) power series distributions ( geometric , poisson , logarithmic , binomial and negative binomial ) .",
+    "detailed properties of power series distribution can be found in @xcite . here , @xmath11 , @xmath12 and @xmath13",
+    "denote the first , second and third derivatives of @xmath10 with respect to @xmath14 , respectively ."
+  ],
+  "abstract_text": [
+    "<S> recently it has been observed that the bivariate generalized linear failure rate distribution can be used quite effectively to analyze lifetime data in two dimensions . </S>",
+    "<S> this paper introduces a more general class of bivariate distributions . </S>",
+    "<S> we refer to this new class of distributions as bivariate generalized linear failure rate power series model . </S>",
+    "<S> this new class of bivariate distributions contains several lifetime models such as : generalized linear failure rate - power series , bivariate generalized linear failure rate and bivariate generalized linear failure rate geometric distributions as special cases among others . </S>",
+    "<S> the construction and characteristics of the proposed bivariate distribution are presented along with estimation procedures for the model parameters based on maximum likelihood . </S>",
+    "<S> the marginal and conditional laws are also studied . </S>",
+    "<S> we present an application to the real data set where our model provides a better fit than other models .    _ keywords _ : bivariate generalized linear failure rate distribution ; em algorithm ; maximum likelihood estimator ; power series class of distributions . </S>",
+    "<S> 62e15 - 62h10 </S>"
+  ]
+}

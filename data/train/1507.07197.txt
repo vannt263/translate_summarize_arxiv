@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "a graph is called _ hypohamiltonian _ if it is not hamiltonian but becomes hamiltonian if any vertex is removed .",
+    "such graphs exist on orders 10 ( the petersen graph ) , 13 , 15 , 16 , and all orders from 18 onwards  @xcite .",
+    "it is elementary to show that hypohamiltonian graphs must be 3-connected and have cyclic connectivity at least  4 .",
+    "a substantial body of literature is devoted to finding hypohamiltonian graphs with various properties .",
+    "the first planar hypohamiltonian graph , with 105 vertices , was found by thomassen  @xcite ; the present smallest known order is 40 vertices but smaller orders have not been ruled out  @xcite .",
+    "planar hypohamiltonian graphs can be cubic , as first shown by thomassen with an example on 94 vertices  @xcite .",
+    "the smallest examples found so far have 70 vertices ; the first example by araya and wiener  @xcite and six more by jooyandeh and mckay  @xcite .",
+    "planar hypohamiltonian graphs can also have girth 5 , and in this case the smallest order is proven to be 45  @xcite .",
+    "however , it was not known until now whether planar hypohamiltonian graphs can be both cubic and of girth 5 .",
+    "our purpose is to present the first examples .",
+    "using the program  ` plantri `  @xcite we generated all planar cubic graphs of girth 5 and cyclic connectivity at least 4 on up to 76 vertices .",
+    "no theory is known which could efficiently restrict the search to a small subclass sure to contain the hypohamiltonian graphs , so we just tested all of them .",
+    "the computational task was daunting as more than @xmath0 graphs are involved and 76 vertices is large enough that a primitive backtrack search for hamiltonian cycles takes up to several hours per graph .",
+    "fortunately we have a program ( unpublished ) specifically designed for sub - cubic graphs that takes only 10 microseconds on average to find a hamiltonian cycle if there is one , and 15 milliseconds on average to rigorously prove that there is none .",
+    "even then the task took about 8 years of cpu time .",
+    "the results are shown in table  [ tab ] .",
+    "for at most 74 vertices there are no hypohamiltonian graphs , but for 76 vertices there are three .",
+    "all of them have cyclic connectivity 5 .",
+    "the graphs themselves are shown in figures  [ fig1][fig3 ] , which were drawn by cage  @xcite .",
+    "note that the graphs have different face counts despite having some similarities .",
+    "the non - hamiltonicity of these graphs does not follow immediately from grinberg s condition , so we tested them with several independent programs to remove the possibility of error .",
+    "contrary to our usual experience of extremal graphs , none of them have any non - trivial automorphisms .",
+    "we did not find a way to generalize these examples to larger sizes despite trying several approaches , so the problem of finding an infinite family remains open .",
+    "g. brinkmann , o. delgado friedrichs , s. lisken , a. peeters and n. van cleemput , cage  a virtual environment for studying some special classes of plane graphs  an update , _ match commun .",
+    "* 63 * ( 2010 ) 533552 ."
+  ],
+  "abstract_text": [
+    "<S> a graph is called hypohamiltonian if it is not hamiltonian but becomes hamiltonian if any vertex is removed . </S>",
+    "<S> many hypohamiltonian planar cubic graphs have been found , starting with constructions of thomassen in 1981 . however , all the examples found until now had 4-cycles . in this note we present the first examples of hypohamiltonian planar cubic graphs with cyclic connectivity five , and thus girth five . </S>",
+    "<S> we show by computer search that the smallest members of this class are three graphs with 76 vertices .     graph generation ; hypohamiltonian graph ; planar graph ; cubic graph    * msc 2010 . * 05c10 , 05c30 , 05c38 , 05c45 , 05c85 . </S>"
+  ]
+}

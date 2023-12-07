@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "wolf - rayet ( wr ) stars are the evolved descendents of massive stars , with two main flavours : helium - rich wn stars displaying the products of core h burning and carbon - rich wc stars displaying the products of core he burning .",
+    "an overview of the number of wr stars in the milky way is provided .",
+    "the galactic census tripled between the 1st @xcite and the 6th catalogues ( van der hucht 1981 ) , a century later ( table  [ catalogues ] ) , and subsequently doubled by the annex to the 7th catalogue owing to deep narrow - band optical surveys @xcite , the discovery of rich star clusters @xcite and infrared surveys of the galactic centre region @xcite . over the past decade , the number has doubled again , primarily through surveys arising from the advent of large format infrared detectors , with the census totalling 642 , comprising 357 wn stars , 8 wn / c stars , 273 wc stars and 4 wo stars .",
+    "[ catalogues ]    [ cols=\"^,<,^\",options=\"header \" , ]     if we assume that the observed wr distribution is complete to k=8 mag ( though see below ) , @xmath3550 wr dominated stars in the galactic disk reproduce the observed wr distribution .",
+    "in addition , over 100 wr stars are currently known with @xmath4 so the total cmz population may be as large as 250 .",
+    "such a large population is surprisin given that the cmz accounts for perhaps 5% of the entire milky way star formation rate @xcite , but the presence of three very massive clusters in the galactic centre region suggests wr stars may be disproportionately represented .",
+    "a total of 550 + 250 = 800 stars would represent only 82% of the non - dusty wr population since 18% of systems are expected to be dominated by the wr companion in the k - band , so the non - dusty wr population inferred is @xmath3950 . finally , including dusty wc stars , which comprise 15% ( 150 ) of the whole population",
+    ", we estimate n(wr ) = 1,100 , providing n(wcd)/n(wc ) is uniform across all galactocentric radii .",
+    "a histogram of the predicted jhk@xmath5 magnitudes for this predicted wr population is presented in fig .",
+    "[ histogram ] .     and gaia g - band magnitudes predicted from the model wr population by @xcite.thick lines represent populations consisting of wn and non - dusty wc stars , while the dotted - line illustrates a model population in which 28% of wc stars are dust - forming with @xmath6 mag . ]    based on this global wr population of 1,100 ,",
+    "if the lower mass threshold to wr stars is @xmath7 , an average lifetime for the wr phase of 0.25 myr is implied by the current milky way star formation rate of 1.9 @xmath2 yr@xmath8 @xcite and a standard kroupa initial mass function .",
+    "this characteristic lifetime is in fair agrement with non - rotation evolutionary models , but is somewhat shorter than rotating model predictions .",
+    "if the observed wr distribution is not complete to k=8 mag , the acual wr population will increase . by way of example , the two most recent additions to the on - line catalogue ( v1.13 ) involve wr111 - 13 , a wn6 star from @xcite with k=8.02 mag and wr111 - 14 , a wn78 star from @xcite with k=7.7 mag . if the wr - dominated disk population were 650 instead of 550 , a global population of 1,300 would be inferred , so the current census may be 50% complete .",
+    "a brief overview of the wolf - rayet population in the milky way is presented .",
+    "the current census of 642 ( v1.13 of online catalogue ) represents a doubling of the population since the annex to the 7th wr catalogue only a decade ago , due to systematic searches from narrow - band surveys at 2@xmath9 m and broad - band near to mid - ir surveys .",
+    "a strict lower limit to the binary fraction is 34% ( sb12 systems plus dusty wc stars ) for v@xmath10 15 mag , but the actual fraction will oudoubedly be significantly higher .",
+    "spectroscopic monitoring of wr stars in the near - ir is now feasible owing to multi - object ir integral field units ( e.g. kmos at eso s vlt ) .    excluding the galactic centre region , @xmath020% of wr stars",
+    "are located in star clusters , adding weight to the formation of most massive stars in ob associations , i.e. away from dense clusters .",
+    "the current wr census may be 50% complete , in which case the average duration of the wr phase is 0.25 myr for a lower mass limit of 25 @xmath2 to the formation of wr stars .",
+    "the majority of systems hosting wr stars are dominated by the he - rich component in the k - band , so these are fundamentally high luminosity ( high mass ) stars .",
+    "in contrast , typical progenitors of stripped envelope core - collapse supernovae are relatively low mass stars , having transferred the majority of their h - rich envelope to a close companion .",
+    "such systems would not be recognised as conventional wr stars since the he - rich mass donor would be masked by the h - rich mass gainer at optical and near - ir wavelengths ."
+  ],
+  "abstract_text": [
+    "<S> an overview of the known wolf - rayet ( wr ) population of the milky way is presented , including a brief overview of historical catalogues and recent advances based on infrared photometric and spectroscopic observations resulting in the current census of 642 ( v1.13 online catalogue ) . </S>",
+    "<S> the observed distribution of wr stars is considered with respect to known star clusters , given that @xmath020% of wr stars in the disk are located in clusters . </S>",
+    "<S> wn stars outnumber wc stars at all galactocentric radii , while early - type wc stars are strongly biased against the inner milky way . finally , recent estimates of the global wr population in the milky way are reassessed , with 1,200@xmath1100 estimated , such that the current census may be 50% complete . </S>",
+    "<S> a characteristic wr lifetime of 0.25 myr is inferred for an initial mass threshold of 25 @xmath2 .    </S>",
+    "<S> * wolf - rayet content of the milky way * +    _ * paul a. crowther * _ + _ dept of physics & astronomy , university of sheffield , sheffield s3 7rh , uk _    2 </S>"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "article_text": [
+    "soit @xmath0 la srie gnratrice exponentielle des polynmes @xmath1 de bernoulli .",
+    "la suite @xmath2 des nombres de bernoulli est dfinie par@xmath3on a alors @xmath4de nombreux auteurs se sont intresss  la remarquable identit suivante @xmath5cette identit pose comme problme par carlitz @xcite en 1971 fut prouve en 1972 par shanon @xcite puis par gessel @xcite en 2003 , par wu , sun et pan @xcite en 2004 , par vassilev - missana vas en 2005 et par chen et sun @xcite en 2009 .",
+    "gould et j. quaintance @xcite la prouvent de nouveau en 2014 .",
+    "enfin prodinger @xcite en donne une preuve remarquablement trs courte en 2014 par lemploi dune srie formelle  deux variables .",
+    "il est immdiat de constater que ( [ r1 ] ) est un cas particulier , obtenue pour @xmath6 , de la relation suivante tablie en 2012 par le second auteur et garici @xcite @xmath7    dans cette note , nous prsentons une trs courte preuve de la relation ( [ r2 ] ) qui repose essentiellement sur le fait bien connu que tout polynme de bernoulli @xmath8 dindice @xmath9 impair sannule pour @xmath10 et quon prouve facilement en remarquant que @xmath11 . en considrant alors la forme linaire @xmath12 dfinie sur le @xmath13- espace vectoriel @xmath14 $ ] par @xmath15 , pour tout @xmath16 , cette proprit se traduit par @xmath17il suffit alors de remarquer",
+    "que le polynme@xmath18vrifie la relation @xmath19 il en rsulte alors que @xmath20 on en dduit que @xmath21 est un polynme impair en @xmath22 et par consquent que @xmath23 ce qui fournit la relation ( [ r2 ] ) en constatant que @xmath24signalons que la relation ( [ r2 ] ) gnralise de nombreuses identits connues pour les nombres de bernoulli .",
+    "pour @xmath25 et @xmath26 , la relation permet dobtenir une relation prouve par ettingshausen @xcite en 1827 , redcouverte par seidel @xcite en 1877 puis de nouveau par kaneko @xcite en 1995 et prouve aussi par gessel @xcite en 2003 ainsi que par chen et sun @xcite et par cigler @xcite en 2009 ."
+  ],
+  "abstract_text": [
+    "<S> dans cet article , nous donnons une courte preuve dune relation gnralisant de nombreuses identits pour les nombres de bernoulli . </S>"
+  ]
+}

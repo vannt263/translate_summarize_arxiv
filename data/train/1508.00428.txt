@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the monitoring of the geomagnetic field has proved to be an auxiliary tool in the study of tsunami by several authors .",
+    "the response of the ionosphere to tsunamis and the rayleigh and gravity waves induced by them has been studied broadly over the years @xcite , and modeled @xcite .",
+    "it is well - known that post - seismic acoustic - gravity and rayleigh waves can be observable close to the epicenter ( in the near - field , within @xmath1 km with velocity up to @xmath2 ) due to direct the vertical displacement of the ground induced by the rupture .",
+    "indeed , the rupture , as a dirac function , have a broad spectrum of energy including both , acoustic and gravity waves as presented on the detailed simulational - observational work by @xcite using tec and magnetic data . in the far - field ,",
+    "tsunamis induce pure gravity waves , and additionally rayleigh waves induce pure acoustic waves @xcite . more details could be found in @xcite .",
+    "the theoretical and observational evidences show that tsunamis can generate rayleigh and acoustic gravity waves ( agws ) in the atmosphere / ionosphere by tsunami - atmosphere - ionosphere ( tai ) dynamic coupling , and this coupling effect do not modify the main frequencies of these waves .",
+    "the presence of varieties of wavefronts propagating with velocity ranging between rayleigh to agw velocity was observed and discussed here for the first time using ground magnetic data for the japanese tsunami , @xmath0 in the near and far - field ( distances above @xmath1 km ) .",
+    "these observations reaffirmed the idea that the magnetogram data can be used as a possible tool for tsunami warnings as it was already discussed by @xcite .",
+    "on the 11th of march at @xmath3 ut , 2011 , a powerful earthquake of magnitude @xmath4 generated a catastrophic tsunami which propagated in the pacific ocean .",
+    "the epicenter was centered at @xmath5n and long .",
+    "@xmath6e , near to the coast of japan . to study this event",
+    ", we used the minutely magnetogram data from the z - component from @xmath7 ground magnetic stations which are displayed on table  [ table : abbcode ] .",
+    "in the work of @xcite , the wavelet analysis was proofed to be an alternative tool in detection of magnetic fields induced by the tsunami propagation . nowadays ,",
+    "the discrete wavelet transform ( dwt ) has been used in many different works in geophysics @xcite .",
+    "the dwt is based on the multi - scale analysis and local regularities of the signal .",
+    "considering @xmath8 as the analyzing wavelet , the wavelet coefficients of these transforms are dependent of two parameters : the scale @xmath9 and the central position of the wavelet analyzing function translation @xmath10 .    here",
+    ", the orthogonal discrete wavelet transform was used @xcite .",
+    "the key aspect of this transform is that the amplitude of the wavelet coefficients can be associated to the local polynomial approximation error which can be defined by the choose of the analyzing wavelet .    using the squared modulus of the wavelet coefficients @xmath11",
+    ", we can reproduce the discrete scalogram related to a discrete scale and a position , where the scale is related to a dyadic decomposition in levels @xmath12 , as @xmath13 and the translation is related to discrete position @xmath14 at level @xmath12 with @xmath15 .    in this context , we have that a signal @xmath16 can be represented by the expansion @xmath17 where @xmath18 are the wavelet coefficients computed from the @xmath19 inner - product @xmath20    the wavelet transform in level @xmath21",
+    "is given by @xmath22 where @xmath23 is a high - pass filter , @xmath24 is the wavelet coefficient at level @xmath21 , @xmath25 are the scale coefficients at level @xmath12 , and @xmath26 ( see * ? ? ?",
+    "* more details ) .",
+    "in this work , we use the daubechies ( db2 ) wavelet function of order 2 , and therefore the non - zero low filter values are @xmath27 $ ] .",
+    "also , the sampling rate of @xmath28 min , as consequence of the time resolution of the magnetic data , gives the pseudo - periods of the first three levels of @xmath29 and @xmath30 minutes , ( see * ? ? ?",
+    "* more details ) .",
+    "[ cols=\"^,^ \" , ]"
+  ],
+  "abstract_text": [
+    "<S> the continuous geomagnetic field survey holds an important potential in future prevention of tsunami damages , and also , it could be used in tsunami forecast . in this work </S>",
+    "<S> , we were able to detected for the first time rayleigh and ionospheric acoustic gravity wave propagation in the z - component of the geomagnetic field due to the japanese tsunami , @xmath0 prior to the tsunami arrival . </S>",
+    "<S> the geomagnetic measurements were obtained in the epicentral near and far - field . also , these waves were detected within minutes to few hours of the tsunami arrival . </S>",
+    "<S> for these reasons , these results are very encouraging , and confirmed that the geomagnetic field monitoring could play an important role in the tsunami warning systems , and also , it could provide additional information in the induced ionospheric wave propagation models due to tsunamis . </S>"
+  ]
+}

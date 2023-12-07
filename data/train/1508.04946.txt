@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "series of papers studied the classification of the gamma - ray bursts ( grbs ) .",
+    "they mainly agreed among these misterious phenomena not just short ( hard ) and long bursts exist but also a third type of grbs . in this paper",
+    "we are going to summarize these analyses mainly done by the authors .",
+    "the discovery of the third type of grbs goes back as early as 1998 @xcite .",
+    "after that many research groups studied the batse bursts sample and concluded the third group of the grbs statistically exists @xcite .",
+    "later several studies were published analysing different data sets .",
+    "we are going to summarize some results according to the cgro , _ swift _ and beppo - sax satellites .",
+    "the compton gamma - ray observatory ( cgro ) finished its mission in 2000 and the final batse catalog was published .",
+    "the duration distribution of this sample can be well fitted with three gaussian .",
+    "the significance that the third component is needed is 99.5% @xcite .",
+    "several papers confirmed similar or even better significance @xcite .",
+    "the first _ swift_-bat catalog @xcite was published in 2008 . in the catalog",
+    "there are 237 grbs , of which 222 have duration information .",
+    "the duration distribution of this sample can be seen in figure 1 . also a three gaussian fit is plotted in the figure .",
+    "the significance of the third component is 99.4 % ( see @xcite ) .",
+    "in the beppo - sax catalog @xcite there are 1082 grbs , of which 1003 have duration information ( see figure 2 . for the distribution ) . for the analysis of this distribution we used the maximum likelihood ( ml ) method .",
+    "the ml method was not able to identify all the three subgroups in the beppo - sax data at a high significance level .",
+    "however the third group in our analysis was the shortest in duration . therefore analyzing the duration distribution observed by beppo - sax grbm",
+    "one can find the long and the intermediate duration population @xcite .",
+    "the short population can be seen only with low significance level .",
+    "this research is supported by hungarian otka grant k077795 , by otka / nkth a08 - 77719 and a08 - 77815 ( zb ) , and by a bolyai scholarship ( ih ) ."
+  ],
+  "abstract_text": [
+    "<S> short and long bursts were identified by the batse team in the early 90 s . </S>",
+    "<S> a decade ago there were some suggestions about the intermediate duration type of bursts . </S>",
+    "<S> we are going to summarize recent analysises of the duration distributions of the beppo - sax and _ swift _ data . </S>",
+    "<S> our conclusion is all the three satellites ( cgro , _ swift _ , beppo - sax ) can see the third type of the grbs . </S>",
+    "<S> the properties of the group members are very similar in the different data sets . </S>"
+  ]
+}

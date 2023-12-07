@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "in this paper we present for the first time an analysis of geological , meteorological and climatic data revealed in taviano ( le ) by `` smcs - stazione meteo - climatica e sismologica '' a project by meteorological and climatic change and geological department of ts corporation srl.@xcite compared in order to check local variations or meteorological conditions .",
+    "we discuss the geological data , annual temperature means and differences between day time and night time mean values and their comparison with the down time .",
+    "taviano is a little town in the south of italy . here",
+    "are identifiable altimeter data , the geographic coordinates and seismic data .",
+    "+   +    c|c|c * latitudine * & * longitude * & * share * @xmath0  n & @xmath1  e & 57 mt     +   +   +   + the geological map of the town is shown in geological and seismic data section .",
+    "@xcite +    lp0.2 * seismic zone * & * description * 4 & area with very low seismic danger .",
+    "is the least dangerous area , where the possibility of seismic damage is low .",
+    "the area has a value of ag < 0,05 g .",
+    "+   +      taviano has a portion of its territory that borders the ionian sea .",
+    "the place called `` marina di mancaversa '' is located on the ionian coast about 5 km from the center of taviano .",
+    "the coast is mostly rocky and 900 meters long .",
+    "the following table identifies climate data assigned by decree of the president of the republic n. 412 of 26 august 1993.@xcite .",
+    "+   +    c|c * climatic zone * & * day degrees * c & 1.099     +   +",
+    "in this section we describe air temperatures ( t ) , dew point , humidity , pressure , day time and night time variation , rain s days and fog s day , obtained by an accurate analysis of the meteorological data from local data by archive @xcite @xcite .",
+    "+ should be noted that the values considered are related to the last twenty - four - year average and made available for the period 1990 - 2014 .",
+    "+   +                99 * tasselli , d. ricci , s. * , `` progetto stazioni meteoclimatiche e sismologiche '' , ts corporation srl - dipartimento meteorologia e climatologia , 2014 . * ente per le nuove tecnologie , lenergia e lambiente * , `` tabella dei gradi / giorno dei comuni italiani raggruppati per regione e provincia , legge 26 agosto 1993 , n. 412 , allegato a '' , 1 marzo 2011 , p. 151 . * ilmeteo.it * `` archivio dati meteo taviano ( le ) '' , ilmeteo.it . *",
+    "eumetsat * `` archivio dati meteo taviano ( le ) '' , eumetsat . *",
+    "atlantedelvento * `` archivio dati atlante eolico '' , http://www.atlanteeolico.it . *",
+    "ispra * `` mappa geologica di taviano ( le ) - '' , ispra - dipartimento difesa del suolo - servizio geologico ditalia - regione puglia ( 2006 ) , foglio 223- http://www.isprambiente.it * webgis * `` webgis carta idrogeomorfologica della puglia '' , 2015 * european commission * `` italy - map of solar irradiation '' , 2012 * garzanti * `` atlante della terra - carta del rischio ambientale in italia '' , 1999 * zito g. , ruggiero l. , zuanni f. *  aspetti meteoreologici e climatici della puglia , atti 1 workshop `` clima , ambiente e territorio nel mezzogiorno '' , taormina : 43 - 73 , 1989"
+  ],
+  "abstract_text": [
+    "<S> this paper contains the result of the elaboration of informations about solar irradiation , geological , meteorological and climatic from the point of view of the quantitative data and social interaction recorded in taviano ( le ) over 24 years . </S>",
+    "<S> these data are compared to check local variations , long term trends , and correlation with mean annual temperature . </S>",
+    "<S> the ultimate goal of this work is to understand long term climatic changes in this geographic area . </S>",
+    "<S> the classes of event considerated are hydro - geological phenomena , sun irradiation , seismic , volcanic , meteorological and climatological event . </S>",
+    "<S> only event occurred between 1990 and 2014 are considerated . </S>",
+    "<S> the analysis is performed using a statistical approach . </S>",
+    "<S> a particular care is used to minimize any effect due to prejudices in case of lack of data . </S>",
+    "<S> finally , we calculate the annual average from the monthly ones . </S>",
+    "<S> data on this paper do nt come from a complete census of phenomena ; they are considered enough representative of the accepted vulnerability level at the beginning of this study .    </S>",
+    "<S> keyword : atmospheric effects - site testing - ground - failures - landslides - flood - earthquake - damages - taviano - methods : statistical . + this paper was prepared with the latex +    2 </S>"
+  ]
+}
