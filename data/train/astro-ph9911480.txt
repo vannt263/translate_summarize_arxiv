@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "the quest for high  redshift ( @xmath2 ) clusters of galaxies has recently received a lot of well deserved attention .",
+    "the physical mechanisms that rule galactic evolution still lack a clear understanding , and clusters at different redshifts are privileged observational targets to develop related studies . moreover , knowing the number density of these systems , as well as their epoch of formation , provides crucial ways of testing different theoretical cosmological models put forward in the literature ( see _ eg _ bahcall , fan & cen 1997 ) .",
+    "however , finding clusters at cosmologically interesting look - back times ( @xmath3 ) , not to mention defining a complete sample , is a time consuming and difficult task .",
+    "successful attempts to gather optically selected samples were made by postman et al ( 1996 ; p96 onwards ) in the northern hemisphere .",
+    "prompted by the release of the eis data , we developed an algorithm - see lazzati et al ( 1998 ) , lobo et al ( 1998 ) - to be applied to catalogues of galaxy positions and magnitudes .",
+    "one of its main advantages is that the spatial and luminosity part of the filter are run separately on the catalogue , with no assumption on the typical size or typical @xmath4 for clusters , as these parameters intervene in our algorithm only as typical angular scale - a set of gaussian @xmath5 s - and typical apparent magnitude @xmath6 . in this way",
+    ", the significance of a cluster detection is always enhanced , by combining the most probable @xmath6 with the most probable angular size . moreover ,",
+    "a local background is also used , allowing us to adapt well to and overcome the hazards of inhomogeneous data sets ( the quality of eis patch a data was somewhat affected by el ni~ no ) .",
+    "extensive simulations using directly the eis data allowed us to obtain completeness and contamination rates that do seem advantageous relatively to the respective ones obtained with the p96 algorithm ( see the next section ) .",
+    "running our new algorithm on the eis data produced a new `` robust '' set of cluster candidates up to @xmath1 ( as estimated _ via _ the respective @xmath6 ) , namely @xmath7 for patch a ( @xmath8 sq .",
+    "degs . ) and @xmath9 for patch b ( @xmath10 sq . degs . ) . out of these ,",
+    "nearly half are not present in the list of candidates obtained from the same data using the p96 algorithm ( olsen et al 1999 ; see lobo et al 1998 ) .",
+    "the false detection rate we estimated is of @xmath11 spurious candidates per square degree once the threshold is set at @xmath12 ( our final adopted detection threshold ) . for comparison ,",
+    "p96 report an estimated contamination rate for their final catalogue of at most @xmath13 in their @xmath14 square degree area . as for completeness",
+    ", setting the detection threshold at @xmath12 still allows us to achieve a completeness of @xmath15 until @xmath16 for richness 2 , coma - like clusters .",
+    "some of our cluster candidates have already been followed - up in multi - waveband bvri imaging to estimate photometric redshifts and to get a handle on cluster members and determine their color properties .",
+    "+ the complete list of candidates , finding charts and further details will be presented in lobo et al ( 1999 , in preparation ) .",
+    "three of our highest estimated redshift ( @xmath17 ) cluster candidates were selected for spectroscopic observations carried out with the fors / vlt last september .",
+    "the data we obtained ( aimed at reaching down to @xmath18 , and as far as the cluster virial radius ) allowed us to confirm their `` cluster identity '' and to secure their redshifts as being @xmath19 , @xmath20 and @xmath21 , respectively . once these data are completed , they will form a small but homogeneous sample of clusters of very similar richness and redshift , that can be used to provide us with the absolute normalization of the bright end of the luminosity function in high@xmath22 clusters , an important constraint for theories of structure formation and evolution .",
+    "we will also explore the dynamics and morphological evolution of member galaxies at a redshift associated to the assembling of large galaxy clusters .",
+    "renzini a. , da costa l. 1997 , the messenger , 87 , 23 bahcall n. , fan x. , cen r. 1997 , , 485 , l53 postman m. et al 1996 , , 111 , 615 lazzati d. et al 1998 , in proceedings of the xivth iap meeting , wide field surveys in cosmology , eds . s. colombi & y. mellier , 400 lobo c. et al 1998 , astro - ph/9809162 olsen et al 1999 , , 345 , 363 olsen et al 1999 , , 345 , 681"
+  ],
+  "abstract_text": [
+    "<S> we present a new automated cluster search algorithm , stressing its advantages relatively to others available in the literature . applying it to the photometric data of the eso imaging survey ( eis , renzini @xmath0 da costa 1997 ) allowed us to produce , with a high degree of confidence , a new catalogue of cluster candidates up to @xmath1 . </S>"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "strong multipolar components of the magnetic field have long been thought to play an important role in the radio emission from pulsars .",
+    "multipolar components present even in a small degree can significantly change the radius of curvature of the field lines near the polar cap and determine the illumination of the pulsar beam .",
+    "this in turn might be responsible for the observed complexity in pulse profiles .",
+    "significant evolution in the structure of the magnetic field may therefore lead to simplification of pulse profile with age .",
+    "we explore the ohmic evolution of multipolar magnetic fields in isolated neutron stars assuming the flux to be confined within the crust .",
+    "multipolar magnetic fields would also cause the polarisation position angle ( ppa ) traverse to depart from the well known rotating vector model of radhakrishnan and cooke ( 1969 ) ( rc ) . as a result of radius - to - frequency mapping ( rfm ) radio emission at higher frequencies originate closer to the stellar surface where multipole fields are stronger .",
+    "this would lead to a frequency dependence of the ppa traverse , departures from the rc model being stronger at higher frequencies .",
+    "we monitor the ppa of psr b0329 + 54 at several frequencies to investigate this effect .",
+    "in order to calculate the evolution of the multipolar magnetic field we solve the ohmic diffusion equation numerically . we assume the currents responsible for the entire field structure to be confined to the crust of the neutron star .",
+    "we adopt a well motivated choice for the electrical conductivity as a function of depth in the neutron star interior and use a standard cooling curve to represent the evolution of temperature ( for details see mitra et al .",
+    "1999 ) .    fig .",
+    "[ 1 ] ( left panel ) shows the evolution of different multipole orders assuming the same initial strength for all orders .",
+    "it is evident from the figure that except for very high orders the reduction in the field strength is similar to that of a dipole .",
+    "hence no significant evolution of the pulse shape is expected due to the evolution of the multipolar structure of the field .",
+    "we investigate the multifrequency behaviour of the polarization position angle of psr b0329 + 54 at a number of frequencies over a wide range ( from 408 mhz to 4.8 ghz ) .",
+    "the ppa curves at 408 mhz and 1.4 ghz are in agreement with the dipolar rc model but at 2.7 ghz and 4.8 ghz the ppa appears to have developed a kinky feature ( fig . [ 1 ] right panel ) which is absent at lower frequencies .",
+    "assuming rfm , the observed kinkiness might be due to the presence of nondipolar magnetic fields in the emission region .",
+    "the continuous line as shown in fig .",
+    "[ 1 ] is a model for the nondipolar magnetic field structure ( a combination of a dipole and a quadrupole located at the center of the star ) which provides a good fit to the observed ppa ( mitra 1999 ) .",
+    "mitra , d. , 1999 , phd thesis submitted to jawaharlal nehru university , new delhi .",
+    "+ mitra , d. , konar , s. & bhattacharya , d. , 1999 , , 307 , 459 .",
+    "+ radhakrishnan , v. & cooke d. j. , 1969 , astrophysics letters , 3 , 225 +"
+  ],
+  "abstract_text": [
+    "<S> the evolution of the multipolar structure of the magnetic field of isolated neutron stars is studied assuming the currents to be confined to the crust . </S>",
+    "<S> lower orders ( @xmath0 ) of multipole are seen to evolve in a manner similar to the dipole suggesting little or no evolution of the expected pulse shape . </S>",
+    "<S> we also study the multifrequency polarization position angle traverse of psr b0329 + 54 and find a significant frequency dependence above 2.7 ghz . </S>",
+    "<S> we interpret this as an evidence of strong multipolar magnetic field present in the radio emission region .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

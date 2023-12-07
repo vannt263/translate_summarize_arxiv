@@ -1,0 +1,17 @@
+{
+  "article_text": [
+    "in order to estimate the projected cluster shape we diagonalize the inertia tensor ( @xmath0 ) where @xmath1 is the @xmath2 unit matrix . the eigenvalues @xmath3 with @xmath4 define the ellipticity of the configuration under study : @xmath5 .",
+    "initially the galaxy positions are transformed to the coordinate system of each cluster .",
+    "then the discrete galaxy distribution is smoothed using a gaussian kernel .",
+    "all cells that have a density above some threshold are used to define the moments of inertia with weight @xmath6 where @xmath7 is the mean projected apm galaxy density .",
+    "this method is free of the aperture bias and we found that it performs significantly better than using the discrete galaxy distribution .",
+    "inverting a set of integral equations , which relate the projected and real axial ratio distribution , we obtain the distribution of real axial ratios under the assumption that the orientations are random with respect of line of sight .    according to @xcite , if the inverted distribution of axial ratios has significantly negative values , a fact which is unphysical , then this can be viewed as a strong indication that the particular spheroidal model is unacceptable . in figure 1",
+    "we present the uncorrected and corrected intrinsic axial ratio distributions .",
+    "it is evident that the apm cluster shapes are better represented by that the prolate spheroids ( in agreement with @xcite ) rather than oblate beacause the former model provides a distribution of intrinsic axial ratios that is positive over the whole axial ratio range ."
+  ],
+  "abstract_text": [
+    "<S> we estimate the distribution of intrinsic shapes of the apm galaxy clusters from their corresponding distribution of apparent shapes . </S>",
+    "<S> we smooth the discrete galaxy distribution and define the cluster shape by fitting the best ellipse to the different isodensity contours . using monte - carlo simulations we have studied the performance of our method in the presence of the expected galaxy background , at the different distances traced by the apm clusters , and we have devised a method to correct statistically the projected cluster shapes for discreteness effects and random fluctuations . </S>",
+    "<S> we find that the true cluster shape is consistent with that of prolate spheroids . </S>"
+  ]
+}

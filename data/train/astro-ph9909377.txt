@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "upon its discovery in 1992 , the lens system b0218 + 357 ( fig .",
+    "1 , left ) was immediately recognised as an excellent candidate for determining @xmath0 .",
+    "the source is radio loud , highly polarised and variable and both redshifts are known .",
+    "modelling the mass responsible for the lensing is relatively simple compared to many other lenses as the deflector is believed to be an isolated face - on spiral galaxy .",
+    "the einstein ring is potentially a particularly useful source of modelling constraints as it effectively samples the lensing potential over many lines - of - sight ( kochanek 1990 ) .",
+    "the time delay has been measured to be 10.5@xmath10.4 days at 95% confidence ( biggs et al .",
+    "1999 ) from vla monitoring of total flux density and polarisation at two frequencies , 8.4 and 15 ghz .",
+    "although the time delay for this system is in little doubt , the above value has been independently confirmed ( cohen et al .",
+    "1999 ) .",
+    "modelling of this system is still at an early stage , but an initial singular isothermal ellipsoid mass model constrained using the observed vlbi substructure of the two compact images and the flux density ratio found from the vla monitoring , when combined with the above value of the time delay , gives an @xmath0 of 69@xmath2kms@xmath3mpc@xmath4 ( 95% confidence ) .",
+    "to date , no models have exploited the einstein ring for constraints on the lensing due to a lack of resolution and sensitivity in existing radio maps . a new image made from combined 5  ghz vla / multi - frequency synthesis merlin data",
+    "is shown in fig .",
+    "1 ( right ) .",
+    "the merlin data give high resolution ( @xmath550 mas ) whilst the many short baselines of the vla provide much more sensitivity and aperture coverage for detecting and mapping the extended ring emission .",
+    "the most prominent feature revealed by the new map is the hole in the centre of the ring , a hint of which is also seen in the 15  ghz vla image .",
+    "the merlin 5 ghz map also shows valleys of reduced surface brightness stretching away north and south from the hole that make the ring s morphology more akin to that of two arcs .",
+    "each of these is further separated into several discrete areas of increased brightness .",
+    "work is at present underway to exploit this new image for extra modelling constraints .",
+    "merlin is a national uk facility operated by the university of manchester on behalf of pparc .",
+    "the vla is operated by the national radio astronomy observatory , which is a facility of the national science foundation operated under cooperative agreement by associated universities , inc .",
+    "adb acknowledges the receipt of a pparc studentship .",
+    "this research was supported in part by european commission , tmr programme , research network contract erbfmrxct96 - 0034 `` ceres '' .",
+    "biggs , a.d . ,",
+    "browne , i.w.a . , helbig , p. , koopmans , l.v.e . ,",
+    "wilkinson , p.n .",
+    ", perley , r.a .",
+    "1999 , , 304 , 349 cohen , a.s .",
+    "1999 , these proceedings kochanek , c.s .",
+    "1990 , in gravitational lensing , lecture notes in physics 360 , eds mellier , y. , fort , b. , soucail , g ( berlin : springer - verlag ) , p. 244"
+  ],
+  "abstract_text": [
+    "<S> this poster presents a new 5  ghz combined merlin / vla map of b0218 + 357 which shows for the first time believable substructure in the einstein ring . </S>",
+    "<S> this will now be exploited for further constraints on the model which presently dominates the error on the estimate of @xmath0 derived from the time delay ( 10.5@xmath10.4 days ) measured for this system . </S>"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "for the strong pulsar psr  b0329 + 54 , the high - quality single pulses are easily observable .",
+    "we obtained the data at 325  mhz in march 1999 using the giant metrewave radio telescope near pune , and the data at 606 mhz was obtained in august 1996 using the 76-m lovell telescope at jodrell bank . for the analysis , we considered about 2500 single pulses at each frequency .",
+    "the time resolutions of data at 325 and 606 mhz were 0.516 and 0.250 ms , respectively .    to estimate the pulse profiles which clearly show the presence of weaker components we developed a ` window - threshold ' technique . in this technique , we set a window in longitude and employ an intensity threshold while considering the single pulses for making average profiles , i.e.  we consider all those pulses , which have intensity levels above the threshold within the window . for threshold",
+    "the _ rms _ in intensity was computed from the off - pulse region . in figs .",
+    "1a&b we have plotted the average pulse profiles which were obtained by applying this technique to nine component windows . the average profile obtained from all those pulses is plotted in figs .",
+    "1c&d , which clearly shows the presence of 9  emission components ( i , ii , iii , iv , v , vi , vii , viii , ix ) in psr  b0329 + 54 . the components on trailing side of the profile are closely spaced compared to the leading side",
+    ".    8.80 truecm",
+    "we have developed a technique based on windowing and thresholding , to detect the weak emission components in pulsar profiles . by applying it to the single pulse data of psr  b0329 + 54 we have detected three new emission components ( vii , viii and ix ) of this pulsar , and also confirmed the presence of a component ( vi ) proposed by kuzmin & izvekova ( 1996 ) .",
+    "the near - symmetric distribution of components around the core / centre of the profile , favours the idea that the pulsar emission beam is annular or conal ( oster & sieber 1977 ; rankin 1983 ) .",
+    "we thank a. g. lyne for providing the jodrell bank data , and j. m. rankin for useful discussions .",
+    "kuzmin , a. d. , & izvekova , v. a. 1996 , , vol .",
+    "105 , pulsars : problems & progress , ed .",
+    "s. johnston , m.a .",
+    "walker & m. bailes ( san francisco : asp ) , 217 oster , l. , & sieber , w. 1977 , , 58 , 303 rankin , j. m. 1983 , , 274 , 333"
+  ],
+  "abstract_text": [
+    "<S> to study the structure of emission beam , we have analysed the single pulse data of psr  b0329 + 54 at 325 and 606  mhz . in order to unambiguously detect the weak emission components , </S>",
+    "<S> we have developed a new data analysis technique , which we term `` window  thresholding '' . by applying this technique to the data , we have detected three new emission components , and also confirmed the presence of a component which was proposed earlier . </S>",
+    "<S> hence our analysis indicates that psr  b0329 + 54 has nine components , which is among the highest of all the known pulsars . </S>",
+    "<S> the symmetric distribution of pulse components about the pulse centre , indicates that the emission beam is conal .    </S>",
+    "<S> epsf.sty    # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

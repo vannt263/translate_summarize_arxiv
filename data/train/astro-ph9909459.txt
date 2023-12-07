@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "b1933 + 503 is the most complex arcsec - scale gravitational lens system known and was found in the cosmic lens all - sky survey ( class ; browne et al .",
+    "sykes et al .",
+    "( 1998 ) report the discovery of this lens and present vla and merlin maps that reveal up to 10 components , four of which are compact and have flat spectra while the rest are more extended and have steep spectra .",
+    "components 1 , 3 , 4 and 6 are believed to be the lensed images of the flat spectrum core ( figure 1 ) and the rest of the components the lensed images of two compact  lobes \" symmetrically situated on opposite sides of the core .",
+    "an hst / wfpc2 image of b1933 + 503 ( sykes et al .",
+    "1998 ) shows a faint galaxy with a compact core ( the lensing galaxy ) .",
+    "the redshift for the lensing galaxy is 0.755 and for the source 2.62 ( norbury et al .",
+    "1999 in preparation ) .",
+    "sykes et al .",
+    "( 1998 ) report variability of as much as 33% at 15 ghz over the timescale of a couple of months and nair ( 1998 ) has estimated through modeling of the system , time delays of 8 , 7 and 9 days for components 3 , 4 and 6 with respect to 1 .",
+    "we report results of a four month monitoring campaign with the vla at 8.4 ghz in its a - configuration .",
+    "b1933 + 503 was observed between february 16 1998 and june 1 1998 .",
+    "the resolution is 240 mas .",
+    "the 37 epochs were separated , on average , by 3 days .",
+    "the observing strategy was kept consistent over the period of the observations .",
+    "each epoch contains two or three 6 min observations of b1933 + 503 sandwiched between two observations of the steep spectrum source 1943 + 546 of approximately 1 min each that was used for amplitude and phase calibration purposes .",
+    "a typical epoch has 30 min observing time .",
+    "calibration was performed using the nrao astronomical image processing software package aips .",
+    "once calibrated , we use the package difmap to map and model fit the uv - data .",
+    "figure 1 shows the results of the modelfitting ( the light curves ) to the 4 flat spectrum components 1 , 3 , 4 and 6 . any change in the flux density is less than 1.6 , 2.4 , 0.7 and 2.0 % for 1 , 3 , 4 and 6 respectively .",
+    "thus our first monitoring campaign of b1933 + 503 has shown no signs of variability of this system .",
+    "we believe that we have caught this lens system at its quiescent phase .",
+    "we started in june 1999 , a new monitoring campaign of this system with the hope that it might behave like b1600 + 434 which showed variability only during the second monitoring campaign ( koopmans et al .",
+    "the unique complex structure of b1933 + 503 would make it then one of the most exciting systems to measure the hubble constant .",
+    "this research was supported by european commission , tmr programme , research network contract erbfmrxct96 - 0034 +  ceres \" .",
+    "browne , i. w. a. et al .",
+    "1998 , in observational cosmology with the new radio surveys , astrophysics and space science library , vol .",
+    "226 koopmans , l. v. e. et al .",
+    "1999 , , submitted nair , s. 1998 , , 301 , 315 sykes , c. m. et .",
+    "1998 , , 301 , 310"
+  ],
+  "abstract_text": [
+    "<S> the complex 10-component gravitational lens b1933 + 503 has been monitored with the vla during the period february to june 1998 . here </S>",
+    "<S> we present the results of this a - configuration 8.4 ghz monitoring campaign . </S>",
+    "<S> the 37 epochs of observations have an average spacing of 3 days . </S>",
+    "<S> the data have yielded light curves for the four flat - spectrum radio components ( components 1 , 3 , 4 and 6 ) . </S>",
+    "<S> we find no significant flux density changes in any of the four flat spectrum components . </S>"
+  ]
+}

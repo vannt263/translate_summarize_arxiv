@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "@xmath1-body simulations with power - law initial power spectra ( navarro , frenk , & white 1997 , hereafter nfw ) suggest that density profiles of dark halos in large range of masses are well fitted by a simple universal formula that steepens from @xmath2 near the center of the halo to @xmath3 at large distances .",
+    "the shape of the profile can be described by the concentration parameter @xmath4 where @xmath5 is the virial radius and @xmath6 is the scale radius at which the slope is @xmath7 .",
+    "the concentration parameter was observed to decrease with the mass of the halo for a wide range of cosmological models , that is in general the smaller the halo mass the steeper its profile .",
+    "the improved spherical infall model ( hereafter sim ) of okas ( 1999 ) reproduces this behaviour in the case of @xmath8 universe and scale - free power spectra .",
+    "the improved version of the model involves the generalized form of the initial density distribution and introduces a cut - off in this distribution at the distance equal to half the separation between typical density peaks .",
+    "recently bullock et al . ( 1999 ) observed in their @xmath1-body simulations of @xmath9cdm model that the dependence of concentration parameter of a halo of given mass on redshift @xmath10 , at which the halo profiles are measured , is @xmath11 .",
+    "as shown in the next section , the same behaviour follows from the model proposed by nfw to describe their results in the case of scale - free spectrum .",
+    "my purpose here was to check whether such dependence on redshift can be reproduced by sim .",
+    "the improved sim can be generalized to obtain the dependence on @xmath10 in a straighforward way by asuming that the collapse time of the halo is not the present epoch , but is equal to the age of universe at @xmath10 .",
+    "other quantities , like the critical density , the proper virial radius or the mass of the halo , have to be changed accordingly to incorporate the dependence on redshift .",
+    "the left panel of figure  [ koncz ] shows the dependence of @xmath12 on the mass of the halo expressed in units of the present nonlinear mass @xmath13 for the present epoch , @xmath14 , and at @xmath15 .",
+    "all results were obtained for @xmath8 and scale - free power spectrum of index @xmath16 .",
+    "the lines bending at larger masses show the sim results for initial redshifts between @xmath17 and @xmath18 while the almost straight ones correspond to the nfw results or the toy model proposed by them to describe the dependence on @xmath10 .",
+    "the nfw results are shown in the same range of masses as obtained in sim .",
+    "the right panel of the figure repeats the @xmath15 results and shows also predictions for @xmath12 at @xmath15 calculated with assumptions that @xmath19 ( thinner dotted lines ) or @xmath20 ( thicker dotter line only for sim results ) , where @xmath21 .",
+    "the figure shows that the nfw results indeed behave as observed by bullock et al .",
+    "( 1999 ) ( the dashed and dotted straight lines overlap ) while the sim results are reproduced better by the @xmath22 behaviour of the concentration parameter .",
+    "similar dependence on redshift is found for other values of @xmath10 .",
+    "therefore sim reproduces only qualitatively the redshift dependence of the shape of the profiles found in @xmath1-body simulations .",
+    "bullock , j. , kolatt , t. , sigad , y. , somerville , r. , kravtsov , a. , klypin , a. , primack , j. , & dekel , a. 1999 , , submitted , astro - ph/9908159 okas , e. l. 1999 , , in press , astro - ph/9901185 navarro , j. f. , frenk , c. s. , & white , s. d. m. 1997 , , 490 , 493 ( nfw )"
+  ],
+  "abstract_text": [
+    "<S> i apply the modified spherical infall model to test the dependence of the shape of density profiles of dark matter halos on redshift . </S>",
+    "<S> the model predicts that the density profile of a halo of a given mass steepens with time and its concentration parameter changes like @xmath0 . </S>"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "after its introduction as a generalization of the @xmath4 law ( de vaucouleurs 1948 ) , the @xmath0 law ( sersic 1968 ) has been widely used in observational and theoretical investigations ( see , e.g. , ciotti & bertin 1999 , and references therein , hereafter cb ) . according to such law , the surface brightness profile is given by @xmath5 where @xmath6 , and @xmath7 is a dimensionless constant such that @xmath8 is the effective ( half  luminosity ) radius .",
+    "the projected luminosity inside @xmath9 is given by @xmath10 where @xmath11 is the ( left ) incomplete gamma function .",
+    "the total luminosity is then given by @xmath12 where @xmath13 is the complete gamma function .",
+    "it follows that @xmath1 is the solution of the following equation : @xmath14",
+    "unfortunately , eq . ( 4 ) can not be solved in explicit , closed form , and so it is usually solved numerically .",
+    "this is inconvenient for a number of observational and theoretical applications .",
+    "at least three interpolation formulae for @xmath1 have been given in the literature , namely @xmath15 by capaccioli ( 1989 ) , @xmath16 by ciotti ( 1991 ) , and @xmath17 by prugniel & simien ( 1997 ) .",
+    "these expressions provide an accurate fit in the range @xmath18 ; curiously , their leading term is _ linear _ in @xmath2 , with a slope very close to 2 . in cb",
+    "it is proved that this behavior results from a general property of the gamma function . in particular , it turns out that the first terms of the asymptotic expansion of @xmath1 as implicitly given by eq .",
+    "( 4 ) are @xmath19 equation ( 5 ) now clearly explains the value of the interpolation formulae found earlier . note that @xmath20 . of course , the asymptotic analysis provided in cb would allow us to give explicitly any higher order term if so desired . in cb",
+    "it is shown that this expansion , even when truncated to the first four terms as in eq .",
+    "( 5 ) , performs much better than the interpolation formulae cited above , even for @xmath2 values as low as unity , with relative errors smaller than @xmath21 .",
+    "the use of this simple formula is thus recommended both in theoretical and observational investigations based on the sersic law . as a simple application , in cb the leading term of the asymptotic expansion of the total luminosity , of the central potential , and of the surface brightness profile associated with the r@xmath22 law",
+    "are obtained in explicit , analytical form . in particular , the connection of eq .",
+    "( 1 ) with the simple power law @xmath3 , often used in the past to fit the photometric profiles of elliptical galaxies , is brought out explicitly .",
+    "capaccioli , m. 1989 , in the world of galaxies , h.g .",
+    "corwin & l. bottinelli , springer verlag : new york , 208 ciotti , l. , 1991 , , 249 , 99 ciotti , l. , & bertin , g. 1999 , submitted ( cb ) de vaucouleurs , g. 1948 , ann.dap . , 11 , 247 prugniel , p. , & simien , f. 1997 , , 321 , 111 sersic , j.l .",
+    "1968 , atlas de galaxias australes .",
+    "observatorio astronomico , cordoba"
+  ],
+  "abstract_text": [
+    "<S> in this paper we describe some analytical properties of the @xmath0 law proposed by sersic ( 1968 ) to categorize the photometric profiles of elliptical galaxies . </S>",
+    "<S> in particular , we present the full asymptotic expansion for the dimensionless scale factor @xmath1 that is introduced when referring the profile to the standard effective radius . </S>",
+    "<S> surprisingly , our asymptotic analysis turns out to be useful even for values of @xmath2 as low as unity , thus providing a unified analytical tool for observational and theoretical investigations based on the @xmath0 law for the entire range of interesting photometric profiles , from spiral to elliptical galaxies . the systematic asymptotic analysis provided here also allows us to clarify the value and the limitations of the power law @xmath3 often used in the past as a natural representation of the surface brightness profiles of elliptical galaxies . </S>"
+  ]
+}

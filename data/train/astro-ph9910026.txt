@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "we have developed a new method to study disk galaxy formation and evolution .",
+    "our purpose is to model self - consistently the structure , dynamics , and luminous properties of a disk galaxy as well as its evolution . at the same time , we want to predict correlations and statistical distributions of the disk galaxy population .    in our scenario of disk galaxy formation and evolution :    * the disk in centrifugal equilibrium forms inside - out within a growing dark matter ( dm ) halo with a rate of gas accretion proportional to the rate of cosmological mass aggregation ( e.g. , gunn 1982 ; ryden & gunn 1987 ; avila - reese & firmani 1997 ; avila - reese , firmani , & hernndez 1998 ) , * the dm halos acquire angular momentum by cosmological torques , * the star formation ( sf ) in the disk is triggered by gravitational instabilities and it self - regulates through an energy balance in the interstellar medium ( ism ) .",
+    "we assume ( i ) spherical symmetry and adiabatic invariance during the gravitational collapse of the dm , ( ii ) spin parameter @xmath3 constant in time and with a lognormal distribution , ( iii ) aggregation of baryon matter to the disk in form of gas ( no mergers ) , ( iv ) detailed angular momentum conservation and adiabatic invariance during the gas collapse , and ( v ) stationary self - regulated sf only in the disk .",
+    "according to our galaxy evolutionary model ( firmani , hernndez , & gallagher 1996 ) , the disk vertical structure is sustained against gravity by the turbulent pressure produced by the sne and gas accretion kinetic energy injection .",
+    "the balance of this energy input with the turbulent energy dissipation _ in the disk _ self - regulates the sf .",
+    "the efficiency of sf in this model almost does not depend upon mass of the system , and the disk - halo feedback is assumed to be negligible ; this is because the disk ism is a dense and very dissipative medium and gas and energy outflows are confined in a region close to the disk .",
+    "the properties of the models depend on four initial factors : total virial mass @xmath5 , mass aggregation history ( mah ) , spin parameter @xmath6 , and fraction of @xmath5 that is incorporated into the disk , @xmath7 .",
+    "the mahs are calculated with the extended press - schechter formalism ( avila - reese et al .",
+    "1998 ) , the @xmath3 s are extracted from a lognormal distribution , and @xmath7 is fixed to 0.05 .",
+    "we use a flat @xmath0cdm model with @xmath8 @xmath9 , @xmath10 .",
+    "in firmani & avila - reese ( 1999a ) , the above method was used to calculate catalogs of galaxy models through monte carlo simulations .",
+    "the main results are :    @xmath11 a diversity of halo density profiles were obtained , the most typical one being close to that suggested by navarro , frenk & white ( 1997 ) .",
+    "our density profiles agree rather well with those obtained in cosmological n - body simulations ( avila - reese et al .",
+    "1999 ) .",
+    "@xmath11 for a given @xmath7 , the shape of the rotation curves is more peaked for higher sb ( smaller @xmath3 ) , but in general , the shapes are nearly flat for most cases . if @xmath7 is too high ( @xmath12 ) , the rotation curves of disks with small @xmath6 ( @xmath13 are too peaked , and these disks are probably unstable .",
+    "if @xmath7 is too small ( @xmath14 ) , then low and high sb galaxies will have very different tfrs , contrary to observations .",
+    "@xmath11 the rotation curve decompositions show a dominance of the dm component down to the very central regions for most of the models with @xmath15 .",
+    "this occurs because the inner density profile of the dm halos are steep ( @xmath16 ) .",
+    "when we introduce a shallow core in our dm halos proportional to the one inferred from the rotation curves of low sb galaxies , the disk component of the rotation curve dominates the central regions of high sb ( normal ) galaxies .",
+    "@xmath11 the slope and zero - point of the @xmath17 and @xmath18band tfrs are an imprint of the mass - velocity relation of the cosmological cdm halos .",
+    "we find that the tfr is almost independent of the assumed @xmath7 , when the disk component in the rotation curve decomposition is non - negligible ( @xmath19 for the cosmological model used here ) .",
+    "we find that the scatter in our tfr originates _ mainly from the scatter in the dm halo structure ( related to the mahs ) _ and , to a minor extension , from the dispersion of @xmath3 .",
+    "the predicted scatter does not disagree with the observational estimates .",
+    "@xmath11 the tfr for high and low sb models is approximately the same , and the slope of the correlation among the residuals of the tf and luminosity - radius relations is small and non - monotonic , although the shape of the rotation curves of our models correlates with the sb . for a given total ( star+gas ) disk mass , as the sb decreases , the maximum rotation velocity , @xmath20 , of the models decreases , _ but _ , owing to the dependence of the sf efficiency on the disk surface density , the stellar mass @xmath21 ( luminosity ) also decreases",
+    "this combined influence of the sb ( @xmath3 ) on @xmath20 and @xmath21 produces that models of different sb fall in the same @xmath22 relation . as the result , high and low sb models present a similar tfr",
+    "this also explains why the @xmath3 contribution to the scatter in our tfr becomes so small .",
+    "@xmath11 our models and the observations show that the disk gas fraction ( @xmath23 ) indeed strongly correlates with the sb : as sb increases , @xmath24 decreases .",
+    "moreover , our gas fractions agree very well with the observational estimates given in mcgaugh & de blok ( 1997 ) .    @xmath11 the slopes of the @xmath18 and @xmath4band tfrs remain almost constant until high redshifts . for a fixed @xmath20 , the stellar mass ( @xmath18band luminosity ) of the models at @xmath25 is smaller than at @xmath26 , while , due to luminosity evolution ( sf history ) , @xmath27 is slightly larger ( see firmani & avila - reese 1999b ) .",
+    "therefore , the observed evolution of the tfr in the @xmath28 band should not be used as equivalent of the evolution of the stellar mass - velocity relation ( @xmath18band tfr ) ."
+  ],
+  "abstract_text": [
+    "<S> using galaxy evolutionary models in a hierarchical formation scenario , we predict the structure , dynamics and evolution of disk galaxies in a @xmath0cdm universe . we find that the tully - fisher relation ( tfr ) in the @xmath1 and @xmath2 bands is an imprint of the mass - velocity relation of the cosmological dark halos . </S>",
+    "<S> the scatter of the tfr originates mainly from the scatter in the dark halo structure and , to a minor extension , from the dispersion of the primordial spin parameter @xmath3 . </S>",
+    "<S> our models allow us to explain why low and high surface brightness galaxies have the same tfr . </S>",
+    "<S> the disk gas fractions predicted agree with the observations . </S>",
+    "<S> the disks formed within the growing halos have nearly exponential surface brightness and flat rotation curves . towards high redshifts , the zero - point of the tfr in the @xmath2 band increases while in the @xmath4band it slightly decreases . </S>"
+  ]
+}

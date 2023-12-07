@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "although ` diffuse ' emission dominates the comptel all - sky maps in the energy range 130 mev , its origin is not yet firmly established ; in fact it is not even clear whether it is truly diffuse in nature .",
+    "this is in contrast to the situation at higher energies where the close correlation of the egret maps with hi and co surveys establishes a major component as cosmic - ray interactions with interstellar gas .",
+    "this paper discusses recent studies of the low - energy diffuse continuum emission based on the modelling approach described in @xcite .",
+    "the high energy ( @xmath0 1 gev ) situation is addressed in @xcite . the present work uses observational results reported in @xcite ; new imaging and spectral results from comptel are presented in @xcite but differences are not important for our conclusions .",
+    "conventionally the low - energy @xmath1-ray continuum spectrum has been explained by invoking a soft electron injection spectrum with index 2.12.4 , and this could reproduce the 130 mev emission as bremsstrahlung plus inverse compton emission ( see e.g.@xcite ) .",
+    "fig [ electrons ] shows a range of electron spectra which result from propagation of injection spectral indices 2.02.4 ; the model is from @xcite ; in order to illustrate more clearly the effect these spectra are without reacceleration .",
+    "the nucleon spectrum is consistent with local observations and is described in @xcite .",
+    "fig [ gamma_spectra ] shows the inner galaxy @xmath1-ray spectrum for the same electron spectra .",
+    "the best fit is evidently obtained for index 2.22.3 .",
+    "a problem with this , which was noted earlier but has become clearer with more refined analyses , is the constraint from the observed galactic synchrotron spectrum on the electron spectral index above 100 mev .",
+    "the synchrotron index is hard to measure because of baseline effects and thermal emission , but there has been a lot of new work in this area , in part because of interest in the cosmic microwave background .",
+    "fig [ synchrotron ] summarizes relevant measurements of the synchrotron index together with the predictions for the range of electron spectra in fig [ electrons ] .",
+    "the new 22408 mhz value from @xcite is of particular importance here ; it is consistent with that derived earlier in a detailed synchrotron modelling study @xcite .",
+    "the @xmath1-rays fit best for an injection index 2.22.3 , but the synchrotron index for 1001000 mhz is then about 0.8 which is above the measured range . although we illustrate this for just one family of spectra for a particular set of propagation parameters , it is clear that it covers the possible range of plausible spectra so that changing the propagation model would not alter the conclusion .",
+    "hence we are unable to find an electron spectrum which reproduces the @xmath1-rays without violating the synchrotron constraints .",
+    "if there were a very sharp upturn in the electron injection spectrum below 200 mev , as illustrated in fig [ electrons ] , then we could explain the @xmath1-rays as bremsstrahlung emission without violating the synchrotron constraints , but even then it would not reproduce the intensities below 1 mev measured by osse @xcite .",
+    "in view of the problems with diffuse emission we suggest that an important component ( at least 50% ) of the @xmath1-ray emission below 10 mev originates in a population of unresolved point sources ; it is clear that these must anyway dominate eventually as we go down in energy from @xmath1-rays to hard x - rays ( see e.g. @xcite ) , so we propose the changeover occurs at mev energies . for illustration we have tried adding ( with arbitrary normalization ) to the diffuse emission possible spectra for the unresolved population ( fig [ spectra_plus_sources ] ) : a low - state cyg x-1 type @xcite appears too steep , but a crab - like type ( @xmath2 ) would be satisfactory , and would require a few dozen crab - like sources in the inner galaxy",
+    ". these would not be detectable as individual sources by comptel and such a model not violate any observational constraints which we know of . in the examples in fig [ spectra_plus_sources ] we have used the hard electron injection spectrum ( index 1.8 ) required to fit the @xmath01 gev excess @xcite so that with crab - like sources we can finally reproduce the entire spectrum from 100 kev to 10 gev ."
+  ],
+  "abstract_text": [
+    "<S> models for the diffuse galactic continuum emission and synchrotron radiation show that it is difficult to reproduce observations of both of these from the same population of cosmic - ray electrons . </S>",
+    "<S> this indicates that an important contributor to the emission below 10 mev could be an unresolved point - source population . </S>",
+    "<S> we suggest that these could be crab - like sources in the inner galaxy . </S>",
+    "<S> alternatively a sharp upturn in the electron spectrum below 200 mev is required .     </S>",
+    "<S> _ proc .  </S>",
+    "<S> 5th compton symposium ( portsmouth nh , september 1999 ) _ </S>"
+  ]
+}

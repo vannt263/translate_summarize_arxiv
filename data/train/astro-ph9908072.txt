@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "a galaxy s environment plays a key role in determining its evolution . for elliptical galaxies , it is generally thought that mergers of disk galaxies in the field and in groups are the dominant formation mechanism .",
+    "rich groups that fall in along filaments create the elliptical  rich clusters we seen today . tracking",
+    "the assembly of elliptical galaxies and the evolutionary status of groups would provide further insight into these processes .    until recently it was very difficult to directly age  date the stars in old stellar populations due to the age ",
+    "metallicity degeneracy .",
+    "this degeneracy has now been broken by new spectroscopic observations and models ( e.g. worthey 1994 ; trager 1999 ) .",
+    "thus it is now possible to form an evolutionary sequence of elliptical galaxy formation and to age ",
+    "date the ellipticals in different environments .",
+    "in two recent papers ( forbes 1998 ; forbes & ponman 1999 ) we showed that a galaxy s position relative to the fundamental plane and other scaling relations depends on a galaxy s age . here age is the central luminosity weighted age of the galaxy from stellar spectroscopy .",
+    "we found that young ellipticals were brighter with a higher surface brightness .",
+    "ellipticals that were @xmath0 10 gyr old would lie on the fp . from simple starburst models , we showed that fading central starburst could explain the overall trend .",
+    "the situation was similar for the deviations from 2d scaling relations such as b  v vs m@xmath1 and mg@xmath2@xmath3 .",
+    "younger galaxies would redden and their mg@xmath2 line strengths weaken as the central starburst faded .",
+    "we concluded that these scaling relations are metallicity  mass sequences with deviations caused by a galaxy s age .",
+    "perhaps the best , high quality study of field ellipticals is that of gonzalez ( 1993 ) .",
+    "he obtained new absoprtion line indices for about 40 early type galaxies in the field , and claimed that when plotted on a worthey ( 1994 ) grid of h@xmath4 vs [ mgfe ] they generally scatter across a range in ages with metallicities concentrated around solar .",
+    "another high quality study is that of kuntschner & davies ( 1998 ) who studied early type galaxies in the fornax cluster .",
+    "they found all ellipticals to have a similar age of @xmath0 8 gyrs , covering a range in metallicity .",
+    "only the s0 galaxies scattered to young ages in the worthey grid .",
+    "there is certainly support from the coma cluster that the colour  magnitude relation is largely a metallicity  mass sequence with the small scatter due to age effects ( terlevich 1999 ) .",
+    "these field and cluster samples are shown in fig .",
+    "1 . although the cluster galaxy trends are fairly convincing , more field data is needed to confirm the gonzalez claims .",
+    "@xmath5 if group ellipticals resemble field ellipticals , then it suggests that ` evolutionary ' processes have yet to occur , and must be related to cluster environments , e.g. ram pressure stripping , harassment .",
+    "an h@xmath4 vs [ mgfe ] plot for loose groups and compact groups is shown in fig .",
+    "2 . in both cases , most early type galaxies are old ( @xmath0 10 gyr ) , with some of young age but there are too few to make conclusive statements .",
+    "however building up large samples of group galaxies with age estimates should provide unique clues to their star formation histories , and in the case of compact groups  the evolutionary status of the group itself .",
+    "forbes , d. , ponman , t. , brown , r. , 1998 , apj , 508 .",
+    "l43 forbes , d. , ponman , t. , 1999 , mnras , in press terlevich , a. , et al .",
+    "1999 , mnras , in press trager , s. , et al .",
+    "1999 , in preparation worthey , g. , 1994 , apjs , 95 , 107"
+  ],
+  "abstract_text": [
+    "<S> we discuss recent developments on the age and metallicity distribution for early type galaxies in different environments . </S>"
+  ]
+}

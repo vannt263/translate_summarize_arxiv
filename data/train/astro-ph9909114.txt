@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "one of the major results of the infrared astronomical satellite ( _ iras _ )",
+    "all - sky survey was the identification of a class of luminous infrared galaxies ( ligs : @xmath9 ; @xmath10",
+    "km s@xmath11mpc@xmath11 , @xmath12)(8 - 1000@xmath13 m ) , computed from the observed infrared fluxes in all four _ iras _ bands according to the prescription in perault ( 1987 ) ; see also sanders & mirabel ( 1996 ) .",
+    "] , objects that emit more energy in the far - infrared / submillimeter than at all other wavelengths combined .",
+    "redshift surveys of complete samples of _ iras _ galaxies now agree that infrared selected galaxies become the dominant population of extragalactic objects at bolometric luminosities above @xmath14 ( i.e. @xmath15 ) .",
+    "reasonable assumptions about the lifetime of the infrared phase suggest that a _ substantial fraction of all galaxies with _ @xmath16 _ may at some point in their lifetime pass through such a stage of intense infrared emission ( soifer et al 1987)_. this review focuses on providing an up - to - date summary of the observed morphological properties of uligs , those infrared - selected objects which represent an extreme phase of nuclear activity in galaxies , equivalent to the bolometric luminosity of optically selected qsos .",
+    "ground - based optical and near - infrared imaging of complete samples of the brightest infrared galaxies clearly show that a substantial fraction of ligs are strongly interacting or merging spirals , and that the higher the luminosity the more advanced is the merger .",
+    "millimeterwave observations of have shown these spirals to be rich in molecular gas ",
+    "@xmath17@xmath8 ( e.g. sanders et al .",
+    "1991 )  and that there is an increasing central concentration of this gas with increasing infrared luminosity .",
+    "the representative subsample of ligs shown in figure 1 illustrates the signs of strong interactions / mergers ( tidal tails , double nuclei , etc . ) that are revealed in deep optical images of nearby ligs .",
+    "comparison of the images with numerical simulations ( e.g. barnes & hernquist 1992 ; mihos & hernquist 1994 ) allows these objects to be placed in a rough time sequence .",
+    ".properties of uligs [ cols=\"<,^,^,^\",options=\"header \" , ]     nearly all uligs appear to be late - stage mergers ( e.g. sanders et al 1988a , b ; melnick & mirabel 1990 ; kim 1995 ; murphy et al .",
+    "1996 ; clements et al .",
+    "1996 ) . figure 2 illustrates the largely overlapping disks that are seen in a _",
+    "complete _ sample of the nearest and best - studied uligs .",
+    "the true extent of faint tidal features plus greater detail in the inner disks of these uligs is better revealed in the higher resolution ground - based images and _ hst _ images of uligs shown in color plates  7 - 8 ( pp .",
+    "xxv - xxiv ) .",
+    "table  1 summarizes properties of the complete sample of 20 uligs from the _ iras _ bright galaxy samples ( soifer et al 1987 ; sanders et al 1995 ) .",
+    "the mean lifetime for the ulig phase , estimated from the observed mean separation and relative velocity of the merger nuclei , is @xmath4@xmath18yrs .",
+    "the enormous central gas supplies present in uligs are clearly an ideal breeding ground for both powerful circumnuclear starbursts and agn . indeed those uligs that have been imaged with adaptive optics from the ground ( see fig .",
+    "3 ) or with _ hst _ ( see fig .",
+    "4 ) show evidence for a population of massive young ( @xmath410@xmath19yrs ) star clusters , although these clusters account for typically much less that half the ulig bolometric luminosity ( surace & sanders 1999 ) .",
+    "most of the luminosity appears to be concentrated in one or two small ( @xmath20100pc ) regions centered on the putative nucleus ( or nuclei ) ( e.g. soifer , et al .",
+    "1998 ) , and it is these compact regions which most likely harbor exotic superstarbursts , and/or a powerful agn",
+    ".    there is now substantial evidence that uligs are elliptical galaxies forming by merger - induced dissipative collapse ( kormendy & sanders 1992 ) , including @xmath21-law brightness profiles ( e.g. schweizer 1982 ; wright et al . 1990 ; kim 1995 ) , newly - formed globular clusters ( e.g. fig . 4 and surace et al . 1998 ) , central gas densities ( @xmath22 at @xmath23kpc : scoville et al . 1991 ) that are as high as stellar mass densities in the cores of giant ellipticals , and powerful  superwinds \" ( heckman et al . 1987 ; armus et al .",
+    "1989 ) which will likely leave behind a largely dust free core .",
+    "it seems reasonable to assume also , that this scenario might lead to a constant ratio of black hole mass to bulge mass in agreement with recent observational results ( kormendy & richstone 1995 ; magorrian et al .",
+    "1998 ) .",
+    "future infrared space missions and more sensitive submillimeter surveys should succeed in identifying more distant uligs , thus allowing a direct test of whether the infrared luminosity function evolves as steeply as that of qsos , and whether uligs were more numerous at @xmath24 when it is presumed that most of the ellipticals were formed from mergers of spirals ."
+  ],
+  "abstract_text": [
+    "<S> at luminosities above @xmath0@xmath1 , infrared galaxies become the dominant population of extragalactic objects in the local universe ( @xmath20.5 ) , being more numerous than optically selected starburst and seyfert galaxies , and qsos at comparable bolometric luminosity . at the highest luminosities , </S>",
+    "<S> ultraluminous infrared galaxies ( uligs : @xmath3 ) , outnumber optically selected qsos by a factor of @xmath41.52 . </S>",
+    "<S> all of the nearest uligs ( @xmath5@xmath60.1 ) appear to be advanced mergers that are powered by both a circumnuclear starburst and agn , both of which are fueled by an enormous concentration of molecular gas ( @xmath4@xmath7@xmath8 ) that has been funneled into the merger nucleus . </S>",
+    "<S> uligs may represent a primary stage in the formation of massive black holes and elliptical galaxy cores . </S>",
+    "<S> the intense circumnuclear starburst that accompanies the ulig phase may also represent a primary stage in the formation of globular clusters , and the metal enrichment of the intergalactic medium by gas and dust expelled from the nucleus due to the combined forces of supernova explosions and powerful stellar winds .    </S>",
+    "<S> @scaling.95    # 1=@scaling </S>"
+  ]
+}

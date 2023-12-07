@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "to meet the goals outlined in the ska science case ( available on www.ras.ucalgary.ca/ska ) , astronomers have drafted the following specifications for the ska : +    [ cols= \" < , < \" , ]",
+    "except for a few pulsars , the precision of pulsar timing is presently limited by sensitivity rather than systematics , uncalibrated instrumental effects or unmodelled drifts in the pulsar signal . sensitivity will no longer be a problem with the ska and systematics will dominate . trying to assess what sort of timing precision is achievable is therefore quite difficult , because we can not characterise the systematics yet or know whether they can be dealt with .",
+    "pulsar timing is limited by systematics around 1 @xmath1s or a bit below .",
+    "it therefore seems likely that the ska would allow a large number ( perhaps 100 s ) of pulsars to be timed to this level of precision . using 1 beam it might required something like 10 hours to obtain suitable data to time 500 pulsars at the 1 @xmath1s level . using 10 beams that could be randomly positioned",
+    ", it would take only 1 hour .",
+    "whether the precision can be pushed well below 1 @xmath1s remains to be seen . as discussed by britton at this meeting poor calibration of polarisation",
+    "is a dominant systematic effect at present and the invariant profile method he proposes should to help solve that problem .",
+    "however , the ska is likely to have a planar phased array either in the aperture plane or the focal plane",
+    ". the polarisation characteristics of these devices are substantially different to anything we are currently use for timing pulsars",
+    ". it would be advisable for somebody to do some experiments to see how well we can do pulsar timing with such systems .",
+    "another question is the number of pulses ( normally 100 s ) needed to form a stable profile for timing .",
+    "this may limit the speed with which a group of pulsars can be timed with the ska .",
+    "what others things may be possible with the ska that are not possible now .",
+    "of course there will be many that we can not yet think of , but it does not hurt to mention a few of those that we know now .",
+    "simultaneous multi frequency , multi pulsar studies will be a lot easier .",
+    "the ska will make it possible to do single pulse studies for a large number of pulsars , compared to the handful at present .",
+    "one interesting possibility arises if the ska is made using a planar phased array or luneberg lens .",
+    "one could collect signals from every element and store them in a fifo buffer of say 1 hour in length . in the mean time , collect timing points on pulsars that are likely to glitch .",
+    "when one sees that a pulsar has glitched , the fifo buffer should be saved so that a beam can then be formed towards the pulsar and thereby obtain data during the glitch .",
+    "this idea of course extends beyond pulsars and could be used for detecting any transient source where there is a trigger available by other means ."
+  ],
+  "abstract_text": [
+    "<S> the square kilometre array ( ska ) is a proposed next generation radio telescope . between now and 2005 this project is in a technology development and prototyping phase , with construction likely to begin in @xmath0 . </S>",
+    "<S> this paper describes what the ska may be like , its key features , the motivation for building it and where you can access more details about it . </S>",
+    "<S> its is important to see any new facility in context , so other new facilities are also discussed . </S>",
+    "<S> avenues for future extensibility of the ska other telescopes are covered , with some emphasis on multiple beam systems . </S>",
+    "<S> some suggestions for useful pulsar experiments and pulsar searches strategies are summarised . </S>",
+    "<S> a conclusion is that the ska may not be the most cost effective way to search for pulsars and that a 128 beam receiver system on an arecibo like telescope working between 1 and 5 ghz may be a more cost effective approach .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "article_text": [
+    "one of the major steps in the understanding of galaxy evolution was the realization that tails and bridges are the result of galaxy interactions ( toomre & toomre 1972 ) .",
+    "the subsequent proposal by toomre ( 1977 ) of using the morphology of the tidal features to create a `` merging sequence '' of 11 ngc galaxies triggered numerous multi - wavelength studies of those systems ( i.e. hibbard 1995 ) .",
+    "as a result , several observational characteristics have been tested as alternatives of assigning an `` age '' to the event of the interaction ( i.e. schweizer 1998 ) . moreover , the discovery by iras of the class of luminous ir galaxies and the revelation later on that they are also interacting / merging systems , attracted further attention to this problem ( see sanders & mirabel 1996 for a review ) .",
+    "to improve our knowledge of the properties of interacting galaxies in the mid - ir , we used isocam to perform deep spectral imaging observations in the ( 516@xmath0 ) of sample including most of the well known nearby active / interacting systems ( laurent et al .",
+    "the analysis of the spectral characteristics of our sample revealed that in galaxies where an active nucleus does not have a detectable contribution to their mid - ir flux , one can use the flux ratio of lw3(12 - 18@xmath0 ) to lw2(5 - 8.5@xmath0 ) isocam filters as an indicator of the intensity of the star formation activity .",
+    "this ratio samples the mid - ir continuum emission originating from very small dust grains ( radius@xmath210 nm ) heated to high temperatures due to their close proximity to ob stars ( dsert et al .",
+    "1990 ) .    in fig 1 .",
+    "we present eight galaxies of our sample found in increasing stages of interaction : from ngc4676 , to arp220 , and ngc7252 .",
+    "we observe that the isocam lw3/lw2 diagnostic traces the star formation activity in the galaxies and that it is well correlated with the corresponding iras flux ratios ( charmandaris et al .",
+    "this suggests that even though the bolometric luminosity of luminous infrared galaxies is found at @xmath3 , the study of the mid - ir spectral energy distribution is a powerful tool in understanding their global star formation history ."
+  ],
+  "abstract_text": [
+    "<S> we present results on mid - ir ( 516@xmath0 ) spectral imaging of a sequence of interacting galaxies , observed by isocam . </S>",
+    "<S> the galaxies are part of the well known toomre s `` merger sequence '' which was defined as a sample of galaxies depicting progressive snapshots in the time evolution of a merging event . to trace the intensity of the radiation field in a starburst </S>",
+    "<S> , we use the ratio of the 15@xmath0 to 7@xmath0 flux . </S>",
+    "<S> our analysis indicates that this ratio increases as galaxies move from the pre - starburst to the starburst phase and goes again down to @xmath1 1 in the post - starburst phase , a value typical of normal star forming regions in galactic disks . </S>",
+    "<S> moreover , we find that the variation of this ratio is well correlated with the one of the iras 25@xmath0/12@xmath0 and 60@xmath0/100@xmath0 flux ratios . </S>"
+  ]
+}

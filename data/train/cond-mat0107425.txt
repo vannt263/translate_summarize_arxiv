@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "this work has initiated during a visit to ufmg .",
+    "i thank r. dickman introducing me to the field of nonequilibrium phase transitions .",
+    "this work was partially supported by cnpq and faperj ."
+  ],
+  "abstract_text": [
+    "<S> in cond - mat/0107371 , de mendona proposes that diffusion can change the universality class of a parity - conserving reaction - diffusion process . in this comment </S>",
+    "<S> we suggest that this can not happen , due to symmetry arguments . </S>",
+    "<S> we also present numerical results from lattice simulations which support these arguments , and mention a previous result supporting this conclusion .    </S>",
+    "<S> although there are a large variety of nonequilibrium reaction / reaction - diffusion models which present a transition from an active to an absorbing state , their critical behaviors fall within a small number of universality classes . the simplest one , which can be viewed as the nonequilibrium counterpart of the ising universality class , is the contact process ( cp ) , or directed percolation ( dp ) universality class  @xcite . </S>",
+    "<S> another well - established class is the parity - conserving ( pc ) universality class  @xcite . </S>",
+    "<S> more recently , binary spreading ( bs ) processes ( with or without parity conservation ) , have appeared as representative of a new universality class  @xcite .    </S>",
+    "<S> it appears that the nature of the creation and annihilation processes is fundamental on determining to which universality class a given process might belong , that is , the number of particles necessary for a reaction to occur seems to play a key role . </S>",
+    "<S> one way to assess the importance of such terms is via numerical simulations or , whenever possible , by studying the analytical properties of the equations governing the dynamical process .    for any markovian process , </S>",
+    "<S> one can write a master equation describing how the probability @xmath0 of a given configuration @xmath1 evolves in time  @xcite . a technique first introduced by doi  @xcite allows us to derive a field - theoretic representation for the master equation , and then to handle fluctuations systematically . </S>",
+    "<S> moreover , with the field - theoretic action in hand , one can write down the langevin equation which governs the stochastic evolution of the field operators , with no ambiguity on the definition of the noise  @xcite .    even though the noise is always multiplicative in absorbing state phase transitions </S>",
+    "<S> , it can have different functional forms , which can change entirely the long - term behavior of the system being described . </S>",
+    "<S> for instance , when two particles are necessary for annihilation to occur , the noise in the langevin equation is , counter - intuitively , purely _ imaginary _ ( as in representatives of the pc class ) . on the other hand , </S>",
+    "<S> when both creation and annihilation require a pair of particles , there is a competition between `` real '' and `` imaginary '' noise ( as in representatives of the bs class ) .    </S>",
+    "<S> .nature of creation / annihilation processes within each universality class , that is , the number of particles needed for a reaction to occur . [ cols=\"^,^,^\",options=\"header \" , ]     the cp(m ) process , invented by inui and tretyakov  @xcite , is a parity - conserving dynamical process that can be summarized as follows    @xmath2    it can be interpreted as a process where a particle generates @xmath3 others with probability @xmath4 , while @xmath3 particles , upon contact , are annihilated with probability @xmath5 </S>",
+    "<S> . an isolated cluster of @xmath6 particles can not diffuse or annihilate . </S>",
+    "<S> it has been shown by the authors that cp(2 ) , starting with an even number of particles , belongs to the pc universality class  @xcite .    </S>",
+    "<S> recently , mendona  @xcite studied the cp(2 ) process with diffusion of solitary particles . on the basis of finite size scaling of the exact numerical diagonalization of the evolution operator , he reports that diffusion changes the universality class from pc to dp . </S>",
+    "<S> numerical estimates for @xmath7 , the dynamic exponent governing spatial fluctuations of the cluster of alive sites , seem to converge to @xmath8 .    at a first glance , the claim that the addition of diffusion might alter the dynamical critical behavior of the cp(2 ) process does not seem plausible , since it does not change the symmetry of the problem : the number of particles </S>",
+    "<S> is still conserved modulo @xmath9 and the absorbing state is still unique and devoid of particles . moreover , as in the analysis of simpler models  @xcite , it can be seen that a coarse - grained description of non - diffusive lattice models generally includes a diffusive term , and even without coarse - graining , an effective diffusion is already present in cp(2 ) , for instance , in the sequence @xmath10 .    to verify this , </S>",
+    "<S> we have developed a probabilistic cellular automaton for the @xmath11 cp(2)d ( with diffusion rate @xmath12 ) with even and odd sites constituting sub - lattices @xmath13 and @xmath14  @xcite . </S>",
+    "<S> starting from a fully occupied lattice of @xmath15 sites , we have measured the density of active sites @xmath16 , which should decay as @xmath17 at criticality . from the data we find @xmath18 .    </S>",
+    "<S> we have also performed dynamical simulations at the critical point , starting from a single pair of particles and measuring the accumulated number of active sites , @xmath19 , from which we find @xmath20 . </S>",
+    "<S> these results suggest that diffusion does no alter the critical behavior of cp(2 ) , and only confirm what has already been obtained by zhong and ben - avraham , who studied a branching - annihilating random walk with finite annihilation rate  @xcite . </S>",
+    "<S> this system is equivalent to the cp(2)d with high diffusion probability , and thus should have the same critical behavior . </S>",
+    "<S> we point out to cond - mat/0207720 for recent simulations of the diffusive pair contact process  @xcite , a lattice model which ( possibly ) has a diffusion dependent universality class . </S>"
+  ]
+}

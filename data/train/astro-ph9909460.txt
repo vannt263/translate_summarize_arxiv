@@ -1,0 +1,18 @@
+{
+  "article_text": [
+    "during the course of the jodrell bank vla astrometric survey ( jvas ) ( browne et al . 1998 , wilkinson et al . 1998 ) the double gravitational lens b1030 + 074 was uncovered ( xanthopoulos et al . 1998 ) .",
+    "this 1.56 arcsec separation double system , with a redshift of the lens of 0.599 and of the source of 1.535 , was confirmed based on both radio data ( vla , merlin , vlba , evn ) and optical data ( hst / wfpc2 v & i , nicmos h , keck spectra ) . an initial model of the system has predicted a time delay of 156/h@xmath0 days .",
+    "the new vlba+effelsberg observations at 1.7 ghz ( 3mas resolution , figure 1 ) show the jet in the a - component extending up to 60 mas and resolved in 3 hotspot - like features along the length of the jet .",
+    "the corresponding jet feature in the faint b - component mirrored and with a hotspot feature is detected also for the first time .",
+    "the system was monitored with the vla from february to october 1998 at 8.4 ghz ( a , bna and b configuration ) .",
+    "merlin long track and monitoring snapshot observations of the system were obtained in the c - band ( 5 ghz ) and l - band ( 1.7 ghz ) during 1998 .",
+    "vsop data of b1030 + 074 were also obtained in may 1998 at the 1.7 ghz and 15 ghz frequencies .",
+    "radio and optical observations have confirmed that b1030 + 074 is a gravitational lens system .",
+    "there are 3 features that make this lens system special : a ) it is the lens system with the highest flux density ratio between its components b ) its lensing galaxy , a quasar / bl lac early spiral type galaxy has an asymmetric structure which might be part of the main body of the galaxy or another interacting galaxy c ) its extended jet - like structure revealed in both components from the vlba observations might make it the first lens from which a time delay could be measured from differential proper motions . b1030 + 074 has all the qualities of a `` golden lens '' , a lens appropriate for the measurement of the hubble constant ."
+  ],
+  "abstract_text": [
+    "<S> we present an overview of all the observations ( radio - vla , merlin , vlba , evn - and optical - wfpc2 and nicmos - ) that were initially used to confirm the gravitational lens nature of the double jvas system b1030 + 074 . </S>",
+    "<S> since the 1.56 arcsec system showed some first indication of variability it has been monitored with the vla and merlin to confirm its variable nature . </S>",
+    "<S> we also present new vlba observations of the lens system at 1.7 ghz that have unveiled detailed structure of the jet in the strong component and first detection of the jet in the faint component . </S>"
+  ]
+}

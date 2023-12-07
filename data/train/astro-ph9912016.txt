@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "at the _ osservatorio astronomico di brera _ we started a few years ago the asca hard serendipitous survey ( hss ) : a systematic search for sources in the @xmath0 kev energy band , using data from the gis2 instrument onboard the asca satellite .",
+    "the specific aims of this project are : a ) to extend to faint fluxes the census of the x - ray sources shining in the hard x - ray sky , b ) to evaluate the contribution to the cosmic x - ray background ( cxb ) from the different classes of x - ray sources , and c ) to test the unification model for agns .",
+    "this effort has lead to a pilot sample of 60 sources that has been used to extend the description of the number - counts relationship down to a flux limit of @xmath1 erg @xmath2 s@xmath3 ( the faintest detectable flux ) resolving _ directly _ about 27% of the ( 2 - 10 kev ) cosmic x - ray background ( cxb ) , and to investigate their x - ray spectral properties ( cagnoni , della ceca and maccacaro , 1998 ; della ceca et al . , 1999 ) .",
+    "recently the asca hss has been extended : we discuss here this extension and the main results obtained so far .",
+    "the data considered for the extension of the asca hss were extracted from the public archive of 1629 asca fields ( as of december 18 , 1997 ) .",
+    "the fields selection criteria , the data preparation and analysis , the source detection and selection and the computation of the sky coverage are described in detail in cagnoni , della ceca and maccacaro ( 1998 ) and della ceca et al . ( 1999 ) .",
+    "the 300 gis2 images adequate for this project have been searched for sources with a signal - to - noise ( s / n ) ratio greater than 4.0 ( a more restrictive criterion than that adopted in cagnoni et al . , ( 1998 ) where a s / n @xmath4 3.5 was used ) .",
+    "a sample of 189 serendipitous sources with fluxes in the range @xmath5 erg @xmath2 s@xmath3 , found over a total area of sky of @xmath6 deg@xmath7 , has been defined .",
+    "full details on this sample will be reported in della ceca at al . , ( 2000 ) .",
+    "in figure 1 we show a parametric ( solid line ) and a non parametric ( solid histogram ) representation of the number - flux relationship obtained using the new asca hss sample of 189 sources .",
+    "also shown in figure 1 ( cross at @xmath10 ergs @xmath2 s@xmath3 ) is the surface density of the extragalactic population in the piccinotti et al . , ( 1982 ) heao 1 a-2 sample ( as corrected by comastri et al . , 1995 ) and the surface density of x - ray sources as determined by kondo ( 1991 ) using a small sample of 11 sources extracted from the ginga high galactic latitude survey ( filled triangle at @xmath11 ergs @xmath2 s@xmath3 ) .",
+    "the surface densities represented by the filled dots at @xmath12 , @xmath13 , and @xmath14 ergs @xmath2 s@xmath3 are the results from the asca large sky survey ( ueda et al . , 1999 ) ; the filled dot at @xmath15 ergs @xmath2 s@xmath3 has been obtained by georgantopoulos et al .",
+    "( 1997 ) using 3 deep asca gis observations ; the filled dot at @xmath16 ergs @xmath2 s@xmath3 has been obtained from inoue et al .",
+    "( 1996 ) using data from a deep asca observation .",
+    "finally , the filled square at @xmath17 ergs @xmath2 s@xmath3 has been obtained by giommi et al .",
+    "( 1998 ) using data from the bepposax deep surveys .",
+    "as it can be seen , our determination of the number - flux relationship is in very good agreement with those obtained from other survey programs .",
+    "the logn(@xmath8s)-logs can be described by a power law model n(@xmath8s ) = @xmath18 with best fit value for the slope of @xmath19 ; the dotted lines represent the @xmath20 confidence intervals on the slope .",
+    "the normalization k is determined by rescaling the model to the actual number of objects in the sample and , in the case of the ",
+    "best \" fit model , is @xmath21 deg@xmath22 . at the flux limit of the survey ( @xmath23 ergs @xmath2 s@xmath3 ) the total emissivity of the resolved objects is @xmath24 kev @xmath2 s@xmath3 sr@xmath3 , i.e. about 30% of the 2 - 10 kev cxb .",
+    "a flattening of the number - flux relationship , within a factor of 10 from our flux limit , is expected in order to avoid saturation .",
+    "to investigate the spectral properties of the sources in the 2.0 - 10.0 kev energy range we defined the hardness ratio , @xmath25 , where h and m are the observed ( gis2 + gis3 ) net counts in the 2.0 - 4.0 kev and 4.0 - 10.0 kev energy band respectively ( see della ceca et al.,1999 for details ) . in figure 2a , for all sources , we plot the hr2 value versus the gis2 count rate ; we have also reported the flux scale obtained assuming a count rate to flux conversion factor appropriate for a power law model with @xmath26 , the median energy spectral index of the sample .",
+    "the hr2 values are then compared with those expected from a non absorbed power - law model with @xmath27 ranging from @xmath91.0 to 2.0 .",
+    "it is worth noting the presence of many sources which seem to be characterized by a very flat 2 - 10 kev spectrum with @xmath28 and of a number of sources with  inverted \" spectra ( i.e. @xmath29 ) .",
+    "a flattening of the mean spectrum of the sources with decreasing count rate is clearly evident .",
+    "if we divide the sample into two subsamples ( the bright sample is defined by the 60 sources with a count rate @xmath30 cts s@xmath3 , while the faint sample is defined by the remaining 129 sources ) , than the fraction of sources with @xmath28 ( @xmath31 ) is @xmath32 ( @xmath33 ) in the bright sample and becomes @xmath34 ( @xmath35 ) in the faint sample .",
+    "these objects with very flat spectra could represent a new population of very hard serendipitous sources or , alternatively , a population of very absorbed sources as expected from the cxb synthesis models based on the agn unification scheme .",
+    "-6.5truecm + 6.0truecm",
+    "up to now 47 sources have been spectroscopically identified .",
+    "the optical breakdown is the following : 1 star , 5 cluster of galaxies , 5 bl lac objects , 33 broad line type 1 agns and 3 narrow line type 2 agns .",
+    "however we stress that this small sample of identified objects is probably not representative of the whole population .    in figure 2b",
+    "we plot the hr2 value versus the gis2 count rate for this small sample of identified objects .",
+    "we note that 2 of the 3 objects classified as type 2 agns have an inverted x - ray spectrum in the 2 - 10 kev band , and that some of the type 1 agns seem to have a very flat ( @xmath36 ) spectrum ."
+  ],
+  "abstract_text": [
+    "<S> we present here a status update on the asca hard serendipitous survey ( hss ) , a survey program conducted in the 2 - 10 kev energy band . </S>",
+    "<S> in particular we discuss the number - flux relationship , the 2 - 10 kev spectral properties of the sources and of the spectroscopically identified objects . </S>"
+  ]
+}

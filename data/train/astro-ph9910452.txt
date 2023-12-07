@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "figure 1 shows the www homepage for the gravitational lensing database . by clicking on one of the four images of the clover - leaf",
+    ", one may have access to different entries of the gravitational lensing bibliography :    - 1 ) a database with field - based searches totalizing more than 2400 articles published and submitted to main scientific journals with corresponding links ( for submitted papers to the e - print archive and for published papers to main journals ) ,          the first version of the gl bibliography approximately totalized 1000 articles .",
+    "the rapid growth of the gl activity is shown in figure 2 which illustrates the number of gl related articles being published each year .",
+    "pospieszalska - surdej , a. , surdej , j. , vron , p. 1993",
+    ", proceedings of the 31st lige international astrophysical colloquium , p. 671",
+    "pospieszalska - surdej , a. , surdej , j. , vron , p. 1995",
+    ", proceedings of the international astrophysical union symposium no .",
+    "173 , p. 417"
+  ],
+  "abstract_text": [
+    "<S> it is now possible to directly access , via the internet , a bibliographical database on gravitational lensing ( gl ) literature . the interactive gravitational lensing bibliography ( iglb ) </S>",
+    "<S> totalizes more than 2400 titles of published articles in scientific journals and meeting proceedings ( except those fully dedicated to gravitational lenses ) as well as papers submitted to the e - print archive . </S>",
+    "<S> this database is a product from the gravitational lensing bibliography first presented in 1993 ( proceedings of the 31st lige international astrophysical colloquium ) . </S>",
+    "<S> it is easy to do field based searches for title keywords , authors ( using boolean operators ) , year and journal ( a pull - down list of the most cited journals is available ) . </S>",
+    "<S> access to the original version of published articles as well as to preprints submitted to the e - print archive at the url address http://xxx.lanl.gov/ is also provided . </S>",
+    "<S> this database is updated approximately every two months . </S>",
+    "<S> the `` complete '' bibliography of published articles is also available in the form of latex and postscript files . </S>",
+    "<S> the iglb can be accessed at the url : http://vela.astro.ulg.ac.be/grav_lens </S>"
+  ]
+}

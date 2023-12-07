@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "a major problem in modeling of encounters of galaxies is the extended parameter space which is composed by the orbital and the structural parameters of the interacting galaxies .",
+    "traditional grid - based fitting strategies suffer from very large cpu - requirements .",
+    "e.g.  for a restricted 7-dimensional parameter space ( an encounter of a disc with a point mass ) and a resolution of only 5 values per dimension , one needs 78125 models , or about 26 years of integration time on a grape3af special purpose computer for a ",
+    "complete  grid .",
+    "more systematic search strategies like gradient methods depend strongly on the initial conditions , which makes them prone to trapping in local optima . an efficient alternative approach",
+    "are evolutionary methods and especially _ genetic algorithms _ ( holland 1975 , goldberg 1989 , charbonneau 1995 ) . in combination with fast ( but not self - consistent ) _",
+    "restricted n - body_-codes ( toomre & toomre 1972 ) they allow for an efficient search in parameter space which can be used for both , an automatic search of interaction parameters ( provided sufficiently accurate data are available ) and/or a uniqueness test of a preferred parameter combination ( wahde 1998 , theis 1999 ) .",
+    "the basic idea of gas is to apply an evolutionary mechanism including sexual reproduction operating on a population which represents a group of different parameter sets .",
+    "all members are characterized by their fitness which quantifies the correspondance between simulations and observations . in order to determine the _ parents _ two individuals are selected according to their fitness .",
+    "these parents represent two points in parameter space .",
+    "the corresponding parameter set is treated like a _ chromosome _ , i.e.  it is subject to a _ cross - over _ and a _ mutation _ operation resulting in a new individual which is a member of the next generation .",
+    "such a breeding is repeated until the next generation has been formed . finally , the whole process of sexual reproduction is repeated iteratively until the population confines one or several regions of sufficiently high fitness in parameter space .    here",
+    "we present a parallel implementation of our genetic algorithm .",
+    "we parallelized our code on the level of the ga by applying a master - slave technique using _ message passing _",
+    "( mpi ) . on the master processor",
+    "all the reproduction operations are performed .",
+    "it sends the individual parameter sets to the slave processors which do the n - body simulations and determine the corresponding fitness values ( fig .",
+    "the speed - up , i.e.  the ratio of cpu - times @xmath0 and @xmath1 used by a calculation with one or @xmath2 processors , respectively , reaches values between 30 and 60 for 100 processors ( fig .  1 right ) .",
+    "the deviation from the optimal gain is mainly caused by the spread of cpu - times required for the individual simulations .",
+    "it becomes more important with decreasing population size .",
+    "by parallelization the whole ga - fit using 10000 models reduces to less than 3 cpu minutes on a cray t3e .",
+    "thus , an interactive analysis becomes possible .",
+    "charbonneau p. , 1995",
+    ", , 101 , 309 goldberg d.e . , 1989 , _",
+    "genetic algorithms in search , optimization , & machine learning _",
+    ", addison - wesley , reading holland j. , 1975 , _ adaptation in natural and artificial systems _ , univ .  of michigan press , ann arbor theis ch . , 1999 , rev .",
+    ", 12 , 309 toomre a. , toomre j. , 1972 , , 178 , 623 wahde m. , 1998 , , 132 , 417"
+  ],
+  "abstract_text": [
+    "<S> modeling of interacting galaxies suffers from an extended parameter space prohibiting traditional grid based search strategies . as an alternative approach a combination of a genetic algorithm ( ga ) with </S>",
+    "<S> fast restricted n - body simulations can be applied . </S>",
+    "<S> a typical fit takes about 36 cpu - hours on a pentiumii processor . here </S>",
+    "<S> we present a parallel implementation of our ga which reduces the cpu - requirement of a parameter determination to a few minutes on 100 nodes of a cray t3e . </S>"
+  ]
+}

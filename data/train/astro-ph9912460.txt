@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the availability of ground and space - based instruments sensitive to radiation redward of 1@xmath3 m has resulted in a flurry of activity in the study of ultraluminous infrared galaxies ( ulig : @xmath4 l@xmath5 , assuming @xmath6 = 75 km s@xmath7 mpc@xmath7 ) .",
+    "much of the present research on these dusty merger by - products has focussed on two issues - ( _ i _ ) the nature of the embedded energy sources , and ( _ ii _ ) the cosmological significance of dust enshrouded star formation and agn activity relative to that observed in optically selected galaxies .",
+    "the former issue has been addressed with extensive high - resolution ( @xmath8 ) , near - infrared imaging with the hubble space telescope ( hst : scoville et al .",
+    "2000 ) , ground - based spectroscopy at near - infrared wavelengths ( e.g. veilleux , sanders , & kim 1999 ) , and mid - infrared spectroscopy with the infrared space observatory ( genzel et al . 1998 ; lutz et al .",
+    "the data show that at least 30% of local uligs ( i.e. , primarily the `` warm '' uligs ) appear to have agn as the dominant energy sources , and that the tendency for the energy source to be an agn increases with increasing luminosity .",
+    "the latter issue has been investigated via surveys with the submillimeter common user bolometer array ( scuba ) . not only has scuba enabled the systematic detection of uligs at cosmological distances ( smail et al .",
+    "1997 ; hughes et al . 1998 ; barger et al . 1998 ) , but compelling arguments infer that uligs may represent a significant fraction of the star formation and agn activity occuring in the early universe .    of equal importance to the question of what uligs are",
+    "is the question of what their progenitors were .",
+    "specifically , it is clear that uligs result primarily from the interaction / merger of gas - rich spiral galaxies and that they are powered by starbursts and agn , but what properties of their progenitor galaxies determine the dominant energy source , the star formation rate , and the infrared luminosity ?",
+    "one possible way of answering this is to select a sample of uligs in which the progenitor galaxies are close enough to be under the gravitational influence of each other , but far enough apart to still possess distinguishable features .",
+    "such a selection criteria has the benefit of selecting objects which are likely to remain ultraluminous well into the coalescence of the nuclei , but misses objects that ( if they exist ) have similar nuclear separations , but have yet to reach the ultraluminous phase .",
+    "features which may yield important diagnostics are the star - forming molecular gas content , the optical or near - infrared morphologies , and the bulge - to - disk ( or perhaps more appropriately , bulge - to - tidal tail ) ratios of the progenitors .    in this conference article",
+    ", we focus on millimeter ( co ) interferometry of a sample of 5 double - nucleus uligs in the redshift range @xmath9 and which have projected nuclear separations of @xmath10 kpc ( @xmath11 ) .",
+    "the results presented here were obtained with the owens valley millimeter array ( ovro ) at a resolution of @xmath12 , and are discussed at length in evans et al .",
+    "( 1999 ) , evans , surace , & mazzarella ( 2000 ) , and evans et al .",
+    "figure 1 shows the molecular gas distribution of the 5 uligs superimposed on near - infrared hst images of the galaxies ( except mrk 463 , where an optical hst image is shown ) .",
+    "the warm ( ir 08572 + 3915 , ir 13451 + 1232 , and mrk 463 ) and cool ( ir 12112 + 0305 and ir 14348 - 1447 ) uligs are shown in the left and right panels , respectively .",
+    "the most striking feature is the presence of molecular gas on both nuclei of the cool uligs , whereas it appears only on the agn of the warm uligs .",
+    "the association of molecular gas with the active nucleus of the warm galaxies is consistent with the idea that molecular gas is a major fuel source for their agn activity .",
+    "the results are also consistent with their warm , seyfert - like mid to far - infrared colors ; because h@xmath13 forms on the surface of dust grains , it is not surprising to find molecular gas associated with the energy source responsible for heating the dust to such high temperatures .    in the case of the cool uligs , the association of molecular gas with both of the stellar nuclei ( which has also been observed for the double nuclei in the cool ulig arp 220 : sakamoto et al . 1999 ) , combined with the lack of definitive evidence for agn ( i.e. , broad , quasar - like or high excitation emission lines ) , may be an indication that nuclear starbursts in both progenitors enable them to achieve luminosities in excess of @xmath14 l@xmath5 at this stage of the merger .",
+    "there is , however , no reason to believe twin nuclear starbursts should _ always _ be necessary to exceed @xmath14 l@xmath5 , and thus a larger sample of uligs is required to yield better statistics .    as pointed out by evans , surace , and mazzarella ( 2000 ) ,",
+    "the morphologies of the lower luminosity luminous infrared galaxies ( ligs : @xmath15 l@xmath5 ) with similar nuclear separations have molecular gas predominantly between the two nuclei .",
+    "this is a possible indication that gas stripping is an important process in ligs , whereas the bulges of uligs may be massive enough such that stripping is minimal .",
+    "the starburst and agn luminosities ( and thus the fueling rates ) of uligs require sufficient quantities of high density gas , a condition that can be achieved through dissipative collapse of gas into the deep nuclear potential wells .",
+    "off - nuclear star formation induced by gas stripping and compression is unlikely to produce conditions conducive for the ulig phenomenon .",
+    "the advantages alma will bring to the study of the intermediate stages of the ulig process is its ability to perform high resolution observations with unparalleled sensitivity .",
+    "alma will be able to resolve the molecular disks of uligs with projected nuclear separations as small as @xmath16 , and will provide a better constraint on the extent ( and thus the density ) of the gas .",
+    "this is required to determine statistically whether the properties of molecular gas in more starburst - like uligs differ from that of agn - like uligs , and to compare the gas properties of uligs with ligs .",
+    "alma will also aid in determining , in a more statistical sense than possible with present day millimeter arrays , how the general gas properties of uligs vary as a function of lookback time .",
+    "we thank the ovro staff and postdoctoral scholars for their assistance both during and after the acquisition of the data presented here .",
+    "this research was supported by nasa grant nag 5 - 3042 and rf9736d ."
+  ],
+  "abstract_text": [
+    "<S> millimeter ( co ) observations of 5 double - nucleus ultraluminous infrared galaxy ( ulig ) mergers are presented . with nuclear separations of @xmath0 kpc , these galaxies are in the `` intermediate '' stages of the merger process . </S>",
+    "<S> a preliminary comparison of the distribution of molecular gas ( the likely fuel source for both starbursts and active galactic nuclei : agn ) shows a tendency for molecular gas to be associated with the agn nucleus of uligs with `` warm '' , seyfert - like infrared colors ( @xmath1 ) and associated with both stellar nuclei of uligs with `` cool '' infrared colors ( @xmath2 ) . </S>",
+    "<S> studies of uligs with a wide range of nuclear separations using the high resolution and increased sensitivity of alma will provide a larger statistical sample with which the gas distribution , molecular gas masses , and densities can be determined as a function of the evolutionary stage , starburst and agn activity , and lookback time .    1.25 in .125 in .25 in </S>"
+  ]
+}

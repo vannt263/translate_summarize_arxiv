@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "during their evolution , the more massive post - agb stars can reach extremely high effective temperatures : up to about 700kk are predicted by paczynski ( 1970 ) for a star with a remnant mass of 1.2m@xmath0 .",
+    "realistic modeling of the emergent fluxes of these stars requires the consideration of all elements from hydrogen up to the iron group under nlte conditions .",
+    "the model atmospheres ( plane - parallel , hydrostatic and radiative equilibrium ) are calculated using the code pro2 ( werner 1986 ) .",
+    "all elements from hydrogen to the iron group are considered ( rauch 1997 , dreizler & werner 1993 , deetjen et al.1999 ) . a grid of model atmosphere fluxes ( @xmath1 = 50  1000kk , @xmath2 = 5  9 ( cgs ) , h ",
+    "ca , solar and halo abundances ) is available at the www ( http://astro.uni-tuebingen.de/@xmath3rauch/flux.html ) .",
+    "the high - energy model atmosphere fluxes strongly depend on the metal - line blanketing . the impact of h  ca is shown in fig.1 ( cf.rauch 1997 ) .",
+    "comparison of nlte model atmosphere fluxes with different elemental composition at solar abundances ( @xmath4kk , @xmath5 ) .",
+    "note the drastic decrease of the flux level at wavelengths shorter than 100if the metal - line blanketing of the light metals h - ca is considered .",
+    "a detailed consideration of all line transitions of the iron - group elements , like tabulated in kurucz ( 1996 ) , is impossible .",
+    "thus , we employed an opacity sampling method in order to account for their absorption cross - sections .",
+    "their cross - sections are calculated with the newly developed cross - section creation package csc ( http://astro.uni-tuebingen.de/@xmath3deetjen/csc.html ) .",
+    "radiative und collisional bound - bound line cross - sections are calculated from kurucz s line lists ( 1996 ; fig.2 ) .",
+    "radiative und collisional bound - free photoionization cross - sections of fe are calculated from opacity project data ( seaton et al .",
+    "1994 ) .",
+    "= figure 2 .",
+    "part of the radiative bound - bound cross - section @xmath6 ( band 6 to band 4 ) of fev at @xmath7@xmath8 , considered in detail ( 520360 frequency points within @xmath9hz @xmath10hz ) and with our opacity sampling grid ( 973 frequency points )    all iron - group elements can be combined in one generic model atom . its term scheme is typically divided into seven energy bands ( fig.3 , dreizler & werner 1993 ) .",
+    "the statistics of a typical generic model atom are summarized in tab.1 .",
+    "energy band structure of an iron - group model atom    l r r r r ion & & + & 7 & ( 20437 ) & 26 & ( 6042725 ) + vi & 7 & ( 16062 ) & 26 & ( 4784314 ) + vii & 7 & ( 12870 ) & 26 & ( 2573617 ) + viii & 7 & ( 9144 ) & 28 & ( 3229141 ) + total & 28 & ( 58513 ) & 106 & ( 16656797 ) +    in order to investigate the impact of the iron - group elements on the emergent flux , we used a h - ca trunk model atom ( rauch 1997 ) and added sc  ni in form of a generic model atom ( tab.1 ) , including all available ( experimental + theoretical ) levels and lines from kurucz s list ( 1996 ) . in fig.4",
+    "we show the additional impact of the iron group elements .",
+    "comparison of two nlte model atmosphere fluxes without and with consideration of iron - group elements at solar abundances ( @xmath4kk , @xmath5 ) .",
+    "the additional iron - group line blanketing has a strong influence on the flux level at high energies close to the maximum flux level",
+    "emergent fluxes calculated from nlte model atmospheres which include iron - group line blanketing show a drastic decrease of the flux level at high energies . for a reliable analysis of uv / euv and x - ray spectra of central stars of planetary nebulae , or the calculation of ionizing spectra from these ( e.g.used as input for photoionization models )",
+    "the consideration of all elements from hydrogen up to the iron group is mandatory .",
+    "a detailed consideration of the metal - line blanketing with all available lines has an important influence on the spectrum .",
+    "pro2 is permanently updated in order to calculate state - of - the - art models for the analysis of the available spectra .",
+    "this includes in the near future spherical geometry , element diffusion , and polarized radiation transfer .    a new grid of model fluxes which includes a detailed line",
+    "blanketing by ca and by the iron group will be soon available on the www .",
+    "this research is supported by the dlr under 50or97055 .",
+    "deetjen , j. l. , dreizler , s. , rauch , t. , & werner , k. 1999 ,  348 , 940 dreizler , s. , & werner , k. 1993 ,  278 , 199 kurucz , r.l .",
+    "1996 , iau symp.176 , kluwer , dordrecht , p.52 paczynski , b. 1970 , acta astr.20 , 47 rauch , t. 1997 ,  320 , 237 seaton , m. j. , yan y. , mihalas , d. , & pradhan , a. k. 1994 ,  266 , 805 werner , k. 1986  161 , 177"
+  ],
+  "abstract_text": [
+    "<S> present observational techniques provide stellar spectra with high resolution at a high signal - to - noise ratio over the complete wavelength range  from the far infrared to the x - ray .    </S>",
+    "<S> nlte effects are particularly important for hot stars , hence the use of reliable nlte stellar model atmosphere fluxes is required for an adequate spectral analysis .    </S>",
+    "<S> state - of - the - art nlte model atmospheres include the metal - line blanketing of millions of lines of all elements from hydrogen up to the iron - group elements and thus permit precise analyses of extremely hot compact stars , e.g. central stars of planetary nebulae , pg1159 stars , white dwarfs , and neutron stars . </S>",
+    "<S> their careful spectroscopic study is of great interest in several branches of modern astrophysics , e.g.stellar and galactic evolution , and interstellar matter .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

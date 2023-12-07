@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "dwarf galaxies are the most dominant population of the present  day universe @xcite . in the standard cold dark matter model low",
+    " mass galaxies are considered to be the first luminous objects .",
+    "if the present dwarfs are dark matter dominated , they could account for a significant fraction of the mass of galaxy clusters .",
+    "besides their numerosity , dwarfs seem to be the simplest galactic system available for reliable observational study and theoretical modelling .",
+    "the hydrodynamical simulations are based on our own variant of the chemo ",
+    "dynamical smoothed particle hydrodynamics ( * cd  sph * ) approach , including feedback through star formation phenomena .",
+    "the dynamics of the dark matter component are treated within a standard n  body approach .",
+    "thus , the satellite galaxy consists of dark matter , gas and `` star '' particles . for a detailed description of the * cd  sph * code ( the star formation algorithm ,",
+    "the snii , snia and pn production , and the chemical enrichment ) the reader is referred to @xcite .",
+    "it is to be noted that the code was slightly modified for the present problem so as to include the photometric evolution of each `` star '' particle , based on the idea of the single stellar population ( ssp ) @xcite . at each time - step ,",
+    "absolute magnitudes : m@xmath0 , m@xmath1 , m@xmath2 , m@xmath3 , m@xmath4 , m@xmath5 , m@xmath6 and m@xmath7 are defined separately for each `` star '' particle . the ssp integrated colours ( ubvrikm )",
+    "are taken from @xcite ( table 2 ) . the spectro  photometric evolution of the overall ensemble of the `` star '' particles forms the spectral energy distribution ( sed ) of the satellite .",
+    "the central host galaxy is assumed to be a milky - way  like system .",
+    "it is modelled as a disk + bulge + halo system according to @xcite .",
+    "the initial satellite proto - galaxy is taken to be a gas  rich and dark matter dominated proto  dwarf with a total mass @xmath8 and an initial radius @xmath9 .",
+    "the baryonic ( i.e. initial `` gas '' ) mass of the proto  dwarf is @xmath10 , and the initial dark - matter ( dm ) mass is @xmath11 .",
+    "initially the centre of the proto  dwarf is located at galactocentric coordinates ( 0 , 0 , 150 kpc ) .",
+    "the initial velocity field of this object is defined as the sum of the orbital motion in the host galaxy in the polar plane ( yz ) and the rotation around its own rotational axis ( parallel to the x axis of host galaxy ) .",
+    "the initial velocity of orbital motion is : @xmath12 .",
+    "the dimensionless angular velocity vector of the rotation is @xmath13 . as the system unit for this physical parameter",
+    "we use the value : @xmath14 .",
+    "extensive numerical simulation show that model evolution results in the formation of a baryon - dominated satellite galaxy .",
+    "the basic process keeping this scenario is the dissipative nature of the baryonic component of the proto  dwarf , which easily forms a compact structure with a radius smaller than the tidal radius .",
+    "the practically dissipationless dark - matter component forms an extended structure which is effectively destroyed via tidal influence of the massive galaxy .",
+    "this mechanism is very interesting in the context of the possible existence of of dsph galaxies with a low dark - matter content .",
+    "* acknowledgements * the authors are grateful to pavel kroupa for stimulating this work and l.s .",
+    "pilyugin and yu.i .",
+    "izotov for fruitful discussions during the process of preparing this work .",
+    "the work was partially supported by nato grant * nig 974675*."
+  ],
+  "abstract_text": [
+    "<S> the formation and evolution of a low mass galaxy in the gravitational field of a massive disk galaxy ( like the milky way ) has been studied . </S>",
+    "<S> numerical simulations of complex gas - dynamic flows are based on our own variant of the chemo  </S>",
+    "<S> dynamical smoothed particle hydrodynamical ( * cd  sph * ) approach , which incorporates star formation . </S>",
+    "<S> the dynamics of the dark matter was treated as a standard n  body problem . </S>",
+    "<S> it is shown that the satellite galaxy effectively looses its dark matter component due to the strong tidal influence of the massive galaxy , while the gas , owing to its strong dissipative nature , forms an almost dark - matter  free dwarf galaxy . </S>"
+  ]
+}

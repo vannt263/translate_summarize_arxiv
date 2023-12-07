@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "bar pattern speeds , @xmath0 , constrain the dark matter content of barred galaxies ( debattista & sellwood 1997 ) .",
+    "the measurement of @xmath0 in a statistically significant number of galaxies is , therefore , very desireable .",
+    "tremaine & weinberg ( 1984 ) derived a model - independent equation for @xmath0 of systems satisfying the continuity equation . using this method with slit spectra , merrifield & kuijken ( 1995 ) and gerssen  ( 1998 ) found fast bars ( i.e. corotation radius / bar semi - major axis @xmath1 ) in ngc 936 and ngc 4596 respectively .",
+    "ngc 7079 was selected for observation because it has a suitably placed disk and bar , has several bright stars within @xmath2 of the galaxy center ( for normalizations ) , lacks spirals , dust and large companions , is large and bright , has a known recession velocity and the caii 8542.14   line is redshifted to wavelengths outside the bright sky - emission forests .",
+    "this galaxy , classified as ( l)sb(r)0@xmath3 , is the brightest member of a group of seven galaxies ( garcia 1993 ) .",
+    "the slit spectra of bettoni & galletta ( 1996 ) through the center of ngc 7079 showed a small amount of counter - rotating gas in the inner @xmath4 .",
+    "we used the ctio 0.9 m telescope to obtain multiple @xmath5 , @xmath6 , @xmath7 , @xmath8 and @xmath9 exposures of 300 @xmath10 each , with seeing @xmath11 .",
+    "after processing in the standard way , the exposures in each filter were combined .",
+    "ellipse fits at large radii ( @xmath12 ) gave a disk inclination , @xmath13 , of @xmath14 , which compares well with the results of bettoni & galletta ( @xmath15 ) .",
+    "the @xmath6-@xmath9 map shows that the disk and the bulge each have a constant color , indicating uniform ( or zero ) internal extinction .",
+    "thus the tremaine - weinberg method can be used for this galaxy .",
+    "we observed ngc 7079 with the rutgers fabry - perot imaging interferometer on the ctio 4 m telescope , with variable seeing of @xmath16 .",
+    "we used the caii 8542.14   absorption line , redshifted to 8618  , scanning the spectrum from @xmath17   to @xmath18  , in steps of @xmath19  , for a total of 25 exposures of 900 seconds each .",
+    "after flattening , zero subtraction and cosmic ray removal in the usual way , sky and sky - emission rings were subtracted by radial sampling in the half of the frame which excluded the galaxy .",
+    "the frames were normalized using bright field stars and then voigt profiles were fitted to the spectrum at each pixel , giving maps of the velocity and dispersion . in figure  [ fig-1 ]",
+    "we compare our velocity and dispersion data with those of bettoni & galletta along their major - axis slit ; our data compare well inside @xmath20 from the galaxy center .",
+    "figure  [ fig-1 ] shows peaks in the velocity dispersion away from the galaxy center .",
+    "we are still trying to understand their cause ; perhaps they are related to the infalling material found by bettoni & galletta .",
+    "with the velocity and photometric data , we can now calculate @xmath0 for ngc 7079 .",
+    "since we have 2d data , we will take full advantage of the freedom in the tremaine - weinberg method to reduce the uncertainty in the measurement of @xmath0 .",
+    "bettoni , d. & galletta , g. 1997 , , 124 , 61 debattista , v.p . & sellwood , j.a .",
+    "1997 , , 493 , l5 garcia , a.m. 1993 , , 100 , 47 gerssen , j. , kuijken , k. & merrifield , m.r .",
+    "1999 , , 306 , 926 merrifield , m.r . & kuijken , k. 1995 , , 274 , 933 tremaine , s. & weinberg , m.d . 1984 , , 209 , 729"
+  ],
+  "abstract_text": [
+    "<S> we report on absorption - line fabry - perot spectroscopy of the sb0 galaxy ngc 7079 . </S>",
+    "<S> our data allow us to determine velocity and dispersion maps , which compare well with the results of slit observations . </S>",
+    "<S> our goals are to obtain a bar pattern speed and to determine the velocity ellipsoid as a function of radius ; this is work in progress . </S>"
+  ]
+}

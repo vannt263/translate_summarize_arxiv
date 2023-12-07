@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "deep surveys of the submillimeter sky using scuba on the jcmt have uncovered a population of luminous dusty galaxies at high - redshift ( smail , ivison & blain 1997 ; barger et al .",
+    "1998 ; hughes et al . 1998 ; eales et al . 1999 ) .",
+    "although their redshift distribution is still uncertain , the majority of the sub - mm galaxies are believed to be at high redshifts ( @xmath4 ) based on their radio and near - infrared ( nir ) data ( smail et al .",
+    "1999a , b ; carilli & yun 1999 ) .",
+    "this contrasts somewhat with the early optical studies which argued for lower redshifts for the sub - mm population ( lilly et al .",
+    "1999 ; barger et al .",
+    "several sub - mm sources are now thought to be undetected at optical wavelengths which makes radio , mm , and nir follow - up studies crucial , and supports the high - redshift scenario for the sub - mm population .",
+    "the relative importance of agn and starburst activity in powering the high luminosities of the sub - mm population is still open to question .",
+    "if dominated by agn activity , the sub - mm galaxies would be responsible for a majority of the x - ray background ( almaini et al .",
+    "1999 ) . alternatively ,",
+    "if the sub - mm galaxies are predominantly powered by starbursts , they would contribute significantly to the total amount of star formation at high redshift ( blain et al .",
+    "if the sub - mm galaxies have a significant starburst component , we would expect to detect massive molecular gas reservoirs associated with the star - formation activity .    at the ovro millimeter array ,",
+    "we have been carrying out co observations of the sub - mm population of galaxies in order to constrain their molecular gas masses , and hence their star - formation activity .",
+    "we have concentrated on the sub - mm galaxies discovered during a survey toward rich , lensing clusters ( smail et al . 1998 ) .",
+    "this sub - mm survey has the advantage of having the several candidate counter - parts with accurate redshifts , and the sources are typically brighter than those found in other surveys due to gravitational amplification by factors of 23 from the foreground cluster .",
+    "in addition , the observed flux ratios at different wavelengths should generally represent their intrinsic values since weak gravitational lensing from cluster potentials is independent of the size of the emission regions .",
+    "we have detected co emission from two sub - mm systems ( fig .",
+    "1 ) . the co emission is coincident in both position and redshift with their optical counter - parts , hence confirming their association with the sub - mm sources .",
+    "the first source , smmj02399@xmath50136 at @xmath0 ( smmj02399 ) , shows an agn component in its optical spectrum ( ivison et al . 1998 ) , while the second sub - mm galaxy , smmj14011 + 0252 at @xmath1 ( smmj14011 ) , shows only evidence for starburst activity at optical / nir wavelengths ( ivison et al .",
+    "although the optical characteristics of these galaxies appear vastly different , their radio , sub - mm , and co properties are fairly similar and are consistent with a high level of star formation activity ( sfrs of a few@xmath6m@xmath7yr@xmath8 to more than @xmath9m@xmath7yr@xmath8 , depending on the imf and agn contamination ) . after correcting for lensing , we find co luminosities of 34@xmath10kkms@xmath8pc@xmath11 ( h@xmath12kms@xmath8mpc@xmath8 ; @xmath13 ) in these two systems .",
+    "these co luminosities correspond to molecular gas masses of about @xmath14@xmath15m@xmath7 , depending on the exact value of the co to h@xmath16 conversion factor ( e.g. , solomon et al .",
+    "both smmj02399 and smmj14011 appear to be associated with a merger event . given that mergers of gas - rich galaxies at low - redshift result in massive starbursts , we expect star - formation to be an important component for powering the far - infrared luminosities in both of these systems .",
+    "in fact , the large molecular gas masses of smmj02399 and smmj14011 are sufficient to form the stars of an entire l@xmath17 galaxy , which suggests that the sub - mm population may represent the formative phase of massive galaxies .",
+    "smmj02399 and smmj14011 share many of the same properties of the local population of uligs , such as high infrared ( ir ) luminosities , associated with mergers , massive molecular gas reservoirs , comparable co line widths , and similar ir / radio and ir / co luminosity ratios . given that low - redshift uligs tend to be comprised of massive starbursts with varying levels of agn contamination ( sanders & mirabel 1996 ; genzel et al .",
+    "1998 ) , we could expect to find similar results for the high - redshift sub - mm galaxies .",
+    "if this is correct and since the sub - mm galaxies are so numerous ( factor of @xmath18@xmath9 times more numerous per comoving volume than low - z uligs ) , the sub - mm population is expected to contribute significantly ( @xmath19% ) to both the total amount of star - formation and agn activity at high redshift .",
+    "future studies of this population with alma will help elucidate our general understanding of the formation and evolution of galaxies .",
+    "the observations presented here were done in collaboration with a. evans , m. yun , and scuba lens survey team of i. smail , r. ivison , a. blain , and j .-",
+    "we thank j. carpenter for assistance in developing the simulation code .",
+    "we appreciated the efforts of our ovro colleagues who have helped make these observations a success .",
+    "the ovro millimeter array is a radio telescope facility operated by the california institute of technology and is supported by nsf grant ast 96 - 13717 ."
+  ],
+  "abstract_text": [
+    "<S> we present observations of the luminous population of high - redshift sub - mm galaxies taken at the ovro millimeter array . </S>",
+    "<S> studies of sub - mm galaxies are vital to our understanding of the formation and early evolution of galaxies since this population could account for a significant fraction of the total amount of star formation and agn activity at high redshift . </S>",
+    "<S> we discuss the co detections for smmj02399 - 0136 at @xmath0 and smmj14011 + 0252 at @xmath1 . </S>",
+    "<S> the co data show the presence of massive molecular gas reservoirs ( @xmath2@xmath3 ) and suggest that the sub - mm galaxies are similar to low - redshift , gas - rich ultraluminous infrared galaxies ( uligs ) . </S>",
+    "<S> these results highlight the importance that future mm / sub - mm interferometric observations will have on our understanding of the high redshift universe . </S>"
+  ]
+}

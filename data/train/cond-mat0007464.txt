@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "dense nano - particle systems have been shown to exhibit collective behavior , as evidenced by aging , and non - equilibrium effects similar to spin glasses.@xcite whether that collective behavior is associated with a `` true '' spin glass phase transition is still controversial . in this paper , we show a dynamic scaling analysis to a spin glass transition for a highly concentrated fe - c nano - particle sample with a narrow particle size distribution .",
+    "we also discuss why the scaling analysis may not indicate a phase transition for samples with less interactions or wider size distributions .    the sample consisted of ferromagnetic nanoparticles of amorphous @xmath5 ( x@xmath60.22 ) , with an average particle size of @xmath7 nm , prepared by the method described by van wonterghem et al . in ref .",
+    "the sample was studied in the frozen state and contained 17 vol% of particles .",
+    "the ac - susceptibility measurements were performed in a non - commercial squid magnetometer for frequencies in the range @xmath8 17  mhz - 170  hz . fig . 1 shows @xmath9 and @xmath10 at different frequencies .    a sample that exhibit a spin glass transition will show critical slowing down , and hence the characteristic relaxation time @xmath11 diverges at the transition temperature according to @xmath12 where @xmath13 is the transition temperature , @xmath14 is related to the relaxation time of the individual particle magnetic moments , and @xmath15 is a critical exponent .",
+    "we extracted the freezing temperature @xmath16 , associated with a relaxation time ( @xmath17 ) , from the out - of - phase component of the ac - susceptibility as @xmath18 with @xmath19 .",
+    "we also tried other criteria to make sure that the choice of criterion is not significantly influencing the results of the critical slowing down analysis .",
+    "the critical slowing down analysis gives @xmath1 , @xmath20  s , and @xmath21  k ( see fig .",
+    "we also performed a full scaling of @xmath3 according to , @xmath22 and found data collapse to a single function @xmath23 , for different frequencies , using @xmath2 ( see fig .",
+    "3 ) . the value of @xmath15 compares quite well with values found for spin glasses with long range interactions ( rkky ) , while the value of @xmath24 is slightly larger than typical spin glass values , but is consistent with the value of @xmath25 found by jonsson et al .",
+    "@xcite for an interacting nanoparticle sample by a static scaling analysis .",
+    "the dynamic scaling analysis will only reveal a phase transition if the single particle contribution to @xmath3 is vanishingly small for @xmath4 , i.e. all slow dynamics is due to collective behavior .",
+    "two criteria have to be fulfilled for this to be possible ; i ) the interparticle interactions need to be strong and ii ) the particle size distribution needs to be narrow . if we compare the sample used for the scaling analysis with the same sample but much more dilute ( 0.05 vol.% ) we can see that the out - of - phase component is almost zero for @xmath4 ( see inset of fig .",
+    "we conclude that the concentrated sample is appropriate to use for scaling analysis .",
+    "9 j. l. dormann , et al . , j. magn .",
+    "magn . mater . *",
+    "187 * , l139 ( 1998 ) .",
+    "h. mamiya , i. nakatani , and t. furubayashi , phys .",
+    "lett . * 82 * , 4332 ( 1999 ) .",
+    "p. jnsson , m. f. hansen , and p. nordblad , phys .",
+    "b * 61 * , 1261 ( 2000 ) j. van wonterghem , s , mrup , s.w .",
+    "charles , and s wells , j. colloid interface sci . *",
+    "121 * , 558 ( 1988 ) ."
+  ],
+  "abstract_text": [
+    "<S> a highly concentrated ( 17 vol.% ) fe - c nano - particle system , with a narrow size distribution @xmath0  nm , has been investigated using magnetic ac susceptibility measurements covering a wide range of frequencies ( 17 mhz - 170 hz ) . </S>",
+    "<S> a dynamic scaling analysis gives evidence for a phase transition to a low temperature spin - glass - like phase . </S>",
+    "<S> the critical exponents associated with the transition are @xmath1 and @xmath2 . </S>",
+    "<S> the reason why the scaling analysis works for this sample , while it may not work for other samples exhibiting collective behavior as evidenced by aging phenomena , is that the single particle contribution to @xmath3 is vanishingly small for @xmath4 and hence all slow dynamics is due to collective behavior . </S>",
+    "<S> this criterion can only be fulfilled for a highly concentrated nano - particle sample with a narrow size distribution . </S>"
+  ]
+}

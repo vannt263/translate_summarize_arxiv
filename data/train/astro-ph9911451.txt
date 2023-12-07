@@ -1,0 +1,19 @@
+{
+  "article_text": [
+    "considerable uncertainty remains regarding the fundamental thermal parameters ( @xmath0 ) for psr b0656 + 14 .",
+    "radio derived dm estimates ( 790 @xmath1 190 pc ) disagree with the best @xmath2 model fits ( 250  550 pc ) . reported calibration uncertainties associated with the low energy channels of the @xmath3 pspc compromise the latter - although agreement between other @xmath3 pspc & observed @xmath4 fluxes obtained via a correction ( e.g. for rx j185635 - 3754 , walter & an , 1998 ) .",
+    "we outline the results of such a correction to the existing pspc datasets archived for psr b0656 + 14 via substitution of the low energy channels with measured @xmath4 fluxes , and by incorporating independently derived constraints to the rayleigh - jeans tail in the optical , discuss the implications for the neutron star s thermal parameters .",
+    "optimum thermal fits for @xmath5 were obtained for the archived @xmath3 pspc data alone and the pspc data with the suspect low energy channels substituted with the archival normalised euve flux . this substitution results in a significant change in solution space , as shown in figure 1 ( edelstein et al .",
+    "1999 ) . based on integrated optical photometry , pavlov et al .",
+    "( 1997 ) fitted a two component nonthermal / thermal model , the thermal fit defined by a parameter @xmath6 @xmath7 @xmath8 where @xmath6 = [ 1  7 ] ( see figure 1 ) .    a 1@xmath9 upper limit on the unpulsed component from the optical @xmath10 band light curve of shearer et al .",
+    "( 1997 ) limits @xmath6 @xmath11 4.4 , 4.8 and 5.2 , based on various optical extinction models to the pulsar ( golden , 1999 ) .",
+    "these optical results yields tighter constraints on parameter space , as can be seen .",
+    "combining the euve & rosat datasets in this way yields new solutions in parameter space that are further constrained _ independently _ via recent optical work . assuming a simple blackbody form then @xmath12 @xmath13 5.0@xmath14 k and for the @xmath2-derived distances of [ 250  280 ] pc , @xmath15 @xmath11 [ 17.7  14.7 ] km . using the estimate of @xmath15 @xmath16 @xmath17 km for geminga as a working upper limit ( golden & shearer , 1999 ) places psr b0656 + 14 at a distance of no less than @xmath18 = @xmath19 .",
+    "this suggests the possibility of parallax observations to independently derive @xmath18 , with immediate implications for the @xmath20 parameter , and consequently models of the condensed matter equation of state ."
+  ],
+  "abstract_text": [
+    "<S> psr b0656 + 14 s high energy emission is consistent with that of combined magnetospheric and thermal ( surface & polar cap ) emission . </S>",
+    "<S> uncertainties with the radio - derived distance and x - ray instrumentation sensitivities complicate a definitive thermal characterisation however . a re - analysis of combined rosat / euve archival data in conjunction with integrated & phase - resolved optical photometry is shown to constrain this characterisation .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

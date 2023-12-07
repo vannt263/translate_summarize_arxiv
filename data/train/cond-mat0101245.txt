@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "we would like to thank epsrc ( uk ) for financial support , pg for research studentship 97304251 and ds for research grant gr / m04426 .",
+    "additionally , we thank hidetoshi nishimori and jos fernando fontanari for useful discussions ."
+  ],
+  "abstract_text": [
+    "<S> we demonstrate that the analytic calculation of the 1rsb break point parameter in a paper by de oliveira and fontanari@xcite is erroneous , due to the omission of a higher order term in a lengthy perturbative calculation , and provide a refinement of the accompanying numerical results .    in 1999 </S>",
+    "<S> , de oliveira and fontanari ( of ) studied the one - step replica symmetry breaking ( 1rsb ) of a glass of ising spins with a quenched random @xmath0-spin interaction of infinite range in a field@xcite . </S>",
+    "<S> the hamiltonian is given by @xmath1 where the @xmath2 are independent gaussian variables with zero mean and variance @xmath3 . </S>",
+    "<S> they found that for fields @xmath4 less than a critical value @xmath5 the transition was discontinuous ( d1rsb ) , while for @xmath6 it is continuous ( c1rsb ) . in  </S>",
+    "<S> 3.1 of that paper , they give certain results on the c1rsb line , including an expression for the 1rsb break point quantity @xmath7 ( @xmath8 in their notation ) . </S>",
+    "<S> we demonstrate an error in this calculation of @xmath7 . </S>",
+    "<S> moreover , they present numerical results within the 1rsb phase which are ( for reasons we shall explain below ) inaccurate near the c1rsb line . </S>",
+    "<S> we present a discussion and refined results .    </S>",
+    "<S> the self - consistent equation for the rs phase is@xcite @xmath9 where @xmath10 this solution becomes unstable against small replica symmetry breaking fluctuations on the almeida  thouless line , given by@xcite @xmath11 where @xmath12    the self - consistent equations for the 1rsb phase are@xcite    [ scrsb ] @xmath13    where @xmath14 the c1rsb line is defined by @xmath15 . in this case , @xmath16 does not depend on @xmath17 , and the integrals over this variable are trivial . </S>",
+    "<S> we observe that and reduce to the same equation , namely : on this line , the solution coincides with the rs , as we would expect . </S>",
+    "<S> we obtain a second piece of information by subtracting these equations and performing a series expansion in the quantity @xmath18 : and both become @xmath19 and the difference @xmath20 becomes @xmath21 so is also satisfied on the c1rsb line , that is the transition coincides with the onset of instability in the rs solution , again as we would expect .    on the c1rsb line , </S>",
+    "<S> is trivially solved . </S>",
+    "<S> we obtain further information by a series expansion . to first order we get @xmath22 </S>",
+    "<S> this simply tells us that holds , which we already knew . </S>",
+    "<S> we therefore eliminate this first order term by subtracting multiplied by @xmath23 from to obtain a new equation . to second order </S>",
+    "<S> we get , rearranging slightly , @xmath24 + [ 1-ks(4 ) ] \\right ) \\epsilon^2 + o(\\epsilon)^3 = 0.\\end{gathered}\\ ] ] this tells us that holds , which again we already knew . </S>",
+    "<S> we therefore eliminate these second order terms by subtracting multiplied by @xmath25 and @xmath26 $ ] multiplied by @xmath27 to obtain another new equation . to third order </S>",
+    "<S> we get @xmath28 \\epsilon^3 + o(\\epsilon)^4 = 0\\end{gathered}\\ ] ] where @xmath29 we solve this to obtain an expression for @xmath7 near the c1rsb line : @xmath30 s(4 ) } { 2kq s(6 ) } + o(\\epsilon)\\end{aligned}\\ ] ] where we have used and to simplify our expression . </S>",
+    "<S> this differs from ( 36 ) and surrounding equations of of . </S>",
+    "<S> we note that if one erroneously neglects the @xmath31 terms of when subtracting that equation multiplied by @xmath32 in the above process ( using only the leading order equation instead ) one obtains an incorrect form of the @xmath33 equation which gives exactly the form of of .    </S>",
+    "<S> since we have shown the analytic expression of of for @xmath7 near the c1rsb line to be incorrect , we must question the accuracy of their numerical solutions of the 1rsb equations in that region , as the latter appeared to corroborate the former . </S>",
+    "<S> the determination of @xmath7 is indeed rather delicate , as the @xmath7-dependence of these equations is very weak , for reasons that are clear from the above analysis : it appears in a term @xmath34 smaller than the leading order , and close to c1rsb , @xmath35 by definition .    </S>",
+    "<S> we adopt an approach designed to avoid this problem . rather than solving the equations as given , we choose a judicious linear combination which does not possess the same flatness . </S>",
+    "<S> we know from above that subtracting multiplied by @xmath36 from eliminates the leading order of the latter , leaving an equation where the @xmath7-dependence is suppressed only by a factor @xmath37 ; and that further subtracting multiplied by @xmath38 and @xmath26 $ ] multiplied by @xmath39 eliminates the next order , leaving an equation whose leading order is linear in @xmath7 . </S>",
+    "<S> we find it most efficient to use the second of these very close to c1rsb ( where the problem is worst ) and the first elsewhere . </S>",
+    "<S> we use a modified form of newton  raphson to find the roots , and do the numerical integration using gauss  </S>",
+    "<S> hermite quadrature .    </S>",
+    "<S> the figure shows the solution at @xmath40 and @xmath41 as a function of temperature . </S>",
+    "<S> this is equivalent to the solid line in figure 3 of of . </S>",
+    "<S> the main line shows the numerical solution for @xmath7 . </S>",
+    "<S> the two diamonds show the predictions for @xmath7 on the c1rsb line , the lower using and the upper using the equivalent expression of of . </S>",
+    "<S> the inset shows an enlargement of the region around the transition , with rectangles for the numerical predictions for @xmath7 and a diamond for our perturbative result . </S>"
+  ]
+}

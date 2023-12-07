@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "dark mass dominates the mass of galaxies ( e.g. , rubin et al 1985 ; kent 1987 ; forbes 1992 ; persic et al 1996 ) . on the other hand ,",
+    "the total mass of galaxies is approximately proportional to the luminous mass ( burstein et al 1997 ) .",
+    "this indicates that the dark mass follows the luminous mass in a large scale .",
+    "a question may arise , whether the dark mass in individual galaxies locally follows the luminosity mass , or they are decoupled from each other .",
+    "this may be answered by mapping the dark mass in individual galaxies .",
+    "we have shown that the co molecular line is useful to derive accurate rotation curves , because of its high concentration in the center as well as for its negligible extinction ( sofue 1996 , sofue et al 1997 , 1998 , 1999 ) .",
+    "recent high - dynamic - range ccd spectroscopy in optical lines has also made it possible to obtain high accuracy rotation curves ( rubin et al 1997 ; sofue et al 1998 ) . in this paper , we discuss the general properties of high - accuracy rotation curves , and use them to derive distributions of surface mass density , mass - to - luminosity ratio , and the dark mass fraction . based on these , we discuss the correlation of dark and luminous mass in galaxies .",
+    "in fig . 1 we show well - sampled rotation curves obtained by combining co , ccd h@xmath0 , and hi observations .",
+    "we may summarize the universal properties of rotation curves as follows .",
+    "( 1)massive galaxies show very steep rise of rotation in the central region .",
+    "the rotation velocity often starts from a finite value at the center . however , small - mass galaxies tend to show gentler rise .",
+    "\\(2 ) steep central peaks and/or shoulders corresponding to bulges ;    \\(3 ) broad maximum in the disk ; and    \\(4 ) flat rotation toward the edge .    fig . 1 . high - accuracy rotation curves of sb , sc , sbb and sbc galaxies .",
+    "2 . surface - mass density profile for sb and sc galaxies ( takamiya and sofue 1999 ) .",
+    "we have developed a method to derive a differential surface mass density as a function of radius in order to compare the mass distribution with observed profiles of the surface luminosity , once an accurate rotation curve of a galaxy is given ( takamiya and sofue 1999 ) .",
+    "we assume that the true mass distribution in a real disk galaxy will be sandwiched by calculated spherical and flat - disk distributions .",
+    "the obtained smd profiles are shown in fig .",
+    "2 . sb and sc galaxies show similar surface - mass distributions . in the disk region at radii 3 to 10 kpc the smd decreases exponentially outward . in the bulge region , some galaxies show steep increase of smd toward the center , indicating high density cores .",
+    "the lmc shows a similar mass distribution as inferred from an analysis of the hi line data obtained by kim et al ( 1998 ) ( sofue 1999 ) .",
+    "3 . dynamical mass and luminosity profiles ( upper panel ) , and dark and luminous masses ( lower panel ) for ngc 6946 ( takamiya and sofue 1999 ) .",
+    "the surface mass density can be directly compared with observed surface luminosity , from which we can derive the mass - to - luminosity ratio ( m / l ) . by subtracting the luminous mass we can , then , derive the distribution of dark mass .",
+    "3 shows a typical case for ngc 6946 , which was found to be rather general for many other galaxies . the general correlation between luminous mass and dark mass",
+    "can be summarized as follows .",
+    "\\(1 ) luminous mass ( stars ) in disk and bulge approximately follows the dark mass , and vice versa .",
+    "\\(2 ) the dark mass fraction increases with the radius in the outer disk .",
+    "\\(3 ) the total dark mass and total luminosity of galaxies are correlated as a whole .",
+    "\\(3 ) however , luminous matter in the halo ( e.g. , beyond @xmath1 disk scale radii ) does not follow dark mass",
+    ".    -3 cm 5.5 cm    fig .",
+    "m / l ratio ( left panel : takamiya and sofue 1999 ) and dark - mass fraction for sb and sc galaxies",
+    "radial variations of the m / l and dark - mass fraction are shown in fig .",
+    "4 as normalized at @xmath2 kpc ( takamiya and sofue 1999 ) .",
+    "we have defined a quantity dmf by @xmath3 with @xmath4 a constant and m / l being normalized at @xmath2 kpc .",
+    "although the dark mass and luminosity are correlated in the disk and bulge in general , the detailed distribution of m / l and dmf indicates that they are not constant , but vary significantly within a galaxy .",
+    "m / l and dmf behavior in spiral galaxies may be summarized as follows ."
+  ],
+  "abstract_text": [
+    "<S> using high - accuracy rotation curves of spiral galaxies , we derive distributions of the surface mass density . comparing with the luminosity profiles , </S>",
+    "<S> we show that the dark mass in disk and bulge distributions follows those of luminous ( stellar ) mass , while luminous mass in halos does not follow dark mass . </S>",
+    "<S> the dark - mass fraction ( dmf ) increases with the radius in the disk , and rapidly toward edge in the halo . in some galaxies , </S>",
+    "<S> dmf increases toward the center , indicating a massive dark core .    </S>"
+  ]
+}

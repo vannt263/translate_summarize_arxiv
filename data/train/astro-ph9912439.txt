@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "our main scientific goal is to derive sn rates as a function of various parameters such as host galaxy type and cluster environment : position within the cluster , cluster richness and cluster vs. field .",
+    "sn rates can then be used to determine the current and past star formation rates in galaxy clusters @xcite .",
+    "our measured sn rates can replace the assumed rates used so far in studies of metal abundances in the intracluster gas .",
+    "we also intend to study the rate , distribution and properties of intergalactic sne in galaxy clusters .",
+    "we have already discovered one candidate , sn 1998fc ( see fig .",
+    "1 ) . + our search is also sensitive to other optical transients , such as agns in the clusters and behind them , flares from tidal disruption of stars by dormant massive black holes in galactic nuclei and grb afterglows .",
+    "we may also detect the gravitational lensing effect of the clusters on background sne .",
+    "the existence of a diffuse population of intergalactic stars is supported by a growing body of observational evidence such as intergalactic planetary nebulae in the fornax and virgo clusters @xcite , and intergalactic red giant stars in virgo @xcite .",
+    "recent imaging of the coma cluster reveals low surface brightness emission from a diffuse population of stars @xcite , the origin of which is attributed to galaxy disruption @xcite .",
+    "since type ia sne are known to occur in all environments , there is no obvious reason to assume that such events do not happen within the intergalactic stellar population .",
+    "sn 1998fc may well be such an event .",
+    "the intergalactic stellar population is centrally distributed @xcite .",
+    "therefore , metals produced by intergalactic ia sne can provide an elegant explanation for the central enhancement of metal abundances with type ia characteristics , recently detected in galaxy clusters @xcite .",
+    "99 freeman , k. c. et al . 1999 ,",
+    "astro - ph/9910057 , and references therein , theuns , t. , & warren , s.j .",
+    "1996 , mnras , 284 , l11 dubinski , j. , mihos , j.c . & hernquist , l. , 1996 , apj , 462 , 576 , and also moore , b. , et al .",
+    "1996 , nature , 379 , 61 dubinski , j. , 1999 , astro - ph/9902331 dupke , r.a . & white , r.e.iii , 1999 , apj , submitted , astro - ph/9902112 ferguson , h.c . , tanvir , n.r .",
+    ", & von hippel , t. 1998 , nature , 391 , 461 gal - yam , a. & maoz , d. , 1999 , iauc 7093 gregg , m.d . &",
+    "west , m.j . , 1998 ,",
+    "nature , 396 , 549 madau , p. , dellavalle , m. , & panagia , n. 1998 , mnras , 297 , l17"
+  ],
+  "abstract_text": [
+    "<S> supernovae ( sne ) play a critical role in the metal enrichment of the intra - cluster medium ( icm ) in galaxy clusters . </S>",
+    "<S> not only are sne the main source for metals , but they may also supply the energy to eject enriched gas from galaxies by winds . </S>",
+    "<S> however , measurements of sn rates in galaxy clusters have not been published to date . </S>",
+    "<S> we have initiated a program to find sne in 163 medium - redshift ( @xmath0 ) abell clusters , using the wise observatory 1 m telescope . our program has already discovered 11 spectroscopically confirmed sne at @xmath1 and several unconfirmed sne . </S>",
+    "<S> we present the main scientific goals of this project , and discuss a novel explanation for the centrally enhanced metal abundances indicated by x - ray observations of galaxy clusters , based on the contribution of intergalactic sne . </S>"
+  ]
+}

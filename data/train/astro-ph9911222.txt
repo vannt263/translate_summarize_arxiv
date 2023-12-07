@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "from 1994 to 1995 , during the time of the gregorian dome upgrade at the arecibo observatory , while the telescope had limited steerability due to construction , a joint effort by several collaborations was aimed at surveying the sky visible from arecibo ( declination range roughly -1@xmath0 to 39@xmath0 ) in search of new pulsars .",
+    "a total of 44 pulsars including 5 msps have been discovered so far by the other institutions ( foster et al .",
+    "1995 , camilo et al .",
+    "1996 , ray et al .",
+    "our search has an estimated sensitivity of 0.9 mjy at 7@xmath1 for long period , low dm , low zenith angle , high galactic latitude pulsars which is comparable to previous searches . in december 1997",
+    "we confirmed the presence of 3 new pulsars : j0030 + 0451 ( 4.8ms ) , j0711 + 09 ( 2.4s ) , and j1313 + 09 ( 0.85s ) at the arecibo observatory using the arecibo berkeley pulsar processor and the penn state pulsar machine ( backer et al .",
+    "1997 , foster et al .",
+    "follow up observations of the 3 new pulsars were conducted over a period of nearly 2 years from december 1997 through september 1999 at the arecibo observatory .    2 in",
+    "the data were cross correlated with a template , and the resulting toas analyzed using the tempo program ( taylor & weisberg 1989 ) .",
+    "table 1 provides spin , astrometric and other parameters for each of the 3 new pulsars .",
+    "right ascension ( 2000 ) & 00 30 27.4339(6 ) & 07 11 36.74(2.00 ) & 13 13 26.5(2.0 ) + declination ( 2000 ) & 04 51 39.65(2 ) & 09 31 40(30 ) & 09 33 31(30 ) + galactic longitude & 113.1@xmath0 & 206.7@xmath0 & 320.4@xmath0 + galactic latitude & -57.6@xmath0 & 8.8@xmath0 & 71.7@xmath0 + period(s ) & 0.00486545320737(1 ) & 1.21409045(4 ) & 0.84893276(7 ) + @xmath2 @xmath3 s s@xmath4 & 1.0(2)@xmath5 & 0.246(300 ) & 1.947(2000 ) + epoch ( mjd ) & 50984.4 & 50699.5 & 50984.5 + dispersion measure & & & + ( pc @xmath6 ) & 4.3326(1 ) & 46.15(200 ) & 12.0(1 ) + timing data span ( mjd ) & 50789 - 51277 & 50789 - 51104 & 50788 - 51080 + rms timing residual @xmath7s ) & 13 & 4500 & 1400 + flux @xmath8 ( mjy ) & 7.9(1 ) & 2.4(1 ) & 3.5(1 ) + flux @xmath9 ( mjy ) & 0.6(1 ) & @xmath10 0.04(1 ) & @xmath10 0.16(1 ) + dm distance ( pc ) & 230 & 2450 & 780 + @xmath11 mjy kpc@xmath12 & 0.4 & 14 & 2.1 + spectral index & @xmath13 & @xmath14 & @xmath15 + characteristic age ( y ) & @xmath16 & @xmath17 & @xmath18 + magnetic field ( g ) & @xmath19 & @xmath20 & @xmath21 + proper motion upper & & & + limit ( arcsec / yr ) & .060 & ( none ) & ( none ) +",
+    "a pulsar displaying an interpulse like psr j0030 + 0451 has two distinct possible geometries : nearly aligned , with the interpulse resulting from the second crossing of a wide - angle hollow  cone \" of radiation , or orthogonal , with the two emission regions coming from opposite poles .",
+    "we performed a dual frequency morphological study of the intensity profile to look for clues to the geometry of the system .",
+    "figure 1 depicts the gaussian decomposition of the profile at each frequency , with the corresponding gaussian parameters shown in table 2 ( kramer et al .",
+    "1994 , kramer 1994 ) .",
+    "conal emission is suggested by the narrowness of the 1400 mhz model compared to the 430 mhz data ( panel b overlays the two ) .",
+    "in addition , the amplitudes of the gaussian components suggest that possibly all but component 2 are steep spectral index peaks , which may indicate that component 2 is a core component , and the rest are cone components .",
+    "the polarization data do not settle the question of whether the geometry is orthogonal or nearly aligned .",
+    "figure 2 shows an example of each .",
+    "center ( deg ) & 78.74 & 88.13 & 95.88 & 107.85 & 253.106 & 271.45 + width ( deg ) & 15.96 & 3.854 & 5.183 & 7.012 & 32.77 & 12.23 + amplitude ( 430 mhz ) & 1.95 & 1.00 & 2.34 & 2.61 & 0.771 & 1.26 + amplitude ( 1400 mhz ) & 1.15 & 1.00 & 1.25 & 1.67 & 0.473 & 0.442 +    of the 36 known msps in the disk of the galaxy , psr j0030 + 0451 is the 9th solitary msp , i.e. , it is not in a binary system .",
+    "these objects present a unique problem in the standard evolutionary scenario of msps . if the neutron star is spun up via accretion by a mass transfer from a companion star , the companion must somehow be obliterated .",
+    "i d like to thank the loc for their financial support and for a wonderful conference ! many thanks to michael kramer for timing observations from the mpifr 100-m telescope and for the use of his gaussian fitting program , alex wolszczan for use of the penn state pulsar processor , and kiriaki xilouris and duncan lorimer for extensive assistance in observations ."
+  ],
+  "abstract_text": [
+    "<S> we report the discovery of 3 pulsars , psr j0030 + 0451 , psr j0711 + 09 , and psr j1313 + 09 that were found in a three dimensional ( dm , period , position ) search at 430 mhz using the 305 m arecibo telescope . </S>",
+    "<S> psr j0030 + 0451 is a nearby 4.8-millisecond solitary pulsar . </S>",
+    "<S> spin and astrometric parameters are presented for the three new pulsars . </S>",
+    "<S> we have measured significant polarization in the millisecond pulsar , psr j0030 + 0451 , over more than 50% of the period and use these data and also a morphological decomposition of the profile to briefly discuss magnetospheric models . </S>"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the spin - down of sgr 1900 + 14 from 1966 september to 1999 april ( figure 1 ) is characterized by three intervals of time for which the spin - down rate was essentially constant within the interval .",
+    "this characterization of the sgr 1900 + 14 spin - down is based upon either direct measurements of @xmath4 as part of the period determination , or upon differences in measured spin periods between two different observations .",
+    "the first interval begins with the rxte observation in september of 1996 and ends with the asca observation at the beginning of may , 1998 .",
+    "the mean spin - down @xmath5 6@xmath110@xmath6 s / s ( marsden , rothschild and lingenfelter 1999a ; hurley et al .",
+    "1999 ; woods et al .",
+    "the second interval begins with the onset of bursting on may 26 , 1998 and continues until mid - september 1998 .",
+    "the mean spin - down during this time @xmath513@xmath110@xmath6 s / s ( kouveliotou et al .",
+    "1999 ; marsden , rothschild and lingenfelter 1999a ; murakami et al . 1999 ) .",
+    "the third interval begins in mid - september 1998 and continues at least until march 30 , 1999 .",
+    "the mean spin - down at that time @xmath5 6@xmath110@xmath6 s / s ( woods et al .",
+    "1999b ) .",
+    "woods et al ( 1999b ) have suggested that the data may be consistent with a discontinuous spin - down event during the second interval as a result of the superburst , as opposed to a doubling of @xmath4 during the entire second interval ( marsden , rothschild and lingenfelter 1999a ) .",
+    "this appears to be at odds with the measurement of @xmath4=(11.0@xmath71.7)@xmath110@xmath6 s / s in early june , 1998 ( kouveliotou et al .",
+    "1999 ) , approximately 3 months before the superburst and with the rxte / asca determination of @xmath5 10@xmath110@xmath6 s / s just after the event ( murakami et al .",
+    "assuming that the spin - down torque is given by @xmath8 , the age of a pulsar with period @xmath9 and spin - down @xmath4 is given by    @xmath10 $ ]    where the spin - down braking index , @xmath11 = 3 for pure magnetic dipole radiation and @xmath12 1 for wind torques . inverting the age equation yields    @xmath13 .    using parameters appropriate for sgr 1900 + 14 , we find that    @xmath14yr ) .",
+    "this indicates that the braking index for sgr 1900 + 14 must be @xmath01 , and that the spin - down of sgr 1900 + 14 is dominated by torques due to the relativistic wind and not magnetic dipole radiation .",
+    "in reality , there will be more than one torque spinning down the pulsar at any given time . the torque provided by the emission of a relativistic wind is ( thompson et al .",
+    "1999 ) :    @xmath15    where @xmath16 is the neutron star moment of inertia , @xmath17 is the luminosity of the wind , @xmath18 is the spin frequency , @xmath19 is the spin - down rate due to the wind , and @xmath20 is the alfven radius .",
+    "@xmath21 is a constant equal to 2/3 for a magnetic dipole field aligned with the rotation axis .",
+    "the alfven radius is given by :    @xmath22    where @xmath23 is the magnetic field of the neutron star . when the alfven radius is inside the light cylinder radius ( @xmath24 , where @xmath25 ) ,    @xmath26    where @xmath27 is the radius of the neutron star and dipole geometry is assumed .",
+    "when the alfven is outside the light cylinder radius , the torque is limited to    @xmath28    the transition frequency between these two wind spin - down regimes is     @xmath29 radians / s .",
+    "the torque due to a rotating magnetic dipole is ( shapiro & teukolsky 1983 ) :    @xmath30    where k = 1 ( harding , contopoulos , & kazanas 1999 ) .",
+    "once the total spin - down torque is specified as a function of @xmath31 , the age of the sgr can found by the integral of @xmath32 over the total torque divided by @xmath16 , where the integration is performed from an initial frequency to the present - day angular frequency .",
+    "using the above model we explore a wide range of magnetic fields @xmath23 and wind luminosity @xmath17 , shown in fig .",
+    "we see that the presently observed period of @xmath9 = 5.157 s , the spindown rate of @xmath33 s / s ( dotted lines ) of sgr 1900 + 14 , and the 10 to 20 kyr range of ages ( solid lines ) of its associated supernova remnant g42.8 + 0.6 ( vaisht et al .",
+    "1994 ) , tightly constrain the allowable magnetic field to @xmath34 g and wind luminosities @xmath35 erg / s .",
+    "compared to the quiescent 2 - 10 kev x - ray luminosity of @xmath36 erg / s ( murakami et al .",
+    "1999 ) , this wind luminosity implies a @xmath3 2 % conversion efficiency of wind energy to x - rays in that band which is quite consistent with theoretical calculations ( tavani 1994 , harding 1995 ; harding , contopoulos & kazanas 1999 ) .",
+    "the magnetic field limits are also quite consistent with the limiting values inferred for radio pulsars , but not with those expected for magnetars .",
+    "very similar limits are set by comparable analyses ( harding , contopoulos , & kazanas 1999 ; marsden , rothschild & lingenfelter 1999b ) of sgr 1806 - 20 and its supernova remnant g10.0 - 0.3 ."
+  ],
+  "abstract_text": [
+    "<S> we measured the period and spin - down rate for sgr 1900 + 14 during the quiescient period two years before the recent interval of renewed burst activity . </S>",
+    "<S> we have shown that the spin - down age of sgr 1900 + 14 is consistent with a braking index of @xmath01 which is appropriate for wind torques and not magnetic dipole radiation . </S>",
+    "<S> we have shown that a combination of dipole radiation , and wind luminosity , coupled with estimated ages and present spin parameters , imply that the magnetic field for sgr 1900 + 14 is less than 6@xmath110@xmath2 g and that the efficiency for conversion of wind luminosity to x - ray luminosity is @xmath32% . </S>"
+  ]
+}

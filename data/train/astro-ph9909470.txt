@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "we have computed extensive agb evolutionary sequences for heavy - element abundances z = 0.01716 ( solar ) and 0.002 in order to study a radiation - pressure instability for ejecting a pn during a helium - shell flash .",
+    "the existence of such an instability was previously confirmed by wood & faulkner ( 1986 ) but only for more massive agb stars with large core masses ( @xmath2 ) .",
+    "in contrast , we find this instability at core masses as small as @xmath3 due , in part , to our use of the new opal opacities ( rogers & iglesias 1992 ) .",
+    "results for a typical sequence are presented in the left panels of figure 1 .",
+    "the strong flashes in this sequence cause the hydrogen shell to expand outward to very low temperatures and densities .",
+    "this , in turn , lowers the gas pressure and hence the minimum value @xmath4 of the ratio @xmath5 of gas to total pressure near the base of the hydrogen envelope .",
+    "most importantly , we note from figure 1 that @xmath4 decreases monotonically from flash to flash and eventually goes to 0 , implying that the entire envelope is then supported by radiation pressure .    during the final flashes in figure 1 the temperature within the hydrogen shell falls to log @xmath6 = 5.3",
+    "at which there is a well - known peak in the opal opacities .",
+    "when the shell reaches this peak , its opacity suddenly increases , and , as a result , its eddington luminosity abruptly drops .",
+    "this occurs at a time when the outward flux within the shell is considerably enhanced by the flash .",
+    "as the shell continues to cool , its opacity increases further , thereby forcing an even greater expansion and driving @xmath5 down to even smaller values .",
+    "the star thus encounters an `` opacity catastrophe '' whose likely outcome is envelope ejection .",
+    "the present sequences show that there is a critical @xmath0 at which radiation pressure will support the hydrogen envelope during a flash ( see right panel of figure 1 ) . this critical @xmath0 increases linearly with @xmath1 and decreases with decreasing metallicity , since the peak in the opal opacities is then smaller",
+    ". the critical values of @xmath0 in figure 1 represent the minimum envelope mass at        the minimum in @xmath5 during a flash occurs at the time when 3rd dredge - up is most likely .",
+    "we suggest that such dredge - up might trigger pn ejection by increasing the opacity and thereby lowering the eddington luminosity at the base of the envelope , especially at low metallicites where dredge - up is favored by current theoretical models .",
+    "this might explain why the majority of halo pn s and most non - type i pn s in the magellanic clouds are carbon rich .",
+    "it might also explain why the pn k648 in m15 has a high carbon abundance despite the lack of agb carbon stars in this globular cluster .",
+    "we suggest therefore that the high carbon abundance of k648 was the cause of its pn ejection ."
+  ],
+  "abstract_text": [
+    "<S> we have investigated the possibility that radiation pressure might trigger planetary nebula ( pn ) ejection during helium - shell flashes in asymptotic - giant - branch ( agb ) stars . </S>",
+    "<S> we find that the outward flux at the base of the hydrogen envelope during a flash will reach the eddington limit when the envelope mass @xmath0 falls below a critical value that depends on the core mass @xmath1 and composition . </S>",
+    "<S> these results may help to explain the helium - burning pn nuclei found in the magellanic clouds . </S>"
+  ]
+}
