@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "recent speculation over bcs type - instabilities in the fermi surface at high density @xcite@xcite has led to resurgence of interest in two colour qcd .",
+    "lattice models with pseudoreal representations are attractive candidates for simulation at finite density since for such theories the dirac matrix is positive definite , which permits the use of existing monte carlo techniques at @xmath3 . for su(3 ) at finite density the lattice action is otherwise complex @xcite , and so the probabilistic importance sampling step of such methods is therefore undefined .",
+    "reweighting methods have proved a useful means of addressing this issue , where the @xmath0 dependence of the grand canonical partition function @xmath4 can be made semi - analytic in a fugacity expansion , as with the glasgow method @xcite .",
+    "the complex action issue is thus avoided , by generating a lattice ensemble in an accessible regime of the parameter space ( eg .",
+    "@xmath5 for su(3 ) ) .",
+    "naively , one might anticipate that the specific lattice ensemble used in the reweighting has little impact on numerical evaluations of the expansion .",
+    "in fact quite the reverse is true . for the su(3 )",
+    "model with dynamical quarks , even at intermediate coupling where one might expect thermal fluctuations to enhance the frequency of sampling physically relevant states , an ensemble generated at @xmath6 reproduces a similar phase structure to the quenched model @xcite@xcite .",
+    "this has severe consequences since quenched finite density qcd is understood to be the zero flavor limit ( @xmath7 ) of a theory with equal numbers of quarks and conjugate quarks .",
+    "the lowest lying baryonic state in the model is thus the unphysical `` baryonic pion '' , formed from quark - conjugate quark pairs rather than the lightest three quark state @xcite@xcite .",
+    "however , this is of no consequence in two colour qcd @xcite as the baryonic pion and baryon propagators are equivalent at @xmath3 .",
+    "pseudoreal models are not entirely free from the effects of the reweighting overlap pathologies , however .",
+    "models with quarks in the adjoint representation ( with @xmath8 odd ) suffer from the related reweighting pathology : the sign problem . since @xmath9 is always real for two colour qcd , although reweighting is no longer mandatory it provides a useful opportunity to investigate the overlap issue ( where the correct physics may be more easily extracted from lattice measurements by conventional means ) , and to quantify the signatures of the sampling numerical discrepancies therein .",
+    "the @xmath10flavor symmetry of su(2 ) qcd given by quarks in their fundamental representation @xmath11 , is @xmath12 rather than @xmath13 as might be anticipated , as is demonstrated by a change of basis in the free field langrangian .",
+    "@xmath14 @xmath15 where @xmath16 is a @xmath11 doublet .",
+    "the inclusion of explicit symmetry breaking terms in @xmath17 and @xmath0 can be shown similarly to lead to the symmetry breaking patterns tabulated above @xcite@xcite . @xmath18    .global @xmath10flavor symmetries of the two colour qcd action , in the continuum and with staggered quarks for @xmath19 . [ cols=\"^,^,^ \" , ]",
+    "despite expectations , generating an ensemble for the reweighting method with a value of @xmath20 arbitrarily close to @xmath21 still leads to an overlap problem in a model with a pseudoreal representation evaluated at @xmath22 .",
+    "in fact , for an exploratory study ( in which @xmath21 is unknown ) , the fugacity expansion coefficients are more effectively sampled through the combination of terms from a covering series of ensembles .",
+    "even with the real monte carlo measure of two colour qcd the overlap problem is still pathological for the glasgow reweighting method . with new multi - parameter ( @xmath23 , @xmath0 ) reweighting approaches to su(3 )",
+    "@xcite we would therefore expect there to be similar sampling bias in the coefficients across the full fugacity expansion . in order to successfully investigate the possibility of there being similar tricritical behavior in the @xmath24 phase plane of su(3 ) @xcite with the glasgow method ,",
+    "this issue of effective sampling across the full range of the polynomial this overlap problem should then be addressed . as we have , seen substantially different transition points",
+    "are determined from reweighting measurements at intermediate coupling from ensembles generated with @xmath20 arbitrarily close to @xmath21 .",
+    "lee yang zero analysis allows the simple identification of a first order transitions in @xmath0 with lattice measurements on comparatively small volumes . to extend the rigor of this approach and determine the critical exponents of the transition at @xmath21 , however , it will be necessary to increase the lattice size as the zeros scaling at @xmath25 is not without finite volume effects",
+    "it will also be interesting to repeat this volume scaling analysis for @xmath26 and to compare the measured critical exponents for the diquark phase transition with those predicted with the chiral langragian approach @xcite , believed to be second order .",
+    "+ thanks to m. alford for useful discussions ."
+  ],
+  "abstract_text": [
+    "<S> the glasgow reweighting method is evaluated for su(2 ) lattice gauge theory at nonzero @xmath0 and finite @xmath1 . </S>",
+    "<S> we establish that the overlap problem of su(3 ) measurements , in which the transition points determined from thermodynamic observables have an unphysical dependence on the value of @xmath0 used to generate ensembles for reweighting , persists for su(2 ) . by combining the information from different lattice ensembles we alleviate sampling bias in the fugacity expansion , and identify the lee yang zeros associated with the transition to a high density phase that can plausibly be associated with diquark condensation . </S>",
+    "<S> we also confirm the existence of a line of first order transitions above a critical point in the @xmath2 phase plane previously predicted by effective chiral lagrangian calculations . </S>"
+  ]
+}

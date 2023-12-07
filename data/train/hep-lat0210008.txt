@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "nucleon decay is one of the most important aspect that any ( susy ) gut model has . in low - energy effective theories",
+    "it is represented by dimension six operators made of one lepton field and three quark fields . in the decay of @xmath0 , for example , we need to calculate hadronic matrix element of the three quark operator @xmath1 with initial proton and final pion states , where @xmath2 is the charge conjugation matrix .",
+    "@xmath3 represents the right or left projection matrix , respectively .",
+    "lattice calculation of the nucleon decay matrix elements historically started with the indirect calculation @xcite .",
+    "first , one estimates the overlap of the operator to the proton state , @xmath4 and @xmath5 , @xmath6 with @xmath7 being the proton spinor .",
+    "then , with the help of chiral perturbation theory , one can calculate the nucleon decay matrix elements .",
+    "the first attempt to calculate the nucleon decay matrix element directly handling the three point function is done by gavela et .",
+    "al @xcite , showing significant deviation from the indirect calculations .",
+    "recently jlqcd @xcite pointed out the incompleteness of the calculation @xcite .",
+    "the matrix element has a tensor structure , @xmath8 u_p,\\ ] ] where @xmath9 .",
+    "the relevant form factor @xmath10 is what we need since the term proportional to @xmath11 vanishes after multiplying the lepton spinor .",
+    "@xmath12 is called the irrelevant form factor .",
+    "jlqcd uses quenched wilson gauge configurations and wilson fermion at parameters summarized in table  [ tab : param ] ( c ) .",
+    "the three quark operators are renormalized with one - loop perturbation theory .",
+    "now the difference of direct and indirect calculations is not huge , but , still @xmath13 to @xmath14 for most cases .    in this study",
+    "we try to calculate nucleon decay matrix elements with domain - wall fermions in the quenched approximation .",
+    "using dbw2 gauge action makes chiral symmetry breaking especially small compared to the other actions @xcite . with this good chiral symmetry one",
+    "expects the good property to calculate hadronic matrix elements : 1 ) preventing operator mixing with different chiral structure , and 2 ) good scaling , even down to @xmath15 gev region @xcite .",
+    "we restrict ourselves to the case of degenerate quark mass in the meson . in this case",
+    ", one can calculate @xmath16 and @xmath17 decay amplitudes .",
+    "the latter is obtained by multiplying the former by @xmath18 under the exact su(2 ) symmetry of @xmath19 and @xmath20 quarks .",
+    "[ cols=\"^,^,^,^,^,^,^,^,^,^,^\",options=\"header \" , ]     in table [ tab : amp ] we list the result of @xmath4 and @xmath5 of ours and by jlqcd .",
+    "the operators are renormalized at @xmath21 with @xmath22 for both results .",
+    "renormalization factor with @xmath23 is employed for our calculation .",
+    "our values of @xmath4 and @xmath5 in [ @xmath24 obtained by setting the scale with the @xmath25 mass input , are quite different from those with wilson fermion by jlqcd .",
+    "the origin of the discrepancy could be , 1 ) discretization error , 2 ) systematic error of the mf perturbation , 3 ) difference of the renormalization scale .",
+    "2 ) is about 30% for dwf , 3 ) is almost negligible .",
+    "1 ) is expected to be most severe as it is seen in the difference of the scale from @xmath25 mass for wilson and dwf with wilson gauge background at same @xmath26 ( see ( c ) and ( d ) in table [ tab : param ] ) . indeed , if we set the scale from different quantity @xmath27 , which eliminates order @xmath28 error in the scale for wilson fermion , the values are consistent .",
+    "we calculated proton decay matrix elements with dbw2 gauge action and dwf .",
+    "we did not find a significant difference in values obtained by direct and indirect methods within our current numerical precision .",
+    "further simulation with non - degenerate quark masses will reduce the error of direct calculation and make the extraction of nucleon to kaon decay amplitudes possible . within the current systematic error of the perturbation theory",
+    "the chiral lagrangian parameters for the nucleon decay calculated with dwf are consistent with those obtained with wilson fermion by jlqcd if the scale is set by @xmath27 .",
+    "more stringent comparison will be done for those values after non - perturbative renormalization is performed ."
+  ],
+  "abstract_text": [
+    "<S> we report on the nucleon decay matrix elements with domain - wall fermions in quenched approximation . </S>",
+    "<S> results from direct and indirect method are compared with a focus on the process of a proton decaying to a pion and a lepton . </S>",
+    "<S> we discuss the renormalization necessary for the matching to the continuum theory . </S>",
+    "<S> preliminary results for the renormalized chiral lagrangian parameters are presented . </S>"
+  ]
+}

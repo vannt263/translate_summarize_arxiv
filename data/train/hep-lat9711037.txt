@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "to study more preciesely the glueball properties , one should compute not only the spectroscopy , but also the wave functions .",
+    "once the wave functions are available , the matrix elements relevant for the glueball production and decays ( branch ratios ) become calculable . in some sence , the wave functions @xcite can give more physical information than the masses themselves . in this paper , we present a method for such a purpose .    we begin with the vacuum wave function in the form @xmath0 where @xmath1 consists of wilson loops ( clusters ) @xcite , and the state @xmath2 is defined by @xmath3 . for the glueballs ,",
+    "we consider here only the anti - symmetric ( under a plane parity transformation ) lowest lying excited state , and take the wave function as @xmath4 where @xmath5 contains various wilson loops with the appropriate symmetry .",
+    "it has been shown @xcite that we can establish a truncation scheme , which preserves the continuum limit , where the operators r and @xmath6 are expanded in order of graphs ( clusters ) : @xmath7 here @xmath8 ( or @xmath9 ) is the lowest order term in @xmath10 ( or @xmath6 ) , and is chosen to be @xmath11 ,    \\end{aligned}\\ ] ] @xmath12 .",
+    "\\end{aligned}\\ ] ] with a coefficient @xmath13 ( and @xmath14 ) to be determined .",
+    "higher order clusters can be produced by solving the eigenvalue equations @xcite for @xmath15 and @xmath16 order by order , from which we obtain @xmath17 here the repeated index j implies a summation over all the clusters up to some n - th order . in previous papers @xcite , we have shown that this method is very efficient in obtaining scaling behavior of physical quantities .",
+    "first results @xcite for the glueball masses in qcd have been obtained from this method .",
+    "in order to obtain the correlation of the states , we first investigate the continuum limit of the clusters . expanding @xmath18 ( plaquette ) , @xmath19 , and @xmath20 in order of the lattice spacing @xmath21",
+    ", we have @xmath22 then @xmath23 @xmath24 @xmath25 where @xmath26 is the field strength tensor , @xmath27 and @xmath28 are the covariant derivatives , and @xmath29 and @xmath30 or @xmath31 and @xmath32 are constants , corresponding to the cluster @xmath33 or @xmath20 respectively .",
+    "the long wave length vacuum wave function is @xcite @xmath34}\\end{aligned}\\ ] ] according to eqs .",
+    "( [ 1.7 ] ) and ( [ 2.2 ] ) , @xmath35 from which we obtain the correlation length between the field strengths of the vacuum @xmath36 @xmath37 similarly ,",
+    "the long wavelength anti - symmetric glueball operator is @xmath38 \\end{aligned}\\ ] ] and @xmath39 the correlation length in the anti - symmetric glueball state @xmath40 is @xmath41 at this point , it should be noted that the results above are very general in the sense that the spacial dimension and the gauge group of the theory are not specified .    for illustration and simplicity",
+    ", we consider here a 2 + 1 dimensional u(1 ) model .",
+    "it is well known @xcite that the theory is confining for all non - vanishing coupling constant .",
+    "when @xmath21 goes to zero , the glueball mass @xmath42 is expected to decrease exponentially as @xmath43 where @xmath44 and @xmath45 are some constants .",
+    "hence , in the scaling region @xmath46 @xmath47 @xmath48 @xmath49",
+    "@xmath50 @xmath51 in the continuum limit , @xmath52 , @xmath53 , @xmath54 , @xmath55 , @xmath56 , @xmath57 and @xmath58 should be constants , which means the curves of @xmath59 , @xmath60 , ...... against @xmath61 will be straight line with the expected slope in the scaling region .    in figs . 1 and 2 , we present the results for @xmath59 and @xmath60 against @xmath62 from the 2nd to 5th order . in fig .",
+    "3 , we also show the result for @xmath63 from the 2nd order through 4th order against @xmath61 .",
+    "all the curves show a nice exponential behavior and a clear trend towards convergence .",
+    "in particular , the slope of @xmath64 is well consistent with the spectrum . for @xmath60,@xmath63 , @xmath65 , @xmath66 and @xmath67",
+    ", we expect that when the order increases , their slopes would approach their correct theoretical values .    in conclusion ,",
+    "the method described above has proved to be very useful for calculating the vacuum and glueball wave functions and correlation lengths .",
+    "the calculations in 3 + 1 dimensional qcd is in progress and the results will be reported elsewhere",
+    ".          9 x.q .",
+    "luo , et al . , _",
+    "* c47*(1990)635 ; _ j.phys . _",
+    "* g16*(1990)1181 ; _ phys .",
+    "_ * d42 * ( 1990 ) 1293 ; _",
+    "_ * c51*(1991)423 ; _ commun . theor . phys .",
+    "_ * 16*(1991)505 ; _ phys .",
+    "_ * d46*(1992)814 ; _ phys .",
+    "_ * d50*(1994)501 ."
+  ],
+  "abstract_text": [
+    "<S> we describe a nonperturbative method for calculating the qcd vacuum and glueball wave functions , based on an eigenvalue equation approach to hamiltonian lattice gauge theory . </S>",
+    "<S> therefore , one can obtain more physical information than the conventional simulation methods . for simplicity , we take the 2 + 1 dimensional u(1 ) model as an example . </S>",
+    "<S> the generalization of this method to 3 + 1 dimensional qcd is straightforward . </S>"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "for the lattice domain - wall fermion formulation there are two independent approaches which can be used to reduce the residual chiral symmetry breaking ( @xmath0 ) for practical sizes of @xmath1 . one way is to modify the fermion part of the action and another way is to improve the gauge action used . in this paper we take the second approach by studying the dbw2 gauge action in dynamical dwf calculations and considering the effects of also adding an adjoint term to the gauge action .",
+    "the dbw2 gauge action reduces @xmath0 at finite @xmath1 in quenched dwf simulations by suppressing the topological lattice dislocations in the gauge field configurations@xcite .",
+    "these simulations@xcite find that @xmath0 is about two orders of magnitude smaller than the corresponding value for the wilson action at a given lattice scale .",
+    "here we investigate the size of that improvement for the corresponding dynamical dwf cases at zero and finite temperatures .",
+    "the form of the dbw2 action is as follows :    @xmath2@xmath3    it is a renormalization group improved action where @xmath4 is nonperturbatively computed@xcite .",
+    "we extend the study of lattice dislocation suppression by adding an adjoint term to the dbw2 gauge action for the dynamical dwf case in the hope that it will improve further @xmath0 in the strong coupling sector without affecting the long distance physics much .",
+    "as a measure of the residual chiral symmetry breaking we use the ratio@xcite :    @xmath5    table  1 contains the parameters of the dynamical zero - temperature runs and the respective values for @xmath0 .",
+    "the main feature of these results is that @xmath0 significantly increases with the gauge coupling . for the weak coupling of @xmath6",
+    ", @xmath0 is quite small and appears independent of the quark mass . for the strongest coupling from table  1 , @xmath7 ,",
+    "@xmath0 has risen to as much as one third of the input quark mass .",
+    "[ cols=\"<,<,<,<,<\",options=\"header \" , ]     =",
+    "the dbw2 action significantly suppresses lattice dislocations and reduces @xmath0 at zero temperature for dynamical dwf runs at weak couplings . for @xmath8",
+    "there is an unphysical increase in @xmath0 . for @xmath9 ,",
+    "plots of @xmath0 are likely showing a plateau at weak coupling .",
+    "the addition of an adjoint term to the dbw2 action in order to reduce further @xmath0 is still under investigation , but it shows promise for improvement ."
+  ],
+  "abstract_text": [
+    "<S> we report on studies of the chiral properties of dynamical domain wall fermions combined with the dbw2 gauge action for different gauge couplings and fermion masses . for quenched theories , </S>",
+    "<S> the dbw2 action gives a residual chiral symmetry breaking much smaller than what was found with more traditional choices for the gauge action . </S>",
+    "<S> our goal is to investigate the possibilities which this and further improvements provide for the study of qcd thermodynamics and other simulations at stronger couplings . </S>"
+  ]
+}

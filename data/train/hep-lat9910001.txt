@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the flavor singlet axial coupling of the proton is defined as @xmath4 where @xmath5 denotes the components of the proton polarization vector . in the naive parton model @xmath1",
+    "is related to the fraction of the proton spin carried by the quarks . from the measurement of the first moment of the spin dependent proton structure function , @xmath6 , in deep inelastic polarized muon proton scattering the emc experiment @xcite found a small value , @xmath7 which led to the `` proton spin crisis '' .",
+    "the result for @xmath1 indicates that the contribution to the proton spin from the quarks is small .",
+    "new experiments , including proton , neutron and deuteron data @xcite , have shifted the value up to @xmath8 which is still far away from the ellis - jaffe qcd sum - rule prediction @xcite : @xmath9 albeit a lot of theoretical and experimental work has been done in the meantime , a clear understanding of the proton spin is still lacking . in this",
+    "context lattice calculations are very illuminating though hampered by large fluctuations @xcite .",
+    "on the lattice both connected and disconnected diagrams for @xmath1 ( see figure [ conn_disc ] ) can be calculated from ratios of correlation functions @xcite .",
+    "the sesam collaboration has analyzed 200 @xmath10 gauge configurations at each of their four quark masses corresponding to @xmath11 .",
+    "the configurations have been generated previously in the standard wilson discretization scheme with @xmath12 mass degenerate quark flavors , at @xmath13 .",
+    "in addition 200 @xmath0 gauge configurations ( @xmath14 lattices ) at the same coupling @xmath13 have been analyzed .",
+    "the quark mass of the @xmath0 lattices corresponds to the lightest sesam quark mass .",
+    "details of the simulations can be found in @xcite .      for the amplitudes from the connected diagrams ( see figure [ conn_disc](a ) ) in the matrix element , eq .",
+    "[ def ] , we have applied the global summation method and the insertion technique as described in @xcite .    from the ratio @xmath15(\\vec{y},y_0)p \\rangle } { \\sum_{\\vec{x}}\\langle p^{\\dagger } p \\rangle } \\nonumber \\\\ & - &   \\langle\\sum_{\\vec{y},y_0 } \\left[\\bar{q}\\gamma_{\\mu}\\gamma_5 q\\right](\\vec{y},y_0)\\rangle\\ ; , \\end{aligned}\\ ] ] where @xmath16 is an interpolating operator for the proton , the connected amplitude @xmath17 can be obtained from the asymptotic linear slope @xmath18      for the disconnected amplitudes @xmath19 ( see figure [ conn_disc](b ) ) we have used the plateau accumulation method ( pam ) @xcite : from the partial summation @xmath20 with @xmath21 ( \\vec{y},y_0 ) p \\rangle } { \\sum_{\\vec{x}}\\langle p^{\\dagger } p \\rangle } \\nonumber \\\\ & - & \\langle\\sum_{\\vec{y}}\\left[\\bar{q}\\gamma_{\\mu}\\gamma_5 q\\right ] ( \\vec{y},y_0 )   \\rangle \\ ; .\\end{aligned}\\ ] ] @xmath22 follows from the asymptotic time dependence ( @xmath23 ) in @xmath24    for the calculation of the axial vector quark loops we have used the spin explicit stochastic estimator technique with complex z2 noise and 100 stochastic estimates per spin component and gauge field configuration @xcite .",
+    "figure [ connected_fig ] displays @xmath25 for the connected amplitudes @xmath26 on the four sesam quark masses .",
+    "the results from the linear fits are summarized in table [ conn_amplitudes ] . for the lightest sesam quark mass ( @xmath27 )",
+    "we have also calculated @xmath26 on the @xmath0 lattice .",
+    "note that the volume effects are less than @xmath28 .",
+    ".[conn_amplitudes ] _ connected amplitude @xmath26 from the linear fits to @xmath29 ( sesam and @xmath0 ) . _ [ cols=\"<,<,<\",options=\"header \" , ]",
+    "we have calculated connected and disconnected contributions to the flavor singlet axial vector coupling of the proton in a full qcd @xmath12 lattice simulation with wilson fermions .",
+    "we have checked the volume effects for the connected amplitudes when we increase the lattice size at the same coupling ( @xmath13 ) and quark mass . in the analysis of the disconnected contributions we have replaced the sesam results for the lightest quark mass by the @xmath0 data and obtained a better signal for @xmath22 . nevertheless , the errors are dominated by the large statistical fluctuations in the disconnected amplitudes .",
+    "we find @xmath3 to be consistent with the result from experiment and with previous quenched estimates @xcite .",
+    "for the triplet coupling we get @xmath30 which is 30% smaller than the experimental value , @xmath31 @xcite . to fix the systematic errors in the lattice calculation",
+    "we would need a scaling analysis as well as a non - perturbative determination of @xmath32 and @xmath33 .",
+    "q    99 emc , j.  ashman et al . , nucl . phys . *",
+    "b328 * ( 1989 ) 1 ; phys .",
+    "b206 * ( 1988)364 .",
+    "smc , d.  adams et al .",
+    ", phys . rev .",
+    "* d56 * ( 1997)5330 .",
+    "j.  ellis , r.l .",
+    "jaffe , phys . rev .",
+    "* d9 * ( 1974 ) 1444 ; phys . rev .",
+    "* d10 * ( 1974)1669 ."
+  ],
+  "abstract_text": [
+    "<S> we present a combined analysis of sesam and @xmath0 data for the flavor singlet axial coupling @xmath1 of the proton , which is very helpful to stabilize the disconnected signals at small quark masses . from connected and disconnected contributions we use the tadpole improved renormalization constant @xmath2 and obtain @xmath3 . </S>"
+  ]
+}

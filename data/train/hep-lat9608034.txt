@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "the use of a tadpole - improved coefficient  @xcite for the clover term in the sw fermion action , @xmath1      \\delta_{xy}\\nonumber\\\\ & & -\\kappa\\big[(1-\\gamma_\\mu)u_\\mu(x)\\delta_{x+\\hat{\\mu},y}\\nonumber\\\\ & & + ( 1+\\gamma_\\mu)u_\\mu^\\dagger(y)\\delta_{x-\\hat{\\mu},y}\\big]\\big\\}q(y),\\end{aligned}\\ ] ] where @xmath2 , @xmath3 , can be regarded as a step towards full @xmath4 improvement  @xcite .",
+    "we compare the resulting light hadron quantities with those obtained using the tree - level coefficient , @xmath5 , for which discretisation errors are @xmath6 in perturbation theory  @xcite , and also with data from gf11  @xcite corresponding to @xmath7 , at a range of @xmath8 values , to seek indications of better scaling behaviour .    our data set",
+    "comprises : at @xmath9 , jacobi - smeared quark propagators at two @xmath10 values with @xmath11 and @xmath5 on 142 @xmath12 configurations ; at @xmath13 , fuzzed propagators  @xcite at three @xmath10 values with @xmath11 on 499 @xmath14 configurations ; and , at @xmath15 , fuzzed ( local ) propagators at three ( two ) @xmath10 values with @xmath11 ( @xmath5 ) on 130 ( 60 ) @xmath16 configurations .",
+    "we construct meson correlators from all @xmath10 combinations , but baryon correlators only from degenerate combinations .",
+    "consequently , we do not have enough baryon data to perform a reliable chiral extrapolation .",
+    "hadron masses are obtained from multi - exponential fits to various combinations of smeared and local correlators .",
+    "the results presented are from a preliminary analysis of our current data ( see also  @xcite ) ; higher statistics at @xmath17 will be available soon .",
+    "the ratio of the nucleon to vector meson mass , @xmath18 , at a fixed ratio of the pseudoscalar to vector meson mass , @xmath19 , has a noticeable dependence on @xmath20 at our largest lattice spacing .",
+    "the trend is towards improved scaling for this ratio as @xmath20 is increased to the tadpole - improved value .",
+    "evidence for the latter is given in the edinburgh plot in figure  [ fig : ed_scaling ] .",
+    "= 0.4    linear extrapolation of data for the pseudoscalar meson mass to @xmath21 for the tadpole - improved action gives @xmath22 , 0.12224(1 ) , and 0.12208(2 ) , for @xmath23 , 6.0 and 6.2 respectively , in reasonable agreement with the tree - level value of 0.125 .",
+    "we define @xmath24 , corresponding to degenerate @xmath25 and @xmath26 quarks , at @xmath27 .",
+    "then , as shown in figure  [ fig : m_rho ] , our estimates for @xmath28 in units of the square root of the string tension , @xmath29 , have decreasing dependence on the lattice spacing , @xmath30 , as @xmath20 is increased from 0 to @xmath31 , although the dependence is not removed entirely .",
+    "= 0.4    the @xmath10 value corresponding to the strange quark mass , @xmath32 , may be fixed from any one of the ratios @xmath33 , @xmath34 and @xmath35 . in figure",
+    "[ fig : kaons ] we show the results of fixing one of the first two ratios and calculating the third .",
+    "= 0.4    evidently , the @xmath36 mass scales with the @xmath37 mass in both cases , independently of whether @xmath5 or @xmath31 , but different values are obtained for @xmath35 .",
+    "this is an indication that the strange quark mass can not be determined consistently in the quenched approximation  @xcite .",
+    "we also find that @xmath38  @xcite is not changed by tadpole improvement , and scales at a value inconsistent with experiment .",
+    "finally , we observe that , at all three @xmath8 values , the magnitude of the meson spin splitting , @xmath39 in units of @xmath40 or @xmath28 , is insensitive to whether @xmath5 or @xmath31 .",
+    "our quark propagators are not ` rotated ' , so @xmath4-improved matrix elements are constructed from improved quark fields : @xmath41q\\nonumber\\\\ & = & \\sqrt{2\\kappa u_0}\\big[1       + \\frac{1}{2u_0}\\big(\\frac{1}{2\\kappa}-\\frac{1}{2\\kappa_c}\\big)\\big]q\\end{aligned}\\ ] ] where we have used the equations of motion and employed the tadpole - improvement prescription  @xcite .",
+    "thus , we take the tadpole - improved pion decay matrix element to be  @xcite @xmath42\\nonumber\\\\ & & \\hspace{-1.5mm}\\times \\langle 0|\\bar{q}\\gamma_4\\gamma_5q|\\pi\\rangle\\end{aligned}\\ ] ] where we obtain @xmath43 from @xmath21 and the current normalisation , @xmath44 , from tadpole - improved one - loop perturbation theory .",
+    "comparison of the pion decay constant values obtained with different values of @xmath20 is complicated by systematic effects inherent in the current normalisation prescription . given this caveat ,",
+    "we show our tadpole - improved results along with those of gf11",
+    "@xcite in figure  [ fig : f_pi ] .",
+    "= 0.4    both sets of data suggest scaling may set in above @xmath45 .",
+    "the ratio of decay constants , @xmath46 , is independent of the current normalisation and so may be determined more reliably .",
+    "our results , shown in figure  [ fig : f_k_to_f_pi ] , are insensitive to whether @xmath5 or @xmath31 .",
+    "= 0.4    for @xmath47 the ratio agrees with experiment , but a weak lattice spacing dependence remains below this @xmath8 value .",
+    "using a tadpole - improved sw fermion action in quenched qcd , we conclude the following .    \\1 . for @xmath48",
+    ", @xmath49 has a weaker dependence on the lattice spacing ( figure  [ fig : m_rho ] ) , @xmath18 and @xmath35 scale ( figures  [ fig : ed_scaling ] and [ fig : kaons ] ) , although the latter clearly shows that the strange quark mass can not be determined consistently ."
+  ],
+  "abstract_text": [
+    "<S> we compare results obtained using the sheikholeslami - wohlert ( sw ) fermion action with tree - level and tadpole - improved coefficients for @xmath0 . </S>"
+  ]
+}

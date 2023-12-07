@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "we extend our search for a parity - flavor - breaking phase in simulations of dynamical qcd with two flavors of light wilson fermions to the strong coupling region of @xmath2 less than 5.0 .",
+    "the signature used in this search is the same used in our previous work  @xcite .",
+    "we introduce an explicit breaking term into the action with a small coefficient and then study the finite size behavior of its expectation value as this coefficient tends to zero .",
+    "we report here on simulations done with two flavors of wilson fermions at @xmath8 and @xmath9 on volumes of @xmath0 , and up to @xmath1 for a variety of values of @xmath3 ranging from less than the appropriate @xmath7 to values greater than @xmath7 .",
+    "some of these simulations ( denoted by the letter @xmath10 in the tables ) are continuing and simulations at @xmath11 are in progress .",
+    "we introduce into the qcd action a term of the form @xmath12 where @xmath13 is a @xmath14 matrix representing the third element of the generators of flavor su(2 ) algebra . upon integrating the fermionic variables this",
+    "is reflected in the simulation by the product of two determinants : @xmath15 where @xmath16 is given by a simple modification of the wilson matrix @xmath17 as : @xmath18 as pointed out by aoki @xcite , we also have here @xmath19 and : @xmath20    simulations were done for the parameter @xmath4 taking values ranging from 0.005 to 0.1 . for the volume dependence we concentrate on the smaller values of @xmath4 and in particular @xmath21 for all three volumes considered and mostly for values of @xmath3 greater than @xmath7 .",
+    "the order parameter we compute is the expectation value of the operator @xmath22 . with our notation",
+    "this is given as    @xmath23",
+    "for the values of @xmath2 considered , simulations were performed , as mentioned above , at various values of @xmath3 both below and above @xmath7 .",
+    "we shall present the data and results for each value of @xmath2 considered separately .",
+    "the results are shown in tables  14 .",
+    ".parameters and measured order parameter @xmath24 for the case of @xmath25 on lattices of volume @xmath26 , for @xmath27,@xmath28 , and @xmath29.[tabbeta3.0 ] [ cols=\"^,^,^,^,^\",options=\"header \" , ]     it is clear that if one concentrates on the behavior with volume of the simulations at @xmath30 , one may quickly note that a signature for the parity - flavor - breaking phase is indicated for the following values of @xmath31 and @xmath3 : ( 3.0 , 0.25 ) , ( 3.5 , 0.24 ) , ( 3.7 , 0.24 ) and ( 4.0 , 0.24 ) . see fig .  [ pfhisto ] for the latter two points .",
+    "this is also confirmed by following the behavior of the order parameter as a function of @xmath3 at constant volume and constant @xmath2 .",
+    "it is clear that all values above the order parameter goes through a relative maximum .",
+    "the behavior of the order parameter at all other values of @xmath2 and @xmath3 , computed in tables  14 , are consistent with an absence for a signature of a parity - flavor - breaking phase .",
+    "this behavior is in fact very similar to the behavior for values of @xmath32 which were discussed in ref .",
+    "@xcite .",
+    "it is important to note here that the phase is not indicated for some points at the same @xmath2 but larger values of @xmath3 .",
+    "in particular the phase disappears at ( 3.5 , 0.25 ) , at ( 3.7 , 0.25 ) .",
+    "it is clear from the discussion above that qcd with two flavors of wilson fermions does exhibit a parity - flavor - breaking phase at values of @xmath2 up to 4.0 , as postulated by aoki and collaborators .",
+    "it has also been demonstrated in  @xcite that this phase does not seem to extend beyond @xmath33 .",
+    "this information is exhibited in fig .",
+    "[ parphase ] .",
+    "it is then possible that this phase pinches out , in a manner similar to that in the njl model , at @xmath34 . in this case",
+    ", this phase would not be relevant for the discussion of the approach to the chiral limit in qcd and the ensuing goldstone nature of the pions for @xmath35 .",
+    "in fact , all indications are such that , as shown formally sometime ago , this is simply related to the approach to zero lattice spacing and infinite volume .",
+    "i wish to thank urs heller and robert edwards for providing a modified qcd code for performing the simulations reported in this paper .",
+    "all these simulations were done on the scri ibm compute cluster ."
+  ],
+  "abstract_text": [
+    "<S> we present further data in search of a parity - flavor - breaking phase in simulations of dynamical qcd with two flavors of light wilson fermions in the strong coupling region . </S>",
+    "<S> this is done on lattice sizes of @xmath0 an up to @xmath1 for a variety of values of @xmath2 and @xmath3 as well as the coefficient , @xmath4 , of an explicit breaking term included in the action . </S>",
+    "<S> we confirm the existence of a region in the @xmath5 plane where such a phase exists at @xmath6 smaller than 5.0 and above @xmath7 .    </S>",
+    "<S> = 10000 = 10000 = 500 = 1000 = 3000 = 3000 = 400 </S>"
+  ]
+}

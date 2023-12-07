@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "anisotropic lattices have been used extensively for @xmath0 calculations@xcite .",
+    "finite temperature calculations using anisotropic lattices exploit the natural asymmetry of finite temperature field theory to reduce lattice spacing errors associated with the transfer matrix at less cost than is required for the full continuum limit@xcite .    with a sufficiently small value for the temporal lattice spacing , @xmath1 , we can vary the temperature in small discrete steps by varying the number of time slices , @xmath2 . in this study",
+    "we sweep through the transition by studying different @xmath2 s ( 864 ) .",
+    "varying the temperature at fixed temporal and spatial lattice spacing separates temperature and lattice spacing effects , allowing a study of the temperature dependence with all other parameters fixed .",
+    "the coefficients needed to relate lattice observables to the physical energy and pressure are determined as a by - product of the zero temperature studies needed to choose the bare parameters .",
+    "once determined , these `` karsch '' coefficients@xcite can be used for all temperatures since they depend only on the intrinsic lattice parameters and not on @xmath2 .",
+    "this allows a straight - forward determination of the temperature dependence of the energy and pressure , again at fixed lattice spacing . with two or more slightly different values for @xmath1 , a high - resolution sampling of temperatures",
+    "can be investigated .    as the temporal lattice spacing , @xmath1 , approaches the continuum limit @xmath3 ,",
+    "the part of the flavor symmetry , which is violated by terms of @xmath4 , is expected to be restored . in this study",
+    "we are examining our data for evidence of improvement of the flavor symmetry , when @xmath1 becomes sufficiently small .",
+    "we are simulating full qcd with two dynamical flavors of staggered fermions on an anisotropic lattice .",
+    "our calculations are based on the qcd action @xmath5 , where the gauge action is : @xmath6 ,       \\nonumber\\end{aligned}\\ ] ] and the fermion action is : @xmath7 \\psi(x)\\nonumber\\\\ & & +       \\sum_{x } \\overline{\\psi}(x)\\left [   \\frac{1}{\\xi_0 } \\sum_s \\slash{d}^{\\rm staggered}_s         \\right ]   \\psi(x ) .",
+    "\\nonumber\\end{aligned}\\ ] ]    in our simulations we attempt to examine the qcd phase transition for volumes ( @xmath8 ) , quark masses ( @xmath9 ) and a spatial lattice spacing ( @xmath10 fm ) similar to those used in @xmath11 , 2-flavor thermodynamic studies on isotropic lattices .",
+    "thus , we adjust the bare bare anisotropy ( @xmath12 ) and the renormalization of the speed of light ( @xmath13 ) to yield the required @xmath14 and @xmath15 but work with a much smaller temporal lattice spacing choosen so the critical value of @xmath2 is approximately 16 .",
+    ".parameters of all the calculations . all runs",
+    "have dynamical @xmath16 except run 3 which has @xmath17 . [ cols=\"<,<,>,<,<,<\",options=\"header \" , ]",
+    "the thermodynamics runs 711 have volume @xmath18 , where @xmath19 8 , 12 , 16 , 20 and 24 .",
+    "the bare parameters are kept constant for all runs 611 .",
+    "figure 4 shows the sweep through the phase transition as we gradually change the temperature by varying only @xmath2 .",
+    "we fit our data to a hyperbolic tangent form and determine @xmath20 mev from the inflection point .",
+    "we have studied the finite temperature qcd phase transition using staggered fermions on an anisotropic lattice with anisotropy of @xmath21 .",
+    "this allows us to explore the temperature dependence of the transition with all other parameters fixed .",
+    "the results are roughly consistent with earlier , isotropic studies , showing a value of the critical temperature of approximately 160 mev .",
+    "while this approach naturally reduces finite lattice spacing errors associated with @xmath1 , we plan to include improvements to the spatial parts of the staggered fermion action so that the @xmath22 errors are reduced as well .",
+    "9 c. morningstar and m. peardon , _ phys.rev . _",
+    "* d60:034509 * ( 1999 ) qcd - taro collaboration : ph .",
+    "de forcrand et al . , _",
+    "phys.rev._*d63:054501 * ( 2001 ) f. karsch , _ nucl.phys._*b205[fs5 ] * , 285 ( 1982 ) t. klassen , _",
+    "nucl.phys._*b533 * , 557 ( 1998 ) s. gottlieb et al . , _",
+    "phys.rev._*d35 * , 2531 ( 1987 )"
+  ],
+  "abstract_text": [
+    "<S> we report results from full qcd calculations with two flavors of dynamical staggered fermions on anisotropic lattices . </S>",
+    "<S> the physical anisotropy as determined from spatial and temporal masses , their corresponding dispersion relations , and spatial and temporal wilson loops is studied as a function of the bare gauge anisotropy and the bare velocity of light appearing in the dirac operator . </S>",
+    "<S> the anisotropy dependence of staggered fermion flavor symmetry breaking is also examined . </S>",
+    "<S> these results will then be applied to the study of 2-flavor qcd thermodynamics .    # </S>",
+    "<S> 1#2 /#1 </S>"
+  ]
+}

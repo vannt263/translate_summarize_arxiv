@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "in this work , we compute the perturbative expansion of the average plaquette , in gauge theory with fermion flavours .",
+    "we present separate calculations using the action ( ) , and the action ( ) @xcite .",
+    "the simpler case of wilson fermions was performed in @xcite .",
+    "the average plaquette can be related to the perturbative free energy of lattice qcd , as well as to the expectation value of the action .",
+    "the results can be used : a ) in improved scaling schemes , using an appropriately defined effective coupling .",
+    "b ) in long standing efforts , starting with @xcite , to determine the value of the gluon condensate .",
+    "c ) in studies of the interquark potential @xcite .",
+    "d ) as a test of perturbation theory , at its limits of applicability .    in standard notation ,",
+    "the action consists of a gluonic and a fermionic part : : @xmath0 with @xmath1 the sum runs over all @xmath2 plaquettes @xmath3 .",
+    "the fermionic action @xmath4 , in the clover case , contains the wilson term with bare fermionic mass , and the standard clover term multiplied by the coefficient , which is a parameter in the present work ; it is normally tuned in a way as to minimize @xmath5 effects .",
+    "the average value of the action density , @xmath6 , is directly related to the average plaquette ; in particular , for the gluonic part we have : @xmath7 as for @xmath8 , it is trivial in any action which is bilinear in the fermion fields  @xcite , and leads to : @xmath9    we will calculate @xmath10 in perturbation theory : @xmath11 the @xmath12-loop coefficient can be written as @xmath13 where @xmath14 is the contribution of diagrams without fermion loops and @xmath15 comes from diagrams containing fermions .",
+    "the coefficients @xmath14 have been known for some time up to 3 loops  @xcite .",
+    "the coefficients @xmath15 are also known to 3 loops for wilson fermions  @xcite ; in the present work we extend this computation to clover fermions .",
+    "the calculation of @xmath16 proceeds most conveniently by computing first the free energy @xmath17 , where @xmath18 is the full partition function @xmath19 \\exp(-s ) .",
+    "\\label{z}\\ ] ] the average of @xmath20 is then extracted as follows @xmath21 in particular , the perturbative expansion of @xmath22 : @xmath23 leads immediately to the relations : + @xmath24 , @xmath25 .",
+    "up to 3 loops , a total of 62 diagrams contribute , of which 26 involve fermionic loops .",
+    "the involved algebra of the lattice perturbation theory was carried out using our computer package in mathematica .",
+    "the value for each diagram is computed numerically for a sequence of finite lattice sizes .",
+    "diagrams must be grouped in several infrared - finite sets , before extrapolating their values to infinite lattice size ; extrapolation leads to a ( small ) systematic error , which is estimated quite accurately .",
+    "the pure gluonic contributions are already known : @xmath26    fermionic contributions take the form : @xmath27 the coefficients depend polynomially on the clover parameter @xmath28 : @xmath29 @xmath30 we have calculated the values of , for typical values of the bare mass ( see ref .",
+    "@xcite for detailed numerical values ) .",
+    "we list below some typical examples of values for @xmath31 , setting @xmath32 .",
+    "for @xmath33 we have : @xmath34 for @xmath35 and @xmath36 ( corresponding to @xmath37 ) : @xmath38 c_{\\rm sw } = 2.0 : \\ & ( 1/3)\\ , g^2 & + 0.013663456(3 ) g^4 \\\\ & & + 0.0110200(13 ) g^6 .",
+    "\\end{array}\\ ] ] for @xmath35 and @xmath39 : @xmath40 c_{\\rm sw } = 1.3 : \\   & ( 1/3)\\ , g^2 & + 0.025219798(9 ) \\ g^4 \\\\ & & + 0.0129659(5 ) \\",
+    "g^6 , \\\\[0.5ex ] c_{\\rm sw } = 2.0 : \\   & ( 1/3)\\ , g^2 & + 0.01800170(1 )   \\ g^4 \\\\ & & + 0.012948(1 ) \\",
+    "g^6 , \\\\[0.5ex ] \\end{array}\\ ] ] for @xmath41 and @xmath39 : @xmath42 c_{\\rm sw } = 1.3 : \\   &",
+    "( 1/3)\\ , g^2 & + 0.02087420(1 ) \\ g^4 \\\\ & & + 0.0128495(8 ) \\",
+    "g^6 , \\\\[0.5ex ]   c_{\\rm sw } = 2.0 : \\   & ( 1/3)\\ , g^2 & + 0.01004706(2 ) \\ g^4 \\\\ & & + 0.013547(1 ) \\ g^6 .",
+    "\\\\[0.5ex ] \\end{array}\\ ] ]",
+    "the fermionic action now reads @xcite : @xmath43 with : @xmath44 $ ] , and : @xmath45 ; the sum on @xmath46 runs over all flavors . here , @xmath47 is the massless wilson - dirac operator with @xmath48 , and @xmath49 is a free parameter whose value must be in the range @xmath50 , in order to guarantee the correct pole structure of @xmath51 .",
+    "fermionic vertices are obtained by separating the fourier transform of @xmath52 into a free part ( inverse propagator @xmath53 ) and an interaction part @xmath54 @xcite : @xmath55 @xmath56 @xmath57\\ ] ] @xmath58 @xmath59\\ ] ] @xmath60 @xmath61 @xmath62 @xmath63 @xmath64 @xmath65 + { \\cal{o}}(g^3)\\ ] ]"
+  ],
+  "abstract_text": [
+    "<S> we calculate the perturbative value of the free energy in qcd on the lattice . this quantity is directly related to the average plaquette .    </S>",
+    "<S> our calculation is done to 3 loops using the clover action for fermions ; the results are presented for arbitrary values of the clover coefficient , and for a wide range of fermion masses .    </S>",
+    "<S> in addition , we calculate the 2 loop result for the same quantity , using the overlap action . </S>"
+  ]
+}

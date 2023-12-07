@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "we report on two , high - statistics , quenched lattice calculations of @xmath0 , @xmath1 and @xmath2 . @xmath0 parametrizes the @xmath4-oscillation contribution to cp - violation in @xmath5 decays ( @xmath6 ) , leading to a hyperbolic constraint on the summit of the unitarity triangle .",
+    "@xmath7 are needed to compute the electro - penguin contribution to direct cp - violation ( @xmath8 ) , dominant in the @xmath9 channel . @xmath0 and @xmath7 measure deviation from the vacuum saturation values of the following four - quark , matrix elements : @xmath10 with @xmath11 , where @xmath12 , and in the chiral limit , @xmath13 @xmath14 where",
+    "@xmath15 can be written as @xmath16 if one forbids penguin contractions and where @xmath17 is the corresponding color - mixed operator .",
+    "we describe quarks with the mean - field - improved , sheikholeslami - wohlert ( sw ) action @xmath18 with @xmath19 and @xmath20 and where @xmath21 is the wilson fermion action , @xmath22 , the bare gauge coupling , @xmath23 , a lattice definition of the field - strength tensor and @xmath24 , the appropriate quark hopping parameter .",
+    "the parameters of the simulation are summarized in .",
+    "we further perform full tadpole - improved , klm rotation of quark fields .",
+    "though these normalization factors cancel in the calculation of @xmath25-parameters , they specify our renomalization constants .    ",
+    "@l@ccccccc @xmath26 & size & @xmath27 cfs . & @xmath28 & + 6.2 & @xmath29 & 188 & 1.442 & 0.13640 & 0.13710 & 0.13745 + & 780 mev & 570 mev & 438 mev + 6.0 & @xmath30 & 498 & 1.479 & 0.13700 & 0.13810 & 0.13856 + & 811 mev & 575 mev & 445 mev +",
+    "while the matching of quark bilinears is simple , the use of wilson fermions induces mixing amongst four - quark operators of different chirality . to describe this mixing , we use the following complete basis of parity - conserving operators : @xmath31 with @xmath32 .",
+    "then , the matching can be written , with identifications that will be clarified by what follows , @xmath33 and @xmath34 in terms of the chirally subtracted operators @xmath35 and @xmath36 , i=2,4 .",
+    "we perform matching to the @xmath37-ndr scheme at one loop .",
+    "since the clover term is @xmath38 , we can use the tree - level - clover - action results of @xcite with modifications appropriate for tadpole - improvement and klm normalization . for the coupling ,",
+    "we choose @xmath39 defined from the plaquette  @xcite , identifying the scale @xmath40 with that of the matching . to estimate the systematic error associated with our procedure , we vary @xmath40 in the range @xmath41 .",
+    "to obtain the desired @xmath25-parameters , we consider ratios of 3-point to two 2-point functions . in the limit that the three points are well separated in time , these ratios reduce to : r_f=2 & & + r_7 ^ 3/2 & & - [ eq : ratdefs ] + r_8 ^ 3/2 & & , where @xmath42 is a @xmath43 pseudoscalar meson .",
+    "we calculate the ratios for the momenta @xmath44 , @xmath45 , @xmath46 and @xmath47 and for all hopping parameter pairs taken from .    to study their chiral behavior , we follow @xcite and define the mass and recoil variables x & = & + y & = & x. [ eq : xydef ] we then fit the ratios to r(x , y ) = a_00+a_10x+a_01y+[eq : rxy ]  , where we neglect both chiral logarithms , which are difficult to resolve numerically , and @xmath48 breaking terms , which appear to be small for the quark masses we consider .      at @xmath53 we further find that @xmath54 and @xmath55 are very small and consistent with zero , as chiral symmetry requires , and remain so as @xmath40 is increased up to @xmath56 .",
+    "@xmath57 should thus give a reliable estimate of @xmath0 . at @xmath3 , @xmath54 and @xmath55 are less than 3 and @xmath58 away from zero and smaller than the values obtained in @xcite with a tree - level sw action and boosted , one - loop matching .",
+    "taken in conjunction with these and other wilson results obtained from less improved actions , our preliminary findings suggest that discretization errors represent an important part of the traditionally observed residual chiral violations ( please see @xcite and @xcite for further discussion ) .    in the chiral limit , @xmath7 correspond to the leading term , @xmath54 , in the expansion of and the study of the @xmath51-dependence of @xmath59 is less important .",
+    "therefore , we consider only the @xmath60 ratios so as not to introduce potential momentum - dependent discretization errors .",
+    "we find that the description of the chiral behavior of @xmath59 requires a quadratic term in @xmath50 .    to compare results for @xmath0 and @xmath7 obtained at different @xmath40 and/or @xmath26",
+    ", we must run them to a common reference scale which we take to be @xmath61 .",
+    "running is performed at two loops with @xmath62 .",
+    "( see . )",
+    "ccccc @xmath26 & @xmath40 & @xmath0 & @xmath63 & @xmath64 + 6.2 & @xmath56 & @xmath65 & @xmath66 & @xmath67 + & @xmath68 & @xmath65 & @xmath69 & @xmath70 + & @xmath71 & @xmath72 & @xmath73 & @xmath74 + 6.0 & @xmath56 & @xmath75 & @xmath76 & @xmath77 + & @xmath68 & @xmath75 & @xmath78 & @xmath79 + & @xmath71 & @xmath80 & @xmath81 & @xmath82 +    we find that @xmath0 is almost independent of @xmath40 in the range explored .",
+    "@xmath83-dependence is also found to be small though it can not be excluded given the statistical errors and the small deviations of @xmath54 and @xmath55 from zero at 6.0 .",
+    "two values of the lattice spacing are not sufficient for a proper continuum - limit extrapolation and we quote as our preliminary result for @xmath0 the @xmath52 number at @xmath53 , with the comment that residual discretization errors may be small .",
+    "the @xmath40-dependence of @xmath2 and especially @xmath1 is significantly stronger than that of @xmath0 .",
+    "this is a result of the rather large matching constants and anomalous dimensions .",
+    "we favor the results obtained at the larger values of @xmath40 because the matching times running is much better behaved than at @xmath52 . though @xmath83-dependence is not , on the whole , significant statistically at fixed @xmath84 or @xmath40 , discretization errors are difficult to quantify because of the large @xmath40-dependence",
+    ". once again we can not extrapolate to the continuum limit , so we quote as our preliminary results for @xmath7 the @xmath85 numbers at @xmath53 to which we add systematic errors to account for the observed @xmath40-dependence ."
+  ],
+  "abstract_text": [
+    "<S> we present preliminary results for @xmath0 , @xmath1 and @xmath2 from two high - statistics lattice computations . </S>",
+    "<S> these calculations are performed at @xmath3 and 6.2 in the quenched approximation , using mean - field - improved sheikholeslami - wohlert fermionic actions .    </S>",
+    "<S> # 1eq .  </S>",
+    "<S> ( [ # 1 ] ) # 1#2eqs .  </S>",
+    "<S> ( [ # 1 ] ) and ( [ # 2 ] ) # 1table [ # 1 ] # 1#2tabs .  </S>",
+    "<S> [ # 1 ] and [ # 2 ] # 1sec .  [ # 1 ] # 1fig .  [ # 1 ] # 1ref .  [ # 1 ]     # 1o(#1 ) </S>"
+  ]
+}

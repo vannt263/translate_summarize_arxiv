@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "precise measurements of exclusive nonleptonic @xmath1 decays have initiated theoretical considerations which go beyond _ naive factorization _ frequently used in the calculation of decay amplitudes .",
+    "nonfactorizable contributions have been investigated in several approaches @xcite for different classes of two - body nonleptonic @xmath1 decays . here , we focus on nonfactorizable corrections in the decay @xmath0 .",
+    "this channel is particularly interesting because of a substantial discrepancy between the prediction from naive factorization and experiment by more than a factor of three in the branching ratio .",
+    "also , this mode belongs to the color - suppressed class-2 decays for which large nonfactorizable contributions are expected .",
+    "the weak matrix element can be written in the form @xmath2 where @xmath3 is the @xmath4 form factor and the parameter @xmath5 incorporates factorizable and nonfactorizable contributions .",
+    "a particular useful parametrization is given by @xmath6 where @xmath7 are the short - distance wilson coefficients .",
+    "the first two terms in ( 2 ) result from naive factorization , while the term proportional to @xmath8 represents nonfactorizable contributions .",
+    "since @xmath5 parametrizes a physical decay amplitude , the scale dependence of the individual terms in @xmath5 must cancel .",
+    "taking @xmath9 , one has , numerically , @xmath10 and @xmath11 @xcite .",
+    "according to the large @xmath12 analysis @xcite , there could be a cancellation between the last two terms in ( 2 ) , both being of order @xmath13 relative to the leading term . in case of such a cancellation , @xmath14 would be negative .",
+    "while for @xmath15 decays a negative value of @xmath5 is consistent with experiment , experimental data on @xmath1 decays suggest a positive @xmath5 . on the other hand , explicit estimates of nonfactorizable contributions in @xmath1 decays have predicted both signs for @xmath5 .    in @xcite , the _ qcd light - cone sum rule method _",
+    "@xcite was applied to the calculation of soft nonfactorizable contributions in @xmath0 .",
+    "the relevant operators in the weak hamiltonian @xmath16 are @xmath17 it is the contribution of @xmath18 to the matrix element ( 1 ) , which is expected to give rise to the leading nonfactorizable effects .",
+    "the sum rule approach allows to estimate the contribution of soft - gluon exchange between the @xmath19 and the @xmath20 system , see fig . 1 .",
+    "to this end , one has to isolate the ground state contribution to the correlation function @xmath21 represented graphically in fig.1 . taking into account twist-3 and twist-4 contributions calculated at the appropriate scale @xmath22",
+    ", one finds @xmath23 and , substituting ( 5 ) in ( 2 ) , @xmath24 although the nonfactorizable matrix element ( 5 ) is rather small , it increases @xmath5 by @xmath25 , due to the large coefficient @xmath26 .",
+    "in addition , one has nonfactorizable contributions from hard - gluon exchange .",
+    "they have been estimated in _",
+    "qcd factorization _ @xcite and amount to another @xmath27 correction @xcite .",
+    "thus , in total one obtains @xmath28",
+    "firstly , one can see that the theoretical expectation ( 7 ) is still too small to explain the experimental value @xmath29 secondly , it is interesting to note that the theoretical approach described here predicts a positive sign of @xmath5 in agreement with experiment and in contradiction with the argument based on @xmath13 expansion @xcite . finally , a comparison of the value ( 8) deduced from the measurement of @xmath0 with the result @xmath30 from the decays @xmath31 indicates a substantial nonuniversality of @xmath5 in color - suppressed decays @xcite .",
+    "b.m . wishs to thank the organizers of frontier science 2002 for the invitation and for their support and would also like to acknowledge the support by the alexander von humboldt foundation and partial support of the ministry of science and technology of the republic of croatia under the contract 0098002 .",
+    "r.r . acknowledges the support by the bundesministerium fr bildung und forschung ( bmbf , bonn , germany ) under the contract number 05ht1wwa2 ."
+  ],
+  "abstract_text": [
+    "<S> the method of qcd light - cone sum rules is used to calculate soft nonfactorizable contributions to the decay amplitude for @xmath0 . </S>",
+    "<S> the result confirms expectations that in color - suppressed decays nonfactorizable corrections can be sizable . </S>"
+  ]
+}

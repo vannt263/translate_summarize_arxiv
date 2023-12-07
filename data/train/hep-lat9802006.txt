@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "recently a lot of studies are devoted to search for improved actions which have much less lattice artifacts than the original wilson action .",
+    "two approaches are mainly pursued to construct the improved actions , i.e. , wilson s renormalization group ( rg ) method@xcite and symanzik s perturbation one@xcite .",
+    "the rg approach has been further developed by p.hasenfraz , niedermayer@xcite and co - workers@xcite , which leads to the classical perfect action .",
+    "symanzik approach has become very promising in lattice simulations with the idea of the tadpole improvement@xcite .",
+    "the classical perfect action is an approximation to the quantum perfect action which is completely free from lattice artifacts .",
+    "although finding quantum perfect actions is a hard task , we have been trying to obtain them by using the monte carlo renormalization group ( mcrg ) method@xcite . in mcrg , we first block lattice configurations and then determine renormalized coupling constants which show the coupling flow under a certain blocking scheme .",
+    "last year we obtained coupling flow in 2 dimensional space@xcite . to control truncation effects we continue our study by adding more coupling constants .",
+    "the action we use here is written as @xmath3 where @xmath4 stands for the type of wilson loops summarized in table 1 .",
+    ".wilson loops [ cols=\"^,^\",options=\"header \" , ]     although we consider actions up to 7 coupling constants in determining the coupling flow , here we mainly focus on a 3 dimensional coupling space @xmath0 , @xmath5 last year we only considered two coupling constants @xmath2 .",
+    "this year the term @xmath1 in eq.([eq ] ) is newly added .",
+    "there are several determination techniques of coupling constants . at the early stage of our study we used the demon method@xcite which needs an extra simulation ( microcanonical simulation ) to obtain values of the coupling constants .",
+    "we now use the schwinger - dyson ( sd ) equation method@xcite which is computationally simple and needs no extra simulation .",
+    "truncation effects may cause different results in the two methods . indeed in 2",
+    "coupling space @xmath2 we found @xmath6 difference in the coupling constants . if the truncation effects would be negligibly small the result should be same in both cases .",
+    "we employ the lattice of the size of @xmath7 .",
+    "we generate configurations at certain @xmath8 sets @xmath2 then block the configurations .",
+    "the @xmath8 sets are chosen from the rg coupling flow obtained in 2 dimensional space in ref.@xcite and the iwasaki action . at each set of @xmath8",
+    "about 200 configurations separated by 10 sweeps are used for the study . on the blocked configurations we calculate values of wilson loops and correlation between wilson loops , then solve the sd equations .",
+    "first we show a result of coupling constants after one blocking starting at @xmath9 .",
+    "the result clearly shows an exponential decay with the length of wilson loops , which indicates that contribution of coupling constants associated with large wilson loops decreases rapidly .",
+    "see fig.1 .",
+    "we now turn to the 3 dimensional coupling space @xmath0 .",
+    "figs.2 and 3 show coupling flow projected on @xmath2 and @xmath10 coupling space , respectively .",
+    "the result projected on the @xmath2 space is very similar with the previous result@xcite in 2 dimensional space and the value of coupling constant @xmath1 is very small compared to other two coupling constants , which means adding the coupling constant @xmath1 does not change the coupling flow very much .",
+    "fig.4 shows the coupling flow drawn in 3 dimensional space .",
+    "the renormalized trajectory may be read off joining the end points of the arrows .",
+    "1.0 mm    ( 60,60)(-10,-10 ) ( 13,-8)length of links ( 8.571428,37.327999 ) ( 10.571428,36.327999 ) ( 25.714285,29.120001 ) ( 17.714285,28.120001 ) ( 25.714285,31.120001 ) ( 27.714285,30.120001 ) ( 25.714285,26.480000 ) ( 27.714285,25.480000 ) ( 42.857143,7.224000 ) ( 44.857143,5.724000 ) ( 42.857143,9.696000 ) ( 44.857143,9.196000 ) ( 42.857143,18.480000 ) ( 43.857143,17.480000 ) ( 0.000000,0)(0,1)1 ( 8.571428,0)(0,1)1 ( 17.142857,0)(0,1)1 ( 25.714285,0)(0,1)1 ( 34.285713,0)(0,1)1 ( 42.857143,0)(0,1)1 ( 51.428570,0)(0,1)1 ( 60.000000,0)(0,1)1 ( -25.714285,0)(0,1)1 ( -25.714285,0)(0,1)1 ( 0.000000,-3.5)3 ( 8.571428,-3.5)4 ( 17.142857,-3.5)5 ( 25.714285,-3.5)6 ( 34.285713,-3.5)7 ( 42.857143,-3.5)8 ( 51.428570,-3.5)9 ( 58.900000,-3.5)10 ( 0,0.000000)(1,0)1 ( , 0.000000)(-1,0)1 ( 0,8.000000)(1,0)1 ( , 8.000000)(-1,0)1 ( 0,16.000000)(1,0)1 ( , 16.000000)(-1,0)1 ( 0,24.000000)(1,0)1 ( , 24.000000)(-1,0)1 ( 0,32.000000)(1,0)1 ( , 32.000000)(-1,0)1 ( 0,40.000000)(1,0)1 ( , 40.000000)(-1,0)1 ( 0,0.000000)(1,0)1 ( , 0.000000)(-1,0)1 ( -8.900000,-1.500000)@xmath11 ( -8.900000,6.500000)@xmath12 ( -8.900000,14.500000)@xmath13 ( -8.900000,22.500000)1 ( -8.900000,30.500000)@xmath14 ( -8.900000,38.500000)@xmath15 ( 0 , 0)(1,0 ) ( 0,)(1,0 ) ( , 0)(0,1 ) ( 0 , 0)(0,1 )",
+    "we have studied the coupling flow in 3 dimensional coupling space .",
+    "if this coupling space is large enough to represent the real rg flow , the actions on the renormalized trajectory should show the good scaling behavior .",
+    "we plan to measure several quantities on the obtained renormalized trajectory to check whether the actions are really `` perfect '' .",
+    "we also prepare to extend the analysis to include @xmath16 ."
+  ],
+  "abstract_text": [
+    "<S> we present our new results on the renormalization group coupling flow obtained in 3 dimensional coupling space @xmath0 . </S>",
+    "<S> the value of @xmath1 turns out to be small and the coupling flow projected on @xmath2 plane is very similar with the previous result obtained in the 2 dimensional coupling space . </S>"
+  ]
+}

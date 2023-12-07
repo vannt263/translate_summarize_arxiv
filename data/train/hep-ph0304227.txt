@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the authors express their gratitude e. eichten , a. martin , m. mller - preussker and v.  savrin for support and discussions .",
+    "two of us ( r.n.f . and v.o.g . ) were supported in part by the _ deutsche forschungsgemeinschaft _ under contract eb 139/2 - 2 .",
+    "00          w. buchmller , j. y. ng , and s .- h .",
+    "h. tye , _ phys .",
+    "* 24 * , 3003 ( 1981 ) ; e. eichten , k. gottfried , t. kinoshita , k. d. lane , and t. m. yan , _ phys .",
+    "* 21 * , 203 ( 1980 ) ; e. j. eichten and c. quigg , _ phys .",
+    "d _ * 49 * , 5845 ( 1994 ) ."
+  ],
+  "abstract_text": [
+    "<S> the hyperfine splitting in heavy quarkonia is considered in its relation to the leptonic decay rates with the account of relativistic and radiative corrections . </S>",
+    "<S> the calculated decay rates agree well with the available experimental data , while the predicted @xmath0 mass is significantly smaller than the value measured recently by the belle collaboration .    </S>",
+    "<S> recent observation of the charmonium @xmath1 state @xmath0 by the belle collaboration yielded the following values for its mass : @xmath2 these values are significantly larger than most predictions of the constituent quark models@xcite and the previous ( unconfirmed ) experimental value@xcite @xmath3=3.594(5)$ ]  gev </S>",
+    "<S> . the resulting @xmath4 hyperfine splitting ( hfs ) would be about 24 times smaller than the @xmath5 hfs in charmonium which is quite unexpected@xcite . </S>",
+    "<S> the hfs is closely connected with leptonic decay rates and vector decay constants of heavy quarkonia . </S>",
+    "<S> this connection for charmonium was discussed at length in the recent paper@xcite . </S>",
+    "<S> here we extend this discussion in order to include the relativistic corrections for the vector constants@xcite . </S>",
+    "<S> we considered these corrections for heavy - light ( @xmath6 and @xmath7 ) mesons in our recent paper@xcite .    </S>",
+    "<S> the vector decay constant @xmath8 is defined as follows @xmath9 where @xmath10 is the quarkonium momentum , @xmath11 and @xmath12 are the polarization vector and mass of the quarkonium . the relativistic expression for @xmath8 </S>",
+    "<S> can be obtained from eq .  </S>",
+    "<S> ( 3 ) of ref .   by putting @xmath13 @xmath14 where @xmath15 and @xmath16 is the vector quarkonium wave function in the momentum space .    in the nonrelativistic limit @xmath17 </S>",
+    "<S> this expression reduces to the well - known formula @xmath18 where @xmath19 is the wave function at the origin @xmath20 .    </S>",
+    "<S> the leptonic decay rate for zero lepton mass is given by the following relation @xmath21 where @xmath22 is the qed fine structure constant and @xmath23 is the quark charge in units of the elementary electric charge . using ( [ eq : fnr ] ) we obtain in the nonrelativistic limit the widely - used relation @xmath24    the one - loop qcd corrections </S>",
+    "<S> modify eq .  </S>",
+    "<S> ( [ eq : gamma ] ) in the following way@xcite @xmath25 where we take the qcd coupling constant @xmath26 according to pdg@xcite equal to @xmath27    the heavy quarkonium mass spectra including all relativistic @xmath28 and one - loop radiative corrections were calculated in ref .  . </S>",
+    "<S> the masses @xmath12 and hfs @xmath29 of @xmath30 states ( @xmath31 ) are presented in table  1 .    </S>",
+    "<S> the ratio of the @xmath4 to @xmath5 hfs in charmonium is equal to @xmath32 the upper high value of @xmath33 is obtained in the framework of the relativistic quark model@xcite . </S>",
+    "<S> the bound state equation used there takes into account the one - loop radiative corrections to the static potential enlarging the effective coulomb constant @xmath34 and relativistic effects both increasing the value of @xmath33 .    inserting into eq .  </S>",
+    "<S> ( [ eq : fv ] ) the same wave functions as used in ref .   </S>",
+    "<S> we can calculate on the basis of eqs .  </S>",
+    "<S> ( [ eq : gamma ] ) and ( [ eq : grc ] ) the leptonic decay rates of vector quarkonia . </S>",
+    "<S> the results of these calculations in comparison with experimental data are shown in table  2 .    as seen from table  2 , </S>",
+    "<S> relativistic corrections considerably reduce the calculated decay rates and bring them in good agreement with experimental values . </S>",
+    "<S> thus we observe the overall selfconsistency between predictions for hfs and leptonic decay rates of heavy quarkonia . </S>",
+    "<S> it means that the new belle data@xcite for the @xmath0 mass can not be easily explained in the framework of relativistic constituent quark models and , if confirmed , require some novel ideas and approaches ( scale choice@xcite for @xmath26 , state mixing@xcite , etc . ) . </S>"
+  ]
+}

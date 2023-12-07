@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "how elementary particles obtain the property of mass is one of the greatest unanswered questions in physics .",
+    "measuring as precisely as possible the masses of elementary particles , particularly gauge bosons , will be vital data for the theoretical physicist wanting to tackle the mass mechanism problem .",
+    "then when a candidate theory exists , such as the higgs mechanism , it has to be tested by experiment .    in the first phase of the lep program ( lep1 )",
+    ", the mass and width of the z boson were measured to be @xmath5 0.0021 gev and @xmath6 0.0024 gev  @xcite , via measurements of _ cross - sections _ around the z - peak .    in the second phase of the lep program ( lep2 )",
+    ", pairs of w bosons are produced .",
+    "the new experimental challenge is to measure @xmath0 by _ direct reconstruction _ of the w decay products with a precision that matches that of the _ indirect _ measurements of @xmath0 ( @xmath7 mev ) .",
+    "significant disagreement between the direct and indirect determinations of @xmath0 might indicate the breakdown of the standard model . as the @xmath8 centre - of - mass energy continues to increase ,",
+    "we also search for a higgs boson signal .",
+    "at lep2 , the three basic w - pair production diagrams contain @xmath9 , @xmath10 and t - channel neutrino exchange ( which dominates near the w - pair threshold ) .",
+    "the issue of directly reconstructing the mass of a heavy boson naturally focusses on these events , since w - pairs have already been produced in their thousands in each of the four lep detectors .",
+    "typical statistics of w pair events are shown in table  [ tab : nums ] .",
+    "the lep collaborations aleph , delphi , l3 , opal , the lep electroweak working group and the sld heavy flavour and electroweak groups , _ a combination of preliminary electroweak measurements and constraints on the standard model _ , cern - ep/99 - 15 ."
+  ],
+  "abstract_text": [
+    "<S> how massive elementary particles get their mass is one of the greatest open questions in physics . </S>",
+    "<S> two of the major goals of the current lep2 physics program that help to address this question are ( a ) to measure as precisely as possible the w boson mass @xmath0 and ( b ) to exclude or discover the higgs boson within the available kinematic region . </S>",
+    "<S> the reconstruction of invariant masses with jets from 4-jet channels ( e.g. @xmath1 and hz @xmath2 ) and missing energy channels ( e.g. @xmath3 and @xmath4 ) is discussed . </S>",
+    "<S> the emphasis is on the determination of @xmath0 , from which the rle of calorimetry in such a precision measurement is emphasised .    </S>",
+    "<S> = 22.5 cm = 16.0 cm = 0.0 cm = 0.0 cm = 0.0 cm plus 2pt    # 1#2#3#4#1 # 2 ( # 4 ) # 3    * glas - ppe/199916 * + * november 1999 * +     + * masses using jets at lep2 * + _ department of physics and astronomy _ + _ university of glasgow _ </S>",
+    "<S> + _ glasgow , g12 8qq _ + _ united kingdom _ + 1.5 cm _ </S>",
+    "<S> e - mail : jason.ward@cern.ch_ + .5 cm    _ invited talk at the viii international conference on calorimetry in _ </S>",
+    "<S> + _ high energy physics , lisbon , portugal , june 13 - 19 , 1999 . _ </S>"
+  ]
+}

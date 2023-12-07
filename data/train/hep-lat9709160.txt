@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "glueballs , apart from being one of the most exotic states predicted from qcd , are crucial in completing the picture of the strong interaction , since these mesonic states go beyond the standard quark model . unfortunately there is a considerable controversy as to their phenomenological identification . even for the low - lying states",
+    "there are a lot of experimental candidates :    * @xmath1 * @xmath2  @xmath3 * @xmath4    recently , there appears to be strong experimental evidence that glueballs have been detected  @xcite . for years radiative @xmath0 decays , @xmath5 have been considered @xcite the best hunting ground for low lying glueballs ( i.e.  those below 3 gev ) .",
+    "the main objective of this work is to measure vacuum - to - glueball transition matrix elements which are needed for estimating the partial widths of @xmath0 radiative decays into glueballs @xcite .",
+    "we employ an @xmath6-improved @xmath7 gauge action on an anisotropic lattice @xcite , with the temporal lattice spacing much less than the spatial one .",
+    "this has been shown  @xcite to be an efficient means of studying the masses of glueballs , as clearer resolution of the decay of correlators is allowed .",
+    "the use of this technique in a matrix element calculation seems highly advantageous as the local current operator introduces more uv noise into monte - carlo measurement .",
+    "the matrix elements we compute are of the form @xmath8 , where @xmath9 is the @xmath10 or @xmath11 glueball and @xmath12 is the gluon field strength operator .",
+    "specifically , we would like to extract the matrix elements for the three lightest glueball states that can be created by dimension-4 gluonic operators .",
+    "these are ;    * @xmath13  scalar @xmath14 * @xmath2  pseudoscalar @xmath15 * @xmath11  tensor @xmath16    previous studies have shown that smooth interpolating fields give better overlap with the glueball states .",
+    "for each lattice irrep of interest , we compute the correlation matrix for a large basis , @xmath17 , of smeared and fuzzed operators . for every member of this basis , the correlation with the appropriate gluon field - strength operators of eqns .",
+    "( [ eqn : scalar][eqn : tensor ] ) is also computed .",
+    "variational techniques are then employed to find the coefficients , @xmath18 , needed to make an optimal ground - state creation operator , @xmath19 .",
+    "the relevant correlators required to extract both the glueball mass and creation matrix element are then formed .",
+    "these are the smeared - smeared operator @xmath20 and the local - smeared operator @xmath21 where @xmath22 is the lowest glueball state in the irrep .",
+    "the vacuum subtraction denoted here need only be performed for the @xmath23 irrep .",
+    "a three - parameter fit to these correlators then extracts the glueball mass @xmath24 and the desired glueball creation matrix element @xmath25 , as well as the glueball interpolation field matrix element @xmath26 .",
+    "=    the construction of the appropriate improved gluonic operators on the lattice proceeds as follows . for a set of prototype small wilson loop shapes ( for example , the plaquette , @xmath27 rectangle , etc . ) a linear combination of the 48 orientations @xmath28 ( some will be degenerate for loops with symmetry ) of each prototype , @xmath29 , is taken which transforms under the appropriate irrep , @xmath30 , of the cubic group ( including parity ) .",
+    "the irreps we need to include are thus the @xmath31 and @xmath32 .",
+    "the real part of the trace on these loops is then taken , as all the glueball states of interest are positive under charge conjugation .",
+    "the lattice operators are @xmath33 where the index @xmath34 runs over the dimension of the irrep .",
+    "then , using the standard mapping @xmath35 the operators , @xmath36 , are expressed at tree - level in perturbation theory in terms of the dimension 4 and 6 continuum gluon field operators transforming under the same irrep of the cubic group .",
+    "once this expansion is performed for all prototypes , a linear combination of the lattice operators that removes the @xmath37 discretization errors is found .",
+    "for the scalar and @xmath38 polarizations of the tensor currents , this search is unnecessary , as conveniently , improving the action generates the required operators ( tr @xmath39 and tr @xmath40 ) .",
+    "in figs .  [ sc ] ,  [ pssc ]  and  [ tensor ] we present results from a feasibility study on an @xmath41 lattice at @xmath42 and anisotropy @xmath43 .",
+    "these run parameters correspond @xcite to a spatial lattice spacing of 0.221(11 ) fm and temporal cut - off of 4.5(2 ) gev .",
+    "for all channels considered , a signal for the smeared - local correlator can be observed over a sufficiently wide range of time slices to extract the relevant observables mentioned in section  [ sec : method ] . correlators with chromoelectric fields",
+    "are seen to be significantly more noisy , however .",
+    "a calculation of the matrix elements relevant for predicting the branching ratio for radiative decays of @xmath44 into glueballs has been proposed as a useful handle on the phenomenological identification of the lighter glueball candidates .",
+    "this decay should be a glueball - rich channel , with fairly clear experimental signature .",
+    "we have performed exploratory studies of the @xmath13 , @xmath2 and @xmath11 ( in the @xmath45 irrep ) correlator channels , on a lattice with 5:1 anisotropy and with spatial lattice spacing of @xmath46 fm .",
+    "they show that anisotropic lattice techniques will allow a monte - carlo calculation of the lattice matrix elements with reasonable computational resources .    in the future , we will calculate with various lattice sizes and spacings and take the infinite - volume and continuum limits",
+    ". we will include heavier glueball states and all 20 irreps of @xmath47 .",
+    "we will calculate the renormalization constants ."
+  ],
+  "abstract_text": [
+    "<S> we describe a lattice calculation of the matrix elements relevant for glueball production in @xmath0 radiative decays . </S>",
+    "<S> the techniques for such a calculation on anisotropic lattices with an improved action are outlined . </S>",
+    "<S> we present preliminary results showing the efficacy of the computational method . </S>"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "realistic simulation of qcd requires treating the light up , down and strange quarks dynamically . incorporating a degenerate pair of up and down",
+    "quarks have become almost standard by now , and a first attempt toward the continuum extrapolation has shown that the deviation of the quenched hadron mass spectrum from experiment @xcite is sizably reduced@xcite . adding a dynamical strange quark is the next step , which has become possible with the recent algorithmic development for odd number of fermions@xcite .",
+    "the cp - pacs and jlqcd collaborations have jointly started a 2 + 1 flavor dynamical qcd , employing the polynomial hmc ( phmc ) algorithm for strange quark and the hmc algorithm for up and down quarks .",
+    "we choose the renormalization - group ( rg ) improved action for the gauge fields , in order to avoid the lattice artifact present for the plaquette action@xcite .",
+    "we wish to use a fully @xmath0-improved action for quarks to control lattice spacing errors . here",
+    "we report on a non - perturbative determination of @xmath2 for three - flavor qcd by the schrdinger functional scheme both for the plaquette and rg - improved gauge actions .",
+    "for the determination of @xmath1 , we basically follow the method of ref.@xcite , except for the choice b for the boundary weight of the rg - improved gauge action @xcite .",
+    "we refer to ref .",
+    "@xcite and references therein for notations in this report .",
+    "= 7.0 cm    we mainly use an @xmath3 lattice in our determination of @xmath1 for the rg - improved as well as the plaquette action with @xmath4 dynamical quarks at several values of @xmath5 . simulations with @xmath6 are also made for comparison .",
+    "we measure the modified pcac quark masses , @xmath7 and @xmath8 , and their difference @xmath9 , at several values of @xmath1 and @xmath10 .",
+    "we have taken these parameters to realize @xmath11 by an interpolation , except at strong couplings for the case of @xmath4 , where an extrapolation to @xmath11 is necessary as shown in fig .",
+    "[ fig : dmm ] .    from the linear fit of @xmath12 as a function of @xmath7 and @xmath1 : @xmath13 we obtain the @xmath0 improvement coefficient @xmath14 , where @xmath15 , marked by the horizontal dotted line in fig .",
+    "[ fig : dmm ] , is the tree - level value of @xmath12 on a @xmath3 lattice .",
+    "note that the dependence of @xmath12 on @xmath1 becomes weaker at stronger couplings , so that the determination of @xmath1 is more difficult , and hence the error is larger , at stronger couplings .",
+    "= 6.5 cm    = 6.5 cm    in the upper plot of fig .",
+    "[ fig : cswrp ] we show the non - perturbative value of @xmath1 as a function of the bare gauge coupling @xmath16 for the rg - improved gauge action with @xmath4(circles ) , 2(diamonds ) and 0(squares ) , together with the one - loop estimate(solid line ) and the mean - field(mf ) estimate(dashed line ) used in ref .",
+    "similarly , results for the plaquette action with @xmath4(circles ) and @xmath17(squares ) are given in the lower plot of fig .",
+    "[ fig : cswrp ] , together with the one - loop estimate(solid line ) and the non - perturbative values by the alpha collaboration with @xmath18(dotted lines)@xcite and 0(long - dashed line)@xcite .    in both cases , the non - perturbative values of @xmath1 are almost @xmath19 independent at weak coupling while they become larger for smaller @xmath19 at strong coupling .",
+    "this tendency can be clearly seen in fig .  [",
+    "fig : cswnf ] , where @xmath1 is plotted as a function of @xmath19 for the rg action(open symbols ) and the plaquette action(solid circles ) .",
+    "= 6.5 cm    at first sight , the non - perturbative @xmath1 seems to undershoot the one - loop estimate at weak coupling for the rg action , while it converges smoothly from above for the plaquette action .",
+    "we have found that the discrepancy seen for the rg action is caused by the one - loop @xmath20 error in @xmath1 , errors of @xmath1 in general cause @xmath21 errors in on - shell quantities , which are irrelevant in the @xmath0 improvement . ] which becomes leading after the @xmath22 error at tree level is removed by requiring @xmath23 . in fig .",
+    "[ fig : cswrg0 ] , the non - perturbative @xmath1 is compared with the one - loop estimate we have calculated on the same lattice size employed in the simulation , @xmath3 . as seen from the figure the non - perturbative value agrees with the one - loop estimate much better on the @xmath3 lattice than in the infinite box . note that the @xmath24 contribution to @xmath1 slightly depends on @xmath19 through the fermion tadpole in the presence of the background gauge field of the schrdinger functional scheme .",
+    "such an @xmath19 dependence is indeed seen in the numerical data of fig .",
+    "[ fig : cswrg0 ] .    for the plaquette action",
+    "we also confirm a presence of the @xmath24 correction , which is small on the @xmath3 lattice , as shown in fig .",
+    "[ fig : cswl ] where @xmath1 is plotted as a function of @xmath25 at @xmath26 with @xmath27 . the one - loop estimates(solid circles ) reproduce the non - monotonic behaviour of non - perturbative values(open circles ) well .",
+    "we have determined the non - perturbative value of @xmath1 for the rg action at several gauge couplings with @xmath28 . in order to obtain an interpolation formula of @xmath1 as a function of @xmath16 , we have to eliminate large @xmath24 corrections to @xmath1 present for the rg action .",
+    "we are currently investigating this problem .",
+    "this work is supported in part by grants - in - aid of the ministry of education ( nos .",
+    "11640294 , 12304011 , 12640253 , 12740133 , 13135204 , 13640259 , 13640260 , 14046202 14740173 ) .",
+    "is supported by the jsps research fellowship ."
+  ],
+  "abstract_text": [
+    "<S> we present a fully non - perturbative determination of the @xmath0 improvement coefficient @xmath1 in three - flavor dynamical qcd for the rg improved as well as the plaquette gauge actions , using the schrdinger functional scheme . </S>",
+    "<S> results are compared with one - loop estimates at weak gauge coupling .    </S>",
+    "<S> # 1#2 </S>"
+  ]
+}

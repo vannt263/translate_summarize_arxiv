@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "qcd predicts the existence of hybrid states which contain excited gluon fields .",
+    "hybrid mesons with heavy @xmath0 quark pairs are the most amenable to theoretical treatment .",
+    "they can be studied not only directly by numerical simulation , but also using the born - oppenheimer expansion which is our primary guidance for the development of a simple physical picture .",
+    "the born - oppenheimer picture was introduced for the description of heavy hybrid states in refs .",
+    "@xcite and was applied using hybrid potentials first calculated in lattice qcd in ref .",
+    "@xcite . in this study",
+    ", we work to leading order in the expansion and neglect higher - order terms involving spin , relativistic , and retardation effects .",
+    "we test the accuracy of the born - oppenheimer approach by comparison with high - precision results from simulations .",
+    "simulation parameters for the two lattices .",
+    "[ table : simparams ] [ cols= \" < , < ,",
+    "< , < \" , ]     the applicability of the leading born oppenheimer approximation relies on the smallness of the retardation effects . we can determine the size of this effect by comparing the two approaches taken here since the nrqcd hamiltonian only differs from the lbo hamiltonian by the inclusion of the @xmath1 coupling between the color charge _ in motion _ and the gluon field . the difference in splittings",
+    "are tabulated in table  [ table : results ] and shown in fig .",
+    "[ fig : scaling ] . in the comparison ,",
+    "the scale ambiguity has been removed and the lattice artifacts were found to be small ( @xmath2 ) .",
+    "furthermore , the splittings are insensitive to small changes in the @xmath3-quark mass .",
+    "we thus conclude that the small differences ( @xmath4 from the two approaches is in fact due to retardation , hence validating the born - oppenheimer expansion .",
+    "= 2.5 in    the masses of 4 hybrid states were determined in leading order nrqcd in the quenched approximation .",
+    "the magnitude of the retardation effects were found to be small validating the born - oppenheimer expansion .",
+    "the level splittings in the lbo approximation were found to be rather insensitive to the b quark mass .",
+    "the lbo wavefunctions revealed the spatial largeness of the hybrid meson states and also indicated that the finite volume effects in our simulations should be negligible .",
+    "note that our lbo spectrum of hybrid mesons based on adiabatic surfaces calculated in the quenched approximation will very likely differ from the true spectrum due to our neglect of sea quark effects .",
+    "the inclusion of such effects remains an important challenge for the future .",
+    "9 p.  hasenfratz _ et al .",
+    "_ , phys .",
+    "b * 95 * , 299 ( 1980 ) ; d.  horn and j.  mandula , phys .",
+    "d * 17 * , 898 ( 1978 ) .",
+    "s.  perantonis and c.  michael , nucl .",
+    "* b 347 * , 854 ( 1990 ) . c.  morningstar and m.  peardon , phys .",
+    "d * 56 * , 4043 ( 1997 ) .",
+    "juge , j.  kuti , and c.  morningstar , nucl .",
+    "b ( proc .  suppl . ) * 63 * , 326 ( 1998 ) . c.  davies _ et al . _ ,",
+    "d * 58 * , 054505 ( 1998 ) ."
+  ],
+  "abstract_text": [
+    "<S> the spectrum of heavy - quark hybrids is studied in the leading born - oppenheimer ( lbo ) approximation and using leading - order nrqcd simulations with an improved gluon action on anisotropic lattices . </S>",
+    "<S> the masses of four hybrid states are obtained from our simulations for lattice spacings 0.1 fm and 0.2 fm and are compared to the lbo predictions obtained using previously - determined glue - excited static potentials . </S>",
+    "<S> the consistency of results from the two approaches reveals a compelling physical picture for heavy - quark hybrid states . </S>"
+  ]
+}

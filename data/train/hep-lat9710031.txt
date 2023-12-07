@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "as a step toward the clarification of the finite - temperature qcd transition , it is important to investigate the nature of the transition on the lattice with two degenerate light quarks . in a previous study@xcite , using the wilson quark action and a renormalization group ( rg ) improved gauge action @xmath0 with @xmath1 and @xmath2  @xcite , we studied the nature of the phase transition and the scaling behavior of the chiral condensate at @xmath3 @xmath4 on an @xmath5 lattice , where @xmath6 is the value of @xmath7 at the chiral transition point . in the present work ,",
+    "we extend the study to @xmath8 performing simulations at @xmath9 , 1.2 , and 1.35 on an @xmath10 lattice .",
+    "we also determine the phase structure of the chiral limit , in particular , for @xmath8 at @xmath5 on a @xmath11 plane .",
+    "= 6.2 cm    fig.[fig : dig ] shows our result for the phase diagram on a @xmath11 plane . in the previous work@xcite ,",
+    "the line of the zero - temperature chiral limit @xmath12 defined by the vanishing point of the pion mass was determined on an @xmath13 lattice , and the finite - temperature transition / crossover line @xmath14 for @xmath5 was determined on an @xmath15 lattice .",
+    "the @xmath14 line crosses the @xmath12 line at @xmath16 .",
+    "= 5.8 cm    in this work , we estimate the location of the finite - temperature chiral limit @xmath17 for @xmath5 , defined by the vanishing point of the pion screening mass @xmath18 . in fig.[fig : mass ] , we plot @xmath19 and the quark mass @xmath20 for @xmath5 at fixed @xmath7 as a function of @xmath21 , where @xmath20 is defined by an axial ward identity@xcite . in the upper figure for @xmath22 , there are two chiral limits . on the other hand , at @xmath23 in the lower figure , we can not find a clear gap between the two chiral limits .",
+    "these results imply that the line @xmath17 for the chiral limit turns back towards strong coupling around @xmath6 , forming a cusp , as shown in fig.[fig : dig ] .",
+    "this structure is consistent with that expected from the parity - flavor breaking scenario@xcite , which was confirmed for the standard one plaquette gauge action and the wilson quark action@xcite .",
+    "= 6.0 cm    the magnetization @xmath24 near the second order transition is expected to be described by a single scaling function ; @xmath25 with @xmath26 the external magnetic field and @xmath27/t_c(h\\!=\\!0)$ ] the reduced temperature .",
+    "according to the universality argument , when the chiral transition is of second order , two flavor qcd belongs to the same universality class as the three dimensional o(4 ) spin model@xcite , and the chiral condensate should satisfy the scaling relation ( [ eq : universality ] ) with the o(4 ) exponents and the o(4 ) scaling function .",
+    "we identify @xmath28 , @xmath29 , and @xmath30 , where @xmath24 is a subtracted chiral condensate defined through an axial ward identity@xcite , @xmath31 our results for @xmath32 are shown in fig.[fig : psi ] .",
+    "we make a fit to the scaling function of the o(4 ) model by adjusting @xmath6 and the scales for @xmath33 and @xmath26 , with the exponents fixed to the o(4 ) values@xcite , including all the data in the range @xmath34 and @xmath35 shown in fig.[fig : psi ] .",
+    "we note that the data for the lightest quark mass ( @xmath36 - 0.07 ) at @xmath37 , 1.2 , and 1.35 are slightly off the scaling curve .",
+    "therefore , we make a fit excluding these three points .",
+    "the result of the fit with @xmath38 is shown in fig.[fig : scaling](a ) .",
+    "the result shows that scaling works well in the @xmath39 region as well as the @xmath40 region , except the three lightest quark mass data at @xmath41 , indicated by the filled symbols .",
+    "the adjusted @xmath42 is consistent with @xmath43 obtained by the previous fit using only the @xmath44 data@xcite .",
+    "one possible origin of the deviation from the scaling curve of the lightest quark mass data at @xmath39 is a finite size effect , because , in the confining phase , we expect that finite size effects are severe at small quark mass . to explore this possibility , we are performing simulations on @xmath45 ( @xmath46 and 16 ) lattices for the lightest quark mass data at @xmath47 and 1.35 .",
+    "the statistics we have accumulated so far ( about 50 configurations each ) is not yet high enough to obtain a definite conclusion about the systematic size dependence of the deviation from the scaling curve .",
+    "another possible origin for the deviation is the explicit chiral breaking due to the wilson term , which is expected to be large at small @xmath7 .",
+    "it is plausible that this effect becomes visible as deviation from scaling , when the explicit chiral violation due to the wilson term becomes larger than that from the quark mass .",
+    "the fact that we observe the deviation from the scaling at the lightest quarks mass for small @xmath7 region is consistent with this interpretation . to confirm this interpretation",
+    "it is necessary to make a simulation at larger @xmath48 to reach a larger @xmath7 region , or use an improved quark action .",
+    "we also study the possibility of the mf scaling@xcite .",
+    "we perform the scaling test using mf exponents and the mf scaling function . because @xmath18 at @xmath7=1.5 does not vanish in the chiral limit ( cf .",
+    "fig.3 in ref.@xcite ) , we restrict @xmath49 . we then obtain the best fit shown in fig.[fig : scaling](b ) with @xmath50 , to be compared with @xmath51 obtained for the o(4 ) case [ fig.[fig : scaling](a ) ] .",
+    "we exclude the mf scaling , as the data is much more scattered than in the o(4 ) case .",
+    "the success of the scaling with the o(4 ) exponents , albeit with the three lightest quark data at @xmath52 excluded , indicates that the chiral transition for two flavor qcd is of second order in the continuum limit .",
+    "numerical simulations are performed with fujitsu vpp500/30 at the university of tsukuba .",
+    "this work is in part supported by the grants - in - aid of ministry of education ( nos .  09246206 , 09304029 , 08640349 , 08640350 ) ."
+  ],
+  "abstract_text": [
+    "<S> we investigate the finite - temperature phase structure and the scaling of the chiral condensate in lattice qcd with two degenerate light quarks , using a renormalization group improved gauge action and the wilson quark action . </S>",
+    "<S> we obtain a phase diagram which is consistent with that from the parity - flavor breaking scenario . the scaling relation for the chiral condensate assuming the critical exponents and the scaling function of the three dimensional o(4 ) model is remarkably satisfied for a wide range of parameters . </S>",
+    "<S> this indicates that the chiral transition in two flavor qcd is of second order in the continuum limit . </S>"
+  ]
+}

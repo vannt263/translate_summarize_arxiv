@@ -1,0 +1,11 @@
+{
+  "article_text": [
+    "this report is represented the results of some experiments , which carried out at the neutrino underground laboratory of kranoyarsk nuclear plant .      *",
+    "the unique complex of the industrial nuclear reactors is inside rock and a passive shielding from cosmic muons corresponds to 600 m.w.e . due to the muons flux",
+    "is suppressed by a factor 1000 ; * the composition of a nuclear fuel in the reactor is such , that the difference between the real antineutrino spectrum and u-235 spectrum is less then 1% ; * the peroid  reactor - on  is equal to approximately 50 days and therefore one may measure the background each two months but not 1 - 1.5 years usual on power atomic station ."
+  ],
+  "abstract_text": [
+    "<S> the investigation of antineutrino interaction with matter at krasnoyarsk reactor is described . </S>",
+    "<S> the characteristics of the detector  deuteron  and the present results and perspectives are discussed . </S>"
+  ]
+}

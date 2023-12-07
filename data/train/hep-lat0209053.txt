@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "we use the mollification ( _ approximate identity _ ) technique to rewrite the partition function in such a way that not only its computation , but the computation of its derivatives ( green s functions ) , become well defined using monte carlo methods , even for integrands that normally do not allow this approach .",
+    "a mollifier , @xmath0 , is a positive , @xmath1 $ ] function , @xmath2 , with @xmath3 , where @xmath4 and @xmath5 is the ball centered at @xmath6 with radius @xmath7 and @xmath8 .",
+    "the sequence of functions , @xmath9 is an _",
+    "approximate identity_. a _ mollification _ of a locally integrable function @xmath10 , @xmath11 , is given by ,    u _ & = \\{x u ( x , u ) > } + [ eq : moll ] f _ & = @xmath12 , f_u _ + [ eq : moll - conv ] f_(x ) & = _ u _ ( x - y ) f(y ) dy + & = _ b(0 , ) _ ( y ) f(x - y ) dy .",
+    "the properties of mollifiers , @xmath13 , are :    1 .",
+    "@xmath14 ; 2 .",
+    "@xmath15 , almost everywhere , as @xmath16 ; 3 .",
+    "if @xmath17 , then @xmath15 _ uniformly _ on compact subsets of @xmath18 ; _ & _ 4 .   if @xmath19 and @xmath20 , then @xmath21 in @xmath22 .",
+    "it is not difficult to see that this approximation , ( @xmath23 , the _ mollified _ version of @xmath24 ) , can smooth oscillating functions .",
+    "@xmath23 is differentiable and , not only does it converge to @xmath24 when @xmath16 but , depending on where this convergence takes place , it can be either uniform or in @xmath25",
+    ".      the object we calculate will not be the usual partition function , but its mollified version , @xmath26 ,    [ eq : pf ] _ [ j ] & = , + f _ & f _ @xmath12 .    from equation",
+    "it follows that , upon choosing @xmath18 appropriately , the boundary conditions is equivalent to choosing the measure in the path - integral . ] for the theory ( defined here by @xmath27 ) are set@xcite .",
+    "the method is applied in two steps :    1 .   : for simplicity",
+    ", the mollifier is chosen to be a gaussian , @xmath28 where @xmath29 is the covariance matrix that defines the gaussian distribution .",
+    "thus , a typical path - integral will look like , + _ & = f ( ) e^is ( ) - i j _ [ d ] + & = f(_0 ) e^is(_0 ) - i j_0 + & + + & + , + where @xmath30 and @xmath31_{ij } = \\partial^2 s(\\boldsymbol{\\varphi})/\\partial \\varphi_i\\ ,      \\partial \\varphi_j$ ] ( hessian matrix for @xmath27 ) .",
+    "the monte carlo simulation is handled as follows : choose an _ importance function _",
+    ", @xmath32 , and change the measure of integration accordingly , @xmath33 = \\frac{\\displaystyle\\varint\\ , \\biggl[\\frac{{\\left\\langle e^{i\\ ,        s(\\boldsymbol{\\varphi } ) - i\\ , j \\cdot        \\boldsymbol{\\varphi}}\\right\\rangle}_{\\epsilon}}{w(\\boldsymbol{\\varphi})}\\biggr]\\ , [ d        w(\\boldsymbol{\\varphi})]}{\\displaystyle\\varint\\ , \\biggl[\\frac{{\\left\\langle e^{i\\ ,         s(\\boldsymbol{\\varphi})}\\right\\rangle}_{\\epsilon}}{w(\\boldsymbol{\\varphi})}\\biggr]\\ , [ d        w(\\boldsymbol{\\varphi } ) ] } \\;\\ ; .\\ ] ] a reasonable choice for @xmath34 is given by @xcite @xmath35 . upon a saddle - point expansion",
+    ", we find , @xmath36",
+    "two basic examples will be shown here . both of them can be regarded as 0-dimensional [ spacetime ] quantum field theories .",
+    "the action is given by : @xmath37 .",
+    "note that , @xmath38 , thus , the partition function and its mollification are ,    [ aipf ] [ t ] & = , + [ aimpf ] _ [ t ] & = .    this is a particular useful example for two reasons :    1 .",
+    "we can easily compare the approximated results with the exact ones , 2 .",
+    "boundary conditions : assuming integration on the real axis , the euclidian version of this theory does not exist , therefore working in minkowski space is necessary .",
+    "it is easy to see that this is a highly oscillatory integrand ( what makes the use of monte carlo techniques impractible ) .",
+    "however , once its mollification is calculated , the task becomes simpler ( as shown below ) .",
+    "the importance function , @xmath39 , is also shown for several values of the parameter @xmath40 :      the action is , @xmath42 .",
+    "thus , the mollified generating functional is given by : @xmath43 = \\frac{\\displaystyle\\varint_{-\\infty}^{\\infty}\\ , { \\left\\langle \\exp\\biggl\\{i\\ ,      \\frac{\\mu}{2}\\ , \\phi^2 + i\\ , \\frac{g}{4}\\ , \\phi^4 - i\\ , j\\ , \\phi\\biggr\\}\\right\\rangle}_{\\epsilon}\\ ,      d\\phi}{\\displaystyle\\varint_{-\\infty}^{\\infty}\\ , { \\left\\langle \\exp\\biggl\\{i\\ , \\frac{\\mu}{2}\\ , \\phi^2      + i\\ , \\frac{g}{4}\\ , \\phi^4 \\biggr\\}\\right\\rangle}_{\\epsilon}\\ , d\\phi } \\ ; .\\ ] ] as usual , its parameters , @xmath44 , will determine the phase structure of the theory .",
+    "the following are the plots of the 2-point green s function in the symmetric and broken - symmetric phases , respectively .",
+    "the plots below are the importance function and the mollified integrand in the symmetric and broken symmetric phase , respectively .",
+    "it is interesting to realize that , for the broken symmetric phase , the importance function peaks exactly at the point where the mollified integrand ceases to have two concavities and begins to have only one .",
+    "ddf and gsg wish to acknowledge support by grant , jdd and ds wish to acknowledge support from the through awards and .    11 l. c. evans , _ partial differential equations _ , ams ( 1998 ) , gsm 19 .",
+    "m. reed and b. simon , _ methods of modern mathematical physics ii : fourier analysis , self - adjointness _ , academic press .",
+    "d. sabo and j.d .",
+    "doll and d.l .",
+    "freeman , _ stationary tempering and the complex quadrature problem _ , j. chem .",
+    "116(9):3509 - 3520 , march 2002 . s. garcia and z. guralnik and g. guralnik , _ theta vacua and boundary conditions of the schwinger - dyson equations _ , ( 1996 ) , ` hep - th/9612079 ` ."
+  ],
+  "abstract_text": [
+    "<S> using a common technique @xcite for approximating distributions [ generalized functions ] , we are able to use standard monte carlo methods to compute qft quantities in minkowski spacetime , under phase transitions , or when dealing with coalescing stationary points . </S>"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "= 7.5 cm    matching of the heavy - light currents between lattice simulations and full continuum theory is important for studies of heavy meson leptonic and semileptonic decays . as statistical and discretization errors",
+    "are reduced , chiral extrapolation and operator matching errors dominate , and more accurate matching calculations become necessary . as part of the work of studying heavy mesons , one - loop perturbative matching of the heavy - light currents was performed . in this",
+    "talk we focus on the matching of the temporal currents @xmath4 and @xmath5 .",
+    "our calculations are correct through @xmath6 .",
+    "matching of the spatial components @xmath7 and @xmath8 to the same level of accuracy has now also been completed .",
+    "the actions used are highly improved lattice actions .",
+    "the asqtad improved naive light quark action , which is correct through @xmath9@xmath10@xmath11 was used . for the heavy quarks , we used an improved nrqcd action .",
+    "this action is correct through @xmath12@xmath13 , and is the same action that is being used in numerical simulations on milc dynamical configurations . for the gluon",
+    ", the symanzik improved glue action was used .",
+    "two independent methods were employed for the matching calculation : first , mathematica was used to do the dirac algebra and where necessary , to take derivatives with respect to external momenta .",
+    "the result was converted into fortran format and numerical integration was done with the fortran vegas program .",
+    "second , a c++ code originally developed for a similar calculation with other types of actions by c. morningstar was modified and used .",
+    "the derivatives were taken by automatic differentiation .",
+    "for massless asqtad quarks : @xmath14 \\ ; + \\ ; { { \\cal o}}(\\alpha_s^2 ) \\nonumber \\\\ c^{ir}_q & = & \\frac{1}{3 \\ , \\pi } \\left[1 + ( \\xi - 1 ) \\right ] \\ ; { \\rm ln } ( a^2 \\lambda^2 ) \\nonumber \\\\ c_q & = & c_q^{reg } \\ ; + \\ ; c_q^{tad } \\ ; + \\ ; c_q^{u0 } \\nonumber \\\\ c_q^{u0 } & = & \\ ; - \\ ; \\left[\\,4 - \\frac{1}{4 } - \\frac{3}{2}\\right ] \\ ,   u^{(2)}_0 = \\ ; - \\ ; \\frac{9}{4 } \\ ; u^{(2)}_0 \\ , , \\nonumber \\\\ u_0 & \\equiv & 1 - \\alpha_s \\ , u^{(2)}_0 + { { \\cal o}}(\\alpha_s^2 ) \\ , .\\nonumber \\end{aligned}\\ ] ]    = 7.5 cm    @xmath15 for the plaquette definition of @xmath16 and @xmath17 for the landau link definition , and @xmath18 is the gluon mass .    for heavy quarks : @xmath19 \\ ; + \\ ; { { \\cal o}}(\\alpha_s^2 )   \\nonumber \\\\ z_m & = & 1 \\ ; + \\ ; \\alpha_s \\ ,   c_m    \\ ; + \\ ; { { \\cal o}}(\\alpha_s^2 )   \\nonumber \\\\ a \\ , e_0 & = & \\qquad \\ ; \\alpha_s \\ ,   c_{e0 }    \\ ; + \\ ;   { { \\cal o}}(\\alpha_s^2)\\nonumber \\\\ c^{ir}_q & = & \\frac{1}{3 \\ ,",
+    "\\pi } \\left[-2 + ( \\xi - 1 ) \\right ] \\ ; { \\rm ln } ( a^2 \\lambda^2 ) \\,\\nonumber \\end{aligned}\\ ] ] @xmath20 was previously calculated by h. trottier using twisted boundary conditions as ir regulator .",
+    "our results for the lattice - continuum difference are in agreement .",
+    "kinetic mass is obtained nonperturbatively from finite momentum correlators using the meson dispersion relation ; @xmath21 where @xmath22 .",
+    "the perturbative mass is estimated using the zero momentum correlator and the one - loop heavy quark mass renormalization @xmath23 as shown in fig .",
+    "1 , the results are in agreement with each other .",
+    "the lattice currents that are matched with the corresponding continuum ones are listed in @xcite the continuum currents are a linear combination of lattice ones :    @xmath24    the matching coefficients for the axial vector and vector coefficients are the same due to the good chiral properties of the asqtad action ; @xmath25 .",
+    "the perturbative expansion of the matching coefficients goes as , @xmath26 the goal is to find the perturbative matching coefficients @xmath27 . as seen in fig .",
+    "2 , these matching coefficients are small and well behaved , which shows that perturbation theory is working well . for",
+    "the numerical values of the coefficients , see @xcite.as an example , the effect of the matching on @xmath28 is plotted in fig 3 . the difference is within 3% around the physical @xmath29 .",
+    "we have performed one - loop matching of the lattice nrqcd+asqtad heavy - light current to the corresponding continuum current for different heavy quark masses .",
+    "the calculation is correct through @xmath30 .",
+    "the perturbative matching coefficients are found to be small and well behaved .",
+    "these matching coefficients are important for the study of leptonic and semileptonic decays of @xmath31 and @xmath32 mesons and of neutral @xmath31 mixing .",
+    "the results of this work is used for calculating the decay constants for @xmath29 , @xmath33 @xcite and @xmath31 @xcite . these results are also important ingredients in calculation of form factors @xmath34 , @xmath35 @xcite .",
+    "similar perturbative matching for four fermion operators is underway .",
+    "this work was supported by the doe ."
+  ],
+  "abstract_text": [
+    "<S> one - loop matching of heavy - light currents is carried out for a highly improved lattice action , including the effects of mixings with dimension @xmath0 @xmath1@xmath2 and @xmath1@xmath3 operators . </S>",
+    "<S> we use the nrqcd action for heavy quarks , the asqtad improved naive action for light quarks , and the symanzik improved glue action . </S>",
+    "<S> these results are being used in recent heavy meson decay constant and semileptonic form factor calculations on the milc dynamical configurations . </S>"
+  ]
+}

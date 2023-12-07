@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "this analysis was performed as part of the sesam project @xcite to investigate * s*ea quark * e*ffects on * s*pectrum * a*nd * m*atrix - elements",
+    ". configurations were generated using the hybrid - monte - carlo algorithm with the standard wilson action at a coupling of @xmath5 on a @xmath4 lattice .",
+    "we work at three different values of the dynamical quark mass : @xmath6 , @xmath7 and @xmath8 corresponding to @xmath9-ratios of @xmath10 , @xmath11 and @xmath12 @xcite .",
+    "our lightest quark - mass is approximately equal to the strange quark - mass . up to now",
+    "we generated about 8000 trajectories of unit - length with a time - step of @xmath13 .",
+    "after measuring the integrated autocorrelation time for the plaquette and the pion - correlator at fixed timeslice @xcite we decided to use configurations separated by 25 trajectories for the present spectrum analysis .",
+    "our sample consists of @xmath14 , @xmath15 and @xmath14 configurations for our 3 sea - quark values .",
+    "since we aim at a final sample of @xmath16 configurations this talk should be considered as a half - time status report .",
+    "quark propagators for the set of valence @xmath17-values \\ { 0.1555 , 0.1560 , 0.1565 , 0.1570 , 0.1575 } were computed using the standard overrelaxed minimal residual algorithm with smeared sources and local as well as smeared sinks .",
+    "we used the wuppertal gauge - invariant gaussian smearing method with @xmath18 iterations and @xmath19 , fitting the hadron - correlators to single - exponential functions . throughout this analyis",
+    "we neglect correlations in time and in @xmath17 .",
+    "we hope to present a stable correlated analysis on our final sample .",
+    "[ cols=\"<,<,<,<,<,<,<,<\",options=\"header \" , ]",
+    "on our present statistics , uncorrelated data analyses of @xmath20- and @xmath21 distributions allow for stable chiral extrapolations in valence quark mass , @xmath22 .",
+    "we find the @xmath23-meson mass to be be consistent with a linear chiral ansatz , while the remaining quantities considered exhibit _ nonlinear _ behaviour in @xmath22 .",
+    "@xmath24 varies on the level of 15 % across our range of sea quark masses .",
+    "baryon masses and decay constants so far indicate a trend but produce no compelling evidence for such variation .",
+    "chiral extrapolations of our present data in @xmath25 itself still carry too large uncertainties to be reliable .",
+    "better statistics and deeper penetration into the chiral regime are needed to improve on this situation .",
+    "99 sesam - collaboration , nucl .",
+    "b ( proc . suppl . )",
+    "* 47 * ( 1996 ) 386 .",
+    "sesam - collaboration , in preparation sesam - collaboration , preprint hlrz 96 - 20 and wub 96 - 17 , to be published in phys .  lett .",
+    "lepage and p.b .",
+    "mackenzie , phys .",
+    "d * 48 * ( 1993 ) 2250 ."
+  ],
+  "abstract_text": [
+    "<S> we present results from an analysis of the light spectrum and the decay constants @xmath0 and @xmath1 in full qcd with @xmath2 wilson fermions at a coupling of @xmath3 on a @xmath4 lattice . </S>"
+  ]
+}

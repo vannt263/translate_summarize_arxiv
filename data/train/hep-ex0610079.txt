@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "the branching ratios of @xmath1 decays into octet baryon - antibaryon pairs were measured by the bes - i and cleoc collaborations , and the results differ significantly , as shown in table  [ br_list ] .",
+    "it is therefore important to make new measurements to help clarify these differences using the sample of @xmath0 @xmath1 events collected by besii , which is the world s largest @xmath10 @xmath1 sample .    .[br_list]branching ratios of @xmath11 .",
+    "[ cols=\"<,<,<\",options=\"header \" , ]",
+    "the bes collaboration thanks the staff of bepc for their hard efforts .",
+    "this work is supported in part by the national natural science foundation of china under contracts nos .",
+    "10491300 , 10225524 , 10225525 , 10425523 , the chinese academy of sciences under contract no .",
+    "kj 95t-03 , the 100 talents program of cas under contract nos .",
+    "u-11 , u-24 , u-25 , and the knowledge innovation project of cas under contract nos .",
+    "u-602 , u-34 ( ihep ) , the national natural science foundation of china under contract no .",
+    "10225522 ( tsinghua university ) , and the department of energy under contract no.de-fg02-04er41291 ( u hawaii ) .",
+    "99 j. z. bai  ( bes collab . ) , & 63&032002(2001 ) . t. k. pedlar  ( cleo collab . ) , & 72&051108(2005 ) .",
+    "s.j.brodsky and g.p.lepage , & 24&2848(1981 ) .",
+    "m. claudson , s.l .",
+    "glashow and m.b.wise , & 25&1345(1982 ) . c. carimalo ( college de france ) , & 2&249(1987 ) .",
+    "j. z. bai  ( bes collab . ) , & 591&42(2004 ) .",
+    "m. ambrogiani  ( e835 collab . ) , & 610&177(2005 ) .",
+    "j. z. bai  ( bes collab . ) , & 458&627(2001 ) .",
+    "cern application software group , geant - detector description and simulation tool , cern program library long writeup * w 5013 * , geneva(1994 ) . m. ablikim  ( bes collab . ) , & 552&344(2005 ) . x. h. mo , & 28&455(2004 )",
+    ". s. p. chi , x. h. mo and y. s. zhu , measurement of the integrated luminosity at @xmath12 gev .",
+    "w.  m.  yao , j.  phys .",
+    "g  33 ,  1 ( 2006 ) .",
+    "r. g. ping , h. b. li , hep & np , 30 ( 09 ) , 819 ( 2006 ) . c.  zeitnitz and t.  a.  gabriel , & 349&106(1994 ) .",
+    "k.  hanssgen , h.  j.  mohring and j.  ranft , & 88&551(1984 ) ; j.  ranft and s.  ritter , & 20&347(1983 ) ; a.  fasso , fluka 92 , proceedings of the workshop on simulating accelerator radiation environment , santa fe(1993 ) .",
+    "m. ablikim  ( bes collab ) , & 632&181(2006 ) .",
+    "m. ablikim  ( bes collab ) , & 619&247(2005 ) ; j. z. bai  ( bes collab . ) , & 70&012005(2004 ) ."
+  ],
+  "abstract_text": [
+    "<S> with a sample of @xmath0 @xmath1 events collected by the besii detector at the beijing electron positron collider ( bepc ) , the decay channels @xmath2 are measured , and their branching ratios are determined to be @xmath3 , @xmath4 , @xmath5 , @xmath6 , respectively . in the decay @xmath7 , </S>",
+    "<S> the angular distribution parameter @xmath8 is determined to be @xmath9 . </S>"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "article_text": [
+    "it is well known that within the standard model ( sm ) , single top quark production is negligible because of the flavor conservation in the leading order.however in a wide class of dynamical models extending the sm this possibility exists due to the large top mass close to the electroweak symmetry breaking scale .",
+    "flavor changing neutral current ( fcnc ) interactions of top quarks has a particular importance . in these models",
+    "the top quarks is predicted to have significantly large fcnc interactions @xcite .",
+    "production of single top quarks via fcnc vertices was extensively studied at @xmath3 @xcite and at hadron colliders @xcite . at hera , as a lepton - hadron type collider , the same production was first investigated in @xcite . in this reference only the charm distribution in the proton is considered .",
+    "the h1 collaboration searched for the production by considering both of anomalous vertices @xmath4 and @xmath5 from the fact that hera has much higher sensitivity to @xmath6 than to @xmath7 , due to more favorable parton density @xcite .    in this paper",
+    "we analyze anomalous single top production considering both of the @xmath8 and @xmath9 couplings to see especially the contribution of the second coupling . in order to make illustration clear we present the numerical results for hera and thera @xcite colliders with the cm energies @xmath10 and @xmath11 @xmath12 respectively .",
+    "we consider the most general effective lagrangian proposed in @xcite ( generalized by the h1 collaboration to include @xmath13 transition ) to describe the anomalous top decays @xmath14 and @xmath15 : @xmath16uz^{\\mu }    + h.c.,\\ ] ]    where @xmath17 $ ] , @xmath18 is the weinberg angle , @xmath19 is the electric charge of up - type quarks , and @xmath20 denotes the scale up to which the effective theory is assumed to hold . by convention we set @xmath21 in the following ."
+  ],
+  "abstract_text": [
+    "<S> we study the single top production mediated by flavor changing neutral current via both of the @xmath0 and @xmath1 vertices ( here q represents c and u quarks ) in @xmath2 collisions at two colliders hera and thera . </S>",
+    "<S> contribution of the second vertex becomes even more important as the couplings take more improved values provided by the higher luminosities of colliders . </S>",
+    "<S> in addition to these improvements if the cm energy of the collider is increased , the production will be dominated by the anomalous @xmath1 vertex . </S>"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    ""
+  ],
+  "abstract_text": [
+    "<S> neutrinoless double beta decay is a very important process both from the particle and nuclear physics point of view . from the elementary particle point of view </S>",
+    "<S> it pops up in almost every model , giving rise , among others , to the following mechanisms : a ) the traditional contributions like the light neutrino mass mechanism as well as the @xmath0 leptonic interference ( @xmath1 and @xmath2 terms ) . </S>",
+    "<S> b ) the exotic r - parity violating supersymmetric ( susy ) contributions . in this scheme </S>",
+    "<S> the currents are left handed only and the intermediate particles normally are very heavy </S>",
+    "<S> . there exists , however , the possibility of light intermediate neutrinos arising by the combination of v - a and p - s currents at the quark level . </S>",
+    "<S> this leads to the same structure as the above @xmath1 term . </S>",
+    "<S> similar considerations apply to its sister lepton and muon number violationg muon to positron conversion in the presence of nuclei .    </S>",
+    "<S> anyway , regardless of the dominant mechanism , the observation of neutrinoless double betas decay , which is the most important of the two from an experimental point of view , will severely constrain the existing models and will signal that the neutrinos are massive majorana particles . from the nuclear physics point of view it is challenging , because : 1 ) the nuclei , which can undergo double beta decay , have complicated nuclear structure . </S>",
+    "<S> 2 ) the energetically allowed transitions are suppressed ( exhaust a small part of all the strength ) . </S>",
+    "<S> 3 ) since in some mechanisms the intermediate particles are very heavy , one must cope with the short distance behavior of the transition operators . </S>",
+    "<S> thus novel effects , like the double beta decay of pions in flight between nucleons , have to be considered . in susy models </S>",
+    "<S> this mechanism is more important than the standard two nucleon mechanism . </S>",
+    "<S> 4 ) the intermediate momenta involved are quite high ( about 100 @xmath3 ) . </S>",
+    "<S> thus one has to take into account possible momentum dependent terms of the nucleon current , like the modification of the axial current due to pcac , weak magnetism terms etc . </S>",
+    "<S> we find that , for the mass mechanism , such modifications of the nucleon current for light neutrinos reduce the nuclear matrix elements by about @xmath4 , almost regardless of the nuclear model . in the case of heavy neutrino </S>",
+    "<S> the effect is much larger and model dependent . taking the above effects into account the needed nuclear matrix elements have become available for all the experimentally interesting nuclei a = 76 , 82 , 96 , 100 , 116 , 128 , 130 , 136 and 150 . </S>",
+    "<S> some of them have been obtained in the large basis shell model but most of them in various versions of qrpa . then using the best presently available experimental limits on the half - life of the @xmath5-decay , we have extracted new limits on the various lepton violating parameters . in particular we find @xmath6 and , for reasonable choices of the parameters of susy models in the allowed susy parameter space </S>",
+    "<S> , we get a stringent limit on the r - parity violating parameter @xmath7    pacs numbers:23.40.hc,21.60.jz,27.50.+e,27.60.+j +   + </S>"
+  ]
+}

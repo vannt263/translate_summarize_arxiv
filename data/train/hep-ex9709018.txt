@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "the d  detector at the fermilab tevatron was completed in 1992 and took data during the 1992 - 1993 tevatron collider run ( run  1a ) and from 1994 - 1996 ( run  1b and 1c ) .",
+    "this paper describes a scintillator upgrade to the d  wide angle muon system which was fabricated for run  1b and 1c . a cutaway isometric view of the detector is shown in fig .",
+    "[ fig : det_iso ] where the central detectors , calorimeter , and muon detectors are shown .",
+    "2.0 cm    [ cols=\"^ \" , ]     the effect of the scintillator veto on the first level muon trigger was substantial .",
+    "the high p@xmath0 dimuon trigger was reduced by approximately a factor of 3 when the veto for the top four octants were added to the trigger .",
+    "the low p@xmath0 dimuon trigger was reduced by a factor of approximately 1.6 .",
+    "the scintillation counters built for the d  muon system worked very well during the latest data taking run .",
+    "the scintillator and fiber design chosen performed as expected .",
+    "the phototubes chosen had a rather sharp gain variation during the intial running but were stable after the intial burn - in period .",
+    "the scintillators were effective in rejecting background from cosmic rays , out - of - time accelerator muons , and backscatter particles , while maintaining an efficiency greater than 99% .",
+    "we thank the staffs at fermilab and the collaborating institutions for their contributions to this work , and acknowledge support from the department of energy and national science foundation ( u.s.a . ) , cnpq ( brazil ) , departments of atomic energy and science and education ( india ) , and conacyt ( mexico ) .",
+    "we also thank a. galyaev who worked with us on the photocathode measurements .",
+    "s.  abachi _ et al . _",
+    "( d  collaboration ) , nucl .",
+    "instr . and meth . a 338 ( 1994 ) 185 ; c.  brown _ et al .",
+    "instr . and meth . a 279 ( 1989 ) 331 ;",
+    "butler _ et al .",
+    "instr . and meth . a 290 ( 1990 ) 122 ."
+  ],
+  "abstract_text": [
+    "<S> we present the results of an upgrade to the d  muon system . </S>",
+    "<S> scintillating counters have been added to the existing central d  muon system to provide rejection for cosmic ray muons and out - of - time background , and to provide additional fast timing information for muons in an upgraded tevatron . </S>",
+    "<S> performance and results from the 19941996 tevatron run are presented .    </S>",
+    "<S> fermilab pub-97/226-e +    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ,    ( for the d  collaboration )    submitted to nuclear instruments and methods in physics research , + section a </S>"
+  ]
+}

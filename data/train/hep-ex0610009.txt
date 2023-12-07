@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "supersymmetry ( susy ) predicts the existence of a new particle for every standard model ( sm ) particle , differing by half a unit in spin .",
+    "the quantum number @xmath6-parity  @xcite , defined as @xmath7 , where @xmath8 , @xmath9 and @xmath10 are the baryon , lepton and spin quantum numbers , is @xmath11 for sm and @xmath12 for susy particles .",
+    "often @xmath6-parity is assumed to be conserved , which leaves the lightest supersymmetric particle ( lsp ) stable .",
+    "however , susy does not require @xmath6-parity conservation . if @xmath6-parity violation ( ) is allowed , the following trilinear and bilinear terms appear in the superpotential  @xcite : @xmath13 where @xmath9 and @xmath14 are the lepton and quark su(2 ) doublet superfields and @xmath15 , @xmath16 , @xmath17 denote the singlet fields .",
+    "the indices have the following meaning : @xmath18 = family index ; @xmath19 = weak isospin index ; @xmath20 = color index .",
+    "the coupling strengths are given by the yukawa coupling constants @xmath21 and @xmath22 . the last term , @xmath23 , mixes the lepton and the higgs superfields .",
+    "the @xmath24 and @xmath25 couplings give rise to final states with multiple leptons , which provide excellent signatures at the tevatron .",
+    "all analyses presented here require that only one  coupling is of significant size , since strict limits exist on the product of two couplings , i.e. from the proton lifetime  @xcite . a detailed review of  susy is given in @xcite .",
+    "the data for this analysis were recorded by the d  detector between april 2002 and august 2004 at a center - of - mass energy of @xmath26  tev .",
+    "the integrated luminosity corresponds to @xmath27  pb@xmath5 .",
+    "a detailed description of the d  detector can be found in @xcite .",
+    "b.  c.  allanach , a.  dedes , and h.  dreiner , phys .",
+    "d * 60 * , 075014 ( 1999 ) ; f.  ledroit and g.  sajot , gdr - s-008 ( isn , grenoble , 1998 ) ; v.  barger , g.  f.  giudice , and t.  han , phys .",
+    "d * 40 * , 2987 ( 1989 ) .",
+    "v.  abazov _ et .",
+    "( d  collaboration ) , `` search for neutral , long - lived particles decaying into two muons in @xmath0-collisions at @xmath28  tev '' , submitted to phys .",
+    "rev .  lett .",
+    "( 2006 ) , hep - ex/0607028 ."
+  ],
+  "abstract_text": [
+    "<S> searches for r - parity violating supersymmetry with the d  detector at the fermilab tevatron @xmath0-collider are presented . in the case of </S>",
+    "<S> non - zero  couplings @xmath1 , multi - lepton final states , and for a small coupling @xmath2 di - muon final states are studied . </S>",
+    "<S> the case of non - zero  coupling @xmath3 leads to final states with two muons and jets .    </S>",
+    "<S> a total integrated luminosity of @xmath4  fb@xmath5 collected between april 2002 and august 2004 is utilized . </S>",
+    "<S> the observed numbers of events are in agreement with the standard model expectation , and limits on supersymmetry are derived , extending significantly previous bounds .     </S>",
+    "<S> +     address = iii . </S>",
+    "<S> phys . </S>",
+    "<S> inst . </S>",
+    "<S> a , rwth aachen , germany , auterman@fnal.gov </S>"
+  ]
+}

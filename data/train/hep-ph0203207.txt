@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "this research is supported by the the chinese postdoctoral science foundation and cas k.c .",
+    "wong postdoctoral research award fund .",
+    "we are grateful to prof .",
+    "x.m zhang for useful discussions .",
+    "abrams et al . , mark ii collab . , phys .",
+    "* 63 * ( 1989 ) 2173 ; b. advera et al .",
+    ", l3 collab .",
+    "b * 231 * ( 1989 ) 509;i .",
+    "decamp et al . , opal collab . , _ ibid .",
+    "_ , * 231 * ( 1989 ) 519 ; m.z .",
+    "akrawy et al . , delphi collab . , _ ibid .",
+    "_ , * 231 * ( 1989 ) 539 ; c.caso et al . , ( particle data group ) , eur . phys .",
+    "j.c * 3 * ( 1998 ) 1 ."
+  ],
+  "abstract_text": [
+    "<S> we investigate the lepton flavor violation decays , @xmath0 , @xmath1 and @xmath2 , in the framwork of a squential fourth generation model with a heavy fourth neutrino , @xmath3 . </S>",
+    "<S> using the recent experimental bounds , we can obtain the constraints of the @xmath4 leptonic mixing matrix element factors , @xmath5 and @xmath6 . </S>",
+    "<S> we find that lfv decays can give strigent costraints on the parameter space of the 4th neutrino mass @xmath7 .    </S>",
+    "<S> = -30 mm    at present , standard model ( sm ) has to face the experimental difficaties @xcite which are all relate to leptons . </S>",
+    "<S> it seems to indicate the presence of new physics just round the cornor will be in the leptonic part . </S>",
+    "<S> the leptonic flavor violation decay @xmath8 is very useful to search new physics . in this note </S>",
+    "<S> , we consider the sequential fourth generation standard model ( sm4 ) to investigate its contributions to some leptonic flavor violation decays , @xmath0 , @xmath1 and @xmath2 .    from the point of phenomenology , there is a realistic question what are numbers of the fermions generation or weather there are other additional quarks or leptons . </S>",
+    "<S> the present experiments tell us there are only three generation fermions with @xmath9 neutrinos which mass are less smaller than @xmath10@xcite . </S>",
+    "<S> but the experiments do nt exclude the existence of other additional generation , such as the fourth generation , with a @xmath11 neutrino , i.e. @xmath12@xcite . </S>",
+    "<S> many refs . have studied the sm4 @xcite , which is added an up - like quark @xmath13 , a down - like quark @xmath14 , a lepton @xmath15 , and a heavy neutrino @xmath16 in the sm . </S>",
+    "<S> the properties of these new fermions are all the same as their corresponding counterparts of other three generations except their masses and ckm mixing , see tab.1 ,    .the elementary particle spectrum of sm4 [ cols=\"^,^,^,^,^,^,^,^,^\",options=\"header \" , ]     if there exists a very heavy fourth neurino @xmath3 , it can contribute to @xmath17 through diagram of fig . </S>",
+    "<S> 1 . this is the electroweak interaction . </S>",
+    "<S> similar to that of quarks , the corresponding lagragian is @xmath18 where @xmath19 , @xmath20 ( @xmath21 ) is the ( 1,4 ) , ( 2,4 ) and ( 3,4 ) elements of the four - generaton ckm matrix ( @xmath4 ) , @xmath22    reverting back to the diagrams of fig . 1 , we see that the fourth neutrino contribution to decays @xmath23 and @xmath24 ( see fig . </S>",
+    "<S> 1 ) . we do nt consider the usual three neutrinos contribution because their masses are too small . </S>",
+    "<S> for the heavy neutrino @xmath3 , in sm4 , it can induce thses decaies . calculating fig . 1 </S>",
+    "<S> , one obtains @xmath25 where @xmath26 , @xmath27 is the fine constrcture constant and @xmath28 simlarly , we obtain @xmath29 @xmath30 using the current experimental bounds of these three lfv processes @xcite , @xmath31 qwe can obtain the parameter space of other @xmath4 matrix elements factors of leptonic mixing , @xmath32 ( see figs . 2 , 3 , 4 ) .    from the figs , considering the unitarity of the matrix @xmath33 </S>",
+    "<S> , we find the reasonable range of @xmath34 is under teh curve . </S>",
+    "<S> but in our previous paper @xcite , the upper bounds of @xmath7 do nt exceed 80@xmath35 from the revised @xmath36 results . </S>",
+    "<S> although the low bound of @xmath37 we get from @xmath38 is consistent with the present experiments @xcite , the upper bound of @xmath37 seems to conflict with the current experiments statue which there is no any new physics signals upper to hadrds gevs . </S>",
+    "<S> the fourth generation particles seems not to be so light </S>",
+    "<S> . they should be several hadrad gevs weight .    in summary </S>",
+    "<S> , we calculate the contribution of the fourth generation to lfv decays and get an interesting result which we can exclude most values of @xmath7 . considering the current experimental bounds , we give the parameter space of @xmath37 and lepton mixing matrix element @xmath39 . </S>",
+    "<S> we find that lfv processes can constrain on the neutrino mass of the fourth generation : i.e. its mass should be lighter than 80 gev . </S>",
+    "<S> it seems that from the lepton part , the current experiments can impose a stringent constraint on the existence of the fourth generation . </S>"
+  ]
+}

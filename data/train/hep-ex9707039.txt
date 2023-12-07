@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "the first two years after the commissionning of the first @xmath4 collider hera in may 1992 were devoted in deep inelastic scattering ( dis ) to the observation of the new processes which would become the main subject of study nowadays in desy .",
+    "the observation of the rise of the @xmath2 proton structure function at low @xmath1  @xcite was the first of this type of measurement which is still progressing in terms of precision and possibilities of qcd test , @xmath0 and gluon density determination .",
+    "the rich phenomenology at low @xmath1 could also be studied in the measurement of hadronic final state properties .",
+    "the clear observation of diffractive events  @xcite paved the way to a detailed and not yet finished study of one of the most obscure problem of the strong interaction .",
+    "the observation of high @xmath3 charged and neutral current  @xcite with very low statistics at that time , but in a perfect experimental environment allowed a glimpse to what will be the future of the hera collider .",
+    "the subsequent years ( 1994,1995,1996 ) are covered in this report .",
+    "they allowed the first precise measurements of the phenomena mentioned above , besides many others . in 1995 ,",
+    "the h1 collaboration upgraded the backward detectors of the experiment , introducing in particular a more precise drift chamber ( bdc ) to measure the polar angle of the scattered electron , and a new spacal calorimeter with better hadronic containment , better granularity and better angular acceptance .",
+    "the results obtained have fullfilled the expectations and a new step in precision could thus be reached for the low @xmath3 physics .         in conclusion",
+    "the accumulation of these events at @xmath5 gev is genuine , but is not confirmed by the distribution of the zeus events at high @xmath3 and high @xmath6 . however zeus has also an excess of a few events in nc at very high @xmath3 .",
+    "the systematic effects being well under control , both on the expectation side as on the detection side , more data are needed to understand if the observed excess at high @xmath3 is due to a statistical fluctuations or to signs of new physics .      a selected sample of h1 results presented at this workshop in the different areas of dis has been summarized .",
+    "the increase of the luminosity will bear significant improvements in all these fields , showing the potential of the hera collider .",
+    "most awaited is an answer on the high @xmath3 puzzle which might reveal signs of physics beyond the standard model .",
+    "i would like to thank the organizers for an exciting and enjoyable workshop .",
+    "thanks also to the 15 h1 speakers of the parallel sessions who provided me with much of the material shown here and to john dainton for a careful reading of the manuscript .",
+    "many thanks to ursula bassler for her great help both in the preparation of the talk and in the completion of the written report .",
+    "m. glck , e. reya and a. vogt , z. phys * c67 * ( 1995 ) 433 ; a. vogt , proceedings of the workshop on deep - inelastic scattering and qcd , paris ( 1995 ) 261 , using the nlo charm contribution as calculated in@xcite ."
+  ],
+  "abstract_text": [
+    "<S> recent deep inelastic results from the h1 collaboration are presented . </S>",
+    "<S> the topics covered include inclusive diffractive physics , the determination of @xmath0 using the event shapes , the study of the hadronic final state at low @xmath1 with single particles and with jets , the structure function measurements in particular @xmath2 at low @xmath3 and the high @xmath3 physics both in neutral and charged current . </S>"
+  ]
+}

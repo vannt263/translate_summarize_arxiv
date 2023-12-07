@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "this paper reports the results of a study of the properties of the hadronic final state in positron - proton deep inelastic scattering ( dis ) .",
+    "the event kinematics of dis are determined by the negative square of the four - momentum transfer of the virtual exchanged boson , @xmath4 , and the bjorken scaling variable , @xmath5 , where @xmath6 is the four - momentum of the proton . in the quark parton model ( qpm ) ,",
+    "the interacting quark from the proton carries four - momentum @xmath7 the variable @xmath8 , the fractional energy transfer to the proton in its rest frame , is related to @xmath1 and @xmath0 by @xmath9 , where @xmath10 is the positron - proton centre of mass energy .",
+    "a natural frame in which to study the dynamics of the hadronic final state in dis is the breit frame  @xcite . in this frame",
+    "the exchanged virtual boson is completely space - like and has a four - momentum @xmath11 , where @xmath12 is the momentum of the proton in the breit frame .",
+    "the particles produced in the interaction can be assigned to one of two regions : the current region if their @xmath13-momentum in the breit frame is negative , and the target region if their @xmath13-momentum is positive .",
+    "the advantage of this frame is that it gives a maximal separation of the incoming and outgoing partons in the qpm . in this model",
+    "the maximum momentum a particle can have in the current region is @xmath14    the current region in the breit frame is analogous to a single hemisphere of @xmath2 annihilation . in @xmath15 annihilation",
+    "the two quarks are produced with equal and opposite momenta , @xmath16 the fragmentation of these quarks can be compared with that of the quark struck from the proton which has outgoing momentum @xmath17 in the breit frame . in the direction of this struck quark the scaled momentum spectra of the particles , expressed in terms of @xmath18 are expected to have a dependence on @xmath19 similar to that observed in  annihilation  @xcite at energy @xmath20    within the modified leading log approximation ( mlla ) there are predictions of how the higher order moments of the parton momentum spectra should evolve with energy scale  @xcite .",
+    "the parton level predictions depend on two free parameters , a running strong coupling , governed by a qcd scale @xmath21 and an energy cut - off , @xmath22 below which the parton evolution is truncated .",
+    "the hypothesis of local parton hadron duality ( lphd )  @xcite , which relates the observed hadron distributions to the calculated parton distributions via a constant of proportionality , is used in conjunction with the predictions of the mlla allowing the calculation to be directly compared with data .",
+    "the moments of the  distributions have been investigated up to the 4th order ; the mean @xmath23 width @xmath24 skewness @xmath25 and kurtosis @xmath26 were extracted from the distribution by fitting a distorted gaussian of the following form : @xmath27 where @xmath28 over a range of 3 units ( @xmath29 ) or 4 ( @xmath30 ) units in @xmath31 around the mean .",
+    "the equation was motivated by the expression used for the mlla predictions of the spectra in ref .",
+    "@xcite .",
+    "figure  [ fig : qevol ] shows the skewness of the @xmath31 spectra as a function of @xmath32 it is evident that the skewness decreases with increasing @xmath33 similar fits performed on  data shows a reasonable agreement with our results at high @xmath34 consistent with the universality of fragmentation for this distribution .",
+    "the ariadne monte carlo model  @xcite gives a reasonable description of the data .",
+    "the data are compared with the mlla predictions of ref .",
+    "@xcite , using a value of @xmath35 for different values of @xmath36 the mlla calculations predict a negative skewness which decreases towards zero with increasing @xmath19 in the case of the limiting spectra ( @xmath37 ) .",
+    "this is contrary to the measurements .",
+    "a reasonable description of the behaviour of the skewness with @xmath19 can be achieved for a truncated cascade ( @xmath38 ) , but a consistent description of the mean , width , skewness and kurtosis can not be achieved  @xcite . a range of @xmath39 values were investigated and none gave a good description of all the moments .",
+    "we conclude that the mlla predictions , assuming lphd , do not describe the data .",
+    "it should be noted though that a moments analysis has been performed  @xcite , taking into account the limitations of the massless assumptions of the mlla predictions , where good agreement was found between the limiting case of the mlla and @xmath40 data over a large range of energy , @xmath41",
+    "charged particle distributions have been studied in the current region of the breit frame in dis .",
+    "the moments of the @xmath31 spectra in the current region at high @xmath0 exhibit the same energy scale behaviour as that observed in @xmath2 data .",
+    "the moments can not be described by the mlla calculations together with lphd ."
+  ],
+  "abstract_text": [
+    "<S> the production of charged particles has been measured in deep inelastic scattering ( dis ) with the zeus detector . </S>",
+    "<S> the evolution of the moments of the scaled momenta distributions in @xmath0 and @xmath1 has been investigated in the current fragmentation region of the breit frame . </S>",
+    "<S> the results in the current region are compared to @xmath2 data and qcd analytical calculations . </S>",
+    "<S> the results are consistent with the universality of single - particle spectra in dis and @xmath2 annihilation at high @xmath3 the results at low @xmath0 disagree with analytical calculations based on the modified leading log approximation ( mlla ) and local parton hadron duality ( lphd ) .    </S>",
+    "<S> glas - ppe/199901january 1999 </S>"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "from statistical mechanics we know the energy density as @xmath2 . in lattice calculations the straightforward approach to calculate this quantity is to introduce different lattice spacings @xmath3 to perform the derivatives with respect to @xmath4 at fixed physical volume @xmath5 .",
+    "therefore one introduces the lattice anisotropy @xmath6 and two gauge couplings in the action , @xmath7 the energy density @xmath8 contains then the derivatives of these gauge couplings , @xmath9 where    [ cols= \" < , < , < \" , ]     and @xmath10 the coefficents @xmath0 and @xmath1 were calculated pertubatively in @xcite .    a different way to determine the energy density was used by the bielefeld group@xcite . the free energy density @xmath11 is obtained by integrating the difference of the plaquettes , @xmath12~.\\ ] ] in large systems , where @xmath13 , @xmath8 can be found from the pressure , @xmath14 ~ , { \\nonumber}\\end{aligned}\\ ] ] using the relation @xmath15 and the @xmath16-function from @xmath17 measurements , we can calculate @xmath0 and @xmath1 from ( [ ener ] ) , ( [ eins ] ) and ( [ e-3p ] ) . in figure 1 the results for @xmath0 and @xmath1 are shown as solid lines .",
+    "they deviate clearly from the pertubative results ( broken lines ) .",
+    "however , this is expected , as also @xmath18 deviate from the pertubative result .",
+    "we also note , that the method works only above @xmath19 , because both @xmath20 and @xmath8 become very small below the critical point .",
+    "an attempt to determine the lattice anisotropy was made by burgers et al.@xcite .",
+    "consider the anisotropic couplings @xmath21    fig.1 .  the derivatives @xmath0 and @xmath1 for the wilson action ( a ) ( @xmath22=4,6,8 ) and the 2x2-action ( b ) ( @xmath22=4 ) @xcite versus @xmath16 .",
+    "the broken lines show the pertubative values@xcite .",
+    "the sum @xmath18 is from the @xmath16-function .",
+    "the dotted line shows an estimate form the different @xmath22-values .",
+    "the single measurements are from the matching method .    of the action ( [ action ] ) . the derivatives with respect to the lattice anisotropy @xmath23 are @xmath24 which requires the function @xmath25 or @xmath26",
+    "we vary the anisotropy of the couplings @xmath27 in the action @xmath28 and measure the anisotropy of the lattice spacing @xmath29 .",
+    "wilson loops are suitable observables , since they depend on the physical size of the lattice . instead of matching wilson loops , measured in spatial and in temporal direction , directly , @xmath30 we match ratios of wilson loops , in order to cancel corner and selfmass contributions , @xmath31 @xmath32 since these ratios contain only wilson loops with the same extension in @xmath33 , the following matching condition holds , @xmath34    fig.2 .",
+    "the ratios @xmath35 for fixed @xmath36 vs. @xmath37 , the open symbols are connected by solid lines .",
+    "the ratios @xmath38 correspond to the bold face symbols and are shifted in @xmath33 by @xmath39 .    we are using a @xmath40 lattice for @xmath41 $ ] , a @xmath42 lattice for @xmath43 $ ] and a @xmath44 lattice for @xmath45 .",
+    "the link integration technique of ref.@xcite is applied to obtain accurate expectation values of large wilson loops with a statistics of 2000 measurements .",
+    "the value of @xmath29 was chosen in such a way , that the square deviation of @xmath46 from the lines connecting the @xmath35 measurements was minimal .",
+    "for each @xmath27 we find in this way a value of @xmath29 .",
+    "figure 3 shows an example for @xmath47 . in all cases we found a linear behaviour of @xmath26 .",
+    "the result for @xmath29 as a function of @xmath27 for @xmath47 .",
+    "the solid line is a linear fit to @xmath26 .    to obtain the derivative @xmath48 we have performed linear fits .",
+    "the resulting @xmath0 are shown in figure 4 .",
+    "obviously the matching procedure requires at least loops of an area eight . for larger",
+    "wilson loops the results are consistent .",
+    "employing a method of matching ratios of wilson loops on anisotropic lattices we have directly determined the derivatives @xmath0 and @xmath1 of the gauge couplings non - pertubatively .",
+    "this has been done for both , the standard wilson action and the 2@xmath492 improved action@xcite .",
+    "we found significant deviations from the pertubative result .",
+    "qualitatively our results are in agreement with the indirect method used in@xcite , though they are a little lower .",
+    "we assume that the difference is due to @xmath50 corrections , since they enter the two methods differently .",
+    "the use of ratios of wilson loops was crucial in order to eliminate unphysical self energy contributions .",
+    "the numerical matching technique for these ratios enabled us to obtain the required accuracy for @xmath29 .",
+    "fig.4 .  the derivative @xmath0 for @xmath47 from eq.([cs ] ) as a function of the minimal area @xmath51 of the smallest wilson loops included in the ratio matching .",
+    "the solid line shows the average value for @xmath52 , the broken lines the error band ."
+  ],
+  "abstract_text": [
+    "<S> by matching wilson loop ratios on anisotropic lattices we measure the coefficients @xmath0 and @xmath1 , which are required for the calculation of the energy density . </S>",
+    "<S> the results are compared to that of an indirect method of determination . </S>",
+    "<S> we find similar behaviour , the differences are attributed to different discretization errors . </S>"
+  ]
+}

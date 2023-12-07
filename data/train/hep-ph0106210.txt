@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the ultimate aim of the next generation of neutrino experiments has to be the measurement of the cp phase of the mns mixing matrix , @xmath3 . assuming that high - energy electrons and positrons can not be distinguished by detectors , our only source of information in a neutrino factory experiment is the number of wrong- and right - sign muons , corresponding ( for neutrinos from muon decay ) to oscillation of @xmath8 and no oscillation of @xmath9 respectively .",
+    "it has recently been realised that uncertainties in the electron density along the neutrino flight path may be sufficient to cause problems at long baselines and high energies .",
+    "this talk is a summary of our recent work towards resolving the issue of optimal baseline and muon energy for the measurement of @xmath3 at a neutrino factory @xcite .",
+    "we considered an indirect cp - violation experiment with @xmath10 useful muon decays and @xmath10 antimuon decays .",
+    "taking into account all of the channels @xmath11 , @xmath12 , @xmath13 and @xmath14 , we examined whether or not a hypothesis of cp phase equal to @xmath15 is rejected when the true value is @xmath3 . to test this hypothesis",
+    ", we used a parameter @xmath16 as defined in @xcite .",
+    "the electron number density as a function of distance from the source , @xmath17 , is an input for the oscillation probabilities but is not known exactly .",
+    "the current best estimate of the density of the earth as a function of radius is the preliminary reference earth model , derived from seismological data @xcite .",
+    "however , it is known that there are sizeable latitude - longitude dependent fluctuations in matter density and composition in the crust and upper mantle @xcite , so local deviations from this spherically - symmetric model may be considerable . to investigate the effect of the uncertainty in electron number density on the usefulness of an experiment",
+    ", we introduced a parameter @xmath0 , the overall normalisation of the prem .",
+    "hence @xmath16 is a function of six oscillation parameters ( 3 times @xmath18 , 2 times @xmath19 and @xmath3 ) , as well as @xmath0 , where @xmath20 corresponds to the model as given and fluctuations away from the prem can be represented by changing the value of @xmath0 .",
+    "the background rate @xmath21 and systematic error on the background @xmath22 were also included in the analysis .",
+    "to find the optimum energy and baseline , we used the quantity @xmath23 , defined as the minimum of @xmath16 when we simultaneously vary the mixing angles and mass - squared differences within the region allowed at the 90% confidence level by the atmospheric and solar neutrino data @xcite .",
+    "the matter effect normalisation @xmath0 was varied by 5% between 0.95 and 1.05 .",
+    "this minimum was found numerically using a ` downhill simplex ' method @xcite .",
+    "using @xmath23 , we found the minimum data size @xmath24 , expressed in kt@xmath25yr , which is needed to reject a hypothesis @xmath26 at the 3@xmath27 confidence level when the true value of @xmath3 is @xmath28 .",
+    "1.0 cm 1.0 cm",
+    "the necessary data size as a function of @xmath29 and @xmath30 was found to have a minimum of around 60 kt@xmath25yr , but the optimal baseline and muon energy varied considerably with the values of @xmath3 , @xmath1 , @xmath21 and the threshold energy for neutrino detection , @xmath31 . at very high energies ,",
+    "the contribution of the systematic error to the total error becomes large , and sensitivity is lost . also , the correlation ( @xmath32 ) becomes strong at long baselines , so the optimal @xmath29 is shorter than might otherwise be expected .",
+    "the set of parameters @xmath332000 km , @xmath620gev gave the largest range of sensitivity to @xmath3 , down to @xmath7 for @xmath34 , @xmath35gev and a 500kt detector , as shown in fig .",
+    ".    00 j. pinney and o. yasuda , hep - ph/0105087 .",
+    "f. stacey , _ physics of the earth , 2nd ed .",
+    "_ ( j. wiley and sons , chichester , 1977 ) .",
+    "r. geller , _ density distribution in the earth s interior _ , in these proceedings .",
+    "w. press , s. teukolsky , w. vetterling , b. flannery , _ numerical recipes in fortran , 2nd ed .",
+    "_ ( cambridge , 1992 ) ."
+  ],
+  "abstract_text": [
+    "<S> an indirect cp - violation neutrino factory experiment is studied , including simultaneous correlations of errors of the six oscillation parameters and a matter effect normalisation parameter , @xmath0 . </S>",
+    "<S> it is found that for larger values of @xmath1 ( @xmath2 ) , an uncertainty on the matter effect of the order 5% means that the optimal baseline for measurement of @xmath3 is reduced from 3000 km to 2000 km . when the background fraction is assumed to be @xmath4 the optimal muon energy </S>",
+    "<S> is also reduced from 50gev to around 20gev . an experiment with @xmath5 km , @xmath620gev is found to be sensitive to non - zero @xmath3 down to around @xmath7 . </S>"
+  ]
+}

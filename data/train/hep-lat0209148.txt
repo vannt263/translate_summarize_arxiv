@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "due to the presence of the ` wilson term ' in the lattice fermion action for wilson fermions the discretisation errors are @xmath0 . as the gluon part of the action ( sum of plaquettes ) has only @xmath1 errors , it is also desirable to achieve this for the fermion action .",
+    "the symanzik programme allows a systematic reduction of errors to @xmath1 upon including additional higher dimensional operators .",
+    "the ( on - shell ) action is improved with a suitably tuned ` clover ' term .",
+    "however it is also necessary to improve each operator separately .",
+    "much work has been devoted to this topic in recent years ; here we shall just concentrate on the local vector current : @xmath2 . in this case just two additional operators @xmath3 and @xmath4 are required giving the @xmath0 improved and renormalised vector current as @xmath5 with @xmath6 .",
+    "the second improvement operator only has an effect in _ non - forward _ matrix elements and will not be considered further here .",
+    "the renormalisation constant @xmath7 and improvement coefficient @xmath8 are functions of the coupling constant @xmath9 and perturbatively we have , @xcite , to one loop ( independently of the presence of fermions ) , @xmath10 but in presently accessible regions of @xmath11 there may be considerable deviations .",
+    "there is an exact symmetry of the action @xmath12 , @xmath13 giving via the noether theorem the ward identity ( wi ) @xmath14 where @xmath15 is an arbitrary operator , @xmath16 is the lattice backward derivative , and @xmath17 the exactly conserved vector current improvement for non - forward matrix elements requires , as for the local vector current , an additional operator @xmath18 $ ] . ] ( @xmath19 ) , @xmath20                                                 \\nonumber\\end{aligned}\\ ] ] roughly speaking the rhs of this equation counts the number of @xmath21 and @xmath22 in operator @xmath15 . for our numerical results",
+    "we take @xmath23 where @xmath24 is the ( unpolarised ) nucleon operator to give , upon solving the wi equation , @xmath25 ( @xmath26 ) where @xmath27 are constants and with _ jump _ , @xmath28 , ie charge conservation .",
+    "the numerical advantage of considering @xmath29 is that the hard to compute quark line disconnected terms cancel .",
+    "( for the @xmath19 this term vanishes though . ) in fig .  [ fig_rratio_bare_b6p00kp1342_standard ]",
+    "we show this ratio for the conserved vector current .",
+    "= 7.25 cm    [ fig_rratio_bare_b6p00kp1342_standard ]    a very good signal is observed ( indeed the result should be true to machine accuracy ) .",
+    "the local vector current ( @xmath30 ) is not conserved on the lattice and so we do not expect the jump to be equal to one . this",
+    "is shown in the rh picture in fig .",
+    "[ fig_rratio_bare_b6p00kp1342_standard ] .",
+    "we now define the renormalisation constants ( @xmath7 , @xmath8 ) by demanding that the renormalised local current has the same behaviour as the conserved current , so that @xmath31^{-1 } .",
+    "\\nonumber\\end{aligned}\\ ] ] thus upon plotting the data , the intercept gives @xmath7 and the gradient @xmath32 .",
+    "( @xmath33 and @xmath34 is estimated from @xmath35 . ) in fig .  [ fig_v_0_1u-1d.p0_020509_1244_lat02_expt_wrtup ]",
+    "we show quenched results from which the intercept and gradient can be found .",
+    "= 7.00 cm    [ fig_v_0_1u-1d.p0_020509_1244_lat02_expt_wrtup ]    other alternative non - perturbative determinations have been given by the alpha collaboration , @xcite , using the schrdinger functional , the lanl collaboration , @xcite using other ward identities and martinelli et al .",
+    ", @xcite by ` mimicking ' perturbation theory .    as well as quenched data sets ( @xmath36 ) , in collaboration with ukqcd , we have also generated unquenched data sets . in this study",
+    "we use the configurations with parameters given in table  [ table_unquenched_data_sets ] .    [ cols=\"<,<,<,<,<\",options=\"header \" , ]     [ table_unquenched_data_sets ]    we now present our results . in fig .",
+    "[ fig_zv+bv_zv_beta_magic_qu+dyn_lat02_wrtup ]    = 7.00 cm    [ fig_zv+bv_zv_beta_magic_qu+dyn_lat02_wrtup ]    we show @xmath7 and in fig .",
+    "[ fig_zv+bv_bv_beta_magic_qu+dyn_lat02_wrtup ] ,    = 7.25 cm    [ fig_zv+bv_bv_beta_magic_qu+dyn_lat02_wrtup ]    @xmath8 . for quenched fermions good agreement with other methods",
+    "the method described here reproduces the results of other approaches for @xmath0 improved quenched fermions .",
+    "( but one needs to remember that @xmath7 definitions can vary by @xmath1 while @xmath8 definitions may vary by @xmath0 . ) for @xmath0 improved unquenched fermions @xmath7 is _ smaller _ and @xmath8 _ larger _ than for quenched fermions at the same lattice spacing ( roughly @xmath37 ) .",
+    "further details and final results will appear in @xcite .",
+    "the numerical calculations were performed on the hitachi _ sr8000 _ at lrz ( munich ) , the ape100 , apemille at nic ( zeuthen ) and the cray _",
+    "t3e_s at epcc ( edinburgh ) , nic ( jlich ) , zib ( berlin ) .",
+    "we thank the _ ukqcd _ collaboration for use of their unquenched configurations .",
+    "tb acknowledges support from intas grant 00 - 00111 .",
+    "this work is supported by the european community s human potential programme under hprn - ct-2000 - 00145 hadrons / latticeqcd ."
+  ],
+  "abstract_text": [
+    "<S> by considering the local vector current between nucleon states and imposing charge conservation we determine , for @xmath0 improved wilson fermions , its renormalisation constant and quark mass improvement coefficient . </S>",
+    "<S> the computation is performed for both quenched and two flavour unquenched fermions . </S>"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "calculations of total and differential cross sections in perturbative qcd can be schematically represented by = _ f ( s , t_i,_f,_r ) with @xmath0 the physical cross section , @xmath1 the perturbatively calculable hard scattering factor , and @xmath2 the parton distribution for parton @xmath3 in hadron @xmath4 .",
+    "the partonic hard - scattering factors @xmath1 include soft and virtual corrections , arising from soft - gluon emission and loop diagrams , which manifest themselves as plus distributions and delta functions with respect to a kinematical variable @xmath5 that measures distance from threshold . in single - particle - inclusive ( 1pi ) kinematics , @xmath5 is often called @xmath6 , and the plus distributions are @xmath7_+$ ] , with @xmath8 at @xmath9th order in @xmath10 beyond the leading order . in pair - inclusive ( pim ) kinematics , the relevant distributions are @xmath11_+$ ] with @xmath12 ( @xmath13 is of the pair ) .",
+    "these distributions can be formally resummed to all orders in @xmath10 [ 1 - 5 ] . here",
+    "i present a unified approach and a master formula @xcite for explicitly calculating these corrections at nnlo for total and differential cross sections for any process in    @xmath14 hadron - hadron and lepton - hadron colliders @xmath14 1pi and pim kinematics    @xmath14 simple and complex color flows @xmath14 @xmath15 and dis factorization schemes",
+    "i begin by presenting a unified formula for the threshold resummed cross section in moment space for an arbitrary process ^res(n ) & = & + & & \\{h(_s(_r^2 ) ) |p .",
+    "s ( _ s(s / n_j^2 ) ) p } [ reshs ] with , in the @xmath16 scheme , e^(f_i)(n_i)&= & -^1_0 dz \\{^_f^2_(1-z)^2s a^(f_i)(_s(^2 ) ) . + & & . + _",
+    "@xmath17 describes the factorization and renormalization scale dependence of the cross section , while @xmath18 appears if there are any massless final - state partons at lowest order . @xmath19 and @xmath20 are the hard and soft functions and @xmath21 the soft anomalous dimensions , all matrices in color space in general ( but they reduce to simple functions for processes with simple color flows ) and known at lowest order for most processes . for more details",
+    "@xcite .    expanding the resummed cross section in @xmath10 and inverting back from moment space",
+    "we can derive master formulas at fixed order for any process .",
+    "the master formula for the next - to - leading - order ( nlo ) soft and virtual corrections for processes with simple color flow in the @xmath16 scheme is ^(1 ) = ^b \\{c_3 d_1(x_th ) + c_2 d_0(x_th ) + c_1 ( x_th ) } [ nlosimple ] where @xmath22 is the born term , @xmath23 , c_2&=&2 re_s^(1)- _ i + & & -_j t_2-_i c_f_i ( ) and @xmath24 , with c_1^=_i ( ) + d__s ( ) .",
+    "we note that the @xmath25 s are color factors , @xmath26 is any appropriate hard scale , @xmath27 is 0 ( 1 ) for pim ( 1pi ) kinematics , and the sum over @xmath28 is only relevant if we use 1pi kinematics and there are massless final - state partons at lowest - order . more details and definitions are given in @xcite where results are also given in the dis scheme .",
+    "the master formula for the nnlo soft and virtual corrections for processes with simple color flow in the @xmath16 scheme is @xmath29 with ^(2)&= & c_3 ^ 2 d_3(x_th ) + _ 2(x_th ) + & & + \\{c_3 c_1 + c_2 ^ 2 -_2 c_3 ^ 2 - t_2 + c_3 ( ) + _",
+    "i c_f_i k .",
+    "j c_f_j -_j_j^(1 ) } d_1(x_th ) + & & + \\{c_2 c_1 -_2 c_2 c_3+_3 c_3 ^ 2 - t_1 + c_2 ( ) + 2 re_s^(2)-_i _ f_i^(2 ) .",
+    "+ & & + _ i c_f_i + & & -_j ( b_j^(2)+_j^(2 ) ) + _ j c_f_j _ k + & & .",
+    "-_j _ j^(1 ) _ k ( ) } d_0(x_th ) + r_(x_th ) ( x_th ) .",
+    "[ nnlo ] for more details and explicit expressions for the full @xmath30 terms see ref .",
+    "@xcite .    for the more general case of complex color flow , where @xmath19 , @xmath20 , and @xmath21 are matrices , the @xmath16 scheme nlo master formula generalizes to ^(1 ) = ^(1)_simple + , [ nlocx ] where @xmath31 denotes the result in eq .",
+    "( [ nlosimple ] ) but without the @xmath32 term in @xmath33 , @xmath34 denotes the power of @xmath10 in the born term , and a^c = tr ( h^(0 ) _s^(1 ) s^(0 ) + h^(0 ) s^(0 ) _s^(1 ) ) .    at nnlo for processes with complex color flow the @xmath16 scheme master formula generalizes to ^(2)&=&^(2)_simple + \\",
+    "{ c_3 a^c d_2(x_th ) .",
+    "+ & & + _ 1(x_th ) + & & + _ 0(x_th ) + r^c_(x_th ) ( x_th ) } , [ nnloc ] with @xmath35 denoting eq .",
+    "( [ nnlo ] ) times @xmath36 ( but without any @xmath37 terms ) , and f = tr .",
+    "again , for more details and the full explicit @xmath30 terms see ref .",
+    "( [ nnloc ] ) serves as the most general master formula for the nnlo soft and virtual corrections for any process in hadron - hadron and lepton - hadron collisions .",
+    "using the nnlo master formula i have rederived known nnlo results for drell - yan and related processes and for deep inelastic - scattering ( dis ) , and produced new results for many other processes @xcite . here",
+    "i give a few examples .    for deep inelastic scattering , @xmath38 , in the @xmath16 scheme",
+    ", we have @xmath39 , @xmath40 , and @xmath41 . the nnlo corrections from the master formula then agree with the results for the coefficient functions in ref .",
+    "@xcite , and we also derive the two - loop function @xmath42 which is needed in nnll resummation @xcite . in the dis scheme , the nlo and nnlo corrections vanish , as expected .    for heavy quark hadroproduction in the channel @xmath43 in 1pi kinematics , we have @xmath44 , @xmath45 , @xmath46\\ln(\\mu_f^2/s )   + ( \\beta_0/2)\\ln(\\mu_r^2/s)$ ] , @xmath47 .",
+    "the nnlo corrections are in agreement with and extend earlier nnlo - nnll calculations @xcite .",
+    "results have also been obtained in pim kinematics and in the dis scheme , and also for the @xmath48 channel ."
+  ],
+  "abstract_text": [
+    "<S> i present a master formula for the next - to - next - to - leading order ( nnlo ) soft and virtual qcd corrections for any process in hadron - hadron and lepton - hadron colliders . </S>",
+    "<S> the formula is derived from a unified threshold resummation formalism . applications to various qcd processes are discussed . </S>"
+  ]
+}

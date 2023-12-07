@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "it has been suggested in several papers ( see ref .",
+    "@xcite ) that the deconfined phase of su(n ) pure gauge theories could be described by an effective _ mean - field _ theory of the polyakov loop , possessing global z(n ) invariance . through this effective theory ,",
+    "a relation can be established between the pressure of the gluon gas and the polyakov loop . if the phase transition is second order as for su(2 ) or `` weakly '' first order as for su(3 ) , this effective theory can be written near the transition in terms of the first few powers of the polyakov loop and of its complex conjugate . in this case , the relation between pressure and polyakov loop becomes very simple and its compatibility with lattice data can be easily tested .    in this study",
+    ", we have considered the case of su(2 ) pure gauge theory on a 16@xmath1 lattice with the standard wilson action , in the temperature range @xmath2 .",
+    "although lattice effects are large for the wilson action with @xmath3 sites in the time direction , the shape of the behavior of pressure and polyakov loop with the temperature should not be different from the cases of larger values of @xmath4 , as seen in su(3 )  @xcite .",
+    "the pressure of the gluon gas is given by @xmath5\\;,\\ ] ] where @xmath6 ( @xmath7 ) is the action density at zero ( non - zero ) temperature , @xmath8 is an arbitrarily chosen value , small enough that the integrand function at this point has become zero .",
+    "monte carlo simulations were performed on @xmath9 lattices for zero - temperature ( typical statistics 30k ) , and on @xmath10 lattices for non - zero temperature ( typical statistics 80k ) . numerical results for @xmath11",
+    "$ ] were interpolated by cubic splines before the numerical integration which led to the pressure ( fig .  [ pressure ] ) . as an estimate of the uncertainty for the pressure , we calculated also the integral by interpolating the data for @xmath11 $ ] with the broken line connecting the 1@xmath12 upper ( lower ) bound of each determination .",
+    "the correspondence between @xmath13 and the temperature has been established using the interpolating ansatz of ref .",
+    "@xcite , which makes use of the known  @xcite critical couplings on lattices with @xmath4=4 , 5 , 6 , 8 , 16 .",
+    "we considered both the charge-1 and charge-2 polyakov loops , given respectively by @xmath14 and @xmath15 ^ 2 $ ] , with @xmath16 .",
+    "we observe that @xmath17 is z(2)-invariant and is connected to the polyakov loop in the adjoint color representation by @xmath18 . in fig .",
+    "[ loops ] we show the behavior of @xmath19 , @xmath20 and @xmath17 with @xmath13 .",
+    "we observe that @xmath19 goes linear in the region @xmath21 ( corresponding to @xmath22 ) and in the region @xmath23 ( corresponding to @xmath24 ) .",
+    "moreover , @xmath17 goes to @xmath25 in the confined phase , thus implying @xmath26 in that phase ( for details on the behavior of @xmath27 across the transition , see ref .",
+    "@xcite ) .     and its uncertainty ;",
+    "the vertical lines represent the critical couplings on lattices with @xmath4=4 , 5 , 6 , 8 , 16  @xcite . ]    , @xmath20 and @xmath17 _ vs _ @xmath13 on a @xmath10 lattice . ]",
+    "mean - field theory , dimensional analysis , z(2 ) symmetry , reality of @xmath28 in su(2 ) , power expansion in @xmath29 imply the following simple form for the effective free energy : @xmath30 the applicability domain of this model ( called model a in the following ) should be a region above @xmath31 , but not so close to @xmath31 that mean - field is spoiled , in which @xmath28 is small enough to make @xmath20 , @xmath32 , ... terms negligible .",
+    "the minimum of @xmath33 is obtained for @xmath34 and leads to @xmath35    according to this model , for _ constant _ @xmath36 , @xmath37 should go linear with @xmath19 .",
+    "we find that the function @xmath38 fits the lattice data for the pressure in the region @xmath39 , i.e. @xmath40 , with @xmath41 and @xmath42/(d.o.f.)=0.79 ( see fig .",
+    "[ mod_a ] ) .    for high temperatures , one could expand the effective free energy in powers of @xmath43 , thus getting @xmath44 which leads to @xmath45 there is compatibility of this functional form with lattice data for constant values of @xmath46 and @xmath36 in the region @xmath47 , i.e. @xmath48 , with @xmath49 , @xmath50 and @xmath42/(d.o.f.)=0.18 ( see fig .",
+    "[ mod_a ] ) .        as a first variant of the model",
+    "a , we consider the inclusion of the @xmath20 term in the effective free energy ( model b ) : @xmath51 which leads to @xmath52    we find compatibility with the lattice data for the pressure over a wider region than in the case of model a , more precisely in the range @xmath53 , i.e. @xmath54 , with @xmath55 , @xmath56 and @xmath42/(d.o.f.)=0.73 .",
+    "a negative value for @xmath57 would be problematic if the absolute value of @xmath28 would be allowed to become arbitrarily large , which is not the case here . for high temperatures , using @xmath43 as expansion parameter",
+    "we get @xmath58 which agrees with lattice data for the pressure in the region @xmath59 , i.e. @xmath60 , with @xmath61 , @xmath62 , @xmath63 and @xmath42/(d.o.f.)=0.15 .    finally , we consider the model c obtained by model a with the inclusion of terms with the charge-2 polyakov loop @xmath17 : @xmath64 leading to @xmath65 and @xmath66 for the high temperature version of this model , the only difference is an additive constant in the r.h.s . of the expression for @xmath37 .",
+    "the comparison with lattice data shows that the inclusion of the terms with @xmath17 does not improve drastically the quality of the fit in comparison with the model a. on the other side , the linear dependence of @xmath17 with @xmath29 is roughly satisfied ( @xmath42/(d.o.f.)2 ( see fig .",
+    "[ l2_l1 ] ) in both regions where the model a works , i.e. for @xmath67 and for @xmath48 .",
+    "this indicates that the behavior of @xmath17 in @xmath68 above @xmath31 is driven by the polyakov loop @xmath28 .",
+    "the relatively large @xmath42 can be explained by the very small error bars both in @xmath28 and in @xmath17 which make non - negligible higher powers of @xmath28 and @xmath17 in the effective model .",
+    "_ vs _ @xmath29 on a @xmath10 lattice .",
+    "there is a roughly linear dependence in two regimes : for @xmath69 ( corresponding to @xmath70 ) and for @xmath48 ( corresponding to @xmath71 ) . ]",
+    "lattice data show that @xmath37 has a roughly linear behavior in a region centered around @xmath72 and in a region centered around @xmath73 ; in these regions also @xmath19 exhibits a linear behavior , while @xmath17 behaves linearly with @xmath29 .",
+    "we have shown that both these evidences are in accord with simple mean - field effective models of the polyakov loop ."
+  ],
+  "abstract_text": [
+    "<S> we study the compatibility of effective mean - field models of the polyakov loop for the deconfined phase of su(n ) pure gauge theories with lattice data obtained for the case of su(2 ) , in the temperature range @xmath0 . </S>"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "in constructing models beyond the standard model ( sm ) such as technicolor or supersymmetric theories , it is important to test their viability by looking for possible conflicts with currently available experimental data .",
+    "a popular procedure has been the @xmath0 oblique correction analysis of ref .",
+    "however , the method can only be applied to theories which satisfy three conditions , namely ( 1 ) the electroweak gauge group is the standard @xmath2 , ( 2 ) vertex and box corrections from new physics are negligible , and ( 3 ) the scale of new physics is large compared to the electroweak scale .",
+    "furthermore , the oblique correction analysis requires ( 4 ) the model to be completely specified since any particle with electroweak gauge quantum numbers will show up in a vacuum polarization loop .",
+    "many theories of interest do not fall into this category .",
+    "for instance , in the topcolor assisted technicolor model of ref .",
+    "@xcite , ( 1 ) the electroweak gauge group is @xmath3 resulting in an extra @xmath4 boson , ( 2 ) there are potentially large corrections to the @xmath5 vertex for third generation fermions coming from @xmath4 and coloron exchange , ( 3 ) the scale of new physics may be as low as a tev , and ( 4 ) the technisector of the theory remains unspecified .",
+    "the solution to our predicament lies in the observation that a large number of electroweak observables have been measured accurately at lep and sld _ on the @xmath1pole _ , and that the majority of them are just _ ratios of coupling constants _ of the @xmath1 to quarks and leptons .",
+    "this means that they are only sensitive to oblique corrections through the effective value of @xmath6 _ at that particular energy scale_. therefore , one can use just one of the observables , @xmath7 say , to _ fix _ the value of @xmath6 , and use it to predict all the rest for the sm . any deviations of the data from those predictions must be due to _ vertex corrections _ from new physics .",
+    "this method of comparing sm predictions to @xmath1pole electroweak observables solves all of the problems mentioned above since ( 1 ) mixing of the @xmath1 with extra gauge bosons can be treated as a vertex correction , ( 2 ) vertex corrections need not be small while box corrections are still naturally suppressed on the @xmath1pole , ( 3 ) the new physics scale need not be large since only observables at one scale are used in the analysis , and ( 4 ) the theory need not be specified completely since the method is blind to oblique corrections .",
+    "this method has been used successfully to constrain the size of possible vertex corrections to the @xmath8 vertex @xcite , and to constrain the topcolor assisted technicolor model mentioned above @xcite .",
+    "we have also applied the technique to constrain : an r  parity violating extension to the mssm @xcite , higgs masses in a general two higgs doublet model @xcite , and the fundamental planck scale of a model with large extra dimensions @xcite .",
+    "details are provided in the respective references .",
+    "this work was supported in part by the u.s .",
+    "department of energy , grant de ",
+    "fg0592er40709 , task  a."
+  ],
+  "abstract_text": [
+    "<S> we discuss how new physics not encompassed within the @xmath0 oblique correction framework can be constrained from precision electroweak measurements via vertex corrections to @xmath1pole observables . </S>"
+  ]
+}

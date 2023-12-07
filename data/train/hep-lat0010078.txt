@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "recent progress in lattice calculations of the quenched light hadron spectrum  @xcite has demonstrated clearly that effects of dynamical sea quarks have to be included for a precision comparison with the experimental spectrum . as a first step towards the real world",
+    "we have pursued a systematic calculation in two - flavor qcd over the last 3 years  @xcite . in this article",
+    "we present a summary of the final results on the light hadron spectrum and quark masses from this calculation .    in order to deal with the increased demand in computer time for full qcd we have used an rg - improved gauge action and a tadpole - improved sw clover quark action , which allows us to simulate at coarse lattices in the range @xmath10.11 fm  @xcite . since lattice99  @xcite we have doubled the statistics at the smallest lattice spacing on a @xmath7 lattice , with which we have reached our planned target of three lattice spacings , each with a similar amount of statistics at each simulated sea quark mass .",
+    "the final parameters of our simulations are summarized in table  [ tab : param ] .",
+    "we have also made a set of simulations in quenched qcd using the same improved actions in the same range of lattice spacings and with a similar range of quark masses .",
+    "this allows us to compare in detail spectrum results in full and quenched qcd and to make an independent confirmation of the findings in quenched qcd in ref .",
+    ". parameters of quenched simulations are summarized in table  [ tab : quench ] .    [",
+    "cols=\"^,^,^,^,^,^,^,^,^\",options=\"header \" , ]     for the renormalization factors relating the lattice quark mass to the @xmath8 mass in the continuum , we employ the perturbative values at one loop@xcite given by @xmath9 for vwi quark mass and @xmath10 for awi quark mass .",
+    "these expressions show that the magnitude of one - loop corrections is about 10% .",
+    "one loop corrections in improvement coefficients have a similar size . to estimate further corrections from higher order terms , we compare results for two definitions of the mean - field improved coupling constant : @xmath11 , appropriate for the rg - improved gluon action and alternatively @xmath12 . for the matching scale we use the two values @xmath13 and @xmath14 .",
+    "the systematic errors estimated as above are listed in table  [ tab : errors ] .",
+    "we calculate the total error by adding them by quadrature .",
+    "our first systematic study of @xmath15 full qcd clearly showed the existence of sea quark effects in the meson spectrum and quark masses .",
+    "further progress can be expected in the near future from calculations with larger lattices , smaller quark masses and , most importantly , inclusion of dynamical strange quark .",
+    "this work is supported in part by grants - in - aid of  the  ministry  of  education  ( nos .",
+    "10640246 , 10640248 ,  10740107 ,  11640250 ,  11640294 , 11740162 ,  12014202 ,  12304011 ,  12640253 , 12740133 ) .",
+    "aak and tm are supported by jsps research for the future program ( no . jsps - rftf 97p01102 ) .",
+    "se , tk , kn and hps are jsps research fellows ."
+  ],
+  "abstract_text": [
+    "<S> we present the final results of the cp - pacs calculation of the light hadron spectrum and quark masses with two flavors of dynamical quarks . </S>",
+    "<S> simulations are made with a renormalization - group improved gauge action and a mean - field improved clover quark action for sea quark masses corresponding to @xmath00.6 and the lattice spacing @xmath10.11 fm . for the meson spectrum in the continuum limit a clearly improved agreement with experiment </S>",
+    "<S> is observed compared to the quenched case , demonstrating the importance of sea quark effects . for light quark masses </S>",
+    "<S> we obtain @xmath2  mev and @xmath3  mev ( @xmath4-input ) and @xmath5  mev ( @xmath6-input ) , which are reduced by about 25% compared to the values in quenched qcd . </S>"
+  ]
+}

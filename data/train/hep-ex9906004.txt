@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the inclusive jet cross section in  collisions has recently been measured by the cdf  @xcite and d  @xcite collaborations .",
+    "these measurements are compared with nlo perturbative qcd predictions  @xcite .",
+    "these experimental measurements have uncertainties that are smaller than the the uncertainties of the theoretical predictions , @xmath030@xmath1  @xcite .",
+    "+ the cdf measurement of the inclusive jet cross section showed an excess of jet production at high transverse energy ( ) which could be caused by new physics such as quark compositeness , inaccuracies in the parton distribution functions , or inadequacies in the nlo qcd predictions .",
+    "the theoretical predictions are in good agreement with the d  measurement .",
+    "both experimental measurements are also in agreement  @xcite .",
+    "our ability to compare quantitatively the theoretical predictions and the measurements depends on a thorough understanding of the systematic uncertainties .",
+    "the major components of the systematic uncertainties of the cdf measurement are depicted in fig .",
+    "[ fig : cdf_uncertainties ] .",
+    "the dominant uncertainties are due to the jet energy scale correction , the resolution unsmearing , and the integrated luminosity .",
+    "the uncertainties are divided up into different components ( see fig .",
+    "[ fig : cdf_uncertainties ] ) .",
+    "each component is assumed to be @xmath2 correlated as a function of  and independent of all other components .",
+    "+    similarily , the five largest uncertainties in the d  measurement are depicted in fig .",
+    "[ fig : d0_uncertainties ] . the uncertainties are either @xmath2 correlated , partially correlated ( correlation lies between @xmath3 to @xmath4 ) , or uncorrelated as a function of . + in general the uncertainties in the jet energy scale ,",
+    "jet energy resolutions , the luminosity , etc . , are assumed to be gaussian .",
+    "hence , the uncertainties of the cross section are asymmetric , i.e. the positive and negative errors on the cross section are different .",
+    "this is a direct result of the steeply falling inclusive jet cross section .",
+    "+ the assumption of gaussian uncertainties is not always a valid one .",
+    "one of the major sources of uncertainty in the inclusive jet cross section is the integrated luminosity .",
+    "the two experiments base their luminosity calculations on different measurements of the total  cross section .",
+    "cdf uses its own measurement  @xcite while d  uses a world average cross section  @xcite based on the cdf  @xcite and e710  @xcite measurements .",
+    "this leads to a @xmath5 difference between the luminosities quoted by the two experiments .",
+    "the assumption that the uncertainty due to the luminosity is gaussian in nature is probably incorrect .",
+    "d  has made quantitative comparisons  @xcite between theoretical predictions and their measurement base on a test .",
+    "the  is given by@xmath6 where @xmath7 is the difference between the data and theory for a given  bin , and @xmath8 is element @xmath9 of the covariance matrix : @xmath10 where @xmath11 is the sum of the systematic uncertainty and the statistical error added in quadrature if @xmath12 and the systematic uncertainty if @xmath13 .",
+    "@xmath14 is the correlation between the uncertainties of two  bins .",
+    "+ the construction of the covariance matrix requires that the uncertainties follow a gaussian distribution . hence using  to determine the probability that a theoretical prediction agrees with a measurement does not take advantage of all the information available .",
+    "additionally it does not take into account boundary conditions ( for example you can not fluctuate a cross section more than @xmath4 below its value ) .",
+    "+ parton distribution fits  @xcite are now using the measurements of the inclusive jet cross section to constrain the gluon distributions . if the information available in the inclusive jet measurements is to be used to best effect then new methods must be developed to calculate the probability that a theoretical prediction agrees with the data .",
+    "the treatment of the systematic uncertainties of the inclusive jet cross section in  collisions have been discussed .",
+    "the values presented in  @xcite are based on approximations of the uncertainties and do not use all of the information available .",
+    "+ i thank my colleagues on the d  and cdf experiments for their helpful comments , suggestions and discussions ."
+  ],
+  "abstract_text": [
+    "<S> the systematic uncertainties of the measurements of the inclusive jet cross section at the tevatron and their effect on the comparisons between data and theoretical predictions are discussed .    </S>",
+    "<S> psfig epsf </S>"
+  ]
+}

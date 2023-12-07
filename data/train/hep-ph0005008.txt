@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "it was almost ten years ago that the atmospheric neutrino anomaly@xcite could be explained by the oscillations of muon neutrinos into tau neutrinos @xcite .",
+    "this interpretation has been confirmed by the observation of the zenith angle dependence of the neutrino fluxes by the superkamiokande@xcite .",
+    "while the zenith angle dependence of the electron - like events is consistent with the theoretical predictions@xcite@xcite , that of the muon - like events disagree with the theory , especially for the up - going events .    the neutrino state with flavor basis and that of mass basis is related to each other by the mixing matrix as follows , @xmath2 where @xmath3 the super - kamiokande shows that @xmath4 the equation ( [ eq : mu - tau_osc ] ) means that @xmath5 which is consistent with the choos results@xcite .",
+    "once the the matter enhanced neutrino oscillations was proposed @xcite , it has soon been applied to the atmospheric neutrinos crossing the earth@xcite .",
+    "recently much attention@xcite has been devoted to this subject .",
+    "however , it seems that no systmatic study has not been made yet , especially for the three flavor model of neutrinos .",
+    "the purpose of this paper is to reveal the conditions that amplify the effect of @xmath1 through matter oscillations so that we can determine this small mixing angle .",
+    "i assume that the masses of neutrinos are hierarchical , namely , @xmath6 @xmath7 , furthermore i assume that the solar neutrino oscillations are attributed to @xmath8 .",
+    "the atmospheric neutrino oscillations are derived by @xmath9 @xmath10 , the value of which is @xmath11 .",
+    "the solar neutrino problem may be solved by the matter enhanced , or just so oscillations . in either case",
+    ", @xmath12 is much smaller than @xmath13 , and irrelevant to our concerns . in the following , we assign @xmath14 , and @xmath15 .",
+    "the parameters contained in the model are @xmath16 , @xmath1 , and @xmath17 .",
+    "in calculating the matter effect of the earth , i use the density profile given by the `` preliminary reference earth model''(prem)@xcite .",
+    "the prominent feature of our model is that the survival probability of electron neutrinos @xmath18 is completely determined by the three parameters , _",
+    "i.e. _ , @xmath1 , @xmath0 where @xmath19 is the neutrino energy , and the zenith angle @xmath20 .",
+    "it is natural to define the resonance condition as @xmath21 the resonance states form curves in the the three parameter space @xmath22 @xmath23 corresponding to discretization of the resonance wavelength .",
+    "i solve eq.([eq : resonance ] ) numerically , and show in fig.1 and fig.2 the values of the three parameters at the resonance . fig.1 and",
+    "fig.2 correspond to the longest and the second longest wavelength , respectively .",
+    "the other probabilities @xmath24 , @xmath25 , @xmath26 , and @xmath27 @xmath28 also depend on the @xmath29 mixing angle @xmath16 .",
+    "i have investigated the resonance conditions of neutrinos passing through the earth in a wide range of parameters , although only a small mixing angle @xmath30 has a practical meaning as has been suggested by the choos experiments .",
+    "the results show that it is necessary to observe the high energy electron neutrinos crossing the depth of the earth to investgate the small mixing angle @xmath1 .",
+    "for example , the resonance occurs at @xmath31 , @xmath32 , and @xmath33 .",
+    "the energy of electron neutrino is @xmath34 if @xmath35 .",
+    "this indicates the need to assemble the data of the zenith angle distribution of the electron neutrinos whose energy is of order @xmath34 in order to determine the lepton mixing angle @xmath1 .",
+    "see for example , j.  pantaleone , phys .",
+    "81 ( 1998 ) 5060 ; m.v .",
+    "chizhov and s.t .",
+    "petcov , phys .",
+    "83 ( 1999 ) 1096 ; e.kh .",
+    "akhmedov , a.  dighe , p.  lipari , and a.yu .",
+    "smirnov , nucl .",
+    "phys . b3542 ( 1986 ) 1454 ; o.  yasuda , acta phys .",
+    "b30 ( 1999 ) 3089 ; t.  ohlsson and h.  snellman , phys .",
+    "b474 ( 2000 ) 153 ; i.  mocioiu and r.  shrock , hep - ph/0002149 ( 2000 ) ."
+  ],
+  "abstract_text": [
+    "<S> the effect of matter enhanced neutrino oscillations on atmosheric neutrinos is investigated systematically in the framework of one mass dominant model of three neutrinos . </S>",
+    "<S> the resonance conditions of neutrino crossing the earth are determined by the three parameters , namely , the zenith angle , @xmath0 , and the mixing angle @xmath1 of the electron neutrinos with tau neutrinos . </S>",
+    "<S> the values of the triplet under the resonance is found numerically . </S>"
+  ]
+}

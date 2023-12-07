@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the neutrino oscillation phenomena still depends on three unknown parameters : mixing angle @xmath0 , sign of @xmath2 , and the cp phase @xmath3 .",
+    "measurement of @xmath0 in appearance experiments , such as the ones based on accelerator , are subjected to suffer from the so called parameter degeneracies due to the effect of the unknown sign of @xmath2 and the cp phase @xmath3 in neutrino oscillations  @xcite .",
+    "the reactor neutrino short baseline experiments can produce a clear oscillation signal and measure @xmath0 with no ambiguities or matter effects  @xcite . in this paper",
+    "we describe the main features and parameters of the angra experiment , a project to measure antineutrino disappearance at the angra dos reis nuclear complex ( rj - brazil ) .",
+    "angra dos reis is a city located about 150 km south of rio de janeiro . at 30 km from the city",
+    "there is the nuclear complex , having two operational reactors ( angra - i and ii ) .",
+    "the state owned company eletronuclear is responsible for the general management and commercial operation of the plant .",
+    "the thermal power of the reactors are 2 gw and 4 gw for angra i and ii , with uptime around 83% and 90% , respectively .",
+    "the topology of the surrounding terrain , formed by mountainous granite , is an advantage of the site .",
+    "the required overburden can be achieved by construction of horizontal tunnels with lower cost than vertical shafts .",
+    "the angra experiment will consist of 2 neutrino detectors in the standard near / far configuration .",
+    "the detectors should be built in the 3 volume design : i ) the central target filled with liquid scintillator doped with gadolinium ; ii ) the surrounding volume filled of standard scintillator ( gamma catcher ) and iii ) the non - scintillating buffer , with same optical properties of the innermost zones , shielding the radioactive from outside .",
+    "the photo - tubes will be installed on the outer wall of the buffer .",
+    "the near site location is 300 m from the reactor core .",
+    "we plan to place a 50 ton target detector in a 100 m depth shaft providing 250 m.w.e .",
+    "of overburden . at a distance of 1.5 km from the reactors",
+    "there is a 700 m granite peak of the so called `` morro do frade '' .",
+    "the installation of the 500 ton far detector under this peak ( 2000 m.w.e . ) provides an effective combination of detector distance and overburden that increases the expected signal to noise ratio .",
+    "in addition , we intend to include a 1 ton very near detector , at 50 m from the core , for flux precise monitoring , accurate spectral shape measurement and general cross checks .",
+    "preliminary estimations of the signal and background rates and are shown in table 1 .",
+    ".the angra experiment expected rates .",
+    "signal and @xmath4li background ( correlated noise ) are in events / day units . [ cols=\"<,<,<,<\",options=\"header \" , ]     the expected sensitivity as function of integrated luminosity is shown in figure 1 .",
+    "the assumed value of @xmath5 is indicated in the figure .",
+    "the calculations were performed by minimizing the @xmath6 formulae built to take into account four different types of systematic errors @xmath7 with assumed values indicated in the figure .",
+    "the subscripts d(d ) represents errors correlated ( uncorrelated ) between detectors and b(b ) errors correlated ( uncorrelated ) between bins of the measured energy spectra @xcite . as can be seen a limit of @xmath1 at 90% confidence level",
+    "can be achieved within three years .",
+    "we are currently developing the very near detector , that will serve as prototype to test detector elements and performance and also as survey tool for systematic studies .",
+    "this detector will also be used to monitor the reactor activity , and to provide an additional tool on verification of safeguards on non - proliferation . the planned turn - on dates are 2008 for the very near detector and 2013 for the angra complete configuration .",
+    "7 h. nunokawa , these proceedings .",
+    "k.  anderson _",
+    "et al . _ , arxiv : hep - ex/0402041 ; see also talks at fourth workshop on future low energy experiments , hotel do frade , angra dos reis ( rj ) , brazil , feb .",
+    "23 - 25 2005 .",
+    "talks available at ` http://www.ifi.unicamp.br/~lenews05/ ` h. minakata and h. sugiyama , phys .",
+    "* b 580 * , 216 ( 2004 ) ."
+  ],
+  "abstract_text": [
+    "<S> we present the status and plans of the angra project , a new nuclear reactor neutrino oscillation experiment , proposed to be built in brazil at the angra dos reis nuclear reactor complex . </S>",
+    "<S> this experiment is aimed to measure @xmath0 , the last unknown of the three neutrino mixing angles . combining a high luminosity design , very low background from cosmic rays and careful control of systematic errors at the 1% level </S>",
+    "<S> , we propose a high sensitivity multi - detector experiment , able to reach a sensitivity to antineutrino disappearance down to @xmath1 in a three years running period , improving present limits constrained by the chooz experiment by more than an order of magnitude . </S>"
+  ]
+}
