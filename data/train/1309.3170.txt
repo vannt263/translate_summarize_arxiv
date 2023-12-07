@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "a sym - bobenko formula is the expression of an immersion in terms of a one - parameter family of moving frames , called the _ extended frame_. this idea was first used by a.  sym @xcite in the case of surfaces with negative constant ( gauss ) curvature in euclidean space .",
+    "a.  i.  bobenko applied the method to numerous cases @xcite @xcite @xcite , including constant mean curvature ( _ cmc _ for short ) surfaces in space forms   euclidean @xmath0-space , @xmath0-sphere and hyperbolic @xmath0-space   and t.  taniguchi applied it to cmc spacelike surfaces in minkowski @xmath0-space @xcite . in the mean time , the work of j.  dorfmeister , f.  pedit and h.  wu @xcite and d.  brander , w.  rossman and n.  schmitt @xcite show that sym - bobenko formul can be seen as generalized weierstrass type representations for cmc surfaces , extended frames coming from holomorphic data .    in heisenberg @xmath0-space ,",
+    "the classical method does not apply , since the isometry group is of dimension only @xmath1   contrary to the ones of space forms that are @xmath2-dimensional   and does not act transitively on orthonormal frames ; there are `` not enough '' isometries to define a moving frame .",
+    "we show that nevertheless , for minimal immersions a sym - bobenko formula can be established using an _ ad - hoc _ matrix - valued map .    in @xcite , j.  f.  dorfmeister , j.  inoguchi and s.  kobyashi link this formula with pairs of meromorphic and anti - meromorphic @xmath3-forms , which they call _ pairs of normalized potentials _ ,",
+    "in a way to get a generalized weierstrass type representation for minimal surfaces .",
+    "we see the @xmath0-dimensional heisenberg space @xmath4 as @xmath5 , with generic coordinates @xmath6 , endowed with the following riemannian metric : @xmath7 we call _ canonical frame _ the orthonormal frame @xmath8 defined by : @xmath9 and the levi - civita connection @xmath10 writes : @xmath11 note that the vector field @xmath12 is a killing field and that the projection @xmath13 on the first two coordinates is a riemannian submersion . from now on ,",
+    "we identify @xmath14 with @xmath15 .",
+    "we may also write @xmath4 as a subset of @xmath16 .",
+    "consider the matrices : @xmath17 the identification is the following : @xmath18 note that this identification is purely formal and does not involve any manifold related structure .",
+    "let @xmath19 be a simply connected riemann surface and @xmath20 be a conformal parameter on @xmath19 .",
+    "a conformal immersion is denoted @xmath21 with unit normal @xmath22 and conformal factor @xmath23 meaning : @xmath24 consider also @xmath25 denote the angle function of @xmath22 , @xmath26 the vertical part of @xmath27 and @xmath28 the hopf differential of @xmath29 .",
+    "the abresch - rosenberg differential expresses @xmath30 , and a necessary and sufficient condition for @xmath29 to be minimal is @xmath31 .",
+    "we also decompose @xmath29 into @xmath32 with @xmath33 the horizontal projection of @xmath29 and @xmath34 its height function .",
+    "we can express @xmath35 in terms of @xmath36 and @xmath37 : @xmath38 in the matrix model   of @xmath4 , the map @xmath36 is given by the non - diagonal coefficients   precisely the @xmath39-coefficient   and @xmath37 by the diagonal ones .",
+    "the intuitive idea behind sym - bobenko formul in space forms is that , up to ambient isometries , the unit normal   or gauss map   would locally determine the immersion up to ambient isometries . in @xmath4 such a map is defined as follows ; see @xcite for details .",
+    "since @xmath4 is a lie group , the map @xmath40 takes values in the unit sphere @xmath41 of the lie algebra .",
+    "moreover , for a local study , we can suppose @xmath42 so that the values of @xmath40 are actually in the northern hemisphere of @xmath41 .",
+    "if @xmath43 denotes the stereographic projection centered at the south pole , we call _ gauss map _ of an immersion @xmath29 the map @xmath44 with values in the unit disk .",
+    "actually , endowing the unit disk with the poincar metric , we see the gauss map @xmath45 as a map with values into the hyperbolic disk @xmath46 .",
+    "we use the following criterion to show that a conformal immersion in heisenberg space is minimal :    [ prop : minimalimmersion ]    a conformal immersion @xmath47 is minimal if and only if : @xmath48 furthermore , when @xmath29 is minimal its gauss map @xmath49 is harmonic .",
+    "consider the family @xmath50 of matrix fields over @xmath19 which are solutions of the system : @xmath51 where @xmath52 and @xmath53 are smooth . such a family @xmath54 exists if and only if : @xmath55    using the matrix model  , define the map @xmath56 for any @xmath57 as : @xmath58 where the superscripts @xmath59 and @xmath60 denote respectively the diagonal an non - diagonal terms .",
+    "then @xmath61 is a conformal minimal immersion in heisenberg space and the family @xmath62 is the so - called _ associated family_.    _ proof_. fix @xmath57 . from equation  , we get : @xmath63}{\\right)}^d+ 2{\\left(}\\sigma_0 ( { \\widehat{f}}_t)_z { \\right)}^d { \\vspace*{1ex}}\\\\ { \\displaystyle}\\text{and } \\quad ( { \\widehat{f}}_t)_{z\\bar{z}}= \\frac{i}{4 } { \\left[}({\\widehat{f}}_t)_z , ( { \\widehat{f}}_t)_{\\bar{z } } { \\right ] } , \\end{array}\\ ] ] where @xmath64 $ ] denotes the commutator . from the first equation in  , we have that matrices @xmath61 and @xmath65 write : @xmath66 with @xmath67 and @xmath68 smooth .",
+    "we show that @xmath36 and @xmath37 verify the conditions of proposition  [ prop : minimalimmersion ] . using equation   and the second identity in  , we deduce @xmath69 and since @xmath70 is real - valued , we obtain @xmath71",
+    ". finally , the @xmath39-coefficient of the third equation in   verify : @xmath72 which concludes the proof .",
+    "@xmath73          a.  i. bobenko , _ surfaces in terms of @xmath75 by @xmath75 matrices . old and new",
+    "integrable cases _ , harmonic maps and integrable systems , aspects math . , e23 , friedr .",
+    "vieweg , braunschweig , 1994 , pp .",
+    "83127 .",
+    "d. brander , w. rossman , and n. schmitt , _ holomorphic representation of constant mean curvature surfaces in minkowski space : consequences of non - compactness in loop group methods _ , adv .",
+    "* 223 * ( 2010 ) , 949986 .",
+    "a. sym , _ soliton surfaces and their applications ( soliton geometry from spectral problems ) _ , geometric aspects of the einstein equations and integrable systems ( scheveningen , 1984 ) , lecture notes in phys . , vol .",
+    "239 , springer , berlin , 1985 , pp ."
+  ],
+  "abstract_text": [
+    "<S> _ _    we give an immersion formula , the _ sym - bobenko formula _ , for minimal surfaces in the @xmath0-dimensional heisenberg space . </S>",
+    "<S> such a formula can be used to give a generalized weierstrass type representation and construct explicit examples of minimal surfaces .    </S>",
+    "<S> _ mathematics subject classification : _ _ primary 53a10 , secondary 53c42_. </S>"
+  ]
+}

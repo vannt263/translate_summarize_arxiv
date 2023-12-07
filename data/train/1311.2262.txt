@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "@xmath0cep is a magnetic pulsating star .",
+    "it hosts a radial pulsation mode as well as non - radial pulsations of lower amplitude .",
+    "the line profiles in its spectrum therefore show mainly variations with the pulsation periods in addition to the zeeman broadening due to the magnetic field .",
+    "measurements of the magnetic field in stokes v clearly show both variations due to the pulsations and the zeeman signatures of its field .",
+    "therefore it is mandatory to take pulsations into account when trying to determine the magnetic field configuration and strength from the stokes profiles .",
+    "for the first time we thus modelled the intensity and stokes v profiles of a magnetic massive star , @xmath0cep , taking into account its pulsations with the new phoebe 2.0 code ( see fig .",
+    "[ neiner_fig1 ] ) , and we compared the results with a standard oblique dipole model without pulsations . without pulsations",
+    "we find i=89@xmath1 , @xmath0=51@xmath1 , b@xmath2=389 g , while with pulsations our preliminary results are i=70@xmath1 , @xmath0=50@xmath1 , b@xmath3=276 g. in particular , the resulting field strength seems significantly lower when taking pulsations into account .",
+    "cep fitted with pulsations and magnetic field , at two different phases.,title=\"fig:\",height=113 ] cep fitted with pulsations and magnetic field , at two different phases.,title=\"fig:\",height=113 ] + cep fitted with pulsations and magnetic field , at two different phases.,title=\"fig:\",height=113 ] cep fitted with pulsations and magnetic field , at two different phases.,title=\"fig:\",height=113 ] +",
+    "the impact of a fossil magnetic field on rotation and mixing can be estimated following two theoretical criteria : ( 1 ) the spruit criterion ( * ? ? ?",
+    "* ( spruit 1999 ) ) : above a critical strength , the magnetic field freezes differential rotation and mixing , and the field stays oblique .",
+    "otherwise the structure adjusts to a symmetric configuration by rotational smoothing ; ( 2 ) the zahn criterion ( * ? ? ?",
+    "* ; * ? ? ?",
+    "* ( zahn 2011 , mathis & zahn 2005 ) ) : the lorentz force removes differential rotation along poloidal field lines above a certain field strength and thus removes mixing .    for the magnetic pulsating b star v2052oph , the spruit and zahn critical field strengths are b@xmath4=40 g and 70 g , respectively . in this star ,",
+    "the measured polar field strength is b@xmath2=400 g",
+    "* ( neiner et al . 2012 ) ) .",
+    "therefore we expect no mixing in v2052oph .",
+    "indeed , a seismic model of the pulsations of v2052oph shows no overshoot in this star ( * ? ? ?",
+    "* ( briquet et al . 2012 ) ) .",
+    "this example shows how a magnetic field study can provide constraints for seismic modelling .",
+    "a magnetic field also produces splitting of the pulsation modes and a modification of the amplitude of the pulsation modes .",
+    "the split multiplet depends both on the strength of the field and on its obliquity ( * ? ? ?",
+    "* ( see shibahashi & aerts 2000 ) ) .",
+    "no magnetic splitting has been identified so far in massive stars .",
+    "however , the observation with corot of regular splittings in the hybrid b pulsator hd43317 ( * ? ? ?",
+    "* ( papics et al .",
+    "2012 ) ) and the recent discovery of a magnetic field in this star ( * ? ? ?",
+    "* ( briquet et al . 2013 ) ) make it an ideal candidate .",
+    "it is crucial to take pulsations into account when modelling the magnetic field strength and configuration in pulsating massive stars .",
+    "moreover , knowing this magnetic configuration provides important constraints on seismic modelling , in particular it constraints the mixing , differential rotation and identification of the modes ."
+  ],
+  "abstract_text": [
+    "<S> the presence of pulsations influences the local parameters at the surface of massive stars and thus it modifies the zeeman magnetic signatures . </S>",
+    "<S> therefore it makes the characterisation of a magnetic field in pulsating stars more difficult and the characterisation of pulsations is thus required for the study of magnetic massive stars . </S>",
+    "<S> conversely , the presence of a magnetic field can inhibit differential rotation and mixing in massive stars and thus provides important constraints for seismic modelling based on pulsation studies . as a consequence , </S>",
+    "<S> it is necessary to combine spectropolarimetric and seismic studies for all massive classical pulsators . below we show examples of such combined studies and the interplay between physical processes . </S>"
+  ]
+}

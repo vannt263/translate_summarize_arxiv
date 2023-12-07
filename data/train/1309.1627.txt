@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "quantum chromodynamics ( qcd ) describes the interactions between colored particles such as the color - triplet quarks and color - octet gluons of the standard model , but additional colored particles are present in many extensions of the standard model .",
+    "supersymmetry requires gluinos and squarks .",
+    "string theory provides a broader range of possibilities .",
+    "new strong dynamics would generate a spectrum of new composite particles ( recall the technihadrons of classic technicolor ) , and if the new elementary particles ( akin to techniquarks ) carry qcd color , then the new composite particles occur as octets , decuplets , and other multiplets of qcd color .",
+    "studies of new colored particles in the context of the large hadron collider therefore go far beyond triplets and octets @xcite , continuing several decades of interest in the range of color representations that might be realized beyond the standard model @xcite .",
+    "lattice qcd is routinely used to obtain quantitative results from the su(3 ) gauge theory of gluons and quarks .",
+    "the inclusion of additional particles in an octet @xcite , sextet @xcite , or symmetric @xcite representation has also been investigated , in some cases applied to a new strong interaction rather than to qcd itself .",
+    "of more direct relevance to our work is a lattice study by michael and coworkers @xcite , culminating in ref .",
+    "@xcite where qcd is coupled to a new heavy color - octet particle representing the gluino of supersymmetry .",
+    "given that the gluino is significantly heavier than the qcd scale , foster and michael @xcite were able to treat the gluino as a static particle , where the spin of the gluino is irrelevant so their results are applicable more generally to particles of arbitrary spin .",
+    "if the static particle is sufficiently stable , then it will couple to surrounding gluons and quarks to form hadronic bound states .",
+    "foster and michael used lattice qcd simulations to produce predictions for mass splittings within this new spectrum of hadrons . specifically , ref .",
+    "@xcite contains numerical results for two types of hadrons : gluelumps ( having one static octet operator coupled to gluon fields , but no valence quarks ) and adjoint mesons ( having one static octet operator coupled to a quark - antiquark pair ) .",
+    ".the smallest gluelump mass splittings relative to the @xmath0 state from the original lattice simulation @xcite ( where errors are statistical only ) , compared to model calculations published subsequently .",
+    "see sec .",
+    "[ sec : results ] for a crucial discussion of lattice systematics .",
+    "see the original publications for detailed discussions about other parameter choices and systematic issues ; this table is merely an introduction .",
+    "( to display data from ref .",
+    "@xcite we chose @xmath1 fm . ) [ cols=\"<,<,^,^,^,^ \" , ]     and the multiplicities are obtained through standard group theory methods : @xmath2 to summarize , the operators that will be typed into the computer code are those shown in eq .",
+    "( [ eq : operators ] ) .",
+    "operators beyond the octet are built from this octet starting point , as described in sec .",
+    "[ sec : operators ] ."
+  ],
+  "abstract_text": [
+    "<S> proposals for physics beyond the standard model often include new colored particles at or beyond the scale of electroweak symmetry breaking . </S>",
+    "<S> any new particle with a sufficient lifetime will bind with standard model gluons and quarks to form a spectrum of new hadrons . here </S>",
+    "<S> we focus on colored particles in the octet , decuplet , 27-plet , 28-plet and 35-plet representations of su(3 ) color because these can form hadrons without valence quarks . in every case , </S>",
+    "<S> lattice creation operators are constructed for all angular momentum , parity and charge conjugation quantum numbers . </S>",
+    "<S> computations with fully dynamical lattice qcd configurations produce numerical results for mass splittings within this new hadron spectrum . </S>",
+    "<S> a previous quenched lattice study explored the octet case for certain quantum number choices , and our findings provide a reassessment of those early results . </S>"
+  ]
+}

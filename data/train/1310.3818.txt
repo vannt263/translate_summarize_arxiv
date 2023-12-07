@@ -1,0 +1,18 @@
+{
+  "article_text": [
+    "this video depicts the imaging technique used to visualize droplet pinning and depinning on discrete textured superhydrophobic surfaces , and some examples of motion of drops across different superhydrophobic textures .",
+    "a zeiss evo-55 esem was used for imaging .",
+    "a custom fixture was fabricated to mount the samples vertically in the esem and provide cooling with a deben coolstage mk ii peltier cooling stage .",
+    "a 10 ml water drop was affixed to the end of a copper wire that allowed the drop to be held against a vertically oriented surface , and also provided a cooling flux to minimize evaporation . by rotating the motorized stage of the esem",
+    ", the droplet was swept across the surface at a velocity of 2 mm / s while observing the depinning events of the contact line at micron length scales .",
+    "the chamber of the esem was maintained at a pressure of 1,000 pa .",
+    "a. t. paxson , k. k. varanasi , `` self - similarity of contact line depinning from textured surfaces , '' nature communications , 4 , 1492 , 2013 ."
+  ],
+  "abstract_text": [
+    "<S> we present a fluid dynamics video showing the adhesion of a drop to a superhydrophobic surface . </S>",
+    "<S> we use environmental scanning electron microscopy to observe depinning events at the microscale . </S>",
+    "<S> as the drop moves along the surface , the advancing portion of the contact line simply lies down onto the upcoming roughness features , contributing negligibly to adhesion . after measuring the local receding contact angle of capillary bridges formed on a micropillar array , we find that these depinning events follow the gibbs depinning criterion . </S>",
+    "<S> we further extend this technique to two - scale hierarchical structures to reveal a self - similar depinning mechanism in which the adhesion of the entire drop depends only on the pinning at the very smallest level of roughness hierarchy . with this self - similar depinning mechanism </S>",
+    "<S> we develop a model to predict the adhesion of drops to superhydrophobic surfaces that explains both the low adhesion on sparsely structured surfaces and the surprisingly high adhesion on surfaces whose features are densely spaced or tortuously shaped . </S>"
+  ]
+}

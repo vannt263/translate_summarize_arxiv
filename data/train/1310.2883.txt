@@ -1,0 +1,21 @@
+{
+  "article_text": [
+    "in recent work we have demonstrated that key features of wall turbulence can be captured by an input - output relationship between nonlinear forcing and velocity response , where the transfer function , constructed in wavenumber - frequency space , is named the _ _ resolvent__@xcite .",
+    "a basis for the wall - normal direction can be obtained by singular value decomposition of the resolvent , where the singular functions ( or resolvent modes ) represent the most amplified velocity response to the `` most dangerous '' input forcing . as such",
+    ", a low - rank approximation can be obtained by retaining a limited number of singular functions ; recognizable statistical and structural features of wall turbulence can be identified in even the rank-1 approximation , in which only the principal singular functions are investigated .",
+    "for fully - developed , statistically stationary channel flow , the output of this analysis at each @xmath0 , where @xmath1 and @xmath2 are the streamwise and spanwise wavenumbers , respectively , and @xmath3 is the frequency , consists of a three - dimensional , three velocity component propagating wave which we hypothesize can be considered to represent a `` building block '' of wall turbulence .",
+    "the three - dimensional and propagating nature of these resolvent modes presents a significant challenge for visualizing individual building blocks as well as the complexity associated with assemblies of even limited numbers of resolvent modes .    in the linked videos , we report on the outcome of a design - informed visualization project performed by the caltech / jpl / art center data visualization summer internship program tasked with creating a visualization of the deconstruction of a full turbulent flow field into subsets of dynamic , interacting building blocks .",
+    "the goal was to create a visualization suite capable of illuminating the velocity fields associated with individual resolvent modes and the rapid increase in complexity associated with linear superposition of modes .",
+    "the software , named _",
+    "modedynamix _ has the potential to provide insight into the underlying dynamics of wall turbulence .",
+    "high and low resolution versions , respectively , of the video entry to the 2013 gallery of fluid motion are shown in +   + _ v102376 _ and + _",
+    "v102376small_. + in these movies , the following phenomena are shown :    * a brief schematic introduction to resolvent analysis and description of the turbulence kernel , consisting of three resolvent modes , that is explored in the video ; * visualization of the velocity field and vortical structure associated with single resolvent modes , achieved using a combination of vector plots and tracking of massless particles released in the flow .",
+    "structures observed include quasi - streamwise vortices , vortical arches , inactive `` sloshing '' in the wall - parallel plane and meandering streaks ; * visualization of the complex velocity field arising from the superposition of only the three resolvent modes constituting the kernel ; * a demonstration of the motion experienced by an infinitesimal , massless particle in the turbulence kernel .",
+    "the visualization software was produced as part of the caltech / jpl / art center data visualization summer internship program .",
+    "this research was carried out at the jet propulsion laboratory , california institute of technology , under a contract with the national aeronautics and space administration and at the california institute of technology with support from the air force office of scientific research , grants fa-9550 - 09 - 1 - 0701 and fa-9550 - 12 - 1 - 0469 .",
+    "copyright 2013 california institute of technology ."
+  ],
+  "abstract_text": [
+    "<S> this article accompanies a fluid dynamics video entered into the gallery of fluid motion of the 66th annual meeting of the aps division of fluid dynamics . </S>"
+  ]
+}

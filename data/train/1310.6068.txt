@@ -1,0 +1,21 @@
+{
+  "article_text": [
+    "in a 16-hour guaranteed time project ( p.i .",
+    "gran olofsson ) using the spire fourier transform spectrometer ( fts ) , spectra in the 4601540ghz range were obtained of 13 protoplanetary disks around herbig stars : abaur , hd100546 , hd97048 , hd163296 , ttau , hd142527 , hd144432 , rytau , hd104237 , hd36112 , hd169142 , hd100453 and twhya .",
+    "the data were processed in hipe 9 , followed by subtraction of a median background signal obtained from the off - center detectors .",
+    "all spectra show a smoothly rising dust continuum , while only the first five of the above list show detectable line signal .",
+    "the disk emission lines , presented in fig .  [ fig : spectra ] , are unresolved both spatially ( the spire fts beam is 4217@xmath0 ) and spectrally ( @xmath1 @xmath2 4001300 ) .",
+    "spectral lines are fitted using a dedicated fourier transform line fitter tool ( available online at ` www.uleth.ca/phy/naylor/ ` ) .",
+    "table  [ t : linedetections ] lists lines detected in at least one target besides t tau .",
+    "first , it is evident from the observations that the continuum and co lines toward ttau originate in an extended protostellar envelope rather than in a much smaller disk .",
+    "this is likely also the case for the cold h@xmath3o vapor .",
+    "second , the n@xmath4 line toward hd163296 is @xmath5@xmath6 times brighter than what is predicted by current ( x - ray ) irradiated disk models ( e.g. , aresu  2011 ) , even when invoking x - ray luminosities much higher than appropriate for hd163296 . since n@xmath4 is also detected in all off - center detectors up to 1@xmath7 away from the star , we hypothesize that a single ( external ) source is responsible for ionizing nitrogen both in the disk / jet of hd163296 and in the surrounding gaseous medium .",
+    "finally , we plan to use the unique set of 43 to 1312 lines of co and @xmath8co ( @xmath9 @xmath2 50500k ) to characterize warm gas in the herbig protoplanetary disks .",
+    "+ _ acknowledgements : _ this work is supported by csa and nserc . spire has been developed by a consortium of institutes led by cardiff university ( uk ) and including contributions from canada , china , france , italy , spain , sweden , uk , and usa .",
+    "l r r @ r r r r r & * @xmath9 * & * frequency*@xmath10 & +   + @xmath11 & * ( k ) * & * ( ghz ) * & * ttau * & * abaur * & * hd100546 * & * hd97048 * & * hd163296 * + co 43 & 55 & 461.0 & 448 [ 5 ] & 35 [ 2 ] & - & 37 [ 3 ] & - + c @xmath12p@xmath13@xmath12p@xmath14 & 24 & 492.2 & 35 [ 5 ] & - & - & 26 [ 3 ] & - + co 54 & 83 & 576.3 & 599 [ 5 ] & 25 [ 2 ] & - & 13 [ 3 ] & - + co 65 & 116 & 691.5 & 740 [ 5 ] & 38 [ 2 ] & 17 [ 2 ] & 17 [ 3 ] & 8 [ 2 ] + @xmath8co 76 & 148 & 771.2 & 100 [ 5 ] & 6 [ 2 ] & 7 [ 2 ] & - & - + co 76 & 155 & 806.7 & 1141 [ 5 ] & 38 [ 2 ] & 22 [ 2 ] & 17 [ 3 ] & 10 [ 2 ] + c @xmath12p@xmath3@xmath12p@xmath13 & 62 & 809.3 & 93 [ 5 ] & 14 [ 2 ] & 8 [ 2 ] & 17 [ 3 ] & 5 [ 2 ] + co 87 & 199 & 921.8 & 1531 [ 5 ] & 48 [ 2 ] & 36 [ 2 ] & 31 [ 3 ] & 16 [ 2 ] + hcn 1110 & 281 & 974.5 & 10 [ 4 ] & 11 [ 2 ] & - & - & - + @xmath8co 98 & 238 & 991.3 & 75 [ 4 ] & 5 [ 2 ] & 14 [ 2 ] & - & - + co 98 & 249 & 1036.9 & 1106 [ 4 ] & 47 [ 2 ] & 45 [ 2 ] & 25 [ 3 ] & 9 [ 2 ] + co 109 & 304 & 1152.0 & 1202 [ 4 ] & 39 [ 2 ] & 53 [ 2 ] & 29 [ 3 ] & 12 [ 2 ] + @xmath8co 1110 & 349 & 1211.3 & 50 [ 4 ] & - & 14 [ 2 ] & - & - + co 1110 & 365 & 1267.0 & 1225 [ 4 ] & 46 [ 2 ] & 51 [ 2 ] & 32 [ 3 ] & 12 [ 2 ] + co 1211 & 431 & 1382.0 & 1224 [ 4 ] & 38 [ 2 ] & 59 [ 2 ] & 24 [ 3 ] & 10 [ 2 ] + n@xmath4 @xmath12p@xmath13@xmath12p@xmath14 & 70 & 1461.1 & - & - & - & - & 17 [ 2 ] + co 1312 & 503 & 1496.9 & 1262 [ 4 ] & 44 [ 2 ] & 62 [ 2 ] & 41 [ 3 ] & 11 [ 2 ] +"
+  ],
+  "abstract_text": [
+    "<S> herbig ae / be objects , like their lower mass counterparts t tauri stars , are seen to form a stable circumstellar disk which is initially gas - rich and could ultimately form a planetary system . </S>",
+    "<S> we present _ herschel _ spire 4601540 ghz spectra of five targets out of a sample of 13 young disk sources , showing line detections mainly due to warm co gas . </S>"
+  ]
+}

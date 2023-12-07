@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "one of the techniques to register ultra - high energy extensive air showers ( eas ) is measuring strength of radio pulse by antennas . unlike traditional techniques , including optic measurements of air shower propagation radio technique can operate in any atmospheric condition except during thunderstorm conditions for whole observation period , which dramatically increases effective time of air showers registration .",
+    "it is easier to use and much cheaper than other ground detectors in existing air showers array .    the yakutsk array measured three components of air shower : the total charged component , the muon component and cherenkov radiation . from these components using average lateral distribution function ( ldf ) the integral characteristics of air shower , the total number of charged particles , the total number of muons and full flux of cherenkov light at the sea level are recovered .",
+    "all these shower characteristics are used for further model - free air shower energy estimation as shown in [ 1 ] .",
+    "cherenkov light registered at the sea level moreover is used to recover air shower longitudinal distribution and it characteristics , cascade curve and depth of maximum x@xmath4 [ 2][3 ] .",
+    "using this , in future is possible to find a relation between the characteristics of the radio emission and characteristics of the eas , including slope of the radio emission ldf with depth of maximum , as shown in [ 4 ] .",
+    "for the season 2008 - 2012 were recorded 600 air shower events with radio emission .",
+    "showers energy were above 3@xmath010@xmath1 ev , and zenith angle @xmath5 @xmath6 70@xmath7 .",
+    "for further analysis were selected only 421 showers , appropriate selection criteria of this paper .",
+    "therefore , for analysis at the yakutsk array we use following criteria :    1 .",
+    "the shower selected if adc prehistory contains radio pulse with amplitude 5 times more than noise level and pulse is localized within time gate equal to delay of `` master '' from small or large arrays . 2 .",
+    "extensive air shower axis must be within perimeter of central array with radius 600 m. zenith angle @xmath5 @xmath6 35@xmath7 .",
+    "azimuth angle @xmath8 chosen such a way as to exclude influence of polarization effect .",
+    "that is , the amplitude of the crossed antennas were equal or were nt go beyond limit ( 3 - 5 ) @xmath9 .        with selected events",
+    ", we plotted dependence of maximum amplitude of radio pulse from zenith angle ( fig .",
+    "@xmath10 ) .",
+    "approximation curve is given by power function :    @xmath11    in fig .",
+    "@xmath12 is shown dependence of maximum amplitude of radio signal from shower energy .",
+    "approximation is given by :    @xmath13    as seen from fig .",
+    "@xmath14 , slope of the ldf changes with the distance . at large distance signal of radio emission attenuates",
+    "slowly . from equation ( 1 ) and ( 2 ) we derived formula for calculating energy in individual showers :    10@xmath2 ev , 4.38@xmath010@xmath2 ev and 1.32@xmath010@xmath3 ev.,scaledwidth=40.0% ]    @xmath15    with : @xmath5 - zenith angle , r - distance of antennas to the shower axis , e@xmath16 - the primary particle energy .    in fig .",
+    "@xmath17 dependence of radio emission ldf from depth of the air shower maximum .",
+    "the depth was determined by cherenkov detectors measurements of yakutsk array .",
+    "the slopes were determined from the ratio of the amplitudes , taken at 80 and 200 m ( fig .",
+    "@xmath14 ) for three energies : 1.73@xmath010@xmath2 ev , 4.38@xmath010@xmath2 ev and 1.32@xmath010@xmath3 ev .    .",
+    "the slope was determined from the ratio of the amplitudes , taken at 80 and 200 m using averaged ldf and xmax from cherenkov light measurements .",
+    ", scaledwidth=40.0% ]",
+    "yakutsk array measurements are showing : a ) there is a correlation between measured maximum amplitude of radio signal and air shower energy determined measurements of the main components at observation level .",
+    "it follows from the formula ( 2 ) derived empirically from the joint consideration of radio signal amplitude and eas energy ; b ) the shape of ldf depends on the depth of air shower maximum x@xmath4 ( fig .",
+    "@xmath17 ) ."
+  ],
+  "abstract_text": [
+    "<S> this paper presents the set of measurements of ultra - high energy air shower radio emission at frequency 32 mhz in period of 2008 - 2012 . </S>",
+    "<S> the showers are selected by geomagnetic and azimuth angles and then by the energy in three intervals : 3@xmath010@xmath1  3@xmath010@xmath2 ev , 3@xmath010@xmath2  6@xmath010@xmath2 ev and 6@xmath010@xmath2  5@xmath010@xmath3 ev . in each energy interval </S>",
+    "<S> average lateral distribution function using mathematically averaged data from antennas with different directions are plotted . in the paper , using experimental data the dependence of radio signal averaged amplitude from geomagnetic angle , the shower axis distance and the energy are determined . </S>",
+    "<S> depth of maximum of cosmic ray showers xmax for the given energy range is evaluated . </S>",
+    "<S> the evaluation is made according qgsjet model calculations and average lateral distribution function shape . </S>"
+  ]
+}

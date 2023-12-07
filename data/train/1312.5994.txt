@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "quasar outflows are believed to be a ubiquitous phenomenon within luminous agn in distant galaxies , however the detailed physics of the outflows is not well understood .",
+    "conducting variability studies of broad absorption lines ( bals ) , the signatures of outflowing gas , in quasars can prove useful in placing constraints on the physical properties of the gas .",
+    "the motivation behind understanding the physics of outflows is fueled by the overall picture of galaxy evolution and the connection between the central smbh and its surrounding host .",
+    "it is clear that the smbh mass correlates with host galaxy bulge properties ( e.g. , the @xmath3 relation ) , however what is not apparent is to what extent quasar outflows contribute to this connection .",
+    "there is evidence of quasar outflows having a direct impact on star formation in the host galaxy ( ( * ? ? ?",
+    "* farrah et al . 2012 ) ) , yet to probe this feedback mechanism further will require firm observational constraints on the outflow s properties .",
+    "iron low ionization bals , or felobals , form a rare subclass of bal quasars ( @xmath2 1% ) that distinguish themselves by showing bals in fe ii and fe iii in addition to typical low and high ionization species found in the rest of bal quasars .",
+    "theoretical models on the origin of felobal outflows are quite varied , as are their implications for the agn - host galaxy connection .",
+    "* faucher - gigure et al . ( 2012 ) ) suggest that a quasar blast wave interacts with the ism at @xmath2 1 kpc from the smbh , creating cloudlets that form the absorption lines .",
+    "* murray et al . ( 1995 ) ) , on the other hand , model a radiation - pressure - driven bal wind that arises from the accretion disk on sub - parsec scales from the smbh , a situation that might explain all the bal quasar subclasses .",
+    "variability studies of felobal quasars are rare .",
+    "? * hall et al .",
+    "( 2011 ) ) observed absorption line variability in 1 felobal , constraining the absorber s distance to be between 1.7 and 14 pc from the smbh .",
+    "* vivek et al . ( 2012 ) ) investigated 5 felobals , detecting changes in absorption from al iii and fe iii in one of their objects .",
+    "more constraints need to be placed on felobal outflows in order to have a clearer understanding of their origins , structure , and impact on the surrounding host galaxy .",
+    "we have obtained preliminary results from a variability study of 12 felobal quasars ( 0.69 @xmath4 1.93 ) observed over timescales ranging from @xmath210.3 days to @xmath27.03 years in the quasar s rest frame . the wavelength coverage across our sample spanned between @xmath23800  7250  , with up to 5 epochs available for a given object .",
+    "the sample included spectra obtained using the mdm 2.4 m hiltner telescope at kitt peak , az , along with data from the 9.2 m het telescope at mcdonald observatory and sdss data release 7 .",
+    "our initial analysis shows absorption - line variability mainly from fe ii and mg ii in 4/12 felobals over restframe timescales of @xmath20.5 to @xmath26.4 years .",
+    "regions of variability occur both in portions of lines and across entire bal troughs . in one of our objects",
+    "we have detected correlated absorption - line variability in fe ii from both ground ( uv 1,2,3 ) and excited ( uv 62,63,78 ) state transitions , an observation that is uncommon as most variability studies detect changes from resonance lines only .",
+    "variability was quantified in each object by comparing flux differences between two spectra to the propagated noise of the resulting difference .",
+    "we defined a preliminary criterion for variability to be that the flux difference between two epochs rises @xmath5 3@xmath6 above the noise across @xmath5 3 consecutive pixels in order to be significant .    in order to place new physical constraints on felobal outflows ,",
+    "the cause of the variability becomes important .",
+    "two scenarios for the origin of variability in quasar outflows are a change in ionization within the gas or a change of covering fraction due to transverse motions across the line of sight . using a typical crossing timescale of @xmath7 years for our sample",
+    ", we can constrain the absorber to be @xmath8 20 pc from the smbh with crossing speeds @xmath9 500 km / s . categorizing the variability in our sample",
+    "becomes challenging due to the large number of fe ii multiplets blended together and the possibility that multiple transitions from fe ii and/or other ions contribute to any given absorption line .",
+    "a forthcoming paper will discuss individual objects in our sample along with the implications of the variability for constraining felobal outflows ."
+  ],
+  "abstract_text": [
+    "<S> the physical properties and dynamical behavior of broad absorption line ( bal ) outflows are crucial themes in understanding the connections between galactic centers and their hosts . felobals ( identified with the presence of low - ionization fe ii bals ) are a peculiar class of quasar outflows that constitute @xmath0 of the bal population . with their large column densities and apparent outflow kinetic luminosities , </S>",
+    "<S> felobals appear to be exceptionally powerful and are strong candidates for feedback in galaxy evolution . </S>",
+    "<S> we conducted variability studies of 12 felobal quasars with emission redshifts @xmath1 , spanning both weekly and multi - year timescales in the quasar s rest frame . </S>",
+    "<S> we detected absorption - line variability from low - ionization species ( fe ii , mg ii ) in four of our objects , with which we established a representative upper limit for the distance of the absorber from the supermassive black hole ( smbh ) to be @xmath220 parsecs . </S>",
+    "<S> our goals are to understand the mechanisms producing the variability ( e.g. ionization changes or gas traversing our line of sight ) and place new constraints on the locations , structure , and kinetic energies of the outflows . </S>"
+  ]
+}

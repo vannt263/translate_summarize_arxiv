@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "value iterations , policy iterations , and linear programming are three major methods for computing optimal policies for markov decision processes ( mdps ) with expected total discounted rewards @xcite , ( * ? ? ?",
+    "* chapter 6 ) , also known under the name of discounted dynamic programming .",
+    "as is well - known , policy iterations can be viewed as implementations of the simplex method applied to one of the two major linear programs used to solve mdps ; see e.g.  @xcite , ( * ? ? ?",
+    "* section 6.9 ) .",
+    "ye @xcite proved that policy iterations are strongly polynomial when the discount factor is fixed .",
+    "this note shows value iterations may not be strongly polynomial .    for value iteration ,",
+    "the best known upper bound on the required number of iterations was obtained by tseng @xcite ( see also littman @xcite and ye @xcite ) , and is a polynomial in the number of states @xmath0 , the number of actions @xmath1 , the number of bits @xmath2 needed to write down the problem data , and @xmath3 , where @xmath4 is the discount factor . since the number of arithmetic operations needed per iteration",
+    "is at most a constant times @xmath5 , this means that the value iteration algorithm is weakly polynomial if the discount factor is fixed .",
+    "this note provides a simple example that demonstrates that , if exact computations are allowed , the number of operations performed by the value iteration algorithm can grow arbitrarily quickly as a function of the total number of available actions . in particular , the running time can be exponential with respect to the total number of actions @xmath1 .",
+    "thus , unlike policy iterations , value iterations are not strongly polynomial .",
+    "consider an arbitrary increasing sequence @xmath6 of natural numbers .",
+    "let the state space be @xmath7 , and for a natural number @xmath8 let the action space be @xmath9 .",
+    "let @xmath10 , @xmath11 and @xmath12 be the sets of actions available at states 1 , 2 , and 3 , respectively .",
+    "the transition probabilities are given by @xmath13 , @xmath14 , and @xmath15 figure  [ fig : k2 ] below illustrates such an mdp for @xmath16 .",
+    "the solid arcs correspond to transitions associated with action 0 , and dashed arcs correspond to the remaining actions .",
+    "the number next to each arc is the reward associated with the corresponding action . ]      here we are interested in maximizing expected infinite - horizon discounted rewards . in particular ,",
+    "a _ policy _ is a mapping @xmath17 such that @xmath18 for each @xmath19 .",
+    "it is possible to consider more general policies , but for infinite - horizon discounted mdps with finite state and action sets it is sufficient to consider only policies of this form ; see e.g.  @xcite .",
+    "let @xmath20 denote the set of all policies .",
+    "also , given an initial state @xmath19 , let @xmath21 denote the probability distribution on the set of possible histories @xmath22 of the process under the policy @xmath23 with @xmath24 , and let @xmath25 be the expectation operator associated with @xmath21 .",
+    "then the expected total discounted reward earned when the policy @xmath23 is used starting in state @xmath19 is @xmath26 the goal is to find an _ optimal policy _ , i.e. a policy @xmath27 such that @xmath28 for all @xmath19 .",
+    "it is well - known that if @xmath29 and @xmath30 are finite , then an optimal policy exists ; see e.g.  @xcite .    for the above",
+    "described mdp each policy is defined by an action selected at state 1 .",
+    "note that if action @xmath31 is selected , then the total discounted reward starting from state 1 is @xmath32 ; if action 0 is selected , the corresponding total discounted reward is @xmath33 . since @xmath34 for each @xmath35 , action 0 is the unique optimal action in state 1 .",
+    "we are interested in obtaining the optimal policy using _",
+    "value iteration_. in particular , set @xmath36 , and for each @xmath37 and @xmath38 let @xmath39 and @xmath40 since the numbers @xmath41 increase in @xmath42 , for @xmath38 @xmath43 which means that @xmath44 hence more than @xmath45 iterations are needed to select the optimal action 0 in state 1 . in particular , since @xmath46 for @xmath47 @xmath48 more than @xmath49 iterations are required to obtain the optimal policy ."
+  ],
+  "abstract_text": [
+    "<S> this note provides a simple example demonstrating that , if exact computations are allowed , the number of iterations required for the value iteration algorithm to find an optimal policy for discounted dynamic programming problems may grow arbitrarily quickly with the size of the problem . in particular , the number of iterations can be exponential in the number of actions . </S>",
+    "<S> thus , unlike policy iterations , the value iteration algorithm is not strongly polynomial for discounted dynamic programming .    </S>",
+    "<S> markov decision process , value iteration , strongly polynomial , policy , algorithm </S>"
+  ]
+}

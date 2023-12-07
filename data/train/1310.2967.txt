@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "when a drop is held within an acoustic field , there is a force balance between the pressure exerted by the field , which tends to flatten the drop , and the surface tension of the drop , which tends to form the drop into a sphere . under stationary conditions",
+    "this will result in an oblate shaped drop residing within the field .",
+    "however , if the field strength is periodically modulated , an instability in the drop can occur .",
+    "this will result in the formation of a wave which extends radially around the drop , orthogonal to the direction of the applied field .",
+    "visually , the result appears as a star shape , with several elliptical lobes extending from the center of the drop .",
+    "the number of peaks in the produced wave can be controlled by exciting the drop at various harmonics of the drop s resonance frequency .    @xmath0    where @xmath1 is the liquid density , @xmath2 is the surface tension , @xmath3 is the drop radius , and @xmath4 is the harmonic of the oscillation@xcite .",
+    "various methods can be used to oscillate a liquid drop and form these star drops@xcite .",
+    "these methods include vibration of a non - wetting substrate , pulsating airflow , and modulating the field strength of a supporting magnetic or acoustic field .",
+    "to produce the presented visualization , an ultrasonic standing wave field was created between an ultrasonic transducer and a reflector . at the nodes of this acoustic field it is possible to insert a liquid drop and levitate it.@xcite the strength of the acoustic field is highly sensitive to the amplitude and frequency of the ultrasonic wave . to provide an initial perturbation to the drop the strength of the acoustic field",
+    "was modulated through the use of frequency modulation . by matching the resonance frequency , @xmath5 ,",
+    "the presented star patterns were formed@xcite .",
+    "we would like to thank niosh , nsf and dr .",
+    "r. glynn holt of boston university , department of mechanical engineering for their support of this project ."
+  ],
+  "abstract_text": [
+    "<S> a ` star drop ' refers to the patterns created when a drop , flattened by some force , is excited into shape mode oscillations . </S>",
+    "<S> these patterns are perhaps best understood as the two dimensional analog to the more common three dimensional shape mode oscillations . in this fluid dynamics video </S>",
+    "<S> an ultrasonic standing wave was used to levitate a liquid drop . </S>",
+    "<S> the drop was then flattened into a disk by increasing the field strength . </S>",
+    "<S> this flattened drop was then excited to create star drop patterns by exciting the drop at its resonance frequency . </S>",
+    "<S> different oscillatory modes were induced by varying the drop radius , fluid properties , and frequency at which the field strength was modulated .    </S>",
+    "<S> shape oscillation of a levitated drop in an acoustic field    w. ran ,  s. fredericks , & j.r . </S>",
+    "<S> saylor + clemson university + department of mechanical engineering + clemson , sc 29634 + </S>"
+  ]
+}

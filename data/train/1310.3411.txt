@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "the proposed amplitudes in t and b spaces , connected by fourier transforms , are written @xmath1 with the t - shape function @xmath2~,\\label{cd1_s}%\\ ] ] and @xmath3 with the b - shape function @xmath4~.\\ ] ] the parameters ( four for the imaginary and four for the real parts ) have very regular behavior . in figure [ figureone ]",
+    "we show the parameters @xmath5 ( linear in @xmath6 ) and @xmath7 ( quadratic in @xmath6 of the imaginary part , that together determine the total cross section .",
+    "the normalization is defined by @xmath8 these amplitudes account for the non - perturbative dynamics governing elastic scattering at high energies @xcite .",
+    "the imaginary and real amplitudes in t - space show respectively one and two zeros .",
+    "for very large t above 5 gev@xmath9 there are additional perturbative contributions to the real part , of very small magnitude ( three gluon exchange @xmath10 ) .",
+    "the differential cross sections @xmath11 , etc , that correspond to interactions in rings of radius b in the transverse plane are written @xmath12 @xmath13   @xmath14 in the lhs of figure [ figuretwo ] we show the forms of the inelastic differential cross sections as function of b for the energies 546 gev and 7 tev .",
+    "these functions are also shown separately for the cases of pure contributions from the gaussian part and from the shape function part of the amplitude .",
+    "we observe that the gaussian part is more concentrated for small b , with limited increase with the energy , and that the shape function part is extended for larger b values , and that it determines the observed energy increase of the integrated cross section ( squared @xmath6 ) .",
+    "the distinguished behaviour of the two parts of the amplitude ( gaussian and shape function parts ) is quantitatively shown in the rhs of figure [ figuretwo ] , where the average values of the interaction radius are represented .",
+    "these quantities are @xmath15 with the normalization factor n. analogous expressions are defined for the total and elastic cross sections .",
+    "we acknowledge support received from the brazilian governamental agencies cnpq and faperj",
+    ".    99 e.   ferreira and f.   pereira , _ phys .",
+    "d _ * 59 * , 014008 ( 1998 ) ; _ phys .",
+    "d _ * 61 * , 077507 ( 2000 ) .",
+    "a. kendi kohara , e. ferreira and t. kodama , _ eur .",
+    "phys . j. c _ , * 73 * , 2326 ( 2013 ) .",
+    "a. k. kohara , e. ferreira and t. kodama , _ phys .",
+    "d _ , * 87 * , 054024 ( 2013 ) ."
+  ],
+  "abstract_text": [
+    "<S> we propose analytical forms , in both momentum transfer and impact parameter spaces , for the amplitudes of elastic pp scattering , giving coherent and accurate description of the observables at all energies @xmath0 gev . </S>",
+    "<S> the real and imaginary parts are separately identified through their roles at small and large t values . </S>",
+    "<S> the study of the differential cross sections in b - space leads to the understanding of the effective interaction ranges contributing to elastic and inelastic processes . </S>"
+  ]
+}

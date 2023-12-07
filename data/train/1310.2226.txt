@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "we present final results from a cdf measurement of single - diffractive ( sd ) dijet production in @xmath5 collisions at @xmath6  1.96  tev at the fermilab tevatron collider using data collected by triggering on a high transverse momentum jet in coincidence with a recoil antiproton detected in a roman pot spectrometer ( rps )  @xcite .",
+    "we consider proton diffractive dissociation , @xmath7 , characterized by a rapidity gap ( region of pseudorapidity  , and pseudorapidity , @xmath8 , where @xmath9 is the polar angle of a particle with respect to the proton beam ( @xmath10 direction ) , are used interchangeably for particles detected in the calorimeters , since in the kinematic range of interest in this analysis they are approximately equal . ] devoid of particles ) adjacent to an escaping @xmath11 , and a final state @xmath12 representing particles from the dissociation of the proton  @xcite .",
+    "the rapidity gap , presumed to be caused by a color - singlet exchange with vacuum quantum numbers between the @xmath11 and the dissociated proton , traditionally referred to as pomeron ( @xmath13 ) exchange , is related to @xmath14 , the forward momentum loss of the surviving @xmath11 , by @xmath15 .",
+    "several diffractive dijet results were obtained by cdf in run  i   @xcite . among these ,",
+    "most striking is the observation of a breakdown of qcd factorization , expressed as a suppression by a factor of @xmath16 of the diffractive structure function ( dsf ) measured in dijet production relative to that derived from fits to parton densities measured in diffractive deep inelastic scattering ( ddis ) at the desy @xmath17-@xmath18 collider hera ( see  @xcite ) .",
+    "the present run  ii diffractive dijet measurement was performed in order to further characterize the diffractive structure function my measuring @xmath19 distributions over a wide range of @xmath20 and jet transverse energy , @xmath21 , namely @xmath22  gev@xmath4 and @xmath23  gev@xmath4 , and to search for diffractive dips .",
+    "below , we present the main results of this measurement and compare them with theoretical expectations .",
+    "these measurements were performed using the run  ii cdf detector and special data samples .    [ [ detector ] ]",
+    "detector + + + + + + + +    r0.55     figure  [ fig : fg1 ] is a schematic plan view of the detector , showing the main cdf  ii central detector and the forward detector - components essential to this measurement .",
+    "the forward components include a roman pot spectrometer ( rps ) , which measures @xmath14 and @xmath19 with resolutions @xmath24 and @xmath25  gev@xmath4 at @xmath26  gev@xmath4 , where @xmath27 increases with @xmath19 with a @xmath28 dependence .",
+    "[ [ data - samples ] ] data samples + + + + + + + + + + + +    this analysis is based on data corresponding to an integrated luminosity of @xmath29@xmath1  pb@xmath2 collected in 20022003 .",
+    "events were selected online with a three - level prescaled triggering system accepting rps - triggered inclusive and jet - enriched events by requiring at least one calorimeter tower with @xmath30  gev within @xmath31 .",
+    "jets were reconstructed using the midpoint algorithm  @xcite .",
+    "the majority of the data used in this analysis were recorded without rps tracking information .",
+    "for these data , the value of @xmath14 was evaluated from calorimeter information and is designated as @xmath32 .",
+    "the @xmath32 was then calibrated against @xmath33 obtained from the rps , @xmath34 , using data from runs in which rps tracking was available .",
+    "the following trigger definitions are used for these measurements :    * rps : rps trigger counters in time with a @xmath35 crossing the nominal interaction point ; * j5 ( j20 , j50 ) : jet with @xmath36 ( 20 , 50 ) gev in ccal or pcal ; * rps@xmath37jet5 ( jet20 , jet50 ) : rps trigger in coincidence with j5 ( j20 , j50 ) .",
+    "in fig .  [ fig : fg2 ] , we compare on _ ( left ) _ the mean dijet transverse energy between sd and nd events , and on _ ( right ) _ the @xmath38 ( bjorken-@xmath39 ) distribution of the ratio of @xmath40/nd event - rates for various values of @xmath41 over a range of two orders of magnitude .",
+    "these plots show that the sd and nd distributions are very similar .    the @xmath20 distributions for rps inclusive and various dijet event samples are shown in fig .",
+    "[ fig : fg3 ] ( left ) for @xmath42  gev@xmath4 fitted to two exponential terms , and in fig .",
+    "[ fig : fg3 ] ( right ) for @xmath43  gev@xmath4 .",
+    "no significant variations are observed over a wide rage of @xmath44 . for @xmath45",
+    "gev@xmath4 all @xmath20 distributions , both for the inclusive and the high @xmath44 samples , are compatible with the expectation from the `` soft '' donnachie - landshoff ( dl ) model  @xcite .",
+    "the rather flat @xmath20 distributions at large @xmath46 shown in fig .  [ fig : fg3 ] ( right ) are compatible with a possible existence of an underlying diffraction minimum around @xmath47  gev@xmath4 filled by @xmath20-resolution effects .",
+    "these results favor models of hard diffractive production in which the hard scattering is controlled by the parton - distribution - function of the recoil antiproton while the rapidity - gap formation is governed by a color - neutral soft exchange  @xcite .     _",
+    "( left ) _ mean dijet transverse energy for sd and nd events normalized to the sd events ; _ ( right ) _ ratios of sd to nd dijet - event rates vs @xmath48 for various values of @xmath41.,title=\"fig:\",scaledwidth=44.0% ] _ ( left ) _ mean dijet transverse energy for sd and nd events normalized to the sd events ; _ ( right ) _ ratios of sd to nd dijet - event rates vs @xmath48 for various values of @xmath41.,title=\"fig:\",scaledwidth=45.0% ]     _ ( left ) _ @xmath49 distributions of sd rps data vs @xmath50 for @xmath51 ; _ ( middle ) _ slope parameters @xmath52 and @xmath53 of a fit @xmath54 with @xmath55 ( see text ) vs @xmath44 ; _ ( right ) _",
+    "@xmath20 distributions for rps inclusive , @xmath56 ( circles ) , and @xmath57 events ( triangles ) compared to the donnachie - landshoff ( dl ) model prediction.,title=\"fig:\",scaledwidth=35.0% ] _",
+    "@xmath49 distributions of sd rps data vs @xmath50 for @xmath51 ; _ ( middle ) _ slope parameters @xmath52 and @xmath53 of a fit @xmath54 with @xmath55 ( see text ) vs @xmath44 ; _ ( right ) _ @xmath20 distributions for rps inclusive , @xmath56 ( circles ) , and @xmath57 events ( triangles ) compared to the donnachie - landshoff ( dl ) model prediction.,title=\"fig:\",scaledwidth=35.0% ] _",
+    "@xmath49 distributions of sd rps data vs @xmath50 for @xmath51 ; _ ( middle ) _ slope parameters @xmath52 and @xmath53 of a fit @xmath54 with @xmath55 ( see text ) vs @xmath44 ; _ ( right ) _",
+    "@xmath20 distributions for rps inclusive , @xmath56 ( circles ) , and @xmath57 events ( triangles ) compared to the donnachie - landshoff ( dl ) model prediction.,title=\"fig:\",scaledwidth=35.0% ]",
+    "warm thanks to my cdf colleagues and to the office of science of doe for financial support .                g.  c.  blazey et al .",
+    ", `` run ii jet physics '' , in _ proceedings of the run ii qcd and weak boson physics workshop _ ; arxiv : hep - ex/0005012 ( 2000 ) .",
+    "a.  donnachie and p.  landshoff , phys",
+    "b518 * , 63 ( 2001 ) .",
+    "k.  goulianos , `` renormalized diffractive parton densities , '' in _ diffraction 06 , international workshop on diffraction in high - energy physics _ , adamantas , milos island , greece ( 2006 ) , pos ( diff2006 ) 044 ( 2006 ) ."
+  ],
+  "abstract_text": [
+    "<S> we present a cdf measurement of diffractive dijet production in @xmath0 collisions at 1.96 tev at the fermilab tevatron collider using data from an integrated luminosity of @xmath1  pb@xmath2 collected by triggering on a high transverse momentum jet in coincidence with a recoil antiproton detected in a roman pot spectrometer . </S>",
+    "<S> we report final results for 4-momentum transfer squared @xmath3  gev@xmath4 , antiproton - momentum - loss fraction within 0.03 - 0.09 , bjorken - x of the interacting parton in the antiproton in the range 0.001 - 0.1 , and jet transverse energies from 10 to 100 gev . </S>"
+  ]
+}

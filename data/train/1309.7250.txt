@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "@xmath5rotation is a key parameter in the evolution of massive stars affecting their evolution , chemical yields , budget of ionizing photons and their final fate as supernovae and long gamma - ray bursts .",
+    "the 30dor starburst region in the large magellanic cloud contains the richest sample of massive stars in the local group and is the best possible laboratory to investigate aspects of the formation and evolution of massive stars , and to establish statistically meaningful distributions of their physical properties . in this paper",
+    ", we report on the measured projected rotational velocity , @xmath0 , for more than 200 o - type stars observed as part of the vlt - flames tarantula survey ( vfts , * ? ? ?",
+    "@xmath5vfts is a multi - epoch intermediate - resolution spectroscopic campaign targeting over 350 o and over 400 early b - type stars across the 30dor region . the sample used in this paper",
+    "is composed of 172 o - type stars with no significant radial velocity variations and 44 which display only small shifts ( @xmath1 ; * ? ? ?",
+    "we use fourier transform @xcite and line profile fitting @xcite methods to measure projected rotational velocities .",
+    "discussion of the methods and achieved precision of the full list of measurements can be found in @xcite",
+    "@xmath5the distribution of projected rotational velocities of our sample shows a two - component structure : a low - velocity peak at around 80 @xmath2 and a high velocity - tail starting at about 200 kms@xmath6 and extending up to @xmath3600 @xmath2 ( see fig .",
+    "[ fig : fig1 ] ) .",
+    "the main conclusions regarding these two components are :     distribution @xcite . ]    * slow rotators : * 75% of our sample stars have @xmath0 @xmath7 200 @xmath2 .",
+    "these stars thus rotate at less than 20% of their break - up velocity . for the bulk of the sample , mass loss in a stellar wind and/or envelope expansion",
+    "is not efficient enough to significantly spin down these stars . if massive - star formation results in fast rotating stars at birth , as one may think from angular momentum conservation considerations , most massive stars have to spin down quickly by some other mechanism to reproduce the observed distribution .",
+    "* fast rotators : * the presence of a well populated high - velocity tail ( 25% with @xmath0",
+    "@xmath8 200 @xmath2 ) is compatible with predictions from binary evolution .",
+    "* see the insert panel in fig .",
+    "[ fig : fig1 ] ) show that such a tail in the @xmath0 distribution arises naturally from mass transfer and mergers .",
+    "a sizable fraction of the post - interaction systems may have only small radial velocity shifts .",
+    "combined with the merged systems , the bulk of this population may thus fulfill our selection criterium @xmath9kms@xmath6 .",
+    "that rapid rotators result from spin - up through mass transfer and mergers has important implication for the evolutionary origin of the progenitors of long gamma - ray bursts .",
+    "these progenitor systems may be dominated by , or be exclusively due to , post - interacting binaries or mergers .",
+    "we have estimated projected rotational velocities for the presumably single o - type stars in the vfts sample ( 216 stars ) .",
+    "the most distinctive feature of this distribution is a two - component structure with a peak at low velocities and a pronounced tail at high velocities with over 50 stars rotating faster than 200 @xmath2 .",
+    "a further discussion of our results , including an analysis of the intrinsic distribution corrected for projection effects and the @xmath10 distribution as a function of spatial distribution , luminosity class and spectral type , is presented in @xcite .",
+    "@xmath11 astronomical institute anton pannekoek , university of amsterdam , the netherlands + @xmath12 instituto de astrofsica de canarias , c/ va lctea s / n , e-38200 la laguna , tenerife , spain + @xmath13 departamento de astrofsica , universidad de la laguna , avda .",
+    "astrofsico francisco snchez s / n , e-38071 la laguna , tenerife , spain + @xmath14 space telescope science institute , 3700 san martin drive , baltimore , md 21218 , usa + @xmath15 instituut voor sterrenkunde , universiteit leuven , celestijnenlaan 200 d , 3001 , leuven , belgium + @xmath16 observatories of the carnegie institution for science , 813 santa barbara st , pasadena , ca 91101 , usa + @xmath17 cahill center for astrophysics , california institute of technology , pasadena , ca 91125 , usa + @xmath18 astrophysics research centre , school of mathematics and physics , queen s university of belfast , belfast bt7 1nn , uk + @xmath19 armagh observatory , college hill , armagh , bt61 9dg , northern ireland , uk + @xmath20 uk astronomy technology centre , royal observatory edinburgh , blackford hill , edinburgh , eh9 3hj , uk + @xmath21 argelander - institut fr astronomie , universitt bonn , auf dem hgel 71 , 53121 bonn , germany + @xmath22 european space astronomy centre ( esac ) , camino bajo del castillo , s / n urbanizacion villafranca del castillo , villanueva de la caada , e-28692 madrid , spain + @xmath23 instituto de astrofsica de andaluca - csic , glorieta de la astronoma s / n , e-18008 granada , spain + @xmath24 institute of astronomy with nao , bulgarian academy of science , po box 136 , 4700 smoljan , bulgaria + @xmath25 centro de astrobiologa ( csic - inta ) , ctra .",
+    "de torrejn a ajalvir km-4 , e-28850 torrejn de ardoz , madrid , spain + @xmath26 universittssternwarte scheinerstrasse 1 , 81679 mnchen , germany"
+  ],
+  "abstract_text": [
+    "<S> the 30 doradus ( 30dor ) region in the large magellanic cloud ( also known as the tarantula nebula ) is the nearest massive starburst region , containing the richest sample of massive stars in the local group . </S>",
+    "<S> it is the best possible laboratory to investigate aspects of the formation and evolution of massive stars . here , we focus on rotation which is a key parameter in the evolution of these objects . </S>",
+    "<S> we establish the projected rotational velocity , @xmath0 , distribution of an unprecedented sample of 216 radial velocity constant ( @xmath1 ) o - type stars in 30dor observed in the framework of the vlt - flames tarantula survey ( vfts ) . </S>",
+    "<S> the distribution of @xmath0 shows a two - component structure : a peak around 80 @xmath2 and a high - velocity tail extending up to @xmath3600 @xmath2 . </S>",
+    "<S> around 75% of the sample has 0 @xmath4 200 @xmath2 with the other 25% distributed in the high - velocity tail . </S>",
+    "<S> the presence of the low - velocity peak is consistent with that found in other studies of late - o and early - b stars . </S>",
+    "<S> the high - velocity tail is compatible with expectations from binary interaction synthesis models and may be predominantly populated by post - binary interaction , spun - up , objects and mergers . </S>",
+    "<S> this may have important implications for the nature of progenitors of long - duration gamma ray bursts . </S>"
+  ]
+}

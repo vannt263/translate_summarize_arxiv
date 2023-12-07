@@ -1,0 +1,13 @@
+{
+  "article_text": [
+    "the _ hyperref _ package is used to make links to the videos .",
+    "two sample videos are http://ecommons.library.cornell.edu/bitstream/1813/8237/2/lifted_h2_ems t_fuel.mpg[video 1 ] and http://ecommons.library.cornell.edu/bitstream/1813/8237/4/lifted_h2_iem _ fuel.mpg[video 2 ] .    detailed understanding of two - phase gas liquid flows is imperative for developing efficient multi - phase reactors through precise control of mixing and reaction kinetics .",
+    "the bubble column is a good apparatus for elementary studies of such flows . in the current study experiments",
+    "are conducted to assess the effect of liquid viscosity on flow dynamics inside a bubble column .",
+    "corn oil and water are used as the continuous media , and air was the dispersed media .",
+    "the objective of this effort is to use the results for a qualitative validation of the numerical simulations ."
+  ],
+  "abstract_text": [
+    "<S> the current fluid dynamics video , showcases the hydrodynamic behaviour of bubbles in a viscous media as compared with a medium of lesser viscosity . the level of mixing that the two - phase gas in liquid flow causes is the parameter of interest </S>"
+  ]
+}

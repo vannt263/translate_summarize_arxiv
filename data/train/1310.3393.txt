@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "understanding the flow inside sessile liquid structures of different shapes is important in a variety of solution - based material deposition and patterning processes .",
+    "solvent evaporation inherent in these processes is already known to lead to a rich variety of flows @xcite .",
+    "the small length scale and general lack of shape symmetry implies the potential for capillary pressure gradients and corresponding flow phenomena .",
+    "finally , the non - instantaneous nature of the formation of these liquid structures adds another element to the flow complexity .    in the linked videos , we investigated the internal flow of inkjet - printed water rivulets of finite length using optical microscopy .",
+    "six millimeter - long rivulets were formed by printing a pre - determined number of drops ( @xmath0 m ) at controlled frequency ( @xmath1hz ) and spatial overlap ( @xmath2 m ) .",
+    "microscope cover slips made of borosilicate glass were surface coated and used as substrates .",
+    "two surface coatings were investigated - s1805 photoresist with and without koh etching .",
+    "rivulets were printed inside a controlled humidity chamber at two relative humidity levels - @xmath3 and @xmath4 .",
+    "the ambient , ink , and substrate were kept at room temperature ( @xmath5c ) . for fluorescent microscopy videos ,",
+    "the water was seeded with nile red polystyrene spheres ( @xmath6 m ) at @xmath7 volume fraction .",
+    "we report the experimental details and results of a wider range of both printing parameters , ink properties , and substrate surfaces elsewhere @xcite .",
+    "the two surface coatings resulted in different values of the static advancing and receding contact angles ( @xmath8 and @xmath9 ) for water and in the rivulet formation process during printing .",
+    "water droplets on the photoresist - coated surface exhibited @xmath10 and @xmath11while those on the etched surface @xmath12 and @xmath13 .",
+    "complete rivulet formation was inhibited on the first surface type due to a non - zero @xmath9 , which allowed capillary - driven contact line recession and rivulet breakup into individual droplets @xcite .",
+    "the zero @xmath9 on the second surface type prevented rivulet breakup @xcite but resulted in the formation of a distinctive bulge at the starting end of the water rivulet .",
+    "the bulge grows immediately after the coalescence of the first few drops during rivulet formation .",
+    "we investigated the flow that causes bulge growth by using optical fluorescent microscopy . during rivulet formation ,",
+    "a distinctly pulsatile axial flow drives fluid away from the terminal end of the growing rivulet where printed drops are landing .",
+    "the frequency of the flow is the same as the drop frequency .",
+    "it has been hypothesized that the large local mean curvature in the region where drops land causes a capillary pressure gradient along the length of the rivulet @xcite .",
+    "using @xmath14piv , the height- and width - averaged axial velocity was measured and showed that the amplitude of the pulsatile flow decreases with reduced relative humidity in the ambient , all other conditions being fixed .",
+    "the decreased flow magnitude results in the inhibition of bulge formation .",
+    "the video entry to the 2013 gallery of fluid motion is shown in        * a schematic of the flow observation approach * visualization of rivulet break up during printing onto a substrate with non - zero receding contact angle ( surface type 1 ) * visualization of successful rivulet formation on surface type 2 and concequent bulge growth * fluorescence microscopy video showing pulsatile axial flow and corresponding mean axial speed * the effect of liquid evaporation on axial flow and bulge growth inhibition"
+  ],
+  "abstract_text": [
+    "<S> we used optical microscopy to investigate flows inside water rivulets that were inkjet - printed onto different surfaces and under different ambient conditions . </S>",
+    "<S> the acquired fluid dynamics videos were submitted to the 2013 gallery of fluid motion . </S>"
+  ]
+}

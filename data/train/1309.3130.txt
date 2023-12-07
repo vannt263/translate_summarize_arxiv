@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "v1241 tau was first observed by henrietta leavitt ( @xcite ) .",
+    "although @xcite defended a @xmath0 sct type variation on the light curve of the system , @xcite mentioned that no trace of pulsation can be seen .",
+    "the light variation of gq dra was first determined by hipparcos ( @xcite ) .",
+    "bvri light curves of v1241 tau were obtained with 0.4-m telescope of the university of athens observatory in november 2012 .",
+    "gq dra was observed with the 1.22-m telescope of the onsekiz mart university observatory in 7 nights between march - april 2013 .",
+    "light curves of both systems were analysed using phoebe ( pra and zwitter 2005 ) software .",
+    "results show that the system v1241 tau has a semi - detached configuration where the inclination is about 81@xmath1.5 and the mass ratio is 0.44 .",
+    "the hotter and cooler components has the temperature values of 7500 k and 4906 k , respectively .",
+    "we concluded that 95 percent of the light in @xmath2 filter comes from the primary component .",
+    "our solution of semi - detached binary gq dra is the first light curve solution in the literature .",
+    "mass ratio of the system is found to be 0.25 and the orbital inclination was calculated as 75@xmath1.3 during the solution .",
+    "the temperature of the secondary derived as 5050 k where the primary s value was fixed to 8750 k. the agreement between results and the observations is drawn in fig .",
+    "we tried to represent the residuals with a periodic variation using fourier transformation techniques . in the case of v1241 tau",
+    ", our research has resulted in one frequency ( f=2.13 c / d ) which can be attributed to a change in the light curve .",
+    "however , it is worth to emphasize that this kind of variation may be assigned to other reasons as well , such as observational effects and atmospheric conditions .",
+    "the same method was applied to the residuals yielded from the binary solution of gq dra which showed no remarkable oscillation - like variation .",
+    "the main result regarding the pulsational behaviour of the systems is that there is no trace of pulsations in neither of them .",
+    "the residual light curve of the system v1241 tau can be represented by a periodic variation , however , it is not satisfactorily enough to mention any physical ( low amplitude ) oscillation and it may be assigned to other reasons which mentioned in the previous section ."
+  ],
+  "abstract_text": [
+    "<S> we present new photometric observations of eclipsing binary systems v1241 tau and gq dra . </S>",
+    "<S> we use the following methodology : initially , wd code is applied to the light curves , in order to determine the photometric elements of the systems . </S>",
+    "<S> then the residuals are analysed using fourier transformation techniques . </S>",
+    "<S> the results show that one frequency can be barely attributed to the residual light variation of v1241 tau , while there is no evidence of pulsation on the light curve of gq dra . </S>"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "cataclysmic variables are close binary stars containing a white dwarf ( the primary ) and a main - sequence star ( the secondary ) . in non - magnetic systems",
+    "the material flows from the secondary and forms a luminous accretion disk around the primary .",
+    "the hot spot is the location where the matter hits the accretion disk ( for revision hellier , 2001 ) .    in 2010 after 25 years of quiescence and normal outbursts ht cas went into superoutburst .",
+    "we present analysis of two eclipses observed during this unique phenomenon .",
+    "reconstruction of the hot spot was made with the decomposition method",
+    ". details and beautiful examples of application of this method for cataclysmic variables ux uma , z cha and oy car were presented by smak ( 1994a , 1994b , 2007 , 2008b ) .",
+    "the superoutburst in ht cas from november 2010 lasted 11 nights ( 2455504 - 2455514 hjd , below marked as 504 - 514 hjd ) . in fig.[f1 ] on the left panel there are two light curves with eclipses observed in ht cas . on the left top panel around phases",
+    "@xmath0 and @xmath1 one can see the beginning and the end of the eclipse of the hot spot , and this fact is confirmed by the reconstruction of the hot spot presented on the top right panel . on the bottom",
+    "left panel we present the eclipse where the contribution of the hot spot is not so obvious to observe and the reconstruction presented on right bottom panel confirms that the luminosity of the hot spot is indeed noticeably smaller .",
+    "the manifestation of the hot spot was explicit during second night of superoutburst ( 505 hjd ) .",
+    "the amplitude of the hot spot luminosity was @xmath2 and the phase corresponding to the ampitude was @xmath3 .",
+    "four nights later on , the hot spot luminosity was clearly smaller with the amplitude of @xmath4 and the phase @xmath5 .    manifestation of the hot spot in ht cas during its superoutburst confirms that mass transfer is strongly enchanced .",
+    "it is in full agreement with emt ( enchanced mass transfer ) model proposed by smak ( 1991 , 2004 , 2008a ) .",
+    "analysis made with decomposition method of eclipses observed during the november 2010 superoutburst in ht cas gives the newest observational evidence for emt model .",
+    "we want to thank prof .",
+    "smak for his thoughtful comments about the decomposition method .",
+    "project was supported by polish national science center grants awarded by decision dec-2012/07/n / st9/04172 for kb ."
+  ],
+  "abstract_text": [
+    "<S> we present the analysis of eclipses observed in dwarf nova ht cas during its superoutburst in november 2010 . </S>",
+    "<S> detection of hot spot was confirmed . </S>"
+  ]
+}

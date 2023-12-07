@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "the binamics project has been awarded `` large program '' status with two high resolution spectropolarimeters : espadons at the cfht ( hawaii ; pis alecian / wade ) for 604 hours over 4 years from 2013 to 2016 , and narval at tbl ( france ; pi neiner ) for 128 hours over 2 years from 2013 to 2014 ( renewable for 2 more years ) .",
+    "this large amount of time is being used to acquire an immense database of sensitive measurements of polarized and unpolarized spectra of spectroscopic binary ( sb2 ) stars .",
+    "the program includes 3 components : the detailed study of some known magnetic cool binaries , the detailed study of the few known magnetic hot close binaries , and a survey of a large number of hot binaries to search for magnetic fields .",
+    "the detailed studies will allow us to obtain magnetic maps and test various models , while the survey part of the project will allow us to obtain statistical results .",
+    "this database will be combined with new and archival complementary data ( e.g. optical photometry , uv and x - ray spectroscopy ) as well as theoretical studies , numerical simulations , and modeling ( described hereafter ) , and applied to address the 4 main scientific objectives of the binamics project : i ) what is the impact of magnetic fields during stellar formation , and vice versa ; ii ) how do tidally - induced internal flows impact fossil and dynamo fields ; iii ) how do magnetospheric star - star interactions modify stellar activity ; iv ) what is the magnetic impact on angular momentum exchanges and mass transfers .",
+    "magnetic fields are a crucial ingredient in a star s evolution , influencing its formation , the structure of its atmosphere and interior , as well as controlling the interaction with its environment . for binary stars ,",
+    "magnetism is even more significant , as magnetic fields in binary systems will be strongly affected by , and may also strongly affect , the transfer of energy , mass and angular momentum between the components .",
+    "therefore , the interplay between stellar magnetic fields and binarity has to be investigated in detail , from both the observational and theoretical point - of - view .",
+    "first , the incidence and characteristics of magnetic fields are key parameters for understanding the physics of binaries . in higher - mass stars",
+    "( above 1.5 @xmath0 ) the incidence of magnetic stars in binary systems provides a basic constraint on the detailed origin of the magnetic field , assumed to be a fossil remnant , and whether such strong magnetic fields suppress binary formation or are a result of mergers .",
+    "next , in low - mass stars , tidal interactions are expected to induce large - scale 3d shear and/or helical flows in stellar interiors that can significantly perturb the stellar dynamo .",
+    "similar flows may also influence the fossil magnetic fields of higher - mass stars .",
+    "finally , magnetically driven winds / outflows in cool and hot close binary systems have long been suspected to be responsible for their orbital evolution , while magnetospheric interactions have been proposed to enhance stellar activity .",
+    "however , the crucial observational constraints required to test these hypotheses are , at present , nearly nonexistent , and dedicated theoretical studies are mandatory to bring the studies of binary ( and multiple ) stars to a new level of understanding . within binamics , we will therefore study theoretically the complex interactions between tides and magnetic fields , i.e. : i ) how magnetic fields modify tidal flows described by ( * ? ? ?",
+    "* ; * ? ? ?",
+    "* ; * ? ? ?",
+    "* ; * ? ? ?",
+    "* ; * ? ? ?",
+    "* zahn 1977 , ogilvie & lin 2007 , le bars et al .",
+    "2010 , and remus et al . 2012 ) and the associated torques applied on each component ; ii ) how flows driven by tides ( as well as precession and libration ) can modify dynamo mechanisms , because of the angular momentum they transport ( @xmath1-effect ) and of their helicity ( @xmath2-effect ) , and the stability of fossil fields ; iii ) how such external mechanical forcings can compete with convective driving as a function of the mass ratio and of the separation of the components ; iv ) how do the combined action of tides and magnetic fields modify the orbital dynamics of binary stars and the evolution of their components ( * ? ? ?",
+    "* ; * ? ? ?",
+    "* ( e.g. de mink et al .",
+    "2013 , mathis & remus 2013 , song et al .",
+    "moreover , we will study the complex mhd interactions between the components of binary stars , i.e. : i ) the interactions between stellar wind emitted by each component and the related torques ( * ? ? ?",
+    "* ( e.g. strugarek et al .",
+    "2012 ) ) ; ii ) the magnetospheric interactions and the associated applied torques , helicity exchanges , and modifications of the magnetic activity of the components ( * ? ? ?",
+    "* ( e.g. lanza 2012 and the contribution by s. gregory in this proceeding ) ) .",
+    "results will also be applied to the study of star - planet interactions ."
+  ],
+  "abstract_text": [
+    "<S> we review the different theoretical challenges concerning magnetism in interacting binary or multiple stars that will be studied in the binamics ( binarity and magnetic interactions in various classes of stars ) project during the corresponding spectropolarimetric large programs at cfht and tbl . </S>",
+    "<S> we describe how completely new and innovative topics will be studied with binamics such as the complex interactions between tidal flows and stellar magnetic fields , the mhd star - star interactions , and the role of stellar magnetism in stellar formation and vice versa . </S>",
+    "<S> this will strongly modify our vision of the evolution of interacting binary and multiple stars . </S>"
+  ]
+}

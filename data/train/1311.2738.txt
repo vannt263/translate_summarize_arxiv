@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "our analysis is based on a self - consistent hydrodynamical simulation of a milky way - like galaxy , run with the adaptive mesh refinment code ramses ( * ? ? ?",
+    "* ( teyssier , 2002 ) ) and presented in details in ( * ? ? ?",
+    "* renaud et al . ( 2013 ) ) .",
+    "dark matter and stellar dynamics provide a `` live '' background for the gas component that we resolve down to 0.05 pc . star formation and stellar feedback comprising photoionisation of hii regions , radiative pressure and supernova kinetic blasts are included .",
+    "this short contribution presents the evolution of the gas structure .",
+    "a much more detailed analysis of these structures , their interplay and the physics of the galactic center will be soon presented in emsellem et al .",
+    "( in prep ) .",
+    "spiral arms and a bar form during the simulation within a couple of rotation periods , and exert torques on the gas which then fuels the central region .",
+    "mini - spirals convey the gas toward the central 100 pc . because of galactic rotation",
+    ", these spirals wrap into an elliptical ring - like structure in which the gas accumulates at a rate of @xmath0 .",
+    "most of star formation in the central 100 pc takes place in this ring . as the net inflow rate eventually overcomes the local star formation rate , the gas mass in the ring increases ( up to @xmath1 ) . at the same time ,",
+    "secondary , smaller spirals convey gas toward the innermost lindblad resonance at 40 pc ( see ( * ? ? ?",
+    "* renaud et al . , 2013 ) , their fig.8 ) .",
+    "when enough gas has been accumulated , the rings become unstable and fragment into dense clumps ( fig.[f1 ] ) , which then migrate inward while forming star clusters . the gaseous left - overs and",
+    "the young stars gather in the vicinity of the black hole , at about 5 pc .    during this process",
+    ", stellar feedback strongly affects the structure of the ism around the young stars formed in the rings and in clumps .",
+    "supernova blasts expanding inside the previously formed hii regions creates cavities of low gas density and eject some material away from the plane galactic disk ( up to 150 pc ) , in the form of bubbles and dense filaments .",
+    "when falling back onto the disk , close to the black hole , this gas forms a 20 pc wide disk , perpendicular to the galactic plane ( fig.[f1 ] , bottom panel and thumbnail ) , which further accretes gas from the large scale fueling pictured above .",
+    "subsequent star formation takes place in this new disk , creating a complex distribution in the stellar population of the galactic center .",
+    ", in the galactic plane ( top ) and seen edge - on ( bottom and thumbnail ) . at the instant shown here , the gaseous rings at 100 pc and 40 pc have already fragmented into dense star forming clumps .",
+    "the clumps then fuel the central @xmath2 pc .",
+    "stellar feedback ejects some gas from the galactic plane , which creates the disk within 5 pc and arms perpendicular to the galactic disk when raining back onto it.,width=326 ]"
+  ],
+  "abstract_text": [
+    "<S> we present the hierarchical structure of the gas and its rapid evolution in the central region of a simulation of the entire milky way , run at subparsec resolution . </S>",
+    "<S> we emphasize the coupling between the kpc - scale dynamics , the molecular ring and the central 5 pc disk feeding the super massive black hole .    </S>",
+    "<S> the interplay between a fast evolving stellar background , inner resonances and gas dynamics makes the central kpc of every disk galaxy , and of the milky way in particular , a complex and yet not fully understood environment . in particular , the gas fueling toward the central black hole depends on the galactic dynamics at large scale . </S>",
+    "<S> such inflow rate appears to be a complex function of position , since several mechanisms and coupling between them can accelerate the gas flow or stop it at certain radii ( e.g. resonances ) . </S>",
+    "<S> the rapid evolution of this region modifies the dynamics locally , which eventually changes the properties of the inflow . </S>",
+    "<S> understanding the fine details of the center of a given galaxy requires an accurate knowledge of many parameters like the mass profile , the velocity distribution etc . </S>",
+    "<S> such information is barely accesible from observations of external galaxies because of limited resolution , and studies in the milky way suffer from projection and extinction effects . </S>",
+    "<S> we use a hydrodynamical simulation to address these issues and monitor the evolution of the structures in the galactic center . </S>"
+  ]
+}

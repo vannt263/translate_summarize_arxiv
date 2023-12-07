@@ -1,0 +1,12 @@
+{
+  "article_text": [
+    "in the video we present schlieren visualization of the internal flow of a fluidic oscillator which creates a laterally sweeping jet without any moving parts .",
+    "the exit nozzle dimensions are 0.2 `` wide by 0.1 '' thick .",
+    "compressed air is the fluid inside the jet , and it blows into ambient .      to visualize the slower speeds , `` canned air '' was used as a cold gas to fill the hose leading to the fluidic oscillator .",
+    "eventually the external jet reaches supersonic speeds and the temperature difference is no longer necessary . in the video we observe startup behavior as the valve is suddenly opened through supersonic exit velocities ."
+  ],
+  "abstract_text": [
+    "<S> we present qualitative observations on the internal flow characteristics of fluidic oscillator geometries commonly referred to as sweeping jets in active flow control applications . </S>",
+    "<S> this is part of the fluid dynamics videos . </S>"
+  ]
+}

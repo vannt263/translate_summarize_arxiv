@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "magnetars are ultra - magnetized neutron stars ( nss ) with magnetic fields largely in excess of the quantum critical field .",
+    "the majority of magnetars are classified into two populations : the soft gamma - ray repeaters ( sgrs ) , and the anomalous x - ray pulsars ( axps ) .",
+    "pulsars have been recognized to be normal neutron stars , but sometimes have been argued to be quark stars ( e.g. , ( * ? ? ? *",
+    "xu(2005 ) ) ; ( * ? ? ?",
+    "* du et al.(2009 ) ) ) .",
+    "after their formation , magnetars cool much more efficiently by interior neutrino emission than by surface photon emission .",
+    "the neutrino emission mechanisms in the stellar cores may be divided into two groups , which leads to standard or rapid cooling .",
+    "the standard cooling goes mainly via the modified urca process and the nucleon - nucleon bremsstrahlung process ( e.g. , ) , whereas rapid cooling is strongly enhanced by the direct urca process .    in this paper , we focus on the nonthermal neutrino energy losses in the cores which control cooling of young and middle age ( @xmath0 yrs , and @xmath1 g ) magnetars . in our model , for simplicity , we restrict ourselves by consideration of magnetars whose cores contain the standard composition of dense matter ( neutrons , with some admixtures of protons and electrons ) . in the central region of a magnetar , the electron capture process is expected to occur because of high value of the electron fermi energy ( e.g. , ( * ? ? ?",
+    "* gao et al.(2011a ) ) ; ( * ? ? ?",
+    "* gao et al.(2011b ) ) ) .",
+    "we calculate the effective neutrino luminosity , and simulate numerically the relationship between the surface thermal temperature and the inner temperature of a magnetar .",
+    "in this section , what we care about is the effective soft x - ray / gamma - ray luminosity @xmath2 and the effective surface temperature @xmath3 of a magnetar .",
+    "these two qualities are measured in a local magnetar reference frame .",
+    "the effective surface temperature is defined by the stefan law , @xmath4 where @xmath5 is the circumferential stellar radius , @xmath6 is the stefan - boltzmann constant , and @xmath7 is the thermal surface luminosity in a local magnetar reference frame . by using eq.(1 ) , we plot the diagram of @xmath8 vs. @xmath9 , as shown in fig.1 .     as a function of @xmath10 .",
+    "circles and squares represent axps and sgrs , respectively.,width=326 ]",
+    "according to our magnetar model , we can compute the effective neutrino luminosity of a magnetars follows : @xmath11 where @xmath12 is the ` landau level - superfluid modified factor ' , @xmath13 ( @xmath14 is the fraction of phase space occupied at energy @xmath15 ) , and the rest terms are defined in our recent papers ( e.g. , ; ( * ? ? ? * gao et al.(2011b ) ) ; ( * ? ? ?",
+    "* gao et al.(2012b ) ) ) .",
+    "we calculate the ratios of @xmath16 ( or @xmath17 ) in different intense fields .",
+    "the main results are presented as follows : when the magnetic field @xmath18 ) g , accordingly , @xmath19 ( or @xmath17)@xmath20 . the details are to see in fig .",
+    "[ fig2 ] .",
+    "( or @xmath17 ) as a function of @xmath10.,width=326 ]    assuming that the timescale of the magnetic field decay is equal to the the timescale of stellar cooling via neutrino emission , we obtain a one - to - one relationship between @xmath3 and @xmath21 , shown as in fig.[fig3 ] .     vs. @xmath3 .",
+    "the range of @xmath3 is assumed to be @xmath22 k arbitrarily , corresponding to @xmath23 g. dot - dashed line , dotted line and dashed line are for the initial value of @xmath24 k , @xmath25 k and @xmath26 k , respectively.,width=326 ]",
+    "calculations show that @xmath21 is 1 - 2 orders of magnitude higher than @xmath3 , the ratio of the magnetar neutrino luminosity to the magnetar soft x - ray luminosity , decreases with decaying magnetic field .",
+    "this work is partly supported by chinese national science foundation through grant no.10773005 , china ministry of science and technology under state key development program for basic research ( 2012cb821800 ) , knowledge innovation program of cas kjcx2-yw -t09 , the key directional project of cas and nsfc under projects 10173020 , 10673021 , 10773005 , 10778631 and 10903019 ."
+  ],
+  "abstract_text": [
+    "<S> assuming that the timescale of the magnetic field decay is approximately equal to that of the stellar cooling via neutrino emission , we obtain a one - to - one relationship between the effective surface thermal temperature and the inner temperature . the ratio of the effective neutrino luminosity to the effective x - ray luminosity decreases with decaying magnetic field . </S>"
+  ]
+}

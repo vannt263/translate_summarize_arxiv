@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "an @xmath1 weight @xmath4 is a positive locally integrable function that satisfies @xmath5 here @xmath6 denotes the hardy - littlewood maximal operator : @xmath7    we also need the following equivalent definition of @xmath1 weight(see @xcite ) : [ d1 ] wa_1(^n)_q wdxc_q w_1q^n where the infimum is the essential infimum of @xmath4 over the cube @xmath8 .",
+    "let @xmath9 be the set of measurable functions possessing an @xmath1 majorant , i.e. there exist an @xmath1 weight @xmath4 , such that @xmath10 .    to characterize @xmath9 on @xmath0 , we need to use the banach function spaces .",
+    "let us recall the notion of banach function space .",
+    "a mapping @xmath11 , defined on the set of non - negative @xmath0-measureable functions and taking values in @xmath12 $ ] , is said to be a banach function norm if it satisfies the following conditions :    @xmath13    @xmath14 @xmath15for some constant @xmath16 .",
+    "+   + given a banach function norm @xmath11 , @xmath17 , is the collection of all measurable functions such that @xmath18 .",
+    "it is a banach function space with norm @xmath19    in @xcite , g. knese , j. m@xmath3carthy , and k. moen proved by using the rubio de francia algorithm that @xmath20where the union is over all banach function spaces , and conjectured these two sets are actually equal .",
+    "the purpose of this note is to provide a positive answer .",
+    "we are now ready to prove the theorem .",
+    "it is obvious that @xmath11 satisfies and .",
+    "also , by the monotone convergence theorem , @xmath11 satisfies .",
+    "and @xmath32 implies @xmath33 , which gives the condition . to see it satisfies",
+    "let @xmath34 be a bounded set .",
+    "suppose [ t1 ] f(1c_b _ b fdx ) w_1 for some non - negative measurable function @xmath35 , we may assume @xmath36 .",
+    "then@xmath37 thus@xmath38 choose a cube @xmath39 containing @xmath40 , by : @xmath41 for some constant @xmath42 , so [ t2]c_b_b w_1dx_q w_1dx|q|c_q w_1<we may choose @xmath43 sufficiently large so that , thus , does not hold . by the definition of @xmath30 , we have @xmath44 which is ."
+  ],
+  "abstract_text": [
+    "<S> we characterize the set of all measurable functions on @xmath0 possessing an @xmath1 majorant , denoted as @xmath2 , by certain banach function spaces . we prove that a function has an @xmath1 majorant if and only if it belongs to some banach function space for which the hardy - littlewood maximal operator is bounded . </S>",
+    "<S> this answers the question posted by g. knese , j. m@xmath3carthy , and k. moen .    </S>"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "some time ago bender et al@xcite stated that it is not known if the spectrum of the anharmonic oscillator potential @xmath0 is discrete .",
+    "several years earlier simon@xcite had given five proofs that the spectrum of such oscillator is indeed discrete .",
+    "we are not aware of any calculation of the eigenvalues and eigenfunctions of that anharmonic oscillator .",
+    "for this reason we will provide some reasonably accurate results in this paper . in section  [ sec : rrvm ] we outline the application of the rayleigh - ritz variational method taking into account the point - group symmetry of the oscillator . in section  [ sec : moments ] we discuss two approaches based on the moments of the hamiltonian operator : the rayleigh - ritz method in the krylov space ( rrk)@xcite ( and references therein ) and the connected - moments expansion ( cmx)@xcite . in section  [ sec : results ] we compare and discuss the results obtained by the three approaches and draw conclusions .",
+    "as stated in the introduction , we are interested in the eigenvalues and eigenfunctions of the anharmonic oscillator @xmath1 in this section we outline the application of the well known rayleigh - ritz variational method .",
+    "we choose products @xmath2 of eigenfunctions @xmath3 , @xmath4 , of the harmonic oscillator @xmath5 as a suitable basis set .    like the pullen - edmonds hamiltonian@xcite the hamiltonian ( [ eq : h ] ) is invariant under the symmetry operations of the point group @xmath6@xcite .",
+    "therefore , the appropriate basis functions are @xmath7 where @xmath8 an obvious advantage of using point - group symmetry is that we diagonalize the hamiltonian matrix @xmath9 for each irreducible representation @xmath10 separately .",
+    "what is more : we can even split the calculation for the two - dimensional irreducible representation @xmath11 into its two components , which decreases the dimension of the matrices still further .",
+    "thus , point - group symmetry simplifies all the calculations and enables us to interpret the results more clearly .",
+    "we will refer to this rayleigh - ritz method with the harmonic - oscillator basis set as rrho .",
+    "in this section we discuss two methods based on the moments of the hamiltonian operator @xmath12 where @xmath13 is a properly chosen reference function .",
+    "the first one is the rayleigh - ritz variational method in the krylov space ( rrk ) spanned by the non - orthogonal basis set of functions @xmath14 which has been successfully applied to the pullen - edmonds hamiltonian@xcite .",
+    "the second approach is the connected - moments expansion ( cmx ) developed by cioslowski@xcite who tested it on the ground state of the pullen - edmonds hamiltonian .",
+    "amore and fernndez@xcite carried out a calculation of much larger order on the ground and excited states by means of the compact and most elegant formula developed by knowles@xcite that we also use in this paper .",
+    "for the application of both moments methods we resort to the following reference functions @xmath15 \\right ) \\nonumber \\\\ \\varphi",
+    "_ { a_{2 } } & = & xy(x^{2}-y^{2})\\exp \\left ( -a\\left [ x^{2}+y^{2}\\right ] \\right )   \\nonumber \\\\ \\varphi _ { b_{1 } } & = & ( x^{2}-y^{2})\\exp \\left ( -a\\left [ x^{2}+y^{2}\\right ] \\right )   \\nonumber \\\\ \\varphi _ { b_{2 } } & = & xy\\exp \\left ( -a\\left [ x^{2}+y^{2}\\right ] \\right ) \\nonumber \\\\ \\varphi _ { e } & = & \\left\\ { \\begin{array}{c } x\\exp \\left ( -a\\left [ x^{2}+y^{2}\\right ] \\right ) \\\\",
+    "y\\exp \\left ( -a\\left [ x^{2}+y^{2}\\right ] \\right ) \\end{array } \\right .",
+    ".\\end{aligned}\\ ] ] note that the reference function @xmath16 was not considered in the application of these methods to the pullen - edmonds hamiltonian@xcite .",
+    "table  [ tab : e_x2y2 ] shows results for the lowest eigenvalues obtained by the three methods outlined above .",
+    "the rrho ones are the most accurate because they are based on basis sets of dimension @xmath17 .",
+    "the rrk and cmx results were obtained with smaller basis sets because their purpose is merely to verify the rrho results .",
+    "the cmx is the less reliable of the three methods as argued elsewhere@xcite but it is a suitable independent test because it is not based on the variational method .",
+    "it is possible to improve the rrk and cmx results by choosing @xmath18 conveniently ; however , here we simply chose @xmath19 that is not optimal for all the states .",
+    "figures [ fig : a ] , [ fig : b ] and [ fig : e ] show contour lines for some of the states of the anharmonic oscillator obtained by means of the rrho .",
+    "the two variational methods appear to converge rather slowly but smoothly from above as expected for such approaches .",
+    "numerical instabilities appeared for the greatest rrho matrices and we estimated the eigenvalues from the best results that satisfied the well known variational inequality @xmath20 .",
+    "the cmx does not give upper bounds but it approached the variational results satisfactorily .",
+    "no anomalous behaviour was detected that could suggest that the spectrum is not discrete .",
+    "therefore , present numerical results support the mathematical proofs given by simon@xcite and stand against the claim raised by bender et al@xcite .",
+    "@xmath21 & 1.10822315759 & 1.108224 & 1.10822 + @xmath22 & 2.37863782934 & 2.37869 & 2.376 + @xmath23 & 3.05608115466 & 3.0563 & 3.055 + @xmath24 & 3.5149490453 & 3.518 & + @xmath25 & 4.09346927636 & 4.10 & + @xmath26 & 4.75277240183 & 4.78 & + @xmath27 & 4.98496358748 & 5.07 & + @xmath28 & 5.01127928154 & 5.01127930 & 5.0112 + @xmath29 & 5.498979516 & 5.7 & + @xmath30 & 6.1448192750 & 6.47 & + @xmath31 & 6.237128106 & & + @xmath32 & 6.67235007 & & + @xmath33 & 7.1810983 & & + @xmath34 & 7.37557348 & & + @xmath35 & 7.381759978 & & + @xmath36 & 7.999 & & + @xmath37 & 8.074373925386 & 8.0743745 & 8.0738 +      , @xmath24 , @xmath37 and @xmath38 , title=\"fig:\",width=226 ] , @xmath24 , @xmath37 and @xmath38 , title=\"fig:\",width=226 ] , @xmath24 , @xmath37 and @xmath38 , title=\"fig:\",width=226 ] , @xmath24 , @xmath37 and @xmath38 , title=\"fig:\",width=226 ]      , @xmath26 , @xmath28 and @xmath39,title=\"fig:\",width=226 ] , @xmath26 , @xmath28 and @xmath39,title=\"fig:\",width=226 ] , @xmath26 , @xmath28 and @xmath39,title=\"fig:\",width=226 ] , @xmath26 , @xmath28 and @xmath39,title=\"fig:\",width=226 ]"
+  ],
+  "abstract_text": [
+    "<S> we obtain sufficiently accurate eigenvalues and eigenfunctions for the anharmonic oscillator with potential @xmath0 by means of three different methods . </S>",
+    "<S> our results strongly suggest that the spectrum of this oscillator is discrete in agreement with early rigorous mathematical proofs and against a recent statement that cast doubts about it . </S>"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "neutron stars ( nss ) are the most compact object of the universe that are endowed with an internal structure , they can rotate very fast and harbour very strong magnetic fields , up to @xmath0  g for magnetar",
+    ". such type of magnetic fields are responsible for the phenomenology of many nss like anomalous x - ray pulsars and soft gamma repeater and they are invoked in the _ millisecond magnetar model _ for long and short gamma ray bursts@xcite .",
+    "finally strong magnetic field could deform the ns structure leading , together with rotation , to gravitational wave emission .    here",
+    "we present our work on equilibrium model for magnetized nss . until now",
+    "only simple configurations of purely poloidal@xcite or purely toroidal magnetic fields@xcite , have been investigated in full gr .",
+    "however more realistic magnetic configuration , the so called twisted - torus ( tt ) , require the presence of both poloidal and toroidal magnetic field . lately",
+    "tt models have been obtained either in the newtonian regime @xcite or using a perturbative approach@xcite . here",
+    "we present a study ( including tt cases ) done in full gr and for strong deformations .",
+    "in this work we consider only static stars ( magnetar are typically slow rotators ) .",
+    "we assume axisymmetry , ideal mhd , and a simple polytropic equation of state .",
+    "the metric is assumed to be _ conformally flat _ ( cfc ) , such that in spherical coordinates : @xmath1 where @xmath2 is the lapse function , and @xmath3 is the conformal factor .",
+    "this approach allows us to simplify the einstein s equations , cast them in a numerically stable form and , as a consequence , handle stronger fields and deformations that in a perturbative approach can not be obtained , without compromising the accuracy of our results as we will discuss . with this approximation",
+    "the eistein s equations reduce to the following poisson - like equations : @xmath4\\psi^{-1 } , \\label{eq:1}\\ ] ] @xmath5(\\alpha\\psi ) , \\label{eq:2}\\ ] ] where @xmath6 is the standard laplacian operator in spherical coordinate while @xmath7 , @xmath8 and @xmath9 are respectively the energy density , the pressure and the magnetic field as measured in the lab frame .    the equations of the static mhd give the euler equation which , in the hypotheses of a polytropic eos , can be integrated to obtain the equilibrium condition : @xmath10 where @xmath11 is the specific enthalpy , @xmath12 the rest mass density , @xmath13 denotes central values , and @xmath14 is related to the lorentz force by @xmath15 . in the case of a purely poloidal magnetic field",
+    "the integrabilitity of euler equation requires @xmath14 to be a function of the fluid quantities @xmath12 and @xmath16 and the metric functions @xmath3 and @xmath2 . when also a poloidal magnetic field is present the solenoidality condition for the magnetic field together with axisymmetry allows to rewrite the poloidal components of the magnetic field in terms of derivative of only the @xmath17-component of the vector potential @xmath18 while the toroidal component @xmath19 is related to @xmath18 by means of a scalar function @xmath20 .",
+    "finally the metric and fluid quantities are related to the magnetic flux function @xmath18 by the grad - shafranov equation : @xmath21 where @xmath22 is the @xmath17 component of the vector laplacian in spherical coordinates .",
+    "the complete algorithm of the metric solver is fully presented in ref .",
+    "( see also ref .  ) . the metric eqs .",
+    "( [ eq:1 ] ) ( [ eq:2 ] ) and the grad - shafranov eq .",
+    "( [ eq:3 ] ) are solved iteratively , because of non - linearity , exploiting a semi - spectral method : we decouple the radial and angular dependency of the unknown function @xmath2 , @xmath3 and @xmath18 using scalar and vector spherical harmonics .",
+    "equations are reduced to a set of ordinary differential equations for each harmonic that is solved with a direct inversion of a tridiagonal matrix . in all our models",
+    "we have used 20 spherical harmonics for the elliptic solvers and discretized the domain @xmath23\\ , \\mbox{km}$ ] , @xmath24 $ ] , with 250 points in the radial direction and 100 point in the angular one . at this resolution",
+    "the accuracy of our results are of the order of @xmath25 .",
+    "with appropriate choices of @xmath14 and @xmath20 it is possible to obtain either purely toroidal , purely poloidal and mixed field configurations . a comparison between these magnetic configuration are shown in fig .  [ f1 ] .",
+    "in our models the toroidal magnetic field is always buried under the surface of the star while the poloidal magnetic field extends smoothly outside the star . in tt configurations",
+    "the toroidal component does not pervade all the interior of the star but remains confined in a small ring - like region where the poloidal component vanishes .",
+    "a purely toroidal magnetic field induces a prolate deformation while a purely poloidal one causes an oblate deformation of the star . in the tt configuration the poloidal field ,",
+    "usuaklly dominant over the toroidal one , leads to oblate configurations .",
+    "we found that the deformation is dominated by the field in the central region and is less sensible to peripheral magnetic fields and currents .",
+    "we built equilibrium sequences and explored the parameter space of the different magnetic configurations .",
+    "the main results obtained are :    the characteristic deformation induced by purely toroidal field is prolate : the magnetic stresses act concentrating the central layers of the star around the magnetic axis and causing an expansion of the outer layers ;    a purely poloidal field leads to an oblate deformation , concentrating the core region in a disk - like region orthogonal to the axis . in the most extreme cases we",
+    "can also obtained torus - like density distributions ;        in the tt configuration , that we have obtained for the first time in the fully non - linear regime , the toroidal magnetic field is sub - dominant , and the deformation is due to the poloidal one that acts deeper inside the star ;"
+  ],
+  "abstract_text": [
+    "<S> magnetic fields play a crucial role in many astrophysical scenarios and , in particular , are of paramount importance in the emission mechanism and evolution of neutron stars ( nss ) . to understand the role of the magnetic field in compact objects it is important to obtain , as a first step , accurate equilibrium models for magnetized nss . using the conformally flat approximation </S>",
+    "<S> we solve the einstein s equations together with the grmhd equations in the case of a static axisymmetryc ns taking into account different types of magnetic configuration . </S>",
+    "<S> this allows us to investigate the effect of the magnetic field on global properties of nss such as their deformation . </S>"
+  ]
+}

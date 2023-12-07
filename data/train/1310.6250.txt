@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "this video is made up of three sequences from the original film of a turbulent pipe flow , entitled `` the wall region in turbulent flow '' , that formed the basis of the 1965 ohio state university dissertation of e. r. corino .",
+    "subsequently he and his dissertation advisor , bob brodkey , published a detailed set of observations from the film [ j. fluid mech . *",
+    "37 * , 1- 30 ( 1969 ) ] .",
+    "the film was remarkable because the experimental setup allowed the authors to view , in a frame of reference moving with the flow , sub - micron particle motions in the near wall region at a succession of different reynolds numbers .",
+    "they achieved this using a high speed movie camera mounted on a lathe bed that translated with and recorded magnified and time resolved images of the sub - layer , buffer - layer and lower part of the log - layer in the pipe flow .",
+    "surprisingly , these particle motions were not nearly so locally random as was the general view of turbulence at the time .",
+    "rather , connected regions of the near wall flow decelerated and then erupted away from the wall in what they called `` ejections '' .",
+    "these decelerated motions were followed by larger scale connected motions toward the wall from above that they called `` sweeps '' . in the following decades this visualization study , along with that of kline et al .",
+    "[ j. fluid mech . *",
+    "30 * , 741 - 773 ( 1967 ) ] showing `` low - speed streaks '' and `` bursting '' in the wall region of a boundary layer , inspired numerous laboratory and simulation studies aimed at unraveling the structure of bounded turbulent flows and understanding the transport processes within them .",
+    "for example , wallace , brodkey and eckelmann [ j. fluid mech . * 54 * , 39 - 48 ( 1972 ) ] attempted to quantify the visual observations of corino and brodkey by conceiving of and carrying out a quadrant analysis of the reynolds shear stress in a turbulent oil channel flow .",
+    "this analysis exploited the information contained in the signs of the velocity fluctuations by classifying the streamwise and wall normal fluctuations into four quadrants based on their pairs of signs , and calculated the contribution of each quadrant to the reynolds shear stress .",
+    "quadrants 2 ( -u , + v ) and 4 ( + u and -v ) roughly correspond to the `` ejections '' and `` sweeps '' of the corino and brodkey visual observations . of course",
+    ", other pairs of variables that constitute covariances can be treated with quadrant analysis .",
+    "in this video , the setup of the corino and brodkey visual experiment is first illustrated .",
+    "the flowing fluid was trichloroethylene with a refractive index that closely matched that of the glass pipe .",
+    "the pipe itself was submerged in still trichloroethylene , contained in a glass rectangular channel , making it possible to view the moving particles through the walls of the channel and pipe with very little refraction .",
+    "the remaining slight refraction reveals the pipe wall which appears as a dark horizontal line at the bottom of the video moving to the right in the translating frame of reference .",
+    "the three - dimensional field of view extends out from the wall to @xmath3 at @xmath1 and to @xmath4 at @xmath5 .",
+    "the depth of the field of view for these two reynolds numbers is @xmath6 and @xmath7 respectively .",
+    "the video sequences are for three reynolds numbers based on pipe diameter .",
+    "the striking observation at @xmath1 is how organized the flow appears .",
+    "groups of particles decelerate together , more or less parallel to the wall , and then eject outward at large angles ( in the moving frame of reference ) relative to the wall .",
+    "these ejection events are frequently followed by groupings of particles , extending over larger regions , that sweep in from above with higher velocities than that nearer the wall .",
+    "it is also frequently observed that particles move past each other , indicating velocity variation and shear normal to the viewing plane .",
+    "when the reynolds number is increased to 30,000 where the depth of the field of view is larger , the ejection and sweep events often appear to involve the same particles in swirling motions of what seem to be quasi - streamwise vortices .",
+    "these vortices increase in frequency and intensity when the reynolds number is increased to 40,000 .",
+    "corino and brodkey estimated that ejections accounted for @xmath0 of the reynolds shear stress at @xmath1 , while only occurring about @xmath2 of the time , demonstrating their dynamical importance ."
+  ],
+  "abstract_text": [
+    "<S> almost 50 years ago bob brodkey and his student , corino , conceived of and carried out a visualization experiment for the very near wall region of a turbulent pipe flow that , together with the turbulent boundary layer visualization of kline et al . </S>",
+    "<S> , excited the turbulence research community . using a high speed movie camera mounted on a lathe bed that recorded magnified images in a frame of reference moving with the flow </S>",
+    "<S> , they observed the motions of sub - micron particles in the sub- , buffer- and log - layers . </S>",
+    "<S> surprisingly , these motions were not nearly so locally random as was the general view of turbulence at the time . </S>",
+    "<S> rather , connected regions of the near wall flow decelerated and then erupted away from the wall in what they called `` ejections '' . </S>",
+    "<S> these decelerated motions were followed by larger scale connected motions toward the wall from above that they called `` sweeps '' . </S>",
+    "<S> they estimated that ejections accounted for @xmath0 of the reynolds shear stress at @xmath1 while only occurring about @xmath2 of the time . </S>",
+    "<S> this fluid dynamics video shows short sequences , at three reynolds numbers , from the original corino and brodkey visual study . in the following decades it inspired numerous laboratory and simulation studies aimed at unraveling the structure of bounded turbulent flows and understanding the turbulent transport processes within them . </S>"
+  ]
+}

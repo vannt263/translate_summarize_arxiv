@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "two sample videos are link : tbd[dancedrophiresol.mp4 ] and link : tbd[dancedroploresol.mp4 ] .",
+    "+   + in our project , we report the dynamics of mechanically - excited sessile drops by characterizing their resonant frequencies and corresponding mode shapes . with our fluid dynamics video ,",
+    "we present the most qualitative portion of the project : technique of visualization and scheme of mode identification . for frequency response and comparison to theory , please refer to _ substrate constraint modifies the rayleigh spectrum of vibrating sessile drops _",
+    ", physical review e 88 , 023015 ( 2013 ) . +   + in the experiment ,",
+    "a liquid drop is deposited on a clear glass substrate and oscillated in a plane - normal direction with a mechanical vibrator . to visualize shapes of the oscillating drop , a metal mesh is placed under the glass substrate .",
+    "light is projected upward from below the mesh .",
+    "as the light passes through the mesh and the drop , the drop s surface refracts the light according to its deformation .",
+    "the refraction produces visual deformation of the mesh from the top view , thereby visualizing the shape deformation of the drop in a human - readable way .",
+    "+   + given a particular mode , we identify its shape with a visual approach : we count from the top view the number of sectors , which is equal to @xmath0 , and from the side view the number of layers @xmath1 .",
+    "alternatively , an analogy is drawn between these shapes and spherical harmonics : @xmath2 where @xmath3 is the radial coordinate of any point q on the surface of a drop oscillating at its @xmath4 mode , @xmath5 and @xmath6 the polar and azimuthal angles of q , @xmath7 the size of disturbance , @xmath8 the legendre function of degree @xmath9 and order @xmath0 .",
+    "the expression describes a unit hemisphere deformed by the family of spherical harmonic disturbance .",
+    "these modes are classified as zonal ( @xmath10 ) , sectoral ( @xmath11 ) and tesseral ( @xmath12 ) .",
+    "although specifying @xmath9 and @xmath0 fully prescribes a mode mathematically , the visual approach is proposed with the hope of facilitating mode identification in the most physically intuitive way possible .",
+    "the number of layers @xmath1 relates to @xmath9 and @xmath0 as @xmath13 among the three types of modes , zonal modes are those only with layers , sectorals only with sectors in one layer , and tesserals with both layers and setors .",
+    "a full catalog of all observed modes and a gallery of selected clips for ( non - axisymmetric ) modes follow the mode - identification tutorial and leads to a 10-second quiz , with the hope of engaging the audience into the video content ."
+  ],
+  "abstract_text": [
+    "<S> in our fluid dynamics video , we demonstrate our method of visualizing and identifying various mode shapes of mechanically oscillated sessile drops . by placing metal mesh under an oscillating drop and projecting light from below , the drop s shape </S>",
+    "<S> is visualized by the visually deformed mesh pattern seen in the top view . </S>",
+    "<S> the observed modes are subsequently identified by their number of layers and sectors . </S>",
+    "<S> an alternative identification associates them with spherical harmonics , as demonstrated in the tutorial </S>",
+    "<S> . clips of various observed modes are presented , followed by a 10-second quiz of mode identification . </S>"
+  ]
+}

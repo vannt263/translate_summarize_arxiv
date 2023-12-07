@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "recently , it was also demonstrated that the spreading of dielectric liquids accelerates over solid surfaces under ionic bombardment caused by corona discharge [ 1 ] . when a potential difference above the corona discharge threshold level is applied between a sharp emitter electrode and flat grounded substrate with a deposited oil droplet in air ,",
+    "the surrounding air molecules become locally ionized around the sharp tip .",
+    "a cloud of accelerated ions drifts towards the air / liquid interface and creates an interfacial pressure . the interfacial electric pressure resulting from the surface charge deposition due to bombardment and the normal component of electric field cause radial spreading of dielectric liquid films [ 1 ] . although the ionic bombardment initially forces spreading of the film , as we shown here , the spreading accompanies by new type of electrohydrodynamic ( ehd ) instabilities .",
+    "ehd interfacial instabilities in fluid interfaces have been vigorously investigated in the presence of laplacian field ( in absence of space charge ) produced by parallel plate electrodes . however , for non - zero space charge in the presence of ionic bombardment , the literature is rare and the mechanism of instabilities is poorly understood . in the presence of ionic bombardment , the instability mechanism fundamentally changes , giving rise to a new set of very less known class of instabilities [ 2 ] .",
+    "the instability patterns were shown to be drastically changes with changing viscosity of liquid .",
+    "for low viscous liquids subjected to ionic discharge , we observed cell - type instability patterns and length scales of patterns are in the order of spreading film thickness . for more viscous liquids ,",
+    "the patterns are like complex labyrinth patterns .",
+    "in the present work , a 22 g hypodermic needle was used to establish corona discharge over the deposited droplet on a grounded substrate .",
+    "the applied voltage and corona current was , 17 kv and 35 @xmath0a , respectively .",
+    "the substrate was ito coated glass .",
+    "the working fluids were silicone oils of different viscosities .",
+    "we performed no special pretreatment of purification or degassing to eliminate the possible contaminations or impurities .",
+    "the experiments performed in room condition with no control on level of dust and other level of contamination ."
+  ],
+  "abstract_text": [
+    "<S> this fluid dynamics video is an entry for the gallery of fluid motion of the 66th annual meeting of the aps - dfd . </S>",
+    "<S> this work reveals new types of interfacial instabilities that occur during forced - spreading of dielectric films subjected to ionic bombardment . </S>",
+    "<S> we demonstrated that keeping the ionic bombardment strength constant , the appearance of instability patterns dramatically changes by varying viscosity of the bombarded droplet . </S>"
+  ]
+}

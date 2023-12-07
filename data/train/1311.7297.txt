@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the theoretical ( see , e.g. , @xcite , @xcite ) and experimental @xcite investigations of the tunneling current between carbon layers were provided in the last years .",
+    "tunneling current between carbon layers according to some of theoretical models ( see , e.g. , @xcite ) is a nonlinear function of area of the tunneling contact . in other theoretical models @xcite the `` finite disorder potential ''",
+    "is introduced to sup - press the divergence of tunneling conductance between the graphene layers .",
+    "however the known experiments show that the tunneling conductance between nanotube wells @xcite is proportional to the area of the tunneling contact .    in the present paper the model of tunneling current between two graphene layers",
+    "is proposed .",
+    "we assume that the time of tunneling transition of an electron between the layers is finite .",
+    "the proposed model yields the tunneling current proportional to the total area of the tunneling contact and values of the tunneling conductance in qualitative agreement with the experimental data @xcite .",
+    "in the proposed model the tunneling current of @xmath0-electrons between two gra - phene layers at electrical potential @xmath1 between the layers is the sum of the time derivative of probability of electron tunneling transition from one ( top ) to an - other ( bot ) layers over all quantum numbers @xmath2 ( see @xcite )    @xmath3 \\biggl(\\frac{\\partial w(e_{bot}-e_{top},t)}{\\partial t}\\biggr)_{t = t_c},\\ ] ]    where @xmath4 and @xmath5 are the energies of an electron in the two layers , @xmath6\\}^{-1}$ ] is the fermi function , @xmath7 is the fermi level , @xmath8 is the thermal energy .",
+    "the ratio of the probability of electron transition between the states with energies @xmath9 and @xmath10 during the time @xmath11 in the first order of perturbation theory is ( see , e.g. , @xcite ) :    @xmath12)}{(e_{bot}-e_{top})^2},\\ ] ]    where @xmath13 is the tunneling matrix element between the states @xmath14 and @xmath15 of the two graphene layers . at",
+    "@xmath16)<<1 $ ] the tunneling rate @xmath17 , and thus the tunneling current is proportional to the transition time @xmath11 :    @xmath18    note that the finiteness of the transition time between the quantum states was assumed in @xcite at considering of interaction of an electron with impurities in doped semiconductors .",
+    "note also that for @xmath19 the formula ( [ eq103 ] ) is transformed to an expression with delta - function @xmath20 and gives area - dependent conductivity in @xcite or leads to divergence of the tunneling conductivity in @xcite .",
+    "to find the time @xmath11 of tunneling transition of an electron between the layers we take into account that the local average speed of the electron along @xmath21 direction is expressed via the phase of its wave function @xcite as    @xmath22    where @xmath23 is the interlayer distance , @xmath24 is the electron mass . according to the aharonov - bohm effect the wave function of electron being under the electro - static potential @xmath1 during the time @xmath11 experiences a phase shift @xcite    @xmath25    from eqs .",
+    "( [ eq104 ] ) and ( [ eq105 ] ) we obtain    @xmath26    the tunneling matrix element between the states @xmath14 and @xmath15 of two graphene layers according to the bardeen formalism @xcite has the form :    @xmath27    where @xmath28 is an arbitrary surface between the graphene layers .    near the @xmath29-points ( @xmath30 ) of the brillouin zone the relation @xmath31 takes place @xcite and the sum over @xmath32 and @xmath33 in eq .",
+    "( [ eq101 ] ) is replaced by the sum over one @xmath34 @xmath35 . taking this into account eq .",
+    "( [ eq101 ] ) for the current can be written as :    @xmath36|m_{bot , top}^{\\vec{k}}|^2t_c\\ ] ]    near the @xmath29-points the matrix element ( [ eq107 ] ) according to @xcite is @xmath37 ev for the bernal stacking of graphene layers .",
+    "next , we replace the sum in eq .",
+    "( [ eq108 ] ) by the integral @xmath38 , where @xmath39 is the electron density of states in graphene , @xmath40 is the area of graphene .",
+    "the number of the electron states with the wave vectors in the interval @xmath41 $ ] in the graphene layer with the area @xmath40 is @xmath42 . here",
+    "the first factor 2 is due to two spin directions , the second factor 2 is due to two energy minimums in brillouin zone of graphene ( see @xcite ) ; the factor @xmath43 is due to the heisenberg uncertainty principle ( @xmath44 ) . near the @xmath29-points of the brillouin zone of graphene",
+    "the electron energy is a linear function of the distance between @xmath34 and the wave vector of @xmath29-point : @xmath45 @xcite .",
+    "it leads to :    @xmath46    taking into account eq .",
+    "( [ eq109 ] ) , the expression ( [ eq108 ] ) for the current between the graphene layers with the contact area @xmath40 takes the form :    @xmath47    where    @xmath48    @xmath49 it is seen from eq .",
+    "( [ eq109 ] ) that the current is proportional to @xmath50 at @xmath51 and to @xmath52 at @xmath53 .",
+    "in contrast to the models @xcite the current is proportional to the area of tunneling contact and does not require an `` disorder potential '' to suppress the divergence of the tunneling conductance .",
+    "( [ eq109 ] ) gives the value of the current density @xmath54 at @xmath55 , @xmath56 and @xmath57 , that corresponds to the conductivity @xmath58 .",
+    "the calculated tunneling conductivity is consistent with @xmath59 , which is measured between the outer walls of multi - walled carbon nanotube @xcite .",
+    "the model of tunneling current between the graphene layers that considers the finiteness of the tunneling transition time is proposed . according to the proposed model",
+    "the tunneling current is proportional to the area of tunneling contact .",
+    "the calculated value of tunneling conductivity is in qualitative agreement with the experimental data .",
+    "work was partially supported by the bfbr ( grant nos .",
+    "f12r-178 , f11v-001 ) and by the rfbr ( grant 12 - 02 - 90041-bel ) .",
+    "* e - mail : poklonski@bsu.by ; siahloa@bsu.by"
+  ],
+  "abstract_text": [
+    "<S> the physical model that allows to calculate the values of the tunneling current between graphene layers is proposed . </S>",
+    "<S> the tunneling current according to the proposed model is proportional to the area of tunneling transition . </S>",
+    "<S> the calculated value of tunneling con - ductivity is in qualitative agreement with experimental data .    </S>",
+    "<S> physics department , belarusian state university , pr . </S>",
+    "<S> nezavisimosti 4 , minsk 220030 , belarus </S>"
+  ]
+}

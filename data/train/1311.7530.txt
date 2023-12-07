@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the vepp-4 m collider  @xcite with the kedr detector  @xcite can operate in the wide range of beam energy from 1 to 6 gev .",
+    "the luminosity is quite modest , but vepp-4 m is equipped with two independent systems for precise energy determination  @xcite : the resonant depolarization facility and infrared light compton backscattering one .",
+    "the @xmath1 and @xmath2 masses were measured using additional statistics .",
+    "systematic errors in mass measurements are the main issue .",
+    "more than 20 different effects were considered : energy spread , energy assignment , energy difference of @xmath5 and @xmath6 , beam misalignment , luminosity etc .",
+    "new mass measurements will supersede the old results  @xcite .",
+    "the final mass values obtained are : @xmath7    a comparison with other measurements is presented in figs .",
+    "[ fig : mjpsi ] and [ fig : mpsi2s ] for the @xmath1 and @xmath2 masses , respectively .",
+    "the position and width of the bar correspond to the pdg2012 fit  @xcite .",
+    "the ratio of the electron and muon widths of the @xmath1 meson has been measured at the kedr detector using direct @xmath1 decays .",
+    "the result @xmath8 is in good agreement with the lepton universality .",
+    "the experience collected during this analysis will be used for a @xmath1 lepton width determination with up to 1% accuracy .    a comparison with other measurements is presented in fig .  [ fig : geevsgmumu ] .",
+    "the position and width of the bar correspond to the pdg2012 fit  @xcite .",
+    "currently the world average value of the @xmath1 meson lepton width is completely dominated by the cleo results obtained in 2005  @xcite .",
+    "recently the besiii collaboration announced the most precise measurement of the ratio of the electron and meson widths  @xcite .",
+    "for that analysis both experiments used the @xmath9 , @xmath10 decay chain ( @xmath11 ) .",
+    "since 2004 kedr has been taking data at the vepp-4 m collider in the @xmath2 region and acquired a total luminosity of about 7 pb@xmath13 , which corresponds to more than @xmath14 @xmath2 .",
+    "we report the preliminary value of @xmath15    no direct measurement of this quantity is listed in the pdg tables . for comparison ( the position and width of the bar in fig .",
+    "[ fig : gbmumupsi2s ] ) we use the product of the two world average values  @xmath16and @xmath17 .",
+    "for the @xmath3 mass measurement the joint @xmath2 and @xmath3 scans were performed .",
+    "data analysis takes into account interference between the resonant and nonresonant @xmath18 production",
+    ".    our final results for mass and width are  @xcite : @xmath19    when a resonance interferes with a variable continuum , the ambiguity appears .",
+    "figure  [ fig : twofitdp2012 ] illustrates two solutions corresponding to vdm .",
+    "the resulting cross sections , mass and width are almost indistinguishable , but for the lepton width and phase we have two solutions : @xmath20    recently the vdm approach was applied for the joint analysis of babar , belle , bes , cleo and kedr data on @xmath21 and inclusive hadronic cross sections  @xcite :    [ cols=\"^,^,^,^,^,^ \" , ]     the results of kedr were confirmed at the much better level of accuracy .",
+    "the @xmath23 mass , width and branching fraction of @xmath4 decay have been measured in the inclusive photon spectrum of multihadron @xmath1 decays ( fig .",
+    "[ fig : fitgnfixedhint2 ] ) , using a sample of about 6 million @xmath1 mesons .",
+    "@xmath4 decay is an m1 transition between the 1s states of charmonium , so its rate can be easily calculated in potential models in the limit of a zero width of the resonance . for this decay ,",
+    "the resonance width to transition energy ratio is about @xmath24 , thus the photon line shape deviates from the breit - wigner . during the analysis the @xmath25 factor near the @xmath23 resonance and interference effects",
+    "were taken into account .",
+    "our final result for the branching fraction of @xmath4 is : @xmath26",
+    "most of the results are in good agreement with the world average values if they exist and have comparable or better accuracy .",
+    "the results of the kedr detector on @xmath3 are confirmed by joint analysis of data published by 5 experiments at a better accuracy level .",
+    "this work is supported by the ministry of education and science of the russian federation , the rfbr grants , 11 - 02 - 00112 , 11 - 02 - 00558 , the sci .",
+    "school nsh-5320.2012.2 grant and the dfg grant ha 1457/7 - 2 ."
+  ],
+  "abstract_text": [
+    "<S> we report results of experiments performed with the kedr detector at the @xmath0 collider . they include final results for the mass and other parameters of the @xmath1 , @xmath2 and @xmath3 and @xmath4 branching fraction determination .    </S>",
+    "<S> detector , charmonium , collider    13.20.gd,13.66.de,14.40.gx </S>"
+  ]
+}

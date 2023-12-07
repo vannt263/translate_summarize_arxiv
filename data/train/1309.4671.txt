@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "a model to include gravity in the standart model extension ( sme ) @xcite is provided by a vector field @xmath0 , the so - called bumblebee field , which couples with the usual geometrical tensors through the action @xcite @xmath1 where @xmath2 and @xmath3 inspite this model introduces the lorentz violation into the geometry @xcite , the geometrical tensors remain lorentz - invariants . this drawback can be overcame by means of the finsler geometry @xcite .",
+    "a finsler geometry is an extension of the riemannian geometry where given a curve @xmath4\\rightarrow m$ ] , its arc length is given by @xcite    @xmath5    where , @xmath6 .",
+    "the function @xmath7 is called the finsler principal function .",
+    "note that the interval depends both on the position @xmath8 as on the direction @xmath9 .",
+    "as in the riemannian case , it is possible to define a finsler metric by @xcite @xmath10    the finsler metric ( [ finslermetric ] ) is a symmetric and an anisotropic quadratic form on @xmath11 . differenting the metric yields the so - called cartan tensor @xmath12 from which it is possible to define a nonlinear connection by @xmath13 which decouples @xmath11 into @xmath14 , where @xmath15 is the basis for the horizontal section @xmath16 and @xmath17 is a base for the vertical section @xmath18 .",
+    "the compatible cartan connection is given by @xmath19 where @xmath20@xcite .",
+    "following the approach proposed by pfeifer and wohlfarth @xcite , here we are concerned with only the lorentz violation effects on tensor fields defined on @xmath16 .",
+    "the horizontal ricci curvature is defined as @xcite    @xmath21    and the scalar curvature @xmath22 .",
+    "based in a previous work on the classical point particles lagrangians @xcite , kostelecky proposed a new finsler function of form @xcite    @xmath23    where @xmath24 the planck length scale @xmath25 provides a scale of length where the anisotropic effects have to be taken in account .",
+    "kostelecky , russel and tso supposed @xmath26 and enhanced the @xmath27 tensor to be any symmetrical one @xcite .",
+    "this geometry is so - called bipartite .",
+    "the bipartite - finsler function yields the finsler metric @xcite    @xmath28    where , @xmath29 .",
+    "furthermore , for @xmath30 , the relation between the finslerian and lorentzian volume element is given by @xmath31",
+    "assuming the dynamics of the space - time is governed by an einstein - hilbert action then , @xmath32 it is possible to regain some interaction terms of the bumblebee model action ( [ bumblebeeactioninteraction ] ) .",
+    "as a perspective we expect to obtain the dynamical terms of the bumblebee model and some other interaction terms as well .",
+    "we are grateful to alan kosteleck and yuri bonder for useful discussions and to the graduate physics program of the cear federal university and cnpq ( national council for scientific and technologic developing ) for financial supporting .",
+    "d.  colladay and v.  a.  kostelecky , phys .",
+    "d * 55 * , 6760 ( 1997 ) .",
+    "v.  a.  kostelecky , phys .",
+    "d * 69 * , 105009 ( 2004 ) .",
+    "r.  v.  maluf , v.  santos , w.  t.  cruz and c.  a.  s.  almeida , phys .",
+    "d * 88 * , 025005 ( 2013 )"
+  ],
+  "abstract_text": [
+    "<S> we present a proposal to include lorentz - violating effects in gravitational field by means of the finsler geometry . in the finsler </S>",
+    "<S> set up , the length of an event depends both on the point and the direction in the space - time . </S>",
+    "<S> we briefly review the bumblebee model , where the lorentz violation is induced by a spontaneous symmetry breaking due to the bumblebee vector field.the main geometrical concepts of the finsler geometry are outlined . using a finslerian einstein - hilbert action we derive the bumblebee action from the bipartite finsler function with a correction to the gravitational constant . </S>"
+  ]
+}
