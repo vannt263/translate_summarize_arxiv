@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "let us start assuming that two point particles with masses @xmath1 and @xmath2 located at positions @xmath3 and @xmath4 attract each other with a force @xmath5 :    @xmath6    where @xmath7 , @xmath8 is newton s constant and @xmath9 is a free positive physical constant with dimensions m@xmath10l@xmath11t@xmath12 .",
+    "this law of attraction has been considered , more or less directly , as a candidate to solve what is known today as the dark mass problem ( more on that below ) .    in considering this new law of force",
+    "it is important to keep in mind that space has three dimensions and not two , and as a consequence of this only the newtonian component of ( [ force ] ) is solenoidal .    since : @xmath13 introducing the potential function @xmath14 defined by :    @xmath15    from ( [ force ] ) there follows that :    @xmath16    let us assume that the point particle with mass @xmath2 is kept fixed at the location @xmath4 and that the particle @xmath1 is free to move under its attraction .",
+    "this simple formula above tells us that this particle will move without friction as it would do across a cloud of dark matter with an always positive effective density @xmath17 , while obeying a potential theory formally identical to newton s one .",
+    "if instead of a point particle with mass @xmath2 we consider a continuous distribution of mass with density @xmath18 then we shall have :    @xmath19    where @xmath20 is the domain where @xmath21 , and :",
+    "@xmath22    from where we get :    @xmath23    let us consider in particular the case where the density @xmath24 is constant inside a sphere of radius @xmath25 and zero otherwise ( figure 1 ) . in this case",
+    ", @xmath26 being now @xmath27 , the effective density @xmath17 will be :    @xmath28    @xmath29 being the heaviside function ; or :    @xmath30    with :    @xmath31    from where , to calculate the central potential or the force , we could proceed as usual integrating the poisson s equation ( [ extended ] ) , or use their corresponding integral definitions .",
+    "if instead we have an spherical sector with inner radius @xmath32 ( figure 2 ) then the effective density @xmath33 is :    @xmath34    notice that in the cavity defined by @xmath35 , where the raw matter density is zero , the effective density remains positive and therefore the force remains attractive towards the center .",
+    "this means that it is a legitimate speculation to point out that if gravity includes a contribution of the type that i have considered here , then we could sometimes be fooled to believe that a massive object gravitates around a source that actually does not exists at all .",
+    "notable consequences of the proposed new law are :    \\i ) if @xmath36 and there is ordinary matter somewhere then there is dark matter everywhere .",
+    "therefore this new law has a lot to say about the rotation curves of spiral galaxies as well as micro and macro lensing .",
+    "the price that we pay for it is the non locality of the theory since the effective density is not a point function .",
+    "\\ii ) it predicts new surprising effects like massive bodies orbiting central un - existing matter sources in empty cavities ( empty cavity effect ) , and beyond that it promises an interesting development of the physics of voids in cosmology ..",
+    "\\iii ) last but not least , the transport of this proposal to general relativity is quite natural .",
+    "it suffices to use the effective density @xmath37 instead of the pure matter one @xmath24 in the source energy - momentum tensor of einstein s equations .",
+    "the first conceptually important implications are : 1 ) that the gravitational field of a point particle becomes more singular than what it is in einstein s theory and 2 ) that , so to speak , all exact vacuum solutions become approximate approximate solutions of the modified theory . on the other hand cosmology only needs to sort out what part of the total density is matter density and what part it is dark matter .",
+    "they claim that this potential can be approximated by a @xmath40 or a @xmath0 one depending on the scale of distances .",
+    "they also note `` that from a dynamical point of view the modification of the newton s law of gravity can be interpreted as if point sources lose their point - like character and acquire an additional distribution in space '' .",
+    "this is also the main point in my very much simpler proposition .",
+    "reference @xcite starts with the introduction of the potential function ( [ mu ] ) but the only source model that is considered is that of a thin disk of matter that can be dealt with in the framework of potential theory in dimension 2 .",
+    "w.  h.  kinney and m.  brisudova , arxiv : astro - ph/0006453v1 a.  a.  kirillov , d.  turaev , physics letters b 532 , 185 - 192 ( 2002 ) a.  a.  kirillov , arxiv : astro - ph/0405623v1 j.  c.  fabris and j.  pereira campos , arxiv:0710.3683v1 [ astro - ph ]"
+  ],
+  "abstract_text": [
+    "<S> i discuss some of the basic properties of a potential theory derived from a modified newton s law of action at a distance that includes a @xmath0 attractive force . </S>"
+  ]
+}

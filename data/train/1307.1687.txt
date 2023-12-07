@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "in a previous work ( * ? ? ? * ( fouchet  2010 ) ) , we ran full 3d , two - fluid smoothed particle hydrodynamics ( sph ) simulations of a planet embedded in a gas+dust t  tauri disk for different planet masses and grain sizes .",
+    "the gas+dust dynamics , where aerodynamic drag leads to the vertical settling and radial migration of grains , is consistently treated .",
+    "this produces gaps that are more striking and require a smaller planet mass to form in the dust phase than in the gas . in this work ,",
+    "we pass the resulting dust distributions to the monte carlo radiative transfer code ( * ? ? ?",
+    "* ( pinte  2006 ) ) to construct synthetic images in the alma wavebands .",
+    "we then use the alma simulator from the casa ( common astronomy software applications , ` http://casa.nrao.edu ` ) package to produce images that include thermal and phase noises for a range of observing parameters .",
+    "the procedure is detailed in ( * ? ? ?",
+    "* gonzalez  ( 2012 ) ) .",
+    "pc , @xmath0 and @xmath1 .",
+    "varying integration times and angular resolutions for the 1@xmath2 planet in the dynamic case at @xmath3 m _",
+    "( left)_. optimal parameters ( @xmath4  hr , @xmath5 ) for 1 and 5@xmath2 planets in the dynamic _ ( center ) _ and well - mixed _ ( right )",
+    "_ cases.,title=\"fig:\",height=188 ]  pc , @xmath0 and @xmath1 .",
+    "varying integration times and angular resolutions for the 1@xmath2 planet in the dynamic case at @xmath3 m _ ( left)_. optimal parameters ( @xmath4  hr , @xmath5 ) for 1 and 5@xmath2 planets in the dynamic _ ( center ) _ and well - mixed _ ( right )",
+    "_ cases.,title=\"fig:\",height=143 ]  pc , @xmath0 and @xmath1 .",
+    "varying integration times and angular resolutions for the 1@xmath2 planet in the dynamic case at @xmath3 m _",
+    "( left)_. optimal parameters ( @xmath4  hr , @xmath5 ) for 1 and 5@xmath2 planets in the dynamic _ ( center ) _ and well - mixed _ ( right )",
+    "_ cases.,title=\"fig:\",height=143 ]",
+    "we first look among a wide range of parameters for the best compromise between integration time and required s / n and angular resolution allowing to recover the disk features ( fig .",
+    "[ figopt ] , left ) .",
+    "we find the optimal observing parameters to be @xmath4  h and @xmath5 ( fig .",
+    "[ figopt ] , center ) .",
+    "we also produce images assuming that gas and dust are well mixed ( fig .",
+    "[ figopt ] , right ) to compare with previous alma predictions ( e.g.  ( * ? ? ? * wolf  2002 ) ) all made under this hypothesis .",
+    "this assumption , producing much less defined gaps , with lower contrast , is anyway unrealistic and should not be used .    when including phase noise in median sky quality , our images show a substantial deterioration . however",
+    ", this should not be an issue when observing in dry weather at short wavelengths and using water vapor radiometers providing real - time corrections .",
+    "we find that gaps are visible at most disk inclinations : because of dust settling , the disk outer regions are not flared and do not hide them .",
+    "planet signatures are fainter in more distant disks but declination has little effect on their detectability thanks to the excellent @xmath6 coverage of alma ( fig .",
+    "[ figsfr ] ) . for more details , see ( * ? ? ?",
+    "* gonzalez  ( 2012 ) ) .",
+    "gaps will be detectable for lighter planets than anticipated from gas - only simulations and a single 1-hour image can be sufficient to detect one and infer the presence of an unseen planet .",
+    "characterizing it requires multi - wavelength follow - up and observing at short wavelength in dry weather is crucial to detect the inner disk and discriminate planet gaps from the inner holes of transition disks .",
+    "alma should routinely observe signposts of planets in nearby star forming regions ."
+  ],
+  "abstract_text": [
+    "<S> among the numerous known extrasolar planets , only a handful have been imaged directly so far , at large orbital radii and in rather evolved systems . </S>",
+    "<S> the atacama large millimeter / submillimeter array ( alma ) will have the capacity to observe these wide planetary systems at a younger age , thus bringing a better understanding of the planet formation process . here </S>",
+    "<S> we explore the ability of alma to detect the gaps carved by planets on wide orbits . </S>"
+  ]
+}

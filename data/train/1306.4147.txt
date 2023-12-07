@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "results of the precision measurements of kaonic hydrogen atoms by the siddharta collaboration @xcite form already part of the data - base used by ikeda , hyodo and weise ( ihw ) in constructing the antikaon - nucleon scattering amplitudes near threshold @xcite .",
+    "studies of kaonic atoms using potentials built on sub - threshold in - medium antikaon - nucleon scattering amplitudes @xcite clearly indicate that multinucleon processes contribute significantly to the observed strong - interaction level shifts and widths .",
+    "in particular it was shown @xcite using the ihw amplitudes that analysing so - called ` lower ' and ` upper ' levels in the same atom could separate one - nucleon ( 1n ) absorption from multinucleon ( mn ) processes .",
+    "this property is the result of the very different radial dependences of the 1n and 2n terms of the potential , as demonstrated for ni and pb in table [ tab : radii ] .",
+    "it is seen that in both examples the rms radius of the 1n real term is larger than that for the mn real term by 0.95 fm and that for the imaginary part the difference is 1.2 to 1.3 fm .    with the one - nucleon amplitudes firmly based on the siddharta experiment and its subsequent analyses",
+    ", there is now a possibility to gain information on multinucleon processes of antikaons in nuclei .",
+    "this calls for reduced uncertainties in experimental results , particularly for the upper level widths .",
+    ".rms radii of various terms of the k@xmath1-nucleus potential ( in fm ) .",
+    "r@xmath2 is the rms radius of the nucleus . [",
+    "cols=\"^,^,^,^,^,^,^,^\",options=\"header \" , ]     figure [ fig : widthplot ] shows a summary of the present results for upper levels and the guideline based on the detector resolution .",
+    "the lower dashed curve represents a fixed value of @xmath3=53 ev between 100 and 400 kev and the upper dashed curve is for @xmath4 ev where @xmath5 is in kev .",
+    "however , the widths of lower levels must also be taken into consideration in planning experiments , as discussed above .",
+    "almost all the targets listed here have been used in previous exotic - atom ( pionic , kaonic and antiprotonic ) experiments @xcite , many as separated isotopes .",
+    "along the atomic cascade in exotic atoms the radiation width for the different levels varies rather slowly while the width for absorption by the nucleus varies exponentially , as it depends on the overlap of the atomic wavefunction with the nucleus , eq .",
+    "( [ eq : width ] ) . that causes the cascade process to terminate within one or two levels when the nuclear absorption dominates .",
+    "direct measurements of strong interaction widths of two levels require the measurement of two successive x - ray transitions .",
+    "the present results suggest that there could only be a handful of elements where the required conditions are met and it raises the question of whether experiments on a few elements could match the present data base which includes 24 different species of kaonic atoms .",
+    "the question of whether a partial set of data for kaonic atoms could provide similar information to what is obtained from the full data was discussed already in @xcite , showing that indeed it was possible .",
+    "here we have compared the results of global fits to the present - day full data set with results of similar fits to part of the data . selecting a partial set of the full data , namely si , s , ni , cd , sn , yb and ta that represent the four groups in table [ tab : yields ] , we obtain parameter values and uncertainties very close to what is found in fits to the full data .",
+    "this suggests that a set of about six targets , carefully selected , will be equivalent to the full data base , particularly if the quality of the data is at least as good as that of the old data .",
+    "finally , test calculations show that uncertainties of parameters of the best - fit potentials indeed go down by close to 50% if upper level widths replace relative yields in the data .",
+    "we conclude that new kaonic atom experiments on several carefully selected targets using state - of - the - art microcalorimetric spectroscopy could provide widths of lower and upper levels in the same atom which , in turn , could enhance our understanding of multinucleon absorption of antikaons in the nuclear medium .",
+    "discussions with a.  gal and correspondence with w.b . doriese and j.n .",
+    "ullom are gratefully acknowledged .",
+    "this work was supported by the eu initiative fp7 , hadronphysics3 , under the sphere and leannis cooperation programs , by jsps kakenhi grant number 25105514 and by incentive research grant from riken ."
+  ],
+  "abstract_text": [
+    "<S> recent studies of strong interaction effects in kaonic atoms suggest that analysing so - called ` lower ' and ` upper ' levels in the same atom could separate one - nucleon absorption from multinucleon processes . </S>",
+    "<S> the present work examines the feasibility of direct measurements of upper level widths in addition to lower level widths in future experiments , using superconducting microcalorimeter detectors . </S>",
+    "<S> about ten elements are identified as possible candidates for such experiments , all of medium - weight and heavy nuclei . </S>",
+    "<S> new experiments focused on achieving good accuracy for widths of such pairs of levels could contribute significantly to our knowledge of the @xmath0-nucleon interaction in the nuclear medium .    </S>",
+    "<S> kaonic atoms , antikaon - nucleon interaction , microcalorimeter </S>"
+  ]
+}

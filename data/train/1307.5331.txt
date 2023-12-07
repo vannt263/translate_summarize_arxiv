@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "quantum gravity effects coming from planck scale energies may appear as small violations of fundamental laws in the limit of low energies .",
+    "one possibility is the breaking of both lorentz and cpt symmetries .",
+    "a comprehensive investigation of this case is made viable , for instance , in the framework known as the standard model extension@xcite , the most general effective model comprising particle lorentz and cpt violation but coordinate invariant .",
+    "the minimal extension respects the standard model @xmath0 gauge symmetry and is power - counting renormalizable . in this proceedings contribution",
+    "we report our progress in the study of finite one - loop radiative corrections in the minimal lorentz- and cpt - violating qed extension .",
+    "the lorentz- and cpt - violating qed extension for one dirac fermion can be described by the lagrange density@xcite @xmath1 where lorentz violation ( lv ) is parameterized by coefficients in the form of constant background fields  see the last two terms of eq .",
+    "( [ qedex ] ) and the definitions @xmath2 @xmath3 we also add to ( [ qedex ] ) a photon mass term @xmath4 to control infrared divergences and a gauge - fixing piece @xmath5 .",
+    "we follow the guidelines presented in ref .   to deal with",
+    "one - loop radiative corrections : evaluations are performed in the so - called concordant frames to avoid issues with the perturbative expansion ; nonlinear lv is disregarded because it could lead to effects comparable to multiloop ones , which we do not consider ; and lv pieces of the lagrange density ( [ qedex ] ) are treated as new interaction vertices , effectively entering as propagator or vertex insertions , as allowed by the experimental smallness of lv .",
+    "as a first step , we considered only the @xmath6 and @xmath7 coefficients .",
+    "results for the photon self - energy can be found in ref .  , so our goal was first the vertex correction diagram , fig .",
+    "[ fig : fig1](a ) .",
+    "the electron self - energy was used so far only to check the related gauge identity ( more details below ) , and its evaluation will be our next goal .",
+    "the lv contribution with one @xmath6 insertion comes from two diagrams , figs .",
+    "[ fig : fig1](b ) and [ fig : fig1](c ) , with the new feynman rule @xmath8 and the contribution from @xmath7 comes from the one in fig .",
+    "[ fig : fig1](d ) , where @xmath9 these insertions lower the superficial degree of divergence of vertex - correction loop integrals , making them actually finite , avoiding complications related to @xmath10 .",
+    "aiming for generality , we computed both cases with fermions and photon off shell , i.e. , @xmath11 and @xmath12 , and we made no use of the dirac equation .",
+    "since gordon identities are unavailable to make further simplifications  they are valid only on shell  the final result itself is not very illuminating because of its size and structure , but it is worth mentioning that because we do not use @xmath13 our expressions contain not only pieces symmetric under @xmath14 but also pieces that are antisymmetric . on the other hand , symmetry under @xmath14 is recovered when the fermions go on shell , and the final expressions are greatly simplified .",
+    "for instance , the lv correction due to @xmath7 has the structural form @xmath15 and the result from the @xmath16 insertion has the same structure but with the additional form @xmath17 , which vanishes for the @xmath7 contribution .    as a consistency check",
+    ", we verified the ward - takashi identity , @xmath18 , for both cases up to order @xmath19 with arbitrary ir regulator @xmath20 , but so far with fermions on shell  the off shell case is still to be done .",
+    "the ward - takashi identity demands the evaluation of lv contributions to the electron self energy , which are divergent .",
+    "nevertheless , only the finite piece of this integral is momentum dependent and contributes to the right - hand side of the ward - takashi identity .",
+    "it is interesting to notice that , different from the conventional qed case , @xmath21 even when the dirac equation is used for the external leg spinors : even in this situation the momentum shift in the electron self energy still contributes to the identity .",
+    "the next step is to establish the finite contributions coming also from the divergent piece of the electron self energy , which may require a careful choice of subtraction points .",
+    "applications in physical processes will also be envisaged , as well as the analysis for other lv coefficients .",
+    "financial support was provided by cnpq ( brazil ) ."
+  ],
+  "abstract_text": [
+    "<S> we report on our current progress in the study of finite one - loop radiative corrections in the minimal lorentz- and cpt - violating qed extension . </S>"
+  ]
+}

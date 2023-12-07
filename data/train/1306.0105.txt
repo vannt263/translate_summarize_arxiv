@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "a homoclinic orbit is the trajectory of a flow of dynamical system that joins a saddle equilibrium point to itself i.e the homoclinic trajectory @xmath0 converges to the equilibrium point as @xmath1 .",
+    "the analytical solutions of homoclinic orbits are very important for many applications as in the use of the homoclinic melnikov function , in order to prove the existence of transversal homoclinic orbits and chaotic behavior .    in what follows",
+    "we find the analytical solution of the homoclinic orbit of a two degrees of freedom system of differential equations that describes the hamiltonian part of the slow flow of a three degree of freedom dissipative system of linear coupled oscillators with an essentially nonlinear attachment @xcite .",
+    "for the system of differential equations @xmath2 where @xmath3 are the variables and @xmath4 are the parameters . the equilibrium points",
+    "are found considering @xmath5 . after and",
+    "some simple algebraic manipulations we have @xmath6 and the third order equation @xmath7 when ( [ 3order ] ) has three real roots we have three equilibrium points .",
+    "it is well known that , in order ( [ 3order ] ) to have three real roots it must hold that the determinant @xmath8 where @xmath9 and @xmath10 .",
+    "this holds for @xmath11 where @xmath12 .",
+    "the hamiltonian of system ( [ desystem ] ) is given by @xmath15 we perform the canonical transformation @xmath16 , and the hamiltonian becomes @xmath17 and @xmath18 from the square of ( [ r2 ] ) by adding in both sides of the equation the quantity @xmath19 we have @xmath20 from the hamiltonian ( [ hamiltonian_2 ] ) equation ( [ r3 ] ) becomes @xmath21    we denote by @xmath22 the unstable equilibrium point,@xmath23 , and equation ( [ r3 ] ) becomes @xmath24 by substituting(for the case @xmath25 ) in the hamiltonian we have @xmath26 and ( [ rsemi2 ] ) becomes @xmath27 for the right - hand - side of the previous equation after some simple algebra manipulations we have @xmath28 we calculate @xmath29 and derive @xmath30 and for the equilibrium point @xmath31 we have @xmath32 using ( [ d ] ) and the above equality ( [ vv ] ) becomes @xmath33 then from ( [ sqr2 ] ) and ( [ vvv ] ) we have @xmath34 that is our main differential equation and is easily solved @xcite .    as it is seen in figure  ( [ vfield ] ) when our system has three equilibrium points , then depending in the parameters , we may have two homoclinic orbits . in our analysis",
+    "this result is given by the absolute value in ( [ deq ] ) .",
+    "00 gradshteyn i.s . ,",
+    "ryzhik i.m . , table of integrals , series , and products , seventh edition , academic press , 2007 .",
+    "homburg a.j .",
+    ", sandstede b. , homoclinic and heteroclinic bifurcations in vector fields , chapter 8 , handbook of dynamical systems , v3 , 379524 , ( 2010 ) .",
+    "maaita j.o .",
+    ", meletlidou e. , vakakis a.f . , rothos v. , the effect of slow flow dynamics on the oscillations of a singular damped system with an essentially nonlinear attachment , journal of applied nonlinear dynamics , in press ."
+  ],
+  "abstract_text": [
+    "<S> analytical solution of the homoclinic orbit of a two dimensional system of differential equations that describes the hamiltonian part of the slow flow of a three degree of freedom dissipative system of linear coupled oscillators with an essentially nonlinear attachment . </S>"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "we are interested in producing estimates from a sequence of probability distributions .",
+    "the aim is to quickly report these estimates with a user - specified bound on the monte carlo error .",
+    "we assume that it is possible to use mcmc methods to draw samples from the target distributions .",
+    "for example , the sequence can be the posterior distributions of parameters from a bayesian model as additional data becomes available , with the aim of reporting the posterior means with the variance of the monte carlo error being less than @xmath0 .",
+    "we present a general system that addresses this problem .",
+    "our system involves saving the samples produced from the mcmc sampler in a database .",
+    "the samples are updated each time there is a change of sample space .",
+    "the update involves weighting or transiting the samples , depending on whether the space sample changes or not . in order to control the accuracy of the estimates ,",
+    "the samples in the database are maintained .",
+    "this maintenance involves increasing or decreasing the number of samples in the database .",
+    "this maintenance also involves monitoring the quality of the samples using their effective sample size .",
+    "see table [ tab : control_variates ] for a summary of the control variables .",
+    "another feature of our system is that the mcmc sampler is paused whenever the estimate is accurate enough .",
+    "the mcmc sampler can later be resumed if a more accurate estimate is required .",
+    "therefore , it may be the case that no new samples are generated for some targets .",
+    "hence the system is efficient , as it reuses samples and only generates new samples when necessary .",
+    "our approach has similar steps to those used in sequential monte carlo ( smc ) methods @xcite , such as an update ( or transition ) step and re - weighting of the samples . despite the similarities , smc methods are unable to achieve the desired aims considered in this paper .",
+    "specifically , even though smc methods are able to produce estimates from a sequence of distributions , it is unclear how to control the accuracy of this estimate without restarting the whole procedure .",
+    "for example , consider the simulations in @xcite where the bootstrap particle filter , a particular smc method , is introduced . in these simulations",
+    "the posterior mean is reported with the interval between @xmath1 and @xmath2 percentile points .",
+    "as these percentile points are fixed , there is no way to reduce the length of the interval .",
+    "the only hope of reducing the interval is to rerun the particle filter with more particles , although there is no guarantee .",
+    "this conflicts with the aim of reporting the estimates quickly . in practice ,",
+    "most smc methods are concerned with models where only one observation is revealed at a time ( see simulations in e.g.  @xcite , @xcite , @xcite ) .",
+    "our framework allows for observations to be revealed in batches of varying sizes ; see the application presented in  [ sec : football ] .",
+    "n.  metropolis , a.  w. rosenbluth , m.  n. rosenbluth , a.  h. teller , and e.  teller .",
+    "equation of state calculations by fast computing machines . _ the journal of chemical physics _ , 210 ( 6):0 10871092 , 1953 ."
+  ],
+  "abstract_text": [
+    "<S> a system to update estimates from a sequence of probability distributions is presented . </S>",
+    "<S> the aim of the system is to quickly produce estimates with a user - specified bound on the monte carlo error . </S>",
+    "<S> the estimates are based upon weighted samples stored in a database . </S>",
+    "<S> the stored samples are maintained such that the accuracy of the estimates and quality of the samples is satisfactory . </S>",
+    "<S> this maintenance involves varying the number of samples in the database and updating their weights . </S>",
+    "<S> new samples are generated , when required , by a markov chain monte carlo algorithm . </S>",
+    "<S> the system is demonstrated using a football league model that is used to predict the end of season table . </S>",
+    "<S> correctness of the estimates and their accuracy is shown in a simulation using a linear gaussian model .    </S>",
+    "<S> * key words : * importance sampling ; markov chain monte carlo methods ; monte carlo techniques ; streaming data ; sports modelling </S>"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "a spacetime cloak , or event cloak , is a means of manipulating electromagnetic radiation in space and time in such a way that a certain collection of happenings , or events , is concealed from distant observers .",
+    "conceptually , a safecracker can enter a scene , steal the cash and exit , whilst a surveillance camera records the safe door locked and undisturbed all the time .",
+    "an event cloak design using metamaterials was first proposed theoretically by a team of researchers from imperial college london ( uk ) in 2010 , and published in the journal of optics @xcite .",
+    "their design works by using a medium in which different parts of the light illuminating a certain region can be either slowed down or speed up .",
+    "a leading portion of the light is speeded up so that it arrives before the events occur , whilst a trailing part is slowed down and arrives too late .",
+    "after their occurrence , the light is reformed by slowing down the leading part and speeding up the trailing part .",
+    "the distant observer therefore only sees a continuous illumination , whilst the events that occurred during the dark period of the cloak s operation remain undetected .",
+    "an experimental demonstration of the basic concept using nonlinear optical technology has been presented in a preprint on the cornell physics arxiv @xcite .    here",
+    "we describe a similar event cloak device without metamaterials , using only a system of mirrors that create a temporary gap of obscurity , and close that gap afterward .",
+    "figure  [ f : cloakbasic ] shows the basic arrangement for a mirror - based event cloak device .",
+    "it consists of a light source l , and a system of mirrors a , b , c , d , e , f , g , h , of which a , d , e and h are switchable between several possible states : fully transparent ( letting light go through ) , fully reflective ( working as an ordinary mirror ) , and adjustable degrees of half - reflection .",
+    "electrically switchable transreflective mirrors are currently available , so the device described here is within the scope of current technology .",
+    "the arrangement of the mirrors may change , for instance it is possible to make the paths abcd and efgh longer by inserting extra mirrors ( and so obtain a larger time gap for the event cloaking effect ) , but the times taken by the light to go through each of those paths must be identical .",
+    "the light produced by the light source l illuminates the object o after following one of the two paths lado , or labcdo , depending on whether mirrors a and d are set in the transparent or the reflective state .",
+    "then , the light leaving the object will reach the camera m also after following one of two paths , oehm , or oefghm , depending on the transparent or reflective state of mirrors e and h.",
+    "in order to accomplish the event cloak effect , switching of the four mirrors a , d , e , and h must be carefully timed , so to create a temporary gap of obscurity in the light arriving to the object , to be precisely closed in the light leaving the object and arriving to the camera .",
+    "the system is initially set as shown in figure  [ f : cloakset ] , with mirrors a and d in their transparent state , and mirrors e and h in their reflective state .",
+    "the event cloaking effect starts as shown in figure  [ f : cloakgapstart ] , with mirror a switching to its reflective state , and after the light between a and d has gone through mirror d , this mirror switches to a reflective state too .",
+    "this create an obscurity gap of duration equal to the time taken by the light to go through the path abcd minus the time taken to go directly from a to d  in the figure ad = bc and ab = cd , so the duration of the gap would be twice the time taken by the light to go from a to b.       figure  [ f : cloakobscure ] shows the object in total obscurity .",
+    "anything that happens at o during the time duration of the obscurity gap will be invisible for the camera .       figure  [ f : cloakgapend ] shows the end of the obscurity gap .",
+    "the object is being illuminated again and the closing of the gap starts by switching mirrors e and ( a little later ) h to transparent state .       in figure  [",
+    "f : cloakfinish ] the obscurity gap has been closed , e and h are both transparent , event cloaking finished .       during all this time the camera has not registered any interruption in the reception of the image of the object , although nothing happening at o during the obscurity gap has been recorded by the camera . the only clue of the cloaking phenomenon would be a sudden jump in time in the image received by the camera . if for instance there is a clock at o showing 12:00  pm at the moment in which the obscurity gap reaches the object , and the gap lasts 5 minutes , then the image recorded by the camera would register a sudden jump from 12:00  pm to 12:05  pm .",
+    "if we want to use the device again we need to reset it to its original state shown in figure  [ f : cloakset ] . in order to do",
+    "so we time the transreflective mirrors a , d , e , and h to switch in the way described below .",
+    "first we switch mirror a to its transparent state , as shown in figure  [ f : cloakresetstart ] .",
+    "then , for a time equal to the previous duration of the obscurity gap , light going through the path ad will arrive at d at the same time as light that took the path abcd . combining the two beams into one may have different effects depending on the kind of light used . with ordinary light",
+    "we may obtain a light beam with roughly the sum of the intensities of the incident beams , but other kinds of light ( such as laser ) may cause interferences . here",
+    "we leave open the precise way to combine the incident beams and its consequences , and will assume for now that they produce a ( double intensity ) combined beam leaving d towards o , as shown in figure  [ f : cloakcombine ] .",
+    "as soon as the light in the path abcd has exited , mirror d can be switched to a fully transparent state .",
+    "also , during the time the combined beam is arriving at e , this mirror must work as a splitter , producing two beams , one going directly from e to h , and another one following the path efgh ( figure  [ f : cloakcombine ] ) .",
+    "figure  [ f : cloakresetdone ] shows the end of the reset process .",
+    "note that the light arriving at e has been split into two beams that will arrive at m at different times , so the camera will witness the object o going through the same period of time twice .",
+    "if there is for instance a clock showing 12:30  pm at the moment the combined beam created at d arrives at o , and that bean illuminates the object for 5 minutes ( same as the obscurity gap before ) , then the camera will record the clock going from 12:30  pm to 12:35  pm , then jumping back to 12:30  pm , and working normally from then on .",
+    "we have shown how to create an event cloak device without the use of metamaterials , by a simple arrangement of switchable transreflective mirrors . in the light arriving to an object an obscurity gap is created by diverting the incoming light through a longer path , and this gap is closed in the light path leaving the object by deviating the light through a shorter path ."
+  ],
+  "abstract_text": [
+    "<S> we propose a way of implementing an event cloaking device without the use of metamaterials . rather than slowing down and speeding up light , we manipulate an obscurity gap by diverting the light through paths of appropriate length with an arrangement of switchable transreflective mirrors . </S>"
+  ]
+}

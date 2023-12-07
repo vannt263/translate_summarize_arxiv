@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "white dwarf and neutron stars ( nss ) are born in the aftermath of core - collapsing supernova explosions . depending on ns mass and rotational frequency",
+    ", gravity may compress the matter in the core regions of such stars up to more than ten times the density of ordinary atomic nuclei , thus providing a high - pressure environment in which numerous subatomic particle processes are likely to compete with each other .",
+    "theoretical studies indicate that hyperons , boson condensates ( pions , kaons , h - matter ) and/or deconfined up , down and strange quarks may exist in the core regions of nss ( for an overview , see @xcite and references therein ) .    based on qualitative considerations concerning the stiffness of the nuclear equation of state ( eos )",
+    ", one could argue that the detection of high - mass nss , such as psr j16142230 with a gravitational mass of @xmath3 @xcite and psr j0348 + 0432 with a mass of @xmath1 @xcite , may rule out the existence of deconfined quarks in their central core regions , since quark deconfinement would take away so much pressure that high - mass nss are not supported . as shown in ref .",
+    "@xcite , conclusions of that kind are not necessarily correct .",
+    "our paper builds on the investigations carried out in ref .",
+    "@xcite for nss containing deconfined quark matter , i.e.  quark - hybrid stars ( qhss ) .",
+    "the study is based on a generalized version of the nambu jona - lasinio ( njl ) model @xcite , which accounts for several basic properties of quantum chromodynamics ( qcd ) . as an improvement of the standard njl model",
+    ", we will consider non - local interactions among the quarks @xcite . by combining the njl model and the one - gluon - exchange model , which uses an effective gluon propagator to model effective interactions among the quarks , it is possible    .comparison of the key features of the local and non - local njl model .",
+    "[ cols=\"<,<\",options=\"header \" , ]     the situation is somewhat different for the local njl model ( fig .",
+    "[ mrl ] ) , for which pure quark matter cores are obtained for    nl3 ( see table [ tabla2 ] and fig .",
+    "[ fig : secondl ] ) .",
+    "the results for the masses and radii of the maximum - mass neutron stars are shown in table [ tabla4 ] .",
+    "( solid lines ) , baryon chemical potential @xmath4 ( dashed lines ) , and electron chemical potential @xmath5 ( dotted lines ) as a function of baryon number density ( in units of @xmath6 ) for parametrization gm1 .",
+    "the hatched areas denote mixed phase regions where confined hadronic matter and deconfined quark matter coexist . the data in panels ( a ) and ( b ) is for vector interactions @xmath7 and @xmath8 , respectively.,title=\"fig:\",scaledwidth=60.0% ]   ( solid lines ) , baryon chemical potential @xmath4 ( dashed lines ) , and electron chemical potential @xmath5 ( dotted lines ) as a function of baryon number density ( in units of @xmath6 ) for parametrization gm1 .",
+    "the hatched areas denote mixed phase regions where confined hadronic matter and deconfined quark matter coexist . the data in panels ( a ) and ( b ) is for vector interactions @xmath7 and @xmath8 , respectively.,title=\"fig:\",scaledwidth=60.0% ]",
+    "in this work we use extensions of the local ( l3njl ) and non - local ( n3njl ) nambu - jona lasinio model to analyze the possible occurrence of quark deconfinement in the cores of neutron stars .",
+    "we have constructed the phase transition from hadronic matter to quark matter via the    gibbs conditions , imposing global electric charge neutrality and baryon number conservation .",
+    "we have calculated the mass - radius relationships of ordinary neutron stars and neutron stars with deconfined quarks in their centers ( quark - hybrid stars ) .",
+    "depending on the strength of the quark vector repulsion , we find that mixed phases of confined hadronic matter and deconfined quarks can exist in neutron stars as massive as @xmath9 to @xmath10 .",
+    "the radii of these objects are between 12 and 13  km , as expected for neutron stars .",
+    "according to our study , for the n3njl model , a transition to pure quark matter occurs only in neutron stars which lie on the    gravitationally unstable branch of the stellar sequences if the parametrization nl3 for the hadronic matter lagrangian is used .",
+    "this is different for the other hadronic parametrization considered in this paper , gm1 , which predicts , for sufficiently large vector interactions among the quarks , pure quark matter cores in maximum - mass neutron stars .",
+    "pure quark matter cores are also obtained for the l3njl model if the nl3 parametrization is being use . for the gm1 parametrization , however , pure quark matter is not present but gives way to an extended region of deconfined quarks which are in chemical equilibrium with various baryon species .",
+    "the latter is found to exist in all neutron stars models , independent of the value of the vector repulsion among quarks . with increasing stellar mass ,",
+    "all the stellar core compositions consist either of nucleons only , nucleons and hyperons , a mixed phase of quarks and hadrons ( mp ) , and , in some cases , a pure quark matter phase ( qp ) in the core .",
+    "m.  orsaria thanks n.  n.  scoccola and t. hell for helpful discussions .",
+    "m.  orsaria and g.  contrera thank conicet for financial support .",
+    "h.  rodrigues thanks capes for financial support under contract number bex 6379/10 - 9 . f.  weber acknowledges supported by the national science foundation ( usa ) under grant phy-0854699 ."
+  ],
+  "abstract_text": [
+    "<S> in this paper , we explore whether or not quark deconfinement may occur in high - mass neutron stars such as j1614 - 2230 ( @xmath0 ) and j0348 + 0432 ( @xmath1 ) . </S>",
+    "<S> our study is based on a non - local extension of the su(3 ) nambu jona - lasinio ( n3njl ) model with repulsive vector interactions among the quarks . </S>",
+    "<S> this model goes beyond the frequently used local version of the nambu jona - lasinio ( njl ) model by accounting for several key features of qcd which are not part of the local model . </S>",
+    "<S> confined hadronic matter is treated in the framework of non - linear relativistic mean field theory . </S>",
+    "<S> we find that both the local as well as the non - local njl model predict the existence of extended regions of mixed quark - hadron ( quark - hybrid ) matter in high - mass neutron stars with masses of 2.1 to @xmath2 . </S>",
+    "<S> pure quark matter in the cores of neutron stars is obtained for certain parametrizations of the hadronic lagrangian and choices of the vector repulsion among quarks . </S>",
+    "<S> the radii of high - mass neutron stars with quark - hybrid matter and/or pure quark matter cores in their centers are found to lie in the canonical range of 12 to 13 km . </S>"
+  ]
+}

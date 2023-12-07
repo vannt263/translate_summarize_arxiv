@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "this work is based on observations obtained with _ xmm - newton _ , an esa science mission with instruments and contributions directly funded by esa member states and nasa .",
+    "ek thanks the gates cambridge scholarship .",
+    "acf thanks the royal society .",
+    "the authors thank the anonymous referee for helpful comments ."
+  ],
+  "abstract_text": [
+    "<S> we use archival _ xmm - newton _ observations of ark  564 and mrk  335 to calculate the frequency dependent time - lags for these two well - studied sources . </S>",
+    "<S> we discover high - frequency fe  k lags in both sources , indicating that the red wing of the line precedes the rest frame energy by roughly 100  s and 150  s for ark  564 and mrk  335 , respectively . including these two new sources , fe  k reverberation lags </S>",
+    "<S> have been observed in seven seyfert galaxies . </S>",
+    "<S> we examine the low - frequency lag - energy spectrum , which is smooth , and shows no feature of reverberation , as would be expected if the low - frequency lags were produced by distant reflection off circumnuclear material . </S>",
+    "<S> the clear differences in the low and high frequency lag - energy spectra indicate that the lags are produced by two distinct physical processes . finally , we find that the amplitude of the fe  k lag scales with black hole mass for these seven sources , consistent with a relativistic reflection model where the lag is the light travel delay associated with reflection of continuum photons off the inner disc .    </S>",
+    "<S> [ firstpage ]    black hole physics  galaxies : active  x - rays : galaxies    [ cols=\"^,^,^,^,^,^,^,^\",options=\"header \" , ]     lastly , we comment briefly on the apparent weak non - stationarity in the light curves ( as noted by * ? ? ? </S>",
+    "<S> * through the lag - frequency spectrum and psd ) . </S>",
+    "<S> fig .  </S>",
+    "<S> [ ark_redblue ] shows that the first half of the 500  ks observation peaks at the rest frame of the fe  k line , presumably from a larger emitting region , while at slightly higher frequencies , the second half shows a broader lag peaking at 45  kev , the red wing of the fe  k line from a smaller emitting region . </S>",
+    "<S> while the non - stationarity of the light curves is not currently well understood , it does provide tantalizing evidence for further behavior that will be accessible either through much deeper observations or future observatories .    </S>",
+    "<S> the case for relativistic reflection continues to grow with recent discoveries of the fe  k reverberation lag @xcite that is now seen in seven sources , flux - dependent reverberation lags @xcite , the black hole mass scaling relation with lag @xcite , and reverberation lags in a black hole x - ray binary @xcite and possibly a neutron star @xcite . the work presented here on ark  564 and mrk  335 support a relativistic reflection model and are not consistent with partial covering . </S>",
+    "<S> the study of x - ray reverberation lags is quickly developing , and is revealing a new perspective through which to probe strong gravity . </S>"
+  ]
+}

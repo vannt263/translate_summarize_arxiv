@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "in recent years , the number of known multiple exoplanet systems has risen dramatically . for those planets found by indirect means , the nature of the observations can cause problems in relating the behaviour of a given star to the orbits of the potential planets moving around it .",
+    "the fitting of radial velocity data , for example , is known to be prone to over - estimating the eccentricity of a given planet s orbit ( e.g. @xcite , @xcite ) .",
+    "indeed , once further data is obtained , a system thought to host a single , highly eccentric planet may be found to instead host two planets moving on markedly different , low eccentricity orbits ( e.g. wittenmyer _ et al .",
+    "_ , 2012 , 2013b ) .",
+    "one way these uncertainties can be reduced is to consider the interaction between the proposed planets . for systems",
+    "in which the calculated orbits represent the true state of the system , it is reasonable to assume that they should be dynamically stable on long timescales . on the other hand , if the proposed orbits for the planets prove dynamically unstable on timescales of thousands of years , then this is a strong indication that the true orbits of the proposed planets differ markedly from those put forward solely on the basis of the observational data . in this work , we present two examples of how dynamical studies can help to untangle the nature of recently proposed planetary systems . in section two ,",
+    "we briefly describe our methods , before presenting and discussing our results for two exemplar systems in section three .",
+    "to assess the stability of a given planetary system , we follow a well established methodology ( e.g. @xcite ) .",
+    "we use the hybrid integrator within the dynamics package mercury ( @xcite ) to follow the evolution the system . in those simulations , we hold the initial orbit of the best categorised planet fixed , and systematically vary the initial orbital parameters of the other planet . the orbital evolution of the two planets is followed for a period of 100 myr , or until one or other of the planets is removed from the system by collision or ejection .",
+    "this allows us to create dynamical maps of the system , revealing the degree to which the orbits of the planets are dynamically stable . for more details ,",
+    "we refer the interested reader to our earlier work ( e.g. horner _ et al .",
+    "_ , 2011 , 2012 , @xcite ) .",
+    "in 2011 , two unseen companions were proposed to orbit the cataclysmic variable qs virginis ( @xcite ) , based on eclipse timing variations .",
+    "the companions , of 9 and 57 jupiter masses , move on crossing orbits , with semimajor axes of @xmath0 and @xmath1  au and eccentricities of @xmath2 and @xmath3 .",
+    "the system s stability , as a function of the orbit of qs vir c , can be seen in the left - hand panel of figure 1 .",
+    "the mean lifetime is just a few hundred years across the entire range of plausible orbits for qs vir ( ab ) c. the companions are clearly dynamically unfeasible ( @xcite ) .",
+    "hd 73526  c was proposed on the basis of radial velocity data obtained by the anglo - australian planet search ( @xcite ) .",
+    "the planets are located close to , or within , mutual 2:1 resonance .",
+    "the results of our dynamical study are shown in the right hand panel of figure 1 . in this case ,",
+    "resonant solutions exhibit dynamical stability on timescales of millions of years .",
+    "a large sea of unstable solutions surrounds the narrow region of resonant stability .",
+    "our dynamical study therefore enables us to place tighter constraints on the orbit of hd 73526  c than were possible based solely on the observations ."
+  ],
+  "abstract_text": [
+    "<S> dynamical studies of new exoplanet systems are a critical component of the discovery and characterisation process . </S>",
+    "<S> such studies can provide firmer constraints on the parameters of the newly discovered planets , and may even reveal that the proposed planets do not stand up to dynamical scrutiny . here , </S>",
+    "<S> we demonstrate how dynamical studies can assist the characterisation of such systems through two examples : qs virginis and hd 73526 . </S>",
+    "<S> +   + </S>"
+  ]
+}

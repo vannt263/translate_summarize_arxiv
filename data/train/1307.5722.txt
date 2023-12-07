@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the standard - model extension@xcite ( sme ) consists of the most general observer - independent effective field theory incorporating lorentz violation .",
+    "it is routinely used by both theorists and experimentalists to study and obtain bounds on possible forms of lorentz violation.@xcite as an effective field theory , the sme can accommodate both explicit and spontaneous lorentz breaking . however , there are differences in these two forms of symmetry breaking that arise in the context of gravity .",
+    "this overview looks at these differences and what their primary consequences are .    in a gravitational theory with lorentz violation",
+    "it is useful to use a vierbein formalism . in this approach ,",
+    "both the local lorentz frames and spacetime frames are accessible and linkage between the symmetries in these frames can be examined .",
+    "the vierbein provides the connection between tensor components in local lorentz frames and tensor components in the spacetime frame .",
+    "the lagrangian in the sme is formed as the most general scalar function ( under both local lorentz and diffeomorphism transformations ) using gravitational fields , particle fields , and lorentz - violating sme coefficients .",
+    "when the lorentz breaking is explicit , the sme coefficients are viewed as fixed background fields . however ,",
+    "when the lorentz breaking is spontaneous , the sme coefficients are vacuum expectation values ( vevs ) of dynamical tensor fields .    in the gravity sector of the sme",
+    ", a no - go theorem shows that with explicit lorentz breaking an inconsistency can occur between conditions stemming from the field variations and symmetry considerations with geometrical constraints that must hold , such as the bianchi identities.@xcite in contrast , the case of spontaneous lorentz breaking was found to evade the no - go theorem .",
+    "the main difference is that in a theory with explicit breaking the sme coefficients are not associated with dynamical fields , while with spontaneous lorentz breaking they are , which creates a difference in the conditions that must hold .",
+    "an important consequence of the no - go theorem is that the gravity sector of the sme can only avoid incompatibility with conventional geometrical constraints if the symmetry breaking is spontaneous .",
+    "the fact that the sme coefficients must be associated with vevs of dynamical fields that undergo spontaneous lorentz violation leads to a number of effects that must be accounted for in the gravity sector of the sme .",
+    "for example , when lorentz symmetry is spontaneously broken , there is also spontaneous breaking of diffeomorphism symmetry .",
+    "the spontaneous lorentz breaking occurs when a nonzero tensor - valued vacuum occurs in the local lorentz frames , which is necessarily accompanied by a vacuum value for the vierbein .",
+    "when products of the vierbein vev act on the local tensor vevs , the result is that tensor vevs also appear in the spacetime frame .",
+    "these tensor vevs spontaneously break local diffeomorphisms in the spacetime frame .",
+    "conversely , if a vev in the spacetime frame spontaneously breaks diffeomorphisms , then the inverse vierbein acting on it gives rise to vevs in the local frames .",
+    "consequently , spontaneous local lorentz breaking implies spontaneous diffeomorphism breaking and vice versa.@xcite    with spontaneous symmetry breaking of both lorentz and diffeomorphism symmetry , there are standard features in particle physics that need to be investigated .",
+    "these include the possible appearance of massless nambu - goldstone ( ng ) modes and massive higgs modes , or there is the possibility of a higgs mechanism in which the ng modes are reinterpreted as additional degrees of freedom in a theory with massive gauge fields .    in the absence of a higgs mechanism",
+    ", there can be up to as many ng modes as there are broken spacetime symmetries .",
+    "since the maximal symmetry - breaking case would yield six broken lorentz generators and four broken diffeomorphisms , there can be as many as ten ng modes .",
+    "a natural gauge choice puts all of the ng modes into the vierbein .",
+    "however , this will in general lead to the appearance of ghosts , and it is for this reason that most models involve breaking fewer than ten of the spacetime symmetries .",
+    "spontaneous symmetry breaking is usually induced by a potential term in the lagrangian that has a degenerate minimum space .",
+    "the ng modes appear as excitations away from the vacuum that stay in the minimum space , while massive higgs modes are excitations that go up the potential well away from the minimum . in conventional gauge theory , the potential involves only scalar fields , and the massive higgs modes are independent of the gauge fields .",
+    "however , with spontaneous lorentz breaking , the metric typically appears in the potential along with the tensor fields , and for this reason massive higgs modes can occur that include metric excitations .",
+    "this is an effect that has no analog in the case of conventional gauge theory .    in a higgs mechanism , the would - be ng modes become additional degrees of freedom for massive gauge fields .",
+    "the gauge fields associated with diffeomorphisms are the metric excitations .",
+    "however , a higgs mechanism involving the metric has been shown not to occur.@xcite this is because the mass term that is generated by covariant derivatives involves the connection , which consists of derivatives of the metric and not the metric itself .",
+    "however , for the broken lorentz symmetry , where the relevant gauge fields are the spin connection , a conventional higgs mechanism can occur.@xcite this is because the spin connection appears directly in covariant derivatives acting on local tensor components , and when the local tensors acquire a vev , quadratic mass terms for the spin connection can be generated .",
+    "note , however , a viable higgs mechanism involving the spin connection can only occur if the spin connection is a dynamical field , which requires nonzero torsion and that the geometry be riemann - cartan ."
+  ],
+  "abstract_text": [
+    "<S> gravitational theories with lorentz violation must account for a number of possible features in order to be consistent theoretically and phenomenologically . </S>",
+    "<S> a brief summary of these features is given here . </S>",
+    "<S> they include evasion of a no - go theorem , connections between spontaneous lorentz breaking and diffeomorphism breaking , the appearance of massless nambu - goldstone modes and massive higgs modes , and the possibility of a higgs mechanism in gravity . </S>"
+  ]
+}

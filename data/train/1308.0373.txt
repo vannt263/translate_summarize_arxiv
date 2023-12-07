@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "since the development of general relativity ( gr ) , the solar system has always been a very interesting laboratory to test gravitation theory and to constrain hypothetical alternative theories of gravity . until today , mainly two formalisms have been widely used at solar system scales to test the gravitation theory : the parametrized post - newtonian ( ppn ) formalism and the fifth force search .    within the ppn formalism , the metric is phenomenologically parametrized by 10 dimensionless parameters  @xcite that can be constrained independently from any underlying fundamental theory .",
+    "the current constraints on these ppn parameters are pretty good and can be found in ref .  .",
+    "the fifth force formalism consists in searching for a modification of the newton potential of the form of a yukawa potential parametrized by a range of interaction and an intensity  @xcite .",
+    "the area of the parameter space excluded by experiments can be found in ref .  .",
+    "it can be seen that very good constraints are available except for small and large interaction distances .",
+    "even if the constraints on these two formalisms are currently very impressive , there are still theoretical motivations to improve them ( for some examples , see ref .  ) .",
+    "moreover , it is also very interesting to look for deviations from gr in other frameworks than the two used so far . in particular",
+    ", a consideration of a hypothetical lorentz violation in the gravitational sector naturally leads to a parametrized expansion at the level of the action  @xcite .",
+    "the post - newtonian metric resulting from this formalism ( known as the standard - model extension ( sme ) ) is parametrized by a symmetric traceless tensor @xmath0 and differs from the ppn metric  @xcite . until now ,",
+    "the only tracking data used to constrain these sme coefficients are the lunar laser ranging ( llr ) data  @xcite .    in this communication , we show how spacecraft tracking data can be used to constrain sme gravity parameters . for this",
+    ", we determine the incompressible signature produced by sme on tracking observations .",
+    "the procedure and the software used to determine these signatures are presented in ref .  .",
+    "we consider three realistic situations : a two year radioscience link between earth and the mercury system corresponding to messenger data , a 32 day doppler link between earth and the cassini spacecraft during its cruise between jupiter and saturn corresponding to the conjunction experiment  @xcite , and a 9 year radioscience link between earth and the saturn system corresponding to cassini data .",
+    "for these three situations , we determine the linear combinations of sme coefficients to which the observations are sensitive , the signatures produced by these coefficients on observations and the sensitivity of these observations to sme coefficients .",
+    "the radioscience ( range and doppler ) measurements of messenger depend on the 4 linear combinations of the 9 fundamental parameters @xmath0 :    @xmath1    the 32 days of doppler data from the cassini conjunction experiment depend only on two linear combinations given by    @xmath2    while the 9 year range and doppler data coming from the saturnian system depend on    [ eq : saturn ] @xmath3    figure [ fig1 ] represents the signature due to some of the sme linear combinations ( [ eq : saturn ] ) on the cassini radioscience measurements .",
+    "these signatures correspond to residuals that would be obtained by a naive observer measuring data and analyzing them in gr ( using standard procedure ) while the correct gravitation theory is sme theory with the linear combinations taking the indicated values .",
+    "the signatures are characteristic of the sme theory of gravity and should be searched for in the residuals of real data analysis .",
+    "similar signatures have been determined for the two other situations ( messenger and the cassini conjunction ) and for the other linear combinations but are not presented here .",
+    "# 1#2(#1 ) : # 2 +    the comparison of the amplitude of these signatures with the accuracy of the measurements gives an estimate of the uncertainties on the sme coefficients that would be reachable in a real data analysis .",
+    "the estimated uncertainties on sme coefficients reachable using messenger and cassini data are presented in table [ tab ] .",
+    "one can see that the conjunction data are not interesting to constrain sme . on the other side , messenger and cassini data",
+    "( while orbiting within the saturnian system ) are very interesting and can improve the current llr constraints on sme coefficients  @xcite by one order of magnitude .",
+    "this gives a strong motivation to consider a test of sme using these datasets .",
+    "the research described in this paper was partially carried out at the jet propulsion laboratory , california institute of technology , under contract with the national aeronautics and space administration   2013 .",
+    "all rights reserved .",
+    "a.h . acknowledges support from the baef .",
+    "e.  fischbach and c.l .",
+    "talmadge , _ the search for non - newtonian gravity _",
+    ", aip - press series , springer , 1999 ; e.g.  adelberger , j.h .",
+    "gundlach , b.r .",
+    "heckel , s.  hoedl , and s.  schlamminger , prog .",
+    "phys .  * 62 * , 102 ( 2009 ) ."
+  ],
+  "abstract_text": [
+    "<S> in this communication , we focus on possibilities to constrain sme coefficients using cassini and messenger data . we present simulations of radioscience observables within the framework of the sme , identify the linear combinations of sme coefficients the observations depend on and determine the sensitivity of these measurements to the sme coefficients . </S>",
+    "<S> we show that these datasets are very powerful for constraining sme coefficients . </S>"
+  ]
+}

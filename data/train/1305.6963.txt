@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "the radio emission of normal galaxies is directly connected with activity of star formation and results from two processes , non - thermal ( synchrotron ) and thermal ( free - free ) radiation .",
+    "the synchrotron emission dominates the @xmath0ghz range . at higher frequencies free - free emission becomes increasingly important . at much lower radio frequencies free - free absorption",
+    "may affect not only thermally generated photons but also synchrotron ones .",
+    "due to this absorption the radio spectra of galaxies can be flattened towards low frequencies .",
+    "the galactic centre ( gc ) hosts a compact non - thermal radio source known as sgr a*. around sgr a * radio emission comes from hii region called sgr a west , embedded in lower density ionized gas forming extended ( @xmath1 ) halo ( pedlar el al .",
+    "1989 ) . behind the sgr a west",
+    "there is a source , which seems to be a supernova remnant ( snr ) known as sgr a east . around sgr a east",
+    "there is a @xmath2 radio envelope , showing thermal and non - thermal emission . at low radio frequencies ( @xmath3610mhz )",
+    "the most striking feature of the radio emission of sgr a is its strong depression in the region of sgr a west which at higher frequencies dominates the radio image .    in modelling of the radio spectrum of the whole sgr a complex consisting of sgr a west , sgr a east , and sgr a *",
+    ", we assume three gaseous components of different sizes and radiating according to thermal and/or synchrotron processes .",
+    "the emission of all components is modelled over a grid of nxn cells .",
+    "each simple cell radiates according to : @xmath4\\ , \\omega_{ij}\\ ] ]    where @xmath5 is the optical depth and @xmath6 is the emission measure with the filling factor @xmath7 .    the modelled spectrum of sgr a integrated over the whole complex fits very well the data points ( fig . 1 : left).the modelled turnover in the spectrum of sgr a near 1 ghz requires emission measures @xmath8 .",
+    "this provides the thermal emission contaminating the high frequency part of the spectrum . to explain the data points it was also necessary to introduce the filling factor @xmath9 of about 0.1 in the part of the model associated with the thermal emission .",
+    "[ description ]",
+    "the galaxy m82 hosts the nearest example of an ongoing starburst .",
+    "the brightest source at 408mhz ( wills et al .",
+    "1997 ) is a snr in the centre of the disk . around this snr",
+    "there is a depression in radio emission of about 100pc in size caused by free - free absorption induced by a giant hii region .",
+    "we performed modelling of the global spectrum of m82 similarly to sgr a complex , but for the whole galaxy ( figure 1:centre ) .",
+    "the shape of low frequency spectrum depends on the distribution and density of the ionized gas in the whole galactic disc . at fixed frequencies",
+    ", we reconstructed the observed radio emission over the galactic disk .",
+    "figure 1 : right depicts some modelled maps at 300 and 1400 mhz . with lower resolution",
+    "the depression in emission in the centre of m82 is systematically less visible , at 408 mhz and with spatial resolution of @xmath10 it even disappears completely .",
+    "hence , recognition of such regions in more distant galaxies would be very difficult .",
+    "our modelling shows that significant part of m82 ( more than 50% ) must be significantly contaminated by thermally emitting gas .",
+    "it is not possible to reproduce the turnover in the spectrum of m82 assuming only one small emitting region but with extremely high density of ionized gas .",
+    "the filling factor of the thermal emission may also play an important role in shaping the global spectrum of m82 ."
+  ],
+  "abstract_text": [
+    "<S> the radio emission of normal galaxies may become opaque at low radio frequencies due to thermal ionized gas . </S>",
+    "<S> we performed modelling of the free - free absorption to reproduce the local spectrum of sgra complex and the global spectrum of the starburst galaxy m82 . </S>",
+    "<S> we show the importance of resolution of radio observations and the value of filling factor of the absorbing gas for correct modelling of the absorption . </S>"
+  ]
+}

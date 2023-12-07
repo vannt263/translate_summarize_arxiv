@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "it is still not clear , whether massive stars form preferentially by accretion of material through a circumstellar disk or by coagulation of lower mass stars in a multiple system .",
+    "maybe , both ways of formation are possible , then it is still unknown , how often each of the two channels is chosen by nature .",
+    "high and intermediate mass stars very often are multiple with a binary fraction of 70 to 90 % . yet , for many high and intermediate mass stars , no deep and sensitive multiplicity survey has been done . in particular , only few of these stars have been observed so far by ao imagers , which can find very faint , maybe sub - stellar , companions also at a separation range ( roughly 0.1 to few arc sec , i.e. long orbital periods ) , which is not reachable for spectroscopic surveys ( short periods ) .",
+    "this object is part of our study of multiplicity of b - type stars in european southern observatory ( eso ) archival adaptive optics ( ao ) imaging data . with this project we can study the statistical aspects of multiplicity among intermediate mass stars ,",
+    "analyse their distribution with respect to mass and separation and obtain constraints on the underlying processes in their formation . here",
+    "we show first results of our project .",
+    "+ the star hip45314 ( also called hr3672 , distance @xmath7 at @xmath8 and @xmath9 according to , @xmath10 according to simbad ) is located in the vela constellation .",
+    "@xcite identified hr3672 as a possible member of the open cluster hip45189 ( no probability of membership given ) with an age of @xmath11 ( for details , see secion[mass_age_a ] ) .",
+    "the spectral type of hr3672 is b6iv according to simbad , but as reported in the literature by different authors ( and summarized e.g. by * ? ? ?",
+    "* ) , mainly yielded spectral types between b4v and b7v ( see sec.[spec_class ] and sec.[mass_age_a ] ) . the star is also suspected to be variable with an amplitude in v of @xmath12 @xcite .",
+    "+ we also use this object exemplary to introduce an alternative method for the astrometric calibration ( self - calibration of pixel scale and detector orientation ) of data by using the science images instead of extra recorded calibration binaries or clusters .",
+    "+ the order of this paper is as follows . in sec.[obs ] the observations and data reduction are presented .",
+    "a detailed description of the self - calibration for astrometry is given in sec.[calib ] .",
+    "furthermore we show the result of the common proper - motion pair analysis in sec.[astrometry ] and the age and mass estimation for hr3672a and b in sec.[mass_age_a ] and sec.[mass_b ] , respectively .",
+    "the limits on detection of further companions are explained in sec.[det_limit ] and the conclusions are collected in sec.[conclusion ] .",
+    "the data presented here are part of an archival search for unknown companions of b - type stars within 1kpc .",
+    "we reduced all publicly available data of b - type stars taken with the adaptive optics camera naco ( for nasmyth adaptive optics system with the coude near - infrared imager and spectrograph , @xcite ) located in a vlt / ut4 ( yepun ) nasmyth focus ."
+  ],
+  "abstract_text": [
+    "<S> we report the discovery of a very low - mass companion to hip45314 ( hr3672 ) located about @xmath0 north - west of hr3672a . with four years of epoch difference between the two observations obtained with the very large telescope we can reject by more than 4@xmath1 that b would be a non - moving background object unrelated to a. hr3672a </S>",
+    "<S> is a b7 - 8 main sequence star with an age of @xmath2 and from the magnitude difference between hr3672a and b and the 2mass magnitudes , we can estimate the magnitude of hr3672b ( @xmath3 ) and then , for age and distance of the primary star , using models , its luminosity and mass ( @xmath4 ) . </S>",
+    "<S> we present a reanalysis of the probable membership of hr3672a to the platais 9 cluster , and introduce a new method for astrometric calibration of data without dedicated calibration images . in the deepest available image </S>",
+    "<S> ( co - add of all epochs ) no additional companion candidates within @xmath5 were detected down to @xmath6 .    </S>",
+    "<S> [ firstpage ]    astrometry - binaries : visual - stars : individual : hr 3672 - open clusters and associations : individual : platais 9 . </S>"
+  ]
+}
