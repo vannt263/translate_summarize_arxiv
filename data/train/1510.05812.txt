@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "the work was supported by rfbr , project n 13 - 07 - 00256 ."
+  ],
+  "abstract_text": [
+    "<S> a dependence of phonon interaction on the interelectronic distance is found for a translation - invariant ( ti ) strong - coupling bipolaron . </S>",
+    "<S> it is shown that the charge induced by the electrons in a ti - bipolaron state is always greater than that in a bipolaron with spontaneously broken symmetry .    considerable attention given to the bipolaron problem in recent years centers around attempts to explain the superconductivity phenomenon with the use of the mechanism of bose - condensation of bipolaron gas @xcite@xmath0@xcite@xmath0@xcite . in this context </S>",
+    "<S> the study of the interaction between the electrons caused by their interaction with phonons is a vital task . in papers @xcite@xmath1@xcite </S>",
+    "<S> a new concept of a translation - invariant bipolaron ( ti - bipolaron ) was introduced which possesses much higher coupling energy , than a bipolaron with spontaneously broken symmetry ( sbs - bipolaron ) . </S>",
+    "<S> of interest is to calculate the interaction energy as a function of a distance between the electrons in a ti - bipolaron and to find the value of the charge induced by the electrons in a polar medium . </S>",
+    "<S> notice that for the case of sbs - bipolarons , these points were discussed in a lot of papers @xcite@xmath1@xcite . </S>",
+    "<S> following @xcite@xmath1@xcite , we will proceed from froehlich hamiltonian for a bipolaron which in the coordinates of the center of mass has the form : @xmath2    where @xmath3 , @xmath4 are coordinates of the center of mass and relative motion of electrons , respectively : @xmath5 , @xmath6 , m is an electron mass , @xmath7 , @xmath8 are operators of a phonon field ; @xmath9 , @xmath10 , @xmath11 is a phonon frequency , @xmath12 is an electron charge , @xmath13 , @xmath14 are high - frequency and static dielectric constants , @xmath15 is the systems volume , @xmath16 .    after excluding the center of mass coordinate by means of heisenberg transformation @xcite , with the use of lee - low - pines transformation ( llp ) @xcite : @xmath17    the energy of electron - phonon interaction of the electrons @xmath18 , according to ( 1 ) , </S>",
+    "<S> is written as : @xmath19    according to @xcite , when the llp function @xmath20 is chosen in the gaussian form : @xmath21 @xmath22    where @xmath23 , @xmath24 , @xmath25 are varying parameters , with the use of ( 3 ) @xmath18 is expressed as : @xmath26    where @xmath27 , @xmath28 - are dimensionless variables . </S>",
+    "<S> the values of @xmath29 , @xmath30 ( where @xmath31 is the parameter of ion coupling ) for each @xmath32 value are determined from the condition that the function @xmath33 be minimum @xcite : @xmath34    relation of quantities @xmath35 , @xmath36 with the parameters @xmath24 , @xmath25 in ( 4 ) is given by formulae @xmath37 , @xmath38 , where : @xmath39    is a constant of electron - phonon coupling .    </S>",
+    "<S> fig.1 demonstrates the dependencies @xmath40 for some values of @xmath32 parameter . </S>",
+    "<S> it is seen that for small @xmath41 , the interaction potential is independent of @xmath41 , for intermediator has linear dependence on @xmath4 , while for large @xmath41 , is has a coulomb form : @xmath42 . </S>",
+    "<S> fig.1 also suggests that at the point @xmath43 , i.e. at the point where a ti - bipolaron decays into ti - polarons @xcite , interaction @xmath18 does not demonstrate any jumps and changes continuously as @xmath32 increases up to the value of @xmath44 , at which the total energy of a ti - bipolaron @xmath45 vanishes . </S>",
+    "<S> the total interaction potential @xmath46 should include the coulomb interaction @xmath47 : @xmath48 and is shown on fig . 1 ( upper solid curve ) .    </S>",
+    "<S> it looks like coulomb interaction in the case of small @xmath4 and has a near - linear shape in a certain range of @xmath4 variation ( this is especially clear in fig.1 f ) : @xmath49 ) . </S>",
+    "<S> this behavior reminds the interaction between quarks , with repulsive instead attractive as in the case of quark coulomb potential ( fig . </S>",
+    "<S> 1 , lower solid curve ) . </S>",
+    "<S> ( a polaron model of quarks was considered in @xcite ) .    </S>",
+    "<S> the knowledge of @xmath18 enables us to calculate the density distribution of a charge @xmath50 induced by electrons in a polar medium . assuming : @xmath51    where @xmath52 is a potential induced by the electrons </S>",
+    "<S> , we will write for @xmath50 : @xmath53    with the use of ( 5 ) , ( 9 ) , ( 10 ) we express @xmath50 as : @xmath54 @xmath55    the total charge @xmath56 induced by a ti - bipolaron : @xmath57    is equal to : @xmath58    fig.2 shows the dependence of @xmath59 as a function of the parameter @xmath32 . </S>",
+    "<S> fig.2 suggests that the value of a charge @xmath56 induced by the electrons in a ti - bipolaron state is always greater than that of a charge @xmath60 induced by the electrons in a sbs - bipolaron state . </S>",
+    "<S> these values coincide only for @xmath61 - value , when the effective distance between the electrons in a ti - bipolaron ( correlation length ) is equal to infinity . </S>",
+    "<S> this result suggests that the adiabatic approximation in this limit holds for a ti - polaron too .    </S>",
+    "<S> in conclusion it may be said that the frequently introduced concept of interpolaronic interaction @xcite@xmath62@xcite@xmath1@xcite in the case of a ti - bipolaron is objectless , since even for large @xmath4 , a ti - bipolaron can not be presented as the one consisting of two individual polarons ( here an analogy with confinement of quarks is appropriate ) .    </S>",
+    "<S> this presentation , however , can be sensible , if for a certain value ( @xmath63 ) a decay of a ti - bipolaron into two individual ti - polarons is possible . for this case , the dependence of the polarons interaction on the distance was calculated in @xcite . </S>"
+  ]
+}

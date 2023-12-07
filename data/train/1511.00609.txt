@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the cosmological constant problem belongs to the main fundamental unsolved questions which already puzzle the modern physics .",
+    "does the enormous energy of the vacuum fluctuations foreseen by quantum mechanics contribute to gravity ?",
+    "if it does , the vacuum energy density suggested by the quantum field theory is enormously larger than the value constrained from general relativity , by considering the radius of our universe and its accelerated expansion . at present , although there is a long list of detailed and important theoretical works @xcite on this argument , there is no agreement on the real contribution of vacuum fluctuations to gravity on the theoretical side .",
+    "moreover no experiment has been performed to finally verify or discard this assumption so far .",
+    "taking into account the present status of the small forces measurement techniques and of the technologies of the high temperature superconductors , an experimental device to make such a measurement is on the designing path @xcite .",
+    "the idea is to weigh the vacuum energy stored in a rigid casimir cavity formed by parallel conductive plates .",
+    "the casimir effect is a macroscopic manifestation of vacuum fluctuations .",
+    "when a casimir cavity is formed only some modes can resonate inside it .",
+    "the ones which do not satisfy specific boundary conditions are expelled and the total vacuum energy changes .",
+    "if the vacuum energy does interact with gravity , a force directed upwards acts on the cavity and can be interpreted as the lack of weight of the modes expelled by it , in similarity with the archimedes buoyancy of fluid .",
+    "the force is equal to @xcite :    @xmath0    where @xmath1 is the vacuum energy stored in the cavity , @xmath2 is the gap between the plates and @xmath3 is their surface , @xmath4 is the speed of light and @xmath5 is the earth gravitational acceleration directed downwards .",
+    "the measurement strategy is to modulate the reflectivity of the plates in such a way as to periodically expel the vacuum energy from the casimir cavity and consequently modulate its weight . a possible way to modulate",
+    "the reflectivity is by performing a superconducting transition of the plates : when the plates become superconductive the reflectivity changes and so does the vacuum energy contained between the plates @xcite .",
+    "the variation of casimir energy could be particularly relevant in case of type ii high layered @xmath6 superconductors , like cuprates which behave as natural multi casimir - cavities .",
+    "the advantage is due to the fact that in normal state the planes ( that will become superconducting ) are very poorly conductive .",
+    "even though a complete study is still lacking , and it is one of the problems to be faced inside the archimedes project , order of magnitude expectations suggest that the amplitude @xmath7 of the modulated force is of @xmath8 .",
+    "the experiment aim is to measure forces of @xmath8 . recently @xcite it has been shown that both the gravitational wave detectors and balances could be suitable for detecting the archimedes force",
+    "however , other aspects must be taken into account .",
+    "the frequency bandwidth favored for detecting the effect at the periodical transition from normal to superconducting state obtained by a temperature change is in the region of 1 - 100 mhz , typical of the thermal processes .",
+    "as a consequence the use of balances is the more suitable choice for this application .",
+    "a balance capable of measuring forces of the order of @xmath9 requires an excellent isolation from the seismic noise at the very low frequency regime of 1 - 100 mhz . the use of a seismic - attenuation device based on the use of an inverted pendulum and a suitably tuned resonator hung to it ( see fig . fig .",
+    "[ fig : balance ] ) can fullfil this requirement .",
+    "the read - out system can be an optical lever or an interferometric sensor .",
+    "a challenging point is the design of the balance whose center of mass must be positioned on its bending point in order not to reinject the residual seismic noise in the system .",
+    "the major sources of noise in this scheme are represented by the thermal noise and the seismic noise . as reported in fig .",
+    "[ fig : noise ] , for an integration time of several months , this would permit to reach a good signal - to - noise ratio .",
+    "another challenging point is related to the modulation of the superconductor s temperature .",
+    "only the radiative mechanism must be used to remove or add thermal energy to the sample as it must be isolated from any external interaction that could add energy other than the vacuum one .",
+    "the main difficulties are related to heating samples with mass of hundreds of @xmath10 within thermal transition time scales of hundreds seconds . to reduce the transition times and increase",
+    "the frequency bandwidth the choice of the sample shape and of the heating system is crucial . with the help of a finite element analysis",
+    "we have obtained a temperature modulation of about 1 k on a 150 mm diameter 0.5 mm thick disk .",
+    "the shape is compatible with the present ybco technology and is usefull to have signal within the expected sensitivity .",
+    "we have presented the archimedes experiment aiming to verify the feasibility to measure the weigh of the vacuum .",
+    "three crucial points are focused with this project , the construction of a balance suitable to measure forces at the level of @xmath11 , a thermal modulation system using only a radiative heat exchange mechanism and the detailed study of high @xmath6 superconductive systems as the main source of vacuum energy ."
+  ],
+  "abstract_text": [
+    "<S> archimedes is an infn - funded pathfinder experiment aimed at verifying the feasibility of measuring the interaction of vacuum fluctuations with gravity . </S>",
+    "<S> the final experiment will measure the force exerted by the gravitational field on a casimir cavity whose vacuum energy is modulated with a superconductive transition , by using a balance as a small force detector . </S>",
+    "<S> archimedes is two - year project devoted to test the most critical experimental aspects , in particular the balance resonance frequency and quality factor , the thermal modulation efficiency and the superconductive sample realization .    experimental test of gravitational theories , quantum fluctuations    04.80.cc , 42.50.lc </S>"
+  ]
+}

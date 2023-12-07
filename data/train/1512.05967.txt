@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    ", a cluster can reach throughout its evolution correlates with the time - averaged acceleration , @xmath1 the cluster experiences on its orbit . _",
+    "right : _ the mass function slope of high - mass stars , @xmath2 , within the half - mass radius depends on the mass the cluster has lost independent of its orbit.,title=\"fig:\",width=211 ] , a cluster can reach throughout its evolution correlates with the time - averaged acceleration , @xmath1 the cluster experiences on its orbit .",
+    "_ right : _ the mass function slope of high - mass stars , @xmath2 , within the half - mass radius depends on the mass the cluster has lost independent of its orbit.,title=\"fig:\",width=240 ]    detailed photometric and spectroscopic investigations of outer - halo globular clusters ( gcs ) such as palomar4 and palomar14 have shown that these clusters are very extended , showing large half - light radii of @xmath3pc , but at the same time show clear signatures of mass segregation within their centers ( e.g. , @xcite ) .",
+    "this is intuitively unexpected , since their present - day two - body relaxation times are larger than a hubble time .",
+    "one way of solving this apparent discrepancy is if these gcs were born compact , and the observed mass segregation happened in the early evolution of the clusters .    for the purpose of this investigation , we carried out 16 @xmath0-body simulations of the same globular cluster model in a fixed milky way - like galaxy potential using the collisional code nbody6 @xcite .",
+    "the gcs consisted initially of 65536 stars , following a @xcite spectrum of stellar masses , and giving the clusters a mass of @xmath4 .",
+    "the gcs started off compact with an initial half - mass radius of 3pc .",
+    "the models were placed on different orbits with a range of apogalactic distances , @xmath5kpc , and orbital eccentricities , @xmath6 .",
+    "as has been observed in previous studies ( e.g. ,  @xcite ) , the mass of the clusters , @xmath7 , decreases faster with time for gcs orbiting in a stronger tidal field .",
+    "moreover , the initially compact clusters expand into their roche lobes due to stellar mass loss and segregation of dark remnants into the cluster core . as a consequence of that , gcs in weaker tidal fields",
+    "show larger half - mass radii , @xmath8 , throughout their evolution ( see , e.g. , @xcite ) .",
+    "this expansion process can be reversed when the gcs have lost a significant amount of their initial mass .",
+    "hence , strongly dissolving clusters shrink after reaching a maximum expansion , @xmath9 . in the left panel of fig .",
+    "[ fig1 ] , we show the time - averaged tidal acceleration , @xmath10 , and its variance of each gc plotted against the maximum half - mass radius . there is a clear correlation between the two quantities .",
+    "hence , the half - mass radii of outer - halo clusters reflect the tidal field they live in .",
+    "driver of the expansion are mainly dark remnants and high - mass stars segregating into the cluster core , and as such the degree of expansion depends on the initial composition of the cluster @xcite . as a consequence of this segregation ,",
+    "the mass - function slope , @xmath2 , of stars with @xmath11 within the half - mass radius decreases proportionally to mass loss ( see , e.g. , @xcite ) .",
+    "this flattening of mass function is independent of the orbit , as shown in the right panel of fig .",
+    "deviations from this linear trend are only seen for clusters that undergo quick dissolution , and for @xmath12 .",
+    "we conclude that the flattened mass functions observed in the inner parts of extended outer - halo globular clusters are characteristic signatures of their expansion histories ( cf . , @xcite ) ."
+  ],
+  "abstract_text": [
+    "<S> outer - halo globular clusters show large half - light radii and flat stellar mass functions , depleted in low - mass stars . using @xmath0-body simulations of globular clusters on eccentric orbits within a milky way - like potential , </S>",
+    "<S> we show how a cluster s half - mass radius and its mass function develop over time . </S>",
+    "<S> the slope of the central mass function flattens proportionally to the amount of mass a cluster has lost , and the half - mass radius grows to a size proportional to the average strength of the tidal field . </S>",
+    "<S> the main driver of these processes is mass segregation of dark remnants . </S>",
+    "<S> we conclude that the extended , depleted clusters observed in the milky way must have had small half - mass radii in the past , and that they expanded due to the weak tidal field they spend most of their lifetime in . </S>",
+    "<S> moreover , their mass functions must have been steeper in the past but flattened significantly as a cause of mass segregation and tidal mass loss . </S>"
+  ]
+}

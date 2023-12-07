@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "neural networks represent a multidisciplinary field , including e.g. neuroscience , mathematics , statistics , computer science , engineering , and physics .",
+    "we can generally look at the development of the artificial neural network ( ann ) field as few periods of extensive research , starting with the first idea of a neuron by w.  mcculloch and w.  pitts ( 1943 ) @xcite . in the @xmath0 , j.  hopfield introduced his recurrent neural network , while p.  werbos developed",
+    "the back - propagation algorithm - one of the most widely used to this day @xcite , @xcite .",
+    "the reader should note that all developed networks are based on deterministic approach .",
+    "anns try to mimic only the four fundamental elements of the biological neurons - input , processing , learning and output . in order to be able to generate an output",
+    ", they exploit the interconnection principle between biological neurons .",
+    "we can broadly classify them by the type of learning : supervised or unsupervised . through the learning ( or training process ) , the weights and biases of the network are adapted .",
+    "there are many strategies for learning , usually determined by the way the values are evolved .",
+    "the main important characteristics of the learning process are represented by two concurring passages , i.e. the capacity to use minimum computational resources , and to provide robustness of the system .",
+    "one further step remains the choice of the error function , or target function and the goal is to minimize the error by varying the weights of the ann .",
+    "nowadays in the standard approach , the changes in the weights are usually accomplished during the training process , with particularly nothing being implemented in the utilization of the network . among the possible options used in the learning process ,",
+    "the gradient descent method is one of the most common .",
+    "the back - propagation algorithm proposed in @xcite uses the error to propagate it through the network layer by layer until an outcome is produced .",
+    "the backpropagation looks for the minimum value of the error function in weight space through delta rule or gradient descent . on the other hand we have evolutionary algorithms , which are generally directed random searches .",
+    "they start from a set of random population , slowly converging to a solution @xcite .",
+    "another interesting alternative is represented by simulated annealing @xcite , which in some situation can perform faster than backpropagation or genetic algorithms . by analogy with the physics problem discussed in @xcite , the strategy",
+    "is based on the transition process of a solid substance from increased temperature to thermal equilibrium . in this context , the cooling of a substance becomes equivalent to minimize the cost function of an optimization problem .",
+    "in @xcite the simulated annealing method is achieved by substituting the cost for energy , and executing the algorithm by slowly decreasing the temperature values .    to the best of our knowledge ,",
+    "the above concepts are strongly based on analogies with classical ( or deterministic ) physics .",
+    "an interesting possibility is to exploit , in some sense , quantum mechanical effects in a ann .",
+    "this was suggested for the first time in @xcite where biological aspects of quantum phenomena in brain activity related to the activation point by a nerve impulse are described .    in this article ,",
+    "the action potential plays a fundamental role in information processing inside the brain .",
+    "the authors suggested that the firing of a neuron is obtained by the motion of a quantum particle , in the proximity of a potential ( or energetic ) barrier where typically effects such as tunnelling occurs .",
+    "alternatives to this explanation exist such as the one proposed in @xcite based on the concept of micro - tubules which are able to maintain a macroscopic coherent superposition .",
+    "in particular , the suggested explanation described in @xcite inspired us to develop a technique which mimics quantum effects in order to improve the set of weights of a ann in the _ post - learning _ stage .",
+    "in more details , our method aims to reinforce the reliability of a network even in the case of training failure , at a relatively low computational cost .",
+    "the paper is organized as follows . in the next section",
+    "we introduce the methodology behind the development of our proposed network .",
+    "then , in order to validate this novel approach , we perform a set of numerical experiments involved in the problem of approximating a known function . in spite of the simplicity of the proposed technique , we believe that it provides a further chance for the network to escape from local minima , local optima or saddle points @xcite at a reasonable computational burden .",
+    "nowadays , neural networks come in a great variety of ways - classification , data analysis , dimensionality reduction , etc , and thus there are many different implementations of neural networks . among them",
+    "we have , for example , the perceptron @xcite , the multilayer feedforward network @xcite , the probabilistic network @xcite .",
+    "interesting alternative based on fuzzy logic can be found in @xcite,@xcite . in this work ,",
+    "we focus on multilayer feedforward network , which consist of many neurons , each of them fully connected to every neuron in adjacent forward layers , although the technique is not limited to this particular implementation ."
+  ],
+  "abstract_text": [
+    "<S> today artificial neural networks are applied in various fields - engineering , data analysis , robotics . while they represent a successful tool for a variety of relevant applications , mathematically speaking they are still far from being conclusive . in particular , they suffer from being unable to find the best configuration possible during the training process ( local minimum problem ) . in this paper , we focus on this issue and suggest a simple , but effective , post - learning strategy to allow the search for improved set of weights at a relatively small extra computational cost . therefore , we introduce a novel technique based on analogy with quantum effects occurring in nature as a way to improve ( and sometimes overcome ) this problem . </S>",
+    "<S> several numerical experiments are presented to validate the approach .    </S>",
+    "<S> example.eps gsave newpath 20 20 moveto 20 220 lineto 220 220 lineto 220 20 lineto closepath 2 setlinewidth gsave .4 setgray fill grestore stroke grestore </S>"
+  ]
+}

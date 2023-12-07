@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "the semiprojective @xmath0-algebras ( cf .",
+    "@xcite , @xcite ) are of paramount importance in the study of classification and structure of @xmath0-algebras , but in spite of decades of interest many basic questions about this class remain open . in this paper",
+    ", we study semiprojectivity in the context of graph @xmath0-algebras and completely resolve the question of when a unital such algebra is semiprojective .",
+    "the theory of the class of graph @xmath0-algebras plays a prominent role in our understanding of semiprojectivity , and in fact , until a recent announcement by enders ( @xcite ) , the only known examples of nuclear and simple @xmath0-algebras were corners of graph algebras .",
+    "indeed , as detailed below , a complete understanding of semiprojectivity for unital graph @xmath0-algebras very easily leads to the resolution , in the negative , of two long - standing conjectures by blackadar concerning closure properties of the class of semiprojective @xmath0-algebras .",
+    "the fact that all simple and unital graph algebras are semiprojective was proved by szymaski by a refinement of methods in blackadar s proof that @xmath1 is semiprojective . refining the argument further",
+    ", spielberg extended this result to all simple graph algebras with finitely generated @xmath2-theory .",
+    "since all of these results draw on the fact that in purely infinite @xmath0-algebras all projections are properly infinite it is not surprising that our analysis of the general unital case draws heavily on the notion of properly infinite projections .",
+    "in fact , we will prove in theorem [ thm : finite ] and theorem [ thm : finiteii ]      a.   @xmath7 is semiprojective b.   @xmath7 is weakly semiprojective c.   @xmath7 is weakly semiprojective w.r.t . the class of unital graph @xmath0-algebras d.   for each @xmath8 , @xmath9 does not have ( fq ) e.   for each @xmath8 , @xmath10 is properly infinite",
+    ". f.   any corner @xmath11 with @xmath12 is semiprojective g.   for any gauge - invariant ideal @xmath13 , any corner @xmath14 with @xmath15 is semiprojective h.   no pair of gauge - invariant ideals @xmath16 has @xmath17 morita equivalent to @xmath18 or @xmath19",
+    "we will return to the property ( fq ) mentioned in ( iv ) below , and draw first the reader s attention to condition ( v ) which reduces the issue of semiprojectivity to the question of whether or not certain projections are properly infinite .",
+    "note also that property ( viii ) reduces the _ a priori _ global question of semiprojectivity to the local question of having a subquotient of a certain size to be of a special form . since in general semiprojectivity passes neither to ideals or quotients ,",
+    "this is a highly surprising result which we discovered only after substantial computer experimentation had convinced us that is was likely true .",
+    "the other statements compare semiprojectivity to weak semiprojectivity and semiprojectivity of corners , proving that all these notions coincide .    to prove theorem [ main ] , and to provide a concrete test for semiprojectivity which may be completely automated",
+    ", we must study the question of which projections in graph algebras are properly infinite . to answer this question",
+    "we must resolve the relation between various notions of infinity of projections as studied by rrdam , and it turns out that in this case many of the general complications shown by him to exist even in simple @xmath0-algebras do not occur .",
+    "in fact , we provide the following dichotomies      a.   either @xmath20 is infinite , or for any surjection @xmath21 , @xmath22 is stably finite b.   either @xmath20 is properly infinite , or for some surjection @xmath21 , @xmath22 is nonzero and stably finite    which hold true also in the non - unital case .",
+    "we prove these results in proposition [ dichoi ] and theorem [ thm : notpi : pre ] below , establishing first ( i ) by a concrete criterion for testing infinity of projections @xmath23 associated to finite sets of vertices @xmath24 , and extending our findings to general projections using the recent understanding of the non - stable @xmath2-theory of graph algebras in @xcite and @xcite . with this",
+    ", ( ii ) follows by appealing to the general description of proper infiniteness obtained by kirchberg and rrdam .",
+    "however , in order to perform the necessary analysis of semiprojectivity , a concrete criterion for which vertex projections @xmath23 are properly infinite is required , and drawing on ( ii ) above we provide the criterion that @xmath25 must not have the condition ( fq ) to the effect that none of the configurations illustrated in figure [ fqfig ] may be found . the details will be given below , but the general idea of the three kinds of configurations which are indicative of the failure of proper infiniteness is that one or several vertices @xmath26 or @xmath27 have the property that save a possible unique loop based on @xmath26 in the subscase ( tq ) , there is at least one , but at most a finite number of paths starting at @xmath26 and ending in @xmath25 .",
+    "in the subcase ( mq ) one further must require that the @xmath26 is a singular vertex of the graph , and in the subcase ( aq ) a whole sequence of such @xmath27 must be provided .       as seen in @xcite , any unital graph algebra with a single non - trivial ideal which is af is isomorphic to a graph algebra given by @xmath28&\\bullet\\ar[r]&\\cdots\\ar[r]&\\bullet\\ar@{=>}[r]&\\circ\\ar[r]&\\bullet\\ar[r]&\\cdots\\ar[r]&\\bullet}\\ ] ] with @xmath29 edges to the left of the infinite emitter and @xmath30 edges to the right of the infinite reciever .",
+    "there are many graph @xmath0-algebras with precisely two non - trivial ideals which are neither af nor semiprojective .",
+    "one example is given by the graph given by @xmath31 $ ] from example [ alltwobytwo ] .",
+    "m.  rrdam , _ on sums of finite projections _ , operator algebras and operator theory ( shanghai , 1997 ) , contemp .",
+    "228 , amer .",
+    "soc . , providence , ri , 1998 , pp .  327340 .",
+    "mr 1667668 ( 2000a:46098 )        a.p.w .",
+    "srensen , _ on a counterexample to a conjecture by blackadar _ , operator algebra and dynamics : nordforsk network closing conference ( t.m .",
+    "carlsen , s.  eilers , g.  restorff , and s.  silvestrov , eds . ) , springer proceedings in mathematics & statistics , vol .  58 , 2013 ."
+  ],
+  "abstract_text": [
+    "<S> we give a complete description of which unital graph @xmath0-algebras are semiprojective , and use it to disprove two conjectures by blackadar . to do so , </S>",
+    "<S> we perform a detailed analysis of which projections are properly infinite in such @xmath0-algebras . </S>"
+  ]
+}

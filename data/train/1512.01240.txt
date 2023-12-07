@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the early evolution of magnetic activity in very low mass pre - ms stars stars of mid - m - type , which lie near the h - burning limit of 0.08 @xmath3 is very poorly understood . yet understanding their pre - ms evolution is crucial for determining the emerging differences between very low - mass ms stars and brown dwarfs .",
+    "x - ray emission offers a means to indirectly probe the effects of internal and surface magnetic activity in both pre - ms and ms stars alike ( ( * ? ? ?",
+    "* vidotto et al . 2014 ) ) .",
+    "pre - ms and ms m - type stars are magnetically active and thus can be bright x - ray sources , as indicated by their high values of ( @xmath0/@xmath4 ) .",
+    "however , observations of nearby late m - type ms stars suggest that stars of @xmath2m7 and later appear to be under luminous in x - rays ( e.g. , @xmath0/@xmath1 @xmath2 @xmath5 ; ( * ? ? ?",
+    "* berger et al . 2010 ) ) .",
+    "the narrow range of spectral types where these m stars become x - ray under luminous is roughly the same spectral type where a transition to predominantly neutral atmospheres occurs ( ( * ? ? ?",
+    "* mohanty et al .",
+    "* berger ( 2006 ) ) concluded that the decrease in x - ray activity ( as well as h@xmath6 ) toward late m - types is related to changes in magnetic field configuration or the decreasing ionization fractions in the atmospheres of these stars .    by determining the age at which this dramatic decrease in x - ray activity occurs for m - type stars",
+    ", we can gain insight into the early pre - ms stellar evolution of such stars which lie at the low - mass - star / brown dwarf ( h - burning ) boundary . a recent survey combining galex , 2mass , wise and",
+    "catalog proper motions have revealed a population of nearby late - m - type stars in the 10 - 30 myr age range ( ( * ? ? ?",
+    "* rodriguez et al . 2013 ) ) where x - ray activity of such stars has remained , until now , essentially unexplored .",
+    "we performed xmm - newton epic x - ray observations of 8 nearby ( @xmath770 pc ) @xmath2m5 members of the tuc - hor and @xmath8 pic moving groups ( ages @xmath2 30 myr and 12 myr , respectively ; rodriguez et al .",
+    "2013 and ref . therein ) . stellar evolution models ( ( * ? ? ?",
+    "* dantona & mazzitelli 1997 ) ) suggest pre - ms stars of this age and spectral type will evolve to become ms @xmath2m7 ( i.e. , they may be progenitors of the under luminous ms m7 stars ) .",
+    "standard one and two temperature thermal plasma models were fit to the data to determine spectral parameters such as plasma temperature and @xmath0 .",
+    "bolometric luminosities for each of our sources was estimated using their j band flux and the intrinsic colors of 5 - 30 myr stars from ( * ? ? ?",
+    "* pecaut & mamajek ( 2013 ) ) .",
+    "the fractional x - ray luminosity for each source is shown in fig . 1 and compared to pre - ms stars of similar spectral type in younger ( e.g 1 - 3 myr ) star - forming regions .",
+    "we find no trend of decreasing fractional x - ray luminosity with age in these 10 - 30 myr @xmath2m5 stars ( fig .",
+    "1 ) . if ms stars of @xmath2m7 and later are under luminous in x - rays , these preliminary results suggest that either x - ray activity decreases at ages later than @xmath230 myr or that our sample of pre - ms stars is unusually magnetically active",
+    ". the latter scenario may be more likely due to the fact that the sample from which we chose our sources required a galex uv detection ( i.e. , only m stars that were uv bright ) .",
+    "uv emission is also an indicator of magnetic activity and thus our sample might be biased towards magnetically active ( i.e. , x - ray bright ) pre - ms stars .",
+    "more x - ray observations of both uv bright and uv faint mid - to - late m - type pre - ms stars are required to explore the age at which x - ray activity may diminish .",
+    "a more detailed analysis of these data will be presented in principe et al .",
+    "( 2015 ) , in prep .    1 - 3 myr old pre - ms stars in the orion nebula cluster ( asterisk ) , taurus ( cross ) , cha i ( triangle ) and preliminary results of @xmath210 - 30 myr old tuc - hor and @xmath8 pic moving group members ( diamonds ) .",
+    "figure originally from ( * ? ? ? * stelzer & micela ( 2007 ) ) and modified to include preliminary results . ,"
+  ],
+  "abstract_text": [
+    "<S> x - ray observations of pre - main sequence ( pre - ms ) stars of m - type probe coronal emission and offer a means to investigate magnetic activity at the stellar - substellar boundary . </S>",
+    "<S> recent observations of main sequence ( ms ) stars at this boundary display a decrease in fractional x - ray luminosity ( @xmath0/@xmath1 ) by almost two orders of magnitude for spectral types m7 and later . </S>",
+    "<S> we investigate magnetic activity and search for a decrease in x - ray emission in the pre - ms progenitors of these ms stars . </S>",
+    "<S> we present xmm - newton x - ray observations and preliminary results for @xmath210 nearby ( 30 - 70 pc ) , very low mass pre - ms stars in the relatively unexplored age range of 10 - 30 myr . </S>",
+    "<S> we compare the fractional x - ray luminosities of these 10 - 30 myr old stars to younger ( 1 - 3 myr ) pre - ms brown dwarfs and find no dependence on spectral type or age suggesting that x - ray activity declines at an age later than @xmath230 myr in these very low - mass stars . </S>"
+  ]
+}

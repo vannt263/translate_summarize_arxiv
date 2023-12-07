@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "radiomics is a promising and powerful prognostic method for the detection of cancerous tissue . referring to the high - throughput extraction and analysis of large amounts of quantitative imaging - based features from standardized medical imaging data , radiomics allows for quantitative tumour phenotype characterizations and cancer detection and prognosis via a high - dimensional mineable feature space @xcite .",
+    "radiomics has previously been applied to lung , breast , prostate , and head - and - neck cancer patient cases @xcite @xcite @xcite @xcite , and demonstrated the prognostic power of radiomics and the potential of radiomic features for personalized medicine , risk stratification , and predicting patient outcomes .",
+    "however , these radiomic - driven methods rely on pre - defined , hand - crafted quantitative features based on intensity , texture , and shape , and as may not be able to fully characterize the unique traits of specific forms of cancer . as such , a way to uncover quantitative radiomic features tailored for characterizing unique cancer phenotype from standardized imaging data is highly desired . in this study , we introduce a novel _ discovery radiomics _ framework where we bypass conventional predefined , hand - crafted radiomic feature models and directly discover custom radiomic feature models via the abundance of readily available medical imaging data .",
+    "discovery radiomics has the potential to find new abstract features that capture unique characteristics of cancer phenotypes beyond what predefined feature models can extract , allowing for improved personalized medicine .",
+    "the proposed discovery radiomics framework can be described as follows ( see figure  [ fig_algframe ] ) . given past radiology data and corresponding pathology - verified radiologist tissue annotations from a medical imaging data archive , the radiomic sequencer discovery process learns a radiomics sequencer that can extract highly customized radiomic features that are tailored for characterizing unique tissue phenotype that differentiate cancerous tissue from healthy tissue .",
+    "the discovered radiomic sequencer can be applied to a new patient data to extract the corresponding radiomic sequence for cancer screening and diagnosis purposes .",
+    "the radiomic sequencer being discovered in this study is built upon a deep convolutional stochasticnet  @xcite architecture , where a deep convolutional neural network ( cnn ) is represented as a random graph and the neural connections within this network are formed stochastically based on a probabilistic neural connectivity model , thus leveraging random graph theory  @xcite to construct more efficient deep neural network architectures that retain modeling capabilities of traditional , densely - connected network architectures .",
+    "the radiomic sequencer discovered in this study consists of three stochastically - formed convolutional layers , each containing 32 , 32 , and 64 receptive fields ( size @xmath0 ) , respectively .",
+    "each receptive field is part of a realization of a random graph with a uniform neural connectivity probability of 0.5 ; that is , the expected number of parameters in each receptive field of the proposed sequencer is only half that of a receptive field in a sequencer built using a conventional deep cnn .",
+    "less number of parameters and , therefore , more efficient training and faster testing running time are the most important advantages of the proposed framework compared to the conventional cnn approaches .",
+    "[ fig_algframe ]",
+    "in this study , we used a subset of the lidc - idri  @xcite dataset .",
+    "the ct images were acquired via a broad range of ct scanner models from different manufacturers using the following tube peak potential energies for acquiring the scans : 120@xmath1 ( @xmath2 ) , 130@xmath1 ( @xmath3 ) , 135@xmath1 ( @xmath4 ) , and 140@xmath1 ( @xmath5 ) .",
+    "a subset of 93 patient cases which have definitive diagnostic results was selected and , using data augmentation , an enriched dataset of 42,340 lung lesions was obtained via the rotation of each malignant and benign lesion by 45@xmath6 and 10@xmath6 increments , respectively .",
+    "the proposed framework was evaluated using the enriched dataset and quantitatively compared to two state - of - art methods  @xcite  @xcite .",
+    "note that while a multi - scale convolutional neural networks ( mcnn ) architecture  @xcite was recently proposed and achieved an accuracy as high as @xmath7 via parameter tuning , this method was trained and tested on radiologist interpretations only and not definite diagnostic results , making the ground truth subject to high inter - observer variability .",
+    "as seen in table  [ tab_improvement ] the stochasticnet radiomic sequencer ( snrs ) achieves high sensitivity while maintains the good specificity .",
+    "the reported overall accuracy for snrs noticeably outperforms the tested state - of - the - art methods .",
+    "these preliminary results illustrate the potential of the proposed discovery radiomics framework for improving cancer screening and diagnosis .",
+    ".comparison of performance metrics for belief decision trees ( bdt)@xcite , a deep autoencoding radiomic sequencer ( dars )  @xcite , and the discovered stochasticnet radiomic sequencer ( snrs ) .",
+    "[ cols=\"^,^,^,^\",options=\"header \" , ]        this research has been supported by the ontario institute of cancer research ( oicr ) , canada research chairs programs , natural sciences and engineering research council of canada ( nserc ) , and the ministry of research and innovation of ontario .",
+    "the authors also thank nvidia for the gpu hardware used in this study through the nvidia hardware grant program ."
+  ],
+  "abstract_text": [
+    "<S> radiomics has proven to be a powerful prognostic tool for cancer detection , and has previously been applied in lung , breast , prostate , and head - and - neck cancer studies with great success . </S>",
+    "<S> however , these radiomics - driven methods rely on pre - defined , hand - crafted radiomic feature sets that can limit their ability to characterize unique cancer traits . in this study </S>",
+    "<S> , we introduce a novel _ discovery radiomics _ </S>",
+    "<S> framework where we directly discover custom radiomic features from the wealth of available medical imaging data . </S>",
+    "<S> in particular , we leverage novel stochasticnet radiomic sequencers for extracting custom radiomic features tailored for characterizing unique cancer tissue phenotype . using stochasticnet </S>",
+    "<S> radiomic sequencers discovered using a wealth of lung ct data , we perform binary classification on 42,340 lung lesions obtained from the ct scans of 93 patients in the lidc - idri dataset . </S>",
+    "<S> preliminary results show significant improvement over previous state - of - the - art methods , indicating the potential of the proposed discovery radiomics framework for improving cancer screening and diagnosis . </S>"
+  ]
+}
