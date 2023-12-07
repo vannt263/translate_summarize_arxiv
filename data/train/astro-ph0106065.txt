@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "observations of the most famous starburst galaxy m82 with the high - resolution camera on board the _ chandra x - ray observatory _ , show that there are nine sources in the central @xmath1 region , but no source was detected at the galactic center@xcite . comparing the observations on 1999 october 28 and on 2000 january 20",
+    ", the authors found an extremely large time variability of the source cxom82 j095550.2 + 694047 , which is @xmath2 away from the galactic center .",
+    "they concluded that this source is the origin of the hard x - ray time variability of m82 detected with asca . assuming a spectral shape obtained by the asca observation , its luminosity in the 0.5 - 10 kev band changed from @xmath3 erg s@xmath4 on 1999 october 28 to @xmath5 erg s@xmath4 on 2000 january 20 .",
+    "it is difficult to explain such a short - term variability in terms of a supernova remnant .",
+    "if the spectral shape of the source is described by an absorbed thermal bremstrahlung model , the observations show that the probability of such a bright source existing in the @xmath1 field is @xmath6 .",
+    "consequently , this source is probably not a background agn .",
+    "cxom82 j095550.2 + 694047 may be a medium - massive black hole @xcite , and the possibilities that an x - ray binary source whose jet is strongly beamed towards us can not be excluded . in this letter",
+    ", we explore an alternative possibility that the time variability of the source is originated from the microlening effect by macho along the line of sight .",
+    "the source cxom82 j095550.2 + 694047 is @xmath2 away from the center of m82 ( its distance from us is 3.9 mpc ) .",
+    "it may be located in a star cluster with typical size of 2.34 - 10 pc @xciteand typical velocity dispersion of member stars of 15 km / s .",
+    "if a foreground star is traversing across the line of sight , the apparent magnitude of the source would be magnified according to microlensing theory .",
+    "the duration of the crossing time is @xmath7 , in which @xmath8 is the einstein radius defined as @xmath9 where @xmath10 , @xmath11 and @xmath12 are the angular diameter distances to the lens , to the source and from the lens to the source , respectively , @xmath13 is the relative velocity perpendicular to the line of sight between the source and the lens .",
+    "the mass of microlens is related to the crossing time as @xcite @xmath14 where we have chosen the total maximum magnification to be @xmath15 , since the luminosity of the source in the 0.5 - 10 kev band changed from @xmath3 erg s@xmath4 on 1999 october 28 to @xmath5 erg s@xmath4 on 2000 january 20 .",
+    "a microlens of mass of @xmath16 could lie at any point between the source and the observer , and different positions would lead to different crossing time . for the source cxom82 j095550.2 + 694047 , the observed time duration must exceed 84 days .",
+    "for simplicity , we can take @xmath17 days for an approximate estimate .",
+    "the microlens mass versus its distance is plotted in fig.1 for three kinds of lensing models : the microlens is located in our galaxy with a typical velocity of 200km / s , in m82 with a typical velocity of 100km / s and in the star cluster of the source with a velocity of 15km / s .    at three different positions of a microlens in the galaxy , the m82 and the star cluster of the source",
+    ", the same microlens mass would lead to different crossing time durations , as is shown in fig.2 .",
+    "we set @xmath18mpc in all the panels . because of the symmetry between @xmath10 and @xmath12 in equation ( [ m2 t ] ) , the first and second panels both in fig.1 and fig.2 look very similar .",
+    "it can be seen clearly from fig.1 and fig.2 that the microlens object , if any , should be located in m82 or the galactic halo .",
+    "however , we can exclude the possibility of the self - lensing by a star in the star cluster where cxom82 j095550.2 + 694047 may be harbored if the typical size of a star cluster is smaller than @xmath19 pc .",
+    "the probability that a source is gravitationally lensed is described by the optical depth which amounts to @xmath20 .",
+    "indeed , the event like the hard x - ray variable source cxom82 j095550.2 + 694047 seen in m82 is very rare if it is due to microlensing .",
+    "a conclusive resolution needs a detailed sample of the light curve of cxom82 j095550.2 + 694047 . whether or not the light curve demonstrates the time - symmetry around the maximum intensity will be a crucial test for the lensing hypothesis .",
+    "i m grateful to prof .",
+    "xiang - ping wu for reading through the manucript and giving constructive suggestions .",
+    "this work was supported by the national science foundation of china , under grant 19725311 and 19873014 ."
+  ],
+  "abstract_text": [
+    "<S> we explore the possibility of attributing the recent discovery of the hard x - ray variable source cxom82 j095550.2 + 694047 in m82 to the gravitational magnification by an intervening stellar obeject along the line of sight as microlens . </S>",
+    "<S> the duration of the event ( @xmath0 days ) allows us to set robust constraints on the mass and location of the mircolensing object when combined with the dynamical properties of the galactic halo , the m82 and typical globular clusters . except for the extremely low probablity , </S>",
+    "<S> the microlensing magnification by macho in either the galactic halo or the m82 halo is able to explain the x - ray variability of cxom82 j095550.2 + 694047 . </S>",
+    "<S> it is hoped that the lensing hypothesis can be soon tested by the light curve measurement . </S>"
+  ]
+}

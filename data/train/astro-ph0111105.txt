@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "in order to sample cores in early stages of evolution , plume et al .",
+    "( 1992 , 1997 ) began a cs survey of h@xmath1o masers associated with star formation regions .",
+    "masers indicate high - density regions ( n @xmath2 10@xmath3 @xmath4 ) and are believed to be in an earlier stage of evolution than ultracompact hii regions . because the cs j=7@xmath06 line has a high critical density ( n@xmath5x@xmath6 @xmath4 ) , we can probe the denser parts of the star forming cores .",
+    "shirley et al .",
+    "( 2001 ) have mapped the cs j=5@xmath04 transition ( n@xmath7x@xmath8 @xmath4 ) which probes slightly less dense gas than the cs j=7@xmath06 line . from the cs spectra , we determine core sizes , virial masses , cs intensities , and radial profiles . using monte carlo simulations for cs emission with the temperatures for given density profiles from the 1-d dust continuum models ( mueller et al .",
+    "2001 ) , we can compare the spatial extent of the gas and the dust in the star forming regions .",
+    "the size of each core was calculated by deconvolving the beam size from the size of the half power contour integrated intensity .",
+    "sizes were determined ; however , 7 of those sources were not included in the statistics because their deconvolved sizes were less than half of the beam size .",
+    "about 50@xmath9 of the cores had deconvolved sizes greater or comparable to the cso beam which is consistent with a power - law density distribution ( mueller et al .",
+    "the virial mass contained within the calculated size was also determined .",
+    "the cs j=7@xmath06 survey is biased against the highest mass cores observed in cs j=5@xmath04 due to observational exigencies ( i.e. they have not been mapped ) .",
+    "the average size of the cores was 0.27 @xmath100.14 pc . in order to compare the virial masses of the cs5 - 4 and cs7 - 6 studies",
+    ", we used the cs5 - 4 core sizes as our standard ( shirley et al .",
+    "the average ratio of the cs7 - 6 to cs5 - 4 virial masses is 0.72 .",
+    "this result shows that the emission of cs7 - 6 is more compact than the cs5 - 4 emission .",
+    "the contour map of m8e is roughly symmetrical thus making this source a good candidate for 1-d modeling .",
+    "the density and temperature profiles were determined from dust models ( mueller et al .",
+    "the best fit power law to the dust data was p=1.75 . comparing the density and temperature profiles to the intensity profile for the cs data",
+    ", we find that the gas seems to prefer a value of p between 1.5 and 1.75 ( see figure 1 ) .",
+    "this slight disagreement between the dust and the gas can be due to the assumptions in both the dust and gas modeling .",
+    "for example , we assume a constant molecular abundance but in reality the abundance may vary with radius .",
+    "mueller , k. e. , shirley , y. l. , & evans , n. j. ii , 2001 , these proceedings plume r. , jaffe , d. t. , evans , n. j. 1992 , apj supp , 78 , 505 plume r. , jaffe , d. t. , evans , n. j. , martn - pintado , j. , & gmez - gonzlez , j. 1997 , apj , 476 , 730 shirley , y.l . , evans , n. j. ii , mueller , k. e. , knez , c. & jaffe , d. t. , 2001 , these proceedings"
+  ],
+  "abstract_text": [
+    "<S> 24 cores have been mapped in cs j=7@xmath06 at the cso . from the spectra </S>",
+    "<S> we determine core sizes and virial masses . combining results from the cs and dust continuum studies for m8e </S>",
+    "<S> , we use monte carlo simulations for the cs emission to get radial profiles . </S>"
+  ]
+}

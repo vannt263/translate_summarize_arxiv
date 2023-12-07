@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the current scenario for structure formation in the universe is based on the inflationary cold dark matter ( cdm ) theory .",
+    "high - resolution n - body simulations predict , for the virialized haloes , density profiles with central cusps with @xmath1 when r @xmath2 0 ( moore et al . 1999 ) , even more cuspy than previous simulation results ( navarro , frenk , and white 1997 , hereafter nfw ) .",
+    "these profiles are in conflict with the observations : rotation curves of late - type dwarf and lsb galaxies ( dm dominated galaxies ) seem to rule out singular halo profiles and are in good agreement with density profiles characterized by soft cores , central regions with constant density ( de blok & mcgaugh 1997 ) . on the other hand , van den bosch & swaters ( 2001 )",
+    "claim that these hi rotation curves are affected by beam smearing , concluding that the observed rotation curves are consistent with nfw model . a good spatial resolution ( easily achievable with h@xmath0 observations )",
+    "is necessary to explore the galaxy inner regions and rule out beam smearing .",
+    "we show some preliminary results of our h@xmath0 observations for some dwarf and lsb galaxies .",
+    "this work assumes @xmath3=75 km s@xmath4 mpc@xmath4 .",
+    "observations of late - type dwarf and lsb galaxies were carried out at the 3.6  m telescopio nazionale galileo ( tng ) both in photometric and spectroscopic mode using the instrument dolores ( scale = 0.275 pxl@xmath4 , dispersion = 0.8 pxl@xmath4 , @xmath5  ) . in table 1",
+    "we list the properties of some of the observed galaxies .    -0.3truecm",
+    "-0.4truecm    -0.7truecm    our h@xmath0 data ( stars in the figures ) are plotted together with hi data ( from literature , empty squares ) .",
+    "as one can see , the hi data suffer of very little beam smearing .",
+    "the solid lines are the best fits obtained by using the burkert profile ; the dashed lines are nfw profiles and the dotted - dashed lines are moore profiles ( cdm model ) .",
+    "the numbers in parenthesis represent the normalized @xmath6 for each fit . for each galaxy",
+    "is stated the spatial resolution for both the h@xmath0 and the hi data .",
+    "for all the four galaxies , the burkert profile is the best fit , while the moore profile does not match data .",
+    "new observations with high resolution new technology grating ( vphg , conconi et al .",
+    "2001 ) are being planned .",
+    "our preliminary analysis of h@xmath0 observations seems to rule out the cdm model in the inner regions of lsb and dwarf galaxies , showing evidence of soft cores .",
+    "-0.3truecm de blok , w.j.g . ,",
+    "mcgaugh , s.s .",
+    "1997 , , 290 , 533 + moore , b . , guinn , t .",
+    ", governato , f . ,",
+    "stadel , j . , lake , g .",
+    "1999 , , 310 , 1147 + navarro , j.f . ,",
+    "frenk , c.s . ,",
+    "white , s.d.m 1997 , , 490 , 493 + van den bosch , f.c . , swaters , r.a .",
+    "2001 , , 325 , 1017 + conconi , p. et al .",
+    "2001 ( spie meeting , san diego , u.s.a . ) +"
+  ],
+  "abstract_text": [
+    "<S> we present high spatial resolution h@xmath0 rotation curves of late - type dwarf and lsb galaxies . from our analysis </S>",
+    "<S> we find good agreement between our h@xmath0 data and the hi observations taken from the literature , concluding that the hi rotation curves for these galaxies suffer very little from beam smearing . </S>",
+    "<S> a preliminary analysis of our data rules out the cdm model in the inner regions of these galaxies .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

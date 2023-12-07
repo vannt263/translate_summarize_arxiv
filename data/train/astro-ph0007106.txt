@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "the constellation x  ray mission is a high throughput x - ray facility emphasizing observations at high spectral resolution ( e/@xmath0=3003000 ) while covering a broad energy bandpass ( 0.2540 kev ) .",
+    "constellation - x will provide a factor of nearly 100 increase in sensitivity over current high resolution x - ray spectroscopy missions .",
+    "the large collecting area is achieved with a design utilizing several mirror modules , each with its own detector system .",
+    "each ( or a few ) science unit will fly on a separate spacecraft .",
+    "two telescopes will be on  board : the low  energy spectroscopy x - ray telescope ( sxt ) , operating simultaneously with a 2 ev resolution calorimeter and a set of reflection gratings ; a high  energy system ( hxt ) , that will be the first focusing telescope system operating at several tens of kev , where the energy density of the xrb peaks ( figure 1 ) .",
+    "the baseline mission characteristics are :    * effective area : 15000 ( 6000 , 1500 ) @xmath1 at 1 ( 6.4 , 40 ) kev * angular resolution : 15  hpd from 0.25 to 10 kev ; 1 hpd at 40 kev * band pass : 0.25 to 40 kev    more information can be found at :  http://constellation.gsfc.nasa.gov/",
+    "to evaluate the fraction of hard xrb resolved by the hxt onboard constellation - x , we first developed a synthesis model based on the standard assumption that the xrb is mostly made by a combination of type 1 and 2 agn ( setti & woltjer 1989 ; comastri et al .",
+    ", 1995 , and references therein ) .",
+    "details on the model can be found in pompilio , la franca & matt ( 1999 and this volume ) .",
+    "here we summarize the main features of the model .    1 .",
+    "agn spectra 1 .",
+    "type 1 ( agn1 ) spectrum : * power law ( @xmath2 ) + exponential cut - off ( @xmath3 kev ) ; * compton reflection component ( accretion disk , @xmath4 ) ; 2 .",
+    "type 2 ( agn2 ) spectrum ( matt , pompilio & la franca , 1999 ) : * primary agn1 spectrum obscured by cold matter : + @xmath5 , @xmath6 ; * compton scattering within the absorbing matter fully included .",
+    "cosmological evolution 1 .",
+    "ple ( @xmath7 ) ; 2 .   power law evolution for the break - luminosity : + @xmath8 up to @xmath9 , with + @xmath10 and @xmath11 ( model h of boyle et al . , 1994 ) ; 3 .",
+    "the redshift integration is performed up to @xmath12 .",
+    "we are now able to predict the fraction of the cosmic xrb which can be resolved by constellation  x in the 1040 kev energy range .",
+    "our estimate is based on the baseline spatial resolution , i.e. 1 hpd , which is a rather conservative value .",
+    "any improvement in this resolution will of course increase the fraction of xrb resolved .",
+    "1 .   number densities of type 1 and type 2 agn detected in the 10 - 40 kev band down to a flux limit of @xmath13 ( reachable with an exposure time of the order of a few thousand seconds , harrison et al .",
+    "1999 ) : * agn1 @xmath14 ; * agn2 @xmath15 ; + @xmath16 @xmath17 70% are absorbed sources .",
+    "( note that these numbers implied a density of about a source per 20 beams , which should ensure a tolerable level of confusion .",
+    "if the final spatial resolution will be better than 1 , as it appears likely , confusion problems will be of course less severe ) .",
+    "integrated xrb spectrum in the 10 - 40 kev band : * measured value @xmath18 ( heao-1 a2 data , marshall et al . 1980 ) ; * fraction of xrb down to a flux of @xmath19 + @xmath20 ; + @xmath16 * @xmath17 40% of the 1040 kev xrb will be resolved by constellation - x . *"
+  ],
+  "abstract_text": [
+    "<S> the energy density of the cosmic x  ray background ( xrb ) peaks around 30 kev ( see figure 1 ) , an energy not yet probed by focussing imaging instruments . </S>",
+    "<S> the first hard x  ray telescope due to fly on a space mission will be that on board constellation  x . </S>",
+    "<S> the imaging capability , besides providing an improvement of several orders of magnitude in sensitivity over current passively collimated detectors , will permit for the first time to resolve a fraction of the xrb at this most crucial energy . </S>",
+    "<S> synthesis models of the xrb based on obscured agn predict that at least 40% of the 1040 kev xrb will be resolved by constellation  x . </S>"
+  ]
+}

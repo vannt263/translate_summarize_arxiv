@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "observations from radio to x - rays show evidence for a tidally - induced starburst in the center of m82 ( e.g. , telesco 1988 ) in fact , there is now evidence that m82 has undergone multiple episodes of intense star formation ( cf .",
+    "marcum & oconnell 1996 , de grijs , oconnell & gallagher 2001 ) .",
+    "`` m82 b , '' the fossil starburst region , has exactly the properties of an _ evolved _ starburst with a similar amplitude to the active burst ( marcum & oconnell 1996 ) .",
+    "thus , m82 is a unique starburst galaxy , since no other galaxy offers the opportunity to study two discrete starbursts at such close range ! by analogy with the _ hst _ results from the active starburst region ( oconnell et al .",
+    "1994 , 1995 ) , we expected m82 b to have contained a complement of luminous super star clusters .",
+    "it is possible that most of the star formation in starbursts takes place in the form of such concentrated clusters ; in m82 , we do not observe any outside the starburst regions .",
+    "the combination of observations of both the active and the fossil starburst sites in m82 provides a unique physical environment for the study of the stellar and dynamical evolution of star cluster systems",
+    "based on _ hst / wfpc2 _ observations of two adjacent fields in m82 b ( in f439w , f555w and f814w ) , we detected @xmath2 ( slightly ) evolved star clusters .",
+    "the clusters brighter than @xmath3 exhibit a wide range of ages , from @xmath4 myr to over 10 gyr .",
+    "there is a strong peak of cluster formation at @xmath1 myr , in either representation in fig .",
+    "1 ; very few clusters are younger than 300 myr .",
+    "our results suggest steady , continuing cluster formation at a very modest rate at early times ( @xmath0 gyr ago ) , followed by a concentrated formation episode lasting from 4001000 myr ago and a subsequent suppression of cluster formation .",
+    "thus , it appears that the last tidal encounter between m82 and m81 @xmath5 500800 myr ago had a major impact on what was probably an otherwise normal , quiescent , disk galaxy .",
+    "it caused a concentrated burst of star formation activity , which decreased rapidly within a few hundred myr ."
+  ],
+  "abstract_text": [
+    "<S> using new _ hst _ imaging , we identify a large , evolved system of super star clusters in a disk region just outside the starburst core in the prototypical starburst galaxy m82 , `` m82 b. '' this region has been suspected to be a fossil starburst site in which an intense episode of star formation occurred over 100 myr ago , which is now confirmed by our derived age distribution . </S>",
+    "<S> it suggests steady , continuing cluster formation at a modest rate at early times ( @xmath0 gyr ago ) , followed by a concentrated formation episode @xmath1 myr ago and more recent suppression of cluster formation . </S>",
+    "<S> the peak episode coincides with independent dynamical estimates for the last tidal encounter with m81 .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

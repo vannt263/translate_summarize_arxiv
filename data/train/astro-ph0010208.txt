@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "with _ iso _ discoveries of a wealth of infrared ( ir ) emission features from evolved stars ( e.g. , waters et al .  1996 ; waters et al .",
+    "1998 ) and laboratory measurements of ir spectra for candidate dust species ( speck 1998 for a compilation of references ) , we are now able to identify individual circumstellar dust components .    using such detailed information to interpret high - resolution ground - based mid - ir images we can spatially separate dust emission due to different species by means of spectral imaging",
+    ". this can be done by ( 1 ) identify an emission feature and nearby continuum bands , ( 2 ) construct a color temperature map from the continuum images , ( 3 ) synthesize a continuum image at the feature wavelength from the temperature map taking into account diffraction effects , and ( 4 ) subtract the synthesized continuum - only map from the observed feature band image .",
+    "1 shows mid - ir images and spectra of an oxygen - rich proto - planetary nebula candidate ,  ( , ) .",
+    "the images indicate the presence of a dust torus surrounding the central star , and the spectra reveal both amorphous and crystalline silicate features ( waters et al .",
+    "we can isolate dust emission at 10.3 and @xmath0 m by subtracting continuum emission maps synthesized using 8.8 , 12.5 , and @xmath1 m band images as reference continuum .",
+    "( ) is a carbon - rich planetary nebula , in which crystalline silicates have been detected ( waters et al .",
+    "mid - ir images ( fig .",
+    "2 ) show a box - like elongation which is also seen in optical emission line images ( e.g. , harrington et al .",
+    "1997 ) .         while polyaromatic hydrocarbon ( pah",
+    "; e.g. , allamandola et al .",
+    "1999 ) emission at 8.6 and @xmath2 m can be isolated by using 10 and @xmath1 m continuum band images ( fig .",
+    "4 ) , we were unable to isolate crystalline silicate at @xmath3 m because of the weak feature and apparent lack of clean continuum around @xmath0 m .",
+    "3 shows that the 10.3 and 18.0@xmath4 m bands have different spatial distributions , indicating that these emissions are due to different carrier species .",
+    "we thus need to find a dust species with an emission feature at 18@xmath4 m but not at 10.3@xmath4 m ( i.e. , not silicates ) .",
+    "magnesium iron oxides are such species as shown in the spectrum ( henning et al .",
+    "+    pah emissions at 8.6 and 11.2@xmath4 m show drastically different spatial distributions in fig .",
+    "4 , implying that these pah bands may have been originated differently ( e.g. , beintema et al .",
+    "1996 , molster et al .",
+    "+          observation of the differences listed above suggests that the difference between the two bands may arise from the availability of hydrogen , either in the form of an atom or an out - of - plane c - h stretch .",
+    "the former implies the difference in the ionization state of pahs ( i.e. , the 8.6@xmath4 m emission is from the ionized shell and the 11.2@xmath4 m emission is from the photo dissociation region ) , while the latter suggests different structure of pahs ( i.e. , the 8.6@xmath4 m emission is from pah clusters and the @xmath7 m emission is from chain- or sheet - like pahs ) .",
+    "careful selection / tailoring of filters will make spectral imaging more effective .",
+    "determining the spatial distribution of specific dust species will allow the development of models for the evolution of dust around evolved stars .",
+    "understanding dust evolution benefits other aspects of the physics involved such as grain nucleation and growth , the chemical evolution of the stellar atmospheres , and the nucleosynthesis of stars ."
+  ],
+  "abstract_text": [
+    "<S> we investigate spatial distributions of specific dust components in the circumstellar shells of a proto - planetary nebula candidate , , and a planetary nebula , , by means of spectral imaging . with high - resolution ground - based images and _ iso _ spectra in the mid - infrared , </S>",
+    "<S> we can derive `` dust feature only '' maps by subtracting synthesized continuum maps from the observed images at the feature wavelength . </S>",
+    "<S> such spatially detailed information will help to develop models for the evolution of dust grains around evolved stars . </S>"
+  ]
+}

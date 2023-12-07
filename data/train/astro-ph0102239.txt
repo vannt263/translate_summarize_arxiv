@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "many of the problems of interest in relativistic astrophysics involve fluid instabilities .",
+    "the shock of a core - collapse supernova propagating through the outer layers of the collapsing star , for example , is subject to rayleigh - taylor instabilities occurring at the boundaries of the layers .",
+    "a fluid interface is said to be rayleigh - taylor unstable if either the system is accelerated in a direction perpendicular to the interface such that the acceleration opposes the density gradient or if the pressure gradient opposes the density gradient @xcite .",
+    "growth of these instabilities can lead to mixing of the layers .",
+    "the early observation of @xmath0co , an element formed in the core , in sn 1987a strongly suggested that mixing did indeed play a fundamental role in the dynamics . following this observation , supernova modelers embraced multi - dimensional models with the goal of understanding the role of fluid instabilities in the core collapse supernova process @xcite . despite years of modeling these events ,",
+    "many fundamental questions remain concerning fluid instabilities and mixing . in this manuscript",
+    ", we present early results of our research into resolving fluid instabilities with flash , our simulation code for astrophysical reactive flows .",
+    "the flash code @xcite is an adaptive mesh , parallel simulation code for studying multi - dimensional compressible reactive flows in astrophysical environments .",
+    "it uses a customized version of the paramesh library @xcite to manage a block - structured adaptive grid , placing resolution elements only where needed in order to track flow features .",
+    "flash solves the compressible euler equations by an explicit , directionally split version of the piecewise - parabolic method @xcite and allows for general equations of state using the method of colella & glaz @xcite .",
+    "flash solves a separate advection equation for the partial density of each chemical or nuclear species as required for reactive flows .",
+    "the code does not explicitly track interfaces between fluids , so a small amount of numerical mixing can be expected during the course of a calculation .",
+    "flash is implemented in fortran 90 and uses the message - passing interface library to achieve portability .",
+    "further details concerning the algorithms used in the code , the structure of the code , verification tests , and performance may be found in fryxell _",
+    "et al._@xcite and calder _ et al._@xcite .",
+    "from our single - mode rayleigh - taylor studies , we find significantly faster instability growth rates in three - dimensional simulations than in two - dimensional simulations .",
+    "in addition , we find that obtaining a converged growth rate requires at least 25 grid points per wavelength of the perturbation , that grid noise seeds small scale structure , and that the amount of small scale structure increases with resolution due to the lack of a physical dissipation mechanism ( such as a viscosity ) .",
+    "another result is that poorly - resolved simulations exhibit a significant unphysical diffusive mixing .",
+    "figure 1 shows the growth of bubble and spike amplitudes for two well - resolved simulations beginning from equivalent initial conditions .",
+    "the three - dimensional result ( left panel ) shows faster growth than the two - dimensional result ( right panel ) .",
+    "results of our single - mode studies will appear in calder _",
+    "et al._@xcite .",
+    "our single - mode studies serve as a prelude to multi - mode studies , which are works in progress ; our single - mode results strongly suggest that using sufficient resolution is essential in order to obtain physically - sensible results for these calculations . in the multi - mode case ,",
+    "bubble and spike mergers are thought to lead to an instability growth according to a @xmath1 scaling law , which for the case of a dense fluid over a lighter fluid in a gravitational field may be written as @xcite @xmath2 where @xmath3 is the height of a bubble or spike , @xmath4 is the acceleration due to gravity , @xmath5 is the atwood number where @xmath6 is the density of the lighter ( heavier ) fluid , and @xmath7 is the time .",
+    "@xmath8 is a proportionality ` constant ' that may be thought of as a measure of the efficiency of potential energy release .",
+    "experiments and simulations indicate that @xmath8 lies in the range of 0.03 to 0.06 , and it is thought to depend on atwood number , evolution time , initial conditions , and dimensionality .",
+    "see young _ et al .",
+    "_ @xcite and references therein for a discussion of experimental results .",
+    "results of our multi - mode studies will appear in publications of the alpha group , a consortium formed by guy dimonte in 1998 to determine if the @xmath1 scaling law holds for the growth of the rayleigh - taylor instability mixing layer , and if so , to determine the value of @xmath8 @xcite ."
+  ],
+  "abstract_text": [
+    "<S> we present direct numerical simulations of mixing at rayleigh - taylor unstable interfaces performed with the flash code , developed at the asci / alliances center for astrophysical thermonuclear flashes at the university of chicago . </S>",
+    "<S> we present initial results of single - mode studies in two and three dimensions . </S>",
+    "<S> our results indicate that three - dimensional instabilities grow significantly faster than two - dimensional instabilities and that grid resolution can have a significant effect on instability growth rates . </S>",
+    "<S> we also find that unphysical diffusive mixing occurs at the fluid interface , particularly in poorly resolved simulations .    </S>",
+    "<S> ( this manuscript will appear in the proceedings of the 20th texas symposium on relativistic astrophysics . ) </S>"
+  ]
+}

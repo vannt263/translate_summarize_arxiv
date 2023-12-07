@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "gc spectra were obtained in two observing runs , one in 1994 with wht / ldss-2 ( sharples et al .",
+    "1998 ) , and the second in 1998 with cfht / mos ( beasley et al .",
+    "2000 ; zepf et al .",
+    "gc candidates for both runs were chosen from washington photometry ( geisler et al .",
+    "1996 ) , with colour ( @xmath1 ) and magnitude ( @xmath2 ) selection .",
+    "spectra were obtained over the wavelength range 3600@xmath36000  , with a resolution of 3@xmath36  , and a velocity precision of 50@xmath3100 km / sec .",
+    "exposure times were 3@xmath33.5 hours per mask .",
+    "we have a total sample of 144 confirmed gcs in ngc 4472 , out to @xmath4 7   radius ( @xmath4 30 kpc , 6 r@xmath5 ) .",
+    "see sharples et al . , and beasley et al .",
+    "for more details .",
+    "* figure 1 * shows smoothed velocity and velocity dispersion profiles for the full gc sample , and for the metal - rich and metal - poor populations separately .",
+    "we confirm our earlier result ( sharples et al .",
+    "1998 ) that the metal - poor gcs have a significantly higher velocity dispersion than the metal - rich gcs .",
+    "there is little or no rotation in the metal - rich gcs , and modest rotation of @xmath4 100 km / sec in the metal - poor gcs . for the metal - rich gcs",
+    ", v/@xmath6 @xmath7 0.34 at 99% confidence .",
+    "this absence of rotation in the more centrally - concentrated metal - rich gcs seems to require significant outward angular momentum transport ( from a merger ? ) .",
+    "we have used the deprojected gc velocity dispersion and density profiles together with the jeans equation to derive the mass distribution of ngc 4472 , with the assumption of isotropic gc orbits .",
+    "* figure 2 * shows the resulting mass profile for ngc 4472 , compared with that obtained from x - ray data ( irwin & sarazin 1996 ) .",
+    "there is reasonable agreement between the two profiles , and we confirm the existence of a substantial dark matter halo in ngc 4472 , with a m / l ratio @xmath8 at 30 kpc radius .",
+    "to improve the s / n ratio for age and abundance analysis , we have co - added our gc spectra by colour into four bins with 30@xmath335 gcs each . for each bin , we have measured age ( h@xmath9 , h@xmath10 , h@xmath11 ) and metallicity ( mg@xmath12 , fe5270/5335 ) sensitive indices , on the lick system .",
+    "* figure 3 * shows the predictions of worthey ( 1994 ) models for the ngc 4472 gcs in the mg@xmath12 , h@xmath9 plane .",
+    "based on a galactic gc calibration , the ngc 4472 gcs span a metallicity range @xmath0 \\leq 0 $ ] dex .",
+    "it is notoriously difficult to determine _ absolute _ gc ages , but within the errors all four bins are coeval ; we can further say that all gcs are older than 6 gyr at 95% confidence .",
+    "interestingly , the metal - rich gcs are 0.7 @xmath13 7 gyr younger than the metal - poor gcs .",
+    "* table 1 * summarizes the ages and metallicities for our binned ngc 4472 data .",
+    "cccc bin # & @xmath14 & [ fe / h ] ( dex ) & mean age ( gyr ) + 1 & 1.30 @xmath13 0.09 & @xmath31.29 @xmath13 0.30 & 10.7 @xmath15 + 2 & 1.44 @xmath13 0.07 & @xmath30.91 @xmath13 0.35 & 15.3 @xmath16 + 3 & 1.61 @xmath13 0.06 & @xmath30.84 @xmath13 0.25 & 18.5 @xmath17 + 4 & 1.91 @xmath13 0.11 & @xmath30.27 @xmath13 0.30 & 11.3 @xmath18 +"
+  ],
+  "abstract_text": [
+    "<S> we present radial velocities for 144 globular clusters ( gcs ) around the virgo ge ngc 4472 ( m49 ) , and ages and metallicities from co - added spectra of 131 gcs . </S>",
+    "<S> we confirm our earlier finding that the metal - poor gcs have a significantly higher velocity dispersion than the metal - rich gcs , and we find little or no rotation in the metal - rich gcs . </S>",
+    "<S> the velocity dispersion profile is consistent with isotropic orbits for the gcs and the ngc 4472 mass distribution inferred from x - ray data . </S>",
+    "<S> our sample of gcs spans a metallicity range of @xmath0 \\leq 0 $ ] dex . </S>",
+    "<S> the metal - poor and metal - rich gc populations are coeval within the errors , and all gcs older than 6 gyr at 95% confidence . </S>",
+    "<S> our findings are consistent with a merger origin for ngc 4472 , but other elliptical formation models can not be ruled out .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

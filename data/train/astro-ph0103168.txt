@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "for particles with sufficiently high energies the transition layer between the jet and the ambient medium can be approximated as a surface of discontinuous velocity change , a tangential discontinuity ( ` td ' ) . if particles gyroradia ( or mean free paths normal to the jet boundary ) are comparable to the actual thickness of this shear - layer interface it becomes an efficient cosmic ray acceleration site provided the considered velocity difference , @xmath0 , is relativistic and the sufficient amount of turbulence is present in the medium .",
+    "the problem was extensively discussed in early eighties by berezhko with collaborators ( see the review by berezhko 1990 ) and in the diffusive limit by earl et al .",
+    "( 1988 ) and jokipii et al .",
+    "the case of a relativistic jet velocity was considered by ostrowski ( 1990 , 1998 , 2000 ) .",
+    "the simulations ( ostrowski 1990 , cf . bednarz & ostrowski 1996 for shock acceleration ) show that in favorable conditions the acceleration process acting at relativistic tangential discontinuity of the velocity field can be very rapid , with the time scale    @xmath1    where @xmath2 is a particle gyroradius in the ambient medium and  for efficient particle scattering  the numerical factor @xmath3 can be as small as @xmath4 .",
+    "the introduced acceleration time is coupled to the ` acceleration length ' @xmath5 due to particle advection in the jet flow . in the case of a non - relativistic jet or a small velocity gradient in the boundary shear layer the acceleration process is of the second - order in velocity and a rather slow one .",
+    "then , the ordinary second - order fermi process in the turbulent medium can play a significant , or even a dominant role in the acceleration .",
+    "the acceleration time scales can be evaluated only approximately for these processes , and - for particles residing within the considered layer - we can give an acceleration time scale estimate    @xmath6    where @xmath7 is a turbulence velocity ( @xmath8 the alfvn velocity for subsonic turbulence ) , @xmath9 is a mean particle free path normal to the jet axis and @xmath10 is a shear layer thickness .",
+    "the first term in the denominator represents the second - order fermi process , while the second term is for the viscous cosmic ray acceleration .",
+    "one expects that the first term dominates at low particle energies , while the second at larger energies , with @xmath11 approaching the value given in eq .",
+    "( 1 ) for @xmath12 and @xmath13 .",
+    "conditions within the large scale jets of frii radio sources allow for acceleration of cosmic ray protons up to energies @xmath14 ev ( e.g. rachen & biermann 1993 , ostrowski 1998 ) . a characteristic feature of the boundary acceleration process in a simple considered model is formation of very flat spectrum of _ escaping particles_. it is due to the on average parallel magnetic field configuration within the shear layer , limiting the low cosmic rays escape .",
+    "such particles residing within the shear layer volume can more efficiently stream to higher energies due to acting the acceleration process than to escape diffusively off the jet . at some higher energies escape",
+    "becomes substantial , leading to the spectrum cut - off formation . in the considered conditions radiative losses are insignificant for protons .",
+    "acting of the above mentioned processes can have pronounced consequences for the jet propagation if the seed particle injection at ` low energies ' is efficient .",
+    "accelerated particles provide a viscous agent slowing down the jet movement .",
+    "because the jet energy is transmitted mostly to high energy nuclei , this dissipative process can occur without significant radiative effects .",
+    "if a jet appearing from the central source with the lorentz factor @xmath8 a few slows down to mildly relativistic velocities at large distances , the dissipated jet kinetic energy can be several times larger than the one available in terminal shocks .",
+    "this amount is sufficient to explain additional pressure component providing stability of radio lobes against pressure of the x - ray emitting gas .",
+    "if the above interpretation is true , then some further consequences of the discussed accelerating process may arise",
+    ". in particular acceleration of nuclei could be energetically inefficient in purely electron - positron jets , leading to less efficient jet breaking at large scales .",
+    "also , if the considered energetic particles escape from the radio lobes too fast , the required internal pressure component could not be sustained .",
+    "a series of such problems are under study now ."
+  ],
+  "abstract_text": [
+    "<S> recently hardcastle & worrall ( 2000 ) analyzed 63 frii radio galaxies imbedded in the x - ray radiating gas in galaxy clusters and concluded , that pressures inside its lobes seem to be a factor of a few lower than in the surrounding gas . </S>",
+    "<S> one of explanations of the existing ` blown up ' radio lobes is the existence of invisible internal pressure component due to energetic cosmic ray nuclei ( protons ) . </S>",
+    "<S> here we discuss a possible mechanism providing these particles in the acceleration processes acting at side boundaries of relativistic jets . </S>",
+    "<S> the process can accelerate particles to ultra high energies with possibly a very hard spectrum . </S>",
+    "<S> its action provides also an additional viscous jet breaking mechanism . </S>",
+    "<S> the work is still in progress . </S>"
+  ]
+}

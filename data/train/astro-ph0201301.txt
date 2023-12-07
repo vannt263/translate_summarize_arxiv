@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "i have been tracking the gamma - ray burst literature for about the past twenty - one years , keeping the authors , titles , references , and key subject words in a machine - readable file .",
+    "the present version updates previous ones reported in 1993 @xcite , 1995 @xcite,1997 @xciteand 1999 @xcite . in its current form ,",
+    "this information is in a microsoft word 97 `` doc '' format .",
+    "my purpose in doing this was first , to be able to retrieve rapidly any articles on a given topic , and second , to be able to cut and paste references into manuscripts in preparation .",
+    "the following journals have been scanned on a more or less regular basis starting with the 1973 issues : + advances in physics + annals of physics + astronomical journal + astronomische nachrichten + astronomy and astrophysics ( including supplement series ) + astronomy and astrophysics review + astronomy letters ( formerly soviet astronomy letters ) + astronomy reports ( formerly soviet astronomy ) + astrophysical journal ( letters , main journal , and supplements ) + astrophysical letters and communications + astrophysics and space science + esa bulletin + esa journal + iau circulars + ieee transactions on nuclear science + journal of astrophysics and astronomy + monthly notices of the royal astronomical society + nature + nuclear instruments and methods in physics research section a + observatory + physical review ( main journal a and letters ) + proceedings of the astronomical society of australia + publications of the astronomical society of japan + publications of the astronomical society of the pacific + reports on progress in physics + science + scientific american + sky & telescope + in addition , the following journals either have been scanned , but less regularly in the past , or in some cases , are no longer being scanned : + annals of geophysics + astrofizika + astroparticle physics + bulletin of the american astronomical society + bulletin of the american physical society + bulletin of the astronomical society of india + chinese astronomy and astrophysics + chinese physics letters + cosmic research + journal of atmospheric and terrestrial physics + journal of the british interplanetary society + journal of the royal astronomical society of canada + new astronomy + progress in theoretical physics + solar physics + soviet physics + the above lists are not exhaustive .",
+    "for example , where theses or internal reports have come to my attention , i have included them , too . to be included ,",
+    "an article had to have something to do with grb or sgr theory , observation , or instrumentation , or be closely related to one of these topics ( e.g. , merging neutron stars , axps , high - z supernovae , etc . ) , and must have been published . with only a few exceptions , preprints or internal reports which were never published",
+    "have not been included .",
+    "the overall organization is chronological by year . within a given year",
+    ", articles published in journals are listed first , in alphabetical order by first author . then come theses and conference proceedings articles .",
+    "the latter are listed in the order in which they appear in the proceedings .",
+    "the entries are numbered consecutively , so that paper copies which are kept on file can be retrieved quickly .",
+    "however , to avoid having to renumber this entire file when a new article is added , numbers are skipped at the end of each year and reserved for later inclusion .",
+    "the complete author list follows , as it appears in the journal , along with the title , journal , volume number , page number , and year .",
+    "a line containing key words follows this .",
+    "these are generally not the same key words as the ones listed in the journal , nor are they taken from the title or any particular list .",
+    "rather , they are meant to reflect the true content of the article , and provide a list of machine - searchable topics . in general , however , key words have not been included for conference proceedings articles .",
+    "an example of an entry is the following : + 5163 .",
+    "guetta , d. , spada , m. , and waxman , e. , on the neutrino flux from gamma - ray bursts , ap .",
+    "j. 559 , 101 , 2001 + key words : p - gamma interactions , photomeson production , 1014 ev neutrinos",
+    "the number of articles published each year since 1973 is shown in figure 1 . starting with one article per month in 1973",
+    ", it began to exceed one per day in 1994 , and reached over 1.5 per day in 2000 , enough , in principle , to base an entire journal on .",
+    "several milestones are indicated as the probable causes of sudden increases in the number of publications per year .",
+    "note that there are still about as many papers published as there are gamma - ray bursts observed .",
+    "the cumulative total is shown in figure 2 .",
+    "the cutoff date is mid-2001 . at",
+    "any given time , there may be about 100 articles waiting to be entered into the file , so the completeness , including an estimate of the number of articles which were missed for any reason , is about 98% .    the volume of the literature ( it would take about 600 pages simply to print out the bibliography ) has necessitated the development of a program which can search for and extract particular titles .",
+    "i have written such a program in microsoft word basic ( a variant of the basic programming language ) .",
+    "it allows one to extract all titles between two dates whose entries contain a particular key phrase , key word , or author , and write them to a separate file .",
+    "a web version of this bibliography may be found at ssl.berkeley.edu/ipn3/index.html . however , although the bibliography is updated on an approximately daily basis , the most up - to - date version is usually not at the website .",
+    "it is available in plain ascii , `` doc '' , and `` rich text format '' ( rtf ) format files , which can be sent to anyone interested , as can the word basic program .",
+    "please contact me at khurley@sunspot.ssl.berkeley.edu to request copies , and indicate your preference for the format .",
+    "i would appreciate it if users would communicate errors and omissions to me ."
+  ],
+  "abstract_text": [
+    "<S> on the average , 1.5 new publications on cosmic gamma - ray bursts enter the literature every day . </S>",
+    "<S> the total number now exceeds 5300 . </S>",
+    "<S> i describe here a relatively complete bibliography which is on the web , and which can be made available electronically in various formats . </S>"
+  ]
+}

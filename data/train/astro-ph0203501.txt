@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "we present the first astronomical results of lifts ( see wurtz et al .",
+    "2001 for details ) .",
+    "the double output michelson interferometer allow the observation of a spectrum for each of the 1k x 1k pixels of the combined images .    in a collimated beam ,",
+    "the incoming light hits a beam splitter and follows two possible optical paths before recombining into two output ccd cameras .",
+    "all the photons are therefore contained in the sum of the two images while the relative phase shift information is stored in their difference .",
+    "when stepping through a range of path length differences , by moving one arm of the interferometer , one ends up with the fourier transform of the spectrum for each element of the images .      by first principles ,",
+    "an fts has a highly flexible resolution from @xmath0 to several thousands , only limited by the maximum travel of the moving arm ( 1 cm in our case ) .",
+    "every pixel contains a spectrum , and all the images can be co - added to obtain a very deep image , called the `` panchromatic '' image .",
+    "follow - up spectroscopy of faint objects discovered in the panchromatic image can be directly obtained from the datacube .",
+    "the observer can even decide to increase the spectral resolution in real - time by increasing the number of steps to a higher path length difference .",
+    "we stress that this technique does not require preselecting objects or subregions in a few - arcminute field to be fed to a spectrograph .",
+    "compared to any dispersive system , where all the spatial and spectral elements have to fit on a single ccd , the ifts has a substantial multiplex advantage . not only is the full ccd available for spatial information , but the spectral information is just limited by the number of channels one is willing to take on a given field .",
+    "this multiplex advantage is proportional to the density of relevant pixels in the image ( including some amount of sky and calibration objects ) .",
+    "the ifts must be distinguished from filter systems including imaging fabry - perot ( fp ) spectrographs or tunable filters .",
+    "an ifts accept all the light at all wavelengths .",
+    "it only creates one interference between the two `` branches '' of a photon and records the phase difference . on the other hand ,",
+    "an fp creates multiple `` branches '' by multiple reflections inside a cavity creating constructive interferences only for a narrow band of wavelengths , rejecting most of the light . also , the passband is periodic and one order has to be selected , limiting the spectral range to a few angstroms .",
+    "f - p systems are better suited for narrow band observations of faint extended objects as they cut all the out - of - band noise to which ifts would be sensitive .",
+    "we have had a total of seven clear bright - time half - nights on the apo 3.5-meter with the completed instrument .",
+    "seeing ranged from 0.7 to 1.5 arcsec , so we binned to @xmath1 pixels so that our pixel size was 0.28 arcsec ."
+  ],
+  "abstract_text": [
+    "<S> we present the first astronomical observations of the livermore imaging fourier transform spectrograph for visible - band astronomy using the 3.5-meter apache point observatory . </S>"
+  ]
+}

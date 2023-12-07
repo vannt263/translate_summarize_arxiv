@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "two , apparently distinct , main components are resolved in low resolution x - rays spectra of agn : ( a ) the so called `` warm absorber '' ( and possibly emitter ) , found in half of the seyfert 1 galaxies observed by asca ( reynolds , 1997 ; george et al . , 1998 ) , and ( b ) the ionized reflector , seen in a number of seyfert 2 galaxies observed by asca and bepposax ( i.e. turner et al . , 1997 ; comastri et al . , 1998 ;",
+    "guainazzi et al . , 1999 ) .",
+    "ionized matter , potentially absorbing background quasar radiation , is also expected to be present ( maybe under the form of filaments ) in the intergalactic space , and its presence has relevant cosmological consequences ( hellsten , gnedin & miralda - escud , 1998 ) .",
+    "this matter is expected to produce strong resonant absorption lines in the x - ray band ( i.e. `` x - ray forest '' ) , which can be used as powerful diagnostics of the ionization state , and the temperature of this diffuse gas .",
+    "our models for photoionized and collisionally ionized gas ( for a detailed presentation see nicastro , fiore & matt , 1999 : nfm99 ; nicastro , fiore , matt & elvis , in preparation : nfme99 ) , include all the strongest ( oscillator strength @xmath0 ) absorption lines as well as permitted , intercombination and forbidden emission lines in the 50 ev to 10 kev band . the ionization structure of the gas is computed by using cloudy ( vs. 90.04 , ferland , 1996 ) .",
+    "resonant absorption is included as in nfm99 , while the emission contribution is that predicted by cloudy . the lines profile ( both in emission and absorption )",
+    "is the correct voigt profile ( nfm99 ) .",
+    "the geometrical configuration of the absorbing / emitting clouds is properly accounted for by weighting the relative ( absorption versus emission ) intensity with the covering factor @xmath1 as seen by the central source ( for details see nfme99 ) .",
+    "figure 1a ( left panel ) shows two spectra reprocessed by : ( 1 ) photoionized outflowing and turbulent gas , with @xmath2 km s@xmath3 , @xmath4 km s@xmath3 , @xmath5 , log  n@xmath6 = 22 ( in @xmath7 ) , log  n@xmath6 = 10 ( in @xmath8 ) , log  u = 0.5 , and equilibrium temperature of @xmath9 k ( upper panel ) ; ( 2 ) gas with the same dynamical / geometrical parameters and densities , but with log  u = -0.2 and @xmath10 k ( lower panel ) . in the latter case",
+    "the gas is not in photoionization equilibrium : the temperature is kept higher by an external source of heating ( as suggested in the case of the `` truly - warm '' absorber of ngc  5548 : nicastro et al . , 1999 ) .",
+    "the value of u in the non - equilibrium case ( lower panel ) has been chosen to give ovii - oviii relative abundances similar to the pure photoionization case .",
+    "we note that the emissivity of the gas is strongly enhanced in the non - equilibrium case , and the oviik@xmath11 triplet is now clearly visible . the right panel ( fig .",
+    "1b ) shows 100 ks chandra - meg simulations of the models of fig .",
+    "1a . the 2 - 10",
+    "kev source flux is of 1 mcrab @xmath12 erg s@xmath3 @xmath7 .",
+    "the chandra - meg , clearly resolves most of the 0.5 - 1 kev absorption and emission lines by highly ionized oxygen and neon , and allows one to measure their relative intensity and width .",
+    "the oviik@xmath11 triplet is clearly resolved in the spectrum reprocessed by gas with @xmath10 k.",
+    "figure 2a ( left panel ) shows the same photoionzation model as in the upper panel of figure 1a , except the direct nuclear continuum is now obscured by a column of neutral gas of n@xmath13 @xmath7 ( seyfert 2-like ) . only the _ warm - reflector _ is visible in this case .",
+    "the three cases correspond to three different values of the covering factor of the warm medium as seen by the central ( obscured ) source .",
+    "figure 2b ( right panel ) shows 100 ks chandra - meg simulations of the models in fig .",
+    "2a . the 2 - 10",
+    "kev source flux is of 1 mcrab .",
+    "the chandra - meg resolves most of the predicted 0.5 - 2 kev emission lines by o , ne , mg , si and fe highly ionized .",
+    "figure 3a ( left panel ) shows two spectra of a bright background quasar transmitted by diffuse hot gas with log  n@xmath14 ( in @xmath7 ) , log  n@xmath6 = -3 ( in @xmath8 ) , and two different temperatures : log  t = 6.5 ( upper panel ) , and log  t = 7 ( lower panel ) .",
+    "highly ionized oxygen produces the strongest absorption features from the @xmath15 k plasma , while l absorption lines by fexvii - xviii are imprinted on spectra transmitted by the hotter gas .",
+    "figure 3b ( right panel ) shows 100 ks chandra - meg simulations of the models of figure 3a .",
+    "the 2 - 10 kev flux of the background quasar is of 1 mcrab .",
+    "the chandra - meg resolves most of the predicted 0.5 - 1 kev absorption lines , and clearly allows one to distinguish the two considered cases : the intensities of ovii - viii k@xmath16 and neix k@xmath11 absorption lines are a very powerful diagnostics .",
+    "we have presented our photoionization and collisional ionization models , and briefly discussed three different applications to as many important astronomical fields .",
+    "simulations with the chandra - meg of each of these cases have been shown ."
+  ],
+  "abstract_text": [
+    "<S> we present photoionization and collisional ionization models , and their application to three important fields : ( a ) the warm absorbers / emitters in type 1 agn , ( b ) the warm reflectors in type 2 agn , and ( c ) x  ray absorption of background quasars by intergalactic gas . </S>",
+    "<S> a number of cases are investigated , and the dependences of the main parameters explored . </S>"
+  ]
+}

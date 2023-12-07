@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "many if not all high - luminous infrared galaxies ( ulirgs , @xmath1 ) possess regions hidden by huge amounts of dust .",
+    "this makes it difficult to ascertain whether this enormous energy output is due to a starburst activity or an accretion process onto a supermassive black hole .",
+    "one of the best known objects to study this relationship is the nearby ulirg ngc  6240 ( assuming @xmath2 ) .",
+    "infrared observations favour an energy source dominated by starburst processes , whereas observations in the x - ray range point to an agn as the central engine ( @xmath3 ) .",
+    "we have analyzed the data of ngc  6240 taken from an 24 ksec observation with _ xmm - newton _ using the epic - pn and epic - mos instruments . in order to investigate the fe line complex around 6.4 kev and the 0.3 - 10.0 kev spectrum as a whole the high sensitivity and",
+    "therefore the good photon statistics - especially in the 6.4 kev range - in combination with a higher energy resolution enables us to examine this feature in unprecedented detail .",
+    "table 1 summarizes some basic parameters ( powerlaw - @xmath4 , line energies ) of different models ( first column ) after fitting to the data .",
+    "the first of the leading three models includes line profiles with no line width ( @xmath5 ) , whereas eachone of the last two models uses a second powerlaw , but with a different number of line profiles .",
+    "each model contains a 6.4kev line as an indication of an agn contribution .",
+    "a prove of an compton - thick agn has been reported by vignati et al .",
+    "( 1999 ) using bepposax and by ikebe et al .",
+    "( 2000 ) using rxte . however , the last model seems to have the best statistical acceptance ( see fig . 1 , left ) .      emission lines & powerlaw & & @xmath6 + & @xmath4 & energy - line 1 & energy - line 2 & energy - line 3 & d.o.f .",
+    "+ lines : @xmath7 & -0.18 & @xmath8 & @xmath9 & @xmath10 & 38.5/53 + lines : @xmath11 & -0.16 & @xmath12 & @xmath13 & @xmath14 & 38.4/51 + lines : 2nd broad & -0.27 & @xmath15 & @xmath16 & @xmath17 & 43.1/53 +    emission lines + & powerlaw & & @xmath6 + absorp . edge : & @xmath4 & energy - line 1 & energy - line 2 & energy - line 3 & d.o.f .",
+    "+ po + 2 lines & 0.47 & @xmath18 & @xmath19 & - & 39.7/54 + po + 3 lines & 0.47 & @xmath12 & @xmath19 & @xmath20 & 39.1/54 +      the analysis of the spectral data ( @xmath21 ) indicates at least two models providing an statistically acceptable fit : each of them contains two thin thermal plasmas ( @xmath22 and @xmath23 ) , a direct component ( absorbed powerlaw with @xmath24 and @xmath25 , both fixed ) as well as a reflection component ( absorbed powerlaw , either reflected from neutral matter or not ) .",
+    "finally , three gaussian lines have been added to the models ( neutral + ionized k @xmath0 and k @xmath26 ) . the right plot of fig .",
+    "1 shows the components of the second model ( incl .",
+    "reflection ) and their deviations from the data points ."
+  ],
+  "abstract_text": [
+    "<S> a recently performed _ </S>",
+    "<S> xmm - newton _ observation of the ulirg ngc  6240 clearly indicates the presence of an agn contribution to its x - ray spectrum . in the 5.0 - 7.0 kev energy range </S>",
+    "<S> there is a clear signature of the fluorescent fe k @xmath0 lines at 6.4 , 6.7 and 6.9 kev , respectively . </S>",
+    "<S> the line strength of the 6.4 kev line can not be produced by a thermal component . </S>",
+    "<S> the 0.3 - 10.0 kev spectral energy distribution is characterized by the following components : ( i ) two hot thermal components ( the starburst ) , ( ii ) one direct component ( heavily absorbed ; agn is hidden ) , ( iii ) one reflection component ( the agn ) , ( iv ) three narrow fe lines </S>",
+    "<S> . the model parameters for the broad - band spectral energy distribution are consistent with the results of previously works .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

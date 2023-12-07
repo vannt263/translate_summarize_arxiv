@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "most statistical investigations of the properties of interacting galaxies focus on the most spectacular cases and thus they are affected by strong observational biases .",
+    "the samples have often been selected on basis of strongly peculiar morphologies and/or high surface brightness . in this way",
+    ", systems with a highly stimulated interstellar medium and increased star formation rates have been favoured .",
+    "however , some investigations ( eg . , kennicutt 1998 ; mrquez & moles 1996 ) have noted the problem and have made a special effort to deal with homogeneous samples of interacting galaxies coupled with well - matched comparison objects ( isolated undisturbed galaxies ) .",
+    "these studies provide us with a more clear understanding about the connection between gravitational interactions , star formation and photometric properties in the disks of the intervening galaxies .",
+    "we have initiated an observational program to study the photometrical properties of a sample of disk  disk ( s+s ) systems with a wide range of separations , morphological distortions and presumably different stages of interactions .",
+    "the use of a well defined isolation criterion in the selected pairs renders our study as `` clean '' as possible in the sense that only intrinsic properties of the individual galaxies and the effects of their mutual interactions should affect the observed photometrical properties .    in figure 1 , we present the mean surface brightness and colour profiles for the galaxy pair kpg64 .",
+    "this is only an example of the data we can obtain from our images .",
+    "the morphologies and global photometric properties of the whole sample are being analysed for further publication ( hernndez toledo & puerari , in preparation ) .",
+    "the observations discussed here are part of our broad - band bvri photometric program on binary systems which is being carried out at the two mexican optical observatories : the observatorio astronmico guillermo haro in cananea , sonora , mexico and the observatorio astronmico nacional in san pedro martir , baja california , mexico .",
+    "karachentsev , i. d. 1972 , comm . spec .",
+    "ussr , 7 , 1 kennicutt , r. 1998 in galaxies : interactions and induced star formation .",
+    "saas - fee advanced course 26 .",
+    "r. kennicutt , f. schweizer & j. e. barnes ( springer ) mrquez , i. , moles , m. 1996 , 120 , 1"
+  ],
+  "abstract_text": [
+    "<S> we report the first results of our multicolour broad - band bvri photometry for a statistically well defined sample of interacting pairs , drawn from the catalogue of isolated pairs of galaxies in the northern hemisphere karachentsev ( 1972 ) . at present </S>",
+    "<S> , the details of photometric structure of disk - disk ( s+s ) galaxies are just beginning to be studied because of their intrinsic difficulties . </S>",
+    "<S> we take advantage of the statistical properties of this well defined sample of interacting galaxies to try to isolate the main structural components of galaxies . </S>",
+    "<S> due to their environmental simplicity ( compared to groups and clusters ) , the sample provides an unique opportunity to peform a photometric study of galaxies and their structural components in a non - equilibrium configuration . in this contribution </S>",
+    "<S> , the first results of a deep multicolour ( bvri ) photometric study of a sample of 45 ( s+s ) isolated pairs of galaxies is presented . </S>",
+    "<S> our attention is focused on the morphology and the global photometric properties ( integrated magnitudes , colours and mean surface brightness profiles ) .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

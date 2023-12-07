@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "spectra of gamma - ray sources in the third egret catalog ( hartman et al .",
+    "1999 ) are consistently represented by spectral indices from single power law fits . in cases of well measured source",
+    "spectra ( i.e. psr j0633 + 1746 or psr b0833 - 45 ) , there are noticeable deviations from single power - law model fits reported @xcite . here",
+    "we apply higher - order spectral fits as introduced by @xcite to the dataset of `` steady '' unidentified gamma - ray sources used by @xcite for a gamma - ray source population study .",
+    "this subset of the 3eg catalog sources has been used in order to discriminate different source classes among the population of unidentified gamma - ray sources , among other things by means of a comparison in the ( simple power law ) spectral index .",
+    "it remains to be investigated , if differences in the average spectral index is a valid separation criteria in terms of the given uncertainties in the spectral fit as well as in respect of more appropriate spectral description using higher order functional forms .",
+    "additionally , satellite based gamma - ray measurements still do not connect to the higher neighboring energies , currently accessible using ground - based cherenkov telescopes .",
+    "therefore extrapolations need to be justified , either by appropriate source modeling and/or incorporating of additional observational information , i.e. a quantitative indication of spectral breaks or cut - offs . here",
+    "we will especially address cases of unidentified gamma - ray sources positionally coincident with snrs , as recently recompiled by @xcite and investigated at energies above 300 gev by @xcite .",
+    "the `` steady '' unidentified sources from the 3eg have been fitted with three functional forms , the standard single power law , two matching power laws , and a power law with exponential cut - off :    @xmath1    @xmath2    @xmath3    @xmath4 has been set to the value determined by the egret spectral fitting routine as used for the spectral fit given in the 3eg catalog .",
+    "the location of the break energy has been set to 1000 mev to keep the number of parameters at a minimum . with each fit ,",
+    "a reduced @xmath5 was obtained , followed by an f - test to decide if there is statistical justification for the transition from a single power law fit to a higher order functional form . in the f - test",
+    ", a value of @xmath6 is generally taken as a measure where the higher order fit is warranted .",
+    "summed data sets for egret observations during cgro observation cycles 1 to 4 were taken to maximize the available statistics .",
+    "spectral studies of egret - detected blazars have been previously carried out by @xcite , @xcite and @xcite , but never beyond single power law representations . because spectral hardening has been observed in gamma - ray blazars during outburst @xcite",
+    ", an overall spectral comparison might not be similarly appropriate for agn .",
+    "they will be investigated later for different spectral representation than single power law , whenever possible on shorter timescales than the four years of cgro observations used here .",
+    "as already reported for the gamma - ray sources close to the galactic plane in @xcite , the majority of sources appears to be best represented by single power law fits . this trend has been confirmed for almost all unidentified sources at higher galactic latitudes .",
+    "however , only for significantly detected gamma - ray sources the question of departure from a single power law spectrum could be addressed with any chance of a statistically meaningful result .",
+    "improvements from non - linear fitting are indicated by @xmath5 values lying right of the line in fig.1 and fig.2 . in fig.3 the choice of preference of either the two - power law fit or the power law with exponential cut - off",
+    "is indicated by deviations from the line .",
+    "generally , a more complex spectra could only be established if sufficient counts have been observed , rather continuously distributed over the energy range accessible for egret , and obviously with bin entries above 1 gev .",
+    "+ however , the f - tests do not justify the statistical significance of each individual improvement in @xmath5 .",
+    "as indicated in fig.4 ( lines representing the f - test probability @xmath7 ) , the majority of sources with better representation by non - linear fitting functions are insensitive to the form describing an spectral cuf - off within the currently available data ( bottom - left quadrant in fig.4 ) . a clear indication of a statistically significant preference of either the two power law fit or the power law with exponential cutoff is only given for few individual gamma - ray sources : preference of exponential cut - off are indicated in bottom - left quadrant , preference of two power law representation in top - left quadrant of fig.4 .",
+    "although many gamma - ray sources could not be compared at all to higher order functional fits due to insufficient statistics above the chosen break or cut - off energy , a tendency is indicated and will be probed by glast : the better a gamma - ray source has been observed the more significant deviations from the picture of single power fit representations are needed .",
+    "egret seems to occupy a position where instrumental limitations generally do not satisfy more complex interpretations of measured source spectra , however well - measured individual gamma - ray sources already pointing towards structure in the gamma - ray source spectra unable to be adequately represented by a single power - law between 30 mev and 10 gev .",
+    "+ figure 5 - 8 give examples of individual unidentified sources with different functional representations ( eq . 1 - 3 ) .",
+    "all these gamma - ray sources are positionally coincident with snrs , three of them suspected of resembling the properties of neutron stars in gamma - rays ( @xcite , @xcite , @xcite ) .",
+    "these candidates are especially interesting because they were studied by ground - based cherenkov telescopes , however yielding only upper limits so far @xcite .",
+    "for interpretation of these results the model of @xcite has been used to extrapolate from the spectrum measured by egret . here",
+    "we suggest to extrapolate from egret observational results using better spectral representations @xcite .",
+    "this might be an alternative or complementing way , especially under the premise that low - threshold cherenkov telescopes will narrow the energetic gap to existing egret measurements ."
+  ],
+  "abstract_text": [
+    "<S> the egret instrument has measured detailed photon spectra between 30 mev and 10 gev , which are represented by means of single power - law fits for sources in the 3eg catalog . however , </S>",
+    "<S> various sources show indications of spectral cutoffs at gev energies , which are poorly represented by such simple fits . in the case of </S>",
+    "<S> well exposed or bright egret sources , a description of spectral cutoffs with more complicated functional forms appears to be applicable . </S>",
+    "<S> an application for such multicomponent fits should be seen in extrapolations beyond the energies accessible to egret , i.e. for detectability studies of low - threshold imaging atmospheric cherenkov telescopes ( iacts ) . in cases of unidentified gamma - ray sources positionally coincident with supernova remnants , </S>",
+    "<S> the spectral shape beyond power - law extrapolations might observationally explain why such prominent snrs like @xmath0 cygni , ic 443 and cta1 have not been detected during several observation campaigns performed by iacts over the last years . </S>"
+  ]
+}

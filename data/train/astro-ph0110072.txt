@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "clusters of galaxies are continuously growing through the accretion of galaxies and groups from the field . the star formation activity in the accreting galaxies must be quenched during the assimilation of the galaxies into the cluster .",
+    "this transformation is a key process in creating the environmental dependence of galaxy properties , and may also underpin the observed evolution of galaxy properties in distant clusters [ e.g.  1.2 ] however , the physical mechanism which is responsible for these changes has not yet been identified [ 3,4,5 ] .    the advent of suprime - cam , a revolutionary wide - field camera on the subaru telescope , has opened a new window in this field .",
+    "its 27@xmath1 field of view can trace the variation of galaxy properties from the cluster cores out to the surrounding field in an attempt to identify the environment where the decline in the star formation in accreted galaxies begins .",
+    "as a first step towards a systematic study of distant clusters with subaru and suprime - cam , we obtained deep ( @xmath7 ) @xmath8 imaging of the rich cluster a851 at z=0.4 .",
+    "we constructed an i - band selected sample which contains 15,055 galaxies brighter than @xmath9 .    in order to assign cluster membership across our large field and to faint magnitudes",
+    ", we applied photometric redshift technique [ 6 ] to isolate the galaxies in a narrow redshift slice around the cluster redshift . by applying the redshift cut of @xmath10 , we can reduce the field contamination by factor 10 at @xmath9 , while keeping most of the cluster members ( 80% , from the estimate using the spectroscopic members [ 7 ] ) .    after this photometric redshift selection ,",
+    "it is straightforward to map out the distribution of galaxies which are likely to be associated with the cluster . as shown in fig . 1 , several large scale structures are visible around the cluster core , comprising many clumps and filamentary extensions coming out directly from the core .",
+    "importantly , most of these extensions from the core are aligned with the surrounding subclumps .",
+    "the structures identified in this region are qualitatively similar to those seen in cosmological simulations of the growth of clusters which exhibit the filamentary / clumpy substructures on similar scales [ e.g.  8 ] it appears therefore that we are witnessing a851 as it assembles through the accretion of galaxies and groups along the filaments onto the cluster core from the surrounding field .      by exploiting the striking large scale structure around this cluster , we can investigate the influence of environment on the photometric properties of galaxies .",
+    "we define the environment for each galaxy using the local surface number density , @xmath11 , of members , calculated from the 10 nearest neighbors .",
+    "we statistically subtract residual field contamination using a subaru blank field data [ 9 ] .",
+    "we divide the density distribution into three regimes as indicated in fig .",
+    "there is a close correspondence between the local density and structure : the high density region corresponds to the cluster core within @xmath12mpc ; the medium density region includes the structures defining the filaments surrounding the cluster ; and the low density region comprising the rest of the volume ( fig .  1 ) .    as shown in fig .  2a",
+    ", the color distribution in the high density region is strongly peaked at @xmath13 , the color of an early - type cluster member . however , as we move to lower densities , the distribution becomes dramatically bluer .",
+    "notably , this color transition with local density occurs quite abruptly at @xmath14 , indicating a threshold effect in transforming galaxy properties .",
+    "the boundary corresponding to this critical density is highlighted in fig .  1 .",
+    "surprisingly , this transition occurs in subclumps well outside the core .",
+    "our ability to pin - point this environment is a fundamental step towards identifying the dominant mechanism behind the environmental dependence of galaxy properties .",
+    "since the ram - pressure stripping is largely supressed in groups [ 4 ] , the effective mechanism at this hierarchy is either galaxy  galaxy collisions ( which cause cold disk gas to be driven to the galaxy center creating a star burst [ 3 ] ) ; and ` suffocation ' ( where _ warm _ gas in the galaxy s halo is shock heated by the intra - cluster medium so that it can no longer cool and replenish the cold gas in the disk [ 10 ] ) .",
+    "our data do not distinguish directly between these possibilities , but they can be distinguished by tracing the variation in the individual components of galaxies , bulges and disks , between the cluster and the field .",
+    "it is important to note that the changes in galaxy properties as a function of local density are most prominent in faint galaxies ( @xmath5 ) .",
+    "this is mirrored to the dramatic change in the shape of the luminosity function with local galaxy density : where we see a steepening of the faint end slope of the luminosity function with decreasing density ( fig .",
+    "2c ) . assuming that their star formation effectively ceases , the relative absence of low - luminosity galaxies at projected densities of @xmath15 can be understood as they will fade by @xmath16mag as their star formation declines [ 2 ]",
+    "this will put many of their descendents below our magnitude limit .",
+    "this is also qualitatively consistent with the presence of large numbers of very low luminosity , @xmath17 , passive dwarf galaxies in local clusters [ 11 ]    we are grateful to dr y.  komiyama for his assistance during our observations .",
+    "we acknowledge the suprime - cam team for allowing us to use the blank field data .",
+    "we also thank drs .",
+    "m.balogh , n.  arimoto and k.  shimasaku for helpful discussion .",
+    "tk and fn acknowledge the japan society for the promotion of science for support through its research fellowships for young scientists .",
+    "irs acknowledges support from the royal society and the leverhulme trust .",
+    "butcher , h. , oemler , a. , 1984 , apj , 285 , 426 kodama , t. , bower , r. g. , 2001 , mnras , 321 , 18 moore , b. , katz , n. , lake , g. , dressler , a. , oemler , a. , 1996 , nature , 379 , 613 adabi , m. g. , bower , r. g. , navarro , j. f. , 2000 , mnras , 314 , 759 balogh , m. l. , navarro , j. f. , morris , s. l. , 2000 , apj , 540 , 113 kodama , t. , bell , e. f. , bower , r. g. , 1999 , mnras , 302 , 152 dressler , a. , smail , i. , poggianti , b. m. , butcher , h. , couch , w. j. , ellis , r. s. , oemler , a. , 1999 , apjs , 122 , 51 ghigna , s. , moore , b. , governato , f. , lake , g. , quinn , t. , stadel , j. , 1998 , mnras , 300 , 146 ouchi , m. , et al .",
+    ", 2001 , apj , 558 , l83 larson , r. b. , tinsley , b. m. , caldwell , c. n. , 1980 , apj , 237 , 692 binggeli , b. , sandage , a. , tammann , g. a. , 1988 , ara&a , 26 , 509"
+  ],
+  "abstract_text": [
+    "<S> we present deep , panoramic multi - color imaging of the distant rich cluster a851 ( @xmath0 ) using suprime - cam on subaru . </S>",
+    "<S> these images cover a 27@xmath1 field of view ( @xmath2mpc ) , and by exploiting photometric redshifts , we can isolate galaxies in a narrow redshift slice at the cluster redshift . using a sample of @xmath3 probable cluster members ( @xmath4 ) , we trace the network of filaments and subclumps around the cluster core . </S>",
+    "<S> the depth of our observations , combined with the identification of filamentary structure , gives us an unprecedented opportunity to test the influence of the environment on the properties of low luminosity galaxies . </S>",
+    "<S> we find an abrupt change in the colors of faint galaxies ( @xmath5 ) at a local density of 100 gal.mpc@xmath6 . </S>",
+    "<S> the transition in the color - local density behavior occurs at densities corresponding to subclumps within the filaments surrounding the cluster . identifying the sites where the transition occurs brings us much closer to understanding the mechanisms which are responsible for establishing the present - day relationship between environment and galaxy characteristics .    1.25 in .125 in .25 in </S>"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "the _ eddington _ mission is a space telescope designed for two primary goals : asteroseismic studies and extrasolar planet finding .",
+    "both goals will be achieved through the acquisition of high - precision wide - field photometry , with a temporal stability that is possible only from space .",
+    "the basic design is an f/3 triple - reflecting telescope with a 1.2 m diameter aperture , 0.6m@xmath0 effective area , and a 3@xmath1 diameter field of view imaged by a 20-ccd mosaic camera .",
+    "the telescope will be launched into an orbit around the l2 earth - sun libration point , from which the entire sky is accessible for observations .",
+    "the first 2 years of the mission will be dedicated primarily to asteroseismic studies , with pointings lasting up to two months to a variety of targets .",
+    "the mission s second part will be dedicated to planet finding by the transit method , where the telescope will survey a single stellar field for 3 years . in total",
+    ", about 500,000 stars will be surveyed by _",
+    "eddington _ as potential hosts for planetary systems .    in october 2000 ,",
+    "_ eddington _ was selected by esa as a reserve mission for the f2/f3 launch window ( 2009 - 2013 ) .",
+    "more details about the mission can be found in the _ eddington _ assessment study ( favata et al . , 2000 ) and in the _ eddington _ web - site ( http://astro.esa.int/sa-general/projects/eddington/ ) .",
+    "here we will give a short overview about its planet detection capabilities .",
+    "the evaluation of _ eddington _ s planet detection performance consisted of two parts : first , we determined the kinds of planets this mission can detect , in terms of the planet s size , orbital period , and magnitude and type of central star ( deeg et al .",
+    "second , the numbers and characteristics of the detected planets were estimated .",
+    "this employed monte - carlo simulations to fold _ eddington _",
+    "s ` detection space ' with models of the galactic stellar distribution , density and scale height ( robin & crz , 1986 ) .",
+    "with plausible exo - planet distributions , some 10,000 of planets of _ any _ size and orbital distance may be detected ( fig 1 , left ) . of the detected planets the vast majority are both large and in close orbits around their central stars .",
+    "the most extreme ones , the ` hot giants ' , will be detected not only by transits , but also by the reflected light of their central star ( even if they do not produce transits ) yielding a large and nearly complete sample of these planets . for smaller planets",
+    "there are fewer sufficiently bright host stars within the observational range , and they will be detected only by transits .",
+    "the habitable zone corresponds roughly to orbital distances at which planetary surface temperatures of 250 - 350k are expected . under the assumption that every main - sequence star has one planet in the habitable zone , a few hundred planets in that zone should be detected , among them a few tens of habitable planets with sizes of less then 2.5 @xmath2 , which should have solid surfaces ( fig 1 , right ) .",
+    "around larger planets within the habitable zone there exists the intriguing possibility that massive moons may be detected through the perturbations they cause on the arrival time of transit minima ( sarotetti & schneider , 1999 ) .",
+    "these moons may themselves be harboring sites for life .",
+    "as fig .  2 shows , _ eddington _ is the first mission that will survey the habitable zone , and deliver a broad overview of the abundance of habitable planets in the galaxy .",
+    "this is an important step beyond missions like corot and sim , which may detect a few special cases of habitable planets .",
+    "_ eddington _ will deliver a large well - defined statistical sample of planets with known planet radii , orbital distances , and host star surface temperature and type .",
+    "this is critical input for the design and target selection of future missions like darwin and tpf that aim for detailed characterizations of earth - like planets .",
+    "_ eddington _ moves us one step closer to resolving the age - old question : are there other worlds like ours ?"
+  ],
+  "abstract_text": [
+    "<S> _ eddington _ is a space mission for extrasolar planet finding and for asteroseismic observations . </S>",
+    "<S> it has been selected by esa as an f2/f3 reserve mission with a potential implementation in 2008 - 13 . here </S>",
+    "<S> we describe _ eddington _ s capabilities to detect extrasolar planets , with an emphasis on the detection of habitable planets . </S>",
+    "<S> simulations covering the instrumental capabilities of _ eddington _ and the stellar distributions in potential target fields lead to predictions of about 10,000 planets of all sizes and temperatures , and a few tens of terrestrial planets that are potentially habitable . implications of _ eddington _ for future larger scale missions are briefly discussed . </S>"
+  ]
+}

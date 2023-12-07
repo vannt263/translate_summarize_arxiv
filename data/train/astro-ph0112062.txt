@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "the las campanas / aat rich cluster survey ( larcs ; ohely et al . 1998 ; pimbblet et al .",
+    "2001a ; 2001b ; pimbblet 2001 ) is a long - term project to study a statistically - reliable sample of 21 of the most luminous x - ray clusters at intermediate redshifts ( @xmath10.16 ) in the southern hemisphere .",
+    "the photometric imaging of these clusters comprises homogeneous , two degree wide @xmath2 and @xmath3 band observations taken at las campanas observatory .",
+    "these data permit tracing of photometric variations in cluster members out to large radii ( typically @xmath4 mpc at @xmath0 ) .",
+    "galaxies selected from these data are being observed in an on - going spectroscopic follow - up ( pimbblet 2001 ) with the 2df spectrograph on the anglo - australian telescope .",
+    "recently , theoretical and observational attention has been turned to the properties of galaxies beyond the cluster core , existing betwixt the infall regions and the virial radius of clusters ( e.g. balogh , navarro , & morris 2000 ; pimbblet et al .",
+    "2001b ; kodama et al .",
+    "this region is crucial for understanding the evolution of the galaxy population in clusters as they grow through the accretion of field galaxies at @xmath5 , and hence to answer important questions regarding the origin of such basic correlations as the morphology - density relation seen at the present day ( dressler 1980 ) . at intermediate redshift",
+    "most field galaxies are actively forming stars . yet , as these galaxies fall into clusters , their star formation rate declines , eventually to zero ( poggianti et al .",
+    "the first clear demonstration of this transformation is reported by abraham et al .",
+    "( 1996 ) who show that the reddest spectroscopically - confirmed cluster members , those lying on the colour - magnitude relation ( cmr ) , in the @xmath6 cluster abell  2390 , get progressively bluer as a function of cluster radius out to @xmath7 mpc .    pimbblet et al .",
+    "( 2001b ) analyze a sample of eleven larcs clusters and combine these to trace the cmr from the dense cluster core out to the low - density field .",
+    "they report that a small blueward shift of @xmath8 ( or , equivalently in terms of local - density : @xmath9 ) is present in the colours of the peak of the cmr , out to @xmath10 mpc ; equivalent to @xmath11 .    a statistical background correction technique , however , is used by pimbblet et al .",
+    "( 2001b ) to define cluster membership , therefore the cmr radial blueing signal may be contaminated by background galaxies .",
+    "spectroscopic observations of the larcs galaxies ( pimbblet 2001 ) are yielding membership information for individual galaxies needed to improve the signal - to - noise in the cmr at large radii where this contamination becomes important .",
+    "present results show a spectroscopically - confirmed blueward shift in the cmr s peak colour of @xmath12 which is consistent with the statistically - defined membership result .",
+    "pimbblet et al . ( 2001b ) suggest that these trends most likely reflect differences in the luminosity - weighted ages of the galaxies in different environments .",
+    "if interpreted purely as a difference in ages then the gradient observed within larcs suggests that the luminosity - weighted ages of the dominant galaxy population within the cmr at 6mpc from the cluster core are some 3gyrs younger than those residing in the core .",
+    "to conclude , wide - field observations are paramount to the understanding of cluster formation and evolution and to trace radial variations in the cluster population ( i.e. the cmr is readily observed to beyond 8 mpc in many larcs clusters ; pimbblet 2001 ) . although some recent work on a single high redshift cluster has already been undertaken by kodama et al .",
+    "( 2001 ) , much further work ( photometric and spectroscopic ) is urgently required to comparatively examine radial trends within a larger , well - defined sample of higher redshift clusters .",
+    "such observations would allow the testing of the prediction that these trends will be more strongly pronounced at higher redshifts ( pimbblet et al ."
+  ],
+  "abstract_text": [
+    "<S> i discuss recent seminal work on the larcs dataset : a panoramic study of rich clusters of galaxies at @xmath0 . </S>",
+    "<S> the importance of observing beyond the cluster core is illustrated by exploiting these data to examine colour gradients across the clusters .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

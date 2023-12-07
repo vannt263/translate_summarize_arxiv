@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "many ( or all ! ) of the radio sources related with x - ray binaries have been resolved into relativistic jets , often with detectable proper motion of the radio - emitting blobs .",
+    "we present results of long - term daily monitoring of a sample of these rjxrbs with the ratan-600 radio telescope at 0.96 , 2.3 , 3.9 , 7.7 , 11.2 and 21.7  ghz .",
+    "many strong optically thin and thick flares were detected during the monitoring period ( see bursov and trushkin , 1996 ; trushkin , 1998 ) .",
+    "the basic model of the flares is the synchrotron emission evolution of two relativistic jets with conical geometry and an adiabatic expansion of the blobs , which are composed of relativistic electrons embedded in magnetic fields , moving away from the central source ( shklovskii , 1960 ; van der laan , 1966 ; hjellming and johnston , 1988 ; marti et al . , 1992 ) .",
+    "the flare decay law is determined by the geometry of the conical hollow jets .",
+    "the jet velocity , thermal and relativistic electron densities , and magnetic field intensity within the blobs can be derived from the fits .",
+    "our monitoring of radio variability of rjxrb shows that the decay of a flare follows a power law , @xmath0 , as predicted by the shklovskii and van der laan models , or an exponential law @xmath1 ( fig.1 ) , which is due to the initial exponential increase of the jet cone radius .",
+    "often @xmath2 , where @xmath3 ranged from @xmath4 to @xmath5 ; these flares decay faster at higher frequencies ( see current light curves and the spectra animation at ` http://cats.sao.ru/~satr/xb/ ` ) .",
+    "we computed the power spectra of the daily light curves of ss433 in the 2.322  ghz range during the long quiescent periods may ",
+    "july 1997 and may ",
+    "august 1999 .",
+    "both spectra show a mean harmonic at @xmath6 , which corresponds to a period of @xmath7 days .",
+    "we propose that doppler boosting of the jet radiation could explain such modulation .",
+    "the 5-elements kinematical model of the jets and ephemerides proposed by vermeulen ( 1989 ) for the nodding motion of the jets and common formulas for boosting produce a modulation similar to the observed one .",
+    "thus we detect a 6-day modulation at the 1015% level in the quiescent flux density , which is @xmath8 = 1.2 \\ \\nu_{\\rm ghz } ^{-0.6}$ ] .",
+    "three powerful flaring events ( up to 13  jy ) from cyg x-3 were detected in april 2000 .",
+    "the daily spectra clearly show two components : i ) a quasi - stable steep spectrum and ii ) a very unstable flat spectrum ."
+  ],
+  "abstract_text": [
+    "<S> we present results of long - term daily monitoring of a sample of galactic radio - emitting x - ray binaries showing relativistic jets ( rjxrb ) : ss433 , cyg  x-3 , and grs  1915 + 105 , with the ratan-600 radio telescope in the 0.622  ghz range .    </S>",
+    "<S> we carried out the modeling calculations to understand the temporal ( 1100 days ) and spectral ( 122  ghz ) dependence . </S>",
+    "<S> we tested the finite jet segment models and we found that the geometry of the conical hollow jets is responsible for either a power law or an exponential decay of the flares .    </S>",
+    "<S> ss433 was monitored for 100 days in 1997 and 120 days in 1999 . from the quiescent radio light curves </S>",
+    "<S> , we obtained clear evidence of a 6.04-day 1015% modulation .    three powerful flares ( up to 13  jy ) from cyg x-3 were detected in april 2000 . </S>"
+  ]
+}

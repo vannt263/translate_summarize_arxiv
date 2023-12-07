@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "the position - velocity diagram along the major axis of the sc galaxy ngc  2403 shows the presence of gas with anomalous velocities ( see fig . 3 of the paper by sancisi _ et al .",
+    "_ , this conference ) .",
+    "this is the signature of an extended , slower rotating hi halo surrounding the thin disk ( schaap _ et al .",
+    "_ , 2000 )    we have isolated the ` anomalous gas ' in ngc  2403 by fitting a gaussian line profile to the thin disk and subtracting it from the data .",
+    "figure 1 shows the comparison between the velocity field of the total hi and that of the anomalous gas .",
+    "it is clear that the second has a major axis at a different position angle .",
+    "moreover , the minor axis and the major axis are not orthogonal",
+    ". this may be the effect of a radial in - flow towards the centre of the galaxy .",
+    "we have constructed various models of the hi layer of ngc  2403 adopting a two component structure with a thin disk surrounded by a thicker , slower rotating layer . in figure 2",
+    "we show a position - velocity diagram parallel to the minor axis at 2@xmath2 ( south - west ) from the center of the galaxy .",
+    "this is a suitable position to illustrate the effects of radial motions .",
+    "the diagram shows asymmetries especially visible at the low density levels . which represent here the anomalous gas component . the models attempt to reproduce such asymmetries by assuming radial motions .",
+    "the anomalous hi in ngc  2403 clearly indicates a preference for an in - flow with a mean value of @xmath020 km s@xmath1 , and somewhat larger values in the central regions .    what is the origin of this gas ?",
+    "possibilities are : 1 ) a galactic fountain ( shapiro & field , 1976 ) in which the hi traces the final phase of the fountain itself .",
+    "the large number of hi holes and superbubbles in ngc  2403 is supporting evidence .",
+    "2 ) an accretion of _ primordial _ extragalactic gas ( oort , 1970 ) .",
+    "the kinematics observed in ngc  2403 shows an analogy with some of the hvcs in our galaxy ."
+  ],
+  "abstract_text": [
+    "<S> deep vla hi observations of the nearby spiral galaxy ngc  2403 reveal the presence of an extended hi halo that shows slower rotation and a general inflow ( @xmath0 15 - 25 km s@xmath1 ) towards the center of the galaxy . </S>"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "the mere existence of low surface brightness disk galaxies ( lsbs ) has profound implications for the evolution of the universe , both at high and low redshifts .",
+    "the number of lsbs found as a function of magnitude is consistent with no turnover in the counts down to the limit of current data ( oneil & bothun 2000 , ferguson & mcgaugh 1995 ) , and thus their contributions to the galaxy luminosity and mass functions on both the low and high luminosity and mass ends are not well constrained .",
+    "little is known about their epoch of formation .",
+    "gas - rich , large lsbs also provide a window into the extreme environment of very inefficient star formation .",
+    "enormous efforts have been made to study blue compact dwarf galaxies ( bcds ) and starburst galaxies as examples of extreme environments for vigorous star formation , while efforts to study the other extreme have centered largely on dwarf galaxies .",
+    "only recently have the larger , gas - rich systems come under scrutiny . yet despite this recent research activity , the underlying stellar populations of disk lsbs and their detailed star formation histories remain poorly understood .",
+    "star formation in large lsbs has presumably proceeded in a much different way than in dwarf galaxies or hsb disk galaxies . while broadband optical and near - infrared observations have begun with the intention of studying the stellar populations in the galaxies and comparing them to current models of varying metallicities , disentangling age versus",
+    "metallicity effects using broadband filters remains problematical , even for well - studied hsb galaxies ( worthey 1994 ; bruzual & charlot 1993 ; charlot et al .",
+    "1996 ) . by resolving the brightest stars and the tip of the red giant branch ( trgb ) ,",
+    "both in the relatively red central region and out in the blue disk of a large lsb , ugc  2302 ( @xmath0 mpc ) , we obtain direct information on the age and metallicity of the underlying stellar population as a function of radius .",
+    "we have obtained deep images in f555w and f814w of ugc  2302 using the wfpc2 on hst .",
+    "the images were reduced , calibrated , and aligned .",
+    "photometry was performed on the stars common to both filters .",
+    "we find : ( 1 ) ugc  2302 clearly shows underlying spiral structure ( see figure 1 , left ) ; ( 2 ) ugc  2302 has a small nucleus or central star cluster ( see figure 1 , left ) ; ( 3 ) the disk of ugc  2302 appears to be nearly transparent except in the very central regions ( see figure 1 , left ) ; and ( 4 ) we have detected the tip of the red giant branch ( tgrb ) at m@xmath1 and m@xmath2m@xmath3 ( see figure 1 , right ) .",
+    "also seen is the blue main sequence at m@xmath1 and m@xmath2m@xmath4 .",
+    "bruzual , a.  g. , &  charlot , s.  1993 , apj , 405 , 538 charlot , s. , worthey , g. , &  bressan , a.  1996 , apj , 457 , 625 ferguson , h.  c. , &  mcgaugh , s.  s.  1995 , apj , 440 , 470 oneil , k.  &  bothun , g.  2000 , apj , 529 , 811 worthey , g.  1994 , apjs , 95 , 107"
+  ],
+  "abstract_text": [
+    "<S> we have observed the closest known large , low surface brightness ( lsb ) galaxy , ugc  2302 , with hst using wfpc2 and the f555w and f814w filters . </S>",
+    "<S> ugc  2302 is a typical large lsb galaxy , and thus represents a good choice for detailed stellar population studies . </S>",
+    "<S> large lsbs represent an extreme star formation environment , both locally within their disks , and on a larger scale , often residing in underdense regions of the universe . </S>",
+    "<S> resolving the underlying stellar component of such a galaxy can provide critical information on how stars form and evolve in low metallicity , yet gas - rich environments . </S>",
+    "<S> we resolve for the first time the massive stars and tip of the red giant branch in such a system .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

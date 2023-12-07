@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "the main sequence of metal - poor gcs exhibits a bend in the two  color diagram(s ) .",
+    "analysis of the multicolor yale isochrones of demarque et al .",
+    "( 1996 ) shows that color width of such a bend , i.e. , a color difference between the turnoff point and main sequence at the same level of the @xmath0 , is * a function of age at a given metallicity*. hence age of a gc can be derived by fitting isochrones of appropriate metallicity to the cluster two ",
+    "color diagram(s ) .",
+    "the best fit isochrone must show the most adequate reproduction of fiducial line of the sequence ( mainly in its upper part ) and location of its three basic points : points of the turnoff and main sequence at the same level of the @xmath0 , and point of the extremum .",
+    "multicolor photometry by alcaino et al .",
+    "( 1997 ) of ngc 6397 has been used to apply this approach .",
+    "the densest part of the cluster field and stars above the turnoff level were excluded from consideration . since the most probable cluster metallicity ( see gratton et al .",
+    "2000 ; castilho et al .",
+    "2000 ) is close to @xmath1=-2.0 $ ] , the set of isochrones of appropriate metallicity was used .",
+    "panels of fig . 1 show that the fitting criteria described above are best met by isochrone for 16 gyr age in each diagram presented .",
+    "a fitting accuracy is of order @xmath2 gyr , taking into account that result of the best fit is approximately the same in all the diagrams .",
+    "however , real error in age may be as large as a few gyr ( vandenberg 1999 , private communication ) even if a photometry is precise , with no systematic effects .",
+    "that may be due to incertaincy in the parameters of theoretical calculations such as @xmath3 , or to the problems of transformation of isochrones to the colors used , etc .",
+    "( e.g. , see , for details , grundahl et al .",
+    "note that change of 0.1 dex in @xmath1 $ ] causes change in age estimate @xmath4 gyr so that say for @xmath1=-1.9 $ ] the age derived for ngc 6397 is @xmath5 gyr ."
+  ],
+  "abstract_text": [
+    "<S> i propose and apply a method for deriving ages of the metal - poor globular clusters ( gcs ) in a distance - independent way , which is based on age indicator related to the main sequence in the two  color diagrams with @xmath0 index . </S>",
+    "<S> age of the metal - poor gc ngc 6397 has been estimated , using yale isochrones of demarque et al . </S>",
+    "<S> ( 1996 ) , to be close to 16 gyr provided the cluster metallicity is near @xmath1=-2.0 $ ] .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

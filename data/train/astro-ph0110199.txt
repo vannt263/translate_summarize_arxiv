@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the direct simulation monte carlo method was originally developed to treat rarefied gas flow ( see bird 1994 ; matsuda , mizutani & boffin 2001 ) . in dsmc ,",
+    "microscopic molecular motions and their mutual collisions are calculated .",
+    "macroscopic quantities such as density , velocity and temperature of fluids are calculated by taking some mean of microscopic quantities . in dsmc ,",
+    "molecular collisions are handled in a stochastic manner , hence the monte carlo denomination of the method . the collision model in dsmc is such that the molecules are assumed to be hard billiard balls . since we solve the molecular motions , molecular viscosity and molecular thermal conduction are automatically included in the system .",
+    "this physical viscosity may mimic a turbulent viscosity ( @xmath0 viscosity ) assumed in the standard theory of accretion disk .",
+    "we consider a binary system with mass ratio @xmath1 .",
+    "we work in the rotational frame .",
+    "we restrict our computational region to a square , the center of which is the primary and just including the l1 point from which gas particles are injected constantly into the computational region .",
+    "the region is divided into @xmath2 cells .",
+    "the cell size is such that @xmath3 .",
+    "we start injection of gas particles at a constant rate per time step and follow the time evolution of the system .",
+    "the number of particles in the computational region increases with time and reaches a steady state . after a steady state",
+    "is reached , we further calculate to take a time average .",
+    "typically we computed up to t=60 - 100 in dimensionless unit , that is about 10 - 15 orbital periods .    in accretion discs , radiative",
+    "cooling must occur , and some mechanism of cooling is essential in our calculation .",
+    "we here consider a simple model of cooling : we reduce the thermal speed of the molecules by a factor @xmath4 at each time step .",
+    "figure 1 displays the time averaged iso - density surface , on which temperature distribution is pasted , and velocity vectors in the rotational plane of our simulation .",
+    "two cases of injected particles number , @xmath5 and @xmath6 , are compared .",
+    "we can observe the gas stream from the l1 point , the accretion disc and spiral - shaped shocks . in the case of @xmath5 , we find that the accretion disc is very circular . the l1 stream hitting at the disc is deflected from its direction downward by the disc flow . because of the collision between the l1 stream and the disc flow , the iso - density surface is elevated and the temperature on the elevated area is raised ( a hot line or heated wall ) . in the case of @xmath6 ,",
+    "the l1 stream is so strong that the direction of the disc flow is deflected and the disc shape is elongated .",
+    "we may observe a pair of spiral shocks in this case .",
+    "bird , g.a .",
+    "1994 , molecular gas dynamics and the direct simulation of gas flows ( oxford science publications ) matsuda , t. , mizutani , h. & boffin , h.m.j .",
+    "2001 , in iau symp .",
+    "208 , astrophysical supercomputing using particle simulations , ed .",
+    "j. makino & p. hut ."
+  ],
+  "abstract_text": [
+    "<S> we apply the direct simulation monte carlo ( dsmc ) method , developed originally to calculate rarefied gas dynamical problems , to study the gas flow in an accretion disc in a close binary system . </S>",
+    "<S> the method involves viscosity and thermal conduction automatically , and can thus simulate turbulent viscosity ( @xmath0 viscosity ) .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

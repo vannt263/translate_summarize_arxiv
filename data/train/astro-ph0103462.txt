@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "we have taken off - nuclear spectra of 3 radio loud qso s , 3c249.1 , 3c273 and 3c323.1 ( boroson and oke 1984 ) , using the echellette spectrograph and imager ( esi ) ( sheinis et .",
+    "al 2000 ) at keck observatory .",
+    "each object was observed at several differant position angles and offsets from the nucleus . from these spectra",
+    "we have extracted the spatial profile along the slit of the [ oiii ] , @xmath0 line .",
+    "each image is the median of four 15 minute exposures .",
+    "the data were processed using the information data language ( idl ) .",
+    "they were first rectified to remove the instrument distortion , bias subtracted then a two dimensional sky model was subtracted .",
+    "after this extraction we fit a linear combination of two gaussian distributions to each of these profiles , using ( idl ) .",
+    "figure 1 shows the two - dimensional extraction image for each object . for 3c249.1 ,",
+    "three slit position are shown , 3 seconds east , 3.5 seconds north and 3 seconds west are shown .",
+    "one position is shown for each of the remaining objects , 3c273 and 3c323.1 .",
+    "those positions are 4 seconds east and 3 seconds east .",
+    "the lower panels of figure 1 show the results of the gaussian fit for each object , namely the mean , dispersion and magnitude of the gaussian fit for each gas component .",
+    "the plots show bright extended emission at tens of kiloparsecs from the galaxy nucleus .",
+    "this emission is observed to have peak velocity @xmath1 of 540 , 940 and 535 km / sec for the three slit positions of 3c249.1 , 500 km / sec for 3c273 and 470 km / sec for 3c323.1 .",
+    "these velocities are most likely well beyond escape velocity for these galaxies .    *",
+    "* figure .**3c249.1 , 3c273 and 3c323.1 seen in [ oiii ] , spatially resolved .",
+    "[ 3c323.1 ]",
+    "we have obtained slitless spectroscopy images of several objects .",
+    "the four panels of figure 2 show ten minute exposures of one well - studied object , 3c48 ( canalizo 2000 ) taken at four differant position angles , through a six arcsecond wide slit . they have been processed identically to the above images .",
+    "additionally , a modelled qso continuum was carefully subtracted to reveal details within a half arcsecond of the nucleus .    in order to deconvolve the velocity and spatial information in the y axis of each image ,",
+    "we have produced pairs of images that have the dispersion axis rotated relative each other , by 180 degrees . in objects ( like 3c48 ) that contain well defined clumps of gas moving at a definite velocity , position and velocity can be inferred directly by comparing the two images . in objects with a more complex spatial and velocity structure this method becomes less effective .",
+    "figure 2 shows the emission - line gas of 3c48 as viewed through a 6 arcsecond wide by 20 arcsecond long slit .",
+    "the two images show two differant position angles separated by 180 degrees . in first pair of images of 3c48",
+    "( upper and lower left ) we see one bright gas knot ( x ) redshifted by @xmath2 200 km / sec relative to four smaller knots ( a - d ) that appear to be at similar velocites .",
+    "all 5 knots are located to the north of the nucleus .",
+    "closer to the nucleus we see one higher dispersion ( @xmath2 600 km / sec ) , higher velocity knot ( @xmath2 500km / sec ) ( e ) to the north and another ( f ) to the south .",
+    "a similar evaluation can be done to the rightmost pair of images ."
+  ],
+  "abstract_text": [
+    "<S> we present off - nuclear spectra of 3 radio loud qso s , 3c249.1 , 3c273 and 3c323.1 . , taken with the echellette spectrograph and imager ( esi ) at keck observatory . from these spectra </S>",
+    "<S> we have extracted the spatial profile along the slit of the [ oiii ] , @xmath0 line . </S>",
+    "<S> fitted gaussian distributions to each of these profiles show emission - line gas out to several tens of kiloparsecs from the galaxy nucleus . </S>",
+    "<S> most observations show several gas components at distinct velocities and velocity dispersions , much of which is above the escape velocity for any resonable mass galaxy . </S>",
+    "<S> in addition , we show slitless spectroscopy images for one other object , 3c48 . from the slitless spactroscopy images we can extract 2-dimensional spatial as well as velocity information on the emission line gas . </S>"
+  ]
+}

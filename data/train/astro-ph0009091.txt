@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "we have observed coma a at the frequency of the redshifted hi  line ( 1343 mhz ) with the wsrt using 10 mhz bandwidth and a velocity resolution of @xmath5 km s@xmath6 . at the resolution of our observations ( about 13 arcsec ) , the radio structure of coma a appears just resolved in two structures corresponding to the northern and southern lobes .",
+    "the preliminary results show that we have detected hi  in absorption against _ both radio lobes_. in both lobes the peak of the absorption is at a very low optical depth ( @xmath7 % ) .",
+    "this low optical depth is likely to be due ( at least in part ) to dilution .",
+    "the velocity of the absorption is about 200 km s@xmath3 redshifted for the northern lobe and between 100 and 150 km s@xmath3 blueshifted for the southern lobe compared to the systemic velocity .",
+    "the fwhm is between 150 and 200 km s@xmath3 . assuming a spin temperature of 100 k , this gives a column density of @xmath8 atoms @xmath9 .",
+    "velocities of the ionized gas derived from a slit aligned with the radio axis show the same trend with position .",
+    "thus , _ the hi appears kinematically associated with the ionized gas_.    _ * fig.1 * panel showing the approximate location of the hi  absorption . in the plots , the dashed line represents the systemic velocity . in the middle , is the h@xmath4 image with superimposed the contours from a 20 cm vla image . _",
+    "one of the very few objects in which spatially extended 21-cm hi  absorption has been detected against the radio lobes is the central radio galaxy in the cooling flow cluster abell 2597 ( odea et al .",
+    "this has been interpreted as indication that the radio lobes are surrounded by a collection of clouds containing both neutral and ionized gas .",
+    "the same could apply to coma a , with the main difference that _ the scale of the phenomena is larger _ ( several tens of kpc instead of few kpc ) .",
+    "indeed , in the case of coma a , the complicated h@xmath10 structure has been explained by a particularly gas rich environment surrounding the galaxy and that the close morphological association is due to the radio lobes expanding into this gas - rich environment ( tadhunter et al .",
+    "the detected hi  would just be part of this system .",
+    "coma a could be the result of interactions / mergers between the dominant giant galaxy and less massive galaxies in the same group .",
+    "although we can not yet say how spatially extended the observed absorption is , it is quite likely that coma a indeed possesses extended hi  structures ."
+  ],
+  "abstract_text": [
+    "<S> hi  absorption has been detected with the wsrt against _ both lobes _ of the radio galaxy coma  a. this radio galaxy could be expanding in a particularly gas rich environment , perhaps the result from interactions / mergers between the dominant giant galaxy ( associated with the radio galaxy ) and less massive galaxies in the same group .    </S>",
+    "<S> powerful radio galaxies are frequently associated with kpc - sized emission line nebulosities , extending up to tens of kpc from the nucleus . </S>",
+    "<S> these nebulosities can be either lit up by interactions between the radio jet / lobe and the environment or photoionized by anisotropic uv radiation from the active nucleus . </S>",
+    "<S> little is known in radio galaxies to what extent this ionized gas is related to the overall ism . a key element for studies of these extended emission line regions is to know the intrinsic distribution of the gas in and around the galaxy , i.e. to know the distribution of the neutral gas together with that of the ionized gas . </S>",
+    "<S> coma  a is an ideal object for this study . </S>",
+    "<S> it is a well - known radio galaxy ( @xmath0 ) studied in detail by van breugel et al . </S>",
+    "<S> ( 1985 ) . </S>",
+    "<S> the radio structure is mainly formed by two lobes ( see fig .  1 ) and the total size is @xmath1 kpc ( for @xmath2 km s@xmath3 mpc@xmath3 , 1.45 kpc / arcsec ) </S>",
+    "<S> . a spectacular system of interlocking emission line arcs and filaments has been observed in h@xmath4 ( see fig .  </S>",
+    "<S> 1 ) using the taurus tunable filter ( on the wht , tadhunter et al . </S>",
+    "<S> 2000 ) . </S>",
+    "<S> a striking match between the ionized gas and the radio structures ( see fig .  </S>",
+    "<S> 1 ) makes the origin of the ionized gas even more puzzling and _ strongly suggests the presence of a complex interaction between the radio structure and the gas around coma  a_. </S>"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "over the last decade , a comprehensive catalogue of compact flat spectrum radio sources , the jodrell bank @xmath10 vla astrometric survey ( jvas ) , has been constructed ( patnaik et al , 1992 ; browne et al . , 1997 ; wilkinson et al . , 1998 ) .",
+    "the main aim of this survey was to provide the astronomical community with a network of bright radio sources with accurate positions ( @xmath11 mas ) primarily intended for use as phase calibrators for the jodrell bank merlin , the vla and vlbi networks .",
+    "in addition to its astrometric goals , jvas proved an effective means of finding radio sources exhibiting strong gravitational lensing , with six systems confirmed to date ( king et al .",
+    "1999 ) .",
+    "its virtually complete northern - sky coverage makes jvas uniquely suited for studying the high luminosity end of the flat spectrum radio source population .",
+    "our group has been particularly involved in the search for distant quasars ( hook et al .",
+    "1996 , hook et al .",
+    "1998 , hook & mcmahon 1998 ) . as part of this project ,",
+    "sources in the jvas survey were optically identified using the catalogue output of the apm ( the automated plate measurement facility at cambridge ) scans of the poss - i plates .",
+    "this catalogue is ideal for identifying large samples of objects , since they are generated in an automated way allowing an objective assessment of their reliability and homogeneity .",
+    "this paper describes the automated optical identification procedure of jvas , as used for the search for distant quasars .",
+    "it can be used as a guidance for future projects , involving the optical identification of comprehensive samples of flat spectrum radio sources , like those in the cosmic lens all sky survey ( class ; myers et al .",
+    "since jvas is not complete , a new sample is constructed using selection criteria similar to those of jvas , but with the emphasis on completeness , and with the use of more accurate selection surveys . by comparing this sample with jvas ,",
+    "the completeness of jvas is assessed .",
+    "this is described in section 2 .",
+    "section 3 and 4 describe the apm - poss - i catalogue and the optical identification procedure of jvas and its complete counterpart .",
+    "section 5 gives the results and discusses possible relations between optical and radio properties using the complete sample .",
+    "the jvas catalogue has been presented in three separate papers , for the regions @xmath12 ( patnaik et al . , 1992 ) , @xmath13 ( browne et al . , 1997 ) , and @xmath14 and @xmath15 ( wilkinson et al . , 1998 ) .",
+    "their initial source list was constructed using the greenbank surveys conducted at 1.4 and 5 ghz by condon & broderick ( 1985 , 1986 ) and condon , broderick & seielstad ( 1989 ) , selecting all sources with spectral indices larger than @xmath16 ( @xmath17 defined as @xmath18 ) and @xmath19 mjy , excluding the region @xmath20 .",
+    "the 5 ghz flux densities used to construct the sample were determined directly from the maps and have been found to be systematically higher by @xmath21 than the flux densities determined by gregory and condon ( 87 gb , 1991 ) from the same maps . since the main goal of jvas was to construct a grid of phase calibrator sources , and",
+    "the distribution of the sample above contained some undesirable large holes ( @xmath22 ) in some areas , a few additional sources were selected with @xmath23 mjy to fill these holes . where possible , the potential calibrator sources were cross - checked against lower frequency surveys to make sure they had genuine flat spectra . the resulting source list was observed with the vla at 8.4 ghz between 1990 and 1992 ( patnaik et al , 1992 ; browne et al . , 1997 ; wilkinson et al . , 1998 ) .",
+    "the resulting catalogue includes sources with observed 8.4 ghz peak brightness @xmath24 mjy / beam .    for sources that are in the regions",
+    "@xmath13 and @xmath12 the rms position error was estimated to be approximately 10 mas in each coordinate ( patnaik et al . , 1992 ; browne et al . , 1997 ) . for sources in the regions",
+    "@xmath14 and @xmath15 this was estimated to approximately be 40 mas ( wilkinson et al . , 1998 ) .",
+    "the resulting catalogue contains 2121 radio sources ."
+  ],
+  "abstract_text": [
+    "<S> this paper describes the automated optical apm identification of radio sources from the jodrell bank - vla astrometric survey ( jvas ) , as used for the search for distant radio - loud quasars . </S>",
+    "<S> since jvas was not intended to be complete , a new complete sample , jvas++ , has been constructed with selection criteria similar to those of jvas ( @xmath0 mjy , @xmath1 ) , and with the use of the more accurate gb6 and nvss surveys . </S>",
+    "<S> comparison between this sample and jvas indicates that the completeness and reliability of the jvas survey are @xmath2 and @xmath3 respectively . </S>",
+    "<S> the complete sample has been used to investigate possible relations between optical and radio properties of flat spectrum radio sources . from the 915 sources in the sample , 756 have an optical apm identification at a red ( @xmath4 ) and/or blue ( @xmath5 ) plate , resulting in an identification fraction of 83% with a completeness and reliability of 98% and 99% respectively . about @xmath6% </S>",
+    "<S> are optically identified with extended apm objects on the red plates , e.g. galaxies . </S>",
+    "<S> however the distinction between galaxies and quasars can not be done properly near the magnitude limit of the poss - i plates . </S>",
+    "<S> the identification fraction appears to decrease from @xmath790% for sources with a 5 ghz flux density of @xmath8 , to @xmath980% for sources at 0.2 jy . </S>",
+    "<S> the identification fraction , in particular that for unresolved quasars , is found to be lower for sources with steeper radio spectra . in agreement with previous studies , we find that the quasars at low radio flux density levels also tend to have fainter optical magnitudes , although there is a large spread . </S>",
+    "<S> in addition , objects with a steep radio - to - optical spectral index are found to be mainly highly polarised quasars , supporting the idea that in these objects the polarised synchrotron component is more prominent . </S>",
+    "<S> it is shown that the large spread in radio - to - optical spectral index is possibly caused by source to source variations in the doppler boosting of the synchrotron component . </S>"
+  ]
+}

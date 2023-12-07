@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "in the next few years there will exist all - sky datasets from two new satellite missions for the cosmic microwave background ( the map and planck missions ) , along with very large datasets from optical surveys such as 2df and sloan . the combined effect of these new data on quantitative cosmology will be enormous , but at the same time pose great problems in terms of the scale of data analysis effort required .",
+    "as an example , the planck surveyor satellite , due for launch in 2007 , combines both hemt and bolometer technology in 10 frequency channels covering the range 30  ghz to 850  ghz , with a highest angular resolution of 5 arcmin .",
+    "an artist s impression of this satellite is shown in figure  [ fig : planck - pic ] ,    and the experimental parameters of the planck mission are summarized in table  [ tab : planck - params ] .",
+    ".approximate experimental parameters of the planck satellite .",
+    "hfi refers to the high frequency part of the instrument , and lfi is the low frequency instrument .",
+    "the @xmath0 sensitivity is per beam area in one year ( thermodynamic temperature ) [ cols=\"<,^,^,^,^,^,^,^,^,^,^ \" , ]     [ comparison ]",
+    "we have seen that a bayesian approach provides a common statistical framework for several important methods currently used in astronomical processing and analysis . by generalising one s view to include also the optimal choice of basis functions it is clear how significant improvements can be obtained both in the quality of the resulting reconstructions and in the speed at which the analysis can be carried out .",
+    "these two aspects will both be crucial in the new era of quantitative cosmology which is now opening up .",
+    "zaroubi s. , hoffman y. , fisher k.b . , lahav o. , 1995 , apj , 449 , 446 skilling j. , 1989 , in ` maximum entropy and bayesian methods ' , j.skilling ( ed ) , kluwer academic publishers , dordtrecht , p.  45",
+    "garrett a. , 2000 , ` maximum entropy from the laws of probability ' , in ` maximum entropy and bayesian methods ' , paris , ed .",
+    "mohammad - djafari a. , aip .",
+    "hobson m.p .",
+    ", jones a.w . ,",
+    "lasenby a.n . ,",
+    "bouchet f.r . , 1998 ,",
+    "mnras , 300 , 1 bridle s.l . , hobson m.p .",
+    ", lasenby a.n . , saunders r. , 1998 , mnras , 299 , 895 hoekstra h. , franx m. , kuijken k. , 2000 , apj , 532 , 88 hobson m.p .",
+    ", lasenby a.n . , 1998 , mnras , 298 , 905 barreiro r.b . , vielva p. , hobson m.p .",
+    ", martnez - gonzlez e. , lasenby a.n . , sanz j.l . , toffolatti l. , in this volume stolyarov  v. et al .",
+    ", in preparation pia r.k . ,",
+    "puetter r.c . , 1993 , pasp , 105 , 630 eke v. , in this volume puetter r.c . , 1994 , spie vol.2302 _ image reconstruction and restoration _ , 112 gull s.f . , 1989 , in ` maximum entropy and bayesian methods ' , j.skilling ( ed ) , kluwer academic publishers , dordtrecht , p.  53",
+    "skilling j. , 1998 , in ` maximum entropy and bayesian methods ' , g.erickson , j.t.rychert , c.ray.smith ( eds ) , kluwer academic publishers , dordtrecht , p.  14 skilling j. , 1999 , massinf programmers notes .",
+    "maximum entropy data consultants ltd , royston"
+  ],
+  "abstract_text": [
+    "<S> an overview is given of bayesian inversion and regularization procedures . </S>",
+    "<S> in particular , the conceptual basis of the maximum entropy method ( mem ) is discussed , and extensions to positive / negative and complex data are highlighted . </S>",
+    "<S> other deconvolution methods are also discussed within the bayesian context , focusing mainly on the comparison of wiener filtering , massive inference and the pixon method , using examples from both astronomical and non - astronomical applications . </S>"
+  ]
+}

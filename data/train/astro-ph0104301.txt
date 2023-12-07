@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the study of elemental abundances in damped lyman alpha systems ( dlas ) at high redshift represents one of our best opportunities to probe galaxy formation and chemical evolution at early times . by coupling measurements made in high @xmath1 dlas with our knowledge of abundances",
+    "determined locally and with nucleosynthetic models , we can start to piece together the star formation histories of these galaxies . to this end ,",
+    "certain key elements are generally targeted , for example zn and cr are traditionally used as a measure of the overall metallicity and gas - to - dust ratio in dlas , whereas si and s are used to determine whether there is any evidence for @xmath2 element overabundances , indicative of sn type ii enrichment . here",
+    ", we propose that co , which has never before been featured in dla studies , yet is well - studied in galactic stars , may be an additional element that can provide useful clues to the nature of star formation at high redshift .",
+    "the intriguing trends of [ co / fe ] as a function of [ fe / h ] in the various galactic stellar populations indicate that cobalt may be an element that can provide important clues to chemical evolution , see figure 1 . in sub - solar metallicity",
+    "thin disk stars , co is found to be slightly underabundant with respect to fe ( [ co / fe ] @xmath3 , gratton and sneden 1991 ) .",
+    "this trend continues in moderately metal - poor halo stars down to metallicities of [ fe / h ] @xmath4 . for more metal - poor halo stars , a considerable overabundance of co with respect to fe",
+    "is observed , @xmath5 [ co / fe ] @xmath6 , ( mcwilliam et al .",
+    "1995 ; ryan , norris and beers 1996 ) .",
+    "interestingly , this coincides with a downturn in relative cr to fe abundances , such that co and cr are closely anti - correlated in the metal poor population .",
+    "similar [ co / fe ] overabundances are observed in the bulge ( [ co / fe ] @xmath7 , mcwilliam & rich 1994 ) , which , we recall , is as old as the halo , and to a lesser degree in the thick disk ( [ co / fe ] @xmath8 , prochaska et al .",
+    "2000 ) .",
+    "the detection of co  ii transitions is a challenging possibility for ism absorption line spectroscopy , both locally and at high @xmath1 .",
+    "although there are numerous transitions that lie at convenient rest wavelengths for both local and high redshift studies , only two interstellar measurements currently exist ( e.g. mullman et al 1998 ) .",
+    "one of the advantages of moving to higher redshifts is that the relatively strong uv lines become shifted into the optical where one has access to more efficient detectors and larger telescopes .",
+    "in addition , the observed equivalent width is increased by a factor of ( @xmath9 ) .",
+    "however , the fundamental problem remains that the co  ii lines are all intrinsically weak and that the solar abundance of co is @xmath10 that of hydrogen .",
+    "in order to maximise the likelihood of detecting co , we have selected two dlas with high @xmath11(fe ) that lie in front of relatively bright background qsos . the former criterion is to enable us to more easily reach our target detection limit of [ co / fe ] @xmath12 0 , which will be sufficient to distinguish between most of the populations plotted in figure 1 .",
+    "selecting bright qsos obviously allows us to reach the requisite s / n in feasible amounts of time .",
+    "the two systems chosen for this pilot study are q2206@xmath13199 ( @xmath14 , @xmath15 ) and q1223 + 17 ( @xmath16 , @xmath17 ) .",
+    "observations were obtained with uves ( on the vlt ) and hires ( on keck ) the details of which ( along with data reduction steps and complete abundance analysis ) are described in full by ellison , ryan and prochaska ( 2001 ) .",
+    "here , we limit ourselves to reporting the final determined co abundances which are [ co / h ] = @xmath18 for q2206@xmath13199 and [ co / h ] @xmath19 for q1223 + 17 . these points are plotted in figure 1 along with galactic stellar values and additional dla limits derived from the literature .",
+    "we have shown that the detection of co in dlas is feasible with echelle spectrographs on 8-m class telescopes .",
+    "the first detection of co in a dla appears to be consistent with the abundances measured in the galactic bulge and although this does nt necessarily equate dlas with high redshift bulges , it may indicate that the two share some similarities in their star formation histories .",
+    "however , the interpretation of these results is hindered by our lack of understanding of the nucleosynthetic processes that produce co. only recently have models been formulated that can successfully reproduce galactic [ co / fe ] trends by forcing a deeper mass cut or higher explosion energies ( nakamura et al 1999 , 2000 ) .",
+    "however , matching the [ co / fe ] has come at the expense of high ni abundances which are not seen in stars . in the case of q2206@xmath13199",
+    ", however , we @xmath20 find that high [ co / fe ] is accompanied by high [ ni / fe ] . therefore , although the results here represent a somewhat preliminary study of co with a clear need for more data points , we have demonstrated the interest of studying this element both in the context of understanding better the nature of dlas and for providing a regime for the testing of nucleosynthetic models ."
+  ],
+  "abstract_text": [
+    "<S> we present the first ever detection of cobalt in a damped lyman alpha system ( dla ) at @xmath0 . </S>",
+    "<S> in addition to providing important clues to the star formation history of these high redshift galaxies , we discuss how studying the co abundance in dlas may also help to constrain models of stellar nucleosynthesis in a regime not probed by galactic stars . </S>"
+  ]
+}

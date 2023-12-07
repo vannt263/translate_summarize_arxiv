@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "spatially resolving cepheid binary systems is the first step in measuring the inclination of the orbit .",
+    "a successful resolution means that ultimately both the mass and distance can be determined from first principles .",
+    "this provides cosmologically important distances , and also benchmarks for stellar evolution calculations .",
+    "we have developed a new approach to resolving cepheid binaries using the hubble space telescope faint object camera ( hst foc ) in the objective prism mode .",
+    "the basic approach was first put forward by massa & endal ( 1987a , b ) . in cepheid binary systems , bright companions will be hot main sequence stars . in this case",
+    ", the cepheid dominates in the visible part of the spectrum , however it contributes very little flux to the ultraviolet spectrum , where the hot companion dominates .",
+    "the two components may be unresolved in an image . in the low resolution",
+    "foc spectra , however , the location of the centroid of the spectrum on the detector will shift as a function of wavelength as the star producing the spectrum changes from the cepheid in the visible to the companion in the ultraviolet .",
+    "the locations of the spectrum centroids for the two stars can be measured very accurately , better than 0.01 \" for the foc .",
+    "we have now obtained first epoch observations of both aw per and u aql with the hst foc ( faint object camera ) with the nuv ( near ultraviolet ) objective prism .",
+    "measuring the inclination of a system requires two observations at phases carefully selected from the ground - based orbit of the cepheid .",
+    "in addition , at each epoch , several observations must be made with varying satellite roll angles to determine the magnitude and orientation of the angular separation on the sky .",
+    "results are shown in fig.1 .",
+    "the data are fitted to a model of the relative contribution of each component based on observed iue spectra of the composite system , which , of course , includes the reddening ( evans , 1992 , 1994 ) .",
+    "( residual distortions in the field have been removed with a fourth order polynomial . )",
+    "the three values of the projected separation ( `` amp '' in fig.1 ) , are then fitted as a function of the roll angle to determine the full separation .    using this approach ,",
+    "we have obtained a clear resolution of the cepheid aw per at one epoch ( separation 0.013 @xmath0 0.003 \" ) .",
+    "we also have a marginal resolution of u aql .    what can we say about the results so far ?",
+    "fig.2 is an example using uaql , showing the predicted separations for three inclinations from the spectroscopic orbit of the cepheid ( welch et al . , 1987 ) .",
+    "the mass ratio between the cepheid and the companion is taken from this orbit and the velocity of the companion measured with the hst goddard high resolution spectrograph ( evans et al . , 1998 ) . while a second centroid measurement is required to determine the inclination independently without using a mass ratio , fig .",
+    "2 shows that combination of the separation already measured and the mass ratio requires a high inclination .",
+    "full results will be given in massa & evans ( 2002 ) .",
+    "observations for the second epoch are being scheduled on the hst stis spectrograph .",
+    "stis should provide improved accuracy because of easier extraction from geometrically distinct pixels , and higher photometric sensitivity .",
+    "evans , n. r. 1992 , , 389 , 657 evans , n. r. 1994 , , 436 , 273 evans , n. r. , bhm - vitense , e. , carpenter , k. , beck - winchatz , b. , & robinson , r. 1998 , , 494 , 768 massa , d. & endal , a. s. 1987a , , 93 579 massa , d. & endal , a. s. 1987b , , 93 760 massa , d. & evans , n. r. 2002 , in preparation welch , d. l. , evans , n. r. , lyons , r. w. , harris , h. c. , barnes , t. g. iii , slovak , m. h. , & moffett , t. j. 1987 , , 99 , 610",
+    "_ m. jerzykiewicz  : _ how sensitive is your method to interstellar reddening ?    _ n. evans  : _ the model to which the centroid shift is compared is created from the observed iue composite spectrum so it already includes reddening .",
+    "in addition , each star completely dominates at one end of the spectrum , so fluxes of each star are well determined .    _",
+    "t. bedding  : _ comment : the idea of using centroid variations as a function of wavelength from spectra has also been developed by jeremy bailey from aao who calls it `` spectro - astrometry '' ( e.g. bailey , 1998 , , 301 , 161 ) .",
+    "question : there seems to be a scatter in your luminosity - mass relation ( e.g.  fig.5 in evans et al . , 1998 ) .",
+    "could this be due to rotation as an extra parameter ?"
+  ],
+  "abstract_text": [
+    "<S> we have measured the centroid shift of low resolution hst foc spectra as the dominant star changes from the cepheid to the hot companion . with this approach </S>",
+    "<S> we have resolved the aw per system and marginally resolved the u aql system . </S>"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "article_text": [
+    "in all statistical studies concerning photometric and morphological evolution of galaxies in clusters , the only reference sample available in the nearby universe is the historical one of dressler ( 1980 ) who lists the positions , the visual morphological classifications and the approximate magnitudes of galaxies in 55 clusters at z=0.0110.066 .",
+    "it is obvious that a local reference sample with quality adequate to the modern technologies is missing and is crucial both for studying the morphological content of nearby clusters in a systematic way and for setting the zero - point for evolutionary studies .",
+    "this project is aimed at filling in this gap through a complete ccd surface photometry ( in the b and v bands ) of galaxies in a well - defined sample of low  z clusters .",
+    "the growing availability of efficient and reliable wide  field imaging ccd cameras ( wfics ) has opened for the first time the possibility of gathering in a reasonable time a large amount of ccd data on galaxies in nearby clusters .",
+    "we have exploited this opportunity in both the north ( int , la palma ) and the south ( eso2.2 ) hemispheres , by taking observations of clusters selected from an essentially complete x - ray flux limited sample of abell clusters ( xbacs , ebeling et al .",
+    "1996 ) compiled from rosat all  sky survey data .",
+    "the redshift range ( 0.04@xmath0z@xmath00.07 ) is the only selection criterion applied , resulting in a total sample of 78 clusters ( 36 in the northern hemisphere and 42 in the southern one ) over a broad range in x - ray luminosity . since now a total of 14 observing nights have been already devoted to this project , resulting in the complete imaging of 61 clusters .",
+    "the data will be used to produce , for each cluster of the sample , the following outputs :     a deep ( v@xmath122.5 ; b@xmath123.5 ) photometric catalog of galaxies containing coordinates , integrated v and b magnitudes , concentration index , rough ellipticity and position angle estimates of each object ;     a surface photometry catalog , relative to a sub - sample of bright / large enough galaxies of the previous , deep list . in this catalog",
+    "we will include the whole photometric and morphological information extracted from the luminosity and geometrical profiles ( color profile , isophotal twisting , disky / boxy c@xmath2 profile , bulge / disk decomposition , etc .. ) , as well as the global parameters ( effective radius and average surface brightness , total magnitude , sersic s index , morphological type , etc .. ) of each galaxy ;    the reduction procedures are clearly crucial to achieve these scientific objectives .",
+    "in particular , automatic pipelines for data reduction and surface photometry are required , together with a fast computing capability .",
+    "the deep catalogs will be produced running sextractor ( bertin and arnout , 1996 ) onto the co - added frames in the two filters , whereas the surface photometry catalogs will be produced by using a tool for galaxy automatic surface photometry in wide and/or deep fields ( gasphot , pignatelli and fasano 1999 ) we are presently developing at the padova observatory .",
+    "it consists of four main tools :        \\c ) galprof fits the equivalent luminosity profiles of galaxies by using both a sersic law and a three component ( @xmath3 + exp + psf ) profile convolved with the proper psf and produces unbiased estimates of total magnitudes , effective radii , sersic s indices , etc .. ;"
+  ],
+  "abstract_text": [
+    "<S> we present a two - band , wide - field imaging survey of an x  ray selected sample of 78 clusters in the redshift range z=0.030.07 . </S>",
+    "<S> the aim of the project is to provide the astronomical community with a complete set of homogeneous , ccd  based , surface photometry and morphological data of the nearby cluster galaxies located within 1.5mpc from the cluster center .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

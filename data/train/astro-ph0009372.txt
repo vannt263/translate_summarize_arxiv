@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "the 34 sources in this sample were initially selected from the vlba calibrator survey .",
+    "the total and polarized flux densities at 8 ghz of the 21 sources which are considered to be csos ( or remain cso candidates pending identification of the core ) are shown in table 1 .",
+    "none of these sources exhibit any significant polarization , with upper limits ranging from 0.3% to 1.6% .",
+    "the fluxes of the sources which were rejected from the cso list based on morphology at 1.6 , 5 , 8 and/or 15 ghz and the spectral indices of the components , as well as continuum images of all sources , can be found in peck & taylor ( 2000 ) .",
+    "five of the 13 rejected sources exhibit measurable polarized emission at 8.4 ghz .",
+    ".csos and cso candidates in the coins sample [ cols=\"^,^,^,^ , > , > \" , ]",
+    "figure 1 depicts a cartoon of the possible environment in the central parsecs of a cso or other compact agn .",
+    "this model is based on the unified scheme , and on recent h0.1emi  and free - free absorption studies ( _ e.g. _ peck , taylor & conway 1999 ) . some notable simplifications have been made for this figure .",
+    "for example , it is not necessary for the toroidal structure to be perpendicular to the jet axis , the `` clumps '' of denser gas are unlikely to be uniform in size , and it is believed that the degree of warp in the disk can vary greatly .",
+    "one possible explanation for the low observed levels of linear polarization from csos is that our line of sight to the jet components in these sources passes through a magnetized plasma associated with this torus . in order to depolarize the radio emission within our 8 mhz if at 8.4 ghz the faraday rotation measures could be larger than 5@xmath110@xmath2 radians m@xmath3 , or alternatively the magnetic fields in the torus could be tangled on scales smaller than the telescope beam of @xmath01 mas to produce gradients of 1000 radians m@xmath3 mas@xmath4 or more ."
+  ],
+  "abstract_text": [
+    "<S> we present results of multifrequency polarimetric vlba observations of 34 compact radio sources . </S>",
+    "<S> the observations are part of a large survey undertaken to identify csos observed in the northern sky ( coins ) . based on vlbi continuum surveys of @xmath02000 compact radio sources </S>",
+    "<S> , we have defined a sample of 52 csos and cso candidates . </S>",
+    "<S> positive identification of csos is contingent upon acquiring multi - frequency observations in order to correctly identify the core of the source , which is expected to have a strongly inverted spectrum . </S>",
+    "<S> we also expect csos to exhibit very little polarized flux . </S>",
+    "<S> despite the fact that synchrotron emission is intrinsically highly polarized , less than 0.5% fractional polarization is seen in low resolution studies of csos at frequencies up to 5 ghz . </S>",
+    "<S> one possible explanation for the low observed linear polarization from csos is that their radiation is depolarized as it passes through a magnetized plasma associated with a circumnuclear torus . </S>",
+    "<S> this interpretation is consistent with the unified scheme of agn , and also with the recent detections of free - free and h0.1emi  absorption in csos .    </S>",
+    "<S> here we present limits on the polarized flux density at 8.4 ghz and @xmath01 mas resolution for 21 csos and candidates in the coins sample .    </S>",
+    "<S> psfig.sty    # 1#1 0123456789 abcdef    @mtlplain@loaded = cmssi10 = cmssi10 = cmssi10 = cmmib10 = mtssi10 = mtssbx10 = mtssbi10 = mtmib10    @mtlplain@loaded = cmmib10 at 10pt = cmmib10 at 7pt </S>",
+    "<S> = cmmib10 at 5pt    = = =    = \" 0103    @mtlplain@loaded    @mtlplain@loaded = cmbsy10 = cmbsy10 at 7pt = cmbsy10 at 5pt = = = @ = \" 0@72 </S>"
+  ]
+}

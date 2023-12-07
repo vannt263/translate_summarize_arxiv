@@ -1,0 +1,16 @@
+{
+  "article_text": [
+    "for two decades now bright quasars ( hereafter qsos ) have been used to investigate the distribution and physical properties of gas in their lines of sight up to their emission redshift .",
+    "the information is extracted from the study of absorption lines originating in the gas ( the hydrogen lyman series lines and resonance lines of various metal ions ) as detected in the high dispersion ( @xmath18 ) spectra of the qsos ."
+  ],
+  "abstract_text": [
+    "<S> we present the first high - resolution ( 6.2 to 7.7 km s@xmath0 fwhm ) spectra of the apm br j0307@xmath14945 quasar at @xmath2 obtained with uves on the 8.2 m vlt kueyen telescope . </S>",
+    "<S> we focus our analysis on a damped ly@xmath3 ( dla ) system at @xmath4 with a neutral hydrogen column density @xmath5 ( ) @xmath6 @xmath7 . </S>",
+    "<S> it is the most distant dla system known to the present date , observed when the age of the universe was only 1.3 gyr . </S>",
+    "<S> it shows complex low- and high - ionization line profiles spanning @xmath8 and 300 km s@xmath0 in velocity space respectively . </S>",
+    "<S> we derive accurate abundances for n , o , al , si and fe , and place a lower limit on c and an upper limit on ni : [ n / h ] @xmath9 , [ o / h ] @xmath10 , [ al / h ] @xmath11 , [ si / h ] @xmath12 , [ fe / h ] @xmath13 , [ c / h ] @xmath14 and [ ni / h ] @xmath15 </S>",
+    "<S> . the derived high metallicity , @xmath16 solar , shows that this very young absorber ( @xmath17 gyr ) has already experienced a significant metal enrichment . </S>",
+    "<S> the [ o / si ] ratio is nearly solar suggesting a limited amount of dust , the relative [ si , o / fe ] abundance ratios show a similar enhancement as observed in the milky way stars with comparable metallicities , and the [ n / o ] ratio is very low . </S>",
+    "<S> all these results point to an enrichment pattern dominated by type ii supernovae which suggests a milky way type evolutionary model . </S>"
+  ]
+}

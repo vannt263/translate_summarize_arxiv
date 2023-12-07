@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "the s235 star - forming region includes small optical nebulosities ( s235a , s235b , and s235c ) , and it is located about 10@xmath1 south of s235 , which is a well known hii region .",
+    "this star - forming region has been identified by @xmath2 maser ( lo et al .",
+    "1975 , genzel & downes 1977 ) , infrared emission ( krassner et al . 1997 , evans et al .",
+    "1981 , felli et al.1997 ) , radio continuum ( krassner et al . 1979 ,",
+    "felli et al .",
+    "1997 ) , and molecular line spectra ( evans et al . 1981 , makoto et al .",
+    "1986 , snell et al .",
+    "1990 , felli et al .",
+    "according to previous results , the region has several components with somewhat different spatial distributions .",
+    "we present the initial findings of a major observing campaign aimed at understanding the complexity of s235 with greater lucidity .",
+    "we observed the dust emission from s235 at 350 @xmath0 with the submillimeter high angular resolution camera ( sharc ) at the cso during december 1997 and show the resulting map , with a resolution of about 11 , in figure 1 .",
+    "there are two dust cores ; the northern one is close to and , presumably , related to the compact hii region , s235a , and the infrared source , irs3 .",
+    "krassner et al . (",
+    "1979 ) found two 2.2 @xmath0 point source in s235a , and felli et al .",
+    "( 1997 ) observed molecular hydrogen emission distributed around the hii region .",
+    "this @xmath3 emission is along the southeast edge of our northern dust core .",
+    "several infrared point sources observed at 2.2@xmath0 ( felli et al .",
+    "1997 ) are located between the two dust cores . on the other hand ,",
+    "the southern dust core is not associated with any optical nebula , hii region , or nir point source to heat it . s235b and irs4 ,",
+    "the nearest signposts of activity , are about 0.3 pc away from the peak of this core .",
+    "therefore , we suggest that this is a less evolved star - forming core .",
+    "we observed over 50 transitions of 23 molecules ( @xmath4 , @xmath5 , @xmath6 , @xmath7 , @xmath8 , @xmath9 , @xmath10 , @xmath11 , @xmath12 , @xmath13 , @xmath14 , @xmath15 , @xmath16 , @xmath17 , @xmath18 , @xmath19 , @xmath20 , @xmath21 , @xmath22 , @xmath23 , @xmath24 , @xmath25 , and @xmath26 ) at the cso from 1998 to 2000 .",
+    "the typical line width of these molecular spectra is about 3kms@xmath27 at the peak for the northern molecular core .",
+    "the cs @xmath28 integrated intensity map ( figure 1 ) clearly resolves two molecular cores , of which the southern core is less pronounced .",
+    "the two dust cores , however , are not resolved due to poorer angular resolution ( 25 ) , but we do see a slight extension of the northern molecular core in the direction of the southern dust core .",
+    "further molecular line observations with better angular resolution are needed to study gas components associated with the two dust components ."
+  ],
+  "abstract_text": [
+    "<S> we present the results of a multi - faceted study of the high - mass star - forming region s235 . with the caltech submillimeter observatory ( cso ) , we have observed and/or mapped over fifty molecular transitions and 350 @xmath0 dust emission in an attempt to learn more about the chemistry , kinematics , and mass distribution within this rich region . </S>",
+    "<S> we have found two dust cores that are not resolved in our molecular line observations and suggest that one of these is a less evolved star - forming core . </S>"
+  ]
+}

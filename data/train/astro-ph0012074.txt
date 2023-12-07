@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "grs 1915 + 105 ( castro - tirado  1994 ) is the prototypical microquasar , a galactic x - ray binary ejecting plasma clouds at v@xmath20.92c ( mirabel & rodriguez 1994 ) .",
+    "it exhibits unique x - ray variability patterns ( greiner  1996 ) which have been interpreted as instabilities leading to an infall of parts of the inner accretion disk ( belloni  1997 ) .",
+    "it is therefore of great importance to know some details about the system components in order to understand the conditions which lead to these unique characteristics .",
+    "we obtained h and k band infrared spectroscopy of grs 1915 + 105 with the aim of searching for absorption signatures due to the donor .",
+    "since grs 1915 + 105 is a strongly variable infrared source , believed to predominantly caused by synchrotron emission of ejected material ( eikenberry  2000 , greiner  2001 ) , this required high signal - to - noise as well as good spectral resolution in order to beat the strong veiling .",
+    "we therefore used the infrared spectrometer isaac on the 8 m vlt antu telescope on paranal ( eso , chile ) .      the short wavelength ( 0.92.5 @xmath3 m ) arm of isaac is equipped with a 1024@xmath41024 pixel rockwell hgcdte array with an image scale of 0147/pixel . using the grating with the highest possible spectral resolution ( @xmath53000 for a 1  slit ) yields 0.8 / pixel in the h band and 1.2 / pixel in the k band .",
+    "observations were performed in 1 ( 2 ) adjacent h bands , and 2 ( 3 ) adjacent k bands on 20/21 july 1999 ( 24/25 july 2000 ) .",
+    "science exposures consisted of several 250300 sec individual exposures which were dithered along the slit by @xmath630 . in order to correct for atmospheric absorption , the nearby star hd 179913 ( a0v )",
+    "was observed either before or after each science exposure .",
+    "the initial data reduction steps like debiasing , flatfielding and co - adding were performed within the _ eclipse _ package ( devillard 2000 ) .",
+    "the extraction and wavelength calibration was done using an optimal extraction routine within the midas package .",
+    "the spectra of the 3 grating settings covering the k band are shown in fig .",
+    "1 . the top panel shows the strong emission lines of br@xmath7 and hei known already from previous low - resolution spectroscopy ( castro - tirado  1996 ) .",
+    "in addition , we find for the first time several absorption lines which allow us to roughly identify the donor in grs 1915 + 105 .",
+    "the lower panel clearly shows @xmath0co absorption band heads characteristic of a low temperature ( @xmath8 k ) star ( e.g. kleinmann & hall 1986 ) .",
+    "though weak , we also identify the @xmath1co ( 2,0 ) and @xmath1co ( 3,1 ) transitions , indicating a luminosity class iii or brighter ( e.g. wallace & hinkle 1997 ) .",
+    "we also identify the na doublet ( 2.20624/2.20897 @xmath3 m ) , and possibly the ca triplet ( 2.26141/2.26311/2.26573@xmath3 m ) , ali ( 2.10988 @xmath3 m ) and the mgi doublet ( 2.10655/2.10680@xmath3 m ) in absorption .",
+    "note that the cn doublet ( 2.0910/2.0960@xmath3 m ) , which in supergiants is more prominent than al / mg , is not detected .",
+    "thus , we conclude that the donor in grs 1915 + 105 is a late - type k - m giant .",
+    "we have tried to confirm the luminosity class more quantitatively by using the veiling - independent indicator + @xmath9 $ ] + ( ramrez  1997 ) .",
+    "because of the low significance of the ca triplet our measurement has a large error : @xmath10 .",
+    "this value falls in between the ranges covered by dwarfs ( 0.2@xmath11 0.0 ) and giants ( 0.4@xmath11 0.6 ) ( ramrez  1997 ) .",
+    "the ratio of equivalent widths of @xmath0co to @xmath1co which depends on luminosity class ( campbell  1990 ) , has been measured for the seven transitions covered ( lower panel of fig .",
+    "1 ) to @xmath12 , again supporting a giant classification .    unfortunately , the h band spectra are of too low s / n ratio to detect oh or co , thus not allowing us to use the veiling - independent temperature / luminosity discriminants as proposed by meyer  ( 1998 )",
+    ". however , the veiling was roughly determined by comparison of our flux - calibrated 2.35@xmath3 m spectrum of grs 1915 + 105 with that of a k2iii standard star , observed with the same settings .",
+    "we adopted a 13 mag flat continuum and added the k2iii star spectrum scaled to a brightness in the range 13.517.5 mag ( fig .",
+    "2 ) . a comparison with the grs 1915 + 105 spectrum gives a ( not extinction - corrected ) magnitude of k = 14.515.0 mag for the donor . with a distance of @xmath511 kpc and a @xmath13 mag extinction correction",
+    "this implies an absolute magnitude of @xmath14 = 2 ... 3 mag , consistent with the giant classification .",
+    "this identification of the donor of grs 1915 + 105 as a k - m giant implies a rather narrow mass range of 1.01.5 .",
+    "typical spherical mass - loss rates of such stars are much too low to sustain the high accretion luminosity of grs 1915 + 105 via accretion from the donor s stellar wind .",
+    "we therefore suggest ( not too surprisingly ) that accretion should occur via roche lobe overflow .",
+    "we finally note that while our identification contradicts the findings of mart  ( 2000 ) who argue for a massive ob - type companion , it is consistent with the constraints derived by eikenberry  ( 2001 ) ."
+  ],
+  "abstract_text": [
+    "<S> we report on the results of medium - resolution spectroscopy of grs 1915 + 105 in the h and k band using the 8 m vlt at eso . </S>",
+    "<S> we clearly identify absorption bandheads from @xmath0co and @xmath1co . </S>",
+    "<S> together with other features this results in a classification of the donor as a k - miii star . </S>"
+  ]
+}

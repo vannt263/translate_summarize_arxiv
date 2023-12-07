@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "grb  000301c was localised by the inter planetary network ( ipn ) and rxte to an area of @xmath350 arcmin@xmath4 .",
+    "a fading optical counterpart was subsequently discovered with the nordic optical telescope ( not ) about 42  h after the burst .",
+    "the grb was recorded by the ulysses grb experiment and by the near @xmath5-ray / gamma - ray spectrometer . from the near data we estimate the 1501000  kev fluence to be approximately @xmath6 .",
+    "the ipn / rxte error - box of grb  000301c @xcite was observed with the 2.56-m nordic optical telescope ( not ) on 2000 march 3.143.28 ut ( @xmath31.8 days after the burst ) using alfosc .",
+    "comparing with red and blue palomar optical sky survey  ii exposures , a candidate optical transient ( ot ) was found at the position @xmath7=(@xmath8",
+    "@xmath9 @xmath10 , @xmath11 @xmath12 @xmath13 .",
+    "as measured by both ulysses and near , in the @xmath1425  kev energy range , the duration of this burst was approximately 2 s. grb  000301c falls in the short class of bursts , though it is consistent with belonging to the proposed intermediate class or the extreme short end of the distribution of long - duration grbs .",
+    "we obtain a hardness ratio of 2.7@xmath150.6(cutoff)@xmath1530%(statistical error , see @xcite for details on the calculation of the hardness ratio ) .",
+    "[ eps1 ] shows the location of grb  000301c in a hardness vs. duration plot .",
+    "spectroscopic observations were carried out on 2000 march 5 and 6 ut with vlt - antu equipped with fors1 . fig .",
+    "[ figure : spectrum ] shows the normalized spectrum of the ot . following the procedure explained in @xcite we obtained a redshift of @xmath16 .",
+    "the oscillator strength weighted mean observed equivalent width of the fe ii lines is 2.56   , which is strong enough that by comparison to known quasar absorbers one would expect this to likely have a column density of neutral hydrogen in excess of @xmath17 .",
+    "such absorbers are known as damped ly@xmath0 absorbers ( dlas ) , and hold a special interest because of the large amounts of cold gas locked up in those objects @xcite . on the other hand we found that the spectrum drops steeply before the expected central position of the ly@xmath0 line , and well before the s / n drops below detection ( see right side plot of fig .",
+    "[ figure : spectrum ] ) .",
+    "one likely explanation for this is the presence of a very broad ly@xmath0 absorption line . to quantify this we have modelled several ly@xmath0 absorption lines , all at redshift 2.0404 .",
+    "the formal @xmath18 minimum is found at n(h i)@xmath19 ( @xmath18 per dof = 0.86 ) , but any value within a factor 3 of this is acceptable .",
+    "grb  000301c is so far the grb of shortest duration , for which a counterpart has been detected .",
+    "the high - energy properties of the burst are consistent with membership of the short - duration class of grbs , though grb  000301c could belong to the proposed intermediate class of grbs or the extreme short end of the distribution of long - duration grbs .",
+    "we argue that there may be a connection between the host galaxy of grb  000301c and dlas ."
+  ],
+  "abstract_text": [
+    "<S> we discuss two main aspects of the grb  000301c afterglow @xcite ; its short duration and its possible connection with a damped ly@xmath0 absorber ( dla ) . </S>",
+    "<S> grb  000301c falls in the short class of bursts , though it is consistent with belonging to the proposed intermediate class or the extreme short end of the distribution of long - duration grbs . </S>",
+    "<S> based on two vlt spectra we estimate the h i column density to be @xmath1(n(h i))@xmath2 . </S>",
+    "<S> this is the first direct indication of a connection between grb host galaxies and damped ly@xmath0 absorbers . </S>"
+  ]
+}

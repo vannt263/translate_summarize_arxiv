@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "in valdarnini ( 2001 ) i propose an alternative method for analyzing the clustering morphology which is a generalization of the 2-point function @xmath1 ( peebles & hauser 1974 ) and is based on the spherical harmonic analysis .",
+    "the method is drawn from molecular dynamics simulations , where it has been introduced for studying orientational order of supercooled liquids and metallic glasses ( wang & stroud 1991 ) .",
+    "let us consider a system of @xmath2 particles .",
+    "the @xmath3 particle has coordinates @xmath4 , in an arbitrary reference frame . for a specified cutoff radius @xmath5 all the particles such that @xmath6 are neighbors of @xmath7 .",
+    "the line joining @xmath7 to one of the @xmath8 is termed a _",
+    "bond_. the angular coordinates of the vector @xmath9 are @xmath10 and the quantity q_lm(r_i)=_j",
+    "i y_lm(_j,_j ) , eq : defq is the coefficient of the spherical harmonic expansion of the angular density of the bonds associated with the particle @xmath7 . in eq .",
+    "[ eq : defq ] , and hereafter , summation is understood over all particles @xmath8 of the distribution such that @xmath6 .",
+    "the coefficients @xmath11 are defined as the bond - orientational order parameters and they can be drastically changed by a rotation of the reference systems . a natural quantity to consider , which is rotation invariant , is q_l(r_i)=. eq : qla using the addition theorem for the spherical harmonics , the expression simplifies to q_l(r_i)= , eq : qlb where @xmath12 is the legendre polynomial , @xmath13 is the angle between two bonds and the summations in eq .",
+    "[ eq : qlb ] are then independent of the chosen frame .",
+    "an useful quantity is the auto - correlation @xmath14 of the coefficients @xmath15 .",
+    "the function @xmath16 is defined as follows : for all of the @xmath17 pairs @xmath18 , such that @xmath19 , where @xmath20 is the thickness of the radial bin , then @xmath21 is the sum over all of these pairs      this equation can be greatly simplified : let @xmath22 be the set of neighbors of the particle @xmath7 and @xmath23 that of the particle @xmath24 , which satisfy @xmath25 and @xmath26 . then the summation becomes g_l(r)=1 _ i _ k _ j _ p p_l(_jp ) , eq : gl4 with * @xmath27 * being the angle between @xmath28 and @xmath29 .",
+    "the summation over the pairs is @xmath30 , with the sum over the particles @xmath24 only for those particles with @xmath19 .",
+    "the effectiveness of the statistical analysis in quantifying clustering morphology is studied ( valdarnini 2001 ) by applying the statistical estimator @xmath16 to point distributions produced by an ensemble of cosmological @xmath31 body simulations with a cdm spectrum .",
+    "the results shown that the statistical method defined by the function @xmath32 can be used to analyze the clustering morphology produced by gravitational clustering in a quantitative way .",
+    "the function @xmath32 describes anisotropies in the clustering distribution by measuring the degree of correlation between the angular densities as seen from two different observers separated by @xmath33 .",
+    "@xmath32 can then be considered a statistical measure of clustering patterns , with different scales probed by varying the input parameters @xmath34 and @xmath5 . with large redshift surveys becoming available in the next few years",
+    ", the proposed statistical method appears as a promising tool for analyzing patterns in the galaxy distribution ."
+  ],
+  "abstract_text": [
+    "<S> a new method for analyzing the morphological features of point patterns is presented . </S>",
+    "<S> the method is taken from the study of molecular liquids , where it has been introduced for making a statistical description of anisotropic distributions . </S>",
+    "<S> the statistical approach is based on the spherical harmonic expansion of angular correlations .    </S>",
+    "<S> @xmath0cdm  </S>"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "we estimated @xmath0 and @xmath1 color gradients , as well as total and bulge mean colors , for each galaxy of a sample of 257 barred and unbarred sbc systems , using the catalog of longo & a. de vaucouleurs ( 1983,1985 ) , which presents photoelectric aperture photometry data .",
+    "the gradients were calculated through robust statistical methods , which consist essentially in applying the least median of squares regression ( rousseeuw 1984 ) .",
+    "moreover , we have done a comparative photometric study through ccd images to atest the validity of the results obtained .",
+    "our results , considering only face  on galaxies , indicate that @xmath2 59% of late  type galaxies have negative color gradients , @xmath2 27% have no gradients , and @xmath2 14% have positive gradients .",
+    "furthermore , there is an excess of barred galaxies among systems with zero or positive color gradients ( table 1 ) .",
+    "thus , it seems that bars act as a mechanism of homogenization of the stellar population along late  type galaxies , a result which puts in trouble the monolithic scenario of eggen , lynden ",
+    "bell , & sandage ( 1962 ) .",
+    "lllllll gradient & color & n & sample & barred & 0.5 cm bulge & 0.5 cm total + & & -0.1 cm ( 1 ) & 0.4 cm ( 2 ) & 0.4 cm ( 3 ) & & + negative & @xmath0 & -0.1 cm 78 & 0.3 cm 63% & 0.3 cm 75% & 0.74 @xmath3 0.01 & 0.53 @xmath3 0.01 + null & & -0.1 cm 32 & 0.3 cm 26% & 0.3",
+    "cm 91% & 0.57 @xmath3 0.02 & 0.57 @xmath3 0.02 + positive & & -0.1 cm 14 & 0.3 cm 11% & 0.3 cm 72% & 0.36 @xmath3 0.03 & 0.55 @xmath3 0.05 + negative & @xmath1 & -0.1 cm 55 & 0.3 cm 53% & 0.3 cm 73% & 0.24 @xmath3 0.03 & -0.1 cm -0.05 @xmath3 0.02 + null & & -0.1 cm 30 & 0.3 cm 29% & 0.3 cm 83% & -0.1 cm -0.05 @xmath3 0.03 & -0.1 cm -0.05 @xmath3 0.03 + positive & & -0.1 cm 19 & 0.3 cm 18% & 0.3 cm 90% & -0.1 cm",
+    "-0.31 @xmath3 0.07 & 0.05 @xmath3 0.07 +    _ note .  _ ( 1 ) : number of galaxies in each regime ; ( 2 ) : fraction of the sample in each regime ; ( 3 ) : fraction of barred galaxies in each regime .",
+    "we found a correlation between total and bulge colors , which is a consequence of an underlying correlation between the colors of bulges and disks found by other authors ( peletier & balcells 1996 ) .",
+    "moreover , one can see in table 1 that the mean total color is approximately the same irrespective of the gradient regime , while bulges are systematically bluer in galaxies with null or positive gradients .",
+    "these results seem to indicate that bars act changing the color of bulges due to secular dynamical processes ( see , e.g. , friedli & martinet 1993 ) , turning these bulges bluer , while disks are getting redder as a consequence of passive evolution .",
+    "these effects are expected in the secular evolutionary scenario , but they are not consistent with the monolithic and hierarchical scenarios ( e.g. , kauffmann , guiderdoni , & white 1994 ) for spiral galaxy formation .",
+    "we also found no correlation between color and chemical abundance gradients , suggesting that the color gradients are more sensitive to the age rather than to the metallicity of the stellar population .",
+    "further results and details will appear in a forthcoming paper ( gadotti & dos anjos , in preparation ) .",
+    "we acknowledge the conselho nacional de pesquisa e desenvolvimento ( cnpq ) , the nexgal ",
+    "pronex , the fundao de amparo  pesquisa do estado de so paulo ( fapesp ; grant 99/07492 - 7 ) , and nsf grant ast-9900789 for the financial support .    eggen , o.j . ,",
+    "bell , d. , & sandage , a.r .",
+    "1962 , , 136 , 748 friedli , d. , & martinet , l. 1993 , , 277 , 27 kauffmann , g. , guiderdoni , b. , & white , s.d.m .",
+    "1994 , , 267 , 981 longo , g. , & de vaucouleurs , a. 1983 , univ .",
+    "texas mon . in astronomy , no.3 longo , g. , & de vaucouleurs , a. 1985 , univ .",
+    "texas mon . in astronomy , no.3a peletier , r.f .",
+    ", & balcells , m. 1996 , , 111 , 2238 rousseeuw , p.j .",
+    "1984 , journal of the american statistical association , 79 , 871"
+  ],
+  "abstract_text": [
+    "<S> we have done a robust statistical analysis of ubv color profiles of 257 sbc barred and unbarred galaxies . </S>",
+    "<S> we found that there is an excess of barred galaxies among the objects with null or positive ( bluish inward ) color gradients , which seems to indicate that bars act as a mechanism of homogenization of the stellar population along galaxies . </S>",
+    "<S> moreover , the relationship found between total and bulge colors shows that , in the process of homogenization , the stellar population of bulges are getting bluer , whereas the total color of galaxies remains the same . </S>",
+    "<S> these characteristics are expected in a secular evolutionary scenario , and seem incompatible with both the monolithic and the hierarchical scenarios for spiral galaxy formation . </S>"
+  ]
+}

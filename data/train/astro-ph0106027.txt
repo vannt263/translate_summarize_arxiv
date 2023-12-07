@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "the x - ray background has an effective energy spectral index of 0.4 between 2 and 20 kev , whereas agns have steeper spectral indices ( 0.8 for type i ) .",
+    "one of the major goals of the current generation of x - ray observatories has been to identify those source populations which are primarily responsible for the bulk of the overall energy density , which peaks at 30 kev . in particular , we aim to classify those sources contributing to the source counts in the range 2 - 10 kev , and to recognize those with the hardest spectra .",
+    "the xmm - newton observatory was pointed at the lockman hole in apr./may 2000 , resulting in a total of @xmath0100 ks .",
+    "of useful data .",
+    "a total of @xmath1 sources was detected , as reported in hasinger et al .",
+    "2000 ( a&a , * 365 * , l45 ) . of these sources ,",
+    "about 50 were previously detected with rosat , so that about 100 are new detections with xmm - newton .",
+    "summed x - ray spectra ( table 1 ) are shown in fig . 1 for sources with redshifts from optical spectroscopy ( lehmann et al 2001 a&a * 371 * , 833 ) , and for sources with no rosat counterpart ( and hence no optical counterpart as yet )",
+    ". the summed x - ray spectra of type i agn , type ii agn , and objects without optical identification are shown .",
+    "from a deep xmm - newton observation of the lockman hole , and using optical identifications established following the deep rosat survey of the same area , we have found that :           @xmath2 selected to have a @xmath3 confidence detection in the 5 - 8 kev bandpass . f(2 - 10 ) is the mean flux / galaxy in cgs units .",
+    "all agn ii galaxies have significant detection in the hard band .",
+    "n = number of galaxy spectra summed + agn i = sources in lehmann et al . with class",
+    "= a - c + agn ii = sources in lehmann et al . with class",
+    "= d + -1.5 in              these observations were made using the xmm - newton x - ray observatory , built , launched and operated by the european space agency with nasa participation .",
+    "these results rely heavily on the analysis performed and reported by guenther hasinger and colleagues ( a&a 2000 * 365 * , l45 ) ."
+  ],
+  "abstract_text": [
+    "<S> using 100ks of xmm - newton data on the lockman hole , we show how the x - ray background spectral paradox is being resolved . </S>",
+    "<S> we find the summed spectra of the type i agn , type ii agn , and the unidentified objects . </S>",
+    "<S> we conclude that the hard slope of the xrb is caused predominantly by latter sources , i.e. the type ii agn and unidentified objects .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

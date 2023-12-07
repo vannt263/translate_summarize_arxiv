@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "there is now increasing evidence for the presence of oscillations in the angular power spectrum of cosmic microwave background ( cmb ) anisotropies .",
+    "the matter power spectrum of the large scale structure also contains a signature of baryons in the form of oscillations ; the amplitudes of oscillations , however , are significantly lower with fluctuations at the level of @xmath0 5% for @xmath1cdm with widths of order @xmath2 h mpc@xmath3 . for an unambiguous detection ,",
+    "3d surveys should have resolution scales greater than @xmath4 300 h@xmath3 mpc in all three dimensions . in 2d ,",
+    "oscillations can also be detected via the projected power spectrum .",
+    "the 2d power spectrum requires no precise redshifts and can be constructed with halos detected in upcoming wide - field lensing and sz surveys .",
+    "following our suggestions that the angular power spectrum of halos can be used as a probe of cosmology ( cooray et al .",
+    "2001 ) , projected oscillations provide a new cosmological test ; this is similar to the measurement of the angular diameter distance to the last scattering surface using the first acoustic peak in the cmb anisotropy power spectrum .",
+    "the angular power spectrum of halos in a redshift bin is a projection of the the halo number density power spectrum @xmath5 where @xmath6 is the distribution of halos in a given redshift bin normalized so that @xmath7 , @xmath8 is the hubble parameter , and @xmath9 is the angular diameter distance in comoving coordinates . note that @xmath6 comes directly from the observations of the number counts as a function of redshift .",
+    "the underlying linear power spectrum of density fluctuations , traced by halos , contains two physical scales : the horizon at matter radiation equality @xmath10 , which controls the overall shape of the power spectrum , and the sound horizon at the end of the compton drag epoch , @xmath11 , which controls the small wiggles in the power spectrum .",
+    "the angular or multipole locations of these features shift in redshift as @xmath12 .",
+    "we propose the following test : measure @xmath13 in several redshift bins and , using the fact that @xmath14 scales with @xmath15 , constrain the angular diameter distance as a function of redshift . unlike the case with cmb",
+    ", we can use tracers over a wide range in redshift and measure the distance as a function of redshift , or redshift bin .",
+    "the test can be affected by two ways : ( 1 ) non - linearities generally erase the baryon oscillations and at @xmath16 oscillations are generally affected . at low redshifts",
+    ", one can use the test with the overall shape defined by @xmath17 .",
+    "( 2 ) the tracer bias can be scale dependent , but for mass selected catalogs via lensing or sz , bias can be studied with simulations .",
+    "author thanks wayne hu and collaborators , regrets lack of references , and thanks fairchild foundation and the doe for funding ."
+  ],
+  "abstract_text": [
+    "<S> we study the possibility for an observational detection of oscillations due to baryons in the matter power spectrum and suggest a new cosmological test using the angular power spectrum of halos . </S>",
+    "<S> the _ </S>",
+    "<S> standard rulers _ of the proposed test involve overall shape of the matter power spectrum and baryon oscillation peaks in projection , as a function of redshift . </S>",
+    "<S> since oscillations are erased at non - linear scales , traces at redshifts greater than 1 are generally preferred . </S>",
+    "<S> given the decrease in number density of clusters at high redshift , however , one is forced to use tracers corresponding to galaxy groups and galaxies themselves .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

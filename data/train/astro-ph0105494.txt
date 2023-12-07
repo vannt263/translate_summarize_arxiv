@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the galactic x - ray transient source grs  1915 + 105 has shown spectacular x - ray variability during last four years of its observation by rxte and other satellites ( greiner et al . , 1996 , yadav et al . , 1999 , belloni et al . , 2000",
+    "this source was discovered in 1992 with the watch all sky x - ray monitor onboard the granat satellite ( castro - tirado et al . 1994 ) .",
+    "the x - ray intensity was found to vary on a variety of time scales and the light curve showed a complicated pattern of dips and rapid transitions between high and low intensity ( belloni et al . , 1997 , taam et al . , 1997 ) .",
+    "recently , yadav et al . ( 1999 ) have made a detailed study of various types of x - ray bursts seen in grs  1915 + 105 from ixae / ppcs observations during 1997 june - august and attempted to explain these bursts in the light of the recent theories of advective accretion disks . in x - ray astronomy ,",
+    "the terminology x - ray burst is used for type i and type ii classical bursts seen in lmxbs .",
+    "the timing and spectral properties of the flares / bursts described here are completely different than that of the classical bursts ( yadav & rao , 2000 ) .",
+    "table i.    summary of selected observations of grs  1915 + 105    [ cols=\"<,^,<,^,^,^ \" , ]     q. flux= average quiescent time flux ( c / s ) , var .",
+    "= variable , @xmath3mean asm flux ( c / s ) for a day , @xmath4mean burst recurrence time .    in table 1 , we list details of rxte / pca observations discussed here along with some of the properties of the observed x - ray flares / bursts .",
+    "each burst cycle consists of a low flux quiescent phase followed by a high flux burst phase and the fast transition in less than 10 s. the dips or the quiescent phase in these observations are spectrally hard while the brighter portions ( the burst phase ) are soft ( yadav , 2001 )",
+    ". for details of these observations as well as of our analysis please see yadav & rao ( 2000 ) .",
+    "on the basis of timing properties , these flares / bursts can broadly be put into two classes : regular bursts centered around a fixed period with low dispersion ( @xmath5 ) and irregular bursts with no fixed periodicity ( @xmath6 ) .",
+    "these flares / bursts can be classified into four types : 1 ) regular bursts with short burst phase of @xmath0 20 s ( r1 ) with @xmath7-@xmath8 , 2 ) regular bursts with short quiescent phase of @xmath0 20 s ( r2 ) with @xmath9 up to 50@xmath10 , 3 ) long regular bursts ( r3 ) with burst cycle @xmath1 1000 s and @xmath9 @xmath0 1@xmath215% , and 4 ) irregular bursts ( ir ) ( see figure 1 ) .",
+    "we have measured the quiescent time and the burst duration for all types of bursts and results are shown in figure 1 .",
+    "the data of ir bursts seen on 1997 june 18 fall diagonally ; clearly showing a strong correlation between the burst duration and the quiescent time . on the other hand ,",
+    "data for different types of regular bursts fall on either horizontal or vertical branches implying no such correlation for the regular bursts ( yadav et al . , 1999 ) .",
+    "the r1a and r1b regular bursts fall on the horizontal branch with the burst time @xmath0 20 s. the r2 regular bursts fall on the vertical branch with the quiescent time @xmath0 20 s while the r3 regular bursts fall on vertical branch with the quiescent time @xmath0 320 s(this is shown in the inset of figure 1 ) .",
+    "the most striking features of these flares / bursts are slow exponential rise , sharp linear decay and hardening of spectrum as burst progresses ( paul et al .",
+    "the decay time scales are shorter than the rise time scales . in sharp contrast",
+    ", the decay time is longer than the rise time in classical bursts and spectrum is initially hard and becomes softer as the burst decays ( lewin et al . , 1995 ) .",
+    "yadav et al .",
+    "( 1999 ) have suggested that the source is in a high - soft state during the burst phase and in a low - hard state during the quiescent phase on the basis of available spectral observations and derived disk parameters of grs  1915 + 105 .",
+    "the fast time scale for the transition of the state is explained by invoking the appearance and disappearance of the advective disk in its viscous time scale .",
+    "such fast changes of states are possible in the two component accretion flows ( tcaf ) where the advective disk covers the standard thin disk ( chakrabarti , 1996 , chakrabarti and titarchuk , 1995 ) .",
+    "chakrabarti & manickam ( 2000 ) have provided a relation ; @xmath11 based on tcaf . where t@xmath12 is the duration of off state ( duration in which the sonic sphere becomes ready for catastrophic compton cooling ) , @xmath13 is the intermediate qpo frequency between 2 @xmath2 10 hz , and @xmath14 is a dimensionless parameter defined as @xmath15 where @xmath16 and @xmath17 are the solid angles of the inflow & outflow respectively and @xmath18 is the disk accretion rate in units of eddington accretion rate .    in figure 2 , we plot the above relation in the log - log scale taking t@xmath12 as the quiescent time for @xmath14 @xmath19 0.0145 , 0.0245 and 0.0335 alongwith our qpo results ( points ) .",
+    "these results are in good agreement .",
+    "the data points of r2 and r3 bursts when asm flux was 99.4 & 98.8 c / s respectively fall along the dotted line with @xmath20 0.0335 ( see table 1 ) .",
+    "the data points of r1a and ir bursts when asm flux was 59.7 and 61.5 c / s respectively fall along the dashed - dotted line ( @xmath20 0.0245 ) .",
+    "the data points of r1b bursts during which asm flux has lowest value of 47.6 c / s fall along the dashed line ( @xmath20 0.0145 ) .",
+    "it may be noted here that the @xmath14 and the asm flux though determined independently agree well for different types of flares / bursts as both of these are related to the disk accretion rate @xmath18 .",
+    "our results in figure 2 suggest that the t@xmath12 represents the quiescent time of the flares / bursts which may or may not be of the order of the viscous time scales of the thin accretion disk ."
+  ],
+  "abstract_text": [
+    "<S> we present results of our analysis of a set of rxte / pca observations of x - ray flares / bursts with burst cycle ranging from 30 to 1300 s from the galactic x - ray transient source grs 1915 + 105 during last four years . </S>",
+    "<S> these flares / bursts can be classified into four types : 1 ) regular bursts with short burst phase of @xmath0 20 s ( r1 ) , 2 ) regular bursts with short quiescent phase of @xmath0 20 s ( r2 ) , 3 ) long regular bursts ( r3 ) with burst cycle @xmath1 1000 s , and 4 ) irregular bursts ( ir ) . </S>",
+    "<S> for all the observed bursts , the duration of the quiescent phase is inversely proportional to the square of the qpo frequency ( 2@xmath210 hz ) . </S>"
+  ]
+}

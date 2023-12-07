@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "when working with x - ray data each x - ray mission has its own software package to reduce the data due to the specific requirements of the detectors onboard . for the xmm - newton mission the reduction software package xmmsas has been developed .",
+    "the main purpose of the xmmsas is to allow users to take the observational data file ( odf ) and create event files and at a later stage scientific files like images , spectra and lightcurves .",
+    "each xmmsas task has a manual either in html format or as a postscript file ( please see at to get the whole list of available xmmsas tasks ) .",
+    "the manual gives a description of the tasks and lists all available task parameters .",
+    "however , this is often confusing to new users of the xmmsas in order to see which tasks are needed and how they have to be applied to their data . for this reason at mpe the idea was born to design a web - based cookbook that explains users how to work with their xmm - newton observational data files ( odf ) in order to create final scientific files like spectra and light curves . at first",
+    "this cookbook was only written for users at mpe , but it has been now designed and make accessible to users from outside the mpe .",
+    "to explain the tasks that have to be performed to create event files and finally scientific files , the cookbook first describes general tasks and is then organized by the instruments onboard xmm . there are chapters for epic pn , epic mos , the rgs , and the optical monitor ( om).the two epic chapters have an introductory part and are then split into sections for spatial , spectral and timing analysis of the data .",
+    "fig [ epic_pn_page ] displays as an example the epic pn page .",
+    "the cookbook has the following structure :    1 .",
+    "general tasks 2 .",
+    "data preparation 3 .",
+    "epic pn * spatial analysis * spectral analysis * timing analysis 4 .",
+    "epic mos * spatial analysis * spectral analysis * timing analysis 5 .",
+    "the mpe cookbook for the xmmsas can be found here :",
+    "the mpe xmmsas ` cookbook ' is of course not the only description of the xmmsas .",
+    "first there is esa s official xmmsas users guide which is available at vilspa :"
+  ],
+  "abstract_text": [
+    "<S> this paper will give a short description of a ` cookbook ' for the xmm - newton data reduction software xmmsas . </S>",
+    "<S> this ` cookbook ' has been developed at the max - planck - institut fr extraterrestrische physik ( mpe ) , garching . </S>",
+    "<S> the task of this ` cookbook ' is to describe the necessary xmmsas tasks and show examples to make it easy for new users of the xmmsas to understand the steps which have to perform to reduce their xmm x - ray data . </S>"
+  ]
+}

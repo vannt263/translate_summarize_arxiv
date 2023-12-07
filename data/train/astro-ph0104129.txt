@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "for distant stellar populations , one relies upon the integrated colors or spectra to investigate their ages and metallicities since individual stars are not resolved . here ,",
+    "we specifically focus on the h@xmath0 index , which is widely used as an age indicator .",
+    "most of the previous works ( e.g. , worthey 1994 ) , however , have been done on the basis that stars near the main - sequence turnoff ( msto ) region are the most dominant sources for the integrated strength of h@xmath0 .",
+    "consequently , without meticulous consideration for stars beyond the red giant branch , they claimed that the strength of h@xmath0 depends on the location of the msto , which in turn depends on the age at a given metallicity .",
+    "several investigators , however , have cast some doubt upon the sensitivity of the h@xmath0 index given the presence of other warm stars , especially blue horizontal - branch ( hb ) stars ( see , e.g. , burstein et al .",
+    "1984 ; jorgensen 1997 ) .    on the observational side , it was barely possible to obtain low signal - to - noise ( s / n ) spectra of globular clusters in systems outside the local group ( e.g. , mould et al .",
+    "these spectra have been useful only for kinematic information . with the advent of 10 m - class telescopes , however , kissler - patig et al .",
+    "( 1998 ) and cohen , blakeslee , & ryzhov ( 1998 ) have successfully obtained relatively high s / n spectra that provide reliable line index calibration for globular clusters in ngc 1399 and m87 , the central giant elliptical galaxies in fornax and virgo clusters .",
+    "for our population models , the yale isochrones ( demarque et al . 1996 ) , rescaled for @xmath2-element enhancement ( salaris , chieffi , & straniero 1993 ) , and the hb evolutionary tracks by yi , demarque , & kim ( 1997 ) have been used .",
+    "the salpeter ( 1955 ) initial mass function is adopted for the relative number of stars along the isochrones . for the conversion from theoretical quantities to observable quantities",
+    ", we have taken the most recently compiled stellar library of lejeune , cuisinier , & buser ( 1998 ) in order to cover the largest possible ranges in stellar parameters such as metallicity , temperature , and gravity .",
+    "the detailed calculation method of spectral index is presented in lee , yoon , & lee ( 2000 ) .    in figure 1a , the variations of h@xmath0 strength as a function of metallicity ( mg@xmath1 ) are plotted at given ages . here , @xmath3",
+    "t = 0 gyr corresponds the recently favored mean age of galactic globular clusters ( @xmath4 12 gyr ) in the light of new distance scale as suggested by hipparcos ( e.g. , chaboyer et al . 1998 ) .",
+    "note that , unlike the models without hb stars ( @xmath5 @xmath6 ) , distinct ",
+    "wavy \" features appear in our models with hb stars ( @xmath7 @xmath6 ) .",
+    "it is found that the strength of h@xmath0 does not simply decrease with either increasing age or increasing metallicity once hb stars are included in the models .",
+    "now it is evident that the blue hb stars around ( @xmath8 @xmath9 @xmath10)@xmath11 @xmath4 0 are the key contributors for the strength of h@xmath0 .",
+    "the differences in h@xmath0 strengths between the models with and without hb stars are as much as 0.75  at the peak .",
+    "in addition , it should be noted that the peak of the h@xmath0 enhancement moves to higher metallicity as age gets older .",
+    "having confirmed that the detailed modeling of hb is crucial in the use of h@xmath0 index as an age indicator , figure 1b compares our results with observations of globular cluster systems in the milky way galaxy and in ngc 1399 .",
+    "it is important to note here that all of these observations were carried out at the keck telescope with the identical instrumental configuration , the low resolution imaging spectrograph ( lris , oke , de zeeuw , & nemec 1995 ) . despite the still large observational uncertainties , it is inferred from figure 1b that the ngc 1399 globular cluster system is perhaps systematically couple of billion years older , in the mean , than the galactic counterpart .",
+    "it is of considerable interest , in this respect , to find that a similar age difference is inferred from the  metal - poor hb solution \" of the uv upturn phenomenon of local giant elliptical galaxies ( park & lee 1997 ; yi et al .",
+    "if our age estimation is confirmed to be correct , this would indicate that the star formation in denser environments has proceeded much more rapidly and efficiently , so that the initial epoch of star formation in more massive ( and denser ) systems occurred several billion years earlier than that of the milky way ( see also lee 1992 ) .",
+    "burstein , d. , faber , s. m. , gaskell , c. m. , & krumm , n. 1984 , , 287 , 586 chaboyer , b. , demarque , p. , kernan , p. j. , & krauss , l. m. 1998 , , 494 , 96 cohen j. g. , blakeslee , j. p. , & ryzhov , a. 1998 , , 496 , 808 demarque , p. , chaboyer , b. , guenther , d. , pinsonneault , m. , & yi , s. 1996 , yale isochrone 1996 jorgensen , i. 1997 , , 288 , 161 kissler - patig , m. , brodie , j. p. , schroder , l. l. , forbes , d. a. , grillmair , c. j. , & huchra , j. p. 1998",
+    ", , 115 , 105 lee , h .- c . ,",
+    "yoon , s .- j . , & lee , y .- w .",
+    "2000 , , 120 , 998 lee , y .- w .",
+    "1992 , , 104 , 798 lejeune , t. , cuisinier , f. , & buser , r. 1998 , a&as , 130 , 65 mould , j. r. , oke , j. b. , de zeeuw , p. t. , & nemec , j. m. 1990 , , 99 , 1823 oke , j. b. , de zeeuw , p. t. , & nemec , j. m. 1995 , , 99 , 1823 park , j .- h .",
+    ", & lee , y .- w .",
+    "1997 , , 476 , 28 salaris , m. , chieffi , a. , & straniero , o. 1993 , , 414 , 580 salpeter , e. e. 1955 , 121 , 161 worthey , g. 1994 , , 95 , 107 yi , s. , demarque , p. , & kim , y .- c .",
+    "1997 , , 482 , 677 yi , s. , lee , y .- w . , woo , j .- h . , park , j .- h . ,",
+    "demarque , p. , & oemler , a. , jr . 1999 , , 513 , 128"
+  ],
+  "abstract_text": [
+    "<S> after taking into account , for the first time , the detailed systematic variation of horizontal - branch ( hb ) morphology with age and metallicity , our population synthesis models show that the integrated h@xmath0 index is significantly affected by the presence of blue hb stars . </S>",
+    "<S> our models indicate that the strength of the h@xmath0 index increases as much as 0.75  due to blue hb stars . according to our models , a systematic difference between the globular cluster system in the milky way galaxy and that in ngc 1399 in the h@xmath0 vs. mg@xmath1 diagram is understood if globular cluster systems in giant elliptical galaxies are couple of billion years older , in the mean , than the galactic counterpart . </S>"
+  ]
+}

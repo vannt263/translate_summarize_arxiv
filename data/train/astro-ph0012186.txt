@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "during the last 5 years , many jupiter - mass planets have been discovered in 3 to 5-day orbits about solar - type stars .",
+    "determining the atmospheric composition of such planets presents challenges to both observers and theorists .",
+    "theoretical models must address the equilibrium chemistry , cloud - formation physics and absorption / scattering properties of irradiated atmospheres at temperatures of order 1000 k. several such models ( marley et al 1999 ; sudarsky et al 2000 ; seager &  sasselov 2000 ; seager et al 2000 ) have been published lately , with a variety of predictions for the geometric albedo spectra . for observers , the challenge is to disentangle the optical reflection spectrum or the thermal ir emission spectrum from a stellar background that may be tens of thousands of times brighter .",
+    "charbonneau et al ( 1999 ) published a deep upper limit on the strength of the mid - optical reflection of the planet that orbits t boo every 3.3 days , while cameron et al ( 1999 ) reported a candidate reflected - light signature at flux levels slightly greater than the charbonneau upper limit .",
+    "we secured new observations of @xmath0 boo on 2000 march 14 , 15 , 24 , april 23 , 24 , may 13 and 17 .",
+    "we used the same instrument and detector on the 4.2-m william herschel telescope , as previously reported by collier cameron et al ( 1999 ; chpj99 ) for the 1998 and 1999 data .",
+    "the observational procedures and data extraction and analysis methods were identical to those described by chpj99 .",
+    "an updated orbital ephemeris for the times at which the planet s velocity passes through the centre - of - mass velocity from red to blue , hjd@xmath4 , was derived from radial - velocity data kindly provided by g. marcy and colleagues , incorporating observations as recent as 2000 march 24 .",
+    "this leads to a small but significant departure from the extrapolated orbital timings used in chpj99 s interpretation of the 1998/99 data .",
+    "analysis of all three seasons wht data with the revised ephemeris does not reproduce the candidate detection reported by chpj99 .",
+    "instead we find a 99.9%  upper limit on the opposition planet / star flux ratio , @xmath5 , in the most likely range of orbital velocity amplitudes , @xmath6 km s@xmath7 ( fig .",
+    "this value for @xmath8 assumes a wavelength - independent albedo over the observed wavelength range 387.4 to 586.3 nm , and a lambert - sphere phase function .",
+    "given that @xmath9 where @xmath10 is the radius of the planet s orbit , the geometric albedo must be @xmath11 if @xmath12 as indicated by the recent models of burrows et al ( 2000 ) .",
+    "the hipparcos parallax and barnes - evans angular diameter yield @xmath13 r@xmath14 ( baliunas et al 1995 ) .",
+    "the spectral type and surface gravity indicate @xmath15 m@xmath14 ( fuhrmann 1998 , gonzalez 1998 ) .",
+    "the orbital radial velocity amplitude of the star is @xmath16 m s@xmath7 ( marcy 1999 , personal communication ) .",
+    "the projected equatorial rotation speed of the star is @xmath17 km s@xmath7 ( gray 1982 , baliunas et al 1997 , fuhrmann 1998 , gonzalez 1998 , cameron et al 1999 ) .",
+    "we performed monte carlo simulations with random gaussian distributions in these 4 variables to determine the distributions for derived planet mass and projected orbital velocity amplitude .    at the @xmath18 gyr age of @xmath0 boo ,",
+    "the high @xmath19 suggests tidal synchronisation . as in 1998 and 1999 ,",
+    "the spring 2000 data show distortions in the stellar line profiles , which drift from blue to red at the rate expected of stellar surface features if the star rotates synchronously with the planet s orbit .",
+    "we therefore rejected models that yielded synchronization timescales for the star , @xmath20 that were longer than the main - sequence lifetime @xmath21 years .",
+    "the resulting probability distribution spans the orbital velocity range @xmath22 km s@xmath7 and yields planet masses @xmath23 .    the new upper limit on the geometric albedo of @xmath0 boo b , @xmath11 between 387.4 to 586.3 nm , lies between the albedo spectra predicted by sudarsky et al ( 2000 ) for `` isolated '' and `` modified '' class iv roaster atmospheres , and suggests that substantial pressure - broadened na i d absorption may be present .",
+    "the class v models of sudarsky et al appear to offer better prospects for direct detection of hot jupiters with lower surface gravities such as @xmath24 and b , for which similar observations are scheduled in 2000 october and november .",
+    "baliunas s. l. , et al . , 1998 , , 474 , l119 butler r. p. , et al . , 1997 , , 474 , l115 burrows a. , et al . ,",
+    "2000 , , 534 , l97 cameron a.c .",
+    ", horne k. , penny a. j. , james d. j. , 1999 , nature , 402 , 751 charbonneau d. , et al .",
+    ", 1999 , , 522 , l145 fuhrmann k. , pfeiffer m. j. , bernkopf j. , 1998 , 336 , 942 gonzalez g. , 1998 , , 334 , 221 gray d. f. , 1982 , , 258 , 201 marcy , g. w. , et al . , 1997 , , 481 , 926 marley m. s. , et al . , 1999 , , 513 , 879 seager s. , sasselov d. , 1998 , , 502 , l157 seager s. , whitney b. , sasselov d. , 2000 , astro - ph 0004001 sudarsky , d. , burrows , a. , pinto p. , 2000 ,"
+  ],
+  "abstract_text": [
+    "<S> we present new results derived from high - resolution optical spectra of the @xmath0 boo system , secured in march - may 2000 . </S>",
+    "<S> the results do not show the same feature reported by cameron et al ( 1999 ) as a candidate reflected - light signature from the planet . together with earlier results from the 1998 and 1999 seasons , the new data yield a 99.9%upper limit on the opposition planet / star flux ratio @xmath1 between 387.4 and 586.3 nm , a factor 3 deeper than the upper limit of charbonneau et al ( 1999 ) . </S>",
+    "<S> for an assumed planet radius @xmath2 , the upper limit on the mean geometric albedo is @xmath3 , 40%  that of jupiter . </S>",
+    "<S> we find new evidence that the star s rotation is synchronised with the planet s orbital motion . </S>",
+    "<S> using a monte carlo analysis we infer that the planet s mass must lie in the range 5.5 to 10 times the mass of jupiter .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

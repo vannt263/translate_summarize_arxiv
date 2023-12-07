@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "g28.17 + 0.05 was discovered in 21 cm hi observations made with the nrao 140 foot telescope ( minter et al .",
+    "2001 ) . at the time of these observations",
+    "these data comprised the most detailed look at this part of the galactic plane in hi .",
+    "g28.17 + 0.05 is shown in figure 1 .",
+    "it appears as a shell of bright emission surrounding an area of reduced emission centered on @xmath8 .",
+    "g28.17 + 0.05 is estimated to have a distance of @xmath9 at which its diameter would be @xmath10 . the reduced emission in the central area of g28.17 + 0.05 ( hereafter referred to as the core ) is the result of hi self - absorption ( see figure 2 ) .",
+    "models of the 21 cm hi emission from g28.17 + 0.05 indicate the temperature in the core is @xmath11 while the shell has @xmath12 .",
+    "the core contains @xmath13 of the total hi mass .",
+    "the column density of atomic hydrogen through the center is @xmath14 , depending on the exact value of the temperature in the core . the total atomic hydrogen mass within g28.17 + 0.0 is @xmath15 .",
+    "the line widths ( fwhm ) of hi in the core and shell are both @xmath16 .",
+    "this results in g28.17 + 0.05 being gravitationally bound from just its atomic mass alone !",
+    "the core of g28.17 + 0.05 is associated with anomalously excited 1720  mhz oh emission ( see figure 2 ) ( turner 1982 ) .",
+    "the oh has the same line width as the hi but is blue - shifted by @xmath17 relative to the hi .",
+    "this oh emission is brightest toward the core of the cloud .",
+    "both @xmath5co and @xmath6co have been observed toward g28.17 + 0.05 . the @xmath5co emission lines ( from sanders et al .",
+    "1986 ) are seen to have an enhancement toward the core .",
+    "this indicates that there is at least @xmath18 contained in molecular material within g28.17 + 0.05 .",
+    "observations from the bu - fcrao inner ring survey indicate that both @xmath5co and @xmath6co are self - absorbed toward the core of g28.17 + 0.05 ( jackson & bania , private communication ) .",
+    "these observations give a core temperature of @xmath19 .",
+    "furthermore , the fcrao data indicate that the @xmath5co and @xmath6co line widths are also the same as the hi line widths . the dominant mass of g28.17 + 0.05 is almost certainly molecular .",
+    "there is very little evidence of star formation in g28.17 + 0.05 ( myers et al . 1986 ; minter et al .",
+    "2001 ) which is unusual for a cloud of this size .",
+    "there is an association of the @xmath6co and an msx dark cloud toward g28.17 + 0.05 ( jackson & bania , private communication ) implying regions of extremely high density , perhaps in the first stages of star formation .",
+    "there are several indications that g28.17 + 0.05 is a young cloud : ( 1 ) the emissions lines of hi and oh have a similar width and are dominated by turbulent motions , suggesting that the turbulence in g28.17 + 0.05 has not yet had time to damp .",
+    "( 2 ) the lack of star formation . ( 3 ) the large amount of atomic matter in g28.17 + 0.05 .",
+    "since anomalously excited 1720  mhz oh emission is quite abundant throughout the inner galaxy ( turner 1982 ) , and this part of the galaxy has not been observed in hi with great detail until very recently , there could be many more of these atomic / molecular clouds that have yet to be found or identified ."
+  ],
+  "abstract_text": [
+    "<S> hi 21 cm observations with the nrao 140 foot telescope have revealed a giant hi cloud ( g28.17 + 0.05 ) in the galactic plane that has unusual properties . </S>",
+    "<S> the cloud is 150 pc in diameter , is at a distance of 5 kpc , and contains as much as 10@xmath0 of atomic hydrogen . </S>",
+    "<S> the cloud consists of a cold core , @xmath1 , and a hotter outer envelope , @xmath2 . </S>",
+    "<S> there is no observable difference in the hi line widths , @xmath3 km  s@xmath4 , between the core and the envelope . </S>",
+    "<S> anomalously - excited 1720 mhz oh emission , with a similar line width , is associated with the core of the cloud . </S>",
+    "<S> the cloud core also exhibits @xmath5co and @xmath6co self - absorption which indicates that most of the cloud mass is in molecules . </S>",
+    "<S> the total mass of the cloud is @xmath7 . </S>",
+    "<S> the cloud has only a few sites of current star formation . </S>",
+    "<S> if similar clouds are associated with other observed sites of anomalously - excited 1720 mhz oh emission , there may be as many as 100 more of these objects in the inner galaxy . </S>"
+  ]
+}

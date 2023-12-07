@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "the study of the properties of @xmath0-modes in rotating compact stars and their relevance to relativistic astrophysics has received considerable attention since the discovery ( andersson 1998 , friedman & morsink 1998 ) that these modes are unstable to the emission of gravitational radiation .",
+    "the @xmath1mode instability provides an explanation for the spin - down of rapidly rotating young neutron stars to crab - like spin - periods and for the spin - distribution of millisecond pulsars and accreting neutron stars .",
+    "additionally , it is considered to be a strong source of continuous gravitational radiation ( see friedman & lockitch 1999 for a review ) . moreover ,",
+    "if @xmath0-modes induce differential rotation , their interaction with the magnetic field in neutron stars can enhance the toroidal magnetic field of the star ( rezzolla , lamb & shapiro 2000 ) .",
+    "before the instability can have an effect on the spin evolution of a young neutron star , the @xmath0-mode grows to an amplitude where it is saturated by nonlinear effects .",
+    "motivated by the absence of studies of such nonlinear saturation we performed a numerical study of @xmath0-mode hydrodynamical evolutions in rapidly rotating relativistic stars .",
+    "we tried to elucidate what is the maximum amplitude such modes can reach , before nonlinear saturation ( via hydrodynamical coupling ) sets in ( stergioulas & font 2000 ) .",
+    "the present contribution highlights the main findings of our study .",
+    "we note that the saturation is most likely to set in on a hydrodynamical timescale , although it can not be excluded that weak hydrodynamical couplings saturate the @xmath0-mode amplitude on longer timescales ( but shorter than the growth timescale due to gravitational radiation reaction ) .",
+    "however , at present , those long timescales can not be achieved accurately in 3-d simulations , even with the largest available supercomputers .",
+    "for our study we use a numerical code based on the 3-d ` cactus ` code ( font et al 2000 , alcubierre et al 2000 ) , into which we implemented the 3rd order ppm method ( colella & woodward 1984 ) for the hydrodynamics , and initial data for equilibrium and perturbed rapidly rotating relativistic stars ( stergioulas & friedman 1995 ) . in font ,",
+    "stergioulas & kokkotas ( 2000 ) it was shown that the ppm method is suitable for long - term evolutions of rotating relativistic stars .",
+    "we focus on a representative , rapidly ( and uniformly ) rotating model with gravitational mass @xmath2 , equatorial circumferential radius @xmath3 km and spin period @xmath4ms .",
+    "we use the @xmath5 relativistic polytropic equation of state .",
+    "our simulations employ @xmath6 cartesian grid - points , yielding a resolution of @xmath7 km per zone .",
+    "the excitation of @xmath0-modes is achieved by perturbing the initial stationary model , adding a specific perturbation @xmath8 to the contravariant components of the equilibrium 3-velocity , @xmath9 . as there is no exact linear eigenfunction available in the literature that would correspond to an @xmath10 @xmath0-mode eigenfunction for rapidly rotating relativistic stars , we use an approximate eigenfunction , valid in the slow - rotation @xmath11 limit to the first post - newtonian order ( lockitch 1999 ) .",
+    "we also note that since @xmath0-modes are basically fluid modes we only evolve the hydrodynamical variables , keeping all spacetime variables fixed at their initial , unperturbed , values . the computational requirements for an accurate , coupled spacetime and hydrodynamical evolution , by far exceed current supercomputing resources .",
+    "figure [ fig_2 ] ( left panel ) displays the evolution of the axial velocity in the equatorial plane ( @xmath12 along the @xmath13-axis ) at a radius of @xmath14 .",
+    "the evolution is a superposition of several modes , the @xmath10 @xmath0-mode being the dominant component .",
+    "the chosen amplitude of the eigenfunction is @xmath15 ( in the newtonian limit , our definition of the amplitude agrees with that of owen et al 1998 ) .",
+    "the perturbed star is evolved for more than 25ms ( 26 @xmath10 @xmath0-mode periods ) , during which the amplitude of the oscillation decreases due to numerical viscosity only . with much larger",
+    "amplitudes the evolution is still similar to that in figure [ fig_2 ] , with no sign of nonlinear saturation of the @xmath0-mode amplitude on a dynamical timescale . therefore , unless nonlinear saturation sets in at timescales much longer than the dynamical one , unstable @xmath0-modes could be driven to large amplitudes ( of order one ) by gravitational radiation reaction .",
+    "an absolute upper limit on the @xmath0-mode amplitude is set by causality , requiring @xmath16 .",
+    "a fourier transform of the time - evolution , as a function of the frequency in the inertial frame , is shown in the right panel of figure [ fig_2 ] .",
+    "it reveals that the initial data we are using , excite mainly the @xmath10 @xmath0-mode ( @xmath17 ) , with a frequency of 1.03 khz and , with smaller amplitudes , several inertial modes ( @xmath18 , @xmath19 , @xmath20 ) and higher harmonics .",
+    "the frequencies of the various modes are the same at any given point inside the star , which indicates that the spectrum is a sum of discrete modes , in agreement with the conclusions of lockitch , andersson & friedman ( 2000 ) .",
+    "we have also investigated the possible appearance in our evolutions of the kinematical drift reported by rezolla et al ( 2000 ) . in a rotating star with a poloidal magnetic field",
+    ", this kinematical drift may wind up the magnetic field lines and limit the effect of the @xmath0-mode instability .",
+    "our results do indicate that the perturbed star is rotating slower near the surface ( compared to the unperturbed star ) and that this drift scales roughly as @xmath21 for amplitudes of order @xmath22 , although its magnitude is significantly smaller than that estimated by rezzolla et al ( 2000 ) .",
+    "our finding that gravitational radiation could drive unstable @xmath0-modes to a large amplitude implies that @xmath0-modes can easily melt the crust in newly - born neutron stars ( lindblom , owen & ushomirsky 1999 ) , leaving the initial conclusions about the @xmath0-mode instability being a strong source of gravitational waves ( see friedman & lockitch 1999 ) essentially unchanged ."
+  ],
+  "abstract_text": [
+    "<S> a numerical study of nonlinear @xmath0-modes in isentropic , rapidly rotating relativistic stars , via 3-d general - relativistic hydrodynamical evolutions , is presented . on dynamical timescales </S>",
+    "<S> , we find no evidence for strong coupling of @xmath0-modes to other modes at amplitudes of order one or larger . therefore , unless nonlinear saturation sets in on longer timescales , the maximum @xmath0-mode amplitude is of order one . </S>",
+    "<S> an absolute upper limit on the amplitude is set by causality . </S>",
+    "<S> our simulations also show that @xmath0-modes and inertial modes in isentropic stars are discrete modes , with no evidence for the existence of a continuous part in the spectrum . </S>"
+  ]
+}

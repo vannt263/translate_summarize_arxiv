@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "not long ago it became clear that many elliptical galaxies _ do _ have small amounts of cold interstellar gas and dust ( e.g. knapp et al .",
+    "1989 ; goudfrooij et al .",
+    "the gas and dust have significance far beyond their small masses : their distribution and kinematics provide vital clues to the evolution of ellipticals ( van gorkom & schiminovich 1997 ; sadler et al .",
+    "2000 ) . to date",
+    ", most work on the distribution and kinematics of neutral gas in ellipticals has focused on the atomic gas .",
+    "the present contribution describes a survey to make maps of the co emission in ten elliptical galaxies .",
+    "the main selection criterion for this sample ( after the classification issues , which are admittedly difficult ) is the galaxies single dish co line strengths .",
+    "the resolution of the co data is about 6 , which is 20 pc ( ! ) for the nearest galaxies and 1.5 kpc for the most distant ones .",
+    "the goals of the project are to understand ( 1 ) the origin of the molecular gas in ellipticals and its prospects for long - term stability ; and ( 2 ) how much star formation activity is taking place in ellipticals . the molecular gas distribution and kinematics are being compared with the atomic gas , stellar kinematics , and radio continuum and h@xmath0 emission . the sample galaxies are found in a variety of environments some are isolated , some in loose groups , and some in the center of virgo cluster .",
+    "they also have a wide range of luminosities ; some have active nuclei and some show visible signs of recent interactions .",
+    "seven of the ten sample galaxies have already been observed with the bima millimeter interferometer , and five are clearly detected .",
+    "figure 1 shows the stellar distributions and co maps for two of them .",
+    "except for ngc  185 and ngc  205 , the smallest members of the sample , the molecular gas is distributed in a smooth , regular disk in solid body rotation .",
+    "there is a strong asymmetric warp in the co of ngc  3656 , but otherwise the disks are not disturbed . in two cases",
+    "the galaxies stars are known to have large velocity dispersions and small rotational velocities ; the co rotation is _ consistent _ with that of the stars .",
+    "usually the hi kinematics are found to be inconsistent with those of the stars , which is taken as evidence for an external gas origin .",
+    "perhaps the situation is more complicated for the molecular gas .",
+    "a remarkable result comes from comparing the molecular gas distribution in ngc  5666 to the radio continuum emission in that galaxy ( wrobel & heeschen 1988 ) .",
+    "the radio continuum emission is extended ; it has exactly the same extent as the resolved co emission .",
+    "thus , the radio continuum and fir emission can be attributed to star formation ( 3 m@xmath1 per year ) rather than to an active galactic nucleus or to an old stellar population .",
+    "the other galaxies in the sample will help to show whether this situation is common or uncommon .",
+    "comparisons of the molecular gas properties and the star formation activity in the different galaxies ( isolated vs. in clusters , giant vs. dwarf , and so on ) will allow us to probe elliptical galaxy evolution as a function of galaxy properties and/or environment .",
+    "knapp , g.r .",
+    ", guhathakurta , p. , kim , d .- w .",
+    ", & jura , m. 1989 , apjs , 70 , 329 sadler , e. m. , oosterloo , t. a. , morganti , r. , & karakas , a. 2000 , aj 119 , 1180 van gorkom , j. , & schiminovich , d. 1997 , asp conf .",
+    "ser .  116 : the nature of elliptical galaxies ; 2nd stromlo symposium , 310"
+  ],
+  "abstract_text": [
+    "<S> the distribution and kinematics of the molecular gas in elliptical galaxies give information on the origin and history of the gas and the rate of star formation activity in ellipticals . </S>",
+    "<S> i describe some preliminary results of a survey which will more than double the number of elliptical galaxies with resolved molecular distributions . </S>"
+  ]
+}

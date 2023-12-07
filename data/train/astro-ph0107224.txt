@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "emission from warm , recombining gas has been shown to be a key feature of the soft x - ray emission from seyfert  2 galaxies ( sako et al .",
+    "2000 , ogle et al .",
+    "2000 , sambruna et al .",
+    "2001 ) . in fig .  1",
+    ", we show the _ xmm - newton _ reflection grating spectrometer ( rgs ) spectrum of the brightest seyfert  2 galaxy , ngc  1068 ( kinkhabwala et al .",
+    "the presence of multiple radiative recombination continua ( rrc ) provide definitive evidence for a dominant recombining gas component with temperature @xmath15 ev .",
+    "recombination alone , however , is insufficient to explain all of the observed x - ray emission from these objects .",
+    "we propose a model for the x - ray emission from seyfert  2 galaxies consisting of a ( bi-)cone of gas irradiated by a nuclear power - law continuum .",
+    "( the nucleus  located at the tip of the cone  is obscured along our particular line of sight . )",
+    "we specify a single ionic column density , @xmath2 , and gaussian velocity distribution , @xmath3 , both _ along _ the cone .",
+    "@xmath3 is chosen to be consistent with observations of broadened line absorption in soft x - ray observations of seyfert  1 galaxies , where values from @xmath0200 km / s ( kaastra et al . 2000 ) to @xmath4 km / s ( sako et al . 2001 ) have been found .",
+    "we note that @xmath3 may be due to a superposition of multiple velocity components .",
+    "a broadening of the observed lines due to a separate gaussian velocity distribution along our particular line of sight ( probably unrelated to the velocity distribution along the cone ) is also taken .",
+    "the upper right panel in fig .  2 shows the expected spectrum of the helium - like o  vii ion .",
+    "the panels on the left show the `` seyfert  1 '' view down the axis of the cone in absorption , and the panels on the right show the `` seyfert  2 '' view in reemission for column densities in o  vii from @xmath5 to @xmath6 @xmath7 .",
+    "all photons absorbed out of the power - law continuum in the left panel are reprocessed and reemitted in the right panel .",
+    "further details of our model can be found in kinkhabwala et al .",
+    "( 2001a ) and behar et al .",
+    "our model works remarkably well for explaining the bulk ( and possibly all ) of the x - ray emission from ngc  1068 .",
+    "3 shows our fit to lines associated with transitions in o  vii for the rgs spectrum shown in fig .  1 .",
+    "similarly , in fig .  4 , we show fits to the previously published _",
+    "hetg spectra of two other seyfert  2 galaxies .",
+    "we find that the claimed observation of hot collisionally - driven gas in ngc  4151 of ogle et al .",
+    "( 2000 ) was premature , and we verify the earlier conclusions for markarian  3 of sako et al .",
+    "( 2000 ) , who claimed that photoionization and photoexcitation in addition to a scattered power - law continuum were sufficient to explain its observed x - ray spectrum .",
+    "we estimate an upper limit of @xmath010% of the soft x - ray emission may be due to hot , collisionally - driven gas in ngc  1068 .",
+    "preliminary analysis of _ chandra _ hetg spectra of four other seyfert  2 galaxies ( markarian  3 , ngc  4151 , circinus , ngc  4507 ) suggests that their remarkably similar spectra are also dominated by reprocessed agn emission , with a similar upper limit to a hot collisional gas component .",
+    "this places interesting limits on the amount of star formation in their circumnuclear environments ( kinkhabwala et al .",
+    "2001a , b ) ."
+  ],
+  "abstract_text": [
+    "<S> soft x - ray spectroscopy of seyfert  2 galaxies provides perhaps the best method to probe the possible connection between agn activity and star formation . </S>",
+    "<S> obscuration of powerful radiation from the inferred nucleus allows for detailed study of circumnuclear emission regions . </S>",
+    "<S> and soft x - ray spectroscopy of these regions allows for robust discrimination between warm gas radiatively - driven by the agn and hot collisionally - driven gas possibly associated with star formation . </S>",
+    "<S> a simple model of a ( bi-)cone of gas photoionized and photoexcited by a nuclear power - law continuum is sufficient to explain the soft x - ray spectra of all seyfert  2 galaxies so far observed by the _ xmm - newton _ and _ chandra _ satellites . </S>",
+    "<S> an upper limit of @xmath010% to an additional hot , collisionally - driven gas contribution to the soft x - ray regime appears to hold for five different seyfert  2 galaxies , placing interesting constraints on circumnuclear star formation . </S>"
+  ]
+}

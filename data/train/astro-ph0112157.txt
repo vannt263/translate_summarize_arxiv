@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "vela x is the pulsar wind nebula near the center of the vela supernova remnant ( bock , turtle , & green 1998b ) .",
+    "in total intensity , the radio emission is dominated by synchrotron filaments which have no clear optical counterpart ( bock et al .",
+    "the remnant s distance of 350 pc pc ( caraveo et al .  1991 ) and a radio parallax of @xmath1 pc ( legge 2001 ) ] makes it one of the nearest snrs , and thus one of the easiest to study .",
+    "its age , 10,000 yr , is much larger than that of the crab nebula , and we can hope to learn something about remnant evolution by comparing the sources .",
+    "high quality interferometric polarimetry now makes it possible to study at sub - arcminute resolution the magnetic fields in pulsar - powered nebulae , and in the galaxy as a whole .",
+    "images of part of vela x. some locations where depolarization is coincident with h@xmath0 emission are marked with stars .",
+    "the position of the pulsar is marked with a cross .",
+    "the maximum polarized intensity is 180 mjy  beam@xmath2 .",
+    "the artifacts in the h@xmath0 image are due to imperfect subtraction of the stellar component.,title=\"fig:\",height=466 ]    images of part of vela x. some locations where depolarization is coincident with h@xmath0 emission are marked with stars .",
+    "the position of the pulsar is marked with a cross .",
+    "the maximum polarized intensity is 180 mjy  beam@xmath2 .",
+    "the artifacts in the h@xmath0 image are due to imperfect subtraction of the stellar component.,title=\"fig:\",height=466 ]    [ fig : ha ]    observations of vela x at 1.4 ghz were obtained with the australia telescope compact array ( atca ) using configurations which yielded a @xmath3 beam .",
+    "images were made using multi - frequency synthesis and deconvolution was performed with a maximum entropy method algorithm .",
+    "the total intensity image includes large - scale structure which was measured with the parkes telescope . however , there is little structure in polarized intensity larger than that sampled by the interferometer , so single - dish data has not been included in the polarization images .",
+    "see sault , bock , & duncan ( 1999 ) for additional details .",
+    "a grayscale image showing the polarized intensity measured from part of vela x is shown in figure  [ fig : p ] .",
+    "the emission is up to 60% linearly polarized ; there is no detectable circular polarization .",
+    "figure  [ fig : ha ] also shows the h@xmath0 emission from the same region ( from the survey of buxton , bessell , & watson 1998 ) .",
+    "vectors representing the intensity and e - field direction of the polarized emission are plotted on a total intensity image in figure  [ fig : ppa ] .",
+    "the synthesized beam and a bar representing the maximum polarized intensity of 106 mjy  beam@xmath2 are shown at the lower right .",
+    "the three unresolved sources are most likely of extragalactic origin . , height=415 ]    the most striking aspect of the polarimetric image of vela x ( figure [ fig : p ] ) is the complex network of ` canals ' criss - crossing the broader synchrotron filaments .",
+    "these canals are unresolved , indicating that they are probably due to faraday depolarization within the synthesized beam , caused by rapid spatial changes in the foreground rotation measure ( rm ) .",
+    "they have no counterpart in total intensity .",
+    "similar features have been seen in the background galactic radiation ( gaensler et al .",
+    "2001 , and references therein ) .",
+    "however , in the present case we have been able to identify optical counterparts for many of the canals among h@xmath0 filaments originating in the shell of the vela snr ( figure [ fig : ha ] ) . by considering the geometry of the filaments ( which are probably sheets in projection ) and obtaining electron densities in the region from further optical studies , we expect to be able to make a _ direct _ measurement of the compressed magnetic field in the vela snr shell .",
+    "the underlying more diffuse linearly polarized emission has some overall corellation with total intensity . however , there are many regions of disagreement",
+    ". these could be either intrinsic to the source ( i.e.  due to variations within the internal magnetic fields ) or result from depolarization by some intervening more compact region . in the latter case , their counterpart in total intensity is the underlying diffuse emission which forms the majority of the flux density measured from vela x.    the polarization e - vector direction ( figure  [ fig : ppa ] ) is a useful diagnostic of the magnetic field . in this region ,",
+    "the rm is approximately 40 rad  m@xmath4 ( milne 1995 ) , indicating that the magnetic field is generally aligned with the e - vectors plotted , and thus lies along the filaments ( the discrepant e - vectors half - way along the central filament correspond to a region of higher rm ) .",
+    "we note that the ` wisp ' just to the north - east of the pulsar ( bietenholz , frail , & hankins 1991 ) and the filament extending south do not appear symmetric across the pulsar .",
+    "further work to make high - resolution corrections for faraday rotation will allow a more detailed interpretation ."
+  ],
+  "abstract_text": [
+    "<S> we present high - resolution 1.4 ghz australia telescope compact array polarimetric observations of vela x , the pulsar wind nebula of the vela snr . </S>",
+    "<S> we find that the linearly polarized emission is only partially correlated with total intensity . </S>",
+    "<S> there are many depolarization features , some of which are coincident with foreground h@xmath0 filaments . </S>",
+    "<S> further study of these should provide measurements of the magnetic field in the remnant s shell .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "an energy - flow through a system is related to an entropy - flow .",
+    "if the entropy - flow leaving the system is larger than the entering one , the system evacuates its internal , by irreversible processes produced entropy to the outer world .",
+    "consequently order is created inside the system , diverging from the classical thermodynamical equilibrium of a closed system .",
+    "far from equilibrium the system is no longer characterized by an extremum principle , thus losing its stability .",
+    "therefore perturbations can lead to long range order , through which the system acts as a whole .",
+    "such a behavior is well known in laboratory hydrodynamics and chemistry .",
+    "the underlying concepts such as `` dissipative structures '' and `` self - organization '' were extensively studied ( see e.g. nicolis & prigogine 1977 ) .",
+    "but in spite of their popularity they are until now only little studied in the context of non - equilibrium structures in self - gravitating astrophysical systems .",
+    "therefore we take up some ideas of these concepts and build a simple model of an open self - gravitating system . with this model",
+    "we want to check if an energy - flow can maintain a self - gravitating system in an statistically stable state , out of thermodynamical equilibrium and if gravitation in combination with an energy flow can create structures with a higher degree of order .",
+    "taking into account the highly clumpy nature of the interstellar medium , we use in our model dissipative particles , representing dense cloud fragments , to simulate cosmic gas ( pfenniger 1998 ) .",
+    "moreover , with such a realization we can check some thermodynamic results of self - gravitating systems .",
+    "in order to prevent gravitationally unbound particles from dissolution , we confine the particles in a spherical potential well .",
+    "this prevents matter flow .",
+    "but the system is subjected to an energy flow , maintaining the system out of equilibrium .",
+    "this flow is sustained by energy injection ( heating ) on large scales and local dissipation .",
+    "the energy injection is due to time and position dependent potential perturbations .",
+    "if the system represents a molecular cloud , then these potential perturbations can stem from star clusters , clouds or other high mass objects passing in the vicinity .",
+    "indeed such stochastic encounters must be quite frequent in galactic discs and we assume , @xmath1 , where @xmath2 is the mean frequency of the encounters . thus these encounters can provide a continuing low frequency energy injection on large scales .",
+    "the dissipation is due to `` inelastic particle encounters '' .",
+    "therefore we add friction forces to the equation of motion , depending on the relative particle velocities and positions .",
+    "if we switch off the heating process and use instead the local dissipation scheme ( `` inelastic particle encounters '' ) a scheme that dissipates the energy globally , then we can maintain the system during its evolution nearly in thermodynamic equilibrium .",
+    "thus we can perform some simple `` thermodynamic experiments '' of self - gravitating systems with softened potentials .",
+    "potential perturbations caused by astrophysical objects passing in the vicinity of a system can compensate the energy loss due to dissipation , thus prevent the system from collapsing and maintain a statistical equilibrium .",
+    "this statistically steady state consists of a cold core moving in a hotter halo .",
+    "the energy - flow leads however not to a phase transition to higher ordered structures .",
+    "the gravo - thermal experiments lead to the following results : a plummer softened potential yields the same range of negative specific heat as found by follana & laliena .",
+    "the negative specific heat range is related to a phase transition , separating a high energy homogeneous phase from a collapsed phase .",
+    "as long as cooling processes are at work the collapsed phase shows no core - halo structure .",
+    "after the cooling has stopped such a structure is formed on the relaxation time scale .",
+    "follana e. , laliena v. , cond - mat/9911107 nicolis g. , prigogine i. , 1977 , self - organization in non - equilibrium systems , wiley , new york pfenniger d. , 1998 , in : @xmath3 in the early universe , eds . palla f. , corbelli e. , galli d. , memorie della societa astronomica italiana , 429"
+  ],
+  "abstract_text": [
+    "<S> real physical systems are often maintained off equilibrium by energy or matter flows . </S>",
+    "<S> if these systems are far from equilibrium then the thermodynamical branch become unstable and fluctuations can lead them to other more stable states . </S>",
+    "<S> these new states are often endowed with higher degrees of organization . in order to explore whether an energy - flow in combination with self - gravity can lead to complex , inhomogeneous structures , </S>",
+    "<S> like observed in the interstellar medium ( ism ) , we perform @xmath0-body simulations of self - gravitating systems subjected to an energy - flow .    </S>",
+    "<S> moreover we perform some simple `` gravo - thermal '' n - body experiments and compare them with theoretical results . </S>",
+    "<S> we find negative specific heat in an energy range as predicted by follana & laliena ( 1999 ) . </S>"
+  ]
+}

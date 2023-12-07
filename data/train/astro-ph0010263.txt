@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "bl lacs are the only members of the population of extragalactic sources which have been observed at tev energies .",
+    "they emit their energy over a broad range of the spectrum ( radio to @xmath0-rays ) , with signatures of variability in optical , x - rays and @xmath0-rays , which are large compared to other agns .",
+    "bl lacs are highly polarized non - thermal sources with compact flat - spectrum radio cores .",
+    "most bl lacs were identified in radio and x - ray surveys . whereas those identified in x - rays ( xbls ) are mostly nearby ,",
+    "the radio selected bl lacs ( rbls ) have a larger distance scale . whereas a few xbls were detected as tev sources , we find that the rbls were mostly detected as egret sources ( see e.g. lin et al .",
+    "1997 , 1999 ) .",
+    "the number of bl lacs known presently are mostly northern sources , which constitute @xmath175% of all known bl lacs . convincing detections of vhe photons from bl lacs",
+    "have mainly been made from northern hemisphere sources , which include mrk 421 ( punch et al .",
+    "1992 ) , mrk 501 ( quinn et al . 1996 ) and 1es 2344 + 514 ( catanese et al . 1998 ) .",
+    "tev observations of southern sky sources mostly gave upper limits ( e.g. roberts et al .",
+    "1999 ) . besides pks 2155 - 304 , which has also been recently confirmed as a tev source ( chadwick et al .",
+    "1999 ) , none of the southern bl lacs have been well monitored .",
+    "therefore , it is justifiable to claim that there are a number of bl lacs that have not been identified from the southern skies , and probably with advances in vhe ground - based telescopes , some are likely to be identified as tev sources in future . our objective is to monitor southern sky bl lacs in optical , and such information can be combined with contemporary x - ray observations for modeling purposes to identify further tev candidates .",
+    "ccd observations in the ubvri of several southern bl lacs were carried out with the saao 1.0 m telescope in sutherland during aug and nov 1999 .",
+    "a number of e - regions standard stars were also observed for comparison and determination of apparent magnitudes of the target sources .",
+    "the data were cleaned and flat - fielded using the iraf image - processing software at saao in cape town .",
+    "table  1 gives a list of bl lacs that were observed .",
+    "the data were analysed and the differential photometry of all seventeen sources have been obtained .",
+    "we used the e - region stars and , in some cases , apparently non - variable stars which appear on the frame of the target source as standard stars .",
+    "if the stars on the frame do not have known published magnitudes , we used the e - regions stars to determine their magnitudes which were eventually used to determine the differential photometry ( as shown in table  2 ) .",
+    "atmospheric extinction and galactic reddening corrections were not taken into account in our analysis , since the ` standard ' stars were mostly on the same frame as the target .",
+    "the results of the rest of the observations will be released in the near future .",
+    ".a list of bl lacs that were observed in aug and nov 1999 .",
+    "[ cols=\"<,^,<,<,^ \" , ]     = 7.5 cm = 7.32 cm    in fig .",
+    "2 , we show the spectra of pks 2005 - 489 and pks 2155 - 304 , with our ubvri points included .",
+    "the other data points ( infrared ) for both sources are from the catalog of infrared observations ( nasa rf1294 , 3rd edition ) .",
+    "whereas bl lac variability is a common feature , our visual multicolor observations provide important information concerning the relative flux change vs. frequency .",
+    "the observation of an increasing amplitude of flux variability towards higher frequencies ( in this case for pks 0048 - 097 and pks 0521 - 365 ) should be combined with simultaneous x - ray observations .",
+    "this synchrotron feature in the optical / x - ray region of the spectrum should also imply a similar behaviour in the inverse compton ( @xmath0-ray ) component of the spectrum .",
+    "catanese , m. , et al . , 1998 ,",
+    "apj , 501 , 616"
+  ],
+  "abstract_text": [
+    "<S> seventeen southern sky bl lacs were observed in ubvri using the ccd camera on the 1.0 m telescope at the south african astronomical observatory ( saao ) in aug and nov 1999 . </S>",
+    "<S> the analyses of all the seventeen sources are now complete , and are available via anonymous ftp ( ftp pukrs1.puk.ac.za/pub/blazars ) </S>",
+    "<S> . a few examples of our results are however given in this paper . </S>",
+    "<S> whereas pks 2005 - 489 and 2155 - 304 appear to have been in a high state , pks 0048 - 097 and pks 0521 - 365 showed evidence of variability on a time - scale of a few days , with the amplitude of variability increasing towards short wavelengths . </S>",
+    "<S> this is consistent with observations of gamma - ray bl lacs , which show similar behaviour in optical and x - rays . </S>"
+  ]
+}

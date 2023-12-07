@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the fastest timescale variations likely to be observed in an astrophysical environment are milliseconds , corresponding to the innermost orbits around neutron stars and black holes . variations of faint sources on timescales longer than a few seconds have already been explored by conventional ccd instruments .",
+    "ultracam will explore the region of observational parameter space which lies between these two extremes , namely photometry of faint objects on timescales of seconds to milliseconds .",
+    "the resulting scientific applications will include the study of pulsars , occultations , xrbs ( e.g. searching for the optical analogue of the kilohertz qpos ) , speckle imaging , precise timing studies ( e.g. measuring eclipses ) , echo mapping , eclipse mapping of cvs , asteroseismology , and flickering and oscillations in cv accretion discs .",
+    "the five essential requirements for such work are : 1 . the capability of taking short exposures ( from milliseconds to seconds ) with essentially no dead - time between exposures ; 2 .",
+    "multi - channels ( 3 or more ) covering a wide wavelength range ( @xmath1 to @xmath2 ) in order to distinguish a blackbody spectrum from a stellar spectrum ; 3 .",
+    "simultaneous measurement of the different wavelength bands to avoid problems due to stochastic variations ; 4 .",
+    "imaging capability in order to simultaneously measure target , sky and comparison stars and to avoid the need for fixed apertures ; 5 . high efficiency and the capability of being mounted on various large aperture telescopes .",
+    "these five requirements result in the instrument design presented here .",
+    "* optics . * light from the telescope is first collimated and then split into 3 bandpasses ( @xmath1 , @xmath3 and one of @xmath4 ) using dichroic beamsplitters and sdss filters .",
+    "the light from each filter is then re - imaged onto one of 3 ccds at a plate scale of 0.3 arcseconds / pixel , giving a field of view of 5 arcminutes .",
+    "this design ensures that : 1 .",
+    "there is an 80% probability of finding an r=12 magnitude comparison star in the field ; 2 .",
+    "there is no ghosting due to the dichroics ; 3 .",
+    "only the collimator needs to be changed to mount ultracam on a different telescope .",
+    "* mechanics . *",
+    "the opto - mechanical chassis is a double - octopod constructed of aluminium plates and carbon fibre struts , giving a stiff , compact ( 75 cm long ) , lightweight ( 75 kg ) structure which is relatively insensitive to temperature variations .",
+    "these characteristics make ultracam highly portable and mountable on both small and large aperture telescopes .",
+    "* detectors .",
+    "* ultracam will use 3 marconi ( formerly eev ) 47 - 20 aimo , back - thinned , ar - coated ccds .",
+    "these will be grade 0 devices ( i.e. of the highest cosmetic quality ) and contain 1024x1024 image pixels , each of 13 microns , with 1024x1024 masked pixels ( i.e. they are frame - transfer devices ) .",
+    "the chips exhibit exceptionally high qe ( up to 97% ) and low noise ( 3 e@xmath5/pixel readout noise and @xmath6 e@xmath5/pixel / s dark current , achieved by cooling to 233 k using a 3-stage peltier stack and water cooling ) .    * data acquisition and reduction . * data from the 3 ccds is first read by an sdsu controller and then passed to a dual - processor pc running rtlinux .",
+    "each exposure is time - stamped by a gps receiver to an accuracy of 0.01 milliseconds and then written to a raid array and archived to tape .",
+    "pipeline data reduction software then fully reduces each data frame .",
+    "such a data acquisition and reduction system will enable us to observe for a whole night at the highest data rates ( 3.6 mbytes / s ) without stopping , building up light curves in real time .",
+    "frame transfer chips allow a completed exposure to be rapidly shifted from the imaging area to the masked area and then read out whilst the next exposure is in progress .",
+    "this , in conjunction with the high - speed data acquisition system described above , results in a full - frame readout time of 5 milliseconds ( as long as the exposure time is @xmath7 s ) . by using small windows and stacking the windows in the masked area ( a procedure known as ` drift mode ' ) ,",
+    "it is possible to obtain dead - times of 0.05 milliseconds ( as long as the exposure time is @xmath7 milliseconds ) , thereby meeting our requirement of millisecond exposure times with negligible dead time .",
+    "the optics and coatings in ultracam have been designed with throughput as the highest priority .",
+    "this , in conjunction with the exceptional qe performance of the ccds , means that we expect to detect objects as faint as @xmath8th magnitude at a signal - to - noise ratio of 3 in a 1 millisecond exposure on an 8-m class telescope ."
+  ],
+  "abstract_text": [
+    "<S> ultracam is an ultra - fast , triple - beam ccd camera which has been designed to study one of the few remaining unexplored regions of observational parameter space  </S>",
+    "<S> high temporal resolution . </S>",
+    "<S> the camera will see first light in spring 2002 , at a total cost of @xmath0300 k , and will be used on 2-m , 4-m and 8-m class telescopes to study astrophysics on the fastest timescales .    </S>",
+    "<S> # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

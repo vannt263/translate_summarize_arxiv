@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "circumstellar discs now appear to be an ubiquitous phenomenon around newly - formed stars .",
+    "one of the most direct ways to study discs is to use submm interferometry . for optically thin emission ,",
+    "the submm flux density is proportional to the mass of the circumstellar disc .",
+    "a number of young stars have now been studied with submm interferometers , including that involving the linking of the jcmt & cso to perform short - baseline interferometry ( sbi ) .",
+    "iras 03282 is a class 0 yso ( andr , ward - thompson & barsony 1993 ; 2000 ) , which is in a very early proto - stellar phase .",
+    "figure 1(a ) shows a plot of flux density against projected baseline for our iras  03282 data .",
+    "we note that the data are consistent with a constant flux density of @xmath00.4jy from @xmath0100200k@xmath1 , corresponding to angular resolution from 1.252.5 arcsec . at an assumed distance of 350pc ( bachiller & cernicharo 1986 ) this corresponds to scales of 440880au . we interpret this as an unresolved component , presumably a disc , around this source .",
+    "the outer radius of this disc is thus @xmath2220au .    using typical assumptions ( e.g. andr et al .",
+    "2000 ) of optically thin dust emission at t=30k and mass opacity at this frequency of @xmath3=0.0015m@xmath4kg@xmath5 , a flux density of 0.4jy at a distance of 350pc corresponds to a mass of @xmath00.1m@xmath6 .",
+    "the single - dish submm flux density at the same wavelength is 1.4jy in a 13 arcsec beam ( barsony et al 1998 ) .",
+    "this corresponds to a scale of @xmath04500au .",
+    "this is clearly emission from the envelope around this class 0 protostar ( see : barsony et al 1998 ) .",
+    "thus the ratio of the flux in the interferometer measurements to the single dish flux , which approximates to the ratio between the disc emission and the envelope emission , is @xmath030% .",
+    "l1709b is a class i protostar at a distance of 140pc , and is among the stronger mm sources in the @xmath7 oph dark cloud star - forming region ( andr & montmerle 1994 ) .",
+    "figure 1(b ) shows a plot of flux density against projected baseline for our l1709b data . in this case",
+    "we see that the data are not consistent with constant flux density on all baselines , so we have at least partially resolved the emission .",
+    "we make the assumption that the emission is arising from an optically thin disc , which has a gaussian radial density profile .",
+    "we plot a gaussian fit to the data and find a fwhm flux density of 0.4jy on a scale of 175k@xmath1 , corresponding to a fwhm disc size of @xmath00.45 arcsec , or @xmath060au at the distance of l1709b .",
+    "the single dish flux density of l1709b is 1.5jy ( andr et al 1993 ) , and we attribute this to the extended envelope emission around this source . the ratio of interferometer fwhm flux to single dish flux , under typical assumptions , is therefore @xmath030% .",
+    "we have also observed three other sources but can only place limits on their fluxes .",
+    ".comparison with previous sbi data .",
+    "notes : @xmath8this work ; @xmath4lay et al 1994 ; @xmath9pudritz et al 1996 ; @xmath10brown et al 2000 ; @xmath11barsony et al 1998 ; @xmath12chandler & richer 2000 ; @xmath13casali et al 1993 ; @xmath14andr et al 1993 ; @xmath15ward - thompson 1993 . [ cols=\"^,<,<,^,^,^,^,^ \" , ]",
+    "we can compare our results with those of other workers using the same interferometer on similar sources .",
+    "these are listed in table 1 , along with our new detections and upper limits .",
+    "the sbi flux corresponds to the disc , and the single - dish ( 14  ) jcmt flux is emission from the disc - plus - envelope .",
+    "thus we can see a possible trend emerging from this table .",
+    "all except one of the class 0 sources with detections have sbi to single dish flux ratios of @xmath220% .",
+    "all except one of the class i sources with detections have sbi to single dish flux ratios of 2030% .",
+    "the one detected class ii source has an sbi to single dish flux ratio of 100% .",
+    "we interpret this as a possible evolutionary trend from class 0@xmath16i@xmath16ii , caused by the ratio of the disc to envelope mass increasing with time as a result of the envelope matter accreting onto the disc .",
+    "andr & montmerle , 1994 , apj , 420 , 837 + andr , ward - thompson & barsony , 1993 , apj , 406 , 122 + andr , ward - thompson & barsony , 2000 , ` protostars  &  planets  iv ' ,  59 + bachiller & cernicharo , 1986 , a&a , 168 , 262 + barsony et al 1998 , apj , 509 , 733 + brown et al 2000 , mnras , in press + casali et al 1993 , a&a , 275 , 195 + chandler & richer , 2000 , apj , 530 , 851 + lay et al 1994 , apj , 434 , l75 + pudritz et al 1996 , apj , 470 , l123 + ward - thompson 1993 , mnras , 265 , 493"
+  ],
+  "abstract_text": [
+    "<S> we present the results of short baseline interferometry observations at submillimetre wavelengths , using a two - element interferometer comprising the jcmt / cso , of circumstellar discs around young ysos . </S>",
+    "<S> we model data for the class 0 protostar iras03282 and the class i protostar l1709b with discs and compare them with previously published results . </S>",
+    "<S> we find evidence for the ratio of the disc to envelope mass to increase as the objects evolve .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

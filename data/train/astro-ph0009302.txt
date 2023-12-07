@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the fundamental parameter in barred galaxy ( sb ) dynamics is their bar pattern speed , @xmath0 , which can be parametrized by the ratio @xmath1 , where @xmath2 is the corotation radius and @xmath3 is the bar semi - major axis .",
+    "a bar is termed fast when @xmath4 .",
+    "@xmath5-body simulations by debattista & sellwood ( 1998 ) , following the theoretical work of weinberg ( 1985 ) , showed that dynamical friction on a bar from an isotropic dark matter halo preserves a fast bar only if the disk is very close to maximal , in the sense that the luminous disk provides most of the rotational support in the inner galaxy .",
+    "tremaine & ostriker ( 1999 ) suggested that a flattened , rapidly rotating inner halo can reduce dynamical friction sufficiently to preserve fast bars even in sub - maximal disks , but debattista & sellwood ( 2000 ) showed that the halo rotation required is large ; the stellar halo of the milky way shows no evidence for such large rotation .",
+    "indirect evidence for fast bars in sb galaxies comes from hydrodynamical models of gas flow , particularly at the shocks .",
+    "three such studies are : @xmath6 in ngc 1365 ( lindblad  1996 ) , @xmath6 in ngc 1300 ( lindblad & kristen 1996 ) , and @xmath7 for ngc 4123 ( weiner  2000 , who also showed that a @xmath8 maximal disk is highly favored in ngc 4123 ) .",
+    "a direct , model - independent method for measuring @xmath0 , developed by tremaine & weinberg ( 1984 ) gives @xmath9 , where @xmath10 are galaxy - centered coordinates parallel and perpendicular to the disk s major axis , and all averages are at fixed @xmath11 and weighted by the luminosity .",
+    "using the tremaine - weinberg ( tw ) method with slit spectra , merrifield & kuijken ( 1995 ) and gerssen  ( 1998 ) found fast bars in ngc 936 @xmath12 and ngc 4596 @xmath13 respectively .",
+    "no slow bars ( @xmath14 ) in high surface brightness ( hsb ) galaxies have been discovered to date .",
+    "we used the tw method to measure @xmath0 in ngc 7079 , using a full-2d velocity field .",
+    "we observed ngc 7079 with the rutgers fabry - perot imaging interferometer on the ctio 4 m telescope .",
+    "we used the caii 8542.14   absorption line , redshifted to 8618  , scanning the spectrum from @xmath15   to @xmath16  , in steps of @xmath17  , for a total of 25 exposures of 900 seconds each .",
+    "voigt profiles were fitted to the spectrum at each pixel of the reduced images , giving maps of the velocity and dispersion .",
+    "data extracted along the slit pas of bettoni & galletta ( 1997 , bg97 ) match their data with a worst reduced @xmath18 for 15 degrees of freedom . the rotation curve , which we then corrected for asymmetric drift , was extracted using a tilted ring fit .",
+    "we used ellipse fits to @xmath19 , @xmath20 , @xmath21 , @xmath22 and @xmath23 exposures obtained at the ctio 0.9 m telescope to obtain @xmath24 , pa @xmath25 and @xmath26 .",
+    "the @xmath27 map shows near - constant color for the disk and bulge separately , indicating uniform ( or zero ) internal extinction .    applying the tw equation , we obtain @xmath28 , which gives @xmath29 , so that @xmath30 , making this a fast bar .",
+    "ngc 7079 is a currently undisturbed , hsb galaxy , offset only 0.3 mag from the tully - fisher relation of courteau & rix ( 1992 ) . the nearest galaxy , eso 287 - 37 , is at a projected separation of 363 kpc ; assuming a relative velocity of 300",
+    ", their last closest approach would have been over 1 gyr , or about 8 bar rotations , ago , long enough for a bar in a sub - maximal disk to have slowed down significantly .",
+    "bg97 reported faint o[iii ] emitting gas out to @xmath31 counter - rotating relative to the stars .",
+    "if it originated in an accretion event , this gas , being retrograde , could not have added angular momentum to the bar .",
+    "ngc 7079 must therefore be a maximum disk .",
+    "bettoni , d. & galletta , g. 1997 , , 124 , 61 courteau , s. , & rix , h .- w .  1999 , , 513 , 561 debattista , v.p .",
+    "& sellwood , j.a .",
+    "1998 , , 493 , l5 debattista , v.p . & sellwood , j.a .",
+    "2000 , , 544 , to appear gerssen , j. , kuijken , k. & merrifield , m.r . 1999 , , 306 , 926 lindblad , p. a. b. , & kristen , h. 1996 , , 313 , 733 lindblad , p. a. b. , lindblad , p. o. , & athanassoula , e. 1996 , , 313 , 65 merrifield , m.r .",
+    "& kuijken , k. 1995 , , 274 , 933 tremaine , s. & ostriker , j. p. 1999",
+    ", , 306 , 662 tremaine , s. & weinberg , m.d .",
+    "1984 , , 282 , l5 weinberg , m. d. 1985 , , 213 , 451 weiner , b.j . ,",
+    "sellwood , j.a . & williams , t.b .",
+    "2000 , , to appear"
+  ],
+  "abstract_text": [
+    "<S> we have used 2d fabry - perot absorption - line spectroscopy of the sb0 galaxy ngc 7079 to measure its bar pattern speed , @xmath0 . as in all previous cases of bar pattern speed measurements </S>",
+    "<S> , we find a fast bar . </S>",
+    "<S> we estimate that ngc 7079 has been undisturbed for _ at least _ the past gyr or roughly 8 bar rotations , long enough for the bar to have slowed down significantly through dynamical friction if the disk is sub - maximal . </S>"
+  ]
+}

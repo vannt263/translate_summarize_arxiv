@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "the survey sample ( figure  1 ) consists of 67 galaxies drawn from the nearby field galaxy survey ( nfgs ) , a survey of @xmath0200 galaxies including all morphological types in their natural abundance and spanning luminosities from m@xmath1 @xmath223 to @xmath215 ( jansen et al.2000 ) .",
+    "our sample includes all of the nfgs e / s0 s with extended gas emission , a representative majority of the sa  sbc spirals , and a few later types .",
+    "three s0 s show minimal rotation with uncertain sense .",
+    "counterrotators are circled in figure  1 .",
+    "four are e / s0 s , totalling 24(29)% of all sample e / s0 s with(without ) the 3 uncertain s0 s .",
+    "one is an i m , for which the confidence of our counterrotation claim is @xmath02.2@xmath3 .",
+    "full details appear in kannappan & fabricant ( 2000 ) .",
+    "we stress that our detections represent a lower limit , because we can not separate multiple kinematic components .",
+    "bertola , buson , & zeilinger ( 1992 ) and kuijken , fisher , & merrifield ( 1996 ) , find gas - stellar counterrotation frequencies of @xmath02025% for emission line s0 s .",
+    "we find 14(18)% with(without ) the 3 uncertain s0 s .",
+    "this agreement , despite a strong difference in sample luminosity distributions ( figure  1 ) , suggests that similar mechanisms form gas rich s0 s over a wide range of physical scales .    among 38 sa ",
+    "sbc spiral galaxies , we find no clear cases of bulk counterrotation , implying a counterrotation frequency of @xmath48% ( 95% confidence ) .",
+    "however , counterrotation can not be ruled out in the inner parts of one sa ( ngc  4795 ) .",
+    "this galaxy shows clear evidence of gas - stellar decoupling at large radii ( figure  2 ) , possibly related to satellite accretion .",
+    "jore ( 1997 ) finds a bulk counterrotation frequency of @xmath017% in a sample of 23 bright sa s , consistent with our results given our sa sample size of 8 ( see also haynes et al.2000 ) .    as argued in kannappan & fabricant ( 2000 )",
+    ", mergers and accretion provide the simplest explanation for the counterrotators properties , particularly their early type morphologies , significant hi masses , and lack of obvious close neighbors .",
+    "the signatures of minor retrograde accretion events may be washed out in gas rich spirals , while more substantial mergers are likely to produce e / s0/sa galaxies .",
+    "dwarf - dwarf mergers may help to explain the faint s0 population ."
+  ],
+  "abstract_text": [
+    "<S> we search for bulk counterrotation of the gas and stars in 67 galaxies of all types and a wide range of luminosities . </S>",
+    "<S> bulk counterrotation characterizes @xmath02530% of e / s0 s with extended gas , but at most a few percent of sa  sbc spirals . for s0 s </S>",
+    "<S> , the frequency of counterrotation we derive agrees with previous work , but we sample significantly fainter luminosities . thus the agreement suggests that similar formation mechanisms may operate over a wide range of physical scales . </S>"
+  ]
+}

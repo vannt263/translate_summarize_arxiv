@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "anomalous x - ray pulsars ( axp ) are mysterious objects .",
+    "we do not understand the energy source that is responsible for their x - ray emission ; unlike young crab - like pulsars their spin - down energy is insufficient and unlike binary x - ray pulsars there is no sign of binary companions from which they could accrete . in the two models most often considered axp are either isolated neutron stars accreting from a fossil disk , formed out of supernova debris ( e.g. chatterjee , hernquist & narayan 2000 ) or after a common envelope phase ( van paradijs , taam & van den heuvel 1995 ) , or magnetars , neutron stars with an ultrahigh magnetic field ( @xmath0gauss , thompson & duncan 1996 ) .",
+    "keck data of 4u  0142 + 61 , the x - ray brightest axp , revealed a faint @xmath1 source within the 3.9 arcsec radius _ einstein _",
+    "error circle , that has peculiar optical colours , @xmath2 , @xmath3 ( hulleman et  al . 2000 ) . by comparing keck images from 1994 and 1999",
+    "we found its brightness to be constant to within 0.2 mag ( @xmath4 ) in r and its proper motion to be less than 0.03 arcsec per year ( again @xmath4 ) .",
+    "we have extended our data set of 4u  0142 + 61 with photometry in the optical b band and the near - infrared k band . the source is brighter than expected in k ( @xmath5 , fig .  1 ) , but it is not detected in the b band .",
+    "none of the currently available models can explain the observed optical emission ( fig .",
+    "2 ) , although we note that no model for the optical emission from a magnetar is currently available .",
+    "recently a subarcsecond position has been derived for axp 1e  2259 + 586 using _",
+    "chandra _ data ( hulleman et  al .",
+    "2001 ) . within the error circle",
+    "we find a faint near - infrared source ( @xmath6 ) .",
+    "it is not detected in the j , i and r bands .",
+    "we set limits of 23.8 , 25.6 and 26.4mag in j , i and r respectively .",
+    "finally , we note that the near - infrared to flux ratio is similar for both axps ."
+  ],
+  "abstract_text": [
+    "<S> we present recent results of our program of deep optical and infrared observations of axps . </S>",
+    "<S> we find that the counterpart to axp 4u  0142 + 61 has a peculiar spectral energy distribution . </S>",
+    "<S> the counterpart is remarkably bright in the near - infrared , but is not detected in the b band . </S>",
+    "<S> we also present the possible detection of a second axp counterpart , namely that to 1e  2259 + 586 .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

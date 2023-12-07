@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "we have selected a sample of 43 galaxies with fuv detections or upper limits and h@xmath0 luminosities from the sample of spiral galaxies imaged using the ultraviolet imaging telescope ( uit ) .",
+    "magnitudes at an effective wavelength of 1567 were derived ; from external comparisons , we estimate that our magnitudes are accurate to at worst 0.4 mag , and typically 0.2 mag .",
+    "magnitudes for a further 33 galaxies observed by faust ( deharveng et al .",
+    "1994 ) at 1650 were also included in the analysis as a check .",
+    "h@xmath0 luminosities are primarily taken from the literature , with the addition of some unpublished ccd data taken by the authors .",
+    "when appropriate , the total flux was corrected for @xmath2nii@xmath3 $ ] following kennicutt ( 1983 ) . to determine the importance of dust",
+    ", we also examined far - infrared ( fir ) and thermal radio continuum luminosities .",
+    "the fuv to fir ratio is a rough probe of dust attenuation .",
+    "the h@xmath0 to thermal radio ratio is a direct probe of the attenuation of the h@xmath0 light as the two radiations are produced by the same thermal electrons : the only disadvantage is that the thermal radio luminosity is difficult to measure accurately in most cases .",
+    "in panels a and b of fig .  1 , we can see that the h@xmath0 sfrs are a factor of @xmath41.5 larger than the fuv sfrs for high luminosity galaxies , and comparable for lower luminosity galaxies .",
+    "this is consistent with a scenario in which both the h@xmath0 and fuv radiation suffer attenuation ( where the fuv attenuation is larger than the h@xmath0 attenuation ) , and that the overall amount of attenuation varies as a function of galaxy luminosity ( e.g.  tully et al .  1998 ) .    we explore the attenuation more directly in panel c , where we plot the h@xmath0 attenuation determined from the h@xmath0 to thermal radio ratio against the fir to fuv luminosity ratio ( a tracer of fuv attenuation , modulo uncertainties from older stellar population heating of the dust ) .",
+    "the h@xmath0 attenuations are clearly correlated with the fuv attenuations , indicating a real spread in overall spiral galaxy attenuation .",
+    "furthermore , the data are consistent with a h@xmath0 attenuation @xmath4 12 times lower than the fuv attenuation ( simple models predict a factor of 4 offset : models that take into account the different distribution of fuv and h@xmath0 emitting sources predict a factor of 2 offset ) . a more thorough discussion of these results is presented by bell & kennicutt ( 2000 ) .",
+    "bell , e. f. & kennicutt , r. c. , jr .",
+    "2000 , submitted to apj deharveng , j. m. , et al .",
+    "1994 , a&a , 289 , 715 kennicutt , r. c. , jr . 1983 , apj , 272 , 54 kennicutt , r. c. , jr .",
+    "1998 , ara&a , 36 , 189 tully r. b. , et al .",
+    "1998 , aj , 115 , 2264"
+  ],
+  "abstract_text": [
+    "<S> we have used a sample of 43 star - forming galaxies imaged in the far - ultraviolet ( fuv ) by the uit supplemented with 33 galaxies observed by faust , to explore the consistency of uv and h@xmath0 derived star formation rates ( sfrs ) . </S>",
+    "<S> we find , even before correction for dust , that uv and h@xmath0 sfrs are quantitatively consistent for low - luminosity galaxies , and that higher luminosity galaxies have h@xmath0 sfrs a factor of 1.5 higher than their uv sfrs : this reflects the influence of dust . </S>",
+    "<S> our results are consistent with a scenario where the uv dust extinction is a factor of @xmath12 larger than the h@xmath0 dust extinction in a given galaxy , and that there is over a 4 magnitude range of h@xmath0 dust extinctions which correlate loosely with galaxy luminosity such that low luminosity galaxies tend to have lower extinctions than their higher luminosity counterparts . </S>"
+  ]
+}

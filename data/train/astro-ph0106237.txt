@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "the `` off '' state of the x - ray pulsar her x-1 was observed with the telescope art - p on board granat three times in 1990 - 1991 .",
+    "the source persistent flux in this state was detected at the level of few mcrabs ( several percents of its high - state flux ) and was characterized by the absence of x - ray pulsations  the @xmath2 upper limit on the pulse fraction in the 3 - 20 kev band varied between 2.9% and 18% in different observations .",
+    "the source s `` off '' state spectra are well described by a simple power law without evidence of a cutoff in the hard energy band or of emission lines .",
+    "the spectral slopes differ by a factor of @xmath3 , with the photon flux in the energy band 3 - 20 kev being virtually the same .",
+    "her  x-1 is observed in its `` off '' state if the compact source is hidden behind the outer edge of a warped ( or tilted to the orbital plane ) accretion disk and , as it is believed , the source emission can greatly scattered in a hot corona ( it s height is @xmath4 cm ) above the outer parts of the disk",
+    ". such scattering of emission from the compact source by coronal electrons can account for the existence of an x - ray flux in the `` off '' state and it allows to explain the absence of pulsations in this state , as any information about variability on a time scale shorter than @xmath5 s , where @xmath6 is the speed of light , must be lost .",
+    "a significant declination ( by a factor of 6 ) in the 4 - 20 kev source flux was detected during the observation on aug 19 , 1990 .",
+    "this declination occurred in two steps , latter of which corresponded to an orbital phase @xmath7 at which the x - ray eclipse ingress was observed in other experiments .",
+    "it is important to note that the intensity decline during the eclipse ingress mainly occurred in the hard energy band and the corresponding hardness ( ratio of the 10 - 20 kev and 4 - 6 kev fluxes ) decrease was equal to @xmath8% . after the eclipse ingress",
+    "a non - zero and non - pulsing x - ray emission was detected by art - p from the source at the signal - to - noise level of @xmath9 .",
+    "the pulsar s spectrum during the eclipse was measured with large statistical errors ; nevertheless , a line at energy of @xmath10 kev was very reliable . by assuming that this is the 6.7-kev line of helium - like iron",
+    ", we estimated its intensity , @xmath11 , and equivalent width , @xmath12 kev .",
+    "although the source itself was already occulted by the disk of the optical star at this time , part of the surface of the scattering cloud remained in the visibility zone , and we observed precisely this emission scattered in the cloud .",
+    "note also that the measured spectrum at energies below 5 kev shows an excess of soft x - ray emission , which was previously revealed from the light curve analysis .",
+    "the observation of this x - ray pulsar on june 15 , 1992 ( orbital phases 0.9180.953 ) was carried out mainly during an eclipse .",
+    "we divided it into two parts , in accordance with the beginning of the source s eclipse egress .",
+    "a non - zero flux of approximately 1/10 of the bright - state flux at the confidence levels 4.3 and 4.6@xmath0 was observed from the source during the eclipse and eclipse egress , respectively . during the second part of the observation x - ray pulsations with the period @xmath13 s",
+    "were detected from the source at a confidence level of @xmath14 .",
+    "the pulse fraction was equal to @xmath15% and it was a factor of 2 lower than one measured in the source s bright state several days earlier . during the eclipse we failed to detect any pulsations  the 3@xmath0 limit on the pulse fraction was 9.6% .",
+    "the persistent flux , detected during an x - ray eclipse , may be the emission scattered in a fairly dense stellar wind or in the extended atmosphere of the optical star .",
+    "given that the binary characteristic size , @xmath16 light seconds , is half the pulsation period , photons must undergo several scatterings for the pulse profile to be smeared enough .",
+    "for the scattering optical depth of the wind @xmath17 , the scattered - to - incident flux ratio allows us to estimate the solid angle @xmath18 at which the scattering - envelope ring is seen from the compact source .",
+    "accordingly , the envelope height above the optical - star surface is @xmath19"
+  ],
+  "abstract_text": [
+    "<S> results of granat / art - p observations of three x - ray pulsars in non - pulsing states are presented : 1 ) a statistically significant non - pulsing flux with a simple power - law spectrum was detected during the `` off''- state of her x-1 ; 2 ) a significant ( 13 @xmath0 ) non - pulsing flux with a strong iron emission line at energies   6.7 - 6.9 kev was detected during the eclipse ingress of cen x-3 ; 3 ) a weak non - pulsing flux was detected during the x - ray eclipse of vela x-1 , which probably resulted from scattering of the pulsar emission in the stellar wind of an optical star .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in    @xmath1 </S>"
+  ]
+}

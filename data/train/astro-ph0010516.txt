@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "optically selected quasar samples are the most complete ones",
+    ". however , every survey technique has a redshift and a luminosity - dependent selection biases ( wampler and ponz 1985 ) .",
+    "only the combination of the different search techniques in different spectral ranges , will yield a complete sample of quasars , with an adequate representation of the properties inherent to them ( hartwick & shade 1990 ; chavushyan 1995 ) .",
+    "we have started a multiwavelength search for qsos in the well optically investigated sbs sky area .",
+    "( stepanian et al . 1999 , and references therein ) .",
+    "the first radio survey ( becker et al . 1995 ) provides a new resource for constructing a large quasar sample . with positions accurate to 1  and a point source sensitivity limit of 1 mjy",
+    ", it goes 50 times fainter in flux than any previous radio survey .",
+    "the fbqs ( gregg et al . 1996 ; white et al . 2000 ) is a qso survey based on first .",
+    "unfortunately , for the fbqs area there is a lack of complete optically selected samples of qsos .",
+    "hence , it is very difficult to estimate the completeness of this latter survey , as well as , the number of missed quasars in the optical fbqs sample .",
+    "in order to detect the missing qsos in the sbs , and to create a more complete qso sample , we have cross - identified the deep radio ( first ) and optical ( apm ) databases .",
+    "the overlap of the surveys is about 700 sq .",
+    "degree in the sky .",
+    "we have selected objects classified as stellar - like on apm with b - magnitudes between 145 and 185 coincident with the positions of the first sources within 3  radius .",
+    "the sources , in this region , are @xmath1 objects , of which 90 were previously known agns ( discovered mainly by the sbs ) ( fig .",
+    "the observations were carried out with the 2.1 m telescope of the gho and the lfosc spectrograph . a set - up covering the spectral range of 4200 - 9000  , with a dispersion of 8",
+    " / pixel was adopted ( zickgraf et al . 1997 ) . during 1999 - 2000 period ,",
+    "we have carried out spectroscopic observations for  150 faqs objects ( see examples in fig.2 ) .",
+    "so far , in this studied subsample , we have found 51 new qsos ( 4 bal ) , 13 seyfert galaxies ( 5 nlsy1 s ) , 23 emission line galaxies , 3 bl lac objects and 57 high galactic latitude stars ."
+  ],
+  "abstract_text": [
+    "<S> the main goal of the first - apm qso survey ( faqs ) survey is to compile the most complete sample of bright qsos , located in the area covered by the second byurakan survey ( sbs ) . </S>",
+    "<S> here we report the first results of an ongoing study based on the cross - identification of the first radio catalog and the apm optical catalog . </S>",
+    "<S> the overlapping sky area between first and sbs is about 700 deg@xmath0 . </S>",
+    "<S> the compiled list of sources for this overlapping region contains @xmath1 quasar candidates brighter than @xmath2 . </S>",
+    "<S> about 90 objects were already spectroscopically classified . during 1999 - 2000 , we observed spectroscopically more than 150 faqs objects with the 2.1 m telescope of the guillermo haro observatory ( gho).we have found 51 new qsos ( 4 bal qsos ) , 13 seyfert galaxies ( 5 nlsy1 s ) , 23 emission line galaxies , 3 bl lac objects and 57 stars .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

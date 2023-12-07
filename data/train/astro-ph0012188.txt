@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the quasar j1819 + 3845 is , at radio wavelengths , the most extremely variable extragalactic source known ( dennett - thorpe & de bruyn , 2000 apjl 529 65 ) . at the beginning of 1999",
+    "it showed peak to peak variations of more than 600% at 5ghz , with just an hour between the minima .",
+    "intrinsic variations of this rapidity would require not only absurd brightness temperatures , but a source which would be small enough to scintillate due to the galactic interstellar medium .",
+    "we therefore consider refractive scintillations as the only cause of the hourly variations and concluded that : +   @xmath0 the scattering occurs in a nearby ( @xmath125pc ) screen +   @xmath0 @xmath255% of the flux density at 5ghz must be contained within a diameter of 30microarcseconds : or 5 light - months at the source redshift ( @xmath3=0.53 ) .",
+    "+   @xmath0 if the scintillations are due to one component , the brightness temperature t@xmath4=510@xmath5k + this high t@xmath4 combined with a spectral peak @xmath1 100ghz , requires that the source is a transient phenomenon ( @xmath6 5 months ) ; has an exotic emission process ; or has doppler factors of @xmath115 and a continuous energy input .",
+    "we conducted a monitoring campaign with the wsrt to address the velocity of the scattering plasma ( a critical unknown in the application of the scintillation theory ) , the longevity of the source and the source structure .",
+    "from the monitoring campaign we found that : + @xmath0 the source continued to scintillate throughout the 14 month observing period .",
+    "+ @xmath0 there is a yearly variation in the timescale of the modulations over this period ; with the fastest variations around february , and the slowest in august .",
+    "the variations in august are around an order of magnitude slower than those in february .",
+    "+ @xmath0 there is no indication for a change in the strength of the modulations .",
+    "+ these results most easily explained as due to a seasonal change in the relative velocity of the earth and the scattering plasma .",
+    "this changes the speed at which we move through the projected scintillation pattern . as j1819 + 3845",
+    "is very close to the ecliptic pole , there is very little change in the timescale of the modulations due to the earth s motion .",
+    "we conclude , from fits to the observed timescale ( measured in several different manners ) , that _ the scattering plasma has a velocity @xmath1 25 kms@xmath7 w.r.t .",
+    "the lsr_. this velocity is in the opposite sense expected due to differential galactic rotation , and further strengthens the notion that the _ scattering occurs predominantly in a discrete structure _ , not throughout the ism .",
+    "the scintillations from a finite source are weighted towards the medium where the refractive scale ( medium dependent ) , fresnel size ( distance dependent ) and source size are matched .",
+    "thus quasars ( unlike pulsars ) will be more affected by nearby scattering material .",
+    "we note that the character of the modulations appears different around may ( smaller , faster variations accompanied with larger excursions ) than at other times of the year ( where the light curves seem smoother ) .",
+    "furthermore , the period of slow modulations , which extends for almost 6 months , is longer than expected if the change in timescale is solely due to the peculair velocity of the plasma .",
+    "work is underway to investigate that , in addition to the peculiar velocity of the plasma , there may be additional affects due to source elongation , anisotropic turbulence or contributions from other scattering media ( including the extended galactic ism ) .",
+    "we have now measured the effective velocity of the scattering medium , and have therefore eliminated a previous unknown in our calculation . assuming that all the flux density in the ` scintillating component ' ( 75mjy at 5ghz ) is in a single component , we have a firm limit t@xmath8510@xmath5k .",
+    "@xmath0 there is evidence for source structure . as the modulations do not reach 100% at any frequency , the source must have a component which is larger than the scattering zone , or @xmath2 30@xmath9arcsecs at 5ghz .",
+    "furthermore , there is evidence for substructure in the source , on scales @xmath1 the scattering zone , from the persistent asymmetries in the lightcurves .",
+    "variations in polarised flux also support multiple scintillating components .",
+    "@xmath0doppler factors @xmath10 15 would allow for the compton losses which limit the intrinsic t@xmath4 .",
+    "( if @xmath11 does not greatly exceed this , the source should be compton limited and therefore a copious x - ray emitter . )",
+    "even so , the spectral peak @xmath1 100ghz means that these electrons would lose their energy in a matter of weeks .",
+    "@xmath0the source shows intrinsic variations in polarisation over a period of months , but at centimeter wavelengths , the intrinsic luminosity of the source has been remarkably constant . at most",
+    "it has shown a 20% increase ."
+  ],
+  "abstract_text": [
+    "<S> we present new wsrt observations of the micro - arcsecond quasar j1819 + 3845 . </S>",
+    "<S> all short term variations are attributed to interstellar scintillation of a source which is at most 30 micro - arcseconds in diameter . </S>",
+    "<S> the timescale of the modulations changes over the year , which we interpret as due to a peculiar velocity of the scattering medium . </S>",
+    "<S> the scintillation behaviour can be used to determine sub - structure in the source . </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "hints that galaxy interactions might play an important role in inducing multi - wavelength emission enhancement date back at least 40 years .",
+    "one of the first quantitative indications came from holmberg ( 1958 ) , as a byproduct of his famous photometric survey of nearby galaxies . by comparing the photographic colors of paired galaxies",
+    ", he found a significant correlation between the colors of pair components .",
+    "this phenomenon has since been referred to as the `` holmberg effect '' .",
+    "although the physical explanation of the holmberg effect is complex , it reflects in part a tendency for similar types of galaxies to form together ( morphological concordance ) , a possible reflection of the role of local environment in determining galaxy morphology , but it can presumably also reflect mutually induced star formation ( kennicutt 1998 ) .",
+    "during 1999 , a sample of 45 spiral  spiral ( s+s ) binary galaxies was observed at observatorio guillermo haro , cananea , sonora , mxico , as a part of our observational project on binary galaxies selected from the karachentsev catalogue ( 1972 ) . a basic surface photometry analysis of this sample is also presented in this volume ( hernndez toledo & puerari ) . the estimated ( b - v ) colors for ( s+s ) pairs were corrected for both internal and galactic interstellar reddening and subsequently reduced to the rc3 system .",
+    "figure 1 shows the ( b - v ) color correlation .",
+    "the vertical axis refers to the brighter ( primary ) component and the horizontal axis refers to the fainter ( secondary ) component .",
+    "additional information on colors for karachentsev ( s+s ) pairs , mainly from the lyon ",
+    "meudon extragalactic database ( leda ) and the catalogue of aperture photometry in ubvri by prugniel & hraudeau ( 1998 ) were included .",
+    "demin et al .",
+    "( 1983 ) , mrquez & moles ( 1996 ) , and junqueira et al . (",
+    "1998 ) also provided some color information .",
+    "we can see that the two colors are tightly correlated .",
+    "a correlation coefficient @xmath0 is obtained for our ( s+s ) pairs and the additional color information displayed strongly supports this result . a more careful analysis of the ( b - v ) , ( b - r ) and ( b - i ) colors involving stellar population synthesis models is in progress .",
+    "demin , v.v . ,",
+    "zasov , a.v . ,",
+    "dibai , d.a . ,",
+    "tomov , n. 1983 , sov .",
+    "holmberg , e. , 1958 , medd .",
+    "lunds astron .",
+    "( 2 ) 136 , 103 .",
+    "junqueira , s. , de mello , d.f . ,",
+    "infante , l. 1998 129 , 69 .",
+    "karachentsev , i.d .",
+    "1972 , catalogue of isolated pairs of galaxies in the northern hemisphere , comm .",
+    "ap . obs . 7 , 1 .",
+    "kennicutt , r. 1998 , in galaxies : interactions and induced star formation .",
+    "saas - fee advanced course 26 .",
+    "r. kennicutt , f. schweizer & j. e. barnes ( springer ) .",
+    "mrquez , i. , moles , m. 1996 , 120 , 1 .",
+    "prugniel , ph . , hraudeau , ph .",
+    "1998 , 128 , 299 ."
+  ],
+  "abstract_text": [
+    "<S> relying on his photometry of galaxies , holmberg ( 1958 ) found , more than 40 years ago , that the color indices of paired galaxies were closely correlated . </S>",
+    "<S> our deep broad - band bvri ccd photometry of 45 ( s+s ) pairs from the karachentsev ( 1972 ) catalogue ( see hernndez toledo & puerari , this volume ) , and additional ( b - v ) color information from the literature ( 50 extra ( s+s ) pairs ) , help us to confirm the effect . </S>",
+    "<S> this `` holmberg effect '' has long been remained unverified and not explained yet .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

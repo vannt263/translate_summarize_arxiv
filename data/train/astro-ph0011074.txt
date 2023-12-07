@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "[ [ section ] ]    the rcs will provide a large sample of optically selected galaxy clusters over the redshift range @xmath3 .",
+    "clusters are selected using a technique based on locating the red - sequence of early - type galaxies in the cluster core ( gladders & yee 2000a ) .",
+    "simulations show that the rcs will be complete for clusters of line - of - sight velocity dispersions of 750 km  sec@xmath4 to @xmath5 ( gladders & yee 2000b ) , regardless of the details of the cluster galaxy properties",
+    ".      the large and well - understood cluster sample from the rcs will be well suited to measuring the evolution of the cluster mass spectrum , @xmath6 , and hence @xmath1 and @xmath2 .",
+    "individual cluster redshifts can be estimated photometrically from the survey data to an accuracy of @xmath7 ( gladders & yee 2000a ) .",
+    "masses can also be estimated photometrically , using the @xmath8 richness estimator , which has been shown to be well correlated with velocity dispersion ( yee & lpez - cruz 1999 ) and hence mass .",
+    "the @xmath8 - mass correlation is currently calibrated to @xmath9 ; once calibration is complete over the entire rcs redshift range the whole survey should yield estimates of @xmath1 and @xmath2 accurate to @xmath10 - more accurate and independent of current results based on relatively small x - ray selected samples ( e.g. , see henry 2000 and references therein ) .      as a qualitative illustration of the cosmology indicated by the rcs",
+    ", we have used the rcs selection functions ( gladders & yee 2000a , b ) to integrate out the mass dependence in model predictions of @xmath6 and compared the rcs measure of @xmath11 to predictions from two typical cosmologies .",
+    "predictions of @xmath6 are made from the standard press - schechter formalism , and multiplied by the rcs selection functions ( expressed in mass and redshift , assuming a cluster with a typical luminosity function shape , galaxy mixture and cluster shape , concentration and size ) .",
+    "these selection functions tail off to zero probability at a lower mass limit which becomes progressively more massive at higher redshift , limiting the contribution to @xmath6 from lower - mass clusters and groups .",
+    "the result of these computations , as well as the actual counts from a portion of the rcs , are shown in figure 1 . clearly , and not surprisingly , the low @xmath1 and high @xmath2 model is preferred .",
+    "regardless of the precise details of the shapes of the modeled curves ( which are dependent on knowing the selection functions ) , the simple abundance of candidates at high redshift in the real data is a strong argument for a low @xmath1 universe ."
+  ],
+  "abstract_text": [
+    "<S> the red - sequence cluster survey ( rcs ) is a 100 deg@xmath0 optical survey for high - redshift galaxy clusters . </S>",
+    "<S> one of the goals of the survey is a measurement of @xmath1 and @xmath2 via the evolution of the mass spectrum of galaxy clusters . </S>",
+    "<S> herein we briefly describe how this will initially be done , and also demonstrate the eventual power of the rcs for this type of measurement by a qualitative analysis of the first 1/10th of the survey data .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

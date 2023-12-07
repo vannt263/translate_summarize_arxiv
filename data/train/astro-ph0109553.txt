@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "type ia supernovae ( sne ia ) are believed to represent the thermonuclear disruptions of c  o white dwarfs , when these white dwarfs reach the chandrasekhar limit and ignite carbon at their centres .",
+    "the favoured scenario for sn ia progenitors is the single  degenerate model , in which the wd accretes from a subgiant or giant companion ( livio 2000 ) .",
+    "suspected sn ia progenitors are the recurrent novae ( rne )  a small class of cataclysmic variables ( cvs ) which show repeated nova outbursts on a timescale of decades . to produce such short intervals between outbursts ,",
+    "the thermonuclear runaway model requires a near  chandrasekhar mass white dwarf ( starrfield , sparks & shaviv 1988 ) .    despite the ejection of material during a nova event ,",
+    "most of the accreted material remains on the surface of the white dwarf ( hachisu et al . 2000 ) .",
+    "further accretion of mass onto a massive white dwarf will result in the chandrasekhar limit being overcome , and the subsequent detonation of the white dwarf to produce a sn ia .",
+    "an observational determination of the white dwarf mass in rne is therefore crucial in assessing whether rne are sn ia progenitors .",
+    "we present spectroscopy of the eclipsing recurrent nova u  sco .",
+    "the radial velocity semi - amplitude of the primary star was found to be @xmath2 kms@xmath3 from the motion of the wings of the heii@xmath4@xmath5 emission line ( fig.1 ) . by detecting weak absorption features from the secondary star , we find its radial velocity semi - amplitude to be @xmath6 kms@xmath3 ( fig.2 ) . from these parameters ,",
+    "we obtain a mass of @xmath0 for the white dwarf primary star and a mass of @xmath7 for the secondary star .",
+    "the radius of the secondary is calculated to be @xmath8 , confirming that it is evolved .",
+    "the inclination of the system is calculated to be @xmath9 , consistent with the deep eclipse seen in the lightcurves .",
+    "the helium emission lines are double - peaked , with the blue - shifted regions of the disc being eclipsed prior to the red - shifted regions , clearly indicating the presence of an accretion disc .",
+    "the high mass of the white dwarf is consistent with the thermonuclear runaway model of recurrent nova outbursts , and confirms that u  sco is the best type ia supernova progenitor currently known .",
+    "assuming an average white dwarf growth rate of @xmath10 y@xmath3 ( hachisu et al .",
+    "2000 ) , we predict that u  sco is likely to explode within @xmath1 years .",
+    "hachisu , i. , kato , m. , kato , t. & matsumoto , k. 2000 , apj , 528 , l97 + livio , m. , 2000 , in `` supernovae and gamma ray bursts '' , stsci symp.13 cup + starrfield , s. , sparks , w. m. & shaviv , g. 1988 , apj , 325 , l38 + thoroughgood , t. d. et al .",
+    "2000 , mnras , in press ( astro - ph/0107477 )"
+  ],
+  "abstract_text": [
+    "<S> we derive the mass of the white dwarf in the eclipsing recurrent nova u  sco from the radial velocity semi  </S>",
+    "<S> amplitudes of the primary and secondary stars . </S>",
+    "<S> our results give a high white dwarf mass of @xmath0 , consistent with the thermonuclear runaway model of recurrent nova outbursts . </S>",
+    "<S> we confirm that u  sco is the best type ia supernova progenitor known , and predict that the time to explosion is within @xmath1 years .    </S>",
+    "<S> # 1 1.25 in .125 in .25 in    this work has been accepted for publication in the _ monthly notices of the royal astronomical society _ ( astro - ph/0107477 ) . </S>"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "our data consist of 54 b , 57 v and 52 i frames taken at the 1.54 cm eso - danish telescope in july 1999 .",
+    "the data reduction was performed using the isis package ( alard 2000 ) , which is based on the method of image subtraction .",
+    "this technique is particularly powerful when searching for variability in crowded fields , both in terms of detection rate and in terms of photometric accuracy . as an example , in fig .",
+    "1 we show for comparison the v light curves of 3 rr lyrae variables that were measured by layden & sarajedini 2000 ( hereafter ls2000 ) with traditional techniques ( psf - fitting ) and by us with isis .",
+    "with respect to the previous study by ls2000 , the number of detected variable stars has increased from 117 to 211 , in particular more small amplitude variables ( rrc and long period rrab ) have been found .",
+    "_ m54 can now be classified as intermediate in the oosterhoff groups_.    the reddening can be estimated from the ( v  i ) colors at minimum light of the rrab - type pulsators and is e(v ",
+    "i)=0.17 @xmath0 0.02 mag .",
+    "assuming [ fe / h]=1.55 for m54 , and the relation mv(rr ) = 0.20 [ fe / h ] + 0.98 ( fernley et al .",
+    "1998 ) , we obtain a distance modulus ( m - m)@xmath1 = 17.07 for m54 , in a distance scale where the lmc has a true distance modulus 18.44 .",
+    "we have obtained an improved cmd , where one can clearly identify the contributions of the galactic disk and bulge contaminating components , the m54 red giant branch ( rgb ) , and the sgr intermediate and metal - rich rgbs .    for the rgb stellar components",
+    "the metallicity has been estimated by comparison with template rgb ridge lines of galactic globular clusters at various metallicities ( saviane et al .",
+    "2000 ) . for the rr",
+    "lyraes the metallicity has been estimated by fourier decomposition of the v light curves ( kovacs & jurcsik 1997 ) . in fig .",
+    "2 we show the metallicity distributions for the rgb stars of the sgr field ( about half a degree away from m54 - bellazzini et al . 1999 ) , the rgb stars in the field of m54 , and the rr lyrae variables in the field of m54 .",
+    "@xmath2 in the field centered on m54 one can identify the same components as above , at [ fe / h ] = 1.55 and 0.6 , albeit with different relative proportions .",
+    "the hint of the component at 2.1 is not seen , possibly because included in the decontamination from the galactic disk / bulge contribution .",
+    "a small but detectable intermediate sgr population appears at about 1.2 .",
+    "@xmath2 the rr lyrae stars belong to populations at three different metallicities , i.e. 1.55 ( produced by m54 and the sgr field ) , and 1.2 and 2.1 ( produced by the sgr field only ) . the metal - rich sgr field population at 0.6 , as expected , does not produce rr lyraes .",
+    "alard , c. 2000 , a&as , 144 , 363 bellazzini , m. , ferraro , f.r .",
+    ", buonanno , r. 1999 , mnras , 307 , 619 fernley , j. , skillen , i. , carney , b.w .",
+    "1998 , mnras 293 , l61 kovacs , g. , jurcsik , j. 1997 , a&a , 322 , 218 layden , a.c . ,",
+    "sarajedini , a. 2000 , aj , 119 , 1760 saviane , i. , rosenberg , a. , piotto , g. , aparicio , a. 2000 , a&as , 144 , 5"
+  ],
+  "abstract_text": [
+    "<S> we report on new b , v and i ccd photometry of the globular cluster m54 that was aimed at the study of its variable stars . with respect to the previous most recent work on m54 </S>",
+    "<S> we have nearly doubled the number of detected variable stars : m54 can now be classified as intermediate in the oosterhoff groups . </S>",
+    "<S> the metallicity distribution for the cluster and the sgr dsph field is obtained from the red giant stellar population , and for the variables .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

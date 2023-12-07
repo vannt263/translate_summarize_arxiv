@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "@xmath021-cm merlin observations of the seyfert galaxy ngc  4151 revealed localized and marginally resolved hi absorption , with a peak column density of @xmath1  @xmath26@xmath310@xmath4  @xmath5 @xmath6 , against the component ( c4 ) in the radio jet which is thought to contain the agn ( mundell et al .",
+    "1995 ) ; no absorption was detected against the other jet components ( fig .",
+    "an east - west column density gradient was observed and , in combination with uv column densities and early vlbi images ( fig .",
+    "1b ) , which showed c4 to consist of two components ( c4e and c4w ) , led mundell et al . ( 1995 ) to suggest that the weaker , western component , c4w , contains the optical / uv nucleus and the hi absorption is taking place against the first component of the counterjet ( c4e ) , due to gas in the obscuring torus ( fig .",
+    "1c ) . structural and spectral index information obtained from subsequent radio continuum vlba observations of the jet at 1.6 and 5  ghz led ulvestad et al .",
+    "( 1998 ) to suggest a similar model but with the agn located at the emission peak of c4e ; this model predicted an absence of hi absorption against the agn , with hi absorption occurring only against the start of the counterjet , i.e. the tail of emission extending eastwards of the peak in c4e .",
+    "as shown in fig .",
+    "1(f ) , hi absorption is detected against the whole extent of c4e , thereby ruling it out as the location of the agn .",
+    "the absorption is spatially and kinematically complex with column densities @xmath1  @xmath210@xmath7@xmath5 , where @xmath5 is the spin temperature for which the value is unknown but is typically @xmath210@xmath8@xmath910@xmath10 k in the galaxy ( heiles & kulkarni , 1988 ) .",
+    "the vlba+vla continuum image also reveals a highly collimated radio jet , imaged over its full extent of @xmath225 at milliarcsecond resolution ( fig .",
+    "1d , e ) , which , although less intrinsically luminous , seems to resemble those in quasars and radio galaxies ; the brighter knots might correspond to shock features , coinciding with changes in direction , due to interaction with the ism in the central @xmath2100 pc .",
+    "harrison , b. , pedlar , a. , unger , s.w . , burgess , p. , graham , d.a . &",
+    "preuss , e. 1986 , , 218 , 775 heiles , c. & kulkarni , s. , 1988 , in _ galactic and extragalactic radio astronomy _ , ed",
+    ". k. kellerman & g. verschuur , 95 mundell , c.g .",
+    ", pedlar a. , baum , s.a . ,",
+    "odea , c.p . ,",
+    "gallimore , j.f . & brinks , e. 1995 , , 272 , 355 ulvestad , j.s . ,",
+    "roy , a.r . , colbert , e.j.m .",
+    "& wilson , a.s .",
+    "1998 , , 496 , 196"
+  ],
+  "abstract_text": [
+    "<S> we present sensitive , high - resolution @xmath021-cm vlba+vla observations of the radio jet and nuclear hi absorption in ngc  4151 . the 25-mas ( 1.6-pc ) </S>",
+    "<S> resolution continuum image reveals a highly collimated radio jet , underlying the discrete components seen previously with merlin and the vla . </S>",
+    "<S> spatially and kinematically complex hi absorption is detected against the whole 3-pc extent of the continuum component predicted by ulvestad et al . to contain the agn . instead </S>",
+    "<S> , we suggest the component against which the absorption is detected is part of the eastern counterjet , ruling it out as the location for the agn </S>",
+    "<S> .    # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

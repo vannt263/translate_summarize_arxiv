@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "-0.05 in    sparsepak contains a 76@xmath177 arcsec sparsely - packed hexagonal grid of 75 , 5-arcsec diameter fibers , which pipe light from the `` imaging '' nasmyth focus to the versatile bench spectrograph on the wiyn 3.5 m telescope ( bershady et al .",
+    "seven `` sky '' fibers are placed at @xmath2 30 arcsec from two grid sides .",
+    "the large anamorphic demagnification in the echelle - mode of the bench spectrograph yields instrumental spectral resolutions of 8000 - 10,000 and as high as 21,000 with sparsepak ",
+    "comparable to resolutions obtained with smaller fibers . at the same time , sparsepak has @xmath3% throughput for @xmath4 nm , and provides nearly 3@xmath1 the light gathering power over 5@xmath1 the area as densepak , the pre - existing wiyn fiber array .",
+    "these attributes make sparsepak well suited for medium - resolution spectroscopy on extended objects down to low surface - brightness .",
+    "-0.15 in    we have mapped the velocity and velocity dispersion fields in two blue , very high surface - brightness , yet small disks in the ursa major cluster ( b@xmath5r=0.8 - 1 mag , @xmath6(b)=19.3 - 19.5 mag arcsec@xmath7 , h@xmath8=0.9 - 1.7 kpc , verheijen 1996 ) .",
+    "ngc 3982 is nearly face - on ( i=26@xmath9 ) , while ngc 3949 is moderately inclined ( i=54@xmath9 ) . as such",
+    ", these photometrically similar galaxies offer projections which enhance measurements of different components of their velocity ellipsoids .",
+    "each galaxy was observed in three spectral regions near 5130(mgi ) , 6680  ( h@xmath10 ) and 8660  ( caii - triplet ) with fwhm spectral resolutions of 24 , 16 and 37 km / s respectively .",
+    "stellar absorption - line observations were taken with a single sparsepak pointing while h@xmath10 was contiguously mapped in three pointings at very high s / n .",
+    "the latter provided high - precision kinematic inclinations ( see andersen & bershady , these proceedings ) .    in the inner regions of the galaxy ,",
+    "the signal - to - noise in the absorption - line spectra of individual fibers is high enough to determine the line centroids and widths and to construct stellar velocity fields ( figure 1 ) .",
+    "the layout of the fibers allows for azimuthal averaging of fibers to improve signal - to - noise in the outer regions ( figure 2 ) .",
+    "the near face - on orientation of ngc 3982 , for example , permits 18 fibers to be combined at a radius of 3.5 h@xmath11 . before averaging ,",
+    "the projected rotational velocities were taken out , using the centroids of the high signal - to - noise h@xmath10 lines . in both galaxies",
+    "this may lead to an overestimate of the inner velocity dispersions .",
+    "comparison of the h@xmath10 and stellar velocity fields in figure 1 clearly shows the effects of asymmetric drift inside 1.5 disk scale lengths ( h@xmath8 ) . outside this radius the asymmetric drift approaches zero .",
+    "two results stand out from these initial measurements , illustrated in figures 2 and 3 .",
+    "first , for ngc 3949 , the ratio of major and minor axis velocity dispersions are unity ( @xmath12% ) , while the epicycle approximation yields @xmath13 . from this",
+    "we find the surprising result that @xmath14 must be much larger than either @xmath15 or @xmath16 , implying at face value that ngc 3949 has a dynamically unusual ( hot ) disk ( cf gerssen et al . 2000 ) .",
+    "second , the velocity dispersion in the disk of ngc 3982 is @xmath2 constant with radius until the last radial datum , where @xmath17 falls to a significantly lower value .",
+    "( no corrections were applied for contributions from the projected radial and tangential velocity dispersion components  a @xmath1813% effect . )",
+    "we derive a _ total _",
+    "disk mass surface density for a variety of scale heights , based on results from recent work by kregel et al .",
+    "( 2002 ) , and assuming an isothermal ( sech@xmath19 ) vertical density profile .",
+    "this mass surface density is at a level @xmath23.5 higher than the surface density of the milky way in the solar neighborhood ( kuijken & gilmore 1991 ) , and is nearly constant with radius until r / h@xmath8=3 .",
+    "consequently the mass - to - light ratio of the disk increases with radius for r / h@xmath20 , while the disk color gets bluer  a trend opposite that indicated by the models of bell & de jong ( 2000 ) .",
+    "however , our color range is limited , and we must also check whether red super - giants are in abundance in this system . finally , a weighted radial average of ( m / l@xmath21)=0.18 is used in a rotation curve decomposition shown in figure 2 which implies a substantially ( @xmath22% ) sub - maximum , yet very high sb disk ( see also verheijen et al .",
+    "this research was supported by nsf / ast-9970780 ."
+  ],
+  "abstract_text": [
+    "<S> we have completed a new fiber array , sparsepak , optimized for low - surface - brightness studies of extended sources on the wiyn telescope . we are now using this array as a measuring engine of velocity and velocity - dispersion fields of stars and ionized gas in disk galaxies from high to low surface - brightness . here </S>",
+    "<S> we present commissioning data on the velocity ellipsoids , surface densities and mass - to - light ratios in two blue , high surface - brightness , yet small disks . </S>",
+    "<S> if our preliminary results survive further observation and more sophisticated analysis , then ngc 3949 has @xmath0 , implying strong vertical heating , while ngc 3982 s disk is substantially sub - maximal . </S>",
+    "<S> these galaxies are strikingly unlike the milky way , and yet would be seen more easily at high redshift .    </S>",
+    "<S> -0.25 in    # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

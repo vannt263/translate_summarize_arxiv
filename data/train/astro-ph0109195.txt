@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "large star - to - star abundance variations in c , n , o , na , mg and al exist among bright giant stars in metal - poor globular clusters .",
+    "star - to - star abundance variations have been found in all metal - poor globular clusters in which the variations have been sought . in clusters with sufficiently large sample sizes , n is typically anti - correlated with o and c , na is anti - correlated with o , and al is anti - correlated with mg .",
+    "the reader is referred to  1 of ivans et al .",
+    "( 2001 ) for references to recent relevant reviews .",
+    "the abundance anti - correlations found among cluster stars likely result from proton - capture nucleosynthesis ( where c and n are converted into n , ne into na , and mg into al ) .",
+    "what is less clear is whether the synthesis takes place in the giants we presently observe ( evolutionary scenario ) or in a prior generation of more massive evolved stars that polluted the gas from which the present generation of stars was formed ( primordial scenario ) .",
+    "one expectation of the evolutionary scenario is that the distribution of these abundances should change with advancing evolutionary state .",
+    "thus as evolution proceeds , one might expect to find relatively more stars with low o and mg and fewer with high o and mg , and correspondingly more with high na and al and fewer with low na and al .",
+    "given the importance of decoupling the evolutionary effects from primordial enrichments , we performed an abundance study of a sample of 36 giant stars in the mildly metal - poor globular cluster m5 , to compare against the ivans et al .",
+    "( 1999 ) large - sample study of the similar metallicity cluster m4 .",
+    "details of the observations and analysis techniques are to be found in ivans et al .",
+    "our m5 stars display the `` classic '' anti - correlations and correlations of o , na and al , the elements that are sensitive to proton - capture nucleosynthesis , as previously observed in brighter m5 stars as well as in other clusters observed by the lick - texas group ( see figure 1 ) .",
+    "these abundance patterns also correlate with the cn strengths .",
+    "when the rgb + tip stars are binned into two evolutionary groups by log  g , the groups possess statistically significant different means of distribution in [ o / fe ] . on average , stars with lower log  g values have higher o and lower na abundances than stars with higher log  g values .    between clusters , we find that the variations of o and na are correlated but the degree of variation appears to differ .",
+    "the o vs na anti - correlation in m5 resembles that found in the more metal - poor clusters m3 , m10 , m13 and ngc7006 ( [ fe / h ] @xmath1 1.5 to 1.6 ) .",
+    "m4 s behaviour seems to be more like that of m71 , a disk cluster of higher metallicity ( [ fe / h ] @xmath1 0.7 ) .",
+    "the range of these abundance variations seems to correlate as well with other observables .",
+    "for instance , for these 7 clusters , in addition to binning by the `` first parameter '' ( metallicity ) , the clusters can be binned by their `` second parameter '' ( as quantified by the horizontal branch ratio ) as well as by their orbital inclination .    in m5 , we find that the abundance ratios for mg , si , ca , sc , ti , v , ni , ba and eu show no significant abundance variations and that these ratios are comparable to those of halo field stars of similar metallicities .",
+    "however , in comparing the abundances of m5 to m4 , we find that si , al , ba and la are overabundant in m4 with respect to what is seen in m5 , confirming and expanding results from previous studies ( brown & wallerstein 1992 ; ivans et al .",
+    "1999 ) . in figure 2",
+    ", we display boxplots of these four elemental abundances as well as eu , an @xmath2-process element , for m5 , m4 and halo field stars of comparable metallicities . the `` box '' in each case",
+    "contains the middle 50% of the data and a horizontal line indicates the median value of a particular element .",
+    "the vertical tails indicate the total range of abundances , excluding mild outliers which are denoted by open circles .",
+    "in m5 , we find correlations between cn , o , na and al that are both consistent with those seen in previous globular cluster studies and that follow the expected pattern of proton - capture nucleosynthesis . with clusters that bracket m4 and m5 in metallicity , we find that the abundance patterns can be divided into two groups : the o vs na anti - correlation found in m5 resembles that found in slightly more metal - poor globular clusters m3 , m10 and m13 whereas the m4 pattern resembles that of the more metal - rich disk cluster m71 .",
+    "the cluster similarities extend to the horizontal branch morphologies .",
+    "we find good agreement between m5 , m4 and field stars of comparable metallicity in the fe - peak and @xmath0-element abundances , with the exception of a si overabundance in m4 .",
+    "ba and la are similarly overabundant in m4 with respect to m5 and the field , as is al . based on these large stellar samples for m5 and m5 , we extend previous findings and conclude that there is no `` single '' value of [ el / fe ] at a given [ fe / h ] for at least some @xmath0-capture , odd - z and @xmath3-process elements , in this case si , al , ba and la .",
+    "we are happy to acknowledge that this research was funded by us nsf grants ast-9618351 to r.p.k .  and g.h.s .  and ast-9618364 and ast-9987162 to c.s .",
+    "i.i.i .  also sincerely thanks the meeting organizers for their support of my attendance at this excellent workshop and the australian federation of university women ( queensland ) for the audrey jorss commemorative fellowship financial support during the time that this work was performed ."
+  ],
+  "abstract_text": [
+    "<S> we present a chemical composition analysis of 36 giant stars in mildly metal - poor globular cluster m5 . in comparing the m5 results to those obtained in m4 , a cluster previously considered to be a `` twin '' in age , metallicity and chemical composition </S>",
+    "<S> , we find large star - to - star variations in the abundances of elements sensitive to proton - capture nucleosynthesis , similar [ fe / h ] values , but factor of two differences in some @xmath0-capture , odd - z and slow neutron - capture process elements . among stars in globular clusters , apparently there are no definitive `` single '' values of [ el / fe ] at a given [ fe / h ] for many important elements .    # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

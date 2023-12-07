@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "the cosmic microwave background ( cmb hereafter ) is the oldest observable electromagnetic radiation of our universe .",
+    "it was emitted about 300000 years after the big bang ( z @xmath1 1000 ) , when the universe became transparent to photons .",
+    "the main cause for this radiation is the combination of hydrogen atoms at this time from the proton and electron plasma . thus the light emitted was hot ( @xmath1 3000 k ) but became gradually colder with the expansion of the universe , until being observed nowadays in the millimeter domain ( 2.73 k ) .",
+    "this radiation was discovered in 1965 by penzias & wilson in radiowaves .",
+    "the cmb is a very isotropic blackbody emission , but exhibits small fluctuations ( @xmath2 relative ) , whose large angular scales were observed by the cobe satellite ( smoot 1992 ) .",
+    "the primordial quantum fluctuations were amplified by physical processes in the cosmic soup at that time , such as acoustic wave phenomena .",
+    "these processes , and the way the information came to us today , are highly dependent on the cosmological parameters of the universe , so that the cmb map aspect and the cmb power spectrum shape can provide powerful informations about the characteristics , history and fate of our universe .",
+    "these fluctuations are also the origin of the large - scale structure of the universe ( cluster and galaxy formation , by gravitational collapse ) .",
+    "archeops is a balloon - borne experiment designed to fly in the stratosphere to avoid the atmospheric contamination .",
+    "the telescope is two - mirror off - axis tilted gregorian , with a primary mirror providing an effective aperture of 1.5 meters .",
+    "twenty - two bolometers measure the millimeter and submillimeter radiation in four frequency bands centered on 143 ghz ( 2.1 mm ) , 217 ghz ( 1.4 mm ) , 353 ghz ( 850 @xmath3 ) and 545 ghz ( 550 @xmath3 ) .",
+    "these detectors are installed on the focal plane stage cooled at 0.1 k by helium dilution techniques .",
+    "the instrumental setup and the calibration are detailed in benot ( 2001 ) .",
+    "several recent balloon - borne experiments have concentrated on the small angular scales of the cmb , such as boomerang ( de bernardis 2000 ) and maxima ( hanany 2000 ) .",
+    "the main scientific goal of archeops is rather to investigate a broad band of angular scales , in order to make the link between the cobe full - sky survey and the small - scales experiments of today and the near future . for this",
+    "the aim is to map a large part of the sky ( @xmath1 30 % ) with unprecedented angular resolution ( 5-10 ) . to achieve this goal , the scanning strategy is as follows : the gondola rotates at 2 rpm , allowing the beam to make large circles on the sky .",
+    "these circles slowly shift with respect to the sky , because of the rotation of the earth and the moving of the balloon on the earth . because of the high sensitivity needed , the experiment has to fly during the night .",
+    "since we want as long flights as possible in order to increase the total integration time , the polar night is the best .",
+    "that is why the esrange base in kiruna ( swedish lappland ) has been chosen for launching archeops .",
+    "however , the first ( technological ) flight was done from trapani ( sicily ) in july 1999 , and gave 4 hours of data .",
+    "the first scientific flight was done from kiruna in january 2001 , and gave 8 hours of data .",
+    "longer flights are possible with normal atmospheric conditions , and expected for the winter 01/02 .",
+    "we present in fig .",
+    "1 a simulated map at 2 mm ( 143 ghz ) containing the cmb ( including the dipole due to the earth movement towards the cosmic fluid ) and the galaxy , which are the two major components of the millimeter sky . on this map",
+    ", we have overimpressed the sky coverage of the kiruna scientific flight .",
+    "the projection is galactic mollweide centered on the galactic anticenter .",
+    "this map shows that a large part of the cmb fluctuations sky has been observed by archeops .",
+    "the data are still being analyzed ."
+  ],
+  "abstract_text": [
+    "<S> we present archeops , a balloon - borne bolometer experiment designed to map a large part of the sky at millimeter and submillimeter wavelengths . </S>",
+    "<S> the main scientific goal is to study the cosmic microwave background anisotropies on all scales , in order to properly derive the cosmological parameters of the universe . </S>",
+    "<S> we present the sky coverage map of the first scientific flight .    _a&a </S>",
+    "<S> _    2@xmath0    * keywords . * </S>",
+    "<S>  cosmology : cosmic microwave background  infrared : interstellar medium : continuum  balloons ) </S>"
+  ]
+}

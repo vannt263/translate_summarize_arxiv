@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "activity - related phenomena ( e.g. spots or convective inhomogeneities ) can induce radial - velocity variations ( saar & donahue 1997 ; santos et al .",
+    ". these can be very important for high - precision radial - velocity planet - search programmes : the resulting radial - velocity signal can mimic a planetary orbital signature and `` produce '' false planetary candidates , as a result of line shape variations ( e.g. bisector changes due to a rotating spot ) .    here",
+    "we describe the use of the bisector of the cross correlation function ( as described in detail in queloz et al .",
+    "2000 ) as a diagnostic of activity induced radial - velocity variations .",
+    "some examples are shown and the main results are presented and discussed .",
+    "amongst the stars in the geneva planet - search programmesudry / planet / planet.html ] , some have been found to exhibit periodic radial - velocity changes correlated to bisector variations .",
+    "the standard case is hd166435 ( queloz et al . 2000 ) .",
+    "hd166435 is a g0 active dwarf which was found to have a periodic radial - velocity signal with a 3.8-day period and 83 ms@xmath1 of radial - velocity semi - amplitude .",
+    "although at first the radial - velocity signal seemed to be connected to the existence of a planetary companion , the same period was observed in photometry ( see queloz et al .",
+    "2000 , for further details ) .",
+    "this lead us to study the bisector of the cross - correlation function for possible variations .",
+    "the results showed that the bisector inverse slope ( bis ) was changing in phase with the radial - velocity signal , proving the intrinsic source of the radial - velocity variations ( fig .  1",
+    ", right ) .",
+    "on the other hand , this technique has been successfully applied to confirm the presence of planetary companions to the solar - type active dwarfs hd192263 ( santos et al .",
+    "2000a ) , hd130322 ( udry et al .",
+    "2000 ) and hd1237 ( naef et al .",
+    "2000a , 2000b ) , all k dwarfs .",
+    "the case of hd130322 can be seen in fig .  1 ( left ) .",
+    "no trend is observed , confirming that the radial - velocity signal is not related to changes in the bisector of the cross - correlation function .",
+    "we have analyzed a sample of 14 active g and k dwarfs ( defined here as having @xmath2 ) from the coralie and elodie planet - search samples , having more than @xmath320 high - precision radial - velocity measurements .",
+    "for those stars we have computed the bisector inverse slope to be compared to the radial - velocity values .    to test a possible relation with spectral type we have plotted in fig .  2 ( left ) the values of the slope of the relation bis vs. rv against the colour index @xmath4 .",
+    "the observed trend seems to suggest that although active late f and early g dwarfs do induce radial - velocity changes by altering the line profiles , later type active dwarfs are less sensitive to such line asymmetries .",
+    "that may explain why this latter objects have , for a given activity level , lower radial - velocity `` jitter '' ( santos et al .",
+    "however , as it is clear from fig .  2 ( right )",
+    ", this effect is in great extent controlled by the @xmath0 of the star .",
+    "more data at a given @xmath0 is needed to unveil other possible dependences e.g. with colour or activity level .",
+    "stars with planetary companions that were included after subtraction of the orbital solution do appear in the main trend .",
+    "naef , d. , mayor , m. , pepe , f. , queloz , d. , santos , n. , udry , s. , & burnet , m. 2000a . in : `` disks , planetesimals and planets '' ,",
+    "garzon , f. , eiroa , c. , de winter , d. , & mahoney , t.j . , asp conference series , in press"
+  ],
+  "abstract_text": [
+    "<S> in this contribution we present the results of the application of the bisector of the cross - correlation function as a diagnostic of activity - related radial - velocity variations . </S>",
+    "<S> the results show that the technique is very effective . </S>",
+    "<S> we present examples for which the application of the bisector analysis was essential to establish the planetary nature of the candidate or to exclude an orbital signature . </S>",
+    "<S> an analysis of the behaviour of the bisector for active dwarfs of different spectral types shows that the relation between the bisector and the radial - velocity variation depends in a great extent on the @xmath0 of the star . </S>",
+    "<S> the results may shed a new light on the intrinsic sources of radial - velocity variation for different types of solar - type dwarfs .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

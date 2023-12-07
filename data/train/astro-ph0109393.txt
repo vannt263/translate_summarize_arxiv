@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "one of the hoped for goals of observing cvs in the ir is to isolate the luminosity contribution of the secondary stars , and learn more about the mass donors in these systems .",
+    "figure 1 shows the @xmath4 colors of the cvs in the 2mass 2nd incremental data release point source catalog for systems with known orbital period ( as compiled in downes et al .",
+    "the thick curve shows the color of the expected cv secondary star as a function of orbital period ( smith & dhillon 1998 ) .",
+    "the horizontal bars show the range of orbital period over which each secondary star spectral type is found . if the near - ir data truly isolated the secondary star luminosity , then all of the points would lie along the curve inside the range delimited by the bars . for the ( admittedly few ) long period systems ( @xmath5 hr ) ,",
+    "this expectation is met fairly well .",
+    "however , the majority of short orbital period cvs are offset blueward of the @xmath6 color of their expected secondary stars .",
+    "this blue contamination of their near - ir luminosities is almost certainly related to the accretion process .",
+    "four cvs are labeled in the figure ; these are u gem , ss cyg , rw tri , and tv col .",
+    "these systems have the best known distances of all cvs , determined from trigonometric parallaxes measured with the _ hst _ fine guidance sensors ( harrison et al .",
+    "1999 ; mcarthur et al .  1999 , 2001 ) .",
+    "all four of these cvs fall remarkably close to the main sequence when their distances are used to place them in an @xmath7 vs.  @xmath8 color - magnitude diagram .",
+    "however , figure 1 clearly shows that only u gem has a near - ir color consistent with that of the secondary star expected at its orbital period .",
+    "the other three cvs are substantially contaminated by blue light from the accretion process ."
+  ],
+  "abstract_text": [
+    "<S> because accretion - generated luminosity dominates the radiated energy of most cataclysmic variables ( cvs ) , they have been `` traditionally '' observed primarily at short wavelengths . </S>",
+    "<S> infrared ( ir ) observations of cvs contribute to the understanding of key system components that are expected to radiate at these wavelengths , such as the cool outer disk , accretion stream , and secondary star . </S>",
+    "<S> we have compiled the @xmath0 , @xmath1 , and @xmath2 photometry of all cvs located in the sky coverage of the 2 micron all sky survey ( 2mass ) 2nd incremental data release . </S>",
+    "<S> this data comprises 251 cvs with reliably identified near - ir counterparts and s / n@xmath310 photometry in one or more of the three near - ir bands .    </S>",
+    "<S> # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

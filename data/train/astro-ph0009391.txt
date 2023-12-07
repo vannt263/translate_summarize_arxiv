@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "magnetic fields are of the order of 5 - 10 @xmath3 g in the interior of a spiral galaxy ( see , for instance , beck 1991 ) and of the order of 1 - 3 @xmath3 g in the intergalactic medium ( see , for instance , kronberg 1994 ) .",
+    "we therefore assume 1 @xmath3 g in the outer region .",
+    "this interpolated value is therefore a conservative one .    for the milky way",
+    ", the density data have been taken from diplas & savage ( 1991 ) , ( see also burton 1992 ) .",
+    "for the rotation curve it was assumed a constant value of 200 km / s ( for r@xmath6 ) , based on the works by homma & sofue ( 1997 ) , merrifield ( 1992 ) , olling & merrifield ( 2000 ) .",
+    "+ for the typical irregular galaxy ddo154 , the surface density and the rotation data were taken from gelato & sommer - larsen ( 1999 ) .",
+    "a typical thickness of 1 kpc was assumed . +",
+    "a 1 @xmath3 g in the outer disk does not produce detectable synchrotron radiation , because * a ) * under equipartition @xmath7 , i.e. the intensity , @xmath8 , decreases much more faster than b does .",
+    "* b ) * some authors assume that the number density of relativistic electrons is proportional to the density ( because their sources are supernova explosions , which are produced where density is larger ) . in this case , @xmath8 decreases still faster , in an exponential way , or even faster as a result of the typical stellar truncation .",
+    "probably , b decreases much slower because the strength in the intergalactic medium is @xmath9 g .",
+    "* c ) * the synchrotron spectrum suddenly steepens for large radii ( lisenfeld et al .",
+    "1996 ) what is easily interpreted as a truncation of relativistic electron sources .",
+    "when considering the rotation curve of spirals , magnetic fields are not at all negligible .",
+    "they are particularly important in dwarf irregular galaxies where @xmath10 is lower .",
+    "magnetic fields have similar values ( see for instance , beck 1991 ) .",
+    "theoretical models by nelson ( 1988 ) , battaner et al .",
+    "( 1992 ) , battaner & florido ( 1995 ) and battaner , lesch , & florido ( 1999 ) , have already explored this possibility . + * ignoring magnetic fields when interpreting rotation curves can be completely unrealistic .",
+    "*    battaner , e. , garrido , j.l .",
+    ", membrado , m. , & florido , e. 1992 , nature , 360 , 652 battaner , e. , & florido , e. 1995 , , 277 , 1129 battaner , e. , lesch , h. , & florido , e. 1999 , anales fsica , 94 , 98 beck , r. 1991 , in asp conf .",
+    "18 , the interpretation of modern synthesis observations of spiral galaxies , 43 burton , w.b .",
+    "1992 , saas - fee advanced course 21 lecture notes 1991 , the galactic interstellar medium , ed .",
+    "d. pfenniger & p. bartholdi , 126 diplas , a. , & savage , b.d .",
+    "1991 , , 470 , l35 gelato , s. , & sommer - larsen , j. 1999 , , 303 , 321 honma , s. , & sofue , y. 1997 , , 49 , 539 kronberg , p.p .",
+    "1994 , reports on progress in physics 57 , 325 lisenfeld , u. , alexander , p. , pooley , g.g .",
+    ", & wilding , t. 1996 , , 281 , 301 merrifield , m.r .",
+    "1992 , , 103 , 1552 nelson , a.h .",
+    "1988 , , 233 , 115 olling , r.p . , & merrifield , m.r .",
+    "2000 , , 311 , 361"
+  ],
+  "abstract_text": [
+    "<S> magnetic fields are considered to be dominant when @xmath0 , being @xmath1 the magnetic energy density and @xmath2 the rotation energy density , for a conventional moderate b= 1 @xmath3 g . </S>",
+    "<S> they are considered to be negligible when @xmath4 for @xmath5 g . with no assumption and no theoretical calculation </S>",
+    "<S> , we show that magnetic fields can not be ignored in the outer parts of a galaxy like the milky way and in the whole disk of a dwarf galaxy .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}
