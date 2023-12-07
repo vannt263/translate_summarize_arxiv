@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "quantum teleportation is a method for alice ( sender ) to transmit an unknown quantum input state to bob ( receiver ) at a distant place by sending only classical information using a shared entangled state as a resource @xcite . in continuous variable quantum teleportation @xcite ,",
+    "the available entanglement is non - maximal , limited by the amount of squeezing achieved .",
+    "fig.[setup ] shows the setup of a continuous variable quantum teleportation .",
+    "alice transmits an unknown quantum state @xmath0 to bob .",
+    "alice and bob share epr beams in advance .",
+    "( 400,300 ) ( 160,40)(80,40)opa    ( 160,85)(-1,1)45 ( 155,80)(-1,1)45 ( 110,130)(0,-1)10 ( 110,130)(1,0)10 ( 135,105)(20,20)r    ( 240,85)(1,1)45 ( 245,80)(1,1)45 ( 290,130)(0,-1)10 ( 290,130)(-1,0)10 ( 245,105)(20,20)b    ( 40,85)(1,1)45 ( 45,80)(1,1)45 ( 90,130)(0,-1)10 ( 90,130)(-1,0)10 ( 45,105)(20,20)a ( 10,66)(40,12)input ( 10,54)(40,12)field    ( 100,110)(0,1)60 ( 80,90)(40,12)beam ( 80,78)(40,12)splitter    ( 90,155)(-1,1)45 ( 85,150)(-1,1)45 ( 40,200)(0,-1)10 ( 40,200)(1,0)10 ( 30,200)(20,20)@xmath1    ( 110,155)(1,1)45 ( 115,150)(1,1)45 ( 160,200)(0,-1)10 ( 160,200)(-1,0)10 ( 150,200)(20,20)@xmath2    ( 40,230)(120,60 ) ( 60,260)(80,20)measurement of ( 60,240)(80,20)@xmath3    ( 160,260)(250,260)(290,180 ) ( 290,180)(0,1)12 ( 290,180)(-3,2)10    ( 295,135)(60,40)@xmath4    ( 340,185)(1,1)25 ( 345,180)(1,1)25 ( 370,210)(0,-1)10 ( 370,210)(-1,0)10    ( 350,227)(40,12)output ( 350,215)(40,12)field    alice mixes her input state with the reference epr beam by a 50@xmath5 beam - splitter and performs an entanglement measurement of the complex field value @xmath6 .",
+    "after bob gets the information of the field measurement value @xmath6 from alice , bob applies a displacement to the output state by mixing the coherent field of a local oscillator with the output epr beam @xmath7 .",
+    "as has been shown previously @xcite , the properties of this transfer process can be summarized by the transfer operator @xmath8 which describes both the probability distribution @xmath9 of measurement results @xmath6 and the normalized conditional output state + @xmath10 for any input state @xmath11 , such that @xmath12 in its diagonalized form , this transfer operator reads @xmath13 the non - maximal entanglement is described by the parameter @xmath14 , which is 0 for a non - entangled vacuum and 1 for maximal entanglement . in the following , this operator will be applied to characterize the teleportation of a single photon input state , with special consideration of the field coherence created in the output by the teleportation process .",
+    "the output of a one photon input state is characterized by @xmath15 the normalized output state is then given by @xmath16 the output state can be described by a displaced coherent superposition of a zero photon and a one photon component .",
+    "both the displacement and the coherence depend on the complex measurement value @xmath6 .",
+    "they therefore represent a measurement induced coherence of the output state .",
+    "we characterize this coherence by the expectation value of the complex field amplitude , @xmath17    ( 350,400 ) ( 50,200)(70,20)@xmath18 ( 40,0)(300,200 ) dependence of the field amplitude @xmath19 in the case of @xmath20 .",
+    "the curve is approaching @xmath21.,title=\"fig:\",width=377 ] ( 330,0)(40,10)@xmath22    fig.[coh_b ] illustrates this dependence of @xmath23 on @xmath6 for @xmath24 . for low values of @xmath6 , @xmath23 rises sharply , levelling off around @xmath25 . at higher values of @xmath22 ,",
+    "@xmath23 slowly approaches @xmath26 , as indicated by the dotted line .",
+    "since the input photon number state has a field expectation value of zero , the field coherence in the output is a consequence of the measurement @xmath6 .",
+    "as has been argued elsewere @xcite , @xmath6 corresponds to the result of a field measurement performed on the input state .",
+    "this measurement creates coherence by projection onto displaced photon number states as indicated by the diagonalized form of @xmath8 in equation ( [ transfer ] ) .",
+    "since the photon is the quantum mechanical equivalent of field intensity , each photon represents an addition of one quantum unit to the field fluctuations .",
+    "the measurement then converts the field fluctuation into an actual field .",
+    "this process is responsible for the rapid increase in coherence at low values of @xmath6 .",
+    "we have investigated the effects of continous variable quantum teleportation on a single photon input state . because of the non - maximal entanglement used in the teleportation , the measurement of @xmath6 introduces coherence into the output state .",
+    "we have quantified this coherence , tracing its origin to the field fluctuations of the single photon input ."
+  ],
+  "abstract_text": [
+    "<S> we investigate the changes to a single photon state caused by the non - maximal entanglement in continuous variable quantum teleportation . </S>",
+    "<S> it is shown that the teleportation measurement introduces field coherence in the output . </S>"
+  ]
+}

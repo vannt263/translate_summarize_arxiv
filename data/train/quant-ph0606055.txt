@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "quantum entanglement  non - classical correlations between parts of compound quantum system is one the most important topics of contemporary quantum theory , including quantum optics and quantum information @xcite .",
+    "one of the methods for analysis of bi - partite pure entangled states is the schmidt decomposition @xcite  representation of the given state as a sum of product terms , where the basic states are eigenvectors of marginal density matrices . for continuous - variable ( cv ) problems ,",
+    "the schmidt decomposition gives an effectively finite - dimensional hilbert space and entanglement is characterized by the schmidt number  reciprocal of the sum of marginal density operator eigenvalues .",
+    "in a recent series of publications , see further references in @xcite , concerning the schmidt decomposition - based analysis of various problems , the entanglement parameters were calculated mainly from numerical decomposition .",
+    "in fact , the only exception is the case of double - gaussian wave function with analytically known decomposition , see for example @xcite or gaussian mixed states @xcite .",
+    "the aim of the present paper is to discuss another way of the schmidt number calculation  from marginal purity .",
+    "this method is rarely mentioned in the published works , however in many cases it enables to obtain the schmidt number ( in exact or approximate form ) analytically , and , for certain tasks , eliminate the need to calculate the decomposition itself .",
+    "the schmidt decomposition , known also by different other names in various scientific fields @xcite , in quantum theory is an analysis of non - separable wavefunctions via representation @xmath0 where the state vectors @xmath1 and @xmath2 forms orthonormal systems belonging to different parts of the composite quantum system and all @xmath3 .",
+    "these state vectors are eigenvectors of marginal density matrices of sub - systems , and coefficients @xmath4 are corresponding eigenvalues . according to the decomposition ( [ eq-1 ] )",
+    ", different schmidt modes appears in parts of a system in pairs , reflecting correlations between sub - systems .    for cv systems",
+    ", there is in principle infinite countable set of eigenvalues @xmath4 .",
+    "however , for all quantum systems , sum of all eigenvalues is essentially finite , therefore only the limited number of eigenvalues has significant value , and the whole entangled system becomes effectively finite - dimensional @xcite .",
+    "the number of significant terms in representation ( [ eq-1 ] ) can be characterized by the value @xmath5 effective number of the schmidt modes ( or the schmidt number ) . on the other hand ,",
+    "the schmidt number is expressed via trace of squared marginal density matrix ( @xmath6 and @xmath7 are partial traces over respective sub - system ) @xmath8",
+    "@xmath9    eigenvector decomposition is optimal from several points of view , see detail in @xcite , but it can be calculated analytically only in several special cases . despite the mathematical methods to treat this problem",
+    "effectively @xcite , it is desirable to deal at least with entanglement degree analytically .",
+    "schmidt number is closely related to `` generalized entropies '' ( or generalized purities ) , proposed by rnyi , tsallis @xcite and others , see further references in @xcite : @xmath10 ( @xmath11 is a marginal density matrix ) . here",
+    "the limit @xmath12 leads to usual shannon - von neumann entropy , standard parameter for entanglement charactetization @xcite and the case @xmath13 ( purity , or  linear entropy  ) gives the schmidt number @xmath14 the schmidt number has a special meaning .",
+    "first of all , it can be measured in a single - photon counting experiment , see @xcite and the references therein . from theoretical point of view , for the whole family of parameters ( [ eq-4 ] ) , the schmidt number is most easy to calculate , just using the formula ( [ eq-3 ] ) , without knowledge of the decomposition eigenvalues .",
+    "an entangled atom - field wavefunction in dimensionless momentum representation in simplest case depends on only one parameter @xcite @xmath15 where @xmath16  the control parameter , ratio of thermal ( motional ) line broadening @xmath17 to a natural linewidth @xmath18 , @xmath19 is a normalization constant .    for this model , in the raman scattering regime @xcite , control parameter value can be as large as @xmath20 , opening a way of experimental realization of high - entanglement regime .    in the papers @xcite ,",
+    "numerical treatment is applied for the schmidt decomposition , leading to following expression for @xmath21 at large @xmath16 ( result of numerical fitting ) @xmath22    on the other hand , a straightforward analytical integration according to ( [ eq-3a ] ) gives marginal ( atom ) density function @xmath23 together with a normalization constant @xmath24 .",
+    "another step of integration according to ( [ eq-3 ] ) leads to analytical formula for the schmidt number @xmath25 which has simple asymptotic form for @xmath26 @xmath27    resulting dependencies @xmath21 for these three expressions are presented in figure  [ fig1 ] .",
+    "it is seen , that all the graphs are quite close to each other .",
+    "the main task of the present paper  to provide a simplest example of an already known , but not widely used method of the schmidt number calculation .",
+    "the schmidt decomposition and the schmidt number prove to be quite efficient method for characterization of pure state bi - partite entanglement , however , its analytical calculation is possible just in a very limited number of cases . among the used simple example , analytical ( or semi - analytical ) expressions can be found for another cases , for example , for more generalized two - parametric atom - field entanglement model @xcite .",
+    "the work has been partially supported by belarusian fund for fundamental research , project f05k-056 .",
+    "j.  p.  torres , f.  maci , s.  carrasco , l.  torner , `` engineering the frequency correlations of entangled two - photon states by achromatic phase matching '' , _ opt .",
+    "_ , vol .",
+    "* 30 * , no  3 , pp .  314 - 316 ( 2005 )      c.  k.  law , j.  h.  eberly , `` analysis and interpretation of high transverse entanglement in optical parametric down conversion '' , _ phys .",
+    "_ , vol .",
+    "* 92 * , no .  12 , 127903 ( 2004 ) , preprint arxiv : quant - ph/0312088"
+  ],
+  "abstract_text": [
+    "<S> an entanglement measure for pure - state continuous - variable bi - partite problem , the schmidt number , is analytically calculated for one simple model of atom - field scattering .    </S>",
+    "<S> pacs : 03.65.ud , 03.67.mn , 39.20.+q </S>"
+  ]
+}

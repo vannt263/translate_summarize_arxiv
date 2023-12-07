@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "wavelet is a ` small wave ' which is localized in both time and frequency space@xcite .",
+    "it is this unique characteristic that makes wavelets analysis in some ways superior to fourier analysis which employs ` big waves ' ( sinusoid or cosine ) , e.g. , wavelets are particularly useful when processing data with sharp discontinuities or compressing image data .",
+    "mathematically , a wavelet @xmath0 of the real variable @xmath1 must satisfy the following admissibility condition @xmath2which suggests that @xmath3 behaves like a wave , and in contrast to sinusoid , it decreases rapidly to zero as @xmath4 tends to infinity .",
+    "the theory of wavelets is concerned with the representation of a function in terms of a two - parameter family of dilates and translates of a fixed function , which is usually known as the `` mother wavelet '' .",
+    "a family of wavelets @xmath5 ( @xmath6 is a scaling parameter , @xmath7 is a translation parameter , @xmath8 are constructed from the mother wavelet @xmath0 , and the dilated - translated functions are defined as @xmath9and the wavelet integral transform of a signal function @xmath10 by @xmath5 is defined by @xmath11the admissibility condition ( 1 ) ensures that the inverse transform and parseval formula are applicable .",
+    "when @xmath3 is an odd function of @xmath1 , it satisfies ( 1 ) obviously .",
+    "a typical @xmath12 , which is an even function of @xmath1 , is the mexican hat wavelet ( see fig .",
+    "1 ) @xmath13satisfying @xmath14    an important question thus naturally arises : how to find more even functions which also satisfy ( 1 ) , i.e. are there a series of even functions which can be considered as generalized mexican hat wavelets ? to our knowledge , this question has not been posed and solved in the literature before . in this letter",
+    "we shall derive a general formula for finding mexican hat wavelets by taking the advantage of dirac s representation theory and the coherent state theory in quantum optics , so that more mother wavelets and correspondingly more wavelet - transformations can be introduced .",
+    "dirac s representation theory is not just a foundation of quantum mechanics theory@xcite ; it has its own special features which allow it to be extended to new theoretical problems . in this letter",
+    "we shall show how this theory can help us to directly derive general formula for finding mexican hat wavelets .    according to dirac s representation theory",
+    ", we can express eq .",
+    "( 3 ) as @xmath15where @xmath16 is the state vector corresponding to the given mother wavelet , @xmath17 is the state to be transformed , and @xmath18is the squeezing - translating operator@xcite , @xmath19 is the coordinate eigen - vector of @xmath20 , @xmath21 , which in the fock space is expressed as @xmath22here @xmath23 is the vacuum state annihilated by the bosonic operator @xmath24 , @xmath25 , @xmath26 = 1 $ ] , and @xmath27 . in order to combine wavelet transforms with transforms of quantum states more tightly and clearly , using the technique of integration within an ordered product ( iwop)@xcite ( for a review see@xcite ) of operators we can directly perform the integral in ( 7)@xmath28 :   \\nonumber \\\\ & = & \\sqrt{\\frac{2\\mu } { 1+\\mu ^{2}}}:\\exp \\left [ \\frac{1}{2\\left ( 1+\\mu ^{2}\\right ) } \\left ( \\frac{s}{\\mu } + \\sqrt{2}a^{\\dagger } + \\sqrt{2}\\mu a\\right ) ^{2}-\\sqrt{2}\\frac{s}{\\mu } a^{\\dagger } -\\frac{s^{2}}{2\\mu ^{2}}-x^{2}\\right ] : ,   \\label{9}\\end{aligned}\\]]where @xmath29 @xmath29 denotes normal ordering .",
+    "let @xmath30 , so sech@xmath31 , tanh@xmath32 , using the operator identity @xmath33 : $ ] , eq .",
+    "( 9 ) becomes@xmath34 \\exp \\left [ \\left ( a^{\\dagger } a+\\frac{1}{2}\\right ) \\ln sech \\lambda \\right ]    \\nonumber \\\\ & & \\times \\exp \\left [ \\frac{a^{2}}{2}\\tanh \\lambda + \\frac{sa}{\\sqrt{2 } } sech\\lambda \\right ] .",
+    "\\label{10}\\end{aligned}\\]]in particular , when @xmath35 , it reduces to the well - known squeezing operator , @xmath36for a review of the squeezed state theory we refer to@xcite .",
+    "now we analyze the condition ( 1 ) for mother wavelet in the context of quantum optics theory . due to dirac s representation transformation @xmath37 , where @xmath38 is the momentum eigenstate,@xmath39we have @xmath40which can help us to recast the condition ( 1 ) into dirac s ket - bra formalism",
+    ", @xmath41which indicates that the probability of a measurement of @xmath42 by the projection operator @xmath43 with the value @xmath44 is zero .",
+    "now we want to find such @xmath45 that obeys @xmath46 . by considering @xmath47",
+    "is the orthogonal basis of fock representation , without loss of generality , we can expand @xmath45 as @xmath48where @xmath49 are such chosen as to let @xmath45 obey the condition ( 13 ) . then using the over - completeness relation of coherent states ( useful representation in quantum optics and",
+    "can describe laser@xcite),@xmath50where @xmath51@xmath52 , and @xmath53we have@xmath54then condition ( 19 ) provides a general formalism to find the qualified wavelet . to illustrate the usage of ( 19 ) , assuming that in ( 19 ) @xmath55 for @xmath56 , so the coefficients of the survived terms should satisfy @xmath57and @xmath45 becomes @xmath58projecting it onto the coordinate representation , we get the qualified wavelets@xmath59 ,   \\label{22}\\end{aligned}\\]]where we have used @xmath60and the hermite polynomials definition@xmath61now we take some examples and depict them in figures .",
+    "case 1 : when we take @xmath62 , @xmath63 and @xmath64 , we immediately obtain the mexican hat wavelet ( see fig .",
+    "1 ) as in ( 4 ) . hence @xmath65 is the state vector corresponding to the mexican hat mother wavelet .",
+    "note that when @xmath72 , @xmath73 , @xmath68 and @xmath69 , we obtain a slightly different wavelet ( see fig .",
+    "3 ) . therefore , as long as the parameters conforms to condition ( 19 )",
+    ", we can adjust their values to control the shape of the wavelet .        in summary , by converting wavelets and its admissibility condition into the framework of dirac s ket - bra formalism and using the coherent state s well - behaved properties we have derived the general formula for composing mexican hat wavelets , based on which more qualified wavelets can be found and more wavelet transformations can be defined .",
+    "this work again shows the powerfulness of dirac s representation theory .",
+    "fan hong - yi , h. r. zaidi and j. r. klauder , phys .",
+    "d ( 1987 ) 1831 ; fan hongyi and h. r. zaidi , phys .",
+    "a 37 ( 1988 ) 2985 ; hongyi fan and j. r. klauder , j. phys . a 21 ( 1988 ) l715 ; hongyi fan and hui zou , phys .",
+    "a 252 ( 1999 ) 281 ."
+  ],
+  "abstract_text": [
+    "<S> the admissibility condition of a mother wavelet is explored in the context of quantum optics theory . by virtue of dirac s representation theory and the coherent state property </S>",
+    "<S> we derive a general formula for finding mexican hat wavelets . </S>"
+  ]
+}

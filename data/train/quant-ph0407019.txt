@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "it is well known that solution of the electron - electron scattering problem , both classical and quantum , is generally reduced to finding the dependence of differential cross - section on the particles deflection angle . at that , the case of head - on collision",
+    "is principally ignored despite the fact that it is in these scatterings quantum properties of electrons reveal themselves maximally .",
+    "this is related first of all to their extreme mutual closing in , and therefore the manifestations of anti - symmetry of two - particle wave function become maximal . moreover , the influence of coulomb repulsion energy on two - particle system s behavior must be most significant . in this paper",
+    "we have used the coherent states as one - particle states and have examined the head - on collision of coherent electrons in triplet state in center - of - mass system .",
+    "let us assume that at an instant @xmath0 the first electron is in coherent state @xmath1 and the second one is in coherent state @xmath2 .",
+    "states @xmath3 and @xmath4 are eigenstates for operator @xmath5 with eigenvalues @xmath6 and @xmath7 correspondingly :    @xmath8 and may be written as @xcite :    @xmath9 where @xmath10 and @xmath11 are mean momentum and mean position of electrons at the instant @xmath0 , @xmath12 is uncertainty of every component of particle s momentum in coherent states @xmath13 :    @xmath14    spatial part of two - particle state must be anti - symmetrical for triplet :    @xmath15    where @xmath16 is overlapping integral , @xmath17 . at a given instant @xmath18 :",
+    "@xmath19    this state satisfies schroedinger equation :    @xmath20    average value of kinetic energy in the state @xmath21 comprises three terms @xcite :    @xmath22    the first term corresponds to free motion of classical particles , the second ( energy of configuration ) appears to be the contribution of momentum uncertainty ; the third one ( energy of correlation ) appears due to overlapping of two non - orthogonal one - particle states .",
+    "average value of coulomb repulsion energy in the triplet state @xmath23    @xmath24 is equal @xcite to :    @xmath25    where    @xmath26",
+    "let us assume , that at the instant @xmath0 the first electron is in coherent state @xmath1 and has mean momentum @xmath27 , and mean position @xmath28 ; the second electron is in coherent state @xmath2 with mean momentum and mean position @xmath29 , @xmath30 , respectively .",
+    "as far as we examine the case of collision , the initial momentum is negative for the first electron and positive for the second .    as the solution of schroedinger equation in zero - order approximation we have used the state ( [ state ] ) in which @xmath31 and @xmath32 depend upon time according to hamilton equations :    @xmath33    where    @xmath34    in @xcite it is shown that @xmath35 can be considered as perturbation in wide enough range of @xmath31 and @xmath32 . since analytical solution of the system of equations ( [ h ] ) is not found we use its numerical solution .    in fig.[f1 ]",
+    "the two typical phase trajectories are shown for head - on collision of two coherent electrons .",
+    "the distance between electrons and their momenta are in atomic units , initial distance is 5 a.u .",
+    "one can see that according to the ratio of initial relative momentum to momentum uncertainty of each electron , two principally different kinds of behavior of phase trajectories are possible . as long as the initial momentum of electrons is less than some critical momentum @xmath36 the effective deflection occurs .",
+    "when initial momentum of electrons exceeds @xmath36 the effective penetration is the case .",
+    "let us note that these two cases are experimentally indistinguishable due to identity of electrons .    concerning the identity of particles the electron s _ return time _",
+    "@xmath18 may be used as an observable feature of collision process .",
+    "this term implies time span necessary to revert the distance between electrons to initial value .",
+    "for calculation of @xmath18 the plots of dependence of electron s coordinate upon time are used .",
+    "the example of such dependence is shown in fig.[f2 ] at the initial distance between electrons 5 a.u .",
+    "it should be noticed that a significant delay near the origin is possible both in the case of deflection and penetration .",
+    "the dependence of _ return time _",
+    "@xmath18 on initial momentum at the initial distance between particles 5 a.u .",
+    "is shown in fig.[f3 ] with boxes .",
+    "for comparison , analogous dependences for non - interacting particles ( dashed line ) and classical electrons ( solid line ) are given , and they almost coincide for large relative momenta .",
+    "fig.[f3 ] shows that dependence of _ return time _",
+    "@xmath18 on the initial momentum of electrons @xmath37 coincides with that for classical electrons when @xmath38 only . in the range @xmath39 the coulomb repulsion",
+    "may be neglected , though as fig.[f1 ] shows , this range corresponds to effective deflection . in the area @xmath40 a delay occurs . when initial momentum @xmath37 is large , @xmath41 , interaction may be ignored and phase trajectories accord with effective penetration .",
+    "the analysis of head - on collision of two coherent electrons has shown that the coulomb repulsion is considerable in the area of small values of relative momenta only . for",
+    "almost all values of initial relative momenta the system s behavior practically does not differ from classical .",
+    "essentially quantum scattering can be observed only in the area @xmath42 , when the distance between particles at the instant of stop is less than position uncertainty of electrons ."
+  ],
+  "abstract_text": [
+    "<S> we have examined the head - on collision of two electrons in approximation of coherent states . </S>",
+    "<S> we have shown that the character of collision depends mainly on ratio of initial relative electron s momentum to momentum uncertainty of electrons . </S>",
+    "<S> when this ratio becomes greater then 1 , the coulomb interaction does not practically influence the scattering . </S>"
+  ]
+}

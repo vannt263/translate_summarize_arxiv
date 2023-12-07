@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "there are two standard formulations in quantum theory : hamiltonian and lagrangian .",
+    "a comparison of the conventional approaches is given in tab . 1 .",
+    "monte carlo ( mc ) method with importance sampling is an excellent non - perturbative technique to calculate path integrals in quantum theory . in the last two decades , and it has successfully been applied to lagrangian lattice gauge theory @xcite . in the standard lagrangian mc method , however , it is extremely difficult to compute the spectrum and wave function beyond the ground state . on the other hand ,",
+    "the standard hamiltonian formulation is capable of doing it .",
+    "recently , we proposed an algorithm to construct an effective hamiltonian from lagrangian mc simulations in ref .",
+    ". we called it the mc hamiltonian method .",
+    "the advantage , in comparison with the standard lagrangian mc approach , is that one can obtain the spectrum and wave functions beyond the ground state .",
+    "it also allows to do thermodynamics . in this paper , we briefly review what we have done , and present some new results .",
+    ".comparison of the conventional methods . [ cols=\"^,^,^\",options=\"header \" , ]",
+    "in this paper , we have tested the mc hamiltonian method with a stochastic basis in a many body q.m .",
+    "system with a chain of coupled oscillators : the klein - gordon field theory on a ( 1 + 1)-dimensional lattice .",
+    "the results are very encouraging .",
+    "we believe that the application of the algorithm to more complicated body systems and quantum field theory will be very interesting .",
+    "x.q.l . is supported by the national science fund for distinguished young scholars ( 19825117 ) , national science foundation , guangdong provincial natural science foundation ( 990212 ) and ministry of education of china .",
+    "h.k . and k.m .",
+    "is supported by nserc canada .",
+    "h. jirari , h. krger , x.q .",
+    "luo , and k. moriarty , phys .",
+    "a258 * , 6 ( 1999 ) .",
+    "x.q . luo , c. huang , j. jiang , h. jirari , h. krger , and k. moriarty , physica * a281 * , 201 ( 2000 ) .",
+    "luo , j. jiang , c. huang , h. jirari , h. krger , and k. moriarty , nucl .",
+    "suppl.)83 - 84 * , 810 ( 2000 )",
+    ". j. jiang , c. huang , x.q .",
+    "luo , h. jirari , h. krger , k. moriarty , commun .",
+    ". phys . * 34 * , 723 ( 2000 ) .",
+    "h. jirari , h. krger , c. huang , j. jiang , x.q .",
+    "luo , and k. moriarty , nucl . phys . * b(proc .",
+    "suppl.)83 - 84 * , 953 ( 2000 ) . c. huang , j. jiang , x.q . luo , h. jirari , h. krger , and k. moriarty , quant - ph/9912051 .",
+    "e. henley and w. thirring , elementary quantum field theory , mcgraw - hill ( 1962 ) ."
+  ],
+  "abstract_text": [
+    "<S> monte carlo techniques have been widely employed in statistical physics as well as in quantum theory in the lagrangian formulation . however , in the conventional approach , it is extremely difficult to compute the excited states . here </S>",
+    "<S> we present a different algorithm : the monte carlo hamiltonian method , designed to overcome the difficulties of the conventional approach . as a new example , </S>",
+    "<S> application to the klein - gordon field theory is shown . </S>"
+  ]
+}

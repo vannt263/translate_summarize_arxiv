@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "in many applications of quantum information theory the entanglement of states or the capacity of channels appear as resources , which are needed to perform a task and are used up in the process .",
+    "therefore , it is natural to expect that certain entanglement or capacity measures should be _ additive _ in the sense that preparing two pairs of entangled particles should give us twice the entanglement of one pair and , similarly , using a channel twice doubles its capacity .",
+    "however , such additivity properties have turned out to be notoriously difficult to prove , and in some cases folk conjectures claiming additivity have turned out to be wrong .    the purpose of this note is to provide a counterexample of this kind i.e. to show that a family of quantities , which had been conjectured to be additive in an earlier paper by the present authors @xcite , actually is not .",
+    "the quantities considered all characterize the highest purity of the outputs of a channel .",
+    "that is , if @xmath3 is a completely positive map , taking density operators on a finite dimensional hilbert space @xmath4 to density operators on another finite dimensional hilbert space @xmath5 , and @xmath6 , we defined @xmath7 where the supremum is over all input density operators , and @xmath8 is the standard @xmath0-norm . the conjecture in @xcite was that @xmath9 is additive in the sense that @xmath10 for arbitrary channels @xmath11 .",
+    "this conjecture was supported by some numerical evidence ( the inequality `` @xmath12 '' being trivial anyhow ) , and a proof for very noisy and almost noiseless channels in @xcite , as well as some depolarizing channels . further supporting evidence",
+    "was given by c.  king @xcite .",
+    "the main application would probably have been in the limit @xmath13 , where it would be the additivity of `` maximal purity as measured by entropy '' .",
+    "this in turn is closely related @xcite to the question of additivity of classical channel capacity , i.e. , whether transmission of classical information over multiple quantum channels can sometimes be improved by using entangled signal states .",
+    "the case @xmath2 , i.e. , when @xmath14 is the ordinary operator norm , is implied by another additivity conjecture , namely for the _ injective tensor norm _ of hilbert space vectors . for any vector @xmath15 we define this norm as @xmath16 where the supremum is over all tuples of vectors @xmath17 with @xmath18 .",
+    "the conjectured property for this quantity was that @xmath19 , where @xmath15 and @xmath20 may be in different @xmath21-fold hilbert space tensor products , and the supremum in @xmath22 is taken over unit vectors @xmath23 .",
+    "again , the inequality `` @xmath12 '' and the case @xmath24 are trivial .",
+    "the connection with the previous problem is seen by writing @xmath3 in kraus form @xmath25 .",
+    "then @xmath26 where at the last equality we consider the @xmath27 as the components of a hilbert space vector , whose norm can also be written as the largest scalar product with a unit vector .",
+    "accordingly , the supremum in the last line is over all unit vectors @xmath28 . taking the supremum over the unit vectors @xmath29 and @xmath30 , too , we find that @xmath31 where @xmath32 denotes the vector in a threefold hilbert space tensor product with components @xmath33 , where @xmath34 and @xmath35 are orthonormal bases of the appropriate spaces .",
+    "in particular , since the tensor product of channels @xmath3 corresponds to the tensor product of vectors @xmath32 , the conjectured multiplicativity of @xmath36 would imply the multiplicativity of @xmath37 .",
+    "conversely , the counterexample given to the latter disproves the multiplicativity of @xmath38 for all @xmath39 .",
+    "we give an explicit example of a channel violating conjecture ( [ addi ] ) for large values of @xmath0 .",
+    "it is the channel @xmath3 on the @xmath40-matrices defined as @xmath41 here @xmath42 denotes the matrix transpose with respect to some fixed basis . in the first form it is easy to verify that @xmath3 is linear and trace preserving , in the second it becomes clear that it is also completely positive .",
+    "the equality of the two forms is a straightforward exercise .",
+    "further interesting properties are that @xmath3 is hermitian with respect to the hilbert - schmidt scalar product @xmath43 on @xmath40-matrices , and covariant for arbitrary unitary transformations in the sense that @xmath44 , @xmath45 , where @xmath46 denotes the matrix element - wise complex conjugate of a unitary in the fixed basis .",
+    "we remark that @xmath3 is the dual of the state which provided the counterexample to the additivity of the relative entropy of entanglement for bipartite states in @xcite , i.e. , that state , the normalized projection onto the fermi subspace of @xmath47 ( @xmath48 ) , is obtained by acting with @xmath3 on one partner of a maximally entangled pair on @xmath47 .",
+    "now @xmath49 is a convex function , and hence takes its maximum on the extremal states .",
+    "therefore it suffices to take pure input states , for which @xmath50 clearly , the @xmath0-norm is the same for all pure inputs , and we get @xmath51    on the other hand , let us consider @xmath52 acting on a pure state @xmath53 . due to covariance we may take @xmath53 in schmidt diagonal form @xmath54 . then with the reduced density operator @xmath55 we get @xmath56 we now specialize further to _ maximally entangled _",
+    "@xmath57 , i.e. , all @xmath58 . and @xmath59 , all terms in this expression commute , and the operator in parenthesis has one eigenvalue @xmath60 with multiplicity @xmath61 and a non - degenerate eigenvalue @xmath62 . from this we find , for @xmath63 : @xmath64 if additivity were true , the following quantity should be negative , becoming zero upon maximization with respect to @xmath53 : @xmath65 however , inserting for @xmath53 the maximally entangled state we get @xmath66 this quantity is plotted in fig .  1 .",
+    "thus additivity is violated for @xmath67 , where the zero @xmath68 is numerically determined as @xmath69 . in particular , we get @xmath70 , so additivity fails for @xmath2",
+    ". transcribed to the problem for injective hilbert space norms , the counterexample is the unique antisymmetric vector @xmath53 on @xmath71 , tensored with itself . on the other hand , for @xmath13 we have @xmath72 , so in this case , which is of main interest for classical channel capacity , the additivity conjecture survives .",
+    "= 4.5 cm    the boundary point @xmath68 can not be improved by choosing another vector @xmath53 , i.e. , the maximizing @xmath53 in the definition of @xmath73 jumps discontinuously from a product state to a maximally entangled state , as @xmath0 increases beyond @xmath68 .",
+    "this is seen by plotting @xmath74 for fixed @xmath0 over the schmidt parameters of @xmath53 .",
+    "there is little difference between the plots for @xmath75 and @xmath76 except that the global maximum switches from corners ( @xmath53 a product vector ) to the center ( @xmath57 ) .",
+    "we have seen that multiplicativity of maximal purity depends crucially on how we measure purity : if we use @xmath0-norms for large @xmath0 , it fails .",
+    "but the conjecture remains open for small @xmath0 , and in particular for purity as measured by entropy .",
+    "there seems to be no simple modification of the example given here to improve the critical value of @xmath0 . on the other hand",
+    ", it is hardly expected to be optimal ."
+  ],
+  "abstract_text": [
+    "<S> a conjecture arising naturally in the investigation of additivity of classical information capacity of quantum channels states that the maximal purity of outputs from a quantum channel , as measured by the @xmath0-norm , should be multiplicative with respect to the tensor product of channels . </S>",
+    "<S> we disprove this conjecture for @xmath1 . the same example ( with @xmath2 ) also disproves a conjecture for the multiplicativity of the injective norm of hilbert space tensor products .    </S>",
+    "<S> # 1#2#1#2 h </S>"
+  ]
+}
