@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "m33 , the nearest scd galaxy at a distance of 840kpc , with its large angular size and medium inclination , allows determination of the magnetic field components both parallel and perpendicular to the line of sight equally well .",
+    "the rm studies of m33 by @xcite and @xcite suggested a bisymmetric regular magnetic field structure in the disk of m33 .",
+    "however , due to the low - resolution ( 1.8kpc ) and low - sensitivity of their observations , these results were affected by high uncertainty particularly in the southern half of m33 .",
+    "our recent observations of this galaxy provide high - resolution ( 0.7kpc ) maps of total power and linearly polarized intensity at 3.6 cm , 6.2 cm , and 20 cm presented by @xcite .",
+    "these data are ideal to study the rotation measure ( rm ) , the structure and strength of the magnetic field , and depolarization effects in detail . by combining an analysis of multi - wavelength polarization angles with modeling of the wavelength - dependent depolarization , @xcite and @xcite derived the 3-d regular magnetic field structures in m31 and m51 , respectively .",
+    "the high sensitivity of our new observations allows a similar study for m33 .",
+    "using the polarized intensity maps of @xcite and the nonthermal maps obtained by @xcite , we derived maps of the nonthermal degree of polarization at different wavelengths . integrating the polarized and nonthermal intensity maps in the galactic plane out to a galactocentric radius of r  @xmath2  7.5  kpc",
+    ", we obtained the flux densities of the nonthermal and linearly polarized emission and the average nonthermal degrees of polarization of 10.3%@xmath32.0% , 11.3%@xmath31.9% , and 6.6%@xmath30.6% at 3.6 cm , 6.2 cm , and 20 cm , respectively , indicating considerable wavelength - dependent depolarization by faraday effects at 20 cm .",
+    "in order to identify the 3-d structure of the _ regular _ magnetic field @xmath4 we fit a parameterized model of @xmath5 to the observed polarization angles at different wavelengths .",
+    "we find that the fourier modes @xmath6 ( @xmath7 and @xmath8 are the first and second fourier modes of the vertical field ) in the 13 kpc ring and @xmath9 in the 35 kpc ring can best reproduce the observed pattern of polarized intensity at 6.2 cm ( see @xcite for details ) .",
+    "the horizontal magnetic field component follows an arm - like pattern with pitch angles smaller than those of the optical arm segments , indicating that large - scale gas - dynamical effects such as compression and shear are not solely responsible for the spiral magnetic lines .",
+    "the dominant axisymmetric mode ( @xmath10 ) in the disk in both rings indicates that galactic dynamo action is present in m33 .",
+    "we also find that the fitted ` vertical field ' , in the outer ring , could be mainly due to the severe warp of m33 and hence apparent .",
+    "however , a real vertical field of a broadly comparable strength to the disk field can exist in the inner ring .",
+    "the strengths of the total magnetic field @xmath11 and its regular component @xmath4 can be found from the total synchrotron intensity and its degree of linear polarization .",
+    "assuming equipartition between the energy densities of the magnetic field and cosmic rays leads to @xmath12 g and @xmath13 g for the disk of m33 ( @xmath147.5kpc ) .",
+    "the energy densities of the equipartition magnetic fields in the disk ( @xmath15 and @xmath16 for the total and regular magnetic fields , respectively ) are shown in fig .",
+    "[ fig : energy ] .",
+    "the energy densities of the magnetic field and turbulence are about the same , confirming the theory of generation of interstellar magnetic fields from turbulent gas motion .",
+    "furthermore , it seems that the ism in m33 can be characterized by a low-@xmath17 plasma and is dominated by supersonic turbulence , as the energy densities of the magnetic field and turbulence are both much higher than the thermal energy density ."
+  ],
+  "abstract_text": [
+    "<S> using high - resolution data of the linearly polarized intensity and polarization angle at 3.6 , 6.2 , and 20 cm together with a 3-d model of the regular magnetic field , we study variations of the structure , strength , and energy density of the magnetic field in the scd galaxy m33 . </S>",
+    "<S> the regular magnetic field consists of a horizontal component ( represented by an axisymmetric mode from 1 to 3kpc radius and a superposition of axisymmetric and bisymmetric modes from 3 to 5kpc radius ) and a vertical component . </S>",
+    "<S> however , the inferred ` vertical field ' may be partly due to a galactic warp . </S>",
+    "<S> we estimate the average total and regular magnetic field strengths as @xmath0 6.4 and 2.5@xmath1 g , respectively . </S>",
+    "<S> generation of interstellar magnetic fields by turbulent gas motion in m33 is indicated as the turbulent and magnetic energy densities are about equal . </S>"
+  ]
+}

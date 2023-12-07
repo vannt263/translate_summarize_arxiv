@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "over an extended period of years many attempts to obtain reliable direct measurements of magnetic fields of be stars have been rather unsuccessful . recently ,",
+    "weak field detections in a few be stars were reported by @xcite .",
+    "below , we report some preliminary results of our most recent observing runs with the multi - mode instrument fors1 installed at the 8 m kueyen telescope at the vlt",
+    ". we also present first results of our magnetic field time series in the be star @xmath1 eri .",
+    "as it was already reported by @xcite , weak photospheric magnetic fields have been detected in four stars , hd56014 , hd148184 , hd155806 , and hd181615 .",
+    "we also pointed out the likely presence of distinct circular polarisation features in the circumstellar components of ca ii h&k in the three stars , hd58011 , hd117357 , and hd181615 , indicating a probable presence of magnetic fields in the circumstellar mass loss disks .",
+    "the fors1 observations of hd181615 are presented in the left panel of fig .",
+    "[ fig : ca ] . new observations of classical be stars have been been carried out at the vlt from 2006 to 2008 .",
+    "the be stars have been observed in 2006 in service mode with the grism 600b in the wavelength range 348 - 589 nm and with the grism 1200b in the spectral range 373 - 497 nm .",
+    "the last observations we report here have been carried out in visitor mode in 2008 in the framework of the study of 15 b - type members of the open cluster ngc  3766 .     and @xmath2 spectra in hd181615 ;",
+    "right panels : cyclic variability of the magnetic field in @xmath1 eri with a period of 21.1min and fourier spectrum for the magnetic field data derived from hydrogen lines . ,",
+    "title=\"fig:\",width=249,height=172 ]   and @xmath2 spectra in hd181615 ; right panels : cyclic variability of the magnetic field in @xmath1 eri with a period of 21.1min and fourier spectrum for the magnetic field data derived from hydrogen lines . ,",
+    "weak magnetic fields have been detected in eight classical be stars .",
+    "the magnetic field strengths of the studied be stars are found to be in the range 40 g to 150 g .",
+    "a few be stars with detected magnetic fields show non - detections at some other observing dates , indicating possible temporal variability of their magnetic fields . to confirm this suggestion we performed time - resolved magnetic field measurements over one hour for a few be stars to get information about the behaviour of the magnetic field over at least a part of the stellar surface .",
+    "the service mode observations revealed periodic changes of magnetic fields on the time scale of tens of minutes in a few classical be stars . among these stars",
+    ", the star @xmath1 eri displays a cyclic variability of the magnetic field with a period of 21.1min ( see the right panel of fig .",
+    "[ fig : ca ] ) .",
+    "the results of the study of fifteen early b - type members of the open cluster ngc  3766 have already been reported by @xcite who noted two definite and two possible detections in the studied sample .",
+    "we detected three additional stars with weak magnetic fields which are members of this cluster ( highlighted by bold face in table  [ tab : ngc ] ) .",
+    "our search for magnetic fields in be stars revealed that their magnetic fields are rather weak , but fields of less than @xmath0150 g are not rare .",
+    "the magnetic fields are clearly variable and a non - detection of magnetic fields in some stars may be explained by temporal variability .",
+    "a few classical be stars display cyclic variability of the magnetic field with periods of tens of minutes .",
+    "the cluster ngc  3766 seems to be extremely interesting , where we find clear evidence for the presence of a magnetic field in seven early b - type cluster members out of fifteen members ."
+  ],
+  "abstract_text": [
+    "<S> we report the results of our study of magnetic fields in a sample of be stars using spectropolarimetric data obtained at the european southern observatory with the multi - mode instrument fors1 installed at the 8 m kueyen telescope . </S>",
+    "<S> the detected magnetic fields are rather weak , not stronger than @xmath0150 g . </S>",
+    "<S> a few classical be stars display cyclic variability of the magnetic field with periods of tens of minutes . </S>"
+  ]
+}

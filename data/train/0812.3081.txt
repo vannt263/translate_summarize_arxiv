@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "this paper describes the photometric calibration of the united kingdom infrared telescope ( ukirt ) wide field camera ( wfcam ) @xmath0@xmath1@xmath2@xmath3@xmath4 passbands spanning @xmath8 m .",
+    "the wfcam photometric system , based on synthetic colours , is described in hewett et al .",
+    "( 2006 ) .",
+    "wfcam is currently mounted on ukirt about 75per cent of the time , the majority of which is used to perform a set of five public surveys , under the umbrella of the ukirt infrared deep sky survey : ukidss , ( lawrence et al . 2007 , warren et al .",
+    "2007 ) , as well as a number of campaign projects and other smaller programmes .",
+    "all wfcam data are processed and calibrated by the cambridge astronomical survey unit ( casu ) using an automated pipeline ( irwin et al .",
+    "2008 ) . due to the large data rate of wfcam ( 150230 gigabytes of raw image data",
+    "are taken per night ) , a reliable and robust method for photometric calibration is required .",
+    "the primary photometric calibrators are drawn from stars in the two micron all sky survey ( 2mass , skrutskie et al .",
+    "2006 ) , present in large numbers in every wfcam exposure ( the median number is around 200 per pointing ) .",
+    "the 2mass calibration has been shown to be uniform across the whole sky to better than 2per cent accuracy ( nikolaev et al .",
+    "2000 ) .    in this paper",
+    "we investigate the accuracy and homogeneity of the wfcam calibration , by analysis of data taken in the first two years of science operations .",
+    "the survey requirement is to provide a photometric calibration in broad band filters accurate to 2per cent with a goal of 1per cent . to test whether the calibrated photometry passes the requirements",
+    ", we consider the following tests :    * for repeat observations of non - variable stars ( of sufficient signal - to - noise ) , the measured @xmath9 ( root mean square ) should be no worse than 0.02 magnitudes .",
+    "* the calibration should be robust against the effects of reddening , i.e. the calibrated frame zeropoints , measured on photometric nights , should have a standard deviation @xmath10 magnitudes as a function of reddening .",
+    "* the photometric calibration should be uniform across the sky , and not depend on the observed stellar population or the number of stars in the image . specifically",
+    ", the calibrated frame zeropoints ( on photometric nights ) should have a 1@xmath11 scatter of @xmath12 magnitudes even in sparse regions of sky , e.g. at high galactic latitude .",
+    "we demonstrate that for the vast majority of observations with wfcam , these tests are passed , and we quantify the conditions under which they are not .",
+    "the paper is organised as follows : section  [ method ] summarises how the wfcam data are calibrated within the pipeline ; in section  [ repeatability ] we examine the repeatability of wfcam photometry , quantify residual spatial systematics , and investigate the limits of the calibration in non - photometric conditions ; in section  [ 2mcomparison ] we investigate the relationship between the 2mass and wfcam photometric systems and investigate the effects of interstellar reddening ; in section  [ bias ] we investigate the extent of bias in the wfcam calibration arising from the overestimation of flux in faint sources in 2mass ; in section  [ secoffsets ] we compare the wfcam system to a _",
+    "system where a0 stars should have zero colour in all passbands ; in section  [ ukirtfs ] we compare the wfcam photometry with published data for faint standards measured with ukirt ; finally , in section  [ throughput ] we derive the throughput of wfcam . at the time of writing , ukidss has completed its fourth data release ( dr4 ) .",
+    "all wfcam data are processed in cambridge with a pipeline developed by casu and documented in irwin et al .",
+    "( 2008 ) . in this section",
+    "we describe in detail the steps used to measure magnitudes and then apply a photometric calibration for each wfcam image and subsequent catalogue . after processing and calibration , the wfcam data ( in the form of fits binary images and catalogues )",
+    "are transferred to edinburgh for ingestion into the wfcam science archive ( wsa , hambly et al .",
+    "the ukidss data have now seen a number of data releases from the wsa , and the photometric calibration has evolved to tackle the ( increasingly smaller ) corrections needed to meet the survey goals ; the corrections included in each release are summarised in table  [ tab : releases ] .",
+    ".summary of photometric calibration corrections included in each ukidss release from the wsa .",
+    "the columns indicate which of the following are accounted for : a reddening dependent correction ( see section  [ sec : galext ] ) , a per - chip zeropoint ( discussed in section  [ photcal ] ) , a radial distortion term ( section  [ instru ] ) , and a residual 2d spatial systematic correction ( section  [ ressys ] ) . [ cols=\"<,>,>,>,>,>\",options=\"header \" , ]"
+  ],
+  "abstract_text": [
+    "<S> in this paper we describe the photometric calibration of data taken with the near - infrared wide field camera ( wfcam ) on the united kingdom infrared telescope ( ukirt ) . </S>",
+    "<S> the broadband @xmath0@xmath1@xmath2@xmath3@xmath4 data are directly calibrated from 2mass point sources which are abundant in every wfcam pointing . </S>",
+    "<S> we perform an analysis of spatial systematics in the photometric calibration , both inter- and intra - detector and show that these are present at up to the @xmath55per cent level in wfcam . </S>",
+    "<S> although the causes of these systematics are not yet fully understood , a method for their removal is developed and tested . </S>",
+    "<S> following application of the correction procedure the photometric calibration of wfcam is found to be accurate to @xmath61.5per cent for the @xmath2@xmath3@xmath4 bands and 2per cent for the @xmath0@xmath1 bands , meeting the survey requirements . </S>",
+    "<S> we investigate the transformations between the 2mass and wfcam systems and find that the @xmath0 and @xmath1 calibration is sensitive to the effects of interstellar reddening for large values of @xmath7 , but that the @xmath2@xmath3@xmath4 filters remain largely unaffected . </S>",
+    "<S> we measure a small correction to the wfcam @xmath1-band photometry required to place wfcam on a vega system , and investigate wfcam measurements of published standard stars from the list of ukirt faint standards . </S>",
+    "<S> finally we present empirically determined throughput measurements for wfcam </S>",
+    "<S> .    surveys , infrared : general </S>"
+  ]
+}

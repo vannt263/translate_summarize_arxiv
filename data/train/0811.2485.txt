@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "stars gain angular momentum by hydrostatic contraction during their formation phase . thus , young stars are mostly fast rotators .",
+    "magnetic fields drive stellar winds that lead to a rotational braking and a spin - down of stars on the main sequence , following the empirically established `` skumanich law '' ( @xmath2 , @xcite ) .",
+    "this picture , however , breaks down at very low masses .",
+    "old field stars later than m4 are often fast rotators ( e.g. , ) .",
+    "rotational braking apparently is ineffective at masses @xmath3m@xmath4 , indicating a change in the wind properties and/or the magnetic field .",
+    "this mass threshold between slow and rapid rotation is likely age dependent and seems to be shifted to earlier spectral types ( higher masses ) for stars of intermediate age between the zams and about 1gyr ( e.g.,@xcite ) .",
+    "we have found a hyades member ( va 486 , spectral type m1v ) to be a rapid rotator ( @xmath5km / s ) from a uves spectra obtained during our flames campaign .",
+    "this star , and the previously known fast rotating k8v hyades member vb 190 @xcite , indicate that at the age of the hyades ( @xmath6myrs ) the threshold of efficient magnetic braking seems to be shifted to @xmath7m@xmath4 ( see fig 1 ) .",
+    "another aspect of the age and spectral type dependency of stellar rotation is the connection to magnetic field strength and coronal activity .",
+    "a low fraction of field stars earlier than m4 are active stars ( e.g. have h@xmath1 in emission ) , while the fraction sharply increases with spectral type and finally culminates at @xmath8m8v , where more than 70% of all field stars show signs of activity ( see fig 2 ) .",
+    "the question remains at which age this activity relationship is fully established . from our flames",
+    "study we have found that among five coma members with spectral types of m0v  m2v , two members exhibit strong h@xmath1 emission , while only two members are inactive .",
+    "this indicates a fraction of about 50% of active stars with spectral types of early - m , still significantly more than in the old field population .",
+    "all of the coma cluster members in our sample , even the highly active m2v , have rotational velocities of less than 5 km / s .",
+    "our flames sample in ic 2602 ( age @xmath9myrs ) was based on a list of objects from foster et al .",
+    "( , hereafter f97 ) and from scholz & eislffel ( private communication ) . by comparing the radial velocities obtained with flames to the mean radial velocity of ic 2602 ( @xmath10km / s , randich et al . , )",
+    ", we can exclude single targets with deviant radial velocities ( see fig 3 ) .",
+    "in addition we evaluated the lithium ew and the activity status of the targets to further constrain their membership .",
+    "we find that only a minority of the stars given in f97 are likely to be actual members of ic 2602 .",
+    "this is consistent with the locus of the stars in a colour  colour diagram , where most of the targets appear reddened by @xmath11mag , but actual cluster members are found close to the un - reddend main sequence ."
+  ],
+  "abstract_text": [
+    "<S> we present first results from a multi - object spectroscopy campaign in ic2602 , the hyades , the pleiades , and the coma cluster using vlt / flames . </S>",
+    "<S> we analysed the data for radial velocity , rotational velocity ( @xmath0 ) , and h@xmath1-activity . here , we highlight three aspects of this study in the context of rotational braking and the rotation - activity relationship among low mass stars . </S>",
+    "<S> finally we discuss the cluster membership of sources in ic2602 .     </S>",
+    "<S> address = institut fr astrophysik , georg - august - universitt , d-37077 gttingen , germany     address = institut fr astrophysik , georg - august - universitt , d-37077 gttingen , germany     address = supa , school of phys . and astron . , univ . of st andrews , north haugh , </S>",
+    "<S> st andrews , ky16 9ss , uk     address = astronomy department , university of california , berkeley , ca 94720 </S>"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "the standard model ( sm ) is a very predictive framework . given precise measurements of @xmath4 , @xmath5 , and @xmath6 , the @xmath0 boson mass plays a central role , as it allows for both a sm cross check , confronting predictions of the @xmath0 and top quark masses  @xcite with measurements  @xcite , and limits on the sm higgs boson mass  @xcite .",
+    "finally , constraints on the contributions of other heavy particles , like supersymmetric particles  @xcite can be obtained .",
+    "the @xmath0 mass precision has continually improved with statistics , yielding the current world average of @xmath7  @xcite .",
+    "further improvement will translate into more precise indirect predictions of the sm higgs mass .",
+    "the simulated @xmath0 and @xmath1 boson signal and associated background samples used in this study are computed using the pythia general purpose event generator  @xcite , with photon radiation in @xmath0and @xmath1decays treated via an interface to photos  @xcite .",
+    "the size of the expected samples are computed assuming the nlo @xmath0and @xmath1cross - sections , as obtained from resbos  @xcite , and simulated with complete simulation of the atlas detector using geant4  @xcite .    at hadron colliders ,",
+    "@xmath0and @xmath1events can be detected and reconstructed in the @xmath8 , @xmath9 , @xmath10 , and @xmath11 final states . in the following",
+    ", the term lepton ( @xmath12 ) will refer to either an electron or muon .",
+    "electrons are measured using the inner detector ( i d ) and electromagnetic calorimeter ( emc ) .",
+    "they are reconstructed and identified with an efficiency of about 65% , while rejecting background from jets up to one part in @xmath13 .",
+    "the transition region from barrel to endcap in the emc ( @xmath14 ) is not used . for muons ,",
+    "the i d is used together with the muon spectrometer with a reconstruction efficiency of about 95% .",
+    "backgrounds are less than for electrons , and diminished using isolation .",
+    "the transverse momentum of the neutrino is inferred from the transverse energy imbalance as determined by the calorimeters .",
+    "the relative energy resolution is typically 1.5% for electrons and 2.0% for muons , while the missing transverse momentum ( met ) has a resolution of 15 - 25%  @xcite .",
+    "the @xmath0signal is extracted by selecting events with one isolated lepton ( @xmath15 and @xmath16 ) along with significant met due to the undetected neutrino ( @xmath17 ) .",
+    "these selections have a total efficiency ( trigger and selection ) of about 20% ( 40% ) for the electron ( muon ) channel , providing a sample of about @xmath18 ( @xmath19 ) events .",
+    "the backgrounds are at the 3% ( 6% ) percent level .",
+    "likewise , the @xmath1signal is required to have two opposite sign leptons ( @xmath15 and @xmath20 ) .",
+    "the efficiency of this selection is about 10% ( 30% ) in the electron ( muon ) channel , yielding samples of about @xmath21 ( @xmath22 ) events .",
+    "g.  aad _ et al . _ [ atlas collaboration ] , jinst * 3 * ( 2008 ) s08003 b.  abbott _ et al .",
+    "_ [ d0 collaboration ] , phys .  rev .",
+    "d * 61 * ( 2000 ) 032004 [ arxiv : hep - ex/9907009 ] .",
+    "s.  berge , p.  m.  nadolsky , f.  i.  olness and c.  p.  yuan , aip conf .",
+    "* 792 * ( 2005 ) 722 [ arxiv : hep - ph/0508215 ] .",
+    "n.  besson , m.  boonekamp , e.  klinkby , t.  petersen and s.  mehlhase , arxiv:0805.2093 [ hep - ex ] ."
+  ],
+  "abstract_text": [
+    "<S> we investigate the posibility of improving the @xmath0mass measurement at atlas . given the high statistics of both @xmath0and @xmath1bosons expected at the lhc , we estimate that a precision of 7 @xmath2per channel can be reached with @xmath3 . </S>"
+  ]
+}

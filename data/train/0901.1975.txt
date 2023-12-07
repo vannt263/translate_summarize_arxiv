@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "magnetic fields in the interstellar medium of the milky way and other disc galaxies are , to a first approximation , frozen - in to the interstellar gas : put another way , the magnetic reynolds number of the medium is sufficiently high that advection dominates diffusion in the magnetic induction equation . one would therefore expect that strong velocity shear , such as that which occurs in barred galaxies , and large - scale shocks , like the density wave induced shocks along spiral arms , would lead to a strengthening of the magnetic field when the large - scale magnetic field is approximately perpendicular to the shear or parallel to the shock , as is commonly observed in barred ( @xcite ) and normal spiral galaxies ( @xcite ) .",
+    "surprisingly , observations of the barred galaxies ngc 1097 and ngc 1365 ( @xcite ) show that the polarized radio emission , tracing the _ regular _ magnetic field , is hardly affected by the velocity shear of about @xmath0 , increasing by a factor of @xmath1@xmath2 whereas theoretically one would expect an increase by a factor of about @xmath3 .",
+    "it is important to note that similar calculations are able to accurately predict the observed increase in the _ total _ radio emission , as a result of compression and shear of the turbulent magnetic field in the bar . in normal spiral galaxies",
+    "a similar , but less pronounced , discrepancy is observed .",
+    "for example in m51 the neutral gas density increases on average by a factor of @xmath4 in the spiral arms , which should produce an increase by a factor of at least @xmath5 in polarized emission if the magnetic field were frozen - in and depolarization remains constant , whereas on average there is no observed increase in polarized emission in the spiral arms ( fletcher et al . in prep . ) .",
+    "we suggest that the weaker than expected increase in regular magnetic field strength in regions of strong shocks and shear is due to the multi - phase nature of the ism . the regions in bars and spiral arms where the ism density increases are also the regions where dense clouds of molecular gas ( @xmath6 ) are rapidly formed from diffuse interstellar gas ( @xmath7 ) .",
+    "as clouds collapse in the turbulent flow , they will rotate faster , winding up the magnetic field lines that thread the cloud .",
+    "the clouds can then become detached from the background magnetic field in the diffuse ism by flux expulsion ( @xcite ) via ambipolar diffusion ( @xcite ) or magnetic reconnection .",
+    "the cartoon in figure  [ fig ] shows the basic principle .",
+    "the number of rotations a cloud makes can be bracketed by the following limits .",
+    "assuming angular momentum conservation and turbulent flow , an initial density of @xmath8 in a proto - cloud of radius @xmath9 rotating at @xmath10 , where @xmath11 and @xmath12 are typical values for the largest turbulent eddies , a cloud will rotate about @xmath13 times in a typical lifetime of @xmath14-@xmath15 or @xmath16 times in a formation time of @xmath17-@xmath18 . on the other hand , observations of _",
+    "magnetically braked _",
+    "mature clouds suggest about @xmath19 rotations in the formation time ( @xcite ) .",
+    "these estimates suggest that sufficient rotations for magnetic reconnection to occur are possible and the model is worth examining in more detail .    we have carried out numerical simulations , in 2d and 3d , of clouds forming via the thermal instability in the diffuse , magnetized ism .",
+    "we measure the fraction of magnetic flux threading gas at different densities once the instability has fully developed ( after approximately @xmath20 ) .",
+    "the simulations show that magnetic flux is detached from the forming clouds , with the rate of detachment dependent on the magnetic diffusivity .",
+    "furthermore , when the perturbations that trigger cloud formation have non - zero rotation the critical density at which flux detachment becomes important scales inversely with the rotation rate .",
+    "if the dense clouds become detached from the regular magnetic field in the diffuse ism , then the mass - to - flux ratio will decrease for the diffuse gas .",
+    "thus the regular magnetic field becomes more important in the dynamics of the diffuse gas and eventually will be strong enough to resist shearing and shocks in the diffuse ism .",
+    "this dynamical importance will continue until the dense clouds are dissipated ( for example by star formation ) and their remaining gas reloads the regular magnetic field in the diffuse ism ."
+  ],
+  "abstract_text": [
+    "<S> observations show that magnetic fields in the interstellar medium ( ism ) often do not respond to increases in gas density as would be naively expected for a frozen - in field . </S>",
+    "<S> this may suggest that the magnetic field in the diffuse gas becomes detached from dense clouds as they form . </S>",
+    "<S> we have investigated this possibility using theoretical estimates , a simple magneto - hydrodynamic model of a flow without mass conservation and numerical simulations of a thermally unstable flow . </S>",
+    "<S> our results show that significant magnetic flux can be shed from dense clouds as they form in the diffuse ism , leaving behind a magnetically dominated diffuse gas . </S>"
+  ]
+}

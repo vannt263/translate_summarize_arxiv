@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "disk - dominated galaxies with little or no bulge are frequently cited as a challenge to the @xmath0cdm cosmology ( e.g. * ? ? ?",
+    "* ) . in @xmath0cdm cosmology",
+    ", galaxy - hosting halos grow hierarchically by mergers .",
+    "major mergers destroy disks and create elliptical galaxies / classical bulges . on the other hand ,",
+    "pseudobulges are thought to be created by secular evolution , not by major mergers @xcite .",
+    "we consider what the requirements for bulge - forming mergers must be in order for the merger history of galactic halos in @xmath0cdm to account statistically for the observed fraction of galaxies today which are `` disk - dominated '' ",
+    "i.e. , those with either no bulge or only a pseudobulge .",
+    "[ for additional details , see , @xcite . ]",
+    "we explore a simple model in which bulge formation due to merger is controlled by two parameters , mass ratio @xmath3 and the virial velocity of the larger halo , @xmath4 .",
+    "the hypothesis of the model is that a bulge forms if and only if ,    @xmath5    [ cols=\"^,^ \" , ]     figure  [ fig : disk - dominated - fraction ] shows the fraction of galaxies without classical bulge ( disk - dominated galaxies ) as a function of the bulge formation criterion @xmath6 , which is the result of the model described in   [ sec : hypothesis ] some of the contours are also labeled by the morphological type of galaxy in the _ tully catalogue _ such that the observed fraction of galaxies of that morphological type or later equals the theoretical fraction of disk - dominated galaxies .",
+    "we assume that galaxies of type sc and later are the disk - dominated population .",
+    "fraction of sc or later is @xmath7 in the tully subsample , which is also consistent with other observations ( e.g. , * ? ? ?",
+    "* ; * ? ? ?",
+    "so , the @xmath8-values for which our bulge formation hypothesis predicts the observed disk - dominated - galaxy fraction @xmath7 are shown by the bold contour in fig .",
+    "[ fig : disk - dominated - fraction ] , labelled `` sc 34% , '' e.g. , @xmath9 .",
+    "somewhat smaller @xmath10 and larger @xmath11 , or vice versa , are also plausible .",
+    "however , @xmath11 can not be larger than @xmath12 because it will overproduce disk - dominated galaxies .",
+    "( _ left panel _ ) and the three - parameter model with additional parameter @xmath13 ( _ right panel _ ) , in which we assume that a merger remnant would not be observed as a classical bulge if its mass were smaller than @xmath13 times present halo mass .",
+    "solid line is the observed fraction of sc and later in the tully subsample . our model with only two parameters ( _ left",
+    "_ ) does not agree with the observed mass dependence , but the agreement becomes reasonably good by introducing the third parameter @xmath13 ( _ right_).,height=226 ]",
+    "in order to explain the observed fraction of disk - dominated galaxies within @xmath0cdm cosmology , we propose a bulge - forming criterion such that only those mergers with @xmath14 and @xmath15 form bulges .",
+    "the validity of this bulge formation criterion needs to confirmed by further study of low - mass mergers @xmath16 by , e.g. , hydro simulations .",
+    "the mass dependence of the disk - dominated fraction ( fig .",
+    "[ fig : mass - dependence ] ) can be explained , too , if merger remnants which are small compared to the present halo mass are too small to be observed as a classical bulge .",
+    "future surveys of bulgeless / pseudobulged galaxy fraction as a function of mass would be useful for determining the bulge - formation criterion and testing this hypothesis .",
+    "we would like to thank shardha jogee for detailed comments , and john kormendy for inspiring and illuminating discussions .",
+    "this work was supported in part by nsf grant ast-0708795 to m.  m. , and nasa atp grants nng04g177 g , nnx07ah09 g , sao tm8 - 9009x , and nsf grant ast-0708176 to p.  r.  s.    barazza , f.  d. , jogee , s. , & marinova , i.  2008 , , 675 , 1194 bournaud , f. , jog , c.  j. , & combes , f.  2005 , , 437 , 69 cox , t.  j. , jonsson , p. , somerville , r.  s. , primack , j.  r. , & dekel , a.  2008 , , 384 , 386 kautsch , s.  j. , grebel , e.  k. , barazza , f.  d. , & gallagher , j.  s. , iii 2006 , , 445 , 765 koda , j. , milosavljevic , m. , & shapiro , p.  r.  2009 , apj in press ( arxiv:0711.3014 ) kormendy , j. , & kennicutt , r.  c. , jr .",
+    "2004 , , 42 , 603 monaco , p. , theuns , t. , & taffoni , g.  2002 , , 331 , 587 okamoto , t. , gao , l. , & theuns , t.  2008 , , 390 , 920 shapiro , p.  r. , giroux , m.  l. , & babul , a.  1994 , , 427 , 25"
+  ],
+  "abstract_text": [
+    "<S> we study the formation of disk - dominated galaxies in a @xmath0cdm universe . </S>",
+    "<S> their existence is considered to be a challenge for the @xmath0cdm cosmology , because galaxy mergers isotropize stellar disks and trigger angular momentum transport in gas disks , thus fostering the formation of central stellar spheroids . here </S>",
+    "<S> , we postulate that the formation of stellar spheroids from gas - rich disks is controlled by two parameters that characterize galaxy mergers , the mass ratio of merging dark matter halos , and the virial velocity of the larger merging halo . </S>",
+    "<S> we utilize merger histories generated from realizations of the cosmological density field to calculate the fraction of dark matter halos that have avoided spheroid formation , and compare the derived statistics with the spheroid occupation fractions in surveys of nearby galaxies . </S>",
+    "<S> we find , for example , that the survival rate of disk - dominated galaxies in @xmath0cdm is just high enough to explain the observed fractional representation of disk - dominated galaxies in the universe if the only mergers which lead to central spheroid formation are those with mass ratios @xmath1 and virial velocities @xmath2 . </S>",
+    "<S> we discuss the physical origin of this criterion , and show that the dependence of the disk - dominated fraction on galaxy mass provides a further test of the merger hypothesis . </S>"
+  ]
+}

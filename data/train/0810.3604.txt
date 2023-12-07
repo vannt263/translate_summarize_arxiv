@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "vector boson scattering is the key process to probe the nature of the electroweak symmetry breaking ( ewsb ) mechanism . in absence of the higgs particle , the standard model ( sm )",
+    "predicts that the scattering amplitude of longitudinally polarized vector boson ( @xmath2 ) grows linearly with @xmath3 , violating unitarity at about @xmath4 .",
+    "this implies that the sm becomes a strongly interacting theory at high energy , so one is led to expect the presence of resonances in the boson - boson fusion process .",
+    "alternatively , new physics must intervene below the @xmath5 scale .",
+    "several theories have been proposed , such little higgs , dynamical symmetry breaking and higgless models .",
+    "on the other hand , if a massive higgs boson exists , a resonance will be observed in the @xmath0 invariant mass distribution .",
+    "in fact the @xmath0 fusion process represents the second most important contribution to higgs production at lhc .",
+    "the study @xcite has been carried on several processes with at least one vector boson decaying into leptons : @xmath6 , @xmath7 , @xmath8 , @xmath9 , @xmath10 .",
+    "to access the sensitivity for new physics of the @xmath0 scattering , a monte carlo study @xcite has been made , using two scenarios : the no - higgs and higgs ( m@xmath11=500  gev ) .",
+    "the generated events have been processed through the cms detector simulation which includes low luminosity pile - up .",
+    "the signal generation is a key aspect of the study , since a precise knowledge of the @xmath12 on the whole @xmath0 invariant mass spectrum is essential .",
+    "the decay of the vector bosons produces a six fermion final state .",
+    "when taking into account the finite width of the ew bosons and simulating off - shell vector bosons , the full set of diagrams describing @xmath13 has to be considered in order to take into account the quantum interferences . for this purpose ,",
+    "the @xmath14 process has been simulated using the @xmath15  @xcite matrix element generator@xmath16 .    in order to investigate ewsb ,",
+    "the @xmath0 fusion processes are isolated from all the others six fermion final states , the irreducible backgrounds , by applying kinematic selections which enhances regions of phase space dominated by the signal .      besides the irreducible background , which is determined as the complementary of the signal , the most problematic background for the vbf signal in the semileptonic final state is the production of a single @xmath17 ( or @xmath18 ) in association with jets , while for the totally leptonic channel is instead the production of a pair of bosons in association with jets . a potentially dangerous background , because of its big cross section , is the qcd production of top pairs .",
+    "the jets are considered as fermion candidates in case they are not identified as b - jets and have a minimal p@xmath19 of 30  gev / c , while leptons are required to satisfy basic quality selections for the identification .    the particles in the final state coming from the decay of a @xmath17 ( or a @xmath18 )",
+    "are expected to have high transverse momentum ( @xmath20 ) and to be mostly produced centrally in the detector .    on the contrary ,",
+    "the two quarks that have radiated the vector bosons , the tag quarks , tend to go in the forward / backward regions at high @xmath21 and they have very large energy and @xmath20 . in fig.[fig : cinem_quarks ] the @xmath22 of the two quarks from the boson decay and of the two tag quarks are compared .",
+    "final state.,title=\"fig : \" ]   final state.,title=\"fig : \" ]    this kinematic pattern is used to tag the vbf events as a six fermions final state : the tag jets are identified as the pair of jets with the highest invariant mass and for the signal they are required to have a minimal separation ( @xmath23 ) and a minimal invariant mass of @xmath24 .",
+    "moreover , a set of kinematic cuts has been applied in order to distinguish the signal events from all the processes considered as backgrounds .",
+    "the jets produced by a vector boson are selected as the ones with minimal @xmath25 .",
+    "the leptons are required either to be coupled as products of a @xmath18 decay , or to be identified in an event with a minimal measured transverse missing energy in the @xmath17 case .",
+    "once the vector bosons are identified , their sum is required to have at least 100  gev / c@xmath26 invariant mass .    as an example ,",
+    "[ fig : eff ] shows the efficiency of the signal reconstruction , for both scenarios , and the signal and background spectrums for the @xmath27 channel .",
+    "final state.,title=\"fig : \" ]   final state.,title=\"fig : \" ]    for the @xmath28 higgs scenario , the expected number of signal and background events as well as the significances for all studied channels , after @xmath29 of integrated luminosity , is reported in tab .",
+    "[ tab : evnum ] .",
+    ".number of signal and backgrounds events after the analysis cuts for each final state with @xmath29 of integrated luminosity [ cols=\"<,^,^,^,^,^,^,^,^\",options=\"header \" , ]",
+    "an exploratory study of the vv - scattering process at cms as probe of electroweak symmetry breaking is reported .",
+    "both in the higgs and in the no - higgs scenario , either a peak or a deviation for the standard model predicitions will be observed in the m(@xmath0 ) spectrum .",
+    "the @xmath0 scattering holds then the key to understand the electronweak simmetry breaking , in a model independent way ."
+  ],
+  "abstract_text": [
+    "<S> an exploratory study has been performed in order to assess the possibility of probing the symmetry breaking mechanism through the @xmath0 fusion process using the cms detector . </S>",
+    "<S> a model independent analysis was carried out with no assumption on the mechanism restoring the unitarity in the scattering amplitude and without any degrees of freedom beyond the sm . in order to explore the sensitivity of the analysis method to an heavy higgs resonance </S>",
+    "<S> , we analyzed a data set produced using an higgs boson mass of @xmath1 . </S>",
+    "<S> moreover , in order to consider the @xmath0 fusion cross section in a region where no resonances are present , a sample corresponding to the no - higgs scenario , that in the sm is equivalent to a very high higgs mass , has been also studied . </S>"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the three - body decay of many - body resonances can be accurately measured in complete kinematics .",
+    "information about the decaying state and the decay mechanism is usually extracted from the measurement of the three fragments after the decay .",
+    "although this is a common practice , the situation is ambiguous .",
+    "the experimental analyses of these processes are based on the @xmath3-matrix formalism which inherently assumes two successive two - body decays .",
+    "the input are the properties of the intermediate two - body states and the population of the nuclear many - body initial state approximated as a three - body system .",
+    "occasionally , in principle contrary descriptions are able to explain the observed distributions making the understanding of the underlying physics difficult .",
+    "an example demonstrating the difficulties is the @xmath4 decay of @xmath5 state in @xmath1c which was successfully described by two opposite mechanisms : a sequential decay via the @xmath6 state in @xmath7be @xcite , and a direct decay into the three - body continuum @xcite .",
+    "this requires an explanation .",
+    "what information is contained in a full - kinematics measurement of three - body decay ?",
+    "apparently unique information can only be extracted under favorable conditions .",
+    "the crux of the matter is that the decay mechanism is related to a `` decay path '' , an intermediate structure , which in contrast to the final state signal in the detector is not an observable .",
+    "we shall in this contribution compare the results from three - body calculations and experimental @xmath3-matrix analyses .",
+    "the large - distance observable structure of the many - body initial state is a three - body continuum state , therefore we compute the resonance structure in a three - body cluster model @xcite .",
+    "we use the complex scaled hyperspherical adiabatic expansion method to solve the faddeev equations which describe the 3-body system .",
+    "the appropriate coordinates are the so - called hyperspherical coordinates and consist of the hyperradius @xmath8 , and five hyperangles . in the adiabatic hyperspherical expansion method the angular part of the faddeev equations",
+    "is solved first and the angular eigenfunctions @xmath9 are then used as a basis to expand the total wave function @xmath10 .",
+    "we include short - range @xcite and coulomb potentials .",
+    "the many - body effects that are present at short distances are assumed to be unimportant except for the resonance energy .",
+    "this is taken into account by using a structureless 3-body interaction that fits the position of the resonance .",
+    "the resonance wave - function contains information about the decay mechanism , and the large - distance properties reflect directly the measurable fragment momentum distributions .",
+    "the single particle probability distributions are obtained after integration of the absolute square of the wave function over the four hyperangles describing the directions of the momenta .",
+    "l6.5 cm    [ cols=\"^,^ \" , ]     [ tab ]",
+    "we have computed the observable momentum distributions from decay of three - body resonances by use of @xmath3-matrix simulations and from full faddeev calculations .",
+    "we have considered the example of the @xmath2 resonance of @xmath1c .",
+    "the angular momentum and boson symmetries constrain the resulting momentum distributions .",
+    "the same measured momentum distributions can be described in different complete basis sets , e.g. either direct products of two - body states and their center - of - mass motion relative to the third particle ( @xmath3-matrix ) or three - body continuum wave functions ( faddeev ) .",
+    "the fact that different descriptions seem to work indicates that the same wave function could be described in different ways .",
+    "extracting information of both structure and decay mechanism can then be misleading and requires model interpretations .",
+    "full faddeev computations successfully reproduce the measured distributions ."
+  ],
+  "abstract_text": [
+    "<S> we discuss the three - body decay mechanisms of many - body resonances . </S>",
+    "<S> r - matrix sequential description is compared with full faddeev computation . the role of the angular momentum and boson symmetries is also studied . as an illustration </S>",
+    "<S> we show the computed @xmath0-particle energy distribution after the decay of @xmath1c(@xmath2 ) resonance at 12.7  mev . </S>"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "bardeen and wagoner @xcite observed in numerical tests in 1971 that the quadrupole moment of a rigidly rotating disk of dust is always greater than that of the kerr metric with the same angular momentum and mass except in the extreme relativistic case , when they become the same , @xmath0    as already concluded by bardeen and wagoner , the general expectation is that this also holds for other spacetimes containing a central rigidly rotating perfect fluid .",
+    "the recent work of bradley and fodor @xcite lends support for this in the slowly rotating case .",
+    "it is now interesting to ask the question whether this holds not only for the quadrupole moment but for every moment , @xmath1 in this paper , based upon @xcite , we will formulate this conjecture and collect evidence in favor of it from numerical and analytical results .",
+    "we will make use of geometrical units with @xmath2 .",
+    "the multipole moments calculated by fodor et al . in @xcite are equivalent to the invariantly defined ones by geroch and hansen @xcite for axially symmetric and stationary spacetimes . because of the form of the ernst potential on the axis , the mass- and rotation moments are in this context given by @xmath3 in accordance with relation ( [ eq : q - equation ] ) we state :    * generalized quadrupole - conjecture . * _ for axially symmetric , stationary and asymptotically flat spacetimes with angular momentum @xmath4 , mass @xmath5 and multipole moment @xmath6 @xmath7 always holds if the spacetime is that of a rigidly rotating perfect fluid body in equilibrium , surrounded by vacuum . _    furthermore , in accordance with our experience , the equality is only reached in the case of a black hole limit , which is then necessarily an extreme kerr black hole , see @xcite . in general , the exterior spacetime differs from the kerr metric .",
+    "in the newtonian limit , a rigidly rotating object has angular momentum @xmath8 with moment of inertia @xmath9 and angular velocity @xmath10 . in this limit",
+    "we can compute a kinetic energy and define a characteristic velocity via @xmath11 restricting ourselves to axial and equatorial symmetry , relation ( [ eq : gen.eq .",
+    "] ) becomes for @xmath12 @xmath13 which should always hold under the condition of small velocities @xmath14 provided @xmath15 is limited .",
+    "with help of the numerical program described in @xcite we were able to test the conjecture for different equations of state and different topologies in the case of the quadrupole and octupole moments .",
+    "exemplarily we will show some of the results to underline the conjecture .",
+    "the tests covered three equations of state for spheroidal stars containing homogeneous matter , an mit - bag model equation of state for quark matter following @xcite and a model for a completely degenerated ideal neutron gas following @xcite and additionally a quadrupole - test for thin rotating rings .",
+    "figures [ fig : mit - bag , quadrupole ] and [ fig : rings : quadrupole ] show @xmath16 for the cases of a star with an mit - bag model equation of state and homogeneous rings , respectively .",
+    "@xmath16 for quadrupole moments of strange stars with an mit - bag model equation of state and varying masses depending on the ratio of polar to equatorial radius . ]    rotating homogeneous rings for different ratios of radii depending on the redshift parameter @xmath17 , see @xcite . ]",
+    "figure [ fig : octupole : homogeneous ] shows a test in the case of the octupole moment for homogeneous stars with different masses .",
+    "@xmath18 for homogeneous stars with different masses . ]      the rigidly rotating disk of dust was solved analytically by neugebauer and meinel @xcite .",
+    "the associated multipole moments were derived shortly thereafter by kleinwchter et al .",
+    "@xcite , see also @xcite . figure [ fig : disk ] shows that in this case the conjecture is true for @xmath19 .",
+    "moreover , it is interesting that we have @xmath20 .     the rigidly rotating disk of dust :",
+    "the conjecture has been verified up to @xmath21 .",
+    "the solution depends on a parameter @xmath22 ) , where @xmath23 corresponds to the newtonian limit and @xmath24 leads to the black hole limit , see @xcite , @xcite . ]",
+    "since it is easy to construct solutions of the vacuum einstein - equations violating the conjecture , e.g. with the algorithm presented by manko and ruiz in @xcite , it will be interesting to investigate , which requirements on the sources are necessary to ensure @xmath25 and which are not necessary ."
+  ],
+  "abstract_text": [
+    "<S> based on numerical simulations and analytical calculations we formulate a new conjecture concerning the multipole moments of a rigidly rotating fluid body in equilibrium . </S>",
+    "<S> the conjecture implies that the exterior region of such a fluid is not described by the kerr metric . </S>"
+  ]
+}

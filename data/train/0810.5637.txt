@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "one of the main interests in high - mass star formation research today is a thorough characterization of the expected massive accretion disks ( e.g. , @xcite ) .",
+    "observations of this type require high spatial resolution , and disks have been suggested in numerous systems , although not always with the same tracers ( for a recent compilation see @xcite ) .",
+    "a major complication is the large degree of chemical diversity in these regions .",
+    "this is seen on large scales in terms of the large number of molecular detections ( e.g. , @xcite ) but in particular on the small scale ( of the order @xmath2au and even smaller ) where significant chemical differentiation is found ( e.g. , @xcite ) .   at present",
+    ", we are only beginning to decipher the chemical structure of these objects at high spatial resolution , whereas our understanding of the physical properties better allows us to place regions into an evolutionary context ( e.g. , @xcite ) .",
+    "it is not yet clear how our emerging picture of the physical evolution is related to the observed chemical diversity and evolution .",
+    "various theory groups work on the chemical evolution during massive star formation ( e.g. , @xcite ) , and the results are promising .",
+    "however , the observational database to test these models against is still relatively poor .",
+    "some single - dish low - spatial - resolution line surveys toward several sources do exist , but they are all conducted with different spatial resolution and covering different frequency bands ( e.g. , @xcite ) .",
+    "furthermore , the chemical structure in massive star - forming regions is far from uniform , and at high resolution one observes spatial variations between many species , prominent examples are orion - kl , w3oh / h@xmath3o or cepheus a ( see , e.g. , @xcite ) .",
+    "single - dish studies targeted larger source samples at low spatial resolution and described the averaged chemical properties of the target regions ( e.g. , @xcite )",
+    ". however , no consistent chemical investigation of a sample of massive star - forming regions exists at high spatial resolution . to obtain an observational census of the chemical evolution at high spatial resolution and to build up a database for chemical evolutionary models of massive star formation ,",
+    "it is important to establish a rather uniformly selected sample of massive star - forming regions in various evolutionary stages .",
+    "furthermore , this sample should be observed in the same spectral setup at high spatial resolution .",
+    "while the former is necessary for a reliable comparison , the latter is crucial to disentangle the chemical spatial variations in the complex massive star - forming regions . because submm interferometric imaging is a time consuming task",
+    ", it is impossible to observe a large sample in a short time .",
+    "hence , it is useful to employ synergy effects and observe various sources over a few years in the same spectral lines .",
+    "we have undertaken such a chemical survey of massive molecular cores containing high - mass protostars in different evolutionary stages using the submillimeter array ( sma , @xcite ) since 2003 in exactly the same spectral setup .",
+    "the four massive star - forming regions span a range of evolutionary stages and luminosities : ( 1 ) the prototypical hot molecular core ( hmc ) orion - kl ( @xcite ) , ( 2 ) an hmc at larger distance g29.96 @xcite , and two regions in a presumably earlier evolutionary phase , namely ( 3 ) the younger but similar luminous high - mass protostellar object ( hmpo ) iras23151 + 5912 @xcite and ( 4 ) the less luminous hmpo iras05358 + 3543 @xcite .",
+    "although the latter two regions also have central temperatures @xmath4100k , qualifying them as `` hot '' , their molecular line emission is considerably weaker than from regions which are usually termed hmcs .",
+    "therefore , we refer to them from now on as early - hmpos ( see also the evolutionary sequence in @xcite ) .",
+    "table [ source_parameters ] lists the main physical parameters of the selected target regions .",
+    "the sma offers high spatial resolution ( of the order @xmath5 ) and a large enough instantaneous bandwidth of 4ghz to sample numerous molecular transitions simultaneously ( e.g. , @xmath6sio and its rarer isotopologue @xmath7sio , a large series of ch@xmath0oh lines in the @xmath8 states , ch@xmath0cn , hcooch@xmath0 , so , so@xmath3 , and many more lines in the given setup , see  [ data ] ) .",
+    "each of the these observations have been published separately where we provide detailed discussions of the particularities of each source @xcite ) .",
+    "these objects span an evolutionary range where the molecular gas and ice coated grains in close proximity to the forming star are subject to increasing degrees of heating .   in this fashion , volatiles will be released from ices near the most evolved ( luminous ) sources altering the surrounding gas - phase chemical equilibrium and molecular emission . in this paper , we synthesize these data and effectively re - observe these systems at identical physical resolution in order to identify coherent trends .",
+    "our main goals are to search for ( a ) trends in the chemistry as a function of evolutionary state and ( b ) to explore , in a unbiased manner , the capability of molecular emission to trace coherent velocity structures that have , in the past , been attribute to keplerian disks .",
+    "we will demonstrate that the ability of various tracers to probe the innermost region , where a disk should reside , changes as a function of evolution ."
+  ],
+  "abstract_text": [
+    "<S> massive star formation exhibits an extremely rich chemistry . however , not much evolutionary details are known yet , especially at high spatial resolution . therefore , we synthesize previously published submillimeter array high - spatial - resolution spectral line observations toward four regions of high - mass star formation that are in various evolutionary stages with a range of luminosities . </S>",
+    "<S> estimating column densities and comparing the spatially resolved molecular emission allows us to characterize the chemical evolution in more detail . </S>",
+    "<S> furthermore , we model the chemical evolution of massive warm molecular cores to be directly compared with the data . </S>",
+    "<S> the four regions reveal many different characteristics . while some of them , e.g. , the detection rate of ch@xmath0oh , can be explained by variations of the average gas temperatures , other features are attributed to chemical effects . for example </S>",
+    "<S> , c@xmath1s is observed mainly at the core - edges and not toward their centers because of temperature - selective desorption and successive gas - phase chemistry reactions . </S>",
+    "<S> most nitrogen - bearing molecules are only found toward the hot molecular cores and not the earlier evolutionary stages , indicating that the formation and excitation of such complex nitrogen - bearing molecules needs significant heating and time to be fully developed . </S>",
+    "<S> furthermore , we discuss the observational difficulties to study massive accretion disks in the young deeply embedded phase of massive star formation . the general potential and limitations of such kind of dataset are discussed , and future directions are outlined . </S>",
+    "<S> the analysis and modeling of this source sample reveals many interesting features toward a chemical evolutionary sequence . </S>",
+    "<S> however , it is only an early step , and many observational and theoretical challenges in that field lie ahead . </S>"
+  ]
+}

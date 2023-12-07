@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "an outflowing wind carries away angular momentum and thus spins down the stellar rotation . winds with magnetic fields exert a braking torque that is significantly larger than for non - magnetic cases , due to the larger lever arm of magnetic field lines that extend outward from the stellar surface .",
+    "a seminal analysis of this process was carried out by weber & davis ( wd , 1967 ) , who modelled the angular momentum loss of the solar wind for the idealized case of a simple monopole magnetic field from the solar surface . in terms of the surface angular velocity @xmath3 and",
+    "wind mass loss rate @xmath4 , weber & davis concluded that the total angular momentum loss rate scales as : @xmath5 with @xmath2 the alfvn radius , defined by where the radial components of the field and flow have equal energy density .",
+    "however , wd did not provide a prescription for computing such an alfvn radius even for the idealized monopole field geometry .    for any radius @xmath6",
+    ", the energy density ratio between radial field and flow is given by @xmath7 the alfvn radius is then defined implicitly by @xmath8 .",
+    "we can derive approximate _",
+    "explicit _ expressions in terms of fixed values for the equatorial field strength @xmath9 at the surface radius @xmath10 , and for the wind mass loss rate @xmath11 and terminal flow speed @xmath12 . specifically , following ud - doula & owocki ( paper 1 , 2002 ) and ud - doula et al .",
+    "( paper 2 , 2008a ) , if we define here a wind _ magnetic confinement parameter _ , @xmath13 then we can write the energy density ratio in the form @xmath14^{2 - 2q } \\ , \\frac{\\vinf}{v_{r}(r ) } \\ ] ] where @xmath15 is the power - law exponent for radial decline of the assumed magnetic field and terminal speed @xmath12 .",
+    "it turns out that in the strong magnetic confinement limit @xmath16 , for a monopole field @xmath17 whereas for a dipole field the scaling is significantly weaker @xmath18 .",
+    "in our recent paper 3 ( @xcite ) , which this poster summarizes , we examine the wind magnetic spin - down of massive stars with a rotation - aligned dipole field based on previous magnetohydrodynamic ( mhd ) simulation parameter study presented in paper 2 . despite key differences , we find that the total angular momentum loss from these massive stars follow the general wd scaling [ jdot - eqn ] . however , because for dipole fields the alfvn radius has a stronger field scaling than for the idealized monopole case , the net stellar spin - down time is also significantly longer .",
+    "our numerical simulations show that this spin - down time can be expressed as : @xmath19^{2 } } \\ , .",
+    "\\label{tauspin - dwd}\\ ] ] where @xmath20 is the characteristic mass loss rate ( @xmath21 ) , @xmath22 is the moment of inertia constant with a typical value @xmath23 .",
+    "this leads to typical spin - down time of @xmath241 myr for several know massive stars .",
+    "details of our full calculations can be found in @xcite ."
+  ],
+  "abstract_text": [
+    "<S> we examine the angular momentum loss and associated rotational spin - down for magnetic hot stars with a line - driven stellar wind and a rotation - aligned dipole magnetic field . </S>",
+    "<S> our analysis here is based on our previous 2-d numerical mhd simulation study that examines the interplay among wind , field , and rotation as a function of two dimensionless parameters , w(=vrot / vorb ) and wind magnetic confinement , @xmath0 defined below . </S>",
+    "<S> we compare and contrast the 2-d , time variable angular momentum loss of this dipole model of a hot - star wind with the classical 1-d steady - state analysis by weber and davis ( wd ) , who used an idealized monopole field to model the angular momentum loss in the solar wind . despite the differences , we find that the total angular momentum loss averaged over both solid angle and time follows closely the general wd scaling @xmath1 . </S>",
+    "<S> the key distinction is that for a dipole field alfvn radius @xmath2 is significantly smaller than for the monopole field wd used in their analyses . </S>",
+    "<S> this leads to a slower stellar spin - down for the dipole field with typical spin - down times of order 1  myr for several known magnetic massive stars . </S>"
+  ]
+}

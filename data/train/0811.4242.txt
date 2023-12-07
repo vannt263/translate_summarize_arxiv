@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the lowest order radiative corrections ( rc ) to the muon weak decay width where calculated about fifty years ago @xcite .",
+    "the result for the electron spectrum in muon decay including rc was obtained in the form @xmath0,\\quad x=\\frac{e_{\\ensuremath{\\mathrm { e}}}}{e_{\\ensuremath{\\mathrm { max}}}},\\quad h(x)=a(x)+lb(x),\\quad l=\\ln\\frac{m^2}{m^2}\\ ] ] with the spectrum in born approximation @xmath1 here @xmath2 is the muon mass , @xmath3 is the electron mass , @xmath4 is so called `` large logarithm '' ( @xmath5 ) .",
+    "the result of lowest order rc including is presented in the expression @xmath6 , or in the functions @xmath7 and @xmath8 respectively @xcite @xmath9\\ln x-2\\frac{1+x}{x}\\ln(1-x )   { \\nonumber}\\\\ & + \\frac{(1-x)(5 + 17x-16x^2)}{3x^2(3 - 2x)}\\ln x+\\frac{(1-x)(-22x+34x^2)}{3x^2(3 - 2x)},{\\nonumber}\\\\ b(x)=&3 + 4\\ln\\frac{1-x}{x}+\\frac{(1-x)(5 + 17x-34x^2)}{3x^2(3 - 2x)}.\\end{aligned}\\ ] ] one must remark that the result of the calculations does not suffer from the ultraviolet and the infrared divergences . besides it satisfies kinoshita  lee  nauenberg ( kln ) theorem @xcite about the cancellation of mass singularities ,",
+    "namely the total width is finite in the limit of zero electron mass @xmath10 the mechanism of the realization of kln theorem can be understand from the positions of parton interpretation of quantum electrodynamics ( qed ) .",
+    "really , one can be convinced in the validity of the relation @xmath11 where @xmath12\\end{gathered}\\ ] ] is the kernel of the evolution equation of twist two operators .",
+    "using the property @xmath13 , one can validate eq .",
+    "( [ eq : intb ] ) @xmath14 considering the process in born approximation as a `` hard '' process and applying collins factorization theorem about the contributions of the short and long distances one can generalize the lowest order result to include all terms of the sort @xmath15 ( leading logarithmical approximation ( lla ) ) as well as the terms of the sort @xmath16 ( next to leading approximation ( nlo ) ) in the form @xmath17 with @xmath18 and @xmath19 \\ln y -\\frac{1+y}{y}\\ln(1-y){\\nonumber}\\\\ & + \\frac{1-y}{6y^2(3 - 2y)}\\big[(5 + 17y-16y^2)\\ln y+5(1-y)\\big ] + 2\\ln\\frac{1-y}{y}\\big]y^2(3 - 2y).\\end{aligned}\\ ] ]    for the numerical calculations one can use for the structure function @xmath20 from eq .",
+    "( [ eq : d ] ) the `` smoothed '' ( but equivalent ) form @xcite @xmath21 one can find useful relation @xmath22 + \\frac{1}{x}\\psi(x ) \\int\\limits_x^1 { \\ensuremath{\\mathrm{d}}}z d(l , z)\\ ] ] with @xmath23    for the comparison we have given in fig .  [ fig:1 ] the numerical values of the quantity @xmath24  the curve i. , and the quantity @xmath25  the curve ii .",
+    ", calculated in lla and nlo approximations ( see ( [ eq : w]),([eq : dphi ] ) ) .",
+    "one can see that the spectrum contrary to the result of lowest order of perturbation theory is well defined in the whole region of @xmath26 including @xmath27 and @xmath28 .",
+    "the total width with rc does not contain `` large logarithm '' due to the property @xmath29 . in our approach",
+    "we have obtained @xmath30.\\ ] ] let us note , that the terms of order @xmath31 were calculated in @xcite .",
+    "one of us ( e.a.k . ) is grateful to the institute of physics , sas for warm hospitality during the time of his stay . e.a.k .",
+    "acknowledges the support of intas ( grant no .",
+    "05 - 1000008 - 8328 ) .",
+    "the work was also supported in part by the slovak grant agency for sciences vega , grant no .",
+    "2/7116 .",
+    "t.  kinoshita , j.  math .",
+    "phys .   * 3 * ( 1962 ) 650 ; t.  d.  lee and m.  nauenberg , phys .",
+    "* 133 * ( 1964 ) b1549 .",
+    "e.  a.  kuraev and v.  s.  fadin , sov .",
+    "j.  nucl .",
+    "* 41 * ( 1985 )",
+    "466 [ yad .  fiz .",
+    "* 41 * ( 1985 ) 733 ] .",
+    "t.  van ritbergen and r.  g.  stuart , phys .",
+    "* 82 * ( 1999 ) 488 [ arxiv : hep - ph/9808283 ] ."
+  ],
+  "abstract_text": [
+    "<S> we have noted that the electron spectrum of muon decay in the leading logarithmic approximation calculated in two lowest orders of the perturbation theory in the paper of berman ( 1958 ) , can be reproduced by the parton language . </S>",
+    "<S> this fact permits one to generalize the result to all orders of the perturbation theory using the structure function method . </S>"
+  ]
+}

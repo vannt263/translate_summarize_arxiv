@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "let @xmath2 be a lie group modeled on a locally convex space ( cf .",
+    "@xcite for a survey on locally convex lie theory ) .",
+    "let @xmath3 be a complex hilbert space and @xmath4 be its unitary group .",
+    "a _ unitary representation of @xmath2 on @xmath3 _ is a pair @xmath5 , where @xmath6 is a group homomorphism .",
+    "a unitary representation @xmath7 is said to be _ continuous _ if the action @xmath8 is continuous .",
+    "since @xmath2 acts by isometries on @xmath3 , it is easy to see that this condition is equivalent to the continuity of all orbit maps @xmath9 .",
+    "a unitary representation @xmath7 is said to be _ smooth _ if the space @xmath10 of _ smooth vectors _ is dense .",
+    "clearly , every smooth representation is continuous , and it is a natural question to which extent the converse also holds .",
+    "if @xmath2 is finite dimensional , then each continuous unitary representation is smooth .",
+    "even the subspace @xmath11 of analytic vectors is dense ( cf .",
+    "@xcite ) .    for the class of groups which are direct limits of finite dimensional lie groups ,",
+    "samoilenko s book @xcite contains a variety of positive results on the existence of smooth vectors , in particular for abelian lie groups , restricted direct products of @xmath12 and the group of infinite upper triangular matrices .",
+    "more general existence results on differentiable vectors for limits of finite dimensional lie groups can be found in @xcite .",
+    "see also @xcite for existence of smooth vectors for particular classes of representations of diffeomorphism groups .    however , the purpose of this note is to show that there is no automatic smoothness result for continuous unitary representations of infinite dimensional lie groups . even for the otherwise rather well - behaved class of abelian banach ",
+    "lie groups . this will be shown by verifying that for the abelian hilbert  lie group @xmath13,\\r),+)$ ] , the unitary representation @xmath14,\\c ) ) , \\quad \\pi(f)\\xi : = e^{if}\\xi\\ ] ] is continuous , but its space @xmath0,\\c)^\\infty$ ] of smooth vectors is trivial .",
+    "smoothness of a representation is a property that is crucial to make it accessible to lie theoretic methods . in particular , for any smooth representation @xmath5 we obtain a representation of its lie algebra @xmath15 on the space @xmath16 of smooth vectors by skew - hermitian operators ( cf .",
+    "our example shows that smoothness of a representation is an assumption that does not follow from continuity .",
+    "[ prop:1 ] the unitary representation @xmath17,\\c))$ ] of the additive group @xmath18,\\r)$ ] , defined by @xmath19 , is continuous .",
+    "first we observe that for any @xmath20 $ ] and @xmath21,\\r)$ ] we have @xmath22 for any @xmath23,\\c ) \\cap l^\\infty([0,1],\\c)$ ] we thus obtain @xmath24 this implies that the orbit map @xmath25 is continuous if @xmath26 is bounded , and since the set of bounded elements is dense in @xmath0,\\c)$ ] , the continuity of @xmath27 follows .    to show that the space @xmath0,\\c)^\\infty$ ] of smooth vectors is trivial , we put @xmath28,\\c)$ ] and consider the functions @xmath29,\\ ] ] in @xmath0,\\r)$ ] . for each @xmath30 ,",
+    "the continuous unitary representation @xmath27 defines a continuous unitary one - parameter group @xmath31 whose infinitesimal generator is the multiplication operator @xmath32 in particular , the set of smooth vectors for this one - parameter group is the dense subspace @xmath33 therefore it remains to show that @xmath34 } \\cd_\\lambda^\\infty = \\{0\\}$ ] .        for @xmath40 ,",
+    "let @xmath41 \\ : \\frac{1}{n}\\leq \\xi(t ) \\leq n \\}$ ] and note that @xmath42 holds in @xmath0,\\c)$ ] .",
+    "if @xmath43,\\c)$ ] , then @xmath44,\\c)$ ] for any @xmath45 and hence @xmath46,\\c)$ ] .",
+    "we may therefore assume that @xmath47 is the characteristic function of some measurable subset @xmath48 $ ] .",
+    "suppose that @xmath49 has positive measure and that @xmath35,\\c)$ ] holds for each @xmath36 $ ] .",
+    "we have to show that this assumption leads to a contradiction .",
+    "let @xmath500,1[$ ] be a lebesgue point of @xmath26 ( ( * ? ? ?",
+    "* thm .  7.11 ) ) , so that @xmath51|}{2h }    = \\lim_{h \\to 0 } \\frac{1}{2h } \\int_{\\lambda - h}^{\\lambda+h } \\chi_m(t)\\ , dt.\\ ] ] we then find the two estimates @xmath52 and , likewise , for @xmath53 , @xmath54 these two estimates are contradictory , which completes the proof .",
+    "* acknowledgment .",
+    "* this note was written during a visit of the first - named author at the department of mathematics of tu darmstadt . the financial support and",
+    "the excellent working conditions provided there are gratefully acknowledged .",
+    "rudin , w. , `` real and complex analysis , '' mcgraw hill , 1986 samoilenko , y. s. , _ spectral theory of families of self - adjoint operators _ , mathematics and its applications ( soviet series ) kluwer acad .",
+    "publ . , 1991"
+  ],
+  "abstract_text": [
+    "<S> in this note we show that the representation of the additive group of the hilbert space @xmath0,\\r)$ ] on @xmath0,\\c)$ ] given by the multiplication operators @xmath1 is continuous but its space of smooth vectors is trivial . </S>",
+    "<S> this example shows that a continuous unitary representation of an infinite dimensional lie group need not be smooth . </S>",
+    "<S> + _ mathematics subject classification 2000 : _ 22e65 , 22e45 + _ keywords and phrases : _ infinite - dimensional lie group , unitary representation , smooth vector </S>"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "multiple reprocessing and scattering in the central engine of active galactic nuclei ( agn ) are a major challenge to the spectral analysis . to disentangle the various media present in the inner parts of an agn",
+    ", the radiative transfer has to be modeled coherently .",
+    "scattering induces polarization that can be exploited to constrain the emission and reprocessing geometry .",
+    "the monte - carlo radiative transfer code stokes @xcite is designed to model polarization in a wide range of astronomical applications . in its most recent version ,",
+    "time - dependent effects are included , which allows to interpret results from polarization reverberation mapping @xcite . in this",
+    "proceedings note we present stokes reverberation modeling for the polarized echo of a centrally illuminated scattering cloud .",
+    "we model the time - resolved , polarized flux of a centrally illuminated , constant density , and thomson scattering spheroid . the vertical half - axis of the spheroid is denoted by @xmath0 , the horizontal half - axis by @xmath1 .",
+    "we define @xmath2  light - days and evaluate the aspect ratios @xmath3 ,  @xmath4 ,  @xmath5 , and  @xmath6 at viewing angles of @xmath7 ,  @xmath8 , and  @xmath9 ( measured from the spheroid s symmetry axis ) .",
+    "the thomson optical depth @xmath10 along @xmath1 is set to unity .    at first",
+    ", we assume a short flash of unpolarized light to be emitted at the center of the spheroid .",
+    "we trace for each viewing angle the time evolution of the escaping radiation .",
+    "the resulting lightcurves of the polarized flux , i.e. the percentage of polarization @xmath11 multiplied by the total flux @xmath12 , are shown in the top row of fig .",
+    "with increasing @xmath13 the maxima of the curves shift toward higher values and their shape becomes more symmetric and shallow . for a given @xmath13 ,",
+    "the normalization of the lightcurves increases with @xmath14 while the position of the maximum moves toward shorter delays . except for the flattest spheroid",
+    ", the light - crossing distances indicated by the maxima of the lightcurves exceed the horizontal extension ( 20 light - days ) of the spheroid .",
+    "this clearly indicates multiple scattering effects .",
+    "next , we randomly vary the intensity of the central source and conduct a cross - correlation analysis between @xmath15 and @xmath12 .",
+    "the results are shown in the bottom row of fig .",
+    "the correlation between the total and the polarized flux is always strong .",
+    "the resulting delays depend on @xmath13 and @xmath14 and the dependencies correspond to those of the single light flashes studied before .",
+    "note that a degeneracy appears for the dependence on @xmath14 when the shape of the scattering cloud approaches a sphere ( see the case of @xmath16 ) .",
+    "this , of course , is expected from symmetry considerations .    .",
+    "the viewing angles @xmath7 ( black ) , @xmath8 ( red ) , and @xmath9 ( blue ) are evaluated .",
+    "bottom : cross - correlation functions between the total flux and the polarized flux echo when the intensity of the central source varies . ]",
+    "the correlations shown in fig .  [ fig1 ] could be used to constrain the geometry of the scattering cloud if the inclination of the system is known .",
+    "but the time - delays of the polarization echo also depend on @xmath10 . to put constraints on @xmath10 the dynamics of the scattering medium can be exploited , as was recently shown in @xcite for scattering inflows in agn . in fig .",
+    "[ fig2 ] we show the effects of multiple scattering inside an in - falling medium .",
+    "the resulting blue - shifting of emission lines is observed in agn , and our modeling with stokes has shown that the shifting and the resulting line profile do not strongly depend on the geometry of the inflow but mainly on its velocity and optical depth .",
+    "these quantities are closely related to the inflow rate of the material and thus to the possible growth rate of the supermassive black hole .",
+    "-0.4 truecm   = 0.5 ( red ) , 1.0 ( green ) , 2.0 ( blue ) , and 10 ( purple ) .",
+    "the dots show the blue - shifting caused by a cylindrical distribution of scatters with @xmath17 inflowing at -1000 km / s.,title=\"fig : \" ]    gaskell , c.  m. , & goosmann , r.  w.  2008 , arxiv:0805.4258 gaskell , c.  m. , goosmann , r.  w. , merkulova , n.  i. , shakhovskoy , n.  m. , & shoji , m.  2007 , arxiv:0711.1019 goosmann , r.  w. , & gaskell , c.  m.  2007 , a&a , 465 , 129"
+  ],
+  "abstract_text": [
+    "<S> introduced polarization reverberation mapping as a new technique to explore the structure of active galactic nuclei . </S>",
+    "<S> we present modeling results for the time - dependent polarization signal expected from scattering inside a centrally illuminated spheroid . </S>",
+    "<S> such a model setup describes a larger corona surrounding the compact source of an active nucleus . </S>",
+    "<S> time - delays between the polarized and the total flux are computed and related to the geometry of the cloud and the viewing angle . when including the in - flow dynamics of the cloud , it is possible to constrain its optical depth and velocity , which enables estimations of the mass inflow rate . </S>"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "at the lhc , top quark pairs ( @xmath3 ) will be produced mainly via gluon fusion .",
+    "a recent prediction for the cross section at @xmath4 tev is a next - to - leading order ( nlo ) calculation with soft - gluon next - to - leading - log ( nll ) resummation @xcite : @xmath5 ( factorisation and renormalisation scales ) @xmath6 ( parton distribution function ( pdf ) ) pb . as @xmath7 ,",
+    "top quarks nearly always decay into a @xmath8-boson and a @xmath9-quark .",
+    "a @xmath8-boson decays roughly 2/3@xmath10 of the cases into two quarks and 1/3@xmath10 into a lepton and a neutrino .",
+    "therefore , @xmath3 decay can be divided into three channels : 4/9@xmath11 fully hadronic , 4/9@xmath11 semileptonic and 1/9@xmath11 dileptonic .",
+    "the fully hadronic channel suffers from large qcd multi - jet background .",
+    "the presence of missing transverse energy ( from undetectable neutrino s ) and at least one lepton in the two other channels creates the possibility to select @xmath3 events while reducing background considerably .",
+    "these two channels are used in atlas for @xmath3 cross section measurements with the first 100pb@xmath2 integrated luminosity of data @xcite and will be discussed in the following sections .",
+    "two complementary measurements in the single lepton channel are investigated : a counting method and a likelihood fit .",
+    "events are selected that passed the electron ( muon ) trigger ` e22i ` ( ` mu20 ` ) and contain missing transverse energy @xmath12 gev , an isolated electron ( muon ) with transverse momentum @xmath13 gev / c and pseudo rapidity @xmath14 , three jets with @xmath15 gev / c and @xmath14 and an additional fourth jet with @xmath13 gev / c and @xmath14 .",
+    "the hadronic top is reconstructed by taking the invariant mass @xmath16 of the three jet combination with the highest @xmath17 . to reduce background from jet combinatorics and other processes , at least one di - jet combination is required to be compatible with the @xmath8-boson mass @xmath18 gev / c@xmath19 .         in the counting method",
+    "the cross section is determined by subtracting the number of expected background events from the number of observed events in the @xmath16 distribution divided by the selection efficiency and integrated luminosity .",
+    "the main background comes from @xmath8 + jets and single top .",
+    "when tagging of @xmath9-quark jets is possible , the purity can be increased by a factor four , while the efficiency is only reduced by a factor two . the largest systematic uncertainty ( @xmath2010% ) in this analysis",
+    "is the background normalisation .    in the likelihood fit ,",
+    "only the correctly reconstructed @xmath3 events that end up in the peak of the distribution are used for the cross section measurement .",
+    "the peak is fitted with a gaussian , while the combined background shape from jet combinatorics and other processes such as @xmath8 + jets is described by a chebychev polynomial .",
+    "the cross section is calculated from the number of @xmath3 events in the peak divided by the overall efficiency for a @xmath3 event to end up in the peak and the integrated luminosity .",
+    "the fit is sensitive to the shapes of the distribution and therefore this is the main systematic uncertainty ( @xmath2010% ) .",
+    "the expected uncertainties on the cross section for 100 pb@xmath2 of data are :            m. cacciari , s. frixione , m.l .",
+    "mangano , p. nason and g. ridolfi , `` updated predictions for the total production cross sections of top and of heavier quark pairs at the tevatron and at the lhc '' , hep - ph/0804.2800 ."
+  ],
+  "abstract_text": [
+    "<S> an accurate determination of the top quark pair production cross section at the lhc provides a valuable check of the standard model . </S>",
+    "<S> given the high statistics which will be available ( about one top quark pair per second , at a luminosity of @xmath0@xmath1s@xmath2 ) , this check can be performed relatively fast after the turn on of the lhc . </S>",
+    "<S> the prospects for measuring the total top quark pair cross section with the atlas detector during the initial period of lhc running is presented here . </S>",
+    "<S> the cross section is determined in the single lepton channel and in the dilepton channel . </S>"
+  ]
+}

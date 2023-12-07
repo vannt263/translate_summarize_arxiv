@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "galactic rotation curves are one of the most important evidences favoring the dark matter scenario in astrophysics .",
+    "actually dark matter was proposed by zwicky @xcite in order to accommodate observed velocities in galaxies and galaxy clusters . since then",
+    "others explanations was proposed as modifications of newtonian gravity @xcite or modifications in general relativity @xcite .",
+    "all these approaches have in common , from the modeling point of view , just one element : non - linearity .",
+    "so , is natural asks the question if non - linear effects of some sort are responsible for the discrepancy observed in galaxies and galaxy cluster dynamics .",
+    "recently , in the context of general relativity , some authors have investigated this point @xcite .    here",
+    ", we will propose an alternative paradigm where newtonian gravity is maintained on its solid basements but a non - linear model of a galaxy is build .",
+    "we solve the non - linear equations in two simplified cases and calculate the resulting galaxy rotation curves , showing qualitatively that flat curves can be obtained in a given region of the parameter space .",
+    "we focus on spiral galaxies described as a fluid with mass distribution in the phase space , @xmath0 which is related to the ordinary mass distribution by@xmath1 where @xmath2 the mass for a typical star .",
+    "the dynamics is governed by the poisson equation coming from the second newton law,@xmath3 but restricted to the mass conservation,@xmath4    using a hamiltonian description , @xmath5 * * , * * @xmath6 , we obtain,@xmath7    in general , this is a set of integro - differential non - linear coupled equations .",
+    "let us restrict the model only to the disc of the galaxy in the static regime .",
+    "so , using the axial symmetry of this system , the mass conservation equation become:@xmath8    this equation can be solved using the method of characteristics . assuming a constant angular velocity , this is equivalent to a set of ordinary differential equations,@xmath9 whose uniparametric family of solutions is@xmath10    experimental data shows that the mass distribution is gaussian in the observed velocities , therefore is natural to choose the mass distribution @xmath11 to be a boltzmann distribution in the total energy:@xmath12   \\right)\\ ] ]    the integration over the velocities can be done , in order to obtain the functional dependence of the mass distribution over the gravitational potential@xmath13    it means that the poisson equation now is a non - linear partial differential equation , given by@xmath14",
+    "let us to take an over simplified case , assuming that the field vary only with the height to the plane of the disc,@xmath15 using an integration factor @xmath16 and the boundary conditions @xmath17 this equation can be directly integrated,@xmath18    the density profile in this case is@xmath19    so far , it is a reasonable model , since the disc predicted is thin .",
+    "let us to take another over simplified model assuming variation only in the radial direction,@xmath20    multiplying both sides by @xmath21 and integrating , we find@xmath22 where @xmath23 is the radius of the galaxy core , and @xmath24 .",
+    "performing a second integration , we arrive in a volterra second order integral equation:@xmath25    to solve it , we apply the piccard s method of successive approximations:@xmath26@xmath27 therefore , the first order iterative solution is@xmath28",
+    "assuming a virial balance , @xmath29 , the galaxy rotation curve in this model is @xmath30@xmath31    in our illustrative example , @xmath32 , we have the behavior illustrated in fig .",
+    "[ f1 ] .",
+    "and @xmath33 is the distance to center in adimensional units .",
+    "@xmath34 is the parameter dictated by the boundary condition at the core .",
+    "[ f1],width=491 ]    so , if @xmath35,@xmath36 which is constant .",
+    "a non - linear newtonian model for the galaxy disk was constructed by introducing a solution of the mass conservation on the phase space .",
+    "s. fay , _ astron .",
+    "astrophys . _",
+    "* 413 * ( 2004 ) 799 ; s. behar and m. carmeli , _ int . j. mod .",
+    "* 39 * ( 2000 ) 1397 ; s. capozziello _",
+    "et al . , phys .",
+    "lett . _ * a326 * ( 2004 ) 292 ; d. n. vollick , _ gen .",
+    "_ * 34 * ( 2002 ) 471 ; k. ichiki _ et al .",
+    "_ * d66 * ( 2002 ) 023514 ; r. r. cuzinatto , c. a. m. de melo , l. g. medeiros and p. j. pompeia , _ eur .",
+    "j. _ * c53 * ( 2008 ) 98 ."
+  ],
+  "abstract_text": [
+    "<S> we develop a model for spiral galaxies based on a nonlinear realization of the newtonian dynamics starting from the momentum and mass conservations in the phase space . </S>",
+    "<S> the radial solution exhibits a rotation curve in qualitative accordance with the observational data .    * keywords : * galactic rotation curves ; dark matter ; mathematical modeling .    * </S>",
+    "<S> pacs numbers : * 95.35.+d , 02.90.+p </S>"
+  ]
+}

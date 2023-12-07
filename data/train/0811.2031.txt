@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "despite considerable effort , an unequivocal direct detection of gravitational waves ( gw ) is yet to be achieved .",
+    "the expected wave strain is several orders of magnitude weaker than the sensitivity of current interferometric detectors@xcite .",
+    "one possibility is to coherently integrate the signal of a continuous source . in this case , the signal - to - noise ratio increases with the square root of the observation time@xcite .",
+    "a variety of physical mechanisms for the generation of continuous gravitational waves have been proposed@xcite , among them nonaxisymmetric distortions of the neutron star crust , either due to temperature variations@xcite or strong magnetic fields@xcite , r - mode instabilities @xcite , or free precession @xcite .",
+    "a promising gw source was recently suggested by two of us@xcite .",
+    "matter accreting onto a neutron star in a low - mass x - ray binary ( lmxb ) accumulates at the magnetic poles until the latitudinal pressure gradient overcomes the magnetic tension and the plasma spreads equatorwards .",
+    "the frozen - in magnetic field is carried along with the spreading matter , and is therefore compressed , until the magnetic tension is again able to counterbalance the thermal pressure .",
+    "this configuration is termed a magnetic mountain@xcite . during this process",
+    ", the magnetic dipole moment decreases with accreted mass , consistent with observational data.@xcite    we examine the prospect of detection of gw from magnetic mountains in section [ sec : gr ] . in section [ sec : st ] , we present preliminary results from fully three - dimensional magneto - hydrodynamic ( mhd ) simulations to test the mountains stability .",
+    "a typical mountain with @xmath0 and pre - accretion dipolar magnetic field of @xmath1 g can provide@xcite a gravitational ellipticity @xmath2 , where @xmath3 and @xmath4 are the principal moments of inerta .",
+    "@xmath5 is considerably higher than the deformation a conventional neutron star could sustain ( @xmath6 ) via its free elastic response and is only surpassed by exotic solid strange stars@xcite ( @xmath7 ) .",
+    "the characteristic gw strain@xcite is defined as @xmath8 , where @xmath9 g @xmath10 is the principal moment of inertia , @xmath11 the spin frequency , and @xmath12 the distance to the object .",
+    "[ fig ] ( left ) shows @xmath13 as a function of @xmath11 at a distance of @xmath14kpc and a mountain mass of @xmath15 together with the design sensitivities of ligo and advanced ligo for a coherent integration time of @xmath16 s. a mountain with @xmath17 should be detectable by ligo for @xmath18 hz .",
+    "this is also consistent with the observed cutoff at @xmath19 hz in the spin frequency distribution of lmxbs  much slower than the breakup frequency@xcite .",
+    "# 1    ( # 1 )",
+    "surprisingly , the distorted magnetic configuration is stable to axisymmetric modes@xcite .",
+    "however , the full three - dimensional stability is yet to be examined .",
+    "we perform three - dimensional simulations by loading the axisymmetric configuration into the ideal mhd - code zeus - mp .",
+    "a preliminary result is displayed in fig .",
+    "[ fig ] ( right ) .",
+    "shown is the time evolution of the three cartesian quadrupole moments @xmath20 , and @xmath21 , defined as @xmath22 , where @xmath23 denotes the density .",
+    "after readjusting initially , the system settles down into a state that still has a sizeable quadrupole moment .",
+    "furthermore , the small magnitude of the off - diagonal element @xmath21 suggests that the mountain is still nearly ( within @xmath241 % ) symmetric about the magnetic axis .",
+    "we tentatively interpret these results as a preliminary proof of three - dimensional stability .",
+    "however , the influence of resistivity still needs to be examined .",
+    "resistive ballooning and resistive rayleigh - taylor modes may allow plasma slippage on a short timescale@xcite .",
+    "non - ideal mhd simulations to investigate these effects are currently under way ."
+  ],
+  "abstract_text": [
+    "<S> it is widely assumed that the observed reduction of the magnetic field of millisecond pulsars can be connected to the accretion phase during which the pulsar is spun up by mass accretion from a companion . </S>",
+    "<S> a wide variety of reduction mechanisms have been proposed , including the burial of the field by a magnetic mountain , formed when the accreted matter is confined to the poles by the tension of the stellar magnetic field . </S>",
+    "<S> a magnetic mountain effectively screens the magnetic dipole moment . on the other hand , </S>",
+    "<S> observational data suggests that accreting neutron stars are sources of gravitational waves , and magnetic mountains are a natural source of a time - dependent quadrupole moment . </S>",
+    "<S> we show that the emission is sufficiently strong to be detectable by current and next generation long - baseline interferometers . </S>",
+    "<S> preliminary results from fully three - dimensional magnetohydrodynamic ( mhd ) simulations are presented . </S>",
+    "<S> we find that the initial axisymmetric state relaxes into a nearly axisymmetric configuration via toroidal magnetic modes . </S>",
+    "<S> a substantial quadrupole moment is still present in the final state , which is stable ( in ideal mhd ) yet highly distorted . </S>"
+  ]
+}

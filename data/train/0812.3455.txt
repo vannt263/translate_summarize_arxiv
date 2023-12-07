@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "the supernova remnant g296.5 + 10.0 was observed using the australia telescope compact array at 1.4 ghz with an angular resolution of 30 arcseconds .",
+    "signals from the dual linear polarized feeds were combined to produce images of the remnant in linear polarisation .",
+    "the rotation measure synthesis method ( brentjens & de bruyn , 2005 ) was employed to obtain an rm spectrum at each pixel in the image ( figure 1 ) .",
+    "the 104 mhz bandwidth was split into 13 @xmath0 8 mhz spectral channels , giving sufficient coverage in @xmath1@xmath2 to remove any n@xmath3 ambiguities in the rm values .",
+    "x - ray data in the energy range 0.12.4 kev were taken from the rosat archive , via nasa s skyview .",
+    "these complimentary data allow us to estimate the electron density in the remnant .",
+    "in order to disentangle the electron density ( n@xmath4 ) and line - of - sight magnetic field ( @xmath5@xmath6 ) we measured the x - ray intensity at every point in the rosat image , after regridding and smoothing them to match the atca image . rm is defined as the integral of n@xmath4 and @xmath5@xmath6 along the line of sight .",
+    "the thermal x - ray surface brightness , s@xmath7 , is proportional to n@xmath4@xmath2 .",
+    "therefore if rm and s@xmath7@xmath8 are correlated , the faraday rotation is occurring within the thermal plasma ( matsui et al .",
+    "a plot of rm vs. s@xmath7@xmath8 ( figure 2 ) shows that there is no clear correlation between rm and s@xmath7@xmath8 in the remnant , which means that the rms originate from the ism / halo along the line - of - sight .",
+    "therefore the rm variations across the remnant may reflect the structure of the magnetised interstellar medium ( haverkorn et al .",
+    "2004 ) and the smooth component may tell us about the overall magnetic field morphology within the remnant ( ransom et al .",
+    "this will form the basis of our further analysis of these data .",
+    "the following analytical steps will be taken : ( 1 ) modelling of the rm structure across the remnant to determine the large - scale structure and morphology of the magnetic field ( i.e. linear , spiral , toroidal ) in the remnant ( 2 ) analysis of smaller - scale rm variations across the remnant , to probe the turbulent scale - sizes in the ism and galactic halo ."
+  ],
+  "abstract_text": [
+    "<S> radio continuum emission from the supernova remnant g296.5 + 10.0 was observed using the australia telescope compact array . using a 104 mhz bandwidth split into 13 @xmath0 8 mhz spectral channels , it was possible to produce a pixel - by - pixel image of rotation measure ( rm ) across the entire remnant . </S>",
+    "<S> a lack of correlation between rm and x - ray surface brightness reveals that the rms originate from outside the remnant . using this information </S>",
+    "<S> , we will characterise the smooth component of the magnetic field within the supernova remnant and attempt to probe the magneto - ionic structure and turbulent scale sizes in the ism and galactic halo along the line - of - sight . </S>"
+  ]
+}

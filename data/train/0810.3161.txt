@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "at the large hadron collider ( lhc ) top quark pairs ( @xmath0 ) will be produced copiously .",
+    "the next - to - leading order cross section at lhc energies has been estimated to be 833 pb  @xcite . due to this large cross section , at fairly low integrated luminosities ranging from approximately 10 @xmath1 to 100 @xmath1 of lhc data , a top quark signal could be established and the first top quark pair production cross section measurements could be performed .",
+    "more details are provided in section 2 .",
+    "in addition , top quark events can be used for the calibration of residual jet energy scale corrections , as it is presented in section 3 , or b - jet identification efficiencies  @xcite .    for all samples used in the different studies presented here",
+    "@xmath2 collisions were generated at @xmath3 tev . in order to mimic the realistic conditions during the early data taking ,",
+    "effects due to tracker misalignment and calorimeter miscalibration were taken into account in the reconstruction .",
+    "the effect of multiple proton - proton interactions was not included .",
+    "for the different analysis reviewed in this section the event selection strategy is based on a sequential cut procedure based on robust variables . among them ,",
+    "lepton and jet transverse momentum or energy , lepton isolation variables , electron identification related variables , or missing transverse energy .",
+    "all relevant backgrounds , except the single top production have been taken into account .",
+    "different sources of systematic errors have been considered , including those associated to lepton energy scale , trigger efficiencies , jet reconstruction and energy scale , missing transverse energy , parton distribution functions and background cross sections .",
+    "the observability and cross section measurements of the @xmath0 production are reviewed in the following subsections for different possible final states of the @xmath0 decay .",
+    "the semileptonic muon channel , the dilepton channel and the @xmath4 and @xmath5 channels are considered in sections 2.2 , 2.3 and 2.4 respectively .",
+    "more details are provided in  @xcite ,  @xcite ,  @xcite and  @xcite .",
+    "a simple and robust event selection was developed , requesting exactly one tightly isolated muon with @xmath6 gev and at least four jets with @xmath7 gev for the leading jet and @xmath8 gev for the other jets . for 10 @xmath1 of integrated luminosity ,",
+    "128 signal events are expected , corresponding to a selection efficiency of 10.3@xmath9 , together with 25 other @xmath0 final state events , as well as 45 ( 7 ) w+jets ( z+jets ) events .",
+    "the number of qcd background events is determined as 11 with a large uncertainty .",
+    "figure  [ semifig ] shows the jet multiplicity distribution for events passing the final selection except the requirement of @xmath10 and the invariant mass of the three jets with the highest vectorially summed @xmath11 for the final selection .          a clear signal stands out in the first 10 @xmath1 of cms data in events selected with two high momentum leptons , missing transverse energy , and at least two jets with expected signal - to - noise ratio of 7 to 1 in all events combined and 25 to 1 in electron - muon final state alone .",
+    "the most important background comes from z+jets events . for an integrated luminosity of 100 @xmath1 the detector",
+    "is assumed to be calibrated and aligned with an amount of data corresponding to 10 @xmath1 .",
+    "an additional cut on a robust b - jet identification discriminator based on a track counting algorithm leads to an almost background free event selection where about 160 signal events are expected . for this scenario",
+    "the cross - section can be extracted by means of a robust event counting method and the associated statistical uncertainty is found to be @xmath12 .",
+    "figure  [ dilfig ] shows the expected number of dilepton events in the first 10 @xmath1 passing the final selection except the requirement of @xmath13 and the missing transverse energy for the final selected events in @xmath14 channel for a total integrated luminosity of 100 @xmath1 .          for this study taus",
+    "are defined as tracks approximately collinear with a jet @xmath15 and isolated of other tracks in the cone @xmath16 . using an event selection strategy similar to the ones described in 2.2 or 2.3 , approximately 86 events are found in a simulated event sample corresponding to the first 100 @xmath1 of integrated luminosity .",
+    "a signal - to - background ratio @xmath17 is found for 1-prong tau decays , where the most important background comes from the w+jets events .",
+    "a least - square kinematic fit using lagrange multipliers can be applied to enforce the mass constraint in the reconstructed @xmath18 events .",
+    "both the w boson mass and the top quark mass in the hadronic top quark decay , @xmath19 , are constrained to agree with their measured values .",
+    "residual corrections are estimated on the energy scale of the jets arising from both the light quarks in the w boson decay and the heavier bottom quark in the top quark decay . utilizing the first integrated luminosity of 100 @xmath1 of cms data , an uncertainty smaller than 1@xmath9 can be obtained on the jet energy scale for both light and heavy jets .",
+    "more details can be found in  @xcite",
+    "observability of top quark signal for different final states of @xmath0 production has been presented .",
+    "it has been shown that the top quark signature can be established with the first 10 @xmath1 in both the semileptonic muon channel , where about 128 signal events are expected with a signal - to - noise ratio of about 1.5 , and in the dilepton channel , where about 80 signal events are expected in the 3 possible final states with a combined signal - to - noise ratio of 7 to 1 .",
+    "in addition the semileptonic muon channel final state can be used to obtain the jet energy scale corrections for both light and heavy jets with an uncertainty smaller than 1@xmath9 for an integrated luminosity of 100 @xmath1 ."
+  ],
+  "abstract_text": [
+    "<S> the top quark was discovered at the tevatron in 1995 . for the last decade </S>",
+    "<S> the study of its properties has been a major theme in the worldwide experimental high energy physics program . </S>",
+    "<S> the advent of the lhc opens up a new era in top quark physics ; because of the large @xmath0 cross - section and the high luminosity , the lhc can be thought of as a top factory . here </S>",
+    "<S> we present the prospects and plans for ttbar physics at cms at an early stage of the experiment , covering from the initial establishment of the top signal , to the first measurements that become possible for an integrated luminosity of 100 @xmath1 , considering a realistic detector performance . </S>"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "we investigate the evolution of barred galaxy solving the resistive set of mhd equations .",
+    "we apply an isothermal equation of state .",
+    "our galaxy is composed of four components : the large and massive halo , the central bulge , rotating disc of stars and finally the bar .",
+    "the rotation curve of the stellar disc we deriveded from the isochrone potential .",
+    "the bar component is described by the second order ferrers ellipsoid @xcite with semi - axes @xmath0  kpc , @xmath1  kpc , @xmath2  kpc .",
+    "it is initiated into the galaxy gradually in time until it reaches its final mass @xmath3 . in order to conserve the total mass of the galaxy we reduce the bulge mass , so we have @xmath4  const . during the calculations .",
+    "the bar angular velocity @xmath5 is set to be @xmath6  km  s@xmath7  kpc@xmath7 .",
+    "we assume that the initial magnetic field is azimuthal ( @xmath8 , @xmath9 , @xmath10 ) and its distribution strictly depends on the gas distribution via the following condition : @xmath11 the computational domain extends from @xmath12  kpc to @xmath13  kpc in the @xmath14  and @xmath15 direction , and from @xmath16  kpc to @xmath17  kpc in the @xmath18 direction . in all models we use the same value of the resistivity coefficient @xmath19  @xmath20s@xmath7 and the resolution @xmath21 , @xmath22 .",
+    "we perform simulations of magnetic field evolution with a constant isothermal sound of speed @xmath23  km / s and @xmath24 ( @xmath25 g ) .",
+    "below we discuss the time evolution of the distributions of polarization angle and polarized intensity superimposed onto the column density . in order to show the magnetic field behaviour in our model we present three crucial time steps ( fig .",
+    "[ fig : polar ] ) :    * at time @xmath26  gyr ( fig .  [ fig : polar ] , left ) , as a consequence of the non - axisymmetric gravitational potential of a bar , the gaseous and magnetic arms are formed . in the inner part of the disk , where the bar is presented , we obtain the highest density region and the strongest magnetic field .",
+    "moreover the magnetic field maxima are aligned along the gaseous ones .",
+    "* as the simulation proceed , magnetic arms start to detach from gaseous spirals into the interarm regions ( see @xmath27  gyr fig .  [",
+    "fig : polar ] , in the middle ) .",
+    "* at @xmath28  gyr ( fig .",
+    "[ fig : polar ] , right ) our magnetic arms are also visible in the interam region .",
+    "this is because the magnetic arms do not corotate with gaseous spirals but have a slightly lower angular velocity .",
+    "the process of drift of magnetic structures into the interarm area have also been obtained by @xcite .",
+    "cm at selected times steps superimposed onto gaseous map .",
+    "all maps have been smoothed to the resolution @xmath29,title=\"fig : \" ]  cm at selected times steps superimposed onto gaseous map .",
+    "all maps have been smoothed to the resolution @xmath29,title=\"fig : \" ]  cm at selected times steps superimposed onto gaseous map .",
+    "all maps have been smoothed to the resolution @xmath29,title=\"fig : \" ]    we started our simulations with mean magnetic field equal @xmath30  @xmath31 g . during the whole simulation time we observe the growth of the total magnetic energy",
+    "this amplification is caused by a local compression accompanied with leading sides of the bar and inner edges of spiral arms .",
+    "as we do not apply the dynamo effect the mean value of the @xmath32 flux in the galactic midplane drops .",
+    "* we obtained the magnetic field vectors distributed along the bar , spiral arms and also in the interarm region . *",
+    "magnetic arms are developing in the gaseous ones , but are detached from the density waves . in the consequence the magnetic arms are shifted to the interarm regions , what is in agreement with observations ( e.g. ngc 1356 @xcite ) * the magnetic field energy in barred galaxies can be amplified without any dynamo action but only due to non - axisymmetrical velocity ."
+  ],
+  "abstract_text": [
+    "<S> we present results of three - dimensional , fully nonlinear mhd simulations of a large - scale magnetic field evolution in a barred galaxy . </S>",
+    "<S> the model does not take into consideration the dynamo process . </S>",
+    "<S> we find that the obtained magnetic field configurations are highly similar to the observed maps of the polarized intensity of barred galaxies , because the modeled vectors form coherent structures along the bar and spiral arms . due to the dynamical influence of the bar the gas forms spiral waves which go radially outward . </S>",
+    "<S> each spiral arm forms the magnetic arm which stays much longer in the disk , than the gaseous spiral structure . </S>",
+    "<S> additionally the modeled total energy of magnetic field grows due to strong compression and shear of non - axisymmetrical bar flows and differential rotation , respectively . </S>"
+  ]
+}

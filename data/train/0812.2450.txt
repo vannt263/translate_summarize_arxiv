@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "polarization of the diffuse synchrotron emission from the galaxy provides a sensitive probe of the magnetic fields and warm and hot plasmas making up the galactic magneto - ionic medium ( mim ) .",
+    "polarization maps at decimetre wavelengths thus reveal intriguing rotation measure structures that are otherwise undetectable .",
+    "these structures contain information about the galactic magnetic field and the distribution of the ionized gas . in short , the physics of the mim",
+    "is imprinted on the diffuse polarized emission .",
+    "so far , single - frequency ( or narrow - band ) polarization surveys have only allowed rather qualitative studies due to ambiguities in the data .",
+    "wide - band polarization data , as they are now underway through various survey projects , can resolve these ambiguities and will allow quantitative analysis of the diffuse polarized emission of the galaxy .",
+    "figure 1 summarizes our current knowledge of the northern polarized sky at 408 mhz ( left ) and 1.4 ghz ( right ) .",
+    "the polarization vectors at 408 mhz were measured more than 30 years ago .",
+    "similar data at 1.4 ghz were only recently superseded by the new drao low - resolution polarization survey .",
+    "data with higher angular resolution have been observed by , for example , the emls @xcite and cgps ( landecker et al . , in prep . ) in the northern sky , as well as sgps @xcite and s - pass @xcite on the southern sky .",
+    "gmims aims at superseding and complementing these data through its frequency coverage ( or , more importantly for rotation measure studies , through its @xmath0-coverage ) .",
+    "the goal of gmims is to provide absolutely calibrated stokes i , u , and q data cubes of the entire sky . the intended frequency band",
+    "( 300 mhz to 1.8 ghz ) has been split into low- , mid- , and high - band .",
+    "gmims thus comprises six _ component surveys _ , three in the north and three in the south .",
+    "the first of these , the high - band north ( 1.3 - 1.8 ghz ) , uses the drao 26-m telescope and is now 25% complete .",
+    "its southern counterpart is the staps project ( pi m. haverkorn ) , currently being carried out with the parkes telescope .",
+    "a very successful pilot study for the low - band south ( 300 - 900 mh ) survey has recently been completed with the parkes telescope .",
+    "the other component surveys are in the planning stages .",
+    "gmims is made possible by new developments and technologies in radio astronomy : new wide - band feeds , wide - band digital polarimeters , and rotation measure synthesis ( rms ) ; all of which only recently became available to polarization science .",
+    "the design of wide - band antennas benefits from modern em - simulation software and is motivated by the ska ; field programmable gate arrays ( fpga ) are now powerful enough to provide the basis for digital wide - band polarimeters ; and demonstrated the potential of rms in analyzing wide - band polarization data .    brentjens , m.  a. , & de bruyn , a.  g.  2005 , aap , 441 , 1217 brouw , w.  n. , & spoelstra , t.  a.  t.  1976 , aaps , 26 , 129 carretti , e. , haverkorn , m. , mcconnell , d. , bernardi , g. , cortiglioni , s. , mcclure - griffiths , n.  m. , & poppi , s.  2008 , arxiv:0806.0572 haverkorn , m. , gaensler , b.  m. , mcclure - griffiths , n.  m. , dickey , j.  m. , & green , a.  j.  2006 , apjs , 167 , 230 reich , p. , reich , w. , & testori , j.c . 2004 in b. uyanker , w. reich & r. wielebinski ( eds . ) , the magnetized interstellar medium , ( katlenburg - lindau : copernicus gmbh ) , p. 63 wolleben , m. , landecker , t.  l. , reich , w. , & wielebinski , r.  2006 , aap , 448 , 411"
+  ],
+  "abstract_text": [
+    "<S> the global magneto - ionic medium survey ( gmims ) is a project to map the diffuse polarized emission over the entire sky , northern and southern hemispheres , from 300 mhz to 1.8 ghz . with an angular resolution of 30 - 60 arcmin and a frequency resolution of 1 mhz or better </S>",
+    "<S> , gmims will provide the first spectro - polarimetric data set of the large - scale polarized emission over the entire sky , observed with single - dish telescopes . </S>",
+    "<S> gmims will provide an invaluable resource for studies of the magneto - ionic medium of the galaxy in the local disk , halo , and its transition . </S>"
+  ]
+}

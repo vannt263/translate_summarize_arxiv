@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the growing interest in hypernuclear physics is motivated by an increasing awareness of the importance to study hyperon - nucleon ( yn ) interactions and hyperon - hyperon ( yy ) interactions in order to fully understand baryon - baryon interactions under flavored su(3)@xmath6 .",
+    "the difficulty to study the yn and yy interactions by scattering experiments arises from the fact that it is impractical to achieve hyperon beams with proper energies and that no hyperon targets are available so far due to the short lifetime of hyperons ( @xmath7  s ) .",
+    "however , it has been demonstrated that , under certain conditions , hyperons can be bound into a nuclear system to form a hypernucleus which then can be used as a micro - laboratory to study yn and yy interactions .      until recently",
+    ", hypernuclei have mainly been produced and studied by meson or electron induced reactions with thick stable nuclear targets . in these experiments , a nucleon in the target nucleus is converted to a hyperon , thus the isospin of the produced hypernuclei is close to the one of the target nuclei .",
+    "moreover , due to the small momentum tranfert of the reaction , hypernuclear moments can not be accessed .",
+    "+ in order to overcome these difficulties , the hyphi collaboration proposes to produce exotic hypernuclei by heavy ion collisions with stable heavy ion beams and rare isotope beams ( ri - beams ) . during the reaction , for a beam energy above the hyperon production threshold ( 1.6  @xmath2  gev )",
+    ", an hyperon can be produced in the hot participant region and , due to the overlapping in the phase space of the hyperon and projectile spectator fragments , the hyperon may coalesce into the spectator fragment to form a hypernucleus .",
+    "having the same velocity of the one of the projectile , the produced hypernuclei have a longer effective life time due to the lorentz boost .",
+    "therefore , their decay takes place a few tens of centimeters behind the target . in this method",
+    ", hypernuclei can be studied in flight .",
+    "the phase 0 experiment , planned for mid-2009 at gsi , is devoted to demonstrate the feasibility of a precise hypernuclear spectroscopy using heavy ion collisions . for this purpose",
+    ", we will concentrate on studying light hypernuclei such as @xmath3h , @xmath4h and @xmath5he produced by collisions of a @xmath0li and a @xmath1c beam at 2  @xmath2  gev with an intensity of @xmath8 particles per second on a thick carbon target ( 8  g/@xmath9 ) .",
+    "these light hypernuclei will mainly be studied by looking into their respective mesonic weak decay ( mwd ) channels : @xmath3h  @xmath10he , @xmath4h  @xmath11he and @xmath5he  @xmath11he+p respectively .",
+    "+ the proposed setup for phase 0 experiment shown in fig .",
+    "[ fig : setup ] consists of the large acceptance dipole magnet aladin used to analyze the momenta of the different charged particles produced by the decay of hypernuclei , a time - of - flight ( tof ) start detector in front of the target , three arrays of scintillating fiber tracking detectors ( tr0 , tr1 and tr2 ) , the existing aladin tof - wall for detecting @xmath12 particles and the currently under construction tof+ wall used to detect the positively charged particles . in addition , two drift chambers will be placed before and after the magnet in order to increase the tracking efficiency and an other tof - wall , along with the large area neutron detector ( land ) , will be used respectively for the detection of @xmath13 and to investigate non - mesonic weak decay ( nmwd ) channels .    due to the high beam intensity ( @xmath8 particles per second ) ,",
+    "the trigger system for the data acquisition as well as the background reduction represent a major technical challenge in the success of the phase 0 experiment .",
+    "the phase 0 trigger decision system will be divided in three combined levels requiring three different conditions .",
+    "the first trigger level will be made from signals coming from the scintillating fiber tracking detectors .",
+    "after signal processing in discriminator modules , lvds logic signals are fed to new logic modules ( vuprom2 ) with fpga and dsp chips , which are developed at gsi .",
+    "these modules will then reject event by event the tracks corresponding to a primary vertex coming from reactions inside the target from those corresponding to a secondary vertex outside the target caused by hypernuclear decays .",
+    "monte carlo simulations@xcite in the case of @xmath4h reveal that the efficiency of this trigger is about @xmath14 with a background reduction to @xmath15 .",
+    "another trigger requires the detection of a @xmath12 in the aladin tof - wall whereas the third trigger requires a hit in the tof+ wall corresponding to @xmath16 particles which are the decay products of @xmath3h , @xmath4h and @xmath5he .",
+    "the calculated efficiencies for these two triggers in the case of @xmath4h decay are found to be @xmath17 for the second trigger and @xmath18 for the third one with reduction of the background down to @xmath19 and @xmath14 respectively . by combining these three different conditions , the efficiency for the the full trigger system for phase 0 experiment",
+    "is expected to be of the order of @xmath20 with a background reduction to @xmath21 .",
+    "+    [ tab : trigger ]    the invariant mass distribution obtained by monte carlo simulations for @xmath4h is shown in fig .  2 .",
+    "a mass resolution of @xmath22  mev/@xmath23 is expected for an estimated rate of reconstructed hypernuclei events of 2.6  x  @xmath24 events per week assuming a 0.1  @xmath25 cross section ( tab .  1 ) .",
+    "in order to achieve comprehensive understanding of the baryon - baryon interaction , the study of hypernuclei is essential . the hyphi project at gsi and fair aims to perform a precise hypernuclear spectroscopy with heavy ion beams in order to study hypernuclei at extreme isospin and to measure hypernuclear magnetic moments for the first time .",
+    "a pilot experiment , phase 0 , scheduled for mid-2009 is devoted to demonstrate the feasibility of such a spectroscopy by looking into the mesonic weak decay ( mwd ) channels of light hypernuclei such as @xmath3h , @xmath4h and @xmath5he .",
+    "+ after the success of this pilot experiment , we would like to extend our investigations to heavier hypernuclei especially towards the hypernuclear proton drip - line by using rare isotope beams delivered by the fragment separator frs at gsi . furthermore , with the future facility at gsi ( fair )",
+    ", we will be able to perform experiments on neutron rich hypernuclei using neutron rich ri - beams delivered by the super - frs .",
+    "finally , with beam energies of the order of 20  @xmath2  gev available at fair facility , one of the final goal of the hyphi project , namely measurements of hypernuclear moments , will be reached . for this purpose ,",
+    "we want to develop a hypernuclear separator made of superconducting bending magnets to be able to separate the produced hypernuclei according to their respective magnetic rigidity .",
+    "i would like to thank the organizers of the franco - japanese symposium 2008 for giving me the opportunity to present our work in such a pleasant atmosphere .",
+    "+ _ the hyphi project is supported by the helmholtz association as helmholtz - university young investigators group vh - ng-239 and by the german research foundation ( dfg ) with a contract number sa 1696/1 - 1 . _"
+  ],
+  "abstract_text": [
+    "<S> the hyphi collaboration aims to perform a precise hypernuclear spectroscopy with stable heavy ion beams and rare isotope beams at gsi and fair in order to study hypernuclei at extreme isospin , especially neutron rich hypernuclei to look insight hyperon - nucleon interactions in the neutron rich medium , and hypernuclear magnetic moments to investigate baryon properties in the nuclei@xcite . </S>",
+    "<S> we are currently preparing for the first experiment with @xmath0li and @xmath1c beams at 2  @xmath2  gev to demonstrate the feasibility of a precise hypernuclear spectroscopy by identifying @xmath3h , @xmath4h and @xmath5he@xcite . the first physics experiment on these hypernuclei </S>",
+    "<S> is planned for 2009 . in the present document , an overview of the hyphi project and the details of this first experiment will be discussed . </S>"
+  ]
+}

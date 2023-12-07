@@ -1,0 +1,15 @@
+{
+  "article_text": [
+    "controlled experiments are performed in a wind tunnel with cross - sectional area of @xmath0 that we operate at wind speeds in the range @xmath1 .",
+    "the stack consists of 200 pages of paper sheets ( thickness @xmath2 , density @xmath3 , bending stiffness @xmath4 ) with dimensions @xmath5 . in this regime ,",
+    "extremely regular oscillations are attained with frequencies in the range of @xmath6 .",
+    "the videos associated with this submission for the 26th annual gallery of fluid motion can be found in http://ecommons.library.cornell.edu/bitstream/1813/11473/2/gfm_clapping_reis_mpeg1.mpg [ low ( mpeg-1 ) ] and http://ecommons.library.cornell.edu/bitstream/1813/11473/3/gfm_clapping_reis_mpeg2.mpg [ high ( mpeg-2 ) ] resolution ."
+  ],
+  "abstract_text": [
+    "<S> a steady horizontal air stream flows across a book @xcite clamped at its downstream end . </S>",
+    "<S> pages lift off to form a growing bent stack whose shape is determined by the torques associated with aerodynamic forces , weight and elastic resistance to bending . as more pages </S>",
+    "<S> lift off to join the bent stack , the increasing importance of bending rigidity to dynamic pressure eventually causes the book to clap shut . </S>",
+    "<S> the process restarts , and self - sustained oscillations emerge . </S>",
+    "<S> [ fluid dynamics video ] </S>"
+  ]
+}

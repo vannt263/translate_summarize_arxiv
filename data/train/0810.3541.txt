@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the @xmath8 is the lowest mass charmonium resonance above the open charm pair @xmath4 production threshold .",
+    "traditional theories expect that it decays almost entirely into pure @xmath4 pairs .",
+    "however , before the measurements from bes and cleo collaborations , there is a long standing puzzle that the observed cross section @xmath11 for @xmath8 production is not saturated by the observed cross section @xmath12 for @xmath4 production at the @xmath8 peak @xcite .",
+    "recently , cleo collaboration measured the @xmath13 non-@xmath4 cross section to be @xmath14 nb @xcite .",
+    "but , bes measured the branching fraction for @xmath3 non-@xmath4 by analyzing several different data samples and different methods to be @xmath15 @xcite with assumption that there is only one simple @xmath8 in the energy region between 3.700 and 3.872 gev . while , up to now , the sum of the measured branching fractions for @xmath3 exclusive non-@xmath4 decays is not more than 2% @xcite .",
+    "to better understand this situation , we examine the line shape of the cross section for @xmath5 hadrons in the energy region from 3.650 to 3.872 gev , measure the line shapes of the @xmath6 , @xmath7 and @xmath4 production and the ratios of the production rates of @xmath6 and @xmath16 in @xmath1 annihilation at @xmath8 resonance , and search for @xmath3 exclusive light hadron final states .",
+    "these measurements are made by analyzing about 33 , 6.5 and 1.0 pb@xmath0 of @xmath1 annihilation data sets taken around the center - of - mass energies of @xmath2 3.773 gev , at @xmath2 3.650 gev and at @xmath2 3.6648 gev with the bes - ii detector at the bepc collider .",
+    "the data sets taken around @xmath2 3.773 gev include the data sets of 17.3 pb@xmath0 taken at @xmath2 3.773 gev , the precision cross section scan data sets taken in march 2001 , during march to april 2003 and during december 2003 to january 2004 .",
+    "we measure the branching fraction for @xmath3 non-@xmath4 decays by analyzing several different data samples and different methods with assumption that there is only one simple @xmath8 in the energy region between 3.700 and 3.872 gev .",
+    "the measured branching fractions for @xmath17 , @xmath6 , @xmath4 and non-@xmath4 decays are compared in tab . [",
+    "tab : brdd ] . after the @xmath8 resonance was discovered for more than thirty years",
+    ", particle data group 2008 @xcite gives the branching fractions for @xmath18 , @xmath6 and @xmath4 decays for the first time .",
+    "they are @xmath19=(48.7\\pm3.2)\\%$ ] , @xmath20=(36.1\\pm2.8)\\%$ ] and @xmath21=(85.3\\pm3.2)\\%$ ] , this indicates that the branching fraction for @xmath3 non-@xmath4 decays is @xmath15 .",
+    "these measurements imply that @xmath8 could substantially decay into non-@xmath4 final states , which might greatly challenge the traditional theories .",
+    "otherwise , there may exist some other effects in the energy region around @xmath8 resonance which are responsible for the large branching fraction for @xmath3 non-@xmath4 decays . on the other hand",
+    ", we also need to try to search for more charmless decays of @xmath8 @xcite .    [",
+    "cols=\"^,^,^,^,^\",options=\"header \" , ]",
+    "using the @xmath1 data sets of about 33 , 6.5 and 1.0 pb@xmath0 , respectively , taken around the center - of - mass energies of @xmath2 3.773 gev , at @xmath2 3.650 gev and at @xmath2 3.6648 gev with the bes - ii detector at the bepc collider , bes collaboration measure the branching fraction for @xmath3 non-@xmath4 decays by analyzing several different data samples and different methods with assumption that there is only one simple @xmath8 in the energy region between 3.700 and 3.872 gev .",
+    "we observe an anomalous line shape of the cross section for @xmath5 hadrons in the energy region from 3.650 to 3.872 gev .",
+    "we measure the line shapes of the @xmath6 , @xmath7 and @xmath4 production and the ratio of the production rates of @xmath6 and @xmath7 in @xmath1 annihilation at @xmath8 resonance .",
+    "these indicate that there may exist a new structure in addition to one simple @xmath8 resonance in the energy region between 3.700 and 3.872 gev or there are some unknown dynamics effects distorting the line shape of the cross sections for @xmath5 hadrons and @xmath4 .",
+    "we also search for @xmath8 decay into exclusive light hadron processes containing @xmath9 or @xmath10 mesons in the final states .",
+    "the bes collaboration thanks the staff of bepc for their hard efforts .",
+    "this work is supported in part by the national natural science foundation of china under contracts nos .",
+    "10491300 , 10225524 , 10225525 , 10425523 , the chinese academy of sciences under contract no .",
+    "kj 95t-03 , the 100 talents program of cas under contract nos .",
+    "u-11 , u-24 , u-25 , the knowledge innovation project of cas under contract nos .",
+    "u-602 , u-34 ( ihep ) , the national natural science foundation of china under contract no .",
+    "10225522 ( tsinghua university ) ."
+  ],
+  "abstract_text": [
+    "<S> about 33 , 6.5 and 1.0 pb@xmath0 of @xmath1 annihilation data were , respectively , taken around the center - of - mass energies of @xmath2 3.773 gev , at @xmath2 3.650 gev and at @xmath2 3.6648 gev with the bes - ii detector at the bepc collider . by analyzing these data sets </S>",
+    "<S> , we measure the branching fraction for @xmath3 non-@xmath4 ; observe an anomalous line shape of the cross section for @xmath5 hadrons in the energy region from 3.650 to 3.872 gev ; and measure the line shapes of the @xmath6 , @xmath7 and @xmath4 production and the ratios of the production rates of @xmath6 and @xmath7 in @xmath1 annihilation at @xmath8 resonance . </S>",
+    "<S> we also search for @xmath8 decay into exclusive light hadron processes containing @xmath9 or @xmath10 mesons in the final states . </S>"
+  ]
+}

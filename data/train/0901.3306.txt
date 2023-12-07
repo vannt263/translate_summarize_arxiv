@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "the possibility of having deeply bound @xmath2 states in nuclei is receiving much attention both theoretically ( see for example ref .",
+    "@xcite for an overview ) and experimentally . here",
+    "we discuss recent finuda data that have been sometimes used to imply the existence of deeply bound @xmath2 states .",
+    "distribution for @xmath2 absorption in light nuclei in the following proportion @xcite : 51% @xmath3c , 35% @xmath4li and 14% @xmath5li , including kaon boost machine corrections @xcite . stars and histogram",
+    "show result of our calculations @xcite , experimental points and error bars are taken from @xcite.,scaledwidth=75.0% ]    a peak observed by the finuda collaboration @xcite in the invariant mass distribution of @xmath0 , following @xmath2 absorption in a mixture of light nuclei , was interpreted as evidence for a @xmath6 bound state , with 115 mev binding and 67 mev width . however , it was soon shown in @xcite that the peak seen is naturally explained in terms of @xmath2 absorption on a pair of nucleons leading to a @xmath0 pair , followed by final state interactions ( fsi ) , i.e. by the rescattering of @xmath7 or @xmath8 on the remnant nucleus , and that the back - to - back correlation of the @xmath0 pairs is preserved to large extent . fig .  [ fig1 ]",
+    "shows the @xmath0 invariant mass distribution for @xmath2 absorption in a mixture of light nuclei following the proportion @xcite : 51% @xmath3c , 35% @xmath4li and 14% @xmath5li , including kaon boost machine corrections @xcite .",
+    "however , we stress that in this mixture the contribution of reactions with @xmath3c is absolutely dominant , about 99% .",
+    "this is mostly due to the two orders of magnitude higher overlap of the nuclear density with the corresponding @xmath2 wavefunction @xmath9 in @xmath3c than in li .",
+    "nevertheless , in order to verify in detail our model of @xmath2 two nucleon absorption dynamics , our choice of @xmath10 , and our simulation of fsi , experimental spectra for separate nuclei are necessary , while at the moment the ( @xmath0 ) invariant mass distribution is only available for the mixture of the three lightest targets @xcite .",
+    "more recently , a new experiment of the finuda collaboration @xcite found a peak on the invariant mass of @xmath1 following the absorption of a @xmath2 on @xmath11li , which was interpreted as a signature for a bound @xmath12 state with 58 mev binding and 37 mev width .",
+    "note that this result is in disagreement with the previous finuda statement @xcite , since the bound state of the @xmath2 with three nucleons should have a larger binding energy than with two nucleons .",
+    "a similar experiment was performed at kek @xcite on @xmath13he target , looking at the @xmath14 invariant mass following @xmath15 absorption .",
+    "it is claimed , however , that the observed peak could be a signature of three body absorption .         in ref .",
+    "@xcite we performed detailed calculations of @xmath2 absorption by three nucleons in @xmath11li and showed that all features observed in @xcite could be well interpreted in the picture of three body kaon absorption , as suggested in @xcite , with the rest of the nucleons acting as spectators - see fig .",
+    "it is also important to note that @xmath16c was also used as a target in the same finuda experiment , and the corresponding @xmath1 invariant mass spectrum does not show a clear peak @xcite .",
+    "this was attributed in @xcite to fsi of the particles produced in the primary absorption process with the residual nucleus , in complete agreement with the mechanisms discussed in ref .",
+    "we have shown that the peaks observed by finuda in the ( @xmath0 ) @xcite and ( @xmath1 ) @xcite invariant mass distributions , following the absorption of stopped @xmath2 in different nuclei , are naturally explained in terms of : + - @xmath2 absorption by two @xcite or three @xcite nucleons correspondingly , leaving the rest of the target nucleus as spectator ; + - for the reactions on heavy nuclei , the subsequent interactions of the particles produced in the primary absorption process ( @xmath8 , @xmath7 , @xmath17 , etc . ) with the residual nucleus have to be taken into account .",
+    "+ thus , at present , there is no experimental evidence of deeply bound @xmath2 states in nuclei .",
+    "the authors thank h. toki for fruitful and enlightening discussions . this work is partly supported by contracts fis2006 - 03438 and fis2005 - 03142 from mec ( spain ) and feder , the generalitat de catalunya contract 2005sgr-00343 and by the generalitat valenciana .",
+    "we also acknowledge the support of the european community - research infrastructure integrating activity `` study of strongly interacting matter '' ( hadronphysics2 , grant agreement n. 227431 ) under the eu 7th framework programme ."
+  ],
+  "abstract_text": [
+    "<S> we analyze the peaks in the ( @xmath0 ) and ( @xmath1 ) invariant mass distributions , observed in recent finuda experiments and claimed to be signals of deeply bound kaonic states , and find them to be naturally explained in terms of @xmath2 absorption by two or three nucleons leaving the rest of the target nucleus as a spectator . for reactions on heavy nuclei , the subsequent interactions of the particles produced in the primary absorption process with the residual nucleus play an important role . </S>",
+    "<S> thus at present there is no experimental evidence of deeply bound @xmath2 states in nuclei .    ,    ,    @xmath2 absorption in nuclei , many body absorption , final state interaction 13.75.-n , 13.75.jz , 21.65.+f , 25.80.nv </S>"
+  ]
+}

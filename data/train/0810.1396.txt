@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "precise cross - sections of secondary hadron production from the interactions of protons and pions with nuclei are , _ inter alia _ , of importance for the improvement and physics validation of hadron generation models in monte carlo simulation tool kits such as geant4  @xcite .",
+    "the harp detector at the cern ps took data in 2001 and 2002 with proton and pion beams with momentum from 1.5 to 15  gev/_c _ , with a set of stationary targets ranging from hydrogen to lead , including beryllium .",
+    "the detector combined a forward spectrometer with a large - angle spectrometer .",
+    "the latter comprised a cylindrical time projection chamber ( tpc ) around the target and an array of resistive plate chambers ( rpcs ) that surrounded the tpc .",
+    "the purpose of the tpc was track reconstruction and particle identification by .",
+    "the purpose of the rpcs was to complement the particle identification by time of flight .",
+    "this paper reports comparisons of geant4 predictions with data from the interactions with a 5% @xmath2 beryllium target of @xmath0  gev/_c _ protons and @xmath3 s , and of @xmath1  gev/_c _",
+    "@xmath4 s .",
+    "more details can be found in ref .",
+    "for the work reported here , only the harp large - angle spectrometer was used  @xcite .",
+    "its salient technical characteristics are stated in table  [ lacharacteristics ] .",
+    "the good particle identification capability stemming from  in the tpc and from time of flight in the rpc s is demonstrated in fig .",
+    "[ dedxandbeta ] ."
+  ],
+  "abstract_text": [
+    "<S> hadron generation models are indispensable for the simulation and calibration of particle physics detectors . </S>",
+    "<S> the models used by the geant4 simulation tool kit are compared with inclusive spectra of secondary protons and pions from the interactions with beryllium nuclei of @xmath0  gev/_c _ protons and pions , and of @xmath1  gev/_c _ pions . </S>",
+    "<S> we report on significant disagreements between data and model predictions especially in the polar - angle distributions of secondary protons and pions . </S>"
+  ]
+}

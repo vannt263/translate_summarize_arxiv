@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "late b - type stars with hgmn peculiarity are characterized by low rotational velocities and weak or non - detectable magnetic fields .",
+    "the most distinctive features of their atmospheres are the extreme overabundance of hg and mn .",
+    "more than 2/3 of hgmn stars belong to spectroscopic binaries .",
+    "the presence of an inhomogeneous distribution of some elements over the surface of hgmn stars was discussed for the first time by @xcite .",
+    "the first definitively identified spectrum variability has been reported for the binary star @xmath0 and by @xcite and @xcite .",
+    "we present the first results of our preliminary doppler imaging ( di ) modeling of abundance distributions for four elements on the surface of the hgmn star ar  aur ( see fig .  1 ) .",
+    "the analysis of the spectra is made with the di inversion code iabu , which reconstructs the stellar surface abundance inhomogeneities from the series of spectral line profiles using the tikhonov regularization algorithm .",
+    "previously @xcite concluded that the employment of a partially fractured equatorial ring presents a realistic distribution of y on the stellar surface .",
+    "our new map based on the inversion of the y  ii @xmath14900 line is in good agreement with this conclusion .",
+    "the y is overabundant and strongly concentrated in the equatorial ring , where the average y abundance reaches log@xmath2(y ) = 6.0 ( in the scale log@xmath2(h ) = 12.0 ) .",
+    "one large fraction of the ring is missing exactly on the surface area which is permanently facing the secondary . an additional polar detail can be seen at longitudes 180@xmath3270@xmath3 .",
+    "the surface distribution of strontium was studied with the ion line sr  ii @xmath14215 .",
+    "the sr surface distribution in ar  aur is not completely similar to the map reconstructed for y  ii , although it also presents significant equatorial details of sr overabundance in the range of longitudes from 70@xmath3 to 250@xmath3 .    in the case of the hg  ii @xmath13984 line we normalized our spectra",
+    "relative to the pseudo - continuum of the h@xmath2 wing , but accounted for blending by the hydrogen line in the calculations of the synthetic spectra by adding corresponding opacity sources .",
+    "the line list used for the di consists of isotopic and hyperfine structure components of the hg  ii @xmath13984 line and a y  ii @xmath13982.59 blending line .",
+    "we parameterized the mercury isotope composition using the isotopic - fractionation model of @xcite .",
+    "our observational data are insufficient for a simultaneous determination of both the hg abundance and the surface distribution of the q - parameter , hence we accept q=0 for the terrestrial mixture .",
+    "the mercury overabundance is strongly concentrated in several equatorial details on the surface of the star .",
+    "further we find polar appendages at longitudes 0@xmath390@xmath3    for the first time we reconstructed in a hgmn star the manganese distribution on the stellar surface .",
+    "the mn ion map is based on modeling of the mn  ii @xmath14292 line .",
+    "this map is not presented in fig .  1 due to lack of space .",
+    "we demonstrated that the mn surface distribution shows similarities with those of y and sr , namely both equatorial and polar features .",
+    "what is the explanation for the discovered inhomogeneities ? taking into account",
+    "that more than 2/3 of the hgmn stars are known to belong to spectroscopic binaries , a scenario how a magnetic field can be built up in binary systems has been presented some time ago by @xcite who suggested that a tidal torque varying with depth and latitude in a star induces differential rotation .",
+    "differential rotation in a radiative star can , however , be prone to the magneto - rotational instability ( e.g. , @xcite ) .",
+    "magnetohydrodynamical simulations revealed a distinct structure for the magnetic field topology similar to the latitudinal fractured rings observed on the surface of @xmath0  and and ar  aur ."
+  ],
+  "abstract_text": [
+    "<S> we present the results of mapping the hgmn star ar aur using the doppler imaging technique for several elements and discuss the obtained distributions in the framework of a magnetic field topology . </S>"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "the atlas trigger system is divided into two main parts : the level 1 ( lvl1 )  @xcite , hardware - based trigger , and the high level trigger ( hlt )  @xcite , using software selection algorithms .",
+    "the hardware implementation of the lvl1 trigger is determined by very strong constraints in the processing time due to the high bunch - crossing rate of 40 mhz .",
+    "only a few @xmath1 are available for the decision making at this level . due to the rate reduction achieved at lvl1 more decision time",
+    "is allowed in the two stages of selection at the hlt : a few tens of milliseconds at the level 2 trigger ( lvl2 ) , and a few seconds at the event filter ( ef ) . in this section a brief description of the tau trigger will be presented .",
+    "the lvl1 trigger  @xcite uses trigger towers @xmath2=0.1@xmath30.1 within the electromagnetic and hadronic calorimeter to identify regions of interest ( roi ) to be investigated further in the hlt .",
+    "the following quantities are used to select lvl1 features giving rise to a roi , see fig .",
+    "[ l1scheme ] : a ) energy in 2@xmath31 pairs of em towers within a 2@xmath32 core region ; b ) energy in a 2@xmath32 group of hadronic towers behind the em core ; c ) energy in a 12 tower em isolation ring surrounding the central 2@xmath32 core ; d ) energy in a similar ring in the hadronic calorimeter .",
+    "relatively low thresholds are applied at lvl1 and are subsequently refined at the hlt .",
+    "triggers can be defined with and without an isolation requirement .",
+    "due to the greater time available for decisions at the hlt , the cluster information can be refined using the full granularity of the calorimeter in conjunction with a cell energy calibration and tracking information from the inner detector can be included  @xcite .",
+    "the characteristics used to distinguish tau decays from particle jets are :    [ cols=\"^,^,^ \" , ]     figure  [ effest ] ( left ) shows the tau20i lvl1 trigger signature efficiency with respect to the offline selection for the qcd jets selected by a minimum bias trigger and passing the tau offline selection . a comparison with the lvl1 trigger efficiency for @xmath4 is also shown .",
+    "figure  [ effest ] ( right ) shows the full trigger efficiency using a tag & probe method .",
+    "the z sample is selected via single electron or muon triggers .",
+    "after offline selection , the trigger lepton is used as a tag and the other side of the event is probed for a tau trigger candidate , and the efficiency of the tau trigger relative to offline reconstruction is measured .",
+    "both methods reproduce the shape and threshold of the trigger turn - on curves , but further work is needed to improve the background estimation and to gain a better understanding of the bias introduced by the event selection .",
+    "many of the sm processes being investigated at atlas , as well as numerous bsm searches , contain tau leptons in their final states .",
+    "being able to trigger effectively on the tau leptons in these events will contribute to the success of the atlas experiment .",
+    "the tau trigger algorithms and monitoring infrastructure are ready for the first data , and are being tested with the data collected with cosmic muons .",
+    "the development of efficiency measurements methods using qcd and @xmath5 events is well advanced ."
+  ],
+  "abstract_text": [
+    "<S> many theoretical models , like the standard model or susy at large tan(@xmath0 ) , predict higgs bosons or new particles which decay more abundantly to final states including tau leptons than to other leptons . at the energy scale of the lhc </S>",
+    "<S> , the identification of tau leptons , in particular in the hadronic decay mode , will be a challenging task due to an overwhelming qcd background which gives rise to jets of particles that can be hard to distinguish from hadronic tau decays . </S>",
+    "<S> equipped with excellent tracking and calorimetry , the atlas experiment has developed tau identification tools capable of working at the trigger level . </S>",
+    "<S> this contribution presents tau trigger algorithms which exploit the main features of hadronic tau decays and describes the current tau trigger commissioning activities . </S>"
+  ]
+}

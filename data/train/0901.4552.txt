@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "many studies focus on the cost of astronomical facilities while very little work is done trying to evaluate the returns of telescopes and satellites used in astronomy ( saleh et al .",
+    "we analyze the most cited papers published in 2006 and cited during the last two years to derive a ranking of the telescopes with the highest impact in astronomy during that year .",
+    "objective measurements of productivity and impact are necessary in order to take informed decisions about science policies , scientific directions , funding and lifetime extension of a given telescope .",
+    "this particular ranking has been widely used in the past to support the work of various committees and these results were incorporated in their reports , a fresh study on a newer dataset of high - impact papers is due .",
+    "we draw the ranking of the most influencial astronomical facilities based on their contribution of data to the most cited papers on a given year .",
+    "the technique described below was implemented during the development of a series of tools to estimate the overall impact of the hubble space telescope in astronomy ( meylan et al .",
+    "this particular technique of telescope evaluation was created based on the method set forth by benn & sanchez ( 2001 ) .    a detailed account of the method used to derive the ranking of the observatories with the highest impact , and results of this exercise in previous years ,",
+    "was given in madrid & macchetto ( 2006 ) .",
+    "in the following paragraphs we will give a brief summary of the approach that we use to generate the aforementionned ranking .",
+    "the 200 most cited papers published in a given year constitute a sample large enough to provide a snapshot of the most influencial papers published in astronomy for that particular year .",
+    "in fact the 200 most cited papers in 2006 constitute only 0.2% of all the references indexed by the ads but they account for 9.5% of the citations .",
+    "moreover , as shown in madrid & macchetto ( 2006 ) , the 200 most cited papers stand out from the rest of publications in the distribution of citations per paper on a given year .",
+    "we obtained the 200 most cited papers published in 2006 through the sao / nasa astrophysics data system ( ads ) .",
+    "the ads is the most widely used bibliographic database in astronomy .",
+    "we went through the onerous process of downloading each of these 200 most cited papers .",
+    "each paper was then analyzed and we determine whether the paper was observational or theoretical .",
+    "theoretical papers usually present models and do not contain any data taken with a telescope . on the other hand ,",
+    "an observational paper is a paper that presents data obtained with a telescope or several telescopes . for those observational papers we determine which facility , or more often , which facilities the authors used to gather their data .",
+    "the number of citations of each paper is credited to the telescope used to take the data .",
+    "the telescope that accumulates the largest number of citations will thus end up on the top of our ranking .",
+    "when several telescopes provide data for a publication a percentage of participation , or weight , is established and a fractional number of citations is credited to each contributing facility proportional to their participation .",
+    "examples of these basic arithmetics are given in madrid & macchetto ( 2006 ) .",
+    "llcc +   +   +    * rank * & * facility * & * citations * & * participation * +    1 & sdss & 1892 & 14.3% + 2 & swift & 1523 & 11.5% + 3 & hst & 1078 & 8.2% + 4 & eso & 813 & 6.1% + 5 & keck & 572 & 4.3% + 6 & cfht & 521 & 3.9% + 7 & spitzer & 469 & 3.5% + 8 & chandra & 381 & 2.9% + 9 & boomerang & 376 & 2.8% + 10 & hess & 297 & 2.2% +",
+    "the results of this study are summarized in table 1 which presents the top - ten high impact astronomical observatories .",
+    "the sloan digital sky survey is once again the telescope with the highest impact in astronomy , see madrid & macchetto ( 2006 , and references therein ) for previous rankings .",
+    "the sdss published its fourth data released in 2006 .",
+    "swift , a telescope dedicated to the science of grb , ranks second , the findings made by this telescope has clearly transcended the field of grbs and has had a broad impact in astronomy .",
+    "the hubble space telescope ranks third .",
+    "several papers from the advanced camera for surveys virgo cluster survey , as well as the publication in 2006 of the hubble ultra deep field , contributed to rank hst as the third telescope with the highest impact .",
+    "the high energy stereoscopic system ( hess ) ranks 10th .",
+    "this system of imaging atmospheric cerenkov telescopes is located in namibia and aims to image very high energy phenomena .",
+    "the facilities that rank 11th to 15th and thus do not appear on table1 are wmap , 2mass , gemini , subaru , and noao ( ctio+kpno ) ."
+  ],
+  "abstract_text": [
+    "<S> we derive the ranking of the astronomical observatories with the highest impact in astronomy based on the citation analysis of papers published in 2006 . </S>",
+    "<S> we also present a description of the methodology we use to derive this ranking . </S>",
+    "<S> the current ranking is lead by the sloan digital sky survey , followed by swift and the hubble space telescope . </S>"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "within days of the latest outburst of rs ophiuchi on february 12.83 2006 ( * ? ? ?",
+    "* taken as t=0 ) , a large number of instruments began observing the nova .",
+    "these observations primarily focused on the radio ( e.g. obrien et al .",
+    "2006 ) , infrared ( e.g. evans et al .",
+    "2007a , b ) and x - ray ( e.g. * ? ? ?",
+    "whilst rs oph was observed optically by a large number of amateur instruments ( see aavso light curve , reproduced by starrfield in these proceedings ) , few large professional telescopes were employed in the optical . of the optical data available",
+    "many cover only a short time period and are concerned mainly with rapid , short period variation ( see e.g. * ? ? ?",
+    "* ; * ? ? ?",
+    "* ) or only cover single epochs ( e.g. * ? ? ?",
+    "rs oph represents an ideal target for the fully robotic 2 m liverpool telescope ( lt ; * ? ? ?",
+    "* ) situated on la palma , canary islands .",
+    "in addition to its rapid response capability , the lt s robotic nature is perfectly suited to monitor objects over extended periods of time . in this paper",
+    "we present the lt broadband optical photometry of the 2006 outburst of rs oph .",
+    "lt broadband optical observations of rs oph first became feasible on march 11@xmath0 2006 ( t=27.41 days ) , once its flux had declined to @xmath1 . from day 27",
+    "onwards the lt has monitored rs oph with a cadence ( ignoring weather , seasonal or technical gaps ) of roughly 48 hours , through @xmath2 , @xmath3 , @xmath4 , @xmath5 , @xmath6 and @xmath7 filters and as of august 14@xmath0 2007 had obtained 73 epochs of data .",
+    "the lt data have been reduced using standard profile fitting photometry techniques provided by the iraf package .",
+    "the photometry has been independently verified using gaia package .",
+    "figure  [ lightcurve ] shows the lt @xmath4 , @xmath5 and @xmath6 light curves of rs oph covering the first @xmath8 days since outburst .",
+    "the @xmath2 and @xmath3 light curves are not shown as they are similar in magnitude and behaviour to the @xmath4 curve . shown in figure  [ colour ] is the colour behaviour of rs oph since outburst over the same period .",
+    "the `` break '' in the rs oph light curve seen at t@xmath970 days ( see figure  [ lightcurve ] ) is coincident ( within the time resolution ) to a distinct minimum seen in the si coronal line fluxes seen by spitzer ( see * ? ? ?",
+    "we also note that this break coincides with a marked reddening in the b - v colour of rs oph ( see figure  [ colour ] ) .",
+    "however , a break seen at 64 days in the 1 - 10 kev swift light curve ( see bode et al . , these proceedings ) is not apparent here .",
+    "these lt data identified a brightening in the optical luminosity of rs oph from approximately day 208 @xcite to day 220 .",
+    "worters et al .",
+    "( 2007 ) found evidence of the resumption of optical flickering by day 241 , indicating a re - establishment of accretion .",
+    "as can be seen in figure  [ lightcurve ] , following the re - brightening , the luminosity of the system has steadily increased and the light curve has shown a marked increase in variability compared to the initial decline .",
+    "lt monitoring of rs oph is still on - going ( as of summer 2008 ) , although the cadence has now been reduced to 72 hours .",
+    "the @xmath7 data suffer from extremely low signal - to - noise and are still being processed .",
+    "also , we have employed the experimental ring polarimeter ( ringo ; * ? ? ?",
+    "* ) on the lt in an attempt to measure any change in polarisation during the outburst .",
+    "to - date , twelve epochs of ringo observations have been obtained , however , these data are yet to be fully reduced .",
+    "the liverpool telescope is operated on the island of la palma by liverpool john moores university in the spanish observatorio del roque de los muchachos of the instituto de astrofisica de canarias with financial support from the uk science and technology facilities council ( stfc ) ."
+  ],
+  "abstract_text": [
+    "<S> we present a preliminary report on the broadband optical photometry of the 2006 outburst of the recurrent nova rs ophiuchi . </S>",
+    "<S> these data were obtained using the robotic 2 m liverpool telescope and cover the outburst from day 27 through day 548 . </S>"
+  ]
+}

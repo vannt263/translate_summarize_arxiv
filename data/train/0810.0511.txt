@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "recent observations indicate that @xmath0 of the energy density of the universe exists in the form of stable non ",
+    "baryonic , non  luminos ( dark ) matter .",
+    "supersymmetric ( susy ) models provide a good candidate for the cold dark matter component of the universe . if r ",
+    "parity is conserved , the lightest neutralino is absolutely stable and can play the role of dark matter .",
+    "however the minimal supersymmetric standard model ( mssm ) suffers from the so - called @xmath1problem .",
+    "the mssm superpotential contains only one bilinear term @xmath2 .",
+    "the parameter @xmath1 is expected to be of the order of @xmath3 or gut scale . at the same time",
+    "the correct pattern of electroweak ( ew ) symmetry breaking requires @xmath4 .",
+    "the @xmath1problem can be solved within the minimal non  minimal supersymmetric standard model ( mnssm ) .",
+    "the superpotential of the mnssm can be written as @xmath5 at the ew scale the singlet superfield @xmath6 gets non - zero vacuum expectation value ( vev ) @xmath7 and an effective @xmath1-term ( @xmath8 ) is generated .",
+    "thus in the mnssm the @xmath1 problem is solved in a similar way to the next  to  minimal supersymmetric standard model ( nmssm ) , but without the accompanying problems of singlet tadpoles or domain walls .",
+    "the neutralino sector of the mnssm is formed by the superpartners of the neutral gauge bosons ( @xmath9 ) and neutral higgsino fields ( @xmath10,@xmath11,@xmath12 ) . in the field basis @xmath13 the neutralino mass matrix takes a form @xmath14 0                     & m_2                 & m_z c_w c_{\\beta }     & -m_z c_w s_{\\beta } & 0 \\\\[2 mm ] -m_z s_w c_{\\beta }    & m_z c_w c_{\\beta }   &   0                    & -\\mu_{eff }          & -\\frac{\\lambda v}{\\sqrt{2 } } s_{\\beta } \\\\[2 mm ] m_z s_w s_{\\beta }     & -m_z c_w s_{\\beta } & -\\mu_{eff }            &   0                  & -\\frac{\\lambda v}{\\sqrt{2 } } c_{\\beta } \\\\[2 mm ] 0                     & 0                   & -\\frac{\\lambda v}{\\sqrt{2 } } s_{\\beta }     & -\\frac{\\lambda v}{\\sqrt{2 } } c_{\\beta } & 0 \\end{array } \\right)\\,,\\ ] ] where @xmath15 , @xmath16 , @xmath17 , and @xmath18 . here @xmath19 and @xmath20 , where @xmath21 and @xmath22 are the vevs of @xmath23 and @xmath24 , respectively . the neutralino spectrum in the mnssm may be parametrised in terms of @xmath25 in the minimal sugra inspired susy gut s @xmath26 .",
+    "the validity of perturbation theory up to the gut scale implies that @xmath27 .",
+    "when @xmath28 is small the non  observation of higgs bosons at lep rules out @xmath29 .",
+    "lep searches for susy particles also set lower bounds on @xmath30 .    in order to find theoretical bounds on the neutralino masses",
+    "@xmath31 it is convenient to consider the matrix @xmath32 . in the basis @xmath33 the bottom - right @xmath34 block of",
+    "@xmath35 takes the form @xmath36 where @xmath37 , @xmath38 .",
+    "since the minimal eigenvalue of any hermitian matrix is less than its smallest diagonal element at least one neutralino in the mnssm is always light , i.e. @xmath39 . therefore in contrast with the mssm the lightest neutralino in the mnssm remains light even when the susy breaking scale tends to infinity .",
+    "the mass of the lightest neutralino must be also smaller than the minimal eigenvalue @xmath40 of the submatrix ( [ 4 ] ) , i.e. @xmath41\\,.\\ ] ] the value of @xmath42 decreases with increasing @xmath43 . taking into account the restrictions on @xmath43 and @xmath44 we find that @xmath45 @xcite .",
+    "the obtained theoretical restriction on @xmath46 allows to discriminate the mnssm from other susy models .",
+    "the mass of the lightest neutralino can be computed numerically by solving the characteristic equation @xmath47 + m_z^2\\biggl(\\tilde{m}-\\kappa\\biggr)\\biggl(\\kappa^2+\\mu_{eff}\\sin 2\\beta \\kappa- \\nu^2\\biggr)=0\\ , , \\end{array}\\ ] ] where @xmath48 . because in the mnssm @xmath46 is normally much smaller than the masses of the other neutralinos one can ignore @xmath49 , @xmath50 and @xmath51 terms in the characteristic equation so that it reduces to @xmath52 where @xmath53 @xmath54 then the mass of the lightest neutralino can be approximated by @xcite @xmath55        as follows from fig .",
+    "12 the approximate solution describes the numerical one with relatively high accuracy . with increasing @xmath56 and @xmath57 the lightest neutralino mass decreases .",
+    "if either @xmath43 or @xmath58 then @xmath59 according to eq.([11 ] ) @xmath60 is inversely proportional to @xmath56 .",
+    "it decreases when @xmath61 grows and vanishes when @xmath28 tends to zero .",
+    "when @xmath62 the mass of the lightest neutralino is proportional to @xmath63 .",
+    "when @xmath64 the lightest neutralino is predominantly singlino that makes its direct observation at future colliders rather challenging ."
+  ],
+  "abstract_text": [
+    "<S> we argue that the allowed range of the mass of the lightest neutralino in the mnssm is limited . </S>",
+    "<S> we establish the theoretical upper bound on the lightest neutralino mass and obtain an approximate solution for this mass . </S>"
+  ]
+}

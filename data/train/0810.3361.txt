@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the tevatron @xmath1 collider operates at a center - of - mass energy @xmath2 tev .",
+    "top quarks are produced mainly strongly in pairs and , within the standard model ( sm ) , decay almost exclusively into a @xmath3 boson and a @xmath4-quark via the weak interaction .",
+    "therefore , any deviation in the v - a structure of the @xmath5 decay or evidence for more exotic final states would be indicative of new physics .",
+    "both the cdf and dcollaborations study the detailed kinematics of the products from @xmath5 decay and search for non - sm contributions .",
+    "these will be summarized in this report .",
+    "the helicity of the @xmath3 bosons in top decays is defined by the v - a structure of the @xmath6 vertex and can be accessed through the kinematics of the @xmath3 decay products .",
+    "the alignment of the @xmath3 spin can be characterized by the angle  @xmath7 between the @xmath3 momentum vector in the top quark rest frame and the momentum of the down - type fermion in the @xmath3 rest frame .",
+    "the sm predicts the fraction of longitudinally polarized @xmath3 bosons to be @xmath8 , the fraction of left - handed @xmath3s @xmath9 , while the right - handed fraction @xmath10 is greatly suppressed by the v - a structure of the decay .    the cdf collaboration has performed three independent measurements of the longitudinal @xmath11 and right - handed @xmath10 fractions of the helicity of the @xmath3 boson using lepton @xmath12 jets events with at least one secondary - vertex tag ( @xmath4-tag ) in 1.9  fb@xmath0 of data .",
+    "the first method relies on the matrix element technique  @xcite . in this measurement , the fractions",
+    "are set to @xmath13 and @xmath14 .",
+    "the two other techniques focus on measuring the @xmath15 distribution in kinematically reconstructed @xmath16 final states . in one case (  unfolding technique \" )",
+    "the observed @xmath15 distribution is corrected by subtracting the background and accounting for bin - to - bin migration of @xmath16 events from true to reconstructed values of @xmath15 . in the other analysis (  template method \" ) templates of @xmath17 for @xmath16 with different @xmath3 polarizations and backgrounds after event reconstruction are fitted to the data .",
+    "both analyses perform 1-parameter fits ( fixing @xmath11 or @xmath10 to their sm values ) and 2-parameter fits by simultaneously extracting the @xmath11 and @xmath10 fractions .",
+    "the results of these two analyses have been further combined using the blue technique  @xcite .",
+    "the summary of cdf results is presented in table  [ tab : whel ] .",
+    "the dcollaboration measures the @xmath3 polarization using the template technique in 2.7 fb@xmath0 of data in both dilepton and lepton @xmath12 jets event topologies .",
+    "the lepton @xmath12 jets events are fully reconstructed , and the information in the @xmath18 decays is also sampled by randomly picking the down - type quark as one of the jets associated with the @xmath3 boson .",
+    "dileptons are reconstructed within their eight - fold ambiguity , and the average of @xmath15 for all solutions is used in the extraction of helicity .",
+    "results of dmeasurement are also given in table  [ tab : whel ] .",
+    "all results are consistent with their sm values .",
+    ".summary of @xmath3 helicity measurements . [ cols=\"<,^,^,^,^\",options=\"header \" , ]     [ tab : invisible ]",
+    "we presented most recent cdf and dprecision measurements of the properties of the top quark .",
+    "the results are in agreement with predictions of the sm .",
+    "both experiments have set stringent limits on branching ratios for several decays beyond the sm ."
+  ],
+  "abstract_text": [
+    "<S> over a decade since the discovery of the top quark we are still trying to unravel mysteries of the heaviest observed particle and learn more about its nature . </S>",
+    "<S> the continuously accumulating statistics of cdf and d data provide the means for measuring top quark properties with ever greater precision and the opportunity to search for signs of new physics that could be manifested through subtle deviations from the standard model in the production and decays of top quarks . in the following </S>",
+    "<S> we present a slice of the rich program in top quark physics at the fermilab tevatron : measurements of the properties of top quark decays and searches for unusual phenomena in events with pair produced tops . </S>",
+    "<S> in particular , we discuss the most recent and precise cdf and d measurements of the transverse polarization of w bosons from top decays , branching ratios and searches for flavor - changing neutral current decays , decays into charged higgs and invisible decays . </S>",
+    "<S> these analyses correspond to integrated luminosities ranging from 0.9 to 2.7 fb@xmath0 . </S>"
+  ]
+}

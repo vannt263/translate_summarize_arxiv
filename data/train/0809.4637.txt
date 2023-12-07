@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "sph alone only evolves the density and internal energy of each particle : radiative transfer requires extra variables such as temperature and opacity .",
+    "therefore , some kind of prescription is required to calculate all required variables using only the density and internal energy .",
+    "the prescription used in this work is split into two expressions : the _ equation of state _ which calculates temperatures and mean molecular weights , and the _ opacity law _ which calculates opacities .",
+    "the equation of state is the same as used by @xcite : it accounts for the vibrational and rotational energy states of hydrogen and helium , as well as their various dissociation and ionisation states .",
+    "this approximation uses an sph particle s density @xmath3 , temperature @xmath4 , and gravitational potential @xmath5 to estimate a mean optical depth for the particle @xcite .",
+    "this relies on calculating a mass averaged column density , and a mass averaged opacity .",
+    "this averaging process allows us to account for the particle s surroundings : hot particles may be surrounded by a cooler , denser environment , increasing the effective opacity .",
+    "the formalism guarantees optimum cooling at the photosphere - however , this formalism can not model detailed energy exchange between particles .",
+    "this approximation handles the exchange of energy between pairs of neighbouring particles , using the diffusion approximation .",
+    "this approximation is only valid in the optically thick regime , so a flux limiter is used to allow the approximation to be expanded to less optically thick situations .",
+    "energy flows along temperature gradients in accordance with the laws of thermodynamics .",
+    "however , energy exchange terms are _ pairwise _ : hence there is no energy loss from the system .      comparing the limitations of the above two methods",
+    ", it should be clear that a union of these two procedures should be complementary : polytropic cooling handles the important energy loss from the system ( which flux - limited diffusion can not ) , and flux - limited diffusion handles the detailed exchange of heat between neighbouring fluid elements ( which polytropic cooling can not ) .",
+    "indeed , polytropic cooling s inability to model the detailed exchange of heat between neighbouring fluid elements - and flux - limited diffusion s inability to model energy loss - allow the two methods to work together correctly , modelling all aspects of the system s energy budget without encroaching on each other .",
+    "the evolution of a @xmath0 protoplanetary disc around a @xmath1 star can be seen in * figure [ fig : mejia_discs]*. the density structure is consistent with the work of meja , boley et al @xcite .",
+    "the toomre q parameter is at a minimum where the cooling is at a peak , identifying the importance of cooling as a criterion for disc instability .",
+    "@xmath6{fig5a.eps } & \\includegraphics[scale = 0.4]{fig5b.eps } \\\\",
+    "\\includegraphics[scale = 0.4]{fig5c.eps } & \\includegraphics[scale = 0.4]{fig5d.eps } \\\\",
+    "\\end{array}$ ]      the collapse of a non - rotating molecular cloud was then simulated .",
+    "the spherical , uniform density cloud contains @xmath2 of material ( populated by @xmath7 sph particles ) , and has a radius of @xmath8 au ( which gives a density of @xmath9 ) .",
+    "these conditions were initially investigated by @xcite by solving the full radiative transfer in 3d ( with the hydrodynamics solved in 1d ) , and were revisited by @xcite . as can be seen from * figure [ fig : sp_omega ] * ( left panel ) , the initial isothermal phase ( at low densities ) lasts longer for the hybrid method , as extra cooling can occur due to the temperature gradients in the core .      to study the method s time dependence ,",
+    "the relaxation rate of temperature fluctuations in a static sphere was simulated for a series of clouds of different optical depth .",
+    "the lines in each figure show the analytic solution for the relaxation rate @xmath10 as a function of cloud opacity ( divided by the wavenumber , k , of the fluctuation ) @xcite .",
+    "as can be seen , the hybrid method approximates the analytic solution well .",
+    "@xmath11{fig7a.eps } & \\includegraphics[scale=0.5]{fig8b.eps } \\\\ \\end{array}$ ]",
+    "we have created a new radiative transfer algorithm by merging two currently existing methods . by doing so , the algorithm can model in detail frequency - averaged radiative transfer .",
+    "several tests of the algorithm against both analytic and numerical benchmarks have shown it to be successful in capturing the necessary physics .",
+    "the authors would like to acknowledge d. price for the use of splash @xcite .",
+    "all simulations were performed using the supa64 machine at the university of st .",
+    "ds and aw gratefully acknowledge the support of an stfc rolling grant ( pp / e000967/1 ) and a marie curie research training network ( mrtn - ct2006 - 035890 ) ."
+  ],
+  "abstract_text": [
+    "<S> we present a new method of incorporating radiative transfer into smoothed particle hydrodynamics ( sph ) . </S>",
+    "<S> there have been many recent attempts at radiative transfer in sph @xcite , however these are becoming increasingly complex , with some methods requiring the photosphere to be mapped ( which is often of non - trivial geometric shape ) , and extra conditions to be applied there ( matching atmospheres as in @xcite , or specifying cooling at the photosphere as in @xcite ) . </S>",
+    "<S> the method of identifying the photosphere is usually a significant addition to the total simulation runtime , and often requires extra free parameters , the changing of which will affect the final results . </S>",
+    "<S> our method is not affected by such concerns , as the photosphere is constructed implicitly by the algorithm without the need for extra free parameters . </S>",
+    "<S> the algorithm used is a synergy of two current formalisms for radiative effects : a ) the polytropic cooling formalism proposed by @xcite , and b ) flux - limited diffusion , used by many authors to simulate radiation transport in the optically thick regime ( e.g. @xcite ) . </S>",
+    "<S> we present several tests of this method :    * the evolution of a @xmath0 protoplanetary disc around a @xmath1 star ( @xcite ) * the collapse of a non - rotating @xmath2 molecular cloud ( @xcite ) * the thermal relaxation of temperature fluctuations in an static homogeneous sphere ( @xcite )     address = institute for astronomy , royal observatory edinburgh     address = institute for astronomy , royal observatory edinburgh     address = school of physics and astronomy , cardiff university     address = school of physics and astronomy , cardiff university </S>"
+  ]
+}

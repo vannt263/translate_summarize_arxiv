@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the mtcc  @xcite took place in the second half of 2006 .",
+    "it was a first and successful major performance test of a small fraction of the cms detector  @xcite , including the magnet , using cosmic - ray muons as a particle beam , before it was lowered to the experimental cavern .",
+    "the detector elements participating in the mtcc are shown in figure  [ setup - f1 ]  ( left ) . a cosmic muon detected in cms during the mtcc",
+    "is displayed in figure  [ setup - f1 ]  ( right ) .",
+    "the analysis is performed with the dts alone ( sector 10 of wheels yb+1 , yb+2 ) .",
+    "the runs used in the analysis ( 5 in total ) were taken at b @xmath0 4 t , all with similar dt trigger conditions ( at least mb2+mb3 stations ) . a control sample taken at 0",
+    "t is used to make detailed checks of detector performance .",
+    "simulated samples ( b = 0 t and b = 4 t )  @xcite are used for cross - checks and minor corrections .",
+    "the events are reconstructed using the standard reconstruction software of the cms experiment .",
+    "the so - called _ standalone muon reconstruction _ was adapted for dealing with the specific spatial configurations of cosmic muons  @xcite .",
+    "the reconstruction procedure uses special dt calibration constants  @xcite , in order to account for the random arrival time of cosmic muons .",
+    "alignment corrections  @xcite , calculated from survey data  @xcite , are applied to the measured hits before the track reconstruction .",
+    "the analysis strategy is selecting a sample of high quality muons , obtaining the momentum spectra as a function of the muon charge and calculating the charge ratio as a function of the momentum .    in order to select well - reconstructed muons and avoid bias in the relative acceptance for @xmath1 and @xmath2 , caused by trigger configuration ( mb2+mb3 ) , momentum resolution and asymmetric geometrical acceptance due to magnetic field",
+    ", muons are required to leave hits in at least 3 stations ( triplets / quadruplets ) , and to be fully contained in a left - right symmetric region in sector 10 of wheels yb+1 and yb+2 .",
+    "figure  [ geometry - f2 ] helps understanding the influence of the geometric acceptance in the relative efficiency for @xmath1 and @xmath2 with the same momentum , entering the detector in symmetric points , and with the same angle , with respect to the vertical axis .",
+    "the distributions of the momentum of the muon tracks and their azimuthal angle are shown in figure  [ selection_plots - f3 ] for quadruplet muons in the selected sample .",
+    "good agreement between different runs and simulation is observed .",
+    "the global cms coordinate system is used , in which the @xmath3 axis goes along the beam - line , that is , @xmath4 and @xmath5 for vertical muons .",
+    "the charge ratio is computed as the ratio of the @xmath6 spectrum of @xmath1 to that of @xmath2 , as a function of the measured muon momentum ( @xmath6 ) , for all runs and their combination . a correction due to charge confusion and the estimation of systematic uncertainties",
+    "are performed .",
+    "the measured muon charge ratio and its statistical uncertainty is displayed in figure  [ charge_ratio_all - f4 ]  ( left ) , for quadruplets , for the individual runs analyzed .",
+    "the deviations observed among different runs are consistent with statistical fluctuations .",
+    "the individual systematic uncertainties on the charge ratio measurement are summarized in figure  [ charge_ratio_all - f4 ]  ( right ) , as a function of the measured muon momentum , together with the statistical error .",
+    "the measurement of the charge ratio using cms data is depicted in figure  [ results - f5 ] as function of the measured muon momentum , together with the results from other experiments  @xcite .",
+    "given the experimental accuracy , the charge ratio is consistent with being independent of the muon momentum in the range of study . under this assumption ,",
+    "the mean value of the charge ratio , integrated over the muon momentum , is @xmath7 .",
+    "good agreement with previous measurements within the experimental accuracy is observed .",
+    "m.  aldaya , p.  garcia - abia , `` measurement of the charge ratio of cosmic muons using cms data '' , cms - note 2008/016 ; + m.  aldaya , `` measurement of the cosmic muon charge ratio using cms data and discovery potential of the standard model higgs boson in the @xmath8 channel '' , phd .",
+    "thesis cms - ts-2008/013 ."
+  ],
+  "abstract_text": [
+    "<S> we have performed the measurement of the cosmic ray muon charge ratio , as a function of the muon momentum , using data collected by the cms experiment , exploiting the capabilities of the muon barrel drift tube ( dt ) chambers . </S>",
+    "<S> the cosmic muon charge ratio is defined as the ratio of the number of positive- to negative - charge muons . </S>",
+    "<S> cosmic ray muons result from the interaction of high - energy cosmic - ray particles ( mainly protons and nuclei ) , entering the upper layers of the atmosphere , with air nuclei . since these collisions favour positive meson production </S>",
+    "<S> , there is an asymmetry in the charge composition and more positive muons are expected .    </S>",
+    "<S> the data samples were collected at the _ magnet test and cosmic challenge _ ( mtcc ) . </S>",
+    "<S> while the mtcc itself was a crucial milestone in the cms detector construction , not having physics studies among its primary goals , it provided the first opportunity to obtain physics results and test the full analysis chain using real data in cms before the lhc startup , together with a complementary check of the detector performance . </S>"
+  ]
+}

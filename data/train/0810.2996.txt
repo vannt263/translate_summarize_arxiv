@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "previously members of our theoretical group were involved in collaborations with experimentalists from rutgers and bonn studying the properties of @xmath7ar as well as @xmath8s  @xcite with the focus being the magnetic dipole g factors of the 2@xmath9 states .",
+    "we also note the results for @xmath10s obtained in experiments carried out by davies et al . and by stuchbery et al .",
+    "@xcite .    in this work",
+    "we accomplish two things .",
+    "the first is that we observe that due to the half filled nature of the d@xmath11 proton sub - shell in the results of calculations in the simplest single j shell picture , @xmath0 @xmath1 , for the even - even argon isotopes beyond @xmath12ar , certain symmetries emerge .",
+    "these symmetries serve as a basis for comparison with large space calculations for which these symmetries no longer hold . secondly , we extend the calculations of the properties of the even ar nuclei to the more neutron rich ar isotopes for which the 2@xmath9 g factors have not yet been measured",
+    ". these are @xmath13ar .",
+    "in particular , we note interesting and important divergences in the results obtained with two different interactions in this region ; the wbt interaction  @xcite and the updated sdpf interaction denoted sdpf - u  @xcite .",
+    "the shell model calculations using the wbt interaction were carried out with the oxbash shell model code  @xcite and those using the sdpf - u interaction with the antoine shell model code  @xcite . in all the calculations ,",
+    "the effective charges @xmath14 and @xmath15 were used as well as the free nucleon g factors .",
+    "we show in table  [ tab : gfac ] , as a summary , the relevant previously obtained experimental and calculated g factors of 2@xmath16 states , data which are contained in the work of speidel et al . on @xmath12s  @xcite .",
+    "there are several points of interest .",
+    "for example , the g factors of the n = z nuclei @xmath17s and @xmath12ar are purely isoscalar and are very close to 0.5 , as was discussed before in papers with speidel ."
+  ],
+  "abstract_text": [
+    "<S> we study the role of configuration mixing in the heavier even - even isotopes of argon . </S>",
+    "<S> we begin by limiting the configurations of the even - even ar isotopes to @xmath0 @xmath1 . there , due to the particular location in this shell model space of @xmath2ar and @xmath3ar , we find that the spectra , b(e2 ) s and magnetic moments of these two nuclei are identical . </S>",
+    "<S> any deviation from this equality is direct evidence of configuration mixing . in a larger shell model space </S>",
+    "<S> there are significant differences between these two nuclei , with @xmath3ar being more collective . </S>",
+    "<S> we also consider other even - even isotopes of argon and study how their nuclear structure effects evolve with n. we compare in the full 0@xmath4 space @xmath5 @xmath6 the results of calculations with the wbt interaction and with the newer sdpf , denoted sdpf - u , interaction . </S>"
+  ]
+}

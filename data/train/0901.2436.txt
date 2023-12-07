@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "to explain the origin of mass for the @xmath1 and @xmath2 bosons in the standard model ( sm ) the higgs mechanism predicts a breaking of electroweak symmetry .",
+    "a consequence of this symmetry breaking is a heavy scalar boson whose mass is not predicted by the sm .",
+    "direct searches for the higgs boson were performed at the lep experiments in the process @xmath3 with a centre of mass energy of 206.6 gev .",
+    "a direct mass limit at @xmath4 @xmath5 114.4 gev is set at the 95% confidence level @xcite(all limits in this paper will be shown at 95% cl ) .",
+    "this limit is slightly below the maximum available kinematic limit due to a small excess observed in the lep data .",
+    "indirect limits have been placed on the higgs boson at the lep , sld and tevatron experiments from electroweak precision measurements @xcite .",
+    "the sm fit best value for the mass of the higgs boson is @xmath4 = 76@xmath6 gev @xcite .",
+    "the upper limit achieved from this fit is @xmath7 144 gev . when the direct mass limit is taken into account this limit",
+    "is increased to @xmath8 182 gev ( figure [ fig - bbplot ] ) .",
+    ", title=\"fig : \" ] , title=\"fig : \" ]",
+    "the fit for the higgs mass shown in figure [ fig - bbplot ] shows that a light higgs boson is favoured which is accessible to the tevatron experiments .",
+    "the tevatron accelerator collides @xmath9 with a centre of mass energy = 1.96 tev at an instantaneous luminosity up to around 3@xmath1010@xmath11 @xmath12s@xmath13 . at the time of writing ,",
+    "the d  experiment has collected nearly 5 fb@xmath13 of data and results shown here include between 1 - 3 fb@xmath13 of data analysed .",
+    "the dominant production mechanism for a sm higgs boson at the tevatron is via gluon - gluon fusion .",
+    "an order of magnitude lower is associated production with a @xmath14 boson . at high masses",
+    "the main search channel is gluon - gluon fusion with the higgs boson decaying to two @xmath1 bosons which subsequently decay leptonically .",
+    "however , at low higgs masses ( @xmath8 135 gev ) the higgs decays into @xmath15 pairs which are extremely difficult to resolve against the large multijet background at a hadron collider . as such associated production",
+    "is searched for where events are tagged by the leptonic decay of the @xmath14 boson .",
+    "one of the most sensitive channels at low mass consists of a final state of two @xmath16 jets from the higgs boson and a charged lepton @xmath17 and a neutrino from the w. all three leptonic decays of the w are analysed at d  , however , the most sensitive are the decays to electrons and muons . they will be focused on here using 1.7 fb@xmath13 of data .",
+    "events are selected with one or two @xmath16 tagged jets with transverse momentum @xmath18 20 gev , an isolated electron / muon with @xmath18 15 gev and missing transverse energy @xmath19 20 gev .",
+    "the main backgrounds after selection are @xmath20jets and @xmath21 production . to improve separation between the signal and the irreducible background a neural network ( nn )",
+    "is trained taking a number of kinematic and topological variables as input .",
+    "the output of this nn ( figure [ fig - nnout ] ) are used to set limits on higgs production .",
+    "the analysis sets a limit on @xmath22 = 10.9x@xmath23 at @xmath24 gev @xcite ( where @xmath23 is the cross section predicted for this process by the standard model ) .      at high mass @xmath26",
+    "is searched for in the leptonic final state @xmath27 .",
+    "this analysis uses approximately 3 fb@xmath13 of data and searches in three independent final states ( @xmath28 ) . to select these events two",
+    "high-@xmath29 leptons are required and @xmath19 25 gev to account for the neutrinos .",
+    "the main feature of this final state to differentiate from di - boson production is the small angle between the leptons arising from spin - correlations between them due to the spin-0 nature of the higgs boson .",
+    "this is in contrast to the back - to - back nature of the leptons from diboson processes .",
+    "a neural network classifier is also used here to improve the discrimination between signal and background and the output ( figure [ fig - nnout ] ) is used to set limits on higgs production .",
+    "the analysis sets a limit on @xmath30 = 1.7x@xmath23 at @xmath31 gev @xcite .",
+    "many other channels have been studied in the search for the sm higgs boson with some more sensitive than others . however , to obtain the best limit on higgs production at d  a combined limit is set .",
+    "systematic uncertainties are taken into account using both modified frequentist and bayesian approaches to ensure the result to does not depend upon the details of the statistical method applied .",
+    "the results across the full mass range for the d  combination are shown in figure [ fig - limits ] .",
+    "to further improve the limits on a sm higgs boson a combination is performed with the cdf experiment ( currently only for high mass ) .",
+    "the most interesting feature of this combination is that the observed limit crosses one at @xmath32 170 gev ( figure [ fig - limits ] ) , resulting in an exclusion of that higgs boson mass at the 95% cl @xcite ."
+  ],
+  "abstract_text": [
+    "<S> we present the latest searches for the standard model higgs boson at a centre - of - mass energy of @xmath0 1.96 tev with the d  detector at the fermilab tevatron collider .    higgs man / hep/2009/6 , fermilab - conf-09 - 014-ppd </S>"
+  ]
+}

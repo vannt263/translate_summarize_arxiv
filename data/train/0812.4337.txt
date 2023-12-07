@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "numerical simulations of the evolution of hvc collisions with the milky way have been performed for more than two decades by different authors .",
+    "the details of resulting supersonic flows depend of on the model assumptions , and the intensity and initial configuration of the magnetic field .",
+    "santilln et al .",
+    "( 1999 ) made models that illustrate the effects of magnetic pressure , and differentiate them from those due to magnetic tension .",
+    "the evolution of the interaction of a hvc with a magnetized interstellar medium , is studied by setting a random magnetic field that satisfies the divergence  free constraint ( @xmath0 @xmath1 = 0 ) at all times . to mimic the average galactic magnetic field , that is oriented parallel to the disk , the horizontal component dominates over the vertical component .",
+    "we perform simulations of hvcs interacting with the interstellar medium without and with magnetic field , ism1 and ism2 , respectively , using the mhd code zeus3d @xcite .",
+    "the ism  models are plane parallel and have constant density and temperature , @xmath2 and @xmath3 k. the galactic gas is initially at rest . for ism2 case",
+    "the total intensity of the magnetic field is 2  @xmath4 g .",
+    "the enter position of the hvc is located 3 kpc above from the midplane and has a velocity of 100 km / s . in the figure  [ fig : hvc ] , the density is shown in logarithmic gray  scale plots and the magnetic field is indicated by arrows .",
+    "the early times evolution for both models display the same characteristics , the interaction between the hvc and the halo gas creates a strong galactic shock directed downwards , along with reverse shock that penetrates into the cloud .",
+    "the galactic shock tends to move radially away from the location of impact @xcite . as time proceeds ,",
+    "the structure of the hvc changed slightly ; in both models a large fraction of the original cloud mass remains locked up in the shocked layer , and a small amount of it re  expanded back into the rear wake and tail .",
+    "however , in the hd  case , the clouds moves a greater distance than the mhd ",
+    "case , due to the effect of the magnetic tension of the horizontal  component of random magnetic field . in the magnetic case ,",
+    "the hvc distorts and compresses the b  field lines during the evolution , increasing both the field pressure and the tension , and forming a magnetic barrier for the moving gas .",
+    "finally , as seen in figure  [ fig : hvc ] , the late times structure produced by hydrodynamic simulations is completely different from that of its magnetic counterpart . in the case",
+    "non  magnetic case , ism1 , the interaction of hvc with ambient medium creates a thin structure and the size of perturbation region at 90 myr has grown to nearly 3 kpc . on the other hand , for the magnetic case , the evolution of the cloud at the same evolutionary time creates a thick structure of @xmath52 kpc and a great amount of gas collects in a magnetic valley formed by the interaction with the horizontal  component of the random magnetic field ."
+  ],
+  "abstract_text": [
+    "<S> we know that the galactic magnetic field possesses a random component in addition to the mean uniform component , with comparable strength of the two components . </S>",
+    "<S> this random component is considered to play important roles in the evolution of the interstellar medium ( ism ) . in this work we present numerical simulations associated with the interaction of the supersonic flows located at high latitude in our galaxy ( high velocity clouds , hvc ) with the magnetized galactic ism in order to study the effect that produces a random magnetic field in the evolution of this objects . </S>"
+  ]
+}

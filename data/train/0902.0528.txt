@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "heckman ( 1980 ) was the first to classify as low ionization nuclear emission - line regions ( liners ) those active nuclei whose optical emission lines have similar widths to seyfert galaxies but show lower excitation .",
+    "there has never been a consensus whether every liner has an active galactic nucleus ( agn ) .        the sloan digital sky survey ( sdss ; york et al .",
+    "2000 ) has provided the astronomical community with thousands of liner - like spectra .",
+    "kewley et al .",
+    "( 2006 ) showed that , in the [ n  ii]/h@xmath0 vs.  [ o   iii]/h@xmath1 plane ( bpt , after baldwin , philips & terlevich 1981 ) , the right `` wing '' of sdss galaxies is in fact composed of two branches , which they identified as seyferts and liners .",
+    "the fraction of objects classified as liners in the local universe by diagnostic diagram methods depends on the dividing line adopted to separate star - forming ( sf ) galaxies ( the left `` wing '' ) from the galaxies with an agn ( the right `` wing '' ) .",
+    "trinchieri & di serego alighieri ( 1991 ) and binette et al .",
+    "( 1994 ) suggested that hot post - agb stars and white dwarfs can explain the emission lines observed in elliptical galaxies with little gas and no current star formation . here",
+    "we explore this idea in more detail by using the stellar population results obtained directly by our synthesis analysis for sdss galaxies and check whether galaxies that have stopped forming stars  dubbed _ retired _ galaxies  can explain the emission line spectra of liner - like galaxies .",
+    "our sample consists of 131287 sdss galaxies .",
+    "we infer the stellar populations that compose a galaxy by a pixel - by - pixel model of its spectral continuum with our code starlight , using a base of simple stellar populations from bruzual & charlot ( 2003 ) .",
+    "the top panel of fig .",
+    "[ fig : fits ] shows an example of observed ( black ) and model ( red ) spectra .",
+    "the panel on the right shows the light fraction associated with populations of different ages for this model .",
+    "we measure emission lines by fitting gaussians to the residual spectrum ( bottom panel ) .    in fig .",
+    "[ fig : bpt]a , we show our galaxy sample on the bpt plane .",
+    "we chop the bpt in bins defined by their polar coordinates ( @xmath2 ) , with the center at the point of inflection of the median curve of the distribution of [ o  iii]/h@xmath1 as a function of [ n  ii]/h@xmath0 .",
+    "we study variations of properties in the @xmath3 coordinate by using the @xmath4 index for the sf and liner branches as defined in fig .",
+    "[ fig : bpt]a .",
+    "of the ratio of the expected to observed @xmath5 ( top ) and of the hardness ratio ( bottom ) for the sf and liner branches.,scaledwidth=60.0% ]    for each galaxy , we compute @xmath6 , the number of stellar ionizing photons with energy above 13.6 ev arising from the populations uncovered by starlight .",
+    "we predict the luminosity in h@xmath0 due to the stellar populations , @xmath7 , assuming that all these photons are absorbed by the gas in the galaxy , and compare it to the observed value @xmath8 ( top panels of fig .",
+    "[ fig : lha ] ) .",
+    "the @xmath9 for the sf branch is well explained by the populations recovered by starlight .",
+    "we can explain the observed @xmath5 for about 25% of the liner branch in our sample by using the ionization of old stellar populations only ( however , see stasiska et al .",
+    "2008 for a more detailed discussion ) .",
+    "this fraction increases substantially if one allows objects with lower @xmath10 emission lines into the sample .",
+    "bottom panels of fig .",
+    "[ fig : lha ] show the ratio @xmath11 of he to h ionizing photons ( expressing the hardness of the radiation field ) for the sf and liner branches . the stars in the liner branch have much harder radiation than the ones in the sf branch , so that we expect the [ o  iii ] and [ n  ii ] lines to be stronger with respect to hydrogen lines in liners than in sf galaxies .",
+    "photoionization models confirm that the ionization from old stars can account for the emission line ratios in the liner branch .",
+    "[ fig : bpt]b shows models for given values of nebular metallicity and ionization parameter .",
+    "metal - rich models ( twice the solar metallicity ) are the ones which best cover the liner region ."
+  ],
+  "abstract_text": [
+    "<S> galaxies are usually classified as star forming or active by using diagnostic diagrams , such as [ n  ii]/h@xmath0 vs.  [ o   iii]/h@xmath1 . </S>",
+    "<S> active galaxies are further classified into seyfert or liner - like sources . </S>",
+    "<S> we claim that a non - negligible fraction of galaxies classified as liners in the sloan digital sky survey are in fact ionized by hot post - agb stars and white dwarfs . </S>"
+  ]
+}

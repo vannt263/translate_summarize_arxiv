@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "the cr - driven dynamo model consists of the following elements ( based on hanasz et al .",
+    "2004 , 2006 ) : ( 1 ) the cosmic ray component is an relativistic gas described by diffusion - advection transport equation ; ( 2 ) anisotropic diffusion of cr along magnetic field lines ; ( 3 ) localized sources of cr : random explosions of supernova remnants in the disk volume , which supply the cr energy density ; ( 4 ) uniform resistivity of ism ; ( 5 ) shearing boundary conditions and tidal forces are implemented to reproduce the differentially rotating disk in the local approximation ( hawley et al .",
+    "1995 ) ; ( 6 ) realistic vertical disk gravity following the model of milky way ( ferrire 1998 ) with scaled contribution of disk and halo to irregular galaxies .",
+    "we used resistive mhd equations in 3d cartesian domain of @xmath0 grid points .",
+    "the initial conditions of system assumes the magnetohydrostatic equilibrium with horizontal , purely azimuthal magnetic filed corresponding to @xmath1 .",
+    "we perform a two series of numerical experiments for different values of angular velocity @xmath2 and shearing parameter @xmath3 ( see caption of fig . [ rys1 ] ) . in experiments",
+    "a1a5 we found that the efficiency of magnetic field amplification depends strongly on the angular velocity ( fig .",
+    "[ rys1 ] left ) , but for @xmath4  myr@xmath5 the amplification rate stabilizes and becomes roughly independent on @xmath2 . in the second set of experiments we change the shearing rate ( fig .",
+    "[ rys1 ] right ) , for a constant angular velocity .",
+    "we find no amplification for experiments with @xmath6 ( b1,b4 ) .",
+    "the other simulations show that the dynamo process does not depend on shearing rate , as long as @xmath3 is finite .",
+    "we find a similar evolution of the total magnetic field energy for @xmath7 and 1.5 ( b2,b3 and b5,b6 , respectively ) .",
+    "to estimate the total production rate of magnetic field energy during simulation time , we calculate the outflowing magnetic energy density through the @xmath8 top and bottom domain boundaries .",
+    "our results show that large amounts of magnetic energy are lost through the open boundaries of the computational box , suggesting that irregular galaxies due to their weaker gravitation can be efficient sources of intergalactic magnetic fields .",
+    "( respectively 0.010.05  myr@xmath5 ) and the right with different @xmath3 : b1b3 for @xmath9 with @xmath10  myr@xmath5 and b4b6 with @xmath11  myr@xmath5.[rys1],title=\"fig:\",width=245 ]   ( respectively 0.010.05  myr@xmath5 ) and the right with different @xmath3 : b1b3 for @xmath9 with @xmath10  myr@xmath5 and b4b6 with @xmath11  myr@xmath5.[rys1],title=\"fig:\",width=245 ]",
+    "in our work we found : a ) the amplification of the total magnetic field energy in irregular galaxies is possible even with slow rotation and a weak shear ; b ) for dynamo action the shearing is needed , but the amplification rate on the shear is weak ; c ) the larger angular velocity the higher efficiency of the dynamo process ; d ) due to the weaker gravitation in irregular galaxies the outflow of magnetic field off the simulation domain is large , suggesting that they may effectively magnetize the intergalactic medium ( kronberg et al . 1999 ) ."
+  ],
+  "abstract_text": [
+    "<S> we investigate the cosmic ray driven dynamo in the interstellar medium of irregular galaxy . the observations ( chyy et al . </S>",
+    "<S> 2000 , 2003 ) show that the magnetic field in irregular galaxies is present and its value reaches the same level as in spiral galaxies . </S>",
+    "<S> however the conditions in the medium of irregular galaxy are very unfavorable for amplification the magnetic field due to slow rotation and low shearing rate .    in this work we present numerical model of the interstellar medium in irregular galaxies . </S>",
+    "<S> the model includes magnetohydrodynamical dynamo driven by cosmic rays in the interstellar medium provided by random supernova explosions . </S>",
+    "<S> we describe models characterized by different shear and rotation . </S>",
+    "<S> we find that even slow galactic rotation with low shearing rate gives amplification of the magnetic field . </S>",
+    "<S> simulations have shown that high amount of the magnetic energy flow out off the simulation region becoming an efficient source of intergalactic magnetic fields . </S>"
+  ]
+}
