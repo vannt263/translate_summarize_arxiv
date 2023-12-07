@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the @xmath0 meson has the interesting feature that all its possible strong decays are forbidden in lowest order : @xmath5 and @xmath6 by @xmath7 and @xmath4 invariance , @xmath8 because of @xmath9-parity conservation as well as isospin and charge symmetry invariance .",
+    "first order electromagnetic @xmath0 decays are forbidden as well : @xmath10 by conservation of angular momentum , @xmath11 and @xmath12 by _ c _ invariance .",
+    "only @xmath13 occurs , but at a suppressed rate because it involves the anomaly .",
+    "the first allowed decay is the second - order electromagnetic transition @xmath14 .",
+    "the width of the @xmath0 is about 1.3 kev ; this is 5 orders of magnitude smaller than a typical strong decay , such as the @xmath15 meson .",
+    "this feature makes @xmath0 decays @xmath16 times more sensitive than @xmath15 or @xmath17 decays at a comparable branching ratio for testing invariances .",
+    "the physical @xmath0 is a mixture of the pseudoscalar su(3 ) octet ( @xmath18 ) and singlet ( @xmath19 ) parametrized by the mixing angle @xmath20 : @xmath21 the value for @xmath20 is @xmath22 .",
+    "if we choose @xmath23 , we have the following remarkable makeup of the physical @xmath0 : @xmath24 which means that the @xmath0 is an eigenstate of the @xmath25 , @xmath26 , and @xmath27 operators of su(3 ) .",
+    "we also have @xmath28 . in the limit @xmath29",
+    ", we have @xmath30 .",
+    "the @xmath31 is an eigenstate of the operator that interchanges the @xmath32 and the @xmath33 quarks .",
+    "there are more than 14 different neutral @xmath0 decays ( see table  [ tab : alldecays ] at the end ) .",
+    "they make up ( 71.6 @xmath34 0.4)% of all @xmath0 decays  @xcite .",
+    "the largest branching ratio of the @xmath0 is into two photons : @xmath35 it was measured in a dedicated experiment  @xcite carried out at saclay with the spes ii @xmath0  factory \" using the @xmath36he@xmath0 production reaction .",
+    "feynman diagrams of @xmath0 production for the determination of @xmath37 .",
+    "a ) @xmath0 production in qed .",
+    "b ) @xmath0 production by the primakoff effect.,title=\"fig : \" ] feynman diagrams of @xmath0 production for the determination of @xmath37 .",
+    "a ) @xmath0 production in qed .",
+    "b ) @xmath0 production by the primakoff effect.,title=\"fig : \" ]    the calculation of the rate is believed to be well - understood and the uncertainty due to the virtual photon form factor is small  @xcite .",
+    "the results of four experiments  @xcite are given in table  [ tab : twogamma ] .",
+    "they are mutually consistent ; the average value is @xmath39                                                                                                ellis , j. , in _ relativistic astrophysics and particle cosmology _ , proceedings of the symposium , annals of the new york academy of science * 688 * , eds . c. akerlof and m. srednicki ( new york academy of science , new york , 1993 ) , 164 .",
+    "nefkens , b.m.k .",
+    ", in _ new vistas in physics with high - energy pion beams _ , proceedings of the workshop , edited by b. gibson and j. mcclelland , santa fe , nm ( 1992 ) ( world scientitic , singapore , 1993 ) , p.  91 .",
+    "cohen , a. , in _",
+    "relativistic astrophysics and particle cosmology _ , proceedings of the symposium , annals of the new york academy of science * 688 * , eds . c. akerlof and m. srednicki ( new york academy of science , new york , 1993 ) , 233 ."
+  ],
+  "abstract_text": [
+    "<S> the neutral decay modes of the @xmath0 meson are reviewed . </S>",
+    "<S> the most recent results obtained with the crystal ball multiphoton detector at bnl are incorporated . </S>",
+    "<S> this includes a new , precise result for the slope parameter @xmath1 of the dalitz plot in @xmath2 decay and a new , lower branching ratio for @xmath3 which is consistent with chiral perturbation theory . </S>",
+    "<S> recently - obtained limits are given for novel tests of @xmath4 and _ c _ invariance based on several rare @xmath0 decays . </S>"
+  ]
+}

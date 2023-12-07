@@ -1,0 +1,18 @@
+{
+  "article_text": [
+    "the authors wish to acknowledge the numerous collaborations that have been instrumental in obtaining many of the results reviewed in this paper . in particular we would like to thank klaas allaart , mario brand , sigfrido boffi , yves dewulf , chris gearhart , wouter geurts , carlotta giusti , willem hesselink , byron jennings , louk lapiks , andrea meucci , herbert mther , franco pacati , artur polls , marco radici , angels ramos , neil robertson , daniela rohe , gstl rijsdijk , jean - marc sparenberg , libby roth stoddard , dimitri van neck , brian vonderfecht , and michel waroquier for important insights and fruitful collaborations . this work was supported in part by the u.s .",
+    "national science foundation under grant no .",
+    "phy-0140316 and in part by the natural sciences and engineering research council of canada ( nserc ) ."
+  ],
+  "abstract_text": [
+    "<S> recent results obtained by applying the method of self - consistent green s functions to nuclei and nuclear matter are reviewed . </S>",
+    "<S> particular attention is given to the description of experimental data obtained from the ( e , e@xmath0p ) and ( e , e@xmath02n ) reactions that determine one and two - nucleon removal probabilities in nuclei since the corresponding amplitudes are directly related to the imaginary parts of the single - particle and two - particle propagators . </S>",
+    "<S> for this reason and the fact that these amplitudes can now be calculated with the inclusion of all the relevant physical processes , it is useful to explore the efficacy of the method of self - consistent green s functions in describing these experimental data </S>",
+    "<S> . results for both finite nuclei and nuclear matter are discussed with particular emphasis on clarifying the role of short - range correlations in determining various experimental quantities . </S>",
+    "<S> the important role of long - range correlations in determining the structure of low - energy correlations is also documented . for a complete understanding of nuclear phenomena </S>",
+    "<S> it is therefore essential to include both types of physical correlations . </S>",
+    "<S> we demonstrate that recent experimental results for these reactions combined with the reported theoretical calculations yield a very clear understanding of the properties of * all * protons in the nucleus . </S>",
+    "<S> we propose that this knowledge of the properties of constituent fermions in a correlated many - body system is a unique feature of nuclear physics .    </S>",
+    "<S> triumf preprint : tri - pp-03 - 40    sec1.txy sec2c.txy sec3c.txy sec4.txy sec5cc.txy sec6.txy sec7.txy </S>"
+  ]
+}

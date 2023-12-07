@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "the aim of the alice  @xcite experiment is to study the behaviour of nuclear matter in the conditions of high densities and temperatures in which a transition to a deconfined qcd phase ( quark gluon plasma ) is expected .",
+    "the study of open charm production is of primary interest for two main reasons :    * the interaction of the produced charm quarks with the plasma may reduce their momenta because of elastic collisions and in - medium gluon emissions ( see _ e.g. _ ref .",
+    "@xcite and references therein ) ; * secondary parton scattering in the high - density partonic system produced may provide an additional source of charm quarks  @xcite .",
+    "the measurement of the total charm production cross section and of the transverse momentum distribution of charm quarks in pb  pb collisions , as well as in pp and in pa interactions , is essential to study these open issues .",
+    "the exclusive reconstruction of @xmath1 mesons in the hadronic decay channel ( @xmath0 , branching ratio @xmath2 ) will provide a direct measurement of charm kinematical distributions .",
+    "the @xmath1 meson decays through a weak process and has a mean proper length @xmath3 .",
+    "therefore , the distance between the interaction point ( primary vertex ) and the decay point ( secondary vertex ) is measurable .",
+    "the selection of the @xmath0 decay ( and charge conjugate ) allows the direct identification of the @xmath1 particles by computing the invariant mass of fully - reconstructed topologies originating from displaced secondary vertices .",
+    "figure  [ fig : d0sketch ] shows a sketch of the decay : the main feature of this topology is the presence of two tracks with impact parameters of the order of @xmath4 , the impact parameter ( @xmath5 ) being the distance of closest approach of a particle trajectory to the primary vertex .",
+    "the identification of these topologies requires precise measurements of the tracks momenta and impact parameters .",
+    "charged - particle tracks are reconstructed using the time projection chamber and the inner tracking system , which provide measurements of the momentum and of the impact parameter of the @xmath1 decay products with resolutions @xmath6 and @xmath7 , respectively , using a magnetic field of 0.4 t. particle identification _ via _ time - of - flight allows to reject a large fraction of ( @xmath8,@xmath9 ) pairs , thus significantly reducing the large combinatorial background of opposite - charge track pairs from the underlying high - multiplicity pb ",
+    "the @xmath10 production rate in central pb ",
+    "pb collisions at the lhc is estimated  @xcite from next - to - leading order pqcd  @xcite to be @xmath11event ; this gives @xmath12 @xmath1 mesons per unit of rapidity decaying in the @xmath13 channel .",
+    "the initial value of the signal - to - background ratio is .",
+    "the most effective selection in order to extract the charm signal out of the large combinatorial background is based on the requirement to have two tracks with large impact parameters and a good pointing of the reconstructed @xmath1 momentum to the collision point ( _ i.e. _ the pointing angle @xmath15 between the @xmath1 momentum and its flight line should be close to 0 , as shown in fig .",
+    "[ fig : d0sketch ] ) .",
+    "the selection strategy is described in detail in ref .",
+    "@xcite .    after selection cuts , which have been optimized as a function of the @xmath1 meson transverse momentum ( @xmath16 ) ,",
+    "the ratio @xmath17 is @xmath18 and the statistical significance of the signal is @xmath19 for @xmath20 pb  pb events , corresponding to 1 month of data - taking of alice .",
+    "figure  [ fig : results ] ( left ) shows the corresponding @xmath13 invariant mass distribution . on the same figure",
+    "( right ) the significance is displayed as a function of the @xmath1 transverse momentum : the significance is larger than 10 up to @xmath21 .",
+    "the lower @xmath16 limit of @xmath22 will allow a rather safe extrapolation to @xmath23 and hence the measurement of the total charm production cross section with good accuracy .",
+    "invariant mass distribution for @xmath20 events ( after background subtraction in the inset ) .",
+    "right : statistical significance of the signal as a function of the @xmath1 transverse momentum .",
+    "the marker shows the significance obtained in the bin @xmath24 requiring the identification of the kaon from its time of flight.,title=\"fig : \" ]   invariant mass distribution for @xmath20 events ( after background subtraction in the inset ) .",
+    "right : statistical significance of the signal as a function of the @xmath1 transverse momentum .",
+    "the marker shows the significance obtained in the bin @xmath24 requiring the identification of the kaon from its time of flight.,title=\"fig : \" ]"
+  ],
+  "abstract_text": [
+    "<S> the alice experiment is devoted to the study of heavy - ion collisions at the cern lhc collider . </S>",
+    "<S> we present the results of a feasibility study for the detection of @xmath0 decays in pb  </S>",
+    "<S> pb collisions with alice . </S>"
+  ]
+}

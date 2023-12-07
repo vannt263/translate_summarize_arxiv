@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "the relativistic mean field theory ( rmft ) @xcite , which is essentialy a hartree - fock like method based on the dirac equation for nucleons and the klein - gordon equation for the : @xmath0 , @xmath1 , @xmath2 mesons and photons , reproduces well the nuclear properties when its parameters ( i.e. : masses of nucleons : @xmath3 , mesons : @xmath4 , @xmath5 , @xmath6 and their coupling constants @xmath7 , @xmath8 , @xmath9 , @xmath10 , @xmath11 ) are fitted to the largest possible amount of nuclear data . usually the masses and mean square radii of 8 magic nuclei were used to find the rmft parameters and several sets were established for various regions and quantities as : masses , barriers or radii .",
+    "we have chequed the quality of three sets : nl1 @xcite , nl2 @xcite , nl3 @xcite by comparing their macroscopic energies obtained by subtracting the strutinsky shell correction , from the rmft binding energies evaluated without pairing forces @xcite with the lublin - strasbourg - drop ( lsd ) energy @xcite .",
+    "the minimization of the root mean square of the differences of macroscopic energy allowed to find the new set of rmft parameters nl4 , which even if rather close to the nl3 , as can be seen on the table below , results in a rms deviation that is more than 2 times better ( 7.17 mev and 3.29 mev respectively ) .    [ cols=\"<,^,^,^,^,^,^,^,^,^\",options=\"header \" , ]",
+    "3 the derivation of the theoretical and experimental masses obtained with the rmft for the nl3 and nl4 parameter sets of are compared with the gogny d1s @xcite hartree - fock - bogolubov ( hfb ) results .",
+    "as one can see the nl4 masses are closer to the experimental data than nl3 ones , though they do nt reach the high quality of the d1s gogny force .",
+    "the discrepancies in fig .",
+    "3 are caused by the approximate treating of the pairing force . in rmft model",
+    "it is added by a bcs procedure with the experimental pairing gaps as an input , while the hfb method includes pairing correlations in the selfconsistent mean field .",
+    "the following conclusions can be drawn from our calculation :    * we have shawn that the new rmft nl4 parameters set reproduces the data of spherical , even - even nuclei better than the previous ones like the d1s gogny force . *",
+    "the isospin dependent formulae for radii in rmft nl4 are closer to the adjusted to experimental data ones than for other rmft forces .",
+    "walecka , ann .",
+    "83 ( 1974 ) 491 p.g.reinhard,m.rufa,j.g.maruhun,w.greiner,j.friedrich , z.phys.c323(1986)13 m.rufa,p.g.reinhard,j.g.maruhun,w.greiner,phys.rev.c38(1988)390 g.a .",
+    "lalazissis , j. knig , p. ring , phys .",
+    "c55 ( 1997 ) 540 b. nerlo - pomorska , k. mazurek , phys .",
+    "c66 ( 2002 ) 06 - 4305 k. pomorski , j. dudek , phys .",
+    "c 67 ( 2003 ) 044316 j.f .",
+    "berger , m. girod , d. gogny , nucl .",
+    "phys , a428 ( 1984 ) 23c c. j. batty , e. friedman , h. j. gils , h. rebel , adv.nucl.phys . 19",
+    "( 1989 ) 1 g. fricke , c. bernardt , k. heiling , l.a .",
+    "schaller , l.s .",
+    "schellenberg , e. r.shera , c.w .",
+    "de jager , at.data and nucl.data tables 60(1995)177"
+  ],
+  "abstract_text": [
+    "<S> subtracting the strutinsky shell corrections from the selfconsistent energies obtained within the relativistic mean field theory ( rmft ) we have got estimates for the macroscopic part of the binding energies of 142 spherical even - even nuclei . by minimizing their root mean square deviations from the values obtained with the lublin - srasbourg drop ( lsd ) model with respect to the nine rmft parameters we have found the optimal set ( nl4 ) . </S>",
+    "<S> the new parameters reproduce also the radii of these nuclei with an accuracy comparable with that obtained with the nl1 and nl3 sets . </S>"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "we have calculated the cross section of radiative capture process @xmath10 .",
+    "we applied pionless eft to find numerical results for the m1 contributions for this capture process for incident neutron energies relevant for bbn , @xmath12 mev . at these energy our calculation is dominated by s - wave state and magnetic transition m1 contribution .",
+    "the error estimate in the cross section in comparison with evaluated nuclear data file endf  @xcite is shown in fig .",
+    "[ error ] and table 1 .",
+    "errors estimate are 20 - 30 percent at leading order , below 10 percent up to nlo and by insertion of three - body force at n@xmath2lo , this error is reduced to below 1@xmath13 percent .",
+    "specially , our calculation shows minimum error for energy 60 - 70 kev up to at n@xmath2lo .",
+    "comparison of the lo with the nlo and n@xmath2lo results demonstrate convergence of the effective field theory .",
+    "finally , three - body forces will enter at higher orders of the eft approach and reduce the theoretical uncertainty .",
+    "the authors would like to thanks u. van kolck for helpful discussions .",
+    "we would like to thanks p.f .",
+    "bedaque and harald w. griehammer for useful comments and valuable mathematica code ."
+  ],
+  "abstract_text": [
+    "<S> the cross section of neutron - deuteron radiative capture @xmath0 is calculated at energies relevant to big - bang nucleosynthesis ( @xmath1 kev ) with pionless effective field theory . at these energies , </S>",
+    "<S> magnetic transition m1 gives the dominant contribution . </S>",
+    "<S> the m1 amplitude is calculated up to next - to - next - to leading order(n@xmath2lo ) with insertion of three - body force . </S>",
+    "<S> results are in good agreement within few percent theoretical uncertainty in comparison with available calculated data below e=200 kev .    * h. sadeghi * and * s. bayegan * +    _ department of physics , university of tehran , p.o.box 14395 - 547 , tehran , iran . _ +    1.0 cm    26.35.+c , 21.30.fe , 25.40.lw , 11.80.jy , 27.10.+h    [ cols= \" > , < \" , ]     at lo and nlo , this is the only three - body force entering , but at n@xmath2lo , where we saw that @xmath3 is required , it is determined by the triton binding energy @xmath4 . </S>",
+    "<S> we solve integral equation by expansion in order of @xmath5 and properly iterating the kernel . </S>",
+    "<S> then , the resulted @xmath6 will be folded to electromagnetic interaction order by order and properly integrated on the involving momentum .     in kev . </S>",
+    "<S> the short dashed , long dashed and solid line correspond to the error up to lo , nlo and n@xmath2lo , respectively . ]    for our calculation source of error due to low cutoffs and low momentums for very low energy calculation is neglected . </S>",
+    "<S> the cutoff variation decreases steadily as we increase the order of the calculation and is of the order of @xmath7 , where @xmath8 is the order of the calculation . </S>",
+    "<S> we used @xmath9 mev , for the smallest cutoff .    </S>",
+    "<S> the cross section calculation for neutron radiative capture by deuteron as function of the center - of - mass energy at lo , nlo and n@xmath2lo is shown in fig .  [ crosssection ] .    </S>",
+    "<S> table 1 shows numerical results for the eft @xmath10 cross section for various nucleon center of mass energies e up to n@xmath2lo and errors estimate at every order in comparison with the last column . </S>",
+    "<S> the corresponding values for the cross section from the online evaluated nuclear data file endf / b - vi  @xcite are shown in the last column . </S>",
+    "<S> the eft results for this cross section are presented up to only two significant digits(the third digit is shown for better comparison with endf data ) . in fig </S>",
+    "<S> .  [ error ] , we show the error due to available evaluated data endf  @xcite in percentage versus nucleon center - of - mass kinetic energy @xmath11 in kev . </S>"
+  ]
+}

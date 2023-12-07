@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "the aim of this paper is to study the influence of the additional @xmath1 meson and nonlinear vector meson interactions on neutron star parameters .",
+    "the considered model comprises : nucleons , mesons and leptons .",
+    "the starting point is the construction of the effective lagrangian intended for application to the model described @xmath2 the scalar sector consists of two isoscalar ( @xmath3 and @xmath4 ) and two isovector ( @xmath5 and @xmath1 ) mesons , denoted by @xmath6 , @xmath7 , @xmath8 and @xmath9 respectively .",
+    "meson @xmath1 has to be included as the model describes highly asymmetric neutron star matter .",
+    "@xmath10 , @xmath11 , @xmath12 are the field tensors , the covariant derivative is given by @xmath13 .",
+    "the potential function has the form @xmath14 the nucleon masses are denoted by @xmath15 whereas @xmath16 , @xmath17 , @xmath18 and @xmath19 are masses assigned to the meson fields .",
+    "+ the parameters entering the lagrangian function ( [ lag ] ) have been chosen to reproduce the equilibrium properties of symmetric nuclear matter .",
+    "as it is usually assumed in quantum hadrodynamics @xcite the mean field approximation is adopted and for the ground state of homogeneous infinite matter , quantum fields operators are replaced by their classical expectation values .",
+    "thus mesonic fields can be separated into classical mean field values and quantum fluctuations which are not included in the ground state : @xmath20 the field equations derived from the lagrangian function at the mean field level are @xmath21 @xmath22 @xmath23 @xmath24 their forms indicate the in - medium modification of meson and nucleon masses @xcite,@xcite .",
+    "the function @xmath25 is expressed with the use of fermi integrals @xmath26 where @xmath27 and @xmath28 are the spin and isospin projection , @xmath29 is the fermi momentum of species n ( @xmath30 ) , @xmath31 denotes the baryon density .",
+    "the effective nucleon mass which follows from the dirac equation has the form @xmath32           the analyzed form of the equation of state leads to the conclusion that the inclusion of @xmath1 meson and nonlinear vector meson interactions causes the softening of the equation of state and in the result the decrease of the neutron star parameters ( fig.3 ) .",
+    "of special interest is the case which includes @xmath1 meson , the quartic @xmath5 meson term and nonlinear vector meson interactions ( set iii in table i ) .",
+    "this case leads to the neutron star model with the value of the maximum radius @xmath33 km .",
+    "this result is consistent with recent observations @xcite of rx j185635 - 3754",
+    ".    1 serot b.d . ,",
+    "walecka j.d .",
+    "1997 _ recent progress in quantum hadrodynamics _ _ int .",
+    "phys . _ * e6 * 515 horowitz c. j. and piekarewicz j. , phys .",
+    "lett . , 2001",
+    "* 86 * , 5647 maka r. , bednarek i. 2001 , _",
+    "j.phys.g._,*27 * , 1975 , bednarek i. , maka r. , 2001 , _",
+    "int.j.mod.phys.d._ , * 10 * , 607 maka r. , bednarek i. and przybya 2000 _ phys . rev . _",
+    "* c62 * 015802 prakash m. , lattimer j.m .",
+    ", steiner a.w . ,",
+    "page d. _ astro - ph _ 0209122"
+  ],
+  "abstract_text": [
+    "<S> the neutron star parameters in the model extended by the inclusion of @xmath0 meson and additional nonlinear vector meson interactions are studied . </S>"
+  ]
+}

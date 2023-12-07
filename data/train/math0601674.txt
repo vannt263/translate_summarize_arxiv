@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "i am indebted to many people .",
+    "first i will thank v. weispfenning for introducing me in this subject , for his important developments and by his direct help in all the work .",
+    "then i am indebted to r. sendra for giving me the nice proof of lemma  [ irredvarlem ] that i present here .",
+    "i am also indebted to j. pfeifle for his many helpful comments and frequent discussions .",
+    "i am indebted to m. wibmer for his interesting examples helping me to understand the sheaf case and other special cases .",
+    "i would like to thank p. viader and julian pfeifle for their many helpful comments and his insightful perusal of the first draft .",
+    "finally i thank my ph .",
+    "d. student m. manubens for helping in all the discussions and implementation details without which the theoretical results would not have been possible .",
+    "m.  manubens , a.  montes .",
+    "improving dispgb algorithm using the discriminant ideal . :",
+    "11 ( 2006 ) 12451263 .",
+    "m.  manubens , a.  montes .",
+    "minimal canonical comprehensive grbner system .",
+    "arxiv : math.ac/0611948 , ( 01 - 12 - 06 ) .",
+    "( to be published in the _ jour .",
+    "_                m.  rychlik .",
+    "complexity and applications of parametric algorithms of computational algebraic geometry . in : dynamics of algorithms .",
+    "r. del la llave , l. petzold , and j. lorenz .",
+    "i m a volumes in mathematics and its applications , springer - verlag , * 118 * ( 2000 ) 129 .",
+    "suzuki , a. , sato , y. , 2006 . a simple algorithm to compute comprehensive grbner bases .",
+    "proceedings of issac 2006 , acm .",
+    "p 326 - 331 .",
+    "implementation in risa / asir and maple ( http://kurt.scitec.kobe-u.ac.jp/@xmath4sakira/ ) ."
+  ],
+  "abstract_text": [
+    "<S> given a parametric polynomial ideal @xmath0 , the algorithm dispgb , introduced by the author in 2002 , builds up a binary tree describing a dichotomic discussion of the different reduced grbner bases depending on the values of the parameters , whose set of terminal vertices form a comprehensive grbner system ( cgs ) . </S>",
+    "<S> it is relevant to obtain cgs s having further properties in order to make them more useful for the applications . in this paper </S>",
+    "<S> the interest is focused on obtaining a canonical cgs . </S>",
+    "<S> we define the objective , show the difficulties and formulate a natural conjecture . </S>",
+    "<S> if the conjecture is true then such a canonical cgs will exist and can be computed . </S>",
+    "<S> we also give an algorithm to transform our original cgs in this direction and show its utility in applications .    </S>",
+    "<S> [ cols= \" < \" , ]     it can be seen that the mccgs algorithm gives a very compact solution for the problem easy to interpret . </S>",
+    "<S> this is generally so for many other problems . </S>",
+    "<S> it has been successfully applied to geometrical theorem discovery  @xcite obtaining very simple answers for relatively complex problems .     </S>",
+    "<S> mccgs tree for exemple 1 . </S>",
+    "<S> ]    there are two possible lacks coming from the conjecture and the semi - algorithm genimage as we must set artificial bounds to make it algorithmic . </S>",
+    "<S> nevertheless , the use of mccgs is at least useful to find examples where the minimal canonical cgs either does not exist or is not obtained by the actual algorithm , providing examples to test both the conjecture and the semi - algorithm .    </S>",
+    "<S> finally it must be pointed out that the term order @xmath1 chosen for the computation in @xmath2 only affect the description by grbner bases of the varieties describing the segments but not to the varieties themselves . </S>"
+  ]
+}

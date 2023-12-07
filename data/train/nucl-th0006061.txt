@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "in the last years , more and more experimental evidence concerning neutron distributions in nuclei has become available @xcite . in particular",
+    ", it has been found that several neutron rich nuclei display a neutron skin or even a neutron ` stratosphere ' called the neutron halo .",
+    "such properties of neutron distributions have been predicted by the asymptotic density model @xcite , the relativistic mean field theory @xcite , and hartree - fock calculations with skyrme forces @xcite .    with the increasing amount of experimental data available , halo factors",
+    "can now be used as an additional test of nuclear effective interactions .",
+    "namely , microscopic approaches should be able to reproduce not only binding energies and charge radii , but also the detail of density distributions , especially density tails at large distance from the nucleus center .",
+    "the aim of this work is to perform such a test for the effective interaction proposed by gogny @xcite .",
+    "while many applications have shown the high quality of this force for describing a wide range of nuclear properties [ 47 ] , no systematic study in this direction has been made up to now . the mean - field theory employed with the gogny force",
+    "is applied to nineteen halo nuclei found in @xcite .",
+    "we calculate neutron and proton density distributions at large distance , one- and two - neutron separation energies , and the halo factors related to the probability of annihilation of antiproton from atomic  like orbitals .",
+    "these results are compared with experimental data and with hartree - fock calculations performed with the sly4 interaction @xcite .    in section 2 ,",
+    "we recall the form of the gogny effective interaction and we describe the method by which the results mentioned above are obtained numerically . in section 3 , neutron separation energies and density distributions at large distance from the center of the nucleus are analyzed . in section 4 , the prescription employed for evaluating halo factors is given and the theoretical values obtained are compared with experimental data . conclusions and plans for further investigations are presented at the end of the paper .",
+    "the gogny two  body effective nuclear interaction has the following form @xcite : @xmath0 \\cdot ( w_i+b_i\\hat p_\\sigma - h_i\\hat p_\\tau - m_i\\hat p_\\sigma\\hat p_\\tau)+ \\nonumber\\\\ + t_3 ( 1 + x_0\\hat p_\\sigma)\\,\\delta ( \\vec r_1 - \\vec r_2 ) \\left[\\rho\\left({\\vec",
+    "r_1+\\vec r_2\\over 2}\\right)\\right]^\\gamma + \\\\",
+    "+ iw_{\\rm ls}(\\vec\\sigma_1 + \\vec\\sigma_2 ) \\cdot \\stackrel{\\leftarrow}{\\nabla}_{12 }      \\times \\delta(\\vec r_1-\\vec r_2 ) \\vec\\nabla_{12 } + v_{\\rm coul.}\\ , , \\nonumber\\end{aligned}\\ ] ] the first line represents two finite range terms ( @xmath1 ) , with the usual superposition of wigner , bartlett , heisenberg and majorana spin - isospin contributions .",
+    "@xmath2 is the space coordinate of nucleon @xmath3 , and @xmath4 and @xmath5 are the exchange operators of spin and isospin variables , respectively . the second line of eq .",
+    "( 1 ) describes a two - body zero - range density ",
+    "dependent interaction .",
+    "the last line contains a two - body zero - range spin  orbit term and the coulomb potential between protons . here ,",
+    "@xmath6 , and @xmath7 is twice the spin operator of nucleon @xmath3 ."
+  ],
+  "abstract_text": [
+    "<S> the proton and neutron density distributions , one- and two - neutron separation energies and radii of nuclei for which neutron halos are experimentally observed , are calculated using the self - consistent hartree - fock - bogoliubov method with the effective interaction of gogny . </S>",
+    "<S> halo factors are evaluated assuming hydrogen - like antiproton wave functions . </S>",
+    "<S> the factors agree well with experimental data . </S>",
+    "<S> they are close to those obtained with skyrme forces and with the relativistic mean field approach . </S>"
+  ]
+}

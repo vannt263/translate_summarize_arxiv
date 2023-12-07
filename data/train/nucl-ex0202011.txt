@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "the goal of this experiment  @xcite is a determination of the rate @xmath10 of the basic charged  current reaction @xmath11 via the lifetime of @xmath12 bound in the singlet @xmath13(f=0 ) system to an accuracy @xmath14 better than @xmath15 .",
+    "the comparison of @xmath16 for @xmath17 atoms with that for free @xmath18 s will considerably improve the determination of the induced pseudoscalar coupling constant @xmath19 to the level @xmath20 . the @xmath18 lifetime will be measured simultaneously as a reference and to check systematics .",
+    "the lifetime measurements will be done with a time projection chamber ( tpc ) filled with 10 bar of ultra - pure deuterium - depleted hydrogen surrounded by multi wire proportional chambers and a hodoscope of scintillation detectors .",
+    "precision measurements of muon capture by the proton provide a challenging opportunity to test our understanding of chiral symmetry breaking in qcd . in the absence of second class currents , the electroweak structure of the nucleon can be described by four form factors @xmath21 , @xmath22 , @xmath23 , and @xmath24 that determine the matrix elements of the charged vector and axial currents . while the first three of these form factors are well determined by standard model symmetries and experimental data , the pseudoscalar form factor @xmath24 is experimentally known to much less precision ( fig .",
+    "[ figgp ] ) .",
+    "the recent rmc result @xmath25 @xcite exceeds the theoretical predictions by 4.2 @xmath26 .",
+    "the precision of the older omc results was mainly limited by absolute calibration of the neutron detectors . the most accurate measurement with 4.5% precision",
+    "was performed in saclay  @xcite using the lifetime technique in a liquid hydrogen target . at this high density",
+    "@xmath27 capture proceeds not only from the free proton , but also from the ortho and para states of the @xmath28 molecule .",
+    "the uncertainty in the transition rate @xmath29 between these states leads to a significant error in the interpretation of this measurement .",
+    "a recent experiment on @xmath30 capture @xcite gives @xmath31 ( the accuracy is limited by the theoretical extraction of @xmath24 from the three  nucleon system ) in better agreement with theory .",
+    "this controversial experimental situation is in stark contrast to the recent progress in the theoretical understanding of muon capture achieved within the framework of low energy effective theories of qcd .",
+    "the dominant contribution to the pseudoscalar form factor is given by the pion pole ( pcac ) , and the leading correction to the pole term can be derived from qcd ward identities @xcite confirming the old current  algebra result @xcite .",
+    "possible higher order corrections appear to be small @xcite .",
+    "recent calculations of singlet and triplet muon capture rates in heavy",
+    " baryon chiral perturbation theory@xcite and in the small - scale expansion @xcite are in a good agreement with the careful analysis @xcite .",
+    "the final @xmath0cap detector is presently under construction and first production running is expected in fall 2002 .",
+    "there exist several exciting future extensions of the physics reach for this program . a second phase of the experiment might aim at a 0.3% measurement of @xmath10 to achieve an experimental precision of 3% in @xmath24 matching the present theoretical error .",
+    "this proposal is based on an intense chopped muon beam  @xcite , which is presently being developed for the @xmath32 experiment  @xcite . a very recent idea  @xcite concerns a precision measurement of the d@xmath0 capture process , both its integral rate and dalitz plot distribution . within the framework of pion - less effective theories",
+    "muon capture on the deuteron is directly related to the pp fusion in the sun  @xcite and neutrino deuteron scattering as observed in the sudbury neutrino observatory  @xcite and , thus , appears a unique possibility to calibrate these fundamental processes of current topical interest .    finally , let me express my sincere gratitude to ken nagamine and the organizers of mcf01 for the opportunity to enjoy this stimulating meeting and let me congratulate him for his remarkable contributions to this field of muon physics ."
+  ],
+  "abstract_text": [
+    "<S> the aim of the @xmath0cap experiment is a 1% measurement of the singlet capture rate @xmath1 for the basic electro - weak reaction @xmath2 . </S>",
+    "<S> this observable is sensitive to the weak form - factors of the nucleon , in particular to the induced pseudoscalar coupling constant g@xmath3 . </S>",
+    "<S> it will provide a rigorous test of theoretical predictions based on the standard model and effective theories of qcd . </S>",
+    "<S> the present method is based on high precision lifetime measurements of @xmath4 in hydrogen gas and the comparison with the free @xmath5 lifetime . </S>",
+    "<S> the @xmath4 experiment will be performed in ultra - clean , deuterium - depleted h@xmath6 gas at 10 bar . </S>",
+    "<S> low density compared to liquid h@xmath7 is chosen to avoid uncertainties due to pp@xmath8 formation . </S>",
+    "<S> a time projection chamber acts as a pure hydrogen active target . </S>",
+    "<S> it defines the muon stop position in 3-d and detects rare background reactions . </S>",
+    "<S> decay electrons are tracked in cylindrical wire - chambers and a scintillator array covering 75% of 4@xmath9 .    </S>",
+    "<S> muon , capture , proton , pseudoscalar form factor , tpc </S>"
+  ]
+}

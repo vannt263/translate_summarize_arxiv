@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the star detector at rhic  @xcite is a large acceptance spectrometer with a very broad physics program , including precision measurements of a wide variety of strange particles .",
+    "the star experimental configuration during the early years of rhic operation is shown in figure [ setup ] .",
+    "for the first year of rhic running , the active detectors are the time projection chamber ( tpc ) , the zero degree calorimeters ( zdc )  @xcite , the central trigger barrel ( ctb ) , and the ring imaging cerenkov counter ( rich ) .",
+    "the solenoidal magnet has a maximum field strength of 0.5 tesla but for the first year is run at 0.25 tesla .",
+    "for operation in the second year , star will install the silicon vertex tracker ( svt ) , two forward tpcs ( ftpc ) , a time - of - flight ( tof ) patch , and 26 modules of the barrel electromagnetic calorimeter ( emc ) , comprising 22% of the full barrel emc which will be completed by 2003 .",
+    "details on the acceptance of the various detector components relevant for strange particle reconstruction are given in the following section .",
+    "rhic began operations for physics in the summer of 2000 . together with the other rhic experiments , star observed collisions immediately .",
+    "the quality of track reconstruction in the tpc is high and efforts to understand and quantify the tracking efficiency are underway .",
+    "the performance of the star tpc is illustrated in figure  [ tpcperformance ] .",
+    "the left panel shows the specific ionization ( truncated mean de / dx ) in the tpc for au+au collisions at @xmath0 gev , as a function of track momentum .",
+    "the curves are the bethe - bloch parameterization of de / dx .",
+    "the bands for pions , kaons , protons , deuterons and electrons are visible .",
+    "the relative de / dx resolution is approaching the design goal of 8% .",
+    "the left panel shows the momentum resolution of the tpc as a function of momentum for charged tracks from cosmic rays that have been independently reconstructed in the upper and lower halves of the tpc in a 0.5 tesla magnetic field .",
+    "the solid curve labelled `` cdr '' is the design goal , with the difference from measurement due in large part to known instrumental effects that have since been rectified .",
+    "the response of the star trigger detectors ( zdc and ctb ) to au+au collisions at @xmath0 gev is shown in figure  [ startrigger ] , under the condition that both zdc signals are above a threshold .",
+    "the vertical axis is the summed pulse height of all ctb slats and horizontal axis is the summed pulse height of the two zdcs .",
+    "the zdc measures forward - going neutrons ( @xmath1 mrad ) and its response contains contributions from both nuclear collisions and mutual coulomb dissociation  @xcite ( the latter process does not generate tracks at mid - rapidity and is not visible in the figure ) . for nuclear collisions",
+    ", low zdc response corresponds to a low number of spectator neutrons , which can occur for both very peripheral and very central collisions , whereas the ctb signal increases monotonically with increasing multiplicity at mid - rapidity .",
+    "thus , the most central nuclear collisions correspond to low zdc and high ctb response ( corresponding to high multiplicity at mid - rapidity ) .",
+    "the trigger inefficiency for central collisions due to the coincidence condition applied to the zdcs was measured to be much less than 1% .",
+    "the rich is a proximity - focusing ring imaging cerenkov counter for identifying charged hadrons at high momentum within an acceptance of 10 msr at y@xmath2=0 , and was developed as a joint project with the alice collaboration .",
+    "rings with the expected photon yields have been observed in the rich for au+au collisions .    in summary ,",
+    "the star detector for the first year of rhic operation is performing extremely well , and we expect many physics results from this first round of data taking .",
+    "by virtue of its large tracking acceptance and the ability to perform particle identification over a wide kinematic range , star is well suited to measuring a variety of strange particles .",
+    "table [ parts ] lists the strange particles and resonances that are accessible to star and which have been studied in monte - carlo simulations .",
+    "based on the result of these simulations we discuss the expected reconstruction performance of the star detector for various strange particle measurements .",
+    ".list of some of the strange particles and their decay modes accessible to star . [ cols=\"<,^,^,^ \" , ]",
+    "99 star collaboration ( k. h. ackerman _ et al .",
+    "_ ) , nucl . phys . * a661 * , 681c ( 1999 ) . c. adler _",
+    "et al . _ , preprint nucl - ex/0008005 .",
+    "a. j. baltz , c. chasman and s. white , nucl . instr",
+    "a417 * , 1 ( 1998 ) .",
+    "j. podolanski and r. armenteros , phil . mag . * 45 * , 13 ( 1945 ) ."
+  ],
+  "abstract_text": [
+    "<S> star is a large acceptance spectrometer capable of precision measurements of a wide variety of strange particles . </S>",
+    "<S> we discuss the star detector , its configuration during the first two years of rhic operation , and its initial performance for au+au collisions . the expected performance for strangeness physics and initial data on strange particle reconstruction in au+au collisions are presented . </S>"
+  ]
+}

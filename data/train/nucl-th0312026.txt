@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "with isospin symmetry conserving interactions , the @xmath1 of neutron - rich matter of isospin asymmetry @xmath2 can be written as ( see e.g. , @xcite ) , @xmath3 , where @xmath4 and @xmath5 is the energy per nucleon in isospin asymmetric and symmetric nuclear matter , respectively .",
+    "the density dependence of the symmetry energy @xmath6 is the most important issue about the eos of neutron - rich matter@xcite .",
+    "in fact , to determine the @xmath6 has been a longstanding goal of extensive research with various microscopic and/or phenomenological models over the last few decades . however , the predicted @xmath6 are still rather divergent especially at high densities .",
+    "theoretical results can be roughly classified into two groups , i.e. , a group where the @xmath6 rises monotonically with density and one in which it begins to fall above about @xmath7@xcite .",
+    "the high density behaviour of @xmath6 is actually considered by some astrophysicists as the most uncertain property of dense neutron - rich matter@xcite .",
+    "the importance of probing the eos of neutron - rich matter lies in both nuclear physics and astrophysics .",
+    "first of all , new structures of dripline nuclei , such as the appearance of new magic numbers , and the reaction mechanisms of radioactive nuclei are all strongly influenced by the isospin - dependence of the nuclear eos .",
+    "it also has profound consequences on many important issues in astrophysics@xcite .",
+    "these include nucleosynthesis in pre - supernova evolution of massive stars , mechanisms of supernova explosions , neutrino flux , kaon condensations and the hadron - qgp phase transition in neutron stars , etc .",
+    "in a neutron star , several of its main properties are affected significantly by the correlation between the density and the proton fraction @xmath8 at @xmath9 equilibrium .",
+    "the latter is determined by @xmath10 the equilibrium proton fraction is therefore entirely determined by the @xmath6 .",
+    "we use the following two forms of the symmetry energy for an illustration @xmath11 and @xmath12 where @xmath13 .",
+    "the values of @xmath14 corresponding to these two forms of symmetry energy are shown in the insert of fig .  1 .",
+    "with the @xmath15 , the @xmath16 is @xmath17 for @xmath18 , indicating that the neutron star has become a pure neutron matter at these high densities . on the contrary , with the @xmath19 ,",
+    "the neutron star becomes more proton - rich as the density increases . to see the connection between neutron stars and heavy - ion collisions , using a nuclear transport model@xcite we study in fig .  1 the isospin asymmetry @xmath20 in central @xmath21 reactions@xcite .",
+    "effects due to the different symmetry energies are clearly revealed especially at high densities .",
+    "an astonishing similarity is seen in the resultant @xmath22 correlations for neutron stars and heavy - ion collisions since the same underlying nuclear @xmath1 is at work in both cases .",
+    "it is qualitatively easy to understand why the @xmath0 ratio in heavy - ion collisions can be used to extract crucial information about the eos of neutron - rich matter . on one hand , within the @xmath23 resonance model for pion production from first - chance independent nucleon - nucleon collisions , the primordial @xmath0 ratio is @xmath24 .",
+    "it is thus sensitive to the isospin asymmetry @xmath25 of dense matter in the participant region of heavy - ion collisions . on the other hand , within the statistical model for pion production@xcite ,",
+    "the @xmath0 ratio is proportional to @xmath26 $ ] , where t is the temperature .",
+    "the difference in nucleon chemical potentials @xmath27 is proportional to the strength of the symmetry potential@xcite .",
+    "therefore from both pictures the @xmath0 ratio is useful for extracting the eos of dense neutron - rich matter .    shown in fig .  2 are the isospin asymmetry of the high density region @xmath28 ( left ) and the @xmath29 ratio ( right ) @xmath30 as a function of time for the central @xmath21 reaction at beam energies from 200 to 1000 mev / nucleon .",
+    "this ratio naturally becomes the final @xmath0 ratio at the freeze - out when the reaction time @xmath31 is much longer than the lifetime of the delta resonance @xmath32 .",
+    "the @xmath29 ratio is rather high in the early stage of the reaction because of the large numbers of neutron - neutron scatterings near the surfaces where the neutron skins of the colliding nuclei overlap .",
+    "it is seen that a variation of about 30% in the @xmath33 due to the different @xmath6 results in about 15% change in the final @xmath0 ratio .",
+    "it has thus an appreciable response factor of about 0.5 to the variation of n / p ratio and is approximately beam energy independent .",
+    "therefore , the @xmath29 ratio is a sensitive probe of the high density behaviour of nuclear symmetry energy . shown in fig .",
+    "3 is the reaction system dependence of the @xmath0 ratio .",
+    "the symmetry energy effects increase with the isospin asymmetry energy as one expected .    in summary , within an isospin - dependent transport model we found that the @xmath0 ratio is a promising probe of the eos of dense neutron - rich matter .",
+    "this work was supported by the national science foundation under grant no .",
+    "phy-0088934 and phy-0243571 ."
+  ],
+  "abstract_text": [
+    "<S> nuclear reactions induced by high energy radioactive beams create a transient state of nuclear matter with high density and appreciable neutron to proton asymmetry . this will provide a unique opportunity to explore novel properties of dense neutron - rich matter and the isospin - dependence of the nuclear equation of state ( eos ) . here </S>",
+    "<S> we study the @xmath0 ratio as a probe of the eos of dense neutron - rich matter . </S>"
+  ]
+}

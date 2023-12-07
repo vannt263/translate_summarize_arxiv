@@ -1,0 +1,15 @@
+{
+  "article_text": [
+    "this work is part of some specific physical experiments which consist in studying radially symmetric objects @xcite .",
+    "these objects are composed of several materials and one of the interesting features is the location of the frontier between the different materials .        to look at the interior of this object , a radiography is performed ( see figure [ fig : treatment](a ) ) , then a tomographic reconstruction is computed ( figure [ fig : treatment](b ) ) and finally an edge detection is made ( figure [ fig : treatment](c ) ) ."
+  ],
+  "abstract_text": [
+    "<S> in this paper , we propose an edge detection technique based on some local smoothing of the image followed by a statistical hypothesis testing on the gradient . an edge point being defined as a zero - crossing of the laplacian </S>",
+    "<S> , it is said to be a significant edge point if the gradient at this point is larger than a threshold @xmath0 defined by : if the image @xmath1 is pure noise , then @xmath2 . </S>",
+    "<S> in other words , a significant edge is an edge which has a very low probability to be there because of noise . </S>",
+    "<S> we will show that the threshold @xmath0 can be explicitly computed in the case of a stationary gaussian noise . in images we are interested in , which are obtained by tomographic reconstruction from a radiograph , </S>",
+    "<S> this method fails since the gaussian noise is not stationary anymore . </S>",
+    "<S> but in this case again , we will be able to give the law of the gradient conditionally on the zero - crossing of the laplacian , and thus compute the threshold @xmath0 . </S>",
+    "<S> we will end this paper with some experiments and compare the results with the ones obtained with some other methods of edge detection .    ,    ,    ,    edge detection , significant edges , inverse problem , statistical hypothesis testing </S>"
+  ]
+}

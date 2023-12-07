@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "recently , measurements of diffractive jet rates in @xmath1 interactions at the tevatron were observed to be significantly lower than the theoretical expectations ( for a review see @xcite ) .",
+    "the expectations were obtained using parameterizations of diffractive parton distribution functions extracted from @xmath0 interactions at hera .",
+    "the discrepancy between the data and the calculations revealed the breakdown of factorization or the onset of absorptive corrections in @xmath1 diffractive events@xcite .",
+    "the physical reason for the breakdown of factorization is likely to be related to the different color structure of the probes in @xmath1 and @xmath0 reactions . in @xmath0 , the compact , color singlet @xmath3 pair produced by the virtual photon has a smaller probability of interacting with the external color fields and therefore has a larger rapidity gap survival probability . in @xmath1 ,",
+    "the color octet gluon at comparable virtualities still interacts strongly with the external color fields , reducing its rapidity gap survival probability .",
+    "the implications of the breakdown of factorization are now studied in nuclear shadowing and dijet production .",
+    "nuclear shadowing is defined as the ratio of the @xmath2 to the @xmath4 total cross section , @xmath5 .",
+    "the total cross section for @xmath2 interactions can be written as the sum of two terms @xmath6 where the second term , representing elastic and inelastic @xcite shadowing , can be written as@xcite @xmath7 , \\end{aligned}\\ ] ] where @xmath8 is the single diffractive cross section , @xmath9 is the coherence length of the resonance state x , and @xmath10 is the nuclear density ( @xmath11 is normalized to @xmath12 and is taken to be gaussian in all calculations presented here ) . in eq .",
+    "[ deltasigma_pa ] , @xmath13 depends upon the @xmath4 diffractive cross section . unlike @xmath14 interactions , @xmath15 can not be directly associated with the shadowing of the structure functions ( for a review see @xcite ) .",
+    "in regge theory , the dominant contribution to the single diffractive cross section at high energy is the triple pomeron term .",
+    "the single diffractive cross section can be expressed as @xmath16 where @xmath17 and @xmath18 . in these expressions",
+    ", @xmath19 represents the coupling of the pomeron to the proton , @xmath20 , and the pomeron intercept @xmath21 , where @xmath22 .",
+    "while this form is able to describe the diffractive @xmath0 cross section , it fails to describe the recently observed energy dependence of the diffractive @xmath1 cross section .",
+    "a reasonable parameterization of the diffractive @xmath1 cross section is obtained by normalizing @xmath23 according to the following scheme@xcite , @xmath24 where @xmath25 in this scheme , the cross section becomes constant at high energies , @xmath26 .    the effect of using this parameterization on the correction term in eq .",
+    "[ deltasigma_pa ] is shown in figure [ delta_sd ] . here , the solid line is a calculation of @xmath27 for @xmath28 with the parameterization , while the dashed line is the nive triple pomeron contribution .",
+    "the normalization scheme needed to reproduce @xmath1 data results in a dramatic reduction of the shadowing in @xmath2 .",
+    "a simple formula for calculating diffractive dijet production will be utilized in this section . to begin , the hadronic state @xmath29 is expanded in terms of its diffractive eigenstates @xmath30 @xcite , @xmath31    the diffractive cross section can be expressed as the sum over the cross sections for all diffractive final states minus the elastic cross section , @xmath32 , \\label{diff_pa}\\end{aligned}\\ ] ] where @xmath33 is the nuclear thickness function .      substituting eq .",
+    "[ sum ] into eq .",
+    "[ diff_pa ] , the diffractive cross section can be expressed as @xmath39 and the ratio of the @xmath2 to @xmath4 differential diffractive cross section is @xmath40 at large @xmath41 , eq .",
+    "[ ratio ] represents the ratio of the diffractive dijet production in @xmath2 to @xmath4 . in figure",
+    "[ ratio_pa ] , @xmath42 is plotted for @xmath43 ( higher curve ) and for @xmath28 ( lower curve ) at @xmath44 . as a increases ,",
+    "fewer diffractive dijets are produced relative to @xmath4 .",
+    "a similar formula applies for @xmath14 diffractive dijet production ( changing @xmath45 and @xmath46 ) .",
+    "the ratio for @xmath14 is shown in figure [ ratio_ea ] .",
+    "the ratio of dijets with the @xmath47 probe is larger than in @xmath2 , since @xmath48 .",
+    "measurements of diffractive dijet production and nuclear shadowing in @xmath2 interactions at rhic energies are needed to better understand the nature of diffraction and the quark - gluon wave function of the nucleus ."
+  ],
+  "abstract_text": [
+    "<S> we study the implications of non - universality observed recently in @xmath0 and @xmath1 diffraction for nuclear shadowing and diffractive dijet production in @xmath2 collisions . </S>"
+  ]
+}

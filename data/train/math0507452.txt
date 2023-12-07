@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "in ref.@xcite is introduced the notion of statistical duality and is shown that several pairs of distributions ( poisson and gamma , normal and normal , cauchy and cauchy ) are statistically dual distributions . these distributions allow to exchange the parameter and the random variable , conserving the same formula for the distribution of probabilities .",
+    "the interrelation between the statistically dual distributions and conjugate families is considered in ref.@xcite .",
+    "it allows to use the statistical duality for estimation of the distribution parameter .    in the paper",
+    "we show that laplace distributions are statistically dual distributions .",
+    "the probability density of the laplace distribution is    @xmath0    where @xmath1 is a real variable , @xmath2 and @xmath3 are real parameters .",
+    "here we can exchange the parameter @xmath2 and variable @xmath1 with conserving of the same formula for new density .",
+    "this new density can be named as a confidence density of the parameter @xmath2  ( for example ,  @xcite )    @xmath4    where @xmath2 is a real variable , @xmath1 and @xmath3 are real parameters",
+    ".    by this means the laplace distributions are a statistically self - dual distributions  @xcite .",
+    "let @xmath5 be a result of single observation of random variable @xmath1 .",
+    "if we define the confidence interval @xmath6  ( see , also , @xcite ) as     @xmath7    where @xmath8 are real values and @xmath9 , we can reconstruct the confidence density of the parameter @xmath2 .",
+    "this is due to the fact that the identity    @xmath10    takes place for any real values @xmath3 and @xmath8 .",
+    "let us suppose that @xmath11 is the confidence density of parameter of the laplace distribution if observed value of random variable @xmath1 is equal to @xmath5 .",
+    "it is a conditional probability density . as it follows from formulae ( eqs.2,4 )",
+    ", the @xmath11 is the density of laplace distribution by definition .    on the other hand : if @xmath11 is not equal to this confidence density and the confidence density of the laplace parameter is the other function @xmath12 then there takes place another identity    @xmath13    this identity is correct for any real @xmath8 and @xmath5 too .",
+    "the first and third terms in the left part of this identity determine the boundary conditions on the confidence interval .",
+    "if we subtract eq.5 from eq.4 then we have    @xmath14    we can choose the @xmath15 and @xmath16 by the arbitrary way .",
+    "let us make this choice so that @xmath11 is not equal @xmath12 in the interval @xmath6 and , for example , @xmath17 and @xmath18 .",
+    "in this case we have    @xmath19    and we have contradiction . hence @xmath20 everywhere except , may be , a finite set of points .    as a consequence , the reconstruction of the confidence density of the laplace distribution parameter @xmath2 is an unique , i.e. the confidence density of the parameter @xmath2 is the probability density @xmath11 .",
+    "so , the statistical duality allows to connect the estimation of the parameter with the measurement of the random variable of the laplace distribution .",
+    "in the paper we show that the laplace distribution is a statistically self - dual distributions .",
+    "the confidence density of the laplace distribution parameter is determined in case of single observation @xmath5 of random variable @xmath1 .",
+    "it allows to construct the confidence intervals for parameter @xmath2 of the distribution by the easy way .",
+    "the authors are grateful to v.a .",
+    "kachanov , n.v .",
+    "krasnikov and v.f .",
+    "obraztsov for the interest and useful comments , s.s .",
+    "bityukov , yu.p .",
+    "gouz , c.  wulz for fruitful discussions and e.a .",
+    "medvedeva for help in preparing the paper .",
+    "this work has been particularly supported by grants rfbr 04 - 01 - 97227 and rfbr 04 - 02 - 16020 .",
+    "bityukov , n.v .",
+    "krasnikov , statistically dual distributions and conjugate families , 25th internat . workshop on bayesian inference and maximum entropy methods in science and engineering ( maxent 2005 ) , san jose state university , san jose ca usa aug 7 - 12 , 2005 ."
+  ],
+  "abstract_text": [
+    "<S> the statistical duality of distributions is a powerful tool for statistical inferences . in the paper </S>",
+    "<S> the statistical duality of laplace distribution is discussed . as shown </S>",
+    "<S> the confidence density of the parameter of this distribution is uniquely determined .    </S>",
+    "<S> uncertainty , statistical duality , measurement , estimation    02.50.tt , 06.20.dk , 07.05.kf </S>"
+  ]
+}

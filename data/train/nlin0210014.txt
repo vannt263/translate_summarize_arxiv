@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "nowadays it is frequent to use computational algorithms in order to produce images of plants and trees that resemble their natural counterparts .",
+    "these visualizations , which present several symmetric bifurcations @xcite , encouraged us to analyze the _ asparagus plumosus _ @xcite .",
+    "this plant is a native of africa , but often cultivated in the rest of the world as an ornament .",
+    "the plant can be easily identified : it is semi - climbing , has a typical height of 2 m , its main branches measure from 25 to 50 cm , and all branches have philiform divisions ; its flowers are white and have six petals each , their fruits are purple spheres , 7 mm in diameter",
+    ". observed in some detail ( figs . 1 - 3 ) ,",
+    "the ` leaves ' of this plant , consist of repeated bifurcations from the main stem , showing a high degree of both , symmetry and scaling ; these branching can also be observed even at the smallest scale .",
+    "two other peculiar characteristics of the ` leaves ' of this plant are their flatness and their uniform green color . although the branches may be dramatically different in shape ( actually , fig .",
+    "2 shows an atypical branch ) , we will show that their fractal dimension is the same .",
+    "the method of box counting is widely known @xcite . briefly , the box counting technique consists of counting the number of boxes in a grid that intersect any part of an image that has been placed over it . in order to calculate the fractal dimension of the image , denoted by @xmath0 , using a square grid of side size given by @xmath1",
+    ", one needs to analyze the changes in the number of boxes required to cover the image , @xmath2 , as the size of the grid is reduced , _ i. e. _ ,    @xmath3    we have applied this method to the three branches shown in figs . 1 - 3 at three different levels : the three different scales at which symmetry is observed . in figs .",
+    "3 - 4 , we visually exemplify the application of the box counting method .",
+    "the ` leaves ' we have designated as medium - size branches correspond to the ramifications at the lower right corner of the branches in figs . 1 - 3 , and those called small - size branches were selected from the medium - size ones following the same criteria ; fig .",
+    "4 exemplifies the selection for the main branch in fig .",
+    "all the images were obtained by positioning the corresponding branch directly on a scanner ( @xmath4 x @xmath5 resolution , bit map images ) , and since the leaves are objects immersed in a two dimensional space , it was not necessary to use any kind of projection .",
+    "the digital scanning was made in black & white , and in real scale .",
+    "the side size of the square grid was varied from @xmath6 to @xmath7 pixels , by steps of 1 pixel .",
+    "the original size of the main branch in fig .",
+    "3 is @xmath8 x @xmath9 mm , @xmath10 x @xmath11 mm for the medium - size branch and @xmath12 x @xmath13 mm for the small one . since our images all have well defined borders , there is no need to analyze the contour threshold @xcite .",
+    "the values of @xmath2 , obtained varying the grid size from @xmath6 to @xmath7 pixels , are shown in figs .",
+    "this pixel range allows for a direct comparison in real scale of the results for the three levels at which similarity is observable .",
+    "a bigger side - size box is not used because the width of the smallest branches ( at the base ) is 200 pixels , and therefore , a bigger side - size box would mean that a single box would almost cover the whole branch",
+    ". since the relations are linear over a wide range of @xmath1 values , the fractal dimension @xmath0 is then given by the slope of the corresponding line , see figs .",
+    "finally , the values obtained for the fractal dimension of the three branches and at the three different scales , are shown in the table together with the uncertainty in the slope ( @xmath14 ) and the correlation of the linear regression ( @xmath15 ) .",
+    "from the previous analysis , where we have shown that the fractal dimension of the three branches is practically the same , we can conclude that the shape of a branch of _ asparagus plumosus _ is independent for the determination of its fractal dimension .",
+    "the very small uncertainties in these values ( @xmath16 x @xmath17 ) can be easily interpreted in terms of the high linear correlations shown in the table .",
+    "accordingly , we can confirm the fractal dimension in this species , a new type of natural fractal being added to the extensive already well know gallery ( for a recent , man - made example , see @xcite ) .",
+    "additionally , since the value of the fractal dimension obtained from the analysis of the two bigger scales is indeed very similar , we can conclude that there is the same level of complexity at these two scales : the plant is self - similar .",
+    "unfortunately , we do not seem to find the same self - similarity at the smallest scale ."
+  ],
+  "abstract_text": [
+    "<S> we measure the fractal dimension of an african plant that is widely cultivated as ornamental , the _ asparagus plumosus_. this plant presents self - similarity , remarkable in at least two different scalings . in the following </S>",
+    "<S> , we present the results obtained by analyzing this plant via the box counting method for three different scalings . </S>",
+    "<S> we show in a quantitatively way that this species is a fractal .    1 </S>",
+    "<S> .    running head : fractal dimension in _ asparagus plumosus _    1.5 </S>"
+  ]
+}

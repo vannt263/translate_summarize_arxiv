@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "following the discovery of hard - scattering at the cern - isr  @xcite by the observation of an unexpectedly large yield of particles with large transverse momentum @xmath14 , which proved that the quarks of dis were strongly interacting , the attention of experimenters turned to measuring the predicted di - jet structure of the hard - scattering events using two - particle correlations .",
+    "99 for example , see p.  darriulat , .",
+    "r.  p.  feynman , r.  d.  field , and g.  c.  fox , .",
+    "s.  s.  adler _ et al .",
+    "_ , phenix collaboration .",
+    "j.  adams _ et al .",
+    "_ , star collaboration .",
+    "j.  adams _ et al .",
+    "_ , star collaboration .",
+    "s.  s.  adler _ et al .",
+    "_ , phenix collaboration .",
+    "a.  l.  s.  angelis , _ et al .",
+    "_ , ccor collaboration ,",
+    ". s.  s.  adler _ et al .",
+    "_ , phenix collaboration , preprint nucl - ex/0611007 , submitted to ."
+  ],
+  "abstract_text": [
+    "<S> hard - scattering of point - like constituents ( or partons ) in p - p collisions was discovered at the cern - isr  @xcite in 1972 by measurements utilizing inclusive single or pairs of hadrons with large transverse momentum ( @xmath0 ) . due to the steeply falling power - law @xmath1 spectrum of the hard - scattered partons , the inclusive single particle ( e.g. @xmath2 ) @xmath3 spectrum from parton fragmentation to a jet </S>",
+    "<S> is dominated by trigger fragments with large @xmath4 , where @xmath5 is the fragmentation variable . </S>",
+    "<S> it was generally assumed , following feynman , field and fox  @xcite , as shown by data from the cern - isr experiments , that the @xmath6 distribution of away side hadrons from a single particle trigger [ with @xmath3 ] , corrected for @xmath8 , would be the same as that from a jet - trigger and follow the same fragmentation function as observed in @xmath9 or dis . </S>",
+    "<S> phenix  @xcite attempted to measure the fragmentation function from the away side @xmath10 distribution of charged particles triggered by a @xmath2 in p - p collisions at rhic and showed by explicit calculation that the @xmath11 distribution is actually quite insensitive to the fragmentation function . </S>",
+    "<S> illustrations of the original arguments and isr results will be presented . </S>",
+    "<S> then the lack of sensitivity to the fragmentation function will be explained , and an analytic formula for the @xmath11 distribution given , in terms of incomplete gamma functions , for the case where the fragmentation function is exponential . </S>",
+    "<S> the away - side distribution in this formulation has the nice property that it both exhibits @xmath11 scaling and is directly sensitive to the ratio of the away jet @xmath12 to that of the trigger jet , @xmath13 , and thus can be used , for example , to measure the relative energy loss of the two jets from a hard - scattering which escape from the medium in a+a collisions . </S>",
+    "<S> comparisons of the analytical formula to rhic measurements will be presented , including data from star  @xcite and phenix  @xcite , leading to some interesting conclusions . </S>"
+  ]
+}

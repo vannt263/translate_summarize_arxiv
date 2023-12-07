@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "kerov polynomials are universal polynomials which express the characters of symmetric groups evaluated on cycles , in terms of quantities known as the free cumulants of a young diagram .",
+    "we now explain these notions .",
+    "let @xmath0 be a young diagram , to which we associate a piecewise affine function @xmath1 , with slopes @xmath2 , such that @xmath3 for @xmath4 large enough , as in fig . 1 below , which corresponds to the partition @xmath5 .",
+    "we can encode the young diagram using the local minima and local maxima of the function @xmath6 , denoted by @xmath7 and @xmath8 respectively , which form two interlacing sequences of integers .",
+    "these are ( -3,-1,2,4 ) and ( -2,1,3 ) respectively in the picture .",
+    "@xmath9 @xmath10 @xmath11 to the young diagram we associate the rational fraction @xmath12 and the formal power series @xmath13 , inverse to @xmath14 for composition , @xmath15 the quantities @xmath16 are called the free cumulants of the diagram @xmath17 .",
+    "note that @xmath18 for any young diagram , so we do not include it in the series of free cumulants .",
+    "these quantities arise in the asymptotic study of representations of symmetric groups , see @xcite .",
+    "it turns out that there exists universal polynomials @xmath19 in the variables @xmath20 such that for any young diagram @xmath17 the normalized character @xmath21 evaluated on a cycle of length @xmath22 is given by @xmath23 the remarkable fact here is that these polynomials do not depend on the size of the symmetric group .",
+    "we list the first such polynomials below .",
+    "@xmath24 we refer to @xcite and @xcite for more information about results and conjectures on the coefficients of these polynomials .",
+    "we take from @xcite , section 5 , the following expression for kerov polynomials . here",
+    "@xmath25\\,f(z)$ ] denotes the coefficient of @xmath26 ( the residue if @xmath27 ) of a laurent series @xmath28 .",
+    "consider the formal power series @xmath29 define @xmath30\\ , h(z)h(z-1)\\ldots h(z - k+1)\\qquad ( 1)\\ ] ] and @xmath31\\ , h(z)^k\\ ] ] then the expression of @xmath32 in terms of the @xmath33s is given by kerov s polynomials .",
+    "recently i. p. goulden and a. rattan @xcite have given an explicit expression for kerov polynomials , from which they have deduced a certain number of positivity properties of the coefficients of these polynomials .",
+    "their proof uses the lagrange inversion formula . in the next section we use the invariance of residue under change of variables to derive in a simple way a closely related formula , and",
+    "show how to recover goulden and rattan s formula .",
+    "we use the notations of proposition 1.1 above . let us introduce the power series @xmath34 one has @xmath35 , by lagrange inversion formula .",
+    "we use the invariance of the residue under change of variables , namely if @xmath36 are laurent series , and @xmath37 is invertible for composition , then @xmath38\\,f(z)=[\\zeta^{-1}]\\,u'(\\zeta)f\\circ u(\\zeta).\\ ] ] using taylor s formula as well as the change of variables @xmath39 in the residue , one gets from ( 1 )    @xmath40\\,\\prod_{j=0}^{k-1 } \\left(\\sum_{r=0}^{\\infty}\\frac{(-j)^r}{r!}h^{(r)}(z)\\right ) \\\\ & = & -{1\\over k}\\,[\\zeta^{-1}]\\,l'(\\zeta)\\prod_{j=0}^{k-1 } \\left(\\sum_{r=0}^{\\infty}\\frac{(-j)^r}{r!}h^{(r)}\\circ l(\\zeta)\\right ) . \\end{array}\\ ] ] using @xmath41 one gets @xmath42 therefore @xmath43\\,l'(\\zeta)\\prod_{j=0}^{k-1 } \\left(\\zeta+\\sum_{r=1}^{\\infty}\\frac{(-j)^r}{r ! } \\left(\\frac{1}{l'(\\zeta)}\\frac{d}{d\\zeta}\\right)^{r-1 } \\frac{1}{l'(\\zeta)}\\right).\\ ] ] putting @xmath44 we obtain the following proposition .",
+    "let @xmath45 then kerov s polynomials are given by the following expression @xmath46\\,\\frac{1}{f(\\zeta)}\\prod_{j=0}^{k-1 } \\left(\\zeta+\\sum_{r=1}^{\\infty}\\frac{(-j)^r}{r ! }",
+    "\\left(f(\\zeta)\\frac{d}{d\\zeta}\\right)^{r-1 } f(\\zeta)\\right).\\qquad ( 2)\\ ] ]",
+    "goulden and rattan give various equivalent formulas for @xmath32 .",
+    "they introduce the series @xmath47 , and define polynomials @xmath48\\ldots\\right]\\ ] ] where @xmath49 .",
+    "the generating series form of their formula now reads    @xmath50\\frac{1}{c(z)}\\prod_{j=1}^{k-1}(1+\\sum_{i=1}^\\infty j^ip_i(z)z^i).\\qquad ( 3)\\ ] ] we recover this formula using @xmath51 . for this",
+    "we factor out @xmath52 in the expression in the rhs of @xmath51 , and use the change of variable @xmath53 .",
+    "this gives @xmath54\\,\\frac{1}{f(\\zeta)}\\prod_{j=0}^{k-1 } \\left(\\zeta+\\sum_{r=1}^{\\infty}\\frac{(-j)^r}{r ! } \\left(f(\\zeta)\\frac{d}{d\\zeta}\\right)^{r-1 } f(\\zeta)\\right)\\\\ & = & -{1\\over k}\\,[\\zeta^{-1-k } ] \\,\\frac{1}{f(\\zeta)}\\prod_{j=1}^{k-1 } \\left(1+\\sum_{r=1}^{\\infty}\\frac{(-j)^r}{r!}\\zeta^{-1 } \\left(f(\\zeta)\\frac{d}{d\\zeta}\\right)^{r-1 } f(\\zeta)\\right)\\\\ & = & -{1\\over k}\\,[z^{k+1}]\\,\\frac{1}{c(z)}\\prod_{j=1}^{k-1 } \\left(1+\\sum_{r=1}^{\\infty}\\frac{(-j)^r}{r!}z \\left(-c(z)z^2\\frac{d}{dz}\\right)^{r-1 } c(z)\\right)\\\\ & = & -{1\\over k}\\,[z^{k+1}]\\,\\frac{1}{c(z)}\\prod_{j=1}^{k-1 } \\left(1-\\sum_{r=1}^{\\infty}\\frac{j^rz}{r!}(c(z)zd)^{r-1}c(z ) \\right).\\\\ \\end { array}\\ ] ] now remark that @xmath55 to get @xmath56\\ldots\\right]\\\\ & = & -r!p_r(z ) .",
+    "\\end{array}\\ ] ]        p. biane , _ characters of symmetric groups and free cumulants . _ asymptotic combinatorics with applications to mathematical physics ( st . petersburg , 2001 ) , 185200 , lecture notes in math . , 1815 , springer , berlin , 2003 .",
+    "i. p. goulden , a. rattan , _ an explicit form for kerov s character polynomials ."
+  ],
+  "abstract_text": [
+    "<S> we give a simple proof of an explicit formula for kerov polynomials . this explicit formula </S>",
+    "<S> is closely related to a recent formula of goulden and rattan .    </S>"
+  ]
+}

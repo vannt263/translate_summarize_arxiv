@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "recently , o. karpenkov @xcite posed the problem of the approximation of reals by rationals of the form @xmath1 as a natural subject of number theory and for its incidence in the solution of cases of the shrdinger equation .",
+    "he presents a proved lower estimate for the approximation of a real @xmath0 as @xmath7 and conjectures that there exists a constant @xmath8 such that the inequality @xmath9 has infinitely many solutions in integers @xmath5 and @xmath6 .    in this paper",
+    ", we study the problem from an heuristic point of view and develop an algorithm that can compute an approximation of the form @xmath1 in @xmath10 polynomial time operations . the heuristic approximation to the problem and",
+    "the computational data obtained support the conjecture of o. karpenkov .",
+    "following a brute force scheme to search for approximations of the form @xmath1 to an irrational @xmath0 , we can compute , for @xmath11 , the optimal value of @xmath5 as the nearest integer to @xmath12 . for each @xmath6 value we get an approximation",
+    "@xmath13 it seems reasonable to suppose that the values of @xmath14 are distributed uniformly in this interval .",
+    "the probability of getting a value @xmath15 , where @xmath16 is a constant , will be , under that supposition , @xmath17 .",
+    "note that , in this case , @xmath18 moreover , we can estimate the number of rationals with the above approximation as @xmath19 since the summatory converges for @xmath20 , we can guess that there may be only finitely many rational approximations of the form @xmath1 of any real @xmath0 , for @xmath20 .",
+    "when the exponent in @xmath6 is exactly 3 , the summatory is the harmonic series and @xmath21 where @xmath22 is the euler s constant ( see @xcite theorem 6.10 , p. 136 ) .",
+    "therefore , the number of approximations with @xmath23 may be estimated as @xmath24 .",
+    "note that the fractions of that form are not necessarily irreducible in this estimation .",
+    "we consider the following modular quadratic equation , @xmath25 since @xmath26 , for some integer @xmath5 , we can write @xmath27 let @xmath0 be a real number .",
+    "from the equation @xmath28 we have that @xmath29 if we choose @xmath30 as a convergent of @xmath0 computed from its continued fraction expansion , we have that @xmath31 from the well known result due to hurwitz ( see , by example theorem 193 , p. 164 in ) .",
+    "suppose that we are able to find a solution to equation ( [ eqmod ] ) such that @xmath32 and @xmath33 for certain constants @xmath34 and @xmath35 .",
+    "then we have that @xmath36    if we solve equation ( [ eqmod ] ) for some value of @xmath37 , we have a probability @xmath38 of getting a value @xmath39 , under the supposition that the quadratic residues are distributed at random .",
+    "since we check @xmath40 values of @xmath37 , we have the chance of getting @xmath41 values of @xmath6 in average which gives approximations of @xmath0 that fulfill ( [ error ] ) .",
+    "for this task , we must solve @xmath42 quadratic equations for which there are polynomial time algorithms whenever the factorization of @xmath43 is known .",
+    "suppose that a value of @xmath6 is obtained such @xmath44 , so the number of quadratic equations solved to obtain it is @xmath45 .",
+    "take into account that there are methods of factorization that can factorize @xmath43 in @xmath46 steps with @xmath47 well below @xmath48 ( see @xcite p. 218 ) , then the complexity of this stage is smaller than the solution of the quadratic equations .    using the described method",
+    ", there may be approximations fulfilling ( [ error ] ) that scape the search of the algorithm .",
+    "first , a convergent @xmath30 may have an approximation to @xmath0 better than ( [ aprox ] ) , mainly for small @xmath43 , what allows that higher values of @xmath6 keep bounded the first summand in ( [ bound ] ) .",
+    "besides , both summands can compensate if they are of opposite sign . for these reasons , in practice , it is better to use a brute force scheme for the fist values of @xmath6 ( say for @xmath49 ) and then to apply the described algorithm . likewise , it is better to check the values of @xmath50 ( by example of @xmath51 ) .",
+    "since , once computed the roots of ( [ eqmod ] ) , checking the values of @xmath6 is less time consuming , it is better to rise the bound of @xmath6 to @xmath52 . with these trimmings , the algorithm finds all items existing ( checked by brute force ) at least for @xmath53 .",
+    "the algorithm was programmed using the pari package @xcite and compiled with the utility _ gp2c_. the executable was launched in an amd64 + 3200 computer over one week , searching for rational approximations of @xmath54 such that the difference is less than @xmath55 in absolute value .",
+    "there were found 94 rational approximations of the prescribed form which can be found in @xcite ( note that only @xmath6 values are tabulated because the numerator @xmath5 can be computed from it ) .",
+    "the higher rational approximation found correspond to @xmath56 @xmath57 the following figure plots the number of items versus the expected value @xmath58 showing that both agree quite well .",
+    "another irrationals as @xmath59 , @xmath60 , the golden mean @xmath61 , even numbers suspicious of irrationality as the euler s constant were tested with the same results .",
+    "o. karpenkov , in his cited paper , also raised the problem of approximating a real with a rational with prime denominator .",
+    "we follow the procedure described in the preceding section , to find approximations of that kind .",
+    "consider the linear modular equation @xmath64 since @xmath65 @xmath66 we take @xmath67 and @xmath43 from a convergent of @xmath0 and solve the equation ( [ eqmod2 ] ) for the lowest absolute values of @xmath37 .",
+    "since the density of primes is about @xmath68 , we may expect that we will find a @xmath69 prime for @xmath37 of the order of @xmath70 and let that prime be @xmath63 .",
+    "this constructive approach makes reasonable the      i dedicate this paper to the memory of my friend manuel torres hernanz . since my first collaboration with him , two decades ago , computing the fourier transform of his magnetic measures till a recent talking about the different ways to get rational approximations to @xmath60 , i have enjoyed his knowledge , creativity , and humanistic spirit .",
+    "i miss him and i am very indebted to his generosity ."
+  ],
+  "abstract_text": [
+    "<S> this paper develops an algorithm to search for approximations to a real @xmath0 which finds rationals of the form @xmath1 , such that @xmath2 , in @xmath3 polynomial time operations , for @xmath4 . </S>",
+    "<S> an heuristic approach and computational data give support to the conjecture of o. karpenkov stating that there are infinitely many solutions in integers @xmath5 and @xmath6 for such approximation . </S>"
+  ]
+}

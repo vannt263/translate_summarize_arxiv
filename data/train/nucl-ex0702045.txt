@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "already 1985 , the suppression of quarkonia in heavy ion collisions relative to proton - proton collisions was suggested as a sign for deconfined matter that is produced in these collisions@xcite . over the last two decades various",
+    "experiments@xcite @xcite @xcite measured a significant suppression signal .",
+    "although strong indications for a j/@xmath0 suppression were found the theoretical picture remains unclear .",
+    "the startup of the lhc with the unprecedented center of mass energy of per nucleon in lead - lead collisions the deconfined phase is expected to be larger , hotter and longer lived .",
+    "thus one expects new insights into the nature of quarkonia suppression .",
+    "to estimate the quarkonia production cross section , predictions from the color evaporation model ( cem)@xcite @xcite were used .",
+    "the cross sections are calculated as a product of the @xmath1 cross section and a transition probability to the individual states . a comparison to measured cross sections at the highest available tevatron energy was done and",
+    "the calculations were tuned to reproduce experimental data .",
+    "the scaling from proton - proton to lead - lead collisions was done using the number of binary collisions , taking into account nuclear modifications employing the eks98@xcite parametrization .",
+    "the resulting cross sections are shown in table [ cross - sections ] .",
+    "[ cross - sections ]    .expected cross sections for quarkonia at the lhc .",
+    "the cross sections include the branching into di - electrons as well as feed down from higher states .",
+    "all numbers are given in @xmath2b@xcite . [ cols=\"^,^,^,^,^,^,^,^,^ \" , ]",
+    "the expected performance of the quarkonia measurement in the di - electron channel has been simulated under realistic assumptions",
+    ". within one year of running alice will accumulate enough statistics to measure j/@xmath0s in proton - proton and j/@xmath0s , @xmath3(1s ) and @xmath3(2s ) in lead - lead collisions with good signal to background ratio and significance .",
+    "the invariant mass resolution is sufficient to resolve the individual @xmath3 states .",
+    "this work was supported by the german federal ministry of education and research ."
+  ],
+  "abstract_text": [
+    "<S> a large ion collider experiment  </S>",
+    "<S> alice will become operational with the startup of the large hadron collider  lhc at the end of 2007 . </S>",
+    "<S> one focus of the physics program is the measurement of quarkonia in proton - proton and lead - lead collisions . </S>",
+    "<S> quarkonia states will be measured in two kinematic regions and channels : di - muonic decays will be measured in the forward region by the muon arm , the central part of the detector will measure di - electronic decays . </S>",
+    "<S> the presented studies show the expected performance of the di - electron measurement in proton - proton and central lead - lead collisions . </S>"
+  ]
+}

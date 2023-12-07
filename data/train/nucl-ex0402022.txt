@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "it is well known that a @xmath2 hyperon in free space decays into a nucleon associated with a pion (: @xmath3 , : @xmath4 ) .",
+    "a bound @xmath2 in a nucleus ( @xmath2 hypernucleus ) also decays via the decay process , called the mesonic weak decay of @xmath2 hypernucleus .",
+    "the relevant momentum transfer is only @xmath1100 mev/@xmath5 which is not necessarily enough high to exceed the fermi momentum .",
+    "the decay rate is therefore suppressed due to the pauli blocking effect on the outgoing nucleon . especially in light hypernuclei , it is sensitive to overlap of the @xmath2 wave function with the nucleus .",
+    "thus , the mesonic weak decay width of light hypernuclei gives significant information to investigate @xmath2-nucleus potential shape .",
+    "it is believed that the folding potential between @xmath2 and light ( s - shell ) nuclei has a central repulsive core , which is calculated from the commonly used yng @xmath6 interaction .",
+    "however , it has not been confirmed so far experimentally . for comparison of @xmath7-@xmath2 potential ,",
+    "motoba  calculated the mesonic decay widths of  for two different potentials @xcite .",
+    "one is derived from the yng interaction , and the other is a simply attractive potential derived from one - range - gaussian two - body interaction called `` org '' , which are determined to reproduce the @xmath2 binding energy of . according to their calculation , the difference in the decay widths between them is @xmath120% as shown in table [ table1 ] .",
+    "however , existent experimental data can not distinguish the two due to the large error . in the present experiment , we precisely measured both mesonic decay widths ,  @xcite and . on the other hand ,",
+    "the bound @xmath2 in a nucleus can interact with a neighboring nucleon (: @xmath8 , : @xmath9 ) , called the non - mesonic weak decay of @xmath2 hypernucleus .",
+    "it gives unique opportunity to study baryon - baryon weak interaction which is hidden by strong interaction in normal nuclei .",
+    "the total non - mesonic weak decay width ( ) is one of the most important observables for the study .",
+    "it is difficult to measure the  (= @xmath10 ) directly due to experimental difficulties such as final state interaction effect .",
+    "thus , the  is usually obtained by subtracting the mesonic weak decay widths from the total decay width  ( inverse of the lifetime ) , as @xmath11 @xmath12@xmath12 .",
+    "table [ table1 ] shows the latest experimental data for  and . the errors of  for both hypernuclei mainly come from those of , so that the precise measurement of  is awaited .",
+    "9 t. motoba _",
+    "_ , _ nucl .",
+    "phys . _ * a534 * , 597 ( 1994 ) .",
+    "s.  kameoka , in this proceedings .",
+    "j.  j.  szymanski , _ phys .",
+    "_ * c43 * , 849 ( 1991 ) .",
+    "y.  sato , to be published in _ phys .",
+    "_ * c*. a.  sakaguchi , _ phys .",
+    "rev . _ * c43 * , 73 ( 1991 ) .",
+    "t.  motoba and k.  itonaga , _ prog .",
+    "117 * 447 ( 1994 ) .",
+    "h.  outa , in this proceedings ."
+  ],
+  "abstract_text": [
+    "<S> we precisely measured  branching ratios of  and  hypernuclei produced via  reaction . using these @xmath0 branching ratios with the  branching ratios and the lifetimes , we obtained the  decay widths and the non - mesonic weak decay widths at high statistics with the accuracy of @xmath15%(stat ) for both hypernuclei . </S>"
+  ]
+}
