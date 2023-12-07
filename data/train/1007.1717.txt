@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "all graphs considered in this paper are finite , undirected , and have no loops or multiple edges .",
+    "let @xmath10 and @xmath11 denote the sets of vertices and edges of @xmath0 , respectively .",
+    "an @xmath12-biregular bipartite graph @xmath0 is a bipartite graph @xmath0 with the vertices in one part all having degree @xmath13 and the vertices in the other part all having degree @xmath14 .",
+    "a partial edge - coloring of @xmath0 is a coloring of some of the edges of @xmath0 such that no two adjacent edges receive the same color .",
+    "if @xmath15 is a partial edge - coloring of @xmath0 and @xmath16 , then @xmath17 denotes the set of colors of colored edges incident to @xmath18 .",
+    "an edge - coloring of a graph @xmath0 with colors @xmath1 is called an interval @xmath2-coloring if for each @xmath3 there is at least one edge of @xmath0 colored by @xmath4 , and the colors of edges incident to any vertex of @xmath0 are distinct and form an interval of integers .",
+    "a graph @xmath0 is interval colorable , if there is @xmath19 for which @xmath0 has an interval @xmath2-coloring .",
+    "the set of all interval colorable graphs is denoted by @xmath20 . for a graph @xmath21 , the greatest value of @xmath2 for which @xmath0 has an interval @xmath2-coloring",
+    "is denoted by @xmath22 .",
+    "the concept of interval edge - coloring was introduced by asratian and kamalian @xcite . in @xcite",
+    "they proved the following theorem .",
+    "[ mytheorem1 ] if @xmath0 is a connected triangle - free graph and @xmath21 , then    @xmath23 .    in particular , from this result",
+    "it follows that if @xmath0 is a connected bipartite graph and @xmath21 , then @xmath24 .",
+    "it is worth noting that for some families of bipartite graphs this upper bound can be improved .",
+    "for example , in @xcite asratian and casselgren proved the following    [ mytheorem2 ] if @xmath0 is a connected @xmath12-biregular bipartite graph with @xmath25 and @xmath21 , then    @xmath26 .    for general graphs , kamalian proved the following    [ mytheorem3]@xcite . if @xmath0 is a connected graph and @xmath27 , then    @xmath28 .",
+    "the upper bound of theorem [ mytheorem3 ] was improved in @xcite .",
+    "[ mytheorem4]@xcite . if @xmath0 is a connected graph with @xmath29 and @xmath21 , then    @xmath30 .",
+    "on the other hand , in @xcite petrosyan proved the following theorem .",
+    "[ mytheorem4 ] for any @xmath31 , there is a graph @xmath0 such that @xmath21 and    @xmath32 .    for planar graphs ,",
+    "the upper bound of theorem [ mytheorem3 ] was improved in @xcite .",
+    "[ mytheorem6]@xcite .",
+    "if @xmath0 is a connected planar graph and @xmath21 , then    @xmath33 .    in this note we give a short proof of theorem [ mytheorem3 ] based on theorem [ mytheorem1 ] .",
+    "we also derive a new upper bound for the greatest possible number of colors in interval edge - colorings of regular graphs .",
+    "let @xmath34 and @xmath35 be an interval @xmath36-coloring of the graph @xmath0 . define an auxiliary graph @xmath37 as follows :              it is easy to see that @xmath43 is an edge - coloring of the graph @xmath37 with colors @xmath48 and @xmath49 for @xmath47 .",
+    "now we present an interval @xmath50-coloring of the graph @xmath37 . for",
+    "that we take one edge @xmath51 with @xmath52 , and recolor it with color @xmath53 .",
+    "clearly , such a coloring is an interval @xmath50-coloring of the graph @xmath37 .",
+    "since @xmath37 is a connected bipartite graph and @xmath54 , by theorem [ mytheorem1 ] , we have              in a similar way as in the prove of theorem [ mytheorem3 ] , we can construct an auxiliary graph @xmath37 and to show that this graph has an interval @xmath50-coloring .",
+    "next , since @xmath37 is a connected @xmath60-regular bipartite graph with @xmath61 and @xmath54 , by theorem [ mytheorem2 ] , we have"
+  ],
+  "abstract_text": [
+    "<S> an edge - coloring of a graph @xmath0 with colors @xmath1 is called an interval @xmath2-coloring if for each @xmath3 there is at least one edge of @xmath0 colored by @xmath4 , and the colors of edges incident to any vertex of @xmath0 are distinct and form an interval of integers . in this paper </S>",
+    "<S> we prove that if a connected graph @xmath0 with @xmath5 vertices admits an interval @xmath2-coloring , then @xmath6 . we also show that if @xmath0 is a connected @xmath7-regular graph with @xmath5 vertices has an interval @xmath2-coloring and @xmath8 , then this upper bound can be improved to @xmath9 </S>",
+    "<S> . + keywords : edge - coloring , interval coloring , bipartite graph , regular graph </S>"
+  ]
+}

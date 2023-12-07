@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the fluid dynamics video is http://ecommons.library.cornell.edu/bitstream/1813/17513/2/electroworming_ld.mpg[video1 ] +   + we study the effect of electric field magnitude and frequency on c. elegans .",
+    "low magnitude , dc electric fields have been used before to guide the motion of the wild - type nematode c. elegans@xmath0 . however , the worms appear to be oblivious to uniform electric fields when the field frequency exceeds several tens of hertz . in contrast , nonuniform , moderate intensity , high frequency ( @xmath1100 khz ) ac fields trap worms at the location of the highest field intensity . with certain electrode arrangements ,",
+    "only the worm s tail is immobilized . when the electric field intensity is moderate or high and the frequency is low ( about 1 - 100 khz ) , the worm is eventually injured , paralyzed , or electrified depending on the applied electric field magnitude .",
+    "this is the first demonstration of dielectrophoretic trapping of an animal .",
+    "the effects of the electric field intensity and frequency on the worm are recorded in a `` phase diagram . '' + the effect of the dc field on the worm is illustrated in a video featuring a conduit made in a pdms slab .",
+    "the worm swims towards the cathode .",
+    "when the electric field polarity is reversed , so is the worm s direction of motion .",
+    "+ the effects of nonuniform electric fields on worms are studied with a pair of spiked electrodes patterned on a glass slide and set at various distances apart .",
+    "the glass slide caps a trench molded in pdms to form a 118 @xmath2 m tall and 300 @xmath2 m wide conduit .",
+    "the total length of the conduit is 17 mm .",
+    "the conduit is initially filled with deionized ( di ) water with electric conductivity of @xmath3 s / m .",
+    "worms from a synchronous culture are transferred from the culture dish , placed in the inlet of the microfluidic conduit , and propelled gently to the location of the electrodes with the aid of a syringe .",
+    "the behavior of individual worms as a function of electric field intensity and frequency is monitored with an optical microscope . the flow field induced by the worm",
+    "is monitored by seeding the liquid with fluorescent particles and tracking their positions as functions of time to construct the velocity vector field . when the worm is smaller than the gap between the electrodes , typically the worm becomes anchored to the electrode by its tail while its more energetic head moves vigorously .",
+    "+ we trapped worms using electric field intensities and frequencies which appeared to leave the worms unharmed . trapped worms , after release ,",
+    "tend to function as untrapped worms for many hours .",
+    "the anchored worm appears to produce swimming motion similar to that of an untrapped worm in the absence of an electric field .",
+    "since the trapped worm can not move , the liquid around it is propelled backwards by the worm s undulatory motion .",
+    "thus , the anchored worm acts as a pump .",
+    "the worm s motion induces vortices in the flow and is likely to provide effective stirring ; thus the anchored worm can also act as a stirrer .",
+    "+ like untrapped worms , the anchored worms exhibit photophobicity - avoiding blue light .",
+    "thus , blue light can be used to exert control on the worm s motion .",
+    "furthermore , the blue - light avoidance indicates that ( at least ) the light - sensitive neurons are not adversely impacted by the electric fields . + two worms anchored in close proximity synchronized their motion .",
+    "although the synchronization mechanism is not fully understood , it is most likely that hydrodynamic stimuli played a role in transmitting information from one worm to the other .",
+    "+ dielectrophoresis can be used , among other things , to sort worms by size , to temporarily anchor worms to enable their characterization and study , and to use worms to induce fluid motion ( worm - pump ) and mixing ( worm - stirrer ) .",
+    "1 .   p. rezai , a. siddiqui , p. r. selvaganapathy and b. p. gupta , appl . phys . lett . , 2010 , 96 , 153702",
+    ". 2 .   c. v. gabel , h. gabel , d. pavlichin , a. kao , clark d.a . and",
+    "a. d. t. samuel , j. neurosci .",
+    ", 2007 , 27 , 7586 - 7596 ."
+  ],
+  "abstract_text": [
+    "<S> the video showcases how c. elegans worms respond to dc and ac electrical stimulations . </S>",
+    "<S> gabel et al ( 2007 ) demonstrated that in the presence of dc and low frequency ac fields , worms of stage l2 and larger propel themselves towards the cathode . </S>",
+    "<S> rezai et al ( 2010 ) have demonstrated that this phenomenon , dubbed electrotaxis , can be used to control the motion of worms . in the video , </S>",
+    "<S> we reproduce rezai s experimental results . </S>",
+    "<S> furthermore , we show , for the first time , that worms can be trapped with high frequency , nonuniform electric fields . </S>",
+    "<S> we studied the effect of the electric field on the nematode as a function of field intensity and frequency and identified a range of electric field intensities and frequencies that trap worms without apparent adverse effect on their viability . </S>",
+    "<S> worms tethered by dielectrophoresis ( dep ) avoid blue light , indicating that at least some of the nervous system functions remain unimpaired in the presence of the electric field . </S>",
+    "<S> dep is useful to dynamically confine nematodes for observations , sort them according to size , and separate dead worms from live ones . </S>"
+  ]
+}

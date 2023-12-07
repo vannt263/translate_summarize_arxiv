@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "hr  7355 ( hd  182180 ) is a bright b2vn helium - strong star originally classified as a be star due to h@xmath1 emission present in its spectrum ( ( * ? ? ?",
+    "* abt & cardona 1984 ) ) .",
+    "previous studies of this star show a @xmath2 300 km s@xmath3 ( ( * ? ? ?",
+    "* abt et al . 2002 ) ) with a p@xmath4 0.52 d ( ( * ? ? ?",
+    "* koen & eyer 2002 ) ) , as well as variation in helium , h@xmath1 , and brightness , suggesting the presence of a magnetosphere ( ( * ? ? ?",
+    "* rivinius et al . 2008 ) ) .",
+    "hr  7355 is the most rapidly rotating helium - strong star , rotating near its critical velocity , providing an excellent testbed for magnetospheres under the effects of rapid rotation .",
+    "least - squares deconvolution ( lsd ) describes the stellar spectrum as the convolution of a mean stokes i or v profile , representative of the average shape of the line profile , and a line mask , describing the position , strength and magnetic sensitivity of all lines in the spectrum . from the lsd",
+    "mean stokes i and v profiles , we calculate the longitudinal magnetic field , b@xmath5 : @xmath6dv}\\ ] ] ( ( * ? ? ?",
+    "* wade et al . 2000 ) ) , where @xmath7 is the average wavelength and g is the average land factor in the mask .",
+    "i@xmath8 is the continuum value of the intensity profile .",
+    "the integral is evaluated over the full velocity range of the mean profile .",
+    "we detect a strong magnetic field on hr  7355 , the most rapidly rotating helium - strong star discovered thus far .",
+    "a simultaneous independent confirmation of the field detection has been obtained with fors at the vlt by rivinius et al .",
+    "the longitudinal magnetic field varies sinusoidally with the rotation period , with extrema -2 to 2.5 kg . assuming a dipole magnetic field , the polar value of the magnetic field is @xmath9 13 - 17 kg .",
+    "the photometric ( brightness ) light curve constructed from hipparcos archival data and new ctio measurements shows two minima separated by 0.5 in rotational phase and occurring 0.25 cycles before / after the magnetic extrema . using the scargle periodogram , eclipse - like photometric variations give a highly precise p@xmath10 = 0.5214404(6 ) days .",
+    "we confirm spectral variability of helium and metal lines , as well as variability of h@xmath1 emission .",
+    "h@xmath1 emission indicates circumstellar material extending out to 5 r@xmath11 from the star , rotating rigidly with the stellar surface .",
+    "we conclude that hr 7355 is a magnetic oblique rotator with a magnetosphere , mirroring the physical picture for @xmath0 ori e ( ( * ? ? ?",
+    "* townsend et al . 2005 ) ) ."
+  ],
+  "abstract_text": [
+    "<S> we report on the detection of a strong , organized magnetic field in the helium - variable early b - type star hr 7355 using spectropolarimetric data obtained with espadons on cfht by the mimes large program . </S>",
+    "<S> we also present results from new v - band differential photometry obtained with the ctio 0.9 m telescope . </S>",
+    "<S> we investigate the longitudinal field , using a technique called least - squares deconvolution ( lsd ) , and the rotational period of hr  7355 . </S>",
+    "<S> these new observations strongly support the proposal that hr 7355 harbors a structured magnetosphere similar to that in the prototypical helium - strong star , @xmath0 ori e. </S>"
+  ]
+}

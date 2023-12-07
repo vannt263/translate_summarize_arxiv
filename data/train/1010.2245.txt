@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "the magnetic field of @xmath0sco is unique because it is structurally far more complex than the mostly - dipolar fields ( @xmath1 ) usually observed in magnetic ob stars , with significant power in spherical - harmonic modes up to @xmath2 and a mean surface field strength of @xmath3 g ( * ? ? ? *",
+    "( donati et al . 2006 ) ) .",
+    "@xmath0sco also stands out from the crowd of early - b stars because of its stellar wind anomalies , as diagnosed through its odd uv spectrum .",
+    "these anomalies , unique to this star , are indicative of a highly ionised outflow .",
+    "interestingly , the wind lines of @xmath0sco vary periodically with the star s 41 d rotation period ( * ? ? ?",
+    "* ( donati et al . 2006 ) ) .",
+    "clearly the magnetic field exerts an important influence on the wind dynamics .",
+    "what is not clear is whether the wind - line anomalies described above are a consequence of the unusual complexity of @xmath0sco s magnetic field , a general consequence of wind confinement in this class of star , or perhaps even unrelated to the presence of a magnetic field .",
+    "we present two early b - type stars - hd66665 and hd63425 - that we identified to be the first @xmath0sco analogues .",
+    "these stars were first discovered by their uv spectra , which are strikingly similar to the uv spectrum of @xmath0sco .",
+    "spectropolarimetric observations of hd66665 and hd63425 were taken with espasons at the canada - france - hawaii telescope , in the context of the magnetism in massive stars large program .",
+    "we acquired 4 high - resolution , broad - band , intensity ( stokes i ) and circular polarisation ( stokes v ) for each star .    in order to determine the stellar and wind parameters of hd66665 and hd63425 we used non - lte model atmospheres from the cmfgen code ( * ? ? ? * ( hillier & miller 1998 ) ) .",
+    "the physical parameters are similar to @xmath0sco s . in order to increase the magnetic sensitivity of our data",
+    ", we applied the least - squares deconvolution ( lsd ) procedure ( * ? ? ? * ( donati et al .",
+    "1997 ) ) , which enables the simultaneous use of many spectral lines to detect a magnetic field stokes v signature .",
+    "all observations led to a significant detection of a ( time - variable ) magnetic signal ( see figure [ fig1 ] ) .",
+    "the same analysis was performed on the diagnostic null profiles , and no signal was detected .",
+    "as the exact rotation phases of our observations are not known , we used the method described by ( * ? ? ?",
+    "* petit et al . ( 2008 , in prep ) ) , which compares the observed stokes v profiles to a rotation independent , dipolar oblique rotator model , in a bayesian statistic framework .",
+    "we can obtain a conservative estimate of the surface field strength , in a dipolar approximation .",
+    "the average surface field strengths are of the same scale as the surface field of @xmath0sco .",
+    "however , more phase - resolved observations are required in order to assess the potential complexity of their magnetic field , and verify if it is linked to the wind anomalies ."
+  ],
+  "abstract_text": [
+    "<S> the b0.2 v magnetic star @xmath0sco stands out from the larger population of massive magnetic ob stars due to its remarkable , superionized wind , apparently related to its peculiar magnetic field - a field which is far more complex than the mostly - dipolar fields usually observed in magnetic ob stars . </S>",
+    "<S> @xmath0sco is therefore a puzzling outlier in the larger picture of stellar magnetism - a star that still defies interpretation in terms of a physically coherent model .    </S>",
+    "<S> recently , two early b - type stars were discovered as @xmath0sco analogues , identified by the striking similarity of their uv spectra to that of @xmath0sco , which was - until now - unique among ob stars . </S>",
+    "<S> we present the recent detection of their magnetic fields by the mimes collaboration , reinforcing the connection between the presence of a magnetic field and a superionized wind </S>",
+    "<S> . we will also present ongoing observational efforts undertaken to establish the precise magnetic topology , in order to provide additional constrains for existing models attempting to reproduce the unique wind structure of @xmath0sco - like stars . </S>"
+  ]
+}

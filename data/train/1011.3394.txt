@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "in 2008 , we observed the dusty wolf - rayet ( wr ) star wr118 using the astronomical beam recombiner ( amber , @xcite ) , at the focus of the very large telescope interferometer ( vlti ) .",
+    "wr118 had already been observed using speckle interferometry , on the bta 6 m telescope , in russia ( ) .",
+    "the amber visibilities and closure phases were acquired at spatial frequencies up to 5 times larger than the previous speckle observations .",
+    "we clearly resolved the system with amber , with visibilities decreasing up to @xmath1 cycles / arc - second , and increasing again above .",
+    "such a visibility behavior is typical of an object containing a sharp edge in its intensity distribution .",
+    "in addition , the closure phase , measured at three different moments during the night , is clearly non - equal to zero , meaning that wr118 s dusty nebula is asymmetric .",
+    "we modelled wr118 s dusty nebula with several geometrical models , including a clumpy spherical wind and a `` pinwheel '' nebula .",
+    "this last model provides a physical description of the system and best match the observed data .",
+    "therefore , we concluded that wr118 probably hosts a `` pinwheel '' nebula , detected for the first time using long - baseline interferometry ( @xcite ) .",
+    "repeating the amber observations on wr118 to confirm its `` pinwheel '' nature is the next step in this research program .",
+    "one step forward is to assess the feasibility of imaging such targets with the current and future capabilities of the vlti .    for that , we perform simulations of the current vlti instrument amber ( k - band , 2.2 microns ) and of the second generation planned vlti instrument matisse ( l - band , 3.5 microns ) observations .",
+    "we start from the model of wr118 found previously and simulate a realistic observation ( typical v@xmath2 errors of 5% ) with different baselines and one measurement per hour .",
+    "then , we use the mira software ( @xcite ) to reconstruct an image of the target from these simulations .",
+    "four cases are simulated here :    * amber observations during 3 nights with 3 telescopes configurations , * amber observations during 7 nights with 7 telescopes configurations , * matisse observations during 3 nights with 3 telescopes configurations , * matisse observations during 7 nights with 7 telescopes configurations .    as expected , we find that amber already provides some imaging capabilities , even using as few as three nights of observation",
+    ". one can recognize in the reconstructed image all the features from the original image ( see fig .",
+    "[ fig1 ] ) .",
+    "however , as was also experienced on real datasets ( @xcite ) , the relative flux of the different features is not well constrained , because of the lack of 66% of phase information .",
+    "increasing , by more than a factor two , the number of nights used , only marginally improves the quality of the image reconstruction .    on the other hand ,",
+    "matisse simulations show a better agreement on the fluxes of the different features , even using `` only '' three nights of observation .",
+    "we also note that the loss in angular resolution from the k - band and l - band do not apparently affect the quality of the image reconstruction .",
+    "we showed here that long - baseline interferometry is now clearly mature to confirm the brightest suspected `` pinwheel '' nebulae , using the current abilities of amber on the vlti .",
+    "in addition , we also showed that amber will be able to synthethise an image , where the `` pinwheel '' nebula would be qualitatively recognized , using at least three nights of observing time .",
+    "the use of the second generation matisse instrument will permit to have more realistic flux measurements in the different parts of the image , with the same amount of observing time ."
+  ],
+  "abstract_text": [
+    "<S> dusty wolf - rayet stars are few but remarkable in terms of dust production rates ( up to @xmath0/yr ) . </S>",
+    "<S> infrared excesses associated to mass - loss are found in the sub - types wc8 and wc9 . </S>",
+    "<S> few wc9d stars are hosting a `` pinwheel '' nebula , indirect evidence of a companion star around the primary . </S>",
+    "<S> while few other wc9d stars have a dust shell which has been barely resolved so far , the available angular resolution offered by single telescopes is insufficient to confirm if they also host `` pinwheel '' nebulae or not . in this article </S>",
+    "<S> , we present the possible detection of such nebula around the star wr118 . </S>",
+    "<S> we discuss about the potential of interferometry to image more `` pinwheel '' nebulae around other wc9d stars . </S>"
+  ]
+}

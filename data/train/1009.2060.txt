@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "in computational combinatorics , it is important to be able to _ efficiently _ rank , unrank , and randomly generate ( uniformly ) basic classes of combinatorial objects . a ranking algorithm for a finite set @xmath9 is a bijection from @xmath9 to the set @xmath10 .",
+    "an unranking algorithm is the inverse of a ranking algorithm . ranking and unranking techniques are useful for storage and retrieval of elements of @xmath9 .",
+    "uniform random generation plays a role in monte carlo methods and in search algorithms such as hill climbing or genetic algorithms over classes of combinatorial objects .",
+    "uniform random generation of objects is always possible if one has an unranking algorithm since one can generate , uniformly , an integer in @xmath11 and unrank .",
+    "we consider the set @xmath12 of trees with vertex set @xmath13 = \\{1 , \\ldots , n\\}$ ] .",
+    "these trees are sometimes called cayley trees and can be viewed as the set of spanning trees of the complete graph @xmath14 . ranking and unranking algorithms for the set @xmath12 have been described by many authors .",
+    "indeed , efficient ranking and unranking algorithms have been given for classes of trees and forests that considerably generalize the cayley trees ( e.g. , [ 3 ] , [ 4 ] , [ 5 ] , [ 6 ] , [ 7 ] ) .    in a previous paper @xcite",
+    ", we considered a more refined problem , namely , the problem of ranking and unranking subsets of @xmath12 with a specified degree sequences or a specified multiset of degrees .",
+    "let @xmath15 be the set of directed trees on @xmath16 that are rooted at 1 .",
+    "that is , a directed tree @xmath17 has all its edges directed towards its root 1 .",
+    "we replace @xmath12 with the equivalent set @xmath15 . for any tree @xmath18 ,",
+    "@xmath19 . if @xmath20 is a sequence of positive integers such that @xmath21 , then we let @xmath22 . remmel and williamson @xcite proved that @xmath23 is a multiset such that @xmath24 and @xmath25 , then we let @xmath26 .",
+    "it is easy to see from ( [ count1 ] ) that @xmath27 or @xmath28 hinged on certian special properties of a bijection @xmath29 between @xmath15 and the class of functions @xmath30\\}$ ] defined by eeciolu and remmel @xcite .",
+    "that is , in @xcite , we proved that for any vertex @xmath31 , @xmath32 equals that degree of @xmath31 in the tree @xmath33 when @xmath34 is considered as an undirected graph .",
+    "this property allowed us to reduce the problem or ranking and unranking trees in @xmath35 or @xmath28 to the problem of ranking and unranking certain classes of set partitions of @xmath13 $ ] .",
+    "we were then able to modify known techniques for ranking and unranking set partitions @xcite to construct efficient ranking and unranking algorithms for @xmath35 or @xmath28 .    in this paper",
+    ", we shall give efficient algorithms to rank and unrank two other natural subsets of @xmath15 , namely , the set of trees which have a given number of leaves or a prespecified set of leaves .",
+    "if @xmath36 is digraph and @xmath37 , we let          if @xmath17 , then we say that @xmath31 is a _ leaf _ of @xmath41 if and only if @xmath42 .",
+    "fix @xmath0 such that @xmath43 and @xmath44 equal the set of trees @xmath41 in @xmath15 with @xmath0 leaves .",
+    "similarly , if @xmath45 is any subset of @xmath46 of size @xmath0 , we let @xmath47 equal the set of trees @xmath17 such that @xmath31 is a leaf of @xmath41 if and only if @xmath48 . the main goal of this paper is to construct efficient ranking and unranking algorithms for the sets @xmath47 or @xmath44 .    just as in the case of the construction of the ranking and unranking algorithms for @xmath35 or @xmath28 @xcite ,",
+    "the eeciolu and remmel bijection @xmath29 allows us to reduce the problem problem ranking and unranking algorithms @xmath47 or @xmath44 to the problem of finding ranking and unranking certain classes of set partitions .",
+    "that is , we can restate the fundamental property of the bijection @xmath49 as @xmath50 for all @xmath51 and @xmath52 $ ] .",
+    "now suppose that @xmath45 is a subset of @xmath13 $ ] of size @xmath0 where @xmath53 .",
+    "then by ( [ fund ] ) , it follows that if @xmath54 and @xmath55 , then @xmath56 if and only if @xmath48 .",
+    "thus if @xmath57-l = \\{j_1 < \\ldots < j_{n - k}\\}$ ] , then @xmath58 must be an ordered set partition of @xmath59 into @xmath60 nonempty parts .",
+    "conversely , if we are given an ordered set partition @xmath61 of @xmath59 into @xmath60 non - empty parts , we can define a function @xmath51 such that @xmath56 if and only if @xmath48 by setting @xmath62 for @xmath63 .",
+    "it follows that @xmath64 is equal to the number of ordered set partitions of @xmath59 into @xmath60 parts .",
+    "we then develop algorithms for ranking and unranking such classes of ordered set partitions by modifying ranking and unranking algorithms for the decreasing functions , permutations , and unordered set partitions found in @xcite .",
+    "let @xmath65 denote the number of unordered set partitions of @xmath13 $ ] into @xmath0 parts .",
+    "the numbers @xmath65 are call the stirling numbers of the second kind and they satisfy the following recursion : @xmath66 table 1 below gives the values of @xmath65 for @xmath67 .",
+    "since the ranking and unranking algorithms for @xmath47 are essentially a subset of the ranking and unranking algorithms for @xmath44 , it follows that both the ranking and uranking algorithms for @xmath47 require @xmath69 steps .",
+    "o. eeciolu , j. b. remmel and s. g. williamson , _ a class of graphs which has efficient ranking and unranking algorithms for spanning trees and forests _ , to appear in the international journal of the foundations of computer science ."
+  ],
+  "abstract_text": [
+    "<S> in this paper , we provide algorithms to rank and unrank certain degree - restricted classes of cayley trees . </S>",
+    "<S> specifically , we consider classes of trees that have a given set of leaves or that have a fixed number @xmath0 of leaves . using properties of a bijection due to eeciolu and remmel @xcite , we reduce the problem of ranking and unranking these classes of degree - restricted trees to corresponding problems of ranking and unranking certain classes of set partitions . for fixed @xmath0 , the number of cayley trees with @xmath1 vertices and @xmath0 leaves grows roughly as @xmath2 and hence the ranks have @xmath3 bits . </S>",
+    "<S> our ranking and unranking algorithms require at most @xmath4 comparisons of numbers @xmath5 plus @xmath6 operations of multiplication , division , addition , substraction and comparision on numbers @xmath7 of length @xmath8 . </S>"
+  ]
+}

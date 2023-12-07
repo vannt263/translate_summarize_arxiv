@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the author is very grateful to ms .",
+    "fang chen , hanyue wu ( _ apple _ ) , hanxing wu ( _ lily _ ) and hanchen wu ( _ cindy _ ) for their great support ."
+  ],
+  "abstract_text": [
+    "<S> in this note , we argue that there is a bug in [ tirole , j. , `` hierarchies and bureaucracies : on the role of collusion in organizations , '' _ journal of law , economics and organization _ , vol.2 , 181 - 214 , 1986 ] </S>",
+    "<S> .    collusion ; incentive theory .    in this note , </S>",
+    "<S> the notation is referred to ref . [ 1 ] . </S>",
+    "<S> vertical structures are represented by three - layer hierarchies : principal / supervisor / agent . </S>",
+    "<S> the _ principal _ , who is the owner of the vertical structure or the buyer of the good produced by the agent , or more generally , the person who is affected by the agent s activity , lacks either the time or the knowledge required to supervise the agent . </S>",
+    "<S> the _ supervisor _ is a party that exerts no effort , receives a wage from the principal and collects information to help the principal control the agent . </S>",
+    "<S> the _ agent _ is the productive unit . </S>",
+    "<S> the profit @xmath0 created by the agent s activity depends on a productivity parameter @xmath1 and on the effort @xmath2 he exerts : @xmath3 the agent s effort @xmath4 is assumed not observable by the supervisor and the principal . </S>",
+    "<S> the agent s disutility of effort is equal , in monetary terms , to @xmath5 .    for </S>",
+    "<S> a given @xmath1 , the supervisor s signal @xmath6 can take two values : @xmath7 , where @xmath8 denotes observation `` nothing '' . </S>",
+    "<S> the report @xmath9 of supervisor is _ verifiable _ , i.e. , if @xmath10 then @xmath11 , otherwise @xmath12 . </S>",
+    "<S> the productivity @xmath1 can take two values : @xmath13 and @xmath14 such that @xmath15 . </S>",
+    "<S> there are four states of _ nature _ , indexed by @xmath16 . </S>",
+    "<S> state of nature @xmath16 has probability @xmath17 ( @xmath18 ) . the agent always observes @xmath1 before choosing his effort . </S>",
+    "<S> the supervisor may or may not observe @xmath1 . in the following description of the four states of nature , @xmath19 and </S>",
+    "<S> @xmath20 stand for supervisor and agent : + _ state 1 _ : @xmath20 and @xmath19 observe @xmath13 . </S>",
+    "<S> + _ state 2 _ : @xmath20 observes @xmath13 , @xmath19 observes `` nothing '' . </S>",
+    "<S> + _ state 3 _ : @xmath20 observes @xmath14 , @xmath19 observes `` nothing '' . </S>",
+    "<S> + _ state 4 _ : @xmath20 and @xmath19 observe @xmath14 .    * claim 1 * : the supervisor and principal can not discriminate _ state _ 2 and 3 . </S>",
+    "<S> + _ proof _ : the only difference between _ state _ 2 and 3 is that agent @xmath20 observes different values of productivity . however , this parameter is agent s private information and not observable to the supervisor and principal . </S>",
+    "<S> put in other words , _ state _ 2 and 3 are indifferent to the supervisor and the principal . </S>",
+    "<S> @xmath21    </S>",
+    "<S> _ timing_. + 1 ) the principal offers a contract . </S>",
+    "<S> + 2 ) @xmath20 learns the productivity @xmath1 , @xmath19 learns the signal @xmath6 . </S>",
+    "<S> + 3 ) @xmath20 chooses the effort @xmath4 . </S>",
+    "<S> + 4 ) profit @xmath22 , @xmath19 reports @xmath9 . + 5 ) the principal transfers @xmath23 and @xmath24 to the supervisor and agent respectively .    * </S>",
+    "<S> claim 2 * : there is a bug in the agent s incentive compatibility constraint ( _ aic _ ) : @xmath25 ( page 191 , line 8 , [ 1 ] ) .    </S>",
+    "<S> _ proof _ : as specified in the timing , the wage @xmath24 of agent is transferred by the principal . </S>",
+    "<S> it only depends on the commonly observable variables @xmath0 and @xmath9 , not on the agent s private productivity @xmath1 . </S>",
+    "<S> since the principal can not discriminate _ state _ 2 and 3 , the items @xmath26 and @xmath27 are indeed meaningless .    that s the bug , not only for the condition ( _ aic _ ) , but also for the whole paper of tirole ( 1986 ) . </S>"
+  ]
+}

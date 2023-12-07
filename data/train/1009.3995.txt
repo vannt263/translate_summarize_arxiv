@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "for stars in clusters the evolutionary stage , age , and luminosity can be determined more reliably , whereas they are rather uncertain for field stars .",
+    "it is especially important to study group members that are rare , such as lbv  stars . from this point of view",
+    ", young cygob2 association is of special interest .",
+    "many unevolved o / of  stars have been identified there as well as an lbv candidate  the variable star no.12 .",
+    "its luminosity is logl / l@xmath3=6.26 ( ( * ? ? ?",
+    "* de jager 1998 ) ) at the association distance of 1.7 kpc",
+    ".    [ cols= \" < , < \" , ]",
+    "optical spectra of cygob2 no.12 were taken using the chelle spectrographs of the 6-meter telescope of the special astrophysical observatory .",
+    "on june 12 , 2001 , we used the pfes spectrograph ( ( * ? ? ? * panchuk et al .",
+    "1998 ) ) with a 1040@xmath41170-pixel ccd at the prime focus and got a spectrum with a resolution of @xmath5 15000 ( 20 kms@xmath6 ) .",
+    "later we used the nes spectrograph  ( ( * ? ? ? * panchuk et al .",
+    "2009 ) ) equipped with a 2048@xmath42048-pixel ccd and an image slicer and obtained spectra with @xmath760000 ( 5kms@xmath6 ) on april 12 , 2003 and on december  8 ,  2006 .",
+    "the spectral types we derived for three dates were the same within the errors : b5.0@xmath00.5 , b4.8@xmath00.5 and b4.0@xmath00.5 .",
+    "the luminosity type is ia@xmath1 .",
+    "the high luminosity is supported by the strong oi7773  ir  triplet whose equivalent width of 1.14corresponds to an absolute visual magnitude of m@xmath88mag .",
+    "the radial velocities ( v@xmath9 ) measured from the absorption line cores vary with time and with the line intensity .",
+    "the weakest lines give v@xmath9 lower than v@xmath10=@xmath1111kms@xmath6 ( ( * ? ? ?",
+    "* klochkova & chentsov 2004 ) ) by 5 , 14 and 15kms@xmath6 in 2001 , 2003 , 2006 , respectively , suggesting a variable expansion rate of the layers where they form .",
+    "the left panel of fig.[s4 - 11_fig1 ] shows that the h@xmath2 profile varies with time , but its principal features are preserved : a strong bell - shaped emission , with a dip at the short - wavelength slope , a sheared peak , and extended thompson wings .",
+    "the blue - shifted absorption is barely visible in june  2001 and is more pronounced in april  2003 , but can be traced at least to v@xmath9=@xmath11160kms@xmath6 in both cases ; i.e. , to the same limit that is reached by the blue wings of the absorption lines of siii and hei ( the latter shown in the right panel of fig.[s4 - 11_fig1 ] ) .",
+    "the wind terminal velocity is @xmath12 150kms@xmath6 .",
+    "the intensity inversions in the upper part of the h@xmath2 profile indicate that the wind is not uniform .",
+    "in addition to the high velocity material mentioned above , it contains a fair amount of material that is nearly stationary relative to the star or is even falling onto the stellar surface .",
+    "coexistence of lines with direct and inverse pcygni profiles in the same spectrum , and even combinations of such features in the profile of the same line leads us to reject a spherical symmetry wind .",
+    "it is possible that the slow part of the wind also contributes to the absorption profiles .",
+    "so far , this possibility is supported by the coincident velocities for the central dips of the h@xmath2 line and the well - formed cores of strong absorption lines ( hei5876  in 2001 and siii6347  in 2003 ) , as well as by the fact that the blue shift of all the absorption lines in the 2003 spectrum relative to their positions in 2001 was accompanied by a similar shift of the central dip in h@xmath2 . at any rate ,",
+    "both the hydrogen lines and the strongest absorption lines in the visual spectrum cygob2  no.12 are partially formed in the wind ."
+  ],
+  "abstract_text": [
+    "<S> we present the results of high - resolution spectroscopy of the extremely luminous star cygob2  no.12 . </S>",
+    "<S> we identified about 200 spectral features in the range 45527939 , including the interstellar nai , ki lines and numerous very strong dibs , along with the hei , cii , and siii lines . </S>",
+    "<S> an mk spectral type we derived for the object is b4.5@xmath00.5 ia@xmath1 . </S>",
+    "<S> our analysis of the radial velocity data shows the presence of a gradient in the stellar atmosphere , caused by both atmospheric expansion and matter infall onto the star . </S>",
+    "<S> the h@xmath2 emission displays broad thompson wings , a slightly blue - shifted pcyg type absorption component and a time - variable core absorption . </S>",
+    "<S> we conclude that the wind is variable in time . </S>"
+  ]
+}

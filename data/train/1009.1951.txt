@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "if supersymmetry exists at the tev scale and r - parity is conserved , the susy particles should be produced in pairs and decay to the lightest susy particle which would escape detection , thus leading to signatures containing jets , large missing transverse momentum and potentially one or more leptons .",
+    "we present here a first comparison of the atlas data corresponding to @xmath0 of integrated luminosity from the @xmath1 tev proton - proton collisions to monte carlo simulations for some of the most important kinematical variables that are expected to be sensitive for susy searches .",
+    "a more detailed description of these results can be found in @xcite .",
+    "in the one - lepton analysis , after a leptonic trigger requirement and a set of cleaning cuts to reject events containing jets which are consistent with calorimeter noise , cosmic rays or out - of - time energy deposits , the events are preselected by asking for at least two jets with transverse momentum @xmath2 gev and one isolated lepton ( electron or muon ) with @xmath3 gev .",
+    "the signal region is then defined by applying two further cuts : @xmath4 gev and @xmath5 gev , where @xmath6 is the missing transverse momentum , calculated as the opposite of the vector sum of the transverse energies of all three - dimensional topological clusters in the calorimeter plus the transverse momenta of the selected well - isolated muons in the analysis and @xmath7 is the transverse mass of the lepton and @xmath6 defined as @xmath8 .    the data is compared to the full - detector geant4 simulation which is reconstructed using the same algorithms as for the data .",
+    "the standard model background processes considered in this analysis are qcd ( pythia ) , w / z+jets ( alpgen + herwig + jimmy ) and @xmath9 ( mc@nlo + herwig + jimmy ) .",
+    "the pythia qcd predictions were compared to a set of alpgen qcd samples ; the differences were found to be well within the experimental uncertainties for the kinematic region explored .",
+    "the qcd and w+jets backgrounds are normalized to the data in control regions defined as @xmath10 gev and @xmath11 gev for the qcd background and @xmath12 and @xmath13 gev for the w+jets background . as an example",
+    ", the su4 supersymmetric point ( isajet + herwig + prospino ) is also shown in the plots with its cross section multiplied by 10 ; su4 is a low - mass benchmark point close to the tevatron limits and is defined as @xmath14 gev , @xmath15 gev , @xmath16 gev , @xmath17 and @xmath18 .",
+    "the most important sources of systematic uncertainties are considered : the uncertainty on the jet energy scale ( which varies from 7 - 10@xmath19 as a function of the jet @xmath20 and @xmath21 ) , the uncertainty on the w+jets and qcd normalizations ( 50@xmath19 ) , the uncertainty on the z+jets normalization ( 60@xmath19 ) and the uncertainty on the luminosity ( 11@xmath19 ) .",
+    "the results are shown in figures [ fig : met]-[fig : meff ] .",
+    "figure [ fig : met ] shows @xmath6 after the preselection for the electron and muon channels : there is reasonable agreement between the data and the monte carlo .",
+    "while the low @xmath6 region is dominated by the qcd background , the w+jets background dominates at higher values ; the supersymmetry model would yield even higher @xmath6 values .",
+    "after applying the @xmath4 gev cut , the @xmath7 distributions for both channels are shown in fig .",
+    "[ fig : mot ] and exhibit good agreement between the data and monte carlo . finally , fig .",
+    "[ fig : meff ] shows the effective mass distribution ( @xmath22 , defined as @xmath23 for the signal region , i.e. after a further cut on @xmath5 gev .",
+    "the number of events found in the signal region is consistent with the expectations .",
+    "the expected number of events is compared with the data at different stages of the analysis in table [ tab : results ] .",
+    "distribution after the preselection for the electron ( left ) and muon ( right ) channels .",
+    "the statistical and systematic uncertainties on the monte carlo prediction , added in quadrature , are shown as a yellow band on the plots .",
+    ", title=\"fig:\",height=240 ]    distribution after the preselection for the electron ( left ) and muon ( right ) channels .",
+    "the statistical and systematic uncertainties on the monte carlo prediction , added in quadrature , are shown as a yellow band on the plots .",
+    ", title=\"fig:\",height=240 ]     distribution after the cut on @xmath6 for the electron ( left ) and muon ( right ) channels.,title=\"fig:\",height=240 ]    distribution after the cut on @xmath6 for the electron ( left ) and muon ( right ) channels.,title=\"fig:\",height=240 ]     distribution after the cuts on @xmath6 and @xmath7 for the electron ( left ) and muon ( right ) channels.,title=\"fig:\",height=240 ]    distribution after the cuts on @xmath6 and @xmath7 for the electron ( left ) and muon ( right ) channels.,title=\"fig:\",height=240 ]    .[tab : results ] number of events observed and predicted at several stages of the single lepton selection . as described in section  [ sec : analysis ] , the monte carlo predictions have been normalised to the data in control regions which overlap all but the final selection . [ cols= \" < , > , > , > , > \" , ]",
+    "the first @xmath0 of integrated luminosity collected with the atlas detector are analysed in an early search for new physics in the channel containing jets , missing transverse momentum and one lepton ( electron or muon ) .",
+    "the measurements are compared to simulations of the expected standard model background and generally show agreement with these expectations ."
+  ],
+  "abstract_text": [
+    "<S> using atlas data corresponding to @xmath0 of integrated luminosity from the 7 tev proton - proton collisions at the lhc , distributions of relevant supersymmetry - sensitive variables are shown for the final state containing jets , missing transverse momentum and one isolated electron or muon . with </S>",
+    "<S> increased integrated luminosities , selections based on these distributions will be used in the search for supersymmetric particles : it is thus important to show that the standard model backgrounds to these searches are under good control . </S>"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "recently , we studied acoustically levitated droplets , containing soluble and insoluble particles under laser irradiation@xmath0 .",
+    "heating of nanosilica suspended solutions with different initial concentration shows a fascinating agglomeration and structure formation . in the initial stages of heating",
+    "when significant evaporation has not taken place , the hydrodynamic effects caused by acoustic streaming is stronger compared to other effects such as orthokinetic aggregation .",
+    "soon , the evaporate rate becomes stronger resulting in a sharp diameter reduction . at the end of this stage , accumulation of nanosilica sets in as the droplet takes the shape of a bowl due to acoustic pressure difference , and the drop size stops reducing further .",
+    "as the solvent is depleted , the hydrodynamic effect becomes weaker .",
+    "this marks the onset of the structure formation stage which is dominated by aggregation or agglomeration of nanosilica particles .",
+    "the current results show two different structures depending on the initial solute concentration . for nanosilica concentration of less than 1.3% , the droplet maintains the bowl structure . on the other hand , for concentration greater than 1.9%",
+    ", the initial bowl transforms into a horizontal ring . for the concentrations between 1.3 and 1.9 , the droplet either forms a ring or a bowl .",
+    "the formation of ring can be explained as follows .",
+    "further increase in viscosity with concentration decreases the strength of recirculation . the centrifugal effect due to droplet rotation about levitator axis becomes stronger than recirculation resulting in the accumulation of particles around the droplet equatorial plane .",
+    "thus a horizontal ring is formed due to asymmetries in mass distribution .",
+    "the horizontal ring first starts oscillating within the acoustic field and eventually reorients itself to form a vertical ring due to an imbalance of forces .",
+    "submitted video is an adapted version of high speed images recorded during heating a 3% nano - silica droplet .",
+    "all the stages mentioned earlier can be observed in the video .",
+    "initially , it shows a sharp diameter reduction , followed by a formation of a bowl structure .",
+    "then the bowl takes shape of a horizontal ring .",
+    "eventually this ring reorients itself to become vertical ring .",
+    "@xmath1a saha , s basu , c suryanarayana , r kumar , `` experimental analysis of thermo - physical processes in acoustically levitated heated droplets '' , international journal of heat and mass transfer 2010 , volume 53 ( 2010 ) , pp 5663 - 5674"
+  ],
+  "abstract_text": [
+    "<S> preferential accumulation and agglomeration kinetics of nanoparticles suspended in an acoustically levitated water droplet under radiative heating has been studied . at high concentrations of nanosilica particles , viscosity of the solution increases , and correspondingly centrifugal motion dominates due to droplet rotation about the levitator axis , which results in the formation of a ring structure . </S>",
+    "<S> this horizontal ring eventually reorients itself due to an imbalance of acoustic forces on the ring , exposing higher area for laser absorption and subsequent sharp temperature rise . </S>"
+  ]
+}

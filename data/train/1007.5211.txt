@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "in a previous note @xcite we have obtained a solution of the lamb integral equation @xcite using a formalism based on the fractional derivatives .",
+    "our result coincides with the solution provided , without any proof , by bateman @xcite .",
+    "a generalization of our method has been proposed in @xcite , where fractional derivatives are used to solve a more complicated version of the lamb equation .    in this note",
+    "we discuss a further extension of the technique put forward in @xcite and we will develop a more general procedure to treat integral equations whose solution requires fractional forms of differential operators other than the ordinary derivative . to this aim we remind that the exponential operator @xmath0 is a dilatation operator whose action on a given function @xmath1 is ( see ref .",
+    "@xcite ) @xmath2    let us now consider the operator @xmath3 with @xmath4 .",
+    "the use of the following property of the laplace transform @xmath5 allows to write @xmath6 and , according to the previous discussion , we find @xcite @xmath7 which is essentially the generalization of the riemann - liouville integral representation for non - integer negative powers of the operator @xmath8 @xcite .",
+    "the procedure outlined in sec .",
+    "[ sec : intro ] can be generalized to other differential forms .",
+    "the first example we consider is the following modified form of the lamb - bateman equation @xmath9 where @xmath10 is the function to be determined , and @xmath11 is a continuous , free from singularities , known function .",
+    "according to the properties of the dilatation operator , we can cast eq . in the form @xmath12 and , treating the derivative operator as a generic constant , the evaluation of the the gaussian integral yields @xmath13 by rewriting the operator @xmath14 as @xmath15 , and taking into account eq .",
+    ", we get = 0 $ ] , with @xmath16 generic function that admits a power series expansion , one has : @xmath17 . ] @xmath18 whose correctness as solution of eq",
+    ". has been checked numerically .    as a further example of integral equation which does not involve fractional operators but requires the use of the dilatation operator , we consider the following problem @xmath19 where @xmath10 is the unknown function . in this case",
+    "we get @xmath20 and , thus @xmath21    in the case @xmath22 , we obtain the solution in terms of 0-th order bessel functions of first kind , namely we obtain the following identity @xmath23 . ] @xmath24 in general , if @xmath11 is any function which can be expanded as @xmath25 the solution writes @xmath26 it is interesting to note that in the case in which the equation is of the type @xmath27 the relevant solution can be written in terms of bessel - like functions as follows @xmath28 where @xmath29 is the bessel - wright function of order @xmath30 @xcite .",
+    "the same result holds for the integer @xmath31 replaced by any real @xmath32 .",
+    "we go back to fractional operational calculus by considering the following example of integral equation @xmath33 which is apparently more complicated than the original lamb - bateman equation , but , as will be shown later , in spite of its different form , it represents the same mathematical problem .",
+    "also in this case the solution can be obtained using the previously outlined shift operator technique .",
+    "we first recall the identity @xcite @xmath34 and therefore , as a straightforward consequence of our procedure , we find @xmath35 the use of the same logical steps leading to eq .",
+    "yields the following expression for the solution of eq . @xmath36",
+    "the examples discussed so far show that the method we have proposed is fairly powerful and is amenable of useful generalizations . a further example supporting the usefulness of our technique",
+    "is offered by the calculation of the integral @xmath37\\ ; \\qquad",
+    "\\qquad \\qquad \\left(\\re \\nu\\,\\geq\\,\\frac{1}{2}\\right)\\;.\\ ] ] the shift operator method outlined in the introductory remarks allows to write this integral as follows @xmath38 the operator @xmath39 can be defined explicitly by using the following result @xcite @xmath40 that specified to the case @xmath41 , yields @xmath42 by substituting to @xmath43 its taylor expansion , and assuming that the sum and the operator @xmath39 can be interchanged , we get @xmath44 we have checked the correctness of this result performing a direct numerical integration of eq . .",
+    "the behavior of the functions @xmath45 for different values of @xmath46 is shown in fig . [ fig : funs ] .",
+    "the procedure employed for the evaluation of the integral is quite general and can be extended to any integral of the type @xmath49 in fact , writing this integral as follows @xmath50^{x\\,\\partial_x}\\,f(x)\\;,\\ ] ] we can calculate @xmath51^\\mu\\;,\\ ] ] and , thus @xmath52      a complete theory of the generalized shift operators has been presented in ref .",
+    "@xcite , where , among the other things , the following identity has been proved @xmath56 \\quad \\quad   f(x ) \\,=\\ , \\int^x\\,\\mathrm{d}\\xi\\,\\frac{1}{q(\\xi)}\\;,\\ ] ] which is a generalization of the ordinary shift operator ( the examples discussed before are just a particular case of this formula ) . according to this identity and to the methods here discussed ,",
+    "it is easy to show that the solution of the following integral equation @xmath57 \\,=\\ , f(x)\\ ] ] can be written as @xmath58 in a forthcoming investigation we will discuss the conditions under which the previous solution holds and some examples of applications of the obtained identities .    before closing this paper",
+    "we consider the following integral equation @xmath59 by using eq . , it is easy to show that ( with @xmath60 ) . ]",
+    "@xmath61 and , therefore , for the solution of eq .",
+    "we obtain @xmath62    in this paper we have studied the properties of differential operators like @xmath8 and their fractional generalizations .",
+    "it is well known that , for @xmath30 integer different from zero , the following identity holds @xcite @xmath63 where @xmath64 are the stirling number of second kind .",
+    "the extension of this equation to the non - integer powers of @xmath8 does not exist .",
+    "we make the conjecture that in this case eq . can be modified as follows @xmath65 the numerical check confirms the validity of our conjecture , but we did not succeed in getting a rigorous proof for it .",
+    "eq . , as well as other identities presented in this paper , will be more throughly discussed in a more general forthcoming paper ."
+  ],
+  "abstract_text": [
+    "<S> we present an extension of a previously developed method employing the formalism of the fractional derivatives to solve new classes of integral equations . </S>",
+    "<S> this method uses different forms of integral operators that generalizes the exponential shift operator . </S>"
+  ]
+}

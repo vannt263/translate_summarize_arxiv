@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the observed period of bi108 ( ogle - id : lmc sc9 - 125719 , macho - id 79.5378.25 ) of 10.73d has six equidistant but distinct minima and some symmetry around the deepest minimum . at close inspection , it became clear that the lightcurve can actually be disentangled into two periods with a resonant ratio of 3:2 ( see figures in ( * ? ? ?",
+    "* koaczkowski et al .",
+    "( in press ) ) ) . from october 2008 to january 2009 20",
+    "spectra were taken at ten epochs with the echelle spectrograph uves , mounted at the 8.2 m telescope ut2 on cerro paranal .",
+    "the obtained spectra are of an sb2 composite nature , however , only one single period is present in the radial velocities , namely @xmath0d . star a and b have an almost circular orbit , similar mass , and are in a similar evolutionary stage , being both very early b supergiants , b0ii+b0ii .",
+    "no circumstellar gas , i.e.  no mass transfer , was detected .",
+    "the spectral disentangling was done with vo - korel based on korel , ( * ? ? ?",
+    "* hadrava ( 1995 ) ) :    [ cols= \" < , > , < , > \" , ]     the resonant period is not completely absent in the spectra , however , but modulates the line strengths . in particular , the total equivalent width ( ew ) over both components is about constant , while each component varies strongly , i.e.  it seems as if a certain fraction of equivalent width is exchanged between the stars with a period of @xmath1d , although admittedly our data is too scarce to claim so with much certainty . for brevity",
+    ", we call this behavior `` ew - shuffling '' ( see fig .  1 , right ) in the following .",
+    "a good hypothesis for the explanation of the system has to fulfill a number of criteria : + * 1 . ) * explain why the superperiod is disentangled into two resonant periods . * 2 . ) * provide a strong and stable locking mechanism between the two periods . * 3 . )",
+    "* explain the phase relation , i.e. * a. ) * @xmath2 , and * b. ) * the rv vs.  light curve relations , not as a line - of - sight coincidence , but for all aspects .",
+    "* 4 . ) * provide an evolution scenario , in which the current system , hosting ( at least ) two b0ii stars , could have evolved from a plausible off - the - shelf system . * 5 . ) * provide at least a toy model for the ew shuffling .    in the following",
+    "we discuss several hypothesis : * lagrangian triple : * a lagrangian triple is a system with three stars a+b+c on a common orbit , trailing each other with @xmath3 . in a more general scheme ,",
+    "concentric orbits for stars with unequal masses are possible as well .",
+    "ew shuffling might be due to the unrecognized component switching between a and b. however , such a system quite strongly violates criteria 2 , 3b , and 4 .",
+    "* hierarchical system : * a system of type ( aa+ab)+(ba+bb ) was the original suggestion when the system was first published ( * ? ? ? * ofir , 2008 ) .",
+    "however , this suggestion falls short in criteria 1 , 2 , 3a , and 3b .",
+    "* two - star magnetic resonance : * this hypothesis assumes only two stars a+b , with the spin - orbit relation locked by magnetic fields .",
+    "criteria 1 and 3 are naturally fulfilled and 4 is not a major problem a priori , but the 3:2 locking ratio might be an issue for criterion 2 ( at least for dipoles ) . yet neither the ew shuffling nor the photometric curve look like anything a magnetic star usually has to offer .",
+    "* two - star tidal resonance : * also only two stars a+b , but their spin - orbit relation are locked due to tidal interaction .",
+    "again criteria 1 and 3 are naturally fulfilled , while according to ( * ? ? ?",
+    "* witte & savonije ( 2001 ) ) 2 and 4 are plausible .",
+    "geometrical distortion and light modulation by a strong tidal wave is at least a toy model for the ew behaviour .",
+    "as witte & savonije ( 2001 ) point out in a study of a 10m@xmath4 + 10m@xmath4 main sequence binary , such a tidal resonant locking might actually be quite common and stable during extended phases of the orbital circularization .",
+    "since we deal with massive stars , it is as well plausible that the stars have evolved away from the main sequence before being fully circularized .",
+    "although the tidally locked scenario leaves uncomfortably many open questions , it is the one requiring the least extreme assumptions , satisfying occam s razor ."
+  ],
+  "abstract_text": [
+    "<S> bi108 is a luminous variable star in the large magellanic cloud classified b1ii . </S>",
+    "<S> the variability consists of two resonant periods ( 3:2 ) , of which only one is orbital , however . </S>",
+    "<S> we discuss possible mechanisms responsible for the second period and its resonant locking . </S>"
+  ]
+}

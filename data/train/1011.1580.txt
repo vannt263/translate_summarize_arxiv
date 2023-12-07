@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "it is still an unresolved problem how much agb stars contributes to gas and dust enrichment processes in the interstellar medium ( ism ) within galaxies .",
+    "the galaxy suffers a projection problem , thus it is difficult to obtain the distance to the agb stars , resulting in poor constraints of mass - loss rate of agb stars .",
+    "the spitzer space telescope enabled us to detect agb stars in the neighbouring galaxy , the large magellanic cloud ( lmc ) .",
+    "the depth of the lmc photometric survey ( sage ; * ? ? ?",
+    "* ) has a sufficient depth to cover the majority of mass - losing agb stars @xcite .",
+    "the observations provided a best opportunity to study the role of agb stars on chemical evolution of galaxies . @xcite and matsuura et al .",
+    "( in preparation ) present the details of the analysis .",
+    "we found that indeed agb stars are one of the important gas ejecting sources into the lmc ism .",
+    "supernovae ( sne ) contribute almost an equivalent amount of gas as that made from agb stars .",
+    "agb stars are also the important dust source , but the relative importance remains unknown , due to the uncertainties in dust mass ejected from sne .    . gas and dust mass injected from stars into the ism of the lmc .",
+    "analysis of carbon - rich stars is from @xcite and that of oxygen - rich stars is from matsuura et al .",
+    "( in preparation ) [ cols=\"<,>,>,<,>,>,>,>,^,^,^,^,^,^,^,^,^ \" , ]"
+  ],
+  "abstract_text": [
+    "<S> it is still an unresolved problem how much agb stars can contribute to the overall gas and dust enrichment processes in the interstellar medium within galaxies . </S>",
+    "<S> we start tackling this problem , by using our test case observational data from the large magellanic cloud ( lmc ) , from which we obtain the global gas and dust budget . </S>",
+    "<S> the photometric data from the lmc is obtained with the spitzer space telescope . </S>",
+    "<S> we established an infrared colour classification scheme to select agb stars , which are based on spectroscopically identified agb stars . </S>",
+    "<S> we further confirm a correlation between the spitzer colour and mass - loss rate , which leads to a measurement of the total mass - loss rate from the entire agb population in the lmc . indeed , </S>",
+    "<S> agb stars are an important gas and dust source . </S>"
+  ]
+}

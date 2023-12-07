@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "magnetic fields are unexpected in hot , massive stars due to the lack of convection in their outer envelopes . however , a small number of massive b stars host strong , organized magnetic fields , such as the chemically peculiar he strong stars ( see bohlender & monin , these proceedings ) like the archetypical star @xmath0  ori  e ( see oksala et al . , these proceedings ) and the recently discovered b2v star hr  7355 ( oksala et al .",
+    "2010 ; rivinius et al .",
+    "these stars are rapidly rotating and host strong magnetic fields that are coupled to a co - rotating magnetosphere ( townsend , owocki , groote 2005 ) .",
+    "twenty - one high - resolution ( @xmath1 ) observations of the variable b2v star hd142184 were obtained with the espadons spectropolarimeter at the canada - france - hawaii telescope between february and march 2010 .",
+    "these initial observations clearly show the presence of zeeman signatures in the circular polarization , stokes @xmath2 least - squares deconvolved ( lsd ) , mean line profiles , indicative of a magnetic field .",
+    "we also obtained six low - resolution eso - vlt fors observations in addition to 27 uves observations in april 2010 to follow up the espadons observations .",
+    "equivalent width measurements for hd 142184 .",
+    "different colours correspond to the different instruments ( red = espadons , blue = fors , green = uves).,width=499 ]    using hipparcos photometry , we find a single - wave period of @xmath3d ( see fig .",
+    "[ sidebyside ] ) , which differs from the double - wave photometric light curve of hr 7355 or @xmath0  ori e , likely indicating a different geometry of the magnetic field . from our longitudinal magnetic fields measurements",
+    ", we confirm this period , which we take to be the rotational period of this star ( see fig .",
+    "[ sidebyside ] ) , making it the fastest rotating , non - degenerate , magnetic massive star ! however , the period is sufficiently imprecise that the relative phasing between our current data and the hipparcos data can be offset by so much as 0.5 cycles .",
+    "therefore , we have adopted a period of 0.50833d so that the relative phasing between the photometric minimum and the peak of the longitudinal field curve differs by 0.5 cycles - consistent with the predictions of semi - analytical models for a rotationally supported magnetosphere ( townsend 2008 ; townsend & owocki 2005 ) .",
+    "in addition to the photometric and magnetic periodicity , we also find that h@xmath8 varies with the same period , as shown in fig .  [ sidebyside ] .",
+    "h@xmath8 shows line profile variations of emission extending to high velocities , as shown in fig .",
+    "[ ha_dyn ] .",
+    "the double - lobed pattern and equivalent width variations strongly suggests that hd 142184 hosts a structured magnetosphere similar to @xmath0  ori  e and hr 7355 consisting of co - rotating , magnetically confined clouds of stellar wind plasma .",
+    "( black ) profiles for different nights compared to a nlte model profile ( red ) . *",
+    "right : * phased residual h@xmath8 variations relative to the nlte model.,title=\"fig:\",width=153 ]   ( black ) profiles for different nights compared to a nlte model profile ( red ) . *",
+    "right : * phased residual h@xmath8 variations relative to the nlte model.,title=\"fig:\",width=153 ] +    assuming rigid rotation , we infer that the inclination @xmath9 . from fits to the longitudinal field curve shown in fig .",
+    "[ sidebyside ] we estimate that hd 142184 hosts a mainly dipole magnetic field , with a strength at its pole of @xmath10 kg , and a magnetic axis nearly aligned with the rotation axis .",
+    "currently , the inclination is poorly constrained , which results in a large possible range for the dipole field strength . however , using the predictions of the rigidly rotating magnetosphere model ( townsend & owocki 2005 ) , we expect to better constrain the geometry of hd 142184 based on the variations shown in fig .",
+    "[ sidebyside ] .",
+    "oksala et al . , 2010 , _ mnras _ , 405 , l510 rivinius et al . , 2010 , _ mnras _ , 405 , l46 townsend , r.h.d",
+    ", owocki , s.p . , 2005 , _",
+    "apj _ , 630 , l81 townsend , r.h.d . ,",
+    "owocki , s.p . ,",
+    "groote , d. , 2005 , apj , 630 , l81 townsend , r.h.d . , 2008 , _ mnras _ , 389 , 559"
+  ],
+  "abstract_text": [
+    "<S> we discuss the recent detection of a strong , organized magnetic field in the bright , broad - line b2v star , hd  142184 , using the espadons spectropolarimeter on the cfht as part of the magnetism in massive stars ( mimes ) survey . </S>",
+    "<S> we find a rotational period of 0.50833 days , making it the fastest - rotating , non - degenerate magnetic star ever detected . like the previous rapid - rotation record holder hr 7355 ( also discovered by mimes : oksala et al . </S>",
+    "<S> 2010 , rivinius et al . </S>",
+    "<S> 2010 ) , this star shows emission line variability that is diagnostic of a structured magnetosphere . </S>"
+  ]
+}

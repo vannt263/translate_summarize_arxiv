@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "we started an observing program covering the brightest unclassified and ( candidate ) supergiant b[e ] stars , by using the very large telescope interferometer . for now , about 10 targets have been observed using a combination of amber ( near - ir ) and midi ( mid - ir ) observations . here",
+    "we focus on imaging and therefore stick to amber observations of two of the targets : the unclassified b[e ] star hd87643 and the supergiant a[e ] star hd62623 .",
+    "we used an extensive dataset spanning several orders of magnitude of spatial resolution to partly unveil the nature of this stunning system .    * wide - field images : * many new details are seen in our wide field image of the nebula around hd87643 : `` blown up '' structures in the large scale nebula , which could be the result of an eruption much like in lbvs , and a series of arcs , unseen before , which could be the result of periodic ejections of matter .",
+    "* interferometric images : * our interferometric images , made using the amber / vlti instrument , show a companion star to the bright star . in addition , the primary star exhibits an extended shell (  4mas ) , and background emission is detected .    * interpretation : * using a model involving both stellar components plus a resolved background , we were able to separate individual spectra in h , k and n bands .",
+    "we find that the primary star is enshrouded in a dust shell heated at the dust - sublimation temperature : we resolved the inner region of the hd87643 disk . the secondary component is also enshrouded in dust , at temperatures ranging from 500 to 50k .",
+    "the resolved background holds most of the silicate emission , hence being likely composed of colder condensed dust . as a conclusion , and",
+    "since the distance to the system is still poorly constrained , hd87643 could be a yso instead of an evolved object .",
+    "see @xcite for more details .",
+    "this star was already extensively studied by spectroscopy @xcite .",
+    "hence it was already known that it hosted a circumstellar disk .    *",
+    "the continuum : * we clearly resolve the gas and the dust disk in the continuum , imaging for the first time the disk of an evolved star .",
+    "the image shows an outer ring corresponding to the inner rim where dust sublimation occurs , while we also resolve a central region where free - free emission from the gas takes place .",
+    "the dust emission is asymmetric , which we attribute to an inclination effect .",
+    "this direct picture strikingly confirms what was indirectly inferred from spectroscopic data previously .    * the br@xmath0 line : * our high - spectral resolution image cube in the br@xmath0 line directly shows the motion of the gas in different velocity bins .",
+    "the combination of a model of the dust , which gives the on - sky orientation and inclination of the disk , and of a model of the rotating gas , allows us to claim that we detected keplerian rotation in that disk .",
+    "we can now clearly rule out expanding wind models for hd62623 .",
+    "instead , we have a keplerian rotating disk , where expansion is negligible .",
+    "such a disk , unexpected for massive stars , is common in young stellar objects like herbig stars . in the case of hd62623 ,",
+    "the presence of a very close unseen companion , previously detected by radial velocities , might be the key to the formation of such a rotating disk ."
+  ],
+  "abstract_text": [
+    "<S> b[e ] stars are among the most peculiar objects in the sky . </S>",
+    "<S> this spectral type , characterised by allowed and forbidden emission lines , and a large infrared excess , does not represent an homogenous class of objects , but instead , a mix of stellar bodies seen in all evolutionary status . among them , one can find herbig stars , planetary nebulae central stars , interacting binaries , supermassive stars , and even `` unclassified '' b[e ] stars : systems sharing properties of several of the above . </S>",
+    "<S> interferometry , by resolving the innermost regions of these stellar systems , enables us to reveal the true nature of these peculiar stars among the peculiar b[e ] stars . </S>"
+  ]
+}

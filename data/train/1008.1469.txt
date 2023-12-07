@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "using the lagrange inversion formula , mansour and sun @xcite obtained the following two binomial coefficient identities : @xmath3 in the same way , sun @xcite derived the following binomial coefficient identities @xmath4    it is not hard to see that both and are special cases of , and is the @xmath5 case of .",
+    "a bijective proof of and using binary trees and colored ternary trees has been given by sun @xcite himself .",
+    "using the same model , yan @xcite presented an involutive proof of and , answering a question of sun .    multiplying both sides of by @xmath6 and letting @xmath7 , we may write it as @xmath8 while letting @xmath9 , we may write as @xmath10 the purpose of this paper is to give a @xmath0-analogue of and as follows : @xmath11 where the _ @xmath0-binomial coefficient _",
+    "@xmath12 is defined by @xmath13 0,&\\text{if $ k<0$. } \\end{cases}\\ ] ] we shall give two proofs of and .",
+    "one is combinatorial and the other algebraic .",
+    "recall that a _ partition _",
+    "@xmath14 is defined as a finite sequence of nonnegative integers @xmath15 in decreasing order @xmath16 a nonzero @xmath17 is called a _ part _ of @xmath14 .",
+    "the number of parts of @xmath14 , denoted by @xmath18 , is called the _ length _ of @xmath14 .",
+    "write @xmath19 , called the _ weight _ of @xmath14 .",
+    "the sets of all partitions and partitions into distinct parts are denoted by @xmath20 and @xmath21 respectively . for two partitions @xmath14 and @xmath22 , let @xmath23 be the partition obtained by putting all parts of @xmath14 and @xmath22 together in decreasing order .",
+    "it is well known that ( see , for example , ( * ? ? ? * theorem 3.1 ) ) @xmath24 therefore , @xmath25 where @xmath26 .",
+    "let @xmath27 we shall construct a weight - preserving bijection @xmath28 from @xmath29 to @xmath30 . for any @xmath31 , we associate it with a pair @xmath32 as follows : if @xmath17 appears @xmath33 times in @xmath14 , then we let @xmath17 appear @xmath34 times in @xmath35 and @xmath36 times in @xmath22 . for example , if @xmath37 , then @xmath38 and @xmath39 .",
+    "clearly , @xmath40 and @xmath41 .",
+    "it is easy to see that @xmath42 is a bijection .",
+    "this proves that @xmath43 namely , the identity holds .",
+    "it is easy to see that @xmath44 and @xmath45 let @xmath46 we shall construct an involution @xmath47 on the set @xmath48 with the properties that @xmath47 preserves @xmath49 and reverses the sign @xmath50 .    for any @xmath51 ,",
+    "notice that either some @xmath17 appears an odd number of times in @xmath14 , or some @xmath52 is repeated in @xmath22 , or both are true .",
+    "choose the largest such @xmath17 and @xmath52 if they exist , denoted by @xmath53 and @xmath54 respectively .",
+    "define @xmath55 for example , if @xmath56 and @xmath57 , then @xmath58 it is easy to see that @xmath47 is an involution on @xmath48 with the desired properties .",
+    "this proves that @xmath59 where @xmath60 . combining ",
+    ", we complete the proof of .",
+    "recall that the _ @xmath0-shifted factorial _ is defined by @xmath61 then we have @xmath62 by the @xmath0-binomial theorem ( see , for example , ( * ? ? ?",
+    "* theorem 3.3 ) ) , we may expand and respectively as follows : @xmath63 comparing the coefficients of @xmath64 in both sides of and , we obtain and respectively .",
+    "* acknowledgments .",
+    "* this work was partially supported by the fundamental research funds for the central universities , shanghai rising - star program ( # 09qa1401700 ) , shanghai leading academic discipline project ( # b407 ) , and the national science foundation of china ( # 10801054 ) ."
+  ],
+  "abstract_text": [
+    "<S> we give a @xmath0-analogue of some binomial coefficient identities of y. sun [ electron . </S>",
+    "<S> j. combin . </S>",
+    "<S> 17 ( 2010 ) , # n20 ] as follows : @xmath1 \\sum_{k=0}^{\\lfloor n/4\\rfloor}{m+k\\brack k}_{q^4}{m+1\\brack n-4k}_{q } q^{n-4k\\choose 2 } & = \\sum_{k=0}^{\\lfloor n/2\\rfloor}(-1)^k{m+k\\brack k}_{q^2}{m+n-2k\\brack n-2k}_{q},\\end{aligned}\\ ] ] where @xmath2 stands for the @xmath0-binomial coefficient . </S>",
+    "<S> we provide two proofs , one of which is combinatorial via partitions . </S>"
+  ]
+}

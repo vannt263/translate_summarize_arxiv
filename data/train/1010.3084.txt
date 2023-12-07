@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "the video depicts our experimental work in elucidating feeding mechanisms in insects .",
+    "the first part of the video depicts feeding mechanics in common house fly _ ( musca domestica ) _ using standard video microscopy .",
+    "several peculiar observations are made , including extensive gut movement and labirum pulsations . using a fluid droplet ( 0.1 m sucrose in water ) as a lens ,",
+    "we are able to image the entrance point of the labirum ; usually closed by filtering flaps .",
+    "though static morphology of the insect feeding apparatus is well known - the dynamics of how dilator muscles generate negative pressure is largely unknown .",
+    "we employ adsorption x - ray microscopy for in - vivo imaging of internal dynamics of several insect species including fruit flies , common house flies and bumblebees - to compare the dynamics of feeding and dependence on various control parameters .",
+    "x - ray imaging protocols were developed to achieve good contrast in adsorption mode .",
+    "this allows for low - end x - ray sources to be used for such a task .",
+    "second part of the video employs x - ray tomograpghy to accurately measure the 3d morphology of the feeding apparatus ( and the entire head ) with a imaging resolution of  10 microns .",
+    "the third section depicts in - vivo feeding of live common house fly _",
+    "( musca domestica ) _ over long durations of time .",
+    "the pulsatile nature of the cabiral pump is apparent in live video microscopy .",
+    "we employ micro - surgery techniques from neuro - physiology literature to build probes to perturb the function of the pump .",
+    "this is done via pulled glass capillary inserted from the antennal plate and the flies are stabilized with pbs solution .",
+    "experiments can be conducted for a period of 3 hrs with this adaptation .",
+    "long term feeding rate and its dependence to viscosity is also measured .",
+    "finally , we compare the pumping mechanisms in various species including fruit flies , blow flies , house flies and bumblebees .",
+    "experimental tools developed for in - vivo imaging of insect feeding will also find applications in other insect physiology problems ."
+  ],
+  "abstract_text": [
+    "<S> a large number of insect species feed primarily on a fluid diet . </S>",
+    "<S> to do so , they must overcome the numerous challenges that arise in the design of high - efficiency , miniature pumps . </S>",
+    "<S> although the morphology of insect feeding structures has been described for decades , their dynamics remain largely unknown even in the most well studied species ( e.g. fruit fly ) . here , in the fluid dynamics video , we demonstrate in - vivo imaging and microsurgery to elucidate the design principles of feeding structures of the common house fly . using high - resolution x - ray absorption microscopy , we record in - vivo flow of sucrose solutions through the body over many hours during fly feeding . borrowing from microsurgery techniques common in neurophysiology , we are able to perturb the pump to a stall position and thus evaluate function under load conditions . </S>",
+    "<S> furthermore , fluid viscosity - dependent feedback is observed for optimal pump performance . </S>",
+    "<S> as the gut of the fly starts to fill up , feedback from the stretch receptors in the cuticle dictates the effective flow rate . finally , via comparative analysis between the house </S>",
+    "<S> fly , blow fly , fruit fly and bumble bees , we highlight the common design principles and the role of interfacial phenomena in feeding . </S>"
+  ]
+}

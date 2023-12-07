@@ -1,0 +1,11 @@
+{
+  "article_text": [
+    "http://ecommons.library.cornell.edu/bitstream/1813/8237/2/lifted_h2_ems t_fuel.mpg[video 1 ] includes all necessary information and videos ."
+  ],
+  "abstract_text": [
+    "<S> in this fluid dynamics video , we show thermocapillary actuation of a binary drop of water and heptanol where the binary drop in motion takes on a ufo - like shape . on a parylene - coated silicon surface subjected to a linear temperature gradient </S>",
+    "<S> , a pure heptanol droplet quickly moves to the cold side by the marangoni stress , while a pure water droplet remains stuck due to a large contact angle hysteresis . </S>",
+    "<S> when the water droplet was encapsulated by a thin layer of heptanol and thermally actuated , the binary droplet takes on a peculiar shape resembling an ufo , i.e. an `` unidentified '' floating object as the mechanism is not yet completely understood . </S>",
+    "<S> our finding suggests that pure liquid droplets ( e.g. aqueous solutions ) that are not conducive to thermocapillary actuation can be made so by encapsulating them with another judiciously chosen liquid ( e.g. heptanol ) . </S>"
+  ]
+}

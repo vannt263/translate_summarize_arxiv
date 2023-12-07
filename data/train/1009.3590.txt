@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "-the hadronic and @xmath0 couplings of light scalar mesons could provide an important information about their nature .",
+    "+ -k - matrix model has been used to describe @xmath3 and @xmath0 processes  @xcite .",
+    "+ -this model is improved by introducing a form factor _ shape function _ in a single channel  @xcite , which is generalized @xcite to the coupled channels case in order to extract the pole postions and the previous couplings of the @xmath1 and @xmath2 .",
+    "+ in this talk , we review these recent results .",
+    "we introduce a real analytic form factor _ shape function _  @xcite :",
+    "@xmath9 it allows for an alder zero @xmath10 and a pole at @xmath11 to simulate left hand singularities .",
+    "the unitary @xmath12 s wave @xmath3 scattering amplitude is then written as : @xmath13 where : @xmath14 and hence : @xmath15 the real part of @xmath16 is obtained from a dispersion relation with subtraction at @xmath17 , @xmath18 where @xmath19 has been defined in ref .",
+    "@xcite .      in this case",
+    ", one can introduce another shape function @xmath21 : @xmath22 where @xmath23 , and @xmath24\\ .",
+    "$ ] the single channel results are shown in fig .",
+    "[ fig1 ] and table  [ tab : param1 ] .",
+    "the result of @xmath25 model shows that the existence of @xmath1 is not an artifact of a `` bare '' resonance entering into the parametrization of @xmath26 .",
+    "@xmath12 s - wave phase shift.,width=158 ]    .values of the bare parameters in @xmath27 . [ cols=\"<,^,^,^,<\",options=\"header \" , ]     [ tab : diphotonwidth ]",
+    "the previous possible gluonium assignement of the @xmath1 can be tested from @xmath28 and @xmath29 processes ( @xmath5 is a n unmixed hypothetical gluonium state ) as discussed respectively in @xcite and @xcite .",
+    "we expect to have the branching ratios @xmath30 : & & b(j/_b)b(_b)(0.4~1.0 )  , + & & b(_b)0.12  , and : f__bm_c^2(1 )  , for @xmath31 gev , @xmath32 gev @xcite , where @xmath33 @xcite is the form factor associated to the @xmath34 semileptonic production .",
+    "the rates of these productions are in fair agreement with existing data supporting again or not excluding a large gluonium component of the @xmath1 .",
+    "-we use an improved coupled channel k - matrix model , taking into account adler zero and left hand singularities .",
+    "we extract the pole positions and widths , as well as the hadronic and @xmath0 couplings of @xmath1 and @xmath2 by fitting experimental data .",
+    "+ -the values of their direct widths favour a large gluon content for the @xmath1 meson but are not decisive for explaining the substructure of the @xmath2 meson , which can mainly be either a @xmath4 or a gluonium .",
+    "+ -the large values of the rescattering widths , due to meson loops , can be also obtained if they are gluonia states but not necessarily if they are four - quark or molecule states .",
+    "this work has been partly supported by cnrs - in2p3 within the project non - perturbative qcd and hadron physics .",
+    "wang thanks the laboratoire de physique thorique et astroparticules ( lpta ) of montpellier for the hospitality .",
+    "s. narison , _ nucl .",
+    "* b 509 * ( 1998 ) 312 ; _ nucl .",
+    "* 64 * ( 1998 ) 210 ; _ z. phys . _ * c 26 * ( 1984 ) 209 ; _ nucl . phys . _ * a 675 * ( 2000 ) 54c ; _ nucl . phys",
+    "* 96 * ( 2001 ) 244 ; _ nucl .",
+    "phys . _ * a 675 * ( 2000 ) 54c;_nucl .",
+    "phys . proc.suppl._*121 * ( 2003 ) 131 ."
+  ],
+  "abstract_text": [
+    "<S> we extract the pole positions , hadronic and @xmath0 widths of @xmath1 and @xmath2 , from @xmath3 and @xmath0 scattering data using an improved analytic k - matrix model . </S>",
+    "<S> our results favour a large gluon component for the @xmath1 and a @xmath4 or / and gluon component for the @xmath2 but neither a large four - quark nor a molecule component . </S>",
+    "<S> gluonium @xmath5 production from @xmath6 radiative and @xmath7 semi - leptonic decays are also discussed .    </S>",
+    "<S> @xmath0 and @xmath3 scatterings , radiative decays , light scalars , gluonia , four - quark states , qcd spectral sum rules . </S>"
+  ]
+}

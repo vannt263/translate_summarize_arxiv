@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "the presence of strong , globally - organized magnetic fields in hot , massive stars is rare . to date , only a handful of massive o - type stars are known to host magnetic fields . in 2009 , grunhut et al . reported the discovery of a strong magnetic field in the weak - wind o9iv star hd 57682 from the presence of zeeman signatures in mean least - squares deconvolved ( lsd )",
+    "stokes @xmath1 profiles .",
+    "their analysis of the @xmath2 and optical spectra determined the following atmospheric and wind properties : @xmath3kk , @xmath4 , @xmath5@xmath6 , @xmath7@xmath8 , and @xmath9@xmath8yr@xmath10 .",
+    "both the longitudinal magnetic field and h@xmath0 equivalent width of hd 57682 are strongly variable . in addtion to our 17 espadons observations , we ve also utilized h@xmath0 observations from amateur spectroscopy from the bess database , as well archival eso uves and feros observations dating back over a decade .",
+    "a period search of these data resulted in a period of @xmath1131d , consistent with the rotational period estimated by grunhut et al .",
+    "however , the magnetic data could not be reasonable phased with this period . ultimately , adopting a period of 63.58d ( twice the period obtained from the h@xmath0 data ) resulted in a coherent phasing of all the data at our disposal , as shown in fig .",
+    "[ sidebyside ] .",
+    "the longitudinal magnetic field appears to vary sinusoidally , consistent with a magnetic field dominated by a strong dipolar component .",
+    "the h@xmath0 equivalent width shows a double - wave pattern with peak emission occurring at the magnetic crossover phases ( i.e. when the longitudinal field is null ) .",
+    "the photometric light curve from hipparcos shows no apparent variability .",
+    "this likely indicates that the column density of the magnetically confined plasma is relatively low at eclipse phases .",
+    "equivalent width variation ( middle ) , and hipparcos photometry ( right ) , for hd 57682 .",
+    "different colours indicate different epochs of observations.,width=508 ]",
+    "using the longitudinal component of the magnetic field , measured from the mean lsd stokes @xmath1 and @xmath12 profiles , we are able to fit a dipole model , characterized by the magnetic field strength at the poles ( @xmath13 ) and the angle of obliquity of the magnetic axis relative to the rotation axis ( @xmath14 ) . using the @xmath15 and radius as determined by grunhut et al .",
+    "( 2009 ) and assuming rigid rotation , we can infer an inclination angle @xmath16 . using this value",
+    "we obtain the @xmath17 landscape as a function of @xmath13 and @xmath14 shown in fig .",
+    "[ chisq ] . taking into account the range of possible inclination angles , we find that @xmath18 kg and @xmath19 .    in fig .",
+    "[ chisq ] we also show the residual variations of h@xmath0 phased with the adopted rotational period .",
+    "we conclude based on the characteristics of this dynamic spectrum that the magnetic field is exerting strong confinement ( confinement parameter @xmath20 ; ud - doula & owocki 2002 ) on the weak wind of hd 57682 , resulting in the h@xmath0 variability .",
+    "however , the slow rotation is likely unable to centrifugally support a stable magnetosphere .",
+    "therefore , the plasma that is present likely has a relatively short residence time in the magnetosphere , and must therefore be continually replenished ( see townsend et al .",
+    "these proceedings ) .     landscape as a function of dipole field strength ( @xmath13 ) and obliquity angle ( @xmath14 ) . shown",
+    "are the intervals corresponding to 1 , 2 , 3 , 4 , and 5@xmath21 using @xmath22 . *",
+    "right : * phased h@xmath0 residual variations relative to an lte model .",
+    "note the variability is likely due to a magnetically confined wind.,title=\"fig:\",width=211 ]   landscape as a function of dipole field strength ( @xmath13 ) and obliquity angle ( @xmath14 ) . shown",
+    "are the intervals corresponding to 1 , 2 , 3 , 4 , and 5@xmath21 using @xmath22 . *",
+    "right : * phased h@xmath0 residual variations relative to an lte model .",
+    "note the variability is likely due to a magnetically confined wind.,title=\"fig:\",width=182 ]"
+  ],
+  "abstract_text": [
+    "<S> i will review our recent analysis of the magnetic properties of the o9iv star hd57682 , using spectropolarimetric observations obtained with espadons at the canada - france - hawaii telescope within the context of the magnetism in massive stars ( mimes ) large program . </S>",
+    "<S> i discuss our most recent determination of the rotational period from longitudinal magnetic field measurements and h@xmath0 variability - the latter obtained from over a decade s worth of professional and amateur spectroscopic observations . </S>",
+    "<S> lastly , i will report on our investigation of the magnetic field geometry and the effects of the field on the circumstellar environment . </S>"
+  ]
+}

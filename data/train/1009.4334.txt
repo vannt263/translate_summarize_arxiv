@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "we ( @xcite , @xcite , @xcite , @xcite , @xcite ) model binaries in which the primary star ( bh progenitor ) evolves as a single star until its core begins he burning . when he burning begins in the core the stellar radius expands a further @xmath1 to @xmath2 relative to the red giant radius , it fills its roche lobe and begins to transfer mass to the secondary star , i.e. case c mass transfer . as a result , the orbit shrinks and the binary goes into a common envelope .",
+    "the h envelope of the primary is removed at the expense of orbital angular momentum .",
+    "eventually the orbit , originally @xmath3 , decays to a few @xmath4 .",
+    "the ratio of the stellar radius to orbital separation leads the primary to spin up by tidal synchronization .",
+    "hence , having a good estimate of the orbital period and , assuming angular momentum conservation during the collapse , one may obtain the natal kerr parameter of the bh ( see column 6 in tab .",
+    "[ tab - results ] and the left ( l ) plot in fig .",
+    "[ fig:1 ] ) .",
+    "the natal kerr parameter may be modified by two post - formation mechanisms .",
+    "the first one is by using the rotational energy to produce the grb / hn , e.g. through the bz mechanism @xcite , a grb / hn explosion ( see column 9 in  [ tab - results ] ) .",
+    "a drastic decrease of the natal kerr parameter is not expected given that a small percentage of the available energy is enough to power the grb / hn .",
+    "further constraints on the energy of the explosion can be placed through the blaauw - boersma kick ( @xcite , @xcite ) and the fact that the binary remains bound ( and , usually , has small eccentricity ) .",
+    "the second mechanism is by accreting mass into the bh ( see the right ( r ) plot in fig .",
+    "[ fig:1 ] ) once the secondary , or its wind , fills its roche lobe .",
+    "measurements by @xcite coincide with the predictions of @xcite for the kerr parameters of gro j1655@xmath540 and 4u 1543@xmath547 .",
+    "our estimates are consistent with the observed kerr parameter in lmc x@xmath53 ( fig.3 in @xcite ) , and the measurements for the galactic grs 1915@xmath6105 @xcite , as well as the extragalactic lmc x@xmath51 @xcite and m33 x@xmath57 @xcite can be explained through a phase of mass transfer ( with wind mass transfer and hypercritical accretion for the last 2 , see @xcite and @xcite ) ."
+  ],
+  "abstract_text": [
+    "<S> the collapsar model , in which a massive star ( @xmath0 ) fails to produce a sn and forms a bh , provides the main framework for understanding long gamma - ray bursts ( grb ) and the accompanying hypernovae ( hn ) . however , single massive - star models that explain the population of pulsars , predict cores that rotate too slowly to produce grbs / hne . </S>",
+    "<S> we present a model of binary evolution that allows the formation of kerr black holes ( bh ) where the spin of the bh can be estimated from the pre - collapse orbit , and use the blandford - znajek ( bz ) mechanism to estimate the available energy for a grb / hn .    </S>",
+    "<S> a population synthesis study shows that this model can account for both , the long grb and the subluminous grb populations .     </S>",
+    "<S> address = e - mail : emoreno@astro.uni-bonn.de argelander - institut fr astronomie , bonn university , auf dem hgel 71 , 53121 bonn , germany </S>"
+  ]
+}

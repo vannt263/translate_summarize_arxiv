@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "in the last twenty years supersymmetric unification has played a major role , due to the success of weak scale supersymmetry ( susy ) in predicting gauge unification . on the other hand , susy might be broken at scales much higher than the tev and it is not a mandatory ingredient for unification once we trade naturalness for predictivity . without susy",
+    "the dangerous @xmath1 and @xmath2 baryon number violating operators decouple from our low - energy world and the unification ansatz in nonsupersymmetric @xmath0 predicts the existence of intermediate scales , well separated from the gut scale and in the ideal range for the generation of neutrino masses and for leptogenesis @xcite . for a recent analysis of fermion masses and mixings in nonsupersymmetric @xmath0 ,",
+    "see ref .",
+    "@xcite .    however , devising a realistic and simple enough ordinary @xmath0 gut is a rather non - trivial task and the main reason has to do with the structure of its minimal higgs sector .",
+    "the simplest conceivable ( from a group - theoretically point of view ) higgs sector responsible for a full breaking of the gut symmetry down to the standard model ( sm ) is given by a pair of higgs multiplets : an adjoint , @xmath3 , and a spinor , @xmath4 .",
+    "a sm preserving breaking pattern is controlled then by two @xmath3 vacuum expectation values ( vevs ) and one @xmath4 vev .",
+    "different configurations of the two adjoint vevs preserve different @xmath0 subalgebras , namely , @xmath5 , @xmath6 , @xmath7 , and the flipped or standard @xmath8 . except for the last case ,",
+    "the subsequent breaking to the sm is obtained via the standard @xmath9 conserving @xmath4 vev .",
+    "the phenomenologically favored scenarios allowed by nonsupersymmetric unification correspond minimally to a two - step breaking along one of the following directions  @xcite : @xmath10 where the first breaking stage is driven by the @xmath3 vevs , while the breaking to the sm at the intermediate scale @xmath11 , several orders of magnitude below the unification scale @xmath12 , is controlled by the @xmath4 vev .",
+    "gauge unification , even without proton decay limits , excludes any intermediate @xmath9-symmetric stages . on the other hand",
+    ", a series of studies in the early 1980 s of the @xmath13 model @xcite indicated that the only intermediate stages allowed by the scalar sector dynamics were the flipped @xmath14 for leading @xmath3 vevs or the standard @xmath9 gut for dominant @xmath4 vev .",
+    "this observation excluded the simplest @xmath0 higgs sector from realistic consideration .    in ref .",
+    "@xcite we show that the exclusion of the breaking patterns in is an artifact of the tree - level potential . as a matter of fact",
+    ", some entries of the scalar hessian are accidentally over - constrained at the tree - level and a number of scalar interactions that , by a simple inspection of the relevant global symmetries and their explicit breaking , are expected to contribute to these critical states , are not effective at the tree - level .",
+    "on the other hand , once quantum corrections are taken into account , contributions of @xmath15 induced on these entries open in a natural way all group - theoretically allowed vacuum configurations .",
+    "remarkably enough , the study of the one - loop effective potential can be consistently carried out just for the critical tree - level hessian entries , while for all other states in the scalar spectrum , quantum corrections remain perturbations of the tree - level results and do not affect the discussion of the vacuum pattern .",
+    "these conclusions apply to any higgs setting where the first step of the @xmath0 gauge symmetry breaking is driven by the @xmath3 vevs , while the other higgs representations control the intermediate and weak scale stages .",
+    "the results presented in ref .",
+    "@xcite open the path for reconsidering the minimal nonsupersymmetric @xmath0 gut as a reference framework for unified model building . extending the higgs sector to include one @xmath16 ( together with either one @xmath17 or one @xmath18 )",
+    "provides the playground for exploring the possibility of a realistic and predictive gut , along the lines of the recent efforts in the supersymmetric context ."
+  ],
+  "abstract_text": [
+    "<S> i review the recent efforts in the search for a minimal and predictive nonsupersymmetric @xmath0 grand unified thoery ( gut ) . </S>",
+    "<S> the outcome is the revival of a minimal scenario in which a long standing result , claiming the incompatibility between unification constraints and symmetry breaking dynamics , is now confuted by the implementation of the one - loop effective potential . </S>"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "dengue is a mosquito - borne infection mostly found in tropical and sub - tropical climates worldwide , mostly in urban and semi - urban areas .",
+    "it can cause a severe flu - like illness , and sometimes a potentially lethal complication called dengue haemorrhagic fever .",
+    "about 40% of the world s population are now at risk .",
+    "the spread of dengue is attributed to expanding geographic distribution of the four dengue viruses and their mosquito vectors , the most important of which is the predominantly urban species _",
+    "aedes aegypti_. the life cycle of a mosquito presents four distinct stages : egg , larva , pupa and adult . in the case of _ aedes aegypti _ the first three stages take place in or near water while air is the medium for the adult stage .",
+    "the adult stage of the mosquito , in the urban environment , is considered to last an average of eleven days .",
+    "the paper is organized as follows .",
+    "the next section presents a mathematical model of the interaction between human and mosquito populations .",
+    "then , the numerical experiments using different strategies for the insecticide administration are reported . in the last section",
+    "the conclusions are presented .",
+    "considering the work of @xcite , the relationship between humans and mosquitoes are now rather complex , taking into account the model presented in @xcite .",
+    "the novelty in this paper is the presence of the control parameter related to adult mosquito insecticide @xcite .",
+    "the notation used in our mathematical model includes four epidemiological states for humans ( index @xmath0 ) :    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ [ cols= \" < , < \" , ]",
+    "the numerical tests conclude that the best strategy for the infected reduction is the weekly administration , however it is also the most expensive one ( insecticide cost ) .",
+    "the best result obtained is between 11 and 12 days , with the insecticide amount in the closed interval from 7 to 8 , confirming the amount for @xmath1 in @xcite .",
+    "the 11 or 12 days between applications can be directly related to the span of adult stage for the mosquitoes , an average of eleven days in an urban environment .    in this work the insecticide administration time was considered continuous in each day ( 24 hours per day ) . as a future work ,",
+    "an optimization problem will be formulated and solved in order to find the best plan in terms of periodicity and duration ( limited number of hours per day ) .",
+    "the plan must consider the advantages to apply the insecticide only during the night .",
+    "h.  s.  rodrigues , m.  t.  t.   monteiro , and d.  f.  m.   torres , _ optimization of dengue epidemics : a test case with different discretization schemes _ , in _ numerical analysis and applied mathematics _ , aip conference proceedings 1168 , american institute of physics , 2009 , pp .  13851388 .",
+    "arxiv:1001.3303    h.  s.   rodrigues , m.  t.  t.   monteiro , d.  f.  m.   torres , and a.   zinober , _ control of dengue disease : a case study in cape verde _ , in proceedings of the 10th international conference on computational and mathematical methods in science and engineering , cmmse june 2010 , almeria , 2010 , pp . 816822 .",
+    "arxiv:1006.5931    h.  s.  rodrigues , m.  t.  t.   monteiro , and d.  f.  m.   torres , _ dynamics of dengue epidemics when using optimal control _ , mathematical and computer modelling , 2010 , doi : 10.1016/j.mcm.2010.06.034 .",
+    "arxiv:1006.4392        h.  m.   yang , m.  l.  g.   macoris , k.  c.   galvani , m.  t.  m.  andrighett , and d.  m.  v.  wanderley , _ assessing the effects of temperature on dengue transmission _ , epidemiol .",
+    ", cambridge university press , 2009 ."
+  ],
+  "abstract_text": [
+    "<S> a model for the transmission of dengue disease is presented . </S>",
+    "<S> it consists of eight mutually - exclusive compartments representing the human and vector dynamics . </S>",
+    "<S> it also includes a control parameter ( insecticide ) in order to fight the mosquitoes . </S>",
+    "<S> the main goal of this work is to investigate the best way to apply the control in order to effectively reduce the number of infected humans and mosquitoes . </S>",
+    "<S> a case study , using data of the outbreak that occurred in 2009 in cape verde , is presented .     </S>",
+    "<S> address = school of business studies , viana do castelo polytechnic institute , portugal + sofiarodrigues@esce.ipvc.pt     address = department of production and systems , university of minho , portugal + tm@dps.uminho.pt     address = department of mathematics , university of aveiro , portugal + delfim@ua.pt </S>"
+  ]
+}

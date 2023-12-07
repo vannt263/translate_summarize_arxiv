@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "fig .  [ aatoaarhorho ] shows the basic mechanism of the exclusive electromagnetic meson pair production .",
+    "two neutral @xmath5 mesons are produced in coherent photon - photon processes in ultrarelativistic heavy - ion collisions .",
+    "so far only @xmath6 was measured @xcite and estimeted in the literature .",
+    "we consider collisions at rhic and at lhc , where rhic collides gold ions at the energy of 200 gev and lhc will collide soon lead nuclei at the energy of 5.5 tev per nucleon .",
+    "epa is very often used for calculating cross sections for electromagnetic interactions . due to the coherent action of all the protons in the nucleus ,",
+    "the ions are surrounded by a strong electromagnetic field .",
+    "this field can be viewed as a cloud of virtual photons which can collide with each other .",
+    "this approach allows to consider production of mesons in peripheral ultrarelativistic nuclear collisions .",
+    "`` peripheral '' means that the distance between the nuclei is in practice bigger than the sum of the radii of the two nuclei ( @xmath7 fm ) .",
+    "the total cross section in epa takes the form of the convolution of the elementary cross section ( @xmath4 ) and the equivalent photon fluxes : @xmath8 we have introduced a new kinematical variable : @xmath9 , where @xmath10 is the energy of the photon and the denominator is the energy of the nucleus .",
+    "after several transformation , we obtain the final form for the nuclear cross section in epa : @xmath11 here we put the @xmath12 function which assures only peripheral collisions .",
+    "in addition we define : @xmath13 , @xmath14 and @xmath15 .",
+    "the details of the derivation of eq .",
+    "( [ epa_end ] ) can be found in our recent paper @xcite on the muon pair production in the same approach .",
+    "the elementary cross section is divided into two components @xcite .",
+    "the low - energy part is parametrized and the parameter are fitted to the @xmath16 data @xcite while the high - energy part is obtained with the help of the vector - dominance regge type model with the parameters @xcite which are used to descibed other hadronic processes .    the equivalent photon spectra ( see eq .",
+    "( [ epa_end ] ) depend on the charge form factor of nuclei .",
+    "the realistic form factor is the fourier transform of the realistic charge distribution : @xmath17 in the literature often a monopole form factor is used : @xmath18 the two form factors coincide only in a very limited range of @xmath19 . with a larger value of the momentum transfer",
+    "the difference between them becomes larger and larger .",
+    "inclusion of the realistic form factor becomes particularly important at large meson pair rapidities @xcite .",
+    "fig . [ ds_dw ] shows the distribution of the cross section for the nucleus - nucleus scattering in the photon - photon center of mass energy @xmath20 ( i.e. the pair invariant mass ) for both the low - energy component and high - energy vdm - regge component .",
+    "this distribution should be relatively easy to measure .",
+    "the distributions in the impact parameter or in the rapidity of the pair ( not shown here ) also show that the low - energy component is the dominant one .",
+    "the cross section obtained with the help of the monopole form factor is larger than that obtained from the realistic charge form factor .",
+    "in addition we have observed that for smaller center - of - mass energy the difference between the realistic and monopole form factor is bigger .",
+    "+   + this work was partially supported by the polish grant n n202 078735 ."
+  ],
+  "abstract_text": [
+    "<S> we disuss exclusive electromagnetic production of two neutral @xmath0  mesons and show the predictions for the @xmath1 reactions for gold - gold collisions at the energy of @xmath2  =  200 gev ( rhic ) and for lead - lead collisions at the energy of @xmath2  =  5.5  tev ( lhc ) . </S>",
+    "<S> the elementary cross section is calculated with the help of the vector - dominance - model ( vdm)-regge approach which usually very well describes the experimental data at large @xmath3 energy . </S>",
+    "<S> the low - energy @xmath4 cross section is parametrized . </S>",
+    "<S> the cross section for nuclear process is calculated by means of the equivalent photon approximation ( epa ) . </S>",
+    "<S> we compare the results with realistic charge density with the results for monopole form factor . </S>"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "article_text": [
+    "do planets exist in external galaxies ?",
+    "there is no reason that they should not . however , directly observing stars in one of the milky way s satellites in order to obtain precise enough radial velocity or transit photometry measurements to detect planetary signals is not possible because the galaxies are too far away.14.5 , the canis major dwarf galaxy could pose an exception , allowing at least principally for planet searches around giant stars ; but it is located behind the milky way s disk ( @xmath2 , @xmath3 ) and therefore heavily obscured by dust and foreground light @xcite . ]",
+    "although microlensing would in principal allow for extra - galactic planet detections , this phenomenon is intrinsically non - repeatable , and no microlensing planets in other galaxies have been confirmed yet ( see , however , * ? ? ?",
+    "* ) . nevertheless , we know that certain stars in our solar neighborhood have been accreted from satallite galaxies in the past and in fact , examples of such accretion events are still observable today ( e.g. * ? ? ? * ) .",
+    "accreted stars therefore provide an opportunity to indirectly search for planets that originated in external galaxies and travelled into our galaxy along with their host stars . in particular ,",
+    "stars belonging to nearby stellar halo streams are ideal targets to search for extra - galactic planets . in the inner halo , where the orbital frequencies are high , such streams are no longer spatially coherent , but they still share similar chemical and dynamical properties that depend on the composition and orbit of their progenitor system and allow for identifying individual stream members ( see e.g. the review by * ? ? ?",
+    "the most significant stellar halo stream in the solar neighborhood is the one discovered by @xcite .",
+    "its members have kinematics that clearly separate them from the bulk of other halo stars .",
+    "the stream s progenitor system possibly resembled a galaxy similar to fornax or the sagittarius dwarf , and has been disrupted about 69 gyr ago @xcite .",
+    "the red horizontal branch ( rhb ) star is a confirmed member of the helmi stream @xcite . its stellar parameters , in particular the low metallicity and relatively large projected rotational velocity ( table[tab : t1 ] ) , mark this star as an interesting target for a planet search ."
+  ],
+  "abstract_text": [
+    "<S> we report the detection of a planetary companion around , a metal - poor red horizontal branch star belonging to a stellar halo stream that results from the disruption of an ancient milky way satellite galaxy . </S>",
+    "<S> the detection is based on radial velocity observations with feros at the 2.2-m mpg / eso telescope . </S>",
+    "<S> the periodic radial velocity variation of @xmath0 days can be distinguished from the periods of the stellar activity indicators . </S>",
+    "<S> we computed a minimum planetary mass of 1.25 m@xmath1 and an orbital semimajor axis of 0.116 au for the planet . </S>",
+    "<S> this discovery is unique in three aspects : first , it is the first planet detection around a star with a metallicity much lower than few percent of the solar value ; second , the planet host star resides in a stellar evolutionary stage that is still unexplored in the exoplanet surveys ; third , the planetary system most likely has an extragalactic origin in a disrupted former satellite of the milky way . </S>"
+  ]
+}

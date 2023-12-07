@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    ""
+  ],
+  "abstract_text": [
+    "<S> this paper contains background information for a fluid dynamics video submitted to the gallery of fluid motion to be held along with the 63rd annual meeting of the american physical society s division of fluid dynamics .    after observing the smoke - ring demonstrations of p.g . </S>",
+    "<S> tait in january 1867 , kelvin wrote an enthusiastic letter to helmholtz where he put forward his hypothesis of the _ vortex atom _ and outlined some of the vortex problems that would occupy him in the following years . </S>",
+    "<S> this is what he wrote about linked vortices : `` i am , as yet , a good deal puzzled as to what two vortex - rings through one another would do ( how each would move , and how its shape would be influenced by the other ) '' [ 1 ] .    </S>",
+    "<S> later kelvin [ 3 ] and j.j . </S>",
+    "<S> thomson [ 2 ] would describe the conditions under which linked vortices could be both steady and stable . </S>",
+    "<S> following them , we assume that two filamentary vortices of equal strength lie on the surface of an immaterial torus . each vortex </S>",
+    "<S> is uniformly coiled on the torus in such a way that , before closing on itself , it winds once around the torus symmetry axis and once around the torus centreline . </S>",
+    "<S> furthermore , the vortices intersect any meridional plane at opposite extremes of a diameter of the torus cross section . </S>",
+    "<S> we represent each ring vortex with a finite number of material markers , compute their velocities with the rosenhead - moore approximation to the biot - savart law , and move them with a fourth - order runge - kutta scheme ( see [ 4 ] ) .    </S>",
+    "<S> the first part of the video shows the motion of the vortices ( red and blue tubes ) as well as of a set of passive tracers ( white dots ) in a fixed frame of reference . </S>",
+    "<S> the vortices progress along and rotate around the torus symmetry axis in an almost steady manner while preserving their shape . </S>",
+    "<S> the second part shows the initial and final periods of the same simulation but this time viewed in the comoving frame of reference . note that while the vortices remain stationary the fluid particles that make them up move along the almost permanent shapes ( the black strips , as well as the different shades of red and blue , tag fluid elements ) .    in the comoving frame </S>",
+    "<S> the velocity field has two stagnation points . </S>",
+    "<S> the stream tube starting at the forward stagnation point and the stream tube ending at the backward stagnation point transversely intersect along a finite number of streamlines , giving rise to a three - dimensional chaotic tangle . </S>",
+    "<S> the third part of the video shows the stream tube that emanates from the forward stagnation point . with the time frozen at @xmath0 </S>",
+    "<S> , this surface is shown from a point of view that moves first only zonally and then both zonally and meridionally . </S>"
+  ]
+}

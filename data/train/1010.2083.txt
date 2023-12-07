@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "in this work we shall present _ universal bimagic _ squares of order @xmath0 and @xmath1 having only the digits 0 and 1 . a _ universal bimagic _",
+    "square of order @xmath2 is also presented having three digits 0 , 1 and 2 .",
+    "these magic squares are based on the date october 10 ( 10.10.10 or 10.10.2010 ) .",
+    "a magic square is a collection of numbers put as a square matrix , where the sum of elements of each row , sum of elements of each column or sum of elements of each of two principal diagonals are the same . for simplicity ,",
+    "let us write this sum as * s1*.            * * upside down * , i.e. , if we rotate it to 180 degrees , it remains magic square again ; * * mirror looking * , i.e. , if we put it in front of mirror or see from the other side of the glass , or see on the other side of the paper , it always remains the magic square .",
+    "it is interesting to note that at 10 hours , 10 minutes and 10 seconds of the day 10 , month 10 and the year 10 have only the digits 1 and 0 , i.e. , 10 - 10 - 10 - 10 - 10 - 10 .",
+    "let us divide it in two parts , i.e. , 101010  101010 .",
+    "thus we have two equal blocks of six algarisms . if we go only for the day , these digits repeats on others days too , such as          we can make @xmath6 or @xmath7 different numbers of six algarisms with the digits 0 and 1 .",
+    "also , we can write @xmath8 . here below is a * universal bimagic square * of order @xmath0 having 64 different numbers using only the digits 0 and 1 .                instead",
+    ", considering six algarisms using only the digits 0 and 1 , if we consider eight algarisms using we can make @xmath11 different numbers only with the digits 0 and 1 .",
+    "also we we can write 256 as @xmath1 . here below is a universal bimagic square of order @xmath1 with these 256 different numbers made from the digits 0 and 1 :                        we can make exactly 81 different numbers having four algarisms from the three digits 0 , 1 and 2 , i.e , @xmath14 .",
+    "also we can write , @xmath15 .",
+    "here below is a universal bimagic square of order @xmath2 having only the digits 0 , 1 and 2 with 81 different numbers .",
+    "we observe that from the above magic square that if we make a rotation of 180 degrees the digits 2 remains the 2 but if we see it in the mirror 2 becomes 5 .",
+    "obviously , in this case the sum s1 and s2 are not the same as given above .",
+    "but still it is a magic square .",
+    "if we want to have the same sum , we have to use 2 and 5 together ( in the digital form ) with either 0 , 1 or 8 .",
+    "this study is given in the anther work taneja @xcite .",
+    "for more studies on magic and bimagic squares , we suggest to the readers the two sites @xcite , @xcite where one can find a good collection of work , papers , books , etc .",
+    "the idea of universal bimagic square is presented for the first time here ."
+  ],
+  "abstract_text": [
+    "<S> _ in this short note we have produced for the first time in the history different kinds of universal bimagic squares . </S>",
+    "<S> this we have made using only the digits 0,1 and 2 . </S>",
+    "<S> the universal bimagic squares of order @xmath0 and @xmath1 are with the digits 0 and 1 . </S>",
+    "<S> the universal bimagic square of order @xmath2 is with the digits 0 , 1 and 2 . </S>",
+    "<S> it is interesting to note that the day 0ctober 10 have only the digits 0 and 1 if we consider it as 10.10.10 . if we consider the date as 10.10.2010 , then this has the digits 0 , 1 and 2 . </S>",
+    "<S> _    * @xmath3 * october 2010 ( 10.10.10 ) * *    * * + departamento de matemtica + universidade federal de santa catarina + 88.040 - 900 florianpolis , sc , brazil . </S>",
+    "<S> + _ e - mail : ijtaneja@gmail.com + http://www.mtm.ufsc.br/@xmath4taneja_ </S>"
+  ]
+}

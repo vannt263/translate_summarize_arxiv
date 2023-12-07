@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "a compound droplet generator is used eject compound droplets .",
+    "the generator consists of a closed , pressurized water reservoir and an open silicone oil reservoir .",
+    "the pressure in the water reservoir is controlled by a pressure supply system , and the pressure in the oil reservoir is controlled by increasing its height with respect to the nozzle orifice .    in the method",
+    "presented , a small amount of oil is allowed to flow into the water nozzle and both fluids are ejected as a compound droplet .",
+    "a voltage waveform drives a piezoelectric diaphragm inducing pressure waves in the generator .",
+    "the positive pressure pulse ejects a jet of fluid containing water and oil .",
+    "this fluid jet is then pinched off into a compound droplet by a negative pressure pulse .",
+    "experiments were performed to determine the affect of water pressure on the composition of compound droplets .    the videos in this submission show pressures ranging from 0.5 to 1.5 inh2o in 0.2 inh2o incremental increases .",
+    "the videos were captured using a phantom v9.0 high speed camera attached to an olympus szx16 dissecting microscope .",
+    "all videos were recorded at 6400fps and played back at 8fps in the video submission .    as the pressure in the water reservoir",
+    "is increased , the thickness of the oil layer is decreased . prior to ejection , the distance of the water - oil interface to the nozzle surface decreases as the water pressure increases .",
+    "this allows less oil to flow into the water nozzle and results in a lower percentage of oil in the ejected droplet . in general , the pinch - off caused by the negative pressure pulse induces oscillations in the ejected droplet . as the oil layer thickness increases , these oscillations are damped by the viscous nature of the silicone oil .",
+    "oscillations are hardly noticeable in the low pressure tests and very apparent in the high pressure tests ."
+  ],
+  "abstract_text": [
+    "<S> the generation of single , monodisperse compound droplets is shown in these fluid dynamics videos . in an apparatus designed to produce single compound droplets , </S>",
+    "<S> a piezoelectric diaphragm generates a pressure pulse from a voltage waveform input to eject a droplet . in the method </S>",
+    "<S> presented , oil is allowed to flow into the water nozzle with the pressure pulse ejecting both fluids as a compound droplet . </S>",
+    "<S> experiments were performed to demonstrate how changes in water pressure affect compound droplet compositions . </S>",
+    "<S> it was found that increasing the water pressure decreased the thickness of the compound droplet s oil layer . </S>"
+  ]
+}

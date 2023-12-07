@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "at the time of its formation @xmath02 million years ago , the pistol star may have been one of the most massive stars in the milky way ( ( * ? ? ? * figer et al .",
+    "like most other lbv s , it is surrounded by nebulosities , which , therefore , may actually have been ejected by the pistol star ( cf .",
+    ", e.g. , @xmath1 car ) .",
+    "the shape of the main gas cloud has earned the star its nick name .",
+    "owing to its own ejecta but mostly due to its far - away location ( @xmath2kpc ) in the region of the galactic center , observations of the pistol star suffer from very high extinction ( 20 - 30 magnitudes in the optical ) .    among massive stars , the fraction of binaries may approach 100% at the time of formation ( cf .",
+    "* mason et al .",
+    "2009 ) , ( * ? ? ?",
+    "* sana et al . 2009 ) ) .",
+    "in fact , binarity may be one means to enable the formation of massive stars , which with single - star - plus - disk symmetry encounters challenges already at the 10-@xmath3 level while observations of lbvs imply original masses that are larger by more than an order of magnitude .",
+    "one of the most prominent massive stars reported to be a binary is @xmath1 car ( ( * ? ? ?",
+    "* damineli , conti , & lopez 1997 ) ) .",
+    "in order to more closely examine the nature of the pistol star , near - ir observations were undertaken with the vlt ao camera _ naco _ and the vlti spectrograph _ amber_. the angular resolutions of _ naco _ , ranging from natural seeing to near the defraction limit at @xmath015 mas , and _ amber _ , 20 - 3 mas , are perfectly complementary to one other . at a distance of 8kpc ,",
+    "this permits spatial scales to be studied down to @xmath025 au .",
+    "the new vlt spectrograph _ x - shooter _ provided spectra with @xmath4 over the range 0.3 - 2.5@xmath5 m .",
+    "they show a vast number of nebular lines ; the stellar continuum begins to emerge at @xmath0800 nm . at the time of the symposium",
+    ", some additional observations were pending , also of other massive stars .",
+    "the naco images resolve most of the stars within 30 arcsec of the pistol star into several point sources . fig .",
+    "[ naco ] depicts the immediate vicinity of the pistol star itself as observed with _",
+    "naco _ in k band .",
+    "apart from several point sources , it reveals an extended nebulosity . at a distance of 8kpc , its diameter would correspond to more than 6000au .",
+    "* figer et al .  1998 ) find gas velocities with a range of @xmath050 - 100km / s but over a larger area .",
+    "combining these numbers leads to a crude estimate of the expansion age of 290 years . if the inference from fig .",
+    "[ naco ] of multiple shells is correct , they would differ in age by @xmath030years .    a quick preliminary inspection of the _ amber _ interferometry suggests the presence of a further point source at a separation of about 10mas or @xmath080 au .",
+    "for comparison : if the 5.5-year period in @xmath1 car is orbital , its companion would be at one - fifth or less of this distance .",
+    "in the _ naco _ images , the inner nebulosity looks less structured than in the case of @xmath1 car .",
+    "an effort will be made to continue the observations in order to establish whether the pistol star has a physical companion with effects on formation and evolution of the system ."
+  ],
+  "abstract_text": [
+    "<S> first results of near - ir adaptive optics ( ao)-assisted imaging , interferometry , and spectroscopy of this luminous blue variable ( lbv ) are presented . </S>",
+    "<S> they suggest that the pistol star is at least double . </S>",
+    "<S> if the association is physical , it would reinforce questions concerning the importance of multiplicity for the formation and evolution of extremely massive stars . </S>"
+  ]
+}

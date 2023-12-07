@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the video is available in link:/anc / aps_video_microbubble_final_high.mpg[high resolution ] and link:/anc / aps_video_microbubble_final_low.mpg[low resolution ] .",
+    "it consists of 5 movie segments .",
+    "all movies are played at 30 frames per second .",
+    "the detailed descriptions of the movies are as follows :    1 .",
+    "this movie shows the motion a 5@xmath0 tracing particle around an oscillating microbubble at both fast and slow time scales .",
+    "the fast time scale illustrated the fast , low - amplitude oscillatory flow ; at the slow time scale , the secondary steady streaming flow with closed streamlines is visible .",
+    "the ultrasound driving frequency is 25.5 khz and the amplitude is 10v@xmath1 .",
+    "movie 1(a ) was captured at 95238 frames per second ; movie 1(b ) was captured at 30 frames per second .",
+    "2 .   this movie shows the size dependent characteristic trajectories of suspended particles in bubble streaming flow .",
+    "the 5@xmath0 and 10@xmath0 density - matched particles are drawn towards the oscillating bubbles due to an attractive bubble / particle interaction resulting from induced streaming .",
+    "because the particles can not penetrate the bubbles , they are forced onto different trajectories .",
+    "the movie was captured at 250 frames per second .",
+    "this movie shows that superimposing unidirectional poiseuille flow destroys the symmetry of the streaming flow .",
+    "the differential strength of the bubble / particle interaction now selects which particles are transported and which are trapped near the bubbles . in 3(a ) , 10@xmath0 particles are trapped upstream of the bubble , while 2@xmath0 and 5@xmath0 particles are carried downstream .",
+    "further upstream accumulation leads to the escape of the larger particles into narrow trajectory bundles .",
+    "the movie was captured at 200 frames per second .",
+    "the trapping and releasing mechanism can be further exploited for focusing and sorting .",
+    "this movie shows that alternating microbubbles along a microchannel focuses 10@xmath0 particles into a very narrow trajectory bundle . in 4(a ) , the particles remain distributed widely as the bubbles are not excited . in 4(b )",
+    ", the oscillating microbubbles successively relay the particles through the trapping - and - releasing mechanism .",
+    "the movie was captured at 100 frames per second . in 4(c ) , we compare results from experiment and a simulation of the steady streaming flow based on stokes flow singularities . 5 .",
+    "this movie shows that an oscillating bubble placed near a t - junction sorts particles above a certain size into one specific outlet .",
+    "optimizing ultrasound driving frequency and amplitude allows for the selection of 5@xmath0 particles to be trapped , released , and sorted over 2@xmath0 particles , which remain unsorted .",
+    "this demonstrates the flexibility and tunability of this technique , which can overcome physical restrictions of the device itself . without microbubble excitation ( 5a ) , both 5@xmath0 and 2@xmath0 particles are equally carried to the upper and lower outlets . in 5(b ) , upon exciting , the microbubble sorts the 5@xmath2 particles into the upper outlet .",
+    "the movie was captured at 100 frames per second .",
+    "1 .   marmottant , p. , & hilgenfeldt , s. _ nature _ , * 423*(6936 ) , 153 - 156 ( 2003 ) .",
+    "2 .   marmottant , p. , raven , j. p. , gardeniers , h. , bomer , j. g. , & hilgenfeldt , s. _ journal of fluid mechanics _ , * 568 * , 109 - 118 ( 2006 ) ."
+  ],
+  "abstract_text": [
+    "<S> ultrasound - driven microbubbles rectify oscillatory motion into strong steady streaming flow [ 1 , 2 ] . in this fluid dynamics video , </S>",
+    "<S> we show size - dependent trapping , focusing and sorting of microparticles , utilizing the interaction between bubble streaming and the induced streaming around the mobile particles . </S>",
+    "<S> this mechanism is purely passive and is selective for sizes and size differentials far smaller than any scale imposed by the device geometry . </S>"
+  ]
+}

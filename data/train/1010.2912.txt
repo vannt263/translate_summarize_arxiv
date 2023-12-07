@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "when a liquid drop impacts with a smooth solid dry surface , it will expand horizontally outward until internal and external forces create asymmetry .",
+    "this instability leads to the droplet breaking apart in a `` splash '' .",
+    "the dynamics of splashing as a result of liquid drops and solid surface impacts have been studied extensively , particularly when the surface is much larger than the drop . here , this fluid dynamics video investigates impacts between fluid droplets and geometrical substrates of equal length scale .",
+    "the liquid used has a viscosity of 1 cp and surface tension of 0.353 n / m . it is composed of de - ionized water and food coloring , for image enhancement purposes .",
+    "liquid drops are created by allowing water at room temperature ( @xmath0c ) to slowly drip out of a small capillary tube .",
+    "water is injected into the tube using a low - noise syringe pump ( harvard instruments ) .",
+    "reproducible drops are created with average diameter of @xmath1 mm .",
+    "drops fall from a height of @xmath2 cm before striking the target , hitting the surface with a velocity of @xmath3 m / s resulting in a reynolds ( re ) number equal to @xmath4 and a weber ( we ) number equal to @xmath5 . here , re is defined as @xmath6 and we is defined as @xmath7 where @xmath8 is the fluid density , @xmath9 is the drop velocity , @xmath10 is the drop diameter , @xmath11 is dynamic viscosity , and @xmath12 is the surface tension .",
+    "top and side view images are recorded using high speed photography at 30,000 frames per second ( fastcam sa1.1 , photron usa inc . ) .",
+    "the images in this fluid dynamics video are shown at 25 frames per second .",
+    "the targets are posts made out of polyoxymethylene plastic with no surface treatments .",
+    "the cylindrical post has a diameter of @xmath13 mm and a surface area of @xmath14 mm@xmath15 .",
+    "the other polygonal posts have cross sectional shapes such as an equilateral triangle , a square , a pentagon , and a hexagon with equal impacting surface area of @xmath14 mm@xmath15 .",
+    "when a droplet impacts a cylindrical post , the resulting splash is axisymmetric .",
+    "however , as the geometry of the post is changed , the dynamics of the splash and finger formation is altered drastically .",
+    "surprisingly , the resulting splash resembles the shape of the target with a clockwise rotation equal to @xmath16 , where @xmath17 is the number of vertices .",
+    "the break up of the drop and number of fingers that form can be accurately controlled and is observed to be equal to the number of vertices .",
+    "for example , a drop impacting with a triangular post results in a triangular splash that is shifted by @xmath18 with respect to the triangular post .",
+    "this splash then breaks up into three distinct fingers after reaching its maximum splash radius ."
+  ],
+  "abstract_text": [
+    "<S> experiments of water droplets impacting small geometric posts of equal dimension to the drop diameter are shown in this fluid dynamics video . </S>",
+    "<S> high speed photography shows that the dynamics of drop splashing are significantly affected by the geometrical boundary of the target and that finger formation and drop break up are accurately controlled . </S>"
+  ]
+}
