@@ -1,0 +1,18 @@
+{
+  "article_text": [
+    "we use a tree - sph code to follow the self - gravity of all components , and the dissipative nature of the gas ( cf combes & melchior 2002 ) .",
+    "the 24 000 particles are distributed among stars , gas and dark matter halo , with varying numbers , according to the initial morphological types of the galaxies . for this fist series of 128 runs",
+    ", we have 4 types of galaxies ( i.e. 16 types of initial couples ) : e0 , sa , sbc and sd , two masses ( giants at 2 10@xmath0 m@xmath1 and dwarfs at 5 10@xmath2 m@xmath1 ) , two different vectors for relative initial velocities , and two opposite senses on these orbits ( direct or retrograde ) .",
+    "the relative inclination of the galaxy planes is fixed to 45@xmath3 .",
+    "the star formation rate for the various runs is time - averaged in figure 1 .",
+    "we have also varied the recipe for the star formation , and tested the corresponding efficiency .",
+    "it is basically a `` local '' schmidt law , where a fraction of any gas particle transformed to stars is @xmath4 , where @xmath5 is the volumic gas density , and @xmath6 the power of the schmidt law .",
+    "an algorithm with hybrid particules is used ( cf mihos & hernquist 1994 ) : when their gas fraction drops below 5% , they are then turned into pure stars , the gas being spread among the neighbours . the energy of supernovae and stellar winds is partly reinjected in the ism under the form of kinetic energy , through expanding velocity of the surrounding gas . to simulate the increase of star - formation efficiency in violent interactions , we also added a term proportional to the local gas velocity divergence , to a power @xmath7 ( this divergence is counted only when div*v * negative , like in the viscosity term ) .",
+    "the comparison between the rate of star formation in the merger , and that in isolated galaxies , depends strongly on the adopted sf rate . when all gas is consumed before the first pericenter , the boost due to the dynamical triggering is very limited .",
+    "the influence of the div*v * term is less that the absolute rate of star formation ( see figure 2 ) ."
+  ],
+  "abstract_text": [
+    "<S> we have undertaken a large series of numerical simulations with the goal to built a library of galaxy mergers ( galmer ) . since the aim is to have more than a thousand of realisations , each individual run is simplified , with a small number of particules ( 24 000 ) , but following the chemodynamical evolution , with star formation and feedback . </S>",
+    "<S> we illustrate in this short report some preliminary results . </S>"
+  ]
+}

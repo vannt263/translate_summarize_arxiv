@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "optical surveys within our galaxy are severely hampered by dust obscuration ; therefore complete samples must be obtained with longer wavelength observations . here",
+    "we describe a survey in the galactic plane at k - band wavelengths , where the extinction is much lower than traditional v - band surveys .",
+    "our scientific driver is the discovery of the young stellar population in our galaxy through the detection of evolved massive stars .",
+    "these stars have strong emission lines , which makes them relatively easy to detect using narrow - band filters .    as a massive o star evolves ,",
+    "its spectrum becomes dominated by emission lines , arising either in a dense stellar wind , or in circumstellar material produced by mass loss .",
+    "stellar emission lines are most pronounced in wolf - rayet ( wr ) stars which have lifetimes @xmath0  10  myr , and thus are excellent tracers of recent star formation , and so also galactic structure .",
+    "a complete sample of galactic wr stars will also enable us to understand the distribution of wn and wc sub - types in a high metallicity environment .",
+    "additionally , wr stars are critical components in our quest to understand how star formation proceeds .",
+    "for example , most of the previously known wrs are relatively isolated , but recent searches in the ir have found a plethora of these objects in stellar clusters near the galactic center ( e.g. figer et al . 1999 ) .",
+    "we employ four filters situated on prominent lines of he i ( 2.06 um ) , c iv ( 2.08 um ) , br @xmath1 ( 2.166 um ) , he ii ( 2.19 um ) , and three continuum filters covering wavelengths bluer and redder than each of the line filters ( 2.03 , 2.14 , and 2.248 um ) ( blum & damineli 1999 , homeier et al . 2000 ) . in this way",
+    "we minimize the effects of differential reddening on the continuum of each individual star .",
+    "each frame is analyzed with the set of routines collectively called the dophot package , a psf - fitting photometry package optimized for large images done in a pipeline process .",
+    "dophot identifies , classifies , and performs photometry on objects in an image , making successive passes over the image to search each time for fainter objects .",
+    "candidates are selected for spectroscopic follow - up based on relative line and continuum photometry and image subtraction with visual examination of the output ( homeier et al .",
+    "2002 , in prep ) .",
+    "in 1996 we began taking data at the 1.5 m at ctio , using the cerro tololo infrared imager ( cirim ) .",
+    "this data comprises approximately 1.5 sq degrees of sky near the galactic center , half of which we have follow - up spectroscopic observations for . with this data",
+    "we have discovered two new wr stars and two objects with surrounding nebular emission .",
+    "[ cols=\"<,<,<,^\",options=\"header \" , ]     both of the newly discovered wrs appear to be late - type wc stars ( wc7 - 8 ) .",
+    "one is @xmath2  arcmin from the quintuplet cluster ( wr1 ) , or 20  pc projected distance .",
+    "we speculate that it has been ejected from the quintuplet or is a former member of an as - yet undetected massive stellar cluster in the galactic center region .",
+    "the second wr is part of the quintuplet ( wr2 , quintuplet source ) , and is located just outside the region examined by figer et al .",
+    "spectra of these two objects are presented in figure 1 , and coordinates are listed in table 1 .",
+    "finding charts will be published in an upcoming paper ( homeier et al .",
+    "2002 , in prep ) .    of the two objects with nebular emission ,",
+    "one is surrounded by a spherical nebula with strong h i lines , including br @xmath1 2.166 @xmath3 m , and he i 2.06 @xmath3 m emission .",
+    "this object could be a pn , lbv , or a young o star ionizing the surrounding gas .",
+    "it is located on the edge of a region with extremely large extinction , and there appears to be more nebular emission a few arcseconds to the south - east .",
+    "we speculate that this is a star - forming region on the edge of a molecular cloud , and further observations are needed to deduce the distance of this region and whether it contains high - mass stars ."
+  ],
+  "abstract_text": [
+    "<S> most of the milky way s evolved massive stellar population is hidden from view . we can attempt to remedy this situation with near - infrared observations , and in this paper we present our method for detecting wolf - rayet stars in highly extincted regions and apply it to the inner galaxy . using narrow band filters at k - band wavelengths , </S>",
+    "<S> we demonstrate how wr stars can be detected in regions where they are optically obscured . </S>",
+    "<S> candidates are selected for spectroscopic follow - up from our relative line and continuum photometry . </S>",
+    "<S> the final results of applying this method with a nir survey in the galactic plane will provide a more complete knowledge of the structure of the galactic disk , the role of metallicity in massive stellar evolution , and environments of massive star formation . in this paper </S>",
+    "<S> we briefly describe the survey set - up and report on recent progress . we have discovered four emission - line objects in the inner galaxy : two with nebular emission lines , and two new wr stars , both of late wc subtype .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

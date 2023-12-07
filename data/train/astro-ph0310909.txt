@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "the recent discoveries of extrasolar planets show our lack of knowledge about their formation , a multi - stage process taking us from dust grains to boulders to planetesimals to planetary embryos . here",
+    "we are primarily looking at the initial phase  from microns to metres .",
+    "in this paper we present the first three - dimensional numerical simulations that include the effects of hydrodynamical forces , self - gravity and gas drag upon an evolving dusty gas disk .",
+    "we use the smoothed particle hydrodynamics ( sph ) ( gingold & monaghan 1977 ; lucy 1977 ; monaghan 1992 ) technique which uses a collection of particles to approximate a fluid .",
+    "we have written two slightly different sph codes describing these multiphase fluids .",
+    "one was developed by robin humble ( humble et al . 2004 ) , the other was developed by laure barrire - fouchet starting from james murray s code ( murray 1996 ) .",
+    "gas and dust phases are represented by two distinct types of particles .",
+    "the equation of motion is given by maddison ( 1998 ) .",
+    "the codes have been extensively compared and the main differences arise from the fact that humble s code allows higher resolution simulations and barrire - fouchet s code seems to be able to simulate smaller size particles .",
+    "for large ( @xmath0 m ) and small ( @xmath1 m ) dust sizes , the dust distribution is expected to stay close to the initial flared disk .",
+    "large grains ( boulders ) are weakly coupled to the gas , and if started in keplerian motion , they will remain there .",
+    "conversely , tiny grains are so strongly coupled to the gas that they are essentially co - moving ( on the timescales we are examining here ) .",
+    "the @xmath2 mm to @xmath0 cm interval is where all the ( short timescale ) interesting dynamics takes place . in the r - z plot of figure 1 , significant deviation from the initially flared disk occurs .",
+    "the epstein drag is sufficiently strong that it is able to efficiently remove energy from the dust , and yet not so strong that the dust is tightly coupled to the gas .",
+    "we have taken the initial steps to understanding dusty disk dynamics with full 3d hydrodynamics .",
+    "the lagrangian nature of the code means that it is computationally trivial to add empirical grain growth models , to change equations of state , and to follow the grain temperature and density histories .",
+    "this means it is potentially feasible to determine not just the location and mass of planetesimals , but also their likely composition .",
+    "gingold , r. a. , & monaghan , j. j. 1977 , , 181 , 375 humble , r. , maddison , s. t. , & murray , j. 2004 , , in preparation lucy , l. b. 1977 , , 82 , 1013 maddison , s. t. 1998 , `` gravitational instabilities in protostellar disks '' , phd thesis , monash university monaghan , j. j. 1992 , , 30 , 543 murray , j. 1996 , , 279 , 402"
+  ],
+  "abstract_text": [
+    "<S> we present the results of three - dimensional numerical simulations that include the effects of hydrodynamical forces and gas drag upon an evolving dusty gas disk . </S>",
+    "<S> we briefly describe a new parallel , two phase numerical code based upon the smoothed particle hydrodynamics ( sph ) technique in which the gas and dust phases are represented by two distinct types of particles . </S>",
+    "<S> we use the code to follow the dynamical evolution of a population of grains in a gaseous protoplanetary disk in order to understand the distribution of grains of different sizes within the disk . </S>",
+    "<S> our `` grains '' range from metre to submillimetre in size . </S>"
+  ]
+}

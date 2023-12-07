@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "historically , transits of venus were the major method for hundreds of years of determining the astronomical unit and thus the scale of the solar system , given that kepler s laws of 1609/1618 are mere proportions .",
+    "edmond halley presented a method of determining the a.u . by observing the durations of the chords across the sun from a number of different locations on earth .",
+    "accordingly , dozens of expeditions from many countries travelled around the world for the 18th and 19th - century transits , most famously including the voyage of captain james cook , who was sent to tahiti to observe the 1769 event .",
+    "the accuracy of the measurements was severely impaired , however , by the `` black - drop effect , '' in which the silhouette of venus did not separate cleanly from the limb of the sun during its inner contact .",
+    "the timing accuracy was thus closer to a minute than to the expected second or two .",
+    "as schaefer ( 2001 ) has shown , many people have mistakenly attributed , and continue to mistakenly attribute , the black - drop effect to the atmosphere of venus .",
+    "our space observations of the transit of mercury have shown the presence of a black - drop effect ( figure 1 ) . since mercury has no substantial atmosphere and since the observations were taken from outside the earth s atmosphere , clearly the effect  at least for mercury  has causes other than due to a planetary atmosphere . by implication ,",
+    "venus s black - drop effect would arise , at least in part , from similar causes .",
+    "the transition region and explorer spacecraft can observe the sun in a variety of ultraviolet wavelengths .",
+    "for our studies of the 1999 transit of mercury , we used only data from its broad band white - light channel .",
+    "trace s 0.5 arc sec pixels , and temporally stable point - spread function unaffected by the earth s atmosphere , give it spatial high resolution .",
+    "a black - drop effect was observed in all frames near the point of internal tangency of the mercurian and solar disks .",
+    "we discuss our calibrations , methods of analysis and extensive modeling in schneider , pasachoff & golub ( 2001 , 2004 ) .",
+    "we found major contributors giving rise to the black - drop effect come from two causes , that of the point - spread function of the telescope and that of the solar limb darkening . removing those two contributions left us with images of the limb of mercury unaffected by the solar limb .",
+    "the data for the 1999 event were sent to earth in lossless uncompressed image format .",
+    "though we had worked with the trace planning team for the 2003 event to obtain a white - light data set at higher temporal cadance , those observations were downlinked in a compressed format normally used for solar observations . a irrecoverable loss of image fidelity at the bottom end of the dynamic sampling range resulted , and we were unable to recover sufficient accuracy to repeat our earlier analysis .",
+    "we will make sure that the data for the upcoming venus transit are returned to earth in uncompressed format .",
+    "our immediate intention is to observe the 8 june 2004 transit of venus from trace in orbit and from telescopes on the ground .",
+    "massive world - wide efforts will take place to observe this venus transit .",
+    "the european southern observatory , for example , is coordinating a public observation campaign .",
+    "the international astronomical union s commission on education and development has a web site at http://www.transitofvenus.info that lists past and future observations , shows images , and provides links .",
+    "we also intend to observe the transit of mercury of 8 november 2006 .",
+    "after that , the following transits of mercury are nt until 9 may 2016 and 11 november 2019 .",
+    "this work was partially supported by nsf grant atm-000545 ; pasachoff s work on eclipses has also been supported in part by ngs / cre .",
+    "trace is supported by a nasa / gsfc contract to the lockheed martin corp .",
+    "nicmos idt s / w ( nasa grant nag 5 - 3042 ) was used extensively ."
+  ],
+  "abstract_text": [
+    "<S> transits of mercury and venus across the face of the sun are rare . </S>",
+    "<S> the 20th century had 15 transits of mercury and the 21st century will have 14 , the two most recent occuring on 15 november 1999 and 7 may 2003 . </S>",
+    "<S> we report on our observations and analyses of a black - drop effect at the 1999 and 2003 transits of mercury seen in high spatial resolution optical imaging with nasa s transition region and coronal explorer ( trace ) spacecraft . </S>",
+    "<S> we have separated the primary contributors to this effect , solar limb darkening and broadening due to the instrumental point spread function , for the 1999 event . </S>",
+    "<S> the observations are important for understanding historical observations of transits of venus , which in the 18th and 19th centuries were basic for the determination of the scale of the solar system . </S>",
+    "<S> our observations are in preparation for the 8 june 2004 transit of venus , the first to occur since 1882 </S>",
+    "<S> . only five transits of venus have ever been seen  in 1639 , 1761 , 1769 , 1874 , and 1882 . </S>",
+    "<S> these events occur in pairs , whose members are separated by 8 years , with an interval between pairs of 105 or 122 years . </S>",
+    "<S> nobody alive has ever seen a transit of venus .    </S>",
+    "<S> # 1_#1 _    # 1_#1 _    =    # 1    1.25 in    .125 in    .25 in </S>"
+  ]
+}

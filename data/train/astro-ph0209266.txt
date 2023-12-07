@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "ngc 7217 is one of the first galaxies observed from the nuga ( nuclei of galaxies ) sample of about 20 spirals with agn , which are being mapped at high resolution with the iram interferometer to explore their molecular content , and to determine their possible fueling mechanisms ( primary or nuclear bars , spiral waves , warps , or m=1 perturbations ) .",
+    "ngc 7217 is an ( r)sa(r)ab galaxy classified as a liner / seyfert .",
+    "it is particularly axisymmetric , and possesses nuclear , inner and outer rings , at 8 , 31 and 77 \" ( buta et al . 1995 ) .",
+    "dominated by a massive and extended bulge , the spiral structure is flocculent , and a possible oval distortion might be the vestige of an ancient bar , which was responsible for the formation of the three rings .    we have observed in 2001 this galaxy with the iram interferometer in the co(1 - 0 ) and co(2 - 1 ) lines , with resolution of 3.2x2.8  and 1.6x1.4  respectively .",
+    "fig . [ fig1 ] shows in contours the particularly regular nuclear ring observed in the co(1 - 0 ) line .",
+    "the ring is wider in the southern part , and has strikingly steep contours at its inner edge .",
+    "no co(1 - 0 ) emission is detected inside the ring , while there is a spot of co(2 - 1 ) emission towards the nucleus .",
+    "hst colour pictures reveal a red nuclear ring coinciding with the co(1 - 0 ) ring .",
+    "the extinction also delineates a central spiral structure , with which the co(2 - 1 ) appears associated .",
+    "the co(2 - 1)/co(1 - 0 ) ratio has been computed across the map , by comparing only the same uv - frequencies and obtaining the two maps with the same spatial resolution .",
+    "the ratio is consistent with 1 in most of the clumps , as for optically thick co clouds .",
+    "the velocity field is very regular , corresponding to rotation , with no signature of streaming motions ."
+  ],
+  "abstract_text": [
+    "<S> we present co(1 - 0 ) and co(2 - 1 ) maps of the seyfert galaxy ngc 7217 , obtained with the iram interferometer , at 3 `` and 1.5 '' resolution respectively . the nuclear ring ( at r=12``=0.8kpc ) </S>",
+    "<S> is predominant in the co maps , with a remarkable surface density gradient between the depleted region inside the ring and the inner border of the ring . </S>",
+    "<S> the co nuclear ring is significantly broader ( 500 - 600pc ) than the dust lane ring . </S>",
+    "<S> the co(2 - 1)/co(1 - 0 ) ratio is around 1 , typical of optically thick gas with high density . </S>",
+    "<S> the overall morphology of the ring is quite circular , with no evidence of non - circular velocities . in the co(2 - 1 ) map </S>",
+    "<S> , a central concentration might be associated with the circumnuclear ring of ionised gas detected inside r=3 '' and interpreted as a polar ring by silchenko and afanasiev ( 2000 ) . </S>",
+    "<S> our interpretation is more in terms of a bar / spiral structure , in the same plane as the global galaxy but affected by non - circular motions , which results in a characteristic s - shape of the isovels . </S>",
+    "<S> this nuclear bar / spiral structure , clearly seen in a v - i hst colour image , is essentially gaseous and might be explained with acoustic waves . </S>"
+  ]
+}

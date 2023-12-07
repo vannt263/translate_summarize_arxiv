@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "studying the orientation of accretion disks relative to host galaxy disks can tell us about the inner structure of the galaxy and the regions around the black hole .",
+    "it is reasonable to assume that gas from the galaxy disk is the source of fuel for the agn , in which case we would expect the accretion disk to be aligned with the host galaxy disk , and the jets to be perpendicular to the host galaxy disk .",
+    "the study of seyfert galaxies ( kinney et al .",
+    "2000 ) shows that their jets can have any orientation , contradicting this scenario . in the case of radio galaxies , which have elliptical or s0 host",
+    ", it is difficult to determine the orientation the host galaxy disk . however , we solve this problem by using dust disks , a technique similar to that used by kotanyi & ekers ( 1979 ) .",
+    "we selected a sample of 20 radio galaxies with dust disks and avoided sources with irregular dust lanes .",
+    "these results are presented in schmitt et al .",
+    "( 2002 ) , and similar ones were found by verdoes kleijn et al .",
+    "( this meeting ) .",
+    "the main results of this work are presented in figure 1 .",
+    "the left panel of this figure shows the distribution of angles @xmath1 , the angle between the jet and the dust disk major axis .",
+    "it is clear that these radio galaxies present a wide range of values , between @xmath2 and 90@xmath0 .",
+    "this suggests that the jets are not aligned perpendicular to the dust disks .",
+    "however , the results from figure 1 represent only a two - dimensional projection on the plane of the sky , and we are interested on the intrinsic , three - dimensional orientation of jets relative to the dust disks symmetry axis . using the techniques developed by kinney et al .",
+    "( 2000 ) , we have that for a given pair of angles ( @xmath3,@xmath1 ) , where @xmath3 is the inclination of the dust disk relative to the line of sight , it can be shown that the jet will never be at an angle closer than @xmath4 ) relative to the disk symmetry axis .",
+    "the right panel of figure 1 presents the cumulative distribution of @xmath5 s for our sample , where we can see that it shows a large distribution of values , indicating that for half of the sample the jet and disk axis have to be misaligned by more than 20@xmath0 , being larger than 53@xmath0 for one of the galaxies .",
+    "besides studying the distribution of angles @xmath5 , we also used the statistical techniques developed by kinney et al .",
+    "( 2000 ) to determine which distribution of angles @xmath6 best represent the observed distribution of @xmath1 s .",
+    "we find that a homogeneous distribution of jets over a polar cap of @xmath7 can represent the data at the 5% level .",
+    "however , jets seem to avoid lying along the dust disks , which may be due to the fact that they would not be able to propagate along that direction , or would possibly even destroy these disks .",
+    "kinney et al . ( 2002 ) and schmitt et al . ( 2002 ) discuss several possibilities to explain these results ( see also pringle , this meeting ) .",
+    "misaligned inflow of gas towards the nucleus , from minor mergers , or the accretion of individual molecular clouds do not seem to explain the observations , since they would resulting in misaligned jets from the vlbi to the vla scales , which is not observed .",
+    "other possibilities would be the warping of the accretion disk by self - irradiation instability ( pringle 1996 ) , by the bardeen - petterson effect , or by a misaligned gravitational potential around the nucleus .",
+    "these explanations also present some problems and require further study .",
+    "i would like to thank my collaborators in this project : jim pringle , cathie clarke and anne kinney .",
+    "the national radio astronomy observatory is a facility of the national science foundation operated under cooperative agreement by associated universities , inc .",
+    "kinney , a.l .",
+    "2000 , apj , 537 , 152 kotanyi , c. g. & ekers , r. d. 1979 , a&a , 73 , l1 pringle , j. e. 1996 , mnras , 281 , 357 schmitt , h.r . ,",
+    "pringle , j.e . ,",
+    "clarke , c.j . & kinney , a.l .",
+    "2002 , apj , 575 , 150"
+  ],
+  "abstract_text": [
+    "<S> we study the orientation of accretion disks , traced by the position angle of the jet , relative to the dust disk major axis in a sample of 20 nearby radio galaxies . </S>",
+    "<S> we find that the observed distribution of angles between the jet and dust disk major axis is consistent with jets homogeneously distributed over a polar cap of 77@xmath0 .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

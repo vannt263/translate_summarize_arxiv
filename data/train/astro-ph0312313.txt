@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "= 3.5truein    @xcite have demonstrated that the frequency of extra - solar giant planets is a strong function of metallicity @xmath1 . @xcite",
+    "have confirmed this result and have further shown that there is a sharp break in frequency at @xmath0 , which can be represented algebraically by , @xmath2 where @xmath3 is a step function .",
+    "see their figure 7 .",
+    "we suggest that the two terms of this equation correspond to two different modes of giant - planet formation , the first being metallicity - independent and the second being strongly dependent on metallicity . for example , in its simplest form , the disk - instability model of @xcite would not be expected to depend on metallicity .",
+    "by contrast , the more conventional picture of gas accretion onto rock - ice cores might well be very sensitive to metallicity .",
+    "if the two mechanisms generated planets with substantially different distributions in eccentricity , period , or mass , then these should be revealed in the observed distributions of these properties as functions of metallicity .",
+    "that is , the planets with @xmath4 should entirely reflect one distribution , while those with @xmath5 should predominantly reflect the other .    to test this possibility ,",
+    "we make three plots . in figures  [ fig : eccen ] , [ fig : period ] , and [ fig : msini ] , we show the eccentricities @xmath6 , periods @xmath7 , and mass functions @xmath8 of the 109 planets cataloged by @xcite versus the metallicities of their 97 host stars . we exclude hd 47536 as its planet s properties are not well established .",
+    "we take planet properties from the geneva extrasolar planet search programmes websiteudry / planet / planet.html ] .",
+    "no strong pattern emerges from any of these three plots .",
+    "the low-@xmath1 stars show a modest deficit of short - period planets , but a kolmogorov - smirnov ( ks ) test shows a significance of only @xmath9 .",
+    "similarly , the low-@xmath1 stars show a modest deficit of high - mass planets , but this is even less significant ( @xmath10 ) . however , because only 23 of the 109 planets have metallicities @xmath4 , these plots and tests would only be sensitive to the most glaring differences between the two putative populations .",
+    "since there are marginal signals in each of figures  [ fig : period ] and [ fig : msini ] , we have also plotted ( but do not show ) @xmath7 vs.  @xmath8 , with different symbols for the planets of stars above and below @xmath0 .",
+    "however , we find no enhanced signal in this plot , nor indeed in similar plots of @xmath6 vs.  @xmath7 and @xmath6 vs.  @xmath8 .",
+    "we can also check whether planetary multiplicity is bimodal in character .",
+    "of the 75 planet - bearing stars with @xmath5 , 9 have more than one planet . if multiplicity were independent of metallicity , we would expect 2.64 of the 22 planet - bearing stars with @xmath11 to have multiple planets .",
+    "in fact , there is only one such metal - poor multiple system .",
+    "again , however , no strong significance can be attached to this difference because , based on poisson statistics , such a shortfall would be expected 26% of the time .      now that a clear break point has been established in planet frequency at @xmath0 , it is critical to establish a larger sample of planets of sub - solar metallicity stars .",
+    "the relatively low frequency of these planets will make this search difficult , partly because a large number of such stars must be searched and partly because , as a consequence of this , these stars will tend to be farther away and so fainter .",
+    "nevertheless , since a comparison of the planet properties of host stars above and below @xmath0 is the simplest test for bimodal planet formation , the additional effort required to enhance the low - metallicity sample would be well justified ."
+  ],
+  "abstract_text": [
+    "<S> we suggest that the observed break in giant - planet frequency as a function of host metallicity at @xmath0 may be a reflection of bimodal planet formation . </S>",
+    "<S> we search for signatures of this bimodality in the distributions of the planet eccentricities , periods , masses , and multiplicity </S>",
+    "<S> . however , the low - metallicity sample is at present too small to test for any but the most severe differences in these two putative populations . </S>"
+  ]
+}

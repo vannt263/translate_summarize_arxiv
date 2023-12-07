@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "twelve m6- to m8-type objects called cha h@xmath0 1 to 12 were found in deep infrared , h@xmath0 , and x - ray surveys ( comern et al . 2000 ) . to search for faint visual companions around these bona - fide and candidate brown dwarfs , we have taken deep images with hst wfpc2 ( r , i , h@xmath0 ) , vlt fors1 ( vri ) , and ntt sofi ( jhk@xmath1 ) and detected one particulary promising companion candidate : cha h@xmath0 5/cc 1 , a companion candidate 1.5 arc sec off cha h@xmath0 1 , is 3.8 to 4.7 mag fainter than the primary and its colors are consistent with an early- to mid - l spectral type . assuming the same distance , absorption , and age as for the primary , the faint object would have a mass of 3 to 15 jupiters according to burrows et al . ( 1997 ) and chabrier & baraffe ( 2000 ) models . the probability for this companion candidate to be an unrelated fore- or background object is @xmath2 , its vrijhk colors are marginally consistent with a strongly reddened background k giant .",
+    "these results are published in neuhuser et al .",
+    "( 2002 ) .",
+    "even with the best currently achievable astrometric precision ( few mas ) , we would have to wait several years for checking whether this visual pair is a common proper motion pair .",
+    "alternativelly , and faster , one can check by spectroscopy whether the faint companion candidate is either an l - type companion or a reddened k - type background giant .",
+    "spectra were taken with isaac and fors1 at the vlt in early 2002 .",
+    "the h- and k - band spectra show that the companion candidate is as red as concluded before from its vrijhk colors .",
+    "however , in the k - band spectrum of the companion candidate , the sharp drop of the quasi - continuum at @xmath3 due to co lines is not present .",
+    "this drop and the co lines can be seen in the spectrum of cha h@xmath0 5 , but should be even stronger in an l - type object .    in the optical spectrum ,",
+    "the three caii lines at 8661.7 , 8541.7 , and 8497.6  , which are typical for k stars , but are not present in l - dwarfs , are detected .",
+    "also , the typical features of l - dwarfs , like k , rb , cs , feh , and crh lines are not detected . in fig . 1",
+    ", we compare the companion candidate s spectrum with a typical k - type giant star showing the similarities in absorption lines and their relative strength ( companion candidate not corrected for strong reddening ) .    from the previous imaging data",
+    ", we concluded that the companion candidate is either an unabsorbed l - type companion or a reddened k - type background giant , with the former alternative being much more likely ( @xmath4 ) . from the follow - up spectra , we conclude that this candidate is a background star , probably a k - type giant .",
+    "burrows a. , marley m. , hubbard w.b . , et al .",
+    ", 1997 , apj 491 , 856 chabrier g. & baraffe i. , 2000 , ara&a 38 , 337 comern f. , neuhuser r. & kaas a.a . , 2000 ,",
+    "a&a 359 , 269 neuhuser r. , brandner w. , alves j. , joergens v. , comern f. , 2002 , a&a 384 , 999"
+  ],
+  "abstract_text": [
+    "<S> we obtained optical and infrared spectra of cha h@xmath0 5/cc 1 , a faint possibly sub - stellar companion candidate next to the m6-type brown dwarf candidate cha h@xmath0 1 in cha i , using fors1 and isaac at the vlt . </S>",
+    "<S> the vrijhk colors of cha h@xmath0 5/cc 1 are consistent with either an l - type companion or a k - type background giant . </S>",
+    "<S> our spectra show that the companion candidate actually is a background star .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

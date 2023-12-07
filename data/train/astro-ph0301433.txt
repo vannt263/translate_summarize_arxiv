@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "we have already discussed in donea & protheroe ( 2002 ) some aspects related to the ir radiation from ubiquitous dusty tori in quasars and some blazars .",
+    "we have shown that the torus radiation could present a serious problem for the escape of tev @xmath0-rays from emission regions which are not well above hot tori .",
+    "it is hard to accept that m87 , a mis - aligned bl lac object , that posses a huge black hole ( ford et al . , 1995 ) , a very active jet ( wilson et al . , 2002 ) and blr ( sankrit et al . , 1999 ) and",
+    "possibly nlr ( zavala & taylor , 2002 ) , completely lacks the dusty component , be it very cold .",
+    "m87 has a low luminosity nucleus and the fact that strong mid - infrared emission was not detected from the centre of m87 ( perlman et al . , 2001 )",
+    "suggests either that there is no torus in m87 , or if there is one it should have a low radiative efficiency making its detection difficult . using argument related to the age of m87 , the fact that m87 could undergo on - off activity cycles ( di matteo et al . , 2002 ) and the possibility that m87 could harbour a double black hole system ( zier & biermann , 2001 ) we assume that m87 could still have sufficient dust around its nucleus ( fig .",
+    "we calculate the optical depth for @xmath0-@xmath0 pair - production @xmath1 of gev - tev photons emitted by the jet interacting with ir photons from the torus ( fig .",
+    "bai and lee ( 2002 ) have suggested that m87 could emit detectable tev photons with an inverse - compton emission peak at only 0.1 tev .",
+    "protheroe et al .",
+    "( 2002 ) have predicted that @xmath0-ray emission involving hadronic interactions cuts off at 10 gev - 1 tev , depending on the luminosity of the low hump of sed .",
+    "we find that @xmath0-rays with energies around 0.1 tev are not absorbed by the ir cold photons and therefore could be detectable .",
+    "although the high temperature of @xmath2  k is unrealistic for the present near - dormant state of m87 , it is interesting to see what the difference would be in absorption when m87 would power on the torus .",
+    "we note that @xmath0-rays with energies above 10 tev ( if produced ) could be absorbed even when the torus is cold ( @xmath3  k ) and thin , and the emission region lies within the torus . as one moves away from the black hole , the tev emission",
+    "if produced in the jet , escapes the @xmath0-@xmath0 absorption and could be detected by the cherenkov telescopes .",
+    "we conclude that the absorption of gev to 10 tev photons by @xmath0-@xmath0 interactions with the infrared photons produced by a cold torus is negligible . only a strong and rapid ignition in the nucleus of m87",
+    "could heat up the dust and increase the absorption of @xmath0-rays produced nearby the infrared torus .",
+    "bai j. m. , lee m. g. , 2001 , apj , 549 , l173 . di matteo t. , et al .",
+    ", astro - ph 0202238 a .- c .",
+    "donea , r.j .",
+    "protheroe , 2002 , astroph .",
+    "phys , to appear .",
+    "protheroe , a .- c .",
+    "donea , reimer a , 2002 , astroph .",
+    "phys , submitted .",
+    "perlman , e. s. , et al .",
+    ", 2001 , apj , 561 , l51 .",
+    "sankrit , r. , sembach , k. r. , & canizares , c. r. 1999 , apj , 527 , 733 zavala r. t. , taylor g. b. , 2002 , apj , 566 , 9 .",
+    "zier c. , biermann p. l. , 2001 , a&a , 377 , 23 .",
+    "wilson a.s . , yang , y. , apj , 568,133 , 2002 ."
+  ],
+  "abstract_text": [
+    "<S> motivated by unification schemes of active galactic nuclei , we review evidence for the existence of a small - scale dust torus in m87 , a fanaroff - riley class i radio galaxy . since there is no direct evidence of any thermal emission from its torus we consider indirect evidence , such as blr activity and ageing arguments to model the cold dust structure of m87 . in the context of the jet  accretion disk  torus symbiosis </S>",
+    "<S> we discuss the interactions of gev and tev gamma - rays produced in the jet of m87 with the infrared radiation fields external to the jet , produced by a less active torus . </S>",
+    "<S> a thin and cold torus with less defined outer boundaries could still posses problems to some of the tev emission from the jet . </S>"
+  ]
+}

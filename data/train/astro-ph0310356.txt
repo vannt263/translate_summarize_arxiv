@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "we have analyzed 18 xmm - fields located near the south galactic pole ( sgp ; ra = @xmath4 @xmath5 , dec = @xmath6 @xmath7 ; total of 9 fields ) and in the north galactic pole ( ngp ; ra = @xmath8 @xmath9 , dec = @xmath10 @xmath7 ; total of 9 fields ) , covering an area of @xmath11 and with exposure time between 2 and 10 ksec .",
+    "we have excluded 4 southern fields and 1 northern field because of the high particle background .    in order to detect extended emission",
+    "we use the wavelet - based xmm - sas source detection task ewavelet , with a detection threshold of @xmath12 , in combination with the emldetect task with an extension probability > 0.995 .",
+    "we detect : i ) 5 candidate southern clusters in the mos1 and mos2 mosaic and 3 extended sources in the pn ( out of which 3 overlap with the mos detections ) and ii ) 6 candidate northern clusters in the mos1 and mos2 mosaic , 1 in mos1 only and 5 extended sources in the pn ( out of which 3 overlap with the mos detections ) .",
+    "the faintest extended source has a flux of @xmath13 2 @xmath14 10@xmath15 cgs , as estimated by the emldetect task .",
+    "visual inspection suggests that the small overlap between the pn and the mos detected cluster candidates can be attributed to ( i ) the presence of gaps in the pn and ( ii ) the elevated particle background of this detector .    for the ngp cluster candidates we compare the photometric redshift distribution ( from sdss ) within a circular region of @xmath16 - @xmath17 centered on the x - ray position with that of the field .",
+    "this preliminary analysis suggests an overdensity of optical galaxies at photometric redshifts z @xmath13 0.4 in excess to the expectations from the rosati et al 2002 luminosity function .    in the figures we present the xmm epic ( mosaic of mos1 and mos2 ) contours of 2 of the candidate clusters , overlaid on the optical images , using the dss and the sdss for the southern and northern fields respectively .",
+    "we fitted to each cluster a king profile using fixed values for the @xmath18 parameter ( @xmath19 and @xmath20 ) .",
+    "we then estimated the flux of each cluster by integrating their king profile to infinity and we found that the lower cluster luminosity is @xmath21 . varying",
+    "the @xmath18 parameter between 0.7 - 1 translates to a @xmath22 change in @xmath23 .",
+    "we also found that the range of the cluster temperatures is between 1 - 3 kev .    to test the reliability of our procedure",
+    "we have performed simulations of the expected cluster detection on xmm epic , using the rosati et al ( 2002 ) @xmath3 and the sas simulator ( scisim ) .",
+    "we find that we should expect roughly @xmath24 clusters per field with f @xmath25 2 @xmath14 10@xmath15cgs , which is in rough agreement with our number of detected clusters ."
+  ],
+  "abstract_text": [
+    "<S> we present the results from a shallow ( 2 - 10 ksec ) xmm/2df survey . </S>",
+    "<S> our survey covers 18 xmm fields ( @xmath0 ) previously spectroscopically followed up with the anglo - australian telescope 2-degree field facility . </S>",
+    "<S> about half of the fields are also covered by the sloan digital sky survey ( sdss ) . </S>",
+    "<S> we are searching for extended sources using the xmm sas maximum likelihood algorithm in the 0.3 - 2 kev band and we have detected 14 candidate clusters down to a flux of @xmath1 . </S>",
+    "<S> our preliminary results show that : i ) the redshift distribution peaks at relatively high redshifts ( @xmath2 ) as expected from the rosati et al . </S>",
+    "<S> @xmath3 , ii ) some of our x - ray clusters appear to have optical counterparts .    </S>",
+    "<S> surveys : galaxies : clusters ; large  scale structure of universe ; surveys </S>"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "the synthetic field method ( sfm ) was developed by gonzlez et al .",
+    "( 1998 ) as a technique for determining the average opacity through the disk of a nearby spiral by counting more distant background galaxies .",
+    "this number is compared with those of `` synthetic fields '' , a known wfpc2 deep field , dimmed by a certain opacity , added to the foreground galaxy image .",
+    "gonzlez et al .  ( 2003 ) examined the application of the method and concluded that the optimum results with hst / wfpc2 imaging would be obtained on fornax and virgo cluster galaxies , with the accuracy degrading for galaxies much closer or more distant .",
+    "our sample was drawn from the hst archives , in part from the cepheid distance scale hst key project sample .",
+    "we present preliminary results on ngc4535 , ngc4725 and ugc2302 . the numbers of real and simulated field galaxies were compared in annuli of deprojected radius .",
+    "ngc4535 is a face - on sabc with a half - light radius of 5.1 kpc at a distance of 16 mpc .",
+    "several spiral arms with bright hii regions are visible in the hst image .",
+    "ngc4725 is a sabab ringed galaxy at 12 mpc its half - light radius is 5.4 kpc .",
+    "the hst image shows much less structure .",
+    "the radial opacity profiles of both however are similar ( see figure 1 ) , showing 2.5 magnitudes of extinction in i at the half - light radius , dropping off to 0.5 magnitude .",
+    "ugc2302 is a lsb at 15 mpc is a much more compact object . at comparable radii",
+    ", it does not show as much absorption ; less then a magnitude at 5 kpc from the center .",
+    "the uncertainties in these individual profiles are large due to low numbers of field galaxies and an added uncertainty due to their clustering . by averaging a number of fields we will improve on these uncertainties for an average radial opacity model of spiral galaxies . for different hubble types , we intend to compare the radial dependence of opacity with the hi density profile to obtain cold dust - to - gas ratios .",
+    "gonz ' alez , r.  a. , allen , r.  j. , dirsch , b. , ferguson , h.  c. , calzetti , d. , and panagia , n. 1998 ,  * 506 * , 152 gonz ' alez , r.  a. , loinard , l. , allen , r.  j. , and muller , s. 2003 ,  * 125 * , 1182 holwerda , b.  w. , allen , r.  j. , and van der kruit , p.  c. : 2002 , asp conf .",
+    "ser . 273 : 337"
+  ],
+  "abstract_text": [
+    "<S> we have applied the `` synthetic field method '' on a sample of  20 nearby galaxies in order to determine the opacity of their disks . </S>",
+    "<S> we present preliminary results on the radial dependence of cold dust absorption for 3 examples . </S>",
+    "<S> the spirals ngc4535 and ngc4725 show significant absorption at a half - light radius . ugc2302 , a lsb galaxy , shows much less opacity .    # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

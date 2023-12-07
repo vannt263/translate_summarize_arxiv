@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the diffuse infrared background experiment ( dirbe ) on the cosmic background explorer(cobe ) satellite was designed to measure the cosmic infrared background ( cirb ) .",
+    "the results from the dirbe team s analysis of the dirbe data are described in @xcite .",
+    "these depend in a very fundamental way on the model for the zodiacal or interplanetary dust cloud that was fit to the variation of the dirbe signal as a function of solar elongation @xcite . but",
+    "this zodiacal model leaves a large residual intensity at 25  which must be due to underestimating the zodiacal background , at least at 25 . new models @xcite which address this problem are used here to derive new lower values for the cirb .",
+    "other approaches @xcite that use only a small fraction of the dirbe data to derive a zodiacal model have given higher values for the cirb .",
+    "these results are unlikely to be true , but the dominant systematic uncertainty in deriving the cirb from observations taken 1 au from the sun remains the uncertainty in fitting the zodiacal light .    [ cols=\"^,^,^,^ \" , ]",
+    "the final analysis @xcite of the firas low frequency channel data on the cosmic microwave background ( cmb ) showed a spectrum with rms residuals from a blackbody of 50 ppm of the peak , or 20 kjy / sr .",
+    "how is this result compatible with scuba results that claim to see an integrated intensity from source counts of 86 kjy / sr @xcite ?",
+    "one explanation is that later more extensive observations @xcite give lower source counts and @xmath1  kjy / sr for @xmath2  mjy .",
+    "a second explanation is that the firas analysis for cmb distortions was designed to be insensitive to any foreground that had the spectral shape of the milky way .",
+    "thus the cirb at 850  can be quite large if the cirb spectrum is similar to the milky way spectrum .",
+    "equation ( 3 ) from @xcite gives this model for small deviations of the cmb from a blackbody : @xmath3 where @xmath4 describes some distortion . in order to see how compatible different models for the cosmic sub - mm background are with the firas low frequency channel data ,",
+    "i compute the following : @xmath5_{\\nu,\\nu^\\prime } ( i_0(\\nu^\\prime ) - p { { \\partial s_c}\\over{\\partial p}})\\right],\\ ] ] with @xmath6 being the covariance matrix , and let @xmath4 be the sub - mm background intensity at 850 , while @xmath7 gives the shape of the spectrum . thus @xmath8 is the spectrum normalized to the 850  value .",
+    "figure [ fig : i850 ] shows the @xmath9 _ vs. _ @xmath10 curves for four different models of the sub - mm background .",
+    "the two models with the high values of @xmath10 have the best and the worst @xmath9 , while the models with lower intensities at 850  have marginal @xmath9 s . the model with the highest @xmath9 is the analytic fit @xmath11 from @xcite , but this model was designed to fit the peak of the cirb near 200 , and not the faint low snr region near 850 .",
+    "table [ tab : i850 ] gives the values of @xmath12 _ vs. _",
+    "@xmath13 for the model with the best @xmath9 in figure [ fig : i850 ] .",
+    "i designed the shape of this model near 850  to make it compatible with the firas limits .",
+    "this is also the curve shown in figure [ fig : coibr ] .",
+    "clearly more work is needed to determine @xmath10 , and this requires a better indicator of the total galactic column density including all types of matter : h  i , h  ii , and h@xmath0 .",
+    "i have presented here results from the dirbe and firas observations of the cirb and the milky way . both the milky way and",
+    "the cirb show a bigger peak in the near infrared than in the far infrared .",
+    "the total intensity is nearly 10% of the power in the cmb blackbody .",
+    "while the cirb is probably the integrated light from many unresolved galaxies , there is a discrepancy between galaxy photometry and the near infrared and optical cirb , with the directly measured cirb being about two times brighter than the intensity from source counts .",
+    "the most probable explanation of this discrepancy is undercounting the faint outer parts of galaxies .",
+    "dwek , e. , arendt , r. g. , hauser , m. g. , fixsen , d. , kelsall , t. , leisawitz , d. , pei , y. c. , wright , e. l. , mather , j. c. , moseley , s. h. , odegard , n. , shafer , r. , silverberg , r. f. & weiland , j. l. , _ astrophysical journal _ * 508 * ( 1998 ) 106 .",
+    "hauser , m. g. , arendt , r. g. , kelsall , t. , dwek , e. , odegard , n. , weiland , j. l. , freudenreich , h. t. , reach , w. t. , silverberg , r. f. , moseley , s. h. , pei , y. c. , lubin , p. , mather , j. c. , shafer , r. a. , smoot , g. f. , weiss , r. , wilkinson , d. t. & wright , e. l. , _ astrophysical journal _ * 508 * ( 1998 ) 25 .",
+    "kelsall , t. , weiland , j. l. , franz , b. a. , reach , w. t. , arendt , r. g. , dwek , e. , freudenreich , h. t. , hauser , m. g. , moseley , s. h. , odegard , n. p. , silverberg , r. f. & wright , e. l. , _ astrophysical journal _ * 508 * ( 1998 ) 44 .",
+    "lagache , g. , abergel , a. , boulanger , f. , desert , f. x. & puget , j. l. , _ astronomy & astrophysics _ , * 344 * ( 1999 ) 322 .",
+    "primack , j. , bullock , j. , somerville , r. & macminn , d. , _ astroparticle physics _ * 11 * ( 1999 ) 93 ."
+  ],
+  "abstract_text": [
+    "<S> the diffuse infrared background experiment ( dirbe ) on the cosmic background explorer ( cobe ) measured the total infrared signal seen from space at a distance of 1 astronomical unit from the sun . using time variations as the earth orbits the sun , it is possible to remove most of the foreground signal produced by the interplanetary dust cloud [ zodiacal light ] . by correlating the dirbe signal with the column density of atomic hydrogen measured using the 21 cm line , it is possible to remove most of the foreground signal produced by interstellar dust , although one must still be concerned by dust associated with h@xmath0 ( molecular gas ) and h  ii ( the warm ionized medium ) . </S>",
+    "<S> dirbe was not able to determine the cosmic infrared background ( cirb ) in the 5 - 60  wavelength range , but did detect both a far infrared background and a near infrared background . </S>",
+    "<S> the far infrared background has an integrated intensity of about 34 , while the near infrared and optical extragalactic background has about 59 . </S>",
+    "<S> the far infrared absolute spectrophotometer ( firas ) on cobe has been used to constrain the long wavelength tail of the far infrared background but a wide range of intensities at 850  are compatible with the firas data . </S>",
+    "<S> thus the fraction of the cirb produced by scuba sources has large uncertainties in both the numerator and the denominator </S>",
+    "<S> .    cosmic background;infrared </S>"
+  ]
+}

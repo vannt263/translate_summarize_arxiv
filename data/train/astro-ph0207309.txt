@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the stellar winds of early - type stars are thought to be driven by radiation pressure on spectral lines .",
+    "predictions of wind properties are usually tested by comparing them to @xmath0  & @xmath1  values derived for a set of about 30 well studied galactic and magellanic cloud o and early - b stars ( puls et al .",
+    "although it has proven challenging enough to match predictions with observations , these stars provide only a limited test .",
+    "to better constrain wind theory one should confront a wider range of predictions with observations .",
+    "meaningful new tests include extending the comparisons of @xmath0  and @xmath1  to : _",
+    "i ) _ extremely luminous of and wn5h-6h stars ; _ ii ) _ stars at ( both sides of ) the bistability jump , an abrupt discontinuity in @xmath1  found to occur at spectral type b1 , and _",
+    "iii ) _ luminous blue variables .",
+    "we have applied our predictions of mass loss to all the above cases with excellent results ( de koter et al .",
+    "1997 ; vink et al .",
+    "1999 , 2000 , 2002 ) .",
+    "as the properties of stellar winds depend also on stellar mass , an alternative test would be to compare masses derived from line - driven wind theory with those of independent methods .",
+    "this is a relevant issue in view of current problems with masses based on mass - loss rates and terminal wind velocities .",
+    "= 7.2 cm    although some wind properties ( of o stars ) are almost mass independent , such as the modified wind momentum @xmath2 , the mass loss itself behaves as @xmath3 ( vink et al .",
+    "so , in principle , the mass may be derived when all relevant stellar properties  including @xmath0  & @xmath1  ",
+    "are known .",
+    "so far , attempts to derive @xmath4 from wind theory yielded systematically lower masses ( up to tens of percent ) than those derived from evolutionairy tracks , but appeared to be in agreement with spectroscopic mass determinations ( e.g. herrero et al .",
+    "2001 ) .    using the latest generation of model atmospheres ( see herrero this proceedings ) the spectroscopic masses , however , now appear to be in much better agreement with @xmath5 . also , direct mass determinations using spectroscopic binaries ( e.g. massey et al .",
+    "2002 ) seem to favor evolutionairy masses .",
+    "this would leave the wind masses as the exception . however , here we present evidence that also our mass - loss predictions favor @xmath5 .",
+    "the figure shows a consistency check between predicted surface escape velocity @xmath6^{1/2}$ ] and @xmath7 implied by the stellar parameters .",
+    "@xmath8 is the eddington factor for electron scattering .",
+    "the prediction involves the observed mass loss and terminal wind velocity , i.e. @xmath9 . the case for the evolutionairy masses is shown using asterisk symbols ; `` old '' spectroscopic masses ( in agreement with previous attempts to derive masses from wind theory ) have triangle symbols .",
+    "the mean ratio for @xmath5 ( dotted line ) is @xmath10 ; for @xmath11 ( dashed line ) it is @xmath12 .",
+    "this shows that within the error our predicted wind properties are in agreement with evolutionairy masses , bringing also the masses from wind theory in accord with those derived from all other mass determination methods .",
+    "de koter a. , heap s.r . , hubeny i. 1997 , 477 , 792 herrero a. , puls j. , corral j. , kudritzki r .- p . , villamariz m.r .",
+    "2001 ,  366 , 623 massey p. , penny l.r . , vukovich j. 2002 ,  565 , 982 puls j. , kudritzki r .-",
+    ", herrero a. 1996 , 305 , 171 vink j.s .",
+    ", de koter a. , lamers h.j.g.l.m . 1999 ,  350 , 181 vink j.s . ,",
+    "de koter a. , lamers h.j.g.l.m . 2000 ,  362 , 295 vink j.s .",
+    ", de koter a. 2002 ,  in press , astroph/0207170"
+  ],
+  "abstract_text": [
+    "<S> we show that the stellar masses implied by our predictions of the wind properties of massive stars are in agreement with masses derived from evolution theory and from direct measurements using spectroscopic binaries , contrary to previous attempts to derive masses from wind theory .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

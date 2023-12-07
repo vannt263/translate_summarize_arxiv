@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "the large and small magellanic clouds ( lmc / smc ) possess rich stellar clusters of masses comparable to milky way globular clusters ( mwgc ) , but with ages @xmath1 yr .",
+    "these two systems therefore permit direct observational studies of globular cluster evolution .",
+    "we have assembled and reduced archival hubble space telescope ( hst ) data for 53 lmc and 10 smc clusters spanning the full age range , and have measured parameters such as the core radius @xmath2 and the total mass and luminosity for each cluster using surface brightness profiles ( mackey & gilmore 2002a ; 2002b ) .",
+    "our results , figure 1(a ) , show a clear trend in @xmath0 with increasing age for both systems , including an apparent bifurcation of the distribution at @xmath3 yr so that old clusters may have either large or small @xmath0 . as discussed in mackey & gilmore ( 2002a , 2002b ) , we conclude that the observed trend with age represents genuine physical evolution of clusters in these two systems .",
+    "the mechanism by which some clusters undergo large scale core expansion while otherwise similar clusters do not is as yet unidentified , and we are exploring possibilities via @xmath4-body simulations .",
+    "another avenue of investigation is to observe whether any other local systems show globular clusters with expanded cores . unlike the lmc / smc clusters , all other local globular clusters are old ( @xmath5 yr ) .",
+    "fornax and sagittarius ( sgr ) are the two most massive dsph galaxies associated with the milky way , and the only two to have globular clusters .",
+    "fornax has five ( c1-c5 ) while sgr has four ( m54 , ter 7 , ter 8 , arp 2 ) plus one clearly previously associated ( pal 12 ) . again using archival hst data ,",
+    "we have measured @xmath0 of @xmath6 pc , @xmath7 pc , @xmath8 pc , @xmath9 pc , and @xmath10 pc for fornax c1-c5 respectively ( mackey & gilmore 2002c ) .",
+    "like the old lmc / smc clusters , these clusters are either compact ( @xmath11 pc ) or expanded ( @xmath12 pc ) . from the catalogue of harris ( 1996 ) the sgr clusters have @xmath0 of @xmath13 pc , @xmath14 pc , @xmath15 pc , @xmath16 pc , and @xmath17 pc for m54 , ter 7 , ter 8 , arp 2 , and pal 12 respectively . we again observe a similar @xmath0 distribution .",
+    "we also examine the mwgc system , using the data of harris .",
+    "the mwgc system may be split by [ fe / h ] and horizontal branch type according to the prescription of zinn ( 1993 ) .",
+    "plotting binned @xmath0 distributions for each subsystem , figure 1(b ) , we see each is distinct , with the `` young '' halo subsystem containing the majority of clusters with large cores",
+    ". we can form a composite `` satellite '' system , containing the old lmc / smc clusters , and the fornax and sgr dsph clusters .",
+    "the @xmath0 distribution for this system appears very similar to that for the `` young '' halo subsystem .",
+    "a simple k - s test shows the unbinned distributions to be similar at @xmath18 significance . the satellite system and",
+    "the thick - disk and `` old '' halo subsystems are different at @xmath19 and @xmath20 significances respectively .",
+    "this result supports zinn s ( 1993 ) hypothesis that the `` young '' halo clusters have been accreted from destroyed satellite galaxies , while the thick - disk and `` old '' halo clusters are mostly intrinsic to the milky way .",
+    "alternatively , if one already accepts this picture , our result shows that clusters with large cores do not survive ( or perhaps form ) in regions with strong tidal fields .",
+    "core expansion may therefore be exclusively a weak - field effect .",
+    "harris , w. e. 1996 , , 112 , 1487 mackey , a. d. , & gilmore , g. f. 2002a , , in press ( astro - ph/0209031 ) mackey , a. d. , & gilmore , g. f. 2002b , , in press ( astro - ph/0209046 ) mackey , a. d. , & gilmore , g. f. 2002c , , submitted zinn , r. 1993 , in asp conf .",
+    "48 , the globular cluster - galaxy connection , ed .",
+    "g. h. smith & j. p. brodie ( san francisco : asp ) , 303"
+  ],
+  "abstract_text": [
+    "<S> observations of rich lmc and smc clusters reveal an increasing spread in core radius ( @xmath0 ) with age . </S>",
+    "<S> this trend likely represents real physical evolution in these systems . </S>",
+    "<S> old clusters appear either large or small . </S>",
+    "<S> similar @xmath0 distributions are observed for the fornax and sagittarius dsph cluster systems and in the `` young '' halo milky way subsystem . </S>",
+    "<S> these observations have implications for the formation of the galaxy and the dynamical evolution of globular clusters .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "in principle it ought to be a straight forward task to plot the theoretical isochrones at all ages ( 2@xmath115  gyr ) for a star with an accurately determined metallicity , and find the best fitting age .",
+    "we have found that isochrones of different groups do not always produce the same results , and on occasion none of the isochrones of any group go through the position of the star in a colour - magnitude diagram .",
+    "this is not found to be such a major problem for globular clusters . to highlight the issues we plot in figure  1 the results for three stars in one of the four dwarf spheroidal galaxies in our sample - fornax , along with the yale - yonsei ( @xmath0=0 ) isochrones of yi _ et al . _",
+    "( 2001 , apjs , 136 , 417 ) at 2  gyr & 15  gyr .",
+    "in one case the isochrones are too red , one too blue , and one has no apparent problem .    even though we reveal some worrying problems , in general we are confident that we can attach ages to the stars we observe which may lack some accuracy in absolute value , but they are appear to be accurate relative to each other .",
+    "we find that stars which are more metal poor are older than the more metal rich stars .",
+    "this combination of metallicity and colour - magnitude diagram analysis is the only way to be able to disentangle the star formation history and the corresponding chemical evolution in nearby galaxies .",
+    "this work highlights the difficulties in using theoretical stellar evolution tracks verified to work for globular clusters to interpret ages of stars in galaxies .",
+    "this is not a particular problem of the yi et al",
+    ". isochrones .",
+    "this might be due to fundamental differences in the formation and/or evolution of stars between a globular cluster environment and that of field stars in a galaxy .",
+    "it is well known that stars in globular cluster stars contain different abundance patterns from all field stars .",
+    "we need a lot more high resolution spectra of stars in nearby galaxies to better quantify the problem , because there is cuurently no straight forward solution ."
+  ],
+  "abstract_text": [
+    "<S> here we report some results from an eso - vlt programme to observe individual stars in nearby dwarf galaxies at high resolution with the uves spectrograph ( tolstoy , venn , shetrone , primas , hill , kaufer & szeifert 2002 , submitted to aj ) . </S>",
+    "<S> we mainly concentrate on illustrating the issues and uncertainties surrounding our efforts to determine the ages of stars for which we have accurately measured [ fe / h ] and [ @xmath0/fe ] .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

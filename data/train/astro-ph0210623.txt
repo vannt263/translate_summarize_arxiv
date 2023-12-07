@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the nature and origins of x - ray and radio emission from supernovae is a subject of much interest .",
+    "this is mainly because early ( few days to years ) emission in these bands occurs from a shocked , dense csm around the progenitor , and this can be used to infer the mass loss rate and the nature of the progenitor .",
+    "further , early synchrotron radio emission can also occur from relativistic electrons in amplified magnetic fields within the ejecta itself and its detection constrains theoretical models on emission and reabsorption mechanisms in shocked matter .",
+    "sn 2002ap is an energetic ( @xmath0 ergs @xcite ) , one of the closest ( in m 74 , distance @xmath1 mpc @xcite ) , type ic sn which exploded on jan . @xmath2 , 2002 @xcite .",
+    "it was also one of the earliest detections in multiple bands , as in sn 1987a and sn 1993j .",
+    "interest in highly energetic ( `` hypernova '' ) type ib / ic sne has been intense after the temporal and positional near - coincidence of grb 980425 with the type ic sn 1998bw implied a possible grb - sne connection for the long duration grbs .",
+    "we report our findings from the combined , near - simultaneous observations of sn 2002ap with xmm - newton , gmrt @xcite and vla @xcite . for a detailed analysis of the x - ray data and early 610 and 1420 mhz observations of sn 2002ap with gmrt ( giant meterwave radio telescope ) , we refer the reader to @xcite .",
+    "sn 2002ap was detected by xmm - newton epic ccds between 5.025 to 5.42 days after explosion @xcite ( see also @xcite , @xcite ) , with an effective exposure time of @xmath3 ks .",
+    "after subtracting the contribution from the nearby `` contaminating '' x - ray source cxu j013623.4 + 154459 in the @xmath4 spectral extraction region on the epic - pn ccd , we estimate the 0.3 - 10 kev flux from sn 2002ap as @xmath5 ergs @xmath6 s@xmath7 . because the source is very faint , both thermal bremsstrahlung model ( @xmath8 @xmath6 , @xmath9 ev ) and a simple powerlaw ( @xmath10 @xmath6 , spectral index @xmath11 ) fit the sparse spectra well , with @xmath12 .",
+    "simultaneous xmm - newton optical monitor ( om ) observations of m74 in the uvw1 band yield a flux of @xmath13 erg @xmath6 s@xmath7 @xmath14 .",
+    "sn 2002ap was observed with the giant meterwave radio telescope ( gmrt ) at 0.61 ghz 8.56 days after explosion , and at 1.42 ghz 42 days after explosion .",
+    "the exposure time for each observation was 4 hours .",
+    "we did not detect the sne in either observation and the upper limits on the flux have been tabulated in table [ tab : gmrt ] .",
+    "the earliest radio detection of sn 2002ap was @xmath15 days after the explosion , in the 8.46 mhz band , and the frequency of the peak radio flux declined gradually from from 8.46 ghz to 1.43 ghz over a period of 10 days from the explosion epoch ( vla observation , @xcite )  a clear indication of the presence of relativistic e@xmath16 .",
+    "this wavelength dependence of the radio turn - on can be due to either free - free absorption ( ffa ) in the thermally excited , homologously expanding matter overlying the interaction region , or synchrotron self - absorption ( ssa ) by the relativistic @xmath17 responsible for radio emission , accelerated in regions close to the expanding interaction region @xcite . in the case of sn 2002ap , the combined gmrt upper limits @xcite and vla observations @xcite are best fit by the ssa model ( fig .",
+    "[ fig : gmrt+vla ] ) in the optically thin , spherically symmetric limit , consistent with the early optical observations .",
+    "the corresponding values of spectral index @xmath18 , magnetic field @xmath19 , and the radius of the radiosphere @xmath20 are tabulated in tab .",
+    "[ tab : bestfit8.96 ] .",
+    "ccccc + date & @xmath21 & resolution & 2@xmath22 & rms + of & & & flux & mjy/ + obs . & ( mhz ) & ( arcsec ) & mjy & beam +   + 5 feb02 & 610 & 9.5 x 6 & @xmath23 & 0.17 + 8 apr02 & 1420 & 8 x 3 & @xmath24 & 0.09 +   +        the early radio and x - ray turn - ons imply that the mass - loss rate of the progenitor was relatively low , at @xmath30 @xmath31 yr@xmath7 ( @xcite , using vla detection by @xcite , and the ssa models for x - ray absorption by @xcite ) .      using the optical observations of sn 2002ap @xcite on the same epoch as the xmm - newton observation",
+    ", we find that the radius of the optical photosphere @xmath32 cm .",
+    "we note that the radiosphere in the sn ( table 2 ) was well outside this optical photosphere at a similar epoch . however , compton optical depth considerations ( @xcite , @xcite ) suggest that x - ray production region is closer to the optical photosphere .",
+    "free - free emission mechanisms are likely to be dominated by compton cooling .",
+    "the high ejecta velocity ( @xmath33 km s@xmath7 on day 3.5 ) , coupled with high implied temperature of the shocked circumstellar medium ( @xmath34 k ) and a limited cool absorbing shell suggests that the high energy photons would have a flat tail , upto @xmath35 kev .",
+    "by contrast , the x - ray spectra is quite soft , with thermal bremsstrahlung @xmath36 kev .",
+    "hence , free - free absorption is unlikely to explain the observed x - ray spectra .",
+    "however , compton cooling is the dominant radiative mechanism when the optical photospheric temperature is @xmath37 . using the monte carlo simulations of compton scattered spectra for the shocked csm @xcite , we find that the observed flux by xmm can be accounted for both in terms of energetics and spectrum if the electron plasma has @xmath38 @xmath39 few times of @xmath40 k ( see @xcite ) .",
+    "table [ tab : progenitor ] gives the properties of comptonised plasma for two likely progenitor systems ( @xcite , @xcite ) for this event .             finally , we compare the rarely observed early radio spectra of sn 2002ap with that of sn 1993j ( type iib ) and sn 1998bw ( type ic , grb - association ) , 11 days after explosion . in fig .",
+    "[ fig : 3sne ] , we fitted the ssa model to the data , and in table [ tab : 3sne ] , we estimate the energy @xmath53 in the radiating plasma and the magnetic field @xmath54 , from equipartition arguments , and determine corresponding the angular radius @xmath55 of the radio - sphere . comparing @xmath55 for the 3 sne",
+    ", the hydrodynamic shock in sn 1998bw , causes more rapid expansion leading to larger radio - sphere , while sn 2002ap is similar to sn 1993j across type classification , irrespective of presence or absence of h- and he - envelope in the progenitor ."
+  ],
+  "abstract_text": [
+    "<S> combined x - ray ( 0.3 -10 kev ) and radio ( 0.61 and 1.42 ghz ) observations of the type ic sn 2002ap are used here , to determine the origins of the prompt x - ray and radio emission from this source . </S>",
+    "<S> our analysis of the xmm - newton observations suggests that the prompt x - ray emission originates from inverse compton scattering of photospheric thermal emission by energetic electrons . </S>",
+    "<S> in addition , we use the reported multifrequency vla observations of this supernova . we compare the early radiospheric properties of sn 2002ap with those of sn 1998bw ( type ic ) and sn 1993j ( type iib ) , to contrast the prompt emission from a grb associated sn and other supernovae without such counterparts . </S>"
+  ]
+}

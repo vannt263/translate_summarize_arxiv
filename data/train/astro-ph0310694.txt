@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "several x - ray point sources with no radio counterpart , generically called ccos , have recently been detected near the center of snrs . in most cases ,",
+    "these sources are claimed to be the neutron stars ( nss ) left behind after the supernova explosions .",
+    "one of them , 1e 1207.4 - 5209 , was found to lie at the center of an  depression ( giacani et al .",
+    "2000 ) , raising the question of whether the hot atmosphere of the ns is capable of heating up the neighboring gas and producing the observed depression .",
+    "we present the results of a search for similar traces in the interstellar gas towards a sample of ccos in southern snrs .",
+    "the environs of the ccos rx j08224300 in puppis a , 1e 1613485055 in rcw 103 , cxou j08521.4461753 in vela jr and 1 wga j1713.43949 in g347.30.5 were observed in the @xmath1 cm  line and in continuum using the australia telescope compact array .",
+    "the data were combined with single dish data from the parkes telescope ( mcclure - griffiths et al .",
+    "rx j08224300 , the cco in puppis a , was found to lie between two opposite lobe - like  minima ( reynoso et al . 2003a ) .",
+    "the lobes are aligned with the proper motion of the cco , assuming that the explosion site of the supernova is given by the optical expansion center measured by winkler et al .",
+    "the lobes are centered at the same systemic velocity previously measured for puppis a , + 16 .",
+    "reynoso et al .",
+    "( 2003a ) propose that this  structure is created by the ejection of two opposite jets from the cco .",
+    "more x - ray observations towards rx j08224300 are needed to search for jets ( like in vela or the crab pulsar ) and measure the cco s proper motion",
+    ".    at + 3 , the  shows another depression coincident with rx j08224300 , but in this case the morphology and size are similar to the minimum found by giacani et al .",
+    "( 2000 ) around the cco associated with g296.5 + 10.0 .",
+    "rcw 103 represents the third case in which the associated cco has created an  depression ( reynoso et al .",
+    "2003b ) . in all three cases ,",
+    "these  features have sizes of 1 to 3 pc , the ccos are off - centered by @xmath2 pc , and the missing masses are estimated to be 0.1 to 0.3 @xmath3 .",
+    "it is very unlikely that these depressions are due to self - absorption , since the involved temperatures should be @xmath4 k , too low for a snr interior .",
+    "most probably , the ccos swept up the surrounding gas ( reynoso et al .",
+    "2003b ) . in all cases ,",
+    "the measured  column densities favor blackbody rather than power law fits to the x - ray spectra .",
+    "for g347.30.5 , a preliminary analysis of our data did not allow us to find any feature suggestive of being associated with the cco down to a limit of @xmath5 k ( 3@xmath6 ) . at a velocity compatible with the distance proposed to this snr , there appears a tiny depression , marginally enclosing the cco , but it does not look different than many other spots in the image .    finally , the radio continuum data towards the snr vela jr reveal an elongated nebula , approximately @xmath7 in length and @xmath8 in width , centered at the position of the cco .",
+    "in addition , a compact source is found at the location of the cco .",
+    "the flux of this compact source is 7.2 , and its size , @xmath9 .",
+    "polarization and spectral index studies will provide information to confirm if this emission arises from the pulsar wind nebula created by cxou j085201.4461753 .",
+    "such observations are proposed early in 2004 .",
+    "giacani , e. b. , dubner , g. m. , green , a. j. , goss , w. m. , gaensler , b. m. , 2000 , , 119 , 281 mcclure  griffiths , n. m. , green , a. j. , dickey , j. , m. , gaensler , b. m. , haynes , r. f. , wieringa , m. h. , 2001 , , 551 , 394 reynoso , e. m. , green , a. j. , johnston , s. , dubner , g. m. , giacani , e. b. , goss , w. m. , 2003a , , 345 , 671 reynoso , e. m. , green , a. j. , johnston , s. , goss , w. m. , dubner , g. m. , giacani , e. b. , 2003b , pasa , in press ( astro - ph/0310100 ) winkler , p. f. , turtle , j. h. , kirshner , r. p. , 1988",
+    ", in supernova remnants and the interstellar medium , cambridge university press , p65"
+  ],
+  "abstract_text": [
+    "<S> we have carried out an  survey towards x - ray central compact objects ( ccos ) inside supernova remnants ( snrs ) which shows that many of them are placed within local  minima . </S>",
+    "<S> the nature of these minima is not clear , but the most likely explanation is that the ccos have evacuated the neighboring gas . </S>",
+    "<S> this survey also allowed us to detect a weak , diffuse radio nebula inside the snr vela jr , probably created by the winds of its associated cco .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    2@xmath0    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

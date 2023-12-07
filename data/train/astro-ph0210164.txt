@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "although it is widely accepted that galaxy - galaxy interactions stimulate secular evolutionary effects ( e.g. enhanced star formation - sf ) , morphological peculiarities including transitions to earlier type , enhanced or diminished gas content ) the amplitude of the effects , and processes for accomplishing them , are not well quantified ( sulentic 1976 , 1989 ; xu & sulentic 1991,verdes - montenegro et al .",
+    "for example there is no clear consensus on whether sf enhancement depends on details of an encounter or the preexisting gas reservoirs available in the galaxies .",
+    "it is also difficult to ascribe morphological peculiarities ( or the presence of an agn ) to interaction because they are also seen in rather isolated systems .",
+    "most of these uncertainties reflect the lack of a statistically useful baseline .",
+    "the goal of this proposal is to create a multiwavelength database that can serve as a zero point relative to which nurture effects can be evaluated .",
+    "we are assembling a multiwavelength database for a large ( n@xmath1760 ) sample of the most isolated galaxies in the northern sky . we are using the largest reasonably unbiased sample of isolated galaxies , the catalog of isolated galaxies ( cig : karachentseva 1973 ;",
+    "see also sulentic 1989 ) which originally contains n=1052 galaxies , later reduced to n=893 ( karachentseva 1980 ) .",
+    "we were able to derive optical and fir luminosities for n=760 galaxies that constitute our full working sample .",
+    "a cig based sample has a number of interesting characteristics and advantages including : + 1 ) isolation - selected on the basis of distance from nearest neighbors ( at least 20@xmath2 their diameter ) .",
+    "we are in the process of refining the isolation parameter using the digitized poss2 atlas .",
+    "local objects will also be excluded due to uncertain isolation determination .",
+    "2 ) morphology - the cig is morphologically diverse to permit statistical studies correlated with hubble type . our poss2 isolation reevaluation is also providing more accurate galaxy types .",
+    "3 ) depth - the cig samples a deep enough volume of space to allow us to measure a large part of the radio , ir and optical luminosity functions .",
+    "4 ) completeness - the cig is reasonably complete with @xmath3v / v@xmath4@xmath5=0.42 down to b=15.7 .",
+    "our database will emphasize the properties of the nonstellar material in the galaxies because this component is most sensitive to the effects of external stimuli .",
+    "our database will include observations of neutral ( hi ) , molecular ( co ) and ionized ( h@xmath6 ) gas , and radiocontinuum emission as an extinction - free tracer of current sf rate and nuclear activity .",
+    "this multiwavelength survey of the refined cig sample will allow us to define the mean statistical properties of the ism ( cold / warm / hot gas and dust ) in these galaxies .",
+    "it will allow us to study the interplay between the sf , ism and the environment , the link between central activity ( agn ) and the environment , and the morphology distribution of isolated galaxies .",
+    "sulentic , j. w. 1976 , apjs 32 , 171 sulentic j.w .",
+    "1989 , aj 98 , 2066 xu , c. & sulentic , j. w. 1991 , apj 374 , 407 karachentseva , i. 1973 , comm . spec .",
+    "ussr , 8 , 1 karachentseva , i. 1980 , sov .",
+    "24 , 665 verdes - montenegro , l. , yun , m. s. , perea , j. , del olmo , a. , & ho , p. t. p. 1998",
+    ", apj , 497 , 89"
+  ],
+  "abstract_text": [
+    "<S> a key problem in astronomy involves the role of the environment in the formation and evolution of galaxies . in order to answer this question </S>",
+    "<S> it is necessary to characterize a reference sample with minimum influence from the environment , so that its evolution is completeley determined by nature . </S>",
+    "<S> the aim of this project is to provide such reference , quantifying the ism properties of a well defined and statistically significant sample of 760 isolated galaxies . </S>",
+    "<S> based on optical , h@xmath0 and infrared luminosities , radiocontinuum emission , molecular and atomic gas content , compiled from the bibliography or observed by ourselves , together with poss - ii digitized images , we will perform a statistical study of the interstellar medium ( ism ) properties as a function of isolation , and its relation to star formation , morphology and luminosities , as well as nuclear activity frequency </S>",
+    "<S> . this sample will be different from previous studies by three essential characteristics : a ) strict definition of isolation , b ) statistical significance , and c ) complete multiwavelength information concerning the ism . </S>",
+    "<S> it will serve to evaluate the properties of interacting galaxies , which will be of special interest to analyse the large amount of data that will be generated during the next decade for high z galaxies , with the new instruments to come . </S>",
+    "<S> once the analysis will be finished , the data will become public by means of a database with free internet acces via a simple and efficient web interface .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

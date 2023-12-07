@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "while the rich cluster systems in merger galaxies and starbursts have been studied intensively over the past decade , it is sometimes overlooked that even some `` normal '' , undisturbed spiral galaxies can form highly luminous , young star clusters ( larsen & richtler 1999 ; paper i ) . within a distance of 10 mpc",
+    ", there are several examples of spirals with rich cluster systems which have been imaged with hst / wfpc2 , allowing the properties and environment of individual star clusters to be studied in great detail . by combining the hst images with ground - based photometry , it is possible to look for trends in structural parameters with cluster age and mass , providing potentially valuable clues to the physics of cluster formation and subsequent dynamical evolution .",
+    "we have recently scanned the hst archive for images of galaxies included in the original survey from paper i. a total of 17 galaxies were found to have adequate hst data ( larsen 2004 ) .",
+    "the constraint that the clusters have to be visible on ground - based images is not as severe as it might appear at first , since a high s / n in the hst images is anyway required to measure accurate structural parameters . by fitting `` moffat '' models of the form @xmath0^{-\\alpha}$ ] , it is possible to constrain both the core radius @xmath1 and the shape of the luminosity profile at large radii , parameterised by the slope @xmath2 .",
+    "while these profiles have no physical motivation , they have been shown to fit lmc clusters well ( elson et al .",
+    "1987 ) . for @xmath3 , they are identical to a king ( 1962 ) model with infinite concentration parameter .    the left panel in fig .",
+    "1 shows the distribution of envelope slopes for clusters in four age bins . there is a clear tendency for many of the youngest clusters to have extended outer envelopes",
+    "this may reflect the density structure of the parent molecular cloud cores , or be a hint that some of these clusters are unbound and expanding .",
+    "older clusters gradually evolve towards a king - like profile . in the right - hand panel ,",
+    "the fwhm and half - light radii are shown versus cluster mass . in each panel ,",
+    "the constant - density relation ( size @xmath4 ) is shown with a dashed line , while the solid lines indicate a fit to the data .",
+    "for the half - light radii , only clusters with @xmath5 were included in the fit ( clusters with @xmath6 have poorly defined half - light radii and are shown with diamond symbols ) .",
+    "although both relations show substantial scatter , the fits are significantly shallower than for the constant - density relation .",
+    "this conclusion is robust to selection effects , which would be expected to produce a bias against extended , low - mass objects ."
+  ],
+  "abstract_text": [
+    "<S> the hst data archive contains images of several nearby spirals , suitable for detailed studies of the properties of individual star clusters and their surroundings . by combining structural information derived from hst images with ground - based photometry , </S>",
+    "<S> it is possible to study cluster properties as a function of age and mass . </S>",
+    "<S> while both the core- and effective radii of young clusters correlate with mass , the slopes of these relations are shallower than for a constant - density relation , implying that the mean density increases with cluster mass . </S>",
+    "<S> this must be accounted for in theories for cluster formation .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "article_text": [
+    "several authors have suggested that very high pressure of ism expected in major galaxy merging can be responsible for the rapid ( triggered ) collapse of gmcs and the subsequent gc formation ( e.g. , elmegreen & efremov 1997 ; bekki et al .",
+    "we numerically investigate the key questions on this gc formation scenario : whether or not the star formation efficiency within a gmc under such high pressure of ism can be as high as that ( @xmath0 50 % , e.g. , hills 1980 ) required for the bound cluster formation . figure 1 describes that the high pressure of the ism can continue to strongly compress the cloud without losing a significant amount of gas from the cloud . as the strong compression proceeds",
+    ", the internal density / pressure of the cloud can rise so significantly that a gc can form from the gas with a starburst ( see the caption of fig.1 for the detail of this ) ."
+  ],
+  "abstract_text": [
+    "<S> our numerical simulations first demonstrate that the pressure of ism in a major merger becomes so high ( @xmath0 @xmath1 @xmath2 k @xmath3 ) that gmcs in the merger can collapse to form globular clusters ( gcs ) within a few myr . </S>",
+    "<S> the star formation efficiency within a gmc in galaxy mergers can rise up from a few percent to @xmath4 80 percent , depending on the shapes and the temperature of the gmc . </S>",
+    "<S> this implosive gc formation due to external high pressure of warm / hot ism can be more efficient in the tidal tails or the central regions of mergers . </S>",
+    "<S> the developed clusters have king - like profile with the effective radius of a few pc . </S>",
+    "<S> the structural , kinematical , and chemical properties of these gc systems can depend on orbital and chemical properties of major mergers .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "in several spiral galaxies h  i has been detected in the halo . in ngc",
+    "6946 kamphuis & sancisi ( 1993 ) discovered widespread gas with velocities deviating strongly from galactic rotation .",
+    "studies of the edge - on spiral galaxy ngc 891 ( swaters et al . , 1997 ) and the inclined spiral galaxy ngc 2403 ( fraternali et al . 2001 ,",
+    "schaap et al . 2000 ) revealed a thick layer of h  i rotating more slowly than the thin disk .",
+    "this has led to the picture of spiral galaxies with a halo population of high velocity h  i. a few explanations have been proposed for this phenomenon , one of which is the galactic fountain mechanism with massive star formation and supernovae blowing the h  i into the halo .",
+    "+ to investigate further the 3d picture of the anomalous h  i , we have observed with very high sensitivity with the westerbork synthesis radio telescope . is a large nearby spiral galaxy seen almost face - on and is known for its high star - formation rate .",
+    "the h  i disk of shows a large number of holes ( see fig . 1 , top left panel ) and gas with velocities deviating 50 to 100 km / s from normal galactic rotation .",
+    "the high velocity h  i is widespread and mostly located in the inner ( bright optical ) part of the disk ( see optical image in fig .",
+    "1 ) , suggesting a close relation with the ongoing star formation and supernovae . the gas is probably brought into the halo by galactic fountains .",
+    "+    in many cases in the inner disk there is a clear association between the high velocity gas and the holes ( fig .",
+    "1 , bottom right panel ) where also many h  ii regions are located .",
+    "however , high velocity h  i and holes are also found in the outer h  i layer of beyond the optical disk ( see fig .",
+    "1 , bottom left panel ) , where very little or no star formation is present .",
+    "star formation is unlikely to be the cause , so another mechanism is required .",
+    "perhaps this is the result of infalling clouds onto the galaxy disk .",
+    "fraternali , f. , oosterloo , t.a . ,",
+    "sancisi , r. , van moorsel , g. 2001 , , 562 , l47 kamphuis , j. , sancisi , r. 1993 , a&a , 273 , l31 schaap , w.e . ,",
+    "sancisi , r. , swaters , r.a .",
+    "2000 , a&a , 356 , l49 swaters , r.a . , sancisi , r. , van der hulst , j.m .",
+    "1997 , , 491 , 140"
+  ],
+  "abstract_text": [
+    "<S> we are studying the properties of the holes and the high velocity gas in ngc 6946 . here </S>",
+    "<S> we present some puzzling results .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

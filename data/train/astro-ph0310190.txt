@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "during the last few years many observational programs have been devoted to recognize new planetary and proto - planetary nebulae .",
+    "such studies were aimed to understand the process of formation of pns by discovering new transition objects in the very short phase between the end of the agb and the onset of the ionization .    a small sub - group of b - type stars , called bq [ ] stars , defined as @xmath0 with forbidden emission lines , were recognized as potential candidates to be new transition objects ( parthasarathy & pottasch , 1989 ) on the basis of their ir excess .",
+    "bq [ ] stars , however , are not a well defined group , and there is still a controversy on their evolutionary stage .",
+    "in order to find new very young planetary nebulae we have selected a sample of 16 hot post - agb stars ( bq [ ] ) from the most recent compilations , namely parthasarathy , ( 1993 ) ; conlon et al . , ( 1993 ) and parthasarathy et al .",
+    ", ( 2000 ) .",
+    "all the selected candidates have high galactic latitude , infrared excess , spectral type b1 i - ii and the presence of nebular emission lines in their spectrum .",
+    "in particular the last two requirements maximize the possibility to detect a radio nebula .",
+    "the detection of radio nebulae associated to the selected targets would definitively assess the evolutionary status of this kind of objects , producing a unique sample of very young pns .",
+    "+ the observations were carried out by using the vla in two different runs , on june 8 and 10 , 2001 , at 8.4 ghz in cnb configuration .",
+    "+ we detected a total of 10 sources over 16 been observed .",
+    "our results are summarized in table  1 , where the radio flux density , with associated error ( @xmath1 ) and the rms of the map , are reported .",
+    "the error associated to the flux density estimation ( @xmath2 ) is a combination of the rms in the map plus the amplitude calibration @xmath3 , @xmath4 .",
+    "our results have been compared to those obtained by aaquist and kwok ( 1991 , al91 ) , who observed with the vla at 15  ghz a sample of ypns .",
+    "+ for the ak91 sample @xmath5 and @xmath6 are systematically higher than those of our sample ; this could imply that our sample consist of more evolved pns . on the contrary , ires for our sample are systematically higher than those reported by ak91 , implying that our sample is formed by pns particularly young .",
+    "+ this apparent contradiction is further complicated by the fact the infrared properties of both samples are quite similar : sources belonging to differenr samples occupy the same region in the iras color - color diagram and dust temperatures of both samples have quite similar distributions , implying analogous dust characteristics .",
+    "a possible cause of lower @xmath5 and @xmath6 of our sample can be a systematic effect due to the different spatial resolution used in the two surveys , as both @xmath5 and @xmath6 are function of the source angular size ( @xmath7 ) .",
+    "however , only 4 out of 10 detected sources were not resolved .",
+    "the apparent contradiction can be explained if we assume that sources of both samples are in the ionization bounded phase of radio nebula evolution , but our sample is less evolved and is characterized , on the average , by a lower radio luminosity when compared to the ak91 sample .",
+    "consistently , ionized masses for our sample are in the range @xmath8 , much lower than typical values for evolved nebulae ( pottasch , 1984 ) .",
+    "the detection of free - free radio emission in 10 of the observed sources indicates that ionization is already started in their circumstellar shells .",
+    "the detected sources are in the very early stage of pns evolution and constitute a unique sample to be studied to shed light on this quite poorly understood phase of stellar evolution ."
+  ],
+  "abstract_text": [
+    "<S> despite of numerous efforts , the stage from asymptotic giant branch ( agb ) to planetary nebulae ( pn ) is a poorly understood phase of stellar evolution . </S>",
+    "<S> we have therefore carried out interferometric ( vla ) observations of a sample of hot post - agb stars , selected on the basis of their optical and infrared properties . </S>",
+    "<S> ten sources , out of the 16 been observed , were detected . </S>",
+    "<S> this indicates that most of our targets are surrounded by a nebula where the ionization has already started . </S>",
+    "<S> this definitively determines the evolutionary status of the selected sources and provides us with a unique sample of very young planetary nebulae ( ypns ) . </S>"
+  ]
+}

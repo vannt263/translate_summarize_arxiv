@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "tidal evolution leading to capture into resonance has been invoked to explain the many commensurabilites in our solar system ( e.g. goldreich 1965 ) , but the problem of breaking resonance due to tidal effects is less well - studied .",
+    "the presence of even a small amount of dissipation can alter the dynamical evolution of the system . in this case",
+    ", the dissipation causes the resonance to accelerate the circularization of the inner planet compared to what would happen in isolation .    the resonant interaction between the planets in the 55 cancri system",
+    "imply that fully self - consistent fits are necessary to obtain the orbital elements of the system .",
+    "the 3:1 resonance covers a narrow range of semi - major axes , so determining the location of the system within the resonance will require accurate fits , which requires additional data .",
+    "direct integrations of the orbital elements given by one fully self - consistent fit ( laughlin 2002 ) indicate that the resonant angles are circulating and the system in _ not _ in resonance .    to study the long term dynamics of the system , we use the classical disturbing function together with lagrange s planetary equations to lowest order in eccentricity ( e.g. murray & dermott 1999 ) .",
+    "we numerically integrate these equations using a variable time step bulirsch - stoer integrator .",
+    "we consider tidal evolution in the regime where energy is dissipated and angular momentum is conserved .",
+    "the eccentricity damping rate is given by @xmath1 and @xmath2 where @xmath3 is the gravitational constant , @xmath4 is the mass of the star , @xmath5 is the mass of the inner planet , @xmath6 parameterized tidal energy dissipation , @xmath7 is the planet s semi - major axis , @xmath8 is the planet s mean motion , and @xmath9 is the maximum amount of energy stored in the tidal deformation of the planet .",
+    "the planet s eccentricity e - folding time in isolation is given by @xmath10 .",
+    "in order to develop an understanding of the problem , we study a simplified case : the circular restricted three body problem where the inner planet is massless and the outer planet is @xmath11 .",
+    "the resonant libration timescale is @xmath12 orbits of the outer planet , the secular evolution time is @xmath13 orbits .",
+    "we assume that tidal dissipation occurs only in the inner planet .",
+    "the tidal evolution timescale is typically _ much _ longer than the dynamical and secular timescales , so we choose a small value for q. this does not change the character of the dynamics as long as the tidal timescale remains long compared to other timescales .    as tides remove energy the outer planet supplies the inner planet with enough energy to maintain the commensurability , but an adiabatic invariant demands that the resonant angle s libration amplitude increase as the eccentricity decreases , eventually breaking the resonance .",
+    "the energy flow is arranged by forcing the resonant angle librate to about a mean value slightly displaced from its equilibrium value of @xmath14 .",
+    "the flow of angular momentum between the planets is determined by the same resonant angle and this results in _ faster _ circularization of the inner planet s orbit compared to the situation where the inner planet is isolated . in the case of the 3:1 resonance , the inner planet circularizes five times faster in the presence of an outer companion .",
+    "the resonant angle s libration amplitude can be written as    @xmath15    where the subscripts @xmath16 refer to the inner and outer planets , @xmath5 is the mass of a planet , @xmath4 is the mass of the star , @xmath17 is the order of the resonance , @xmath18 is the resonant angle , @xmath19 is a constant determined by the resonance under consideration , and @xmath20 , @xmath21 refer to the full width of the libration .",
+    "as energy is removed , the only one of these factors to change is the inner planets eccentricity which determines that the resonant angle will begin to circulate when : @xmath22 where the subscript @xmath23 refers to the values when tidal dissipation became important .",
+    "once the resonance is broken the inner planet evolves to a circular orbit only under the influence of tides , where the final semi - major axis is @xmath24 and @xmath25 is that corresponding to the exact commensurability .",
+    "the final period ratio of the two planets gives a constraint on how deep the two planets were in resonance when tidal effects became important .",
+    "knowing the eccentricity decay timescale as augmented by the dynamics of the resonance allows us to write the time required to break the resonance after tidal effects become important as : @xmath26",
+    "we used the classical disturbing function together with lagrange s planetary equations accurate to lowest order in eccentricity to study resonance breaking through tidal dissipation .",
+    "it is possible to derive analytic expressions for the inner planet s eccentricity when the resonance is broken and the time required to break the resonance ( equations [ ebreakeqn ] , [ tbreakeqn ] ) .",
+    "these expressions are in good agreement with the secular theory ( figure [ tbreak ] )    this is applicable to the 55 cancri system because the inner planet is near the regime where tidal effects are starting to play a role and current fits to the radial velocity curve give orbital elements where the planets are _ not _ in the resonance .",
+    "we argue that the two planets became trapped in resonance while farther from the star and then broke the resonance when tidal dissipation began to play a role in the inner planet s evolution .",
+    "goldreich , p. 1965",
+    ", , 130 , 159 laughlin , g. 2002 , personal communication marcy , g. w. , butler , r. p. , fischer , d. a. , laughlin , g. , vogt , s. s. , henry , g. w. , & pourbaix , d. 2002 , submitted to murray , c. & dermott , s. 1999 , solar system dynamics , cambridge university press"
+  ],
+  "abstract_text": [
+    "<S> recent studies of the 55 cancri system suggest the existence of three planets with periods of @xmath015 days , @xmath045 days , and @xmath05500 days ( marcy et al . 2002 ) . </S>",
+    "<S> the inner two planets are near the 3:1 mean motion commensurability and it is likely that these two planets became trapped in the resonance while farther from the star and migrated together . as the innermost planet begins to dissipate energy through tides the planets break out of the resonance . </S>",
+    "<S> the final state of the system gives important information about its past history , such as the migration timescale that led to capture .    </S>",
+    "<S> 1.25 in .125 in .25 in </S>"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "polar ring galaxies are peculiar systems that show two nearly orthogonal components .",
+    "two formation scenarios for polar rings have been proposed : galaxy mergers ( bekki , 1998 ) and tidal accretion ( reshetnikov & sotnikova , 1997 ) .",
+    "they are studied through numerical simulations including gas dynamics , star formation and stellar mass - loss , and compared to observations .",
+    "numerical studies of formation scenarios ( fig .  [ fig1 ] ) show that both scenarios can reproduce the observations with a certain range of parameters .",
+    "polar rings are also stable in both scenarios .",
+    "however , constraints on physical parameters are stronger for the merging scenario , which reduces its probability , while the formation of polar ring by gas accretion is much more probable ( bournaud & combes 2002 ) .",
+    "numerical simulations show that according to the merging scenario , the polar ring galaxy is embedded in a faint stellar halo , which is not the case in the accretion scenario .",
+    "we show from observations that such a stellar halo is not detected .",
+    "a luminosity model is build with two components ( the host galaxy and the ring ) and no third component ( the stellar halo ) is required to account for observations .",
+    "this implies that in the merging scenario , one of the galaxy invoked in the merger should have contained more then 60% of gas for a total mass of @xmath0 m@xmath1 , which is a strong additional constraint ( only satisfied for gas - rich lsb ) .    in the polar ring galaxy ngc  660",
+    ", the ring is inclined of 45 degrees with respect to the polar axis , and the host galaxy is gas - rich .",
+    "both properties can not be explained only by the accretion scenario .",
+    "observations of polar ring galaxies are compared to the tully - fisher relation for spiral galaxies ( iodice et al .",
+    "2002 ) . for a given luminosity ,",
+    "polar ring galaxies show abnormally large velocities .",
+    "the luminosity , in optical bands , is related to the bright host galaxy , while velocities , measured in hi , are related to the gas - rich polar ring .",
+    "the velocities in the polar ring are then larger than expected from the mass of the host galaxy",
+    ". numerical models , that include the polar ring self - gravity and the dark halo shape , are used to interprete these observations .",
+    "the eccentricity of polar rings ( fig .",
+    "[ fig1 ] ) is a fundamental parameter when one studies their kinematics in order to derive the shape of their dark halo .",
+    "we show that the observations of large velocities in polar rings are accounted for only when the dark halo is flattened along the polar ring . according to simulations , such halo shapes",
+    "would be explained by the accretion scenario , provided that some dark matter is cold molecular gas , accreted in the same time as the polar ring .",
+    "bekki , k. , 1998 , apj , 499 , 635 bournaud f. , combes f. , 2002 , a&a , in prep .",
+    "reshetnikov , v. , sotnikova , n. , 1997 , a&a , 325 , 933 iodice , e. , arnaboldi , m. , bournaud , f. , combes f. , et al . , 2002 , apj , in prep ."
+  ],
+  "abstract_text": [
+    "<S> formation scenarios for polar ring galaxies are studied through n - body simulations that are compared with existing observations . </S>",
+    "<S> it is shown that polar rings are likely to be formed by tidal accretion of the polar material from a gas rich donor galaxy . </S>",
+    "<S> the distribution of dark matter in polar ring galaxies is studied : dark halos seem to be flattened towards the polar rings . </S>"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "globular clusters ( gcs ) are excellent probes of the dynamics , dark matter content , star - formation histories , and chemical enrichment of early - type galaxies .",
+    "we have embarked upon a major programme using the gemini multi - object spectrograph ( gmos ) on the 8 m gemini telescopes to obtain photometry and spectroscopy of gcs in @xmath1 12 early - type galaxies , covering a range of galaxy type , luminosity , and environment . in this paper",
+    "we present some of the first results from this programme .",
+    "we have been using gmos on gemini north ( since 2002a ) and south ( since 2003b ) to obtain spectroscopy for 30@xmath0100 gcs in each of ngcs 3379 , 4649 , 524 , 7332 , and ic 1459 .",
+    "gmos pre - imaging in the g , r , and i filters for 2@xmath03 fields per galaxy ( 400@xmath0800 sec in each filter ) is used to select gc candidates for follow - up spectroscopy and for photometric analysis of the gc systems .",
+    "the gmos images have been reduced using iraf / daophot , with photometric calibration from hst photometry kindly supplied by soeren larsen .",
+    "final gc candidate lists are determined after rejection of resolved objects , and objects with colours outside the range of galactic gcs .",
+    "gmos multi - slit spectroscopy has been obtained for one or more fields in each galaxy , with 25@xmath050 slits per field / mask ( depending on the richness of the gc system ) , and exposure times of 8@xmath010 hours per mask .",
+    "spectroscopic data reduction is done using the iraf / gmos package .",
+    "ngc 4649 is a luminous ( m@xmath2=@xmath022.4 ) virgo elliptical .",
+    "we present preliminary photometric results for @xmath1 2000 unresolved objects with i @xmath3 25 and 0.5 @xmath3 ( g-i ) @xmath3 1.5 ( see forbes et al . ( 2004 ) for a fuller account , and bridges et al . ( 2004 ) for ngc 4649 gc spectroscopy ) .",
+    "the ngc 4649 gc colour distribution is clearly bimodal , with peaks at ( g-i ) = @xmath1 0.9 and 1.15 .",
+    "the fraction of blue / red clusters increases with radius , as found in other early - type galaxies .",
+    "ngc 3379 is a less luminous elliptical in the nearby leo group .",
+    "we have spectra for 22 ngc 3379 gcs in a 10 hour gmos exposure with 5   resolution and coverage from @xmath1 4000@xmath07000   .",
+    "* figure 1 * shows the ages and metallicities of 18 gcs , based on the comparison of line - strengths with stellar population synthesis models .",
+    "most of the gcs are old , with ages @xmath4 10 gyr , but there is a group of @xmath1 4 metal - rich , younger gcs with ages of 2@xmath06 gyr .",
+    "* figure 2 * shows that both the gc velocity dispersion ( top panel ) and the local m / l ( bottom panel ) decrease outwards . a preliminary analysis ( see beasley et al .",
+    "2004 ) shows that _ there is no evidence for a dark - matter halo in ngc 3379 _ , a very interesting result also seen in the pne kinematics ( romanowsky et al .",
+    "2003 , science , 301 , 1696 ) .    * figure 1 ( left ) : * ages / metallicities for ngc 3379 gcs ( filled circles ) and mw gcs ( open circles ) , from our gmos spectra .",
+    "* figure 2 ( right ) : * _ top : _ velocity dispersion of ngc 3379 stars ( small errors ) and gcs ( larger errors ) ; the solid line is a constant m / l fit .",
+    "_ bottom : _ the local m / l for ngc 3379 ."
+  ],
+  "abstract_text": [
+    "<S> we present recent results from our long - term gemini / gmos study of globular clusters ( gcs ) in early - type galaxies . to date , we have obtained photometry and spectroscopy for gcs in ngcs 3379 , 4649 , 524 , 7332 , and ic 1459 . </S>",
+    "<S> we find a clear bimodality in the ngc 4649 gc colour distribution , with the fraction of blue / red clusters increasing with galactocentric radius . </S>",
+    "<S> we derive ages and metallicities for 22 gcs in ngc 3379 , finding that most of the clusters appear old ( 10@xmath015 gyr ) ; however , there is a group of 4 metal - rich , younger clusters with ages of 2@xmath06 gyr . </S>",
+    "<S> the ngc 3379 gc velocity dispersion decreases with radius , as does the inferred ( local ) mass - to - light ratio : there is _ no _ evidence for a dark matter halo in ngc 3379 based on our gc data .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

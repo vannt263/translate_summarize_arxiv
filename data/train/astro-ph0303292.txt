@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "our blue straggler star ( bss ) catalog includes almost 3000 objects extracted from 62 galactic globular cluster ( gc ) cmds which are part of the photometrically homogeneous hst snapshot database ( piotto et al .",
+    "2002 ) .    in each cluster ,",
+    "the number of bss has been normalized to the total population of stars .",
+    "we defined three different specific frequencies ( @xmath0 ) as the ratios of the bss counts to the number of hb , rgb , and hb plus rgb stars , respectively .",
+    "the results described below turned out to be independent from the adopted @xmath0 .",
+    "figure 1 ( _ upper panel _ ) shows that there is a significant anticorrelation between @xmath0 and the absolute total magnitude @xmath1 of the cluster . in particular , the faintest clusters in our sample ( ngc  6717 and ngc  6838 )",
+    "present a bss specific frequency that is more than a factor of 20 larger than that in the brightest clusters .",
+    "interestingly enough , pcc clusters ( _ open circles _ ) , with the exception of ngc 5946 that shows an anomalously low value of @xmath0 , share the same distribution as the normal clusters .",
+    "a less significant dependence is found with the central cluster density .",
+    "there is no clear correlation with the concentration parameter .    king ( 2002 ) demonstrated that the rate of stellar collisions in a king model gc is @xmath2 , where @xmath3 is the central surface brightness in units of @xmath4pc@xmath5 ( equivalent to @xmath6 ) , and @xmath7 is the core radius in pc . as shown in fig . 1 ( _ lower panel _ )",
+    ", @xmath8 anticorrelates with this quantity .",
+    "the clusters with the highest collision rates have the smallest relative number of bss . the dispersion of the points in the _ lower panel _ is larger than in the _",
+    "upper panel_. we note a saturation in the correlation for the clusters with collision rates smaller than @xmath9 .",
+    "the two clusters with the smallest total absolute magnitude do not seem to partecipate to this general trend .",
+    "the dependence of the bss relative frequency with the cluster total mass and with the expected collision rate is noteworthy .",
+    "clearly , the environment strongly affects the number of bss that a gc can form at the present time .",
+    "stellar encounters can favour binary destruction : separation of the soft binaries , merger of hard binaries .",
+    "the latter might have given origin to a large number of bss in the past , but now high central density clusters have much less primordial binaries to form bss than low density objects . a decrease in",
+    "the number of binaries means lower probability for a bss to form . of course , high density can also favour encounters , and therefore bss formation via collision . the anticorrelation between the binary frequency and the collision rate of fig .",
+    "1 suggests that direct collision of stars is not the the dominant mechanism that triggers the formation of bss , while the number of surviving ( primordial ? ) binaries might be the relevant parameter ."
+  ],
+  "abstract_text": [
+    "<S> in this paper we report on the most significant results from a statistical analysis of the main properties of globular cluster blue straggler stars ( bss ) extracted from the hst snapshot database of photometrically homogeneous cmds ( piotto et al . </S>",
+    "<S> 2002 ) . </S>",
+    "<S> the bss relative frequency presents a significant anticorrelation with the collisional rate and with the cluster total absolute luminosity .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ = # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "among the various components of a quasar emission , the optical / uv component , called big blue bump ( bbb ) , is energetically the most dominant .",
+    "the bbb is often assumed to be from optically - thick thermal emission from an accretion flow , such as an accretion disk . however , this fundamental issue ( i.e. the emission mechanism of the bbb ) is actually very far from being solved , since observations are hardly said to be well described by disk models . among several serious problems",
+    "are the continuum slope and apparent lack of continuum edges . in order to explain the observed optical / uv slope ( e.g. @xmath0 , francis et al .",
+    "1991 ) , the disk has to be rather cool .",
+    "however , naively , in a cool disk , its atmosphere would show large continuum edges ( but see below ) .",
+    "apparently , we do not see such features .",
+    "in the sophisticated disk atmosphere models ( e.g. hubeny et al . 2000 ) , when the spectrum is integrated over radii and smeared through the relativistic doppler shifts and gravitational redshifts , the flux discontinuity at the lyman limit is rather well smeared . however , the _ balmer _ edge , which arises further out in radius where relativistic smearing is not too severe , _ can still be substantial_. the only problem is that it is very hard to be observed due to the balmer and feii emission lines and nebular continuum from the broad line region ( blr ) and outer regions ( called 3000  bump ) .",
+    "however , we can remove all these unwanted emissions by taking a polarized flux spectrum .",
+    "many quasars are found to be polarized at @xmath1% , and in many cases , emission lines ( broad and narrow ) are unpolarized - the polarization is confined only in the continuum ( antonucci 1988 , schmidt & smith 2000 ) .",
+    "this indicates that the polarization mechanism resides interior to the blr in these cases .",
+    "then the polarized flux should show the intrinsic shape of the bbb ( except for a synchrotron possibility which is ruled out by the result below at least for that object ) , revealing the underlying behavior of the bbb .",
+    "figure  1 shows our recent keck spectropolarimetry data of a quasar .",
+    "thick line is the polarized flux spectrum , while the dotted line is the total flux spectrum scaled to roughly match the polarized flux at the red side .",
+    "emission lines are essentially all absent in the polarized flux ( see fig.2 which shows that the polarization clearly decreases at the line wavelengths ) . the slope of the polarized flux at the red side is roughly the same as that of the total flux .",
+    "however , we find that the slope changes at the bluer side of @xmath24000  in the rest frame , just where the 3000  bump starts in the total flux ( there might also be a possible up - turn at the bluer side of @xmath23600 ) .",
+    "this is an expected balmer - edge absorption feature , and directly indicates that the big blue bump is indeed thermal and optically thick , without involving any particular model of the nucleus ."
+  ],
+  "abstract_text": [
+    "<S> we have found for the first time a balmer edge feature in the big blue bump emission of a quasar . </S>",
+    "<S> the feature is seen in the polarized flux spectrum of the quasar , where all the emissions from outside the nucleus are scraped off and removed . </S>",
+    "<S> the existence of the balmer - edge absorption feature directly indicates that the big blue bump is indeed thermal and optically - thick . </S>"
+  ]
+}

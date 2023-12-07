@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "high resolution n - body simulations have revealed the survival of considerable substructure within galactic halos . assuming these substructure clumps are composed of annihilating neutralinos , the flux @xmath1 of a clump at distance @xmath2 with a density distribution @xmath3 is @xmath4 where @xmath5 is the thermally averaged annihilation cross section , @xmath6 is the neutralino mass , and @xmath7 is the number of photons per annihilation with energy above an assumed energy threshold . for the density profile of the clumps we use the @xcite ( nfw ) and the @xcite profiles which were found to describe adequately the dark matter halos in simulations . as an upper limit to the degree of central concentration of the actual clump profile we also consider the singular isothermal sphere ( sis ) .",
+    "the three profiles behave at the center as @xmath8 , @xmath9 , and @xmath10 , respectively .",
+    "the results for the profiles and for the minimum and maximum clump masses used , are shown in fig .",
+    "[ conti - susy ] .",
+    "the susy models that give a 5-@xmath11 ( or more ) detection using an atmospheric cherenkov telescope ( act ) with effective area @xmath12 , energy threshold @xmath13 gev , and 100 hours of observation , are all the models that lie above the corresponding line for each density profile .",
+    "the backgrounds used to calculate the noise are the hadronic and electronic cosmic ray shower contributions . clearly , massive clumps appear to be easily detectable , regardless of profile ; less massive clumps may be detectable , depending on their degree of central concentration . for more details",
+    "see @xcite .",
+    "there are some issues with respect to the ability of dark matter clumps to survive tidal disruption at distances small enough to yield easily detectable fluxes .",
+    "in addition , there are some observational issues , given that the exact location of these clumps is not known .",
+    "thus , we focus on an object whose location is known , the lmc .",
+    "we derive the density profile needed to calculate the @xmath0-ray flux using rotation velocity data @xcite .",
+    "we fit the data using both the nfw ( @xmath14 ) , and the @xcite profile ( @xmath15 ) , @xmath16 numerous observations indicate that the lmc is tidally stripped .",
+    "the hayashi et al . profile is a modification of the nfw which accounts for the tidal stripping that a halo may have undergone .",
+    "the fits are shown in the left panel of fig .",
+    "[ fig : lmc_susy ] . in the right panel",
+    "we present our results for the part of the susy parameter space that gives a 5-@xmath11 detection for glast and a typical act ; the instrument and observation parameters used to derive these results are also shown . requiring that @xmath17 @xmath18 s@xmath19 we find that glast will be able to detect the signal for a significant part of the parameter space .",
+    "this is true especially if the recently derived limit @xmath20 gev is taken into account@xcite .",
+    "assuming standard specifications , acts will not be able to probe any part of the parameter space ( dotted line ) . unless , large integration times ( say , @xmath21 month ) and effective areas ( say , @xmath22 @xmath23 ) are used ( dashed line ) .",
+    "note though that such integration times are fairly long for act observations , and that such large effective areas for an energy threshold @xmath24 50 gev are beyond the goals of existing and upcoming acts .",
+    "these conclusions remain essentially the same for all the profiles used to model the lmc halo . the spectrum and its characteristic features , such as the cutoff at @xmath25 will be useful in identifying neutralino annihilation as the origin of the observed flux , especially in the case of glast where the prospects of detection are fairly good .",
+    "the monochromatic lines produced by neutralino annihilation ( e.g. , the @xmath26 line at @xmath25 ) would be excellent observational signatures if the cross sections for these processes were not suppressed@xcite .",
+    "egret has detected a flux of @xmath27 photons @xmath28 @xmath18 @xmath29 from the lmc @xcite .",
+    "the emission due to neutralino annihilation can be anywhere from @xmath30 to @xmath31 photons @xmath32 , depending on the neutralino parameters .",
+    "the maximum possible flux is still @xmath24 2 orders of magnitude less than the observed flux .",
+    "this means that cosmic rays may be almost the exclusive source of the observed flux , as is often assumed .",
+    "this is verified in the case of synchrotron emission from neutralino annihilation as well [ for the synchrotron and for more details on the @xmath0-rays see @xcite ] .",
+    "dark matter clumps are in principle detectable , depending on the susy parameters , their distance and their degree of central concentration .",
+    "the expected @xmath0-ray flux from the lmc is , for most susy models , significantly smaller than what egret observed , verifying the usual assumption that cosmic rays are almost exclusively the origin of the detected flux .",
+    "however , the flux is high enough to renter a large part of the susy parameter space accessible to glast ; the detection of the signal by acts is highly unlikely ."
+  ],
+  "abstract_text": [
+    "<S> we discuss the detectability of dark matter clumps in the milky way halo due to neutralino annihilation . </S>",
+    "<S> we then focus on a known `` clump '' , the large magellanic cloud ( lmc ) .    </S>",
+    "<S> ,    ,    lmc , @xmath0-rays , neutralino annihilation , egret , glast , acts </S>"
+  ]
+}

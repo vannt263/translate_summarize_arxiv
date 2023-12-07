@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "from a sample of stars with the b[e ] phenomenon ( lamers et al . 1998 ) observed by us with the feros and b&c spectrograph at 1.52 telescope in eso ( la silla , chile - agreement eso / on ) , we have analyzed the circumstellar medium around hen 2 - 90 , a unclassified b[e ] star ( that is sometimes classified in the literature as a compact planetary nebulae ) considering the presence of a rotating disk .",
+    "its presence is suggested by images taken with wfpc2 in hst ( sahai & nyman 2000 ) and also by the presence of double peaked profiles in its spectrum . our analysis is based on the comparison between the observed luminosity of [ sii ] lines and h@xmath0 with those predicted by a model that will be described below .",
+    "the existence of a rotating disk at hen 2 - 90 is confirmed by the presence of many forbidden and permitted lines with double peaks ( see figure 1 ) . from the separation between two peaks we have found a @xmath1 @xmath2 @xmath3 @xmath4 20 km s@xmath5 .",
+    "60truecm 5.5truecm [ oiii ] and [ ariii ] double peaked profiles present in the high resolution spectra ( feros ) of hen 2 - 90 .",
+    "* 2 spherical envelopes , considering one representing the polar wind and the other representing the disk .",
+    "the ionization is calculated with a photoionization model for h , he and s. one envelope has a higher density than the other and we only use the equatorial sector with a width of 15 degrees . the other has a lower density and we are considering the luminosity that comes from the remaining region , outside the disk . * @xmath6 is an input parameter * the [ sii ] lines come only from the disk and h@xmath0 has two components that are coming from both regions .",
+    "we have found a @xmath6 @xmath4 10@xmath7 m@xmath8 year@xmath5 for the disk region , if all s is sii .",
+    "this value is low compared with other compact planetary nebula .",
+    "if the sii fraction ( sii / s ) is only 10@xmath9 , then the @xmath6 is @xmath4 10@xmath10 m@xmath8 year@xmath5 , because we have found that @xmath6 is proportional to ( sii / s)@xmath11 ( borges fernandes et al .",
+    "2003 ) .",
+    "borges fernandes , m. , lamers , h.j.g.l.m . , kraus , m. & de arajo , f.x .",
+    "2003 , in preparation lamers , h.j.g.l.m . ,",
+    "zickgraf , f .- j . , de winter , d. , houziaux , l. & zorec , j. 1998 , a&a 340 , 117 sahai , r. , & nyman , l .- a .",
+    "2000 , apj 537 , l145"
+  ],
+  "abstract_text": [
+    "<S> the spectra of stars with the b[e ] phenomenon are dominated by features that are related to physical conditions of circumstellar material around these objects and are not intrinsic to the stars . </S>",
+    "<S> previous studies have shown that emission lines present in the optical spectra of these objects are formed in an equatorial rotating disk . </S>",
+    "<S> the analysis of high and low resolution spectra , obtained by us with 1.52 telescope in eso for some southern galactic b[e ] stars , can give us information about the structure and velocity of the disk . </S>",
+    "<S> we will describe the analysis of the unclassified b[e ] star hen 2 - 90 . </S>"
+  ]
+}

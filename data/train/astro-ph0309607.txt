@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "by means of creating distortions to the gravitational field of their parent stars , _ unseen planets _ of mass @xmath0 around _",
+    "unseen lens stars _ of mass @xmath1 can cause deviations of 120@xmath2% ( lasting days for jupiters to hours for earths ) to the light curves of background stars undergoing a microlensing event which lasts @xmath31  month .",
+    "the probability for a planetary signal varies with the projected orbital radius of the planet @xmath4 reaching a maximum near @xmath5 , with the _ einstein radius _ @xmath6 , the schwarzschild radius of the lens star @xmath7 , @xmath8 , and @xmath9 and @xmath10 being source or lens distances .    by achieving a galactic length scale @xmath11 ^ 2 $ ] for m - dwarf lens stars ( @xmath12 ) ,",
+    "one becomes sensitive to planetary systems similar to our own .",
+    "this condition is met not only for observations of galactic bulge stars being lensed by stars in both the galactic disk or the bulge itself ( @xmath13 , @xmath14 ) , but also for observations of stars in other galaxies as m31 ( crotts 1992 ; jetzer 1994 ) lensed by stars in the same galaxy ( @xmath15 , @xmath16 ) .",
+    "while the probability to detect a planetary deviation and its duration decreases with smaller mass ratios @xmath17 ( roughly as @xmath18 ) , the maximal deviation @xmath19 is only limited by the radius of the source star @xmath20 ( bennett & rhie 1996 ) . for @xmath21% on observing m31 stars , a minimal mass ratio of @xmath22 ^ 2",
+    "$ ] is required for @xmath23 and m - dwarf lens stars , corresponding to planets with twice the mass of saturn for @xmath24 .",
+    "due to its small angular size , the monitoring of m31 requires only a few fields and therefore only a fraction of telescope time during each night . a proposed network of at least four 2m - class telescopes distributed around the northern hemisphere ( dominik 2002 ) will provide a sampling interval of @xmath25h . _ on - line data reduction _ based on _ difference - imaging _ will allow an increased sampling through target - of - oppurtunity observations in the case of ongoing anomalies .",
+    "since m31 observations comprise _ unresolved star fields _ , only events with _ high peak magnification _ @xmath26 on _ bright sources _ are detectable , ruling out catching signatures of earth - mass planets .",
+    "the smaller fraction of useful events is partly compensated by the _ large number of source stars _ and an _ increased planet detection efficiency _ for larger peak magnifications ( griest & safizadeh 1998 ) .",
+    "the table compares the detection capabilities for galactic and extragalactic planets with ground - based campaigns .",
+    "planet detection efficiencies follow gould & loeb ( 1992 ) and covone et al .",
+    "( 2000 ) and are averaged over the lensing zone ( @xmath27 ) .",
+    "the determination of planet parameters is not required for obtaining upper abundance limits based on the absence of deviations .",
+    "lcc & galactic bulge & m31 +   + number of source stars & @xmath28 & @xmath29 + resolution of source stars & resolved & unresolved + telescope time & dedicated & 0.52.5  h per night + field of view [ sq deg ] & 0.0040.03 & 0.011 + number of fields & & + monitored during night & [ -1.5ex]@xmath30 & [ -1.5ex]18 + mean sampling interval & 1.52.5  h & 46  h + total event rate @xmath31 $ ] & @xmath32600 & @xmath33400 + useful types & giants & + of source stars & main - sequence stars & [ -1.5ex]giants + useful peak magnifications & @xmath34 & @xmath35 + rate of useful events @xmath31 $ ] & @xmath36 & @xmath37100 + & @xmath38% ( jupiters ) & @xmath39% ( jupiters ) + [ -1.5ex]planet detection efficiency & @xmath40% ( earths ) & @xmath41% ( saturns ) + planet probing rate @xmath31 $ ] & 1525 jupiters , 23 earths & 1535 jupiters , 410 saturns + upper limit on planetary & 47@xmath2% ( jupiters ) & 37@xmath2% ( jupiters ) + abundance within 3 years & @xmath42% ( earths ) & 1030@xmath2% ( saturns ) + location of parent stars & galactic disk and bulge & m31 + extraction of & & mostly difficult + planet parameters & [ -1.5ex]fair in many cases & or even impossible +    bennett , d. p. , & rhie , s. h. 1996 , , 472 , 660 covone , g. , de ritis , r. , dominik , m. , & marino , a. a. 2000 , , 357 , 816 crotts , a. p. s. 1992 , , 399 , l43 dominik , m. 2002 , in napoli series on physics & astrophysics , 6 , general relativity , cosmology and gravitational lensing , ed .",
+    "g. marmo , c. rubano & p. scudellaro ( napoli : bibliopolis ) , 87 dominik , m. , et al .",
+    "2002 , p&ss , 50 , 299 gould , a. , & loeb , a. 1992 , , 396 , 104 griest , k. , & safizadeh , n. 1998 , , 500 , 37 jetzer , ph .",
+    "1994 , , 286 , 426"
+  ],
+  "abstract_text": [
+    "<S> gravitational microlensing provides a unique technique to reveal information about extragalactic planets . </S>",
+    "<S> a network of at least four 2m - class telescopes distributed around the northern hemisphere could probe 1535 jupiters and 410 saturns around m31 stars per year . </S>"
+  ]
+}

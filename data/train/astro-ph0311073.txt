@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "the he i feature at 10 830   is predicted to be one of the deepest absorption lines of the diffuse and extended exosphere in the optical and near - ir transmission spectrum the goal of the present study is to search for exospheric signatures in the spectrum of hd209458 , during transits of the planet .",
+    "shkolnik et al .",
+    "( 2003 ) suggested that a chomospheric activity can be induced by the planet orbit .",
+    "we searched for such a signature in stellar chromospheric lines .",
+    "we performed observations of hd209458 in the uv with vlt / uves in the 0.33 - 0.67 @xmath1 m region at high spectral resolution .",
+    "1 transit was covered with r=70000 in december 1999 in two spectral range : blue ( 0.328 - 0.4562 @xmath1 m ) and red ( 0.4583 - 0.6686 @xmath1 m ) . 6 transits were covered with r=100000 : 1 in june 2000 in blue and red and june to september 2002 in red ( 0.475 - 0.680 @xmath1 m ) .",
+    "we searched for ions and neutral molecules originating in the planet s exosphere and located in the evaporated material around the planet .",
+    "observations of 1 transit in the infrared was also performed with vlt / isaac at medium resolution ( r=10000 ) around the he i line at1.083 @xmath1 m ( 1.06 - 1.1 @xmath1 m ) .",
+    "a sample of these spectra centered around this feature is shown is fig .",
+    "1a .    from observations during one full transit with isaac in june 2001 of the spectral region around 1.083 @xmath1 m",
+    ", no detection of he was obtained due to strong instrumental fringing affecting the data .",
+    "an 3 @xmath0 upper limit of 0.5% deep absorption feature was derived .",
+    "following the suggestion of shkolnik et al.(2003 ) , we searched signatures of a chromospheric activity induced by the ( magnetic more probably than tidal ) heating of the star s outer atmosphere by the planet .",
+    "we have recovered high - resolution uves spectra in the blue arm during one transit ( and its off - transit ) period in 2000 .",
+    "the ca ii k at 3933 , ca ii k at 3968  and al i at 3944lines can be related to chromospheric activity . a sample of these spectra centered around the ca ii k feature is shown is fig .",
+    "our spectra show emission enhancement observed in the ca ii h band but we found nothing significant in the two otherbands .",
+    "the variations could be indicative of the stellar chromospheric activity with the planet s magnetic field .",
+    "uves data from the 5 transits in june - september 2002 are currently being analysed to look for exospheric planetary signature of other constituents .",
+    "further and improved observations are required .",
+    "we have time allocation this year .",
+    "moutou , c. , coustenis , a. , schneider , j. , queloz , d. & mayor , m. , 2003 , in , 405 , 341 and references therein + shkolnik , e. , walker , g.  a.  h , & bohlender , d.  a. , 2003 , submitted to +"
+  ],
+  "abstract_text": [
+    "<S> we searched for spectral signatures from the exosphere of hd209458 in the uv and the near - ir with uves and isaac at the vlt . </S>",
+    "<S> we looked in particular for the helium absorption feature at 10 830  predicted to be among the strongest ones . </S>",
+    "<S> the upper limit of the he i line derived is 0.5% at 3 @xmath0 for a 3   bandwith . </S>",
+    "<S> planet - induced chromospheric activity search on hd209458 was also performed .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

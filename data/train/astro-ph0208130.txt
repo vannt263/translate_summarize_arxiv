@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "after almost three years of quiescence , the  persistent \" bhc gx  3394 became active again on 2002 march 26 @xcite .",
+    "this source is important , as in the past it has shown in the past all of the `` canonical '' states of bhcs @xcite .    the full rossixte / asm light curve from the start of the mission is shown in fig .",
+    "we started our observations with rossixte on april 3rd and obtained roughly one pointing per week since then .",
+    "the asm rate ( 1.5 - 1 kev ) increased to 0.8 crab in less than two months , then decreased to @xmath20.5 crab in three weeks , to start rising again to 1 crab , and at the time of writing it is still brightening ( see fig .",
+    "1 ) .    we present here preliminary results of the timing analysis of a subset of pca observations : four during the early phase of the outburst , when the source count rate was increasing monotonically with time , and one a few days into the decay .",
+    "the times of the five observations considered here are marked with dotted lines in the bottom panel of fig .",
+    "for each of the first four observations , we produced a power density spectrum ( pds ) by selecting the energy range 3 - 15 kev , dividing the observation in shorter segments and averaging the corresponding pds .",
+    "the resulting pds can be seen in figure 2 .",
+    "a strong evolution with time is evident .",
+    "the pds of the first observation , on the initial rise of the outburst , is very similar to the typical low - state pds observed before with rtxe ( e.g. @xcite ) .",
+    "a weak qpo is seen at @xmath20.25 hz . during the second observation , on the flattening part of the initial rise ,",
+    "the pds is similar , but shifted to higher frequencies ( the qpo is now around 0.2 hz ) .",
+    "the third observation was made just before a sharp brightening .",
+    "the characteristic frequencies are even higher , with two harmonically - related qpos at 0.6 and 1.2 hz . at a much higher count rate ,",
+    "the fourth pds shows even higher frequencies , with a 6 hz qpo with complex harmonic content .",
+    "this pds is almost indistinguishable from the vhs examples in @xcite . at the same time ,",
+    "the x - ray colors measured with the pca show that the first three observations follow a softening curve , while the fourth is much softer .",
+    "it is remarkable that we are observing here a smooth transition in the timing properties from ls to vhs , with no discontinuity seen , while the energy spectral parameters change abruptly .",
+    "our fifth observation , on 2002 may 17 , shortly after the asm flux started to decrease , is different . in the first rxte orbit ,",
+    "the 1s binned light curve does not show much variability and the pds shows a power - law noise component with a weak and broad bump between 6 and 10 hz ( left panel in fig .",
+    "3 ) . in the second rxte orbit ,",
+    "the power - law noise is stronger , as can be seen from the light curve directly , and a very strong qpo at 6 hz appears in the pds .",
+    "a detailed analysis of a dynamical power density spectrum shows that this qpo is not present during the first 150 seconds of the orbit , then appears suddenly within a time scale shorter than 16 seconds .",
+    "our preliminary results show that the timing properties of the source move gradually from the ls to the vhs , despite sudden changes in spectral shape . when at high flux , the source entered a hs , with reduced timing variability , but the appearance of a strong transient qpo at 6 hz makes the hs interpretation questionable , as rapid oscillations between different `` flavors '' of vhs have already been observed @xcite .",
+    "smith d.m . ,",
+    "et al . , 2002 , atel .",
+    ", * 95*. mndez m. , & van der klis m. , 1997 , apj , * 479 * , 926 .",
+    "belloni t. , et al .",
+    ", 1997 , apj , * 519 * , l159 .",
+    "nowak m.a .",
+    ", wilms j. , & dove j.b . , 2002 , mnras , * 332 * , 856 .",
+    "miyamoto s. , & et al .",
+    ", 1991 , apj , * 383 * , 784 ."
+  ],
+  "abstract_text": [
+    "<S> we report preliminary results of a rossixte campaign on the 2002 outburst of the black - hole candidate gx  3394 . </S>",
+    "<S> we show power density spectra of five observations during the early phase of the outburst . the first four power spectra show a smooth transition between a low state and a very high state . </S>",
+    "<S> the fifth power spectrum resembles a high state , but a strong 6 hz qpo appears suddenly within 16 seconds .    </S>",
+    "<S> 2@xmath0 1s@xmath1 </S>"
+  ]
+}

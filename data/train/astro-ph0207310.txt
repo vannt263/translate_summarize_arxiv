@@ -1,0 +1,32 @@
+{
+  "article_text": [
+    "the strong winds of lbvs show a wide variety of mass - loss behaviour . during their sdor - type variations they expand in radius at approximately constant luminosity . in some cases the mass loss increases",
+    "while the star expands ( e.g. r71 ) , whereas for others ( e.g. r110 ) the behaviour is the exact opposite : as the star expands , its mass - loss rate drops .",
+    "recent radiation - driven wind models of oba supergiants show that stars change their wind characteristics at spectral types b1 and a0 , where  jumps upwards by factors of five , due to fe recombinations . in this poster",
+    ", we investigate whether these `` bi - stability jumps '' can also explain @xmath0 of lbvs .",
+    "our method is outlined in the poster by de koter & vink ( these proceedings ) .",
+    "the full study is presented in vink & de koter ( 2002 ) .",
+    "typical lbv results are shown in the first figure , for three values of .",
+    "it shows that there are ranges in @xmath1 where  is predicted to increase , and ranges where  decreases .",
+    "the decreases are due to a growing mismatch between the positions of the driving lines ( mostly in the uv ) and the location of the flux maximum which shifts towards the optical for cooler stars .",
+    "the increases are due to recombinations of feiv to feiii , and feiii to feii .",
+    "uv observations have shown that these `` bi - stability '' jumps occur at spectral types b1 and a0 ( lamers et al .",
+    "the second figure shows a comparison between our models ( dotted line ) and the h@xmath2 mass loss rates for agcar ( stahl et al . 2001 ) .",
+    "it shows that the observed and predicted mass loss agree within 0.1 dex .",
+    "note that we have applied a corrective shift of @xmath3 k to our predictions to account for an inaccurate calculation of the ionisation balance of fe .",
+    "the applied shift is consistent with constraints set by observations of supergiants which show that the jumps indeed occur at spectral types b1 and a0 . as ( )",
+    "displays such a complex behaviour with fluctuations in  of over more than 0.5 dex , this is a surprisingly good result .",
+    "it shows that the mass - loss variability of agcar is due to changes in the ionisation balance of iron .",
+    "the predicted mass - loss rates are not only a function of , but also of mass .",
+    "this sensitivity of  to mass offers the opportunity to constrain lbv masses . comparing the ag car data with  predictions for different masses results in a best fit to the present - day mass of 35  for agcar .",
+    "* lbv winds are driven by radiation pressure . * the mass loss behaviour of lbvs ( of up to over 0.5 dex ) during their sdor - type variation cycles",
+    "can be explained by the ionisation and recombination of feiv / iii and feiii / ii .",
+    "noindent * the ( ) behaviour of agcar can be matched when we adopt a mass of 35 ."
+  ],
+  "abstract_text": [
+    "<S> we present radiation - driven wind models for luminous blue variables ( lbvs ) and predict their mass - loss rates . </S>",
+    "<S> a comparison between our predictions and the observations of agcar shows that the variable mass loss behaviour of lbvs is due the recombination / ionisation of feiv / iii and feiii / ii . </S>",
+    "<S> we also derive a present - day mass of 35 for agcar .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

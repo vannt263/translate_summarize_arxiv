@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "our goal is to discern whether a moderately varying m giant , such as r doradus , could be modelled satisfactory with a hydrostatic model photosphere .",
+    "we observed the @xmath2 region with the iso sws 06 at a resolution of @xmath3 and the full @xmath4 region with the sws 01 at @xmath5 .",
+    "the low - resolution sws01 observation is used to ensure that the different sws06 observations in this region were properly aligned .",
+    "we have calculated hydrostatic model photospheres with the marcs code in spherical geometry .",
+    "synthetic spectra were calculated using these model photospheres .",
+    "the synthetic spectra , also calculated in spherical geometry , include lines from h@xmath6o ( partridge & schwenke 1997 ) , co ( goorwitch 1994 ) , sio ( langhoff & bauschlicher 1993 ) , ch ( jrgensen et al . 1996 ) , cn ( jrgensen & larsson 1990 and plez 1998 , priv . com . ) ,",
+    "oh ( goldman et al . 1998 ) , c@xmath6 ( querci et al . 1971 and",
+    "jrgensen 2001 , priv . com . ) , and co@xmath6 ( hitemp ; rothman et al . 1992 ) .",
+    "we are able to fit the observed range well with a hydrostatic model photosphere , see figs .",
+    "[ fig - noll ] and [ fig-0 ] .",
+    "our best fit model have the fundamental parameters of @xmath7 k , @xmath8 , and solar metallicity .",
+    "we find that the wavelength region investigated is sensitive to the effective temperature used in the modeling of the photosphere .",
+    "the agreement between the synthetic spectrum and the iso observations is encouraging , especially in the wavelength region of @xmath9 , suggesting that a hydrostatic model photosphere is adequate for the calculation of synthetic spectra in the near infrared for this moderately varying red giant star .",
+    "however , an additional absorption component is needed at @xmath10 .",
+    "thus , we also find that the model does not account for this extra absorption component at the beginning of the interval .",
+    "for a discussion of this discrepancy see ryde & eriksson ( 2002 ) .",
+    "the spectral signatures are dominated by water vapour in the stellar photosphere , but several photospheric oh , co , and sio features are also present .    figs .",
+    "@xmath11 show which molecules are important contributors to the emergent spectrum ( up to @xmath1 ) of r doradus .",
+    "the synthetic spectra shown there are all calculated using our r dor model atmosphere .",
+    "however , the spectra are synthesized with only one molecule at a time .",
+    "r dor is a moderately varying m giant .",
+    "we have modelled its 3 micron iso spectrum ( resolving power is ca 2000 ) successfully with a hydrostatic model photosphere .",
+    "dynamical models are , however , certainly needed for the mira stars , which show larger variations with time .",
+    "line opacities contributing at @xmath12 microns are h@xmath6o , co , oh , and sio . the region is found to be very temperature sensitive , and it is found that an extra absorption is needed at 2.6 - 2.8 microns .",
+    "we should like to thank drs .",
+    "b. gustafsson and d. l. lambert for inspiration and enlightening discussions .",
+    "this work was supported by the p.e .",
+    "lindahl foundation fund of the royal swedish academy of sciences and the swedish foundation for international cooperation in research and higher education .",
+    "goldman et al .",
+    "1998 , jqsrt 59 , 453 goorwitch 1994 ,  95 , 535 jrgensen & larsson 1990 , 238 , 424 jrgensen et al .",
+    "1996 ,  315 , 204 langhoff & bauschlicher 1993 , chem .",
+    "l. 211 , 305 partridge & schwenke 1997 , j. chem .",
+    "106 , 4618 querci et al .",
+    "1971 ,  15 , 256 rothman et al .",
+    "1992 , jqsrt 48 , 469 ryde & eriksson 2002 , 386 , 874"
+  ],
+  "abstract_text": [
+    "<S> here , we present our modelling ( ryde & eriksson , 2002 ) of the @xmath0 spectrum of the red semiregular variable r doradus observed with the short - wavelength spectrometer on board the infrared space observatory . </S>",
+    "<S> we will also present the entire spectrum of r dor up to @xmath1 based on our model photosphere in order to show which molecules are important for the emergent spectrum . </S>"
+  ]
+}

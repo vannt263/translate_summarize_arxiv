@@ -1,0 +1,22 @@
+{
+  "article_text": [
+    "double - lobed extragalactic radio sources are hosted almost exclusively by elliptical galaxies ( at low redshifts ) .",
+    "previous searches for molecular gas in these galaxies have concentrated primarily on those detected in the far - ir , which if produced by dust may indicate copius molecular gas .",
+    "a number were indeed found to possess molecular gas with masses typically in the range @xmath3@xmath5@xmath6 ( see lim et al . 2000 ) .",
+    "because such molecular gas masses are usually found only in gas - rich disk galaxies and , at masses of @xmath3@xmath6 , merging disk - disk systems , this has prompted the suggestion that radio galaxies comprise the gas - rich e / so merger products of two gas - rich disk galaxies ( e.g. , mazzarella et al . 1983 ) .",
+    "to better understand the molecular gas content in the general population of classical ( double - lobed ) radio galaxies , we have recently completed a co survey of all previously unobserved or undetected galaxies at @xmath0 in the revised 3c catalog ( spinrad 1985 ) with the iram 30-m telescope .",
+    "only two of the twenty - five galaxies in this redshift range have previously been detected in molecular gas : 3c  71 ( ngc  1068 ) , a relatively nearby ( @xmath7 ) disk galaxy hosting a compact radio source , and 3c  84 ( perseus  a ) , a very molecular - gas - rich fr  i elliptical galaxy .",
+    "nineteen of the twenty - three galaxies in our sample are classified as fr  i , two are intermediate fr  i / fr  ii , and the remaining three are fr  ii galaxies .",
+    "twelve are reported to have been detected in the far - ir , and the same number ( although not necessarily the same galaxies ) have visible optical dust features .",
+    "the results of our survey are summarized in table  1 .",
+    "four of the twenty - three galaxies observed were detected , with molecular gas masses spanning two orders of magnitude from @xmath3@xmath8 to @xmath3@xmath9 ( for @xmath10 and @xmath11 ) .",
+    "note that the four galaxies detected also have far - ir detections , dust features visible in the optical , and are among those at the lowest redshifts .",
+    "the remaining galaxies were not detected at a typical 5@xmath12 upper limit of @xmath13@xmath14 ( for an assumed linewidth of @xmath3@xmath15 ) .",
+    "our results suggest that only a very small fraction of classical radio galaxies have molecular gas masses @xmath16 , and that the majority contain at most , if any , a few times @xmath4 of molecular gas .    lccccc name & fr type & redshift & far - ir & optical dust & @xmath17 + & & ( z ) & & & @xmath18 + 3c 31 & i & 0.017 & @xmath19 & @xmath19 & @xmath20 + 3c 40 & i & 0.018 & & @xmath19 & @xmath21 + 3c 66b & i & 0.021 & & & @xmath22 + 3c 75n & i & 0.023 & & & @xmath23 + 3c 75s & i & 0.023 & & & @xmath23 + 3c 78 & i & 0.029 & @xmath19 & & @xmath24 + 3c 83.1 & i & 0.025 & & @xmath19 & @xmath25 + 3c 88 & ii & 0.030 & @xmath19 & @xmath19 & @xmath26 + 3c 98 & ii & 0.030 & & & @xmath27 + 3c 129 & i & 0.021 & & & @xmath28 + 3c 129.1 & i & 0.022 & & & @xmath23 + 3c 264 & i & 0.022 & @xmath19 & @xmath19 & @xmath29 + 3c 270 & i & 0.007 & @xmath19 & @xmath19 & @xmath30 + 3c 272.1 & i & 0.003 & @xmath19 & @xmath19 & @xmath31 + 3c 274 & i & 0.007 & @xmath19 & & standing wave ripple + 3c 296 & i & 0.024 & @xmath19 & @xmath19 & @xmath32 + 3c 338 & i & 0.030 & @xmath19 & @xmath19 & @xmath33 + 3c 353 & ii & 0.031 & & tentative & @xmath34 + 3c 386 & i & 0.018 & & & @xmath35 + 3c 402 & i & 0.025 & @xmath19 & & @xmath36 + 3c 442 & i / ii & 0.026 & & & @xmath37 + 3c 449 & i & 0.018 & tentative & @xmath19 & @xmath38 + 3c 465 & i / ii & 0.030 & @xmath19 & @xmath19 & @xmath39 +"
+  ],
+  "abstract_text": [
+    "<S> we report a survey for molecular gas in 3c radio galaxies at redshifts @xmath0 . </S>",
+    "<S> four of the twenty - three galaxies observed were detected with molecular gas masses in the range @xmath1@xmath2 . </S>",
+    "<S> the remainder had typical upper limits in molecular gas masses of @xmath3@xmath4 . </S>"
+  ]
+}

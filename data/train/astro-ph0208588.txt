@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "it has recently been pointed out that a solar nebula massive enough to form gas - giant planets through the core - accretion model is likely gravitationally unstable ( pollack et al .",
+    "1996 ; boss 2000 ; inaba @xmath0 wetherill 2002 ) .",
+    "such an unstable nebula is not entirely undesirable .",
+    "the alternative model of the giant planets formation , namely , the disk instability mechanism , suggests rapid formation of gas - giant planets followed by sedimentation of small solids at the locations of spiral arms and clumps of a gravitationally unstable disk .",
+    "it is , therefore , fundamentally important to study the dynamical evolution of solids in such an environment and in particular , the implications for the collisional coagulation and growth processes .",
+    "a turbulence - free rotating gaseous nebula is at hydrostatic equilibrium when the gravitational attraction of its central star is balanced by a radial gradient in its pressure known as the pressure gradient ( figure 1 ) . when the pressure gradient is positive , the velocity of a gas molecule is greater than its local keplerian velocity ( eq .",
+    "a solid in the gas , in this case , feels , effectively , a larger acceleration along its orbit and , consequently , the increase in its orbital angular momentum forces the solid to a larger orbit .",
+    "the opposite is true when the pressure gradient is negative .",
+    "-6pt @xmath1 -1pt in this equation , @xmath2 is the mass of the central star , @xmath3 is the gravitational constant and @xmath4 and @xmath5 represent the pressure , the density and the angular velocity of the gas , respectively .    in a rotating gravitationally unstable disk ,",
+    "gas density enhancements appear in the forms of spiral arms and clumps .",
+    "it is possible for the pressure of the gas    -160pt    to have a radial gradient in the vicinity of such density enhancements . in this case ,",
+    "solids migrate toward the location of the maximum gas density where the probabilities of their collisions and coagulations are enhanced . in this paper",
+    ", we study the dynamics of solids that undergo such migrations while subject to gas drag and the gravitational attraction of the nebula .",
+    "to focus attention on the rates of the in / outward migrations of bodies and also their dependence on the solids and the nebula s physical properties , an isothermal nebula of pure molecular hydrogen with a sun - like star at its center and with an azimuthally symmetric density given by figure 2 is considered here .",
+    "the small solid bodies are considered to be non - interacting and their motions are restricted to the midplane of the nebula .",
+    "the gravitational force of the nebula is also taken into account ( haghighipour @xmath0 boss 2002 , astro - ph/0207345 ) .",
+    "in such a nebula , @xmath6(mean free path in cm)= @xmath7 g @xmath8 , @xmath9(collisional cross section)= @xmath10 @xmath11 and the drag force of the gas is given by @xmath12{{\\bf v}_{\\rm rel}}.\\ ] ] in this equation , @xmath13 ( supulver @xmath0 lin 2000 ) and @xmath14 and @xmath15 represent the radius of the solid and the mean thermal velocity of the gas molecules , respectively .",
+    "the quantity @xmath16 in equation ( 2 ) is the drag coefficient and is approximately equal to @xmath17 for @xmath18 for @xmath19 and 0.44 for @xmath20 where @xmath21 is the gas reynolds number and @xmath22 represents the molecular mass of the gas .    -50pt",
+    "the equations of motions of solids with sizes ranging from 1 micron to 1 km have been numerically integrated for different values of the solids densities and the gas temperature .",
+    "figure 3 shows the migration of solids with densities equal to 2 and 5 g @xmath8 and radii of 10 and 100 cm .",
+    "the temperature of the gas is constant at 1000 k. as shown here , solids with radii from 10 to 100 cm undergo rapid in / outward migrations toward the location of maximum density .",
+    "the time of migration within a 1 au neighborhood of @xmath23 ( au ) is less then 1000 years , a time that is comparable with the time of giant planets formation as suggested by the disk instability model ( boss 2000 ) .    the rate of migration is also affected by changing the densities of the solids .",
+    "we studied the migration of solids for different values of the solids densities .",
+    "the results indicate that for cm - sized objects , the rate of in / outward migrations increase with increasing the solids densities . for m - sized and larger objects , on the other hand , increasing the solids densities results in an increase in the rate of inward migration but a lower rate for migrating outward ( figure 3 ) . for a detailed analytical analysis on this",
+    "see haghighipour @xmath0 boss ( 2002 , astro - ph/0207345 ) .",
+    "we also studied the effect of changing the temperature of the gas on the migration of solids .",
+    "in general , increasing the temperature resulted in decreasing the rate of migration ( figure 4 ) .",
+    "we integrated the motions of solids with a variety of radii and densities for the gas temperature ranging from 25 k to 1000 k. detailed analysis shows that an increase in the temperature of the gas will result in an increase in the mean thermal velocity of its molecules which in turn results in a decrease in the magnitude of the relative velocity of a solid .",
+    "that means , the effect of the drag force in pushing a solid body in / outward weakens with increasing the gas temperature .",
+    "in general , the rate of the migration of a solid in a turbulence - free gaseous nebula in the presence of gas drag and the gravitational force of the nebula varies with the solid s mass and size and also with the gas density and temperature .",
+    "the results of this study indicate that it is , indeed , possible for solids within certain ranges of size and density to migrate rapidly to the locations of the maximum values of the gas density .",
+    "given the likelihood that the solar nebula was marginally - gravitationally unstable , the processes studied here may have enhanced the growth rates of solid planetesimals .",
+    "boss , a. p. 2000 , apj , 536 , l101 inaba , s. , @xmath0 wetherill , g. w. 2002 , to appear in this volume of pasp pollack , j. b. , hubickyj , o. , bodenheimer , p. , lissauer , j. j. , podolak , m. , @xmath0 greenzweig , y. 1996 , icarus , 124 , 62 supulver , k. d. , @xmath0 lin , d. n. c. 2000 , icarus , 146 , 525 whipple , f. l. 1972 , in from plasma to planets ed .",
+    "a. elvius ( wiley , london )"
+  ],
+  "abstract_text": [
+    "<S> the results of an extensive numerical study of the orbital dynamics of small bodies ranging from micron - sized dust grains to 1 km objects subject to gas drag and also the gravitational attraction of a non - uniform gaseous nebula are presented . </S>",
+    "<S> the results indicate that it is possible for small bodies to migrate rapidly toward the locations of the maxima of the gas density where the probabilities of collisions and coagulations are enhanced .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

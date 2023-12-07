@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the quest for the parameters of the primordial universe has significantly advanced in the last 10 years .",
+    "there is a general agreement that @xmath5 , for example from the internal kinematics of clusters and groups @xcite , from the gas fraction in clusters @xcite and groups @xcite .",
+    "supernovae used as standard candles have led to @xmath6 , with a degeneracy with @xmath7 . finally , the scales of the angular fluctuations of the cosmic microwave background ( cmb ) lead to a nearly perfectly flat universe @xmath8 .",
+    "the combination of constraints from supernovae and the cmb recovers @xmath5 ( with @xmath9 ) .",
+    "we present below a measurement of the cosmological parameters , with a fairly new technique based upon using very large scale structures ( @xmath10 in size ) as comoving standard rulers .",
+    "very large - scale structures should follow the hubble flow .",
+    "the rms peculiar velocity within a ball of radius @xmath11 is given by @xmath12 where for @xmath13 or for flat universes , @xmath14 , while @xmath15 is the primordial density fluctuation spectrum , ( @xmath16 ^ 3 $ ] higher than the low one ) .",
+    "] and @xmath17 is the fourier transform of the top - hat smoothing kernel .",
+    "( [ vrms ] ) leads to a present - day value @xmath18 for @xmath19 . since the peculiar velocity increases with time",
+    ", one simply finds that the peculiar motion satisfies @xmath20 , so that peculiar motions account for less than 3% for structures larger than @xmath21 .",
+    "thus , vlss follow the hubble expansion to good precision , or , in other words , _ very large scale structures should be comoving standard rulers_.",
+    "since the report @xcite of a redshift periodicity of structures on the scale of @xmath22 , the existence of a preferred scale for very large scale structures , has been a matter of debate .",
+    ".power spectra from wide surveys [ cols=\">,^,^,^,>,<,<,^ \" , ]      notes : 1 ) marginal peak and dip ; 2 ) not deconvolved for survey geometry ; 3 ) @xmath23 [ surveys ]    as seen in table 1 , whereas many authors find significant peaks and dips in @xmath15 , measured from large surveys , they do not agree on their positions . in what follows , we will assume that there _ is _ a feature ( peak or dip ) in @xmath15 , which should lead to a quasi - periodic signal in the space distribution that is essentially frozen in comoving space .",
+    "after previous attempts @xcite on a low spectral resolution survey of quasars @xcite , we have analyzed the 2df quasar sample , called 2qz-10k @xcite , publicly made available in the spring of 2001 . after discarding poorly sampled regions ( where the survey completeness was less than 80% ) , leaving us with 2378 quasars , we computed the spatial two - point correlation function of the quasars in 3 redshift bins ( @xmath24 , [ 1.1 , 1.6 ] , [ 1.6 , 2.1]$ ] ) , looking for features at the same comoving separations .",
+    "the correlation functions were estimated as @xcite @xmath25/(\\hbox{rr}/n^2)$ ] , where dd , dr and rr indicate the number of data - data , data - random , and random - random quasar pairs respectively .",
+    "we avoided redshift selection effects ( emission lines will be visible in some intervals of redshift ) , by constructing our random catalogs with random angular positions , but redshifts obtained by scrambling the distribution in the dataset .",
+    "the correlation functions were smoothed with a @xmath26 gaussian .",
+    "we then repeated the exercise for @xmath27 pairs of @xmath28 , since the separation of two quasars depends on their angular separation and their two redshifts in a non - trivial function of @xmath7 and @xmath29 .    only in the region @xmath30",
+    "did we obtain strong peaks in the correlation functions .",
+    "figure  1 @xcite illustrates the subregion  the vertical ellipse centered on @xmath31 and @xmath3 ( 95% confidence )  where the peaks ( at separation @xmath32 ) in the correlation function are at the same comoving separation in the three redshift bins .",
+    "_ this appears to be the strongest joint constraint on @xmath7 and @xmath29 from a single survey . _      as a caveat , we have computed the expected correlation function from the power spectrum of @xcite , which we have padded with a cmbfast calculation with @xmath35 that fits well their @xmath15 , using the relation @xmath36 we find oscillations in the @xmath26 gaussian smoothed correlation function that are 25 times smaller than found by @xcite .",
+    "we check this by considering a feature in @xmath15 at wavenumber @xmath37 that has amplitude @xmath38 and width @xmath39 decades in @xmath40 . if @xmath41 , eq .  ( [ xiofr ] ) yields @xmath42 . if @xmath43 has a secondary maximum at @xmath44 , then @xmath45 . for @xmath46 and @xmath47 @xcite , we need @xmath48 .",
+    "so if the spike is , say , one - tenth of a decade wide , we need to locally boost @xmath15 by a factor 15 , whereas the measured peak @xcite is only a factor 2 above the interpolated @xmath15 .",
+    "it seems clear that there is an inconsistency between these two analyses , and we are presently redoing our analysis of @xmath49 from 2qz-10k to resolve this question . whether @xmath49 or @xmath15 is the better tool for detecting comoving standard rulers across distinct redshift intervals remains an open question .",
+    "99 s.  w. , 1998 , mnras   296 , 392 t.  j. , ellis r.  s. , koo d.  c. , szalay a.  s. , 1990 , 343 , 726 s.  m. , smith r.  j. , boyle b.  j. , et al .",
+    ", 2001 , mnras   322 , l29 j. , einasto m. , gottloeber s. , et al . , 1997 ,   385 , 139 a.  j.  s. , tegmark m. , 2002 , mnras   330 , 506 m.  j. , mamon g.  a. , 1994 , apjl   421 , l63 f. , outram p.  j. , shanks t. , et al . , 2002 , mnras   329 , 336 a. , clowes r. , shaver p. , 1996",
+    ", a&as   119 , 265 s.  d. , szalay a.  s. , 1993 ,   412 , 64 h. , kirshner r.  p. , shectman s.  a. , et al . , 1996 ,   471",
+    ", 617 g.  a. , 1993 , eds combes f. , athanassoula e. , in _ gravitational dynamics and the n - body problem_. obs .",
+    "de paris , paris , p.  188",
+    ", arxiv : astro - ph/9308032 c.  j. , batuski d.  j. , 2001 ,   551 , 635 w.  j. , baugh c.  m. , bland - hawthorn j. , et al .",
+    ", 2001 , mnras   327 , 1297 b.  f. , mamon g.  a. , 2000 , a&a   358 , 395 b.  f. , mamon g.  a. , 2001 , a&a   366 , 1 b.  f. , mamon g.  a. , bajtlik s. , 2002 , a&a382 , 397 p. , b \" ohringer h. , guzzo l. , et al . , 2001 , a&a   368 , 86 h. , efstathiou g. , dalton g. , 1998 , mnras   296 , 995 m. , hamilton a.  j.  s. , xu y. , 2002 , mnras   335 , 887 s. d.  m. , navarro j.  f. , evrard a.  e. , frenk c.  s. , 1993 , 366 , 429 a. , abadi m.  g. , lambas d.  g. , 2001 , mnras   326 , 147"
+  ],
+  "abstract_text": [
+    "<S> structures on very large scales ( @xmath0 ) have negligible peculiar motions , and are thus roughly fixed in comoving space . </S>",
+    "<S> we looked for significant peaks at very large separation in the two - point correlation function  corrected for redshift selection effects  of a well convered subsample of 2378 quasars of the recently released 10k sample of the 2df quasar survey . dividing our sample in three redshift intervals </S>",
+    "<S> , we find a peak at @xmath1 , which is perfectly comoving for a restricted set of cosmological parameters , namely @xmath2 and @xmath3 ( both at 95% confidence ) . assuming a flat universe , we constrain the quintessence parameter @xmath4 ( 95% confidence ) . we discuss the compatibility of our analysis with possible peaks in the power spectrum .    </S>",
+    "<S> -2 cm    1.5 cm </S>"
+  ]
+}

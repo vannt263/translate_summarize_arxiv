@@ -1,0 +1,20 @@
+{
+  "article_text": [
+    "as summarized elsewhere in these proceedings our recent work has demonstrated that at the low accretion rates appropriate for dwarf novae ( dn ) , the core temperature , @xmath0 , of the wd is _ set _ by the long - time average accretion rate , @xmath1 , of the binary @xcite . with @xmath0 set",
+    ", we determine the wd luminosity , which depends on @xmath2 , @xmath3 , and the mass of the freshly accreted layer .",
+    "this luminosity is directly observable for dn when the disk is in quiescence and the surface of the wd has cooled after outburst .",
+    "in the quiescent state , the broadband colors are just that of a hot wd plus a low mass main sequence star or brown dwarf companion . figure [ fig : m4 ] shows the color and magnitude we predict for quiescent cv binaries using standard cv evolution to relate the companion mass to @xmath4 @xcite .",
+    "the data shown for comparison are members of the globular cluster m4 as determined by proper motion studies with _ hst _ @xcite .",
+    "the @xmath5 wd primary spends approximately 1 gyr in the zz ceti instability strip .",
+    "this work was supported by the nsf under grants phy99 - 07949 , ast01 - 96422 , and ast02 - 05956 , and by nasa through grant ar-09517.01-a from stsci , which is operated by aura , inc .",
+    ", under nasa contract nas5 - 26555 .",
+    "l. b. is a cottrell scholar of the research corporation and d. t. is an nsf graduate fellow .      9 townsley , d. m. & bildsten , l. 2002 , apj , 565 , l35 howell , s. b. , nelson , l. a. , & rappaport , s. 2001 , apj , 550 , 897 kolb , u. & baraffe , i. 1999 , mnras , 309 , 1034 king , i. r. , anderson , j. , cool , a. m. , & piotto , g. 1998 , apj , 492 , l37"
+  ],
+  "abstract_text": [
+    "<S> our recent theoretical work ( townsley and bildsten 2002 ) on the thermal state of white dwarfs ( wds ) in low mass transfer rate binaries allows us to predict the broadband colors of the binary from those of the wd and companion when the disk is dim . </S>",
+    "<S> the results based on standard cv evolution are presented here . </S>",
+    "<S> these will aid the discovery of such objects in field surveys and proper - motion selected globular cluster surveys with _ hst _ ; especially for the largely unexplored post period minimum cataclysmic variables ( cvs ) with the lowest accretion rates and degenerate companions . </S>",
+    "<S> we have also calculated the fraction of time that the wd resides in the zz ceti instability strip thus clarifying that we expect many accreting wds to exhibit non - radial oscillations . </S>",
+    "<S> the study of these will provide new insights into the rotational and thermal structure of an actively accreting wd . </S>"
+  ]
+}

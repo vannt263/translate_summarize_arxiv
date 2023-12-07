@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "the  is an intrinsic feature of the red giant branch ( rgb ) luminosity function ( lf ) of globular clusters ( gc ) .",
+    "it appears as a peak in the differential lf , and as a change in the slope of the cumulative lf .",
+    "the bump originates when the h - burning shell crosses the chemical discontinuity left over by the convective envelope soon after the first dredge - up .",
+    "so , a comparison between the theoretical and observed rgb bump location is a powerful tool for checking the capability of stellar models to finely predict the maximum inward extension of outer convection during the first dredge - up . in order to overcome the uncertainties related the gc distance scale ,",
+    "the location of the rgb bump is linked to the horizontal branch ( hb ) , and the parameter @xmath0 , ( i.e. , the difference in visual magnitude between the rgb bump and the hb stars within the rr lyrae instability strip ) is commonly used .",
+    "recently , an exhaustive comparison between theory and a large sample of gcs has been performed by zoccali et al .",
+    "( 1999 z99 ) and ferraro et al . ( 1999 ) . here",
+    ", we have doubled the z99 sample ( to 53 clusters ) , using the same hst snapshot database ( piotto et al .",
+    "2002 ) . at variance with z99 , and in order to minimize the problems coming from the trasformation of the models from the theoretical to the observational plane , here we have worked directly in the hst f555w and f439w flight system .",
+    "the analysis procedures are as in z99 .",
+    "figure 1 shows the comparison between the observed @xmath1and the models ( cassisi & salaris 1997 ) for three different cluster ages .",
+    "the trend of the empirical data is well reproduced by standard stellar models .",
+    "in particular , the models predict a significant change in the slope of the @xmath1- [ m / h ] relation around @xmath2\\approx-0.5 $ ] dex that is confirmed by the observations .",
+    "some discrepancy is still present at the two extremes of the metallicity range of gcs .",
+    "carretta , e. , & gratton , r.  g. 1996 , , 121 , 95 cassisi , s. , & salaris , m. 1997 , , 285 , 593 ferraro , f.  r. et al .",
+    ", , 118 , 1738 piotto , g. et al .",
+    "2002 , , 391 , 945 zoccali , m. , cassisi , s. , piotto , g. , bono , g. , & salaris , m. 1999 , , 518 , l49"
+  ],
+  "abstract_text": [
+    "<S> we present a comparison between theoretical models and the observed magnitude difference between the horizontal branch and the red giant branch bump for a sample of 53 clusters . </S>",
+    "<S> we find a general agreement , though some discrepancy is still present at the two extremes of the metallicity range of globular clusters .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

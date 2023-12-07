@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "sn 2002ap was a type ic sn discovered on jan 29.4 , 2002 in ngc 628 .",
+    "the explosion energy of the sn was larger than usual type ic sne ( 4 - 10@xmath0 ergs ) .",
+    "sn 2002ap was of great interest because it was one of the closest extragalactic sn ( d=7.3 mpc ) ; secondly it was a type ic sn and grb association of type ic is found in sn 1998bw ( with grb 980425 ) and sn 2003dh ( with grb 030329 ) .",
+    "sn 2002ap has shown sn 1998bw like features like high velocity in early spectroscopy of optical data .",
+    "study of type ic sne is interesting because they are devoid of h and he core and hence can probe closer to the central engine .",
+    "xmm - newton observed sn 2002ap on feb 2 , 2002 for total 37.4 ksec with epic - pn and epic - mos .",
+    "we found that chandra observatory has observed this field on jun 19 and on oct 19 , 2001 .",
+    "inspection of pre - explosion chandra image reveals the presence of a source 14.9 `` away from the sn .",
+    "( see figure [ fig : images ] ) .",
+    "a spectrum of the sn was extracted using circle of radius 40 '' . while deriving the flux of the sn , we subtracted the contribution of nearby chandra source .",
+    "table [ tab:5 ] @xcite gives results of different models fitted to the x - ray emission from the sn with a subtracted contribution due to chandra source . both power - law and thermal bremsstrahlung models",
+    "however we can not say which one is better due to sparse data .",
+    "20 \" is centered at sn.,title=\"fig:\",width=151 ]   20 \" is centered at sn.,title=\"fig:\",width=113 ]    .best fit spectral parameters for epic - pn data [ cols=\"<,<,<,<,<,<\",options=\"header \" , ]      +",
+    "we suggest that repeated scattering of optical photons can account for the prompt x - ray emission from sn 2002ap .",
+    "x - ray sphere ( 7@xmath1 cm ) lies between optical ( 3.5@xmath1)and the radio photosphere ( 4@xmath2 cm ) . both wolf - rayet and interacting binary case",
+    "bb are capable of providing the adequate  optical depth and are viable scenarios for the progenitor star .",
+    "the properties of different kind of sne differ significantly from each other .",
+    "in fact the same type of sne can show the significantly different properties .",
+    "+ we thank staff of xmm - newton and gmrt ( ncra - tifr ) that made these observations possible .    9",
+    "berger , e , kulkarni , s , chevalier , r. , apj , 177 , l5 , ( 2002 ) .",
+    "chevalier , r , fransson , c , apj , 420 , 268 , ( 1994 ) .",
+    "fransson , c , a&a , 111 , 140 , ( 1982 ) .",
+    "habets , g , ph.d .",
+    "thesis , univ .",
+    "leonard , d , fillipenko , a , chornock , r et al , astro - ph/0206368 ( 2002 ) .",
+    "mazzali , p et al , apj , 572 , l61 , ( 2002 ) .",
+    "sutaria , f , chandra , p , ray , a , bhatnagar , s , a&a , 397 , 1011,(2003 ) ."
+  ],
+  "abstract_text": [
+    "<S> here we report on combined x - ray and radio observations of sn 2002ap with xmm - newton too observation and gmrt observations aided with vla published results . in deriving the x - ray flux of sn 2002ap </S>",
+    "<S> we account for the contribution of a nearby source , found to be present in the pre - sn explosion images obtained with chandra observatory . </S>",
+    "<S> we also derive upper limits on mass loss rate from x - ray and radio data . </S>",
+    "<S> we suggest that the prompt x - ray emission is non - thermal in nature and its is due to the repeated compton boosting of optical photons . </S>",
+    "<S> we also compare sn s early radiospheric properties with two other sne at the same epoch . </S>"
+  ]
+}

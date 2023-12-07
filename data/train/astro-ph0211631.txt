@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "mcg6 - 30 - 15 has a strong and very broad fe  k@xmath0 line which shows little short timescale variability ( fabian et al . 2002 ) .",
+    "a possible explanation for this behavior is if the line and reflection continuum arises from an ionized accretion disc . at ionization parameters @xmath3 , where @xmath4 , the fe k line is produced by he - like iron , and its equivalent width decreases as @xmath5 increases ( ross , fabian & young 1999 ) . in this contribution we present the results of fitting ionized disc models to a 325 ks observation of mcg6 - 30 - 15 made simultaneously by _ xmm - newton _ and _ bepposax_. a complete description of the analysis can be found in the paper by ballantyne , vaughan & fabian ( 2002 ) .",
+    "the data has been described by fabian et al . ( 2002 ) . here , we present results from fitting the epic pn , mecs and pds data between 2.5 and 80  kev .",
+    "the low energy cutoff was chosen to avoid spectral complexity due to the warm absorber , while the 100  kev upper - limit of the reflection models set the value of the high energy cutoff .",
+    "the constant density ionized disc models of ross & fabian ( 1993 ) were used in the spectral fitting ( done with xspec  v.11.2 ) .",
+    "relativistic blurring was taken into account , as was galactic absorption .",
+    "the fe line exhibited by mcg6 - 30 - 15 is very strong ( ew @xmath6  ev ) and broad ( red wing extends to @xmath7  kev ) .",
+    "it was difficult for a single ionized reflector to account for both of these features of the fe line and fit the continuum , even with an overabundance of iron .",
+    "therefore , we were forced to consider 2 reflectors to fit the line ( see left panel of fig .  1 ) .    in this model",
+    ", the red wing of the fe line and the bulk of the 210  kev continuum were fit by an ionized ( @xmath8 ) reflection component and the primary power - law ( with the reflection fraction frozen at 1 ) .",
+    "oddly , this component is constrained to arise from a narrow annulus at @xmath25  @xmath1 .",
+    "the blue horn of the fe line and the majority of the high energy continuum is produced by secondary reflection of the primary power - law beyond @xmath270  @xmath1 .",
+    "the right panel of fig .  1 shows how the ionization parameters of the two reflectors changed with the source brightness .",
+    "these fits were made with 10  ks segments from all three orbits of the _ xmm - newton _ pn dataset .",
+    "we found that the inner reflector becomes more ionized as mcg6 - 30 - 15 brightened , while the secondary remained neutral .",
+    "therefore , the red wing of the fe line weakens in higher flux states , but the blue core will respond on much longer timescales . in this way , a double reflection model can account for some of the fe line variability properties .",
+    "ballantyne , d.r . ,",
+    "vaughan , s. & fabian , a.c .",
+    ", 2002 , , submitted fabian , a.c .",
+    ", et al . , 2002 , , 335 , l1 ross , r.r .",
+    "& fabian , a.c . , 1993 , , 261 , 74 ross , r.r . ,",
+    "fabian , a.c .",
+    "& young , a.j . , 1999 , , 306 , 461"
+  ],
+  "abstract_text": [
+    "<S> ionized reflection is one of the possible mechanisms proposed to explain the small short - timescale variability of the mcg6 - 30 - 15 fe  k@xmath0 line . in this contribution </S>",
+    "<S> , we fit the ross & fabian ionized reflection models to the 325  ks _ xmm - newton _ observation of mcg6 - 30 - 15 . </S>",
+    "<S> it is found that the spectrum above 2.5  kev can be fitted with a combination of an ionized reflector from 5  @xmath1 and a neutral reprocessor beyond @xmath270  @xmath1 . </S>",
+    "<S> the ionization parameter of the inner reflector increases as the source brightens . </S>"
+  ]
+}

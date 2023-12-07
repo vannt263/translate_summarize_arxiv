@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "ic  2554 is a southern galaxy with a peculiar optical appearance .",
+    "it is also known as se  72/1 ( srsic 1974 ) , eso  092-ig012 , and iras  100756647 .",
+    "1 shows a deep optical image of ic  2554 ( laustsen , madsen & west 1987 ) revealing many bright knots as well as a network of dust lanes intersecting the main body of the galaxy .",
+    "the optical extent of ic  2554 is 325 ( see table  1 ) .",
+    "its irregular and asymmetric appearance has prompted the division into multiple components , roughly aligned north - south .",
+    "lauberts et al .",
+    "( 1978 ) describe ic  2554 as a ` fox - shaped ' system with a complex spiral pattern .",
+    "they distinguish three components : two central condensations separated by 18  with optical velocities of 1230 and 1310  kms@xmath6  and a detached arm or satellite to the north ( 1190  kms@xmath6 ) .",
+    "corwin et al . ( 1985 ) describe ic  2554 as a colliding pair ( ic  2554a and b , 08 apart ) with plumes .",
+    "laustsen et al .",
+    "( 1987 ) describe ic  2554 as a very disturbed pair of galaxies with a large number of emission nebulae , indicating high activity of star formation .",
+    "lauberts ( 1982 ) and laustsen et al .",
+    "( 1987 ) note ic  2554 as possibly disturbed by the elliptical galaxy ngc  3136b ( eso  092-g013 ) . but",
+    "ic  2554 has also been classified as a peculiar barred spiral galaxy ( de vaucouleurs et al .",
+    "1991 ) , where the northern spiral arm appears elongated .",
+    "high - resolution hi  observations ( presented here ) are needed to study the gas dynamics of this complex system and distinguish between the numerous scenarios .",
+    "close to ic  2554 ( see fig .  2 ) are three known galaxies : the elliptical galaxy ngc  3136b ( 1780  kms@xmath6 ) , the faint spiral eso  092-g009 and the galaxy rkk  1959 . for a summary of various optical properties of ic  2554 and",
+    "the neighbouring galaxies see table  1 ."
+  ],
+  "abstract_text": [
+    "<S> atca hi  and radio continuum observations of the peculiar southern galaxy ic  2554 and its surroundings reveal typical signatures of an interacting galaxy group . </S>",
+    "<S> we detected a large hi  cloud between ic  2554 and the elliptical galaxy ngc  3136b . </S>",
+    "<S> the gas dynamics in ic  2554 itself , which is sometimes described as a colliding pair , are surprisingly regular , whereas ngc  3136b was not detected . the hi  cloud , which emerges from ic  2554 as a large arc - shaped plume , has a size of @xmath0 kpc , larger than that of ic  2554 . </S>",
+    "<S> the total hi   mass of the ic  2554 system is @xmath1  m@xmath2 , a third of which resides in the hi  cloud . </S>",
+    "<S> it is possible that tidal interaction between ic  2554 and ngc  3136b caused this spectacular hi  cloud , but the possibility of ic  2554 being a merger remnant is also discussed . </S>",
+    "<S> we also detected hi  gas in the nearby galaxies eso  092-g009 and rkk  1959 as well as an associated hi   cloud , atca  j10066710 . </S>",
+    "<S> together they have an hi  mass of @xmath3  m@xmath2 . </S>",
+    "<S> another new hi  source , atca  j10076659 , with an hi  mass of only @xmath4  m@xmath2  was detected roughly between ic  2554 and eso  092-g009 and corresponds to a face - on low surface brightness dwarf galaxy . </S>",
+    "<S> star formation is evident only in the galaxy ic  2554 with a rate of @xmath54  m@xmath2yr@xmath6 .    </S>",
+    "<S> galaxies : individual ( ic  2554 , ngc  3136b , eso  092-g009 , rkk  1959 )  galaxies : interactions </S>"
+  ]
+}

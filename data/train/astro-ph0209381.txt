@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "we understand a spectrum formation of sne  ii not better than we do the hydrogen and helium spectra of sn  1987a at the early photospheric epoch . despite many attempts to explain h@xmath0 and he i 5876  lines we are still far from satisfactory results  @xcite .",
+    "the stumbling block is that any model produces too week h@xmath0 and he i 5876  at the early photospheric epoch .",
+    "yet , it has already become clear that a residual ionization ( freeze - out effects ) may result in the enhanced excitation of hydrogen compared to steady - state regime  @xcite . however , in our previous study  @xcite we assumed simple laws for the behavior of electron temperature in the atmosphere . here we will confirm a vital role of freeze - out effects in the hydrogen excitation at the photospheric epoch using the upgraded model in which time - dependent chemical kinetics",
+    "is solved along with time - dependent energy balance . moreover , here we consider neutral helium , not only hydrogen , and will show a key role of the time - dependent kinetics for he i 5876  line too .",
+    "we also recapitulate here our previous results on modeling the blue peak of h@xmath0 at the bochum event phase upon the basis of the time - dependent kinetics with hydrogen - composed species  @xcite .",
+    "this will demonstrate that not only first - order effects , like freeze - out , but subtle molecular processes may be also important for hydrogen spectrum formation in sn  ii .     from day 1.76 to 29.68 ( * a - d * ) and he i 5876  on day 1.76 ( * a * ) in sn  1987a .",
+    "the observed spectra from day 1.76 to 8.69  @xcite and on day 29.68  @xcite ( _ thick solid line _ ) are compared to those computed with the full time - dependent energy balance ( _ thin solid line _ ) , with adiabatic evolution of the kinetic temperature ( _ short dashed line _ ) , with the electron temperature equal to the local radiative temperature ( _ long dashed line _ ) , and for the steady state ( _ dotted line _ ) , scaledwidth=90.0% ]     profiles on day 29.68 calculated in time - dependent approach with ( _ thin solid line _ ) and without ( _ dotted line _ ) molecular reactions .",
+    "( * b * ) the behavior of the sobolev optical depth of h@xmath0 in both models . _ right panel _",
+    ": physical conditions in the supernova atmosphere ( @xmath2km / s ) on day 4.64 .",
+    "( * c * ) the density ( _ thick solid line _ ) and electron temperature ( in units of 1000k ) . the temperature is given for the model with the full energy balance ( _ thin solid line _ ) and for that with the adiabatic approximation ( _ dotted line _ ) .",
+    "( * d * ) the behavior of the sobolev optical depth for h@xmath0 and fractional abundance of h@xmath3 for both models , scaledwidth=90.0% ]",
+    "the atmosphere model is based on the hydrodynamic model  @xcite with a 15@xmath4 ejecta and a kinetic energy of 1.9@xmath510@xmath6erg .",
+    "the radiation field is treated in the approximation of sharp photosphere . for t@xmath71.8 days",
+    "the radiation field in continuum is described by the photospheric radius and effective temperature , taken from the hydrodynamic model , and at later epoch by the empirical values  @xcite and by the uv and optical observations  @xcite .",
+    "the line radiation transfer is treated in the sobolev approximation   @xcite .",
+    "electron temperature in the atmosphere is determined from solving the time - dependent energy equation .",
+    "the following elements and molecules are calculated in non - lte chemical kinetics : h , he , c , n , o , ne , na , mg , si , s , ar , ca , fe , h@xmath8 , h@xmath9 , h@xmath10 , and h@xmath11 .",
+    "all elements but h are treated with the three ionization stages .",
+    "the level populations of h and he i are calculated for 15 and 29 levels , respectively , while other atoms and ions are assumed to consist of the ground state and continuum .",
+    "the reaction network involves all bound - bound and bound - free , radiative and collisional processes for atoms and ions , and 7 radiative and 37 collisional processes for molecules .",
+    "we have developed the time - dependent chemistry model coupled with the time - dependent energy balance at photospheric phase and investigated spectra of sn 1987a .",
+    "the fit between the observed and calculated h@xmath0 profiles on days 1.76 , 4.64 , 8.69 , and 29.68 and those of he i 5876  line on day 1.76 is fairly good in fig .",
+    "1 indicating that our model reflects the reality reasonably well .",
+    "however , we admit that on day 1.76 our assumption on the sharp photosphere may be responsible for the deficit of the calculated h@xmath0 and he i 5876  net radiation .    the time - dependent effects in the h@xmath0 and he i 5876  lines are remarkable in producing the strong absorption both in h@xmath0 and he i 5876  lines on day 1.76 ( fig .",
+    "moreover , a relative contribution of time - dependent effects to h@xmath0 increases in time ( fig .  1 ) .",
+    "no doubts , the ionization freeze - out plays a key role in producing the ionization and excitation of hydrogen during at least first month . at later epoch",
+    "the non - thermal ionization and excitation from radioactive @xmath12ni decays become important  @xcite .",
+    "after about day 20 molecular processes neutralizing ionized hydrogen ( mainly h@xmath8 + h@xmath13 @xmath14 2h ) dominate over recombination close to the photosphere .",
+    "this results in the non - monotonic radial dependence of the h@xmath0 sobolev optical depth that is blamed for the blue peak in h@xmath0 at bochum event phase ( figs .",
+    "earlier we have used the adiabatic approximation for electron temperature  @xcite .",
+    "while it is a good approximation for the outer layers , we demonstrate that the full time - dependent energy balance should be solved to produce more confident results in the time - dependent models ( figs .",
+    "our present study of the time - dependent effects and the influence of molecules and radioactivity in the photospheric epoch of sn  1987a may be summarized as follows :    * the time - dependent effects are a key prerequisite for the strong h@xmath0 line during nearly the first month and the he i 5876  line on day 1.76 ; * the additional excitation from radioactive @xmath12ni decays is not required to account for the h@xmath0 line during about the first month ; * the molecular processes among hydrogen - composed species turn out important factor of hydrogen neutralization which is manifested by the emergence of the blue peak of h@xmath0 at the bochum event phase .",
+    "we believe that these effects are important for normal sne ii - p at the plateau epoch as well .",
+    "v.p.u . is grateful to f. patat and b. leibundgut for hospitality at the eso and the financial support .",
+    "this work is partially supported by the rfbr ( project 01 - 02 - 16295 ) ."
+  ],
+  "abstract_text": [
+    "<S> we have developed a time - dependent model of ionization , excitation and energy balance of sn  1987a atmosphere at the photospheric epoch to study early behavior of hydrogen and helium lines . </S>",
+    "<S> the ionization freeze - out effects play a key role in producing both the strong h@xmath0 during nearly the first month and the he  i 5876  scattering line on day 1.76 . using an extended reaction network between hydrogen molecules and their ions demonstrates that ion - molecular processes are likely responsible for the blue peak in h@xmath1 profile at the bochum event epoch . </S>"
+  ]
+}

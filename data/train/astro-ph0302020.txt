@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "during the thermally - pulsing ( tp- ) agb phase of low- and intermediate - mass stars , several `` third dredge - up '' episodes  followed by hot - bottom burning in the most massive stars  cause the surface pollution with he and cno elements of primary origin , which are eventually ejected into the interstellar medium .",
+    "although the occurrence of the third dredge - up is well established from theory , its efficiency is still uncertain .",
+    "also uncertain is the total duration of the tp - agb phase , determined by both the dredge - up efficiency in reducing the core mass , and the mass - loss efficiency in peeling the star of its envelope .",
+    "these uncertainties directly affect the estimates of the he and cno chemical yields , as well as the predicted abundances of planetary nebulae .",
+    "the most evident effect of the third dredge - up is the formation of carbon ( c ) stars when the surface c / o ratio increases above 1 . therefore , c stars in resolved stellar populations constitute the best tool for calibrating the third dredge - up efficiency and hence constraining tp - agb models and their chemical yields ( see e.g. marigo et al . 1999 , and marigo 2001 ) .",
+    "recently , marigo ( 2002 , and talk in this meeting ) showed that the adoption of variable molecular opacities  suitably coupled to the varying envelope composition along the tp - agb  dramatically changes the evolutionary properties of tp - agb models , allowing a much better agreement with observed @xmath6 and c / o values for c stars .",
+    "the improved models make it necessary a re - calibration of the third dredge - up efficiency . with this aim",
+    ", we are currently analysing the c star data for the magellanic clouds .",
+    "one main evolutionary effect of variable molecular opacities is a reduction of @xmath6 values for c stars , which then causes an earlier onset of the superwind regime and reduces their lifetimes .    to check the lifetimes of the new tp - agb models , we have used the number of c stars in lmc star clusters normalised to their integrated @xmath7-band luminosity , @xmath8 ( fig.1a ) .",
+    "this plot gives an almost direct and model - independent measure of the typical c - star lifetimes .",
+    "the data ( dots with error bars ) put clear constraints for masses between 1.5 and 2.8 @xmath9 , whereas at higher / lower masses just upper limits ( arrows ) can be defined .",
+    "models with more efficient dredge - up ( lower @xmath4 and/or higher @xmath5 ) are clearly favoured by the comparison with these data .",
+    "the same data indicate that c - star lifetimes vary between @xmath0 and @xmath1 myr , for stars in the mass interval from @xmath2 to @xmath10 ( fig.1b ) . it should be noticed that several models in the literature present lifetimes significantly shorter than these values . in models with variable molecular opacities ,",
+    "the observed lifetimes are attained provided that efficient dredge - up is favoured at low - masses  for instance with the dredge - up parameters @xmath11 and @xmath12 .",
+    "these are the same values calibrated by marigo et al .",
+    ".    models with these parameters tend to reproduce reasonably well the luminosities of individual c stars observed in lmc clusters , although such data is scarse and do not cover the complete age interval of interest . instead ,",
+    "the lmc c - star luminosity function is slightly better reproduced by models with a later onset of the dredge - up , i.e.  @xmath13 ( fig .  2 ) .",
+    "for the smc , the mean peak luminosity is well reproduced with @xmath11 .",
+    "we are presently testing different combinations for @xmath4 and @xmath5 , in order to find dredge - up parameters that best fit all the available data .",
+    "our preliminar calibrations are being checked in comparison with additional data for agb stars in local group galaxies . once the calibration is carried out , improved sets of chemical yields for tp - agb models",
+    "will be derived , as well as the related theoretical isochrones and synthetic cmds ( marigo et al .",
+    "2003 ) .",
+    "frogel j.a . , mould j. , blanco v.m . , 1990 ,",
+    "apj 352 , 96 girardi l. , bressan a. , bertelli g. , chiosi c. , 2000 , a&as 141 , 371 groenewegen m.a.t . , de jong , 1994 , a&a 283 , 463 groenewegen m.a.t . , 2002 , astro - ph/0208449 marigo p. , girardi l. , chiosi c. , 1996 , a&a 316 , l1 marigo p. , girardi l. , chiosi c. , 2003 , a&a submitted marigo p. , girardi l. , bressan a. , 1999 , a&a 344 , 123 marigo p. , 2001",
+    ", a&a 370 , 194 marigo p. , 2002 ,",
+    "a&a 387 , 507 mouhcine m. , lanon a. , 2002 , a&a 393 , 149 renzini a. , voli , 1981 , a&a 94 , 175"
+  ],
+  "abstract_text": [
+    "<S> we use the available data for magellanic cloud carbon stars to constrain the efficiency of the third dredge - up process in tp - agb models . </S>",
+    "<S> we show that star counts in lmc clusters provide quite stringent limits to the lifetime of the c - star phase , with a duration between @xmath0 and @xmath1 myr for stars in the mass range from @xmath2 to @xmath3 . </S>",
+    "<S> together with the luminosity functions of field c stars , this information allows us to re - calibrate the third dredge - up parameters @xmath4 and @xmath5 in tp - agb models that include variable molecular opacities ( marigo 2002 ) . </S>",
+    "<S> preliminary results are presented here .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ = # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

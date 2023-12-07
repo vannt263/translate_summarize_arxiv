@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "there is abundant evidence that stars form in clumps within molecular clouds . in order to understand the mechanism by which stars form",
+    ", we therefore must understand the environment within a molecular cloud .",
+    "observations show that molecular clouds are composed of a hierarchical network of filaments , clumps and cores ( @xcite ) .",
+    "the most popular explanation for this substructure is that of turbulent fragmentation ( @xcite ) . in this scenario ,",
+    "turbulent fluctuations within the molecular cloud can compress the gas through shocks to high enough densities that the self - gravity of such regions becomes strong enough to induce collapse , resulting in a cloud which has been broken up into several condensing cores .",
+    "the cores , due to their origins as fragmenting shocks , are arranged along filamentary structures ; the intersections of these filaments have many of these smaller cores attracted to their higher average density , resulting in clusters which resemble the observed clumps .",
+    "we performed simulations to test whether the structure of cores produced in this turbulent fragmentation scenario are consistent with observation .",
+    "our simulations were performed using the ncsa zeus - mp hydrodynamics code .",
+    "zeus - mp is a mesh - based eulerian hydromagnetic code capable of performing 3d simulations .",
+    "the self - gravity of the fluid is calculated using a fft gravity solver .",
+    "our simulations are stopped when the numerical gravitational instability criterion of @xcite is violated ( @xmath0 ) .",
+    "we use an isothermal equation of state and periodic boundary conditions .",
+    "we start with a uniform initial density and no magnetic field , at a resolution of @xmath1 grid cells . into this box",
+    "we inject an initial series of plane waves , with their amplitudes described by a kolmogorov scaling law ( @xmath2 ) and with random phases and directions .",
+    "we ensure that @xmath3 .",
+    "our simulations can be described by two parameters , the rms mach number used to normalize the velocity fluctuations , and the initial number of jeans masses on the grid , used to normalize the density .",
+    "we chose our initial number of jeans masses from the clump data of @xcite",
+    "we show the projected density of two of our simulations in figure [ fig - density ] , each of which is at the point where the @xcite condition is violated . in the simulation with an initial mass of @xmath4 ( where @xmath5 is the initial jeans mass ) ,",
+    "the relatively weak gravitational force was not able to induce collapse until much of the turbulent kinetic energy had dissipated .",
+    "the resulting core is much more homogeneous than might be expected for a turbulent process .",
+    "the density structure of this core is slightly shallower than a bonnor - ebert sphere ( figure [ fig - profile ] ) , suggesting that some small amount of turbulent pressure is providing additional support to the fluid .",
+    "the evolution is similar to that of @xcite and @xcite for a collapsing pre - protostellar object , prior to what they call `` core formation '' ( when a singularity forms ) .    for the run with a large number of initial jeans masses ( @xmath6 ) , significant turbulent motions are still present when the simulation is stopped .",
+    "the fluid has condensed into a massive clump , surrounded by filamentary structures , and many smaller clump - like objects .",
+    "the individual cores have a shallower density profile than those in the weak - gravity simulation , resembling that of a logatropic sphere ( @xmath7 ) ( @xcite ) .",
+    "this suggests that they are still largely supported by turbulent motions .",
+    "similar density structures have been seen in regions of high - mass star formation ( @xcite ) . in our simulations , the filaments and clumps",
+    "appear to form simultaneously out of the collision and merger of short shock arcs , rather than undergoing hierarchical collapse .",
+    "however , the shocks that do not merge do not contain enough mass to undergo gravitational collapse ."
+  ],
+  "abstract_text": [
+    "<S> we performed simulations of self - gravitating hydrodynamic turbulence to model the formation of filaments , clumps and cores in molecular clouds . </S>",
+    "<S> we find that when the mass on the initial computational grid is comparable to the jeans mass , turbulent pressure is able to prevent gravitational collapse . </S>",
+    "<S> when the turbulence has damped away sufficiently , gravitational collapse can occur , and the resulting structure closely resembles the pre - singularity collapse of an isothermal sphere of @xcite . if several jeans masses are initially placed on the grid , turbulence may not be sufficient to prevent collapse before turbulence can be significantly damped . in this case , the cores have density structures which are considerably shallower than expected for an isothermal gas , and resemble the solutions for a logatropic equation of state . </S>"
+  ]
+}

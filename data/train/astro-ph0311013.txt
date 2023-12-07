@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "the two proposed models for the formation of gas giant planets make different , and testable , predictions . for example , core accretion requires several myr to grow a solid core massive enough to accrete a gaseous envelope ( lissauer  1993 ) .",
+    "in contrast , disk instability leads to jupiter - mass clumps ( e.g. , boss  1997 ) , which can survive and give rise to actual protoplanets ( mayer et al .",
+    "2002 ) , within @xmath0 yr . the time - scale for core accretion to proceed depends strongly on the initial surface density of solids ( pollack et al .",
+    "1996 ) , so that formation by this mechanism may be enhanced in metal - rich stars .",
+    "instead , disk instability is remarkably insensitive to the primordial metallicity of the protoplanetary disk ( boss 2002 ) .",
+    "several observational tests can be performed to probe giant planet formation models ( boss 2003 ) . in order to unambiguously establish whether high primordial metallicity is a requirement , and",
+    "thus determine which is the dominant formation mechanism for gas giant planets , we are conducting a spectroscopic search for planets orbiting a sample of metal - poor stars in the field , thus eliminating possible sources of interference with planet formation , or with migration to close - in orbits , or with planet survival , such as dynamical interactions in dense stellar environments .",
+    "in this project we are searching for planetary companions within 1 au orbiting a sample of 200 metal - poor dwarfs , chosen from the carney - latham ( e.g. , carney et al .",
+    "1994 ) and ryan ( ryan 1989 ) surveys of metal - poor , chromospherically quiet , non rotating ( @xmath1 km / s ) , high - velocity field stars that happen to be passing by the solar neighborhood .",
+    "these stars are selected not to have close stellar companions based on long - term radial - velocity ( rv ) monitoring that has been carried out with the cfa digital speedometers .",
+    "our survey is orthogonal to other spectroscopic planet searches in that it spans a range of metallicities never investigated before ( @xmath2 [ fe / h ] @xmath3 ) .",
+    "we have further refined our sample of metal - poor dwarfs by imposing magnitude ( @xmath4 ) and temperature ( @xmath5 k ) cut - offs , and utilized the metallicity , temperature , and magnitude constraints to compute the relative exposure times needed to achieve 20 m / s rv precision for planet detection .",
+    "this precision is sufficient to achieve sensitivity to rv variations due to planetary companions with minimum masses in the average range @xmath6 m@xmath7 , or higher , for orbital periods in the range @xmath8 yr .",
+    "our sample of 200 metal - poor stars should eventually provide a robust 3-@xmath9 null result in the case of no detections .",
+    "during the first two keck 1/hires observing nights we have obtained spectra ( 1 template + 2 iodine exposures ) for 40 stars covering a large range of metallicities and effective temperatures , with the primary aim of evaluating the rv precision as a function of effective temperature and metallicity , and thus test the validity of our predictions for the dependence of the rv precision on these two parameters .",
+    "the resulting rv difference distribution between the two nights exhibits an rms residual velocity @xmath10 m / s , corresponding to an expected single - measurement uncertainty of @xmath11 m / s .",
+    "no clear trends in the rv differences as a function of [ fe / h ] and t@xmath12 are present , a further confirmation that the model we developed for the dependence of the rv precision on the above parameters is robust .",
+    "our next goal will be to demonstrate the long - term stability of the velocity zero - point and expected single - measurement precision for planet detection .",
+    "boss , a. p. 1997 , science , 276 , 1836 boss , a. p. 2002",
+    ", , 567 , l149 boss , a. p. 2003",
+    ", , in press carney , b. w. , et al .",
+    "1994 , , 107 , 2240 lissauer , j. j. 1993 , ara&a , 31 , 129 mayer , l. , et al .",
+    "2002 , science , 298 , 1756 pollack , j. b. , et al .",
+    "1996 , icarus , 124 , 62 ryan , s. g. 1989 , , 98 , 1693"
+  ],
+  "abstract_text": [
+    "<S> we present preliminary results from our spectroscopic search for planets within 1 au of metal - poor field dwarfs using nasa time with hires on keck i. the core accretion model of gas giant planet formation is sensitive to the metallicity of the raw material , while the disk instability model is not . by observing metal - poor stars in the field we eliminate the role of dynamical interactions in dense stellar environments , such as a globular cluster . </S>",
+    "<S> the results of our survey should allow us to distinguish the relative roles of the two competing giant planet formation scenarios .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

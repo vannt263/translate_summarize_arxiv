@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "the total masses and sizes of all galaxies are poorly determined quantities   because we do not have suitable dynamical tracers at sufficiently large radii .",
+    "the accurate measurement of the mass profile provides important clues to the nature of the dark matter .",
+    "the milky way is the prime target for an accurate measurement .",
+    "wilkinson & evans ( 1999 , hereafter we99 ) calculate the total mass of the milky way to be @xmath3 , using the full set of 27 known satellite galaxies and globular clusters ( hereafter satellites ) at galactocentric radii @xmath4 20 kpc ( six possess measured proper motions ) .",
+    "the large errors are primarily a consequence of the small number of satellites",
+    ". the sample must be nearly complete , so a new population of distant halo objects must be found in order to increase the number of dynamical tracers .",
+    "this motivates a new survey for remote halo tracers at large galactocentric distances .",
+    "we have solved the problem of how to find large numbers of bhb stars in the remote halo , and have begun a vlt programme to measure the kinematics of the population .",
+    "the procedure involves three steps .",
+    "first , we use u*g*r * photometry from the sdss database to detect a - type stars at high - galactic latitude .",
+    "these stars are either bhb stars ( @xmath6 = 0.7 , luminous standard candles ) or blue stragglers which are @xmath7 2 mag . less luminous .",
+    "second , we reduce the number of blue stragglers and increase the probability of good classification by limiting the colour ranges to 1.4 @xmath8 1.1 and -0.04 @xmath9 -0.2 . finally , using spectroscopy , described in clewley et al .",
+    "( 2002 ) , we are able to efficiently separate the two populations . we consistently find that about half of our target a - type stars are bhb stars .",
+    "figure 1 ( middle ) shows the increase of distant halo tracers at galactocentric distances of 20 @xmath10 130 kpc from 23 ( left ) to 90 .",
+    "preliminary results from the vlt are extremely encouraging",
+    ". we have successfully isolated 16 bhb stars in the galactocentric distance range of 70 to 130 kpc from a target sample of 31 candidates . with this small programme",
+    "we have nearly doubled the number of tracers known at @xmath11kpc . combined with the 23 satellites and 51 bhb stars at distances 20 to 60 kpc ( from previous work at the aat and wht )",
+    "we find the mass of the milky way is @xmath12 .",
+    "clewley , l. warren , s. j. , hewett p. c. , norris john e. , peterson , r. c. , evans , n. w. , 2002 , mnras , 337,87 + clewley l. , 2002 , phd thesis , university of london + wilkinson m. , evans n. , 1999 , mnras , 310 , 645 +"
+  ],
+  "abstract_text": [
+    "<S> we increase the number of remote halo tracers by using blue horizontal branch ( bhb ) stars out to galactocentric distances of 130 kpc . </S>",
+    "<S> we use sdss edr photometry and the vlt to detect 16 bhb stars at galactocentric distances 70 @xmath0r @xmath1 130 , and to measure their radial velocities . </S>",
+    "<S> we find the mass of the milky way is @xmath2 . </S>",
+    "<S> when completed this survey will : ( i ) substantially reduce the errors in the total mass and extent of the milky way halo , ( ii ) map the velocity space in a hitherto unexplored region of the halo .    # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

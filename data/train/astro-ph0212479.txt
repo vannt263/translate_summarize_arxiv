@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "the presence of some forbidden lines is a criterion to distinguish differents groups of massive stars .",
+    "for example , lbv and sgb[e ] have similar spectral characteristics , however , [ oi ] lines are present only in the sgb[e ] ( zickgraf , 1989 ) .",
+    "below , we have a table showing the presence ( yes ) or not ( no ) of some important forbidden lines .",
+    "figure 1 shows the profiles of forbidden and permitted nii lines in the spectra of hd 326823 .    0.4truecm     hd 87643 & yes &",
+    "no & yes & no & yes + hen 3 - 847 & yes & no & no & yes & yes & yes",
+    "+ gg car & yes & no & no & no & yes & yes + mwc 300 & yes & no & no & yes & yes & yes",
+    "+ hd 326823 & no & no & no & yes & yes & yes +    60truecm 5.5truecm profiles of nii lines in the high resolution spectrum ( feros - agreement eso / on ) of hd 326823 .",
+    "the permitted lines are in absorption , indicating a photospheric origin , and the forbidden are in emission , indicating a circumstellar origin .",
+    "from the comparison with spectra of well - stabilished groups , it is possible to derive the evolutive stage of these 5 unclb[e ] .    * * - the he overabundance indicates that it is an evolved star . in agreement with the literature , we suggest that is a pre - wn star with the b[e ] phenomenon ( fernandes et al .",
+    "this suggests a new class of b[e ] stars .        *",
+    "* - this star was classified as sgb[e ] , but some authors consider it as a binary system , with a b star and a k star .",
+    "our spectra do not show any feature from the late type star .",
+    "so we suggest that it is a sgb[e ] .",
+    "fernandes , m.b .",
+    ", de arajo , f.x . , pereira , c.b . ,",
+    "landaberry , s.j.c .",
+    "2001 ,  136 , 747 lamers , h.j.g.l.m . ,",
+    "zickgraf , f .- j . , de winter , d. , houziaux , l. , zorec , j. 1998 ,  340 , 117 zickgraf , f .- j .",
+    "1989 , in : l. a. wilson & r. stalio ( eds . ) , angular momentum and mass loss for hot stars , nato asi series 316 , 245"
+  ],
+  "abstract_text": [
+    "<S> the spectra of stars with the b[e ] phenomenon are dominated by features that are related to physical conditions of circumstellar material around these objects and are not intrinsic to the stars . because of this , they form a very heterogeneous group . </S>",
+    "<S> this group contains objects with different evolutionary stages </S>",
+    "<S> . lamers et al . </S>",
+    "<S> ( 1998 ) have suggested a new designation with five sub - groups , which indicate the evolutionary stage . </S>",
+    "<S> they are : supergiants , pre - main sequence or herbig ae / be , compact planetary nebulae , symbiotic and unclassified . </S>",
+    "<S> the unclassified group has many objects that need a better study to resolve their evolutionary status . </S>",
+    "<S> forbidden lines can be a useful tool to solve this problem . </S>",
+    "<S> they can give informations about chemical composition , ionization and density of the circunstellar medium and probably the evolutionary phase of these objects . </S>",
+    "<S> we analize spectra of some galactic objects , obtained with feros and b&c spectrograph at 1.52 telescope in eso ( la silla - chile ) , with a special focus on the forbidden lines . </S>",
+    "<S> we have studied the spectra of 5 b[e ] stars of uncertain evolutionary stage . </S>",
+    "<S> we find that one of them is a pre - wn star , the other four are supergiant b[e ] stars . </S>"
+  ]
+}

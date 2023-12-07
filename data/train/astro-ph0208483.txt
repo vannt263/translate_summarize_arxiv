@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "the explosion of a type ia supernova begins with the combustion at the center of a chandrasekhar mass white dwarf of carbon - oxygen ( c+o ) or oxygen - neon - magnesium ( o+ne+mg ) fuels .",
+    "the heat is transported mainly by conduction due to degenerate and completely relativistic electrons as a subsonic deflagration wave propagatating outwardly of the star .",
+    "the deflagration front born laminar is subject to several hydrodynamic instabilities such as landau - darrieus ( ld ) and rayleigh taylor ( rt ) instability ( arnett & livne 1994 , khokhlov 1993 ) that produce an increment of the area at which the nuclear reactions take place .",
+    "this causes an increase of the nuclear energy generation rate and consequently an acceleration of the front .",
+    "the combustion front is stabilized by the merging of cells , the formation of cusps , and the expansion of the exploding star .",
+    "this leads to the formation of a cellular structure at microscopic scales .",
+    "the bubbles that grow due to rt instability are also subject to kelvin - helmoltz ( kh ) or shear instability when nonlinear stabilization fails .",
+    "the onset of the kh instability marks the transition to the fully developed turbulence regime at the lower scales . during this , fluid motions are characterized by the formation of a turbulent cascade in the inertial scales where viscous dissipation is not important . this turbulence can be described by the kolmogorov s scaling law .    the fractal model for the combustion ( e.g. , timmes & woosley 1992 , niemeyer & woosley 1997 ) has achieved some success on describing the acceleration of wrinkled flames both in experiments and also in numerical simulations .",
+    "the velocity of the flame in this case is given by :    @xmath3    where @xmath4 is the effective fractal velocity and @xmath5 is the laminar velocity of the flame ; @xmath6 and @xmath7 are the greatest and minimum scales , respectively , of preturbations which are r - t unstable ; and d is the fractal dimension of the front .",
+    "the derivation of the value of d for a turbulent combustion regime has given @xmath8 ( see ghezzi , de gouveia dal pino & horvath 2001 ) , which is in agreement with previous numerical results ( blinnikov , sasorov & woosley 1995 ) .",
+    "we have incorporated the effects of magnetic fields on the fractal growth of the combustion front assuming that the progenitor star of a sn ia is a magnetized white dwarf with a centered dipolar magnetic field with strengths at the surface @xmath9 g ( see jordan 1992 ) and roughly 10 times greater near the center . using the fractal model described above we have found that the presence of the magnetic field causes the effective velocity of the flame at the magnetic poles ( @xmath10 ) to be larger than that at the equator of the star thus producing an asymmetry in the explosion of the sn ia ( ghezzi , de gouveia dal pino & horvath 2001 ) :    @xmath11    for the evaluation of this equation we have used a fractal dimension @xmath12 , and taken the remaining data from timmes & woosley ( 1992 ) .",
+    "we note that our analysis is applicable only for densities @xmath13 , since the turbulent motions could destroy the corrugated flamelet regime for lower densities ( niemeyer & woosley 1997 ) , and in this case the fractal model is no longer aplicable .",
+    "figure 1 displays the percentage of asymmetry in the velocity field as a function of the internal magnetic field strength at a a middle radial distance @xmath14 from the center of the star ( where the fuel density is @xmath15 ) for white dwarfs with different compositions . for example , for a composition of @xmath16 and @xmath17 , we have used @xmath18 .",
+    "we see that the asymmetry is sensitive to the composition of the progenitor .",
+    "heavier progenitors show higher asymmetries since their laminar velocities are smaller , so that the kinetic energy term becomes less dominant with respect to the magnetic energy term in the asymmetry equation above .",
+    "figure 2 shows the asymmetry on the combustion front at a density @xmath19 . the total asymmetry increases with increasing radius ( or decreasing density ) and is larger for progenitors with heavier compositions .",
+    "an asymmetry in the velocity field is developed by the presence of a dipolar magnetic field during the fractal growth of the deflagration front of a type ia supernova that can lead to the formation of a prolate remnant .",
+    "the magnetic field introduces an effective surface tension in the equator of the white dwarf progenitor that reduces the velocity of the combustion front at the equator , @xmath20 , with respect to the velocity at the poles , @xmath10 , so that @xmath21 .",
+    "the asymmetry is larger for heavier progenitors . in particular , for progenitors with a composition @xmath22 , @xmath23 , and surface magnetic fields @xmath24 g , a @xmath25 to @xmath26 asymmetry has been found at a middle distance from the center of the star ( see fig .",
+    "2 ) .    as only a small fraction of the observed white dwarfs",
+    "are inferred to have magnetic fields higher than about @xmath27 g , asymmetries are not expected to occur very frequently .",
+    "nonetheless , recent spectropolarimetric observations have revealed a linear polarization component in the radiation of very young sn ia remnants , which suggests that prolate atmospheres with asymmetries @xmath28 are producing it ( see leonard , filippenko , & matheson 1999 , wang , wheeler & hflich 1997 and howell , hoeflich , wang & wheeler 2001 ) .",
+    "the model presented here offers a plausible explanation for such observations .",
+    "the asymmetry has lower values at higher densities .",
+    "so this figure represent the lower values for the asymmetry , since the central density values of the progenitors are of the order of @xmath31 @xmath30 . from this figure",
+    "is possible to see that heavier compositions show higher asymmetry values .",
+    "asymmetry percentage for two different progenitors with compositions @xmath32 @xmath33 , for the full line and @xmath34 @xmath35 , for the dotted line .",
+    "the calculation were made at a density of @xmath36 ."
+  ],
+  "abstract_text": [
+    "<S> the burning speed of a thermonuclear supernova front could be described by the fractal model of combustion . </S>",
+    "<S> we have examined the effects of magnetic fields on the fractalization of the front considering a white dwarf with a nearly dipolar magnetic field and found an intrinsic asymmetry on the velocity field of the expanding plasma . for white dwarf s magnetic fields of @xmath0 g at the surface , and assuming a field roughly 10 times greater near the center , we have found asymmetries in the velocity field @xmath1 at @xmath2 , produced between the magnetic polar and the equatorial axis of the remnant . </S>",
+    "<S> this effect may be related to the asphericities inferred from spectro - polarimetric observations of very young sn ia remnants ( for example : the sn 1999by ) . in the present work , </S>",
+    "<S> we analyse the dependence of the asymmetry with the composition of the white dwarf progenitor . </S>"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "chandra observed the @xmath1 field around the 3c 295 cluster with acis - i on may 18 , 2001 , for @xmath2 ks . all the analysis has been performed separately in the @xmath3 kev ( @xmath4 sources identified ) , in the @xmath5 kev ( @xmath6 sources ) and in the @xmath7 kev ( @xmath8 sources , fig .",
+    "1a ) bands .",
+    "the counts in the three bands were converted in @xmath9 kev , @xmath10 kev and @xmath11 kev fluxes , respectively .",
+    "the following results have been achieved :    3c 295 logn - logs is consistent with the cdfs logn - logs by rosati et al .",
+    "2002 in both the soft and hard band .",
+    "the 3c 295 logn - logs in the soft , hard and broad bands computed separately for each acis - i chip show an overdensity of sources in the north - east ( ne ) chip ( fig .",
+    "1b ) which reflects the clustering of sources clearly visible in fig .",
+    "the discrepancy between the normalization of the logn - logs for the ne and sw chip is @xmath12 , @xmath13 and @xmath14 in the soft , hard and broad band , respectively ( fig .",
+    "2a ) .",
+    "circles represent the sources detected ; the brightest source in the center of the field is the cluster of galaxies 3c 295 .",
+    "right : the mean ( whole field ) 3c 295 logn - logs in the @xmath18 kev band , calculated for each acis - i chip separately . filled circles : ne chip , open triangles : nw , open squares : se , crosses : se .",
+    "errors represent @xmath19 confidence limit.,title=\"fig : \" ]   kev band .",
+    "circles represent the sources detected ; the brightest source in the center of the field is the cluster of galaxies 3c 295 .",
+    "right : the mean ( whole field ) 3c 295 logn - logs in the @xmath18 kev band , calculated for each acis - i chip separately . filled circles : ne chip , open triangles : nw , open squares : se , crosses : se . errors represent @xmath19 confidence limit.,title=\"fig : \" ]     kev band .",
+    "symbols refer to chips as in fig .",
+    "errors are the @xmath20 confidence limit .",
+    "right : the 3c 295 acf in the @xmath7 kev band .",
+    "solid error bars are poisson ; dashed error bars are bootstrap.,title=\"fig : \" ]   kev band .",
+    "symbols refer to chips as in fig .",
+    "errors are the @xmath20 confidence limit .",
+    "right : the 3c 295 acf in the @xmath7 kev band .",
+    "solid error bars are poisson ; dashed error bars are bootstrap.,title=\"fig : \" ]"
+  ],
+  "abstract_text": [
+    "<S> we present a statistical analysis of the chandra observation of the source field around the 3c 295 galaxy cluster ( @xmath0 ) . </S>",
+    "<S> three different methods of analysis , namely a chip by chip logn - logs , a two dimentional kolmogorov - smirnov ( ks ) test , and the angular correlation function ( acf ) show a strong overdensity of sources in the north - east of the field , that may indicate a filament of the large scale structure of the universe toward 3c 295 . </S>"
+  ]
+}

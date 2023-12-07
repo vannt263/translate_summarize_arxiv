@@ -1,0 +1,40 @@
+{
+  "article_text": [
+    "is an astronomical software directory , but with a peculiar overall approach . our choice is to design this site as a community supported directory",
+    ". all people can contribute , with software news , user s views , comments and bugs / refuses notifications .",
+    "developers should post a brief description of their product , with the classification which can ease the search and retrieval of software projects .",
+    "skysoft is designed as a community supported directory .",
+    "the idea is that , like a chat session , content remains timely because of frequent user interaction .",
+    "users and developers are invited to contribute with software news , user s views , comments and bugs notifications .",
+    "this site is designed so that software developers acquire more visibility because of astronomical context .",
+    "developers can post a brief description of their product , with the classification which can ease the search and retrieval of software projects .",
+    "traditional sites , such as and are valuable , and widely used .",
+    "but we think they are most useful in the standard context of mainstream data analysis and reduction , where ten - twelve applications do 95% of the work , and remain there for many years .",
+    "it is difficult for traditional sites to easily accommodate new ideas , new approaches for less - used telescopes+instruments .",
+    "for instance , during data mining , we have found several interesting approaches to the same specialized problem ( not addressed by mainstream tools ) , but which were rewritten over a decade by different groups , each without knowledge of others efforts .",
+    "we propose a faster and more flexible approach as a complement to traditional sites .",
+    "also we do not need to have all the expertise in all the fields skysoft covers : it is enough that such expertise resides in the users community !",
+    "skysoft is intended to be built by the community which uses it ! if you think that skysoft lacks some information you deem useful , just add it !",
+    "many others can benefit by your ( minimum ) effort ! plus you gain publicity for your work !    our aim is to build a site useful for astronomers and instrument developers , and to make this utility widely available , easy to use , and up - to - date with the latest developments .",
+    "we can not cope with the enormous amount of information and expertise needed .",
+    "but the community as a whole has all the necessary competence !",
+    "if we all share our 2 cents of informations , we will build a site more useful for everybody .",
+    "we started with a small amount of software we found in the net , just to boostrap the site .",
+    "the selection was rather arbitrary , based on our own knowledge .",
+    "obviously , we have missed important informations : please add it and help us to improve the site !",
+    "we are ready to add a newsletter , an event calendar , some discussion lists , and more .",
+    "no . everything which is available at skysoft site can be found using other astronomical software collections , or asking google , or asking some colleagues and friends . but wait , my last google interrogation returned 112000 documents ! a more specialized site can help speed up things significantly ! !",
+    "we aim to be a first choice in search process !",
+    "the skysoft software database has been structured as a tree .",
+    "this structure is wrong in our view : the software has a structure by far too complex to be represented in such a bidimensional way .",
+    "consideration of database implementation and ease of consultation led us to strip down such a complexity .",
+    "skysoft lives by the collaboration of really many people : thanks to all our guests , collaborator , maintainers and data miners .",
+    "thanks to g.calculli and f.giovannini for their advise .",
+    "founding and support has been provided by : inaf / ira and arcetri astrophysical observatory ."
+  ],
+  "abstract_text": [
+    "<S> we present the skysoft project . </S>",
+    "<S> skysoft is a yaasd ( yet another astronomical software directory ) , but with a different overall approach .    to be useful , skysoft needs to be a long  lived project , setting little pressure for maintenance , imposing a very low nuisance level to the developers community , and requiring a low maintenance cost . </S>",
+    "<S> our aim is to design skysoft as a community  supported directory , to which everyone can contribute , both developers and end  users . </S>"
+  ]
+}

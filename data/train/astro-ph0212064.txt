@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "the spatial distribution of the aromatic infrared bands emission features ( aibs : 3.3 , 6.2 , 7.7 , 8.6 , 11.3 and 12.7 @xmath4 m features ) has been mapped at high spatial resolution by isocam in many photo - dissociation regions ( pdrs ) .",
+    "the identification of the aibs carriers is still debated , however it is well established that they are complex carbon compounds heated transiently by the absorption of a single uv or visible photon .",
+    "the best candidates are polycyclic aromatic hydrocarbons ( pahs : e.g. lger & puget 1984 ) or hydrogenated amorphous carbons ( hacs : duley & williams 1988 ) .",
+    "these large - sized carbonaceous molecules ( @xmath5 50 carbon atoms ) are likely to be chemically connected to the numerous small hydrocarbon detected the ism , including cyanopolyynes or acetylenic chains and rings .",
+    "various theoretical works and laboratory experiments support this point : modelling of dark cloud chemistry ( herbst 1991 ; mcewan et al .",
+    "1999 ) , calculation of the acetylene formation rate by photo - erosion of uv irradiated pahs ( allain et al .",
+    "1996 ) , experiments of carbon chains production during the irradiation of hacs by a uv laser pulse ( scott et al .",
+    "nevertheless we still miss a firm observational link between aib carriers and small hydrocarbons .",
+    "pdrs are the best places to look for such a link as they exhibit strong aib emission features which have been mapped at arcsec resolution by iso in several objects .",
+    "they are moreover highly structured regions where , due to the penetration depth of uv irradiation , the aromatic emission , the h@xmath1 ro - vibrational lines , and the molecular ( co ) emission are spatially separated ( see hollenbach & tielens 1997 ) .",
+    "we have used the iram 30-m telescope to observe small carbon chains ( c@xmath1h , @xmath6-c@xmath0h , @xmath7-c@xmath0h , @xmath6-c@xmath0h@xmath1 , @xmath7-c@xmath0h@xmath1 , and c@xmath2h ) in the pdr of the horsehead nebula .",
+    "we obtained maps of 2.5@xmath83.5@xmath9 in three species .",
+    "to our knowledge , these are the first maps of small hydrocarbons reported in photo - dissociation regions . in complement , we mapped with unprecedented spatial resolution the emission of the optically thick @xmath10co , and the likely optically thin c@xmath11o isotope .",
+    "these molecular data were compared to the aib emission mapped by isocam in the 5.58.5@xmath3 m band ( lw2 filter , abergel et al .",
+    "the considered data are compiled in fig .",
+    "[ hh fig poster ] .",
+    "[ hh fig poster ] shows that the small carbon chains are present until the edge of the pdr .",
+    "the maps reveal moreover that all three hydrocarbon integrated intensities peak very close to the iso - lw2 one , which is not true for the co and isotope emission .",
+    "there is perfect correlation between c@xmath1h and @xmath6-c@xmath0h@xmath1 , indicating likely similar physical conditions .",
+    "this behavior holds for c@xmath2h , but is still limited by a poor s / n ratio .",
+    "a shift towards the molecular cloud is however observed , suggesting beam dilution of larger - scale structures .",
+    "interferometric data obtained at iram pdbi ( pety et al . , in preparation ) are no more affected by this effect and show a perfect coincidence of the hydrocarbon and aromatic emission peaks . at first sight , there seem to be a spatial correlation between aromatic particles and small hydrocarbons .",
+    "we have computed the molecular column densities in the areas corresponding to the aib and the co peaks respectively . tab .",
+    "[ tab coldens ] gathers the results and shows that the hydrocarbon column densities are maximum at the aromatic emission peak , which is not the case for c@xmath11o .",
+    "the values are of the same order as those observed in the tmc-1 dark cloud , known as an efficient hydrocarbon factory .",
+    "however the illumination conditions ( @xmath12 ) are different from the dark cloud ones and small hydrocarbons are expected to be rapidly destroyed by the intense radiation fields .",
+    "[ cols=\"<,^,^,^,^,^ \" , ]      * the models reproduce well the abundance ratios of [ c@xmath0h@xmath1]/[c@xmath2h ] and [ c@xmath11o]/[c@xmath1h ] ( @xmath16 and 20 resp . ) * c@xmath0h@xmath1 and c@xmath2h are at least one order of magnitude more abundant than expected compared to c@xmath1h    part of the explanation possibly lies in the under - estimated h@xmath1 column density .",
+    "kramer et al .",
+    "( 1996 ) reported @xmath17 inside the nebula ( 2@xmath9 resolution ) , translating into molecular column densities 10 - 100 times lower than observed .",
+    "recent continuum observations performed at 1.2 mm ( 11@xmath18 resolution ) suggest visible extinctions more likely in the range @xmath19 , which reconciles the observed c@xmath11o and c@xmath1h results with the model calculations .",
+    "nevertheless , a residual over - abundance ( factor @xmath20 ) remains for the more complex hydrocarbons , suggesting that the hydrocarbon production is enhanced in the illuminated front .",
+    "* we propose that this formation process is related to the photo - erosion of uv - irradiated large carbonaceous compounds at the border of the pdr*. in this scenario , complex hydrocarbons such as c@xmath2h would survive the intense illumination conditions encountered at the molecular cloud interfaces .",
+    "this also suggests that heavier species ( c4 , c5 ) could be observed in uv - irradiated regions ."
+  ],
+  "abstract_text": [
+    "<S> we present recent observations of small hydrocarbons ( c@xmath0h@xmath1 , c@xmath1h , c@xmath2h ) with high abundances in the photo - dissociation region of the horsehead nebula . </S>",
+    "<S> our results show for the first time observational indications that the small hydrocarbon distribution follows the aromatic infrared bands ( aibs ) emission traced by iso - lw2 ( 5 - 8.5@xmath3 m ) , whereas it does not coincide with the co and isotopes large - scale distribution . </S>",
+    "<S> the derived abundances are significantly higher than in local clouds . </S>",
+    "<S> this enhancement might be explained by an _ in situ _ formation assisted by the release of carbonaceous molecules from uv - irradiated aromatic particles . </S>"
+  ]
+}

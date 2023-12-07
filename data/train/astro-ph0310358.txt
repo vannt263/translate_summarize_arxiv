@@ -1,0 +1,20 @@
+{
+  "article_text": [
+    "recent observational results of ngc 1533 hi rings and numerical models for this objects are described in detail by ryan - weber et al .",
+    "( 2002 ) and by bekki et al .",
+    "( 2003 , in preparation ) , respectively .",
+    "we accordingly summarize briefly the important three results derived in this numerical studies ( see figure 1 for the model details ) .",
+    "firstly , the strong tidal filed of ngc 1533 s progenitor hsb strips the outer diffuse hi gas disk of the lsb and completely destroy the stellar disk of the lsb .",
+    "the stripped hi gas forms an incomplete gas ring and the lsb is swallowed by the hsb finally .",
+    "this outer hi ring formation is different from the merger scenario of polar ring formation proposed by bekki ( 1998 ) .",
+    "secondly , the hsb forms a bar and loses its spiral arms owing to tidal heating of the interaction , and therefore can be classified as a barred s0 after merging .",
+    "thirdly , star formation can proceed in the giant gas ring either by the cloud - cloud collisions within the ring or by strong external gaseous pressure of the hot gas surrounding the hi ring .",
+    "the proposed merger models thus explain ( 1 ) the observed large total mass of the hi ring , ( 2 ) structure and kinematics of the hi ring , and ( 3 ) the morphology of the host s0 galaxy ( ngc 1533 ) ."
+  ],
+  "abstract_text": [
+    "<S> we propose that the giant hi ring recently discovered by hipass for s0 galaxy ngc 1533 is formed by unequal - mass merging between gas - rich lsb ( low surface brightness : `` ghost '' ) galaxies and hsb disks . </S>",
+    "<S> the ngc 1533 progenitor hsb spiral is transformed into a barred s0 during merging and the outer hi gas disk of the lsb is transformed into the giant hi ring . </S>",
+    "<S> we also discuss two different possibilities for the origin of isolated star - forming regions ( `` eldot '' objects ) in the giant gas ring .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

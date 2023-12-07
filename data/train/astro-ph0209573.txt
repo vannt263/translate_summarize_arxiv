@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "the sbf method is commonly used to derive accurate extragalactic distances ( tonry et al .",
+    "the basic idea arises from the evidence that the spatial distribution of the light of nearby galaxies is `` bumpy '' , while in more distant ones it appears quite smooth . on ccd images of galaxies the level of bumpiness was quantified by tonry & schneider ( 1988 ) by defining the apparent sbf magnitudes @xmath3 , where @xmath4 is the ratio of the pixel to pixel flux variance to the average pixel flux",
+    "this value depends on the _ number _ and _ kind _ of unresolved stars actually `` located '' inside the pixels .",
+    "thus , if the absolute sbf magnitudes are evaluated by using a stellar population synthesis code ( as we do ) , two major information on distant galaxies can be inferred : _",
+    "i ) the distance _ and _ ii ) the stellar population properties_.",
+    "on the basis of the stellar population synthesis code developed at the teramo observatory ( brocato et al .",
+    "2000 ) , we computed new absolute sbf magnitudes ( ubvrijhk + hst bands ) .",
+    "these predictions are compared to sbf measurements of objects with sbf - independent distance estimations . for a metal poor ( @xmath5 ) , old ( @xmath6 gyr )",
+    "population , our models agree with available data of galactic globular clusters ( cantiello et al .",
+    "2002 ) . to test models of metal rich populations",
+    ", we select a sample of galaxies from the tonry et al .",
+    "( 2001 ) database of @xmath7 measurements . fig .",
+    "1 shows the very good agreement between present models and some observed galaxies with distances derived by cepheids or other distance indicators .",
+    "this supports the reliability of our models and suggests the use of theoretical sbf magnitudes as _ primary _ indicators .",
+    "the sbf signal is very sensitive to the most luminous stars in a stellar population . as a consequence all the evolutionary phases have to be properly considered in modeling sbf .",
+    "the adopted population synthesis code is optimized to reproduce the details of the color - magnitude diagram of star clusters .",
+    "thus , it is particularly reliable in providing theoretical sbf magnitudes and colors which can be used to infer the properties ( like age and metallicity ) of the stellar population dominating the integrated light of distant galaxies .",
+    "in particular , the @xmath8 sbf color discloses a sizeable separation ( i.e. larger than typical uncertainties ) between populations with different chemical compositions and ages .",
+    "this allows the evaluation of metallicity and age of the studied stellar population .",
+    "when used together with the integrated color @xmath9 , the resulting two color diagram become a remarkable tool to investigate unresolved galaxies because it does not depend on their distances and appears to be very efficient in removing the problem of the age - metallicity degeneration ( cantiello et al ."
+  ],
+  "abstract_text": [
+    "<S> we present new theoretical evaluations of optical and near - ir surface brightness fluctuations ( sbf ) magnitudes for single - burst stellar populations in the age range @xmath0 gyr and metallicity from @xmath1 to @xmath2 . </S>",
+    "<S> our theoretical predictions can be successfully used to derive reliable distance evaluations . </S>",
+    "<S> they also appear to be a new and valuable tool to trace the properties of unresolved stellar populations .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

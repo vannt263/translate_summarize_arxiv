@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "ngc  1901 is a loose aggregate of stars ( see fig .  1 , left panel ) in doradus , and it is the subject of a recent paper by pavani et al .",
+    "they present new ccd photometry , which they combine with proper motions and conclude that ngc  1901 is a physical aggregate , whose features are not typical of a classical open cluster , but better describe an open cluster remnant .",
+    "this is quite clear from the vector point diagram in fig  1 ( right panel ) which shows a clear concentration of stars having the same tangential motion .",
+    "+ in this study we present a radial velocity survey of the 16 brightest stars in ngc  1901 , which allow us to better constrain the cluster membership , an derive updated estimates of its fundamental parameters .    in fig .  2 ( left panel ) we present a few example of high resolution spectra , whereas in fig",
+    "2 ( right panel ) we show the radial velocity distribution which allows - together with the vector point diagram - to discriminate between members and non members .",
+    "we find that @xmath1 = -3.5@xmath21.0 km / sec , and a radial velocity dispersion of 2.4 km / sec .",
+    "+    once members have been selected , we build up their color magnitude diagram ( cmd ) , which is presented in fig .  3 ( left panel ) .",
+    "the cluster exhibits a clear main sequence ( ms ) , which are nicely fit by a solar abundance 500 myr isochrone from the padova group ( girardi et al .",
+    "2000 ) . from this fit",
+    "we derive an absolute distance modulus @xmath3 = 8.25@xmath20.16 and a reddening e@xmath4 = 0.06@xmath20.03 , in agreement with previous study .",
+    "our spectra are single epoch spectra , and therefore we are not able to derive a binary fraction estimate , which would be quite an important constrain for @xmath0-body models .",
+    "second epoch observations are however planned . nonetheless , by inspecting the cmd",
+    ", we can argue that two stars off the main sequence at v @xmath5 11 might be actually binaries .",
+    "+ the present day mass function ( pdmf ) is not the salpeter anymore , but ( see fig .  3 , right panel )",
+    "it is a power law with a slope amounting at -1.6 ( solid line ) .",
+    "noticeably , there is a significant lack of low mass stars with respect to the salpeter mf ( dashed line ) .",
+    "+ the comparison with available @xmath0-body models of clusters evolution and dissolution ( de la fuente marcos 1997 ) leads us to conclude that the initial population of the clusters was around 500 stars .",
+    "in fact such an initial models after half a billion years should have 15 members , exactly like ngc  1901 .",
+    "+ work is in progress to secure membership definition for a number of pocrs on a radial velocity basis ( villanova 2003 , villanova et al . 2003 ) .",
+    "bica e. , et al . , 2001 , a&a 366 , 827 + de la fuente marcos r. , 1997 , a&a 332 , 764 + girardi l. , et al . , 2000 ,",
+    "a&as 141 , 371 + pavani d.b . , et al . , 2001 , a&a 374 , 554 + villanova s. , 2003 , master thesis , padova university + villanova s. , carraro g. , skiff b. , de la fuente marcos r. , 2003 , in preparation"
+  ],
+  "abstract_text": [
+    "<S> we present preliminary results of an ongoing survey to probe the physical nature of a sample of open clusters ( pocrs , bica et al . </S>",
+    "<S> 2001 ) believed to be in an advanced stage of dynamical evolution . </S>",
+    "<S> this kind of object is very important to constrain dynamical @xmath0-body models of clusters evolution and dissolution , and to understand the formation of the galactic field stars population . </S>",
+    "<S> moreover they might represent what remains of much larger old clusters , which are of paramount importance to probe the early stages of the galactic disk evolution . in this paper </S>",
+    "<S> we present our results for ngc  1901 .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "article_text": [
+    "we studied hot subdwarf stars listed in the _ catalogue of spectroscopically identified hot subdwarfs _ @xcite as updated in an electronic version by kilkenny , c.1992 ( hereafter khd ) .",
+    "details of the data collection and analysis procedure for a sub - sample from the 2mass @xmath4 incremental data release can be found in . in the current study we had improved coordinates for 1486 objects ( excluding 15 duplicates ) , while 26 objects remained unrecovered and are not included .",
+    "we recovered 2mass all - sky counterparts for 1247 objects , 831 of which are hot subdwarfs with _ both _ @xmath0 and @xmath2 .    for use in comparison , near - infrared colors for pop   main sequence ( ms ) stars @xcite were transformed to the 2mass @xmath5 system using relations given in the _ explanatory supplement to the 2mass all sky data release_.",
+    "since 2mass is a magnitude limited survey , 2mass - khd is a magnitude limited sample ( mls ) . in a mls , _ composite subdwarfs are overrepresented _",
+    "( the presence of a late type companion increases the distance to which a composite remains brighter than the limiting magnitude ) .",
+    "we made a cut in the ( @xmath2 , @xmath6 ) color - magnitude diagram to define a _",
+    "statistical _ volume limited sample ( vls ) , by removing composite subdwarfs that would not have been detected if they were single .",
+    "discuss this process in detail ( however , the cut made in the current study was updated and is thus slightly different ) .",
+    "we focused on @xmath6 , @xmath7 , and @xmath8 .",
+    "single hot subdwarfs mainly are found in a region defined by : @xmath9 , @xmath10 , and @xmath11 . reported composite hot subdwarfs have redder colors than single subdwarf stars ( most notably in @xmath6 ) .",
+    "figure  [ jkhist ] shows the distribution in @xmath6 for : the mls ( panel @xmath12 ) and the vls ( panel @xmath13 ) .",
+    "both plots reveal a bimodal distribution ( in both the total and sdb only sub - sample ) with peaks at : @xmath14 ( @xmath3b3 spectral type ) and @xmath15 ( @xmath3g0 spectral type ) . assuming stars within the blue peak ( @xmath11 ) are single stars ( or sd+wd pairs , with colors indistinguishable from single hot subdwarfs ) , and stars in the red peak ( @xmath16 ) are composite ( sd+late type ) systems",
+    ", then we obtain the binomial fractions of single and composite - color systems observed by 2mass in khd given in table  [ composite ] .",
+    ".binomial fractions of single and composite - color subdwarfs observed by 2mass . [ cols=\"<,^,^,^,^,^,^ \" , ]",
+    "we find that the gaussian areas are consistent with the binomial fractions from a cut at @xmath17 .",
+    "the dispersions of both blue gaussians , and the vls red gaussian , are consistent with the average 2mass photometric error [ @xmath18 , implying there is little intrinsic spread in @xmath6 of single sdbs or the vls late type companions .",
+    "the strongly _ bimodal _ distribution in @xmath6 also indicates there are no ( or few ) companions that are dm , or @xmath3f0 and earlier in khd . in figure",
+    "[ jkhist]@xmath12 , the @xmath6 values of sdb+ms composites are indicated assuming @xmath19 and @xmath20 .",
+    "companions of type f0 and earlier or m0 and later would fall in the gap between the two peaks .",
+    "if a significant population of such companions existed , the area between the peaks would have been filled with their composites .",
+    "the khd catalog itself is likely _ not _ representative of the true hot subdwarf population .",
+    "there are completeness issues , including varying magnitude limits and classification criteria used by khd s sources . yet , since khd is the most complete single compilation of field hot subdwarfs available , we analyzed it despite its weaknesses .",
+    "current and future surveys should result in a more complete census of hot subdwarfs .    in khd",
+    ", we find @xmath340% mls ( @xmath325% vls ) of the subdwarfs are consistent with having unresolved late type companions of spectral types late f ",
+    "however , from these data alone we can not determine evolutionary states ( ms and/or subgiant ) unambiguously for these companions , nor whether they interacted with the progenitor .",
+    "the authors thank e.m.green for an annotated list of spectroscopically observed hot subdwarfs , and r.f.green for helpful correspondence .",
+    "ms additionally thanks e.m.green for the exciting hike to the keele observatory during the conference .",
+    "rw thanks stsci for its hospitality .",
+    "this research has been supported by : nasa grant nag5 - 9586 , nasa gsrp grant ngt5 - 50399 , and a nasa space grant fellowship .",
+    "this research made use of : data products from the two micron all - sky survey and the nasa / ipac infrared science archive ."
+  ],
+  "abstract_text": [
+    "<S> utilizing the two micron all sky survey ( 2mass ) all - sky data release catalog , we have retrieved useful near - ir @xmath0 , @xmath1 , and @xmath2 magnitudes for more than 800 hot subdwarfs ( sdo and sdb stars ) drawn from the _ catalogue of spectroscopically identified hot subdwarfs _ ( kilkenny , heber , & drilling 1988 , 1992 ) . </S>",
+    "<S> this sample size greatly exceeds previous studies of hot subdwarfs .    </S>",
+    "<S> we find that , of the hot subdwarfs in kilkenny et  al . </S>",
+    "<S> , @xmath340% in a magnitude limited sample have colors that are consistent with the presence of an unresolved late type ( fgk ) companion . </S>",
+    "<S> binary stars are over - represented in a magnitude limited sample . in an approximately volume limited sample </S>",
+    "<S> the fraction of composite - color binaries is @xmath325% .    </S>",
+    "<S> o star ... say something to us we can learn ... say something ! and it says , `` i burn . '' </S>"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "grb afterglow emission is usually modelled with a single power - law electron energy spectrum : @xmath4 with the power - law index @xmath5 and @xmath1 being the lorentz factor of the electron ( see piran 1999 for a review ) .",
+    "relativistic shock acceleration theory predicts an universal @xmath6 which fits many afterglow spectra ( waxman 1997 ; galama et al 1998 ; wijers and galama 1999 ) .    in some grb afterglows ,",
+    "harder electron energy spectrum @xmath7 appears to be needed ( panaitescu and kumar 2001a ; sagar et al 2001 ; cowsik et al 2001 ; bhattacharya 2001 ) .",
+    "such a spectrum must have an upper cutoff , an _ injection break @xmath8 _ , beyond which @xmath9 must exceed @xmath10 in order to keep the total energy in the electron distribution finite .",
+    "the evolution of the afterglow emission is influenced by the evolution of @xmath8 ( bhattacharya 2001 ; panaitescu and kumar 2001b ; dai and cheng 2001 )    the minimum lorentz factor @xmath3 of the distribution is determined by the fraction @xmath11 of the postshock thermal energy that is injected into electrons . for @xmath5",
+    "this is given by @xmath12 where @xmath13 is the bulk lorentz factor of the blast wave shock and @xmath14 , @xmath15 are proton and electron masses respectively ( sari , piran and narayan 1998 ) .",
+    "relativistic shock acceleration theory predicts that the _ universal spectrum _ with @xmath6 can extend only down to a minimum @xmath16 . below this energy",
+    "the electron larmor radius becomes smaller than the shock thickness , the shock is no longer perceived as a discontinuity and the acceleration efficiency drops ( hoshino et al 1992 ; gallant et al 2000 ; kirk 2002 ) .",
+    "however for a low @xmath11 the @xmath3 estimated from eq .",
+    "2 , and routinely used in grb afterglow modelling , works out to be much lower than @xmath17 .",
+    "this creates a contradiction .    in the region between @xmath3 and @xmath17 ,",
+    "some special pre - acceleration mechanisms are needed ( kirk 2002 ; gallant et al 2000 ) .",
+    "one candidate for this is a variant of the ion magnetosonic wave absorption mechanism proposed for electron - positron - proton plasma ( hoshino et al 1992 ) .",
+    "this mechanism produces a hard energy spectrum , but has a natural upper cutoff at exactly the @xmath17 defined above .",
+    "we conjecture that for electrons in grb afterglows , a @xmath18 universal spectrum is valid down to @xmath17 , and the energy spectrum below this , down to an appropriate @xmath3 , is harder , with a @xmath19 .",
+    "we identify the injection break @xmath8 with @xmath17 .",
+    "this would also introduce a corresponding injection break @xmath20 in the radiation spectrum . here",
+    "@xmath21^{1/(p_1 - 1 ) } \\gamma_i\\ ] ]",
+    "we have calculated the evolution of the afterglow radiation spectrum based on this premise .",
+    "writing the flux at a frequency @xmath22 at time @xmath23 as @xmath24 , we find the values of @xmath25 and @xmath26 in different spectral regimes to be as follows :     @xmath27 + @xmath28 & @xmath29 & @xmath30 & @xmath31 + @xmath32 & @xmath33 & @xmath30 & @xmath34 + @xmath35 & @xmath36&@xmath37 & @xmath38 + @xmath39 & @xmath40 & @xmath41&@xmath38 + @xmath42 & @xmath43 & @xmath44&@xmath45 +    in the table , the third column gives the light curve slopes after the lateral spreading of the collimated outflow dominates the dynamics , and the second column those before this phase .",
+    "the transition between them is often called the _ jet break_. the quantity @xmath46 stands for the synchrotron cooling break frequency in the radiation spectrum .",
+    "the afterglow of grb010222 has been modelled previously as a burst in a very high density medium undergoing a transition to a non - relativistic expansion ( masetti et al 2001 ) , which can not explain the early appearance of radio emission ; or as a hard electron spectrum afterglow that underwent an early jet break ( sagar et al 2001 ; cowsik et al 2001 ; panaitescu and kumar 2001a ) , which had difficulty explaining the spectral slope observed in x - ray bands .",
+    "we suggest that this afterglow had an injection break @xmath20 in the x - ray band @xmath47  day after the burst , had a jet break transition at @xmath48  day , and evolved in a normal ism . with an assumed @xmath49 , @xmath50 , and a smooth joining of the power - law segments , we are able to obtain good fits to the spectrum and the light curve of this afterglow , as shown in the figures .",
+    "we have computed the evolution of a grb afterglow with a hard electron energy spectrum up to an injection break at @xmath51 times the bulk lorentz factor of the shock . above the injection break",
+    ", relativistic shock acceleration predicts an universal , relatively softer , electron energy spectrum .",
+    "we obtain good fits to the observed evolution of grb010222 afterglow using this model .",
+    "we suggest that hard spectrum emission is more likely to be seen in grb afterglows that have a relatively low @xmath11 ."
+  ],
+  "abstract_text": [
+    "<S> diffusive shock acceleration theory suggests that the `` universal '' energy spectrum of electrons with a power - law index @xmath0 , commonly used to model grb afterglows , can not extend below an electron lorentz factor @xmath1 equal to the bulk lorentz factor of the blast wave multiplied by the ratio of proton and electron masses . </S>",
+    "<S> we suggest that the electron energy distribution has a slope @xmath2 below this limit , down to an appropriate @xmath3 . a two - slope spectrum such as this provides a good model for the afterglow of grb010222 . </S>"
+  ]
+}

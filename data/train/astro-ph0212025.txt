@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "heise et al . ( 2001 ) define xrfs with 4 criteria : ( i ) a strong non - thermal x - ray emission ; ( ii ) a weak @xmath0-ray emission ; ( iii ) a duration less than a few 1000 s ; ( iv ) no strong quiescent v / ir counterpart . in 5 years",
+    ", beppo - sax detected 17 xrfs .",
+    "their distribution over the sky seems to be isotropic , their durations are comparable with those of grbs detected by beppo - sax but their x- to @xmath0-ray fluence ratios are higher . since its launch , hete-2 has also detected a few xrfs .",
+    "the preliminary study confirms that these events have many common properties with grbs , except the fact that they are not detected above 50100 kev .",
+    "the is model has been proposed by rees & mzros ( 1994 ) and can reproduce the main temporal and spectral properties of grbs ( daigne & mochkovitch , 1998 ) .",
+    "the @xmath0-ray emission is due to relativistic electrons accelerated in shocks formed inside the relativistic outflow .",
+    "the typical photon energy is @xmath1 where @xmath2 is the redshift of the source , @xmath3 is the lorentz factor of the emitting material and @xmath4 the typical photon energy in the comoving frame of the emitting material .",
+    "as the radiative processes are still uncertain , we parametrize the energy @xmath4 by @xmath5 where @xmath6 and @xmath7 are the density and the specific internal energy density in the shocked material and @xmath8 , @xmath9 and @xmath10 are parameters depending on the radiative process . the standard synchrotron radiation corresponds to @xmath11 and @xmath12 but smaller values of @xmath8 and @xmath9 are expected if , for instance , the fraction of accelerated electrons depends on the shock intensity , as suggested by bykov & mszros ( 1996 ) .",
+    "daigne & mochkovitch ( 1998 ) indeed obtained synthetic lightcurves in much better agreement with the observations if @xmath13 .",
+    "observations suggest a common origin for xrfs and grbs . from eq .",
+    "[ eq : ep ] , xrfs are either normal grbs which are apparently soft due to a high @xmath2 , or grbs that are intrinsically softer ( low @xmath14 ) .",
+    "the first possibility has to be rejected , as xrfs and long grbs have comparable durations .",
+    "we test the second possibility using a simple version of the is model .",
+    "two shells are ejected on a timescale @xmath15 , with lorentz factors @xmath16 , @xmath17 and a constant injected power @xmath18 . then , @xmath19 where @xmath20 is a steadily increasing function of @xmath21 .",
+    "[ eq : epis ] indicates that there are several ways of producing soft grbs : ( i ) lower injected power @xmath18 ; ( ii ) longer duration @xmath15 ; ( iii ) less efficient shocks or less intense magnetic field ( lower @xmath10 ) ; ( iv ) smoother outflow ( lower contrast @xmath21 ) ; ( v ) `` cleaner '' fireball , i.e. larger lorentz factors ( higher @xmath16 ) .",
+    "_ note that this last prediction of the is model corresponds to grbs with less baryonic pollution , which is just the opposite of a `` dirty '' fireball _",
+    "( leading to a xrf in the external shock model ) . using the model developped in daigne & mochkovitch ( 1998 ) ,",
+    "we have carried out a set of simulations to test if ( at least ) one of these possibilities can explain the observed xrfs .",
+    "our main results are : ( i ) a population of xrfs is indeed obtained if one adopt a broad range for the is parameters : @xmath18 , @xmath15 , @xmath10 , @xmath16 and @xmath21 ; ( ii ) among all the possibilities listed above , _ small contrasts of the lorentz factor _ ( low @xmath21 ) seem to produce the better agreement with the observed properties of xrfs .",
+    "the conclusion is that _ in the framework of the is model , xrfs are most likely soft grbs associated with smooth outflows_. a possible observational test is that xrfs should have `` normal '' afterglows , but a low ratio of the afterglow over prompt energy outputs .",
+    "these results will be presented in details in a forthcoming paper .",
+    "+    bykov , a.m. and mszros , p. , apj , 461 , l37 ( 1996 ) .",
+    "daigne , f. and mochkovitch , r. , mnras , 296 , 275 ( 1998 ) .",
+    "heise , j. et al .",
+    ", in grbs in the afterglow era .",
+    "e. costa et al .",
+    "rees , m.j . and mzros , p. , apj , 430 , l93 ( 1994 ) ."
+  ],
+  "abstract_text": [
+    "<S> heise et al . ( 2001 ) have reported the identification of a new class of sources by beppo - sax , the so - called x - ray flashes ( xrfs ) , which have many common properties with @xmath0-ray bursts ( grbs ) but are not detected in the @xmath0-ray range . in the framework of the internal shock model , we investigate the possibility that xrfs have the same origin than grbs but are intrinsically softer due to different shock parameters . </S>"
+  ]
+}

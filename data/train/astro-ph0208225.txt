@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "almost every star in our galaxy will eventually become a white dwarf .",
+    "since they are relatively simple compared to main - sequence stars , white dwarfs provide one of the best opportunities for learning about stellar structure and evolution .",
+    "the helium - atmosphere variable ( dbv ) white dwarfs are among the simplest of all , with a surface helium layer surrounding a degenerate c / o core . the internal composition and structure of white dwarfs formed through single - star evolution",
+    "is largely determined by the relative rates of two nuclear reactions that compete for the available helium nuclei during core helium burning in the red giant phase of evolution : the @xmath8 and @xmath6  reactions .",
+    "the @xmath8 rate is well - constrained from laboratory measurements , but the @xmath6  rate is still very uncertain .",
+    "recent advances in the analysis of asteroseismological data on dbv stars @xcite now make it possible to obtain precise measurements of the central c / o ratio , providing a more direct way to determine the @xmath6  rate at stellar energies .",
+    "the first application of this new method to the star gd  358 implied a reaction rate that is significantly higher than most extrapolations from laboratory data @xcite .",
+    "fortunately , each pulsating white dwarf can provide an independent measurement of the reaction rate , so the analysis of asteroseismological data for additional dbv stars would be useful .",
+    "the pulsations of the dbv star cbs  114 were discovered by @xcite  ( @xcite ; @xcite ) , who reported multiperiodic oscillations with peak - to - peak light variations up to 0.3 mag with a time scale of about 650 seconds .",
+    "no further observations of this star have been published , so we decided to obtain a larger data set to study the pulsations of cbs  114 in more detail .",
+    "we acquired 65 hours of differential ccd photometry with the 0.75-m telescope at the sutherland station of the south african astronomical observatory during three weeks distributed over a period of two months in the spring of 2001 .",
+    "the amplitude spectrum of our combined data set shows six dominant structures between 1.4 and 2.6 khz .",
+    "we found these same frequencies in the discovery data of @xcite , which contained a seventh frequency that was also present in our data , but near the detection threshold . thus our final multifrequency solution contained seven independent modes @xcite .",
+    "we determined the mean period spacing of these modes by calculating the power spectrum of the period values with unit amplitude @xcite , leading to a value of @xmath1  s. this agrees well with the results of a kolmogorov - smirnov test , shown in figure  [ fig1 ] .",
+    "= 1 for the modes .",
+    "conspicuously absent are any peaks near 22 s , the expected spacing for @xmath0=2 modes . ]",
+    "in the asymptotic limit for a typical ( 0.6 @xmath9 ) white dwarf model , the mean period spacing between pulsation modes of consecutive radial overtone is near 40 seconds for @xmath0=1 and 22 seconds for @xmath0=2 @xcite . no modes with spherical degree higher than @xmath0=2 have ever been detected in a white dwarf , but they lead to even lower values for the mean period spacing .",
+    "thus , we interpret the modes in cbs  114 as arising from pulsations with @xmath0=1 and m=0 .",
+    "since we did not observe any multiplet structure , the latter assumption has no justification .",
+    "however , has shown that the consequences of this assumption are not serious for the purposes of model - fitting when the rotation period is @xmath101 day , as has been the case for other pulsating white dwarfs .    using the optimization method developed by @xcite ( @xcite ; @xcite )",
+    ", we performed a global search for the optimal model parameters to fit the seven independent pulsation periods of cbs  114 .",
+    "the method uses a parallel genetic algorithm to minimize the root - mean - square ( rms ) differences between the observed and calculated periods for models with effective temperatures ( @xmath11 ) between 20,000 and 30,000 k , total stellar masses ( @xmath12 ) between 0.45 and 0.95 @xmath9 , a helium layer mass with @xmath13 $ ] between @xmath142.0 and @xmath147.3 , and a simple parameterization of the c / o profile that fixes the oxygen mass fraction to its central value ( @xmath15 ) out to some fractional mass ( @xmath16 ) where it then decreases linearly in mass to zero oxygen at 0.95 @xmath17 . the optimal values for the 5 model parameters were : @xmath18  k , @xmath2 , @xmath4=-6.66 $ ] , @xmath5 , and @xmath19 .",
+    "the rms period residuals of this fit were @xmath20 s , which is significantly better than any fit where only the first three parameters are adjusted and the core composition is either pure carbon or oxygen .",
+    "we quantified the uncertainty in the derived central oxygen mass fraction ( @xmath21 ) by calculating a grid of models with various combinations of @xmath15 and @xmath16 , fixing the other three parameters at their optimal values .",
+    "our optimal model for cbs  114 has a higher mass and a lower central oxygen mass fraction than the optimal model for gd  358 @xcite .",
+    "turning these values into a measurement of the @xmath6  rate requires the calculation of evolutionary internal chemical profiles like those of .",
+    "a model of the internal chemical profile with the same mass as our fit to cbs  114 requires a rate for the @xmath6  reaction of @xmath22  kev  b ( internal uncertainty ) to match the derived central oxygen abundance within the 1@xmath23 limits ( m.  salaris , private communication ) .",
+    "this value is consistent with ( but much more precise than ) the rate derived from recent high - energy laboratory measurements ( @xmath24  kev  b ; ) .",
+    "by contrast , the rate previously derived from a similar treatment of the white dwarf gd  358 was significantly higher ( @xmath25  kev  b ) . however , identified a systematic difference in the analysis of gd  358 and cbs  114 . after correcting this difference in treatment , the two sets of data yielded reaction rates that are both consistent with laboratory measurements , and marginally consistent with each other .",
+    "have proposed an alternative model to explain the pulsation spectrum of gd  358 , involving two composition transition zones in the surface helium layer , as suggested by time - dependent diffusion calculations similar to those done by .",
+    "@xcite note that their fit , which has a pure carbon core , is actually worse with a core of either pure oxygen or a uniform c / o mixture",
+    ". an important test of their alternative model will be whether it can match the pulsation spectrum of cbs  114 with the same set of assumptions used in the analysis of gd  358 , as has done with the model used here ."
+  ],
+  "abstract_text": [
+    "<S> we have identified seven independent pulsation modes in the helium - atmosphere variable ( dbv ) white dwarf star cbs 114 , based on 65 hours of time - resolved ccd photometry from the 0.75-m telescope at saao . </S>",
+    "<S> we interpret these pulsations as non - radial g - modes with the same spherical degree @xmath0=1 , as suggested by the mean period spacing of @xmath1 seconds . </S>",
+    "<S> we use a genetic - algorithm - based fitting method to find the globally optimal model parameters , including the stellar mass ( @xmath2 ) , the effective temperature ( @xmath3  k ) , the mass of the atmospheric helium layer ( @xmath4=-6.66 $ ] ) , and the central oxygen mass fraction ( @xmath5 ) . </S>",
+    "<S> the latter value implies a rate for the @xmath6  reaction near @xmath7  kev  b , consistent with laboratory measurements . </S>"
+  ]
+}

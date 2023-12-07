@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "kc model ( kennel and coroniti 1984 ) assumes that a super fast mhd wind from the central pulsar terminates at a shock , and the shocked wind radiates in synchrotron radiation , which is observed as the nebula .",
+    "the central cavity is identified as the wind region .",
+    "the pulsar wind is originally poynting energy dominant deep in the pulsar magnetosphere , but by mhd acceleration the energy is converted into kinetic energy of the plasma outflow .",
+    "how efficient the acceleration is a main problem in the theory of relativistic centrifugal wind .",
+    "it is known that this problem is coupled with the jet - disc formation , which is clearly observed with chandra ( fig .",
+    "the acceleration efficiency is parameterized by so - called @xmath0-parameter which is the ratio of the poynting energy to kinetic energy of the terminal flow just before the shock .",
+    "kc find that @xmath0 determins the expansion speed of the nebula and in turn spectrum of the nebula .",
+    "it was a great success that kc model reproduces the nebula spectrum ( fig .",
+    "[ fig:1 ] ) .",
+    "kc found that @xmath1 ( kinetic energy dominant ) and the lorentz factor of the wind is @xmath2 .        on the other hand",
+    ", no wind theory explains such a high acceleration .",
+    "it must be noted that the observed image suggest that the wind has jet - disc structure , which is not explained , either .",
+    "the aim of this paper is to apply the picture of ked wind to the new chandra data and examine whether the model still describes the nebula well or it needs some modification .",
+    "nebula flow is based on the kc model : + - toroidal magnetic field + - ideal mhd radial flow + - confined in a disc and jet ( opening angles 20 degree ) + - @xmath3 erg / s , @xmath4 , @xmath1 + - power law spectrum just after the shock        given flow pattern @xmath5 , we solve evolution of distribution function @xmath6 and magnetic field in the flow with @xmath7 and @xmath8 where adiabatic and synchrotron losses are taken into account ( fig  [ fig:2 ] ) ; @xmath9 is the radial distance of the fluid elecment , @xmath10 is the proper time , and other notations are as usual . since the distribution function is obtained in the flow proper frame , the specific emissivity is first obtained in the proper frame . given the observer s direction , in use of lerentz transformation , the emissivity is evaluated for the observer and integrated along the line - of - sight to obtain the observed brightness .",
+    "1 .   reproduced x -",
+    "ray image is not a ring but ` lip'-shaped ( fig .  [ fig:4 ] ) .",
+    "this is due to the assumption that the magnetic field is pure toroidal .",
+    "we suggest that some important fraction must be in turbulent field .",
+    "intensity contrast between fore and back sides is obtained to be 1.3 , while an observed value is about 5 .",
+    "inconsistency is due to deceleration of the nebula flow , which is a result of small sigma value .",
+    "3 .   spatial variation of the spectra is well explained by the model with small sigma ( not shown here in a form of fiugre ) .",
+    "the above points 2 . and 3 .",
+    "are incompatible under a small - sigma model , suggesting some important ingredient is missing .",
+    "( dynamically inconsistent though ) , then a repurodueced image is in better agreement with the chandra observation.,title=\"fig:\",width=226 ]   ( dynamically inconsistent though ) , then a repurodueced image is in better agreement with the chandra observation.,title=\"fig:\",width=226 ]",
+    "a simple extension of the kc model to the chandra observation lead us to incompatible results : on one hand the model with a small sigma value gives a spectrum in agreement with the observation , on the other hand the same model gives inconsistent intensity contrast .",
+    "together with the suggestion of turbulent field , the nebula flow may probably be in non - ideal mhd , which means particles are accelerated not only at the shock but also in a larger region in the nebula by , say , magnetic reconnection .",
+    "the value of @xmath0 is not constrained to be as small as @xmath11 ."
+  ],
+  "abstract_text": [
+    "<S> this paper is originally intended to give a comprehensive review of the pulsar wind nebulae and magnetosphere , but it has been moved to a poster paper so that we have changed the aim of the paper and focused on the crab nebula problem to suggest that particle acceleration takes place not only at the inner shock but also over a larger region in the nebula with disordered magnetic field .    </S>",
+    "<S> kennel and cornoniti ( 1984 ) constructed a spherically symmetric model of the crab nebula and concluded that the pulsar wind which excites the nebular is kinetic - energy dominant ( ked ) because the nebula flow induced by ked wind is favorable to explain the nebula spectrum and expansion speed . </S>",
+    "<S> this is true even with new chandra observation , which provides newly the spatially resolved spectra . </S>",
+    "<S> we have shown below with 3d modelling and the chandra image that pure toroidal magnetic field and ked wind are incompatible with the chandra observation . </S>"
+  ]
+}

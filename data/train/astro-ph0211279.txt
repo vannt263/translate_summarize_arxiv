@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "powerful classical double - lobed radio galaxies are ( at low redshifts ) hosted almost exclusively by luminous early - type galaxies .",
+    "these galaxies are usually elliptical galaxies . given that normal elliptical galaxies usually exhibit undetectable quantities of cool ( neutral ) gas , what fuels the central supermassive black holes in elliptical radio galaxies ?",
+    "our @xmath4co survey of a complete sample of 3c galaxies at low redshift ( lim et al .",
+    ", this volume ) reveals that the vast majority have 5@xmath5 upper limits in molecular gas masses of 2 - 5 x 10@xmath6 ( for a linewidth of  500 km / s and a galactic co - to - h@xmath7 conversion factor ) . to better understand the molecular gas content of classical radio galaxies",
+    ", we are undertaking a survey of nearby early - type powerful radio galaxies .",
+    "these galaxies were originally selected for study by verdoes kleijn et al .",
+    "( 1999 ) with the hst , and were drawn from a catalog of one - hundred seventy - six radio - loud galaxies constructed by condon & broderick ( 1988 ) .",
+    "of the eighteen galaxies where sensitive 12co measurements have now been made , we detected eight ( i.e. , a detection rate of 45% ) .",
+    "the galaxies have molecular gas masses in the range 10@xmath8 10@xmath9 .",
+    "all the galaxies detected have double - horned 12co line profiles characteristic of a rotating disk or torus , commensurate with the disk - like dust features seen in these galaxies . in the case of 3c 31 , our follow - up imaging observations with the iram pdbi confirm that the molecular gas is distributed in a rotating disk / torus with size similar to its dust disk .",
+    "these results , summarized in table 1 , reinforce our argument ( lim et al .",
+    "2000 ) that , in the vast majority of cases , the molecular gas in powerful classical radio galaxies most likely originates from a merger between a pre - existing elliptical galaxy and a relatively less massive gas - rich ( disk ) galaxy .",
+    "radio activity is triggered only when sufficient gas reaches the nucleus of the elliptical galaxy , thereby explaining the relatively relaxed nature of both the accreted molecular gas and parent elliptical galaxy .",
+    "lcccc name & redshift & iras & optical dust & @xmath10 + & ( z ) & & & @xmath11 + ngc 193 & 0.014 & & @xmath12 & @xmath13 + ngc 315 & 0.016 & @xmath12 & @xmath12 & @xmath14 + ngc 383 ( 3c 31 ) & 0.017 & @xmath12 & @xmath12 & @xmath15 + ngc 541 & 0.018 & & @xmath12 & @xmath16 + ugc 1841 ( 3c 66b ) & 0.021 & & & @xmath17 + ngc 2329 & 0.019 & @xmath12 & & @xmath18 + ngc 2892 & 0.023 & & & @xmath19 + ngc 3801 & 0.011 & & @xmath12 & @xmath20 + ngc 3862 ( 3c 264 ) & 0.022 & @xmath12 & @xmath12 & @xmath21 + ngc 4261 ( 3c 270 ) & 0.007 & @xmath12 & @xmath12 & @xmath22 + ngc 4335 & 0.015 & & @xmath12 & @xmath23 + ngc 4374 ( 3c 272.1 ) & 0.003 & @xmath12 & @xmath12 & @xmath24 + ngc 4486 ( 3c 274 ) & 0.007 & @xmath12 & & standing wave ripples + ngc 5127 & 0.016 & & @xmath12 & @xmath25 + ngc 5141 & 0.018 & & @xmath26 & @xmath27 + ngc 7052 & 0.016 & @xmath12 & & @xmath28 + ugc 12064 ( 3c 449 ) & 0.018 & tentative & @xmath12 & @xmath29 + ngc 7626 & 0.011 & & @xmath12 & @xmath30 +"
+  ],
+  "abstract_text": [
+    "<S> we report a survey for molecular gas in nearby powerful radio galaxies . </S>",
+    "<S> eight of the eighteen radio galaxies observed were detected with molecular masses in the range @xmath0@xmath1 , similar to the same survey we performed towards 3c radio galaxies . </S>",
+    "<S> the upper limits of molecular gas in the remainder are typically of @xmath2 , indicating that very few radiogalaxies have molecular gas reservoir with more than 10@xmath3 . </S>"
+  ]
+}

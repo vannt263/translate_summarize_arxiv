@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "the lmc cluster reticulum presents several interesting features , such as low - reddening ( e(b - v ) = 0.03 @xmath2 0.02 ) , low - central density ( @xmath1 ) , accurate metallicity estimates ( [ fe / h ] = -1.71 @xmath2 0.09 ) , and a sizable sample of rr lyrae stars ( walker , 1992 ) .",
+    "moreover and even more importantly it is marginally affected by field contamination since it is located at approximately 11@xmath3 from the lmc bar ( l = 269@xmath3 , b=-40@xmath3 ) . in spite of these undisputable advantages",
+    "only a few investigations have been devoted to this cluster .",
+    "in fact , after the pioneering work by gratton & ortolani ( 1987 ) accurate photometry for both the rr lyrae and the bright static stars was provided by walker ( 1992 ) . in this paper",
+    "we present some preliminary results concerning the reticulum stellar content well below the turn - off ( to ) region .",
+    "data plotted in the figure show quite clearly that this cluster shares the same evolutionary features of old lmc clusters ( olsen et al . , 1998 ) . in this context",
+    "it is worth mentioning the sizable sample of bss we detected .",
+    "they can be easily identified in the v , b - v and in the u , u - v diagram .",
+    "thanks to the accuracy of current data it seems that they can be split into a hotter and a cooler group .",
+    "the former one is located at @xmath4 and @xmath5 while the latter at @xmath4 and @xmath6 mag .",
+    "finally we note that bss in the u , u - b diagram appear , as expected , cooler than sub giant branch stars .",
+    "gratton , r. g. , ortolani , s. , 1987 , , 71 , 131 + olsen , k. a. g. , hodge , p. w. , mateo , m. , olszewski , e. w. , schommer , r. a. , suntzeff , n. b. , walker , a. r. , 1998 , , 300 , 665 + walker , a. r. , 1992 , , 103 , 1166"
+  ],
+  "abstract_text": [
+    "<S> we present accurate multiwavelength ubvi time series data of the lmc cluster reticulum . </S>",
+    "<S> data cover a time interval of @xmath0 yr and have been collected with susi1/2 and sofi at ntt / eso . for each band </S>",
+    "<S> we collected approximately 30 short / long exposures and the total exposure times range from roughly 3500 ( u , b ) , 6000s ( v ) to 8300s ( i ) . the observing strategy and </S>",
+    "<S> data reduction ( daophotii / allframe ) allowed us to reach a photometry accuracy of 0.02 magnitude from the tip of the red giant branch well below the turn - off region . even though this cluster presents a very low central density ( @xmath1 ) , we found a sizable sample of blue stragglers ( bss ) . </S>",
+    "<S> we also selected stars with a variability index larger than 2 , and interestingly enough we detected together with the rr lyrae stars a large sample of variable stars around and below the to region . </S>",
+    "<S> preliminary analysis on the luminosity variation indicate that these objects might be binary stars .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

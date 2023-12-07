@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "the very high energy emission from extragalactic objects ( and bl lacs in particular ) is likely affected by absorption due to the @xmath1-@xmath1 collision and pair production process on the diffuse extragalactic ir background radiation ( irb ) . since the expected optical depths are energy ",
+    "dependent and can be very high ( see fig .",
+    "1 ) , the original spectra are expected to be modified both in shape and intensity .",
+    "although this gives the opportunity for an independent measurement of the ir background on cosmological distances , it also constitutes a problem , since at present we can not disentangle the two contributions : to constrain the irb we should model the initial incident spectrum , but to model the original blazar spectrum we need to know the amount of absorption , since also in the most simple ssc models the physical parameters derived from the synchrotron peak are not sufficient to univocally constrain the full blazar sed , even not considering variability effects",
+    ". simultaneous x - ray ",
+    "tev observations and data at energies not ( or less ) affected by absorption ( e.g. @xmath2 100@xmath3200 gev ) are needed , as well as more tev sources located at different redshifts .",
+    "+ even if the uncertainties on the irb intensity and shape are still very large @xcite , it is nevertheless interesting to see how the intrinsic blazar spectra would be according to present estimates of the irb , and if our emission models can account for them . in this respect ,",
+    "the case of the extreme bl lac 1es 1426@xmath4428 is of particular interest , since it is the tev source with the highest redshift known ( z@xmath50.129 ) , and its spectrum has been measured by hegra up to 10 tev @xcite , i.e. at energies where the optical depth is expected to be very high ( see fig 1 , right ) .",
+    "+ as a working hypothesis , therefore , we have adopted two possible models for the irb ( fig.1 left ) to reconstruct the 1es 1426@xmath4428 intrinsic tev spectrum , and studied the resulting global sed applying a  finite injection time \" ssc model , which is fully described in @xcite .",
+    "1es 1426 + 428 is a low power , high synchrotron peak ( @xmath6 kev ) bl lac , according to the most recent _",
+    "beppo_sax observation ( feb . 1999 , @xmath7 , @xcite ) .",
+    "2 shows its sed in the tev range , with data from hegra @xcite ( 1999 - 2000 , 1 - 10 tev , re - analyzed for better energy resolution and sensitivity at high energies @xcite ) , whipple @xcite ( 2001 , 0.3 - 2 tev ) and cat @xcite ( 1999 - 2000 , 0.3 - 1 tev ) .",
+    "2 shows also the corresponding absorption  corrected points ( using irb  model 1 \" ) and power - law model spectra before and after absorption . + with both irb models , the large optical depths yield intrinsic fluxes @xmath8erg @xmath9 s@xmath10with hard spectra ( @xmath11 ) , implying a compton peak above 10 tev with an apparent luminosity @xmath12erg @xmath9 s@xmath10 . if we assume an x - ray flux during the tev observations not far from the historical data ( as suggested by the xte asm lightcurves ) , the resulting global sed ( fig .",
+    "3 ) seems characterized by a high compton dominance ( @xmath0 ) and a relatively high apparent bolometric luminosity ( @xmath12erg @xmath9 s@xmath10 ) : these results are not expected in the standard  blazar sequence \" scenario @xcite , for which objects with high peak frequencies should have low bolometric luminosities ( @xmath13erg @xmath9 s@xmath10 ) and a @xmath14 . +    to see",
+    "if such an sed could be accounted for , we have tried various fits with our ssc model , both assuming or not the _ beppo_sax x - ray slope also in the tev range . within this model ,",
+    "the pure ssc fits ( fig .",
+    "3 left ) seem not able to provide at the same time high compton luminosities and hard spectra : the decline of the cross section in the klein - nishina regime prevents the tev electrons from scattering efficiently the synchrotron peak photons , while the scattering in the more efficient thomson regime occurs with photons of lower energy density ( optical and ir ) , yielding steep spectra in the tev range .",
+    "these effects can be counterbalanced ( fig . 3 center and right ) assuming an additional contribution to the energy density of the seed photons in the thomson regime , which we have preliminarly parameterized as a black body spectrum peaked at @xmath15 hz ( in the comoving frame ) .",
+    "ambient \" contribution could be supposed to originate from other parts of the jet ( e.g. in a spine - layer scenario @xcite ) or outside the jet itself .",
+    "model parameters are reported in table 1 .",
+    "concluding , if the assumed ir background will be confirmed , the intrinsic sed of 1es 1426 + 428 will require a revision of the  standard \" blazar sequence scenario",
+    ". however , our ssc model seems still able to account for such hard and luminous tev spectra , but with the addition of an external contribution to the seed photon energy density . in the near future",
+    ", we hope to resolve the ambiguity in the interpretation of tev data with the new generations of erenkov telescopes ( e.g. h.e.s.s . ) : their lower energy thresholds ( @xmath16 tev ) will provide us with data from both the absorbed and ( almost ) not absorbed part of the spectrum , and their better sensitivity will permit more detailed studies of the correlated x - ray  tev variability , allowing to more reliably model the full bl lac sed and thus to constrain the irb .",
+    "00 aharonian et al . , 2002 ,",
+    "a&al , 384 23 capetti et al . , 2002 , a&a , 383 , 104 costamante et al . , 2001 , a&a , 371 , 512 djannati - atai et al . , 2002 ,",
+    "a&a , in press ( astro  ph/0207618 ) fossati et al .",
+    ", 1998 , mnras , 299 , 433 ghisellini et al , 2002 , a&a , 386 , 833 hauser & dwek , 2001 , araa , vol .",
+    "39 , ( astro  ph/0105539 ) horan et al , 2002 , apj , 571 , 753 horns et al . , 2003 ,",
+    "a&a , in preparation petry et al . , 2002 , apj , in press ( astro - ph/0207506 ) primack et al . , 2001 , aip conf"
+  ],
+  "abstract_text": [
+    "<S> the recent hegra detection and spectrum of 1es 1426 + 428 at tev energies , once corrected for absorption using present estimates of the diffuse extragalactic ir background , suggest that the high energy peak of the spectral energy distribution ( sed ) could be much higher than the synchrotron one ( @xmath0 ) , and lie at energies above 8 - 10 tev . </S>",
+    "<S> to see if such an sed could be accounted for , we have applied a `` finite injection time '' ssc model , and present here some preliminary results . within this model , we found the need of an external ( `` ambient '' ) contribution to the energy density of seed photons , in order to account for both the high compton dominance and the hard spectrum . </S>"
+  ]
+}

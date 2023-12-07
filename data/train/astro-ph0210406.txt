@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "blue compact galaxies ( bcgs ) are characterized by their very blue color , compact appearance , high gas content , strong nebular emission lines , and low chemical abundances .",
+    "detailed studies of bcgs are important not only for understanding their intrinsic properties , but also for understanding star formation processes and galaxy evolution in different environments . to resolve the stellar components and better constrain the star formation histories of bcgs",
+    ", we analyze the optical spectra of 74 bcgs with a empirical population synthesis ( eps ) technique , which has been pioneered by the work of bica ( 1988 ) and developed by the work of cid fernandes et al .",
+    "( 2001 ) .",
+    "our main goals are as follows : 1 ) resolve the stellar populations of bcgs ; 2 ) reconstruct the star formation histories of bcgs ; 3 ) subtract the underlying stellar absorption spectrum from the observed galaxy spectrum , and to obtain the emission line spectrum .",
+    "we have observed optical spectra of 97 blue compact galaxies with the 2.16 m telescope at the xinglong station of the beijing astronomical observatory ( bao ) in china ( kong & cheng 2002 ) . using emission lines of spectra",
+    ", 74 bcgs with narrow emission lines were classified into star - forming galaxies ( sfg ; kong et al .",
+    "the main goal of this project is to measure the current star formation rates , stellar components , metallicities , and star formation histories and evolution of bcgs ; therefore , we are mainly interested in these 74 bcgs . the galaxy names were listed in figure 1 .",
+    "to resolve the stellar components of bcgs , we have used the observed equivalent width values of k3933 , 4102 , cn4200 , g band4301 , 4340 , 5176 absorption features , the continuum fluxes ( normalized at 5870 ) at 3660 , 4020 , 4510 , 6630 , and 7520 ( kong et al . 2002 ) and the empirical population synthesis method by cid fernandes et al .",
+    "( 2001 ) , which is based on spectral group templates built from star clusters , and on bayes theorem and the metropolis algorithm .",
+    "the output is the expected values of the fractional contribution ( @xmath0 ) of each stellar component to the total flux of galaxy at a reference normalization wavelength , such as 5870 .",
+    "age - grouped results of stellar population synthesis are plotted in figure 1 .",
+    "@xmath1 , made up from the sum of all base components with age @xmath2 gyr , @xmath3 , corresponding to the @xmath4 yr intermediate - age bin , @xmath5 , standing for the contribution from the young blue stellar populations ( @xmath6  @xmath7 yr ) , and @xmath8 containing the contribution of the power - law component .",
+    "a first noticeable result in figure 1 is that all bcgs show an underlying old stellar population .",
+    "the presence of large fractions of old components indicates that the star formation happened already at an early stage , and at a high rate .",
+    "it suggests that bcgs are old galaxies .",
+    "the stellar populations of bcgs present a variety of characteristics ; the dominant stellar population is different in different galaxies .",
+    "some bcgs have many young stellar populations .",
+    "however , in others , an intermediate age stellar population makes an appreciable contribution .",
+    "based on the stellar populations , we found bcgs , while sharing some common global properties , in fact exhibit a great diversity in the star formation histories ( sfh ) .",
+    "the sfh of bcgs is more complex than we thought ; we can not use unification sfh to all bcgs .      in figure  [ fig2 ] , as an example",
+    ", we plotted the empirical population synthesis results for 2 galaxies in our sample .",
+    "* obs * represents the observed spectrum of galaxy ; * syn * represents the synthetic spectrum , was constructed using the star cluster templates and the eps results , * obs - syn * resulting from subtracting * syn * from * obs*.    the figure shows that the synthesized spectrum gives a good fit to the observed continuum and absorption lines for each galaxy .",
+    "it suggested that the main energy sources of bcgs are young hot o , b stars , which lead to the formation of hii regions around them .",
+    "another apparent character in figure 2 is the absorption wing of and in observed spectrum was fitted very well by the synthetic spectrum .",
+    "we can use this synthetic spectrum to subtract the underlying stellar absorption from emission line spectrum .",
+    "therefore , the stellar subtracted spectra should be very useful for further investigation of physical conditions and chemical abundance of the emission line regions of bcgs and will be used to accurate determine the element abundance and star formation rate of bcg .",
+    "bica , e.  & alloin , d.  1986 , a&a , 162 , 21 cid fernandes , r. , sodr ' e , l. , schmitt , h.  r. , et al .",
+    "2001 , mnras , 325 , 60 kong , x. , cheng , f.z . ,",
+    "weiss , a. , charlot , s.  2002 , a&a , in press kong , x.  & cheng , f.  z.  2002 , a&a , 389 , 845"
+  ],
+  "abstract_text": [
+    "<S> we have observed the largest optical spectra sample of 74 blue compact galaxies . </S>",
+    "<S> stellar population properties of them were derived by comparing the equivalent widths of strong absorption features and continuum colors , using a method of empirical population synthesis based on star cluster sample . </S>",
+    "<S> the results indicate that blue compact galaxies are typically age - composite stellar system , the continuum flux fractions at 5870  due to old stellar components and young stellar components are both important for most of the galaxies . </S>",
+    "<S> the stellar populations of blue compact galaxies present a variety of characteristics , and the contribution from different age and metallicity components is different . </S>",
+    "<S> the star formation episodes are usually short , some galaxies maybe undergoing their first global episode of star formation , while for the most sample galaxies , older stars contribute to at most half the optical emission . </S>",
+    "<S> our results suggest that bcgs are old galaxies , in which star formation occurs in short intense burst separated by long quiescent phases . </S>"
+  ]
+}

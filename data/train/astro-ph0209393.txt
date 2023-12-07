@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "it is known that a significant number of black holes ( bhs ) of stellar origin should form in the first million years in globular clusters ( gcs ) , with masses @xmath1 .",
+    "these bhs segregate toward the gc cores by dynamical friction where they form double binaries [ bh+bh ] and multiple systems . with time , bh@xmath2[bh+bh ] exchange interactions become overwhelmingly important and most of the bhs are ejected by recoil ( sigurdsson & hernquist 1993 ) . the last [ bh+bh ] binary(ies )",
+    "however will have no other bhs to eject and will remain in the cluster s core ( portegies zwart & mcmillan 2000 ) . in this cosmic dance some of",
+    "the interacting bhs can grow in mass up to @xmath3 by cannibalizing other bhs ( miller & hamilton 2002 ) and these will be preferentially retained in the gc due to their higher inertia ( a high mass bh could also be primordial , born from the heaviest stars ) .",
+    "figure 1 shows , for a binary with masses [ @xmath4 , the two lower bounds on the separation @xmath5 , denoted with @xmath6 and @xmath7 , as a function of @xmath8 below which recoil by an incoming bh of 10 @xmath9 ( or of @xmath10 ) , and gravitational wave ( gw ) emission would eject the binary and cause coalescence , respectively .",
+    "can such a massive dark [ bh+bh ] binary in a gc be detected ?",
+    "gcs host a number of millisecond pulsars ( msps ) tracing the population of neutron stars ( nss ) recycled to short periods in accretion events , after capturing the mass - losing star in dynamical encounters .",
+    "we here show that psr  j1911 - 5958a , a canonical binary msp , can probe the existence of a [ bh+bh ] binary in ngc6752 .",
+    "psr  j1911 - 5958 , recently discovered in ngc6752 ( damico et al . , 2002 ) , is a binary msp found at more than 3.3 half - mass radii from the cluster core .",
+    "its companion is a dwarf star of mass @xmath11 moving along a circular orbit with period of 0.86 days . to reach it current position in the cluster halo ,",
+    "the pulsar should have been propelled out at a speed @xmath12 km s@xmath13 close to escape , due to recoil in an exchange interaction [ star , star]+ns @xmath14 [ star , ns ] + star . using knowledge of the binary pulsar parameters and constraints imposed by the recycling scenario",
+    ", it is found that momentum conservation during the exchange implies an initial orbital separation suspiciously close to the currently observed value , and , most notably , occurrence times for the exchange much longer than the lifetime of ngc6752 ( see colpi , possenti , & gualandris 2002 , for details ) .",
+    "thus , only a massive binary can be powerful enough to propel psr  j1911 - 5958 out from the core by transferring a fraction of its binding energy to kinetic energy of the binary pulsar , in a pure scattering event ( see figure 1 ) .",
+    "nearly @xmath15 stars would interact with the [ bh+bh ] over a hubble time : scaling to the number of nss and the relative fraction of active msp , we infer an interaction rate for psr  j1911 - 5958 with [ bh+bh ] of @xmath16 gyr@xmath13 implying a detection probability of @xmath17 considering the typical lifetime of the pulsar ."
+  ],
+  "abstract_text": [
+    "<S> ngc6752 hosts in its halo psr j1911 - 5958a , a newly discovered binary millisecond pulsar which is the most distant pulsar ever known from the core of a globular cluster . </S>",
+    "<S> interestingly , its recycling history seems in conflict with a scenario of ejection resulting from ordinary stellar dynamical encounters . </S>",
+    "<S> a scattering event off a binary system of two black holes with masses in the range of @xmath0 that propelled psr  j1911 - 5958a into its current peripheral orbit seems more likely . </S>",
+    "<S> it is still an observational challenge to unveil the imprint(s ) left from such a dark massive binary on cluster s stars : psr j1911 - 5958a may be the first case .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

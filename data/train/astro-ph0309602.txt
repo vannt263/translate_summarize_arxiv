@@ -1,0 +1,23 @@
+{
+  "article_text": [
+    "there are several reasons to believe that a population of intergalactic globular clusters ( igcs ) should exist outside of galaxies :    \\(1 ) the jeans mass at recombination was @xmath0 solar masses , and hence globular cluster sized objects could have formed wherever the local density of matter was high enough .",
+    "\\(2 ) many galaxies may have met their demise over a hubble time as a result of collisions and tidal disruption .",
+    "globular clusters are likely to survive the disruption of their parent galaxy , resulting in the gradual accumulation of a population of igcs . intergalactic stars , planetary nebulae , supernovae and hii regions have already been found ; it would be surprising if there were no igcs .",
+    "\\(3 ) the existence of igcs might explain high specific frequencies , bimodal globular cluster metallicity distributions and other current puzzles in the study of globular cluster systems .",
+    "jordn et al .",
+    "( 2003 ) reported a tentative detection of igcs in the center of the rich galaxy cluster a1185 ( @xmath1 ) based on @xmath2-band images obtained with wfpc2 on the hubble space telescope .",
+    "we ( ct , jordn , marzke , west ) recently obtained very deep , multicolored ( @xmath3 and @xmath2 ) images of the same a1185 field using hst with the new acs .",
+    "the goals of these new observations are to 1 ) detect the peak of the assumed universal gaussian - like globular cluster luminosity function ( which should occur at @xmath4 at a1185 s distance ) and thereby confirm that these candidate igcs are bona fide globular clusters and 2 ) use color information to infer their metallicities .",
+    "preliminary analysis indicates that we are reaching sufficiently faint magnitudes to reliably detect the luminosity function turnover .",
+    "the number and colors ( metallicities ) of igcs will provide constraints on the number and types of galaxies that have been destroyed or stripped over a hubble time .    using the keck telescope , we ( ferguson , gregg , tanvir , von hippel , west ) recently measured the redshift of a candidate igc in the nearby virgo galaxy cluster that was found serendipitously on an hst image obtained for another project .",
+    "preliminary data reductions show that this object , which is slightly resolved in the hst image and appears to be a distant globular cluster , has a recessional velocity of @xmath5 km / s , and hence is most likely in the virgo cluster .",
+    "its apparent magnitude , @xmath6 , is consistent with it being a bright globular cluster .",
+    "using telescopes on mauna kea we have since obtained optical and nir colors of this object , as well as a medium - resolution spectrum that should yield its velocity dispersion .",
+    "these data are presently being analyzed ."
+  ],
+  "abstract_text": [
+    "<S> we confirm and extend our previous detection of a population of intergalactic globular clusters in abell 1185 , and report the first discovery of an intergalactic globular cluster in the nearby virgo cluster of galaxies . </S>",
+    "<S> the numbers , colors and luminosities of these objects can place constraints on their origin , which in turn may yield new insights to the evolution of galaxies in dense environments .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

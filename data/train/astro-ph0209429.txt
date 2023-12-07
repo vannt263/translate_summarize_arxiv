@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "recent cold dark matter simulations of the formation and evolution of galaxies predict the existence of a significantly higher amount of substructure around big galaxies like the milky way @xcite , @xcite than observed in the form of dwarf galaxies @xcite .",
+    "one solution for this so - called dwarf galaxy crisis could be that the predicted subhalos have been overlooked observationally and are hidden among the population of compact high - velocity clouds ( chvc ) .",
+    "blitz et al . ( 1999 ) suggested that isolated chvcs might be the leftover building blocks predicted in the cmd scenario with mean distance of about 1  mpc .",
+    "braun & burton ( 1999 , 2000 ) identified an intial catalog of 65 chvcs .",
+    "we here present deep optical vlt imaging and 2mass archival studies of five chvcs to test them for the presence of a stellar population .",
+    "v and i band observations were obtained with fors1 at the vlt down to limiting magnitudes to be sensitive to red giant stars at distances up to @xmath0  3  mpc .",
+    "the field of view , 6.8 by 6.8 arcmin , was centered on the highest column density regions ( for four chvcs ) using effelsberg radio data .",
+    "we also selected all stars within a radius of 1@xmath1 from 2mass ( second incremental data release ) .",
+    "these near - infrared jhk data are sensitive to old stellar populations at the typical distances of milky way dwarf spheroidal companions .",
+    "the optical ccd data were searched and analyzed with daophot  ii @xcite .",
+    "they are not only sensitive to old stars but would easily also reveal the presence of main sequence ( ms ) stars of a young stellar population to large distances .",
+    "1 shows color magnitude diagrams ( cmd ) for four of our chvc fields .",
+    "2 is the cmd of a hipass hvc .",
+    "extended sources were excluded from the analysis ; the amount of unresolved background galaxies is small anyway due to the excellent seeing of the data , namely 0.65 arc sec fwhm .",
+    "the cmds appear as expected for milky way halo fields .",
+    "a visual inspection does not reveal any additional stellar component , e.g. a rgb or a ms at the expected distances / apparent magnitudes .",
+    "a visual inspection of near - infrared 2mass cmds does not show any evidence for a spread - out rgb or agb population . for comparison , 2mass cmds of several dsph milky way companions , as well as positional plots of the stars , allow the detection of intermediate rich systems like for and scl , while umi can not be isolated from the halo stars .",
+    "we performed statistical tests by adding artificially , diluted red giant branches of known dwarf galaxies , to the observed chvc cmds .",
+    "we then compared these distributions to those originally observed using a kolmogorow - smirnow test .",
+    "a population of about 50  rgb stars at a distance of @xmath0  0.5  mpc is at the detection limit of the vlt data ; richer systems such as those of the known dsph milky way satellites would easily be found . for details of this analysis ,",
+    "see hopp , schulte - ladbeck & kerp , 2003 ( mnras , in press ) .",
+    "we conclude that the observed compact clouds do not host an intrinsic stellar population .",
+    "our conclusions agree with and extend those reported by simon & blitz ( 2002 ) , who did not detect stars in chvcs on processed poss scans .",
+    "this research has made use of the nasa / ipac infrared science archive , which is operated by the jet propulsion laboratory , california institute of technology , under contract with the national aeronautics and space administration .",
+    "uh acknowledges support by the sfb 375 of the dfg .",
+    "rsl thanks the department of physics & astronomy for a leave of absence , and the mpe garching for hosting her visit ."
+  ],
+  "abstract_text": [
+    "<S> we are investigating the hypothesis that compact high  </S>",
+    "<S> velocity clouds ( chvcs ) are the left - over building blocks of local group galaxies . to this end </S>",
+    "<S> , we are searching for their embedded stellar populations using fors at the vlt . </S>",
+    "<S> the search is done with single - star photometry in v and i bands , which is sensitive to both , young and old , stellar populations . </S>",
+    "<S> five chvcs of our sample have been observed so far down to i=24 . </S>",
+    "<S> we pointed the vlt towards the highest hi column density regions , as determined in effelsberg radio data . in an alternate approach , </S>",
+    "<S> we searched 2mass public data towards those 5 chvcs down to k=16 . </S>",
+    "<S> while the vlt data probe the central regions out to distance moduli of about 27 , the 2mass data are sensitive to a population of red giant stars to distance moduli of about 20 . </S>",
+    "<S> the 2mass data , on the other hand , cover a much wider field of view than the vlt data ( radius of 1 degree versus fors field of 6.8 arcmin ) . </S>",
+    "<S> we did not find a stellar population intrinsic to the chvcs in either data . in this paper , we illustrate our search methods . </S>"
+  ]
+}

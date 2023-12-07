@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "the parkes multi - beam pulsar survey covers a @xmath1-wide strip of the southern galactic plane from @xmath2 to @xmath3 ( manchester et al .",
+    "it utilises a 13-beam receiver operating in the 20-cm band on the parkes 64-m radio telescope and is seven times more sensitive than any previous large - scale survey .",
+    "the survey has discovered more than 600 new pulsars so far , including many that are young and energetic .",
+    "already published pulsars can be found in the on - line catalogue at http://www.atnf.csiro.au/research/pulsar/psrcat . in the following analysis we used 520 pulsars that were discovered by the parkes survey ,",
+    "of which 415 are obtained from public catalogue and 105 are currently unpublished .",
+    "these new discoveries , together with 210 previously known pulsars , result in a sample of @xmath4 pulsars , with a mean period of 0.76 s.",
+    "the observed distribution of pulsars in the galaxy differs systematically from the true distribution due to various observational selection effects inherent in pulsar surveys ( see the contribution by lorimer in these proceedings for further details ) .",
+    "we have accurately modeled the sensitivity threshold of the multibeam survey due to these effects and use this model to compute a weight or scale factor for each pulsar by : 1 ) placing it at large number of randomly selected locations in the model galaxy ; 2 ) calculating the effective dispersion measure and the interstellar scattering ; and 3 ) recording the number of detections , i.e. those positions for which the predicted flux density exceeds the survey limit . for each pulsar , then , the scale factor is simply the ratio of the total number of locations in our model galaxy ( typically @xmath5 ) to the number of detections .",
+    "this results in an estimate of the number of similar pulsars in the galaxy .",
+    "the pulsar current , @xmath6 , is the flow of objects from short to long spin periods .",
+    "we can compute @xmath6 as a function of period , @xmath7 , by binning pulsars into intervals of width @xmath8 .",
+    "the current in a given bin is given by : @xmath9 where @xmath10 is the scale factor for each pulsar , @xmath11 is the number of pulsars in the bin and @xmath12 is the fraction of @xmath13 sr covered by the emission beam . in this analysis , we assume for simplicity that @xmath14 . under steady - state conditions , the maximum value of @xmath6 is the birthrate of pulsars .",
+    "the total number of active pulsars in the galaxy is given by the sum of @xmath15 .",
+    "for further details , see lorimer ( these proceedings ) and also vivekanand & narayan ( 1981 ) .",
+    "the results are summarized in table 1 for both the tc93 distance model ( taylor & cordes 1993 ) and the newer ne2001 model ( cordes & lazio 2002 ) .",
+    "our main conclusion is that pulsars with surface dipole magnetic fields greater than @xmath0 g account for half of the total birthrate . for both distance models ,",
+    "the birthrate of these high - field pulsars is 52% of the total population .",
+    "low - field ( @xmath16 g ) pulsars contribute only 10% of the total birthrate using the tc93 model , or 17% for ne2001 .",
+    "full details of this analysis are now being prepared for publication .",
+    "cordes , j. m. & lazio , t. j. w. 2002 , astro - ph/0207156 manchester , r. n. et al . 2001 , , 328 , 17 taylor , j. h. & cordes , j. m. 1993 , , 411 , 674 vivekanand , m. & narayan , r. 1981 , j. astrophys .",
+    "astr . , 2 , 315"
+  ],
+  "abstract_text": [
+    "<S> we report on calculations of the pulsar birthrate based on the results of the parkes multibeam survey . from the observed sample of more than 800 pulsars , </S>",
+    "<S> we compute the pulsar current , accounting as accurately as possible for all known selection effects . </S>",
+    "<S> the main goal of this work is to understand the pulsar birthrate as a function of the surface dipole magnetic field strengths . </S>",
+    "<S> we show that pulsars with magnetic fields greater than @xmath0 g account for about half of the total birthrate . </S>"
+  ]
+}

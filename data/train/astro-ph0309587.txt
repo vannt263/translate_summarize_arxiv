@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "tidal tails in interacting / merging systems are sites of super - star cluster and dwarf galaxy formation .",
+    "the dense environment of compact galaxy groups offers an extraordinary chance to observe this phenomenon . here",
+    "i investigate the kinematics of the prominent tidal tail of the compact galaxy group cg j1720 - 67.8 through integral field spectra obtained at the anglo - australian telescope ( aao ) and a long - slit spectrum , kindly provided by f. kerber , obtained at the magellan telescope ( lco ) .",
+    "this study complements a previous analysis ( temporin et al .",
+    "2003a , b ) of the tdg candidates identified in this group .",
+    "_ kinematics and dynamics _ the prominent tidal tail of cg j1720 - 67.8 shows a general trend of decreasing radial velocity from north to south with a maximum velocity difference of @xmath1 km s@xmath2 , as we found from descrete measurements of the clumps along it ( temporin et al .",
+    "the tdg candidate `` 3 + 9 '' at the northern tip of the tail ( fig .",
+    "1a ) shows a steeper velocity gradient ( fig .",
+    "1b ) : 150 to 200 km s@xmath2 on a projected extent of @xmath0 5 kpc ( h@xmath3 = 75 km s@xmath2 mpc@xmath2 ) .",
+    "the long - slit spectrum taken across the southern / central part of the tail shows that beside the already observed general trend , there are local velocity gradients within individual tdg candidates ( fig .",
+    "the lack of a continuous trend between adjacent clumps suggests that they might be kinematically distinct structures .",
+    "the observed local velocity gradients , of order of 20 km s@xmath2 kpc@xmath2 , are comparable to those found in other tdgs ( mendes de oliveira et al .",
+    "2001 ) .",
+    "_ evolutionary history _ a previous analysis of optical colors indicated a young burst age for the tdg candidates , in the range 7 to 20 myr ( temporin et al .",
+    "2003b ) . by comparing the observations with sb99 models ( leitherer et al .",
+    "1999 ) , i found a good agreement of optical / near - infrared colors and h@xmath4 equivalent widths with instantaneous burst models of age 5.5 to 8.5 myr , once a correction for internal extinction was applied .",
+    "extinction - corrected spectra are in good agreement with model spectra of age @xmath0 6 myr and total masses of order 10@xmath5 m@xmath6 ( fig .",
+    "all pieces of evidence suggest that these clumps have bursts much younger than their parent galaxies , for which ages of @xmath0 40 to 180 myr were estimated .    in _ conclusion",
+    "_ , the photometric and spectroscopic properties of these tidal objects are in agreement with what expected for tdgs .",
+    "although projection effects might explain part of the observed local velocity gradients , kinematic data seem to indicate the presence of self - gravitation in the individual clumps .",
+    "leitherer , c. et al .",
+    "1999 , , 123 , 3 mendes de oliveira , c. , plana , h. , amram , p. , balkowski , c. , & bolte , m. 2001 , , 121 , 2524 temporin , s. , weinberger , r. , galaz , g. , & kerber , f. 2003a , , 584 , 239 temporin , s. , weinberger , r. , galaz , g. , & kerber , f. 2003b , , 587 , 671"
+  ],
+  "abstract_text": [
+    "<S> i use integral field and long - slit spectra from the aat and the magellan telescope to investigate the kinematics of several clumps , recently identified along the prominent tidal tail of cg j1720 - 67.8 and suggested as possile tidal dwarf galaxy ( tdg ) candidates . </S>",
+    "<S> a comparison of photometric and spectroscopic data with evolutionary synthesis models suggests burst ages of @xmath0 6 myr for these clumps / tdg candidates .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

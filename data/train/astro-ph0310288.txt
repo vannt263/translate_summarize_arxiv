@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "while the fate of a star with main sequence mass between 1 to 8 solar mass is well established , the formation and the early evolution of planetary nebulae ( pn ) is still one of the less understood phase of stellar evolution .",
+    "new clues on the process of pns formation can be provided by the analysis of the physical characteristics of objects in the shortphase between the end of the agb and the onset of the ionization in the nebula . for this purpose , many authors have tried to identify very young pns or proto planetary nebula ( ppns ) but this is revealed to be quite difficult as this evolutionary phase is very rapid and because the central object is often heavily obscured by the thick circumstellar envelope formed during the agb phase .    in this contest sao244567",
+    "appears to be a unique object :    * optical and ultraviolet spectra have changed in few decades ( parthasarathy et al . , 1995 ) ; * it shows a strong infrared excess and is associated with iras17119 - 5926 , with measured iras fluxes 0.65 , 15.50 , 8.20 and 3.52  jy at 12 , 25 , 60 and 100 @xmath0 m respectively ; * hst images of sao244567 have revealed the presence of a structures 1.6 arcsec nebula , where collimated outflows are evident ( bobrowsky et al . , 1998 ) .",
+    "these , together with other observational evidences make the source a perfect target for studying the early structure and evolution of pns .    despite of the numerous optical and ultraviolet studies of this very interesting object ,",
+    "very little is known on its radio properties .",
+    "parthasarathy et al . (",
+    "1993 ) briefly reported on atca 6 and 3 cm observations obtained in 1991 .",
+    "the measured flux densities are @xmath1 mjy and @xmath2 mjy at 6 and 3 cm respectively , the latest obtained by direct fitting of the uv data , yielding to a quite large error in the flux estimate .",
+    "sao244567 is also associated to the radio source pmnj1716 - 5929 , which is reported as a @xmath3  mjy source at 4850 mhz ( 6  cm ) in the parkes - mit - nrao ( pmn ) survey .",
+    "sao244567 was observed with the australia telescope compact array ( atca ) on august 24 and 29 2002 .",
+    "the array was in 6c configuration , having the highest baseline of 6 km , that , at 3.6 cm , corresponds to an angular resolution of @xmath4 ) . on august 24",
+    "the observations were carried out simultaneously at 16832 and 18752 mhz , by using the new millimetric receivers . at that time",
+    "only 3 antennas were equipped with mm backends , therefore the angular resolution at those frequencies was degraded . on august 29 the observations",
+    "were carried out simultaneously at 4800/8640 mhz and at 1384/2368 .",
+    "the flux scale was fixed toward 1934 - 638 , phase calibration performed by observing 1718 - 649 .",
+    "+   + the atca observations allow us to obtain for the first time the radio morphology of the source and to compute the radio spectrum up to 18752mhz .",
+    "the observed flux densities are 36.8 , 45.4 , 47.9 , 43.6 , 36.1 and 36.0 respectively at 1384 , 2368 , 4800 , 8640 , 16832 and 18752 mhz .",
+    "we note that the 4800 mhz flux density is about 25% lower than what previously observed by parthasarathy et al .",
+    "( 1993 ) in 1991 .",
+    "the 8640mhz radio map ( fig .  [ map ] ) reveals a quite extended structure , slightly elongated in the s - w direction ( pa=@xmath5 ) , whose overall size ( @xmath6 ) compares quite well with that observed in h@xmath7 ( bobrowsky et al . , 1998 ) .",
+    "the integrated flux density is @xmath8  mjy .",
+    "the computed radio spectrum is consistent with a free - free shell - like emitting nebula , whose angular size matches that estimated by our interferometric measurements , with a decreasing density ( @xmath9 ) , a temperature @xmath10k and @xmath11 in the innermost part of the nebula .",
+    "however , the atca angular resolution prevented to point out any fine detail of the radio structure .",
+    "once we have determined the angular size ( @xmath12 ) of the source , we can use the measured radio flux density at 8.6ghz ( @xmath13 ) to calculate some physical parameter that characterize the nebula : +   + brightness temperature @xmath14 mean emission measure @xmath15 infrared excess @xmath16 where fir is the total far infrared flux obtained by integrating a planck curve fitting the iras fluxes .",
+    "a radio map at 8.6ghz ( 3.6 cm ) of the very young planetary nebula sao244567 has been obtained , which reveals a slight extended radio structure .",
+    "the angular resolution of atca does not allow to evidence the fine details of the nebula as shown by hst observations .",
+    "however , the elongated radio structure give an hint of the presence of two possible jets , in the s  w direction , that the synthetic beam ( @xmath17 ) is not able to resolve .",
+    "when compared with previous observations , the radio flux appears to vary . in particular , the decrement of the 6  cm flux ( from 1991 to 2002 ) , while the ionization of the nebula is increasing , does not agree with the recent models of the evolution of the radio luminosity from young planetary nebulae ."
+  ],
+  "abstract_text": [
+    "<S> the radio emission from the youngest known planetary nebula , sao244567 , has been mapped at 20,13 , 6 , 3.6 and 1.2 cm by using the australian telescope compact array ( atca ) . </S>",
+    "<S> these observations constitute the first detailed radio study of this very interesting object , as they allow us to obtain , for the first time , the radio morphology of the source and to compute the radio spectrum up to 18752 mhz . </S>"
+  ]
+}

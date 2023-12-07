@@ -1,0 +1,20 @@
+{
+  "article_text": [
+    "we use collisionless simulations of clusters of galaxies generated using the technique of `` zooming - in '' ( tormen et al . , 1997 ) .",
+    "a suite of cluster simulations covering a wide range of masses and structural properties has been carried out by barbara lanzoni as part of her ph.d .",
+    "thesis ( lanzoni et al . , 2002 ) .",
+    "the model we use is based on the semi - analytic model presented by springel et al .",
+    "( 2001 ) with new prescriptions for the chemical enrichment and the transfer of mass and metals between the different phases .",
+    "the use of simple physical prescriptions for the transport of metals in the different phases and the choice of a few , physically motivated , parameters allow us to reproduce the relation between stellar mass and metallicity inferred from new sdss data as well as the observed amount of metals in the icm .",
+    "the good agreement between the model predictions and the observational data shows that the circulation of metals between the different baryonic components of the cluster is being well tracked .",
+    "our analysis shows that the chemical pollution of the icm occurs at relatively high redshift : @xmath0 per cent of the metals today present in the icm were ejected at redshifts larger than @xmath1 .",
+    "massive galaxies are important contributors to the chemical enrichment of the icm : @xmath2 per cent of the metals today in the icm were ejected by galaxies with mass larger than @xmath3 .    2.7 in",
+    "the eso distant cluster survey ( ediscs ) is an eso large programme aiming at studying the evolution of cluster population over more that @xmath4 per cent of cosmic time by combining photometric and spectroscopic information on a large sample of clusters at redshift @xmath5 and @xmath6 with existing information on well studied nearby clusters .",
+    "we can compare our simulations to the data to study how the efficiency and relative importance of processes such as quiescent and interaction - driven star formation , ram - pressure stripping , harassment , strangulation and merging , affect the observable structure and stellar populations of cluster galaxies .",
+    "1 garnett d.r . , 2002 , apj , 581 , 1019 lanzoni b. , cappi a. , ciotti l. , 2002 , in `` computational astrophysics in italy : methods and tools '' , sait proc . , preprint , astro - ph/0212131 springel v. , white s.d.m . , tormen g. , kauffmann g. , 2001 , mnras , 328 , 726 tormen g. , bouchet f. r. , white s. d. m. , 1997 , mnras , 286 , 865"
+  ],
+  "abstract_text": [
+    "<S> we present two different projects . the first one is related to the development of a semi - analytic model to follow the formation , the evolution and chemical enrichment of cluster galaxies in a hierarchical dark matter model . </S>",
+    "<S> the second project concerns the comparison between high resolution n - body simulations of clusters of galaxies with the ediscs observational dataset .    intergalactic medium , galaxy cluster , galaxy formation , galaxy evolution </S>"
+  ]
+}

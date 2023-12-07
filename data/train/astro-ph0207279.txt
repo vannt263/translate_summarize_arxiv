@@ -1,0 +1,26 @@
+{
+  "article_text": [
+    "observations with the _ rossi x - ray timing explorer ( rxte ) _ have revealed kilohertz quasi - periodic oscillations ( khz qpos ) in some 20 x - ray binaries .",
+    "it is generally thought that these khz qpos reflect the motion of matter in orbit at some preferred radius in the accretion disk around the neutron star ( see van der klis 2000 for a review of the phenomenology of these qpos , and for a description of the models so far proposed to explain them ) .",
+    "calculations by miller , lamb , & psaltis ( 1998 ) show that the inner radius of the disk is set by angular momentum losses to the radiation field : when mass flow through the disk increases , the inner radius of the disk decreases , and therefore the qpo frequency ( the keplerian frequency at this radius ) increases .",
+    "but because in accretion - powered systems luminosity is proportional to the mass accreted onto the compact object , from the above it follows that there should be a one - to - one relation between qpo frequency and bolometric flux .",
+    "to the extent that x - ray flux is a good measure of the bolometric flux ( see , e.g. , ford et al .",
+    "2000 ) , observations with rxte seem to contradict the above expectations .",
+    "figure 1a shows a plot of qpo frequency vs. x - ray intensity for the transient source 4u160852 ( mndez et al .",
+    "each segment there represents an uninterrupted observation lasting @xmath11 hour , whereas different tracks denote observations separated by intervals longer than a day . from this figure",
+    "it is apparent that frequency and x - ray count rates are positively correlated during relatively short periods , but they are uncorrelated over longer time intervals .",
+    "despite 5 years of observations with rxte , so far no single transition between two tracks in a qpo frequency vs. x - ray intensity diagram had been observed . here",
+    "i report the first direct observation of one such transition , in an rxte observation of 4u163653 made in 1998 ( see figure 1b ) .",
+    "the observation starts with the source at the upper end of `` track 1 '' ( `` begin '' ) , and ends at the upper end of `` track 2 '' ( `` end '' ) . in between",
+    ", 4u163653 goes three times from one track to the other , as indicated by the arrows with numbers 1 , 2 , and 3 .",
+    "the transitions are very fast ( @xmath1300 s ) , consistent with upper limits inferred from the time intervals between two consecutive tracks in this and other sources , in diagrams similar to the one shown in figure 1a ( e.g. , mndez 2000 ) .    during the transitions in 4u163653 , x - ray intensity changes by @xmath13% . from figure 1a",
+    "we see that in 4u160852 x - ray intensity differs by factors of a few between tracks ( in 4u163653 jumps of @xmath030% are observed over longer time intervals than shown in figure 1b ) , it is therefore not clear whether this larger differences in x - ray intensity are the cumulative effect of several small jumps , or if they have a completely different origin .",
+    "i will present these results in more detail elsewhere ( mndez & van der klis , 2002 , in preparation ) , and there i will discuss more extensively their implications upon models of the accretion flow in x - ray binaries ."
+  ],
+  "abstract_text": [
+    "<S> contrary to theoretical expectations , observations with the _ rossi x - ray timing explorer ( rxte ) _ show that in x - ray binaries timing properties are not uniquely correlated with x - ray luminosity . for instance , although the frequencies of the kilohertz quasi - periodic oscillations ( khz qpos ) correlate with x - ray flux on short ( @xmath0few hours ) time scales , on time scales longer than a day the qpo appears at more or less the same frequency , whereas the luminosity may be a factor of a few different . </S>",
+    "<S> the result is a set of almost parallel tracks in a qpo frequency vs. x - ray flux plot . despite the `` parallel tracks '' are a common phenomenon among khz qpo sources , until now , after five years of observations with rxte , not a single transition between two of these tracks had been seen . here </S>",
+    "<S> i present the first detection of such a transition , in 4u163653 .    </S>",
+    "<S> # 1_#1 _ # 1_#1 _ =    # 1 1.25 in .125 in .25 in </S>"
+  ]
+}

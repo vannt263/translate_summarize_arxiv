@@ -1,0 +1,30 @@
+{
+  "article_text": [
+    "pal5 is a sparse low - mass halo cluster with peculiar structure and stellar content . using wide - field multicolor data from the sloan digital sky survey ( sdss , see york et al .",
+    "2000 ) we recently found clear direct evidence for strong mass loss from pal5 , showing that this cluster is in the process of being tidally disrupted ( odenkirchen et al .",
+    "2001 , rockosi et al .",
+    "2002 ) . at the current stage",
+    "the sdss covers a 6@xmath0 to 8@xmath0 wide band across pal5 ( see fig.1 ) .",
+    "this enabled us to extend our search for tidal debris to larger distances from the cluster .",
+    "the data were filtered by applying an optimized smooth color - magnitude dependent weight function .",
+    "we thus found out that the tidal tails of pal5 extend over at least 10@xmath0 on the sky ( fig.1 ) , corresponding to a length of 4 kpc in space .",
+    "the leading tail ( southwest of pal5 ) is visible over 35 down and most likely continues beyond the border of the field . the trailing tail ( northeast of pal,5 ) is traced out to 65 from the cluster .",
+    "the stellar mass seen in the tails adds up to 1.2 times the mass of stars in the cluster .",
+    "the location and curvature of the tails provide unique information on the local orbit of the cluster .",
+    "the clumpiness of the stream suggests that the process of tidal mass loss has been episodic , probably triggered by disk shocks .",
+    "the orbit and the mass and geometry of the tails yield an estimate of the mean mass loss rate of about 5  @xmath1/myr .",
+    "in order to investigate the internal kinematics of pal5 we obtained high resolution spectra of 18 of its red giants using the uves spectrograph on the vlt ( odenkirchen et al .",
+    "one of the stars has a velocity offset of 14 kms@xmath2 and is suspected to be a binary with rapid orbital motion .",
+    "the others have highly coherent velocities , with an overall dispersion of 1.1  kms@xmath2 . by accounting for the influence of binaries on the measured velocities in a statistical way",
+    "we conclude that the dynamical line - of - sight velocity dispersion in pal5 is probably in the range from 0.12 to 0.41  kms@xmath2 .",
+    "the upper end of this range is found to be compatible with the cluster s surface density profile and luminosity .",
+    "+    the sdss is funded by the alfred p. sloan foundation , the participating institutions , the national aeronautics and space administration , the national science foundation , the u.s .",
+    "department of energy , the japanese monbukagakusho , and the max planck society .",
+    "the sdss web site is http://www.sdss.org/. +"
+  ],
+  "abstract_text": [
+    "<S> sloan digital sky survey data for the field of the cluster pal5 reveal the existence of a long massive stream of tidal debris spanning an arc of 10@xmath0 on the sky . </S>",
+    "<S> pal5 thus provides an outstanding example for tidal disruption of globular clusters in the milky way . </S>",
+    "<S> radial velocities from vlt spectra show that pal5 has an extremely low velocity dispersion , in accordance with the very low mass derived from its total luminosity . </S>"
+  ]
+}

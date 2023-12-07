@@ -1,0 +1,33 @@
+{
+  "article_text": [
+    "astrophysical jets detected so far seem to be attached to objects where an accretion disk is indicated to be present .",
+    "the similarities between jets from the different sources imply that the basic mechanism for jet formation should be the same .",
+    "( 0,0 )    what kind of mechanism turns the inflowing matter of the accretion disk into an outflow from the disk ( or the star ) is still not really known , although it seems to be clear that magnetic fields play a major role .",
+    "our model is sketched in figure  [ f1 ] . in order to model the time - dependent evolution of jet formation",
+    ", we solve the set of resistive mhd equations ,    @xmath3    @xmath4 + \\nabla ( p+p_a ) +   \\rho\\nabla\\phi - \\frac{\\vec{j } \\times \\vec{b}}{c } = 0\\ ] ]    @xmath5    @xmath6    @xmath7    @xmath8    we apply a polytropic equation of state , @xmath9 with a polytropic index @xmath10 .",
+    "we do not solve the energy equation but define the internal energy of the system with eq .",
+    "we may expect that the turbulence pattern in the disk may also enter the disk corona and the jet , and that the jet flow itself is subject to turbulent diffusion .",
+    "the magnetic diffusivity is denoted by the variable @xmath11 , and other have its usual meaning , with @xmath12 with @xmath13 , an alfvnic turbulent pressure , added to the hydrostatic pressure @xmath14 .",
+    "the results of one reference set of global simulations with high resolution ( numerical mesh of @xmath15 grid points , physical grid of @xmath16 ) are presented in figure  [ f2 ] .      in order to investigate only the gross behavior of the jet flow and not its structure in detail , we run another set of simulations with lower resolution ( numerical mesh of 280@xmath1780 grid points , physical grid of ( z@xmath17r)=(140@xmath1740)r@xmath18 ) ",
+    "see figure  [ f3 ] .          below the ",
+    "critical @xmath11 ` ' in our choice of parameters ( @xmath19 ) , the time of reaching the quasi - stationary state of the inner jet is approximately linearly dependent on @xmath11 ( figure  [ f4 ] , right panel ) .",
+    "the much faster computation of the low resolution simulations allowed us to follow the jet evolution for a very long time even in the case of a high magnetic diffusivity ( up to 4000 disk rotations ) . the observed de - collimation of the matter flow with increasing diffusivity is most evident if we plot the mass and momentum fluxes across the boundaries of the inner jet region .      in combination with various physical effects ",
+    "magnetic and inertial forces , pressure and gravity  the magnetic diffusion will modify the mhd structure of the jet . as the flow approaches the alfvn surface , a toroidal magnetic field component is induced (  wound - up ` ' ) due to the inertial back - reaction of the matter on the field .",
+    "the toroidal field may lead to ( de- ) accelerating lorentz forces @xmath20 and ( de- ) collimating forces @xmath21 where , here , the perpendicular and parallel projection is made with respect to the poloidal magnetic field ( which , only in the case of ideal stationary mhd is parallel to the poloidal velocity ) .",
+    "the winding - up of the poloidal magnetic fields is less efficient since magnetic diffusion leads to a slip of matter across the field .",
+    "the induced toroidal magnetic field is weaker leading to a less efficient acceleration by lorentz forces but also to a de - collimation .",
+    "as a de - collimation of the poloidal magnetic structure also implies a smaller launching angle for the sub - alfvnic flow , the magneto - centrifugal acceleration mechanism may work more effective .",
+    "acknowledgements : we thank the lca team and m.  norman for the possibility to use the zeus-3d code .",
+    "this work was partly financed by the dfg schwerpunktprogramm `` physik der sternentstehung '' ( fe490/2 - 1 ) ."
+  ],
+  "abstract_text": [
+    "<S> we investigate the evolution of a disk wind into a collimated jet under the influence of magnetic diffusivity . using the zeus-3d code in the axisymmetry option </S>",
+    "<S> we solve the time - dependent resistive mhd equations for a model setup of a central star surrounded by an accretion disk . </S>",
+    "<S> the disk is taken as a time - independent boundary condition for the mass flow rate and the magnetic flux distribution . </S>",
+    "<S> we find that the diffusive jets propagate slower into the ambient medium , most probably due to the lower mass flow rate in axial direction . </S>",
+    "<S> close to the star we find that a quasi stationary state evolves after several hundreds ( weak diffusion ) or thousands ( strong diffusion ) of disk rotations . </S>",
+    "<S> magnetic diffusivity affects the protostellar jet structure de - collimating it . </S>",
+    "<S> we explain these effects in the framework of the lorentz force .    </S>",
+    "<S> miljenko emelji@xmath0 and christian fendt@xmath1    @xmath0astrophysikalisches institut potsdam ( germany ) , @xmath2universitt potsdam , institut fr physik ; email : cemeljic,cfendt@aip.de    keywords : accretion , accretion disks  mhd  ism : jets and outflows  stars : mass loss  stars : pre - main sequence </S>"
+  ]
+}

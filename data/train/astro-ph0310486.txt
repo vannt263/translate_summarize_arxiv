@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "it is important to understand the charged particle dynamics in the pulsar magnetosphere to unravel the radiation mechanism of pulsars .",
+    "the particles are constrained to move strictly along the field lines , owing to the super - strong magnetic field that the gyration of the particles are almost suppressed .",
+    "the equation of motion for a charged particle moving along the rotating field line is given by gangadhara ( 1996 ) .",
+    "here we extend this work to obtain an analytical expression for particle trajectory and stokes parameters .",
+    "the pulsar rotation effects such as aberration and retardation can create asymmetric pulse profiles",
+    "the equation of motion of a charged particle along a rotating magnetic field line is given by ( gangadhara 1996 ) @xmath0 where @xmath1 is the relativistic electron mass , @xmath2 is the rest mass , c is the speed of light , @xmath3 is the lorentz factor , @xmath4 is the effective angular velocity of the particle , and @xmath5 we have solved this equation and obtained the analytical solution : @xmath6 where @xmath7 is the jacobian elliptical cosine function ( abramowitz @xmath8 stegun ) , @xmath9 @xmath10 the initial particle injection point , @xmath11 the distance between magnetic pole and rotation axis in the projected 2d plane , @xmath12 the initial injection angle with respect to meridional plane , @xmath13 the angular velocity of the pulsar , k is an integration constant , @xmath14 is a dummy variable , @xmath15 is the angle that the line of sight makes with the 2d plane . using the expression for the r an approximate value for @xmath16",
+    ", the radius of curvature of the particle in the lab frame , is found out to be @xmath17 where @xmath18 is the light cylinder radius .    for a pulsar with period of 1 s , we estimated the components of the electric field of radiation and hence the stokes parameters . in fig .  1a ,",
+    "we have plotted the intensity @xmath19 , linear polarization @xmath20 and in fig .",
+    "1b circular polarization @xmath21 is plotted .",
+    "due to aberration - retardation phase shift the profile is asymmetric about the center @xmath22 of the profile",
+    ". it also shows that leading part of the profile is stronger than trailing part . since line of sight stays above or below the plane of particle trajectory ,",
+    "circular polarization becomes one sense , as observed in many pulsars ."
+  ],
+  "abstract_text": [
+    "<S> we present a relativistic model of pulsar radio emission by plasma accelerated along the rotating magnetic field lines projected on to a 2d plane perpendicular to the rotation axis . </S>",
+    "<S> we have derived the expression for the trajectory of a particle , and estimated the spectrum of radio emission by the plasma bunches . </S>",
+    "<S> we used the parameters given in the paper by peyman and gangadhara ( 2002 ) . </S>",
+    "<S> further the analytical expressions for the stokes parameters are obtained , and compared their values with the observed profiles . </S>",
+    "<S> the one sense of circular polarization , observed in many pulsars , can be explained in the light of our model .    </S>",
+    "<S> epsf.sty 1.25 in 0.125 in 0.25 in </S>"
+  ]
+}
