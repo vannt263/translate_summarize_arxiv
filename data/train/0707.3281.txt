@@ -1,0 +1,35 @@
+{
+  "article_text": [
+    "a catalog of the northern virgo cluster region has recently been published ( @xcite ) , including 730 detections of galaxies and high velocity clouds ( hvcs ) in the milky way or its periphery over 132 deg@xmath0 ( approximately 1.7@xmath2 of the total alfalfa sky ) . here , we present the mass and redshift characteristics of an extended version of the northern virgo cluster region catalog with greater extent in right ascension , 07@xmath330@xmath4 @xmath5 r.a .",
+    "@xmath5 16@xmath330@xmath4 , for a total of 540 deg@xmath0 .",
+    "objects are detected over a bandwidth range -1,600 km s@xmath6 @xmath5 cz @xmath5 18,000 km s@xmath6 .",
+    "there are 94 hipass detections in this region , while there are @xmath72700 alfalfa detections , 2.5@xmath2 hvcs and 97.5@xmath2 galaxies . of these galaxies ,",
+    "3@xmath2 have no as yet identifiable optical counterpart , but these are typically associated with other structures ( giovanelli @xmath8 kent , these proceedings ) .",
+    "the median redshift of the catalog is 7,700 km s@xmath6 , and the redshift distribution of the full sample ( see figure  [ fig : hists](a ) ) reflects the known local large scale structure , including the virgo cluster , the void behind it , the a1367-coma supercluster at 7,000 km s@xmath6 , and a third , more distant overdensity at 13,000 km s@xmath6 .",
+    "the impact of radio frequency interference leads to apparent underdensities in redshift space .",
+    "very strong rfi is associated with the san juan faa radar operating at 1350 mhz ; this leads in particular to a loss of data near 15,000 km s@xmath6 , and samples will not be complete in this region .",
+    "alfalfa distances are estimated using a flow model ( masters 2005 ; @xcite ) to 3,000 km s@xmath6 , after which a pure hubble flow distance is used .",
+    "hi mass is calculated via @xmath9 where @xmath10 is the distance in mpc and @xmath11 is the integrated line flux in jy km s@xmath6 .",
+    "alfalfa probes both extremes of the distribution more completely than previous blind hi surveys ; the histogram in figure  [ fig : hists](b ) shows the mass distribution estimated for this extended catalog .",
+    "16@xmath2 of the objects in this catalog are more massive than 10@xmath12 m@xmath13 , and 5@xmath2 have masses between 10@xmath14 and 10@xmath15 m@xmath13 .",
+    "the highest mass objects detected by alfalfa are of particular interest ; alfalfa probes a cosmologically significant volume of the universe at @xmath16 , and will help to pin down both ends of the himf .",
+    "future cosmological studies targeted toward the redshift evolution of the himf will be biased in favor of such high mass objects , and will rely on the alfalfa detection of large numbers of galaxies with masses greater than 10@xmath12 m@xmath13 .",
+    "blended emission from pairs or groups are likely to be the explanation for many of the highest - mass detections .",
+    "as the survey proceeds , this sensitivity will allow the hi mass function ( himf ) to be probed at the problematic low - mass end , where current estimates vary by an order of magnitude near 10@xmath14 m@xmath13 .",
+    "alfalfa s ability to probe the low - mass end of the himf depends , however , on distance uncertainties . while 21-cm observations are ideal for large - scale surveys because they come with a redshift , it is difficult to determine a distance to an hi - selected galaxy without extensive followup in other regimes .",
+    "fractional distance errors are greatest for low recessional velocities , where we are most likely to detect the lowest - mass objects ; this problem is exacerbated in the high - density ( and high peculiar velocity ) environment of the virgo cluster .",
+    "for this reason , an himf of alfalfa galaxies awaits further completion of the survey .    .",
+    "dashed line : expected redshift distribution for a homogeneous distribution of galaxies and an himf following that of @xcite .",
+    "the presence of large - scale structure in this region is clearly exhibited ; note especially the overdensity near 1,000 km s@xmath6 due to the virgo cluster .",
+    "( b ) derived hi mass , in logarithmic units of m@xmath13 .",
+    ", width=480,height=168 ]"
+  ],
+  "abstract_text": [
+    "<S> the alfalfa@xmath0 blind hi survey will enable a census of the distribution of gas - rich galaxies in the local universe . </S>",
+    "<S> sensitive to an hi mass of 10@xmath1 solar masses at the distance of the virgo cluster , alfalfa will probe the smallest objects locally and provide a new consideration of near - field cosmology . </S>",
+    "<S> additionally , with a larger , cosmologically significant sample volume and wider bandwidth than previous blind surveys , a much larger number of detections in each mass bin is possible , with adequate angular resolution to eliminate the need for extensive follow - up observations . </S>",
+    "<S> this increased sensitivity will greatly enhance the utility of cosmological probles in hi . </S>",
+    "<S> alfalfa will eventually measure the correlation function of hi selected galaxies in a large local volume . </S>",
+    "<S> the larger sample and volume size of the alfalfa dataset will also robustly measure the hi mass function ( himf ) . here , we present the preliminary results on the distribution of local gas - rich galaxies from a first alfalfa catalog covering 540 deg@xmath0 . </S>"
+  ]
+}

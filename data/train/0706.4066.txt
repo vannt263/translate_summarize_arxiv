@@ -1,0 +1,38 @@
+{
+  "article_text": [
+    "sinyukov , s.v .",
+    "akkelin , y. hama , phys .",
+    "rev . lett . * 89 * , 052301 ( 2002 ) .",
+    "akkelin , y. hama , iu.a .",
+    "karpenko , yu.m .",
+    "sinyukov , in preparation .",
+    "t. hirano , phys .",
+    "c * 65 * , 011901 ( 2001 ) ; t. hirano , k. tsuda , phys .",
+    "c * 66 * , 054905 ( 2002 ) ; t. hirano , private communication m. laine , y. schrder , phys .",
+    "d * 73 * , 085009 ( 2006 ) .",
+    "t. lappi , phys .",
+    "b * 643 * , 11 ( 2006 ) ."
+  ],
+  "abstract_text": [
+    "<S> we describe rhic pion data in central a+a collisions and make predictions for lhc based on hydro - kinetic model , describing continuous 4d particle emission , and initial conditions taken from color glass condensate ( cgc ) model .    </S>",
+    "<S> hydro - kinetic approach to heavy ion collisions proposed in ref . </S>",
+    "<S> @xcite accounts for continuous particle emission from 4d volume of hydrodynamically expanding fireball as well as back reaction of the emission on the fluid dynamics . </S>",
+    "<S> the approach is based on the generalized relaxation time approximation for relativistic finite expanding systems , @xmath0 where @xmath1 is phase - space distribution function ( df ) , @xmath2 is local equilibrium distribution and @xmath3 is relaxation time , @xmath4 as well as @xmath5 are functional of hydrodynamic variables . </S>",
+    "<S> complete algorithm described in detail in ref . </S>",
+    "<S> @xcite includes : solution of equations of ideal hydro ; calculation of a non local equilibrium df and emission function in the first approximation ; solution of equations for ideal hydro with non - zero right - hand - side that accounts for conservation laws at the particle emission during expansion ; calculation of `` improved '' df and emission function ; evaluation of spectra and bose - einstein correlations . here </S>",
+    "<S> we present our results for the pion momentum spectra and interferometry radii calculated for rhic and lhc energies in the first approximation of the hydro - kinetic approach .    for simulations we utilize ideal fluid model @xcite and realistic equation of state ( eos ) that combines high temperature eos with crossover transition </S>",
+    "<S> @xcite adjusted to the qcd lattice data and eos of hadron resonance gas with partial chemical equilibrium @xcite . </S>",
+    "<S> the gradual disappearance of pions during the crossover transition to deconfinement and different intensity of interactions of pions in pure hadronic and `` mixed '' phases are taken into account in the hydro - kinetic model ( hkm ) , but resonance contribution to pion spectra and interferometry radii is not taken into account in the present version of the hkm . </S>",
+    "<S> we assume the following initial conditions at proper time @xmath6 fm / c for hkm calculations : boost - invariance of a system in longitudinal direction and cylindrical symmetry with gaussian energy density profile in transverse plane . the maximal energy densities at rhic , @xmath7 gev/@xmath8 and at lhc , @xmath9 gev/@xmath8 , were calculated from ref . </S>",
+    "<S> @xcite in approximation of bjorken expansion of free ultrarelativistic partons till @xmath10 and adjusted for transverse gaussian density profile . </S>",
+    "<S> the ( pre - equilibrium ) initial transverse flows at @xmath10 were estimated assuming again a free - streaming of partons , with transverse modes distributed according to cgc picture , from proper time @xmath11 0.1 fm / c till @xmath6 fm / c . finally , we approximate the transverse velocity profile by @xmath12 where @xmath13 both for rhic and lhc energies and we suppose the fitting gaussian radius for rhic top energy , @xmath14 , to be the same for lhc energy . </S>",
+    "<S> our results for rhic and predictions for lhc are presented in fig . @xmath15 . </S>",
+    "<S> the relatively small increase of the interferometry radii with energy in hkm calculations is determined by early ( as compare to sharp freeze - out prescription ) emission of hadrons , and also by increase of transverse flow at lhc caused by longer time of expansion . </S>",
+    "<S> it is noteworthy that in the case of eos related to first order phase transition , the satisfactory fitting of the rhic hbt data requires non - realistic high initial transverse flows at @xmath6 fm / c : @xmath16 .    </S>",
+    "<S> -0.0in-0.0 in    , @xmath17 , @xmath18 radii measured by the phenix collaboration for au+au central collisions ( hbt radii data were recalculated for @xmath19 centrality ) at rhic with the hkm calculations , and hkm predictions for pb+pb central collisions at lhc . for the sake of convenience </S>",
+    "<S> the calculated one - particle spectra are enhanced in @xmath20 times.,title=\"fig:\",width=307 ] , @xmath17 , @xmath18 radii measured by the phenix collaboration for au+au central collisions ( hbt radii data were recalculated for @xmath19 centrality ) at rhic with the hkm calculations , and hkm predictions for pb+pb central collisions at lhc . for the sake of convenience </S>",
+    "<S> the calculated one - particle spectra are enhanced in @xmath20 times.,title=\"fig:\",width=307 ]    , @xmath17 , @xmath18 radii measured by the phenix collaboration for au+au central collisions ( hbt radii data were recalculated for @xmath19 centrality ) at rhic with the hkm calculations , and hkm predictions for pb+pb central collisions at lhc . </S>",
+    "<S> for the sake of convenience the calculated one - particle spectra are enhanced in @xmath20 times.,title=\"fig:\",width=307 ] , @xmath17 , @xmath18 radii measured by the phenix collaboration for au+au central collisions ( hbt radii data were recalculated for @xmath19 centrality ) at rhic with the hkm calculations , and hkm predictions for pb+pb central collisions at lhc . for the sake of convenience </S>",
+    "<S> the calculated one - particle spectra are enhanced in @xmath20 times.,title=\"fig:\",width=307 ] -0.3 cm    [ fig ]    -0.8 cm </S>"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the nonextensive statistics attempts to handle some anomalies that appear in physical problems which are not completely described by the usual boltzmann - gibbs statistics .",
+    "its applications run through different systems ; magnetic systems are just one of them . in this work we show that nonextensive statistics , due to the agreement between theoretical models and experiments , is a interesting alternative to first principle models to the study of complex magnetic systems .",
+    "the tsallis generalized statistics , or nonextensive statistics , is based on the definition of the generalized entropy @xmath1 , where @xmath2 is a positive constant , @xmath3 is the entropic parameter and @xmath4 is the density operator .",
+    "this entropy functional recovers the boltzmann - gibbs one on the limit @xmath5 ( @xmath6 ) . from the maximization of this entropy functional , under a correct @xmath0-normalized constraint @xcite , is straightforward to express the density operator as @xmath7^{1/(1-q)}/z_{q}$ ] , in which @xmath8 is the nonextensive partition function , @xmath9 and @xmath10 is the systems hamiltonian . through the same reasoning ,",
+    "the magnetization of a system in the nonextensive approach is given by @xcite @xmath11 where @xmath12 is the magnetic moment operator .",
+    "in fig.1 , it is illustrated the fit of eq.([eq.02 ] ) , within the mean field approximation , to experimental data .",
+    "on the main graph it is plotted different values of @xmath13 , also taken from experimental data , as a function of @xmath0 , which shows a simple straight line dependence , @xmath14 ( for details see ref .",
+    "@xcite ) .     versus @xmath0 shows a linear dependence . ]",
+    "furthermore , one can define the @xmath0-generalized magnetic moment thermal average as @xmath15 , in which @xmath16 is the @xmath0-generalized thermal average spin operator and @xmath17 is the _ generalized brillouin function _ given by @xmath18^{q/(1-q ) } } { \\sum_{m_{s}=-s}^{+s}\\left[1+(1-q)\\frac{m_{s}}{s}x\\right]^{q/(1-q)}}\\ ] ] where @xmath19 . using a general expression to define the magnetic susceptibility such as @xmath20",
+    ", one can see in fig.2 that the inverse of the susceptibility predicts correctly the behavior of the paramagnetic systems ( for details see ref .",
+    "@xcite ) .     and",
+    "spin value @xmath21    on the other hand , considering a classical spin @xmath22 under a homogeneous magnetic field @xmath23 , whose hamiltonian is given by @xmath24 , it is then possible to determine the _ generalized langevin function _ from eq.([eq.02 ] ) , which yields : @xmath25\\ ] ] in which @xmath26 is the @xmath0-hyperbolic cotangent .",
+    "this expression can be obtained also taking the limit of large spin values ( @xmath27 ) on the generalized brillouin function .",
+    "as can be seen on fig.3 , this magnetization , also within the mean field approximation , predicts a first - order type phase transition for @xmath28 and a second - order type for @xmath29 which which occurs in certain kinds of magnetic systems ( for details see ref .",
+    "@xcite ) .     and @xmath30 . for @xmath31",
+    "the transition is of first - order type , whereas for @xmath32 the transition is of second - order type . ]",
+    "now , with these magnetic quantities defined in a nonextensive approach , one may ask the question : if is possible to connect a homogenous nonextensive system to a inhomogeneous one described by the boltzmann - gibbs statistics could the entropic parameter be interpreted through some magnetic quantities ?",
+    "so , to answer this question , lets us consider an inhomogeneous system ( described by the boltzmann - gibbs statistics ) composed by magnetic clusters distributed in size , therefore in their net magnetic moment , and the @xmath33 representing this distribution .",
+    "the average magnetization will be given by @xmath34 from eqs.([eq.04 ] ) and ( [ eq.05 ] ) , the average and the nonextensive susceptibilities can be derived as @xmath35 and @xmath36 respectively . calculating saturation values of the magnetization one finds @xmath37 for the average and @xmath38 for the nonextensive .",
+    "thus , equating those limits ( @xmath39 and @xmath40 ) , a microscopic analytical expression to the @xmath0 parameter is found @xmath41 where @xmath42 and @xmath43 are the first and second moments of the distribution @xmath33 .",
+    "this result is valid for any distribution @xmath33 and gives to the entropic parameter an interpretation , which involves magnetic quantities , that can experimentally determined ( for details see refs.@xcite ) .",
+    "however , it is possible to try a more fundamental magnetic quantity considering a ferromagnetic @xmath44 spins system . in this case , let consider that each spin interacts with @xmath45 neighbors in an inhomogeneous medium , in the boltzmann - gibbs framework @xcite . as the interactions are inhomogeneous , one must consider a distribution @xmath46 of the system exchange integrals on the system .",
+    "thus , the average magnetization variation per unit of volume is given by @xmath47 now , calculating the same quantity but on a homogeneous nonextensive system one can find @xcite @xmath48 where @xmath49 is a dimensionless integral that depends only on the value of the entropic parameter @xmath0 . from the mean field approximation it is then possible to find the critical temperature @xmath50 for the inhomogeneous boltzmann - gibbs and @xmath51 for the homogeneous nonextensive .",
+    "using the relation showed above between these two critical temperatures , one can find that @xmath52 .",
+    "thus , comparing eqs.([eq.07 ] ) and ( [ eq.08 ] ) , another expression is obtained @xmath53 revealing a relation between the @xmath0 parameter and moments of the exchange interaction distribution @xmath46 ( for details see ref.@xcite ) .",
+    "summarizing , we showed that the nonextensive statistics is an useful alternative for the description of complex behavior of some kinds of magnetic systems .",
+    "it was also showed that the entropic parameter @xmath0 can be interpreted through magnetic quantities , and can be seen as a measurement of the inhomogeneity of a magnetic system .",
+    "the authors would like to thanks the brazilian funding agencies cnpq and capes .",
+    "dosp would like to thanks the brazilian funding agency capes for the financial support at universidade de aveiro at portugal ."
+  ],
+  "abstract_text": [
+    "<S> during the past few years , nonextensive statistics has been successfully applied to explain many different kinds of systems . through these studies some interpretations of the entropic parameter @xmath0 , which has major role in this statistics , in terms of physical quantities have been obtained . </S>",
+    "<S> the aim of the present work is to yield an overview of the applications of nonextensive statistics to complex problems such as inhomogeneous magnetic systems .     </S>",
+    "<S> address = centro brasileiro de pesquisas fsicas , rua dr . </S>",
+    "<S> xavier sigaud 150 , 22290 - 180 , rio de janeiro , brazil , altaddress = ciceco , universidade de aveiro , 3810 - 193 , aveiro , portugal     address = ciceco , universidade de aveiro , 3810 - 193 , aveiro , portugal     address = centro brasileiro de pesquisas fsicas , rua dr . </S>",
+    "<S> xavier sigaud 150 , 22290 - 180 , rio de janeiro , brazil     address = centro brasileiro de pesquisas fsicas , rua dr . </S>",
+    "<S> xavier sigaud 150 , 22290 - 180 , rio de janeiro , brazil </S>"
+  ]
+}

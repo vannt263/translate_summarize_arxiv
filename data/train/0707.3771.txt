@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "centaurus a is one of the nearest group of galaxies at the mean distance of 3.77 mpc from us .",
+    "the cen  a / m  83 region is particularly interesting because one of the dominant galaxies cen  a is a giant elliptical .",
+    "the only other nearby large elliptical galaxy is the highly obscured maffei  1 .",
+    "the cen  a group is probably more dynamically evolved than others in the local volume , like local group or m  81 group , which have a spiral galaxy as central body . at the distance of cen  a group galaxies",
+    "are well resolved into individual stars including old giant branch stars up to an age of 10 to 13 gyr .",
+    "the centaurus a group contain 31 members or probable members ( karachentsev 2005 , aj 129 , 178 ) .",
+    "over the last several years members of our team participated in two snapshot surveys of nearby galaxies using wfpc2 aboard hst , which have provided us with the material for distances of @xmath0 accuracy for about 150 nearby galaxies ( proj .",
+    "8192 and 8601 ) .",
+    "further significant progress has been made with hst / acs pointed observations ( proj .",
+    "9771 and 10235 ) . most of known dwarf members of the cen",
+    "a / m  83 complex were imaged within the framework of these projects . here",
+    "we present star formation history ( sfh ) determination from color - magnitude diagrams ( cmds ) of resolved stars in 14 dwarf galaxies in the cen  a group ( see fig.1 ) .",
+    "the galaxies span absolute b magnitude range of @xmath1 $ ] .",
+    "hst / acs images of these objects were taken with f606w ( broadband v ) and f814w ( broadband i ) filters .",
+    "photometry of resolved stars in the galaxies was made with the dolphot package for crowded field photometry ( dolphin 2000 , pasp 112 , 1383 ) .",
+    "photometric distances for all galaxies in the sample were obtained using tip of the red giant branch distance indicator ( karachentsev et al .",
+    "2007 , aj 133 , 504 ) .",
+    "we have created a program to analyze our large and homogeneous sample of galaxies ( makarov & makarova 2004 , ap 47 , 229 ) .",
+    "we construct synthetic cmds from theoretical stellar isochrones taking into account the initial mass function , galaxy distance , galactic extinction and photometric errors .",
+    "photometric uncertainties and completeness values were added using results of artificial star tests .",
+    "a linear combination of synthetic cmds of different ages and metallicities forms a model cmd . for sfh determination",
+    "we have to find a best linear combination of partial model cmds to match the observed data .",
+    "we construct a maximum - likelihood function for this task .",
+    "several star formation features can be recognized from our measurements ( see representative set in fig.3 ) .",
+    "first , most galaxies demonstrate two distinct ( and similar ) star formation episodes .",
+    "an ancient episode has an age of about 1013 gyr and low metal abundance .",
+    "the galaxies under study also show enhanced star formation about 0.110 gyr ago .",
+    "dwarf irregulars has some ongoing star formation , too .",
+    "second , several dwarfs under study have unusual rate of metal enrichment , with the metallicity level of recent star formation episodes of about solar and probably higher ( like kk  197 and eso  269066 ) .",
+    "possible explanation of this high enrichment level can be due to interaction and merging of some galaxies during the evolution of the cen  a group .",
+    "sales et al .",
+    "( astro - ph/0706.2009v3 , millennium simulations ) have demonstrated high matter spread ( up to 2 virial radii ) in such evolutionary processes .",
+    "smaller members in the group can experience enhanced star formation due to these interactions and merging using the processed in larger galaxies matter of higher metal abundance ."
+  ],
+  "abstract_text": [
+    "<S> we consider star formation properties of dwarf galaxies in cen  a group observed within our hst / acs projects number 9771 and 10235 . </S>",
+    "<S> we model color - magnitude diagrams of the galaxies under consideration and measure star formation rate and metallicity dependence on time . </S>",
+    "<S> we study environmental dependence of the galaxy evolution and probable origin of the dwarf galaxies in the group . </S>"
+  ]
+}

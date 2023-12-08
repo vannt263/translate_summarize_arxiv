@@ -1,0 +1,29 @@
+{
+  "article_text": [
+    "the main mission of the virtual observatory is to increase efficiency of scientific usage of astronomical data .",
+    "international virtual observatory alliance ( ivoa ) is a large international collaboration of national vo projects .",
+    "its main responsibility is to develop standards within ivoa working groups for the interoperability of archives , tools , services , and software , and to propose them to the corresponding division of iau for further approval and recommendation .",
+    "presently , the virtual observatory comprises :    * archives and collections of science - ready astronomical data * data access services and analysis tools * resource registries to discover them * client software ( interactive tools as well as client api ) * set of standards used by all these resources to achieve interoperability    establishing standards for accessing theory data is one of the cornerstones of present vo development .",
+    "here we present two possible approaches of accessing ssp models .",
+    "the pegase.hr package ( le borgne et al . 2004 ) is taken as an example .",
+    "both methods of accessing pegase.hr are implemented in a frame of the vo paris project ( simon et al .",
+    "2006 ) by the author .    * tsap access * : a subset of the ivoa simple spectral access protocol ( ssap , tody et al .",
+    "parameters are passed in the http - get query .",
+    "interface is easy to implement .",
+    "interactive clients , such as esa vospec ( http://esavo.esa.int/vospec/ ) are able to build user interface dynamically , based on the response of the server providing capabilities ( e.g. allowed query parameters ) .",
+    "direct download links to the fits files , containing spectral models are provided .",
+    "scripting access is available using standard libraries dealing with http protocol .    * cea application access",
+    "* : ivoa common execution architecture is a standard way of accessing generic `` legacy '' applications and codes having cgi or command - line interfaces .",
+    "cea is based on the webservice access interface , thus parameters of the models and possible additional data are passed as a part of soap message , and no limitation on a number of parameters exists .",
+    "output is saved to the interoperable online storage : vostore .",
+    "interactive client , astrogrid workbench is available as well as the client library , astrogrid acr library , providing scripting level access from various programming languages , such as java , c / c++ , perl , python . easy integration into workflows is a valuable advantage of this approach .    [ cols=\"^,^ \" , ]",
+    "cea access is more versatile than tsap , but more expensive in terms of infrastructure .",
+    "it is preferable in case of complex models and if used in a workflow construction"
+  ],
+  "abstract_text": [
+    "<S> a great effort is being made by the international virtual observatory community to build tools ready to be used by scientists . </S>",
+    "<S> presently , providing access to theoretical spectra in general , and synthetic spectra of galaxies in particular , is a matter of current interest in the virtual observatory . </S>",
+    "<S> several ways of accessing such spectra are available . </S>",
+    "<S> we present two of them for accessing pegase.hr evolutionary synthesis models : http - access to a limited number of parameters using simple spectral access protocol ( ssap ) , and full - featured web - service based access using common execution architecture ( cea ) . </S>"
+  ]
+}

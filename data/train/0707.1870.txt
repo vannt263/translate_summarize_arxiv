@@ -1,0 +1,24 @@
+{
+  "article_text": [
+    "in the color glass condensate ( cgc ) framework , fast ( large @xmath0 ) partons are described as frozen light cone color sources while the soft ( small @xmath0 ) partons are described as gauge fields .",
+    "the distribution of the fast color sources and their evolution with rapidity is described by the jimwlk evolution equation ; it is well approximated for large nuclei by the balitsky - kovchegov ( bk ) equation .",
+    "when two hadrons collide , a time dependent color field is produced that eventually decays into gluons  @xcite .",
+    "when the projectile is dilute ( e.g.,aa collisions at forward rapidity or pa collisions ) , @xmath1 factorization holds for gluon production , thereby simplifying computations . for quark production ,",
+    "@xmath1 factorization breaks down and is recovered only for large invariant masses and momenta .",
+    "the @xmath1 factorized cross - sections are convolutions over  dipole \" scattering amplitudes in the projectile and target .",
+    "initial conditions for the bk evolution of these are specified at an initial @xmath2 ( chosen here to be @xmath3 ) . in this work @xcite",
+    ", we consider two initial conditions , based respectively on the mclerran - venugopalan ( mv ) model or on the golec - biernat  wusthoff ( gbw ) model.we adjust the free parameters to reproduce the limiting fragmentation curves measured at rhic from@xmath4  gev to @xmath5  gev .",
+    "the value of @xmath6 in the _ fixed coupling _ bk equation is tuned to obtain the observed rate of growth of the saturation scale.the rapidity distribution @xmath7 is converted into the pseudo - rapidity distribution @xmath8 by asuming the produced particles have @xmath9  mev .    a prediction for aa collisions at the lhc",
+    "is obtained by changing @xmath10 to @xmath11  gev . from fig .",
+    "[ fig : dndeta ] , we can infer @xmath12 ; the two endpoints correspond to gbw and mv initial conditions respectively .",
+    "the cross - section for the production of a pair of heavy quarks @xcite is the simplest process for which @xmath1-factorization breaks down@xcite in pa collisions .",
+    "this is due to the sensitivity of the cross - section to 3- and 4-point correlations in the nucleus . integrating out the antiquark and convoluting with a fragmentation function , one obtains the cross - section for open heavy flavor production , e.g. , @xmath13 mesons .",
+    "alternatively , one can use the color evaporation model to obtain the cross - section for quarkonia bound states .",
+    "the nuclear modification ratio is displayed in figure [ fig : rpa ] .",
+    "the main difference at the lhc compared to rhic energy is that this ratio is smaller than unity already at mid rapidity , and decreases further towards the proton fragmentation region  @xcite .",
+    "10 , acta phys . polon . * b 37 * , 3253 ( 2006 ) , hep - ph/0611157 ."
+  ],
+  "abstract_text": [
+    "<S> the charged particle multiplicity in central aa collisions and the production of heavy flavors in pa collisions at the lhc is predicted in the cgc framework . </S>"
+  ]
+}

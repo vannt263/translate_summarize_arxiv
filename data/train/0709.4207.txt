@@ -1,0 +1,39 @@
+{
+  "article_text": [
+    "during the latter stage of stellar evolution of low- and intermediate - mass stars , an striking transformation occurs in the nebular morphology and kinematics : the spherical , slowly expanding ( @xmath215kms@xmath3 ) circumstellar envelopes of agb stars transform into highly aspherical pne with fast outflows ( @xmath2100kms@xmath3 ) .",
+    "high spatial resolution images of pre - pne has shown that the asphericity is already present in practically all well - resolved sources @xcite .",
+    "in addition , the presence of fast bipolar outflows is a common feature in these objects @xcite .",
+    "the physical processes leading to the appearance of this fast wind are not clearly understood , and the possible link to other structural features such as disk or tori , or a companion star , remain unknown .",
+    "magnetic fields may also be involved in the formation of these outflows ( see @xcite ) .",
+    "co emission is the best probe to study the kinematics of the nebular molecular gas , which is the majority of the total nebular mass . using a synthetic model it is possible to obtain crucial information about the physical conditions of the nebula .",
+    "co emission lines of pre - pne show a characteristic profile where two components are clearly distinguished : i ) the core of the line at low velocity , mainly ( but not only ) corresponding to the spherical component of the nebula , which is probably the fossil agb wind , and , ii ) the wings of the line at high velocity , corresponding to the bipolar component of the nebula .",
+    "note that although the bipolar component is the only one detected at high velocities , this is also detected at low velocities because of projection effects .",
+    "the first systematic study of the physical characteristics of the bipolar outflows of pre - pne from their co emission was made by @xcite .",
+    "they considered that only the wings of the line represent the emission of the fast bipolar outflow , and , that all the fast gas flows in the direction of the nebula axis . to go a step further , besides increasing the number of sources in the sample with high - quality new observations , we have modeled the co emission of the bipolar component of the nebula flowing in all directions .",
+    "this way we are able to separate the co emission at low velocities of the bipolar component from that of the spherical component at the core of the observed spectrum . this will help us to obtain more accurate values of the mass , the linear momentum , and the energy driven by the bipolar outflows , and to better understand whether those parameters are linked to other observational characteristics of these sources .",
+    "l l l l irasz02229 + 6208 & iras22223 + 4327 & m256 & iras19475 + 31 + iras065300213 & oh17.72.0 & oh231.8 + 4.2 & iras22272 + 5435 + iras071310147 & iras04296 + 3429 & hen3 - 401 & iras22574 + 6609 + iras080052356 & crl618 & roberts 22 & iras20000 + 3239 + iras180593211 & frosty leo & hd101584 & iras23304 + 6147 + iras18095 + 2704 & iras17436 + 5003 & boomerang nebula & rsct + iras17438 + 5003 & he3 - 1475 & he2 - 113 & iras20028 + 3910 + ngc6302 & iras195001709 & mz-3 & iras23321 + 2545 + 89 her & crl2477 & m29 & iras171503224 + iras07134 + 1005 & crl2688 & cpd -568032 & iras21282 + 5050 + red rectangle & ngc7027 & m192 & +    we have a sample of 43 sources ( see table1 ) , most of them observed in @xmath0co  and @xmath1co , both in transitions @xmath4=10 and @xmath4=21 , at pico de veleta ( spain ) .",
+    "the data corresponding to the rest of the sources are taken from the literature . with this large sample of sources",
+    "it is possible to improve the statistical study on the characteristics found for their different nebular components .",
+    "starting with a few assumptions we have modeled the expected @xmath0co  and @xmath1co   emission profiles from the bipolar component of pre - pne .",
+    "these assumptions were :    * @xmath5 , i.e. , hubble expansion velocity law * axial symmetry , ellipsoidal or bilobal * optically thin emission            we consider that the co gas is confined to an infinitesimally thin shell . assuming mass conservation and an originally isotropical distribution of mass , we have a scenario similar to an anisotropically expanding balloon , where , as it expands the density at each point decreases following @xmath6 .",
+    "in our model , the co gas located in the region closer to the star has low @xmath7 , that would correspond to the slow spherical component .",
+    "thus , in order to avoid such co gas when computing the fast bipolar component emission profile , we have introduced a lower limit to @xmath7 , @xmath8 .",
+    "in order to test our model , we have applied it to a well studied source included in our sample , crl2688 .",
+    "first we obtain from the bibliography the values of some input parameters of our model : i ) the inclination with respect to the plane of the sky , ii ) the ratio between the mayor an the minor axis of the nebula , and iii ) the distance to the source .",
+    "we estimate the value of @xmath8 from the width of the core of the observed emission line , and the rotational temperature from the observed line intensity ratio .",
+    "once all these data are obtained , we fit by a @xmath9 method our synthetic profile of the bipolar component to the wings of the observed profile .",
+    "this way we obtain the only two free parameters : the mass and the maximum expansion velocity of the bipolar component . after a successfully fit is obtained",
+    ", we are able to obtain the mass of the spherical component of the nebula just by subtracting the bipolar component mass to the total mass . the model is preferably fitted , in the cases in which it is possible , to @xmath1co lines , since they are optically thinner than those of @xmath0co .",
+    "a factor can be introduced as a correction due to opacity and calibration effects .",
+    "the results obtained for crl2688 are compatible with those obtained by @xcite . for this source",
+    "they deduce a mass for the bipolar outflows of 0.06 , while we obtain 0.11 .",
+    "the main reason for this difference is that we have not taken into account only the wings of the spectra as the emission of the bipolar component , but also the important contribution of the emission at low projected velocities , which is hidden by the most intense emission of the spherical component at the core of the line .",
+    "we will use this innovative model and new observational data to obtain the main physical characteristics of the fast bipolar outflows of pre - pne . our large sample will help us to find possible relations between them and other observational characteristics already known for these source , and therefore , to obtain a better understanding of how the fast collimated bipolar outflows are formed ."
+  ],
+  "abstract_text": [
+    "<S> high spatial resolution images of pne have shown their extremely complex morphology . however , the circumstellar envelopes of their progenitors , the agb stars , are strikingly spherical . in order to understand the carving processes leading to axisymmetric nebulae </S>",
+    "<S> , we are carrying out a study of a large sample of pre - pne . </S>",
+    "<S> our emission model of the nebular molecular gas ( @xmath0co & @xmath1co ) will allow us to determine important physical parameters ( mass , linear momentum , kinetic energy ) of the fast bipolar and slow spherical nebular components separately . </S>",
+    "<S> we will study in an innovative way the properties for each source individually , and put our results in an evolutionary context with the help of the data obtained by us and collected from the literature . </S>"
+  ]
+}

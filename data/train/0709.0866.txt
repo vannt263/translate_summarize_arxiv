@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "the census of supermassive black holes ( smbhs ) is large enough to probe the links between mass of smbhs and the global properties of the host galaxies ( see for a review ( * ? ? ?",
+    "* ferrarese & ford 2005 ) ) . however , accurate measurements of masses  of smbhs are available for a few tens of galaxies and the addition of new determinations is highly desirable . to this purpose",
+    "we started a project aimed at measuring upper limits on  of smbhs that can be present in the center of all the nearby galaxies ( @xmath0 mpc ) for which stis / g750 m spectra are available in the hst archive .",
+    "we retrieved data for 182 galaxies spanning over all the morphological types .",
+    "this will extend previous works by @xcite and @xcite . here , we show the preliminary results for a subsample of 76 bulges with stellar velocity dispersion   available in literature .",
+    "the stis / g750 m spectra were obtained with either the 02 @xmath4 52  or 01 @xmath4 52slit crossing the galaxy nucleus along a random position angle .",
+    "the observed spectral region includes the , ,  emission lines .",
+    "routine data reduction was performed . for each galaxy we obtained the nuclear spectrum by extracting a 025-wide aperture centered on the continuum peak .",
+    "the ionized - gas velocity dispersion was measured by fitting gaussians to the broad and narrow components of the observed lines .",
+    "we assumed that the ionized gas resides in a thin disk and moves into circular orbits .",
+    "the local circular velocity is dictated by the gravitational influence of the putative smbh . in our model",
+    "we neglected non - gravitational forces as well as the mass contribution of the stellar component . by taking into account for these effects ,",
+    "we would obtain tighter upper limits on . to derive the upper limits on  we first built the gaseous velocity field and projected it onto the sky plane according to the disk orientation .",
+    "then we observed it by simulating the actual setup of stis as done by @xcite .",
+    "we have no information on the orientation of the gaseous disk within the central aperture .",
+    "therefore , to reproduce the observed line width and flux radial profile we adopted two different inclinations of the gaseous disk that correspond to 68% upper and lower confidence limits for the  for randomly orientated disks ( figure [ ms ] ) .    and @xmath5 , respectively .",
+    ", height=226 ]",
+    "for some galaxies of the sample , either upper limits ( ( * ? ? ?",
+    "* sarzi et al . 2002 ) ; ( * ? ? ?",
+    "* coccato et al . 2006 ) ) or accurate measurements of ( ( * ? ? ?",
+    "* ferrarese & ford 2005 ) ) were available .",
+    "they are consistent with our measurements in that our  upper limits always exceed the corresponding  determinations .",
+    "therefore , we are confident to obtain reliable estimates of the upper limit on  for all the remaining galaxies of our sample .",
+    "this method will allow to increase the statistical significance of the relationships between  and galaxy properties .",
+    "adding new masses in both the upper and lower ends of  will allow to identify peculiar objects worthy of further investigations .",
+    "the resulting upper limits are close to the  by @xcite . at small ",
+    "most of  are above .",
+    "this can be explained in term of non - gravitational forces ( ( * ? ? ?",
+    "* sarzi et al . 2002 ) ) . at larger some of",
+    "fall below the  relation .",
+    "they could be the laggard smbhs discussed by @xcite ."
+  ],
+  "abstract_text": [
+    "<S> the growth of supermassive black holes ( smbhs ) appears to be closely linked with the formation of spheroids . </S>",
+    "<S> there is a pressing need to acquire better statistics on smbh masses , since the existing samples are preferentially weighted toward early - type galaxies with very massive smbhs . with this motivation </S>",
+    "<S> we started a project aimed at measuring upper limits on the mass of the smbhs that can be present in the center of all the nearby galaxies ( @xmath0 mpc ) for which stis / g750 m spectra are available in the hst archive . </S>",
+    "<S> these upper limits will be derived by modeling the central emission - line widths ( , and ) observed over an aperture of @xmath101 ( @xmath2 pc ) . </S>",
+    "<S> here we present our preliminary results for a subsample of 76 bulges .    </S>"
+  ]
+}

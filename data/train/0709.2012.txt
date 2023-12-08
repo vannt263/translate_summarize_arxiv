@@ -1,0 +1,20 @@
+{
+  "article_text": [
+    "in figure [ train - princ ] the schematic view of the licas train operating in the accelerator tunnel is presented . the train is composed of 6 cars , the distance between the centres of neighbouring cars is @xmath3 .",
+    "each car is equipped with 4 ccd cameras and two beam splitters ( bs ) constituting the straightness monitor .",
+    "the straightness monitor measures the transverse translation ( @xmath4 ) and transverse rotation ( @xmath5 ) with respect to a @xmath6 axis defined by the laser beam passing through all cars in a vacuum pipe .",
+    "the laser beam is reflected back using the retro - reflector ( rr ) located in the last car , illuminating the upper ccd cameras of the straightness monitors .",
+    "6 fsi lines placed in the same vacuum pipe between each pair of cars are responsible for the distance measurement along the @xmath6 axis ( @xmath7 ) . in addition",
+    "a clinometer located on each car provides a measurement of rotation around the @xmath6 axis ( @xmath8 ) .",
+    "coe , d. f. howell and r. b. nickerson `` frequency scanning interferometry in atlas : remote , multiple , simultaneous and precise distance measurements in a hostile environment '' , meas .",
+    "technol . 15",
+    "( 2004 ) 2175 - 2187 .",
+    "fox - murphy et al . ,",
+    "`` frequency scanned interferometry ( fsi ) : the basis of the survey system for atlas using fast automated remote interferometry '' , nuclear instruments and methods in physics research a 383 ( 1996 ) 229 - 237 ."
+  ],
+  "abstract_text": [
+    "<S> linear collider alignment and survey ( licas ) r&d group is proposing a novel automated metrology instrument dedicated to align and monitor the mechanical stability of a future linear high energy @xmath0 collider . </S>",
+    "<S> licas uses laser straightness monitors ( lsm ) and frequency scanning interferometry ( fsi ) @xcite for straightness and absolute distance measurements , respectively . </S>",
+    "<S> this paper presents detailed simulations of a licas system operating inside a rapid tunnel reference surveyor ( rtrs train ) . with the proposed design it is feasible to achieve the required vertical accuracy of the order of @xmath1 over @xmath2 tunnel sections meeting the specification for the tesla collider  @xcite </S>"
+  ]
+}

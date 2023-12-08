@@ -1,0 +1,19 @@
+{
+  "article_text": [
+    "99            monte carlo codes based on the two  component dual parton model ( soft hadronic chains and hard hadronic collisions ) are available since 1020 years : the present codes are phojet for h  h and @xmath0h collisions @xcite and dpmjet - iii based on phojet for h  a and a  a collisions @xcite .",
+    "to apply dpmjet ",
+    "iii to central collisions of heavy nuclei the percolation and fusion of the hadronic chains had to be implemented @xcite .",
+    "the behaviour of the inclusive hadron production becomes particular simple if we plot it in the form @xmath3 .",
+    "@xmath4 is the number of participants in the a  a collisions .",
+    "in fig.3 we plot this quantity as function of @xmath4 and as function of @xmath5 , in both plots we find a rather simple behaviour .",
+    "the limiting fragmentation hypothesis was proposed in 1969 by benecke et al .",
+    "if we apply it to nuclear collisions we have to plot @xmath3 as function of @xmath6 . in fig.4",
+    "we plot central and less central au  au collisions at rhic and lhc energies in this form .",
+    "we find that dpmjet ",
+    "iii shows in the fragmentation region only small deviations from limiting fragmentation ."
+  ],
+  "abstract_text": [
+    "<S> dpmjet - iii with chain fusion is used to calculate inclusive distributions of pb - pb collisions at lhc energies . </S>",
+    "<S> we present rapidity distributions as well as scaled multiplicities at mid - rapidity as function of the collision energy and the number of participants . </S>"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "article_text": [
+    "as well known , the supernovae ( sne ) ia are widely used by astronomers as distance indicators because of their small dispersion in peak absolute magnitude .",
+    "sne ii , on the other hand , are a quite heterogenous class with absolute magnitudes @xmath0 ( see e.g. @xcite ) .",
+    "the situation is still unclear regarding stripped - envelope sne ( ib / c ) .",
+    "the progenitors of these sne are massive stars that have lost most or all of their hydrogen envelopes , by strong winds such as in wolf - rayet stars or through mass transfer to a companion star in roche lobe overflow or a common envelope phase .",
+    "we have focused on finding the absolute b magnitude for these sne ( for a discussion on v magnitudes see @xcite ) .",
+    "for the absolute magnitude at maximum ( blue ) light we can generally write @xmath1 where @xmath2 is apparent magnitude , @xmath3 is absolute magnitude uncorrected for extinction in parent galaxy , @xmath4 } + 25 $ ] is distance modulus , @xmath5 is the distance to the galaxy , @xmath6 and @xmath7 are galactic extinction and extinction in parent galaxy , respectively .",
+    "the problem of extinction is the most important issue to be dealt with in the process of obtaining true absolute magnitudes of core - collapse ( including stripped - envelope ) sne .",
+    "the plane - parallel model which gives absorption dependent on galaxy inclination @xmath8 , @xmath9 , widely used in the past , was shown not to describe extinction adequately @xcite .",
+    "we try to apply an alternative model which introduces radial dependence of extinction @xcite .",
+    "bearing in mind the short life of their progenitors , we may assume that the stripped - envelope sne , we are interested in , are practically in the galactic plane ( @xmath10 ) .",
+    "the radial position of a supernova in a galaxy is then @xmath11 where @xmath12 and @xmath13 give sn offset from the center of the galaxy in radians and @xmath14 is the position angle of the major axis ( see fig .",
+    "if not given , offsets ( @xmath12 , @xmath13 ) can be calculated from rectascension ( @xmath15 ) and declination ( @xmath16 ) ; @xmath17 , @xmath18 .",
+    "table 1 gives a sample of sne ib / c with known peak b magnitude from the asiago supernova catalogue ( asc ) @xcite .",
+    "2 shows peak magnitude uncorrected for parent galaxy extinction against the radial position of sn @xmath19 in the units of galactic radius @xmath20 .",
+    "we see that there is a certain trend of dimmer sne with decreasing radius @xcite .",
+    "if we assume that @xmath21 then @xmath22 fit to data gives sne ib / c intrinsic absolute magnitude @xmath23"
+  ],
+  "abstract_text": [
+    "<S> the problem of extinction is the most important issue to be dealt with in the process of obtaining true absolute magnitudes of core - collapse supernovae ( sne ) . </S>",
+    "<S> the plane - parallel model which gives absorption dependent on galaxy inclination , widely used in the past , was shown not to describe extinction adequately . </S>",
+    "<S> we try to apply an alternative model which introduces radial dependence of extinction . </S>",
+    "<S> a certain trend of dimmer sne with decreasing radius from the center of a galaxy was found , for a chosen sample of stripped - envelope sne .     </S>",
+    "<S> address = astronomical observatory , volgina 7 , 11160 belgrade , serbia , altaddress = department of astronomy , faculty of mathematics , university of belgrade , studentski trg 16 , 11000 belgrade , serbia </S>"
+  ]
+}

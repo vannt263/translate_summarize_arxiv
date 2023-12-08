@@ -1,0 +1,25 @@
+{
+  "article_text": [
+    "big detectors at high energy colliders require the detection of electrons ( @xmath2 ) and muons ( @xmath3 ) with high efficiency , high purity and high precision for the reconstruction of the decays @xmath4 , @xmath5 , @xmath6 , @xmath7 , for the identification of @xmath8 lepton decays to @xmath2 and @xmath3 , for searches for lepton number violation , for the positive tagging of events with missing neutrinos , and for the isolation of event samples with supposed decays of supersymmetric or other massive states decaying partly to leptons .",
+    "the muon system of the 4th concept , fig . [ fig:4th ] , achieves almost absolute muon identification for isolated tracks .",
+    "we achieve excellent @xmath11 separation using three independent measurements : ( a ) energy balance from the tracker through the calorimeter into the muon spectrometer , ( b ) a unique separation of the radiative component from the ionization component in the dual - readout calorimeter ; and , ( c ) a measurement of the neutron content in the dual - readout fiber calorimeter .",
+    "the central tracking system has a resolution of about @xmath12 ( @xmath13 ( gev / c)@xmath14 ) and the muons spectrometer in the annulus between the solenoids with a b=1.5 t field has resolution of about @xmath15 ( @xmath16 ( gev / c)@xmath14 ) .",
+    "a muon of momentum @xmath17 which radiates energy @xmath18 in the volume of the calorimeter that is measured with a resolution of @xmath19 will have a momentum - energy balance constraint of @xmath20/p$ ] which yields a rejection of about 30 for a 100 gev muon radiating 20 gev .      a non - radiating muon penetrating the mass of a fiber dual readout calorimeter will leave a signal in the scintillating fibers equivalent to the @xmath21 of the muon , which in dream   is about 1.1 gev .",
+    "there will be no erenkov signal since the erenkov angle is larger than the capture cone angle of the fiber .",
+    "a radiating muon will add equal signals to both the scintillating and erenkov fibers and , therefore , the difference of the scintillating @xmath22 and erenkov @xmath23 signals is @xmath24 independent of the degree of radiation .",
+    "the distributions of @xmath25 _ vs. _",
+    "@xmath26 for 20 gev left in the h4 beam at 20 gev / c , so these data are from 40 gev / c @xmath27 . ] and 200 gev @xmath28 and @xmath27 are shown in fig .",
+    "[ fig : mu - pi ] in which for an isolated track the @xmath10 rejection against @xmath3 is about @xmath0 at 20 gev and @xmath29 at 200 gev .",
+    "the distribution of @xmath25 as a mean that is very nearly 1.1 gev as expected , and the radiative events are evident at larger @xmath26 .",
+    "r0.7          the dream   collaboration has succeeded in the measurement of neutron content in hadronic showers event - by - event in the dream   module by summing the scintillating channels of the module in three radial rings and digitizing the pmt output at 1.25 ghz .",
+    "these data , now being analyzed , show clearly the long - time neutron component in hadron showers that is absent in electromagnetic showers ( and also absent in the erenkov fibers of the dream   module for both @xmath2 and @xmath30 ) .",
+    "we expect to estimate a neutron fraction , @xmath31 , each event the same way we estimate @xmath32 each event , and be able to reject localized hadronic activity in the calorimeter with factors of 10 - 50 .",
+    "any simple product of these three rejection factors , or any estimate of the muon efficiency and purity , gives an optimistic result that will clearly be limited by tracking efficiencies , overlapping shower debris in the calorimeter , or track confusion either in the main tracker or the muon spectrometer before these beam test numbers are reached .",
+    "nevertheless , we expect excellent muon identification ."
+  ],
+  "abstract_text": [
+    "<S> muons can be identified with high efficiency and purity and reconstructed with high precision is a detector with a dual readout calorimeter and a dual solenoid to return the flux without iron . </S>",
+    "<S> we shown cern test beam data for the calorimeter and calculations for the magnetic fields and the track reconstruction . for isolated tracks , </S>",
+    "<S> the rejection of pions against muons ranges from @xmath0 at 20 gev / c to @xmath1 at 300 gev / c . </S>"
+  ]
+}

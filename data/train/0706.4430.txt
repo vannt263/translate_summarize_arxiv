@@ -1,0 +1,34 @@
+{
+  "article_text": [
+    "using the dhj model we can make a prediction for the @xmath14-spectrum of charged hadron production in both @xmath1-@xmath3 and @xmath1-@xmath2 collisions at the lhc , at respectively @xmath15 tev and @xmath16 tev .",
+    "figure [ fig]a shows the minimum bias invariant yield for an observed hadron rapidity of @xmath17 in the centre of mass frame , which for @xmath18 gev @xmath19 gev predominantly probes the egs region .",
+    "we note that at this rapidity the result is not sensitive to details of the dhj model in the saturation region @xmath20 .",
+    "further , from @xcite we expect that @xmath14-independent @xmath21-factors are needed to fix the normalization .",
+    "we conclude that the lhc data on hadron production in both @xmath1-@xmath3 and @xmath1-@xmath2 collisions will provide valuable data to further study the dipole scattering amplitude near the onset of saturation , particularly the behaviour of the function @xmath13 , which is discussed in e.g.@xcite .",
+    "another interesting small-@xmath4 observable is the polarization of @xmath0 hyperons produced in @xmath1-@xmath22 collisions , @xmath23 .",
+    "this polarization , oriented transversely to the production plane , was shown to essentially probe the derivative of the dipole scattering amplitude , hence displaying a peak around @xmath24 when described in the mclerran - venugopalan model @xcite .",
+    "if this feature persists when @xmath4-evolution of the dipole scattering amplitude is taken into account , @xmath23 would be a valuable probe of saturation effects . using the dhj model for the @xmath4-evolution of the scattering amplitude , we find that @xmath23 displays similar behaviour as in the mv model .",
+    "this is depicted for fixed @xmath0 rapidities of 2 and 4 in figure [ fig]b .",
+    "the position of the peak scales with the average value of the saturation scale @xmath25 . in the plotted region ,",
+    "the peak is located roughly at @xmath26 .",
+    "the figure also shows that , like in the mv model , in the dhj model @xmath27 scales approximately linearly with @xmath28 , which means that at the lhc it is very small due to @xmath29 being very large : rapidities around 6 are required for @xmath23 to be on the @xmath30 level , although there is a considerable model uncertainty in the normalization .",
+    "a.  charged hadron production .",
+    "b.  @xmath0 polarization . in both plots ,",
+    "@xmath32 , and parton distributions and fragmentation functions of @xcite and @xcite were used.,title=\"fig:\",height=200 ] a.  charged hadron production .",
+    "b.  @xmath0 polarization . in both plots ,",
+    "@xmath32 , and parton distributions and fragmentation functions of @xcite and @xcite were used.,title=\"fig:\",height=200 ]          d.  boer , a.  dumitru and a.  hayashigaki , phys .",
+    "d * 74 * , 074018 ( 2006 ) d.  boer , a.  utermann and e.  wessels , phys .",
+    "d * 75 * , 094022 ( 2007 ) d.  boer and a.  dumitru , phys .",
+    "b * 556 * , 33 ( 2003 )"
+  ],
+  "abstract_text": [
+    "<S> we present predictions for charged hadron production and @xmath0 polarization in @xmath1-@xmath2 and @xmath1-@xmath3 collisions at the lhc using the saturation inspired dhj model for the dipole cross section in the extended geometric scaling region .    at high energy , scattering of a particle off a nucleus can be described in terms of a colour dipole scattering off small-@xmath4 partons , predominantly gluons , in the nucleus . at very high energy ( small @xmath4 ) , the dipole amplitude starts to evolve nonlinearly with @xmath4 , leading to saturation of the density of these small-@xmath4 gluons . </S>",
+    "<S> the scale associated with this nonlinearity , the saturation scale @xmath5 , grows exponentially with @xmath6 .    </S>",
+    "<S> the nonlinear evolution of the dipole amplitude is expected to be characterized by geometric scaling , which means that the dipole amplitude depends only on the combination @xmath7 , instead of on @xmath8 and @xmath4 independently . </S>",
+    "<S> moreover , the scaling behaviour is expected to hold approximately in the so - called extended geometric scaling ( egs ) region between @xmath9 and @xmath10 .    </S>",
+    "<S> the small-@xmath4 dis data from hera , which show geometric scaling , were successfully described by the gbw model @xcite . to describe the rhic data on hadron production in @xmath11-@xmath12 in the egs region a modification of the gbw model was proposed by dumitru , hayashigaki and jalilian - marian ( dhj ) , incorporating scaling violations in terms of a function @xmath13 . </S>",
+    "<S> therefore , a modification of the model may be needed to describe all rhic data . ] </S>",
+    "<S> @xcite . </S>",
+    "<S> this dhj model also describes @xmath1-@xmath2 data at forward rapidities @xcite . </S>"
+  ]
+}

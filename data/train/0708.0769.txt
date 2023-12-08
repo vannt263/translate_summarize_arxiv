@@ -1,0 +1,37 @@
+{
+  "article_text": [
+    "in the last few years there has a growing interest in accurate parameterizations for fragmentation functions driven by the increasing role of one particle inclusive measurements as tools able to provide valuable information on many subjects , including the spin and flavor structure of the nucleon , nuclear modifications of parton densities and fragmentation functions , and in general , as a window to the non - perturbative regime , much more incisive than totally inclusive measurements .    in this context , parametrizations for fragmentation functions have been extracted , however , mostly based on single inclusive electron - positron annihilation measurements .",
+    "these data give per se no information on how to disentangle quark from anti - quark fragmentation , and fixes mainly the flavor singlet combinations of fragmentation functions at intermediate hadron energy fractions .",
+    "the gluon fragmentation is also not exceedingly well constrained , since its contribution enter as a higher order correction , and the scale dependence is too weak to determine it .    in the following",
+    "we very briefly summarize results from a global analysis where we have determined individual fragmentation functions for quark and anti - quarks for all flavors , as well as gluons , from a much larger set of data @xcite .",
+    "the addition of semi - inclusive deep inelastic scattering ( sidis ) and proton - proton collisions measurements not only increases statistics , but have the advantages of charge discriminated final states , different ranges for the scale and energy fractions , and different sensitivity to the partonic species .",
+    "in order to have the flexibility required by charge separated distributions and to accommodate the additional data , we adopt a somewhat more versatile functional form for the input distributions than in previous extractions of fragmentation functions @xcite @xmath0 } , \\ ] ] where the initial scale @xmath1 in eq .",
+    "( [ eq : ff - input ] ) is taken to be @xmath2 for the lighter partons and the quark masses for the heavier ones . to reduce the number of parameters to those that can be effectively constrained by the data ,",
+    "we are forced to make some plausible assumptions ; for example we impose isospin symmetry for the sea fragmentation functions in the case of pions , i.e. @xmath3 , but we allow for slightly different normalizations in the @xmath4 sum : @xmath5 . for strange quarks it is assumed that @xmath6 .",
+    "similar assumptions are made in the case of kaons , protons , and the remaining charged hadrons .",
+    "for further details see @xcite .",
+    "comparison with brahms pion production data in pp collisions @xcite . ]",
+    "comparison with brahms pion production data in pp collisions @xcite . ]    the same as fig.2 but for kaons . ]    the same as fig.2 but for kaons . ]    as a common feature of all the fits , we find that our new sets of fragmentation functions are hardly to distinguish from the previous ones when compared to electron positron annihilation data , but as expected , the differences become apparent when they are compared to data that imply charge separation ( figs . 1 - 4 ) , specially in the case of kaons ( figs . 3 , 4 ) , and for observables sensitive to the gluon fragmentation and large hadron energy fractions ( fig . 5 ) .",
+    "comparison with phenix and star neutral pion and kaon production data in pp collisions @xcite .",
+    "the label kre and akk denotes estimates with the sets in @xcite and @xcite respectively . ]",
+    "comparison with phenix and star neutral pion and kaon production data in pp collisions @xcite .",
+    "the label kre and akk denotes estimates with the sets in @xcite and @xcite respectively . ]",
+    "comparison with phenix and star neutral pion and kaon production data in pp collisions @xcite .",
+    "the label kre and akk denotes estimates with the sets in @xcite and @xcite respectively . ]",
+    "proton as well as inclusive charged hadron production data are well reproduced ( figs .",
+    "fortran routines providing lo and nlo fragmentation functions are available upon request from the authors .",
+    "comparison with cdf inclusive charged hadron production data @xcite ]    comparison with cdf inclusive charged hadron production data @xcite ]",
+    "9 de florian d , sassot r and stratmann m 2007 _ phys .",
+    "_ d * 75 * 114010 de florian d , sassot r and stratmann m 2007 global analysis of fragmentation functions for protons and charged hadrons _",
+    "arxiv:0707:1506 [ hep - ph ]",
+    "bourhis l , fontannaz m , guillet j , and werlen m 2001 _ eur .",
+    "c * 19 * 89 kretzer s 2000 _ phys .",
+    "_ d * 62 * 054001 albino s , kniehl b a and kramer g 2005 _ nucl .",
+    "_ b * 725 * 181 hirai m , kumano s , nagai t h and sudoh k 2007 _ phys .",
+    "_ d * 75 * 094009 for a detailed account of the data sets included in the fit see [ 1 ] and [ 2 ] ."
+  ],
+  "abstract_text": [
+    "<S> we present new sets of pion , kaon , proton and inclusive charged hadron fragmentation functions obtained in nlo combined analyses of single - inclusive hadron production in electron - positron annihilation , proton - proton collisions , and deep - inelastic lepton - proton scattering with either particles identified in the final state . at variance with all previous fits , </S>",
+    "<S> the present analyses take into account data where hadrons of different electrical charge are identified , which allow to discriminate quark from anti - quark fragmentation functions . </S>"
+  ]
+}

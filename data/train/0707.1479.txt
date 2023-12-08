@@ -1,0 +1,31 @@
+{
+  "article_text": [
+    "observations of 39 galaxies have been obtained at the omm 1.6-m , ohp 1.93-m , cfht and eso 3.6-m telescopes using fabry - perot ( fp ) interferometry with the ` fantomm `   and ` cigale `  instruments @xcite , allowing typical resolving powers at h@xmath0   between 8000 - 25000 , spectral samplings between 7 - 16 km s@xmath1 , spatial samplings @xmath2 and total scanning times of @xmath3 3 hours per galaxy .",
+    "the sample contains lsb and dwarf galaxies chosen in previous studies from @xcite , @xcite , @xcite , @xcite or @xcite .",
+    "galaxies for which dm halo shapes strongly disagree with the so - called  universal \" cosmological halo @xcite have been observed .",
+    "provisional results of the survey have been presented in @xcite and @xcite .",
+    "an adaptive binning is applied to the fabry - perot h@xmath0  cubes in order to improve the signal detection in low signal to noise regions , as described in @xcite .",
+    ", black symbols are  measurements @xcite .",
+    "( right panel ) mass models using the pseudo - isothermal sphere ( iso , green dashed curve ) and the navarro - frenk - white formalism ( nfw , magenta curve).,title=\"fig:\",height=170 ] , black symbols are  measurements @xcite .",
+    "( right panel ) mass models using the pseudo - isothermal sphere ( iso , green dashed curve ) and the navarro - frenk - white formalism ( nfw , magenta curve).,title=\"fig:\",height=170 ] [ rc ]",
+    "an example is illustrated in fig .",
+    "[ rc ] with the galaxy ugc 4325 , which is supposed to exhibit a core - dominated halo according to @xcite .",
+    "an hybrid rotation curve ( rc ) is derived from our h@xmath0  velocity field and  observations from @xcite .",
+    "the figure also shows the slit spectroscopy rotation curve from @xcite .",
+    "the fp velocities are larger than the slit spectroscopy ones in the innermost regions of the galaxy .",
+    "a significant asymmetry is detected between the approaching and receding halves of the disc .",
+    "the ionized gas motions are thus non - axisymmetric in these regions .",
+    "the fp and slit spectroscopy h@xmath0  rotation curves are in good agreement in regions where the axisymmetry occurs ( @xmath4 ) .",
+    "mass models of the rotation curve are shown in fig .",
+    "[ rc ] for the minimum stellar disc hypothesis .",
+    "two halo models are fitted , a pseudo - isothermal sphere and the navarro - frenk - white formalism . because of the asymmetry detected in the gas motions , the fp error bars are large in this region of the galaxy . as a result ,",
+    "the halo fittings give equivalent results .",
+    "this example illustrates that one clearly needs to model the gas motions taking into account perturbations of the potential if one properly wants to discriminate the dark matter halo shape within such low surface density galaxies .",
+    "these results will be presented in a forthcoming article , with the dynamical analysis of the whole sample .",
+    "chemin , l. ; amram , p. ; carignan , c. ; balkowski , c. ; van driel , w. ; cayatte , v. ; hernandez , o. ; boulesteix , j. ; marcelin , m. ; 2004 , iaus , 220 , 333 chemin , l. ; balkowski , c. ; cayatte , v. ; carignan , c. ; amram , p. ; garrido , o. ; hernandez , o. ; marcelin , m. ; adami , c. ; boselli , a. ; boulesteix , j. ; 2006 , mnras , 366 , 812 de blok , w. j. g. ; bosma , a. ; 2002 , a&a , 385 , 816 garrido , o. ; marcelin , m. ; amram , p. ; balkowski , c. ; gach , j. l. ; boulesteix , j. ; 2005 , mnras , 362 , 127 hernandez , o. ; gach , j .- l . ; carignan , c. ; boulesteix , j. ; 2003 , spie , 4841 , 1472 impey , c. d. ; sprayberry , d. ; irwin , m. j. ; bothun , g. d. ; 1996 , apjs , 105 , 209 mcgaugh , s. s. ; rubin , v. c. ; de blok , w. j. g. ; 2001 , aj , 122 , 2381 monnier - ragaigne , d. ; van driel , w. ; schneider , s. e. ; balkowski , c. ; jarrett , t. h. ; 2003 , a&a , 408 , 465 navarro , j. f. ; frenk , c. s. ; white , s. d. m. ; 1997 , apj , 490 , 493 swaters , r. a. ; madore , b. f. ; van den bosch , frank c. ; balcells , m. ; 2003 , apj , 583 , 732"
+  ],
+  "abstract_text": [
+    "<S> low mass surface density spiral and irregular galaxies like low surface brightness ( lsb ) and dwarf galaxies are unique laboratories to study the dynamical properties of dark matter ( dm ) halos because their mass is generally dominated by dm at all galactocentric radii . </S>",
+    "<S> we present results from the largest sample ever assembled of high resolution h@xmath0  velocity fields of lsb and dwarf galaxies in order to study their mass distributions . </S>"
+  ]
+}

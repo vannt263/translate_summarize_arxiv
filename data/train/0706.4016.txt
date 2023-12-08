@@ -1,0 +1,41 @@
+{
+  "article_text": [
+    "the main ideia of this work is to make a comparation between the @xmath0 and @xmath3 ( 1s+2s+3s ) production in p+p and cu+cu .",
+    "these heavy quarkonia states are measured in star through the @xmath5 decay channel . from lattice",
+    "qcd calculations@xcite it is expected a suppression of these states in heavy ion collisions due to the sequential melting of their excited states",
+    "the experimental setup for this measurement relies in basically three subsystems of the star experiment,@xcite which are the time projection chamber ( tpc ) , barrel electromagnetic calorimeter ( bemc ) and central trigger barrel ( ctb ) , this last one only for triggering @xmath0 events in p+p .",
+    "all of these subsystems have full azimuthal coverage .",
+    "the tpc has @xmath61.8 and provides up to 45 ionization points to charged tracks within its acceptance , allowing @xmath7 and momentum reconstruction .",
+    "the bemc is a lead - scintillator sampling electromagnetic calorimeter with equal volumes of lead and scintillator , divided in 4800 towers within the @xmath61 range , each of them with a face area of @xmath8(0.05,0.05 ) .",
+    "the detector resolution on deposited electromagnetic energy is @xmath9 .",
+    "tpc was fully installed for both , p+p and cu+cu runs , while the bemc was @xmath103/4 installed for cu+cu and fully installed for p+p .",
+    "the ctb is a barrel made if scintilator slats that are sensitive to charged particles only .",
+    "as the heavy quarkonia states have really low cross - sections and their decay channel observed in star has a also relatively low branching ratio , the measurements have to improve its statistics relying in either , a large minimum bias data set ( mbt ) , which was the case for cu+cu , or in special dedicated triggers as in p+p wihich are ndetailed in the following section .",
+    "the star quarkonia trigger is a two level trigger system designed to optimize the star measurement capabilities of the di - electron decay channel for the heavy quarkonia states .",
+    "the following sub - sections details the trigger for j@xmath2 , while the @xmath3 trigger system is detailed in reference.@xcite for the cu+cu run there were not specific quarkonia triggers , and the measurements rely on large mb ( @xmath1040 m events for @xmath0 ) and a high tower trigger ( htt ) ( @xmath109 m events for @xmath3 ) data sets .",
+    "this htt trigger have similar effect as the l0-@xmath3 trigger.@xcite the l0-@xmath0 trigger is a topological trigger where the decision is make at the hardware level .",
+    "it divides the bemc into 6 sectors in @xmath11 and 2 in @xmath12 , called patches .",
+    "there are required at least 2 bemc towers in non - adjacent patches , with energy above the threshold of 1.2 gev ( high - towers , or ht ) . with all these requirements",
+    "fulfilled the l2-@xmath0 is started .",
+    "the l2 is a software level decision .",
+    "it is basically the same algorithm described in [ 6 ] , but with the extra requirement that the ht that seeds the l2 must match a ctb slat adc@xmath133 in order to avoid photons .",
+    "the remaining difference is the value of the invariant mass parameter , according to the specific quarkonium state .",
+    "the electron identification@xcite is a central issue in the star quarkonium program once its measurements come from the @xmath5 decay channel .",
+    "the problem is to separate electrons from hadron contamination , dominated mainly by pions .",
+    "the electron identification procedure for quarkonia analysis is basically to choose tpc tracks with momentum @xmath141 gev / c and 3@xmath154.6 .",
+    "after this first selection the track is extrapolated to its correspondent bemc tower , its energy @xmath16 is obtained and the ratio @xmath17 is computed . those with @xmath182 are selected as electrons(positrons ) .",
+    "once the electrons ( positrons ) are selected they are put together in pairs and have their invariant mass calculated by the expression @xmath19 where @xmath20 is the momentum of the @xmath21th particle and @xmath22 is the angle between them . to estimate the background a mass spectrum is built up from the geometric mean between the positvely charged pairs with the negatively charged ones multiplied by 2 . the net signals ( unlike signed pairs @xmath23 like signed ) are presented in figure 1 .",
+    "from there it is possible to see the enhancement of the signals due to the trigger system by comparing the different significances for p+p and cu+cu . in the @xmath0 case it increases from @xmath102.5 in cu+cu to @xmath105.0 in p+p , and for @xmath3 from @xmath102.6 in cu+cu to 3.0@xmath24 in p+p .",
+    "the p+p @xmath3 measurement cross section calculated is @xmath2591@xmath2628@xmath2722@xmath28 pb ( br accounts for branching of 1s+2s+3s states ) .",
+    "this result agrees very well with pqcd - cem calculations@xcite presented in figure 2 . for the other quarkonium states further analysis",
+    "are needed before we can quote their cross sections .",
+    "( left ) and @xmath3 and in bottom line same sequence for cu+cu data . two important remarks on this plot : ( a)@xmath0 data in p+p follows more closely the simulated line shape , indicating that a gaussian fit is a poor approximation and ( b ) the @xmath3 signal in cu+cu is on the limit of statistical significance to extract a cross section.,scaledwidth=100.0% ]     cross section in star compared with theoretical values ( pqcd - cem calculation@xcite ) and world data.,scaledwidth=100.0% ]",
+    "the heavy - quarkonia program in star will strongly benefit from the future upgrades of rhic and star .",
+    "the major impact upgrades are the luminosity enhancement ( @xmath1040@xmath29 ) on the rhic side and , from the star side a barrel time - of - flight detector ( improves low @xmath30 pid ) , a barrel muon detector providing @xmath31 measurements and the daq1000 allowing zero dead time in special triggers for rare probes .",
+    "this work was supported in part by the brookhaven national laboratory ( bnl ) , by the conselho nacional de desenvolvimento cientfico e tecnolgico ( cnpq ) and by the coordenao de aperfeioamento de pessoal de nvel superior ( capes ) ."
+  ],
+  "abstract_text": [
+    "<S> heavy quarkonium states modifications in relativistic heavy ion collisions have been of great interest since the proposal by matsui and satz of @xmath0 suppression as a signature of quark - gluon plasma ( qgp ) formation . </S>",
+    "<S> recent studies suggest that the excited states @xmath1 , @xmath2(2s ) and @xmath3(3s ) melt sequentially@xcite and the amount of observed suppression depends on the state and medium conditions . therefore , this suppression pattern may be used as a probe of the medium temperature . in this work we present preliminary results on the charmonium and bottomnium measurements performed by the star experiment at rhic for p+p and cu+cu collisions at @xmath4200gev    = 1 </S>"
+  ]
+}

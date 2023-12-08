@@ -1,0 +1,19 @@
+{
+  "article_text": [
+    "relativistic jets from supermassive black holes hosted within the bulges of spirals and nuclei of early - type galaxies inject significant amounts of energy into the medium within which they propagate ,    , and the ism density is : @xmath0 . ]    creating an extended , underdense and hot cocoon .",
+    "we have performed a series of simulations of these jets and cocoons using an amr code , flash 2.5 : a typical output is shown in fig .",
+    "[ fig : cocoon ] .",
+    "+ we find that a slight modification of the exact models of @xcite and @xcite , approximates well the simulations .",
+    "we can use the exact solutions to develop a model of _ negative feedback _ of the agn on the host galaxy . within the cocoon star formation",
+    "is strongly suppressed , and at any time we     which intersects the cocoon._right _ : suppression of the sfr , for a m=@xmath1 m@xmath2 host halo.,title=\"fig : \" ]   which intersects the cocoon._right _ : suppression of the sfr , for a m=@xmath1 m@xmath2 host halo.,title=\"fig : \" ]    know the extent of the region occupied by the cocoon ( fig .",
+    "[ fig : model ] , _ left _ ) .",
+    "we show in fig .",
+    "[ fig : model ] ( _ right _ ) the results of this model for agn feedback .",
+    "the rapid decrease of stellar formation is a consequence of the high ism density in the central regions , which are the first to be efficiently depleted by the jet . +",
+    "a more detailed analysis will be presented in a subsequent paper ( antonuccio - delogu & silk , submitted )    v.a .- d . has been supported by ec contract mtkd - ct-002995 .",
+    "flash v. 2.5 was partly developed by the doe - supported asc / alliance center for astrophysical thermonuclear flashes at the university of chicago ."
+  ],
+  "abstract_text": [
+    "<S> we study the propagation of relativistic jets originating from agns within the interstellar / intergalactic medium of their host galaxies , and use it to build a model for the suppression of stellar formation within the expanding cocoon . </S>"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "cluster environmental interactions ( see boselli & gavazzi 2006 for a review ) can produce tails of gas and stars .",
+    "the arecibo legacy fast alfa ( alfalfa ) survey , a sensitive blind survey of the arecibo sky ( giovanelli  2005 and these proceedings ) , has revealed several hi clouds without optical components ( kent  2007 and these proceedings ) and a 250 kpc tidal arc emerging from the sc galaxy ngc 4254 ( haynes  2007 and giovanelli in these proceedings ) .",
+    "alfalfa has recently detected an even larger tidal feature associated with the virgo cluster sm pair ngc 4532/ddo 137 .",
+    "this system was already known to be peculiar : both galaxies have extended hi disks and share a common hi envelope extended over 150 kpc ( hoffman et al . 1993 , 1999 ) .",
+    "alfalfa observations of the ngc 4532/ddo 137 tail structure are shown in figure  [ fig1 ] .",
+    "the hi envelope containing and within the immediate vicinity of the pair ( black contour ) has an hi mass of 6.2 x 10@xmath3 , consistent with that of hoffman  ( 1999 ) .",
+    "all of the emission in the tail is blueshifted with respect to the pair hi envelope .",
+    "the total mass contained within discrete clumps in the tail is 4.0 x 10@xmath1 .",
+    "the total mass of the tail , including an upper limit for emission below the alfalfa limiting column density , is @xmath07 x 10@xmath1 , or @xmath010% of the pair hi mass .",
+    "r imaging of the tail system was carried out at wise observatory and the wiyn 0.9-m telescope in may 2007 . no optical counterparts for the main hi clumps",
+    "have been found to a limiting r magnitude of 26.5 mag arcsec@xmath2 .",
+    "further results are presented in koopmann  ( 2007 , in preparation . )",
+    "vla syntheis observations of the system are planned .",
+    "the observations of ngc 4532/ddo 137 are consistent with several predictions from the simulations of high speed hyperbolic encounters between cluster galaxies by bekki , koribalski & kilborn ( 2005 ) and duc ( these proceedings ) : ( a ) gas tails that are stretched over several hundred kpc , ( b ) double tails or tails that span a large spatial area , ( c ) formation of relatively isolated clumps within the tail , and ( d ) stellar tails fainter than 30 mag arcsec@xmath2 .",
+    "the discovery of an extended tail with discrete clumps so distant from the parent galaxy suggests a tidal explanation for at least some isolated hi clouds with no optical counterparts , such as those recently discovered in the virgo cluster ( kent   2007 and these proceedings ) .",
+    "km s@xmath4 , integrated over 1956 - 2139 km s@xmath4 , encompasses the approximate area of the hi envelope detected by hoffman ( 1993 ) .",
+    "blue contours show tail emission integrated over 1784 - 1836 km s@xmath4 , with contours at 0.17 , 0.25 , 0.35 , 0.45 , 0.55 , 0.7 , 0.9 jy beam@xmath4 km s@xmath4 .",
+    "red contours show tail emission integrated over 1868 and 1930 km@xmath4 , with contours at 0.23 , 0.4 , 0.6 , 0.9 , 1.2 , 1.7 , and 2.5 jy beam@xmath4 km s@xmath4 ."
+  ],
+  "abstract_text": [
+    "<S> hi observations of the virgo cluster pair ngc 4532/ddo 137 , conducted as part of the arecibo legacy fast alfa survey , reveal an hi feature extending @xmath0500kpc to the southwest . </S>",
+    "<S> the structure has a total mass of up to 7 x 10@xmath1 , equivalent to 10% of the pair hi mass . </S>",
+    "<S> optical r imaging reveals no counterparts to a level of 26.5 mag arcsec@xmath2 . </S>",
+    "<S> the structure is likely the result of galaxy harassment . </S>"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "article_text": [
+    "13    g.g .",
+    "barnafldi , p. lvai , g. papp , g. fai and b.a .",
+    "cole , arxiv : hep - ph/0703059 ( 2007 ) .",
+    "s. albino , b.a .",
+    "kniehl and g. kramer , 181 ( 2005 ) ; _ ibid . _ * b734 * 50 ( 2006 ) .",
+    "star preliminary data , presented by ming yao on sqm07 conference"
+  ],
+  "abstract_text": [
+    "<S> hadron production has been calculated in a pqcd improved parton model for @xmath0 , @xmath1 and heavy ion collisions . </S>",
+    "<S> we applied kkp and akk fragmentation functions . </S>",
+    "<S> our jet fragmentation study shows , that hadron ratios at high @xmath2 depend on quark contribution mostly and less on the gluonic one . </S>",
+    "<S> this finding can be seen in jet - energy loss calculations , also . </S>",
+    "<S> we display the suppression pattern on different hadron ratios in @xmath3 collisions at lhc energies .    the precision of pqcd based parton model calculations was enhanced during the last decade . </S>",
+    "<S> the calculated spectra allow to make predictions not only for the hadron yields , but for sensitive particle ratios and nuclear modifications . </S>",
+    "<S> for the calculation of particle ratios new fragmentation functions are needed not only for the most produced light mesons , but for protons also . from the experimental point of view one </S>",
+    "<S> requires identified particle spectra by rhic and lhc . </S>",
+    "<S> especially the alice detector has a unique capability to measure identified particles at highest transverse momenta via herenkov detectors . </S>",
+    "<S> the @xmath4 and @xmath5 ratios can be measured up to @xmath6 gev / c and @xmath7 gev / c respectively .    here </S>",
+    "<S> we calculate hadron ratios in our next - to - leading order pqcd improved parton model based on ref.@xcite with intrinsic transverse momenta , determined by the expected c.m . </S>",
+    "<S> energy evolution along the lines of ref.@xcite . </S>",
+    "<S> the presented ratios are based on @xmath8 , @xmath9 and @xmath10 spectra which were calculated by akk fragmentation functions  @xcite . </S>",
+    "<S> first we compare calculated particle ratios to the data of the star collaboration measured in @xmath11 collisions at @xmath12 @xmath13gev rhic energy @xcite . </S>",
+    "<S> predictions for high-@xmath2 hadron ratios at rhic and at lhc energies in most central ( @xmath14 ) @xmath3 collisions are also shown in fig . </S>",
+    "<S> [ fig1 ] .    on the _ left panel _ of fig . </S>",
+    "<S> [ fig1 ] , particle ratios are compared to @xmath11 collisions at @xmath15 @xmath13gev star @xmath16 ( _ dots _ ) and @xmath17 ( _ triangles _ ) data . </S>",
+    "<S> the agreement between the rhic data and the calculations at rhic energy can be considered acceptable at @xmath18 gev / c , with an opacity of @xmath19 . however , at lower momenta , where pqcd is no longer reliable , the ratios differ from the calculated curves .    </S>",
+    "<S> the _ right panel _ shows calculations for @xmath3 collisions for @xmath20 @xmath13tev energy . using a simple @xmath21 estimation </S>",
+    "<S> , we expect a @xmath22 opacity in most central @xmath3 collisions . for comparison </S>",
+    "<S> , we plotted the @xmath23 and @xmath24 values also . </S>",
+    "<S> the lower- and intermediate-@xmath2 variation of the hadron ratios arise from the different strengths of the jet quenching for quark and gluon contributions@xcite . due to the quark dominated fragmentation </S>",
+    "<S> , the difference disappears at high-@xmath2 in the ratios .     and @xmath17 ratios in @xmath25 collisions at rhic and lhc energies . </S>",
+    "<S> rhic curves are compared to star@xcite data at @xmath26 200 @xmath13gev.,title=\"fig : \" ]   and @xmath17 ratios in @xmath25 collisions at rhic and lhc energies . </S>",
+    "<S> rhic curves are compared to star@xcite data at @xmath26 200 @xmath13gev.,title=\"fig : \" ]    acknowledgments : special thanks to prof . </S>",
+    "<S> john j. portman for computer time at kent state university . </S>",
+    "<S> our work was supported in part by hungarian otka t047050 and nk62044 , by the u.s . </S>",
+    "<S> department of energy under grant u.s . </S>",
+    "<S> de - fg02 - 86er40251 , and jointly by the u.s . and </S>",
+    "<S> hungary under mta - nsf - otka oise-0435701 . </S>"
+  ]
+}

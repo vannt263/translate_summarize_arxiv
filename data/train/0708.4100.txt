@@ -1,0 +1,36 @@
+{
+  "article_text": [
+    "one - dimensional ising models are of fundamental scientific interest partly on behalf of their exact solubility @xcite and partly due to the fact that they represent the simplest lattice - statistical models , which have found rich applications in seemingly diverse research areas @xcite . in the present work",
+    ", we shall provide the exact solution for the mixed spin-1/2 and spin-@xmath0 ( @xmath1 ) ising model on a rope ladder , which represents a rather novel magnetic structure emerging in several insulating bimetallic coordination compounds @xcite .",
+    "consider the spin-1/2 ising ladder of @xmath2 sites with each of its horizontal and vertical bonds occupied by the decorating spin @xmath0 ( @xmath1 ) , as it is schematically shown in fig .",
+    "[ fig1 ] .    for further convenience , the hamiltonian of the model under investigation can be written as a sum of site hamiltonians @xmath3 where each site hamiltonian @xmath4 involves all the interaction terms of one decorating spin .",
+    "above , @xmath5 ( @xmath6 ) denote two vertex spins of the rope ladder that are nearest neighbours to the decorating spin @xmath7 . the parameter @xmath8 labels pairwise exchange interaction between the nearest - neighbour spin pairs , while the parameter @xmath9 measures a strength of the single - ion anisotropy acting on the decorating spins .",
+    "the crucial step of our procedure lies in the calculation of the partition function , which can be firstly partially factorized to the expression @xmath10 ,   \\label{2 } \\end{aligned}\\ ] ] where @xmath11 , @xmath12 is boltzmann s constant , @xmath13 is the absolute temperature and the symbol @xmath14 denotes the summation over all possible spin configurations of the vertex spins @xmath15 .",
+    "next , it is advisable to employ the generalized decoration - iteration mapping transformation @xcite @xmath16 = a \\exp \\left(\\beta r \\sigma_{k1 } \\sigma_{k2 } \\right ) ,   \\label{3 } \\end{aligned}\\ ] ] which physically corresponds to removing all the interaction parameters associated with the decorating spins and replacing them by a new effective interaction @xmath17 between the remaining vertex spins .",
+    "since there are four possible spin states for each pair of vertex spins @xmath18 and @xmath19 and only two of them provide independent equations from the transformation formula ( [ 3 ] ) , the mapping parameters @xmath20 and @xmath17 have to meet the following conditions @xmath21 by substituting the transformation ( [ 3 ] ) into eq .",
+    "( [ 2 ] ) one gains the relation @xmath22 which connects the partition function @xmath23 of the mixed - spin ising model on the rope ladder with the partition function @xmath24 of the simple spin-1/2 ising model on two - leg ladder with the effective nearest - neighbour interaction @xmath17 .",
+    "it is worthwhile to remark that the partition function of the latter model can be rather easily calculated by applying the transfer - matrix method @xcite , which yields in the thermodynamic limit the following exact result @xmath25 ^ 2 + 4 } \\right\\}^n\\!\\!. \\label{7 } \\end{aligned}\\ ] ] bearing this in mind , the exact solution for the partition function of the mixed - spin ising model on the rope ladder is formally completed as it can be simply achieved by a mere substitution of the corresponding partition function ( [ 7 ] ) to the relationship ( [ 6 ] ) , whereas both mapping parameters @xmath20 and @xmath17 have to be taken from eqs .",
+    "( [ 4a ] ) and ( [ 4b ] ) , respectively .",
+    "now , let us focus on thermal variations of the zero - field specific heat with the aim to shed light on how this dependence changes with the single - ion anisotropy . before discussing the most interesting results",
+    ", it should be mentioned that the zero - field specific heat can readily be obtained from the exact result for the partition function ( [ 6 ] ) with the help of basic thermodynamical - statistical relations . even although the final expression is too cumbersome to write it down here explicitly , it is worthy to note nevertheless that it implies an independence on a sign of the exchange interaction @xmath8 . in this respect ,",
+    "the temperature dependences of the zero - field specific heat discussed below remain in force regardless of whether ferromagnetic ( @xmath26 ) or ferrimagnetic ( @xmath27 ) spin system is considered .",
+    "as one can see , the same general trends can be observed in both figures : the round maximum diminishes and shifts towards lower temperatures by decreasing the single - ion anisotropy .",
+    "however , the most interesting temperature dependences can be found at sufficiently negative single - ion anisotropies close to @xmath30 for the case with @xmath28 and respectively , @xmath31 for the case with @xmath29 . in the vicinity of both",
+    "these boundary values , the double - peak specific heat curves ( low - temperature peaks are for clarity shown in the insets ) appear due to the competition between two different spin configurations sufficiently close in energy . actually , it can easily be verified that the general condition ensuring an energetic equivalence between two different spin states of decorating spins reads @xmath32 .",
+    "it should be also mentioned that the zero - field specific heat curves with a single maximum are recovered upon further decrease of the single - ion anisotropy . in conclusion",
+    ", it seems valuable to extend our calculation to more general case with the non - zero magnetic field .",
+    "m.  ohba , n.  maruono , h.  kawa _ et al_. , _ j. am .",
+    "soc . _ * 116 * , 11566 ( 1994 ) ; m.  ohba , n.  fukita , h.  kawa , _ j. chem .",
+    ", dalton trans .",
+    "_ , 1733 ( 1997 ) ; m.  l.  kahn , c.  mathonire and o.  kahn , _ inorg .",
+    "chem . _ * 38 * , 3692 ( 1999 ) ; h.  kawa , m.  ohba , _ bull .",
+    "jpn . _ * 75 * , 1191 ( 2002 ) ; m.  s.  el fallah , j.  ribas , x.  solans , m.  font - bardia , _ new j. chem . _ * 27 * , 895 ( 2003 ) ; y.  s.  you , d.  kim , y.  do , s.  j.  oh , ch .",
+    "s.  hong , _ inorg .",
+    "_ * 43 * , 6899 ( 2004 ) ."
+  ],
+  "abstract_text": [
+    "<S> the mixed spin-1/2 and spin-@xmath0 ( @xmath1 ) ising model on a rope ladder is examined by combining two exact analytical methods . by the decoration - iteration mapping transformation , </S>",
+    "<S> this mixed - spin system is firstly transformed to a simple spin-1/2 ising model on the two - leg ladder , which is then exactly solved by the standard transfer - matrix method . </S>",
+    "<S> the thermal variations of the zero - field specific heat are discussed in particular . </S>"
+  ]
+}

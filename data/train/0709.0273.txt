@@ -1,0 +1,28 @@
+{
+  "article_text": [
+    "we based our analysis on the model by @xcite , which holds for a bulge of @xmath1 . in order to analyse bulges of different masses",
+    ", we chose to keep the imf and infall timescales constant and to scale the effective radius and the star - formation efficiency following the inverse - wind scenario of @xcite ; therefore , for bulges of @xmath2 and @xmath3 we adopted a star - formation efficiency of 11 and 50 gyr@xmath4 and an effective radius of 1 and 4 kpc , respectively .",
+    "we define a displacement radius @xmath5 where the gas contained at @xmath6 is carried by  the wind , and we adopt @xmath7 .",
+    "the gas binding energy @xmath8 is made up by the contribution of three components , a @xcite distribution for the bulge stellar component , an isothermal dark matter halo with circular velocity @xmath9 and a razor - thin exponential disk .",
+    "these components are represented by the terms at the r.h.s . of the equation : @xmath10 where @xmath11 is the bulge gas mass , @xmath12 is the disk scalelenght , @xmath13 and @xmath14 .",
+    "the supernova feedback is calculated as in @xcite .",
+    "we consider a spherically accreting bh , at a rate @xmath15 given by the minimum between the bondi and eddington rate ( @xcite ) .",
+    "the bolometric luminosity emitted by the bh is then @xmath16 ( @xmath17 , @xcite ) and we assume that the energy released is a fraction @xmath18 ( @xcite ) of @xmath19 integrated over the  timestep .",
+    "we showed that the bh feedback is in most cases not significant in triggering the galactic wind with respect to the supernova feedback .",
+    "the predicted bh masses are in agreement with measurements of bh masses inside seyferts ( e.g. @xcite ) and reproduce fairly well the relations of @xcite and @xcite .",
+    "the predicted bolometric luminosities lie in the range @xmath20 ergs  s@xmath4 , in agreement with recent estimates ( e.g. @xcite ) , although we could not reproduce a true quiescence after the peak due to the lack of a hydrodynamical treatment .",
+    "solar metallicity is reached in a very short time ( @xmath21 yr ) .",
+    "the huge metallicities inferred from observations ( @xcite ) are thus easily achieved , with more massive bulges giving rise to higher metallicities ( up to @xmath22 times solar ) .",
+    "after the first @xmath23 years , the bulge ism reaches overabundances of up to 10 times solar for n , fe , si , 5 times solar for mg and 3 times solar for c , o , roughly consistent with the estimates for fe , n and o in the broad and intrinsic narrow line regions of seyferts ( e.g. @xcite ; @xcite ) .",
+    "the slightly supersolar [ fe / mg ] and its weak dependence on the bulge luminosity ( mass ) are recovered ( @xcite ) .",
+    "the mean value of the [ n / c ] ratio is very sensitive on the bulge mass , due to its sensitivity on metallicity .",
+    "the predicted values ( n / c @xmath24(n / c)@xmath25 ) agree with the estimates of @xcite .     _ vs. _ @xmath26 relation compared with the observations of marconi & hunt ( 2003 , dashed - dotted line ) and mclure & dunlop ( 2002 , long - dashed line ) . _ middle and right panel _ : evolution with time and redshift @xmath27 of the [ fe / h ] and [ o / h ] abundance ratios ; @xmath27 is derived for a @xmath28cdm cosmology with @xmath29 km s@xmath4 mpc@xmath4 , @xmath30 , @xmath31 , and @xmath32.,title=\"fig : \" ]    _ vs. _ @xmath26 relation compared with the observations of marconi & hunt ( 2003 , dashed - dotted line ) and mclure & dunlop ( 2002 , long - dashed line ) . _",
+    "middle and right panel _ : evolution with time and redshift @xmath27 of the [ fe / h ] and [ o / h ] abundance ratios ; @xmath27 is derived for a @xmath28cdm cosmology with @xmath29 km s@xmath4 mpc@xmath4 , @xmath30 , @xmath31 , and @xmath32.,title=\"fig : \" ]    _ vs. _ @xmath26 relation compared with the observations of marconi & hunt ( 2003 , dashed - dotted line ) and mclure & dunlop ( 2002 , long - dashed line ) . _ middle and right panel _ : evolution with time and redshift @xmath27 of the [ fe / h ] and [ o / h ] abundance ratios ; @xmath27 is derived for a @xmath28cdm cosmology with @xmath29 km s@xmath4 mpc@xmath4 , @xmath30 , @xmath31 , and @xmath32.,title=\"fig : \" ]"
+  ],
+  "abstract_text": [
+    "<S> we computed the chemical evolution of seyfert galaxies , residing in spiral bulges , based on an updated model for the milky way bulge with updated calculations of the galactic potential and of the feedback from the central supermassive black hole ( bh ) in a spherical approximation . </S>",
+    "<S> we followed the evolution of bulges of masses @xmath0 by scaling the star - formation efficiency and the bulge scalelenght as in the inverse - wind scenario for ellipticals . </S>",
+    "<S> we successfully reproduced the observed relation between the bh mass and that of the host bulge , and the observed peak nuclear bolometric luminosity . </S>",
+    "<S> the observed metal overabundances are easily achieved , as well as the constancy of chemical abundances with the redshift . </S>"
+  ]
+}
