@@ -1,8 +1,0 @@
-{
-  "article_text": [
-    ""
-  ],
-  "abstract_text": [
-    "<S> this report is a collection of comments on the read paper of @xcite , to appear in the journal of the royal statistical society series b , along with a reply from the authors . </S>"
-  ]
-}

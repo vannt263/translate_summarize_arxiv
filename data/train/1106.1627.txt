@@ -1,8 +1,0 @@
-{
-  "article_text": [
-    "the paper is retracted ."
-  ],
-  "abstract_text": [
-    "<S> an elementary gap in the proof of corollary 2.2 was found , the claim in the first version of the paper is thus retracted . </S>"
-  ]
-}
