@@ -1,4 +1,5 @@
 {
   "news": "(CNN) -- Actress Halle Berry and her fiance, French actor Olivier Martinez, are expecting a child, Berry's representative told CNN on Friday. Berry has a daughter, Nahla, from an earlier relationship with Gabriel Aubry. See more pregnant celebrities Berry and Aubry have engaged in a long battle over custody of the child, culminating in a driveway brawl between Aubry and Martinez. The parents later reached a legal agreement, details of which are not known. Berry, 46, won the Academy Award for best actress for her performance in 2001 \"Monster's Ball.\"",
-  "summary": "Berry is engaged to French actor Olivier Martinez She has a child from an earlier relationship with Gabriel Aubry Berry and Aubry had battled over custody of their daughter"
+  "summary": "Berry is engaged to French actor Olivier Martinez She has a child from an earlier relationship with Gabriel Aubry Berry and Aubry had battled over custody of their daughter",
+  "translate": "Berry đã đính hôn với nam diễn viên người Pháp Olivier Martinez, cô có một đứa con từ mối quan hệ trước đó với Gabriel Aubry Berry và Aubry đã chiến đấu vì quyền nuôi con gái của họ"
 }
