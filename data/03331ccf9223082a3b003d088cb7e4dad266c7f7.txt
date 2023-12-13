@@ -1,5 +1,0 @@
-{
-  "news": "(CNN) -- In anticipation of what mini monarch-to-be Prince George of Cambridge will wear in the spotlight, the Museum of London is displaying baby clothes and booties of former royal babies as part of a new exhibit. The small display, titled \"A Royal Arrival,\" is free to visitors until October 2013. Click through the gallery above for a sneak peek into the exhibit. See complete coverage of the royal baby",
-  "summary": "The Museum of London displays clothing worn by members of the royal family A curator says memorabilia links the royal baby to more than 400 years of history Royal garb is on display from King Charles I, George III and Edward VII Follow CNN Living on Facebook and Twitter",
-  "translate": "Bảo tàng Luân Đôn trưng bày quần áo được mặc bởi các thành viên của Hoàng gia Một người phụ trách nói rằng Memorabilia liên kết em bé hoàng gia với hơn 400 năm lịch sử Royal Garb được trưng bày từ King Charles I, George III và Edward VII theo dõi CNN sống trên Facebook và Twitter"
-}
