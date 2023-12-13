@@ -1,4 +1,5 @@
 {
   "news": "(CNN) -- As Barack Obama makes his case to the nation for taking the fight to ISIS, his top diplomat is also trying to make sure America doesn't have to go it alone. U.S. Secretary of State John Kerry is sweeping through the Middle East to try to convince regional leaders to back America's plan to beat back the terror group, which has seized a large chunk of territory stretching from northern Syria to central Iraq with alarming pace in recent months. So who's with them? .",
-  "summary": "Barack Obama making case to nation for increasing military action against ISIS John Kerry in Middle East trying to get more of the region's leaders on board Germany, UK, France to offer assistance; Russia wary of potential U.S. strikes in Syria"
+  "summary": "Barack Obama making case to nation for increasing military action against ISIS John Kerry in Middle East trying to get more of the region's leaders on board Germany, UK, France to offer assistance; Russia wary of potential U.S. strikes in Syria",
+  "translate": "Barack Obama làm cho quốc gia tăng cường hành động quân sự chống lại ISIS John Kerry ở Trung Đông cố gắng có thêm các nhà lãnh đạo của khu vực trên tàu Đức, Anh, Pháp để cung cấp hỗ trợ; Nga cảnh giác về các cuộc đình công tiềm năng của Hoa Kỳ ở Syria"
 }
