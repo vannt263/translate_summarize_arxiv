@@ -1,4 +1,5 @@
 {
   "news": "(CNN) -- From a 16-year-old girl who took over the United Nations to the winner of this year's Nobel Prize for Literature -- several remarkable women have captured the world's attention in 2013. To honor their achievements, CNN takes a look at some of the most notable women of the year.",
-  "summary": "Women have excelled in 2013 showcasing how far gender equality has come CNN takes a look back at some of the remarkable achievements of women this year Who do you think deserves to be in this list? Let us know in the comments below"
+  "summary": "Women have excelled in 2013 showcasing how far gender equality has come CNN takes a look back at some of the remarkable achievements of women this year Who do you think deserves to be in this list? Let us know in the comments below",
+  "translate": "Phụ nữ đã xuất sắc vào năm 2013 cho thấy sự bình đẳng giới đã đến bao xa CNN sẽ nhìn lại một số thành tựu đáng chú ý của phụ nữ trong năm nay bạn nghĩ ai xứng đáng có được trong danh sách này? Cho chúng tôi biết trong các ý kiến ​​dưới đây"
 }
