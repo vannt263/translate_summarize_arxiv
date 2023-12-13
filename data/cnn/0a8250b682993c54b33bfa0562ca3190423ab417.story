@@ -1,5 +1,0 @@
-{
-  "news": "NEW YORK (CNN) -- Legendary football coach and broadcaster John Madden is retiring, he announced Thursday. John Madden appears at the TV Critics Association Press Tour in Beverly Hills, California, in 2008. \"It's been such a great ride ... the NFL has been my life for more than 40 years, it has been my passion -- it still is,\" he said in a statement released by NBC Sports. Madden, 73, was a Hall of Fame coach for the Oakland Raiders, but is best known to millions as an ebullient football commentator. He won 16 Emmy awards for outstanding sports analyst/personality, NBC said.",
-  "summary": "Legendary football coach and broadcaster John Madden announces he is retiring \"The NFL has been my life for more than 40 years, it has been my passion,\" he says Madden is best known to millions as an ebullient football commentator",
-  "translate": "Huấn luyện viên bóng đá huyền thoại và phát thanh viên John Madden tuyên bố anh ấy sẽ nghỉ hưu \"NFL đã là cuộc sống của tôi trong hơn 40 năm, đó là niềm đam mê của tôi\", ông nói Madden được hàng triệu người bình luận nổi tiếng như một bình luận viên bóng đá háo hức"
-}
