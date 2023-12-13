@@ -1,4 +1,5 @@
 {
   "news": "(CNN) -- A lightning strike from a fast-moving storm in Colorado injured 12 soldiers on Wednesday. One is in critical condition, and the other 11 are in stable condition, Fort Carson said in a statement. The soldiers had been training Wednesday afternoon when they were notified of lightning in the area. They were moving to shelter when the storm overcame them, officials said. \"The lightning struck before they were able to get sheltered,\" said Dani Johnson, a Fort Carson spokeswoman. In electrical storms, few safe places",
-  "summary": "One soldier is in critical condition, Fort Carson says 12 soldiers are injured after a lightning strike from a fast-moving storm Spokeswoman: \"The lightning struck before they were able to get sheltered\""
+  "summary": "One soldier is in critical condition, Fort Carson says 12 soldiers are injured after a lightning strike from a fast-moving storm Spokeswoman: \"The lightning struck before they were able to get sheltered\"",
+  "translate": "Một người lính đang ở trong tình trạng nguy kịch, Fort Carson nói rằng 12 binh sĩ bị thương sau một cuộc tấn công sét đánh từ một phát ngôn viên của cơn bão nhanh chóng: \"Lightning tấn công trước khi họ có thể bị che chở\""
 }

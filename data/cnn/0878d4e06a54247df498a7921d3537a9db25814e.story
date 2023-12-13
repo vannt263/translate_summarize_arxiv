@@ -1,4 +1,5 @@
 {
   "news": "(CNN) -- Pirates have hijacked a tanker that sailed under a Saudi flag, authorities said Wednesday. The pirates struck in the Gulf of Aden, a body of water between Somalia and Yemen, the European Union Naval Force said in a statement. The Al Nisr Al Saudi was en route to Jeddah, Saudi Arabia, with a crew of 14, when pirates hijacked it Monday, the statement said. The ship's master is Greek; the crew's nationality has not been confirmed, but they are believed to be well, the statement said. Authorities believe the ship is near Garacad, Somalia, which the European Union Naval Force described as a \"well-known pirate stronghold.\"",
-  "summary": "Vessel hijacked in Gulf of Aden on Monday The Al Nisr Al Saudi was headed to Saudi Arabia Ship being held near Garacad, Somalia"
+  "summary": "Vessel hijacked in Gulf of Aden on Monday The Al Nisr Al Saudi was headed to Saudi Arabia Ship being held near Garacad, Somalia",
+  "translate": "Tàu bị tấn công ở Vịnh Aden hôm thứ Hai, Al Nisr Al Saudi đã đi đến tàu Ả Rập Saudi đang được tổ chức gần Garacad, Somalia"
 }
