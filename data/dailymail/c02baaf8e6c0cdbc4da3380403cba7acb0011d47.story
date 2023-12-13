@@ -1,4 +1,0 @@
-{
-  "news": "Downton Abbey's famously grim butler, Mr Bates",
-  "summary": "And now for the good news . . . Following a particularly grim week, here’s a compendium of some of the world’s most comforting headlines: Supermodel Smiles On Catwalk Jack Russell Dog Welcomes Stranger Child At Funfair ‘Delighted’ By Goldfish Katie Price Breasts ‘Roughly Same Size As Last Week’ Say Experts Teenager Looks Up From Phone, Greets Parent Political Pundits Agree To Stop Discussing Hung Parliament For Next Three Months Diner Finishes His Curly Kale Pensioner Looks Great In Party Hat Celebrity Fails To Compare Life To Roller-coaster Pet Hamster Repays Child’s Affection ‘Cheer Up, It May Never Happen’ — Downton’s Mr Bates Enjoys Belly-laugh Style Journalist Fails To Employ The Word ‘Iconic’ Sally Bercow Goes Out On Town, Retains Dignity Entire Windfarm Operates According To Plan Miley Cyrus Feels A Bit Chilly, Opts For Extra Layer"
-}
