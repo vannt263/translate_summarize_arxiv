@@ -1,4 +1,5 @@
 {
   "news": "An attack by suspected ISIS militants on a border guard base near the Syrian border left at least 16 killed and four others seriously wounded according to Faleh al-Issawi, the deputy head of the Anbar provincial council in Iraq. The militants slaughtered the 16 border guards, including their commanding officer, in a surprise early morning attack on Monday, al-Issawi said. Four others are in critical condition, he said. The base attacked is near al-Waleed border crossing, the only crossing Iraq has with Syria that is still controlled by Iraqi forces. ISIS maintains control of almost all of Anbar -- Iraq's largest province.",
-  "summary": "Suspected ISIS militants killed 16 Iraqi border guards, official says Official: Four others in critical condition Base is only one with Syria that is still controlled by Iraqi forces"
+  "summary": "Suspected ISIS militants killed 16 Iraqi border guards, official says Official: Four others in critical condition Base is only one with Syria that is still controlled by Iraqi forces",
+  "translate": "Nghi ngờ các chiến binh ISIS đã giết chết 16 người bảo vệ biên giới Iraq, chính thức cho biết chính thức: bốn người khác trong cơ sở tình trạng nguy kịch chỉ là một người có Syria vẫn được kiểm soát bởi các lực lượng Iraq"
 }
