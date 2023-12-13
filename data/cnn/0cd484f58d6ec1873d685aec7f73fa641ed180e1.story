@@ -1,0 +1,5 @@
+{
+  "news": "(CNN Student News) -- February 1, 2013 Download PDF maps related to today's show: Washington, D.C.; Greensboro, North Carolina Click here to access the transcript of today's CNN Student News program. Please note that there may be a delay between the time when the video is available and when the transcript is published.",
+  "summary": "The daily transcript is a written version of each day's CNN Student News program Use this transcript to help students with reading comprehension and vocabulary Use the weekly Newsquiz to test your knowledge of stories you saw on CNN Student News",
+  "translate": "Bảng điểm hàng ngày là phiên bản viết của Chương trình Tin tức Sinh viên CNN mỗi ngày sử dụng bảng điểm này để giúp sinh viên đọc hiểu và từ vựng sử dụng Newsquiz hàng tuần để kiểm tra kiến thức của bạn về những câu chuyện bạn thấy trên CNN Student News News"
+}

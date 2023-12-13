@@ -1,0 +1,5 @@
+{
+  "news": "Islamabad, Pakistan (CNN) -- Torrential rains and floods in Pakistan have killed 30 people, and 50 others are missing, a paramilitary official said Friday. More than 30,000 people have been affected by flooding, mainly in Pakistan's southwestern Balochistan province, said Murtaza Baid, spokesman for the Frontier Corps. Water swept away four villages and severely damaged others. Medical camps and shelters have been set up for victims, and 900 troops are helping doctors and emergency teams in rescue efforts. Flooding has also been reported in southern Punjab province. Journalist Nasir Habib contributed to this report.",
+  "summary": "Torrential rains have flooded parts of southwestern Pakistan More than 30,000 people have been affected Hundreds of troops are assisting in rescue efforts",
+  "translate": "Những cơn mưa xối xả đã tràn ngập các phần của Tây Nam Pakistan, hơn 30.000 người đã bị ảnh hưởng hàng trăm quân đội đang hỗ trợ các nỗ lực cứu hộ"
+}

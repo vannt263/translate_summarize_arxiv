@@ -1,0 +1,5 @@
+{
+  "news": "(CNN) -- An explosion and fire at a Mitsubishi Materials chemical plant in central Japan on Thursday afternoon killed five people and injured at least 12 others, Yokkaichi police said. Ealier, the Yokkaichi Fire Department had reported that 17 people had been injured, five critically but did not report any deaths. The incident happened during a maintenance and cleaning operation at the plant, the Mie Prefecture Police Department said. A fire from the blast lasted about 10 minutes, according to police. Yokkaichi is located about 320 Kilometers (200 miles) west-southwest of Tokyo.",
+  "summary": "NEW: Police say 5 died; fire officials had said previously that 5 were critically injured The incident happened during a maintenance and cleaning operation, police say The plant is located in Yokkaichi, Japan",
+  "translate": "Mới: Cảnh sát nói 5 đã chết; Các quan chức cứu hỏa đã nói trước đây rằng 5 người bị thương nặng, vụ việc xảy ra trong một hoạt động bảo trì và dọn dẹp, cảnh sát nói rằng nhà máy này nằm ở Yokkaichi, Nhật Bản"
+}
