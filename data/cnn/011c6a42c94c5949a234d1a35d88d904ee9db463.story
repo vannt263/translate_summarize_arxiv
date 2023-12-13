@@ -1,4 +1,5 @@
 {
   "news": "(CNN) -- A cargo train derailed and crashed into homes Sunday in a sprawling Kenyan slum, the Red Cross said. Rescue efforts are under way to free residents trapped in damaged homes in the capital city of Nairobi, the agency said. At least five people were transported to a local hospital, Red Cross said on its Twitter page. Kibera -- one of Africa's largest slums -- is filled with rows of homes made from a mixture of mud, tin, wood and concrete. A railway passes through the neighborhood. The settlement is home to hundreds of thousands. CNN's Christabelle Fombu contributed to this report",
-  "summary": "NEW: At least five people are taken to a local hospital NEW: Rescue efforts are under way to free trapped residents Kibera is one of Africa's largest slums A railway passes through the neighborhood"
+  "summary": "NEW: At least five people are taken to a local hospital NEW: Rescue efforts are under way to free trapped residents Kibera is one of Africa's largest slums A railway passes through the neighborhood",
+  "translate": "MỚI: Ít nhất năm người được đưa đến một bệnh viện địa phương Mới: Những nỗ lực cứu hộ đang được tiến hành để miễn phí cư dân bị mắc kẹt Kibera là một trong những khu ổ chuột lớn nhất châu Phi mà đường sắt đi qua khu phố"
 }
