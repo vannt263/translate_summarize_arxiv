@@ -3,23 +3,60 @@ import spacy
 import requests
 from bs4 import BeautifulSoup
 
+import pickle
+import numpy as np
 import streamlit as st
+import tensorflow as tf
 
 # Tải mô hình ngôn ngữ tiếng Anh từ spaCy
 st.set_page_config(layout="wide")
 nlp = spacy.load("en_core_web_lg")
 
+# load model summary
+# Load the tokenizer
+with open('./model/s_tokenizer.pkl', 'rb') as f:
+    s_tokenizer = pickle.load(f)
+
+# Load the model
+enc_model = tf.keras.models.load_model('./model/encoder_model.h5')
+dec_model = tf.keras.models.load_model('./model/decoder_model.h5')
+
 # Biểu thức chính quy để xác định các ký tự đặc biệt nằm giữa hai số
 pattern = r'(?<!\d)[^\w\s%](?!\d)'
 
-# @st.cache_resource
-# def text_summary(text, maxlength=None):
-#     #create summary instance
-#     summary = Summary()
-#     text = (text)
-#     result = summary(text)
-#     return result
+@st.cache_resource
+def text_summary(input_text):
+    input_seq = s_tokenizer.texts_to_sequences([input_text])
+    input_seq = tf.keras.preprocessing.sequence.pad_sequences(input_seq, maxlen=800, padding='post')
 
+    h, c = enc_model.predict(input_seq)
+    
+    next_token = np.zeros((1, 1))
+    next_token[0, 0] = s_tokenizer.word_index['sostok']
+    output_seq = ''
+    
+    stop = False
+    count = 0
+    
+    while not stop:
+        if count > 100:
+            break
+        decoder_out, state_h, state_c = dec_model.predict([next_token]+[h, c])
+        token_idx = np.argmax(decoder_out[0, -1, :])
+        
+        if token_idx == s_tokenizer.word_index['eostok']:
+            stop = True
+        elif token_idx > 0 and token_idx != s_tokenizer.word_index['sostok']:
+            token = s_tokenizer.index_word[token_idx]
+            output_seq = output_seq + ' ' + token
+        
+        next_token = np.zeros((1, 1))
+        next_token[0, 0] = token_idx
+        h, c = state_h, state_c
+        count += 1
+    return output_seq.strip()
+
+# ---------------------------------------------------------------------------------------------
 def extract_text(url, news_name):
     result = ""
     try:
@@ -63,34 +100,32 @@ def preprocessing(sentence):
 
     return lemmatized_text
 
-choice = st.sidebar.selectbox("Select your choice", ["Summarize News", "Summarize Text"])
+# ---------------------------------------------------------------------------------------------
+choice = st.sidebar.selectbox("Chọn chức năng bạn muốn", ["Tóm tắt tin tức", "Tóm tắt đoạn văn"])
 
-if choice == "Summarize News":
+if choice == "Tóm tắt tin tức":
     st.subheader("Summarize News From URL")
     # Tạo ô nhập URL và lựa chọn bài báo:
     url = st.text_input("Enter URL:")
     if not url:
         st.warning("Please enter a URL.")
-    # Selection between CNN and DailyMail
-    source = st.selectbox("Select News Source:", ["CNN", "DailyMail"])
-    # Extract text button
+    # Tạo ô nhập trang web muốn lấy thông tin
+    source = st.selectbox("Nguồn tin tức:", ["CNN", "DailyMail"])
+
     if st.button("Extract Text"):
-        # Call the extract_text function and display the result
+        # Trích xuất thông tin từ URL
         extracted_text = extract_text(url, source)
         text = preprocessing(extracted_text)
+        summary = text_summary(text)
         col1, col2 = st.columns(2)
-        # Define style for borders with adjustments
-        border_style = "1px solid #e3e3e3; padding: 10px; border-radius: 10px;"
 
-        # Display in the left column with title "Translate"
         with col1:
-            st.subheader("Translate")
-            st.write(extracted_text, style=border_style, key="left-column")  # You might want to replace this with your translation logic
+            st.subheader("Tóm tắt")
+            st.write(summary)
 
-        # Display in the right column with title "Summary"
         with col2:
-            st.subheader("Summary")
-            st.write(text, style=border_style, key="right-column")
+            st.subheader("Dịch")
+            st.write(extracted_text)
             # You can add your summarization logic here
             # Example: st.write(text_summary(preprocessed_text))
         # if extracted_text:
@@ -110,7 +145,8 @@ if choice == "Summarize News":
     #             st.write(summary_result)
     #     else:
     #         st.warning("Please enter a URL before summarizing.")
-
+            
+# ---------------------------------------------------------------------------------------------
 elif choice == "Summarize Text":
     st.subheader("Summarize Document From Your Text")
     # input_file = st.file_uploader("Upload your document here", type=['pdf'])
