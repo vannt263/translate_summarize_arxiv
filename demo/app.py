@@ -26,7 +26,7 @@ tokenizer = AutoTokenizer.from_pretrained("VietAI/envit5-translation")
 model = TFAutoModelForSeq2SeqLM.from_pretrained("../model/tf_model/")
 
 # Biểu thức chính quy để xác định các ký tự đặc biệt nằm giữa hai số
-pattern = r'(?<!\d)[^\w\s%](?!\d)'
+pattern = r'(?<!/d)[^/w/s%](?!/d)'
 
 # ---------------------------------------------------------------------------------------------
 @st.cache_resource
@@ -135,87 +135,94 @@ def preprocessing(sentence, type=None):
     lemmatized_text = " ".join([token.lemma_ for token in doc]).lower().strip()
     if type == "gener": 
         # Xóa các ký tự đặc biệt không thuộc trường hợp đã nêu
-        lemmatized_text = re.sub(fr'(?<!\d)[^a-zA-Z0-9\s]|[^a-zA-Z0-9\s%](?!\d)|{pattern}', '', lemmatized_text)
-        lemmatized_text = re.sub(r'\s+', ' ', lemmatized_text)
+        lemmatized_text = re.sub(fr'(?<!/d)[^a-zA-Z0-9/s]|[^a-zA-Z0-9/s%](?!/d)|{pattern}', '', lemmatized_text)
+        lemmatized_text = re.sub(r'/s+', ' ', lemmatized_text)
     else:
-        lemmatized_text = re.sub(r'\s+', ' ', lemmatized_text)
+        lemmatized_text = re.sub(r'/s+', ' ', lemmatized_text)
     return lemmatized_text
 
 # ---------------------------------------------------------------------------------------------
-# choice = st.sidebar.selectbox("Chọn chức năng bạn muốn", ["Tóm tắt tin tức", "Tóm tắt đoạn văn"])
+choice = st.sidebar.selectbox("Chọn chức năng bạn muốn", ["Tóm tắt tin tức", "Tóm tắt đoạn văn"])
 
-# if choice == "Tóm tắt tin tức":
-st.subheader("Summarize News From URL")
-# Tạo ô nhập URL và lựa chọn bài báo:
-url = st.text_input("Enter URL:")
-if not url:
-    st.warning("Please enter a URL.")
-# Tạo ô nhập trang web muốn lấy thông tin
-source = st.selectbox("Nguồn tin tức:", ["CNN", "DailyMail"])
-if st.button("Seq2Seq Model"):
-    # Trích xuất thông tin từ URL
-    extracted_text = extract_text(url, source)
-    text = preprocessing(extracted_text, type="gener")
-    summary = text_summary(text)
-    col1, col2 = st.columns(2)
+if choice == "Tóm tắt tin tức":
+    st.subheader("Summarize News From URL")
+    # Tạo ô nhập URL và lựa chọn bài báo:
+    url = st.text_input("Enter URL:")
+    if not url:
+        st.warning("Please enter a URL.")
+    # Tạo ô nhập trang web muốn lấy thông tin
+    source = st.selectbox("Nguồn tin tức:", ["CNN", "DailyMail"])
+    if st.button("Seq2Seq Model"):
+        # Trích xuất thông tin từ URL
+        extracted_text = extract_text(url, source)
+        text = preprocessing(extracted_text, type="gener")
+        summary = text_summary(text)
+        col1, col2 = st.columns(2)
 
-    with col1:
-        st.subheader("Tóm tắt")
-        st.write(summary)
+        with col1:
+            st.subheader("Tóm tắt")
+            st.write(summary)
 
-    with col2:
-        st.subheader("Dịch")
-        tokenized = tokenizer([summary], return_tensors='np')
-        out = model.generate(**tokenized, max_length=128)
-        with tokenizer.as_target_tokenizer():
-            output = tokenizer.decode(out[0], skip_special_tokens=True)
-        st.write(output[3:])
+        with col2:
+            st.subheader("Dịch")
+            tokenized = tokenizer([summary], return_tensors='np')
+            out = model.generate(**tokenized, max_length=128)
+            with tokenizer.as_target_tokenizer():
+                output = tokenizer.decode(out[0], skip_special_tokens=True)
+            st.write(output[3:])
 
-if st.button("Extractive Model"):
-    extracted_text = extract_text(url, source)
-    text = preprocessing(extracted_text)
-    summary = extract_summarize(text)
-    col1, col2 = st.columns(2)
+    if st.button("Extractive Model"):
+        extracted_text = extract_text(url, source)
+        text = preprocessing(extracted_text)
+        summary = extract_summarize(text)
+        col1, col2 = st.columns(2)
 
-    with col1:
-        st.subheader("Tóm tắt")
-        st.write(summary)
+        with col1:
+            st.subheader("Tóm tắt")
+            st.write(summary)
 
-    with col2:
-        st.subheader("Dịch")
-        tokenized = tokenizer([summary], return_tensors='np')
-        out = model.generate(**tokenized, max_length=128)
-        with tokenizer.as_target_tokenizer():
-            output = tokenizer.decode(out[0], skip_special_tokens=True)
-        st.write(output)
-# # Summarize button
-# if st.button("Summarize"):
-#     # Check if URL is entered
-#     if url:
-#         # Summarize news and display result
-#         summary_result = summarize_news(url, source)
-#         if summary_result:
-#             st.header("Summary:")
-#             st.write(summary_result)
-#     else:
-#         st.warning("Please enter a URL before summarizing.")
-            
-# # ---------------------------------------------------------------------------------------------
-# elif choice == "Summarize Text":
-#     st.subheader("Summarize Document From Your Text")
-#     # input_file = st.file_uploader("Upload your document here", type=['pdf'])
-#     # if input_file is not None:
-#     #     if st.button("Summarize Document"):
-#     #         with open("doc_file.pdf", "wb") as f:
-#     #             f.write(input_file.getbuffer())
-#     #         col1, col2 = st.columns([1,1])
-#     #         with col1:
-#     #             st.info("File uploaded successfully")
-#     #             extracted_text = extract_text_from_pdf("doc_file.pdf")
-#     #             st.markdown("**Extracted Text is Below:**")
-#     #             st.info(extracted_text)
-#     #         with col2:
-#     #             st.markdown("**Summary Result**")
-#     #             text = extract_text_from_pdf("doc_file.pdf")
-#     #             doc_summary = text_summary(text)
-#     #             st.success(doc_summary)
+        with col2:
+            st.subheader("Dịch")
+            tokenized = tokenizer([summary], return_tensors='np')
+            out = model.generate(**tokenized, max_length=128)
+            with tokenizer.as_target_tokenizer():
+                output = tokenizer.decode(out[0], skip_special_tokens=True)
+            st.write(output)
+    
+# ---------------------------------------------------------------------------------------------
+elif choice == "Tóm tắt đoạn văn":
+    st.subheader("Summarize Document From Your Text")
+    user_text = st.text_area("Paste your text here:", "", key="user_text")
+    if st.button("Seq2Seq Model"):
+        text = preprocessing(user_text, type="gener")
+        summary = text_summary(text)
+        col1, col2 = st.columns(2)
+
+        with col1:
+            st.subheader("Tóm tắt")
+            st.write(summary)
+
+        with col2:
+            st.subheader("Dịch")
+            tokenized = tokenizer([summary], return_tensors='np')
+            out = model.generate(**tokenized, max_length=128)
+            with tokenizer.as_target_tokenizer():
+                output = tokenizer.decode(out[0], skip_special_tokens=True)
+            st.write(output[3:])
+
+    if st.button("Extractive Model"):
+        text = preprocessing(user_text)
+        summary = extract_summarize(text)
+        col1, col2 = st.columns(2)
+
+        with col1:
+            st.subheader("Tóm tắt")
+            st.write(summary)
+
+        with col2:
+            st.subheader("Dịch")
+            tokenized = tokenizer([summary], return_tensors='np')
+            out = model.generate(**tokenized, max_length=128)
+            with tokenizer.as_target_tokenizer():
+                output = tokenizer.decode(out[0], skip_special_tokens=True)
+            st.write(output)
