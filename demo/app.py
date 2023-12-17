@@ -2,28 +2,33 @@ import re
 import spacy
 import requests
 from bs4 import BeautifulSoup
+from spacy.lang.en.stop_words import STOP_WORDS
 
 import pickle
 import numpy as np
 import streamlit as st
 import tensorflow as tf
-
+from heapq import nlargest
+from string import punctuation
+from transformers import AutoTokenizer, TFAutoModelForSeq2SeqLM
 # Tải mô hình ngôn ngữ tiếng Anh từ spaCy
 st.set_page_config(layout="wide")
 nlp = spacy.load("en_core_web_lg")
 
-# load model summary
-# Load the tokenizer
 with open('./model/s_tokenizer.pkl', 'rb') as f:
     s_tokenizer = pickle.load(f)
 
-# Load the model
+# Load the model summary
 enc_model = tf.keras.models.load_model('./model/encoder_model.h5')
 dec_model = tf.keras.models.load_model('./model/decoder_model.h5')
+# Load model translate
+tokenizer = AutoTokenizer.from_pretrained("VietAI/envit5-translation")
+model = TFAutoModelForSeq2SeqLM.from_pretrained("../model/tf_model/")
 
 # Biểu thức chính quy để xác định các ký tự đặc biệt nằm giữa hai số
 pattern = r'(?<!\d)[^\w\s%](?!\d)'
 
+# ---------------------------------------------------------------------------------------------
 @st.cache_resource
 def text_summary(input_text):
     input_seq = s_tokenizer.texts_to_sequences([input_text])
@@ -55,8 +60,42 @@ def text_summary(input_text):
         h, c = state_h, state_c
         count += 1
     return output_seq.strip()
-
 # ---------------------------------------------------------------------------------------------
+@st.cache_resource
+def extract_summarize(text, per=0.1):
+    nlp = spacy.load('en_core_web_sm')
+    doc= nlp(text)
+    # tạo từ điển để lưu lại tần số các từ
+    word_frequencies={}
+    for word in doc:
+        if word.text.lower() not in list(STOP_WORDS):
+            if word.text.lower() not in punctuation:
+                if word.text not in word_frequencies.keys():
+                    word_frequencies[word.text] = 1
+                else:
+                    word_frequencies[word.text] += 1
+    #chuẩn hóa từ bằng cách chia tần suất max
+    max_frequency=max(word_frequencies.values())
+    for word in word_frequencies.keys():
+        word_frequencies[word]=word_frequencies[word]/max_frequency
+    sentence_tokens= [sent for sent in doc.sents]
+    # tính điểm = tổng tần suất từ trong câu
+    sentence_scores = {}
+    for sent in sentence_tokens:
+        for word in sent:
+            if word.text.lower() in word_frequencies.keys():
+                if sent not in sentence_scores.keys():                            
+                    sentence_scores[sent]=word_frequencies[word.text.lower()]
+                else:
+                    sentence_scores[sent]+=word_frequencies[word.text.lower()]
+    # xác định số câu và in ra các câu có số điểm từ cao nhất
+    select_length=int(len(sentence_tokens)*per)
+    summary=nlargest(select_length, sentence_scores,key=sentence_scores.get)
+    final_summary=[word.text for word in summary]
+    summary=' '.join(final_summary)
+    return summary
+# ---------------------------------------------------------------------------------------------
+@st.cache_resource
 def extract_text(url, news_name):
     result = ""
     try:
@@ -89,79 +128,94 @@ def extract_text(url, news_name):
         else:
             print("Can't extract text from this news")
             return None
-
-def preprocessing(sentence):
+# ---------------------------------------------------------------------------------------------
+@st.cache_resource
+def preprocessing(sentence, type=None):
     doc = nlp(sentence)
     lemmatized_text = " ".join([token.lemma_ for token in doc]).lower().strip()
-
-    # Xóa các ký tự đặc biệt không thuộc trường hợp đã nêu
-    lemmatized_text = re.sub(fr'(?<!\d)[^a-zA-Z0-9\s]|[^a-zA-Z0-9\s%](?!\d)|{pattern}', '', lemmatized_text)
-    lemmatized_text = re.sub(r'\s+', ' ', lemmatized_text)
-
+    if type == "gener": 
+        # Xóa các ký tự đặc biệt không thuộc trường hợp đã nêu
+        lemmatized_text = re.sub(fr'(?<!\d)[^a-zA-Z0-9\s]|[^a-zA-Z0-9\s%](?!\d)|{pattern}', '', lemmatized_text)
+        lemmatized_text = re.sub(r'\s+', ' ', lemmatized_text)
+    else:
+        lemmatized_text = re.sub(r'\s+', ' ', lemmatized_text)
     return lemmatized_text
 
 # ---------------------------------------------------------------------------------------------
-choice = st.sidebar.selectbox("Chọn chức năng bạn muốn", ["Tóm tắt tin tức", "Tóm tắt đoạn văn"])
+# choice = st.sidebar.selectbox("Chọn chức năng bạn muốn", ["Tóm tắt tin tức", "Tóm tắt đoạn văn"])
 
-if choice == "Tóm tắt tin tức":
-    st.subheader("Summarize News From URL")
-    # Tạo ô nhập URL và lựa chọn bài báo:
-    url = st.text_input("Enter URL:")
-    if not url:
-        st.warning("Please enter a URL.")
-    # Tạo ô nhập trang web muốn lấy thông tin
-    source = st.selectbox("Nguồn tin tức:", ["CNN", "DailyMail"])
+# if choice == "Tóm tắt tin tức":
+st.subheader("Summarize News From URL")
+# Tạo ô nhập URL và lựa chọn bài báo:
+url = st.text_input("Enter URL:")
+if not url:
+    st.warning("Please enter a URL.")
+# Tạo ô nhập trang web muốn lấy thông tin
+source = st.selectbox("Nguồn tin tức:", ["CNN", "DailyMail"])
+if st.button("Seq2Seq Model"):
+    # Trích xuất thông tin từ URL
+    extracted_text = extract_text(url, source)
+    text = preprocessing(extracted_text, type="gener")
+    summary = text_summary(text)
+    col1, col2 = st.columns(2)
 
-    if st.button("Extract Text"):
-        # Trích xuất thông tin từ URL
-        extracted_text = extract_text(url, source)
-        text = preprocessing(extracted_text)
-        summary = text_summary(text)
-        col1, col2 = st.columns(2)
+    with col1:
+        st.subheader("Tóm tắt")
+        st.write(summary)
 
-        with col1:
-            st.subheader("Tóm tắt")
-            st.write(summary)
+    with col2:
+        st.subheader("Dịch")
+        tokenized = tokenizer([summary], return_tensors='np')
+        out = model.generate(**tokenized, max_length=128)
+        with tokenizer.as_target_tokenizer():
+            output = tokenizer.decode(out[0], skip_special_tokens=True)
+        st.write(output[3:])
 
-        with col2:
-            st.subheader("Dịch")
-            st.write(extracted_text)
-            # You can add your summarization logic here
-            # Example: st.write(text_summary(preprocessed_text))
-        # if extracted_text:
-        #     st.header("Extracted Text:")
-        #     st.write(text)
-        # else:
-        #     st.warning("Failed to extract text from the URL.")
+if st.button("Extractive Model"):
+    extracted_text = extract_text(url, source)
+    text = preprocessing(extracted_text)
+    summary = extract_summarize(text)
+    col1, col2 = st.columns(2)
 
-    # # Summarize button
-    # if st.button("Summarize"):
-    #     # Check if URL is entered
-    #     if url:
-    #         # Summarize news and display result
-    #         summary_result = summarize_news(url, source)
-    #         if summary_result:
-    #             st.header("Summary:")
-    #             st.write(summary_result)
-    #     else:
-    #         st.warning("Please enter a URL before summarizing.")
+    with col1:
+        st.subheader("Tóm tắt")
+        st.write(summary)
+
+    with col2:
+        st.subheader("Dịch")
+        tokenized = tokenizer([summary], return_tensors='np')
+        out = model.generate(**tokenized, max_length=128)
+        with tokenizer.as_target_tokenizer():
+            output = tokenizer.decode(out[0], skip_special_tokens=True)
+        st.write(output)
+# # Summarize button
+# if st.button("Summarize"):
+#     # Check if URL is entered
+#     if url:
+#         # Summarize news and display result
+#         summary_result = summarize_news(url, source)
+#         if summary_result:
+#             st.header("Summary:")
+#             st.write(summary_result)
+#     else:
+#         st.warning("Please enter a URL before summarizing.")
             
-# ---------------------------------------------------------------------------------------------
-elif choice == "Summarize Text":
-    st.subheader("Summarize Document From Your Text")
-    # input_file = st.file_uploader("Upload your document here", type=['pdf'])
-    # if input_file is not None:
-    #     if st.button("Summarize Document"):
-    #         with open("doc_file.pdf", "wb") as f:
-    #             f.write(input_file.getbuffer())
-    #         col1, col2 = st.columns([1,1])
-    #         with col1:
-    #             st.info("File uploaded successfully")
-    #             extracted_text = extract_text_from_pdf("doc_file.pdf")
-    #             st.markdown("**Extracted Text is Below:**")
-    #             st.info(extracted_text)
-    #         with col2:
-    #             st.markdown("**Summary Result**")
-    #             text = extract_text_from_pdf("doc_file.pdf")
-    #             doc_summary = text_summary(text)
-    #             st.success(doc_summary)
+# # ---------------------------------------------------------------------------------------------
+# elif choice == "Summarize Text":
+#     st.subheader("Summarize Document From Your Text")
+#     # input_file = st.file_uploader("Upload your document here", type=['pdf'])
+#     # if input_file is not None:
+#     #     if st.button("Summarize Document"):
+#     #         with open("doc_file.pdf", "wb") as f:
+#     #             f.write(input_file.getbuffer())
+#     #         col1, col2 = st.columns([1,1])
+#     #         with col1:
+#     #             st.info("File uploaded successfully")
+#     #             extracted_text = extract_text_from_pdf("doc_file.pdf")
+#     #             st.markdown("**Extracted Text is Below:**")
+#     #             st.info(extracted_text)
+#     #         with col2:
+#     #             st.markdown("**Summary Result**")
+#     #             text = extract_text_from_pdf("doc_file.pdf")
+#     #             doc_summary = text_summary(text)
+#     #             st.success(doc_summary)
